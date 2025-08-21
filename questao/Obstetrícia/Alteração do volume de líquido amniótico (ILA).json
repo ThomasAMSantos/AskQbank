@@ -1,0 +1,3826 @@
+[
+  {
+    "id": 3750,
+    "tags": [],
+    "enunciado": "Considere o gráfico abaixo de curva de altura uterina. O quadro exibido nessa curva de altura uterina por idade gestacional pode ocorrer nos casos de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "infecção materna por Covid-19."
+      },
+      {
+        "letra": "B",
+        "texto": "desproporção céfalo-pélvica."
+      },
+      {
+        "letra": "C",
+        "texto": "diabetes gestacional."
+      },
+      {
+        "letra": "D",
+        "texto": "Insuficiência renal fetal."
+      },
+      {
+        "letra": "E",
+        "texto": "infecção congênita por citomegalovirus."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 3751,
+    "tags": [],
+    "enunciado": "Em relação às técnicas utilizadas para a avaliação do líquido amniótico no ultrassom, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A medida do índice de líquido amniótico tem menor sensibilidade para o diagnóstico do oligodrâmnio, com menor número de falso‑positivos, em relação à medida do maior bolsão vertical."
+      },
+      {
+        "letra": "B",
+        "texto": "A medida do maior bolsão vertical é considerada, atualmente, a técnica recomendada no diagnóstico do oligodrâmnio (menos de 2 cm)."
+      },
+      {
+        "letra": "C",
+        "texto": "A utilização do percentil de líquido amniótico não é ainda utilizada na prática clínica, mas é considerada o melhor método para avaliação do líquido amniótico, pois aumenta a especificidade em identificar um verdadeiro estado fetal não tranquilizador."
+      },
+      {
+        "letra": "D",
+        "texto": "A utilização do índice de líquido amniótico é o método ideal para semiquantificar o volume do líquido amniótico."
+      },
+      {
+        "letra": "E",
+        "texto": "A avaliação subjetiva do ecografista sobre o volume do líquido amniótico apresenta maior acurácia que outras medidas. 4000233973"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 3752,
+    "tags": [],
+    "enunciado": "Menino, 15 meses de idade, mantém crescimento abaixo de -2DP (Peso, Estatura e IMC). A família se queixa de baixa aceitação alimentar. Lactente nasceu com 36 semanas de gestação, peso abaixo do Percentil 10 em curvas de crescimento intrauterino, sem intercorrências na evolução neonatal. Mãe fez tratamento para hipotireoidismo na gestação e ultrassom gestacional com 33 semanas identi(cid:60)cou oligoidrâmnio. Previsão de estatura (cid:60)nal = 167 cm. Exame físico sem alterações. Qual é a conduta mais adequada para a elucidação diagnóstica?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Dosagens séricas de hormônio do crescimento, IGF-1 e IGFBP-3."
+      },
+      {
+        "letra": "B",
+        "texto": "RX de esqueleto e de mãos e punhos para avaliar a idade óssea."
+      },
+      {
+        "letra": "C",
+        "texto": "Dosagens séricas de T4, TSH e anticorpos antitireoglobulina."
+      },
+      {
+        "letra": "D",
+        "texto": "Exame de urina tipo I, ureia, creatinina e eletrólitos. 4000232995"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 3753,
+    "tags": [],
+    "enunciado": "Sobre o atendimento pré-natal e avaliação do Líquido Amniótico é correto a(cid:60)rmar de acordo com o Manual de Gestação de alto risco do Ministério da Saúde 2022:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A altura uterina abaixo da esperada para a idade gestacional não leva à suspeita de oligoâmnio."
+      },
+      {
+        "letra": "B",
+        "texto": "Pela medida ultrassonográfica do índice de líquido amniótico (ILA), considera-se oligoâmnio o ILA <8 cm."
+      },
+      {
+        "letra": "C",
+        "texto": "Pela medida ultrassonográfica do maior bolsão vertical (MBV), considera-se oligoâmnio MBV < 3 cm."
+      },
+      {
+        "letra": "D",
+        "texto": "Quando ILA< 5 cm a utilização do MBV reduz o número de intervenções médicas desnecessárias. 4000230137"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 3754,
+    "tags": [],
+    "enunciado": "Polidrâmnio é de(cid:60)nido como o excesso de líquido amniótico. Assinale a alternativa correta de acordo com o Manual de Gestação de alto risco do Ministério da Saúde 2022:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Polidramnia pode levar a fala de ar e diminuição progressiva da altura uterina."
+      },
+      {
+        "letra": "B",
+        "texto": "O maior bolsão vertical ao exame ultrassonográfico maior que 5 cm indica polidrâmnio"
+      },
+      {
+        "letra": "C",
+        "texto": "Estão entre as principais causas de polidramnia: inibidores da ECA, gestação prolongada e trombofilias."
+      },
+      {
+        "letra": "D",
+        "texto": "A maioria dos casos possui etiologia idiopática e pode aumentar o risco de trabalho de parto pré- termo, descolamento prematuro de placenta e atonia uterina. 4000230135"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 3755,
+    "tags": [],
+    "enunciado": "Paciente gestante, 34 anos, G2C1, 31semanas de Idade gestacional. Em consulta de pré-natal de risco habitual queixou-se de dispneia e desconforto abdominal, especialmente na posição supina, há 1 semana. Nega febre ou sintomas gripais. Refere movimentação fetal presente. Ao exame, apresenta PA=110/76 mmHg, aItura uterina de 35cm, dinâmica uterina ausente e frequência cardíaca fetal de 146bpm. Ultrassonografia morfológica de segundo trimestre normal. Ecocardiografia realizada com 26 semanas dentro dos limites da normalldade. TOTG 75g realizado com 28 semanas teve resultado 83-153-120mg/dL em jejum, 1 hora e 2 horas pós sobrecarga, respectivamente. Ultrassonogra(cid:60)a obstétrica realizada há 2 dias apresenta feto único, cefálico, dorso a esquerda, batimentos cardíacos fetais presentes, placenta anterior 30mm de espessura, homogênea, índlce de Iíquido amniótico 347mm.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "partir do enunciado apresentado, assinale a única aIternativa correta."
+      },
+      {
+        "letra": "A",
+        "texto": "Deve-se evitar o uso de indometacina nessas gestações, sob o risco de aumento de produção do líquido amniótico."
+      },
+      {
+        "letra": "B",
+        "texto": "Diante do diagnóśtico de polidrâmnio, deve-se proceder investigação e genética fetal através de amnioce dirigida."
+      },
+      {
+        "letra": "C",
+        "texto": "Devido ao diagnóstico de diabetes mellitus gestacional, deve-se proceder à amniodrenagem e controle rigoroso da glicemia capilar."
+      },
+      {
+        "letra": "D",
+        "texto": "A resolução da gestação por via alta é indicada com 37 semanas, devido ao risco aumentado de hemorragia puerperal em gestantes com polidrâmnio."
+      },
+      {
+        "letra": "E",
+        "texto": "A amniodrenagam terapêutica é indicada com o objetivo de alívio dos sintomas causados pelo polidrâmnio, que tende a se refazer a despeito de sua etiologia. 4000228994"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 3756,
+    "tags": [],
+    "enunciado": "São condições associadas à polidramnia:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "tabagismo e toxoplasmose adquirida na gestação;"
+      },
+      {
+        "letra": "B",
+        "texto": "atresia de esôfago fetal e diabetes tipo I materno;"
+      },
+      {
+        "letra": "C",
+        "texto": "hipertensão arterial e síndrome de Turner no feto;"
+      },
+      {
+        "letra": "D",
+        "texto": "anencefalia e obstrução urinária baixa no feto;"
+      },
+      {
+        "letra": "E",
+        "texto": "pós-datismo e uso de anti-inflamatórios."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 3757,
+    "tags": [],
+    "enunciado": "Uma gestante realiza ultrassonogra(cid:60)a com 18 semanas e é evidenciada adramnia. O feto está vivo, com bexiga muito distendida. A causa mais provável da adramnia nesse caso é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "válvula de uretra posterior;"
+      },
+      {
+        "letra": "B",
+        "texto": "sequência da extrofia cloacal;"
+      },
+      {
+        "letra": "C",
+        "texto": "malformação adenomatoide cística;"
+      },
+      {
+        "letra": "D",
+        "texto": "hipoplasia pulmonar fetal;"
+      },
+      {
+        "letra": "E",
+        "texto": "displasia renal multicística."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 3758,
+    "tags": [],
+    "enunciado": "O âmnio nodoso se associa a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "polidramnia."
+      },
+      {
+        "letra": "B",
+        "texto": "oligoidrâmnio."
+      },
+      {
+        "letra": "C",
+        "texto": "placenta prévia."
+      },
+      {
+        "letra": "D",
+        "texto": "descolamento prematuro de placenta. 4000228035"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 3759,
+    "tags": [],
+    "enunciado": "Gestante realiza ultrassonogra(cid:60)a obstétrica, que evidencia uma medida do maior bolsão vertical do líquido amniótico de 12 cm. A condição que pode estar associada a esse quadro é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "insuficiência uteroplacentária;"
+      },
+      {
+        "letra": "B",
+        "texto": "displasia tanatofórica no feto;"
+      },
+      {
+        "letra": "C",
+        "texto": "agenesia renal bilateral fetal;"
+      },
+      {
+        "letra": "D",
+        "texto": "restrição de crescimento fetal;"
+      },
+      {
+        "letra": "E",
+        "texto": "gravidez com pós-datismo."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 3760,
+    "tags": [],
+    "enunciado": "O polidrâmnio é de(cid:60)nido como um excesso na quantidade de líquido amniótico (LA) e está associado à maior morbidade e mortalidade perinatais. Avalie se as principais complicações do polidrâmnio incluem: I. Dificuldade respiratória materna e rotura prematura de membranas ovulares. II. Prolapso de cordão e pré-eclâmpsia. III. Trabalho de parto prematuro e descolamento prematuro da placenta após rotura das membranas. IV. Hemorragias após dequitação e corioamnionite. Estão corretos apenas os itens:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II e III."
+      },
+      {
+        "letra": "B",
+        "texto": "I, III e IV."
+      },
+      {
+        "letra": "C",
+        "texto": "II e IV."
+      },
+      {
+        "letra": "D",
+        "texto": "I e III."
+      },
+      {
+        "letra": "E",
+        "texto": "II e III."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 3761,
+    "tags": [],
+    "enunciado": "A dinâmica da produção e absorção do líquido amniótico na segunda metade da gestação tem relação com desvios de normalidade tanto do ponto de vista fetal como materno. Considere os seguintes achados e suas possíveis consequências: I. Atresia de esôfago fetal = polidramnia. II. Síndrome de Potter = polidramnia. III. Anencefalia = oligodramnia. IV. Diabete gestacional = polidramnia. As associações que estão corretas são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e III."
+      },
+      {
+        "letra": "B",
+        "texto": "II e IV."
+      },
+      {
+        "letra": "C",
+        "texto": "I e IV."
+      },
+      {
+        "letra": "D",
+        "texto": "III e IV."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 3762,
+    "tags": [],
+    "enunciado": "Uma gestante procura atendimento na maternidade encaminhada por polidramnia severa (ILA= 27cm). As principais causas materna e fetal são, respectivamente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Diabete e síndrome de Potter."
+      },
+      {
+        "letra": "B",
+        "texto": "Pré-eclâmpsia e atresia de esôfago."
+      },
+      {
+        "letra": "C",
+        "texto": "Diabete e atresia de esôfago."
+      },
+      {
+        "letra": "D",
+        "texto": "Diabete e anencefalia. 4000215983"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 3763,
+    "tags": [],
+    "enunciado": "Oligoâmnio é de(cid:60)nido como o volume de líquido amniótico abaixo do esperado para idade gestacional. Sua incidência é de aproximadamente 1% das gestações, sendo mais comum nas gestações que atingem o termo (1% a 5%). Representa uma causa de Oligoâmnio:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Diabete Melito materno"
+      },
+      {
+        "letra": "B",
+        "texto": "Anemia fetal grave"
+      },
+      {
+        "letra": "C",
+        "texto": "Anomalias que interferem na deglutição fetal."
+      },
+      {
+        "letra": "D",
+        "texto": "Obstrução gastrointestinal primária fetal (como atresia esofágica e duodenal)."
+      },
+      {
+        "letra": "E",
+        "texto": "Trombofilia materna."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 3764,
+    "tags": [],
+    "enunciado": "Considerando a avaliação do líquido amniótico por ultrassom, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A medida do maior bolsão consiste na soma dos dois maiores quadrantes de líquido amniótico dividido por dois."
+      },
+      {
+        "letra": "B",
+        "texto": "Oligoâmnio grave ocorre quando o maior bolsão vertical (MBV) é menor que 1 cm."
+      },
+      {
+        "letra": "C",
+        "texto": "O anidrâmnio é definido por índice de líquido amniótico (ILA) menor que 4 cm."
+      },
+      {
+        "letra": "D",
+        "texto": "A utilização da técnica do MBV, diante de ILA ≤ 5 cm, aumenta o número de intervenções médicas desnecessárias."
+      },
+      {
+        "letra": "E",
+        "texto": "O polidrâmnio é quando o ILA está entre 18,1 cm a 22 cm."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 3765,
+    "tags": [],
+    "enunciado": "Gestante de 33 semanas, com líquido amniótico pouco reduzido, sem diagnóstico de restrição de crescimento fetal até o momento. Neste caso a droga formalmente contraindicada é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Metoclopramida."
+      },
+      {
+        "letra": "B",
+        "texto": "Anlodipino."
+      },
+      {
+        "letra": "C",
+        "texto": "Indometacina."
+      },
+      {
+        "letra": "D",
+        "texto": "Metilopa. 4000213917"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 3766,
+    "tags": [],
+    "enunciado": "Em alguns casos de efetivo trabalho de parto prematuro pode ser necessária a realização de tocólise. Entre os tocolíticos, aquele que tem potencial de causar diminuição importante do líquido amniótico quando infundido por tempo prolongado é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nifedipina."
+      },
+      {
+        "letra": "B",
+        "texto": "Terbutalina."
+      },
+      {
+        "letra": "C",
+        "texto": "Atosibano."
+      },
+      {
+        "letra": "D",
+        "texto": "Indometacina. 4000213245"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 3767,
+    "tags": [],
+    "enunciado": "Gestante, 22 semanas, foi ao pré-natal com ultrassonogra(cid:60)a realizada na 21ª semana, evidenciando oligodramnia acentuada. Qual a provável causa para a redução do líquido?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "rins policísticos bilaterais levando a redução da diurese fetal."
+      },
+      {
+        "letra": "B",
+        "texto": "atresia de esôfago levando a redução da deglutição do líquido amniótico."
+      },
+      {
+        "letra": "C",
+        "texto": "anomalia de body stalk levando a redução da deglutição do líquido amniótico."
+      },
+      {
+        "letra": "D",
+        "texto": "corioangioma placentário levando a absorção do líquido amniótico."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 3768,
+    "tags": [],
+    "enunciado": "Gestante, 24 semanas, foi ao pré-natal com ultrassonogra(cid:60)a realizada na 22ª semana, evidenciando polidramnia acentuada. Qual a provável causa para o aumento do líquido?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pré eclampsia."
+      },
+      {
+        "letra": "B",
+        "texto": "Hidranencefalia."
+      },
+      {
+        "letra": "C",
+        "texto": "Valvula de uretra posterior."
+      },
+      {
+        "letra": "D",
+        "texto": "Rins policísticos bilaterais."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 3769,
+    "tags": [],
+    "enunciado": "No Brasil, a principal causa de diminuição do líquido amniótico é a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "rotura prematura das membranas."
+      },
+      {
+        "letra": "B",
+        "texto": "restrição de crescimento intrauterino fetal."
+      },
+      {
+        "letra": "C",
+        "texto": "malformação fetal do aparelho urinário."
+      },
+      {
+        "letra": "D",
+        "texto": "insuficiência útero-placentária."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 3770,
+    "tags": [],
+    "enunciado": "Gestante AF, 33 anos, secundigesta, com hipertensão arterial crônica em uso de metildopa 1 g ao dia. Está com 35 semanas e 6 dias de gestação e após o diagnóstico de restrição do crescimento fetal, realiza vitalidade fetal e ultrassonogra(cid:60)a seriada a cada 15 dias. Retorna com o resultado dos exames de vitalidade fetal com cardiotocografia ativo e índice de líquido amniótico 4 cm. Assinale qual a conduta correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Reavaliação diária."
+      },
+      {
+        "letra": "B",
+        "texto": "Reavaliação em 15 dias."
+      },
+      {
+        "letra": "C",
+        "texto": "Reavaliação em 1 semana."
+      },
+      {
+        "letra": "D",
+        "texto": "Resolução da gestação."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 3771,
+    "tags": [],
+    "enunciado": "Assinale a alternativa que não apresenta uma causa de oligoâmnio.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "crescimento intrauterino restrito"
+      },
+      {
+        "letra": "B",
+        "texto": "insuficiência placentária"
+      },
+      {
+        "letra": "C",
+        "texto": "pré‑eclâmpsia"
+      },
+      {
+        "letra": "D",
+        "texto": "pós‑datismo"
+      },
+      {
+        "letra": "E",
+        "texto": "diabetes mellitus descompensada"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 3772,
+    "tags": [],
+    "enunciado": "Em gestação complicada por polidrâmnia sem causa evidente, diversas complicações devem ser previstas, exceto:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Atonia uterina pós-parto."
+      },
+      {
+        "letra": "B",
+        "texto": "Hemorragia puerperal."
+      },
+      {
+        "letra": "C",
+        "texto": "Compressão de cordão umbilical."
+      },
+      {
+        "letra": "D",
+        "texto": "Prolapso de cordão."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 3773,
+    "tags": [],
+    "enunciado": "Paciente gestante de 20 anos, atualmente com 37 semanas e 3 dias, vem acompanhada da mãe ao pronto- socorro referindo dor em baixo ventre. Pré-natal de risco habitual, 7 consultas. Nega riscos, alergias, cirurgias ou comorbidades. Ao exame físico, identi(cid:60)cada pressão arterial de 140x90, reaferida 100x60 no decúbito lateral esquerdo. Rotina laboratorial de pré-eclâmpsia e cardiotocogra(cid:60)a normais. Aguarda resultado de proteinúria de 24h. Optado pela solicitação de ultrassom obstétrico com doppler, o qual identi(cid:60)cou feto único, vivo, longitudinal, cefálico, placenta posterior grau II, peso fetal estimado em 3200g (entre p10 e p90 de Hadlock), índice de líquido amniótico 60mm (oligoâmnio), doppler normal. A respeito do caso, assinale a alternativa correta com a melhor conduta para o caso:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Considerando-se que a pressão arterial normalizou, alta hospitalar com seguimento no pré-natal de alto risco."
+      },
+      {
+        "letra": "B",
+        "texto": "Internação para indução do trabalho de parto, devido ao oligoâmnio."
+      },
+      {
+        "letra": "C",
+        "texto": "Cesárea de urgência, devido à pré-eclâmpsia com oligoâmnio."
+      },
+      {
+        "letra": "D",
+        "texto": "Não é possível se estabelecer uma conduta sem o resultado da proteinúria de 24h."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 3774,
+    "tags": [],
+    "enunciado": "Considere as assertivas abaixo: a) O colostro é mais denso que o leite, rico em lipídeos e com baixo teor de proteínas. A ejeção do leite se dá pela ativação das células mioepiteliais dos alvéolos pela ocitocina. b) A produção do líquido amniótico tem a contribuição da urina e fluido pulmonar fetal. c) A resistência insulínica observada na gestação deve-se ao cortisol e lactogênio placentário. É(são) incorreto(s) o(s) item(ns):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "apenas a"
+      },
+      {
+        "letra": "B",
+        "texto": "apenas a e b"
+      },
+      {
+        "letra": "C",
+        "texto": "apenas a e c"
+      },
+      {
+        "letra": "D",
+        "texto": "apenas b"
+      },
+      {
+        "letra": "E",
+        "texto": "apenas c"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 3775,
+    "tags": [],
+    "enunciado": "Há total equilíbrio dinâmico na composição do líquido amniótico entre a mãe e o feto, sendo que a contribuição materna diminui progressivamente e a fetal aumenta durante o desenvolvimento da gestação. Qual dos elementos apresenta concentração constante no líquido amniótico durante a gravidez?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Glicose."
+      },
+      {
+        "letra": "B",
+        "texto": "Lipídeos."
+      },
+      {
+        "letra": "C",
+        "texto": "Creatinina."
+      },
+      {
+        "letra": "D",
+        "texto": "Bilirrubinas."
+      },
+      {
+        "letra": "E",
+        "texto": "Fosfolípides."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 3776,
+    "tags": [],
+    "enunciado": "Uma gestante recebe o diagnóstico de anencefalia com 12 semanas de gestação. É orientada sobre o prognóstico neonatal letal e, mesmo assim, optou pela continuidade da gestação. Tendo a patologia fetal como base, assinale a alternativa que apresenta, corretamente, a complicação a que estaria mais susceptível durante a gestação.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Diabetes gestacional"
+      },
+      {
+        "letra": "B",
+        "texto": "Placenta prévia"
+      },
+      {
+        "letra": "C",
+        "texto": "Polidramnia"
+      },
+      {
+        "letra": "D",
+        "texto": "Pré-eclâmpsia"
+      },
+      {
+        "letra": "E",
+        "texto": "Tromboembolismo venoso"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 3777,
+    "tags": [],
+    "enunciado": "Paciente de 35 anos, Gesta 2 Para 1–1 cesariana, gestante de 33 semanas, realiza ultrassom com presença de ILA 27. O que indica essa informação?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Poli-hidrâmnio."
+      },
+      {
+        "letra": "B",
+        "texto": "Oligoidrâmnio."
+      },
+      {
+        "letra": "C",
+        "texto": "Insuficiência placentária."
+      },
+      {
+        "letra": "D",
+        "texto": "Placenta prévia."
+      },
+      {
+        "letra": "E",
+        "texto": "Descolamento prematuro da placenta."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 3778,
+    "tags": [],
+    "enunciado": "Dentre as condições listadas a seguir, qual(is) é/são fator(es) de risco para o Oligoidrâmnnio? I. Insuficiência placentária. II. Amniorrexe prematuro (rotura prematura das membranas amnióticas). III. Agenesia renal. IV. Malformação uretral fetal.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas I."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas I e II."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas I, II e III."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas II, III e IV."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II, III e IV."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 3779,
+    "tags": [],
+    "enunciado": "São condições associadas ao polidrâmnio, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "displasias esqueléticas fetais."
+      },
+      {
+        "letra": "B",
+        "texto": "diabetes gestacional."
+      },
+      {
+        "letra": "C",
+        "texto": "atresia duodenal."
+      },
+      {
+        "letra": "D",
+        "texto": "holoprosencefalia semi-lobar."
+      },
+      {
+        "letra": "E",
+        "texto": "rins policísticos: doença de Potter I."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 3780,
+    "tags": [],
+    "enunciado": "Em relação ao líquido amniótico, se houver membranas intactas, rim fetal funcionante e sistema urinário desobstruído, a sua diminuição pode corresponder a:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Diabetes gestacional"
+      },
+      {
+        "letra": "B",
+        "texto": "Hipóxia fetal crônica"
+      },
+      {
+        "letra": "C",
+        "texto": "Anencefalia"
+      },
+      {
+        "letra": "D",
+        "texto": "Atresia de esôfago"
+      },
+      {
+        "letra": "E",
+        "texto": "Infecção por sífilis ou toxoplasmose"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 3781,
+    "tags": [],
+    "enunciado": "Das alternativas apresentadas abaixo, qual não é uma condição em que encontra-se polidrâminio com frequência?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Atresia duodenal."
+      },
+      {
+        "letra": "B",
+        "texto": "Doença de Hirschprung."
+      },
+      {
+        "letra": "C",
+        "texto": "Atresia pilórica."
+      },
+      {
+        "letra": "D",
+        "texto": "Atresia de esôfago tipo A de Gross. 4000187361"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 3782,
+    "tags": [],
+    "enunciado": "A classi(cid:60)cação de medida do líquido amniótico pelo ILA (índice de líquido amniótico), considera como valores de normalidade entre:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "5,0 e 8,0 cm."
+      },
+      {
+        "letra": "B",
+        "texto": "8,0 e 18,0 cm."
+      },
+      {
+        "letra": "C",
+        "texto": "5,0 e 8,0 mm."
+      },
+      {
+        "letra": "D",
+        "texto": "18 e 25 mm. 4000187147"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 3783,
+    "tags": [],
+    "enunciado": "Das alternativas apresentadas abaixo, qual não é uma condição em que encontra-se polidrâminio com frequência?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Doença de Hirschprung."
+      },
+      {
+        "letra": "B",
+        "texto": "Atresia duodenal."
+      },
+      {
+        "letra": "C",
+        "texto": "Atresia pilórica."
+      },
+      {
+        "letra": "D",
+        "texto": "Atresia de esôfago tipo A de Gross. 4000186965"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 3784,
+    "tags": [],
+    "enunciado": "O encontro de líquido amniótico de característica “achocolatado” é sugestivo de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Doença hemolítica perinatal."
+      },
+      {
+        "letra": "B",
+        "texto": "Óbito fetal."
+      },
+      {
+        "letra": "C",
+        "texto": "Corioamnionite."
+      },
+      {
+        "letra": "D",
+        "texto": "Mecônio."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 3785,
+    "tags": [],
+    "enunciado": "Sobre as doenças específicas da gestação, analise as seguintes afirmativas. I - Na hiperemese gravídica, o pico dos sintomas está relacionado ao nadir dos níveis séricos da gonadotrofina coriônica humana (HCG). II - O tratamento da gravidez tubária invariavelmente passa por cirurgia, seja em caráter de urgência, em caso de paciente instável hemodinamicamente, ou com preparo e programação, quando a paciente encontra-se estável. III - As de(cid:60)nições de oligohidramnia e polihidramnia pela medicação da maior bolsa vertical (MBV) são, respectivamente, 2cm e 8cm. IV - Na ruptura prematura de 34 semanas de idade gestacional, está indicado o parto pela via obstétrica mais adequada. V - O tabagismo e o uso de substâncias como cocaína, heroína, álcool, alguns anticonvulsionantes e varfarina estão associados a crescimento intrauterino restrito. Estão corretas apenas as afirmativas:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "(I) (II) (III)"
+      },
+      {
+        "letra": "B",
+        "texto": "(I) (II) (IV)"
+      },
+      {
+        "letra": "C",
+        "texto": "(I) (III) (V)"
+      },
+      {
+        "letra": "D",
+        "texto": "(III) (IV) (V)"
+      },
+      {
+        "letra": "E",
+        "texto": "(II) (IV) (V) 4000186391"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 3786,
+    "tags": [],
+    "enunciado": "O líquido amniótico (LA) é um componente importante do ambiente intrauterino para adequado desenvolvimento fetal. Sobre a quantidade do LA durante a gravidez sabe-se que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "é estável e constante durante toda a gestação."
+      },
+      {
+        "letra": "B",
+        "texto": "diminui progressivamente de 8 semanas até 34 semanas."
+      },
+      {
+        "letra": "C",
+        "texto": "aumenta consideravelmente após 34 semanas de gravidez até o parto."
+      },
+      {
+        "letra": "D",
+        "texto": "aumenta progressivamente após 8 semanas até 34 semanas de gestação e existe um leve declínio, até o termo da gestação, após as 34 semanas."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 3787,
+    "tags": [],
+    "enunciado": "O Líquido Amniótico desempenha papel fundamental no crescimento e desenvolvimento do feto, além de ser barreira contra infecções. A quantidade de Líquido Amniótico é o resultado de um balanço entre a sua produção e eliminação. Quanto à medida da quantidade de Líquido Amniótico de uma gestante, é CORRETO afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Dentre as causas fetais do Polidramnio, destacam-se as anomalias nefrourológicas."
+      },
+      {
+        "letra": "B",
+        "texto": "Ìndice de Líquido Amniótico menor que 5cm em gestante de 32 semanas é indicação de interrupção da gestação."
+      },
+      {
+        "letra": "C",
+        "texto": "Dentre as causas de Oligodrâmnio, destaca-se o Diabetes Materno."
+      },
+      {
+        "letra": "D",
+        "texto": "O método para rastreio de alteração do volume de Líquido Amniótico é a medida do maior bolsão vertical que contenha as partes fetais."
+      },
+      {
+        "letra": "E",
+        "texto": "No polidramnio leve, o Índice de Líquido Amniótico esta entre 24 a 29cm. 4000186108"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 3788,
+    "tags": [],
+    "enunciado": "Considerando a imagem acima, assinale a alternativa que apresenta uma alteração ultrassonográ(cid:60)ca que pode se associar aos teratomas cervicais.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É rara a associação com polidrâmnio."
+      },
+      {
+        "letra": "B",
+        "texto": "A placentomegalia não está presente."
+      },
+      {
+        "letra": "C",
+        "texto": "Há aumento de líquido na bexiga fetal."
+      },
+      {
+        "letra": "D",
+        "texto": "Há redução ou ausência da bolha gástrica."
+      },
+      {
+        "letra": "E",
+        "texto": "O líquido amniótico está reduzido."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 3789,
+    "tags": [],
+    "enunciado": "A causa mais comum de polidrâmnio é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Devido a malformações do sistema digestivo."
+      },
+      {
+        "letra": "B",
+        "texto": "Devido a malformações cardíacas."
+      },
+      {
+        "letra": "C",
+        "texto": "Por hidropsia fetal não imune."
+      },
+      {
+        "letra": "D",
+        "texto": "Idiopática."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 3790,
+    "tags": [],
+    "enunciado": "O índice de líquido amniótico é considerado como “oligoâminio” quando o seu valor está:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Menor que 5."
+      },
+      {
+        "letra": "B",
+        "texto": "Entre 5 e 8."
+      },
+      {
+        "letra": "C",
+        "texto": "Entre 9 e 10."
+      },
+      {
+        "letra": "D",
+        "texto": "Entre 11 e 12."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 3791,
+    "tags": [],
+    "enunciado": "O líquido amniótico (LA) é necessário para o adequado crescimento e desenvolvimento fetal. A análise de seus componentes permite a obtenção de dados sobre a maturidade e a vitalidade fetal, assim como de doenças genéticas e cromossômicas. Acerca do LA, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Em sua composição, o LA tem 90% de água e 10% de substâncias orgânicas."
+      },
+      {
+        "letra": "B",
+        "texto": "Os principais componentes orgânicos presentes no LA são proteínas, aminoácidos e eletrólitos."
+      },
+      {
+        "letra": "C",
+        "texto": "O oligoâmnio pode estar presente na placenta circunvalada e na trissomia do 21."
+      },
+      {
+        "letra": "D",
+        "texto": "A regulação do volume de LA, na segunda metade da gestação, sofre influência da diurese e da deglutição fetal."
+      },
+      {
+        "letra": "E",
+        "texto": "A diurese fetal é o fator mais importante no processo de produção do LA ao longo de toda a gestação."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 3792,
+    "tags": [],
+    "enunciado": "Gestante 26 semanas, trouxe à consulta de pré-natal exame de ultrassonogra(cid:60)a que evidenciou oligodrâmnia acentuada. Qual das alternativas podem representar esse achado?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Atresia de esôfago"
+      },
+      {
+        "letra": "B",
+        "texto": "Síndrome de Potter"
+      },
+      {
+        "letra": "C",
+        "texto": "Defeito aberto de Tubo Neural"
+      },
+      {
+        "letra": "D",
+        "texto": "Síndrome de Turner 4000183041"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 3793,
+    "tags": [],
+    "enunciado": "A principal causa de oligoâmnio em nosso meio é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a rotura prematura das membranas."
+      },
+      {
+        "letra": "B",
+        "texto": "a insuficiência placentária da pré-eclâmpsia."
+      },
+      {
+        "letra": "C",
+        "texto": "as malformações fetais do sistema neurológico."
+      },
+      {
+        "letra": "D",
+        "texto": "as malformações fetais do sistema urinário."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 3794,
+    "tags": [],
+    "enunciado": "Durante a gestação, o líquido amniótico exerce importantes funções. Em relação a essas funções, analise as assertivas e assinale a alternativa que aponta as corretas. I. Proteção contra traumatismos externos; II. Prevenção do trabalho de parto prematuro; III. Contribuição para o desenvolvimento dos pulmões fetal; IV. Controle da temperatura corporal do feto.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas I e III."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas I e IV."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas I, II e III."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas I, III e IV."
+      },
+      {
+        "letra": "E",
+        "texto": "Apenas II e IV. 4000197956"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 3795,
+    "tags": [],
+    "enunciado": "Assinale a alternativa que apresenta uma causa de polidrâmnio.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Restrição de crescimento."
+      },
+      {
+        "letra": "B",
+        "texto": "Pós-datismo."
+      },
+      {
+        "letra": "C",
+        "texto": "Óbito fetal."
+      },
+      {
+        "letra": "D",
+        "texto": "Feto anencéfalo."
+      },
+      {
+        "letra": "E",
+        "texto": "Insuficiência uteroplacentária. 4000197933"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 3796,
+    "tags": [],
+    "enunciado": "Das alternativas abaixo todas são condições que apresentam polihidrâmnio com frequência, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Atresia de esôfago tipo A de Gross."
+      },
+      {
+        "letra": "B",
+        "texto": "Atresia pilórica."
+      },
+      {
+        "letra": "C",
+        "texto": "Doença de Hirschprung."
+      },
+      {
+        "letra": "D",
+        "texto": "Atresia duodenal. 4000191626"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 3797,
+    "tags": [],
+    "enunciado": "M.B.V., 34 anos, GII PI 1C (há 4 anos) A0, IG por ultrassonogra(cid:60)a precoce: 38 semanas e 5 dias, veio à medicina fetal para ultrassonogra(cid:60)a obstétrica de terceiro trimestre da gestação. Ao exame, feto em apresentação cefálica, placenta anterior, grau II de Grannum, MBV (maior bolsão vertical): 1,9 cm, ILA 4,5 cm, peso fetal no percentil 30, de acordo com a curva de Hadlock; doppler normal. Paciente nega perdas vaginais, o que condisse com o exame especular. A conduta mais adequada é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "nova ultrassonografia em 3 dias para reavaliação do ILA e da vitalidade fetal."
+      },
+      {
+        "letra": "B",
+        "texto": "internação e cesariana por oligoamnia e cesárea anterior."
+      },
+      {
+        "letra": "C",
+        "texto": "internação e indução do trabalho de parto com misoprostol."
+      },
+      {
+        "letra": "D",
+        "texto": "internação e dilatação mecânica do colo uterino com balão Krause e, após, indução do trabalho de parto com ocitocina. 4000191601"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 3798,
+    "tags": [],
+    "enunciado": "É causa placentária de polidramnia:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Síndrome de transfusão feto-fetal"
+      },
+      {
+        "letra": "B",
+        "texto": "Diabete Melito"
+      },
+      {
+        "letra": "C",
+        "texto": "Atresia de esôfago"
+      },
+      {
+        "letra": "D",
+        "texto": "Defeito aberto do tubo neural 4000191196"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 3799,
+    "tags": [],
+    "enunciado": "São complicações da poliidrâmnia, exceto:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Trabalho de parto prematuro."
+      },
+      {
+        "letra": "B",
+        "texto": "Hemorragia pós-parto."
+      },
+      {
+        "letra": "C",
+        "texto": "Hipoplasia pulmonar."
+      },
+      {
+        "letra": "D",
+        "texto": "Hipertonia uterina."
+      },
+      {
+        "letra": "E",
+        "texto": "Nenhuma das anteriores. 4000190984"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 3800,
+    "tags": [],
+    "enunciado": "P.G.B., 28 anos, GIV PII 2N AI; IG usg: 38 semanas, deu entrada no PSGO com carta da UBS (unidade básica de saúde) solicitando avaliação em razão de a ultrassonogra(cid:60)a obstétrica apresentar MBV (maior bolsão vertical): 1,9 cm. Peso fetal normal; doppler de artérias umbilicais: normal, placenta fúndica GII. Paciente nega perdas vaginais. Sem outras queixas. Nega comorbidades. Cardiotocografia: normal. De acordo com o caso descrito, assinale a alternativa que apresenta diagnóstico e conduta corretos.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Oligoâmnio; internação da paciente e indução do trabalho de parto."
+      },
+      {
+        "letra": "B",
+        "texto": "Oligoâmnio; usg a cada 3 dias para acompanhar ILA (índice de líquido amniótico) e vitalidade fetal e interrupção da gestação com IG 39 semanas."
+      },
+      {
+        "letra": "C",
+        "texto": "Oligoâmnio; usg semanal para acompanhar ILA e vitalidade fetal e interrupção da gestação com IG 40 semanas."
+      },
+      {
+        "letra": "D",
+        "texto": "Não se consegue avaliar normalidade do líquido amniótico apenas pelo MBV; realizar novo usg para medir o ILA."
+      },
+      {
+        "letra": "E",
+        "texto": "O ILA provavelmente está normal; alta com retorno 3/3 dias para avaliação da vitalidade fetal por cardiotocografia. 4000189532"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 3801,
+    "tags": [],
+    "enunciado": "Qual das alternativas a seguir pode causar polidramnia (aumento do líquido)?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Atresia de esôfago"
+      },
+      {
+        "letra": "B",
+        "texto": "Válvula de uretra posterior"
+      },
+      {
+        "letra": "C",
+        "texto": "Síndrome antifosfolipide"
+      },
+      {
+        "letra": "D",
+        "texto": "Hipertensão 4000166500"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 3802,
+    "tags": [],
+    "enunciado": "O achado de índice de líquido amniótico menor que 5 cm é indicativo de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "polidrâmnio e pode ocorrer devido a hipoglicemia materna e fetal e malformações do sistema digestivo fetal."
+      },
+      {
+        "letra": "B",
+        "texto": "oligoâmnio, podendo ser causado por rotura prematura de membranas e doenças hipertensivas materna"
+      },
+      {
+        "letra": "C",
+        "texto": "oligoâmnio, podendo ser causado por malformações do sistema digestivo fetal e rotura prematura de membranas."
+      },
+      {
+        "letra": "D",
+        "texto": "polidrâmnio e pode ocorrer devido a hiperglicemia materna e fetal, malformações do sistema digestivo fetal."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 3803,
+    "tags": [],
+    "enunciado": "Uma gestante de 29 anos, primigesta, sem patologias, retorna ao consultório com exame de ultrassonogra(cid:60)a com o seguinte resultado: Feto único cefálico, IG de 32 semanas, placenta anterior de espessura normal. Peso fetal de 2155 gramas, crescimento adequado e ILA de 24 cm.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O diagnóstico é de polidrâmnio. É necessário realizar o teste de tolerância à glicose."
+      },
+      {
+        "letra": "B",
+        "texto": "O diagnóstico é de volume de líquido amniótico aumentado. Devo realizar novo USG em 1 semana para avaliar o crescimento fetal."
+      },
+      {
+        "letra": "C",
+        "texto": "Entre as possíveis causas estão: malformações do feto como obstrução do trato gastrointestinal, anomalias cromossômicas e também pode ser idiopático."
+      },
+      {
+        "letra": "D",
+        "texto": "A amniocentese é importante para pesquisa de anomalias cromossômicas. 4000198778"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 3804,
+    "tags": [],
+    "enunciado": "Gestante com idade gestacional de 32 semanas busca atendimento, porque percebeu eliminação de material líquido claro através da vagina. Ao exame especular não se constata esse achado. Assinale a a(cid:60)rmação CORRETA entre as alternativas abaixo de como deve ser a conduta neste caso:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O diagnóstico de ruptura prematura de membranas ovulares é essencialmente clínico, sendo firmado com anamnese e exame físico, assim descarta-se essa hipótese."
+      },
+      {
+        "letra": "B",
+        "texto": "Está indicada a execução do toque vaginal, com a manobra de empurrar a apresentação conceptual na direção cranial, poderá servir como adjuvante ao exame especular, pois pode permitir a percepção da eliminação do líquido amniótico."
+      },
+      {
+        "letra": "C",
+        "texto": "A aplicação de fitas reagentes de pH poderá ajudar na elaboração da hipótese de ruptura prematura de membranas ovulares se apresentar o ambiente vaginal com pH muito ácido (< 4,0)."
+      },
+      {
+        "letra": "D",
+        "texto": "O USG obstétrico, sem uma avaliação prévia da quantidade de líquido amniótico, não é método definitivo, pois um índice de líquido amniótico normal não descarta o quadro, assim como o oligoâmnio não confirma. 4000173960"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 3805,
+    "tags": [],
+    "enunciado": "Fisiologia do líquido amniótico Qual das opções abaixo NÃO interfere no volume de líquido amniótico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Movimentação fetal."
+      },
+      {
+        "letra": "B",
+        "texto": "Deglutição fetal."
+      },
+      {
+        "letra": "C",
+        "texto": "Fluido pulmonar fetal."
+      },
+      {
+        "letra": "D",
+        "texto": "Diurese fetal."
+      },
+      {
+        "letra": "E",
+        "texto": "Idade gestacional. 4000172652"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 3806,
+    "tags": [],
+    "enunciado": "Qual a causa mais comum de polidrâmnio na gestante diabética com feto macrossômico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Poliúria fetal."
+      },
+      {
+        "letra": "B",
+        "texto": "Diminuição de deglutição fetal."
+      },
+      {
+        "letra": "C",
+        "texto": "Imaturidade pulmonar."
+      },
+      {
+        "letra": "D",
+        "texto": "Sofrimento fetal crônico. 4000171609"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 3807,
+    "tags": [],
+    "enunciado": "Em uma gravidez normal, o período onde existe maior quantidade de líquido amniótico é entre:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "16 e 22 semanas."
+      },
+      {
+        "letra": "B",
+        "texto": "22 e 24 semanas."
+      },
+      {
+        "letra": "C",
+        "texto": "30 e 32 semanas."
+      },
+      {
+        "letra": "D",
+        "texto": "34 e 36 semanas. 4000171298"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 3808,
+    "tags": [],
+    "enunciado": "Polidrâmnio ou oligoidrâmnio são condições gestacionais que apresentam repercussões importantes no desenvolvimento fetal. Entre as causas apresentadas abaixo, a única que está relacionada ao polidrâmnio é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Diabetes gestacional."
+      },
+      {
+        "letra": "B",
+        "texto": "Ruptura prematura de membranas."
+      },
+      {
+        "letra": "C",
+        "texto": "Pré-eclâmpsia."
+      },
+      {
+        "letra": "D",
+        "texto": "Gestação pós-termo."
+      },
+      {
+        "letra": "E",
+        "texto": "Doença renal fetal. 4000171222"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 3809,
+    "tags": [],
+    "enunciado": "Sobre as causas de polidramnia, analisar os itens abaixo: I. Hidropsia fetal não imune. II. Doença hemolítica perinatal. III. Diabetes Mellitus. Está(ão) CORRETO(S):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente o item I."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente o item II."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente os itens I e II."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente os itens I e III."
+      },
+      {
+        "letra": "E",
+        "texto": "Todos os itens. 4000171219"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 3810,
+    "tags": [],
+    "enunciado": "Avaliação da vitalidade fetal Em relação aos métodos de avalição da vitalidade fetal, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A cardiotocografia apresenta baixas taxas de falsos positivos."
+      },
+      {
+        "letra": "B",
+        "texto": "O perfil biofísico fetal analisa 4 critérios ultrassonográficos + cardiotocografia."
+      },
+      {
+        "letra": "C",
+        "texto": "O ducto venoso deve ser usado apenas em gestações de termo."
+      },
+      {
+        "letra": "D",
+        "texto": "Oligoâmnio é sinal de sofrimento fetal agudo."
+      },
+      {
+        "letra": "E",
+        "texto": "A diminuição da movimentação fetal é o melhor parâmetro para avaliação da vitalidade em hipertensas. 4000170241"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 3811,
+    "tags": [],
+    "enunciado": "A embolia de líquido amniótico é uma rara complicação da gravidez, ocorrendo quando o líquido amniótico entra na corrente sanguínea da gestante e causa uma reação grave em seu organismo, como danos ao pulmão e sangramento excessivo. Quanto às medidas a serem adotadas na ocorrência da embolia de líquido amniótico, é INCORRETO afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Administrar agentes inotrópicos para manter a respiração pulmonar adequada."
+      },
+      {
+        "letra": "B",
+        "texto": "O parto de emergência é necessário."
+      },
+      {
+        "letra": "C",
+        "texto": "Deve haver a intubação da paciente."
+      },
+      {
+        "letra": "D",
+        "texto": "Pode haver o uso de PFC caso haja coagulopatia de consumo."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 3812,
+    "tags": [],
+    "enunciado": "Considere as seguintes situações. I. Diabete Melito. lI. Obstruções Gastrintestinais. IlI. Aloimunização. IV. Arritmias Cardíacas. São consideradas causas fetais de polidramnia",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e IV"
+      },
+      {
+        "letra": "B",
+        "texto": "I e IlI"
+      },
+      {
+        "letra": "C",
+        "texto": "lI e IlI"
+      },
+      {
+        "letra": "D",
+        "texto": "lI e IV"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 3813,
+    "tags": [],
+    "enunciado": "Uma mulher de 23 anos, G1 P0, com 20 semanas de gestação, é submetida a um exame ultrassonográ(cid:60)co devido a uma biometria discordante. A ultrassonogra(cid:60)a revela polidrâmnio com índice de líquido amniótico de 30 cm. O abdômen fetal revela uma massa cística na região abdominal direita e outra na área abdominal esquerda. Qual das alternativas seguintes é a condição associada mais provável?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Diabetes gestacional"
+      },
+      {
+        "letra": "B",
+        "texto": "Tumores ovarianos congênitos"
+      },
+      {
+        "letra": "C",
+        "texto": "DHEG"
+      },
+      {
+        "letra": "D",
+        "texto": "lsoimunização Rh"
+      },
+      {
+        "letra": "E",
+        "texto": "Síndrome de Down 4000145380"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 3814,
+    "tags": [],
+    "enunciado": "O polidrâmnio é resultante ou do aumento da produção do líquido amniótico ou da diminuição do seu consumo. O aumento da sua produção é observado, mais comumente, em casos de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "anemia fetal."
+      },
+      {
+        "letra": "B",
+        "texto": "diabetes mellitus materno."
+      },
+      {
+        "letra": "C",
+        "texto": "tumores fetoplacentários."
+      },
+      {
+        "letra": "D",
+        "texto": "transfusão fetofetal. 4000144634"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 3815,
+    "tags": [],
+    "enunciado": "Embora possa ser suspeitado, clinicamente, o diagnóstico de oligoidrâmnio requer a observação da diminuição do volume do líquido amniótico à ultrassonogra(cid:60)a. Para tanto, a utilização do índice do líquido amniótico (ILA) pode ser útil. Sobre esse método, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a cavidade uterina é dividida em seis quadrantes."
+      },
+      {
+        "letra": "B",
+        "texto": "para divisão, utiliza-se as linhas imaginárias perpendiculares por sobre a crista ilíaca."
+      },
+      {
+        "letra": "C",
+        "texto": "posicionando-se o transdutor perpendicularmente ao solo, mensura-se, então, o diâmetro vertical do maior bolsão de líquido amniótico, livre de cordão umbilical e partes fetais, em cada um dos quadrantes."
+      },
+      {
+        "letra": "D",
+        "texto": "após tomadas, as medidas são somadas e o resultado expresso em milímetros. 4000144633"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 3816,
+    "tags": [],
+    "enunciado": "Relacione a coluna 1 à coluna 2, associando as alterações de líquido amniótico com as possíveis causas etiológicas: Coluna 1: Coluna 2: 1. Oligodramnia; ( ) Insuficiência placentária; 2. Polidramnia. ( ) Obstrução baixa do trato urinário fetal; ( ) Doença hemolítica perinatal; ( ) Diabetes gestacional; ( ) Anencefalia.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ordem CORRETA de preenchimento dos parênteses, de cima para baixo, é:"
+      },
+      {
+        "letra": "A",
+        "texto": "2 - 1 - 1 - 2 – 2."
+      },
+      {
+        "letra": "B",
+        "texto": "1 - 1 - 2 - 2 – 2."
+      },
+      {
+        "letra": "C",
+        "texto": "1 - 1 - 2 - 1 – 2."
+      },
+      {
+        "letra": "D",
+        "texto": "1 - 2 - 1 - 1 – 1."
+      },
+      {
+        "letra": "E",
+        "texto": "1 - 1 - 1 - 2 – 2. 4000144062"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 3817,
+    "tags": [],
+    "enunciado": "Com 38 semanas, uma gestante abandonou o pré-natal, pois descobriu polidramnia através de uma ultrassonogra(cid:60)a realizada na 26° semana. Teve parto normal a termo, porém o recém-nascido apresenta intensa distensão abdominal ao chorar e engasgos ao mamar o colostro. Nesse caso, a mal formação a ser considerada consiste em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "imperfuração anal"
+      },
+      {
+        "letra": "B",
+        "texto": "má rotação do intestino anterior"
+      },
+      {
+        "letra": "C",
+        "texto": "atresia de esôfago com fístula traqueoesofágica"
+      },
+      {
+        "letra": "D",
+        "texto": "atresia duodenal e fístula de ducto onfalomesentérico"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 3818,
+    "tags": [],
+    "enunciado": "O polidrâmnio pode ocasionar algumas complicações, exceto:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hipoplasia pulmonar."
+      },
+      {
+        "letra": "B",
+        "texto": "Hemorragia pós-parto."
+      },
+      {
+        "letra": "C",
+        "texto": "Trabalho de parto prematuro."
+      },
+      {
+        "letra": "D",
+        "texto": "Atonia uterina no pós-parto."
+      },
+      {
+        "letra": "E",
+        "texto": "Prolapso de cordão. 4000143140"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 3819,
+    "tags": [],
+    "enunciado": "Pode-se a(cid:60)rmar que a con(cid:60)rmação do diagnóstico de oligoidrâmnio é feita pela ultrassonogra(cid:60)a quando esta mostra que o maior bolsão de líquido amniótico no seu diâmetro vertical é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "< 2 cm"
+      },
+      {
+        "letra": "B",
+        "texto": "< 3 cm"
+      },
+      {
+        "letra": "C",
+        "texto": "< 4 cm"
+      },
+      {
+        "letra": "D",
+        "texto": "< 5 cm 4000142683"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 3820,
+    "tags": [],
+    "enunciado": "O líquido amniótico tem a função de proteger o feto, permitir sua movimentação e prevenir adesões entre o concepto e o âmnio. NÃO é causa de aumento do líquido amniótico na gravidez:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Doença Renal Obstrutiva."
+      },
+      {
+        "letra": "B",
+        "texto": "Diabetes Mellitus."
+      },
+      {
+        "letra": "C",
+        "texto": "Osteogênese Imperfeita."
+      },
+      {
+        "letra": "D",
+        "texto": "Atresia de Esôfago."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 3821,
+    "tags": [],
+    "enunciado": "Qual dessas anomalias congênitas fetais é causa de oligoâmnio?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Anencefalia"
+      },
+      {
+        "letra": "B",
+        "texto": "Meningomielocele"
+      },
+      {
+        "letra": "C",
+        "texto": "Agenesia renal"
+      },
+      {
+        "letra": "D",
+        "texto": "Atresia de esôfago"
+      },
+      {
+        "letra": "E",
+        "texto": "Cardiopatia"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 3822,
+    "tags": [],
+    "enunciado": "Oligoâmnio se associa à",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "dificuldade de deglutição."
+      },
+      {
+        "letra": "B",
+        "texto": "centralização hemodinâmica fetal."
+      },
+      {
+        "letra": "C",
+        "texto": "atresia de duodeno."
+      },
+      {
+        "letra": "D",
+        "texto": "hidronefrose unilateral fetal."
+      },
+      {
+        "letra": "E",
+        "texto": "doença hemolítica perinatal."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 3823,
+    "tags": [],
+    "enunciado": "O líquido amniótico possui várias funções durante a gestação, como proteção contra traumatismos, manutenção da mobilidade fetal, contribuição para o desenvolvimento pulmonar fetal, entre outras. Dentre os mecanismos envolvidos, quais as principais origens do líquido amniótico na segunda metade da gestação e a principal via de reabsorção?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Origens: Transudato materno e líquido intestinal fetal / Reabsorção: Pulmonar fetal"
+      },
+      {
+        "letra": "B",
+        "texto": "Origens: Líquido pulmonar fetal e transudato placentário / Reabsorção: Intermembranosa"
+      },
+      {
+        "letra": "C",
+        "texto": "Origens: Urina fetal e líquido pulmonar fetal / Reabsorção: Deglutição fetal"
+      },
+      {
+        "letra": "D",
+        "texto": "Origens: Líquido pulmonar fetal e líquido intestinal fetal / Reabsorção: Intermembranosa"
+      },
+      {
+        "letra": "E",
+        "texto": "Origens: Urina fetal e transudato materno / Reabsorção: Deglutição fetal"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 3824,
+    "tags": [],
+    "enunciado": "O líquido amniótico",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "tem sua composição influenciada pela quantidade de carboidratos absorvidos pelo feto."
+      },
+      {
+        "letra": "B",
+        "texto": "é formado por até 30% de material proteico, responsável pela hidratação e aporte proteico ao feto."
+      },
+      {
+        "letra": "C",
+        "texto": "aumenta gradativamente durante a gestação, atingindo seu maior volume ao redor de 40 semanas."
+      },
+      {
+        "letra": "D",
+        "texto": "é translúcido no início da gravidez e turvo próximo ao termo, em parte decorrente de células descamadas do feto."
+      },
+      {
+        "letra": "E",
+        "texto": "atua como reservatório glicêmico do feto, além de protegê-lo contra impactos externos."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 3825,
+    "tags": [],
+    "enunciado": "Pode-se a(cid:60)rmar que a con(cid:60)rmação do diagnóstico de oligoidrâmnio é feita pela ultrassonogra(cid:60)a quando esta mostra que o maior bolsão de líquido amniótico no seu diâmetro vertical é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "< 2 cm"
+      },
+      {
+        "letra": "B",
+        "texto": "< 3 cm"
+      },
+      {
+        "letra": "C",
+        "texto": "< 4 cm"
+      },
+      {
+        "letra": "D",
+        "texto": "< 5 cm"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 3826,
+    "tags": [],
+    "enunciado": "O líquido amniótico tem diversas funções na gravidez e as anomalias em seu volume podem re(cid:98)etir patologias maternas, fetais ou placentárias. Sobre essas alterações, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Uma das causas mais comuns de polidrâmnio são as alterações da função placentária."
+      },
+      {
+        "letra": "B",
+        "texto": "Os sintomas maternos são frequentes nos casos de polidrâmnio moderados."
+      },
+      {
+        "letra": "C",
+        "texto": "O oligoidrâmnio precoce pode estar associado à anomalia fetal ou placentária, ambas com piora do prognóstico."
+      },
+      {
+        "letra": "D",
+        "texto": "O oligoidrâmnio, apesar dos riscos de alterações cardiotocográficas, não está associado à síndrome da aspiração de mecônio."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 3827,
+    "tags": [],
+    "enunciado": "Quais dos fenômenos fisiopatológicos a seguir podem estar implicados na ocorrência de polidrâmnio?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Malformações do sistema urinário e/ou hiperglicemia no feto, hiperglicemia materna."
+      },
+      {
+        "letra": "B",
+        "texto": "Centralização fetal, hipertensão e/ou hiperglicemia materna."
+      },
+      {
+        "letra": "C",
+        "texto": "Atresia de esôfago e/ou malformações do sistema nervoso no feto, hipertensão materna."
+      },
+      {
+        "letra": "D",
+        "texto": "Poliúria e/ou malformações do sistema nervoso no feto, hiperglicemia materna."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 3828,
+    "tags": [],
+    "enunciado": "As alterações do volume do líquido amniótico têm importância grande por estarem associadas, em muitos casos, com doenças, intercorrências ou por poderem determinar riscos perinatais. Em relação a essas alterações, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O polidrâmnio agudo ocorre no terceiro trimestre e está associado a alterações metabólicas maternas."
+      },
+      {
+        "letra": "B",
+        "texto": "Na ocorrência de polidrâmnio, esse deve ser drenado por aspiração contínua ou retirado com seringas de 20 mL até levar o volume de líquido ao patamar de 1000 mL, diminuindo o desconforto da gestante."
+      },
+      {
+        "letra": "C",
+        "texto": "Em relação ao oligoâmnio, a amnioinfusão é medida útil quando o oligoâmnio é precoce e não decorrente de rotura prematura de membranas pré-termo."
+      },
+      {
+        "letra": "D",
+        "texto": "O oligoâmnio precoce apresenta péssimo prognóstico com alta probabilidade de perda gestacional."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 3829,
+    "tags": [],
+    "enunciado": "Uma gestante de 36 semanas realizara ultrassonogra(cid:60)a para avaliação de biometria fetal, em que se notou feto único vivo, cefálico, com 2.910 g e placenta anterior grau II, com as seguintes medidas dos quatro bolsões de líquido amniótico: 3 cm; 9 cm; 7 cm; e 6 cm. Com base nessa situação hipotética, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A fenda labiopalatina é uma causa possível para o quadro."
+      },
+      {
+        "letra": "B",
+        "texto": "Nota-se que a placenta está em baixo grau de desenvolvimento, devendo-se pesquisar melhor erro de data."
+      },
+      {
+        "letra": "C",
+        "texto": "O diagnóstico mais provável para o quadro é insuficiência placentária."
+      },
+      {
+        "letra": "D",
+        "texto": "Trata-se de ultrassonografia dentro da normalidade, não se requerendo conduta específica."
+      },
+      {
+        "letra": "E",
+        "texto": "O quadro é compatível com restrição de crescimento fetal."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 3830,
+    "tags": [],
+    "enunciado": "O líquido amniótico, entre outras funções, mantém a homeostase térmica, protege contra traumas, compressão funicular e permite o desenvolvimento osteomuscular. A respeito do líquido amniótico, pode-se afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o débito urinário fetal diminui a partir da 30ª semana de gestação"
+      },
+      {
+        "letra": "B",
+        "texto": "os rins fetais começam a excretar urina a partir da 11ª semana de gestação"
+      },
+      {
+        "letra": "C",
+        "texto": "a principal via de remoção do líquido amniótico é a absorção pelos pulmões"
+      },
+      {
+        "letra": "D",
+        "texto": "a concentração de ureia, creatinina e ácido úrico diminuem a partir da 2ª metade da gestação"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 3831,
+    "tags": [],
+    "enunciado": "Polidrâmnio é o acentuado excesso de líquido amniótico reconhecido do exame físico ou pela ultrassonografia (medida do maior bolsão vertical). São situações clínicas que se manifestam com polidramnia, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Atresia de esôfago e de duodeno no feto."
+      },
+      {
+        "letra": "B",
+        "texto": "Hidropsia fetal não imune e doença hemolítica. perinatal."
+      },
+      {
+        "letra": "C",
+        "texto": "Diabetes melito materno."
+      },
+      {
+        "letra": "D",
+        "texto": "Doença renal ou agenesia renal no feto."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 3832,
+    "tags": [],
+    "enunciado": "Avalie as assertivas sobre “na redução no volume do líquido amniótico que é denominada oligodramnio, são condições que podem estar associadas”, I. Ruptura das membranas; II. Agenesia renal; III. Anencefalia; IV. Insuficiência placentária; V. Atresia de esôfago",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Todas as assertivas são verdadeiras"
+      },
+      {
+        "letra": "B",
+        "texto": "Todas as assertivas são falsas"
+      },
+      {
+        "letra": "C",
+        "texto": "Assertivas I, II e III são verdadeiras"
+      },
+      {
+        "letra": "D",
+        "texto": "Assertivas I, III e V são verdadeiras"
+      },
+      {
+        "letra": "E",
+        "texto": "Assertivas I, II e IV são verdadeiras"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 3833,
+    "tags": [],
+    "enunciado": "São características do líquido amniótico, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "No início da gestação, o líquido amniótico é claro e transparente, tornando-se turvo e grumoso nas proximidades do termo, devido à presença de partículas de origem fetal e amniótica."
+      },
+      {
+        "letra": "B",
+        "texto": "É composto de 80% de água e 30% de elementos sólidos."
+      },
+      {
+        "letra": "C",
+        "texto": "Tem PH neutro."
+      },
+      {
+        "letra": "D",
+        "texto": "Os principais componentes sólidos estão em suspensão e em dissolução."
+      },
+      {
+        "letra": "E",
+        "texto": "Colorações esverdeadas, amareladas ou acastanhadas podem significar sofrimento fetal, doença hemolítica e óbito fetal respectivamente."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 3834,
+    "tags": [],
+    "enunciado": "Não é causa comum de polidramnia:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Doença Hemolítica Perinatal"
+      },
+      {
+        "letra": "B",
+        "texto": "Atresia de esôfago"
+      },
+      {
+        "letra": "C",
+        "texto": "Hipoxemia crônica"
+      },
+      {
+        "letra": "D",
+        "texto": "Diabete melito"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 3835,
+    "tags": [],
+    "enunciado": "Não tem associação com polidramnia:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "anencefalia"
+      },
+      {
+        "letra": "B",
+        "texto": "atresia de esôfago"
+      },
+      {
+        "letra": "C",
+        "texto": "diabete"
+      },
+      {
+        "letra": "D",
+        "texto": "rim policístico"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 3836,
+    "tags": [],
+    "enunciado": "A diminuição do líquido amniótico durante a gravidez pode ocorrer por várias patologias durante a gravidez. Não é condição habitualmente relacionada à oligoidramnia:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Rotura prematura das membranas."
+      },
+      {
+        "letra": "B",
+        "texto": "Síndrome de restrição do crescimento intrauterino (CIUR)."
+      },
+      {
+        "letra": "C",
+        "texto": "Pós-maturidade."
+      },
+      {
+        "letra": "D",
+        "texto": "Má-formação do SNC no feto."
+      },
+      {
+        "letra": "E",
+        "texto": "Uso frequente de anti-inflamatórios não esteroides na gestação."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 3837,
+    "tags": [],
+    "enunciado": "A causa mais frequente de oligoâmnio é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "pré-eclâmpsia."
+      },
+      {
+        "letra": "B",
+        "texto": "malformação do tubo digestivo fetal."
+      },
+      {
+        "letra": "C",
+        "texto": "malformação urinária fetal."
+      },
+      {
+        "letra": "D",
+        "texto": "rotura prematura das membranas."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 3838,
+    "tags": [],
+    "enunciado": "São causas de oligoâmnio, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Atresia esofágica fetal."
+      },
+      {
+        "letra": "B",
+        "texto": "Insuficiência placentária grave."
+      },
+      {
+        "letra": "C",
+        "texto": "Agenesia renal bilateral fetal."
+      },
+      {
+        "letra": "D",
+        "texto": "Ruptura prematura de membranas."
+      },
+      {
+        "letra": "E",
+        "texto": "Uso, por parte da mãe, de substâncias inibidoras da síntese de prostaglandinas."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 3839,
+    "tags": [],
+    "enunciado": "Gestante 30 semanas foi ao pré-natal. Ao exame, o fundo de útero media 22 cm. Ultrassonogra(cid:60)a evidenciou oligodrâmnia. Assinale qual das alternativas abaixo pode ser a causa dessa alteração:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Válvula de uretra posterior"
+      },
+      {
+        "letra": "B",
+        "texto": "Ânus imperfurado"
+      },
+      {
+        "letra": "C",
+        "texto": "Defeito de tubo Neural"
+      },
+      {
+        "letra": "D",
+        "texto": "Diabetes gestacional"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 3840,
+    "tags": [],
+    "enunciado": "Qual das alternativas abaixo causa polidramnia:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Agenesia renal"
+      },
+      {
+        "letra": "B",
+        "texto": "Atresia de esôfago"
+      },
+      {
+        "letra": "C",
+        "texto": "Insuficiência placentária"
+      },
+      {
+        "letra": "D",
+        "texto": "Síndrome de Potter"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 3841,
+    "tags": [],
+    "enunciado": "Uma gestante de 32 semanas apresenta mensuração de líquido amniótico no valor de 28,2 cm. Nessa situação hipotética, a condição pode estar associada",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "à síndrome de Meckel-Gruber."
+      },
+      {
+        "letra": "B",
+        "texto": "ao dolicomegaureter bilateral."
+      },
+      {
+        "letra": "C",
+        "texto": "à displasia renal macropolicística."
+      },
+      {
+        "letra": "D",
+        "texto": "ao sinal da dupla bolha abdominal."
+      },
+      {
+        "letra": "E",
+        "texto": "à insuficiência placentária."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 3842,
+    "tags": [],
+    "enunciado": "São causas de oligoâmnio todas as abaixo relacionadas, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Malformações do tubo digestivo."
+      },
+      {
+        "letra": "B",
+        "texto": "Hipoperfusão placentária (associada à hipertensão arterial, RCIU)."
+      },
+      {
+        "letra": "C",
+        "texto": "Gestação em fase de pós-datismo."
+      },
+      {
+        "letra": "D",
+        "texto": "Agenesia de vias excretoras renais."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 3843,
+    "tags": [],
+    "enunciado": "O volume de líquido amniótico não sofre influência de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Idade gestacional"
+      },
+      {
+        "letra": "B",
+        "texto": "Movimentos fetais"
+      },
+      {
+        "letra": "C",
+        "texto": "Deglutição fetal"
+      },
+      {
+        "letra": "D",
+        "texto": "Diurese fetal"
+      },
+      {
+        "letra": "E",
+        "texto": "Duas das acima estão corretas"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 3844,
+    "tags": [],
+    "enunciado": "O que explica a diminuição do líquido amniótico causada por insuficiência placentária?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "infartos placentários."
+      },
+      {
+        "letra": "B",
+        "texto": "aumento da deglutição fetal."
+      },
+      {
+        "letra": "C",
+        "texto": "diminuição da taxa de filtração glomerular fetal."
+      },
+      {
+        "letra": "D",
+        "texto": "atrofia de cordão umbilical."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 3845,
+    "tags": [],
+    "enunciado": "Durante USG obstétrica realizada em gestante de 27 semanas, observa-se que o maior bolsão de líquido amniótico é de 15 cm. Opta-se então por iniciar o tratamento com indometacina, na dose de 250 mg VO de 6/6h. Dentre os efeitos colaterais possíveis do tratamento, o mais temido é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Regurgitação tricúspide."
+      },
+      {
+        "letra": "B",
+        "texto": "Fechamento do ducto arterioso."
+      },
+      {
+        "letra": "C",
+        "texto": "Disfunção ventricular direita."
+      },
+      {
+        "letra": "D",
+        "texto": "Insuficiência renal fetal."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 3846,
+    "tags": [],
+    "enunciado": "É condição fetal associada à polidramnia:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "malformações torácicas com desvio mediastinal"
+      },
+      {
+        "letra": "B",
+        "texto": "transfusão gêmeo-gemelar"
+      },
+      {
+        "letra": "C",
+        "texto": "doença hemolítica perinatal"
+      },
+      {
+        "letra": "D",
+        "texto": "diabetes"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 3847,
+    "tags": [],
+    "enunciado": "A composição de líquido amniótico varia ao longo da gravidez. Ao primeiro trimestre, corresponde a seguinte característica:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "contém muita proteína"
+      },
+      {
+        "letra": "B",
+        "texto": "é isotônico com o plasma materno"
+      },
+      {
+        "letra": "C",
+        "texto": "apresenta alta tensão de oxigênio"
+      },
+      {
+        "letra": "D",
+        "texto": "origina-se do transudato do plasma fetal através da pele queratinizada"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 3848,
+    "tags": [],
+    "enunciado": "Quais condições não estão associadas como causa de polidrâmnio:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Síndrome de transfusão feto-fetal"
+      },
+      {
+        "letra": "B",
+        "texto": "Diabete mellitus"
+      },
+      {
+        "letra": "C",
+        "texto": "Malformações fetais"
+      },
+      {
+        "letra": "D",
+        "texto": "Pós-datismo"
+      },
+      {
+        "letra": "E",
+        "texto": "Infeccções maternas na gestação"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 3849,
+    "tags": [],
+    "enunciado": "Gestante de 37 semanas apresentando ao ultrassom obstétrico o maior bolsão vertical com 10 cm. Esse achado faz diagnóstico de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "volume normal de líquido amniótico"
+      },
+      {
+        "letra": "B",
+        "texto": "oligoâmnio"
+      },
+      {
+        "letra": "C",
+        "texto": "amniorexe prematura"
+      },
+      {
+        "letra": "D",
+        "texto": "polidramnio"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 3850,
+    "tags": [],
+    "enunciado": "Os dois principais responsáveis pela variação do líquido amniótico na segunda metade da gestação são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Absorção tegumentar e exsudato pulmonar."
+      },
+      {
+        "letra": "B",
+        "texto": "Absorção tegumentar e deglutição."
+      },
+      {
+        "letra": "C",
+        "texto": "Urina fetal e deglutição."
+      },
+      {
+        "letra": "D",
+        "texto": "Urina fetal e absorção tegumentar."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 3851,
+    "tags": [],
+    "enunciado": "Infecção fetal não relacionada à Polidramnia:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Parvovirus B19"
+      },
+      {
+        "letra": "B",
+        "texto": "Citomegalovirus"
+      },
+      {
+        "letra": "C",
+        "texto": "Toxoplasmose"
+      },
+      {
+        "letra": "D",
+        "texto": "HIV"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 3852,
+    "tags": [],
+    "enunciado": "Paciente de 30 anos, G2P1CA0, com 38 semanas de idade gestacional con(cid:60)rmada pelo ultrassom obstétrico de primeiro trimestre, comparece à consulta assintomática, onde é veri(cid:60)cada altura de fundo uterino de 28 cm, com restante do exame físico sem anormalidades. Traz ultrassom obstétrico realizado no dia anterior que mostra maior bolsão vertical de líquido amniótico de 1 cm. Qual a conduta ideal a ser tomada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Internar para resolução da gestação."
+      },
+      {
+        "letra": "B",
+        "texto": "Repetir ultrassom obstétrico após uma semana."
+      },
+      {
+        "letra": "C",
+        "texto": "Seguir semanal até trabalho de parto ou 41 semanas."
+      },
+      {
+        "letra": "D",
+        "texto": "Orientar ingesta adequada de líquido e repouso domiciliar."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 3853,
+    "tags": [],
+    "enunciado": "Em relação à patologia e o volume de líquido amniótico, assinale a associação INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Estenose de esôfago fetal – polidramnia."
+      },
+      {
+        "letra": "B",
+        "texto": "Síndrome de Potter – polidramnia."
+      },
+      {
+        "letra": "C",
+        "texto": "Hipoplasia renal fetal – oligodramnia."
+      },
+      {
+        "letra": "D",
+        "texto": "Hipoplasia pulmonar fetal – oligodramnia."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 3854,
+    "tags": [],
+    "enunciado": "Mulher, 30a, com idade gestacional de 37 semanas procura o pronto atendimento obstétrico com queixa de diminuição de movimentação fetal. Ecogra(cid:60)a com estimulação vibroacústica: visibilização de movimentos da cabeça, dos braços e extensão das pernas, além de incursões diafragmáticas. Índice de líquido amniótico: 10 mm (normal de 80 a 180 mm). Dopplervelocimetria: normal. Cardiotocogra(cid:60)a: frequência cardíaca fetal basal de 140 bpm, com variabilidade de 15 batimentos e presença de 3 acelerações transitórias em 20 minutos de traçado. É CORRETO afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "cardiotocografia é hipoativa, com padrão não tranquilizador. O perfil biofísico fetalrecebe nota 6. Essa gestação deve ser resolvida pelo sofrimento fetal agudo."
+      },
+      {
+        "letra": "B",
+        "texto": "O perfil biofísico deste feto provavelmente é 8 e a cardiotocografia apresenta padrão compatível com feto de boa vitalidade. Pode ser considerada a resolução da gestação pelo oligoâmnio acentuado."
+      },
+      {
+        "letra": "C",
+        "texto": "perfil biofísico fetal recebe nota 10 e a cardiotocografia apresenta padrãocompatível com normalidade. Considerar apenas vigilância da vitalidade fetal."
+      },
+      {
+        "letra": "D",
+        "texto": "A cardiotocografia apresenta-se normal, assim como o perfil biofísico que recebe nota 6. Deve-se repetir o Doppler e o perfil biofísico em 24 horas."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 3855,
+    "tags": [],
+    "enunciado": "O líquido amniótico participa de importantes funções para o desenvolvimento conceptual. Em relação ao líquido amniótico, pode-se afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A homeostase do líquido amniótico é determinada pela produção pulmonar fetal e volemia do concepto."
+      },
+      {
+        "letra": "B",
+        "texto": "O volume diminui gradualmente, ficando estacionário, para aumentar após o termo, reduzindo-se quando presente algum fator de sofrimento fetal crônico."
+      },
+      {
+        "letra": "C",
+        "texto": "A sua redução está associada a patologias cardiovasculares relacionadas à hipovolemia fetal."
+      },
+      {
+        "letra": "D",
+        "texto": "A hidratação materna não influencia o volume de líquido amniótico devido à autorregulação fetal."
+      },
+      {
+        "letra": "E",
+        "texto": "Possui importância no desenvolvimento músculo-esquelético e pulmonar fetal."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 3856,
+    "tags": [],
+    "enunciado": "Qual das patologias do binômio materno fetal esta relacionada com polidramnio ?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Mãe portadora de epilepsia."
+      },
+      {
+        "letra": "B",
+        "texto": "Mãe hipertensa crônica."
+      },
+      {
+        "letra": "C",
+        "texto": "Feto com atresia de esôfago."
+      },
+      {
+        "letra": "D",
+        "texto": "Agenesia renal bilateral."
+      },
+      {
+        "letra": "E",
+        "texto": "Amniorrexe prematura."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 3857,
+    "tags": [],
+    "enunciado": "Das alternativas abaixo, qual geralmente cursa com Polidramnia?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Atresia de esôfago."
+      },
+      {
+        "letra": "B",
+        "texto": "Síndrome de Potter."
+      },
+      {
+        "letra": "C",
+        "texto": "Agenesia de corpo caloso."
+      },
+      {
+        "letra": "D",
+        "texto": "Restrição de crescimento fetal."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 3858,
+    "tags": [],
+    "enunciado": "Primigesta, 30 anos, com pré-eclâmpsia e idade gestacional de 32 semanas, traz exame ultrassonográ(cid:60)co com índice de liquido amniótico de 30 mm. Qual o diagnóstico e o principal mecanismo envolvido na gênese dessa patologia?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "rotura prematura de membranas ovulares; insuficiência placentária."
+      },
+      {
+        "letra": "B",
+        "texto": "insuficiência placentária; diminuição do débito urinário por desidratação fetal"
+      },
+      {
+        "letra": "C",
+        "texto": "oligoâmnio; diminuição da deglutição devido à disfagia fetal"
+      },
+      {
+        "letra": "D",
+        "texto": "oligoâmnio; diminuição do débito urinário fetal por hipóxia crônica."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 3859,
+    "tags": [],
+    "enunciado": "Primigesta com idade gestacional de 20 semanas traz exame morfológico de segundo trimestre com diagnóstico de anencefalia. A complicação mais frequente esperada no decorrer da gestação é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Polidrâminio"
+      },
+      {
+        "letra": "B",
+        "texto": "Oligoâmnio"
+      },
+      {
+        "letra": "C",
+        "texto": "Macrossomia fetal"
+      },
+      {
+        "letra": "D",
+        "texto": "Crescimento fetal restrito"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 3860,
+    "tags": [],
+    "enunciado": "Mulher de 27 anos, primigesta, 32 semanas de idade gestacional, mostra três exames de ultrassonogra(cid:60)a com 14, 20 e 28 semanas, sem alterações, e compatível com a IG (idade gestacional) clínica. Não havia história pessoal ou familiar patológica. O exame de rotina mostrou medida da altura uterina igual a 38 cm. Ela revela que foi diagnosticada com diabetes gestacional na gravidez atual, que necessitou uso de insulina, mas que não seguiu as orientações, pois não apresentava nenhum sintoma. Nesse caso, a explicação para a discrepância entre idade gestacional e altura uterina é a ocorrência de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "excesso de líquido amniótico."
+      },
+      {
+        "letra": "B",
+        "texto": "múltiplos miomas uterinos."
+      },
+      {
+        "letra": "C",
+        "texto": "hidrocefalia fetal."
+      },
+      {
+        "letra": "D",
+        "texto": "gravidez gemelar não diagnosticada."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 3861,
+    "tags": [],
+    "enunciado": "Pode-se a(cid:60)rmar que a concentração de sódio do liquído amniótico, em relação ao plasma materno, com o desenvolvimento da gestação:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Dobra."
+      },
+      {
+        "letra": "B",
+        "texto": "Estabiliza."
+      },
+      {
+        "letra": "C",
+        "texto": "Diminui."
+      },
+      {
+        "letra": "D",
+        "texto": "Triplica."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 3862,
+    "tags": [],
+    "enunciado": "Oligodramnia é a redução do volume do líquido amniótico, sendo sua principal causa aguda a:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Rotura prematura de membranas ovulares."
+      },
+      {
+        "letra": "B",
+        "texto": "Insuficiência placentária."
+      },
+      {
+        "letra": "C",
+        "texto": "Malformação de vias urinárias do feto."
+      },
+      {
+        "letra": "D",
+        "texto": "Desidratação materna."
+      },
+      {
+        "letra": "E",
+        "texto": "Atresia de esôfago fetal."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 3863,
+    "tags": [],
+    "enunciado": "Sobre restrição de crescimento intrauterino (RCIU): a) O tipo 2 é o mais frequente, de pior prognóstico e, em geral, relacionado a insuficiência placentária.; b) Doenças crônicas do adulto como a dislipidemia podem ter origem na vida fetal acometida pela RCIU; c) A presença de desacelerações umbilicais podem surgir na vigência de oligoãmnio. Pode-se assinar como correto o(s) item(ns):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas A"
+      },
+      {
+        "letra": "B",
+        "texto": "apenas A e B"
+      },
+      {
+        "letra": "C",
+        "texto": "apenas A e C"
+      },
+      {
+        "letra": "D",
+        "texto": "apenas B e C"
+      },
+      {
+        "letra": "E",
+        "texto": "A, B e C"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 3864,
+    "tags": [],
+    "enunciado": "A Oligodramnia está frequentemente associada ao parto pré termo, e tem como sua principal causa:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "atresia do esôfago fetal"
+      },
+      {
+        "letra": "B",
+        "texto": "desidratação materna"
+      },
+      {
+        "letra": "C",
+        "texto": "rotura prematura das membranas ovulares"
+      },
+      {
+        "letra": "D",
+        "texto": "malformações das vias urinarias do feto"
+      },
+      {
+        "letra": "E",
+        "texto": "insuficiência placentária"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 3865,
+    "tags": [],
+    "enunciado": "Em relação ao Líquido Amniótico, assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O volume de líquido amniótico é maior que o volume fetal na primeira metade da gravidez."
+      },
+      {
+        "letra": "B",
+        "texto": "O líquido amniótico diminui gradualmente após 38 semanas de gestação."
+      },
+      {
+        "letra": "C",
+        "texto": "O volume de líquido amniótico normal no termo é de aproximadamente 2,5 litros."
+      },
+      {
+        "letra": "D",
+        "texto": "O líquido amniótico desempenha importante papel no desenvolvimento do pulmão fetal."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 3866,
+    "tags": [],
+    "enunciado": "Em relação ao Líquido Amniótico, assinale a INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A unidade que melhor expressa a quantidade de líquido amniótico pelo ultrassom é o ILA (Índice de Líquido Amniótico)."
+      },
+      {
+        "letra": "B",
+        "texto": "O IL A é a medida da somatória dos maiores bolsões nos 4 quadrantes do útero."
+      },
+      {
+        "letra": "C",
+        "texto": "A maior parte da produção de líquido amniótico deriva da exsudação pulmonar do feto."
+      },
+      {
+        "letra": "D",
+        "texto": "Um feto com 36 semanas tem a capacidade de produzir mais de 1.000 ml de líquido amniótico por dia."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 3867,
+    "tags": [],
+    "enunciado": "Sobre a dinâmica do sistema amniótico, constata-se o seguinte:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o volume do líquido amniótico apresenta uma grande variação dentro da faixa de normalidade, porém tem um padrão de aumento gradativo do seu volume desde o início da sua formação até o parto."
+      },
+      {
+        "letra": "B",
+        "texto": "a partir da 10ª semana de gestação, após a queratinização da pele, a diurese fetal e a deglutição assumem papel fundamental na dinâmica do líquido amniótico."
+      },
+      {
+        "letra": "C",
+        "texto": "a presença de líquido em volume normal durante a gravidez é essencial para o desenvolvimento normal do sistema cardiovascular fetal."
+      },
+      {
+        "letra": "D",
+        "texto": "o balanço de produção e a reabsorção do líquido amníotico são refletidos pela regulação de seu volume, que é um processo dinâmico dependente da interação entre o feto, a placenta e o organismo materno."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 3868,
+    "tags": [],
+    "enunciado": "M.P.E., de 29 anos, idade gestacional de 31 semanas, estimada pela data da última menstruação. Em consulta pré-natal de rotina, foi constatada altura uterina de 26 cm. Caso a estimativa de idade gestacional esteja correta, quais devem ser as primeiras hipóteses diagnósticas e o que deverá ser feito para confirmá-las?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Oligoâmnio e macrossomia fetal. Toque vaginal, confirmar a idade gestacional através de ultrassonografia mais recente e, caso se confirme a disparidade entre a altura uterina e a idade gestacional, solicitar nova ultrassonografia."
+      },
+      {
+        "letra": "B",
+        "texto": "Polidrâmnio e atraso de crescimento intrauterino. Toque vaginal, confirmar idade gestacional por meio da ultrassonografia mais recente e, caso se confirme a disparidade entre a altura uterina e a idade gestacional, realizar cardiotocografia."
+      },
+      {
+        "letra": "C",
+        "texto": "Polidrâmnio e atraso de crescimento intrauterino. Toque vaginal, confirmar idade gestacional por meio da ultrassonografia mais recente e, caso se confirme a disparidade entre a altura uterina e a idade gestacional, realizar cardiotocografia."
+      },
+      {
+        "letra": "D",
+        "texto": "Oligoâmnio e atraso de crescimento intrauterino. Exame especular, confirmar a idade gestacional por meio da ultrassonografia mais precoce e, caso se confirme a disparidade entre a altura uterina e a idade gestacional, solicitar nova ultrassonografia."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 3869,
+    "tags": [],
+    "enunciado": "Das funções do líquido amniótico abaixo, assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Protege o feto de lesões mecânicas."
+      },
+      {
+        "letra": "B",
+        "texto": "Previne aderências entre o concepto e o âmnio."
+      },
+      {
+        "letra": "C",
+        "texto": "É fundamental para o desenvolvimento dos Pneumócitos tipo 2."
+      },
+      {
+        "letra": "D",
+        "texto": "Possibilita desenvolvimento do pulmão fetal."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 3870,
+    "tags": [],
+    "enunciado": "Algumas patologias obstétricas podem se re(cid:98)etir nas características do líquido amniótico. O encontro de líquido amarelado na amnioscopia em gestação de 34 semanas sugere",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "óbito fetal."
+      },
+      {
+        "letra": "B",
+        "texto": "corioamnionite."
+      },
+      {
+        "letra": "C",
+        "texto": "isoimunização Rh."
+      },
+      {
+        "letra": "D",
+        "texto": "descolamento de placenta."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 3871,
+    "tags": [],
+    "enunciado": "Baseado no método de Phelan para a avaliação da quantidade de líquido amniótico na gestação pode-se afirmar que o mesmo está aumentado, mas sem significar polidrâmnio, quando estiver",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "acima de 180 mm."
+      },
+      {
+        "letra": "B",
+        "texto": "entre 180 e 250 mm."
+      },
+      {
+        "letra": "C",
+        "texto": "acima de 250 mm."
+      },
+      {
+        "letra": "D",
+        "texto": "entre 80 e 180 mm."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 3872,
+    "tags": [],
+    "enunciado": "São condições associadas ao oligoâmnio, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Síndrome da transfusão feto-fetal (feto doador)."
+      },
+      {
+        "letra": "B",
+        "texto": "Síndrome anticorpo antifosfolípide."
+      },
+      {
+        "letra": "C",
+        "texto": "Infecções congênitas."
+      },
+      {
+        "letra": "D",
+        "texto": "Aloimunização."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 3873,
+    "tags": [],
+    "enunciado": "São causas de polidrâmnio:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Gestação gemelar dicoriônica, toxemia gravídica, infecções congênitas."
+      },
+      {
+        "letra": "B",
+        "texto": "Diabetes materno, anencefalia, atresia de duodeno."
+      },
+      {
+        "letra": "C",
+        "texto": "Displasias esqueléticas, aloimunização, colagenose."
+      },
+      {
+        "letra": "D",
+        "texto": "Espinha bífida, insuficiência placentária, atresia de esôfago."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 3874,
+    "tags": [],
+    "enunciado": "Primigesta, 25 anos, 38 semanas de gestação e pré-natal até o momento de risco habitual vem para consulta de pré-natal sem queixas. No exame obstétrico apresenta altura uterina de 30 cm, batimentos cardíacos fetais de 150bpm, dinâmica uterina ausente e tônus uterino sem alterações. Quais são as alterações suspeitadas pelo pré-natalista?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Oligoâmnio, crescimento fetal restrito e feto em situação transversa."
+      },
+      {
+        "letra": "B",
+        "texto": "Microcefalia, placenta prévia centro total e agenesia renal."
+      },
+      {
+        "letra": "C",
+        "texto": "Placenta de inserção baixa, crescimento fetal restrito e oligoâmnio."
+      },
+      {
+        "letra": "D",
+        "texto": "Malformação do sistema nervoso central, polidrâmnio e crescimento fetal restrito."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 3875,
+    "tags": [],
+    "enunciado": "Relacione a coluna 1 à coluna 2, associando as alterações de líquido amniótico com as possíveis causas etiológicas: Coluna 1: 1. Oligodramnia; 2. Polidramnia. Coluna 2: ( ) Insuficiência placentária; ( ) Obstrução baixa do trato urinário fetal; ( ) Doença hemolítica perinatal; ( ) Diabetes gestacional; ( ) Anencefalia.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ordem CORRETA de preenchimento dos parênteses, de cima para baixo, é:"
+      },
+      {
+        "letra": "A",
+        "texto": "2 - 1 - 1 - 2 - 1."
+      },
+      {
+        "letra": "B",
+        "texto": "1 - 1 - 2 - 2 - 2."
+      },
+      {
+        "letra": "C",
+        "texto": "1 - 2 - 2 - 1 - 1."
+      },
+      {
+        "letra": "D",
+        "texto": "1 - 1 - 1 - 2 - 2."
+      },
+      {
+        "letra": "E",
+        "texto": "2 - 2 - 2 - 1 - 1."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 3876,
+    "tags": [],
+    "enunciado": "Oligodramnia é a redução do volume do líquido amniótico, cuja principal causa aguda é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Desidratação materna."
+      },
+      {
+        "letra": "B",
+        "texto": "Atresia de esôfago fetal."
+      },
+      {
+        "letra": "C",
+        "texto": "Insuficiência placentária."
+      },
+      {
+        "letra": "D",
+        "texto": "Malformação de vias urinárias do feto."
+      },
+      {
+        "letra": "E",
+        "texto": "Rotura prematura de membranas ovulares."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 3877,
+    "tags": [],
+    "enunciado": "Normalmente o volume de líquido amniótico alcança um litro em torno de 36 semanas e diminuir para menos de 200 ml com 42 semanas. De modo geral um volume acima de dois litros é considerado excessivo, o que se denomina hidrâmnio materno fetal. Com base nestes nesses conceitos, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O polidrâmnio aumenta acentuadamente o risco fetal para hipoplasia pulmonar."
+      },
+      {
+        "letra": "B",
+        "texto": "Estas alterações decorrentes do aumentodo líquido amniótico, geralmete pode levar a restrição do crescimento fetal"
+      },
+      {
+        "letra": "C",
+        "texto": "Os inibidores das síntesea de prostraglandina são consições associada as polidrâmnio"
+      },
+      {
+        "letra": "D",
+        "texto": "As compliações maternas mais frequentes, associadas ao polidrâmnio descolamento prematuro de placenta e hemorrágia pós-parto."
+      },
+      {
+        "letra": "E",
+        "texto": "As malformações do sistema gênito urinário estão implicadas na sua etiologia,"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 3878,
+    "tags": [],
+    "enunciado": "Sobre a produção e absorção do líquido amniótico, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O volume aumenta gradualmente, ficando estacionário, para decrescer após o termo."
+      },
+      {
+        "letra": "B",
+        "texto": "A variação de volume é mais acentuada nas primeiras semanas de gravidez."
+      },
+      {
+        "letra": "C",
+        "texto": "A hidratação materna não influencia o volume de líquido amniótico devido à autorregulação fetal."
+      },
+      {
+        "letra": "D",
+        "texto": "Sua composição não se modifica com o decorrer da gestação."
+      },
+      {
+        "letra": "E",
+        "texto": "O volume diminui gradualmente após a 32ª semana de gravidez."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 3879,
+    "tags": [],
+    "enunciado": "As membranas e o líquido amniótico funcionam como uma barreira protetora, que gera um ambiente estéril, principalmente em relação à (cid:98)ora bacteriana vaginal, e exercem funções essenciais para a proteção, o crescimento e o desenvolvimento do feto. Dessa forma, a alteração da integridade da cavidade amniótica interfere nessas importantes funções. Não é considerada uma função do líquido amniótico:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Determinar a diminuição da pressão luminar na árvore traqueobrônquica durante os movimentos respiratórios fetais, favorecendo o desenvolvimento pulmonar."
+      },
+      {
+        "letra": "B",
+        "texto": "Proteger o feto de traumas externos e de compressões funiculares durante a movimentação fetal e as contrações uterinas."
+      },
+      {
+        "letra": "C",
+        "texto": "Favorecer o desenvolvimento dos sistemas urinário e digestório."
+      },
+      {
+        "letra": "D",
+        "texto": "Favorecer o desenvolvimento muscular e o crescimento fetal."
+      },
+      {
+        "letra": "E",
+        "texto": "Facilitar a livre flutuação do cordão umbilical."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 3880,
+    "tags": [],
+    "enunciado": "Gestante, no curso da 9ª semana de gravidez, apresenta febre, útero doloroso à mobilização, colo uterino semipérvio com saída de conteúdo purulento, feto vivo. No termo, a quantidade de líquido amniótico alcança, em média,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "200 ml."
+      },
+      {
+        "letra": "B",
+        "texto": "600 ml."
+      },
+      {
+        "letra": "C",
+        "texto": "1.000 ml."
+      },
+      {
+        "letra": "D",
+        "texto": "1.400 ml."
+      },
+      {
+        "letra": "E",
+        "texto": "1 800 ml"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 3881,
+    "tags": [],
+    "enunciado": "O oligoâmnio, nos casos de sofrimento fetal, se deve",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "à centralização hemodinâmica fetal."
+      },
+      {
+        "letra": "B",
+        "texto": "à obstrução uretral fetal."
+      },
+      {
+        "letra": "C",
+        "texto": "à restrição do crescimento fetal."
+      },
+      {
+        "letra": "D",
+        "texto": "à dificuldade de deglutição fetal."
+      },
+      {
+        "letra": "E",
+        "texto": "pela onda A positiva no espectro de onda de velocidade no ducto venoso."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 3882,
+    "tags": [],
+    "enunciado": "Sabe-se que um dos marcadores mais signi(cid:60)cativos da vitalidade fetal no decurso da gestação são os parâmetros do líquido amniótico. Sobre isso, considere estas assertivas: I. A polidramnia pode influenciar a contratilidade uterina. II. Na gravidez prolongada é comum ocorrer polidramnia. III. A principal causa de polidramnia é o diabetes na gestação. IV. É comum a associação de polidramnia e cistos tecaluteínicos. Estão CORRETAS, APENAS, as assertivas contidas em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e II."
+      },
+      {
+        "letra": "B",
+        "texto": "I e III."
+      },
+      {
+        "letra": "C",
+        "texto": "II e III."
+      },
+      {
+        "letra": "D",
+        "texto": "II e IV."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 3883,
+    "tags": [],
+    "enunciado": "O volume de líquido amniótico NÃO sofre influência de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Idade gestacional."
+      },
+      {
+        "letra": "B",
+        "texto": "Deglutição fetal."
+      },
+      {
+        "letra": "C",
+        "texto": "Diurese fetal."
+      },
+      {
+        "letra": "D",
+        "texto": "Movimentos fetais."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 3884,
+    "tags": [],
+    "enunciado": "Em relação ao polidrâmnio, assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Devem ser investigadas malformações fetais em casos de polidrâmnio."
+      },
+      {
+        "letra": "B",
+        "texto": "O polidrâmnio é menos frequente que o oligoâmnio, porém com repercussões neonatais mais nefastas."
+      },
+      {
+        "letra": "C",
+        "texto": "Complicações como prolapso de cordão e descolamento de placenta são mais comuns nesses casos em relação à gravidez normal."
+      },
+      {
+        "letra": "D",
+        "texto": "Atresia de esôfago fetal é a causa em aproximadamente 50% dos casos."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 3885,
+    "tags": [],
+    "enunciado": "Em relação à dinâmica do líquido amniótico, assinale a alternatica correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sua maior fonte na segunda metade da gestação é a urina fetal."
+      },
+      {
+        "letra": "B",
+        "texto": "Seu volume não é influenciado significativamente pela idade gestacional."
+      },
+      {
+        "letra": "C",
+        "texto": "Seu volume aumenta progressivamente durante a gestação até alcançar valores máximos por volta de 28 semanas."
+      },
+      {
+        "letra": "D",
+        "texto": "Seu baixo volume no terceiro trimestre tem como causa mais comum as malformações do trato urinário fetal."
+      },
+      {
+        "letra": "E",
+        "texto": "Sua principal via de reabsorção é o trato respiratório fetal."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 3886,
+    "tags": [],
+    "enunciado": "As alterações do líquido amniótico podem estar associadas a várias patologias de causas maternas, fetais e anexiais. A malformação que costuma estar associada ao olígoâmnio é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Atresia de esôfago."
+      },
+      {
+        "letra": "B",
+        "texto": "Anencefalia."
+      },
+      {
+        "letra": "C",
+        "texto": "onfalocele."
+      },
+      {
+        "letra": "D",
+        "texto": "Rins policísticos."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 3887,
+    "tags": [],
+    "enunciado": "O sistema amniótico consiste nas membranas fetais (âmnio e cório) e no líquido amniótico. Sobre a dinâmica do líquido amniótico, assinale a opção CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A produção do líquido amniótico nas primeiras semanas de gestação decorre principalmente da passagem passiva de líquidos através da membrana amniótica e do transudato do plasma do feto através da pele não queratinizada."
+      },
+      {
+        "letra": "B",
+        "texto": "No início da gestação, o líquido amniótico é hiperosmolar em relação ao plasma fetal e o materno."
+      },
+      {
+        "letra": "C",
+        "texto": "Na primeira metade da gestação, a produção do líquido amniótico é decorrente da urina fetal e da secreção de líquidos pelos pulmões do concepto."
+      },
+      {
+        "letra": "D",
+        "texto": "Os rins fetais iniciam a produção de urina fetal por volta da 20ª semana, sendo a única fonte de produção de líquido amniótico após esse período."
+      },
+      {
+        "letra": "E",
+        "texto": "A maior via de reabsorção do líquido amniótico na segunda metade da gestação é a intramembranosa."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 3888,
+    "tags": [],
+    "enunciado": "O oligoâmnio associa-se à, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Agenesia renal bilateral."
+      },
+      {
+        "letra": "B",
+        "texto": "Isoimunização."
+      },
+      {
+        "letra": "C",
+        "texto": "Insuficiência placentária."
+      },
+      {
+        "letra": "D",
+        "texto": "Crescimento intra-uterino restrito."
+      },
+      {
+        "letra": "E",
+        "texto": "Válvula de uretra posterior."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 3889,
+    "tags": [],
+    "enunciado": "Sobre a prematuridade e as patologias do líquido amniótico, marque a opção CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A urina fetal é a maior contribuinte para a produção do líquido amniótico."
+      },
+      {
+        "letra": "B",
+        "texto": "O diabetes mellitus com vasculopatia está associado etiologicamente com polidrâmnio."
+      },
+      {
+        "letra": "C",
+        "texto": "O oligoidrâmnio, provocado por amniorrexe prematura, é considerado baixo fator de risco para parto prematuro, estando presente em 10 a 15% dos casos."
+      },
+      {
+        "letra": "D",
+        "texto": "A incompetência istmo-cervical, na gênese do parto prematuro, é mais prevalente do que os processos infecciosos."
+      },
+      {
+        "letra": "E",
+        "texto": "A progesterona não é recomendada para a prevenção do trabalho de parto prematuro em gestantes com risco elevado para prematuridade."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 3890,
+    "tags": [],
+    "enunciado": "O polihidrâmnio não se associa com:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "agenesia renal."
+      },
+      {
+        "letra": "B",
+        "texto": "atresia de eôfago."
+      },
+      {
+        "letra": "C",
+        "texto": "diabetes materna."
+      },
+      {
+        "letra": "D",
+        "texto": "atresia instestinal alta."
+      },
+      {
+        "letra": "E",
+        "texto": "hidropsia fetal."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 3891,
+    "tags": [],
+    "enunciado": "São causas de polidrâmnio, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Diabetes mellitus e infecções congênitas."
+      },
+      {
+        "letra": "B",
+        "texto": "Anencefalia e atresia esofágica."
+      },
+      {
+        "letra": "C",
+        "texto": "Síndrome de transfusão feto-fetal e onfalocele."
+      },
+      {
+        "letra": "D",
+        "texto": "Hidrocefalia e atresia de duodeno."
+      },
+      {
+        "letra": "E",
+        "texto": "Sofrimento fetal crônico e gestação prolongada."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 3892,
+    "tags": [],
+    "enunciado": "Nas últimas décadas, a avaliação do líquido amniótico e seus determinantes evoluíram do mero interesse acadêmico da (cid:60)siologia feto-placentária para importante ferramenta de monitoramento intrauterino, especialmente nos casos de oligodramnia. As principais causas de oligodramnia incluem:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ROPREMA, insuficiência placentária, malformações urinárias, pós datismo."
+      },
+      {
+        "letra": "B",
+        "texto": "Diabetes gestacional, sofrimento fetal crônico, ROPREMA, diuréticos."
+      },
+      {
+        "letra": "C",
+        "texto": "Sofrimento fetal crônico, ROPREMA, atresia de esôfago, diuréticos."
+      },
+      {
+        "letra": "D",
+        "texto": "Sífilis, cromossopatias, doença hemolítica perinatal e DHEG."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 3893,
+    "tags": [],
+    "enunciado": "Paciente é submetida no segundo trimestre de gravidez, a uma ultrassonogra(cid:60)a obstétrica. Durante o exame, observa-se o índice de líquido amniótico (ILA) de 25 cm. O diagnóstico mais provável é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Estenose de válvula de uretra posterior."
+      },
+      {
+        "letra": "B",
+        "texto": "Síndrome de Potter."
+      },
+      {
+        "letra": "C",
+        "texto": "Atresia de esôfago."
+      },
+      {
+        "letra": "D",
+        "texto": "Sofrimento fetal crônico."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 3894,
+    "tags": [],
+    "enunciado": "Gestante de 18 anos foi encaminhada para a Maternidade por apresentar PA=160x100 mmHg durante a consulta pré-natal, que reduziu para 140x100 mmHg após decúbito lateral esquerdo. Negava cefaleia, turvação visual, náuseas, vômitos ou epigastralgia. Realizou exames laboratoriais com os seguintes resultados: plaquetas=160.000/mm³, TGO= 20U/L, TGP= 30U/L, LDH= 250U/L, Creatinina=0,9 mg/dl, proteinúria de 24h=350 mg. A ultrassonogra(cid:60)a obstétrica revelou idade gestacional de 30 semanas, peso fetal estimado no 5°. Percentil, índice de líquido amniótico de 20 mm e doppler do ducto venoso com onda A zero. De(cid:60)na a MELHOR conduta dentre as opções abaixo.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Acompanhamento ambulatorial."
+      },
+      {
+        "letra": "B",
+        "texto": "Repetir doppler com 1 semana."
+      },
+      {
+        "letra": "C",
+        "texto": "Induzir parto com misoprostol."
+      },
+      {
+        "letra": "D",
+        "texto": "Indicar parto abdominal."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 3895,
+    "tags": [],
+    "enunciado": "São causas de polidramnio:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hipertensão gestacional e atresia de esôfago."
+      },
+      {
+        "letra": "B",
+        "texto": "Diabetes e pré-eclâmpsia"
+      },
+      {
+        "letra": "C",
+        "texto": "Anencefalia e diabetes gestacional."
+      },
+      {
+        "letra": "D",
+        "texto": "Hidrocefalia e aceleração de maturidade placentária."
+      },
+      {
+        "letra": "E",
+        "texto": "Infarto placentário e onfalocele."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 3896,
+    "tags": [],
+    "enunciado": "Assinale a alternativa que NÃO apresenta causas fetais de poliidrâmnia.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Obstruções gastrointestinais"
+      },
+      {
+        "letra": "B",
+        "texto": "Anomalias do sistema urinário fetal"
+      },
+      {
+        "letra": "C",
+        "texto": "Anomalias do sistema nervoso central"
+      },
+      {
+        "letra": "D",
+        "texto": "Infecções congênitas"
+      },
+      {
+        "letra": "E",
+        "texto": "Hidropsias fetais não-imunes"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 3897,
+    "tags": [],
+    "enunciado": "Gestante de 26 anos, tabagista, primigesta, com idade gestacional de 35 semanas e 5 dias, baseada no dia da última menstruação e ultrassonogra(cid:60)a do 1º trimestre, procurou pronto-atendimento por diminuição da movimentação fetal nos últimos dias. A altura uterina era de 29 centímetros, a frequência cardíaca fetal de 144, a pressão arterial aferida de 100x70 mmHg, e ao toque vaginal o colo uterino estava impérvio. A ultrassonogra(cid:60)a revelou oligoidrâmnio, de acordo com ILA (índice do líquido amniótico). O valor do ILA compatível com oligoidrâmnio seria:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "10 a 16."
+      },
+      {
+        "letra": "B",
+        "texto": "6 a 9."
+      },
+      {
+        "letra": "C",
+        "texto": "0 a 5."
+      },
+      {
+        "letra": "D",
+        "texto": "5,1 a 8."
+      },
+      {
+        "letra": "E",
+        "texto": "8,1 a 18.  Respostas: 1 C 2 B 3 D 4 D 5 D 6 E 7 B 8 A 9 B 10 B 11 D 12 C 13 C 14 E 15 B 16 C 17 D 18 A 19 B 20 A 21 D 22 E 23 C 24 B 25 A 26 B 27 C 28 A 29 E 30 E 31 B 32 B 33 B 34 A 35 B 36 D 37 D 38 E 39 D 40 D 41 A 42 D 43 B 44 A 45 D 46 D 47 C 48 D 49 A 50 C 51 A 52 A 53 B 54 C 55 D 56 A 57 A 58 C 59 A 60 E 61 B 62 A 63 D 64 E 65 B 66 C 67 B 68 C 69 A 70 A 71 A 72 C 73 B 74 C 75 D 76 A 77 C 78 D 79 D 80 A 81 B 82 D 83 E 84 B 85 C 86 D 87 D 88 D 89 A 90 A 91 B 92 D 93 A 94 B 95 C 96 B 97 A 98 B 99 D 100 D 101 C 102 D 103 A 104 B 105 B 106 E 107 C 108 A 109 D 110 A 111 A 112 C 113 A 114 D 115 C 116 C 117 C 118 D 119 D 120 C 121 C 122 B 123 D 124 B 125 A 126 B 127 E 128 D 129 E 130 A 131 C 132 A 133 B 134 D 135 D 136 A 137 D 138 A 139 B 140 A 141 A 142 E 143 A 144 C 145 D 146 C 147 B 148 C"
+      }
+    ],
+    "resposta_correta": "C"
+  }
+]

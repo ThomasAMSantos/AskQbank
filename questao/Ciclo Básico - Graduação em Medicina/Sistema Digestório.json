@@ -1,0 +1,3578 @@
+[
+  {
+    "id": 105340,
+    "tags": [],
+    "enunciado": "Quais são as ações do sistema parassimpático no pâncreas e qual é a molécula utilizada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Diminuição da secreção de bicarbonato e aumento da secreção de enzimas digestivas ainda não ativadas. A molécula é a acetilcolina."
+      },
+      {
+        "letra": "B",
+        "texto": "Aumento da secreção de bicarbonato e aumento da secreção de enzimas digestivas ainda não ativadas. A moléculas é a adrenalina."
+      },
+      {
+        "letra": "C",
+        "texto": "Diminuição da secreção de bicarbonato e diminuição da secreção de enzimas digestivas ainda não ativadas. A molécula é a acetilcolina."
+      },
+      {
+        "letra": "D",
+        "texto": "Aumento da secreção de bicarbonato e aumento da secreção de enzimas digestivas ainda não ativadas. A molécula é a acetilcolina."
+      },
+      {
+        "letra": "E",
+        "texto": "Aumento da secreção de bicarbonato e diminuição da secreção de enzimas digestivas ainda não ativadas. A molécula é a adrenalina."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105341,
+    "tags": [],
+    "enunciado": "Assinale a alternativa incorreta com relação à ação da secretina:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "São secretadas pelas células S neuroendócrinas em resposta a uma acidificação luminal."
+      },
+      {
+        "letra": "B",
+        "texto": "A sua função primordial é alcalinizar o pH duodenal em resposta a um aumento de pH para permitir a ação das enzimas digestivas e o prosseguimento adequado da digestão."
+      },
+      {
+        "letra": "C",
+        "texto": "A secretina atua nas células ductais pancreáticas, principalmente nas centroacinares, para aumentar a secreção de bicarbonato luminal."
+      },
+      {
+        "letra": "D",
+        "texto": "Uma das ações induzidas pela secretina, por meio da PKA, é a fosforilação e ativação de CFTR, canal de cloro presente na membrana apical."
+      },
+      {
+        "letra": "E",
+        "texto": "A secretina atua para aumentar a secreção de vesículas contendo enzimas não ativadas nos ácinos pancreáticos."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 105342,
+    "tags": [],
+    "enunciado": "Qual é a principal ação da colecistoquinina (CCK) no pâncreas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aumentar a secreção de bicarbonato de sódio (NaHCO₃⁻) e água para a secreção pancreática nas células ductais."
+      },
+      {
+        "letra": "B",
+        "texto": "Aumentar a secreção de glicoproteínas pelas células caliciformes no ducto distal pancreático para recobrir o epitélio com um muco protetor às enzimas digestivas."
+      },
+      {
+        "letra": "C",
+        "texto": "Aumentar a secreção das vesículas de zimogênio nas células acinosas por exocitose."
+      },
+      {
+        "letra": "D",
+        "texto": "Diminuir a secreção das vesículas de zimogênio nas células acinosas por exocitose."
+      },
+      {
+        "letra": "E",
+        "texto": "Diminuir a secreção de bicarbonato de sódio (NaHCO₃⁻) e água para a secreção pancreática nas células ductais."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105343,
+    "tags": [],
+    "enunciado": "Qual das seguintes substâncias não atua no aumento da secreção de (cid:67)uidos ou de enzimas dos ácino e ducto pancreático?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Colecistoquinina"
+      },
+      {
+        "letra": "B",
+        "texto": "VIP"
+      },
+      {
+        "letra": "C",
+        "texto": "Adrenalina"
+      },
+      {
+        "letra": "D",
+        "texto": "Secretina"
+      },
+      {
+        "letra": "E",
+        "texto": "Acetilcolina"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105344,
+    "tags": [],
+    "enunciado": "Qual é o principal hormônio estimulador da secreção de NaHCO₃ pelas células ductais pancreáticas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Colecistoquinina (CCK)"
+      },
+      {
+        "letra": "B",
+        "texto": "Secretina"
+      },
+      {
+        "letra": "C",
+        "texto": "Substância P"
+      },
+      {
+        "letra": "D",
+        "texto": "VIP"
+      },
+      {
+        "letra": "E",
+        "texto": "Adrenalina"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105345,
+    "tags": [],
+    "enunciado": "Assinale à alternativa incorreta sobre os fatores regulatórios da secreção das células acinosas pancreáticas.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A colecistoquinina (CCK) é um hormônio secretado no intestino que, em concentrações fisiológicas, estimula a exocitose das vesículas de zimogênio."
+      },
+      {
+        "letra": "B",
+        "texto": "Não há estimulação neural que regule a síntese de hormônios no pâncreas diretamente na célula acinosa, apenas há a regulação simpática da vasoconstrição dos vasos que pode diminuir ou aumentar a secreção de fluido e eletrólitos pancreáticos."
+      },
+      {
+        "letra": "C",
+        "texto": "Há estimulação parassimpática por meio da acetilcolina diretamente nas células pancreáticas, que age em receptores muscarínicos com ativação de proteína"
+      },
+      {
+        "letra": "D",
+        "texto": "Concentrações suprafisiológicas muito elevadas de CCK podem induzir uma diminuição na secreção das vesículas de zimogênio."
+      },
+      {
+        "letra": "E",
+        "texto": "VIP e GRP também são secretagogos nas células acinosas pancreáticas."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105346,
+    "tags": [],
+    "enunciado": "Assinale à alternativa incorreta acerca das características das células acinosas pancreáticas:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apresentam grânulos de zimogênio, precursores inativos de enzimas, próximos à membrana apical, e são formados a partir de vacúolos condensados."
+      },
+      {
+        "letra": "B",
+        "texto": "São células serosas de secreção exócrina."
+      },
+      {
+        "letra": "C",
+        "texto": "Formam processos especializados na membrana que delimitam canalículos, para onde são secretados os precursores inativos de enzimas que mais tarde formam os ductos intercalados."
+      },
+      {
+        "letra": "D",
+        "texto": "Apresentam uma similaridade morfológica às células responsáveis pela secreção exócrina nas glândulas salivares."
+      },
+      {
+        "letra": "E",
+        "texto": "A sua secreção principal é de precursores inativos de enzimas pelo risco de elas poderem lesar o próprio parênquima pancreático."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105347,
+    "tags": [],
+    "enunciado": "Quais são as unidades secretoras básicas do pâncreas endócrino e o tipo celular responsável pela secreção de insulina, respectivamente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ilhotas de Langerhans e células β."
+      },
+      {
+        "letra": "B",
+        "texto": "Ilhotas de Kupffer e células α."
+      },
+      {
+        "letra": "C",
+        "texto": "Ácinos pancreáticos e células δ."
+      },
+      {
+        "letra": "D",
+        "texto": "Ácinos pancreáticos e células β."
+      },
+      {
+        "letra": "E",
+        "texto": "Ilhotas de Langerhans e células α."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105348,
+    "tags": [],
+    "enunciado": "Qual é o tipo de secreção nas ilhotas de Langerhans do pâncreas e como é organizada a unidade secretora desse tecido?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Secreção exócrina com ácinos pancreáticos."
+      },
+      {
+        "letra": "B",
+        "texto": "Secreção exócrina com túbulos pancreáticos."
+      },
+      {
+        "letra": "C",
+        "texto": "Secreção endócrina com células cordonais envolvidas por uma rede de capilares fenestrados."
+      },
+      {
+        "letra": "D",
+        "texto": "Secreção endócrina com células foliculares formando um folículo de secreção."
+      },
+      {
+        "letra": "E",
+        "texto": "Secreção endócrina com ácinos pancreáticos."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105349,
+    "tags": [],
+    "enunciado": "Quanto ao parênquima pancreático, responda as questões referentes à sua composição e glândulas prevalentes.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A secreção da maior parte do parênquima é exócrina e está presente nos túbulos pancreáticos, onde há as células tubulares mucinosas que secretam as enzimas inativadas em conjunto com bicarbonato."
+      },
+      {
+        "letra": "B",
+        "texto": "A secreção da maior parte do parênquima é endócrina nas ilhotas de Langerhans, onde há células cordonais irregulares e curtas, envolvidas por uma rede de capilares fenestrados."
+      },
+      {
+        "letra": "C",
+        "texto": "A secreção da maior parte do parênquima é endócrina nos túbulos pancreáticos, onde há células cordonais irregulares e curtas, envolvidas por uma rede de capilares fenestrados."
+      },
+      {
+        "letra": "D",
+        "texto": "A secreção da maior parte do parênquima é exócrina nas ilhotas de Langerhans, onde há células cordonais irregulares e curtas, envolvidas por uma rede de capilares fenestrados."
+      },
+      {
+        "letra": "E",
+        "texto": "A secreção da maior parte do parênquima é exócrina e está presente nos ácinos pancreáticos, onde há células serosas piramidais que secretam as enzimas inativadas no lúmen."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 105350,
+    "tags": [],
+    "enunciado": "O pâncreas exócrino apresenta-se, histologicamente, muito similar à glândula parótida. Assinale a alternativa correta quanto à estrutura básica das glândulas e ductos.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As unidades básicas de secreção são ácinos pancreáticos, com células mucosas piramidais com membrana basal voltada ao tecido conjuntivo periacinoso e a membrana apical voltada ao lúmen."
+      },
+      {
+        "letra": "B",
+        "texto": "As unidades básicas de secreção são ácinos ou túbulos, com células mucosas caliciformes, com secreções voltadas à membrana apical da célula."
+      },
+      {
+        "letra": "C",
+        "texto": "As unidades básicas de secreção são ácinos com células serosas piramidais com grânulos de zimogênios próximos ao ápice, que está em contato com o lúmen."
+      },
+      {
+        "letra": "D",
+        "texto": "Há células centroacinares que revestem internamente o ácino inteiro e realizam uma interface entre as células acinosas piramidais e o lúmen, com a secreção passando por fenestrações."
+      },
+      {
+        "letra": "E",
+        "texto": "Há células centroacinares que revestem internamente o ácino inteiro e realizam uma interface entre as células acinosas caliciformes e o lúmen, com a secreção passando por transcitose."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105351,
+    "tags": [],
+    "enunciado": "Assinale a alternativa correta quanto à relação com o peritônio dos órgãos abdominais:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fígado é um órgão retroperitoneal."
+      },
+      {
+        "letra": "B",
+        "texto": "Pâncreas é um órgão retroperitoneal."
+      },
+      {
+        "letra": "C",
+        "texto": "Estômago é um órgão intraperitoneal."
+      },
+      {
+        "letra": "D",
+        "texto": "Fígado é um órgão envolvido completamente por peritônio visceral, sem áreas de exposição retroperitoneal."
+      },
+      {
+        "letra": "E",
+        "texto": "Pâncreas é um órgão envolvido completamente por peritônio visceral, sem áreas de exposição retroperitoneal."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105352,
+    "tags": [],
+    "enunciado": "As artérias assinaladas abaixo são responsáveis pela irrigação do pâncreas, exceto:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A. gastroduodenal"
+      },
+      {
+        "letra": "B",
+        "texto": "A. esplênica"
+      },
+      {
+        "letra": "C",
+        "texto": "A. hepática comum"
+      },
+      {
+        "letra": "D",
+        "texto": "A. gástrica esquerda"
+      },
+      {
+        "letra": "E",
+        "texto": "A. mesentérica superior"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105353,
+    "tags": [],
+    "enunciado": "Considerando a (cid:77)gura abaixo, assinale os nomes das estruturas indicadas pelas letras X, Y e Z relativas à vascularização visceral. Figura 3: Vascularização Pancreática. Fonte: Banco de imagens Anatomia MED. Adaptado.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "X- a. mesentérica superior, Y- a. gástrica esquerda, Z- a. hepática comum"
+      },
+      {
+        "letra": "B",
+        "texto": "X- a. mesentérica superior, Y- a. gástrica direita e Z- a. gastroduodenal"
+      },
+      {
+        "letra": "C",
+        "texto": "X- Tronco celíaco, Y- a. gastromental direita e Z- a. gastroduodenal"
+      },
+      {
+        "letra": "D",
+        "texto": "X- Tronco celíaco, Y- a. gástrica esquerda e Z – a. gastroduodenal"
+      },
+      {
+        "letra": "E",
+        "texto": "X- a. mesentérica inferior, Y- a. gastromental direita e Z – a. hepática comum."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105354,
+    "tags": [],
+    "enunciado": "Quais são as células presentes no espaço perissinusoidal hepático?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Células de Kupffer e células estreladas hepáticas"
+      },
+      {
+        "letra": "B",
+        "texto": "Hepatócitos e colangiócitos"
+      },
+      {
+        "letra": "C",
+        "texto": "Micróglia e miofibroblastos"
+      },
+      {
+        "letra": "D",
+        "texto": "Células estreladas hepáticas e hepatócitos"
+      },
+      {
+        "letra": "E",
+        "texto": "Células de Kupffer e colangiócitos."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105355,
+    "tags": [],
+    "enunciado": "A circulação sanguínea hepática é importante para a depuração de elementos provenientes do trato digestivo e que podem ser tóxicos para o organismo. A interface com o parênquima hepático é feita com os capilares sinusoides que se projetam da veia porta para a vênula centrolobular. Assinale a alternativa correta quanto a essa estrutura.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os hepatócitos são responsáveis por recobrir as paredes dos capilares sinusoides e, por isso, permitem uma porosidade muito maior da superfície capilar."
+      },
+      {
+        "letra": "B",
+        "texto": "Há uma interface de tecido conjuntivo entre o endotélio, que recobre os sinusoides, e os hepatócitos, denominada de espaço de Disse."
+      },
+      {
+        "letra": "C",
+        "texto": "As paredes dos capilares sinusoides são compostas, intercaladamente, pelo endotélio, hepatócitos e células de Kupffer, o que permite que o hepatócito exerça a sua função em grande proximidade sanguínea."
+      },
+      {
+        "letra": "D",
+        "texto": "Há uma interface de tecido cartilaginoso entre o endotélio, que recobre os sinusoides, e os hepatócitos, denominada de espaço de Disse."
+      },
+      {
+        "letra": "E",
+        "texto": "Há projeções de pseudópodes de macrófagos teciduais para o interior dos sinusoides, que são chamados de macrófagos de Disse e são, fenotipicamente, iguais aos encontrados no SNC."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105356,
+    "tags": [],
+    "enunciado": "De que são constituídas a parede dos canalículos biliares, responsáveis pela drenagem da bile no parênquima hepático?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Colangiócitos cuboides e hepatócitos."
+      },
+      {
+        "letra": "B",
+        "texto": "Células epiteliais colunares altas."
+      },
+      {
+        "letra": "C",
+        "texto": "Células epiteliais cuboides."
+      },
+      {
+        "letra": "D",
+        "texto": "Células endoteliais."
+      },
+      {
+        "letra": "E",
+        "texto": "Processo de membrana dos hepatócitos."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 105357,
+    "tags": [],
+    "enunciado": "Quais são os componentes da tríade portal hepática presentes no ligamento hepatoduodenal?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a. hepática comum – v. porta – ducto colédoco"
+      },
+      {
+        "letra": "B",
+        "texto": "a. hepática própria – v. porta – ducto hepático linfático"
+      },
+      {
+        "letra": "C",
+        "texto": "a. hepática própria – v. porta – ducto colédoco"
+      },
+      {
+        "letra": "D",
+        "texto": "a. hepática comum – v. hepática– ducto hepático linfático"
+      },
+      {
+        "letra": "E",
+        "texto": "a. hepática própria – v. hepática – ducto hepático comum"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105358,
+    "tags": [],
+    "enunciado": "Caso haja uma obstrução na drenagem biliar do fígado, qual é a primeira zona do ácino que é afetada pelo represamento da bile?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Zona 1"
+      },
+      {
+        "letra": "B",
+        "texto": "Zona 2"
+      },
+      {
+        "letra": "C",
+        "texto": "Zona 3"
+      },
+      {
+        "letra": "D",
+        "texto": "Zona 4"
+      },
+      {
+        "letra": "E",
+        "texto": "Zona 5"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105359,
+    "tags": [],
+    "enunciado": "Caso haja uma diminuição súbita na perfusão hepática, quais serão as zonas do ácino hepático que sofrerão primeiro e último a necrose isquêmica?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Zona 1 e zona 3."
+      },
+      {
+        "letra": "B",
+        "texto": "Zona 2 e zona 3."
+      },
+      {
+        "letra": "C",
+        "texto": "Zona 3 e zona 1."
+      },
+      {
+        "letra": "D",
+        "texto": "Zona 2 e zona 1."
+      },
+      {
+        "letra": "E",
+        "texto": "Zona 1 e zona 2."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105360,
+    "tags": [],
+    "enunciado": "“A divisão histológica clássica do parênquima hepática é dividida em ............., que são hexágonos cujos vértices são ...................... e o centro corresponde às ....................” Preencha os termos do período corretamente.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Lobos, vênulas hepáticas terminais e espaços porta."
+      },
+      {
+        "letra": "B",
+        "texto": "Lobos, espaços porta, vênulas hepáticas terminais."
+      },
+      {
+        "letra": "C",
+        "texto": "Segmentos, vênulas hepáticas terminais, artérias hepáticas."
+      },
+      {
+        "letra": "D",
+        "texto": "Lóbulos, espaços porta e vênulas hepáticas terminais."
+      },
+      {
+        "letra": "E",
+        "texto": "Lóbulos, espaços porta, ductos biliares."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105361,
+    "tags": [],
+    "enunciado": "Há um lobo anatômico do fígado que também corresponde a um segmento hepático, ou seja, apresenta vascularização e drenagem biliar própria. Assinale a alternativa que contenha o seu nome e o nome do segmento.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Lobo caudado e Segmento I"
+      },
+      {
+        "letra": "B",
+        "texto": "Lobo quadrado e Segmento I"
+      },
+      {
+        "letra": "C",
+        "texto": "Lobo esquerdo e Segmento VIII"
+      },
+      {
+        "letra": "D",
+        "texto": "Lobo quadrado e Segmento VIII"
+      },
+      {
+        "letra": "E",
+        "texto": "Lobo caudado e Segmento VIII"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105362,
+    "tags": [],
+    "enunciado": "O fígado é um órgão complexo que pode ser fragmentado em divisões dependendo do objetivo do estudo anatômico proposto. Assinale, respectivamente, o nome das divisões usadas na anatomia de superfície do fígado e na anatomia cirúrgica vascular.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Lóbulos e Lobo."
+      },
+      {
+        "letra": "B",
+        "texto": "Lóbulos e Fragmentos."
+      },
+      {
+        "letra": "C",
+        "texto": "Lobos e Fragmentos."
+      },
+      {
+        "letra": "D",
+        "texto": "Lobos e Segmentos."
+      },
+      {
+        "letra": "E",
+        "texto": "Segmentos e Lobos."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105363,
+    "tags": [],
+    "enunciado": "Qual é o ligamento que fixa o fígado posterossuperiormente e origina a área nua da superfície do fígado?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Omento menor"
+      },
+      {
+        "letra": "B",
+        "texto": "Ligamento falciforme"
+      },
+      {
+        "letra": "C",
+        "texto": "Ligamento coronário"
+      },
+      {
+        "letra": "D",
+        "texto": "Ligamento redondo do fígado"
+      },
+      {
+        "letra": "E",
+        "texto": "Ligamento hepatoduodenal"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105364,
+    "tags": [],
+    "enunciado": "A tríade portal corresponde ao agrupamento da veia porta, artéria hepática e ducto hepático comum e é projetada para o interior do fígado em sua face visceral. Assinale a alternativa que corresponda ao ligamento que permite a passagem dessas estruturas para o órgão e de qual omento ele faz parte.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ligamento cardinal – Omento maior"
+      },
+      {
+        "letra": "B",
+        "texto": "Ligamento hepatoduodenal – Omento menor"
+      },
+      {
+        "letra": "C",
+        "texto": "Ligamento hepatogástrico – Omento menor"
+      },
+      {
+        "letra": "D",
+        "texto": "Ligamento hepatoduodenal – Omento maior"
+      },
+      {
+        "letra": "E",
+        "texto": "Ligamento hepatogástrico – Omento maior"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105365,
+    "tags": [],
+    "enunciado": "Há vários ligamentos que auxiliam na (cid:77)xação do fígado na cavidade abdominal. Qual é o ligamento presente na face diafragmática que (cid:77)xa o fígado à parede anterior do abdômen e separa o recesso subfrênico em esquerdo e direito?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ligamento triangular direito."
+      },
+      {
+        "letra": "B",
+        "texto": "Ligamento triangular esquerdo."
+      },
+      {
+        "letra": "C",
+        "texto": "Ligamento redondo do fígado."
+      },
+      {
+        "letra": "D",
+        "texto": "Lâmina anterior do ligamento coronário."
+      },
+      {
+        "letra": "E",
+        "texto": "Ligamento falciforme."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 105366,
+    "tags": [],
+    "enunciado": "Por onde ocorre a liberação na luz duodenal da secreção pancreática proveniente do ducto pancreático acessório?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Papila duodenal maior."
+      },
+      {
+        "letra": "B",
+        "texto": "Papila jejunal maior."
+      },
+      {
+        "letra": "C",
+        "texto": "Papila ilíaca."
+      },
+      {
+        "letra": "D",
+        "texto": "Papila duodenal menor."
+      },
+      {
+        "letra": "E",
+        "texto": "Papila jejunal menor."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105367,
+    "tags": [],
+    "enunciado": "Quais são as estruturas que se unem para a formação da ampola de Vater?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ducto pancreático acessório e ducto colédoco."
+      },
+      {
+        "letra": "B",
+        "texto": "Ducto pancreático acessório e ducto hepático comum."
+      },
+      {
+        "letra": "C",
+        "texto": "Ducto pancreático acessório e ducto cístico."
+      },
+      {
+        "letra": "D",
+        "texto": "Ducto pancreático principal e ducto colédoco."
+      },
+      {
+        "letra": "E",
+        "texto": "Ducto pancreático principal e ducto cístico."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105368,
+    "tags": [],
+    "enunciado": "A anatomia do pâncreas guarda uma intimidade com vários órgãos abdominais vitais e muito importantes. Considere que haja um tumor pancreático com um crescimento exagerado que comprimiu a ampola duodenal, em qual parte do pâncreas ele, mais provavelmente, deve estar localizado?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cabeça do pâncreas."
+      },
+      {
+        "letra": "B",
+        "texto": "Colo do pâncreas."
+      },
+      {
+        "letra": "C",
+        "texto": "Corpo do pâncreas."
+      },
+      {
+        "letra": "D",
+        "texto": "Cauda do pâncreas."
+      },
+      {
+        "letra": "E",
+        "texto": "Todas estão corretas."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105369,
+    "tags": [],
+    "enunciado": "Sobre a drenagem venosa dos intestinos, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A veia esplênica têm tributárias que drenam partes do intestino delgado."
+      },
+      {
+        "letra": "B",
+        "texto": "A veia cólica média é tributária da veia mesentérica inferior."
+      },
+      {
+        "letra": "C",
+        "texto": "As veias pancreaticoduodenais são tributárias da veia esplênica."
+      },
+      {
+        "letra": "D",
+        "texto": "A veia porta do fígado é formada pelas veias mesentérica superior e inferior e pela veia esplênica."
+      },
+      {
+        "letra": "E",
+        "texto": "A veia mesentérica inferior sempre desemboca na veia esplênica."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105370,
+    "tags": [],
+    "enunciado": "Sobre a drenagem linfática dos intestinos, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A drenagem linfática do cólon ascendente, do cólon transverso e do cólon ascendente tem como destino intermediário os linfonodos mesentéricos superiores."
+      },
+      {
+        "letra": "B",
+        "texto": "Dos linfonodos mesentéricos superiores a linfa se direciona para os linfonodos para-aórticos."
+      },
+      {
+        "letra": "C",
+        "texto": "A partir da flexura esquerda do cólon a drenagem linfática muda de destino intermediário."
+      },
+      {
+        "letra": "D",
+        "texto": "Dos linfonodos mesentéricos inferiores a linfa se direciona para o ducto torácico."
+      },
+      {
+        "letra": "E",
+        "texto": "A parte proximal do reto é tem sua linfa drenada pelos linfonodos inguinais."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105371,
+    "tags": [],
+    "enunciado": "Sobre a inervação dos intestinos, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As fibras parassimpáticas pré-ganglionares realizam sinapses nos gânglios mesentérico superior e no gânglio mesentérico inferior."
+      },
+      {
+        "letra": "B",
+        "texto": "A inervação dos intestinos acompanha a irrigação promovida por ramos da aorta."
+      },
+      {
+        "letra": "C",
+        "texto": "A origem dos neurônios parassimpáticos permanece a mesma ao longo de todo o trajeto dos intestinos."
+      },
+      {
+        "letra": "D",
+        "texto": "O plexo hipogástrico inerva o cólon transverso, o cólon descendente e o cólon sigmoideo."
+      },
+      {
+        "letra": "E",
+        "texto": "As fibras simpáticas pós-ganglionares partem da parede dos órgãos."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105372,
+    "tags": [],
+    "enunciado": "Sobre a inervação do estômago, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os neurônios pós-ganglionares simpáticos emitem informações que tem como objetivo inibir o processo de digestão."
+      },
+      {
+        "letra": "B",
+        "texto": "As fibras parassimpáticas pré-ganglionares fazem sinapses com os neurônios pós ganglionares nos gânglios celíacos."
+      },
+      {
+        "letra": "C",
+        "texto": "As fibras parassimpáticas pré-ganglionares chegam aos gânglios celíacos por meio dos nervos esplâncnicos."
+      },
+      {
+        "letra": "D",
+        "texto": "Do tronco vagal posterior, do qual parte uma porção das fibras parassimpáticas pré-ganglionares, parte os ramos que inervam a região do fígado."
+      },
+      {
+        "letra": "E",
+        "texto": "As fibras simpáticas pré-ganglionares fazem sinapses com as fibras simpáticas pós-ganglionares na parede do estômago."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105373,
+    "tags": [],
+    "enunciado": "Sobre a drenagem linfática do estômago, assinale a correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A drenagem linfática da parte posterior do estômago ocorre pelos linfonodos esplênicos, apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "O conteúdo linfático drenado pelos linfonodos próximos à região do estômago se direciona para o dúcto linfático direito."
+      },
+      {
+        "letra": "C",
+        "texto": "O piloro e a curvatura menor do estômago são drenados pelos mesmos linfonodos."
+      },
+      {
+        "letra": "D",
+        "texto": "A região da curvatura maior do estômago tem sua drenagem linfática realizada apenas pelos linfonodos gastromentais."
+      },
+      {
+        "letra": "E",
+        "texto": "O conteúdo linfático drenado pelos linfonodos próximos à região do estômago se direciona, inicialmente, para os linfonodos celíacos."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 105374,
+    "tags": [],
+    "enunciado": "Sobre a irrigação e as drenagens venosa e linfática do esôfago, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A irrigação e a drenagem venosa da traqueia não guardam relação com a irrigação e com a drenagem venosa do esôfago."
+      },
+      {
+        "letra": "B",
+        "texto": "A drenagem venosa promovida no esôfago ocorre unicamente das veias ázigos e hemiázigos para a veia cava superior."
+      },
+      {
+        "letra": "C",
+        "texto": "A drenagem linfática da parte cervical do esôfago ocorre para os linfonodos mediastinais, também."
+      },
+      {
+        "letra": "D",
+        "texto": "O tronco celíaco está envolvido na irrigação do esôfago."
+      },
+      {
+        "letra": "E",
+        "texto": "A aorta é responsável por parte da irrigação da porção torácica do esôfago."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105375,
+    "tags": [],
+    "enunciado": "Sobre os ligamentos formados por peritônio e as subdivisões da cavidade peritoneal, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É no ligamento hepatogástrico que há a passagem para a tríade portal."
+      },
+      {
+        "letra": "B",
+        "texto": "Os ligamentos hepatogástrico e hepatoduodenal são assim diferenciados porque a consistência do peritônio que os forma é diferente."
+      },
+      {
+        "letra": "C",
+        "texto": "Os limites anterior e posterior do forame omental, são, respectivamente, o ligamento hepatoduodenal e a veia cava inferior."
+      },
+      {
+        "letra": "D",
+        "texto": "Os sulcos paracólicos são espaços de comunicação entre o espaço infra cólico direito e o espaço infra cólico esquerdo."
+      },
+      {
+        "letra": "E",
+        "texto": "Os sulcos paracólicos direito e esquerdo drenam apenas para a pelve."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105376,
+    "tags": [],
+    "enunciado": "Sobre o intestino posterior, um dos constituintes do intestino primitivo, assinale a correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A linha pectínea marca a transição de epitélio colunar (proveniente da endoderme) para epitélio pavimentoso estratificado (proveniente da ectoderme)"
+      },
+      {
+        "letra": "B",
+        "texto": "O septo urorretal é formado por uma fenda entre o alantoide o intestino médio."
+      },
+      {
+        "letra": "C",
+        "texto": "O canal anal é irrigado pelas artérias retais superior e inferior, todas provenientes da artéria mesentérica inferior."
+      },
+      {
+        "letra": "D",
+        "texto": "Separações incompletas do intestino posterior com o seio urogenital costumam gerar variações anatômicas fisiológicas."
+      },
+      {
+        "letra": "E",
+        "texto": "A membrana cloacal é rompida apenas depois da décima quinta semana de gestação."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105377,
+    "tags": [],
+    "enunciado": "Em relação ao processo de formação do fígado e do duodeno, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O processo de rotação das alças intestinais primitivas auxilia no processo de formação do duodeno."
+      },
+      {
+        "letra": "B",
+        "texto": "Desde o início de sua formação o duodeno está localizado no lado esquerdo da cavidade abdominal."
+      },
+      {
+        "letra": "C",
+        "texto": "O duodeno é irrigado unicamente pela artéria celíaca."
+      },
+      {
+        "letra": "D",
+        "texto": "O mesoderma do septo transverso origina o ligamento falciforme do fígado e o omento menor."
+      },
+      {
+        "letra": "E",
+        "texto": "As células hematopoiéticas, as células de Kupffer e as células do tecido conjuntivo do fígado são originadas da endoderme que recobre o intestino anterior."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105378,
+    "tags": [],
+    "enunciado": "Em relação ao processo de formação do intestino delgado e do intestino grosso, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A rotação em sentido horário que as alças intestinais primitivas realizam ocorre em torno de um eixo formado pela artéria celíaca."
+      },
+      {
+        "letra": "B",
+        "texto": "O processo de herniação das alças intestinais primitivas ocorre depois do processo de rotação que elas realizam."
+      },
+      {
+        "letra": "C",
+        "texto": "A artéria mesentérica superior é responsável pela irrigação do intestino médio."
+      },
+      {
+        "letra": "D",
+        "texto": "O intestino posterior dá origem ao cólon ascendente, ao cólon transverso, ao cólon descendente e ao reto."
+      },
+      {
+        "letra": "E",
+        "texto": "Apenas depois da décima quinta semana é que o intestino primitivo retorna à cavidade abdominal."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105379,
+    "tags": [],
+    "enunciado": "No que diz respeito ao processo de formação do estômago, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Após sofrer uma rotação de 90º no eixo crânio-caudal, a porção ventral originará a curvatura maior."
+      },
+      {
+        "letra": "B",
+        "texto": "O crescimento desproporcional do estômago altera a disposição inicial dos mesogástrios ventral e dorsal."
+      },
+      {
+        "letra": "C",
+        "texto": "O intestino médio é a região que dará origem ao estômago. Seu processo de formação envolve o desvio dos polos cranial e caudal da linha média."
+      },
+      {
+        "letra": "D",
+        "texto": "Após sofrer uma rotação de 180º, a região dorsal passa por um crescimento e origina a curvatura maior."
+      },
+      {
+        "letra": "E",
+        "texto": "O mesogástrio ventral dá origem ao omento maior."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105380,
+    "tags": [],
+    "enunciado": "No que diz respeito ao processo de formação do esôfago, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O revestimento muscular de todo o esôfago é inervado pelo mesmo plexo, a saber: plexo esplâncnico."
+      },
+      {
+        "letra": "B",
+        "texto": "Desde o início da formação do esôfago já é possível observar a presença de epitélio pavimentoso estratificado."
+      },
+      {
+        "letra": "C",
+        "texto": "Inicialmente o esôfago encontra-se numa região mais anteriorizada, em relação à traqueia. Por volta da décima semana ocorre, então, uma rotação de 180º que acaba por deixar o esôfago na posição posterior à traqueia."
+      },
+      {
+        "letra": "D",
+        "texto": "A camada submucosa termina de ser formada antes das camadas musculares."
+      },
+      {
+        "letra": "E",
+        "texto": "O septo traqueoesofágico é responsável pela separação do divertículo respiratório da porção dorsal do intestino anterior."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 105381,
+    "tags": [],
+    "enunciado": "O processo de embriologia do sistema digestório é complexo e marcado por inúmeros sinalizadores e reguladores moleculares. Sobre isso, assinale a alternativa que corresponde ao sinalizador envolvido na diferenciação do esôfago e do estômago:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "SOX2"
+      },
+      {
+        "letra": "B",
+        "texto": "PDX1"
+      },
+      {
+        "letra": "C",
+        "texto": "CDXC"
+      },
+      {
+        "letra": "D",
+        "texto": "CDXA"
+      },
+      {
+        "letra": "E",
+        "texto": "SHH"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105382,
+    "tags": [],
+    "enunciado": "A composição histológica presente no TGI é bastante variada devido ao fato de que há regiões especializadas em secretar, em contrapartida a regiões cuja especialização é absorver. Sobre a histologia do intestino delgado assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A mucosa intestinal é composta por epitélio do tipo pavimentoso estratificado."
+      },
+      {
+        "letra": "B",
+        "texto": "A quantidade de células caliciformes permanece constante ao longo de toda a mucosa intestinal."
+      },
+      {
+        "letra": "C",
+        "texto": "As glândulas duodenais apresentam um epônimo: glândulas de Lieberkühn."
+      },
+      {
+        "letra": "D",
+        "texto": "As vilosidades são projeções citoplasmáticas que aumentam a superfície de contato entre as células e o quimo."
+      },
+      {
+        "letra": "E",
+        "texto": "As glândulas presentes na lâmina própria têm a característica de serem tubulosas."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 105383,
+    "tags": [],
+    "enunciado": "A composição histológica presente no TGI é bastante variada devido ao fato de que há regiões especializadas em secretar, em contrapartida a regiões cuja especialização é absorver. Sobre a histologia do estômago, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Na região do fundo gástrico, a superfície da mucosa é rugosa e apresenta reentrâncias denominadas fossetas gástricas."
+      },
+      {
+        "letra": "B",
+        "texto": "Na região do corpo gástrico observa-se epitélio colunar estratificado."
+      },
+      {
+        "letra": "C",
+        "texto": "A lâmina própria da camada mucosa apresenta glândulas gástricas, na região do fundo gástrico."
+      },
+      {
+        "letra": "D",
+        "texto": "As células principais, que são secretoras de HCl, estão localizadas acima das glândulas gástricas."
+      },
+      {
+        "letra": "E",
+        "texto": "As glândulas cárdicas são compostas por células secretoras de HCl."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105384,
+    "tags": [],
+    "enunciado": "A composição histológica presente no TGI é bastante variada devido ao fato de que há regiões especializadas em secretar, em contrapartida a regiões cuja especialização é absorver. Sobre a histologia do esôfago, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As glândulas mucosas presentes no esôfago encontram-se presentes na lâmina própria."
+      },
+      {
+        "letra": "B",
+        "texto": "Acima da lâmina própria do esôfago está presente o epitélio pavimentoso estratificado."
+      },
+      {
+        "letra": "C",
+        "texto": "A lâmina própria do esôfago é constituída por tecido conjuntivo denso modelado."
+      },
+      {
+        "letra": "D",
+        "texto": "Sempre que um corte histológico de esôfago é observado é possível observar músculo estriado esquelético."
+      },
+      {
+        "letra": "E",
+        "texto": "A transição entre a mucosa do esôfago e a do estômago é marcada pela presença de epitélio pavimentoso simples e, abruptamente, observa-se epitélio colunar simples."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105385,
+    "tags": [],
+    "enunciado": "Sobre a anatomia do intestino grosso e suas relações, assinale a correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O cólon transverso é a parte mais móvel do intestino grosso. Ele é uma víscera secundariamente retroperitoneal."
+      },
+      {
+        "letra": "B",
+        "texto": "À tênia livre fixam-se os mesocolos transverso e sigmoide."
+      },
+      {
+        "letra": "C",
+        "texto": "As tênias do colo são faixas de músculo liso que se formam a partir do ceco"
+      },
+      {
+        "letra": "D",
+        "texto": "Os cólons ascendente e descendente são secundariamente retroperitoneais e, portanto, são imóveis."
+      },
+      {
+        "letra": "E",
+        "texto": "O cólon ascendente encontra acima de si o lobo direito do fígado e vira a esquerda na denominada flexura esplênica."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105386,
+    "tags": [],
+    "enunciado": "Sobre a irrigação do intestino delgado e do intestino grosso, assinale a correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A artéria apendicular é um ramo direto da artéria mesentérica inferior."
+      },
+      {
+        "letra": "B",
+        "texto": "As artérias retais superior, média e inferior não compartilham da mesma origem."
+      },
+      {
+        "letra": "C",
+        "texto": "Anastomoses são muito comumente encontradas na irrigação do intestino grosso. Exemplo disso é a anastomose da artéria cólica direita com a artéria cólica média, que irriga o cólon transverso."
+      },
+      {
+        "letra": "D",
+        "texto": "A artéria cólica média irriga a maior parte do cólon ascendente."
+      },
+      {
+        "letra": "E",
+        "texto": "Da artéria mesentérica superior parte a artéria cólica esquerda, responsável pela irrigação do cólon descendente."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105387,
+    "tags": [],
+    "enunciado": "O jejuno e o íleo compõem a segunda parte do intestino delgado e é neles que a maior parte dos nutrientes é absorvida. Sobre o jejuno e o íleo, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Em comparação com o íleo, o jejuno apresenta poucos nódulos linfoides."
+      },
+      {
+        "letra": "B",
+        "texto": "No jejuno é possível encontrar acidentes anatômicos denominados de tênias: tênia mesocólica, tênia omental e tênia livre."
+      },
+      {
+        "letra": "C",
+        "texto": "A veia mesentérica superior realiza drenagem do jejuno, ao passo que a veia mesentérica inferior realiza drenagem do íleo."
+      },
+      {
+        "letra": "D",
+        "texto": "Os vasos retos presentes no jejuno e no íleo dão origem às junções arteriais denominadas de arcos arteriais."
+      },
+      {
+        "letra": "E",
+        "texto": "No jejuno encontram-se os vasos retos curtos, enquanto no íleo encontram-se os vasos retos longos."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105388,
+    "tags": [],
+    "enunciado": "Sobre a anatomia do duodeno e suas relações com os diversos órgãos, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A parte superior do duodeno é revestida por peritônio tanto anteriormente quanto posteriormente."
+      },
+      {
+        "letra": "B",
+        "texto": "Os ductos colédoco e pancreático principal desembocam na denominada papila menor do duodeno."
+      },
+      {
+        "letra": "C",
+        "texto": "A artéria pancreaticoduodenal superior supre o duodeno proximal, enquanto a artéria pancreaticoduodenal inferior supre o duodeno distal."
+      },
+      {
+        "letra": "D",
+        "texto": "A parte proximal da região superior do duodeno tem o ligado hepatogástrico fixado inferiormente."
+      },
+      {
+        "letra": "E",
+        "texto": "A cauda do pâncreas passa superiormente à parte horizontal do duodeno."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105389,
+    "tags": [],
+    "enunciado": "Sobre a vascularização do estômago, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas as veias gástricas acompanham as artérias no que diz respeito à posição e ao trajeto."
+      },
+      {
+        "letra": "B",
+        "texto": "O caminho final de drenagem venosa do estômago passa necessariamente pela veia esplênica, antes de chegar à veia porta."
+      },
+      {
+        "letra": "C",
+        "texto": "A veia gástrica curta drena o sangue da região posterior do estômago."
+      },
+      {
+        "letra": "D",
+        "texto": "Os três principais ramos que formam a veia porta são: veia mesentérica superior, veia mesentérica inferior e veias pancreaticoduodenais."
+      },
+      {
+        "letra": "E",
+        "texto": "É para a veia mesentérica superior que a veia gastromental direita realiza drenagem. Da mesma forma, as veias pancreáticas também realizam drenagem para a veia mesentérica superior."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105390,
+    "tags": [],
+    "enunciado": "Sobre a irrigação do estômago, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A irrigação da curvatura menor se dá pela artéria gástrica direita, apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "A artéria hepática comum dá origem às artérias pancreaticoduodenais superior e inferior."
+      },
+      {
+        "letra": "C",
+        "texto": "As artérias gastromentais esquerda e direita são responsáveis pela irrigação da curvatura maior."
+      },
+      {
+        "letra": "D",
+        "texto": "A artéria gástrica posterior se origina da artéria gástrica esquerda."
+      },
+      {
+        "letra": "E",
+        "texto": "Apenas a artéria gástrica posterior irriga a região do fundo gástrico."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105391,
+    "tags": [],
+    "enunciado": "O estômago (cid:77)ca localizado entre o esôfago e o intestino delgado e é nele que o processo de digestão, iniciado por enzimas presentes nas glândulas salivares, se intensi(cid:77)ca. Sobre sua anatomia, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A irrigação do estômago parte do tronco celíaco."
+      },
+      {
+        "letra": "B",
+        "texto": "A parte anterior do estômago tem relação com o lobo esquerdo do fígado, com a parede anterior do abdômen e com o baço."
+      },
+      {
+        "letra": "C",
+        "texto": "A parte posterior do estômago tem relação com o pâncreas, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "A posição do estômago permanece a mesma, independentemente da posição em que a pessoa se encontra."
+      },
+      {
+        "letra": "E",
+        "texto": "A incisura angular fica localizada à direita da linha mediana."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105392,
+    "tags": [],
+    "enunciado": "Doenças que podem envolver o esôfago como a doença do re(cid:67)uxo gastro-esofágico (DRGE) demandam conhecimentos precisos sobre a anatomia do órgão acometido. Sendo assim, assinale a alternativa correta sobre a anatomia do esôfago:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "No terço superior do esôfago há tanto músculo estriado esquelético quanto músculo liso."
+      },
+      {
+        "letra": "B",
+        "texto": "No terço inferior do esôfago há apenas músculo liso."
+      },
+      {
+        "letra": "C",
+        "texto": "O esôfago entra no estômago à direita da linha mediana."
+      },
+      {
+        "letra": "D",
+        "texto": "É denominada de linha H o acidente anatômico que marca a transição da mucosa esofágica para a mucosa gástrica."
+      },
+      {
+        "letra": "E",
+        "texto": "As paredes do esôfago encontram-se continuamente dilatadas em uma pessoa normal."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105393,
+    "tags": [],
+    "enunciado": "Doenças decorrentes de desbalanço entre a secreção gástrica e os fatores protetores da mucosa gástrica são muito frequentes na população. Nesse sentido, muitos fármacos foram desenvolvidos para amenizar os sintomas decorrentes da acidez. Sendo assim, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os inibidores mais potentes da produção de ácido gástrico são os supressores da bomba de prótons da célula parietal. Um exemplo deles é o omeprazol."
+      },
+      {
+        "letra": "B",
+        "texto": "Os fármacos antagonistas de receptor H2 atuam nas células enterocromafim (ECL), impedindo a liberação de histamina."
+      },
+      {
+        "letra": "C",
+        "texto": "As prostaglandinas agem unicamente em células epiteliais superficiais, estimulando a secreção de muco e bicarbonato, que são fatores protetores da mucosa."
+      },
+      {
+        "letra": "D",
+        "texto": "Os anti-inflamatórios não esteroidais (AINE) são de uso recomendado para pacientes que tenham úlcera péptica pois eles agem estimulando as prostaglandinas."
+      },
+      {
+        "letra": "E",
+        "texto": "Os inibidores da bomba de prótons e os antagonistas de receptor H2 apresentam muitos efeitos colaterais nos pacientes, o que os torna a segunda opção de para o tratamento."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105394,
+    "tags": [],
+    "enunciado": "Os fármacos procinéticos são aqueles que estimulam a motilidade do TGI. Sobre eles, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os agonistas de receptor 5-HT4 inibem a motilidade intestinal."
+      },
+      {
+        "letra": "B",
+        "texto": "Efeitos adversos dos fármacos que são agonistas de receptor 5-HT4 podem ser constipação e náuseas."
+      },
+      {
+        "letra": "C",
+        "texto": "Opioides são fármacos que podem ter diarreia como efeito colateral."
+      },
+      {
+        "letra": "D",
+        "texto": "Fármacos como a metoclopramida, inibidores de dopamina têm efeito de estimular a motilidade intestinal."
+      },
+      {
+        "letra": "E",
+        "texto": "A motilina é um neurotransmissor com função de aumentar a motilidade intestinal."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105395,
+    "tags": [],
+    "enunciado": "A secreção de bile é fundamental para o processo de digestão de gordura. Sobre o processo de formação desse fluido, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A bile é constituída principalmente por fosfolipídeos."
+      },
+      {
+        "letra": "B",
+        "texto": "Tanto a bile isotônica quanto a bile hipertônica são produzidas na vesícula biliar."
+      },
+      {
+        "letra": "C",
+        "texto": "A bile é produzida apenas no momento em que ocorre a alimentação."
+      },
+      {
+        "letra": "D",
+        "texto": "Alterações de quantidade dos componentes da bile podem predispor a precipitação de cálculos na vesícula."
+      },
+      {
+        "letra": "E",
+        "texto": "A maior parte dos sais biliares é perdida nas fezes."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105396,
+    "tags": [],
+    "enunciado": "A secreção do suco pancreático e do suco biliar se dá por meio dos hormônios CCK e secretina, que promovem a alcalinização e a digestão de macronutrientes. Sobre esse processo, assinale a alternativa:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A fase gástrica é a mais importante na produção do suco pancreático."
+      },
+      {
+        "letra": "B",
+        "texto": "O inibidor de tripsina e o ambiente ácido dos grânulos das células acinares previnem a ativação das enzimas ali presentes."
+      },
+      {
+        "letra": "C",
+        "texto": "A célula que compõe os ácinos pancreáticos são epiteliais e não são polarizadas."
+      },
+      {
+        "letra": "D",
+        "texto": "A secreção pancreática é inicialmente mucinosa."
+      },
+      {
+        "letra": "E",
+        "texto": "A água que compõe o suco pancreático é proveniente das células acinares."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105397,
+    "tags": [],
+    "enunciado": "Os macronutrientes (carboidratos, proteínas e lipídeos) são os componentes básicos para uma vivência saudável. Desbalanços nos seus níveis podem gerar sérios problemas de saúde. Sobre o processo de absorção de lipídeos, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A digestão de lipídeos começa na boca, por meio de uma enzima denominada de lipase lingual"
+      },
+      {
+        "letra": "B",
+        "texto": "A bile é responsável pela digestão de gorduras no duodeno."
+      },
+      {
+        "letra": "C",
+        "texto": "Os produtos de digestão dos lipídeos são reesterificados nos enterócitos e, de lá, caem na linfa."
+      },
+      {
+        "letra": "D",
+        "texto": "Os produtos de digestão dos lipídeos são absorvidos pelos enterócitos e, sem sofrer nenhuma modificação, caem na circulação linfática."
+      },
+      {
+        "letra": "E",
+        "texto": "Os produtos de digestão dos lipídeos ficam livres no lúmen intestinal e, de lá, são absorvidos pelos enterócitos."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105398,
+    "tags": [],
+    "enunciado": "Os macronutrientes (carboidratos, proteínas e lipídeos) são os componentes básicos para uma vivência saudável. Desbalanços nos seus níveis podem gerar sérios problemas de saúde. Sobre o processo de absorção de proteínas, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A maior parte das proteínas é digerida no estômago."
+      },
+      {
+        "letra": "B",
+        "texto": "As proteínas começam a ser digeridas no estômago, e terminam de ser digeridas no intestino delgado, restando apenas aminoácidos, que são absorvidos pelos enterócitos."
+      },
+      {
+        "letra": "C",
+        "texto": "A enteropeptidase é a enzima responsável por ativar todas as enzimas digestivas inativas provenientes do suco pancreático."
+      },
+      {
+        "letra": "D",
+        "texto": "Todas as enzimas digestivas que vêm do pâncreas são endoproteases."
+      },
+      {
+        "letra": "E",
+        "texto": "Os enterócitos apresentam proteases que terminam o processo de quebra de proteínas, formando aminoácidos em seu interior."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 105399,
+    "tags": [],
+    "enunciado": "Os macronutrientes (carboidratos, proteínas e lipídeos) são os componentes básicos para uma vivência saudável. Desbalanços nos seus níveis podem gerar sérios problemas de saúde. Sobre o processo de absorção de carboidratos, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A dextrinase cliva unicamente a dextrina e a maltose."
+      },
+      {
+        "letra": "B",
+        "texto": "A maltose e a dextrina podem ser clivadas pela maltase."
+      },
+      {
+        "letra": "C",
+        "texto": "A sacarase cliva unicamente a sacarose e a maltose."
+      },
+      {
+        "letra": "D",
+        "texto": "Glicose, galactose e frutose entram nos enterócitos por meio do mesmo cotransportador (SGLT1)."
+      },
+      {
+        "letra": "E",
+        "texto": "Os monossacarídeos passam do enterócito para a circulação portal por meio do GLUT 2."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 105400,
+    "tags": [],
+    "enunciado": "Os processos de absorção de íons e de água no tubo digestivo podem ocorrer ou pela via paracelular ou pela via transcelular. Sobre esses processos, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A passagem de sódio do enterócito para o interstício torna-o mais eletropositivo em relação ao lúmen do intestino. Essa tensão elétrica favorece a passagem de ânions como fosfato e cloreto pela via transcelular."
+      },
+      {
+        "letra": "B",
+        "texto": "A absorção de água se dá por meio do efeito osmótico gerado pelos íons absorvidos. Essa absorção é predominantemente transcelular, em todo o intestino delgado."
+      },
+      {
+        "letra": "C",
+        "texto": "O ferro+2 é encontrado na forma livre no lúmen do intestino delgado e é absorvido para o enterócito por canais de ferro (via transcelular)."
+      },
+      {
+        "letra": "D",
+        "texto": "A absorção de cálcio mais efetiva ocorre pela via transcelular, processo que é facilitado pela presença de calcitriol."
+      },
+      {
+        "letra": "E",
+        "texto": "O bicarbonato auxilia no tamponamento do quimo ácido proveniente do estômago. Ele é absorvido pela via transcelular e passa para a circulação através de canais de bicarbonato."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105401,
+    "tags": [],
+    "enunciado": "A absorção de nutrientes provenientes da alimentação ocorre quando estes passam da luz do intestino para a circulação. Sobre o epitélio absortivo, assinale a correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O epitélio absortivo é constituído por enterócitos, somente."
+      },
+      {
+        "letra": "B",
+        "texto": "As microvilosidades têm uma barreira física formada por glicoproteínas, por glicolipídeos e por polissacarídeos."
+      },
+      {
+        "letra": "C",
+        "texto": "A camada de água não agitada tem uma característica básica, o que auxilia na absorção de ácidos graxos e peptídeos, por exemplo."
+      },
+      {
+        "letra": "D",
+        "texto": "A absorção de nutrientes pelos enterócitos se dá a partir da membrana basolateral. De lá, os nutrientes passam pela membrana lateral e caem na corrente sanguínea."
+      },
+      {
+        "letra": "E",
+        "texto": "Há uma diminuição de permeabilidade no sentido proximal→ distal do intestino delgado."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105402,
+    "tags": [],
+    "enunciado": "Um dos padrões motores que o intestino grosso apresenta consiste no movimento de massa, no qual há contração de grandes extensões do cólon, principalmente distal. Sobre a (cid:77)siologia desse padrão motor e do reflexo de evacuação, assinale a correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O aumento de pressão no reto que principia o reflexo de evacuação é exclusivamente passivo."
+      },
+      {
+        "letra": "B",
+        "texto": "O reflexo de evacuação desencadeia uma resposta inicial de relaxamento do esfíncter anal externo (EAE) e do músculo puborretal."
+      },
+      {
+        "letra": "C",
+        "texto": "O estiramento que o reto sofre recebe como resposta o relaxamento do esfíncter anal interno (EAI). Esse processo é mediado pelo nervo pudendo."
+      },
+      {
+        "letra": "D",
+        "texto": "O quadro de incontinência fecal é muito associado a lesões do nervo pudendo."
+      },
+      {
+        "letra": "E",
+        "texto": "O reflexo de evacuação que ocorre após as refeições é denominado de ortotáxico."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105403,
+    "tags": [],
+    "enunciado": "O trânsito do alimento ao longo do tubo digestivo se dá por meio de padrões motores que ocorrem de maneira diferente, dependendo do órgão em questão. Sobre esses padrões, assinale a correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A sístole antral é o processo por meio do qual o quimo é triturado no estômago."
+      },
+      {
+        "letra": "B",
+        "texto": "As haustrações são o padrão de movimentação mais comum no intestino delgado. Elas permitem uma mistura maior do quimo com as secreções lançadas ali."
+      },
+      {
+        "letra": "C",
+        "texto": "As segmentações são o padrão de movimentação mais comum no cólon. Elas permitem, no cólon proxima,l a reabsorção de água e de eletrólitos."
+      },
+      {
+        "letra": "D",
+        "texto": "O ritmo elétrico basal (REB), responsável pelo estímulo do peristaltismo é o mesmo no intestino delgado e no intestino grosso."
+      },
+      {
+        "letra": "E",
+        "texto": "A gastrina é um hormônio que inibe a motilidade gastrintestinal."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105404,
+    "tags": [],
+    "enunciado": "No processo de digestão, constata-se que o suco gástrico apresenta papel essencial não só por liberar ácido clorídrico no lúmen do estômago, mas também fator intrínseco (FI), enzimas e muco. Sobre esses componentes, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O fator intrínseco é produzido pelas células principais e é essencial para absorção de vitamina B12."
+      },
+      {
+        "letra": "B",
+        "texto": "O pepsinogênio é o precursor da pepsina, enzima que começa a digestão das proteínas. Ele é produzido nas células principais e, no interior destas, dá origem à enzima ativa."
+      },
+      {
+        "letra": "C",
+        "texto": "Uma das explicações sobre o processo de inflamação da parede do estômago (denominado gastrite) é a de que ocorre diminuição da espessura da mucosa que o reveste."
+      },
+      {
+        "letra": "D",
+        "texto": "A secretina e a colecistoquinina inibem a produção de pepsinogênio pelas células principais."
+      },
+      {
+        "letra": "E",
+        "texto": "A lipase gástrica é muito relevante na digestão de gorduras, não só nos recém-nascidos, mas também nos adultos."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105405,
+    "tags": [],
+    "enunciado": "Ao se analisar a (cid:77)siologia da digestão, constata-se um papel bastante importante do suco gástrico, que apresenta, dentre outros componentes, ácido clorídrico. Sobre a produção do ácido clorídrico do suco gástrico, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A célula parietal não apresenta mudança em sua morfologia para secretar HCl."
+      },
+      {
+        "letra": "B",
+        "texto": "A estimulação da secreção de HCL é unicamente parácrina."
+      },
+      {
+        "letra": "C",
+        "texto": "A célula parietal é estimulada a secretar HCl por meio da gastrina, da acetilcolina e da histamina."
+      },
+      {
+        "letra": "D",
+        "texto": "A célula parietal produz HCl e o libera diretamente no lúmen do estômago."
+      },
+      {
+        "letra": "E",
+        "texto": "Anti-histamínicos específicos para receptor H2 inibem completamente a secreção de"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105406,
+    "tags": [],
+    "enunciado": "Sobre a fisiologia do músculo liso presente no TGI, assinale a correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As células musculares lisas que compõem o TGI são do tipo multi-unitárias, ou seja, se contraem a partir de um estímulo elétrico específico para cada uma delas."
+      },
+      {
+        "letra": "B",
+        "texto": "As oscilações do potencial de membrana das células musculares lisas são chamadas de ondas lentas ou ritmo basal elétrico e são geradas pelas células marca-passo do TGI."
+      },
+      {
+        "letra": "C",
+        "texto": "São as ondas lentas que geram o estímulo para a peristalse. As contrações fásicas e tônicas são geradas por estímulo elétrico de outra célula especializada (célula estrelada)."
+      },
+      {
+        "letra": "D",
+        "texto": "Tanto a contração fásica quanto a contração tônica ocorrem por meio da entrada de cálcio nas células musculares. Depois do estímulo por esse íon, os níveis de cálcio voltam aos níveis basais."
+      },
+      {
+        "letra": "E",
+        "texto": "As ondas peristálticas originadas na região de marca-passo apresentam a mesma intensidade e velocidade ao longo de todo o estômago."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105407,
+    "tags": [],
+    "enunciado": "A motilidade gastrintestinal é um fenômeno aparentemente simples, mas que envolve interações nervosas extremamente complexas e muito bem orquestradas. Nesse sentido, assinale a correta sobre o processo de deglutição:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Na fase faríngea, ocorre a contração do esfíncter esofagiano superior"
+      },
+      {
+        "letra": "B",
+        "texto": "Na fase esofagiana, ocorre o relaxamento do esfíncter esofagiano superior"
+      },
+      {
+        "letra": "C",
+        "texto": "Na fase esofagiana, o componente gravitacional é o mais importante para que o bolo alimentar chegue ao estômago."
+      },
+      {
+        "letra": "D",
+        "texto": "Na fase faríngea há relaxamento dos músculos constritores da faringe"
+      },
+      {
+        "letra": "E",
+        "texto": "Na fase esofagiana há, relaxamento do esfíncter esofagiano inferior e do fundo gástrico"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 105408,
+    "tags": [],
+    "enunciado": "Os hormônios gastrina, colecistoquinina e secretina são liberados, respectivamente, em quais células?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Células G (duodeno e antro), células I (duodeno e jejuno) e células S (duodeno e jejuno)"
+      },
+      {
+        "letra": "B",
+        "texto": "Células G (duodeno e antro), células PP (pâncreas), células delta (pâncreas)"
+      },
+      {
+        "letra": "C",
+        "texto": "Células parietais (estômago), células I (apenas duodeno) e células PP (duodeno e jejuno)"
+      },
+      {
+        "letra": "D",
+        "texto": "Células D (estômago), células I (duodeno e jejuno) e células S (apenas jejuno)"
+      },
+      {
+        "letra": "E",
+        "texto": "Células enterocromafins (estômago), células I (duodeno e jejuno) e células S (duodeno e jejuno)"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105409,
+    "tags": [],
+    "enunciado": "“As funções do SGI, além de serem reguladas de maneira autônoma pelo SNE, também o são por hormônios e parácrinos sintetizados no próprio TGI” (Margarida Aires de Melo, 4ª edição, p. 875). Sendo assim, assinale a alternativa correta sobre a secretina:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Estimula secreção de HCL pelas células gástricas"
+      },
+      {
+        "letra": "B",
+        "texto": "Estimula relaxamento do piloro, aumentando a velocidade de esvaziamento gástrico"
+      },
+      {
+        "letra": "C",
+        "texto": "Estimula a secreção de bicarbonato tanto pelas células dos ductos pancreáticos quanto pelas células dos ductos biliares."
+      },
+      {
+        "letra": "D",
+        "texto": "Estimula o relaxamento do esfíncter de Oddi para liberação da bile"
+      },
+      {
+        "letra": "E",
+        "texto": "Estimula secreção de gastrina"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105410,
+    "tags": [],
+    "enunciado": "Ao se estudar as classi(cid:77)cações funcionais do sistema nervoso, vê-se que este é dividido em somático e visceral, e que a parte eferente deste último é denominada de sistema nervoso autônomo. Tendo em vista as relações entre sistema nervoso autônomo e sistema nervoso entérico, assinale a correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A inervação parassimpática do SGI é realizada apenas pelo nervo vago."
+      },
+      {
+        "letra": "B",
+        "texto": "A inervação parassimpática do SGI é constituída em sua maioria por fibras eferentes."
+      },
+      {
+        "letra": "C",
+        "texto": "As fibras eferentes simpáticas pré-sinápticas fazem sinapses com os plexos intramurais."
+      },
+      {
+        "letra": "D",
+        "texto": "As fibras eferentes parassimpáticas pré-sinápticas fazem sinapses nos gânglios simpáticos celíaco, mesentéricos superior e inferior e hipogástricos superior e inferior."
+      },
+      {
+        "letra": "E",
+        "texto": "As fibras pós-sinápticas eferentes são noradrenérgicas."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 105411,
+    "tags": [],
+    "enunciado": "Em se tratando da regulação neuro-hormonal do TGI, sabe-se que há inúmeros neuromoduladores e neurotransmissores vitais ao funcionamento desse sistema. Assim sendo, assinale a alternativa que contém a afirmativa correta sobre as ações da acetilcolina:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Contração da musculatura lisa e relaxamento do esfíncter pilórico."
+      },
+      {
+        "letra": "B",
+        "texto": "Contração da musculatura lisa e do esfíncter pilórico."
+      },
+      {
+        "letra": "C",
+        "texto": "Relaxamento do esfíncter esofagiano inferior e aumento da secreção pancreática."
+      },
+      {
+        "letra": "D",
+        "texto": "Aumento da secreção salivar e relaxamento da musculatura lisa."
+      },
+      {
+        "letra": "E",
+        "texto": "Relaxamento da musculatura lisa e vasoconstrição."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105412,
+    "tags": [],
+    "enunciado": "Sobre a embriogênese do canal anal, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O terço superior do canal anal se desenvolve a partir do intestino posterior, enquanto o restante se desenvolve a partir a fosseta anal."
+      },
+      {
+        "letra": "B",
+        "texto": "Até o ânus o epitélio é não queratinizado, passando a ganhar esse aspecto apenas na pele."
+      },
+      {
+        "letra": "C",
+        "texto": "O local em que o ânus muda de epitélio colunar para pavimentoso estratificado é na linha anocutânea."
+      },
+      {
+        "letra": "D",
+        "texto": "A linha anocutânea indica o local de junção do epitélio derivado do ectoderma da fosseta anal e do endoderma do intestino posterior."
+      },
+      {
+        "letra": "E",
+        "texto": "Apenas o terço superior do reto possui vascularização provinda a artéria retal superior."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105413,
+    "tags": [],
+    "enunciado": "No período embrionário, a cloaca estrutura importante da formação do reto. Acerca dessa estrutura, julgue as alternativas em verdadeiro ou falso, e assinale a alternativa correta: 1) A cloaca recebe dorsalmente o alantoide, um divertículo digitiforme; 2) Incialmente, a cloaca é dividida nas partes dorsal e ventral pela membrana cloacal; 3) Com o seu desenvolvimento, a cloaca passa a ser dividida em 3 partes: o reto, a parte cranial do canal anal e o seio urogenital; 4) O seio urorretal é formado pelo endoderma da cloaca e pela ectoderma da fosseta anal.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "F-F-F-F"
+      },
+      {
+        "letra": "B",
+        "texto": "F-F-F-V"
+      },
+      {
+        "letra": "C",
+        "texto": "V-F-F-F"
+      },
+      {
+        "letra": "D",
+        "texto": "F-F-V-F"
+      },
+      {
+        "letra": "E",
+        "texto": "V-F-V-F"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105414,
+    "tags": [],
+    "enunciado": "Sobre os derivados do intestino posterior, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O intestino posterior é responsável por dar origem ao terço esquerdo do cólon transverso, descendente, sigmoide, reto e todo o canal anal."
+      },
+      {
+        "letra": "B",
+        "texto": "O mesentério do sigmoide desaparece ao longo da vida intrauterina."
+      },
+      {
+        "letra": "C",
+        "texto": "O cólon descendente mantém seu mesentério, por isso, é intraperitoneal na vida adulta."
+      },
+      {
+        "letra": "D",
+        "texto": "O intestino posterior só forma estruturas do trato gastrointestinal."
+      },
+      {
+        "letra": "E",
+        "texto": "Todas as estruturas derivadas do intestino inferior são irrigadas pela artéria mesentérica inferior."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 105415,
+    "tags": [],
+    "enunciado": "Qual o nome da estrutura que é o primórdio de ceco e do apêndice?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Mesogástrio dorsal"
+      },
+      {
+        "letra": "B",
+        "texto": "Dilatação cecal"
+      },
+      {
+        "letra": "C",
+        "texto": "Ducto onfaloentérico"
+      },
+      {
+        "letra": "D",
+        "texto": "Alça do intestino médio"
+      },
+      {
+        "letra": "E",
+        "texto": "Divertículo do apêndice"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105416,
+    "tags": [],
+    "enunciado": "Como sabemos, as porções do delgado e do cólon possuem diferentes relações em relação ao peritônio, fato que é de(cid:77)nido na embriologia. Sobre esse tema, julgue as alternativas em verdadeiro ou falso, e assinale a alternativa correta: 1) Na vida intrauterina, o crescimento do cólon pressiona o duodeno contra a parede abdominal posterior, causando a absorção do mesentério duodenal, do forma que o duodeno para a ser praticamente retroperitoneal. 2) O cólon ascendente e o ceco se fundem ao peritônio parietal na parede abdominal posterior, tornando-se retroperitoneais. 3) O jejuno e o íleo mantém seus mesentérios, e por isso, são intraperitoneais.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "V-V-V"
+      },
+      {
+        "letra": "B",
+        "texto": "V-V-F"
+      },
+      {
+        "letra": "C",
+        "texto": "V-F-V"
+      },
+      {
+        "letra": "D",
+        "texto": "F-F-V"
+      },
+      {
+        "letra": "E",
+        "texto": "F-F-V"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105417,
+    "tags": [],
+    "enunciado": "A herniação da Alça do Intestino Médio é um processo (cid:77)siológico que ocorre no desenvolvimento. Sobre esse processo, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "À medida que o intestino cresce ele forma uma alça intestinal em formato de U, que se projeta para dentro do celoma embrionário na parte distal do cordão umbilical."
+      },
+      {
+        "letra": "B",
+        "texto": "A herniação da alça intestinal ocorre pela falta de espaço dentro da cavidade abdominal para o intestino médio, que cresce lentamente."
+      },
+      {
+        "letra": "C",
+        "texto": "A alça do intestino médio possui uma porção proximal e uma distal e é suspenso pelo mesentério ventral."
+      },
+      {
+        "letra": "D",
+        "texto": "A porção proximal da alça do intestino médio forma o ceco."
+      },
+      {
+        "letra": "E",
+        "texto": "O ducto onfaloentérico é a estrutura que está ligada ao ápice do intestino médio, onde as porções proximal e distal se juntam."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 105418,
+    "tags": [],
+    "enunciado": "Qual das estruturas abaixo não é derivada do intestino médio?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Duodeno"
+      },
+      {
+        "letra": "B",
+        "texto": "Ceco"
+      },
+      {
+        "letra": "C",
+        "texto": "Cólon Ascendente"
+      },
+      {
+        "letra": "D",
+        "texto": "Reto"
+      },
+      {
+        "letra": "E",
+        "texto": "Cólon Transverso"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105419,
+    "tags": [],
+    "enunciado": "Acerca do desenvolvimento do tecido pancreático, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O parênquima pancreático é derivado do ectoderme dos brotos pancreáticos, que forma uma rede de túbulos."
+      },
+      {
+        "letra": "B",
+        "texto": "Os ácinos pancreáticos, responsáveis pela função endócrina do pâncreas, se desenvolvem ao redor de ductos pancreáticos primitivos."
+      },
+      {
+        "letra": "C",
+        "texto": "A secreção de insulina e glucagon começam no mesmo período, com cerca de 20 semanas de gestação."
+      },
+      {
+        "letra": "D",
+        "texto": "A presença de tecido celular ectópico (pâncreas ectópico) geralmente culmina em sintomatologia importante no início da vida."
+      },
+      {
+        "letra": "E",
+        "texto": "Em situações de diabetes mellitus gestacional, as células beta do pâncreas ficam hipertrofiadas devido à alta exposição à glicose, o que gera maior necessidade de produção de insulina."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 105420,
+    "tags": [],
+    "enunciado": "Sobre o desenvolvimento do pâncreas, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O pâncreas se desenvolve a partir dos brotos pancreáticos dorsal e ventral de células endodérmicas, sendo que sua maior parte deriva do broto ventral."
+      },
+      {
+        "letra": "B",
+        "texto": "O broto pancreático dorsal dá origem ao processo uncinado e à cabeça do pâncreas."
+      },
+      {
+        "letra": "C",
+        "texto": "O ducto pancreático se forma da partir do broto ventral e da parte distal do ducto do broto dorsal do pâncreas."
+      },
+      {
+        "letra": "D",
+        "texto": "A parte distal do ducto do broto dorsal persiste como o ducto pancreático acessório, que se abre na papila menor do duodeno."
+      },
+      {
+        "letra": "E",
+        "texto": "A rotação do estômago, duodeno e mesentério ventral faz com que o pâncreas assuma posição intraperitoneal."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105421,
+    "tags": [],
+    "enunciado": "Sobre o desenvolvimento embriológico do baço e suas funções na vida intrauterina, julgue as alternativas em verdadeiro ou falso, e em seguida assinale a alternativa correta: 1) A rotação do estômago para esquerda durante sua formação é responsável pela fusão do mesentério esquerdo com o peritônio do rim esquerdo, que explica por que a artéria esplênica segue curso tortuoso posterior à bolsa omental e anterior ao rim esquerdo; 2) O baço funciona como o centro hematopoiético na vida fetal tardia, perdendo esta função na vida adulta; 3) O baço acessório ocorre em cerca de 10% das pessoas, porém ele não resguarda nenhuma funcionalidade.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "F-F-F"
+      },
+      {
+        "letra": "B",
+        "texto": "V-F-F"
+      },
+      {
+        "letra": "C",
+        "texto": "V-V-F"
+      },
+      {
+        "letra": "D",
+        "texto": "F-V-F"
+      },
+      {
+        "letra": "E",
+        "texto": "V-V-V"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105422,
+    "tags": [],
+    "enunciado": "Durante o parto normal, um sinal de alarme para a possibilidade de sofrimento fetal é a saída de mecônio. Sobre esse produto, assinale a alternativa incorreta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O mecônio é o conteúdo intestinal do feto e normalmente só é eliminado após o nascimento."
+      },
+      {
+        "letra": "B",
+        "texto": "A a principal preocupação associada à liberação de mecônio é a infecção pulmonar por aspiração líquido."
+      },
+      {
+        "letra": "C",
+        "texto": "A síndrome de aspiração meconial é evento potencialmente grave para o feto, podendo levar a sequelas."
+      },
+      {
+        "letra": "D",
+        "texto": "O mecônio possui coloração verde-escura por conta da bile."
+      },
+      {
+        "letra": "E",
+        "texto": "Nem sempre a liberação de mecônio é sinônimo de gravidade."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105423,
+    "tags": [],
+    "enunciado": "Sobre a formação embrionária do fígado e da vesícula biliar, julgue as alternativas em verdadeiro e falso, e em seguida, assinale a resposta correta: 1) O divertículo hepático da origem às seguintes estruturas: fígado, vesícula biliar e ductos da via biliar; 2) O divertículo hepático se estende para o septo transverso, uma massa de mesoderma esplâncnico que separa as cavidades pleural e peritoneal. 3) O fígado é formado pela parte caudal maior do divertículo hepático, enquanto a vesícula biliar é formada pela parte cranial menor; 4) A hematopoiese começa no fígado a partir da sexta semana de vida, enquanto a formação da bile começa na décima segunda semana de vida.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "V-F-F-V"
+      },
+      {
+        "letra": "B",
+        "texto": "V-V-F-F"
+      },
+      {
+        "letra": "C",
+        "texto": "F-F-V-V"
+      },
+      {
+        "letra": "D",
+        "texto": "V-F-F-F"
+      },
+      {
+        "letra": "E",
+        "texto": "F-F-F-V"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105424,
+    "tags": [],
+    "enunciado": "Acerca do desenvolvimento do duodeno, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O duodeno possui origem exclusiva do intestino anterior."
+      },
+      {
+        "letra": "B",
+        "texto": "O duodeno começa a se formar na oitava semana, a partir da porção cranial do intestino médio."
+      },
+      {
+        "letra": "C",
+        "texto": "Apesar de ser formado pelo intestino anterior e intestino médio, a irrigação do duodeno é feita apenas pelo tronco celíaco."
+      },
+      {
+        "letra": "D",
+        "texto": "A junção da porção do intestino anterior com a porção do intestino médio do duodeno ocorre na origem do ducto colédoco."
+      },
+      {
+        "letra": "E",
+        "texto": "O duodeno em formação cresce rapidamente, ganhando formato de C que se projeta dorsalmente."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105425,
+    "tags": [],
+    "enunciado": "Qual das estruturas abaixo não é derivada do intestino anterior?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Esôfago"
+      },
+      {
+        "letra": "B",
+        "texto": "Estômago"
+      },
+      {
+        "letra": "C",
+        "texto": "Intestino Grosso"
+      },
+      {
+        "letra": "D",
+        "texto": "Fígado"
+      },
+      {
+        "letra": "E",
+        "texto": "Pâncreas"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105426,
+    "tags": [],
+    "enunciado": "Sobre os seios de Rokitansky-Aschoff, assinale a alternativa incorreta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "São divertículos profundos presentes na mucosa da vesícula biliar."
+      },
+      {
+        "letra": "B",
+        "texto": "Sua presença pode facilitar a formação de cálculos."
+      },
+      {
+        "letra": "C",
+        "texto": "Indiretamente, estão associados ao desenvolvimento de colecistite aguda."
+      },
+      {
+        "letra": "D",
+        "texto": "Sempre são patológicos."
+      },
+      {
+        "letra": "E",
+        "texto": "Sua formação resulta do aumento da pressão na vesícula biliar e da lesão recorrente desse órgão."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105427,
+    "tags": [],
+    "enunciado": "Sobre os aspectos histológicos da vesícula biliar, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os colangiócitos são células muito semelhantes às células absortivas do intestino, por isso, possuem numerosas e desenvolvidas microvilosidades na sua região apical."
+      },
+      {
+        "letra": "B",
+        "texto": "A mucosa da vesícula biliar é formada de epitélio simples colunar e a lâmina própria é rica em capilares fenestrados, pequenas vênulas e vasos linfáticos."
+      },
+      {
+        "letra": "C",
+        "texto": "A muscular externa da vesícula biliar está organizada longitudinalmente, e sua contração é responsável por encaminhar a bile ao ducto cístico."
+      },
+      {
+        "letra": "D",
+        "texto": "Apesar de ter origem embriológico de um tubo do intestino anterior, a vesícula biliar não possui muscular da mucosa, nem submucosa."
+      },
+      {
+        "letra": "E",
+        "texto": "Externamente à muscular da mucosa, temos a serosa da vesícula biliar, que consiste numa camada de mesotélio suportada por tecido conjuntivo denso."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105428,
+    "tags": [],
+    "enunciado": "Sobre o reto e o canal anal, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apesar de a mucosa do reto ser igual a dos demais seguimentos no cólon, ele difere do restante do órgão por possuir as pregas verticais do reto."
+      },
+      {
+        "letra": "B",
+        "texto": "O canal anal é dividido em três zonas, de acordo com a artéria que irriga cada uma dessas zonas."
+      },
+      {
+        "letra": "C",
+        "texto": "A zona colorretal está no terço superior do canal anal e é formada por epitélio colunar simples, assim como as outras porções do cólon."
+      },
+      {
+        "letra": "D",
+        "texto": "A zona de transição anal, encontramos a transição do epitélio colunas simples para o epitélio pseudoestratificado pavimentoso."
+      },
+      {
+        "letra": "E",
+        "texto": "A zona pavimentosa é revestida pelo epitélio pseudoestratificado pavimentoso e é continuo com o da pele perianal."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105429,
+    "tags": [],
+    "enunciado": "Sobre a camada muscular externa do intestino grosso, julgue as alternativas em verdadeiro ou falso, e em seguida, assinale a alternativa correta: 1) Assim como na maior parte do trato gastrointestinal, no cólon, a cama muscular é composta por uma camada circular interna de circular interna e uma camada externa; 2) Do ceco ao reto, a camada externada está condensada em feixes longitudinais proeminentes, formando as tênias do cólon; 3) A formação das saculações durante as contrações do cólon deriva do fato de as tênias penetrarem na camada muscular interna de forma irregular; 4) A muscular externa do intestino grosso possui como movimento único o peristaltismo.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "V-F-F-F"
+      },
+      {
+        "letra": "B",
+        "texto": "V-V-V-F"
+      },
+      {
+        "letra": "C",
+        "texto": "V-F-V-F"
+      },
+      {
+        "letra": "D",
+        "texto": "F-F-V-F"
+      },
+      {
+        "letra": "E",
+        "texto": "F-F-V-F"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105430,
+    "tags": [],
+    "enunciado": "Embora possua a mesma estrutura básica que em outros locais, a lâmina própria do intestino grosso possui alguns componentes e peculiaridades adicionais. Acerca dessas caraterísticas adicionais, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "No cólon, existe uma camada de colágeno entre a lâmina basal do epitélio e dos capilares venosos absortivos fenestrados que participam da regulação do transporte de água e eletrólitos."
+      },
+      {
+        "letra": "B",
+        "texto": "Existe uma bainha de fibroblastos pericriptais, que constitui uma população de fibroblastos imaturos, que se diferenciam para ser tornar neutrófilos."
+      },
+      {
+        "letra": "C",
+        "texto": "O GALT que se continua com o íleo é mais escasso no intestino grosso."
+      },
+      {
+        "letra": "D",
+        "texto": "Os vasos linfáticos são muito mais numerosos e proeminentes na lâmina própria do intestino grosso, em relação ao delgado."
+      },
+      {
+        "letra": "E",
+        "texto": "No intestino grosso, as placas de Peyer também exercem papel imunológico importante."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105431,
+    "tags": [],
+    "enunciado": "Sobre a mucosa do intestino grosso, em comparação com a mucosa do intestino delgado, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A principal função das células secretivas intestinais é a secreção de água e eletrólitos."
+      },
+      {
+        "letra": "B",
+        "texto": "A mucosa do cólon apresenta uma superfície lisa, desprovida de pregas circulares e vilosidades."
+      },
+      {
+        "letra": "C",
+        "texto": "As células caliciformes estão em menor número no intestino grosso, do que no intestino delgado."
+      },
+      {
+        "letra": "D",
+        "texto": "As células que compõem o intestino grosso são as mesmas que compõem o intestino delgado."
+      },
+      {
+        "letra": "E",
+        "texto": "As vilosidades são mais proeminentes no intestino delgado do que no intestino grosso, ao passo que o primeiro é principal ponto de absorção do bolo alimentar."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105432,
+    "tags": [],
+    "enunciado": "A submucosa do duodeno possui uma característica especial, que é a presença de glândulas submucosas. Como são conhecidas essas glândulas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Glândulas de Liberkhün"
+      },
+      {
+        "letra": "B",
+        "texto": "Glândulas de Kerckring"
+      },
+      {
+        "letra": "C",
+        "texto": "Glândulas de Paneth"
+      },
+      {
+        "letra": "D",
+        "texto": "Glândulas de Meissner"
+      },
+      {
+        "letra": "E",
+        "texto": "Glândulas de Brunner"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 105433,
+    "tags": [],
+    "enunciado": "Sobre as células caliciformes do intestino delgado, julgue os itens em verdadeiro ou falso, e em seguida assinale a alternativa correta. 1) Como são células com a função de produzir muco, as células caliciformes não possuem microvilosidades; 2) As células caliciformes estão entremeadas em outras células do intestino delgado; 3) Apenas de outros tecidos possuírem esses tipos celulares, apenas no delgado elas produzem muco; 4) Quanto mais distal no delgado, menos células caliciformes são encontradas, de forma que elas são mais presentes no duodeno, do que no íleo.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "V-F-F-V"
+      },
+      {
+        "letra": "B",
+        "texto": "F-F-F-F"
+      },
+      {
+        "letra": "C",
+        "texto": "F-V-F-V"
+      },
+      {
+        "letra": "D",
+        "texto": "F-V-F-F"
+      },
+      {
+        "letra": "E",
+        "texto": "F-F-F-V"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105434,
+    "tags": [],
+    "enunciado": "Sobre a função e estrutura dos enterócitos, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As microvilosidades dos enterócitos possuem um eixo vertical de microfilamentos de actina ancorados na sua extremidade, que se inserem na trama terminal, a qual a contração aumenta o espaço de absorção."
+      },
+      {
+        "letra": "B",
+        "texto": "As zônulas de oclusão entre o lúmen intestinal e o compartimento de tecido conjuntivo dos enterócitos, apesar de seu nome, têm papel pouco relevante na seletividade de substâncias que entram nos enterócitos."
+      },
+      {
+        "letra": "C",
+        "texto": "Durante a absorção, as pregas laterais dos enterócitos se aproximam, de modo a aumentar o compartimento celular, que possui enzimas de transporte."
+      },
+      {
+        "letra": "D",
+        "texto": "Apesar de o intestino delgado secretar diversas substâncias, os enterócitos possuem função exclusivamente absortiva."
+      },
+      {
+        "letra": "E",
+        "texto": "Na microscopia eletrônica, as microvilosidades dos enterócitos são reconhecidas pela borda estriada."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105435,
+    "tags": [],
+    "enunciado": "Na mucosa do intestino delgado, encontramos cinco tipos principais de células. Qual delas tem como função principal secretar substâncias antimicrobianas e manter a imunidade inata?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Enterócitos"
+      },
+      {
+        "letra": "B",
+        "texto": "Células enteroendócrinas"
+      },
+      {
+        "letra": "C",
+        "texto": "Células de Paneth"
+      },
+      {
+        "letra": "D",
+        "texto": "Células M"
+      },
+      {
+        "letra": "E",
+        "texto": "Células caliciformes"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105436,
+    "tags": [],
+    "enunciado": "Acerca da histologia do intestino delgado, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As pregas circulares, as vilosidades e as microvilosidades são as estruturas responsáveis por aumentar a área absortiva do intestino delgado."
+      },
+      {
+        "letra": "B",
+        "texto": "A muscular da mucosa do intestino possui uma camada de células muscular lisa, com distribuição longitudinal."
+      },
+      {
+        "letra": "C",
+        "texto": "As glândulas intestinais são compostas por epitélio pavimentoso não queratinizado."
+      },
+      {
+        "letra": "D",
+        "texto": "Na submucosa, encontram-se nódulos linfáticos do tecido linfático associado ao intestino, chamado de GALT."
+      },
+      {
+        "letra": "E",
+        "texto": "As placas de Peyer não podem ser vistas macroscopicamente."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105437,
+    "tags": [],
+    "enunciado": "As glândulas fúndicas do estômago são estruturas fundamentais para o papel (cid:77)siológico desse órgão. Acerca dessas glândulas assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Estão localizadas exclusivamente no fundo gástrico."
+      },
+      {
+        "letra": "B",
+        "texto": "As glândulas são formadas por cinco células funcionais."
+      },
+      {
+        "letra": "C",
+        "texto": "As células principais são produtoras de ácido clorídrico (HCl)."
+      },
+      {
+        "letra": "D",
+        "texto": "As células parietais produzem gastrina e podem ser inibidas através de medicações como o Omeprazol, pertencente à classe dos inibidores de bomba de prótons."
+      },
+      {
+        "letra": "E",
+        "texto": "As glândulas gástricas se abrem na base das fovéolas gástricas, que são a abertura da mucosa gástrica para a superfície."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 105438,
+    "tags": [],
+    "enunciado": "A divisão histológica do estômago difere da sua divisão anatômica. Sobre essa diferença, julgue as alternativas em verdadeiro ou falso, e em seguida, assinale a alternativa correta: 1) A divisão histológica do estômago é feita em três partes: a cárdia, o piloro e o fundo; 2) A divisão anatômica do estômago é feita em quatro partes: a cárdia, o fundo, o corpo e a porção pilórica; 3) A divisão histológica do estômago não é baseada em localização, e sim, nos tipos de glândulas que de distribuem na mucosa gástrica.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "V-V-V"
+      },
+      {
+        "letra": "B",
+        "texto": "V-V-F"
+      },
+      {
+        "letra": "C",
+        "texto": "F-V-V"
+      },
+      {
+        "letra": "D",
+        "texto": "F-V-F"
+      },
+      {
+        "letra": "E",
+        "texto": "V-F-V"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105439,
+    "tags": [],
+    "enunciado": "O esôfago possui 25 cm de comprimento e é órgão responsável por conectar a boca ao estômago. Acerca da histologia de suas camadas, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A mucosa esofágica é formada por epitélio pavimentoso queratinizado"
+      },
+      {
+        "letra": "B",
+        "texto": "A submucosa é formado de tecido conjuntivo denso não modelado e contém fibras nervosas e células ganglionares que compõe o plexo de Auerbach"
+      },
+      {
+        "letra": "C",
+        "texto": "A muscular externa consiste em duas camadas musculares: uma circular interna e uma longitudinal externa. Essa última, varia ao longo do esôfago, sendo formado de músculo estriado no terço superior, músculo estriado e liso no terço médio, e músculo liso no terço distal."
+      },
+      {
+        "letra": "D",
+        "texto": "O plexo de Meissner inerva a muscular externa e tem papel no peristaltismo"
+      },
+      {
+        "letra": "E",
+        "texto": "Como só possui a função de transferir o alimento, o esôfago não secreta muco."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105440,
+    "tags": [],
+    "enunciado": "O canal alimentar se estende do esôfago até o canal anal e possui a mesma estrutura básica durante toda sua extensão. Sobre suas camadas, da região interna para mais externa, temos:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Mucosa – Submucosa – Serosa - Muscular externa"
+      },
+      {
+        "letra": "B",
+        "texto": "Mucosa – Submucosa – Adventícia - Serosa"
+      },
+      {
+        "letra": "C",
+        "texto": "Mucosa – Muscular externa – Submucosa – Serosa"
+      },
+      {
+        "letra": "D",
+        "texto": "Mucosa – Submucosa – Muscular Externa – Serosa"
+      },
+      {
+        "letra": "E",
+        "texto": "Mucosa – Submucosa - Adventícia - Serosa"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105441,
+    "tags": [],
+    "enunciado": "O reto é a última porção do intestino grosso, sobre sua anatomia, assinale a alternativa correta, após julgar as sentenças em verdadeiro ou falso:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O reto, assim como todas as outras porções do cólon, é recoberto pelos apêndices epiploicos;"
+      },
+      {
+        "letra": "B",
+        "texto": "O reto é completamente intraperitoneal;"
+      },
+      {
+        "letra": "C",
+        "texto": "A ampola retal é a parte mais estreita do reto, não tendo papel importante na continência fecal, pois armazena pequena quantidade de fezes;"
+      },
+      {
+        "letra": "D",
+        "texto": "A capacidade de dilatação do reto, tanto no sexo feminino quanto masculino, ocorre pelas reflexões laterais do peritônio que envolve o seu terço superior, formando a fossas pararretais."
+      },
+      {
+        "letra": "E",
+        "texto": "Nos homens e nas mulheres, a reflexão do peritônio do reto para a parte posterior da bexiga forma a escavação retovesical."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105442,
+    "tags": [],
+    "enunciado": "Uma mulher de 52 anos foi assaltada na rua, e após reagir, recebeu uma faca a nível do epigástrio. Qual das estruturas abaixo tem menor probabilidade de ser lesada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Duodeno;"
+      },
+      {
+        "letra": "B",
+        "texto": "Fígado;"
+      },
+      {
+        "letra": "C",
+        "texto": "Pâncreas;"
+      },
+      {
+        "letra": "D",
+        "texto": "Estômago;"
+      },
+      {
+        "letra": "E",
+        "texto": "Rim direito."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 105443,
+    "tags": [],
+    "enunciado": "A divisão anatômica do abdome em quadrantes e segmentos é essencial para sabermos os órgãos que estão localizados nesses regiões, no momento da realização do exame físico. Sobre a divisão do abdome, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A divisão do abdome em quadrante é feita trançando uma linha vertical central ao nível da linha alba e uma linha horizontal ao nível das espinhas ilíacas anterossuperiores."
+      },
+      {
+        "letra": "B",
+        "texto": "A divisão em segmentos é feita a partir de duas linhas horizontais e duas verticais. As horizontais ficam ao nível da cicatriz umbilical e uma linha subcostal, abaixo da 10ª costela;"
+      },
+      {
+        "letra": "C",
+        "texto": "A divisão em segmentos é feita a partir de 2 linhas horizontais e duas verticais. As verticais são as linhas hemiclavicular direita e esquerda."
+      },
+      {
+        "letra": "D",
+        "texto": "Na descrição do exame físico, a divisão por quadrante traz mais informações do que a divisão por segmentos;"
+      },
+      {
+        "letra": "E",
+        "texto": "Na divisão por seguimentos, levando em consideração a posição anatômica temos do lado esquerdo, de cima para baixo: o hipocôndrio esquerdo, o mesogástrio e a fossa ilíaca esquerda;"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105444,
+    "tags": [],
+    "enunciado": "Sobre a vascularização do intestino grosso, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O cólon é irrigado pelas artérias cólicas direita, média e esquerda, todas ramos da artéria mesentérica superior (AMS);"
+      },
+      {
+        "letra": "B",
+        "texto": "O cólon transverso possui irrigação provinda tanto da AMS, quanto da artéria mesentérica inferior (AMI);"
+      },
+      {
+        "letra": "C",
+        "texto": "O reto possui irrigação provinda exclusivamente da AMI;"
+      },
+      {
+        "letra": "D",
+        "texto": "A AMS é o ramo principal do tronco celíaco, enquanto a AMI é ramo direito da aorta abdominal;"
+      },
+      {
+        "letra": "E",
+        "texto": "A artéria cólica direita é ramo da AMS, enquanto as artérias cólicas média e esquerda são ramos da AMI."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105445,
+    "tags": [],
+    "enunciado": "Sobre a inervação da vesícula biliar e do ducto cístico, julgue os itens como verdadeiros ou falsos e assinale a alternativa correta: 1) O nervo frênico direito emite (cid:77)bras aferentes somáticas que causam a sensação de dor quando á inflamação da vesícula biliar; 2) O nervo vago é o responsável pelo estímulo parassimpático; 3) A colecistoquinina gera estímulos simpáticos que causa a contração da vesícula biliar e o relaxamento dos músculos que envolvem a papila duodenal, de forma que a bile flui para o duodeno;",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "V-F-F"
+      },
+      {
+        "letra": "B",
+        "texto": "V-F-V"
+      },
+      {
+        "letra": "C",
+        "texto": "V-V-V"
+      },
+      {
+        "letra": "D",
+        "texto": "F-V-F"
+      },
+      {
+        "letra": "E",
+        "texto": "V-V-F"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 105446,
+    "tags": [],
+    "enunciado": "Sobre a anatomia da vesícula biliar, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A vesícula biliar está localizada na face visceral do fígado e posterior à porção do duodeno;"
+      },
+      {
+        "letra": "B",
+        "texto": "A vesícula biliar é dividida em três partes: fundo, corpo e colo; sendo que o fundo é considerada a parte principal;"
+      },
+      {
+        "letra": "C",
+        "texto": "O ducto cístico une o fundo da vesícula ao ducto hepático comum para formar o ducto colédoco;"
+      },
+      {
+        "letra": "D",
+        "texto": "A artéria cística irriga a vesícula biliar e o ducto cístico, e pode ser vista no espaço chamado triângulo de Calot, delimitado pelo ducto hepático comum, ducto cístico a face ventral do fígado;"
+      },
+      {
+        "letra": "E",
+        "texto": "A drenagem linfática da vesícula biliar é feita a partir dos linfonodos vesiculares."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105447,
+    "tags": [],
+    "enunciado": "JHS, 22 anos, estava atravessando a rua quando foi atropelado por uma moto, a qual colidiu com o lado esquerdo do seu tronco. Prontamente, o SAMU foi acionado e levou o paciente para o hospital de referência em traumatologia mais próximo. Na sala de trauma, foi feito uma Ultrassonogra(cid:77)a (USG) FAST, que mostrou a presença de líquido do espaço esplenorrenal e o paciente foi encaminhado para a cirurgia. Sobre o caso a seguir, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Caso o baço apenas o baço tenha sido acometido, é improvável que esse paciente esteja em choque hipovolêmico;"
+      },
+      {
+        "letra": "B",
+        "texto": "Devido a ausência de relação anatômica entre os órgão, podemos afirmar que esse paciente muito provavelmente não apresentou lesão do estômago;"
+      },
+      {
+        "letra": "C",
+        "texto": "As costelas, apesar de serem um arcabouço ósseo protetor para o baço, nesse caso relatado, podem funcionar como arma branca, agravando a lesão."
+      },
+      {
+        "letra": "D",
+        "texto": "Devido à grande resistência e espessura da cápsula fibrosa do baço, ele é um órgão difícil de ser lesado;"
+      },
+      {
+        "letra": "E",
+        "texto": "A artéria esplênica é o menor ramo do tronco celíaco, por isso sua lesão não geral sangramento relevantes."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105448,
+    "tags": [],
+    "enunciado": "Sobre a anatomia do baço, suas relações anatômicas e suas funções, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Por ter função hematopoiética na vida adulta, bem como órgão linfoide, o baço é considerado um órgão vital;"
+      },
+      {
+        "letra": "B",
+        "texto": "O baço é considerado um dos órgãos mais resistentes do abdome, por isso, não é um dos mais afetados em pacientes com trauma abdominal;"
+      },
+      {
+        "letra": "C",
+        "texto": "O baço é um órgão que, por se muito vascularizado, se expande facilmente, processo que é chamado de hiperesplenismo;"
+      },
+      {
+        "letra": "D",
+        "texto": "O baço está apoiado na flexura esplênica do cólon, estando posterior e protegido da X a XII costelas;"
+      },
+      {
+        "letra": "E",
+        "texto": "O baço é praticamente todo revestido por peritônio, exceto seu hilo, local de onde saem a artéria e a veia esplênica."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 105449,
+    "tags": [],
+    "enunciado": "Sobre a anatomia do pâncreas e as funções, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O pâncreas possui uma função exócrina que se reflete na produção de glucagon e insulina, bem como uma função endócrina, produzindo o suco pancreático;"
+      },
+      {
+        "letra": "B",
+        "texto": "A cabeça do pâncreas é circundada pelo duodeno e está apoiada posteriormente em vasos nobres, como a veia cava inferior;"
+      },
+      {
+        "letra": "C",
+        "texto": "O processo uncinado do pâncreas é uma projeção do corpo pancreático e está à esquerda da artéria mesentérica superior;"
+      },
+      {
+        "letra": "D",
+        "texto": "O pâncreas é considerado um órgão intraperitoneal;"
+      },
+      {
+        "letra": "E",
+        "texto": "O esfíncter de Oddi é o músculo que tem maior participação no controle da passagem da bile para duodeno."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105450,
+    "tags": [],
+    "enunciado": "A bile é uma secreção amarelo-acastanhada ou verde que auxilia na emulsão das gorduras. Acerca da sua produção e seu fluxo, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A bile é produzida pela vesícula biliar e de lá segue para o duodeno;"
+      },
+      {
+        "letra": "B",
+        "texto": "A bile é armazenada pela vesícula biliar e produzida no fígado, processo que ocorre durante a mastigação;"
+      },
+      {
+        "letra": "C",
+        "texto": "A bile sai da vesícula biliar através do ducto colédoco, de onde é levada até o duodeno;"
+      },
+      {
+        "letra": "D",
+        "texto": "A vesícula biliar armazena a bile e a libera para o duodeno no momento que o alimento chega até essa região."
+      },
+      {
+        "letra": "E",
+        "texto": "A bile chega ao duodeno quando o colédoco compõe, junto com o ducto pancreático principal, a ampola de Wirsung, onde se encontra esfíncter de Oddi."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105451,
+    "tags": [],
+    "enunciado": "Acerca do ceco e suas estruturas, marque a alternativa correta: 1) O ceco é praticamente todo revestido por peritônio; 2) A válvula ileocecal marca a transição do intestino delgado para o intestino grosso e permite o re(cid:67)uxo do conteúdo do cólon para o jejuno; 3) O ceco não possui grande capacidade de distensibilidade, sendo difícil de ser avaliado no exame físico. 4) Apesar de a válvula ileocecal não possui função es(cid:77)ncteriana, o óstio ileal possui uma contração tônica que caracteriza pela a papila ileal, a qual atual como válvula unidirecional.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "V-F-F-V"
+      },
+      {
+        "letra": "B",
+        "texto": "F-F-V-V"
+      },
+      {
+        "letra": "C",
+        "texto": "F-F-F-V"
+      },
+      {
+        "letra": "D",
+        "texto": "V-F-F-V"
+      },
+      {
+        "letra": "E",
+        "texto": "V-F-F-F"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105452,
+    "tags": [],
+    "enunciado": "MAS, 27 anos, sexo feminino, dá entrada na emergência com queixa de dor abdominal difusa há 2 dias, sendo que á 1 dia passou a estar mais localizada em fossa ilíaca direita, associada a perda de apetite, vômitos e 2 episódios de febre mensurados em 38ºC. Ao exame físico, apesentava o sinal de Blumberg positivo, sendo posteriormente realizada à Tomogra(cid:77)a Computadorizada de abdome com contraste e (cid:77)rmado o diagnóstico de Apendicite Aguda. Com relação ao apêndice vermiforme, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O apêndice é um divertículo cego, que sempre se origina da face anterior do ceco;"
+      },
+      {
+        "letra": "B",
+        "texto": "O apêndice não é recoberto por meso, sendo uma continuação do ceco, sem que seja necessária sua fixação;"
+      },
+      {
+        "letra": "C",
+        "texto": "O apêndice cecal apresenta variações em sua posição, o que pode gerar apresentações clínicas diferentes, bem como abordagens cirúrgicas variáveis;"
+      },
+      {
+        "letra": "D",
+        "texto": "A irrigação do apêndice é feita diretamente pela artéria ileocólica, ramo terminal da artéria mesentérica superior;"
+      },
+      {
+        "letra": "E",
+        "texto": "O apêndice, em geral, localiza-se acima da junção ileocecal."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105453,
+    "tags": [],
+    "enunciado": "O intestino grosso (cólon) tem por função absorver o conteúdo do quimo líquido, convertendo-o em fezes semissólidas. Acerca da sua anatomia, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O intestino grosso é dividido nas seguintes partes, por ordem: apêndice vermiforme, cólon sigmoide, ascendente, transverso, descendente, esquerdo, ceco, reto e canal anal."
+      },
+      {
+        "letra": "B",
+        "texto": "Os apêndices omentais são pequenas projeções de gordura distribuídas ao longo do cólon."
+      },
+      {
+        "letra": "C",
+        "texto": "As tênias do cólon são faixas circulares (transversais), sendo em número de três: a mesocólica, a omental e livre;"
+      },
+      {
+        "letra": "D",
+        "texto": "As saculações estão restritas ao cólon transverso, não estando presentes nos cólons ascendente e descendente;"
+      },
+      {
+        "letra": "E",
+        "texto": "A tênia livre está fixada aos mesocolos transverso e sigmoide."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105454,
+    "tags": [],
+    "enunciado": "Sobre a inervação do intestino delgado e sua função, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A estimulação simpática promove vasodilatação e diminuição da atividade secretória intestinal."
+      },
+      {
+        "letra": "B",
+        "texto": "O sistema parassimpático está ativado em situações de luta ou fuga, aumentando a atividade peristáltica."
+      },
+      {
+        "letra": "C",
+        "texto": "Ao ser estimulado, sistema simpático promove diminuição da atividade secretória intestinal, bem como do peristaltismo."
+      },
+      {
+        "letra": "D",
+        "texto": "O sistema parassimpático promove vasodilatação e diminuição da atividade secretória intestinal."
+      },
+      {
+        "letra": "E",
+        "texto": "O intestino é insensível tanto a estímulos dolorosos, quanto à distensão."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105455,
+    "tags": [],
+    "enunciado": "Durante uma cirurgia abdominal de grande porte, como a laparotomia exploratória, o cirurgião precisa identi(cid:77)car marcos anatômicos que diferenciam o jejuno e o íleo. Acerca das características dessas vísceras no corpo humano vivo, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Jejuno: cor vermelho-vivo, mais gordura no mesentério e poucas placas Peyer;"
+      },
+      {
+        "letra": "B",
+        "texto": "Íleo: menos gordura no mesentério, cor rósea e muitas placas de Peyer;"
+      },
+      {
+        "letra": "C",
+        "texto": "Jejuno: cor vermelho vivo, e muita gordura no mesentério, muitas placas de Peyer;"
+      },
+      {
+        "letra": "D",
+        "texto": "Íleo: cor vermelho vivo, menos gordura no mesentério e mais placas de Peyer;"
+      },
+      {
+        "letra": "E",
+        "texto": "Jejuno: cor vermelho vivo, menos gordura do mesentério e poucas placas de Peyer."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 105456,
+    "tags": [],
+    "enunciado": "Ao avaliar as fotos abaixo, assinale a alternativa que contempla o processo que está acontecendo e uma consequência desse processo.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Neovascularização abdominal e surgimento de câncer;"
+      },
+      {
+        "letra": "B",
+        "texto": "Hipertensão portal e sangramento digestivo;"
+      },
+      {
+        "letra": "C",
+        "texto": "Neovascularização abdominal e trombose;"
+      },
+      {
+        "letra": "D",
+        "texto": "Hipertensão portal e surgimento de câncer;"
+      },
+      {
+        "letra": "E",
+        "texto": "Compressão de veia cava superior e trombose."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105457,
+    "tags": [],
+    "enunciado": "A circulação sanguínea do abdome é complexa, envolvendo veias e artérias calibrosas, responsáveis pela vascularização de órgãos nobres. Sobre esses sistemas, assinale alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Artéria aorta abdominal possui 3 ramos anteriores: o tronco celíaco, a artéria mesentérica superior e artéria mesentérica inferior;"
+      },
+      {
+        "letra": "B",
+        "texto": "A veia porta é formada pela junção da veia esplênica e da veia mesentérica superior, sendo responsável por 20-25% do suprimento sanguíneo hepático;"
+      },
+      {
+        "letra": "C",
+        "texto": "Os ramos do tronco celíaco são: artéria gástrica esquerda, artéria hepática comum e artéria sacral mediana;"
+      },
+      {
+        "letra": "D",
+        "texto": "Mesmo com a existência dos shunts portocava, as válvulas nas veias da circulação portal dificultam a ocorrência de circulação pelos shunts portocava."
+      },
+      {
+        "letra": "E",
+        "texto": "A artéria esplênica é ramo direto da aorta abdominal, seguindo para irrigar o baço."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105458,
+    "tags": [],
+    "enunciado": "Um paciente de 55 anos, portador de cirrose por ingestão crônica de álcool, entre no Pronto Socorro com relato de 2 episódios de hematêmese. O médico de plantão indicou a realização de uma Endoscopia Digestiva Alta (EDA), justi(cid:77)cando que esse era um quadro de Hemorragia Digestiva Alta (HDA) e que, por isso, o sangramento ocorreu antes da transição duodenojejunal. Qual o marco anatômico delimita essa transição?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ângulo de Louis;"
+      },
+      {
+        "letra": "B",
+        "texto": "Ligamento de Cooper;"
+      },
+      {
+        "letra": "C",
+        "texto": "Valva de Estáquio;"
+      },
+      {
+        "letra": "D",
+        "texto": "Ângulo de Treitz;"
+      },
+      {
+        "letra": "E",
+        "texto": "Alça de Henle."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105459,
+    "tags": [],
+    "enunciado": "Ao ser realizada uma Endoscopia Digestiva Alta, a única parte do intestino delgado que é possível de ser explorada é o duodeno. Acerca dessa estrutura, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A parte final do duodeno é conhecida como bulbo duodenal, se conectando então com o jejuno;"
+      },
+      {
+        "letra": "B",
+        "texto": "Na segunda porção do duodeno (descendente), está a ampola de Vater, local onde se juntam o ducto pancreático principal e o ducto pancreático acessório;"
+      },
+      {
+        "letra": "C",
+        "texto": "O duodeno possui intima relação com a cabeça do pâncreas, de forma a “abraçar” essa estrutura. Tal fato possui implicações importantes em determinadas cirurgias."
+      },
+      {
+        "letra": "D",
+        "texto": "A terceira porção do duodeno está localizada inferiormente à cauda do pâncreas."
+      },
+      {
+        "letra": "E",
+        "texto": "Com exceção da 2ª porção, o duodeno é totalmente retroperitoneal."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105460,
+    "tags": [],
+    "enunciado": "O estômago é um órgão de extensa vascularização. Assinale a alternativa que contém a correlação correta entre a letra e artéria.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "X – artéria hepática comum;"
+      },
+      {
+        "letra": "B",
+        "texto": "Y – artéria esplênica;"
+      },
+      {
+        "letra": "C",
+        "texto": "Z – artéria mesentérica superior;"
+      },
+      {
+        "letra": "D",
+        "texto": "W – artéria gastroduodenal;"
+      },
+      {
+        "letra": "E",
+        "texto": "K – artéria gastromental direita"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105461,
+    "tags": [],
+    "enunciado": "O estômago possui relação com diversos órgãos da cavidade abdominal. Assinale a alternativa que contempla corretamente essa relação:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Anteriormente, o estômago se relaciona com o lobo hepático esquerdo, a parede anterior do abdome e diafragma;"
+      },
+      {
+        "letra": "B",
+        "texto": "Posteriormente, o estômago se relaciona com a bolsa omental, o pâncreas e o rim esquerdo;"
+      },
+      {
+        "letra": "C",
+        "texto": "O estômago não possui nenhuma relação com intestino grosso;"
+      },
+      {
+        "letra": "D",
+        "texto": "O estômago, em sua maior parte, é o um órgão extra-peritoneal;"
+      },
+      {
+        "letra": "E",
+        "texto": "Apesar de ter contato com o lobo hepático esquerdo, o estômago não tem contato com o baço."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105462,
+    "tags": [],
+    "enunciado": "Atualmente entende-se que a obesidade é um dos maiores problemas de saúde na sociedade em que vivemos. Diante disso, existem diversas técnicas cirúrgicas feitas para o controle dessa condição, a chamada “cirurgia bariátrica”. A maioria dessas cirurgias envolve formas diferentes de realizar uma gastrectomia, com diversas variações. Sobre a anatomia do estômago, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A incisura angular é um ângulo formado pela inserção do esôfago no antro;"
+      },
+      {
+        "letra": "B",
+        "texto": "O fundo gástrico é a principal e maior porção do estômago;"
+      },
+      {
+        "letra": "C",
+        "texto": "O piloro é a porção final do estômago, onde ocorre a massagem do quimo para o intestino delgado;"
+      },
+      {
+        "letra": "D",
+        "texto": "A chamada parte pilórica do estômago é a junção do corpo gástrico com o piloro;"
+      },
+      {
+        "letra": "E",
+        "texto": "O antro é gástrico é a parte mais afunilada do estômago."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105463,
+    "tags": [],
+    "enunciado": "Durante a realização de uma Endoscopia Digestiva Alta (EDA), o endoscopista precisa identi(cid:77)car alguns marcos anatômicos para avaliar qual porção do trato gastrointestinal ele está avaliando. Quando ele avista a linha Z, qual desses marco ele está observando?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Transição da cavidade oral para o esôfago;"
+      },
+      {
+        "letra": "B",
+        "texto": "Junção esofagogástrica;"
+      },
+      {
+        "letra": "C",
+        "texto": "Junção piloroduodenal;"
+      },
+      {
+        "letra": "D",
+        "texto": "Transição do bulbo para a 2ª porção do duodeno;"
+      },
+      {
+        "letra": "E",
+        "texto": "Transição do esôfago cervical para torácica."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105464,
+    "tags": [],
+    "enunciado": "O esôfago é um órgão do sistema digestório que tem função majoritária na transferência dos alimentos para o estômago, fazendo a sua comunicação com a cavidade oral. Acerca da anatomia e funcionamento do esôfago, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O esôfago é um tubo muscular que permanece aberto durante todo o tempo, independente da passagem de alimentos;"
+      },
+      {
+        "letra": "B",
+        "texto": "O esôfago é um órgão que se estende por 2 regiões do corpo: a região cervical e a região torácica;"
+      },
+      {
+        "letra": "C",
+        "texto": "O esfíncter esofagiano superior é composto pela parte cricofaríngea do músculo constritor inferior da faringe, e sua disfunção é responsável pelos principais sintomas da Doença do Refluxo Gastroesofágico;"
+      },
+      {
+        "letra": "D",
+        "texto": "O alimento chega da cavidade oral ao estômago em pouco segundos, impulsionado especialmente pela ação da gravidade;"
+      },
+      {
+        "letra": "E",
+        "texto": "A parte extrínseca do esfíncter esofagiano inferior é composta pelo pilar direito do diafragma, e possui função no controle do refluxo do conteúdo gástrico, através da sua contração e relaxamento."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 105465,
+    "tags": [],
+    "enunciado": "Mulher, 60 anos, foi submetida a retossigmoidectomia videolaparoscópica por neoplasia de cólon (T3N1), em 2020. Tomogra(cid:77)a computadorizada (TC) de abdome de controle: lesão hipodensa sugestiva de implante secundário ocupando os segmentos hepáticos II e III. Pode-se a(cid:77)rmar que o procedimento cirúrgico melhor indicado é setorectomia:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "lateral esquerda"
+      },
+      {
+        "letra": "B",
+        "texto": "medial direita"
+      },
+      {
+        "letra": "C",
+        "texto": "medial esquerda"
+      },
+      {
+        "letra": "D",
+        "texto": "lateral direita"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105466,
+    "tags": [],
+    "enunciado": "O tronco celíaco é ramo da aorta e dá origem aos seguintes vasos:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Artéria hepática, artéria mesentérica superior e artéria esplênica."
+      },
+      {
+        "letra": "B",
+        "texto": "Artéria hepática, artéria gástrica direita e artéria esplênica."
+      },
+      {
+        "letra": "C",
+        "texto": "Artéria hepática, artéria gástrica esquerda e artéria esplênica."
+      },
+      {
+        "letra": "D",
+        "texto": "Artéria hepática, artéria gástrica esquerda e veia esplênica. 4000191229"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105467,
+    "tags": [],
+    "enunciado": "O conhecimento sobre a anatomia hepática é um requisito imprescindível para a realização de cirurgias no fígado e árvore biliar. Marque a alternativa CORRETA sobre a anatomia lobar do fígado:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O fígado direito é dividido em um setor anterior (segmentos V e VIII) e um segmento posterior (segmentos VI e VII) pela cisura direita, que contém a veia hepática direita."
+      },
+      {
+        "letra": "B",
+        "texto": "O fígado esquerdo é dividido em um setor anterior (segmentos III e IV) e um setor posterior (segmentos I e II) pela cisura esquerda, que contém a veia hepática esquerda."
+      },
+      {
+        "letra": "C",
+        "texto": "O lobo caudado é a porção anterior do fígado e envolve a veia cava inferior em sua superfície anterior, e se localiza anterior à tríade portal esquerda."
+      },
+      {
+        "letra": "D",
+        "texto": "A anatomia funcional do fígado é composta de sete segmentos, cada um suprido por várias pequenas tríades portais, cada tríade é composta por uma veia porta, artéria hepática e veia hepática."
+      },
+      {
+        "letra": "E",
+        "texto": "A fissura umbilical é uma cisura que contém uma veia hepática, artéria hepática e veia porta que correm nessa cisura para alimentar o lobo caudado. 4000172606 Respostas: 1 D 2 E 3 C 4 C 5 B 6 B 7 C 8 A 9 C 10 E 11 C 12 B 13 D 14 D 15 A 16 B 17 E 18 C 19 A 20 C 21 D 22 A 23 D 24 C 25 B 26 E 27 D 28 D 29 A 30 D 31 C 32 B 33 A 34 E 35 D 36 C 37 A 38 D 39 C 40 B 41 E 42 A 43 E 44 C 45 B 46 D 47 B 48 A 49 C 50 A 51 C 52 A 53 B 54 A 55 D 56 D 57 B 58 C 59 E 60 E 61 D 62 B 63 D 64 A 65 C 66 C 67 B 68 E 69 A 70 C 71 E 72 A 73 C 74 D 75 E 76 B 77 C 78 E 79 D 80 E 81 C 82 B 83 B 84 A 85 D 86 C 87 D 88 D 89 C 90 C 91 A 92 B 93 E 94 D 95 A 96 C 97 A 98 E 99 A 100 C 101 D 102 D 103 E 104 C 105 B 106 E 107 D 108 C 109 E 110 B 111 D 112 A 113 C 114 B 115 C 116 E 117 B 118 A 119 D 120 C 121 D 122 A 123 C 124 B 125 E 126 A 127 C 128 A"
+      }
+    ],
+    "resposta_correta": "A"
+  }
+]

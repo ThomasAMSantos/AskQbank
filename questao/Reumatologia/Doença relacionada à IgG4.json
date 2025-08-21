@@ -1,0 +1,102 @@
+[
+  {
+    "id": 11590,
+    "tags": [],
+    "enunciado": "Homem, 50 anos, queixa-se de perda ponderal progressiva, dor abdominal em andar superior do abdome e prurido. Com icterícia, colúria e acolia. Recebeu diagnóstico de adenocarcinoma de região periampular, o qual posteriormente foi afastado, con(cid:43)rmando-se doença relacionada à imunoglobulina (Ig) G4. Pode-se a(cid:43)rmar que, mais provavelmente, o que resultou nesse novo diagnóstico foi a presença de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "pâncreas em salsicha em exame de imagem abdominal"
+      },
+      {
+        "letra": "B",
+        "texto": "nódulo de Irmã Maria José no exame físico"
+      },
+      {
+        "letra": "C",
+        "texto": "tromboflebite superficial migratória"
+      },
+      {
+        "letra": "D",
+        "texto": "quadro de depressão com ideação suicida"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11591,
+    "tags": [],
+    "enunciado": "Homem de 40 anos vai ao pronto-socorro devido à gastroenterocolite aguda. Uma tomogra(cid:43)a de abdome demonstrou dilatação de ducto pancreático principal. Teve alta com sintomáticos e melhorou em três dias. Antecedentes: três episódios de parotidites con(cid:43)rmadas por elevação de amilase nos últimos dois anos. Exame clínico normal. O(s) exame(s) com maior probabilidade de confirmar(em) o diagnóstico é(são):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ultrassonografia de parótidas."
+      },
+      {
+        "letra": "B",
+        "texto": "dosagem de ANCA, proteinase 3 e mieloperoxidase."
+      },
+      {
+        "letra": "C",
+        "texto": "colangiorressonância."
+      },
+      {
+        "letra": "D",
+        "texto": "dosagem de imunoglobulina IgG e suas frações."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11592,
+    "tags": [],
+    "enunciado": "Em relação aos anticorpos, qual dos listados abaixo corresponde a 70-75% das imunoglobulinas encontradas no plasma humano?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "IgG"
+      },
+      {
+        "letra": "B",
+        "texto": "IgA"
+      },
+      {
+        "letra": "C",
+        "texto": "IgE"
+      },
+      {
+        "letra": "D",
+        "texto": "IgM"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11593,
+    "tags": [],
+    "enunciado": "Tireoidite de Riedel, pancreatite autoimune, (cid:43)brose retroperitoneal (Doença de Ormond) e Síndrome de Mikulicz são atualmente consideradas entidades que compartilham aspectos (cid:43)siopatológicos e morfológicos. No exame anatomopatológico dos tecidos acometidos nessas entidades são esperadas as seguintes alterações, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Flebite obliterativa."
+      },
+      {
+        "letra": "B",
+        "texto": "Infiltrado plasmocitário com positividade para IgG4."
+      },
+      {
+        "letra": "C",
+        "texto": "Granulomas não caseosos."
+      },
+      {
+        "letra": "D",
+        "texto": "Fibrose estoriforme."
+      },
+      {
+        "letra": "E",
+        "texto": "Infiltrado eosinofílico.  Respostas: 1 A 2 D 3 A 4 C"
+      }
+    ],
+    "resposta_correta": "C"
+  }
+]

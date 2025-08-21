@@ -1,0 +1,50 @@
+[
+  {
+    "id": 106252,
+    "tags": [],
+    "enunciado": "Paciente de 43 anos, entra na sala de emergência em parada cardiorrespiratória. Ritmo da PCR assistolia. Paciente após 30 minutos de ressuscitação não retorna à circulação espontânea. Você tem que dar a notícia para a esposa. Qual o protocolo que utilizamos para fazer a comunicação de más notícias?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "CALM"
+      },
+      {
+        "letra": "B",
+        "texto": "DEATH"
+      },
+      {
+        "letra": "C",
+        "texto": "SPIKES"
+      },
+      {
+        "letra": "D",
+        "texto": "MASCC 4000193783"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106253,
+    "tags": [],
+    "enunciado": "Comunicação e Relacionamento MédicoPaciente Em relação à comunicação de más noticias pelo protocolo SPIKES assinale a alternativa ERRADA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Durante a fase de percepção, antes de discutir achados médicos, o profissional usa perguntas abertas para compreender como o paciente percebe a situação"
+      },
+      {
+        "letra": "B",
+        "texto": "Na fase da transmissão das informações, avisar ao paciente que más noticias estão por vir e utilizar comunicação direta, rápida e concisa com termos técnicos"
+      },
+      {
+        "letra": "C",
+        "texto": "Na fase de abordagem das emoções, o uso de respostas afetivas como \"Eu também queria que as notícias fossem melhores.\" pode ser uma forma de mostrar apoio ao paciente"
+      },
+      {
+        "letra": "D",
+        "texto": "Na fase de planejamento, o ensaio mental é uma maneira útil de se preparar para a tarefa estressante.  Respostas: 1 C 2 B"
+      }
+    ],
+    "resposta_correta": "B"
+  }
+]

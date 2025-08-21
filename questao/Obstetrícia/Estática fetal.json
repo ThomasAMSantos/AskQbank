@@ -1,0 +1,6485 @@
+[
+  {
+    "id": 10311,
+    "tags": [],
+    "enunciado": "Sobre a estática fetal, assinale a alternativa verdadeira:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Na apresentação cefálica fletida, o ponto de referência fetal é o bregma, sendo favorável ao parto vaginal."
+      },
+      {
+        "letra": "B",
+        "texto": "Na apresentação cefálica defletida de 2º grau ou fronte, a referência fetal é a glabela, sendo indicação absoluta de cesárea."
+      },
+      {
+        "letra": "C",
+        "texto": "No assinclitismo posterior a sutura sagital do feto está próxima ao sacro."
+      },
+      {
+        "letra": "D",
+        "texto": "Na variedade de posição córmica, a referência fetal é o sacro."
+      },
+      {
+        "letra": "E",
+        "texto": "Na apresentação cefálica defletida de 30 grau, o ponto de referência fetal é o lambda, sendo impossível o parto normal."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10312,
+    "tags": [],
+    "enunciado": "A linha de orientação da cefálica defletida de primeiro grau é denominada",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "sutura sagital."
+      },
+      {
+        "letra": "B",
+        "texto": "sutura sagitometópica."
+      },
+      {
+        "letra": "C",
+        "texto": "sutura metópica."
+      },
+      {
+        "letra": "D",
+        "texto": "linha facial."
+      },
+      {
+        "letra": "E",
+        "texto": "gradeado costal."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10313,
+    "tags": [],
+    "enunciado": "Com o feto vivo e de termo, a apresentação MEP persistente não permite o parto vaginal, porque o diâmentro",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "mentoesternal é maior que a altura do sacro."
+      },
+      {
+        "letra": "B",
+        "texto": "ocipitomentoneiro é maior que o conjugado obstétrico."
+      },
+      {
+        "letra": "C",
+        "texto": "ocípitofrontal não atinge o plano zero."
+      },
+      {
+        "letra": "D",
+        "texto": "mentoesternal é maior que a altura do púbis."
+      },
+      {
+        "letra": "E",
+        "texto": "o diâmetro subocipitobregmatico é maior que o Conjugata exitus."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10314,
+    "tags": [],
+    "enunciado": "A rotação interna de uma apresentação cefálica OS é de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "0°."
+      },
+      {
+        "letra": "B",
+        "texto": "45°."
+      },
+      {
+        "letra": "C",
+        "texto": "90°."
+      },
+      {
+        "letra": "D",
+        "texto": "135°."
+      },
+      {
+        "letra": "E",
+        "texto": "180°."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 10315,
+    "tags": [],
+    "enunciado": "Pontos de referência da bacia materna Quanto ao mecanismo de parto vaginal fisiológico, na variedade de posição O.E.A., é CORRETO afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O lambda encontra-se relacionado com a sinostose sacro-ilíaca esquerda."
+      },
+      {
+        "letra": "B",
+        "texto": "O ângulo anterior do bregma posiciona-se na eminência íleo-pectínea direita."
+      },
+      {
+        "letra": "C",
+        "texto": "O lambda estará relacionado com o sacro durante o desprendimento."
+      },
+      {
+        "letra": "D",
+        "texto": "A rotação interna ocorrerá no sentido anti-horário. 4000233544"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10316,
+    "tags": [],
+    "enunciado": "Durante um plantão em maternidade, uma paciente encontra-se em trabalho de parto. Trata-se de uma mulher de 25 anos, GIP0, com idade gestacional (IG) de 39 semanas e 4 dias. Ao exame físico, veri(cid:68)camse PA = 110x70mmHg, atividade uterina (AU) = 3/10’/40”, batimento cardíaco fetal (BCF) = 145bpm sem desacelerações e bolsa íntegra. Ao toque vaginal, veri(cid:68)ca-se colo centralizado, 80% apagado, dilatado para 6cm, com variedade de posição OET e no plano +1 de De Lee. Considerando o caso exposto, concluise que a situação e a posição, respectivamente, são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "transversa / direita"
+      },
+      {
+        "letra": "B",
+        "texto": "longitudinal / direita"
+      },
+      {
+        "letra": "C",
+        "texto": "transversa / esquerda"
+      },
+      {
+        "letra": "D",
+        "texto": "longitudinal / esquerda"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10317,
+    "tags": [],
+    "enunciado": "Em um acompanhamento de trabalho de parto a ausculta de batimento fetal ocorreu conforme imagem a seguir: É correto afirmar que se trata de assistência a feto",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "cefálico dorso esquerda."
+      },
+      {
+        "letra": "B",
+        "texto": "cefálico dorso direita."
+      },
+      {
+        "letra": "C",
+        "texto": "com dorso anterior."
+      },
+      {
+        "letra": "D",
+        "texto": "pélvico."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10318,
+    "tags": [],
+    "enunciado": "Mulher, primigesta, IG = 39 semanas, é admitida em pródromos de trabalho de parto, com contrações esparsas, fundo uterino = 37cm, batimentos cardiofetais (BCF) = 136bpm e regulares, situação longitudinal e apresentação cefálica. Em relação à estática fetal, pode-se a(cid:68)rmar que esta apresentação está ajustada e encaixada devido a:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não estar em contato com o estreito superior"
+      },
+      {
+        "letra": "B",
+        "texto": "ocupar a totalidade da área do estreito superior"
+      },
+      {
+        "letra": "C",
+        "texto": "já não poder ser mobilizada por meio do toque vaginal"
+      },
+      {
+        "letra": "D",
+        "texto": "maior circunferência ter transposto a área do estreito inferior"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10319,
+    "tags": [],
+    "enunciado": "Com relação à assistência ao trabalho de parto, assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Na variedade de apresentação cefálica defletida de segundo grau, o ponto de referência é a glabela."
+      },
+      {
+        "letra": "B",
+        "texto": "Na variedade de apresentação cefálica fletida, o ponto de referência é o vértice."
+      },
+      {
+        "letra": "C",
+        "texto": "A apresentação de face mento-posterior é incompatível com parto transpélvico."
+      },
+      {
+        "letra": "D",
+        "texto": "No assinclitismo posterior, o parietal fetal anterior é o primeiro a entrar na escavação pélvica."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10320,
+    "tags": [],
+    "enunciado": "Observe a seguinte figura. Assinale a alternativa que descreve corretamente a estática fetal acima.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Situação longitudinal, apresentação cefálica, occípito esquerda anterior, rotação interna de 45 graus para occípito púbica."
+      },
+      {
+        "letra": "B",
+        "texto": "Situação longitudinal, apresentação cefálica, occípito direita anterior, rotação interna de 45 graus para occipito púbica."
+      },
+      {
+        "letra": "C",
+        "texto": "Situação longitudinal, apresentação cefálica, occípito esquerda anterior, rotação interna de 135 graus para occito púbica."
+      },
+      {
+        "letra": "D",
+        "texto": "Situação longitudinal, apresentação cefálica, occípito direita anterior, rotação interna de 90 graus para occito púbica."
+      },
+      {
+        "letra": "E",
+        "texto": "Situação longitudinal, apresentação cefálica, occípito esquerda posterior, rotação interna de 135 graus para occito púbica. 4000230911"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10321,
+    "tags": [],
+    "enunciado": "As manobras de palpação obstétrica, ou manobras de Leopold, dentre outras vantagens, fornecem ao médico informações importantes para o planejamento do parto. Acerca dessa técnica, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As manobras de Leopold devem ser realizadas a partir do primeiro trimestre da gestação."
+      },
+      {
+        "letra": "B",
+        "texto": "No segundo tempo das manobras de Leopold, é possível identificar a posição do feto."
+      },
+      {
+        "letra": "C",
+        "texto": "No primeiro tempo das manobras de Leopold, palpa-se o polo cefálico, caso a apresentação fetal seja a cefálica."
+      },
+      {
+        "letra": "D",
+        "texto": "As manobras de Leopold não devem ser realizadas durante o trabalho de parto."
+      },
+      {
+        "letra": "E",
+        "texto": "No terceiro tempo das manobras de Leopold, identifica-se a insinuação fetal. 4000230908"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10322,
+    "tags": [],
+    "enunciado": "A nomenclatura obstétrica permite descrever com exatidão as relações entre o feto e a mãe. Nos fetos em situação longitudinal, as três letras empregadas (exemplo: OEA) se referem, respectivamente, a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Posição, variedade de posição e apresentação."
+      },
+      {
+        "letra": "B",
+        "texto": "Posição, apresentação e variedade de posição."
+      },
+      {
+        "letra": "C",
+        "texto": "Apresentação, variedade de posição e posição."
+      },
+      {
+        "letra": "D",
+        "texto": "Variedade de posição, posição e apresentação."
+      },
+      {
+        "letra": "E",
+        "texto": "Apresentação, posição e variedade de posição. 4000229794"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 10323,
+    "tags": [],
+    "enunciado": "Os pontos de referências do feto em apresentações cefálicas de(cid:82)etidas dos graus 1o, 2o e 3o, são respectivamente",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "bregma, lâmbda e mento."
+      },
+      {
+        "letra": "B",
+        "texto": "lâmbda, bregma e mento."
+      },
+      {
+        "letra": "C",
+        "texto": "bregma, glabela e mento."
+      },
+      {
+        "letra": "D",
+        "texto": "lâmbda, glabela e mento. 4000228039"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10324,
+    "tags": [],
+    "enunciado": "Um médico de uma unidade básica de saúde realiza consulta pré-natal em gestante com idade gestacional de 30 semanas. Ao realizar o terceiro tempo da manobra de Leopold, na região suprapúbica, identi(cid:68)ca estrutura fetal óssea arredondada, regular e compatível com calota craniana. Nesse caso, é correto afirmar que a situação e a apresentação fetais são, respectivamente,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "transversal e cefálica."
+      },
+      {
+        "letra": "B",
+        "texto": "longitudinal e pélvica."
+      },
+      {
+        "letra": "C",
+        "texto": "transversal e córmica."
+      },
+      {
+        "letra": "D",
+        "texto": "longitudinal e cefálica."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10325,
+    "tags": [],
+    "enunciado": "No exame físico obstétrico:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O estreito superior da bacia encontra-se ocupado pelo ombro fetal na situação transversa."
+      },
+      {
+        "letra": "B",
+        "texto": "O terceiro tempo da palpação obstétrica (técnica alemã) identifica a dorso fetal."
+      },
+      {
+        "letra": "C",
+        "texto": "As cefálicas defletidas apresentam o foco no lado materno oposto ao dorso fetal."
+      },
+      {
+        "letra": "D",
+        "texto": "O bregma é o ponto de reparo fetal nas apresentações cefálicas fletidas."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10326,
+    "tags": [],
+    "enunciado": "No estudo da estática fetal e do mecanismo do parto, o obstetra deve ter conhecimento detalhado dos pontos de reparo fetais. As fontanelas têm fundamental importância e a fontanela anterior tem o nome de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Alfa."
+      },
+      {
+        "letra": "B",
+        "texto": "Bregma."
+      },
+      {
+        "letra": "C",
+        "texto": "Lambda."
+      },
+      {
+        "letra": "D",
+        "texto": "Pterion. 4000215641"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10327,
+    "tags": [],
+    "enunciado": "Durante um toque vaginal de uma gestante em trabalho de parto, o obstetra percebeu que a fontanela lambdoide do feto estava voltada na direção da eminência iliopectínea direita da mãe e o diâmetro biparietal estava ao nível das espinhas biisquiáticas. Nesse contexto, baseando-se nessas informações é possível determinar que a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "variedade de posição é occipto direita anterior. O feto está no 3° plano de Hodge."
+      },
+      {
+        "letra": "B",
+        "texto": "variedade de posição é occipto direita anterior. O feto está no plano zero de DeLee."
+      },
+      {
+        "letra": "C",
+        "texto": "variedade de posição é occipto direita posterior. O feto está no plano zero de DeLee"
+      },
+      {
+        "letra": "D",
+        "texto": "variedade de posição é occipto esquerda posterior. O feto está no plano zero de DeLee"
+      },
+      {
+        "letra": "E",
+        "texto": "variedade de posição é occipto direita anterior. O feto está no-1 de DeLee"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10328,
+    "tags": [],
+    "enunciado": "Durante o trabalho de parto, em uma primigesta com feto em apresentação cefálica, nota-se que a cabeça do feto, inicialmente em posição occipito-transversa, começa a rodar. Qual é a principal (cid:68)nalidade desta rotação?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Facilitar a passagem do feto através do estreito superior da pelve."
+      },
+      {
+        "letra": "B",
+        "texto": "Ajustar o maior diâmetro da cabeça fetal ao maior diâmetro da pelve materna."
+      },
+      {
+        "letra": "C",
+        "texto": "Preparar o feto para uma possível cesariana."
+      },
+      {
+        "letra": "D",
+        "texto": "Permitir a identificação de anormalidades fetais antes do parto. 4000214104"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10329,
+    "tags": [],
+    "enunciado": "Na avaliação da estática fetal de um feto longitudinal, dorso à esquerda, cefálico de(cid:82)etido de 2º grau, qual é a variedade da apresentação, o ponto de referência e a linha de orientação?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fronte, Glabela ou Raiz do Nariz, Sutura mentópica."
+      },
+      {
+        "letra": "B",
+        "texto": "Face, Mento, Linha Facial."
+      },
+      {
+        "letra": "C",
+        "texto": "Bregma, Bregma, Sutura Sagitomentópica."
+      },
+      {
+        "letra": "D",
+        "texto": "Face, Mento, Occipitomentoniano. 4000212573"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10330,
+    "tags": [],
+    "enunciado": "As imagens a seguir mostram três possibilidades de apresentação fetal durante o trabalho de parto de termo. Figura 1 Figura 2 Figura 3",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "alternativa que contenha a(s) (cid:68)gura(s) que evidencia apresentação com indicação absoluta de abordagem por via alta (cesariana) é:"
+      },
+      {
+        "letra": "A",
+        "texto": "apresentação córmica (figura 1)"
+      },
+      {
+        "letra": "B",
+        "texto": "apresentação pélvica (figura 2)"
+      },
+      {
+        "letra": "C",
+        "texto": "apresentações córmica e pélvica (figuras 1 e 2)"
+      },
+      {
+        "letra": "D",
+        "texto": "apresentações córmica, pélvica e cefálica (figuras 1, 2 e 3)"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10331,
+    "tags": [],
+    "enunciado": "Qual é a atitude da cabeça fetal (na apresentação cefálica) que tem a maior circunferência/diâmetro?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fletida."
+      },
+      {
+        "letra": "B",
+        "texto": "Deflexão de primeiro grau."
+      },
+      {
+        "letra": "C",
+        "texto": "Deflexão de segundo grau."
+      },
+      {
+        "letra": "D",
+        "texto": "Deflexão de terceiro grau."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10332,
+    "tags": [],
+    "enunciado": "Em apresentações cefálicas de(cid:82)etidas de 1°, 2° e 3° graus, os pontos de referência fetais são, respectivamente,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "lambda, glabela e mento."
+      },
+      {
+        "letra": "B",
+        "texto": "bregma, glabela e mento."
+      },
+      {
+        "letra": "C",
+        "texto": "glabela, mento e bregma."
+      },
+      {
+        "letra": "D",
+        "texto": "bregma, lambda e mento."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10333,
+    "tags": [],
+    "enunciado": "Para sistematizar a técnica da palpação abdominal obstétrica utiliza-se a manobra de Leopold-Zweifel, que consiste em 4 tempos a saber:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "primeiro tempo: sentir o dorso fetal."
+      },
+      {
+        "letra": "B",
+        "texto": "segundo tempo: delimitar o fundo uterino."
+      },
+      {
+        "letra": "C",
+        "texto": "terceiro tempo: auscultar os batimentos cardiofetal."
+      },
+      {
+        "letra": "D",
+        "texto": "quarto tempo: explorar a escava com as duas mãos."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10334,
+    "tags": [],
+    "enunciado": "Gestante, 33 anos, com 38 semanas de gestação, G3Pn2, chega ao centro obstétrico apresentando 3 contrações uterinas fortes e regulares em 10 minutos, há mais de duas horas, com perda de líquido claro com grumos via vaginal. Traz ultrassonogra(cid:68)a obstétrica realizada no mesmo dia: útero globoso e proeminente, com feto único, em situação longitudinal e apresentação cefálica, com posição de dorso à esquerda. Os achados mais prováveis ao exame físico são batimentos cardiofetais auscultados à _______________da mãe, toque vaginal com __________________ de dilatação, bolsa rota e fontanela _______________.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "direita - mais de 3 cm - bregmática às 9h"
+      },
+      {
+        "letra": "B",
+        "texto": "direita - menos de 3 cm - lambdoide às 9h"
+      },
+      {
+        "letra": "C",
+        "texto": "esquerda - mais de 3 cm - lambdoide às 3h"
+      },
+      {
+        "letra": "D",
+        "texto": "esquerda - menos de 3 cm - bregmática às 3h"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10335,
+    "tags": [],
+    "enunciado": "As apresentações cefálicas de(cid:82)etidas geralmente derivam de cefálicas (cid:82)etidas. A de(cid:82)exão do polo cefálico fetal origina determinada variedade de posição contralateral às posições (cid:82)etidas anômalas. Sobre a apresentação cefálica defletida analise as afirmativas abaixo. I. – Acredita-se que grande parte das apresentações de(cid:82)etidas de primeiro grau decorra de de(cid:82)exão discreta das fletidas occipitoposteriores. II. – As de(cid:82)etidas de segundo grau são extremamente raras e, a não ser em fetos muito pequenos ou macerados, não é possível a evolução para parto vaginal. III. – Na cefálica de(cid:82)etida de terceiro grau o fator materno mais importante é a multiparidade. Em razão da menor extensão dos diâmetros insinuados, o parto nas apresentações de face costuma não apresentar dificuldades. Sobre esta situação selecione a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As afirmativas I e II são verdadeiras. A afirmativa III é falsa."
+      },
+      {
+        "letra": "B",
+        "texto": "As afirmativas I e III são verdadeiras. A afirmativa II é falsa."
+      },
+      {
+        "letra": "C",
+        "texto": "As afirmativas II e III são verdadeiras. A afirmativa I é falsa."
+      },
+      {
+        "letra": "D",
+        "texto": "As afirmativas I, II e III são verdadeiras."
+      },
+      {
+        "letra": "E",
+        "texto": "As afirmativas I, II e III são falsas."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10336,
+    "tags": [],
+    "enunciado": "O estudo da estática fetal é de suma importância para analisar as relações do produto conceptual e seus respectivos pontos de referência ao insinuarem-se pelo estreito superior, com a bacia e com o útero, dando- nos dados essenciais para o bom entendimento e acompanhamento do trabalho de parto. Conferir figura correspondente com melhor resolução no anexo (FIGURA 6)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "partir da (cid:68)gura, assinale a alternativa que descreve corretamente a situação, apresentação, variedade de posição e posição fetal."
+      },
+      {
+        "letra": "A",
+        "texto": "Situação longitudinal, apresentação cefálica (fletida), occipto-direta anterior (O.D.A.) e dorso à direita."
+      },
+      {
+        "letra": "B",
+        "texto": "Situação longitudinal, apresentação cefálica de bregma (defletida de 1ºgrau), bregma-direita-anterior (B.D.A.) e dorso à esquerda."
+      },
+      {
+        "letra": "C",
+        "texto": "Situação longitudinal, apresentação cefálica de fronte (defletida de 2º grau), naso-direita-anterior (N.D.A.) e dorso à esquerda."
+      },
+      {
+        "letra": "D",
+        "texto": "Situação longitudinal, apresentação cefálica de face (defletida de 3º grau), mento-esquerda-anterior (M.E.A.) e dorso à esquerda."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10337,
+    "tags": [],
+    "enunciado": "Qual fenômeno plástico no polo cefálico NÃO é observado durante o mecanismo de parto normal?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Bossa serossanguínea"
+      },
+      {
+        "letra": "B",
+        "texto": "Cavalgamento ósseo"
+      },
+      {
+        "letra": "C",
+        "texto": "Cefalohematoma"
+      },
+      {
+        "letra": "D",
+        "texto": "Transudação entre a derme e o periósteo dos ossos do crâneo fetal"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10338,
+    "tags": [],
+    "enunciado": "Qual é o maior diâmetro do crânio fetal?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Occipitofrontal."
+      },
+      {
+        "letra": "B",
+        "texto": "Submento-bregmático."
+      },
+      {
+        "letra": "C",
+        "texto": "Suboccipotobregmático."
+      },
+      {
+        "letra": "D",
+        "texto": "Occipitpmentoniano. 4000197290"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10339,
+    "tags": [],
+    "enunciado": "A correta identi(cid:68)cação das relações útero-fetais durante o trabalho de parto é primordial para acompanhar o trabalho de parto e o parto; assim, pode-se afirmar corretamente que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "nos fetos em atitude de deflexão, o ponto de referência fetal encontra-se do mesmo lado do dorso."
+      },
+      {
+        "letra": "B",
+        "texto": "a rotação externa ou manobra de restituição é necessária para ajustar o biparietal no estreito superior."
+      },
+      {
+        "letra": "C",
+        "texto": "a linha de orientação de uma apresentação cefálica defletida de 1º grau é a linha facial."
+      },
+      {
+        "letra": "D",
+        "texto": "para desprender o polo cefálico após o hipomóclio, em um parto com a apresentação cefálica fletida, ele precisa fletir."
+      },
+      {
+        "letra": "E",
+        "texto": "nos fetos em apresentação cefálica fletida, o foco, isto é, o local de maior audibilidade dos batimentos cardíacos fetais encontra-se no mesmo lado que o ponto de referência fetal."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 10340,
+    "tags": [],
+    "enunciado": "Quanto às relações útero-fetais, assinale a alternativa que contém, respectivamente, a apresentação fetal, seu ponto de referência e linha de orientação.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "cefálica defletida de 2º grau: glabela, sutura metópica."
+      },
+      {
+        "letra": "B",
+        "texto": "pélvica: sacro, linha bitrocantérica."
+      },
+      {
+        "letra": "C",
+        "texto": "cefálica defletida de 1º grau: bregma, sutura sagital."
+      },
+      {
+        "letra": "D",
+        "texto": "cefálica fletida: lambda, sutura coronal."
+      },
+      {
+        "letra": "E",
+        "texto": "cefálica defletida de 3º grau: naso, linha facial. 4000197171"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10341,
+    "tags": [],
+    "enunciado": "ma paciente com 39 semanas e 2 dias de idade gestacional chega à unidade de pronto atendimento para avaliação obstétrica e, após anamnese e exame físico geral, foi constatada, no exame de toque vaginal, uma apresentação fetal como a ilustrada na foto a seguir. Com relação à foto, é correto afirmar que se trata de uma apresentação cefálica",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "defletida de 1° grau, bregmática."
+      },
+      {
+        "letra": "B",
+        "texto": "defletida de 2° grau, de fronte."
+      },
+      {
+        "letra": "C",
+        "texto": "defletida de 3° grau, de face."
+      },
+      {
+        "letra": "D",
+        "texto": "fletida, occipital."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10342,
+    "tags": [],
+    "enunciado": "Avaliação da estática fetal Durante o trabalho de parto, as linhas de orientação são importantes para delimitar melhor o posicionamento fetal, em relação ao diâmetro materno de insinuação. Nas apresentações de(cid:82)etidas de bregma, face e fronte, têm-se como linhas de orientação, respectivamente,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "sutura sagital, linha metópica, linha facial."
+      },
+      {
+        "letra": "B",
+        "texto": "sutura sagitometópica, dorso, linha facial."
+      },
+      {
+        "letra": "C",
+        "texto": "sutura sagital, sutura sagitometópica, linha facial."
+      },
+      {
+        "letra": "D",
+        "texto": "linha facial, dorso, linha metópica."
+      },
+      {
+        "letra": "E",
+        "texto": "sutura sagitometópica, linha facial, linha metópica. 4000193579"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 10343,
+    "tags": [],
+    "enunciado": "Durante o trabalho de parto, o preceptor faz um toque vaginal na paciente e diz ao residente que o feto está em OET. Essa nomenclatura obstétrica permite descrever as relações entre o feto e a gestante e, nesse caso, a letra T faz referência à:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apresentação fetal."
+      },
+      {
+        "letra": "B",
+        "texto": "Posição fetal."
+      },
+      {
+        "letra": "C",
+        "texto": "Situação fetal."
+      },
+      {
+        "letra": "D",
+        "texto": "Variedade de posição fetal. 4000188940"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10344,
+    "tags": [],
+    "enunciado": "Em relação a estática fetal é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O assinclitismo posterior ou obliquidade de Litzmann ocorre quando a sutura sagital fetal se aproxima do pube e o parietal posterior é o primeiro a penetrar na escavação pélvica."
+      },
+      {
+        "letra": "B",
+        "texto": "A apresentação pélvica simples ocorre quando o polo pélvico fetal encontra-se no estreito superior da bacia com as coxas e pernas fletidas."
+      },
+      {
+        "letra": "C",
+        "texto": "A posição fetal representa a relação entre os grandes eixos longitudinais fetal e uterino."
+      },
+      {
+        "letra": "D",
+        "texto": "Insinuação representa a passagem do maior plano perpendicular à linha de orientação pelo estreito inferior, ou seja, é a passagem do biparietral nas apresentações cefálicas e do bitrocanteriano nas apresentações pélvicas."
+      },
+      {
+        "letra": "E",
+        "texto": "A variedade de posição refere-se a relação entre o ponto mais baixo da apresentação e o plano que passa no diâmetro biespinha ciática, podendo variar de -5 a +5. 4000188272"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10345,
+    "tags": [],
+    "enunciado": "Para descrever e estudar o mecanismo de parto, é necessário conhecer as relações espaciais entre o organismo materno e o produto conceptual, utilizando-se para isso nomenclatura e de(cid:68)nições convencionadas. Tal nomenclatura orienta a documentação do parto e a comunicação entre os pro(cid:68)ssionais para que haja, posteriormente, entendimento dos acontecimentos. Em relação ao mecanismo de parto, na variedade de posição occípito-ilíaca-esquerda -anterior, os movimentos que o feto executa até o nascimento são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Descida, rotação interna, insinuação, rotação externa, deflexão e desprendimento das espáduas."
+      },
+      {
+        "letra": "B",
+        "texto": "Descida, insinuação, rotação externa, deflexão, rotação interna e desprendimentos das espáduas."
+      },
+      {
+        "letra": "C",
+        "texto": "Insinuação, descida, rotação externa, rotação interna, deflexão e desprendimento das espáduas."
+      },
+      {
+        "letra": "D",
+        "texto": "Insinuação, descida, rotação interna, deflexão, rotação externa e desprendimento das espáduas."
+      },
+      {
+        "letra": "E",
+        "texto": "Descida, insinuação, rotação interna, deflexão, rotação externa e desprendimento das espáduas. 4000188138"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10346,
+    "tags": [],
+    "enunciado": "Na Estática Fetal o Termo Situação significa:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A relação do Dorso Fetal com o lado Direito e Esquerdo Materno"
+      },
+      {
+        "letra": "B",
+        "texto": "A relação entre o maior eixo fetal (cabeça-nádegas) com o maior eixo uterino (canal cervical-corpo uterino)"
+      },
+      {
+        "letra": "C",
+        "texto": "A relação entre o pólo fetal e o estreito superior da pelve materna"
+      },
+      {
+        "letra": "D",
+        "texto": "A relação dos pontos de referências materno e fetal 4000188113"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10347,
+    "tags": [],
+    "enunciado": "Na assistência ao parto nas apresentações cefálicas o movimento de restituição consiste em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Movimento de flexão da cabeça após o desprendimento"
+      },
+      {
+        "letra": "B",
+        "texto": "Correção do assinclitismo fisiológico do polo cefálico"
+      },
+      {
+        "letra": "C",
+        "texto": "Retorno do occipital para o lado onde se encontrava na insinuação"
+      },
+      {
+        "letra": "D",
+        "texto": "Ajuste do maior diâmetro da cabeça ao maior diâmetro da pelve 4000188110"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10348,
+    "tags": [],
+    "enunciado": "Dentre as opções abaixo, assinale a alternativa que representa contraindicação absoluta ao parto vaginal:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Placenta prévia marginal."
+      },
+      {
+        "letra": "B",
+        "texto": "Histórico de 2 cesarianas prévias."
+      },
+      {
+        "letra": "C",
+        "texto": "Primoinfecção herpética no 1º trimestre."
+      },
+      {
+        "letra": "D",
+        "texto": "Apresentação de face mento-posterior. 4000187932"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10349,
+    "tags": [],
+    "enunciado": "Gestante, com 39s, apresenta ao toque vaginal, feto em apresentação cefálica de(cid:82)etida de 2° grau. Qual o ponto de referência e a linha de orientação, respectivamente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Lambda e sutura sagital."
+      },
+      {
+        "letra": "B",
+        "texto": "Lambda e sutura metópica."
+      },
+      {
+        "letra": "C",
+        "texto": "Bregma e sutura sagital."
+      },
+      {
+        "letra": "D",
+        "texto": "Bregma e sutura metópica."
+      },
+      {
+        "letra": "E",
+        "texto": "Glabela e sutura metópica. 4000187002"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 10350,
+    "tags": [],
+    "enunciado": "Durante o exame obstétrico de uma gestante de 38 semanas, em trabalho de parto, foi observado: palpação abdominal (manobras de Leopold-Zweifel) = não evidenciado polo fetal ocupando o fundo uterino; fundo uterino pouco acima da cicatriz umbilical; batimentos cardíacos fetais= normais; dilatação cervical= 8 cm; bolsa das águas rota. De acordo com esses dados, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A situação fetal é transversa com apresentação córmica, cujo ponto de referência fetal é o acrômio e a conduta é operação cesariana."
+      },
+      {
+        "letra": "B",
+        "texto": "Trata-se de um caso de distócia do trajeto duro no estreito superior da bacia, com diâmetro diminuído da conjugata diagonalis e a conduta é posição verticalizada materna."
+      },
+      {
+        "letra": "C",
+        "texto": "Os dados relatados acima demonstram feto em apresentação pélvica incompleta, secundária a distócia de trajeto mole e a conduta é operação cesariana."
+      },
+      {
+        "letra": "D",
+        "texto": "Trata-se de um caso de distócia da posição fetal, com localização topográfica no estreito inferior da bacia e a conduta é a rotação para occipito púbica."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10351,
+    "tags": [],
+    "enunciado": "Gestante de 29 anos, 4G:3PN:0A, chega ao Pronto-Socorro Obstétrico trazida pelo SAMU em franco trabalho de parto. Não trouxe a carteira de pré-natal, refere data da última menstruação de 18/02/2022. Ao exame clínico, PA 123x82 mmHg, FC 84 bpm, altura uterina de 35 cm, batimento cardíaco fetal presente e rítmico. Ao toque vaginal, dilatação total, apresentação cefálica e alta, sendo percebida a variedade de posição representada na figura. Qual é a referência percebida ao toque que sinaliza dificuldade do parto vaginal?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Raiz do nariz."
+      },
+      {
+        "letra": "B",
+        "texto": "Occipício."
+      },
+      {
+        "letra": "C",
+        "texto": "Bregma."
+      },
+      {
+        "letra": "D",
+        "texto": "Mento."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10352,
+    "tags": [],
+    "enunciado": "O conhecimento da estática fetal é fundamental para instituir o diagnóstico, o prognóstico e o tratamento do parto distócico. A nomenclatura obstétrica permite descrever, com exatidão, as relações entre o feto e a mãe. Nos fetos em situação longitudinal, as 3 letras que compõem as siglas ODA, ODP, OEA, OEP se referem, respectivamente, à",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "apresentação, variedade de posição e posição."
+      },
+      {
+        "letra": "B",
+        "texto": "posição, apresentação e variedade de posição."
+      },
+      {
+        "letra": "C",
+        "texto": "posição, variedade de posição e apresentação."
+      },
+      {
+        "letra": "D",
+        "texto": "apresentação, posição e variedade de posição."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10353,
+    "tags": [],
+    "enunciado": "Secundigesta em trabalho de parto, com 7 cm de dilatação e bolsa rota. Na palpação abdominal, o obstetra encontra o polo cefálico na escavação, apresentação (cid:82)etida e conclui que se trata de ODT. Considerando a pelve como um relógio, no toque vaginal espera-se observar o lambda às",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "9h."
+      },
+      {
+        "letra": "B",
+        "texto": "12h."
+      },
+      {
+        "letra": "C",
+        "texto": "8h."
+      },
+      {
+        "letra": "D",
+        "texto": "3h."
+      },
+      {
+        "letra": "E",
+        "texto": "6h."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10354,
+    "tags": [],
+    "enunciado": "Assinale a alternativa CORRETA sobre a definição de insinuação na apresentação cefálica.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O menor diâmetro transverso ultrapassa o estreito superior da bacia."
+      },
+      {
+        "letra": "B",
+        "texto": "O maior diâmetro anteroposterior ultrapassa o estreito superior da bacia."
+      },
+      {
+        "letra": "C",
+        "texto": "O maior diâmetro transverso ultrapassa o estreito inferior."
+      },
+      {
+        "letra": "D",
+        "texto": "O diâmetro biparietal ultrapassa o estreito superior da bacia."
+      },
+      {
+        "letra": "E",
+        "texto": "O vértice do polo cefálico aproxima-se do plano II de Hodge."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10355,
+    "tags": [],
+    "enunciado": "Sabendo que, ao exame de toque, o ponto de referência fetal corresponde à estrutura B na (cid:68)gura acima, assinale a alternativa que apresenta o ponto de referência e a apresentação fetal, respectivamente.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "lambda — cefálica fletida"
+      },
+      {
+        "letra": "B",
+        "texto": "lambda — cefálica defletida de 1º grau"
+      },
+      {
+        "letra": "C",
+        "texto": "bregma — cefálica defletida de 1º grau"
+      },
+      {
+        "letra": "D",
+        "texto": "bregma — cefálica defletida de 2º grau"
+      },
+      {
+        "letra": "E",
+        "texto": "lambda — cefálica defletida de 2º grau"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10356,
+    "tags": [],
+    "enunciado": "Durante o trabalho de parto, o toque vaginal pode ser representado pela seguinte figura. Considerando essa imagem, assinale a alternativa que indica a posição fetal.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Occípito-direita-anterior."
+      },
+      {
+        "letra": "B",
+        "texto": "Occípito-direita-posterior."
+      },
+      {
+        "letra": "C",
+        "texto": "Occípito-esquerda-anterior."
+      },
+      {
+        "letra": "D",
+        "texto": "Occípito-esquerda-posterior."
+      },
+      {
+        "letra": "E",
+        "texto": "Sacro-esquerda-posterior. 4000197923"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10357,
+    "tags": [],
+    "enunciado": "Qual a variedade de posição mais frequente nas apresentações cefálicas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Occípito esquerda posterior."
+      },
+      {
+        "letra": "B",
+        "texto": "Occípito esquerda anterior."
+      },
+      {
+        "letra": "C",
+        "texto": "Occípito direita anterior."
+      },
+      {
+        "letra": "D",
+        "texto": "Occípito direita posterior."
+      },
+      {
+        "letra": "E",
+        "texto": "Occípito sacra. 4000193478"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10358,
+    "tags": [],
+    "enunciado": "Sobre apresentação fetal durante a gravidez, qual está correta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A altura está alta e móvel quando a apresentação não toma contato com o estreito superior."
+      },
+      {
+        "letra": "B",
+        "texto": "A altura da apresentação está ajustada quando ultrapassa o estreio superior"
+      },
+      {
+        "letra": "C",
+        "texto": "A altura da apresentação está insinuada quando o lambda transpõe a área do estreito superior."
+      },
+      {
+        "letra": "D",
+        "texto": "O encaixamento é a passagem do diâmetro biparietal fetal pelo estreito médio da bacia. 4000192481"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10359,
+    "tags": [],
+    "enunciado": "A (cid:68)gura a seguir representa a insinuação do pólo cefálico na pelve durante a fase ativa de trabalho de parto. Qual é a situação, variedade de posição representada e também a variedade de posição esperada no momento do desprendimento do polo fetal?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cefálica, occipitoilíaca esquerda trasversa, occipitopúbica."
+      },
+      {
+        "letra": "B",
+        "texto": "Longitudinal, occipitoilíaca direita posterior, occiptosacra."
+      },
+      {
+        "letra": "C",
+        "texto": "Cefálica, occipitoilíaca direita posterior, occiptosacra."
+      },
+      {
+        "letra": "D",
+        "texto": "Longitudinal, occipitoilíaca esquerda anterior, occipitopúbica."
+      },
+      {
+        "letra": "E",
+        "texto": "Longitudinal, direita anterior, occíptopúbica 4000191473"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10360,
+    "tags": [],
+    "enunciado": "O movimento de (cid:82)exão que o feto realiza no momento do parto diminui diâmetro Occípito-mentoniano para o Suboccípito-bregmático, o que equivale a diminuir o diâmetro antero-posterior em aproximadamente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "2 cm."
+      },
+      {
+        "letra": "B",
+        "texto": "4 cm."
+      },
+      {
+        "letra": "C",
+        "texto": "6 cm."
+      },
+      {
+        "letra": "D",
+        "texto": "8 cm. 4000191191"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10361,
+    "tags": [],
+    "enunciado": "Gestante está na 39ª semana, com feto em situação longitudinal e apresentação cefálica e o dorso está à esquerda. Se a apresentação for cefálica (cid:82)etida e a sutura sagital estiver no 1º oblíquo (isto é da eminência íleo-pectinea esquerda à sinostose sacro-ilíaca direita), a variedade é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ODA."
+      },
+      {
+        "letra": "B",
+        "texto": "OEA."
+      },
+      {
+        "letra": "C",
+        "texto": "ODP."
+      },
+      {
+        "letra": "D",
+        "texto": "OEP."
+      },
+      {
+        "letra": "E",
+        "texto": "OP."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10362,
+    "tags": [],
+    "enunciado": "Uma primigesta com 24 anos de idade comparece à consulta médica de rotina de pré-natal com 38 semanas. Relata dores em cólica associadas às contrações uterinas. No exame obstétrico, apresentou dinâmica uterina positiva e, após as manobras de Leopold, notou-se o dorso à direita, com polo cefálico na pelve, conforme figura a seguir. MONTENEGRO, B; REZENDE FILHO, C. Obstetrícia. 12. ed. Rio de Janeiro: Guanabara Koogan, 2013.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "partir dessas informações, a situação, apresentação e posição do feto são, respectivamente,"
+      },
+      {
+        "letra": "A",
+        "texto": "situação cefálica, apresentação longitudinal, variedade de posição occípito-esquerda-posterior."
+      },
+      {
+        "letra": "B",
+        "texto": "situação cefálica, apresentação longitudinal, variedade de posição occípito-direita-posterior."
+      },
+      {
+        "letra": "C",
+        "texto": "situação longitudinal, apresentação cefálica, variedade de posição occípito-direita-posterior."
+      },
+      {
+        "letra": "D",
+        "texto": "situação longitudinal, apresentação cefálica, variedade de posição naso-esquerda-anterior."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10363,
+    "tags": [],
+    "enunciado": "Uma parturiente se encontra com 6cm de dilatação. A apresentação está em OEA em -1 de DeLee. Diante dessas informações, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "para ocorrer o parto, o feto deve rodar 90º e se colocar em OP"
+      },
+      {
+        "letra": "B",
+        "texto": "o feto está insinuado, pois já está com 6cm de dilatação"
+      },
+      {
+        "letra": "C",
+        "texto": "o ponto de referência é o bregma, e a linha de orientação é a sutura sagital"
+      },
+      {
+        "letra": "D",
+        "texto": "para ocorrer o desprendimento do polo cefálico no expulsivo, a apresentação deve fazer um movimento de deflexão 4000175524"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10364,
+    "tags": [],
+    "enunciado": "Nas apresentaçõescefálicas (cid:82)etidas, o ponto de referência e a linha de orientação fetais são, respectivamente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Lambda e sutura sagital"
+      },
+      {
+        "letra": "B",
+        "texto": "Lambda e sutura coronal"
+      },
+      {
+        "letra": "C",
+        "texto": "Bregma e sutura sagital"
+      },
+      {
+        "letra": "D",
+        "texto": "Bregma e sutura metópica"
+      },
+      {
+        "letra": "E",
+        "texto": "Bregma e sutura coronal 4000175171"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10365,
+    "tags": [],
+    "enunciado": "No início do parto, com o feto em apresentação cefálica (cid:82)etida, o diâmetro da cabeça fetal que se apresenta ao estreito superior da bacia é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Occipitofrontal"
+      },
+      {
+        "letra": "B",
+        "texto": "Suboccipitobregmático"
+      },
+      {
+        "letra": "C",
+        "texto": "Suboccipitofrontal"
+      },
+      {
+        "letra": "D",
+        "texto": "Occipitobregmático"
+      },
+      {
+        "letra": "E",
+        "texto": "Biparietal 4000175170"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10366,
+    "tags": [],
+    "enunciado": "Quanto ao parto vaginal eutócico, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A primeira fase clínica do parto é chamada de expulsão."
+      },
+      {
+        "letra": "B",
+        "texto": "O terceiro período ou 1 hora pós-parto é a fase mais importante para avaliação de hemorragia puerperal."
+      },
+      {
+        "letra": "C",
+        "texto": "Em relação à estática fetal, a insinuação pode ocorrer em situação longitudinal, apresentação cefálica, fletida, em occipito esquerda transversa."
+      },
+      {
+        "letra": "D",
+        "texto": "Em pacientes multiparas, o apagamento do colo ocorre previamente à dilatação cervical."
+      },
+      {
+        "letra": "E",
+        "texto": "Os tempos do parto incluem, nesta ordem, descida, insinuação, rotação interna, despreendimento cefálico, rotação externa e despreendimento do tronco. 4000170484"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10367,
+    "tags": [],
+    "enunciado": "Secundigesta com 39 semanas, em trabalho de parto, está com colo uterino esvaecido e dilatado 10 cm, apresentação cefálica (cid:82)etida, numa variedade esquerda anterior e no plano + 2 de De Lee. O ponto de referência fetal e o quanto ele deve rodar para que se dê o desprendimento da cabeça são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "bregma; 135º no sentido anti-horário."
+      },
+      {
+        "letra": "B",
+        "texto": "bregma; 45º no sentido horário."
+      },
+      {
+        "letra": "C",
+        "texto": "occipício; 315º no sentido horário."
+      },
+      {
+        "letra": "D",
+        "texto": "occipício; 45º no sentido anti-horário."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10368,
+    "tags": [],
+    "enunciado": "Apresentação pélvica agripina corresponde à(ao) :",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Completa."
+      },
+      {
+        "letra": "B",
+        "texto": "Pélvico-Podálica."
+      },
+      {
+        "letra": "C",
+        "texto": "Modo de pés."
+      },
+      {
+        "letra": "D",
+        "texto": "Modo de joelhos."
+      },
+      {
+        "letra": "E",
+        "texto": "Modo de nádega. 4000168227"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 10369,
+    "tags": [],
+    "enunciado": "Paciente G1P0A0, com 40 semanas e 6 dias de gravidez, deu entrada na Maternidade da Santa Casa em trabalho de parto. AO EXAME: AU:36cm; BCF:142 BPM e DU:5/10’/57’’. TOQUE: Colo apagado, pérvio para 05 cm, bolsa íntegra, cefálico, defletida de segundo grau,-1 de De Lee. Qual a conduta obstétrica?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "fazer versão externa."
+      },
+      {
+        "letra": "B",
+        "texto": "indicar cesárea."
+      },
+      {
+        "letra": "C",
+        "texto": "fórceps de alívio."
+      },
+      {
+        "letra": "D",
+        "texto": "assistência ao parto vaginal. 4000167895"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10370,
+    "tags": [],
+    "enunciado": "Durante um trabalho de parto, ao analisar a estática fetal, o obstetra constatou, ao toque, a seguinte situação: Pode-se afirma que se trata de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "assinclitismo posterio"
+      },
+      {
+        "letra": "B",
+        "texto": "assinclitismo anterior"
+      },
+      {
+        "letra": "C",
+        "texto": "sinclitismo"
+      },
+      {
+        "letra": "D",
+        "texto": "insinuação de De Lee"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10371,
+    "tags": [],
+    "enunciado": "Considerando a semiologia obstétrica, qual a sequência correta, descrita por Leopold-Zweifel, para a verificação da estática fetal?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "(1) Delimitação e medida do fundo uterino; (2) palpar o dorso e membros fetal; (3) reconhecer a apresentação e verificar o grau de penetração do polo fetal com ambas as mãos e (4) explorar a mobilidade do polo fetal com o indicador e polegar da mão direita."
+      },
+      {
+        "letra": "B",
+        "texto": "(1) Medição da altura do fundo uterino; (2) palpar o dorso e membros fetais; (3) reconhecer e verificar o grau de penetração do polo fetal e (4) verificar e medir o batimento cardíaco fetal."
+      },
+      {
+        "letra": "C",
+        "texto": "(1) Palpar o dorso e membros fetal; (2) com ambas as mãos, reconhecer a apresentação e verificar o grau de penetração do polo fetal; (3) explorar a mobilidade do polo fetal com a mão direita e (4) delimitação e medida do fundo uterino."
+      },
+      {
+        "letra": "D",
+        "texto": "(1) Delimitação e palpação do fundo uterino; (2) palpar o dorso e membros fetais; (3) explorar a mobilidade do polo fetal com a mão direita e (4) reconhecer e verificar o grau de penetração do polo fetal com ambas as mãos."
+      },
+      {
+        "letra": "E",
+        "texto": "(1) Verificar e medir o batimento cardíaco fetal; (2) palpar o dorso e membros fetais; (3) explorar a mobilidade do polo fetal e (4) delimitação e medida do fundo uterino."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10372,
+    "tags": [],
+    "enunciado": "Em relação à apresentação cefálica durante o Trabalho de Parto (TP), assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A insinuação fetal depende da forma da bacia materna, sendo a preferência pelos diâmetros transversos é predominantemente no tipo ginecoide e no platipeloide."
+      },
+      {
+        "letra": "B",
+        "texto": "A rotação anterior do polo fetal ocorre até o final do 1º período e até mais cedo nas multíparas."
+      },
+      {
+        "letra": "C",
+        "texto": "Na apresentação occiptossacra surge primeiro a grande fontanela sendo que a progressão ocorre em hiperflexão até que o nariz se encontre sob o arco púbico."
+      },
+      {
+        "letra": "D",
+        "texto": "A rotação manual da cabeça fetal para a posição anterior, realizada durante a contração uterina e indicada quando o colo uterino apresenta dilatação completa ou após espera de 1 a 2 horas, poderá ser bem-sucedida em aproximadamente 90% dos casos. 4000163774"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10373,
+    "tags": [],
+    "enunciado": "O mecanismo de desprendimento da apresentação de face se dá por:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Assinclitismo"
+      },
+      {
+        "letra": "B",
+        "texto": "Lateralização"
+      },
+      {
+        "letra": "C",
+        "texto": "Deflexão"
+      },
+      {
+        "letra": "D",
+        "texto": "Flexão"
+      },
+      {
+        "letra": "E",
+        "texto": "Extensão 4000173076"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10374,
+    "tags": [],
+    "enunciado": "Para a avaliação fetal durante o trabalho de parto, o toque vaginal permite identi(cid:68)car a apresentação fetal e seus pontos de reparo. Em qual dos itens essa correlação está incorreta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cefálica defletida de 10 grau = ngulo anterior do bregma."
+      },
+      {
+        "letra": "B",
+        "texto": "Cefálica defletida de 30 grau = Queixo."
+      },
+      {
+        "letra": "C",
+        "texto": "Cefálica defletida de 20 grau = Raiz do nariz."
+      },
+      {
+        "letra": "D",
+        "texto": "Cefálica fletida = Lambda."
+      },
+      {
+        "letra": "E",
+        "texto": "Pélvica = Acrômio. 4000172153"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 10375,
+    "tags": [],
+    "enunciado": "Em apresentações cefálicas de(cid:82)etidas de 1°, 2° e 3° grau, os pontos de referência fetais são respectivamente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Lambda, glabela e mento."
+      },
+      {
+        "letra": "B",
+        "texto": "Bregma, glabela e mento."
+      },
+      {
+        "letra": "C",
+        "texto": "Glabela, mento e bregma."
+      },
+      {
+        "letra": "D",
+        "texto": "Bregma, lambda e mento. 4000171339"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10376,
+    "tags": [],
+    "enunciado": "Em relação à anatomia da bacia obstétrica considere as seguintes assertivas. I. Estreito Superior: sínfise púbica ao promontório. II. Estreito Médio: ao nível das espinhas ciáticas. III. Estreito Inferior: entre borda superior da sínfise púbica e espinhas ciáticas. IV. Conjugata Diagonalis: borda superior da sínfise púbica ao promontório. Estão corretas",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e II"
+      },
+      {
+        "letra": "B",
+        "texto": "I e III"
+      },
+      {
+        "letra": "C",
+        "texto": "II e III"
+      },
+      {
+        "letra": "D",
+        "texto": "II e IV 4000170785"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10377,
+    "tags": [],
+    "enunciado": "Pelo toque vaginal é possível realizar a medida da borda inferior da sín(cid:68)se púbica até o promontório, que é chamada de Conjugata",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Vera Obstétrica."
+      },
+      {
+        "letra": "B",
+        "texto": "Diagonalis."
+      },
+      {
+        "letra": "C",
+        "texto": "Vera Anatômica."
+      },
+      {
+        "letra": "D",
+        "texto": "Exitus. 4000170775"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10378,
+    "tags": [],
+    "enunciado": "Você está acompanhando uma parturiente durante o período expulsivo e, durante o toque vaginal, veri(cid:68)ca que a apresentação fetal realizou rotação de 135º no sentido horário desde sua última avaliação. Agora o lambda está voltado para sín(cid:68)se púbica materna. Qual era a variedade de posição que você veri(cid:68)cou em seu exame físico anterior?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "LDA."
+      },
+      {
+        "letra": "B",
+        "texto": "ODP."
+      },
+      {
+        "letra": "C",
+        "texto": "ODT."
+      },
+      {
+        "letra": "D",
+        "texto": "ODA."
+      },
+      {
+        "letra": "E",
+        "texto": "LDP."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10379,
+    "tags": [],
+    "enunciado": "Correlacione os itens das duas colunas entre si e assinale a alternativa correta. 1. Maior diâmetro cefálico fetal. 2. Tem cerca de 9,5 centímetros. 3. Diâmetro de insinuação da apresentação cefálica defletida de primeiro grau. I. Diâmetro submentobregmático. II. Diâmetro occipitomentoniano. III. Diâmetro occipitofrontal.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1. I, 2. III, 3. II."
+      },
+      {
+        "letra": "B",
+        "texto": "1. II, 2. I, 3. III."
+      },
+      {
+        "letra": "C",
+        "texto": "1. III, 2. I, 3. II."
+      },
+      {
+        "letra": "D",
+        "texto": "1. III, 2. II, 3. I."
+      },
+      {
+        "letra": "E",
+        "texto": "1. II, 2. III, 3. I."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10380,
+    "tags": [],
+    "enunciado": "Conceitos de obstetrícia sobre relações útero-fetais são importantes no sentido de se poder acompanhar a evolução de um trabalho de parto e de se poder comunicar com os demais participantes da equipe. É correto dizer que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a insinuação pode ser confirmada quando se toca o osso parietal do feto na altura do estreito superior."
+      },
+      {
+        "letra": "B",
+        "texto": "a descrição da altura da apresentação se faz relacionando a quantos centímetros o feto está acima do púbis, sendo zero, no seu nível e menos 1, menos 2 ou mais 1 ou mais 2."
+      },
+      {
+        "letra": "C",
+        "texto": "o feto está em OEA quando estiver com a fontanela lambdoide se relacionando com a iminência íleo- -pectina esquerda."
+      },
+      {
+        "letra": "D",
+        "texto": "a situação longitudinal com o feto em posição cefálica é a forma correta da descrição do achado mais usual dos fetos devido ao processo de versão espontânea que ocorre."
+      },
+      {
+        "letra": "E",
+        "texto": "a atitude em que o feto se apresenta é indiferente no processo de parturição, sendo importante para os casos em que se vai instrumentalizar o parto com fórcipe."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10381,
+    "tags": [],
+    "enunciado": "Assinale a alternativa que apresenta, correta e respectivamente, a variedade de posição fetal, o ponto de referência fetal, o diâmetro de insinuação e seu diâmetro em centímetros.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "apresentação cefálica defletida de 1.° grau, bregma e diâmetro occipto-frontal com 12 cm"
+      },
+      {
+        "letra": "B",
+        "texto": "apresentação cefálica defletida de 2.° grau, naso e diâmetro occipto-mentoniano com 12 cm"
+      },
+      {
+        "letra": "C",
+        "texto": "apresentação cefálica defletida de 3.° grau, mento e diâmetro suboccipto-mentoniano com 9,5 cm"
+      },
+      {
+        "letra": "D",
+        "texto": "apresentação cefálica fletida, occipício e diâmetro occipto-bregmático com 9,5 cm"
+      },
+      {
+        "letra": "E",
+        "texto": "apresentação cefálica fletida, occipício e diâmetro suboccipto-bregmático com 12 cm"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10382,
+    "tags": [],
+    "enunciado": "Para descrever e estudar o mecanismo de parto, é necessário conhecer as relações espaciais entre o organismo materno e produto conceptual, utilizando-se para isso nomenclatura e de(cid:68)nições convencionadas. Tal nomenclatura orienta a documentação do parto e a comunicação entre os pro(cid:68)ssionais para que haja, posteriormente, entendimento dos acontecimentos. Quanto às relações útero-fetais abaixo relacionadas, assinale aquela que contém conceito INCORRETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o de atitude reside na relação das diversas partes fetais entre si."
+      },
+      {
+        "letra": "B",
+        "texto": "A situação consiste na relação entre o maior eixo da cavidade uterina e o maior eixo fetal."
+      },
+      {
+        "letra": "C",
+        "texto": "A apresentação é definida como a região fetal que ocupa área do estreito inferior e nela se vai insinuar."
+      },
+      {
+        "letra": "D",
+        "texto": "Adota-se a definição de posição fetal, da escola alemā, que a descreve como a relaçāo do dorso fetal com o lado materno."
+      },
+      {
+        "letra": "E",
+        "texto": "A variedade de posição complementa a orientação espacial do concepto ao relacionar um ponto de referência da apresentação fetal com um ponto de referência ósseo da bacia materna, levando- se em consideração as faces anterior, posterior ou lateral da gestante. 4000144060"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10383,
+    "tags": [],
+    "enunciado": "Durante o trabalho de parto dos fetos em apresentação cefálica (cid:82)etida, a de(cid:82)exão lateral do pólo cefálico para uma posição mais anterior ou posterior da pelve é denominada:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Insinuação."
+      },
+      {
+        "letra": "B",
+        "texto": "Atitude fetal."
+      },
+      {
+        "letra": "C",
+        "texto": "Variedade de posição."
+      },
+      {
+        "letra": "D",
+        "texto": "Situação fetal."
+      },
+      {
+        "letra": "E",
+        "texto": "Assinclitismo."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 10384,
+    "tags": [],
+    "enunciado": "Em apresentações cefálicas de(cid:82)etidas de 1 °, 2 ° e 3 ° graus, os pontos de referência fetais são respectivamente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Glabela, lambda, bregma."
+      },
+      {
+        "letra": "B",
+        "texto": "Bregma, glabela e mento."
+      },
+      {
+        "letra": "C",
+        "texto": "Glabela, mento e bregma."
+      },
+      {
+        "letra": "D",
+        "texto": "Bregma, lambda e mento."
+      },
+      {
+        "letra": "E",
+        "texto": "Lambda, glabela e mento. 4000143145"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10385,
+    "tags": [],
+    "enunciado": "Nas apresentações cefálicas defletidas de 2º grau, o ponto de referência fetal é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Menta"
+      },
+      {
+        "letra": "B",
+        "texto": "Lâmbda"
+      },
+      {
+        "letra": "C",
+        "texto": "Glabela"
+      },
+      {
+        "letra": "D",
+        "texto": "Bregma 4000143017"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10386,
+    "tags": [],
+    "enunciado": "Na estática fetal, a variedade de posição se de(cid:68)ne como a relação dos pontos de referência maternos e fetais. Dentre os pontos fetais, o que representa a apresentação cefálica fletida é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "glabela"
+      },
+      {
+        "letra": "B",
+        "texto": "lambda"
+      },
+      {
+        "letra": "C",
+        "texto": "bregma"
+      },
+      {
+        "letra": "D",
+        "texto": "mento 4000142682"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10387,
+    "tags": [],
+    "enunciado": "O toque vaginal em uma primípara em trabalho de parto evidenciou: colo centralizado, dilatação 9 cm, apresentação cefálica, sutura sagital mais próxima do pube que do promontório. Podemos afirmar que o feto está em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Assinclitismo posterior"
+      },
+      {
+        "letra": "B",
+        "texto": "Variedade de posição OP (occipto púbic"
+      },
+      {
+        "letra": "C",
+        "texto": "Assinclitismo anterior"
+      },
+      {
+        "letra": "D",
+        "texto": "Variedade de posição OS (occipto sacra)"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10388,
+    "tags": [],
+    "enunciado": "Paciente hígida foi submetida a maturação de colo com misoprostol e posterior indução de parto por pós- datismo, conforme partograma apresentado. Qual das figuras a seguir representa a insinuação do feto nesse caso?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "B"
+      },
+      {
+        "letra": "C",
+        "texto": "D"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10389,
+    "tags": [],
+    "enunciado": "Analise a seguinte figura de apresentação cefálica no mecanismo de parto. Trata-se de apresentação cefálica",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "defletida de terceiro grau."
+      },
+      {
+        "letra": "B",
+        "texto": "defletida de primeiro grau."
+      },
+      {
+        "letra": "C",
+        "texto": "defletida de segundo grau."
+      },
+      {
+        "letra": "D",
+        "texto": "fletida."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10390,
+    "tags": [],
+    "enunciado": "A partir da imagem acima, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O feto 1 encontra-se em posição defletida de primeiro grau."
+      },
+      {
+        "letra": "B",
+        "texto": "O feto 2 encontra-se em posição defletida de segundo grau."
+      },
+      {
+        "letra": "C",
+        "texto": "O feto 3 encontra-se em posição cefálica fletida."
+      },
+      {
+        "letra": "D",
+        "texto": "O feto 4 encontra-se em posição defletida de terceiro grau."
+      },
+      {
+        "letra": "E",
+        "texto": "O feto 4 encontra-se em posição defletida de quarto grau."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10391,
+    "tags": [],
+    "enunciado": "Na estática fetal, a variedade de posição se de(cid:68)ne como a relação dos pontos de referência maternos e fetais. Dentre os pontos fetais, o que representa a apresentação cefálica fletida é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "glabela."
+      },
+      {
+        "letra": "B",
+        "texto": "lambda."
+      },
+      {
+        "letra": "C",
+        "texto": "bregma."
+      },
+      {
+        "letra": "D",
+        "texto": "mento."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10392,
+    "tags": [],
+    "enunciado": "Durante a visita no pré-parto, o preceptor da obstetrícia explica realização das manobras de Leopold- Zweifel. Na primeira manobra, relata um polo fetal não muito volumoso, de superfície lisa e consistente. A segunda manobra revelou presença de pequenas partes fetais orientadas para o lado direito materno. Na terceira manobra, foi apreendido um polo maior do que o relatado na primeira manobra, de superfície menos consistente. Diante da descrição do exame físico, assinale a alternativa que contempla a situação, a apresentação e a posição fetais, respectivamente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "cefálica, longitudinal, direita."
+      },
+      {
+        "letra": "B",
+        "texto": "longitudinal, cefálica, esquerda."
+      },
+      {
+        "letra": "C",
+        "texto": "pélvica, longitudinal, direita."
+      },
+      {
+        "letra": "D",
+        "texto": "longitudinal, pélvica, esquerda. 4000133155"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10393,
+    "tags": [],
+    "enunciado": "Durante o trabalho de parto, o preceptor faz um toque vaginal na paciente e diz ao residente que o feto está em OET. Essa nomenclatura obstétrica permite descrever as relações entre o feto e a gestante e, nesse caso, a letra T faz referência à:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apresentação fetal."
+      },
+      {
+        "letra": "B",
+        "texto": "Posição fetal."
+      },
+      {
+        "letra": "C",
+        "texto": "Situação fetal."
+      },
+      {
+        "letra": "D",
+        "texto": "Variedade de posição fetal."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10394,
+    "tags": [],
+    "enunciado": "Analise a variedade de posição da apresentação fetal reproduzida na figura. Que fórceps, dentre os abaixo, está indicado?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "B"
+      },
+      {
+        "letra": "C",
+        "texto": "D"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10395,
+    "tags": [],
+    "enunciado": "Você está avaliando uma parturiente no pré-parto e registra em prontuário que se trata de apresentação cefálica de(cid:82)etida de segundo grau. Observe a (cid:68)gura abaixo e aponte o número que indica a estrutura em que você tocou para chegar a essa conclusão.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1"
+      },
+      {
+        "letra": "B",
+        "texto": "2"
+      },
+      {
+        "letra": "C",
+        "texto": "3"
+      },
+      {
+        "letra": "D",
+        "texto": "4"
+      },
+      {
+        "letra": "E",
+        "texto": "5"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10396,
+    "tags": [],
+    "enunciado": "S.M.M, 29 anos, 2G1PN, com 39 semanas e 3 dias de gestação, procura o pronto atendimento onde você está de plantão. Queixa-se de contrações regulares e perda de líquido via vaginal há cerca de seis horas. Refere seguimento pré-natal sem intercorrências. Você realiza o toque vaginal e veri(cid:68)ca dilatação cervical de nove centímetros e que a variedade de apresentação fetal é a representada na (cid:68)gura abaixo. De(cid:68)na quais são, respectivamente, a posição fetal e o diâmetro do crânio fetal na insinuação, relacionados aos achados do exame físico.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Longitudinal; occipitofrontal"
+      },
+      {
+        "letra": "B",
+        "texto": "Direita; subocciptobregmático"
+      },
+      {
+        "letra": "C",
+        "texto": "Esquerda; occipitofrontal"
+      },
+      {
+        "letra": "D",
+        "texto": "Longitudinal; subocciptobregmático"
+      },
+      {
+        "letra": "E",
+        "texto": "Direita; occipitofrontal"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10397,
+    "tags": [],
+    "enunciado": "Mulher tercigista e secundipara (partos normais). Fez pré-natal adequado e nega alterações em exames laboratoriais. Deu entrada na emergência da Maternidade com 38 semanas de gestação, queixando-se de dor em baixo ventre, apresentando 4 contrações de 40 segundos cada, em intervalo de 10 minutos. Batimento cardíaco fetal: 144bpm. Ao toque vaginal, colo dilatado 9cm, (cid:68)no, bolsa integra, apresentação em +1 de De Lee com Lambda em correspondência com estreito superior da bacia à esquerda e anteriormente. Identifique a apresentação e a variedade de posição fetal.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cefálica fletida e occipito esquerda posterior (OEP)."
+      },
+      {
+        "letra": "B",
+        "texto": "Cefálica defletida e mento esquerda anterior (MEA)."
+      },
+      {
+        "letra": "C",
+        "texto": "Cefálica fletida e occipito esquerda anterior (OEA)."
+      },
+      {
+        "letra": "D",
+        "texto": "Cefálica defletida e bregma esquerda anterior (BEA)."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10398,
+    "tags": [],
+    "enunciado": "Manobras de Leopold-Zweifel, realizadas no exame de gestante com 35 semanas, evidenciam dorso fetal do lado direito materno e polo cefálico próximo à bacia materna. A posição, situação e apresentação fetais são, respectivamente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "posterior, transversa e córmica."
+      },
+      {
+        "letra": "B",
+        "texto": "esquerda, oblíqua e pélvica."
+      },
+      {
+        "letra": "C",
+        "texto": "direita, longitudinal e cefálica."
+      },
+      {
+        "letra": "D",
+        "texto": "esquerda, oblíqua e pélvica."
+      },
+      {
+        "letra": "E",
+        "texto": "anterior, longitudinal e cefálica."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10399,
+    "tags": [],
+    "enunciado": "Ao realizar toque vaginal em gestante de termo em franco trabalho de parto, com dilatação total, o obstetra notou feto em apresentação cefálica fletida, com seu vértice localizado em nível das espinhas ciáticas e com seu ponto de referência voltado na direção da eminência iliopectínea esquerda da bacia materna. Com base nessa situação hipotética, espera-se, no mecanismo de parto, rotação interna de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "45 graus, em sentido anti-horário."
+      },
+      {
+        "letra": "B",
+        "texto": "45 graus, em sentido horário."
+      },
+      {
+        "letra": "C",
+        "texto": "90 graus, em sentido anti-horário."
+      },
+      {
+        "letra": "D",
+        "texto": "135 graus, em sentido horário."
+      },
+      {
+        "letra": "E",
+        "texto": "135 graus, em sentido anti-horário."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10400,
+    "tags": [],
+    "enunciado": "Está correta a apresentação fetal e o respectivo ponto de referência:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "cefálica fletida naso."
+      },
+      {
+        "letra": "B",
+        "texto": "cefálica defletida de segundo grau mento."
+      },
+      {
+        "letra": "C",
+        "texto": "cefálica defletida de terceiro grau glabela."
+      },
+      {
+        "letra": "D",
+        "texto": "cefálica defletida de primeiro grau bregma."
+      },
+      {
+        "letra": "E",
+        "texto": "córmica crista sacrococcígea."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10401,
+    "tags": [],
+    "enunciado": "A apresentação fetal mostrada na imagem abaixo é?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Occipto esquerda anterior."
+      },
+      {
+        "letra": "B",
+        "texto": "Bregmática."
+      },
+      {
+        "letra": "C",
+        "texto": "Occipto direita posterior."
+      },
+      {
+        "letra": "D",
+        "texto": "Occipto transversa esquerda."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10402,
+    "tags": [],
+    "enunciado": "MMCL, 19 anos, está em trabalho de parto há 10 horas e vem evoluindo a contento. Durante o toque vaginal, você encontra algo “diferente”. Por isso, chama o médico mais experiente do serviço que realiza o toque e afirma que tocou a glabela. A conduta correta é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fórcipe de alívio."
+      },
+      {
+        "letra": "B",
+        "texto": "Fórcipe de rotação."
+      },
+      {
+        "letra": "C",
+        "texto": "Versão externa."
+      },
+      {
+        "letra": "D",
+        "texto": "Versão interna."
+      },
+      {
+        "letra": "E",
+        "texto": "Cesariana."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 10403,
+    "tags": [],
+    "enunciado": "Durante a condução de um trabalho de parto, ao realizar o toque, o obstetra evidencia apresentação cefálica fletida, com lambda fetal em posição 2h em relação aos ponteiros do relógio. Isso significa que o dorso fetal está:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "esquerda anterior."
+      },
+      {
+        "letra": "B",
+        "texto": "esquerda posterior."
+      },
+      {
+        "letra": "C",
+        "texto": "direita anterior."
+      },
+      {
+        "letra": "D",
+        "texto": "direita posterior."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10404,
+    "tags": [],
+    "enunciado": "As relações útero-fetais de(cid:68)nem o posicionamento espacial do concepto no útero e na bacia materna e têm importância fundamental na assistência ao parto. Sobre isso, assinale a alternativa CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Na apresentação pélvica incompleta modo de nádegas, o ponto de reparo e o dorso fetal encontram-se diametralmente opostos."
+      },
+      {
+        "letra": "B",
+        "texto": "Na situação transversa, a bacia materna estará incompletamente ocupada, e o polo cefálico do concepto estará no flanco materno."
+      },
+      {
+        "letra": "C",
+        "texto": "No primeiro oblíquo da bacia obstétrica, encontramos variedades de posições OEA ou ODP nas apresentações cefálicas fletidas."
+      },
+      {
+        "letra": "D",
+        "texto": "As variedades sagitais altas, respectivamente OP e OS, são comumente encontradas nas bacias antropoide e platipeloide."
+      },
+      {
+        "letra": "E",
+        "texto": "O lado materno em que se encontra o dorso fetal define a posição do feto nas apresentações cefálicas e nas pélvicas."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10405,
+    "tags": [],
+    "enunciado": "Um feto estando em OEA, pode-se dizer que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a situação é de flexão."
+      },
+      {
+        "letra": "B",
+        "texto": "a apresentação é longitudinal."
+      },
+      {
+        "letra": "C",
+        "texto": "a atitude é anterior."
+      },
+      {
+        "letra": "D",
+        "texto": "a posição é esquerda."
+      },
+      {
+        "letra": "E",
+        "texto": "o assinclitismo é posterior."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10406,
+    "tags": [],
+    "enunciado": "O recém-nascido de parto normal que pode apresentar máscara equimótica, nas primeiras horas após o parto, é aquele que durante o trabalho de parto apresentava-se em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "cefálica fletida."
+      },
+      {
+        "letra": "B",
+        "texto": "defletida de primeiro grau."
+      },
+      {
+        "letra": "C",
+        "texto": "defletida de segundo grau."
+      },
+      {
+        "letra": "D",
+        "texto": "defletida de terceiro grau."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10407,
+    "tags": [],
+    "enunciado": "Em um feto a termo, o diâmetro biparietal tem aproximadamente 9,5 cm, semelhante ao diâmetro:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Occipitofrontal."
+      },
+      {
+        "letra": "B",
+        "texto": "Occipitomentoniano."
+      },
+      {
+        "letra": "C",
+        "texto": "Suboccipitobregmático."
+      },
+      {
+        "letra": "D",
+        "texto": "Suboccipitofrontal."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10408,
+    "tags": [],
+    "enunciado": "Qual o tipo de apresentação pélvica apresentada na figura abaixo?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Incompleta de nádegas"
+      },
+      {
+        "letra": "B",
+        "texto": "Completa de nádegas"
+      },
+      {
+        "letra": "C",
+        "texto": "Modo de pés"
+      },
+      {
+        "letra": "D",
+        "texto": "Completa padrão"
+      },
+      {
+        "letra": "E",
+        "texto": "Incompleta de joelho"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10409,
+    "tags": [],
+    "enunciado": "Gestante admitida em maternidade em fase ativa do trabalho de parto apresenta dilatação cervical de 8 cm, apresentação cefálica (cid:82)etida e variedade OEA. Para que o parto transcorra sem problemas e o feto sofra expulsão em OP, o sentido de rotação e a quantidade de ângulos é de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "sentido horário, 135 graus."
+      },
+      {
+        "letra": "B",
+        "texto": "sentido anti-horário, 90 graus."
+      },
+      {
+        "letra": "C",
+        "texto": "sentido anti-horário, 45 graus."
+      },
+      {
+        "letra": "D",
+        "texto": "sentido horário, 45 graus."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10410,
+    "tags": [],
+    "enunciado": "A relação entre o eixo longitudinal fetal e o da mãe é denominada:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Posição fetal."
+      },
+      {
+        "letra": "B",
+        "texto": "Apresentação fetal."
+      },
+      {
+        "letra": "C",
+        "texto": "Atitude fetal."
+      },
+      {
+        "letra": "D",
+        "texto": "Insinuação fetal."
+      },
+      {
+        "letra": "E",
+        "texto": "Descida fetal."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10411,
+    "tags": [],
+    "enunciado": "Para descrever e estudar o mecanismo de parto, é necessário conhecer as relações espaciais entre o organismo materno e o produto conceptual, utilizando-se para isso nomenclatura e de(cid:68)nições convencionadas. Tal nomenclatura orienta a documentação do parto e a comunicação entre os pro(cid:68)ssionais para que haja, posteriormente, entendimento dos acontecimentos. Analise as relações uterofetais abaixo relacionadas. I - O conceito de atitude reside na relação das diversas partes fetais entre si. II - A situação consiste na relação entre o maior eixo da cavidade uterina e o maior eixo fetal. III - A apresentação é de(cid:68)nida como a região fetal que ocupa a área do estreito inferior e nela se vai insinuar. IV - Adota-se a de(cid:68)nição de posição fetal, da escola alemã, que a descreve como a relação do dorso fetal com o lado materno. V - A variedade de posição complementa a orientação espacial do concepto ao relacionar um ponto de referência da apresentação fetal com um ponto de referência ósseo da bacia materna, levando-se em consideração as faces anterior, posterior ou lateral da gestante. Estão corretas",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "somente I e IV."
+      },
+      {
+        "letra": "B",
+        "texto": "somente I, II e V."
+      },
+      {
+        "letra": "C",
+        "texto": "somente I, II e IV."
+      },
+      {
+        "letra": "D",
+        "texto": "somente I, II, IV e V."
+      },
+      {
+        "letra": "E",
+        "texto": "somente I, II, III e IV."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10412,
+    "tags": [],
+    "enunciado": "Para a avaliação fetal durante o trabalho de parto, o toque vaginal permite identi(cid:68)car a apresentação fetal e seus pontos de reparo. Em qual dos itens essa correlação está incorreta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cefálica defletida de 1º grau = Ângulo anterior do bregma."
+      },
+      {
+        "letra": "B",
+        "texto": "Cefálica defletida de 3º grau = Queixo."
+      },
+      {
+        "letra": "C",
+        "texto": "Cefálica defletida de 2º grau = Raiz do nariz."
+      },
+      {
+        "letra": "D",
+        "texto": "Cefálica fletida = Lambda."
+      },
+      {
+        "letra": "E",
+        "texto": "Pélvica = Acrômio."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 10413,
+    "tags": [],
+    "enunciado": "Marque a resposta CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Denomina-se situação a relação das diversas partes do feto entre si."
+      },
+      {
+        "letra": "B",
+        "texto": "Atitude é a relação do maior eixo fetal com o maior eixo uterino."
+      },
+      {
+        "letra": "C",
+        "texto": "O ponto de referência fetal na apresentação cefálica defletida de segundo grau é o naso."
+      },
+      {
+        "letra": "D",
+        "texto": "A linha de orientação na apresentação cefálica defletida de terceiro grau é a sutura sagital."
+      },
+      {
+        "letra": "E",
+        "texto": "Rotação interna é quando a cabeça descreve um arco de círculo. O grau de rotação varia conforme a variedade de posição. Nas variedades anteriores (OEA, ODP = 15º a 55º.)"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10414,
+    "tags": [],
+    "enunciado": "A apresentação, na estática fetal, corresponde \"\"a região fetal que se loca na área do estreito superior, ocupando-a em seu todo, ai tende a insinuar-se e, durante o trabalho de parto, é sede de mecanismo bem determinado.\"\" (REZENDE, 2013). Na apresentação fetal cefálica (cid:82)etida (vértice ou occipital), o ponto de referência e a linha de orientação respectivamente, são",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "acrômio e dorso fetal."
+      },
+      {
+        "letra": "B",
+        "texto": "lambda e sutura sagital."
+      },
+      {
+        "letra": "C",
+        "texto": "bregma e sutura sagitometópica."
+      },
+      {
+        "letra": "D",
+        "texto": "glabela e linha metópica."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10415,
+    "tags": [],
+    "enunciado": "Considerando a bacia óssea materna e o mecanismo de parto, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O diâmetro anteroposterior do estreito médio da pequena bacia é constituído pelas três conjugatas (anatômica, obstétrica e diagonal)."
+      },
+      {
+        "letra": "B",
+        "texto": "Nos casos de insinuação do polo cefálico fetal em assinclitismo, a ocorrência do parto vaginal é improvável."
+      },
+      {
+        "letra": "C",
+        "texto": "Os tempos do mecanismo de parto são: dilatação, período expulsivo, período de dequitação e observação."
+      },
+      {
+        "letra": "D",
+        "texto": "O parto vaginal pode ocorrer sem que haja a flexão do polo cefálico fetal."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10416,
+    "tags": [],
+    "enunciado": "A linha de orientação na apresentação cefálica fletida é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "lambda"
+      },
+      {
+        "letra": "B",
+        "texto": "bregma"
+      },
+      {
+        "letra": "C",
+        "texto": "sutura metópica"
+      },
+      {
+        "letra": "D",
+        "texto": "sutura sagital"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10417,
+    "tags": [],
+    "enunciado": "Paciente de 39 semanas é admitida com queixa de dor em baixo ventre. Ao exame, observam-se 5 contrações em 10 minutos, colo dilatado 9 cm, apresentação cefálica em OEA, plano +1 de De Lee. Podemos afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o dorso fetal encontra-se a esquerda."
+      },
+      {
+        "letra": "B",
+        "texto": "o feto apresenta deflexão de 1 grau."
+      },
+      {
+        "letra": "C",
+        "texto": "paciente está em período expulsivo."
+      },
+      {
+        "letra": "D",
+        "texto": "a insinuação ainda não ocorreu."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10418,
+    "tags": [],
+    "enunciado": "Paciente, 38 anos, primigesta, 40 semanas gestacionais, é internada em trabalho de parto. IMC: 27, PA: 120X80mmHg, FC: 92 bpm, T: 36,3°C, corada e hidratada. Dinâmica uterina de 3 contrações de 40 segundos em 10 minutos, altura uterina: 38cm, BCF: 140bpm em quadrante inferior direito, apresentação cefálica e bolsa integra. Feito abertura do Partograma que evidenciou a seguinte evolução: Diante do quadro descrito, indique a variedade de posição fetal na última hora avaliada. Essa questão possui comentário do professor no site 4000011587",
+    "alternativas": [],
+    "resposta_correta": null
+  },
+  {
+    "id": 10419,
+    "tags": [],
+    "enunciado": "Qual a nomenclatura obstétrica na figura abaixo?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "OEA"
+      },
+      {
+        "letra": "B",
+        "texto": "OEP"
+      },
+      {
+        "letra": "C",
+        "texto": "ODP"
+      },
+      {
+        "letra": "D",
+        "texto": "ODA"
+      },
+      {
+        "letra": "E",
+        "texto": "OTA"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10420,
+    "tags": [],
+    "enunciado": "Uma paciente é admitida na fase ativa do trabalho de parto. Ela não fez pré-natal, mas a(cid:68)rma estar com 41 semanas de gestação. Ao exame para veri(cid:68)car o colo e a posição fetal você toca a face e o nariz do feto. Qual das seguintes opções mais frequentemente se associa com apresentação de face?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Anencefalia."
+      },
+      {
+        "letra": "B",
+        "texto": "Hidrocefalia."
+      },
+      {
+        "letra": "C",
+        "texto": "Prematuridade."
+      },
+      {
+        "letra": "D",
+        "texto": "Oligoâmnio."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10421,
+    "tags": [],
+    "enunciado": "Na apresentação fetal, em relação aos pontos de referência e linhas de orientação, marque V para as afirmativas verdadeiras e F para as falsas. ( ) Na apresentação cefálica (cid:82)etida, o ponto de referência fetal é o lâmbda e a sutura de orientação é a sutura sagital. ( ) Na apresentação cefálica de(cid:82)etida de primeiro grau, o ponto de referência é a glabela e a linha de orientação é a sutura sagitometópica. ( ) Na apresentação cefálica de(cid:82)etida de terceiro grau, o ponto de referência é o mento e a linha de orientação, a facial. ( ) Na apresentação córmica, o ponto de referência é o acrômio e a linha de orientação é o dorso. Assinale a sequência correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "V, F, V, V"
+      },
+      {
+        "letra": "B",
+        "texto": "V, F, F, V"
+      },
+      {
+        "letra": "C",
+        "texto": "F, V, V, F"
+      },
+      {
+        "letra": "D",
+        "texto": "F, V, F, F"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10422,
+    "tags": [],
+    "enunciado": "Uma primigesta de 39 semanas foi internada em trabalho de parto após ruptura das membranas ovulares e evoluiu normalmente até a dilatação total. Nesse momento, o vértice da apresentação estava em +2 DeLee e o ponto de reparo fetal, que é o lambda, estava voltado para a iminência ileopectínea esquerda. A situação se manteve da mesma forma por mais de cinquenta minutos, quando se iniciou uma bradicardia fetal persistente. Nesse caso hipotético, a melhor conduta seria",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "locar fórcipe de Simpson com rotação anti-horária de 45 graus."
+      },
+      {
+        "letra": "B",
+        "texto": "realizar dupla pega para permitir a rotação anti horária de 135 graus."
+      },
+      {
+        "letra": "C",
+        "texto": "realizar cesariana imediata."
+      },
+      {
+        "letra": "D",
+        "texto": "locar fórcipe de Kielland com rotação horária de 45 graus."
+      },
+      {
+        "letra": "E",
+        "texto": "orientar puxos dirigidos para estimular o nascimento."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10423,
+    "tags": [],
+    "enunciado": "Considere a imagem abaixo. Na apresentação fetal cefálica de(cid:82)etida de primeiro grau, o número que mostra o ponto de referência fetal é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "5"
+      },
+      {
+        "letra": "B",
+        "texto": "1"
+      },
+      {
+        "letra": "C",
+        "texto": "4"
+      },
+      {
+        "letra": "D",
+        "texto": "3"
+      },
+      {
+        "letra": "E",
+        "texto": "2"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 10424,
+    "tags": [],
+    "enunciado": "A nomenclatura obstétrica permite descrever com exatidão as relações entre o feto e a mãe. Nos fetos em situação longitudinal, as 3 letras empregadas (exemplo: ODA, ODP, OEA, OEP) se referem, respectivamente, a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "posição, variedade de posição e apresentação."
+      },
+      {
+        "letra": "B",
+        "texto": "posição, apresentação e variedade de posição."
+      },
+      {
+        "letra": "C",
+        "texto": "apresentação, variedade de posição e posição."
+      },
+      {
+        "letra": "D",
+        "texto": "variedade de posição, posição e apresentação."
+      },
+      {
+        "letra": "E",
+        "texto": "apresentação, posição e variedade de posição."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 10425,
+    "tags": [],
+    "enunciado": "Os diagramas abaixo representam variedades de posição do polo cefálico (cid:82)etido durante a evolução do trabalho de parto. Qual das alternativas abaixo de(cid:68)ne CORRETAMENTE a nomenclatura obstétrica de cada um deles e a ordem da rotação interna fisiológica desde a insinuação até o desprendimento do polo cefálico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "OS, OEA, OET e A, B, C"
+      },
+      {
+        "letra": "B",
+        "texto": "OS, ODA, ODT e B, C, A"
+      },
+      {
+        "letra": "C",
+        "texto": "OP, OEA, OET e C, A, B"
+      },
+      {
+        "letra": "D",
+        "texto": "OP, ODA, ODT e C, B, A"
+      },
+      {
+        "letra": "E",
+        "texto": "OS, OEA, ODT e B, A, C"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10426,
+    "tags": [],
+    "enunciado": "Você está de plantão na sala de parto e vai avaliar uma paciente multípara, a termo, em trabalho de parto. Ao toque vaginal, você palpa a raiz do nariz do feto e percorre a sutura metópica com a ponta de seu dedo. A dilatação está completa, a bolsa rota, com líquido amniótico claro e com grumos. Ainda sobre a paciente, e considerando os diâmetros médios da bacia e o diâmetro de insinuação da apresentação em questão, o obstetra deve:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tomar conduta expectante."
+      },
+      {
+        "letra": "B",
+        "texto": "Prescrever ocitocina."
+      },
+      {
+        "letra": "C",
+        "texto": "Aplicar um fórcipe de rotação."
+      },
+      {
+        "letra": "D",
+        "texto": "Indicar cesariana."
+      },
+      {
+        "letra": "E",
+        "texto": "Realizar versão interna."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10427,
+    "tags": [],
+    "enunciado": "Você está de plantão na sala de parto e vai avaliar uma paciente multípara, a termo, em trabalho de parto. Ao toque vaginal, você palpa a raiz do nariz do feto e percorre a sutura metópica com a ponta de seu dedo. A dilatação está completa, a bolsa rota, com líquido amniótico claro e com grumos. De acordo com o exame físico pode-se afirmar que se trata de uma apresentação:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Defletida de 2° grau."
+      },
+      {
+        "letra": "B",
+        "texto": "Defletida de 1° grau."
+      },
+      {
+        "letra": "C",
+        "texto": "Defletida de 3° grau."
+      },
+      {
+        "letra": "D",
+        "texto": "Transversa."
+      },
+      {
+        "letra": "E",
+        "texto": "Córmica."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10428,
+    "tags": [],
+    "enunciado": "Em qual das situações abaixo é mais fácil o parto normal em primigesta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apresentação de face defletida grau 2, mento-sacra."
+      },
+      {
+        "letra": "B",
+        "texto": "Apresentação de face defletida grau 3 mento-púbica."
+      },
+      {
+        "letra": "C",
+        "texto": "Apresentação pélvica completa."
+      },
+      {
+        "letra": "D",
+        "texto": "Apresentação de ombro."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10429,
+    "tags": [],
+    "enunciado": "Considere a imagem abaixo. A imagem representa o feto em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apresentação cefálica defletida de primeiro grau, situação oblíqua, Occipito-EsquerdaAnterior (OEA)."
+      },
+      {
+        "letra": "B",
+        "texto": "Apresentação bregmática, situação longitudinal, Sacro-Esquerda Posterior (SEP)."
+      },
+      {
+        "letra": "C",
+        "texto": "Situação longitudinal, apresentação cefálica defletida, Occipito-Sacra (OS)."
+      },
+      {
+        "letra": "D",
+        "texto": "Apresentação longitudinal, situação fletida, Occipito-Direita-Anterior (ODA)."
+      },
+      {
+        "letra": "E",
+        "texto": "Situação longitudinal, apresentação cefálica fletida, Occipito-Direita-Posterior (ODP)."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 10430,
+    "tags": [],
+    "enunciado": "Em avaliação de paciente durante o trabalho de parto, observa-se toque vaginal com dilatação de 8cm, bolsa rôta, apresentação cefálica com bregma em direção à eminência íleopectínea direita. A(cid:68)rma-se que a apresentação é cefálica defletida de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1º grau, bregma direita posterior."
+      },
+      {
+        "letra": "B",
+        "texto": "1º grau, bregma direita anterior."
+      },
+      {
+        "letra": "C",
+        "texto": "2º grau, bregma esquerda posterior."
+      },
+      {
+        "letra": "D",
+        "texto": "2º grau, bregma esquerda anterior."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10431,
+    "tags": [],
+    "enunciado": "Sobre estática fetal é INCORRETO afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Situação é a relação entre os grandes eixos longitudinais fetal e uterino."
+      },
+      {
+        "letra": "B",
+        "texto": "Apresentação é a região fetal que se localiza na área do estreito superior."
+      },
+      {
+        "letra": "C",
+        "texto": "Atitude é a relação entre as partes fetais que precisa flexionar-se para ajustar seu comprimento ao continente uterino."
+      },
+      {
+        "letra": "D",
+        "texto": "A altura da apresentação está insinuada quando ocupa a área do estreito superior."
+      },
+      {
+        "letra": "E",
+        "texto": "Posição fetal é a relação do dorso fetal com o lado materno, podendo ser descrita como primeira ou segunda posição."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10432,
+    "tags": [],
+    "enunciado": "Analise as figuras abaixo: I. Na figura I, a situação é longitudinal e a apresentação é pélvica completa. II. Na figura II, a apresentação é cefálica defletida de 3º grau ou de face. III. Na figura III, a situação é transversa e a via de parto sempre será cesariana. IV. Na figura I, a atitude fetal é de flexão e a posição fetal é esquerda. Quais estão corretas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas I e II."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas III e IV."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas I, II e III."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas II, III e IV."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10433,
+    "tags": [],
+    "enunciado": "Nas apresentações de vértice, a cabeça se (cid:82)ete gradualmente, substituindo seus maiores diâmetros por outros menores, tal como:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "suboccipitobregmático 10,5 cm"
+      },
+      {
+        "letra": "B",
+        "texto": "occipofrontal 11 cm"
+      },
+      {
+        "letra": "C",
+        "texto": "suboccipitofrontal 11 cm"
+      },
+      {
+        "letra": "D",
+        "texto": "occipitomentoniano 11 cm"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10434,
+    "tags": [],
+    "enunciado": "Uma apresentação cefálica de fronte ou defletida de segundo grau demonstra",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "extensão parcial da cabeça e ponto de referência fetal: naso ou raiz do nariz"
+      },
+      {
+        "letra": "B",
+        "texto": "flexão parcial da cabeça e ponto de referência fetal: bregma ou grande fontanela"
+      },
+      {
+        "letra": "C",
+        "texto": "extensão total da cabeça e ponto de referência fetal: mento"
+      },
+      {
+        "letra": "D",
+        "texto": "flexão total da cabeça e ponto de referência: occipício ou pequena fontanela"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10435,
+    "tags": [],
+    "enunciado": "Paciente, 24 anos, G1 P0, 38 semanas, é atendida na emergência da maternidade com queixa de dor. Ao exame apresenta 4 contrações em 10 minutos, bcf: 140 bpm e colo centralizado com dilatação total, apresentação cefálica de(cid:82)etida de 3° grau, bolsa rota com líquido claro. Após a avaliação foi indicado cesariana devido a identificação da seguinte variedade de posição:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "bregma esquerda anterior."
+      },
+      {
+        "letra": "B",
+        "texto": "occipto direita transversa."
+      },
+      {
+        "letra": "C",
+        "texto": "mento esquerda anterior."
+      },
+      {
+        "letra": "D",
+        "texto": "bregma direita posterior."
+      },
+      {
+        "letra": "E",
+        "texto": "mento esquerda posterior."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 10436,
+    "tags": [],
+    "enunciado": "A relação do maior eixo fetal em relação ao maior eixo uterino denomina-se:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "sinclitismo"
+      },
+      {
+        "letra": "B",
+        "texto": "atitude fetal."
+      },
+      {
+        "letra": "C",
+        "texto": "apresentação fetal."
+      },
+      {
+        "letra": "D",
+        "texto": "variedade de posição."
+      },
+      {
+        "letra": "E",
+        "texto": "situação fetal."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 10437,
+    "tags": [],
+    "enunciado": "Assinale a alternativa que corresponde a um deflexão de terceiro grau.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Assinclitismo anterior"
+      },
+      {
+        "letra": "B",
+        "texto": "Assinclitismo posterior"
+      },
+      {
+        "letra": "C",
+        "texto": "Apresentação de face"
+      },
+      {
+        "letra": "D",
+        "texto": "Apresentação de bregma"
+      },
+      {
+        "letra": "E",
+        "texto": "Apresentação de fronte"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10438,
+    "tags": [],
+    "enunciado": "Em apresentação cefálica defletida de primeiro grau, o diâmetro de insinuação é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "occípito-frontal."
+      },
+      {
+        "letra": "B",
+        "texto": "suboccípito-bregmático."
+      },
+      {
+        "letra": "C",
+        "texto": "suboccípito-frontal."
+      },
+      {
+        "letra": "D",
+        "texto": "submento-bregmático."
+      },
+      {
+        "letra": "E",
+        "texto": "suboccípito-mentoniano."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10439,
+    "tags": [],
+    "enunciado": "Parturiente a termo, ao toque, revela tratar de uma variedade de posição SEA (variedade de posição). Qual o quadrante uterino no qual se auscultam melhor os batimentos do coração-fetal?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Superior direito"
+      },
+      {
+        "letra": "B",
+        "texto": "Superior esquerdo"
+      },
+      {
+        "letra": "C",
+        "texto": "Inferior direito"
+      },
+      {
+        "letra": "D",
+        "texto": "Inferior esquerdo"
+      },
+      {
+        "letra": "E",
+        "texto": "Em torno da cicatriz umbilical"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10440,
+    "tags": [],
+    "enunciado": "Em qual variedade de posição da apresentação de face, o parto vaginal encontra-se facilitado e com melhor prognóstico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "MP"
+      },
+      {
+        "letra": "B",
+        "texto": "MS"
+      },
+      {
+        "letra": "C",
+        "texto": "MDP"
+      },
+      {
+        "letra": "D",
+        "texto": "MEP"
+      },
+      {
+        "letra": "E",
+        "texto": "MET"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10441,
+    "tags": [],
+    "enunciado": "Uma mulher está em trabalho de parto com feto em apresentação cefálica, de(cid:82)etida de primeiro grau, com ponto de referência voltado para a iminência iliopectínea esquerda. Com base nesse caso hipotético, assinale a alternativa que apresenta, correta e respectivamente, o diâmetro de insinuação fetal e a variedade de posição.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "subocciptofrontal e BEP"
+      },
+      {
+        "letra": "B",
+        "texto": "occiptofrontal e BEA"
+      },
+      {
+        "letra": "C",
+        "texto": "subocciptobregmático e BEA"
+      },
+      {
+        "letra": "D",
+        "texto": "submentobregmático e BEP"
+      },
+      {
+        "letra": "E",
+        "texto": "occiptomentoneiro e BEP"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10442,
+    "tags": [],
+    "enunciado": "No mecanismo do trabalho de parto, o maior diâmetro do crânio fetal é o occípito mentoniano, que corresponde à apresentação",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "defletida de segundo grau."
+      },
+      {
+        "letra": "B",
+        "texto": "fletida."
+      },
+      {
+        "letra": "C",
+        "texto": "defletida de primeiro grau."
+      },
+      {
+        "letra": "D",
+        "texto": "defletida de terceiro grau."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10443,
+    "tags": [],
+    "enunciado": "A linha de orientação na apresentação cefálica fletida é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "lambda"
+      },
+      {
+        "letra": "B",
+        "texto": "bregma"
+      },
+      {
+        "letra": "C",
+        "texto": "sutura metópica"
+      },
+      {
+        "letra": "D",
+        "texto": "sutura sagital"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10444,
+    "tags": [],
+    "enunciado": "Ao examinar a parturiente, o interno relatou que o maior eixo fetal coincidia com o maior eixo uterino. O dorso fetal era palpado à esquerda do abdome materno, e a escava não estava completamente ocupada. Então, definiu, nessa ordem:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "atitude, situação e apresentação do concepto (esta última, cefálica fletida não insinuada)"
+      },
+      {
+        "letra": "B",
+        "texto": "situação, posição e apresentação do concepto (esta última, pélvica)"
+      },
+      {
+        "letra": "C",
+        "texto": "situação, variedade de posição e apresentação do concepto (esta última, córmica)"
+      },
+      {
+        "letra": "D",
+        "texto": "atitude, situação e variedade de posição do concepto (esta última, occipitoesquerda anterior)"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10445,
+    "tags": [],
+    "enunciado": "Analise a imagem a seguir. Na ilustração, o feto encontra-se em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Situação pélvica e apresentação longitudinal."
+      },
+      {
+        "letra": "B",
+        "texto": "Situação longitudinal e apresentação pélvica."
+      },
+      {
+        "letra": "C",
+        "texto": "Situação longitudinal e apresentação cefálica."
+      },
+      {
+        "letra": "D",
+        "texto": "Situação cefálica e apresentação longitudinal."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10446,
+    "tags": [],
+    "enunciado": "Durante o trabalho de parto, o feto realiza movimento de (cid:82)exão visando substituir diâmetros maiores por menores, facilitando assim o mecanismo de parto. O maior e o menor diâmetro da cabeça fetal são respectivamente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Occipitofrontal e occipitomentoniano."
+      },
+      {
+        "letra": "B",
+        "texto": "Occipitomentoniano e suboccipitobregmático."
+      },
+      {
+        "letra": "C",
+        "texto": "Occipitofrontal e occipitobregmático."
+      },
+      {
+        "letra": "D",
+        "texto": "Suboccipitofrontal e suboccipitobregmático"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10447,
+    "tags": [],
+    "enunciado": "O maior diâmetro da cabeça fetal normal é o:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "biparietal"
+      },
+      {
+        "letra": "B",
+        "texto": "bitemporal"
+      },
+      {
+        "letra": "C",
+        "texto": "occipitofrontal"
+      },
+      {
+        "letra": "D",
+        "texto": "suboccipitobregmático"
+      },
+      {
+        "letra": "E",
+        "texto": "occipitomentoniano"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 10448,
+    "tags": [],
+    "enunciado": "Você está de plantão quando é chamado para atender a uma paciente levada pelos vizinhos com queixa de contração há mais ou menos cinco horas. Refere que a contração (cid:68)cou mais frequente na última hora. Primigesta, com 24 anos de idade. Trouxe o cartão de pré-natal informando que realizou 10 consultas, tomou todas as vacinas e realizou todos os exames de rotina. Não houve intercorrência durante a gestação. Idade Gestacional pela Data da Última Menstruação: 37 semanas 2/7 e Idade Gestacional pela primeira USG realizado na 8ª semana: 38 semanas 2/7. Nas apresentações cefálicas, na maioria das vezes, o mento se aproxima do externo, o que constitui apresentação?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Defletida de 1º grau."
+      },
+      {
+        "letra": "B",
+        "texto": "Defletida de 2º grau."
+      },
+      {
+        "letra": "C",
+        "texto": "Defletida de 3º grau."
+      },
+      {
+        "letra": "D",
+        "texto": "Cefálica fletida."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10449,
+    "tags": [],
+    "enunciado": "Assinclitismo significa que na insinuação:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Um parietal penetra primeiro na bacia."
+      },
+      {
+        "letra": "B",
+        "texto": "A grande fontanela é inatingível ao toque."
+      },
+      {
+        "letra": "C",
+        "texto": "A cabeça fetal atinge o plano das espinhas ciáticas."
+      },
+      {
+        "letra": "D",
+        "texto": "Com a flexão da cabeça o occiptal aparece mais que o frontal."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10450,
+    "tags": [],
+    "enunciado": "O ponto de referência da apresentação cefálica defletida de segundo grau é?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Lambda"
+      },
+      {
+        "letra": "B",
+        "texto": "Bregma"
+      },
+      {
+        "letra": "C",
+        "texto": "Glabela"
+      },
+      {
+        "letra": "D",
+        "texto": "Mento"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10451,
+    "tags": [],
+    "enunciado": "No trabalho de parto, na apresentação:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Defletida de 2° grau, o ponto de referência fetal é a glabela."
+      },
+      {
+        "letra": "B",
+        "texto": "Bregmática, a linha de orientação é a sutura metópica."
+      },
+      {
+        "letra": "C",
+        "texto": "Facial, o ponto de referência fetal é o bregma."
+      },
+      {
+        "letra": "D",
+        "texto": "Pélvica incompleta, também denominada pelvipodálica, as coxas e as pernas estãofletidas."
+      },
+      {
+        "letra": "E",
+        "texto": "Pélvica, a linha de orientação é o sulco interglúteo e o ponto de referência fetal a pube."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10452,
+    "tags": [],
+    "enunciado": "A imagem mostra um feto em apresentação cefálica",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fletida completa."
+      },
+      {
+        "letra": "B",
+        "texto": "Defletida de 1º grau."
+      },
+      {
+        "letra": "C",
+        "texto": "Defletida de 2º grau."
+      },
+      {
+        "letra": "D",
+        "texto": "Defletida de 3º grau."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10453,
+    "tags": [],
+    "enunciado": "Uma gestante de 39 semanas e dois dias está em período expulsivo de trabalho de parto com feto em apresentação cefálica de(cid:82)etida de primeiro grau cujo ponto de referência está voltado para a iminência iliopectínea direita. A altura da apresentação é +1 de DeLee. Nesse caso hipotético, o diâmetro de insinuação fetal e a rotação interna do mecanismo de parto são, respectivamente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Suboccipitobregmático e 45 graus no sentido horário."
+      },
+      {
+        "letra": "B",
+        "texto": "Occipitobremático e 135 graus no sentido anti-horário."
+      },
+      {
+        "letra": "C",
+        "texto": "Occipitofrontal e 45 graus no sentido horário."
+      },
+      {
+        "letra": "D",
+        "texto": "Occipitofrontal e 135 graus no sentido horário."
+      },
+      {
+        "letra": "E",
+        "texto": "Occipitobregmático e 45 graus no sentido horário."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10454,
+    "tags": [],
+    "enunciado": "Para se acompanhar um trabalho de parto, o médico deve conhecer os pontos de referência fetais e maternos e as relações uterofetais. Em relação a esses conceitos, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "as apresentações cefálicas fletidas têm o bregma com ponto de referência."
+      },
+      {
+        "letra": "B",
+        "texto": "nas variedades em ODP, o ponto de referência fetal se relaciona com a iminência ileopectina direita materna."
+      },
+      {
+        "letra": "C",
+        "texto": "os fetos com dorso à direita mantém seus pontos de referência sempre do lado direito."
+      },
+      {
+        "letra": "D",
+        "texto": "os fetos em apresentação pélvica completa, em SEA apresentam o dorso do lado esquerdo."
+      },
+      {
+        "letra": "E",
+        "texto": "nas apresentações defletidas de terceiro grau, o ponto de referência fetal, nasio, apresenta-se mais frequentemente nas esquerdas anteriores."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10455,
+    "tags": [],
+    "enunciado": "No mecanismo do trabalho de parto, o maior diâmetro do crânio fetal é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Occipito-frontal."
+      },
+      {
+        "letra": "B",
+        "texto": "Suboccípito bregmático."
+      },
+      {
+        "letra": "C",
+        "texto": "Occípito mentoniano."
+      },
+      {
+        "letra": "D",
+        "texto": "Suboccípito frontal."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10456,
+    "tags": [],
+    "enunciado": "Identifique a associação CORRETA do ponto de referência fetal e da linha de orientação.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I - lambda e sutura sagital."
+      },
+      {
+        "letra": "B",
+        "texto": "II - glabela e sutura metópica."
+      },
+      {
+        "letra": "C",
+        "texto": "III - bregma e sutura sagital."
+      },
+      {
+        "letra": "D",
+        "texto": "IV - glabela e linha facial."
+      },
+      {
+        "letra": "E",
+        "texto": "V - pés e sulco interglúteo."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10457,
+    "tags": [],
+    "enunciado": "Qual das imagens abaixo representa uma apresentação fetal composta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "B"
+      },
+      {
+        "letra": "C",
+        "texto": "D"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10458,
+    "tags": [],
+    "enunciado": "No final da gestação qual a situação fetal mais comum?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Córmica."
+      },
+      {
+        "letra": "B",
+        "texto": "Transversa."
+      },
+      {
+        "letra": "C",
+        "texto": "Cefálica."
+      },
+      {
+        "letra": "D",
+        "texto": "Longitudinal."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10459,
+    "tags": [],
+    "enunciado": "Feto em apresentação cefálica, (cid:82)etida, variedade OET. Em uma situação ideal visando parto normal, a rotação seria",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "90 graus sentido anti-horário."
+      },
+      {
+        "letra": "B",
+        "texto": "90 graus sentido horário."
+      },
+      {
+        "letra": "C",
+        "texto": "45 graus sentido anti-horário."
+      },
+      {
+        "letra": "D",
+        "texto": "45 graus sentido horário."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10460,
+    "tags": [],
+    "enunciado": "Na evolução de um parto por via vaginal, diagnosticou-se a variedade de posição occipitossacra. A cabeça, que já está fletida, acentua-se a flexão e é exposta primeiramente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Lambda"
+      },
+      {
+        "letra": "B",
+        "texto": "Bregma"
+      },
+      {
+        "letra": "C",
+        "texto": "Astérios"
+      },
+      {
+        "letra": "D",
+        "texto": "Ptérios"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10461,
+    "tags": [],
+    "enunciado": "Ao examinar uma parturiente com 37 semanas de gestação, o obstetra percebe que o colo uterino está dilatado para 8 cm, a bolsa está rota e ele identi(cid:68)ca estruturas como nariz, lábios e queixo, este apontando para a eminência ileopectínea esquerda. A descrição correta dessa variedade de posição é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Mento Direita Anterior."
+      },
+      {
+        "letra": "B",
+        "texto": "Mento Direita Transversa."
+      },
+      {
+        "letra": "C",
+        "texto": "Mento Esquerda posterior."
+      },
+      {
+        "letra": "D",
+        "texto": "Mento Esquerda Anterior."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10462,
+    "tags": [],
+    "enunciado": "Em relação aos diâmetros fetais no termo, pode-se afirmar que o de maior extensão é o:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Occipto-frontal."
+      },
+      {
+        "letra": "B",
+        "texto": "Submento-bregmático."
+      },
+      {
+        "letra": "C",
+        "texto": "Suboccípito-bregmático."
+      },
+      {
+        "letra": "D",
+        "texto": "Occípito-mentoneiro."
+      },
+      {
+        "letra": "E",
+        "texto": "Submento-bregmático"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10463,
+    "tags": [],
+    "enunciado": "Considerando a imagem apresentada, analise as assertivas abaixo: I. A apresentação fetal é cefálica. II. A situação fetal é longitudinal. III. A variedade de posição é Occípito Esquerda Anterior (OEA). IV. A altura da apresentação está no plano zero De Lee. Quais estão corretas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas I e II."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas I e III."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas II e IV."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas I, II e III."
+      },
+      {
+        "letra": "E",
+        "texto": "I. II. III e IV."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10464,
+    "tags": [],
+    "enunciado": "A apresentação fetal é de(cid:68)nida como a região fetal que se apresenta na área do estreito superior. A variedade de posição refere-se à relação entre os pontos de referências maternos e fetais. Nos casos de apresentação cefálica de(cid:82)etida de primeiro grau, o ponto de referência fetal utilizado para identi(cid:68)car a variedade de posição da apresentação é o (a):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Mento"
+      },
+      {
+        "letra": "B",
+        "texto": "Bregma"
+      },
+      {
+        "letra": "C",
+        "texto": "Glabela"
+      },
+      {
+        "letra": "D",
+        "texto": "Occipito"
+      },
+      {
+        "letra": "E",
+        "texto": "Lambda"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10465,
+    "tags": [],
+    "enunciado": "No estudo do mecanismo do parto: a) São linhas de orientação fetal: sutura sagital, metópica e sulco interglúteo.; b) O plano zero de De Lee representa o ponto de referência ósseo fetal que está no nível das espinhas isquiáticas.; c) Nas variedades occipital esquerda anterior, a rotação interna do pólo cefálico é de 135°. Pode-se assinalar como incorreto o(s) item(ns):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "apenas A"
+      },
+      {
+        "letra": "B",
+        "texto": "apenas B"
+      },
+      {
+        "letra": "C",
+        "texto": "apenas C"
+      },
+      {
+        "letra": "D",
+        "texto": "apenas A e C"
+      },
+      {
+        "letra": "E",
+        "texto": "A, B e C"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10466,
+    "tags": [],
+    "enunciado": "Apresentação pélvica agripina corresponde à(a)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Completa."
+      },
+      {
+        "letra": "B",
+        "texto": "Pélvico-Podálica."
+      },
+      {
+        "letra": "C",
+        "texto": "Modo de pés."
+      },
+      {
+        "letra": "D",
+        "texto": "Modo de joelhos."
+      },
+      {
+        "letra": "E",
+        "texto": "Modo de nádega."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 10467,
+    "tags": [],
+    "enunciado": "Durante o trabalho de parto, no toque vaginal, sente-se como referência a fronte fetal. Portanto, a apresentação é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "occipitoposterior."
+      },
+      {
+        "letra": "B",
+        "texto": "em assinclitismo anterior."
+      },
+      {
+        "letra": "C",
+        "texto": "em assinclitismo posterior."
+      },
+      {
+        "letra": "D",
+        "texto": "defletida de 2° grau."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10468,
+    "tags": [],
+    "enunciado": "A variedade de posição OEA significa:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apresentação cefálica, ponto de referência lambda, e está em correspondência com o estreito superior à direita e anteriormente."
+      },
+      {
+        "letra": "B",
+        "texto": "Apresentação cefálica, ponto de referência lambda, e está em correspondência com o estreito superior à esquerda e anteriormente."
+      },
+      {
+        "letra": "C",
+        "texto": "Apresentação cefálica, ponto de referência bregma, e está em correspondência com o estreito superior à esquerda e anteriormente."
+      },
+      {
+        "letra": "D",
+        "texto": "Apresentação cefálica, ponto de referência bregma, e está em correspondência com o estreito superior à direita e anteriormente."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10469,
+    "tags": [],
+    "enunciado": "Na situação transversa, a apresentação fetal pode ser:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Acrômio direita anterior."
+      },
+      {
+        "letra": "B",
+        "texto": "Occipito esquerda anterior."
+      },
+      {
+        "letra": "C",
+        "texto": "Occipito esquerda transversal."
+      },
+      {
+        "letra": "D",
+        "texto": "Sacral direita posterior."
+      },
+      {
+        "letra": "E",
+        "texto": "Occipitopúbica."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10470,
+    "tags": [],
+    "enunciado": "Adolescente, 14 anos, primigesta com 38 semanas e 3 dias de gestação deu entrada na Maternidade Balbina Mestrinho com queixa de dor há 12 horas com piora há 4 horas. Dinâmica uterina presente, 3 contrações em 10 minutos, movimentos fetais presentes, AU = 35 cm, AF = 146 bpm, rítmico. Bolsa íntegra. Ao toque: colo (cid:68)no, centralizado, pérvio para 8,0 cm, +1 de De Lee, AF = 141 bpm, rítmico. Em relação aos diâmetros fetais no termo, qual o de maior extensão?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Occipitomentoniano."
+      },
+      {
+        "letra": "B",
+        "texto": "Suboccipitobregmático."
+      },
+      {
+        "letra": "C",
+        "texto": "Submentobregmático."
+      },
+      {
+        "letra": "D",
+        "texto": "Occipitofrontal."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10471,
+    "tags": [],
+    "enunciado": "A orientação do feto em relação à pelve materna é descrita em termos de situação, apresentação, posição e atitude fetal. Assinale a alternativa INCORRETA acerca disso:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os fatores predisponentes às situações transversais consistem na multiparidade, placenta anterior, polidrâmnio e anomalias uterinas."
+      },
+      {
+        "letra": "B",
+        "texto": "A primeira manobra de Leopold é realizada pinçando com o polegar e os dedos de uma das mãos a parte interior do abdome materno exatamente acima da sínfise púbica. Quando a parte fetal apresentada não se encontra encaixada, percebe-se massa móvel, geralmente a cabeça."
+      },
+      {
+        "letra": "C",
+        "texto": "A incidência de apresentação pélvica diminui com a idade gestacional, sendo de aproximadamente 25% com 28 semanas, 11% com 32 semanas e apenas 3% no termo."
+      },
+      {
+        "letra": "D",
+        "texto": "O feto penetra na pelve na posição Occipto-Esquerdo-Transversa (OET) em 40% dos trabalhos de parto e na posição Occipto-Direito-Transversa (ODT) em 20%."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10472,
+    "tags": [],
+    "enunciado": "A linha de orientação e o ponto de referência nas apresentações cefálicas de(cid:82)etidas de 1° grau são, respectivamente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sutura metópica e fronte."
+      },
+      {
+        "letra": "B",
+        "texto": "Sutura metópica e bregma."
+      },
+      {
+        "letra": "C",
+        "texto": "Sutura sagitometópica e bregma."
+      },
+      {
+        "letra": "D",
+        "texto": "Sutura sagitometópica e fronte."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10473,
+    "tags": [],
+    "enunciado": "Na apresentação cefálica de(cid:82)etida, com mento na posição transversa direita, qual a situação e a posição fetal?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Longitudinal, esquerda."
+      },
+      {
+        "letra": "B",
+        "texto": "Longitudinal, posterior."
+      },
+      {
+        "letra": "C",
+        "texto": "Longitudinal, direita."
+      },
+      {
+        "letra": "D",
+        "texto": "Longitudinal, anterior."
+      },
+      {
+        "letra": "E",
+        "texto": "Transversa, direita."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10474,
+    "tags": [],
+    "enunciado": "Durante a realização da primeira manobra de Leopold-Zweifel, foi observado polo fetal volumoso, de superfície resistente, móvel. A segunda manobra revelou presença de pequenas partes orientadas para o lado direito materno. Na terceira manobra, foi apreendido um polo menor do que o inicial, liso e consistente. Com esses achados, conclui-se que a situação, a apresentação e a posição fetais são, respectivamente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Frontal, face, inferior."
+      },
+      {
+        "letra": "B",
+        "texto": "Oblíqua, pélvica, direita."
+      },
+      {
+        "letra": "C",
+        "texto": "Sagital, vértice, posterior."
+      },
+      {
+        "letra": "D",
+        "texto": "Transversa, córmica, superior."
+      },
+      {
+        "letra": "E",
+        "texto": "Longitudinal, cefálica, esquerda."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 10475,
+    "tags": [],
+    "enunciado": "Paciente em trabalho de parto avançado. Trata-se de uma apresentação cefálica de(cid:82)etida do primeiro grau, que no último exame realizado há poucos minutos era uma BDA (bregma direita anterior), plano +2 de De Lee, com colo dilatado. O despreendimento do polo cefálico deve ocorrer por",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Um movimento único de flexão."
+      },
+      {
+        "letra": "B",
+        "texto": "Um movimento único de deflexão."
+      },
+      {
+        "letra": "C",
+        "texto": "um movimento único de flexão forçada, seguida por rotação para BP (bregmáticapúbica)."
+      },
+      {
+        "letra": "D",
+        "texto": "Duplo movimento de deflexão e flexão, nessa ordem."
+      },
+      {
+        "letra": "E",
+        "texto": "Duplo movimento de flexão e deflexão, nessa ordem."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 10476,
+    "tags": [],
+    "enunciado": "Primigesta em trabalho de parto, com 8 cm de dilatação, feto único, cefálico em ODP. Considerando-se que o desprendimento cefálico ocorra em OP, haverá rotação do polo cefálico de quantos graus?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "0°."
+      },
+      {
+        "letra": "B",
+        "texto": "45°."
+      },
+      {
+        "letra": "C",
+        "texto": "90°."
+      },
+      {
+        "letra": "D",
+        "texto": "135°."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10477,
+    "tags": [],
+    "enunciado": "Durante a palpação obstétrica, você identi(cid:68)ca a escava vazia, polo cefálico à direita e dorso anterior. Pode- se afirmar que o feto está em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Situação transversa, atitude córmica e sigla usada é AD A."
+      },
+      {
+        "letra": "B",
+        "texto": "Situação transversa, apresentação córmica e a sigla usada é AD A."
+      },
+      {
+        "letra": "C",
+        "texto": "Apresentação transversa, atitude córmica e a sigla usada é AEP."
+      },
+      {
+        "letra": "D",
+        "texto": "Apresentação transversa, situação anterior e a sigla usada é AEA."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10478,
+    "tags": [],
+    "enunciado": "Dentre as imagens abaixo, qual apresenta maior dificuldade na progressão no canal de parto?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "B"
+      },
+      {
+        "letra": "C",
+        "texto": "D"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10479,
+    "tags": [],
+    "enunciado": "Durante o trabalho de parto, o mecanismo de (cid:82)exão é o movimento que visa substituir diâmetros maiores por menores, visando a passagem do feto através da bacia materna. Dos listados abaixo, aponte a alternativa que representa o MENOR diâmetro da cabeça fetal:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Occipitomentoniano."
+      },
+      {
+        "letra": "B",
+        "texto": "Occipitofrontal."
+      },
+      {
+        "letra": "C",
+        "texto": "Suboccipitobregmático."
+      },
+      {
+        "letra": "D",
+        "texto": "Suboccipitofrontal."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10480,
+    "tags": [],
+    "enunciado": "Se, no trabalho de parto, a gestante estiver com feto em OET, em +3 de DeLee, pode-se entender que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O lambda se encontra em relação à sinostose sacroilíaca E da mãe."
+      },
+      {
+        "letra": "B",
+        "texto": "O bregma se encontra em relação ao diâmetro transverso à D da mãe."
+      },
+      {
+        "letra": "C",
+        "texto": "O biparietal se encontra 3 cm abaixo da espinha isquiática."
+      },
+      {
+        "letra": "D",
+        "texto": "O hipomóclio deverá se realizar no diâmetro transverso da bacia."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10481,
+    "tags": [],
+    "enunciado": "Que diagnóstico, dentre os abaixo, pode ser estabelecida com base na figura?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Assinclitismo posterior."
+      },
+      {
+        "letra": "B",
+        "texto": "Assinclitismo anterior."
+      },
+      {
+        "letra": "C",
+        "texto": "Variedade de posição frontal direita transversa."
+      },
+      {
+        "letra": "D",
+        "texto": "Variedade de posição occipital direita anterior."
+      },
+      {
+        "letra": "E",
+        "texto": "Variedade de posição occipital direita transversa."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10482,
+    "tags": [],
+    "enunciado": "Assinale a alternativa que completa, correta e respectivamente as lacunas da frase. O feto está encaixado em apresentação pélvica, em situação ............ e a variedade de posição é sacroposterior.......... .",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Longitudinal - direita."
+      },
+      {
+        "letra": "B",
+        "texto": "Longitudinal - esquerda."
+      },
+      {
+        "letra": "C",
+        "texto": "Transversa - direita."
+      },
+      {
+        "letra": "D",
+        "texto": "De nádegas - esquerda."
+      },
+      {
+        "letra": "E",
+        "texto": "De nádegas - direita."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10483,
+    "tags": [],
+    "enunciado": "Ao realizar o toque vaginal em parturiente no período pélvico do parto, o obstetra identi(cid:68)ca como ponto de reparo a raiz do nariz fetal ou glabela, e como ponto de referência o naso, classi(cid:68)cando a variedade de posição como NDP, no Plano 0 de De Lee. Ao repetir o toque vaginal com intervalo de uma hora, observa que não houve qualquer alteração nos achados do exame. São bons os sinais de vitalidade fetal. Para a situação apresentada, a conduta indicada é realizar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cesárea."
+      },
+      {
+        "letra": "B",
+        "texto": "Fórceps de Simpson."
+      },
+      {
+        "letra": "C",
+        "texto": "Fórceps de Kielland."
+      },
+      {
+        "letra": "D",
+        "texto": "Observação."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10484,
+    "tags": [],
+    "enunciado": "Uma primigesta encontra-se em trabalho de parto, normotensa, com gestação de termo. Ao exame obstétrico, apresenta AU de 34 cm, apresentação cefálica, com foco audível à esquerda com 144 bpm. A dinâmica uterina é de 2 contrações de média intensidade com 40 segundos de duração. Ao toque, o colo encontra-se medianizado, (cid:68)no, pérvio para 2 cm, bolsa íntegra, apresentação cefálica. Frente a essas informações, considerando as condições que têm maior frequência, seria possível avaliar a apresentação, posição e variedade de posição? Sendo possível, como será essa representação?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não é possível avaliar com 2 cm de dilatação."
+      },
+      {
+        "letra": "B",
+        "texto": "Sim, em OEA."
+      },
+      {
+        "letra": "C",
+        "texto": "Sim, em OEP."
+      },
+      {
+        "letra": "D",
+        "texto": "Sim, em ODA."
+      },
+      {
+        "letra": "E",
+        "texto": "Sim, em ODP."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10485,
+    "tags": [],
+    "enunciado": "A relação entre o eixo longitudinal fetal e o da mãe é denominada:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Posição fetal"
+      },
+      {
+        "letra": "B",
+        "texto": "Apresentação fetal"
+      },
+      {
+        "letra": "C",
+        "texto": "Atitude fetal"
+      },
+      {
+        "letra": "D",
+        "texto": "Insinuação fetal"
+      },
+      {
+        "letra": "E",
+        "texto": "Descida fetal"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10486,
+    "tags": [],
+    "enunciado": "Na apresentação cefálica fletida, ao exame do toque vaginal identifica-se:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Mento e boca."
+      },
+      {
+        "letra": "B",
+        "texto": "Sutura sagital e mento."
+      },
+      {
+        "letra": "C",
+        "texto": "Fontanela lambidoide e occípito."
+      },
+      {
+        "letra": "D",
+        "texto": "Nariz e glabela."
+      },
+      {
+        "letra": "E",
+        "texto": "Sutura sagital e glabela."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10487,
+    "tags": [],
+    "enunciado": "A linha de orientação e o ponto de referência nas apresentações cefálicas de(cid:82)etidas de 1° grau são, respectivamente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sutura metópica e fronte."
+      },
+      {
+        "letra": "B",
+        "texto": "Sutura sagitometópica e bregma."
+      },
+      {
+        "letra": "C",
+        "texto": "Sutura sagital e bregma."
+      },
+      {
+        "letra": "D",
+        "texto": "Sutura metópica e bregma."
+      },
+      {
+        "letra": "E",
+        "texto": "Sutura occiptobregma."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10488,
+    "tags": [],
+    "enunciado": "Para descrever e estudar o mecanismo de parto, é necessário conhecer as relações espaciais entre o organismo materno e o produto conceptual, utilizando-se para isso nomenclatura e de(cid:68)nições convencionadas. Tal nomenclatura orienta a documentação do parto e a comunicação entre os pro(cid:68)ssionais para que haja, posteriormente, entendimento dos acontecimentos. Quanto às relações útero-fetais abaixo relacionadas, assinale aquela que contém o conceito INCORRETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O conceito de atitude reside na relação das diversas partes fetais entre si."
+      },
+      {
+        "letra": "B",
+        "texto": "A situação consiste na relação entre o maior eixo da cavidade uterina e o maior eixo fetal."
+      },
+      {
+        "letra": "C",
+        "texto": "A apresentação é definida como a região fetal que ocupa a área do estreito inferior e nela se vai insinuar."
+      },
+      {
+        "letra": "D",
+        "texto": "Adota-se a definição de posição fetal, da escola alemã, que a descreve como a relação do dorso fetal com o lado materno."
+      },
+      {
+        "letra": "E",
+        "texto": "A variedade de posição complementa a orientação espacial do concepto ao relacionar um ponto de referência da apresentação fetal com um ponto de referência ósseo da bacia materna, levando-se em consideração as faces anterior, posterior ou lateral da gestante."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10489,
+    "tags": [],
+    "enunciado": "A relação entre o maior eixo fetal e o maior eixo uterino denomina-se:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Atitude fetal."
+      },
+      {
+        "letra": "B",
+        "texto": "Apresentação fetal."
+      },
+      {
+        "letra": "C",
+        "texto": "Variedade de posição."
+      },
+      {
+        "letra": "D",
+        "texto": "Situação fetal."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10490,
+    "tags": [],
+    "enunciado": "As (cid:68)guras abaixo demonstram a evolução de trabalho de parto de uma gestação com apresentação cefálica no primeiro tempo do mecanismo de parto. Qual é, respectivamente, a situação, a posição, a variedade de posição, o ponto de referência fetal, e quantos graus a cabeça precisa rodar para ocorrer o nascimento?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cefálica, longitudinal, OET, pequena fontanela, 90°."
+      },
+      {
+        "letra": "B",
+        "texto": "Longitudinal, cefálica, ODT, bregma, 45°."
+      },
+      {
+        "letra": "C",
+        "texto": "Pélvica, longitudinal, esquerda, OSD sacro, 90°."
+      },
+      {
+        "letra": "D",
+        "texto": "Transversa, direita, ODA, bregma, 180°."
+      },
+      {
+        "letra": "E",
+        "texto": "Longitudinal, esquerda, OET, pequena fontanela, 90°."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 10491,
+    "tags": [],
+    "enunciado": "Como se denomina a relação das diversas partes do feto entre si?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Posição."
+      },
+      {
+        "letra": "B",
+        "texto": "Acomodação."
+      },
+      {
+        "letra": "C",
+        "texto": "Atitude."
+      },
+      {
+        "letra": "D",
+        "texto": "Situação."
+      },
+      {
+        "letra": "E",
+        "texto": "Postura."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10492,
+    "tags": [],
+    "enunciado": "Qual é a região do abdome materno onde existe o acesso ao foco máximo para ausculta dos batimentos cardíacos do feto em apresentação córmica de termo ou próximo dele?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Quadrante inferior esquerdo."
+      },
+      {
+        "letra": "B",
+        "texto": "Quadrante inferior direito."
+      },
+      {
+        "letra": "C",
+        "texto": "Quadrante superior esquerdo."
+      },
+      {
+        "letra": "D",
+        "texto": "Quadrante inferior direito."
+      },
+      {
+        "letra": "E",
+        "texto": "Junto à cicatriz umbilical."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 10493,
+    "tags": [],
+    "enunciado": "As apresentações cefálicas defletidas de 3º grau, com mento posterior, caracterizam- se por:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não haver desprendimento do polo cefálico."
+      },
+      {
+        "letra": "B",
+        "texto": "necessidade do fórcipe de Kjelland para abreviar expulsivo."
+      },
+      {
+        "letra": "C",
+        "texto": "necessidade do fórcipe de Piper para tratamento de cabeça derradeira."
+      },
+      {
+        "letra": "D",
+        "texto": "necessidade de manobra de MacRobert para aumento dos diâmetros da bacia."
+      },
+      {
+        "letra": "E",
+        "texto": "necessidade de manobra de Bracht."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10494,
+    "tags": [],
+    "enunciado": "Variedade de posição, em obstetrícia, é a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "relação das diversas partes fetais entre si."
+      },
+      {
+        "letra": "B",
+        "texto": "relação entre a apresentação e o estreito superior da bacia."
+      },
+      {
+        "letra": "C",
+        "texto": "relação entre a apresentação e o estreito inferior da bacia."
+      },
+      {
+        "letra": "D",
+        "texto": "relação entre o ponto de referência fetal e o ponto de referência da pelve materna."
+      },
+      {
+        "letra": "E",
+        "texto": "relação entre o lado materno e o dorso fetal."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10495,
+    "tags": [],
+    "enunciado": "A seguinte imagem corresponde a qual variedade de posição?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "OEA."
+      },
+      {
+        "letra": "B",
+        "texto": "ODA."
+      },
+      {
+        "letra": "C",
+        "texto": "BEA."
+      },
+      {
+        "letra": "D",
+        "texto": "OP."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10496,
+    "tags": [],
+    "enunciado": "As relações de um feto em Occipto Esquerda Anterior (OEA) assinale (F) falso ou (V) verdadeiro: I. A apresentação é longitudinal.; II. O dorso está à esquerda.; III. A posição é cefálica.; IV. As nádegas estão no fundo do útero.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "F, V, F, V."
+      },
+      {
+        "letra": "B",
+        "texto": "V, F, V, F."
+      },
+      {
+        "letra": "C",
+        "texto": "F, V, F, F."
+      },
+      {
+        "letra": "D",
+        "texto": "F, F, V, V."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10497,
+    "tags": [],
+    "enunciado": "Para entender o mecanismo de parto, é necessário conhecer as relações espaciais entre o organismo materno e o produto conceptual. Assinale a nomenclatura CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A atitude fetal consiste na relação entre o maior eixo da cavidade uterina e o maior eixo fetal"
+      },
+      {
+        "letra": "B",
+        "texto": "Apresentação é a região fetal que ocupa a área do estreito inferior da bacia materna e só pode ser definida durante o trabalho de parto."
+      },
+      {
+        "letra": "C",
+        "texto": "Posição fetal é a relação do dorso fetal com a bacia materna."
+      },
+      {
+        "letra": "D",
+        "texto": "Variedade de posição relaciona um ponto de referência ósseo da apresentação fetal com um ponto de referência ósseo da bacia materna."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10498,
+    "tags": [],
+    "enunciado": "Realizando um parto normal, com feto em apresentação cefálica (cid:82)etida em Occíptito- Púbica (OP), no momento da expulsão cefálica, normalmente desprendem-se sucessivamente os diâmetros:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Suboccípito-bregmático / Suboccípito-mentoniano / Suboccípito-frontal."
+      },
+      {
+        "letra": "B",
+        "texto": "Suboccípito-mentoniano / Suboccípito-frontal / Suboccípito-malar."
+      },
+      {
+        "letra": "C",
+        "texto": "Suboccípito-bregmático / Suboccípito-frontal / Suboccípito-mentoniano."
+      },
+      {
+        "letra": "D",
+        "texto": "Suboccípito-malar / Suboccípito-parietal / Suboccípito-mentoniano."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10499,
+    "tags": [],
+    "enunciado": "A linha de orientação na apresentação cefálica fletida é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Lambda."
+      },
+      {
+        "letra": "B",
+        "texto": "Bregma"
+      },
+      {
+        "letra": "C",
+        "texto": "Sutura metópica"
+      },
+      {
+        "letra": "D",
+        "texto": "Sutura sagital"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10500,
+    "tags": [],
+    "enunciado": "Segundo os autores franceses (seguido pelos latinos) a variedade de posição mais frequente no mecanismo do parto é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Direita anterior (ODA)"
+      },
+      {
+        "letra": "B",
+        "texto": "Esquerda posterior (OEP)"
+      },
+      {
+        "letra": "C",
+        "texto": "Esquerda anterior (OEA)"
+      },
+      {
+        "letra": "D",
+        "texto": "Direita posterior (ODP)"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10501,
+    "tags": [],
+    "enunciado": "Paciente de 16 anos de idade, primigesta em trabalho de parto, não realizou pré-natal. Nega comorbidades. Trouxe a ultrassonogra(cid:68)a obstétrica que realizou há cinco dias, na qual constam feto longitudinal, cefálico, dorso à esquerda, BCF = 154 bpm, placenta fúndica grau 2, peso fetal estimado no percentil 45 para a idade gestacional , ILA = 10 cm. O toque vaginal revelou colo 70% apagado, dilatação de 5 cm, bolsa íntegra, altura do polo cefálico no plano 2 de De Lee e variedade de posição occípito-esquerda transversa. Com base nesse caso clínico e nos conhecimentos médicos corretos, assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "No momento da realização da ultrasonografia, o feto se encontrava em situação esquerda, posição longitudinal e apresentação cefálica."
+      },
+      {
+        "letra": "B",
+        "texto": "Assinclitismo seria considerado, caso a sutura sagital fetal posicionada no eixo laterolateral se encontrasse mais próxima ao sacro ou ao pube."
+      },
+      {
+        "letra": "C",
+        "texto": "Variedade de posição occipitossacra é impeditiva para o parto normal."
+      },
+      {
+        "letra": "D",
+        "texto": "O grau placentário representa a espessura do tecido da placenta em sua porção central e tem forte correlação com sofrimento fetal, se estiver com valor alterado."
+      },
+      {
+        "letra": "E",
+        "texto": "As bacias antropoides são as que possuem melhor prognóstico para parto normal."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10502,
+    "tags": [],
+    "enunciado": "Parturiente encaminhada para HUPAA em trabalho de parto. Durante exame observou-se dilatação 7 cm, linha de orientação a sutura sagito-metópica e o ponto referência ao toque encontra-se próximo a iminência iliopectínea à direita. Diante desse quadro, é CORRETO afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O feto encontra-se cefálico e fletido."
+      },
+      {
+        "letra": "B",
+        "texto": "O feto encontra-se defletido primeiro grau."
+      },
+      {
+        "letra": "C",
+        "texto": "O feto encontra-se cefálico e defletido terceiro grau."
+      },
+      {
+        "letra": "D",
+        "texto": "O feto encontra-se defletido segundo grau e variedade posição bda."
+      },
+      {
+        "letra": "E",
+        "texto": "A variedade da posição observada foi certamente OD A (Occipito Direita Anterior)."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10503,
+    "tags": [],
+    "enunciado": "Na apresentação cefálica defletida de 3º grau, qual o ponto de referência fetal?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Lambda."
+      },
+      {
+        "letra": "B",
+        "texto": "Bregma."
+      },
+      {
+        "letra": "C",
+        "texto": "Naso."
+      },
+      {
+        "letra": "D",
+        "texto": "Mento."
+      },
+      {
+        "letra": "E",
+        "texto": "Occipto."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10504,
+    "tags": [],
+    "enunciado": "Uma mulher com 25 anos de idade, primigesta, retorna em consulta pré-natal na Unidade Básica de Saúde. Está assintomática e a idade gestacional é de 32 semanas. Na(cid:68)gura abaixo (VER IMAGEM), os números 2 e 3 representam manobras para identificar, respectivamente,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "posição e apresentação fetal."
+      },
+      {
+        "letra": "B",
+        "texto": "apresentação e insinuação fetal"
+      },
+      {
+        "letra": "C",
+        "texto": "variedade de posição e situação fetal."
+      },
+      {
+        "letra": "D",
+        "texto": "variedade de posição e apresentação fetal."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10505,
+    "tags": [],
+    "enunciado": "Ao examinar a parturiente, o interno relatou que o maior eixo fetal coincidia com o maior eixo uterino. O dorso fetal era palpado à esquerda do abdome materno e a escava não estava completamente ocupada. Então, definiu, nessa ordem:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Atitude, situação e apresentação do concepto (esta última, cefálica fletida nãoinsinuada)."
+      },
+      {
+        "letra": "B",
+        "texto": "Situação, posição e apresentação do concepto (esta última, pélvica)."
+      },
+      {
+        "letra": "C",
+        "texto": "Situação, variedade de posição e apresentação do concepto (esta última, córmica)."
+      },
+      {
+        "letra": "D",
+        "texto": "Atitude, situação e variedade de posição do concepto (esta última, occipito-esquerda-anterior)."
+      },
+      {
+        "letra": "E",
+        "texto": "Atitude, posição e variedade de posição, pois a apresentação fetal só poderia serreconhecida pelo toque vaginal."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10506,
+    "tags": [],
+    "enunciado": "Gestante de 32 semanas IV G III P (3 cesáreas anteriores) apresenta, na ultrassonogra(cid:68)a, placenta de inserção anterior na região do segmento inferior. Qual é a complicação mais preocupante nesse caso?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Trabalho de parto prematuro."
+      },
+      {
+        "letra": "B",
+        "texto": "Acretismo placentário."
+      },
+      {
+        "letra": "C",
+        "texto": "Apresentação anômala."
+      },
+      {
+        "letra": "D",
+        "texto": "Descolamento prematuro da placenta."
+      },
+      {
+        "letra": "E",
+        "texto": "Rotura pré-termo das membranas."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10507,
+    "tags": [],
+    "enunciado": "Durante o exame de uma paciente em trabalho de parto, você identi(cid:68)ca o acrômio como ponto de referência. Trata-se de uma apresentação:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cefálica, defletida de 2º grau."
+      },
+      {
+        "letra": "B",
+        "texto": "Cefálica fletida."
+      },
+      {
+        "letra": "C",
+        "texto": "Pélvica."
+      },
+      {
+        "letra": "D",
+        "texto": "Córmica."
+      },
+      {
+        "letra": "E",
+        "texto": "Cefálica, defletida de 3º grau."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10508,
+    "tags": [],
+    "enunciado": "A linha de orientação e o ponto de referência nas apresentações cefálicas de(cid:82)etidas de 1º grau são, respectivamente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sutura sagitometópica e bregma."
+      },
+      {
+        "letra": "B",
+        "texto": "Sutura metópica e fronte."
+      },
+      {
+        "letra": "C",
+        "texto": "Sutura sagital e bregma."
+      },
+      {
+        "letra": "D",
+        "texto": "Sutura metópica e bregma."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10509,
+    "tags": [],
+    "enunciado": "Assinale a alternativa que completa CORRETAMENTE a frase abaixo. Durante o trabalho de parto, no toque vaginal, sente-se como referência a fronte fetal. Portanto, a apresentação é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "occipitoposterior."
+      },
+      {
+        "letra": "B",
+        "texto": "em assinclitismo anterior."
+      },
+      {
+        "letra": "C",
+        "texto": "em assinclitismo posterior."
+      },
+      {
+        "letra": "D",
+        "texto": "fletida de primeiro grau."
+      },
+      {
+        "letra": "E",
+        "texto": "defletida de segundo grau."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 10510,
+    "tags": [],
+    "enunciado": "Qual a situação fetal na figura?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cefálica."
+      },
+      {
+        "letra": "B",
+        "texto": "Transversa."
+      },
+      {
+        "letra": "C",
+        "texto": "Longitudinal."
+      },
+      {
+        "letra": "D",
+        "texto": "Oblíqua"
+      },
+      {
+        "letra": "E",
+        "texto": "Córmica."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10511,
+    "tags": [],
+    "enunciado": "O maior diâmetro da cabeça fetal é o:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Occipitomentoniano"
+      },
+      {
+        "letra": "B",
+        "texto": "Biparietal"
+      },
+      {
+        "letra": "C",
+        "texto": "Occipitofrontal"
+      },
+      {
+        "letra": "D",
+        "texto": "Bitemporal"
+      },
+      {
+        "letra": "E",
+        "texto": "Suboccipitobregmático"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10512,
+    "tags": [],
+    "enunciado": "Durante a assistência ao trabalho de parto de uma multípara, o acadêmico do 5° ano observa que a sutura sagital está desnivelada em relação ao plano do estreito superior e pede ao residente que lhe explique a alteração. O residente lhe explica que quando a inclinação da cabeça fetal apresenta o osso parietal anterior no canal de parto e a sutura sagital se encontra mais próxima do promontório sacral, temos um evento comum denominado:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Defletido de 1 ° grau."
+      },
+      {
+        "letra": "B",
+        "texto": "Defletido de 3° grau."
+      },
+      {
+        "letra": "C",
+        "texto": "Obliquidade de Litzmann."
+      },
+      {
+        "letra": "D",
+        "texto": "Assinclitismo anterior."
+      },
+      {
+        "letra": "E",
+        "texto": "Assinclitismo posterior."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10513,
+    "tags": [],
+    "enunciado": "Em relação à estática fetal, a afirmação correta é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Atitude fetal, situação logitudinal, apresentação cefálica fletida, posição dorso à direita, variedade de posição occípito-ilíaca direita posterior."
+      },
+      {
+        "letra": "B",
+        "texto": "Atitude fetal, situação transversa, apresentação cefálica córmica, posição dorso inferior, variedade de posição espádua-ilíaca direita anterior."
+      },
+      {
+        "letra": "C",
+        "texto": "Atitude fetal situação transversa, apresentação cefálica fletida, posição dorso à esquerda, variedade de posição occípito-ilíaca esquerda anterior."
+      },
+      {
+        "letra": "D",
+        "texto": "Atitude fetal, situação longitudinal, apresentação cefálica defletida de primeiro grau, posição dorso à direita variedade de poisção occípito-ilíaca esquerda anterior"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10514,
+    "tags": [],
+    "enunciado": "O exame das relações do produto conceptual com a bacia e com o útero é fundamental para o tocólogo identificar a estática fetal.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "relação entre os grandes eixos longitudinais fetal e materno denomina-se:"
+      },
+      {
+        "letra": "A",
+        "texto": "Apresentação fetal."
+      },
+      {
+        "letra": "B",
+        "texto": "Atitude fetal."
+      },
+      {
+        "letra": "C",
+        "texto": "Situação fetal."
+      },
+      {
+        "letra": "D",
+        "texto": "Variedade de posição."
+      },
+      {
+        "letra": "E",
+        "texto": "Assinclitismo."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10515,
+    "tags": [],
+    "enunciado": "Em relação à estática fetal da (cid:68)gura abaixo (VER IMAGEM), qual a situação, posição, apresentação e variedade deposição do feto na figura?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Longitudinal, direita, cefálica e ODA."
+      },
+      {
+        "letra": "B",
+        "texto": "Longitudinal, esquerda, cefálica e OEA."
+      },
+      {
+        "letra": "C",
+        "texto": "Longitudinal, direita, cefálica e OEA."
+      },
+      {
+        "letra": "D",
+        "texto": "Longitudinal, direita, cefálica e ODP."
+      },
+      {
+        "letra": "E",
+        "texto": "Longitudinal, esquerda, cefálica e OEP."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10516,
+    "tags": [],
+    "enunciado": "Na estática fetal, analisam-se as relações do produto conceptual com a bacia e o útero maternos. Em relação a esses conhecimentos, marque a INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A apresentação pélvica pode ser completa (ou pelvipodálica) ou incompleta (modo de nádegas)."
+      },
+      {
+        "letra": "B",
+        "texto": "Situação é a relação do dorso fetal com o lado materno."
+      },
+      {
+        "letra": "C",
+        "texto": "Variedade de posição é a relação de pontos de referência fetais e maternos. A variedade de posição mais comum é a occipito-esquerda anterior (OEA), onde o lâmbda se relaciona com a eminência ileopectínea esquerda materna."
+      },
+      {
+        "letra": "D",
+        "texto": "A apresentação é a relação do segmento fetal que se relaciona com a bacia materna, que pode ser avaliada pelo exame físico (palpação ou toque vaginal) ou exame ultrassonográfico."
+      },
+      {
+        "letra": "E",
+        "texto": "Para expressar a altura da apresentação, adotamos o critério de De Lee, considerando- se o diâmetro biespinha ciática ou linha interespinhosa como plano zero."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10517,
+    "tags": [],
+    "enunciado": "O ponto de referência da apresentação cefálica defletida de 1° grau é o:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Lambda."
+      },
+      {
+        "letra": "B",
+        "texto": "Glabela."
+      },
+      {
+        "letra": "C",
+        "texto": "Bregma."
+      },
+      {
+        "letra": "D",
+        "texto": "Mento."
+      },
+      {
+        "letra": "E",
+        "texto": "Sacro."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10518,
+    "tags": [],
+    "enunciado": "Na apresentação cefálica defletida de 2.º grau, o ponto de referência fetal é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Glabela."
+      },
+      {
+        "letra": "B",
+        "texto": "Mento."
+      },
+      {
+        "letra": "C",
+        "texto": "Lâmbida."
+      },
+      {
+        "letra": "D",
+        "texto": "Bregma."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10519,
+    "tags": [],
+    "enunciado": "Durante o período expulsivo do trabalho de parto, o feto que está cefálico na variedade de posição transversa persistente, pode ser retirado usando-se o fórcipe de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Simpson"
+      },
+      {
+        "letra": "B",
+        "texto": "Marelle"
+      },
+      {
+        "letra": "C",
+        "texto": "Kielland"
+      },
+      {
+        "letra": "D",
+        "texto": "Piper"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10520,
+    "tags": [],
+    "enunciado": "A linha de orientação na apresentação cefálica fletida é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Lambda"
+      },
+      {
+        "letra": "B",
+        "texto": "Bregma"
+      },
+      {
+        "letra": "C",
+        "texto": "Sutura metópica"
+      },
+      {
+        "letra": "D",
+        "texto": "Sutura sagital"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10521,
+    "tags": [],
+    "enunciado": "Dizer que a apresentação fetal está em \"oea\" significa:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O feto está na 1ª posição e a apresentação é cefálica de vértice."
+      },
+      {
+        "letra": "B",
+        "texto": "O feto está em situação transversal."
+      },
+      {
+        "letra": "C",
+        "texto": "A posição fetal é à direita."
+      },
+      {
+        "letra": "D",
+        "texto": "O feto está na 2ª posição."
+      },
+      {
+        "letra": "E",
+        "texto": "A apresentação fetal é de face."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10522,
+    "tags": [],
+    "enunciado": "Durante o trabalho de parto, na apresentação cefálica, a variedade de posição mais frequentemente percebida ao toque é a:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Occípito esquerda anterior (OEA)."
+      },
+      {
+        "letra": "B",
+        "texto": "Occípito esquerda posterior (OEP)."
+      },
+      {
+        "letra": "C",
+        "texto": "Occípito direita posterior (ODP)."
+      },
+      {
+        "letra": "D",
+        "texto": "Occípito direita anterior (ODA)."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10523,
+    "tags": [],
+    "enunciado": "Em qual das situações abaixo o parto não evolui por via vaginal:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cefálica fletida."
+      },
+      {
+        "letra": "B",
+        "texto": "Cefálica defletida de 1º grau."
+      },
+      {
+        "letra": "C",
+        "texto": "Cefálica defletida de 2º grau."
+      },
+      {
+        "letra": "D",
+        "texto": "Cefálica defletida de 3º grau."
+      },
+      {
+        "letra": "E",
+        "texto": "Apresentação pélvica."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 10524,
+    "tags": [],
+    "enunciado": "O ponto de referência fetal na apresentação cefálica defletida de terceiro grau é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Lâmbda."
+      },
+      {
+        "letra": "B",
+        "texto": "Bregma."
+      },
+      {
+        "letra": "C",
+        "texto": "Glabela."
+      },
+      {
+        "letra": "D",
+        "texto": "Mento."
+      },
+      {
+        "letra": "E",
+        "texto": "Crista sacrococcígea."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10525,
+    "tags": [],
+    "enunciado": "Na gestação gemelar a associação mais frequente entre os fetos é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Dois cefálicos."
+      },
+      {
+        "letra": "B",
+        "texto": "Primeiro cefálico e o segundo pélvico."
+      },
+      {
+        "letra": "C",
+        "texto": "Primeiro pélvico e o segundo cefálico."
+      },
+      {
+        "letra": "D",
+        "texto": "Os dois pélvicos."
+      },
+      {
+        "letra": "E",
+        "texto": "Primeiro cefálico e o segundo transverso."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10526,
+    "tags": [],
+    "enunciado": "Sobre a imagem apresentada, analise as assertivas: I. A atitude fetal é de flexão. II. A situação fetal é cefálica. III. Em relação à variedade de posição, trata-se de um OEA. IV. Nesta imagem, está formalmente indicada uma cesárea. V. O plano de De Lee é o +4. Indique a alternativa CORRETA. (VER IMAGEM)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente as assertivas I e II estão corretas."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente as assertivas I, II e III estão corretas."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente as assertivas I e III estão corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "Todas as assertivas estão corretas."
+      },
+      {
+        "letra": "E",
+        "texto": "Todas as assertivas estão erradas."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10527,
+    "tags": [],
+    "enunciado": "A menor circunferência de uma cabeça fetal normal corresponde ao plano de qual diâmetro?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Biparietal."
+      },
+      {
+        "letra": "B",
+        "texto": "Bitemporal."
+      },
+      {
+        "letra": "C",
+        "texto": "Occipitofrontal."
+      },
+      {
+        "letra": "D",
+        "texto": "Suboccipitobregmático."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10528,
+    "tags": [],
+    "enunciado": "Durante o trabalho de parto uma paciente está apresentando parada da descida. Ao toque observa-se apresentação cefálica com a sutura sagital transversa e mais perto da sín(cid:68)se do que do promontório sacral. Qual o nome dessa condição?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Assinclitismo posterior."
+      },
+      {
+        "letra": "B",
+        "texto": "Assinclitismo anterior."
+      },
+      {
+        "letra": "C",
+        "texto": "Rotação interna."
+      },
+      {
+        "letra": "D",
+        "texto": "Rotação externa."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10529,
+    "tags": [],
+    "enunciado": "Uma paciente é admitida na fase ativa do trabalho de parto. Ela não fez pré-natal, mas a(cid:68)rma estar com 41 semanas de gestação. Ao exame para veri(cid:68)car o colo e a posição fetal você toca a face e o nariz do feto. Qual das seguintes opções mais freqüentemente se associa com apresentação de face?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Anencefalia."
+      },
+      {
+        "letra": "B",
+        "texto": "Hidrocefalia."
+      },
+      {
+        "letra": "C",
+        "texto": "Prematuridade."
+      },
+      {
+        "letra": "D",
+        "texto": "Oligoâmnio."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10530,
+    "tags": [],
+    "enunciado": "Na variedade de posição conhecida como O.E.A.:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o ponto de reparo da apresentação fetal é o bregma."
+      },
+      {
+        "letra": "B",
+        "texto": "a sutura sagital do polo cefálico fetal coincide com o segundo oblíquo do estreitosuperior da bacia materna."
+      },
+      {
+        "letra": "C",
+        "texto": "o lado do dorso e o ponto de reparo da apresentação fetal são diametralmente opostos."
+      },
+      {
+        "letra": "D",
+        "texto": "o ponto de reparo da apresentação fetal, após a rotação interna fisiológica, ficará relacionado com a região subpúbica materna."
+      },
+      {
+        "letra": "E",
+        "texto": "o ponto de reparo da apresentação fetal, no movimento de restituição, deslocar-se-ápara o diâmetro contralateral da bacia materna no qual ocorreu a insinuação."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10531,
+    "tags": [],
+    "enunciado": "Sobre as relações útero-fetais, assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Uma situação longitudinal pode ocorrer tanto em córmicos quanto em pélvicos."
+      },
+      {
+        "letra": "B",
+        "texto": "Uma apresentação cefálica pode ter uma posição esquerda."
+      },
+      {
+        "letra": "C",
+        "texto": "Uma situação transversa não admite apresentação pélvica."
+      },
+      {
+        "letra": "D",
+        "texto": "Uma apresentação cefálica nunca coexiste com situação transversa."
+      },
+      {
+        "letra": "E",
+        "texto": "Uma variedade de posição OEA só ocorre em cefálicos."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10532,
+    "tags": [],
+    "enunciado": "Mulher com 37 semanas de gestação, com pré-natal de baixo risco, chegou ao centro obstétrico em trabalho de parto espontâneo, com 8 cm de dilatação, apresentação cefálica no plano +1 de DeLee. (VER IMAGEM) Dentre os modos de desprendimento do polo cefálico propostos, qual o mais provável para esse caso?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Occipitossacro."
+      },
+      {
+        "letra": "B",
+        "texto": "Occipitoposterior direito."
+      },
+      {
+        "letra": "C",
+        "texto": "Occipitoanterior direito."
+      },
+      {
+        "letra": "D",
+        "texto": "Occipitotransverso esquerdo."
+      },
+      {
+        "letra": "E",
+        "texto": "Occipitotransverso direito."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10533,
+    "tags": [],
+    "enunciado": "Parturiente é internada no período expulsivo do trabalho de parto. Com base no exame de toque vaginal representado na (cid:68)gura seguinte, a variedade de posição, a atitude da cabeça fetal e o sentido da rotação interna da cabeça fetal são, respectivamente: (VER IMAGEM)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ODP, defletida de 1º grau e rotação de 45° no sentido horário."
+      },
+      {
+        "letra": "B",
+        "texto": "OEA, fletida e rotação de 45° no sentido anti-horário."
+      },
+      {
+        "letra": "C",
+        "texto": "BEA, defletida de 1º grau e rotação de 45° no sentido anti-horário."
+      },
+      {
+        "letra": "D",
+        "texto": "BDP, defletida de 2º grau e rotação de 135° no sentido horário."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10534,
+    "tags": [],
+    "enunciado": "Na apresentação fetal cefálica fletida, qual número mostra o ponto de referência fetal?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1."
+      },
+      {
+        "letra": "B",
+        "texto": "2."
+      },
+      {
+        "letra": "C",
+        "texto": "3."
+      },
+      {
+        "letra": "D",
+        "texto": "4."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10535,
+    "tags": [],
+    "enunciado": "Durante a avaliação da estática fetal, constatou-se que a variedade de posição era OEA. Sobre esta nomenclatura, é INCORRETO dizer que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O ponto de referência fetal é a fontanela bregmática."
+      },
+      {
+        "letra": "B",
+        "texto": "É uma cefálica fletida."
+      },
+      {
+        "letra": "C",
+        "texto": "A linha de orientação é a sutura sagital."
+      },
+      {
+        "letra": "D",
+        "texto": "O ponto de referência materno é a iminência iliopectínea."
+      },
+      {
+        "letra": "E",
+        "texto": "A posição é esquerda e a situação é longitudinal."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10536,
+    "tags": [],
+    "enunciado": "Primigesta admitida em trabalho de parto apresenta ao exame de toque vaginal cervicodilatação de 8 cm, bolsa rota, feto em apresentação cefálica, bregma na direção da articulação sacroilíaca direita.Trata-se de uma apresentação cefálica defletida de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "2° grau; bregma esquerda anterior."
+      },
+      {
+        "letra": "B",
+        "texto": "1° grau; occipto esquerda anterior."
+      },
+      {
+        "letra": "C",
+        "texto": "2° grau; bregma; direita posterior."
+      },
+      {
+        "letra": "D",
+        "texto": "1° grau; bregma direita posterior."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10537,
+    "tags": [],
+    "enunciado": "Gestante a termo, em trabalho de parto no (cid:68)nal do segundo período. O parâmetro da estática fetal que NÃO se consegue avaliar ao toque é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Atitude."
+      },
+      {
+        "letra": "B",
+        "texto": "Apresentação."
+      },
+      {
+        "letra": "C",
+        "texto": "Variedade de posição."
+      },
+      {
+        "letra": "D",
+        "texto": "Altura da apresentação."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10538,
+    "tags": [],
+    "enunciado": "Na estática fetal, analisam-se as relações do produto conceptual com a bacia e o útero maternos. Em relação a esses conhecimentos, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A apresentação pélvica pode ser completa (apresentação de nádegas) ou incompleta (modo de joelhos)."
+      },
+      {
+        "letra": "B",
+        "texto": "Posição é a relação entre os grandes eixos longitudinais fetal e uterino."
+      },
+      {
+        "letra": "C",
+        "texto": "Na posição occipito-esquerda anterior o bregma corresponde com o estreito superior esquerda."
+      },
+      {
+        "letra": "D",
+        "texto": "Apresentação de 1° grau é chamada bregmática, de 2° grau de face e a de 3° grau de fronte."
+      },
+      {
+        "letra": "E",
+        "texto": "O critério de De Lee consideranda o diâmetro biespinha ciática ou linha interespinhosa como plano zero."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 10539,
+    "tags": [],
+    "enunciado": "No acompanhamento do trabalho de parto, situação longitudinal, apresentação cefálica de(cid:82)etida de segundo grau ou fronte indicam o ponto de referência, a linha de orientação e o símbolo utilizados, respectivamente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Glabela, linha metópica e N."
+      },
+      {
+        "letra": "B",
+        "texto": "Bregma, linha facial e B."
+      },
+      {
+        "letra": "C",
+        "texto": "Glabela, linha facial e N."
+      },
+      {
+        "letra": "D",
+        "texto": "Mento, sutura sagitometópica e B."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10540,
+    "tags": [],
+    "enunciado": "Na apresentação cefálica (cid:82)etida os maiores diamêtros da cabeça fetal são o biparietal e o suboccipitobregmático que medem:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "8 cm;"
+      },
+      {
+        "letra": "B",
+        "texto": "9,5 cm;"
+      },
+      {
+        "letra": "C",
+        "texto": "11 cm;"
+      },
+      {
+        "letra": "D",
+        "texto": "12 cm;"
+      },
+      {
+        "letra": "E",
+        "texto": "13,5 cm."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10541,
+    "tags": [],
+    "enunciado": "No que diz respeito à/ao mecanismo do parto, marque a opção CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O ângulo subpúbico da bacia androide é largo e facilita a ocorrência do hipomóclio."
+      },
+      {
+        "letra": "B",
+        "texto": "O estreito superior, na pelvimetria interna, é aferido por meio da conjugata vera obstétrica."
+      },
+      {
+        "letra": "C",
+        "texto": "A apresentação fetal é definida pela região fetal que ocupa a área do estreito superior da bacia materna."
+      },
+      {
+        "letra": "D",
+        "texto": "O diâmetro do polo fetal apresentado à bacia materna, na deflexão do terceiro grau, é o suboccípito-bregmático."
+      },
+      {
+        "letra": "E",
+        "texto": "A apresentação pélvica é a mais prevalente quando o feto se encontra em situação longitudinal."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10542,
+    "tags": [],
+    "enunciado": "F. W. S. 28 anos, primigesta, 40ª semana de gestação, em trabalho de parto, com 7 cm de dilatação cervical, amniorrexe espontânea há uma hora, cuja apresentação cefálica encontra-se no Plano de DeLee + 2 e variedade de apresentação defletida de 2º grau. O ponto de referência e a linha de orientação correspondente são, respectivamente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "bregma e sutura sagitometópica."
+      },
+      {
+        "letra": "B",
+        "texto": "glabela e sutura metópica."
+      },
+      {
+        "letra": "C",
+        "texto": "glabela e linha facial."
+      },
+      {
+        "letra": "D",
+        "texto": "bregma e sutura metópica."
+      },
+      {
+        "letra": "E",
+        "texto": "mento e linha facial."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10543,
+    "tags": [],
+    "enunciado": "Nas possíveis variações da apresentação cefálica fletida, marque quais insinuações são as mais comuns:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Occipito Esquerda Anterior e Occipito Esquerda Tranversa."
+      },
+      {
+        "letra": "B",
+        "texto": "Occipito Direita Anterior e Occipito Esquerda Transversa."
+      },
+      {
+        "letra": "C",
+        "texto": "Occipito Sacra e Occipito Direita Posterior."
+      },
+      {
+        "letra": "D",
+        "texto": "Occipito Sacra e Occipito Púbica."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10544,
+    "tags": [],
+    "enunciado": "A maior circunferência da cabeça fetal é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Occipital."
+      },
+      {
+        "letra": "B",
+        "texto": "Occipitomentoniana."
+      },
+      {
+        "letra": "C",
+        "texto": "Suboccipitobregmática."
+      },
+      {
+        "letra": "D",
+        "texto": "Suboccipitofrontal."
+      },
+      {
+        "letra": "E",
+        "texto": "Biparietal."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10545,
+    "tags": [],
+    "enunciado": "A relação das diversas partes do feto entre si constitui:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Posição fetal."
+      },
+      {
+        "letra": "B",
+        "texto": "Atitude fetal."
+      },
+      {
+        "letra": "C",
+        "texto": "Hábito fetal."
+      },
+      {
+        "letra": "D",
+        "texto": "Situação fetal."
+      },
+      {
+        "letra": "E",
+        "texto": "Alternativas B e C corretas."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10546,
+    "tags": [],
+    "enunciado": "Thassiane, 26 anos, primigesta, 38 semanas de gestação, está em trabalho de parto com dinâmica uterina de 3 contrações de 40''/10', colo com 7 cm de dilatação e esvaecido 90%, bolsa rota, apresentação cefálica, -1 de De Lee, variedade de posição Bregma - esquerda - posterior. Assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O ponto de referência fetal para se determinar essa variedade de posição é a fontanela menor."
+      },
+      {
+        "letra": "B",
+        "texto": "Caso esse feto venha a fletir o pólo cefálico, irá realizar uma rotação interna de 45 graus em sentido anti- horário."
+      },
+      {
+        "letra": "C",
+        "texto": "Caso esse feto venha a fletir o pólo cefálico, irá realizar uma rotação externa de 90 graus no sentido horário após o desprendimento cefálico."
+      },
+      {
+        "letra": "D",
+        "texto": "A sutura sagital do bebê de Thassiane está no segundo oblíquo da bacia materna"
+      },
+      {
+        "letra": "E",
+        "texto": "O esvaecimento do colo uterino ocorre simultaneamente à dilatação em pacientes como Thassiane."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10547,
+    "tags": [],
+    "enunciado": "Considerando o mecanismo do parto, é CORRETO afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O encaixamento é a passagem do vértice do polo cefálico fetal pelo estreito superior da pequena bacia."
+      },
+      {
+        "letra": "B",
+        "texto": "A palpação, por meio do toque vaginal da fontanela anterior, determina que a flexão do polo cefálico ocorreu."
+      },
+      {
+        "letra": "C",
+        "texto": "A amplitude da rotação interna pode variar por volta de 45° nas variedades de posição occipito- anteriores e por volta de 135° nas variedades de posição occipito-posteriores."
+      },
+      {
+        "letra": "D",
+        "texto": "Na rotação externa, a cabeça fetal gira, assumindo a posição contrária àquela que estava quando do encaixamento."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10548,
+    "tags": [],
+    "enunciado": "Parturiente apresenta, ao exame de toque vaginal, cervicodilatação de 9 cm, bolsa íntegra, feto em apresentação cefálica, bregma na direção da sinostose sacroilíaca direita. Neste caso, trata-se de uma apresentação cefálica defletida de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "2º grau, occipito esquerda anterior."
+      },
+      {
+        "letra": "B",
+        "texto": "1º grau, occipito esquerda anterior."
+      },
+      {
+        "letra": "C",
+        "texto": "1º grau, bregma direita posterior."
+      },
+      {
+        "letra": "D",
+        "texto": "2º grau, bregma direita posterior."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10549,
+    "tags": [],
+    "enunciado": "A (cid:68)gura a seguir representa um feto em situação longitudinal, com apresentação pélvica completa. A variedade de posição é sacroilíaca:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "esquerda posterior."
+      },
+      {
+        "letra": "B",
+        "texto": "direita posterior."
+      },
+      {
+        "letra": "C",
+        "texto": "direita transversa."
+      },
+      {
+        "letra": "D",
+        "texto": "esquerda anterior."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10550,
+    "tags": [],
+    "enunciado": "Gestante com 40 semanas, em trabalho de parto, 8 cm de dilatação cervical, (cid:82)etida em esquerda anterior. Na situação do texto, o ponto de referência fetal na avaliação da variedade de posição é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Lambda."
+      },
+      {
+        "letra": "B",
+        "texto": "Bregma."
+      },
+      {
+        "letra": "C",
+        "texto": "Fronte."
+      },
+      {
+        "letra": "D",
+        "texto": "Naso."
+      },
+      {
+        "letra": "E",
+        "texto": "Mento."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10551,
+    "tags": [],
+    "enunciado": "Paciente gestante de 38 semanas, em seguimento pré-natal de rotina na Unidade Básica de Saúde da Família, foi examinada pelo pro(cid:68)ssional pré- natalista que evidenciou os seguintes achados: dorso fetal do lado direito do abdome materno, polo cefálico em contato com o estreito superior da bacia. Ante o exame descrito, qual a posição fetal?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Direita."
+      },
+      {
+        "letra": "B",
+        "texto": "Oblíqua."
+      },
+      {
+        "letra": "C",
+        "texto": "Cefálica."
+      },
+      {
+        "letra": "D",
+        "texto": "Longitudinal."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10552,
+    "tags": [],
+    "enunciado": "Primigesta de 40 semanas e 3 dias de gravidez encontra-se em fase (cid:68)nal do trabalho de parto, com dilatação total do colo uterino e membranas rotas. Inicia-se quadro de bradicardia fetal persistente e eliminação de mecônio espesso. A apresentação fetal encontra-se no plano +3 de De Lee, de(cid:82)etida de primeiro grau com ponto de referência voltado para a linha arqueada direita. Qual a variedade de posição e conduta mais adequada para esse caso?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ODT, cesariana."
+      },
+      {
+        "letra": "B",
+        "texto": "ODT, fórcipe de Kielland."
+      },
+      {
+        "letra": "C",
+        "texto": "BDT, fórcipe de Simpson."
+      },
+      {
+        "letra": "D",
+        "texto": "BDT, fórcipe de Kielland."
+      },
+      {
+        "letra": "E",
+        "texto": "ODT, fórcipe de Simpson."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10553,
+    "tags": [],
+    "enunciado": "O maior diâmetro da cabeça fetal normal é o:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Biparietal."
+      },
+      {
+        "letra": "B",
+        "texto": "Bitemporal."
+      },
+      {
+        "letra": "C",
+        "texto": "Occipitofrontal."
+      },
+      {
+        "letra": "D",
+        "texto": "Suboccipitobregmático."
+      },
+      {
+        "letra": "E",
+        "texto": "Occipitomentoniano."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 10554,
+    "tags": [],
+    "enunciado": "Paciente primigesta, idade gestacional de 38 semanas, procura o pronto-socorro de obstetrícia com queixa de contrações uterinas há 4 horas. O plantonista a examina e escreve em sua (cid:68)cha de atendimento a descrição do toque vaginal: colo (cid:68)no, pérvio 4 cm, bolsa íntegra, cefálico (1), OET (2), plano zero de De Lee. As nomenclaturas obstétricas sublinhadas (1) e (2) permitem definir, respectivamente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "situação e apresentação fetal."
+      },
+      {
+        "letra": "B",
+        "texto": "atitude e variedade de posição fetal."
+      },
+      {
+        "letra": "C",
+        "texto": "apresentação e insinuação fetal."
+      },
+      {
+        "letra": "D",
+        "texto": "apresentação e variedade de posição fetal."
+      },
+      {
+        "letra": "E",
+        "texto": "situação e posição fetal."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10555,
+    "tags": [],
+    "enunciado": "O ponto de referência no parto cefálico defletido de primeiro grau é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Lambda."
+      },
+      {
+        "letra": "B",
+        "texto": "Bregma."
+      },
+      {
+        "letra": "C",
+        "texto": "Nariz."
+      },
+      {
+        "letra": "D",
+        "texto": "Boca."
+      },
+      {
+        "letra": "E",
+        "texto": "Mento."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10556,
+    "tags": [],
+    "enunciado": "Durante o trabalho de parto, o feto encontrava-se inicialmente em apresentação cefálica insinuada na variedade de posição occípito direita posterior (ODP) e fez de(cid:82)exão do polo cefálico na variedade occípito púbica (OP). Pode-se afirmar que a apresentação fez uma rotação interna de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "90 graus."
+      },
+      {
+        "letra": "B",
+        "texto": "135 graus."
+      },
+      {
+        "letra": "C",
+        "texto": "45 graus."
+      },
+      {
+        "letra": "D",
+        "texto": "180 graus."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10557,
+    "tags": [],
+    "enunciado": "Paciente primigesta de 22 anos, com 32 semanas de gestação e feto em apresentação pélvica, fora de trabalho de parto. Diante desse caso, o médico deve fazer que tipo de orientação para essa paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Este é um achado comum nesta idade gestacional."
+      },
+      {
+        "letra": "B",
+        "texto": "Será necessário já tentar uma versão interna."
+      },
+      {
+        "letra": "C",
+        "texto": "É necessário tentar versão externa imediata sob infusão de inibidores de contratilidade uterina."
+      },
+      {
+        "letra": "D",
+        "texto": "Seria necessário já programar a cesárea."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10558,
+    "tags": [],
+    "enunciado": "Durante o trabalho de parto, ao toque vaginal é identificado o bregma. Pode-se afirmar que o feto está em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apresentação cefálica fletida."
+      },
+      {
+        "letra": "B",
+        "texto": "Apresentação cefálica defletida de primeiro grau."
+      },
+      {
+        "letra": "C",
+        "texto": "Variedade de posição cefálica defletida de segundo grau."
+      },
+      {
+        "letra": "D",
+        "texto": "Atitude defletida de terceiro grau."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10559,
+    "tags": [],
+    "enunciado": "Paciente em trabalho de parto, com 7 cm de dilatação, feto único, cefálico em ODP. Considerando-se que o desprendimento cefálico ocorra em OP, haverá rotação do polo cefálico de quantos graus?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O grau."
+      },
+      {
+        "letra": "B",
+        "texto": "45 graus."
+      },
+      {
+        "letra": "C",
+        "texto": "90 graus."
+      },
+      {
+        "letra": "D",
+        "texto": "135 graus."
+      },
+      {
+        "letra": "E",
+        "texto": "180 graus."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10560,
+    "tags": [],
+    "enunciado": "Qual das seguintes fontanelas da cabeça fetal NÃO desaparece durante o trabalho de parto?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Glabela."
+      },
+      {
+        "letra": "B",
+        "texto": "Ptério."
+      },
+      {
+        "letra": "C",
+        "texto": "Lambda."
+      },
+      {
+        "letra": "D",
+        "texto": "Bregma."
+      },
+      {
+        "letra": "E",
+        "texto": "Astério.  Respostas: 1 B 2 B 3 A 4 E 5 D 6 D 7 A 8 B 9 D 10 A 11 B 12 E 13 C 14 D 15 C 16 B 17 A 18 B 19 A 20 A 21 C 22 B 23 D 24 C 25 D 26 C 27 C 28 D 29 E 30 A 31 C 32 E 33 D 34 A 35 D 36 B 37 C 38 D 39 E 40 A 41 A 42 D 43 A 44 D 45 C 46 C 47 B 48 A 49 D 50 B 51 B 52 C 53 D 54 A 55 B 56 C 57 D 58 E 59 B 60 B 61 D 62 C 63 D 64 E 65 B 66 A 67 B 68 B 69 B 70 C 71 A 72 C 73 E 74 B 75 C 76 B 77 A 78 B 79 A 80 D 81 B 82 D 83 D 84 C 85 C 86 C 87 C 88 C 89 A 90 D 91 B 92 E 93 A 94 C 95 D 96 D 97 C 98 A 99 C 100 C 101 D 102 E 103 C 104 B 105 D 106 D 107 A 108 109 C 110 A 111 A 112 A 113 E 114 E 115 D 116 D 117 A 118 B 119 E 120 B 121 D 122 C 123 C 124 A 125 E 126 E 127 C 128 A 129 B 130 A 131 B 132 A 133 D 134 B 135 B 136 B 137 E 138 D 139 A 140 C 141 A 142 D 143 C 144 D 145 C 146 A 147 A 148 D 149 A 150 A 151 D 152 D 153 D 154 B 155 C 156 E 157 D 158 B 159 A 160 A 161 B 162 C 163 A 164 E 165 E 166 D 167 B 168 C 169 C 170 B 171 B 172 B 173 A 174 B 175 C 176 C 177 B 178 C 179 D 180 E 181 C 182 E 183 A 184 D 185 B 186 A 187 D 188 C 189 D 190 C 191 B 192 B 193 D 194 C 195 B 196 B 197 D 198 A 199 E 200 C 201 A 202 D 203 A 204 C 205 B 206 B 207 C 208 A 209 C 210 D 211 A 212 A 213 E 214 D 215 A 216 C 217 D 218 A 219 A 220 D 221 A 222 A 223 A 224 D 225 A 226 D 227 A 228 E 229 A 230 B 231 C 232 B 233 A 234 B 235 B 236 D 237 C 238 C 239 B 240 A 241 A 242 D 243 E 244 D 245 B 246 B 247 A 248 B 249 D 250 D"
+      }
+    ],
+    "resposta_correta": "D"
+  }
+]

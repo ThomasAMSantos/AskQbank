@@ -1,0 +1,4554 @@
+[
+  {
+    "id": 11411,
+    "tags": [],
+    "enunciado": "A síndrome dolorosa miofascial é, provavelmente, a principal causa de dor musculoesquelética. Nessa condição, a dor muscular regional está associada à presença de um ou mais pontos de gatilho de(cid:41)nidos por três critérios fundamentais, que são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "hipotonia muscular, sensibilidade dolorosa aumentada em um ponto do músculo e reprodução da dor do paciente à contração voluntária do músculo."
+      },
+      {
+        "letra": "B",
+        "texto": "banda rígida no músculo, sensibilidade dolorosa aumentada em um ponto da faixa tensa e reprodução da dor do paciente à palpação do ponto."
+      },
+      {
+        "letra": "C",
+        "texto": "presença de edema no músculo, sensibilidade dolorosa difusa na área afetada e limitação da amplitude do movimento da musculatura acometida."
+      },
+      {
+        "letra": "D",
+        "texto": "hipertonia muscular, sensibilidade dolorosa aumentada em um ponto da faixa tensa e sinais autonômicos como eritema cutâneo, lacrimejamento ou piloereção."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11412,
+    "tags": [],
+    "enunciado": "O tratamento farmacológico da (cid:41)bromialgia inclui diferentes classes de fármacos, tais como, anticonvulsivantes, antidepressivos e relaxantes musculares, como opções primárias e secundárias. Para o tratamento desta doença, quais são as opções que correspondem, respectivamente, a essas classes?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Carbamazepina, duloxetina e amitriptilina."
+      },
+      {
+        "letra": "B",
+        "texto": "Pregabalina, venlafaxina e amitriptilina."
+      },
+      {
+        "letra": "C",
+        "texto": "Pregabalina, amitriptilina e ciclobenzaprina."
+      },
+      {
+        "letra": "D",
+        "texto": "Gabapentina, duloxetina e carisoprodol."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11413,
+    "tags": [],
+    "enunciado": "Pedro, 32 anos, médico, casado, 1 (cid:41)lho, busca atendimento referindo dorsalgia, associada à cefaleia em aperto. Os sintomas tiveram início há 3 dias, quando precisou carregar muitas caixas e móveis ao se mudar de casa. Ao exame físico, constatou-se, na região do trapézio, à esquerda, uma banda tensa muscular que, à digitopressão, desencadeava cefaleia no mesmo padrão em que Pedro vinha apresentando. Referiu já ter feito uso de analgésicos e anti-in(cid:62)amatórios, sem melhora signi(cid:41)cativa dos sintomas. Sobre a síndrome dolorosa miofascial, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O exame padrão-ouro para o diagnóstico é a ultrassonografia muscular."
+      },
+      {
+        "letra": "B",
+        "texto": "A inativação dos pontos-gatilhos miofasciais pode ser realizada por meio da técnica de agulhamento seco."
+      },
+      {
+        "letra": "C",
+        "texto": "O tratamento farmacológico tem por base o uso de relaxantes musculares de ação periférica."
+      },
+      {
+        "letra": "D",
+        "texto": "O padrão de dor referida à palpação de um ponto-gatilho miofascial segue o dermátomo correspondente."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11414,
+    "tags": [],
+    "enunciado": "Dor crônica difusa, subjetividade dos sintomas, preponderância em mulheres e falta de dados objetivos de imagem e de exames laboratoriais fazem com que a principal suspeita clínica seja de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Artrite reumatoide."
+      },
+      {
+        "letra": "B",
+        "texto": "Polimialgia reumática."
+      },
+      {
+        "letra": "C",
+        "texto": "Fibromialgia."
+      },
+      {
+        "letra": "D",
+        "texto": "Depressão."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11415,
+    "tags": [],
+    "enunciado": "Paciente feminina de 35 anos vem à consulta por queixa de fraqueza generalizada e “dor em todo o corpo”, de intensidade moderada, presente na maior parte dos dias há 6 meses. Relata que tem piora da dor ao tocar a região dolorida. Diz que a dor tem atrapalhado a qualidade do seu sono e perturbado sua qualidade de vida, pois não consegue mais realizar as atividades laborais de forma adequada. Ao exame apresenta dor bilateral à palpação das regiões occipitais, trapézio, lombar e trocantéricas e ausência de sinais in(cid:62)amatórios articulares. Exames complementares demonstram velocidade de hemossedimentação normal, TSH 1,2 (0,3- 4,5mUI/mL), creatinina 0,65 (0,3-1,3mg/dL), glicemia de jejum 75 (70-99mg/dL); fator reumatoide negativo. Qual é o diagnóstico mais provável dessa paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Osteoartrite."
+      },
+      {
+        "letra": "B",
+        "texto": "Artrite soronegativa."
+      },
+      {
+        "letra": "C",
+        "texto": "Espondiloartropatia."
+      },
+      {
+        "letra": "D",
+        "texto": "Fibromialgia."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11416,
+    "tags": [],
+    "enunciado": "Sobre dor crônica, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "deve-se evitar a prescrição de opioides no manejo de dor crônica devido ao potencial de dependência causado por eIes e perfil de riscos usualmente maiores do que os benefícios."
+      },
+      {
+        "letra": "B",
+        "texto": "a dor de característica nociceptiva inclui a sensação de queimação constante ou intermitente, pontadas ou choques e também alguns sintomas físicos como hiperalgesia ou alodinia."
+      },
+      {
+        "letra": "C",
+        "texto": "o tratamento de dor crônica deve abranger, além dos componentes nociceptivo e neuropático, também o entendimento e a forma com que o usuário Iida com sua própria condição."
+      },
+      {
+        "letra": "D",
+        "texto": "tratamentos não-farmacológicos como exercícios de alongamento, medidas educativas, psicoemocionais, fisioterapia, musicoterapia e acupuntura não costumam ser benéficos no manejo da dor crônica."
+      },
+      {
+        "letra": "E",
+        "texto": "o primeiro degrau da escada analgésica propõe o uso de analgésicos simples e anti-inflamatórios não hormonais, sem considerar o uso de fármacos adjuvantes (antidepressivos, neurolépticos ou anticonvulsivantes). 4000228950"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11417,
+    "tags": [],
+    "enunciado": "Uma paciente de 46 anos, vendedora de roupas, é atendida em consulta ambulatorial por médico de família relatando dor constante em região do pescoço, em região superior do dorso e em ambos os braços há 6 meses. Apresenta, também, dor nas pernas, as quais atribui ao trabalho, pois (cid:41)ca em pé por horas. Ela relata duas avaliações prévias nas quais realizou exames laboratoriais, com hemograma e VHS normais. Foram prescritos analgésicos, nas outras ocasiões, os quais proporcionaram pequena melhora temporária no quadro. A paciente relata que (cid:41)cou viúva há 1 ano e que cuida sozinha dos dois (cid:41)lhos pequenos, sendo responsável pelo sustento (cid:41)nanceiro da casa. Informa que as di(cid:41)culdades (cid:41)nanceiras têm tirado seu sono e que ela tem estado muito cansada e com a memória ruim. Ao exame físico, apresenta dor à palpação da região occipital, do pescoço e do tórax superior. Suas articulações estão preservadas, sem dor nem edema. O exame físico apresenta-se sem outras anormalidades. Em relação ao provável diagnóstico, qual deve ser o tratamento medicamentoso de manutenção a ser associado às medidas não farmacológicas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Amitriptilina 25 mg, por via oral, à noite."
+      },
+      {
+        "letra": "B",
+        "texto": "Fluoxetina 20 mg, por via oral, pela manhã."
+      },
+      {
+        "letra": "C",
+        "texto": "Prednisona 20 mg, por via oral, pela manhã."
+      },
+      {
+        "letra": "D",
+        "texto": "Naproxeno 550 mg, por via oral, de 12 em 12 horas."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11418,
+    "tags": [],
+    "enunciado": "Paciente de 30 anos de idade, sexo feminino, com história de dor no corpo inteiro há seis meses, acompanhada de falta de energia, di(cid:41)culdade para dormir e adormecimento de extremidades, procurou vários médicos, sendo realizados vários exames laboratoriais e de imagem, cujos resultados foram normais. Vem fazendo uso de analgésicos simples e anti-inYamatórios não esteroides, sem melhora do quadro. Ao exame físico apresentava dor à palpação em 12 pontos dolorosos (tender points). Com base no quadro clínico descrito acima, elabore um texto dissertativo abordando, necessariamente, os seguintes aspectos: - a hipótese diagnóstica mais provável e os critérios que a justifique; - os exames complementares necessários para embasar a hipótese diagnóstica; - o tratamento medicamentoso e de reabilitação. Essa questão possui comentário do professor no site 4000223864",
+    "alternativas": [],
+    "resposta_correta": null
+  },
+  {
+    "id": 11419,
+    "tags": [],
+    "enunciado": "A respeito da síndrome de fibromialgia, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Trata-se de uma síndrome dolorosa aguda, de etiologia desconhecida e natureza inflamatória."
+      },
+      {
+        "letra": "B",
+        "texto": "Distúrbios de somatização e de dor fazem parte do diagnóstico diferencial da fibromialgia."
+      },
+      {
+        "letra": "C",
+        "texto": "Apesar de sua definição ser controversa entre especialistas, os substratos anatômicos identificáveis na maior parte dos pacientes indicam tratar-se de quadro autônomo."
+      },
+      {
+        "letra": "D",
+        "texto": "Apresenta prevalência relativamente baixa em relação às demais doenças do tecido conjuntivo."
+      },
+      {
+        "letra": "E",
+        "texto": "O diagnóstico de outras doenças reumáticas, como artrite reumatoide ou lúpus eritematoso sistêmico, afasta o diagnóstico de fibromialgia."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11420,
+    "tags": [],
+    "enunciado": "Mulher de 72 anos comparece ao consultório para exame anual de rotina. Ela se queixa há 1 ano de fadiga progressiva, dor muscular difusa e dor generalizada. História patológica pregressa de osteoporose há 5 anos. Faz uso de alendronato e suplementação com cálcio. Sinais vitais e exame físico normais, sem dor à palpação. Hemograma completo, eletrólitos, TSH, função hepática e VHS normais. Mamogra(cid:41)a de rastreio e colonoscopia, realizadas há 1 ano, também normais. Qual dos seguintes é o próximo exame mais adequado?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Densitometria óssea"
+      },
+      {
+        "letra": "B",
+        "texto": "Eletroneuromiografia"
+      },
+      {
+        "letra": "C",
+        "texto": "RM de coluna cervical"
+      },
+      {
+        "letra": "D",
+        "texto": "Dosagem de 25-OH-vitamina D"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11421,
+    "tags": [],
+    "enunciado": "A (cid:41)bromialgia é uma condição clinica multifatorial presente em aproximadamente 2,5% da população, predominantemente no sexo feminino, entre 35 e 44 anos. Em relação a essa patologia, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A etiologia da fibromialgia é desconhecida, mas estudos fisiopatológicos demonstram fatores inflamatórios presentes nas estruturas musculares e tendões."
+      },
+      {
+        "letra": "B",
+        "texto": "De acordo com os critérios atuais de diagnóstico da doença (American College of Reumatology, 2010), são necessários a palpação de 11 pontos dolorosos para o diagnóstico."
+      },
+      {
+        "letra": "C",
+        "texto": "A fibromialgia deve ser suspeitada em pessoas com dor multifocal crônica há, pelo menos, 3 meses, acompanhada de sintomas somáticos, como fadiga, sono não reparador e alterações cognitivas."
+      },
+      {
+        "letra": "D",
+        "texto": "A atividade física com melhor desfecho clínico é a atividade de resistência com impacto para fortalecimento muscular e ósseo."
+      },
+      {
+        "letra": "E",
+        "texto": "O controle da dor crônica é realizado em primeira linha com o uso de paracetamol, antiflamatórios não esterodais, e, em casos resistentes, tramadol."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11422,
+    "tags": [],
+    "enunciado": "Mulher, 51 anos, diabética, dislipidêmica, hipertensa e obesa. Em uso de duloxetina 30mg/dia, enalapril, hidroclorotiazida, metformina e sinvastatina. Apresenta-se na consulta de hoje por queixa de insônia, fadiga e mialgia com piora progressiva nos últimos meses. Ao exame, apresenta dor à palpação difusa com alguns pontos de maior sensibilidade à dor. Em relação à queixa da paciente, assinale a alternativa que apresenta a conduta mais adequada:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aumentar dose da duloxetina."
+      },
+      {
+        "letra": "B",
+        "texto": "Iniciar Tramadol."
+      },
+      {
+        "letra": "C",
+        "texto": "Associar clonazepam no período da noite."
+      },
+      {
+        "letra": "D",
+        "texto": "Associar pregabalina."
+      },
+      {
+        "letra": "E",
+        "texto": "Suspender sinvastatina."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11423,
+    "tags": [],
+    "enunciado": "Paciente feminina, 52 anos de idade, vem com queixa de dor em braços, ombros, cervical e pernas há 3 anos, piorando de intensidade nos últimos 6 meses após piora da ansiedade com perda de emprego. Refere que o sono é super(cid:41)cial e já acorda com as dores pela manhã, mas piora durante o dia se esforço físico, mesmo que leve, com as atividades da rotina diária domiciliar. Nega trauma, esforço físico incomum, emagrecimento, febre, lesões de pele ou mucosas, alteração urinária ou intestinal. Relata que também apresenta episódios de parestesias em antebraços e mãos. Ao exame físico, paciente em bom estado geral, sem alterações constitucionais, sem alterações articulares, limitações de movimento ou sinais (cid:62)ogísticos, força muscular preservada nos 4 membros, com ausência dos sinais de compressão do nervo mediano em punhos, apenas com pontos de hiperalgesia à palpação em musculatura de antebraços, trapézios e glúteos. Qual a principal conduta inicial dentre as abaixo?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Educação em saúde sobre a doença, orientar atividade física regular e psicoterapia, e iniciar antidepressivo tricíclico para alívio dos sintomas dolorosos e melhora do sono."
+      },
+      {
+        "letra": "B",
+        "texto": "Solicitar Rx de bacia e coluna lombossacra, pesquisa do gene HLA-B27, VHS e Proteína C reativa, e iniciar anti-inflamatório não-esteroidal."
+      },
+      {
+        "letra": "C",
+        "texto": "Solicitar fator reumatoide, VHS e Proteína C reativa, Rx de mãos e pés e iniciar Prednisona 5mg a cada 12h."
+      },
+      {
+        "letra": "D",
+        "texto": "Solicitar hemograma, Urina I, FAN, anti-DNA, complemento C3 e C4 e iniciar Prednisona 60mg ao dia via oral."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11424,
+    "tags": [],
+    "enunciado": "J.R., 47 anos de idade, sexo masculino, bancário, vem a consulta em Unidade Básica de Saúde com relato de dor há duas semanas em ombro esquerdo que se estende para lateral de braço e antebraço. Ao examiná-lo, identi(cid:41)ca pontos dolorosos ao palpar o músculo infraespinhoso, além da percepção de banda muscular tensa no local e produção da dor do paciente ao pressioná-la. Apresenta também redução da amplitude de movimento e de força ipsilateral. Com base no caso clínico relatado, qual é o diagnóstico para este paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Epicondilite lateral."
+      },
+      {
+        "letra": "B",
+        "texto": "Capsulite adesiva da articulação do ombro."
+      },
+      {
+        "letra": "C",
+        "texto": "Luxação acrômio-clavicular."
+      },
+      {
+        "letra": "D",
+        "texto": "Síndrome dolorosa miofascial."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11425,
+    "tags": [],
+    "enunciado": "Paciente A.R., feminina, 35 anos de idade, casada, cabeleireira, nega comorbidades, nega alergia a medicamentos, nega etilismo, nega tabagismo e nega consumo de outras drogas, sedentária; S1. Paciente refere dolorimento nos últimos sete dias em mandíbula direita, mandíbula esquerda, cervical, ombro direito, antebraço direito, coluna torácica (dorsal), abdômen, coluna lombar e perna direita. Nega dor nos últimos 7 dias em: ombro esquerdo, braços, tórax anterior, quadris, coxas e perna esquerda. Paciente refere ainda, nos últimos 7 dias, fatigabilidade moderada, sono não reparador com cansaço intenso ao despertar, sintomas cognitivos moderados (di(cid:41)culdade de concentração e dé(cid:41)cit em memória). Entre outros sintomas refere que há mais de 6 meses experimenta intenso incômodo por cefaleias, humor deprimido e câimbras musculares no abdômen inferior. A anamnese acima, no modelo SOAP, foi muito bem redigida para a hipótese de (cid:41)bromialgia por abordar o índice de dor difusa (IDD) e escala de severidade dos sintomas (Escala de Gravidade, ESS) de acordo com o bem estabelecido Critério do Colégio Americano de 2010/2011, revisado em 2016. De acordo com o relato, o IDD e a ESS da paciente são, respectivamente,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "8 e 6."
+      },
+      {
+        "letra": "B",
+        "texto": "8 e 10."
+      },
+      {
+        "letra": "C",
+        "texto": "9 e 10."
+      },
+      {
+        "letra": "D",
+        "texto": "10 e 9."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11426,
+    "tags": [],
+    "enunciado": "A (cid:41)bromialgia é uma síndrome dolorosa crônica que acomete cerca de 5% da população geral. Marque a alternativa correta sobre os mecanismos e manifestações clínicas desta condição clínica:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ocorre uma sensibilização central, ou seja, uma hiperexcitabilidade neuronal que causa resposta inadequada e amplificada aos estímulos periféricos."
+      },
+      {
+        "letra": "B",
+        "texto": "É uma doença relacionada a gatilhos ambientais, sem base genética associada."
+      },
+      {
+        "letra": "C",
+        "texto": "É uma doença que se caracteriza por disfunção, com estudos de imagem por Ressonância Magnética funcional (RMf) completamente normais."
+      },
+      {
+        "letra": "D",
+        "texto": "Manifestações como fadiga, disfunção de articulação temporomandibular (ATM), cefaleia são raros e quando presentes deve-se investigar outros diagnósticos diferencias."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11427,
+    "tags": [],
+    "enunciado": "Mulher, 45 anos, comparece em consulta ambulatorial com queixa de dor no corpo há 7 meses, contínua, acompanhada de fadiga, indisposição e desânimo. Ganhou cerca de 5 kg no último ano. Nega febre, náuseas, vômitos ou diarreia. Tem apresentando muita sonolência diurna e má qualidade do sono à noite, que não é reparador. Nega etilismo, tabagismo e uso de drogas. Sedentária, vem reduzindo as atividades que realizava em casa, como lavar e passar roupa e limpar a casa, devido à dor. Além disso, perdeu o emprego (o que atribui à sua desatenção, por noites mal dormidas). Apresenta choro fácil e instabilidade emocional nos últimos meses. Sem queixas cardiovasculares ou respiratórias. Exame Físico: em regular estado geral, devido à dor, descorada +/4+, sem outros achados anormais. A intensidade da dor na Escala Visual Analógica (EVA) é 8. A hipótese de (cid:41)bromialgia foi levantada e foram descartadas outras patologias associadas que pudessem explicar o quadro. Em relação ao tratamento da fibromialgia para esta paciente, neste momento, é indicado:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "solicitar apenas repouso e relaxamento, com o objetivo de poupar a musculatura acometida. No momento, não se indicam medidas farmacológicas."
+      },
+      {
+        "letra": "B",
+        "texto": "iniciar intervenções não farmacológicas, incluindo grupos educacionais, relaxamento, hipnoterapia, acupuntura e psicoterapia, não sendo indicadas medidas farmacológicas."
+      },
+      {
+        "letra": "C",
+        "texto": "iniciar medidas não farmacológicas de adaptações ergonômicas às atividades funcionais no domicílio, relaxamento e técnicas de repouso, não sendo indicadas intervenções farmacológicas e atividade física."
+      },
+      {
+        "letra": "D",
+        "texto": "orientar medidas não farmacológicas, como atividade física aeróbica e psicoterapia, além de medidas farmacológicas, incluindo o uso de antidepressivos tricíclicos ou inibidores de recaptação da serotonina."
+      },
+      {
+        "letra": "E",
+        "texto": "iniciar medidas farmacológicas, incluindo antidepressivos tricíclicos e anti-inflamatórios não hormonais, e medidas não farmacológicas, como acupuntura, higiene do sono, manipulação quiroprática e psicoterapia."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11428,
+    "tags": [],
+    "enunciado": "Uma mulher com 52 anos comparece à consulta médica na unidade básica de saúde com queixa de dores musculoesqueléticas crônicas, mal localizadas, difusas, acima e abaixo da cintura. Refere que o quadro tem cerca de 4 meses de evolução, tendo surgido aparentemente após episódio de dengue (não grave). A paciente também refere fadiga e quadro depressivo há longa data, além de transtorno da articulação temporomandibular e síndrome do intestino irritável. Relata apetite preservado. Seu exame físico é normal, salvo por dor à compressão e palpação muscular difusa. Digno de nota é que a simples insu(cid:62)ação do es(cid:41)gmomanômetro leva a dor signi(cid:41)cativa em ponto localizado cerca de 2 centímetros distais do epicôndilo lateral do membro superior avaliado. Além disso, há dor à compressão digital bilateral nos pontos de inserção dos músculos subocciptais, no ponto médio da borda superior de ambos os músculos trapézios, sobre a borda medial das escápulas, nos quadrantes superiores externos das nádegas, posteriormente às eminências trocantéricas dos fêmures, sobre a 2ª articulação condroesternal direita e sobre as partes moles localizadas superior e medialmente a ambos os joelhos. Não há alterações no hemograma completo, nem na dosagem de proteína C reativa, T4 livre, TSH e velocidade de hemossedimentação. No caso apresentado, qual o diagnóstico dessa paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fibromialgia"
+      },
+      {
+        "letra": "B",
+        "texto": "Hipotireoidismo subclínico."
+      },
+      {
+        "letra": "C",
+        "texto": "Transtorno psicossomático."
+      },
+      {
+        "letra": "D",
+        "texto": "Transtorno depressivo maior."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11429,
+    "tags": [],
+    "enunciado": "Paciente do sexo feminino, 60 anos, fraturou seu punho esquerdo (escafoide e rádio distal) em uma queda. Um mês após a aplicação do gesso, ela desenvolveu dor em queimação na face radial do punho e dores agudas na palma da mão esquerda, que aumentavam com os movimentos do punho. A paciente também se queixa de sensibilidade excessiva a estímulos não nocivos e a estímulos nocivos na região volar e lateral do punho com inchaço moderado e eritema local. Ela teve di(cid:41)culdade para reconhecer os dedos tocados com os olhos fechados e sentia que sua mão tinha o dobro do tamanho real. O diagnóstico a ser considerado é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "gota."
+      },
+      {
+        "letra": "B",
+        "texto": "pseudogota."
+      },
+      {
+        "letra": "C",
+        "texto": "síndrome de dor complexa regional."
+      },
+      {
+        "letra": "D",
+        "texto": "mononeuropatia múltipla."
+      },
+      {
+        "letra": "E",
+        "texto": "doença de Behçet. 4000193647"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11430,
+    "tags": [],
+    "enunciado": "Em consultórios de atenção básica da saúde, frequentemente o médico avalia pacientes com dor abdominal. Seu principal desa(cid:41)o é realizar uma avaliação clínica que permita distinguir os quadros abdominais agudos que requerem cirurgias daqueles que podem ser tratados clinicamente em regime ambulatorial. Avalie as assertivas abaixo, associe as colunas e escolha a alternativa que contém a sequência correta em relação às características dos diferentes tipos de dores abdominais: I. Dor visceral. II. Dor parietal. III. Dor referida. IV. Dor cólica. [ ] Dor mais bem localizada, intensa e aguda, provocada pelo contato de um agente irritante. [ ] Dor profunda, vaga e pouco localizada, mediada pelo sistema nervoso autônomo. [ ] Dor no ombro, decorrente de irritação diafragmática. [ ] Dor de início súbito, com forte intensidade, seguida de atenuação e ausência. Provocada pelo aumento vigoro do peristaltismo, geralmente em resposta a um obstáculo luminal. (Osvaldt, A.B., Costa, MSTB. Avaliação da dor abdominal aguda. EM: Duncan BB., Schmidt, MI., Giugliani, ERJ. Medicina ambulatorial: Condutas de atenção primária baseadas em evidências. 3a Edição. Artmed. 2004.)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "IV, I, III, II"
+      },
+      {
+        "letra": "B",
+        "texto": "II, I, III, IV"
+      },
+      {
+        "letra": "C",
+        "texto": "I, IV, I, III"
+      },
+      {
+        "letra": "D",
+        "texto": "III, II, IV, I"
+      },
+      {
+        "letra": "E",
+        "texto": "Nenhuma das sequencias acima está correta."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11431,
+    "tags": [],
+    "enunciado": "Uma paciente do sexo feminino, 27 anos, corredora recreacional, tem treinado para meia maratona e queixa- se de dor na região plantar bilateral, que piora após as primeiras pisadas. Ao exame físico, apresenta pontos de dor na palpação plantar próxima ao calcâneo, que piora com dorsi(cid:62)exão do hálux. Considerando o caso clínico, é CORRETO afirmar que o diagnóstico provável dessa paciente é de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fascite plantar."
+      },
+      {
+        "letra": "B",
+        "texto": "Fratura de estresse."
+      },
+      {
+        "letra": "C",
+        "texto": "Tendinopatia do calcâneo."
+      },
+      {
+        "letra": "D",
+        "texto": "Tendinopatia dos fibulares. 4000186710"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11432,
+    "tags": [],
+    "enunciado": "Sobre o tratamento da dor crônica, marque V para as afirmativas verdadeiras e F para as falsas. ( ) Para avaliar a intensidade da dor, pode-se lançar mão da escala da dor, podendo classi(cid:41)cá-la como fraca, moderada, forte (podendo chegar a insuportável). ( ) No tratamento da dor de forte intensidade, pode-se prescrever os opioides, como a pregabalina. ( ) Um efeito colateral frequente no uso dos opioides é a diarreia. ( ) Opioides fracos são prescritos em receitas de controle especial em duas vias. Assinale a sequência correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "F, F, V, F"
+      },
+      {
+        "letra": "B",
+        "texto": "V, V, V, F"
+      },
+      {
+        "letra": "C",
+        "texto": "F, V, F, V"
+      },
+      {
+        "letra": "D",
+        "texto": "V, F, F, V 4000186183"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11433,
+    "tags": [],
+    "enunciado": "A fibromialgia é um diagnóstico frequente na atenção primária. A dor musculoesquelética difusa e crônica é a principal queixa relacionada. Sobre esta condição é ERRADO afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Além da dor, pode-se citar fadiga, alteração do sono, rigidez matinal, parestesias, sensação subjetiva de edema e distúrbios cognitivos como sintomas relacionados"
+      },
+      {
+        "letra": "B",
+        "texto": "Amitriptilina e ciclobenzaprina reduzem a dor, embora não sejam capazes de melhorar a capacidade funcional dos pacientes"
+      },
+      {
+        "letra": "C",
+        "texto": "Está comumente associada a outras comorbidades, dentre elas depressão e ansiedade, síndrome da fadiga crônica e síndrome do cólon irritável"
+      },
+      {
+        "letra": "D",
+        "texto": "Os pacientes devem ser incentivados a realizarem exercícios físicos pelo menos duas vezes por semana"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11434,
+    "tags": [],
+    "enunciado": "Paciente de 38 anos, técnica de laboratório, consultou por dor no punho e na mão direitos de início há 6 meses, que evoluiu para o membro superior e ombro. Referiu que a dor era incapacitante. Vinha fazendo uso de analgésicos, anti-in(cid:62)amatórios, relaxantes musculares e corticosteroides, com benefício transitório. O exame físico geral foi normal, e o exame da região cervical revelou mobilidade preservada, apesar da dor. Não foram percebidos sinais de artrite em mãos, punhos, cotovelos, joelhos, ombros e demais articulações. Apresentava pontos de gatilho na região cervical e escapular. Sobre o caso, assinale a assertiva correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Acupuntura, agulhamento a seco e infiltração de anestésico local estão indicados."
+      },
+      {
+        "letra": "B",
+        "texto": "O uso de antidepressivos associado ao de relaxantes musculares de ação central apresenta benefício por sua ação sinérgica."
+      },
+      {
+        "letra": "C",
+        "texto": "O uso de analgésicos não opioides não apresenta benefício na dor intensa e agrega efeitos colaterais."
+      },
+      {
+        "letra": "D",
+        "texto": "Tomografia computadorizada da região cervical pode indicar a causa da dor."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11435,
+    "tags": [],
+    "enunciado": "Mulher de 34 anos, assistente administrativa, vem à consulta na UBS queixando-se de dor muscular de forte intensidade no dorso, especialmente na região cervical, mas que também ocorre em membros superiores e membros inferiores, de caráter migratório, difuso, sem relação com trauma ou uso excessivo daquele membro/grupo muscular. Sintomas iniciaram há cerca de 10 meses, período em que tem tido sobrecarga de trabalho. Já esteve diversas vezes na emergência por essa queixa, nunca obtendo alívio completo dos sintomas com o uso de analgésicos ou anti-in(cid:62)amatórios não esteroidais. Relata, ainda, que tem tido di(cid:41)culdade de iniciar o sono e que acorda sempre cansada. Nega doenças prévias. Ao exame físico, não apresenta quaisquer alterações dignas de nota. Diante desse caso, marcar C para as a(cid:41)rmativas Certas, E para as Erradas e, após, assinalar a alternativa que apresenta a sequência CORRETA: (_) A paciente tem o diagnóstico de (cid:41)bromialgia, visto que apresenta dor de caráter difuso e migratório constante, associada à fadiga e sono não reparador. (_) Os anti-in(cid:62)amatórios não esteroidais são a droga de 1ª linha para o tratamento da patologia desse caso, sendo administrado por tempo indeterminado, sem o risco de efeitos adversos. (_) No tratamento da paciente, podemos incluir o uso de antidepressivos tricíclicos, atividade física e psicoterapia, visando ao controle da dor, à melhora do sono e à redução da fadiga.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "E - C - C."
+      },
+      {
+        "letra": "B",
+        "texto": "C - E - C."
+      },
+      {
+        "letra": "C",
+        "texto": "C - C - C."
+      },
+      {
+        "letra": "D",
+        "texto": "E - C - E."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11436,
+    "tags": [],
+    "enunciado": "Mulher de 28 anos de idade procura atendimento ambulatorial em virtude de dores musculares generalizadas há quatro meses. Queixa-se de dores musculares em ombros, pernas, coxas e região lombar bilateralmente, sem traumas associados. Neste mesmo período, vem apresentando di(cid:41)culdade para dormir, choro fácil e anedonia. Ao exame físico, queixa-se de hiperalgesia em todos os pontos dolorosos descritos na anamnese. Possui 6 tender points dolorosos, sem outras alterações. Qual é a conduta que deve ser adotada neste momento?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Orientar repouso total e iniciar opioide forte para controle da dor."
+      },
+      {
+        "letra": "B",
+        "texto": "Iniciar corticoide em dose alta e associar imunossupressor oral."
+      },
+      {
+        "letra": "C",
+        "texto": "Orientar exercício físico conforme tolerância e iniciar amitriptilina."
+      },
+      {
+        "letra": "D",
+        "texto": "Iniciar corticoide em dose baixa e associar imunossupressor oral."
+      },
+      {
+        "letra": "E",
+        "texto": "Orientar repouso total e iniciar amitriptilina e corticoide em dose baixa. 4000182346"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11437,
+    "tags": [],
+    "enunciado": "Nina, 43 anos, vem para consulta por dores no corpo que se intensi(cid:41)caram há 2 meses. Começou com dores na região lateral do quadril, à direita, irradiando pela lateral da coxa e da perna, até o pé. Tem agravamento no (cid:41)nal do dia de trabalho como auxiliar de limpeza, mas no último mês passou a ter dores também na perna esquerda e no pescoço, na maioria dos dias e, às vezes, também lhe dói o cotovelo direito. Usou paracetamol 35 gotas (200mg/mL) até 2 vezes ao dia e diclofenaco + dipirona + orfenadrina + cafeína outras vezes, sempre com melhora parcial e transitória. Sobre este caso clínico, avalie as asserções a seguir. I. A dor em membro inferior direito é uma provável ciatalgia. É, portanto, recomendado que se proceda ao teste de Lasègue, no exame físico. II. Limitação da amplitude de adução e reprodução da dor em membro inferior direito ao pressionar a região proximal ao trocanter indicam dor miofascial. III. A hipótese de (cid:41)bromialgia é provável. Portanto, está indicado, no exame físico, que se realize a pesquisa de pontos dolorosos padronizados para fibromialgia. IV. Caso o exame físico não indique outros sinais (cid:62)ogísticos além das dores, seria indicado suspender o fármaco contendo AINE e aumentar a dose e frequência do paracetamol. As assertivas que se aplicam corretamente à consulta atual são apenas",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e III apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "I e IV apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "II e III apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "II e IV apenas."
+      },
+      {
+        "letra": "E",
+        "texto": "III e IV apenas."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11438,
+    "tags": [],
+    "enunciado": "A síndrome da fibromialgia pode ser definida como uma síndrome:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Dolorosa aguda, não inflamatória, de etiologia autoimune."
+      },
+      {
+        "letra": "B",
+        "texto": "Dolorosa aguda, inflamatória, de etiologia ligada ao colágeno."
+      },
+      {
+        "letra": "C",
+        "texto": "Dolorosa aguda, não inflamatória, de etiologia desconhecida."
+      },
+      {
+        "letra": "D",
+        "texto": "Dolorosa crônica, inflamatória, de etiologia desconhecida."
+      },
+      {
+        "letra": "E",
+        "texto": "Dolorosa crônica, não inflamatória, de etiologia desconhecida. 4000192254"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 11439,
+    "tags": [],
+    "enunciado": "Mulher de 32 anos, professora de educação básica, procurou assistência médica, com queixas de dores generalizadas pelo corpo e di(cid:41)culdade para dormir. Não faz uso de nenhum medicamento para doenças crônicas. Encontra-se de licença médica há 6 meses e ainda não obteve grande melhora. Refere que acorda exausta. Nega febre. Diz já ter sido muito ativa, trabalhado em 4 escolas ao mesmo tempo, entretanto tem medo de retornar ao trabalho e voltar a ter dores mais fortes. O exame físico mostrou-se normal, à exceção da dor à pressão em diversos grupamentos musculares em todo o corpo, sem sinal de bloqueio articular ou de in(cid:62)amação articular. Foram realizados alguns exames laboratoriais, que resultaram normais, incluídos TSH, VHS e proteína C reativa ultrassensível. Provavelmente, trata-se de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "polimiosite."
+      },
+      {
+        "letra": "B",
+        "texto": "fibromialgia."
+      },
+      {
+        "letra": "C",
+        "texto": "fadiga crônica."
+      },
+      {
+        "letra": "D",
+        "texto": "polimialgia reumática."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11440,
+    "tags": [],
+    "enunciado": "Síndrome da Fadiga Crônica (SFC) é uma condição de diagnóstico clínico cujo principal sintoma é a presença de fadiga (cansaço) intensa que pode piorar com a atividade física ou mental, mas não melhora com o repouso(https://www.reumatologia.org.br/orientacoes-ao-paciente/sindrome-da-fadiga-cronica/). Qual das seguintes opções é um tratamento benéfico para a síndrome ora em tela?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "bupropiona"
+      },
+      {
+        "letra": "B",
+        "texto": "terapia cognitivo comportamental"
+      },
+      {
+        "letra": "C",
+        "texto": "doxiciclina"
+      },
+      {
+        "letra": "D",
+        "texto": "fluoxetina"
+      },
+      {
+        "letra": "E",
+        "texto": "olanzapina"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11441,
+    "tags": [],
+    "enunciado": "Mulher de 49 anos queixa-se de dores no dorso, membros superiores e inferiores, baixa energia e insônia há um ano. Nega febre, emagrecimento ou sudorese noturna. Descreve episódios paroxísticos de mudança de cor nas pontas dos dedos das mãos por alguns minutos, que se tornam pálidos e, em seguida, azulados, quando expostos ao frio. É portadora de transtorno depressivo e faz uso de (cid:62)uoxetina. O exame físico não apresenta anormalidades. Exames de laboratório: Hb 13,4g/dL; Leucócitos totais: 7.840/mm³; Plaquetas: 198.000/mm³; Proteína C reativa 3mg/dL; TSH 1,4UI/mL; cálcio iônico 1,23mmol/ L; anti-HIV. Não Reagente; HBsAg Não Reagente, anti-HCV Não Reagente; FAN reagente até título 1:320 com padrão nuclear pontilhado (cid:41)no denso. Considerando a hipótese diagnóstica mais provável para essa paciente, assinale a alternativa que apresenta uma opção terapêutica MAIS ADEQUADA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Amitriptilina"
+      },
+      {
+        "letra": "B",
+        "texto": "Azatioprina"
+      },
+      {
+        "letra": "C",
+        "texto": "Codeína"
+      },
+      {
+        "letra": "D",
+        "texto": "Prednisona"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11442,
+    "tags": [],
+    "enunciado": "Mulher, 38 anos, G4P3A1 (3PC), DUM: há 10 dias. Encaminhada ao ambulatório de ginecologia por dor em fossa ilíaca esquerda tipo pontada e em queimação há 5 meses. Durante exame físico identi(cid:41)cado ponto doloroso nesta região de moderada intensidade com irradiação para face medial da coxa, sem outras alterações, IMC = 20,1 Kg/m². Qual a hipótese diagnóstica mais provável?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Granuloma por corpo estranho."
+      },
+      {
+        "letra": "B",
+        "texto": "Neuroma de parede abdominal."
+      },
+      {
+        "letra": "C",
+        "texto": "Endometrioma de parede."
+      },
+      {
+        "letra": "D",
+        "texto": "Síndrome miofascial abdominal"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11443,
+    "tags": [],
+    "enunciado": "Mulher de 62 anos procura atendimento médico referindo, há vários meses, dor no pescoço, nas costas, nos joelhos, além de mal-estar, fadiga e formigamento nas mãos. As queixas não apresentam relação com atividade física, mas pioram durante tempo frio. Acorda quase todos os dias com essas dores, com a sensação de não ter dormido bem e sentindo cansaço, o que atrapalha o seu trabalho. As articulações apresentam movimentos normais, mas com crepitações grosseiras nos joelhos e nas mãos, nas quais é possível observar os nódulos de Heberden e Bouchard. Considerando a maioria dos sintomas, a doença mais provável e a prescrição para terapia mais adequada, respectivamente, são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "fibromialgia reumática / duloxetina"
+      },
+      {
+        "letra": "B",
+        "texto": "osteoartrite / glucosamina via oral"
+      },
+      {
+        "letra": "C",
+        "texto": "polimialgia reumática / corticoide"
+      },
+      {
+        "letra": "D",
+        "texto": "artrite reumatoide / metotrexate"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11444,
+    "tags": [],
+    "enunciado": "Mulher, 35 anos idade, no ambulatório de clínica médica com queixa de ansiedade, insônia; cefaleia; fadiga e dores pelo corpo, diariamente. Refere também apresentar, esporadicamente, epigastralgia com constipação, pirose, náuseas, inapetência iniciadas há 2 anos e que pioram com as mudanças climáticas. Ao exame físico, apresentou índice de dor difusa (IDD) = 12. Teste de caminhada de 6 minutos normal. A hipótese diagnóstica e o tratamento indicado são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Artrite de células gigantes; prednisona + tosilizumabe + aspirina"
+      },
+      {
+        "letra": "B",
+        "texto": "Fibromialgia; amitriptilia + gabapentina + dulxetina"
+      },
+      {
+        "letra": "C",
+        "texto": "Reumatismo extra articular; inibidores da Cox2 + fisioterapia + corticoides"
+      },
+      {
+        "letra": "D",
+        "texto": "Polimiosite; prednisona + metotrexato + colchicina 4000173742"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11445,
+    "tags": [],
+    "enunciado": "Em relação aos critérios diagnósticos para (cid:41)bromialgia de 2010 pelo American College Rheumatology pode- se afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os tender points deixaram de fazer parte do exame físico."
+      },
+      {
+        "letra": "B",
+        "texto": "O tempo de sintomas superior a 3 meses praticamente descarta a fibromialgia"
+      },
+      {
+        "letra": "C",
+        "texto": "Fadiga é um dos sintomas presentes na Escala de Gravidade dos Sintomas para o diagnóstico de fibromialgia"
+      },
+      {
+        "letra": "D",
+        "texto": "Dentre os exames complementares para o diagnóstico de fibromialgia contemplados nos critérios de 2010 do ACR está a termografia"
+      },
+      {
+        "letra": "E",
+        "texto": "VHS e PCR elevados são fundamentais para o diagnóstico de fibromialgia 4000173054"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11446,
+    "tags": [],
+    "enunciado": "Mulher, 42 anos, portadora de (cid:41)bromialgia, sem outras comorbidades, está em acompanhamento clínico. Usa regularmente ciclobenzaprina 5 mg ao dia com boa tolerância e é pouco aderente à prática de atividade física. Apresenta muitas queixas álgicas e sono não reparador. Nega queda do estado geral, febre ou emagrecimento. Já procurou vários médicos e realizou muitos exames, sem sucesso na solução para os seus sintomas. Em relação à conduta para o caso, deve-se: I. Solicitar ressonância magnética de coluna lombosacra. II. Indicar reabilitação com fisioterapia motora. III. Prescrever amitriptilina e ajustar analgesia. Está/Estão correta(s) apenas a(s) afirmativa(s)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I."
+      },
+      {
+        "letra": "B",
+        "texto": "III."
+      },
+      {
+        "letra": "C",
+        "texto": "I e II."
+      },
+      {
+        "letra": "D",
+        "texto": "II e III. 4000172887"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11447,
+    "tags": [],
+    "enunciado": "Mulher de 48 anos comparece à Unidade Básica de saúde solicitando laudo médico para afastamento de atividades laborativas, pois não consegue trabalhar devido a quadro de fadiga crônica, astenia, boca seca, tonturas, rigidez articular matinal, dor articular generalizada há mais de 4 meses e cefaleia. Ao exame, constata- se dor à palpação em proeminências ósseas e em porções mediais de segmentos musculares. A hipótese diagnóstica mais provável é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Esclerodermia"
+      },
+      {
+        "letra": "B",
+        "texto": "Fibromialgia"
+      },
+      {
+        "letra": "C",
+        "texto": "Lúpus eritematoso sistêmico"
+      },
+      {
+        "letra": "D",
+        "texto": "Hipotireoidismo"
+      },
+      {
+        "letra": "E",
+        "texto": "Síndrome de Sjögren"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11448,
+    "tags": [],
+    "enunciado": "Dor representa a interação de um conjunto de anormalidades biológicas, psicossociais e comportamentais que interagem entre si na expressão da experiência corpórea. Quanto à dor, é CORRETO afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pode ser apenas aguda e raramente é objetivo de procura por ajuda médica."
+      },
+      {
+        "letra": "B",
+        "texto": "Pode ser crônica ou aguda, não possuindo funcionalidade de alerta biológico."
+      },
+      {
+        "letra": "C",
+        "texto": "Pode ser crônica e possui como causa traumatismos naturais e acidentais."
+      },
+      {
+        "letra": "D",
+        "texto": "Pode ser aguda ou crônica, esta última considerada limitante para as atividades de lazer, relações sociais e familiares."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11449,
+    "tags": [],
+    "enunciado": "Mulher de 48 anos comparece à Unidade Básica de Saúde solicitando laudo médico para afastamento de atividades laborativas, pois não consegue trabalhar devido a quadro de fadiga crônica, astenia, boca seca, tonturas, rigidez articular matinal, dor articular generalizada há mais de 4 meses e cefaleia. Ao exame, constata-se dor à palpação em proeminências ósseas e em porções mediais de segmentos musculares. A hipótese diagnóstica mais provável é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Esclerodermia"
+      },
+      {
+        "letra": "B",
+        "texto": "Fibromialgia"
+      },
+      {
+        "letra": "C",
+        "texto": "Lúpus eritematoso sistêmico"
+      },
+      {
+        "letra": "D",
+        "texto": "Hipotireoidismo"
+      },
+      {
+        "letra": "E",
+        "texto": "Síndrome de Sjõgren"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11450,
+    "tags": [],
+    "enunciado": "Homem de 25 anos apresenta queixas inespecí(cid:41)cas de dor generalizada há 1 ano. Essa dor é contínua, profunda e super(cid:41)cial, não se limitando a uma estrutura, sem fatores de melhora ou piora identi(cid:41)cados. Realizou extensa investigação diagnóstica sem nenhuma alteração. AP: fadiga e sono não reparador há anos. Em relação ao diagnóstico desse paciente, podemos afirmar que se trata de dor",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "nociceptiva."
+      },
+      {
+        "letra": "B",
+        "texto": "neuropática."
+      },
+      {
+        "letra": "C",
+        "texto": "nociplástica."
+      },
+      {
+        "letra": "D",
+        "texto": "psicogênica."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11451,
+    "tags": [],
+    "enunciado": "Durante o tratamento farmacológico, o médico pode vir a prescrever analgésicos que são utilizados para reduzir e aliviar dores. Considerando os dois grupos principais de analgésicos e suas subdivisões, quanto aos opioides fortes, é CORRETO afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Incluem somente a Morfina e a Fentanila."
+      },
+      {
+        "letra": "B",
+        "texto": "O Sulfato e o Cloridrato de Morfina podem ser utilizados por VO, retal, IM, SC, IV, espinal ou intraventricular."
+      },
+      {
+        "letra": "C",
+        "texto": "Estabilizada a dose, a Morfina deve ser substituída pela deliberação controlada ou por fármacos de ação curta, reservando-se a Morfina de ação prolongada."
+      },
+      {
+        "letra": "D",
+        "texto": "A Metadona pode ser empregada no tratamento da dor aguda no doente com câncer e não da dor não decorrente de neoplasia."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11452,
+    "tags": [],
+    "enunciado": "Os dados obtidos pela anamnese em conjunto com os resultados do exame físico possibilitam a formulação de hipóteses diagnósticas, contando com os exames complementares pertinentes para o diagnóstico nosológico da dor, por meio de exames de imagem, de sangue, do líquido cefalorraquidiano e de estudos eletrofisiológicos. No tocante ao exame de sangue, é CORRETO afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Deve ser otimizado para que o médico possa avaliar as condições clínicas específicas do indivíduo."
+      },
+      {
+        "letra": "B",
+        "texto": "O exame de ureia avalia o balanço nitrogenado e deve ser realizado especialmente quando há uso de AINE."
+      },
+      {
+        "letra": "C",
+        "texto": "Os exames sugeridos são: hemograma, Velocidade de Hemossedimentação (VHS), glicemia de jejum, ureia, creatinina, urânio, sódio, potássio, dentre outros."
+      },
+      {
+        "letra": "D",
+        "texto": "Contribui para a detecção de possíveis disfunções, como as condições inflamatórias ou infecciosas. 4000141310"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11453,
+    "tags": [],
+    "enunciado": "Dois importantes órgãos (Agência Americana de Pesquisa e Qualidade em Saúde Pública e a Sociedade Americana de Dor) classi(cid:41)caram a dor como o quinto sinal vital e, sugeriram, que ela seja avaliada nos ambientes clínicos juntamente com os outros quatros sinais: temperatura, frequência cardíaca, frequência respiratória e pressão arterial. Sobre a dor e suas possibilidades de controle é CORRETO afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A escala de avaliação de dor que vai de 0 a 10, onde 0 é a ausência de dor e 10 é a pior dor que a pessoa já sentiu na vida, deve ser utilizado apenas pela equipe médica diante de dores agudas."
+      },
+      {
+        "letra": "B",
+        "texto": "Existe uma única via de transmissão da dor: o estímulo de dor sai do córtex cerebral, passa pelo tálamo, formação reticular ascendente, trato espinotalamico e fascículo anterolateral da medula."
+      },
+      {
+        "letra": "C",
+        "texto": "O controle de dor crônica deve ser reservado para os casos de pacientes com doenças que ameacem a continuidade da vida. Evitar medicações para dor crônica em pacientes com osteoartrite, por exemplo."
+      },
+      {
+        "letra": "D",
+        "texto": "O controle de dor aguda deve respeitar a dor do paciente: dores intensas devem ser tratadas com analgésicos potentes. Já na dor crônica, devemos respeitar a escada analgésica, ou seja, iniciar a analgesia com analgésicos simples (podendo ser adicionado adjuvantes), seguindo de anti- inflamatórios (observando contraindicações), e, caso o controle não esteja adequado, optar por opioides (fracos ou fortes)."
+      },
+      {
+        "letra": "E",
+        "texto": "Qualidade de vida é a percepção do indivíduo sobre a vida, no contexto da cultura, sistemas e valores ou, ainda, expectativas, padrões e preocupações relativas aos seus objetivos, portanto, não se relaciona com o controle de dor."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11454,
+    "tags": [],
+    "enunciado": "Paciente de 42 anos de idade, do sexo feminino, relata 5 meses de evolução de dor generalizada, com aumento progressivo da intensidade. A paciente relata que a dor é difusa, e não observou artrite no período. Relata apresentar fadiga e insônia inicial desde o início do quadro. Nega comorbidades, nega uso de medicação contínua. Relata ter feito uso de analgésicos comuns para tratamento da dor. Ao exame apresenta dor à palpação de pontos sensíveis, sem outras alterações. Foram solicitados exames de VHS, proteína c reativa, hemograma completo, TSH, painel metabólico, FAN, anti-ssa, anti-ssb, anti ccp, fator reumatóide, creatinofosfoquinase, sorologias para HIV e doença de Lyme, anti-HCV que foram normais. Considerando a hipótese diagnóstica principal, avalie as asserções a seguir e a relação causal proposta entre elas. I – De forma comprovada por testes, pacientes com a condição apresentam hiperalgesia e alodinia PORQUE II – a presença de mediadores in(cid:62)amatórios ativam a transdução de sinais nos nociceptores intracelulares, determinando o aumento na produção, transporte e inserção na membrana de canais iônicos ativados quimicamente e ativados por voltagem, causando sensibilização periférica.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As asserções I e II são proposições verdadeiras, e a segunda é uma justificativa da primeira."
+      },
+      {
+        "letra": "B",
+        "texto": "As asserções I e II são proposições verdadeiras, mas a segunda não é uma justificativa da primeira."
+      },
+      {
+        "letra": "C",
+        "texto": "A asserção I é uma proposição verdadeira e a asserção II é uma proposição falsa."
+      },
+      {
+        "letra": "D",
+        "texto": "A asserção I é uma proposição falsa e a asserção II é uma proposição verdadeira."
+      },
+      {
+        "letra": "E",
+        "texto": "As asserções I e II são proposições falsas."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11455,
+    "tags": [],
+    "enunciado": "Paciente, 60 anos, masculino, internado devido a dor importante em região lombar, refere dor intensa (9/10 - escala de dor) que prejudica o sono e a deambulação. Paciente com antecedente de adenocarcinoma de próstata com metástase óssea. De acordo com caso acima, responda: Qual e a prescrição adequada para o manejo de dor deste paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Dipirona 1 g IV 4/4h, resgate paracetamol 500mg VO ate 6/6h."
+      },
+      {
+        "letra": "B",
+        "texto": "Tramadol 100mg IV 8/8h, resgate de tramadol 50mg VO ate 8/8h."
+      },
+      {
+        "letra": "C",
+        "texto": "Codeina 30mg VO 6/6h, codeina 30mg VO ate 6/6h."
+      },
+      {
+        "letra": "D",
+        "texto": "Morfina 1mg IV 12/12h, morfina 2mg ate 6/6h VO."
+      },
+      {
+        "letra": "E",
+        "texto": "Morfina 1mg IV 4/4h, morfina 1mg IV ate 4/4h."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 11456,
+    "tags": [],
+    "enunciado": "Mulher, 24 anos, há dois meses apresenta dor, edema e rigidez maior que uma hora em mãos, punhos, ombros e joelhos. Relata sono não reparador, fadiga e alguns episódios de temperatura entre 37,0 e 37,8 °C. Exame físico: bom estado geral. Temperatura axilar: 37,5 °C. Edema, calor e dor em cotovelos, punhos, segunda a quarta metacarpofalangeanas bilateralmente, joelhos e tornozelos; pontos dolorosos (tender points): 14/18. Qual dos diagnósticos abaixo é o mais provável?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Lúpus eritematoso sistêmico."
+      },
+      {
+        "letra": "B",
+        "texto": "Síndrome da fibromialgia."
+      },
+      {
+        "letra": "C",
+        "texto": "Espondiloartrite não-axial."
+      },
+      {
+        "letra": "D",
+        "texto": "Artrite reacional."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11457,
+    "tags": [],
+    "enunciado": "Paciente de 62 anos do sexo feminino com neoplasia de mama e metástases pulmonar e ósseas, evoluindo com quadro álgico importante com diversas passagens pelo pronto-socorro para receber medicações analgésicas. Levando-se em conta os critérios para alívio da dor de pacientes com câncer, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "via intravenosa é a mais adequada."
+      },
+      {
+        "letra": "B",
+        "texto": "a analgesia profilática não é recomendada."
+      },
+      {
+        "letra": "C",
+        "texto": "os opioides intravenosos são a primeira escolha."
+      },
+      {
+        "letra": "D",
+        "texto": "a analgesia multimodal deve ser iniciada precocemente."
+      },
+      {
+        "letra": "E",
+        "texto": "a via oral nāo tem eficácia no controle da dor."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11458,
+    "tags": [],
+    "enunciado": "Homem, 74 anos, performance status ECOG 2, com diagnóstico de Câncer de próstata, refratário ao tratamento hormonal, apresenta metástases ósseas. Encontra-se em tratamento com quimioterapia e bisfosfonato. Sua dor é inicialmente bem controlada com mor(cid:41)na de liberação prolongada, 60mg, 02X/dia e resgate com mor(cid:41)na de curta duração, além de prednisona 20mg/dia e dipirona 04g/dia. Atualmente sem controle adequado da dor. Qual das abordagens a seguir pode ser considerada a melhor opção no momento:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aumentar a dose de morfina em 50%,"
+      },
+      {
+        "letra": "B",
+        "texto": "Introduzir pregabalina 75mg, 02 vezes ao dia."
+      },
+      {
+        "letra": "C",
+        "texto": "Associar tramadol ou codeína."
+      },
+      {
+        "letra": "D",
+        "texto": "Mudar para metadona 60 mg, por via oral, 2 vezes ao dia."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11459,
+    "tags": [],
+    "enunciado": "Um paciente de 67 anos é portador de hepatocarcinoma extenso e se queixa de dor de intensidade 8 (escala visual de dor). A dor está associada a náuseas e vômitos. Assinale a alternativa correta em relação ao manejo farmacológico da dor.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tramadol por via enteral"
+      },
+      {
+        "letra": "B",
+        "texto": "Ibuprofeno por via enteral"
+      },
+      {
+        "letra": "C",
+        "texto": "Morfina por via endovenosa"
+      },
+      {
+        "letra": "D",
+        "texto": "Dipirona pela via subcutânea"
+      },
+      {
+        "letra": "E",
+        "texto": "Dipirona e dexametasona por via endovenosa"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11460,
+    "tags": [],
+    "enunciado": "Homem, 42 anos, consulta na Unidade Básica de Saúde por dor em múltiplas regiões do corpo. Refere recorrência desse sintoma há mais de um ano, principalmente em nádega esquerda com irradiação pela face posterior da coxa até o joelho. Relata ainda dores na orelha direita e na face à direita, com sensibilidade nos dentes superiores homolaterais. Nega trauma e sintomas sistêmicos. Não realiza exercícios físicos de rotina. Traz exames de imagens sem alterações. Ao exame físico, apresenta pontos dolorosos nas musculaturas glútea esquerda e cervical direita, sem alterações in(cid:62)amatórias, dé(cid:41)cits neurológicos e anormalidades no exame da orelha ou da cavidade oral. Considerando esse quadro clínico, a analgesia será adequada com o uso de . Recomenda- se a realização de para a prevenção de novos episódios. Há a indicação do uso de pelo caráter crônico do quadro. As informações que completam corretamente as lacunas, na ordem em que se encontram, estão contidas na alternativa:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "paracetamol – alongamento – fluoxetina"
+      },
+      {
+        "letra": "B",
+        "texto": "ibuprofeno – exercício aeróbico – duloxetina"
+      },
+      {
+        "letra": "C",
+        "texto": "dipirona – fortalecimento muscular – amitriptilina"
+      },
+      {
+        "letra": "D",
+        "texto": "prednisona – reeducação postural – gabapentina"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11461,
+    "tags": [],
+    "enunciado": "A síndrome da dor miofascial é um distúrbio no qual a pressão sobre pontos sensíveis dos músculos causa dor em partes do corpo aparentemente não relacionadas. É um diagnóstico diferencial importante de dor crônica que sempre deve ser considerada no âmbito da atenção primária à saúde. Quanto à síndrome da dor miofascial considere as afirmativas abaixo. I - A ultrassonografia de partes moles é o exame preferencial para o diagnóstico. II - O uso de relaxantes musculares periféricos constitui uma das principais estratégias de tratamento. III - A inativação dos pontos-gatilhos por agulhamento seco é amplamente indicada no tratamento da dor. IV - A atividade física deve ser incorporada ao tratamento gradualmente , priorizando, inicialmente, o alongamento. Estão corretas as afirmativas",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "II e IV."
+      },
+      {
+        "letra": "B",
+        "texto": "I e II."
+      },
+      {
+        "letra": "C",
+        "texto": "I e III."
+      },
+      {
+        "letra": "D",
+        "texto": "III e IV."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11462,
+    "tags": [],
+    "enunciado": "Mulher de 45 anos refere dor e queixa de fadiga frequente nos membros superiores e inferiores, articulações e na região dorso-lombar há 2 anos. Relata insônia e sensação de “inchaço” nas mãos, especialmente ao acordar. Atualmente usa analgésicos comuns, porém já fez uso de outros medicamentos sem, no entanto, dar continuidade. Nega outras doenças. Exerce a pro(cid:41)ssão de copeira. Tabagista há 20 anos, não faz atividade física regularmente. Ao exame, apresenta-se em bom estado geral, mas um pouco ansiosa, com exame cardiopulmonar normal, articulações sem sinais (cid:62)ogísticos. Apresenta dor nos movimentos da coluna dorso lombar, mas sem limitação destes, e dor à palpação em vários pontos nos membros superiores e inferiores. Com base nesse quadro descrito, que sugere fibromialgia, o tratamento medicamentoso a ser iniciado é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "analgésicos opióides + anti-inflamatórios não hormonais."
+      },
+      {
+        "letra": "B",
+        "texto": "anti-inflamatórios não hormonais + antidepressivos tricíclicos."
+      },
+      {
+        "letra": "C",
+        "texto": "corticosteróides + analgésicos comuns."
+      },
+      {
+        "letra": "D",
+        "texto": "antidepressivos tricíclicos + analgésicos comuns."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11463,
+    "tags": [],
+    "enunciado": "Paciente de 40 anos, sexo feminino, procura ambulatórios de clínica médica de vários postos de saúde e hospitais com queixas de cansaço, dores em articulações e musculares, alterações no sono e constipação crônica. Os sintomas não melhoram com o uso de analgésicos, antin(cid:62)amatórios ou corticoesteroides. Os exames laboratoriais usuais não mostram alterações. Dentre as opções o diagnóstico mais provável é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "polimialgia reumática."
+      },
+      {
+        "letra": "B",
+        "texto": "fibromialgia."
+      },
+      {
+        "letra": "C",
+        "texto": "lúpus eritematoso sistêmico."
+      },
+      {
+        "letra": "D",
+        "texto": "esquizofrenia."
+      },
+      {
+        "letra": "E",
+        "texto": "amiloidose."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11464,
+    "tags": [],
+    "enunciado": "Qual dos antidepressivos abaixo seria mais indicado para uma paciente portadora de (cid:41)bromialgia, visando tanto o controle dos sintomas da depressão quanto da dor?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Paroxetina 25mg por dia"
+      },
+      {
+        "letra": "B",
+        "texto": "Pregabalina 75mg por dia"
+      },
+      {
+        "letra": "C",
+        "texto": "Duloxetina 30mg ao dia"
+      },
+      {
+        "letra": "D",
+        "texto": "Fluoxetina 20mg ao dia"
+      },
+      {
+        "letra": "E",
+        "texto": "Gabapentina 300mg ao dia"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11465,
+    "tags": [],
+    "enunciado": "Doenças reumatológicas têm, de forma geral, uma predileção pelo sexo feminino, à EXCEÇÃO de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "LES."
+      },
+      {
+        "letra": "B",
+        "texto": "espondiloartropatias soronegativas."
+      },
+      {
+        "letra": "C",
+        "texto": "Fibromialgia."
+      },
+      {
+        "letra": "D",
+        "texto": "artrite reumatoide."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11466,
+    "tags": [],
+    "enunciado": "Em relação aos efeitos adversos dos opioides no tratamento de dor, assinale a alternativa incorreta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A constipação intestinal é comum em qualquer dose de opioide, e a tolerância a esse efeito colateral não se desenvolve ao longo do tempo."
+      },
+      {
+        "letra": "B",
+        "texto": "Neurotoxicidade induzida por opioides inclui mioclonia, hiperalgesia, delírio e convulsões."
+      },
+      {
+        "letra": "C",
+        "texto": "Náusea devido ao uso de opioides pode ocorrer com o início da terapia."
+      },
+      {
+        "letra": "D",
+        "texto": "Depressão respiratória é comum com o uso de opioides, mesmo quando utilizados em baixas doses."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11467,
+    "tags": [],
+    "enunciado": "A dor é o sintoma que mais frequentemente leva o paciente em busca de consulta médica. O manejo engloba em determinar a causa, aliviar os fatores desencadeantes e potencializadores, bem como proporcionar alívio rápido, sempre quando há possibilidade. Analise as a(cid:41)rmativas seguintes em relação às características das dores e assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A dor visceral é ativada por processo inflamatório, bem localizada e associada ao desconforto difuso."
+      },
+      {
+        "letra": "B",
+        "texto": "A dor somática é comumente bem localizada e aliviada por anti-inflamatórios ou analgésicos narcóticos."
+      },
+      {
+        "letra": "C",
+        "texto": "A dor neuropática é mal respondedora a antidepressivos e boa respondedora a anti-inflamatório."
+      },
+      {
+        "letra": "D",
+        "texto": "A dor referida resulta da inconsonância dos estímulos sensoriais a partir da pele e das vísceras para os neurônios espinais isolados que transmitem os sinais dolorosos até o cérebro."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11468,
+    "tags": [],
+    "enunciado": "Em 2016, o Colégio Americano de Reumatologia publicou uma nova revisão dos critérios de classi(cid:41)cação da fibromialgia. De acordo com esta revisão, deve ser considerado como critério de classificação:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "índice de dor generalizada ≥ 7 e escore de intensidade dos sintomas ≥ 9."
+      },
+      {
+        "letra": "B",
+        "texto": "dor generalizada, ou seja, em, pelo menos, quatro de cinco localizações, incluindo-sedores na mandibula, no tórax e no abdome."
+      },
+      {
+        "letra": "C",
+        "texto": "presença dos sintomas por, pelo menos, sessenta dias."
+      },
+      {
+        "letra": "D",
+        "texto": "exclusão de outras doenças concomitantes, principalmente enfermidades reumáticas."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11469,
+    "tags": [],
+    "enunciado": "Em relação à fibromialgia, é INCORRETO afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Distúrbios do sono são pouco frequentes."
+      },
+      {
+        "letra": "B",
+        "texto": "Cursa com fadiga mental e/ou física ao despertar."
+      },
+      {
+        "letra": "C",
+        "texto": "A prevalência é maior em mulheres e a idade média é de 49 anos."
+      },
+      {
+        "letra": "D",
+        "texto": "Acomete com mais frequência familiares, parente consanguíneos, podendo afetar crianças."
+      },
+      {
+        "letra": "E",
+        "texto": "A síndrome miofascial é importante manifestação satélite."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11470,
+    "tags": [],
+    "enunciado": "Mulher de 44 anos com sintomas crônicos de dores musculares generalizadas, fadiga, insônia e dé(cid:41)cit de memória recente. Exame físico com achado de artralgia em quadril bilateralmente e em joelho direito, leve limitação articular, sem sinais inflamatórios. Sobre o provável diagnóstico, pode-se afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "anormalidades na rotina laboratorial são comuns."
+      },
+      {
+        "letra": "B",
+        "texto": "antidepressivos tricíclicos e relaxantes musculares podem ser benéficos."
+      },
+      {
+        "letra": "C",
+        "texto": "doença reumatológica pré-existente associa-se a menor risco da doença."
+      },
+      {
+        "letra": "D",
+        "texto": "higiene do sono e atividade física são indicadas conforme a gravidade."
+      },
+      {
+        "letra": "E",
+        "texto": "anticonvulsivantes apresentam benefício questionável."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11471,
+    "tags": [],
+    "enunciado": "Mulher, 50 anos, refere dor em membros inferiores quando a roupa encosta-se a sua pele, com intensidade de 6 em 10, há 3 meses. Qual tipo de dor está sendo descrita?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Neuralgia."
+      },
+      {
+        "letra": "B",
+        "texto": "Hiperalgesia."
+      },
+      {
+        "letra": "C",
+        "texto": "Parestesia."
+      },
+      {
+        "letra": "D",
+        "texto": "Alodinia."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11472,
+    "tags": [],
+    "enunciado": "Mulher de 74 anos, com neoplasia de pâncreas e metástases hepáticas, em uso de codeína 30 mg de 6/6 horas e amitriptilina 25 mg a noite. Apresenta bom controle analgésico porém queixa-se de náuseas e vômitos frequentes associados à medicação. Qual seria seu ajuste farmacológico frente ao caso?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Substituir a codeína por tramadol 50 mg de 6/6 horas."
+      },
+      {
+        "letra": "B",
+        "texto": "Substituir codeína por buprenorfina 5 mg transdérmico semana."
+      },
+      {
+        "letra": "C",
+        "texto": "Associar metoclopramida 10 mg de 8/8 horas."
+      },
+      {
+        "letra": "D",
+        "texto": "Reduzir a amitriptilina para 10 mg à noite e associar metoclopramida 10 mg de 12/12 horas."
+      },
+      {
+        "letra": "E",
+        "texto": "Iniciar omeprazol 20 mg cedo em jejum."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11473,
+    "tags": [],
+    "enunciado": "Um paciente de 68 anos de idade, performance status ECOG 2, com diagnóstico de câncer de próstata, refratário ao tratamento hormonal, apresenta metástases ósseas. Encontra-se em tratamento com quimioterapia e bisfosfonato. Sua dor é inicialmente bem controlada com mor(cid:41)na de liberação prolongada, 60mg, 2X/dia, com resgate de mor(cid:41)na de curta duração. Caso a sua dor aumente, todas as abordagens a seguir podem ser aceitáveis, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aumentar a dose de morfina em 50%."
+      },
+      {
+        "letra": "B",
+        "texto": "Adicionar corticosteroides."
+      },
+      {
+        "letra": "C",
+        "texto": "Tratamento com radium-223."
+      },
+      {
+        "letra": "D",
+        "texto": "Mudar para metadona 60mg, por via oral, 2X/dia."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11474,
+    "tags": [],
+    "enunciado": "Com relação aos critérios de classificação da dor assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A dor nociceptiva ocorre quando a lesão tissuar ativa os receptores de dor específicos que são sensíveis a estímulos nocivos e pode ser dividida em somática e tecidual."
+      },
+      {
+        "letra": "B",
+        "texto": "A dor neuropática decorre de alterações das vias de condução do sistema nervoso periférico, sistema nervoso autonômico ou sistema nervoso central."
+      },
+      {
+        "letra": "C",
+        "texto": "A dor episódica ou recorrente tem causa identificada e pode ser desencadeada pela movimentação."
+      },
+      {
+        "letra": "D",
+        "texto": "A localização da dor é útil no diagnóstico diferencial e no manejo clínico da dor."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11475,
+    "tags": [],
+    "enunciado": "Entre as principais doenças que se apresentam com dor articular em mulheres maiores de 65 anos, estão: I) Fibromialgia. II) Artrite reumatóide. III) Lúpus eritematoso sistêmico. Estão CORRETAS:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II e III, apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "II e III, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "I e II, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "I e III, apenas."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11476,
+    "tags": [],
+    "enunciado": "A (cid:41)bromialgia é uma síndrome clínica que causa dor generalizada, alterações no humor e no sono. Sobre essa doença, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os novos critérios diagnósticos elaborados em 2010 ainda incluem a contagem de 11 tender points."
+      },
+      {
+        "letra": "B",
+        "texto": "O uso de analgésicos opióides, como codeína e tramadol, devem ser estimulados, pois melhoram o retorno dos pacientes ao trabalho."
+      },
+      {
+        "letra": "C",
+        "texto": "Exercícios físicos de resistência e ganho de força, são os únicos que provaram ter benefício no controle da dor."
+      },
+      {
+        "letra": "D",
+        "texto": "Os antidepressivos tricíclicos, inibidores da recaptação de serotonina e duais, são recomendados no tratamento dessa síndrome."
+      },
+      {
+        "letra": "E",
+        "texto": "Apesar de não haver exame disgnóstico para fibromialgia, é importante realizar exame de imagem para cada local de dor do paciente."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11477,
+    "tags": [],
+    "enunciado": "No manejo da dor aguda severa em pediatria existem medidas farmacológicas e não farmacológicas. Sobre o uso de opioides no manejo farmacológico, analise as alternativas abaixo. I - Devem ser evitados mesmo por curtos periodos pelo alto risco de causarem dependência. II - Quando utilizados a via preferencial de aplicação é intramuscular. III - O efeito colateral mais comum e facilmente tratável é a constipação. Estão corretas as alternativas.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "II apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "III apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "I e II apenas."
+      },
+      {
+        "letra": "E",
+        "texto": "I e III apenas."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11478,
+    "tags": [],
+    "enunciado": "A (cid:41)bromialgia é uma afecção crônica, caracterizada pela presença de dor difusa e generalizada, cujo tratamento medicamentoso deve incluir:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Analgésicos comuns, como o paracetamol, e anti-inflamatórios não hormonais, efetivos no tratamento de sensibilização central."
+      },
+      {
+        "letra": "B",
+        "texto": "Antidepressivos tricíclicos, como a amitriptilina, em doses superiores a 50 mg/dia, efetiva no tratamento da dor, da fadiga, além de melhorar o sono."
+      },
+      {
+        "letra": "C",
+        "texto": "Anticonvulsivantes, como a pregabalina e a gabapentina, benéficos na redução da dor e na melhora do padrão do sono."
+      },
+      {
+        "letra": "D",
+        "texto": "Hipnóticos não diazepínicos, como o zolpidem, que bloqueia o reflexo nociceptivo espinal, devendo ser mantido por tempo prolongado."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11479,
+    "tags": [],
+    "enunciado": "Considere uma mulher de 40 anos, com quadro de mialgia generalizada, inchaço articular, cansaço, insônia, formigamento e dormência em MMSS. Ao exame físico: avaliação neurológica e articular dentro da normalidade. Exames laboratoriais, como PCR, VHS, TSH, T4 livre e fator antinúcleo normais. Qual é o diagnóstico mais provável?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "fibromialgia"
+      },
+      {
+        "letra": "B",
+        "texto": "gota"
+      },
+      {
+        "letra": "C",
+        "texto": "polimialgia reumática"
+      },
+      {
+        "letra": "D",
+        "texto": "polimiosite"
+      },
+      {
+        "letra": "E",
+        "texto": "artrite reumatoide"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11480,
+    "tags": [],
+    "enunciado": "Uma mulher de 25 anos, casada e com 2 (cid:41)lhos, chega ao posto de saúde para consulta eletiva relatando dor em todo o corpo há 3 meses, de início após mudança de emprego, fadiga constante, cefaléia, sensação de edema nos dedos das mãos, parestesias e sono não reparador. Assinale a alternativa correta, que apresenta a conduta inicial mais adequada, considerando o caso clínico:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "solicitar hemograma e TSH e iniciar analgésico comum e relaxante muscular"
+      },
+      {
+        "letra": "B",
+        "texto": "iniciar paracetamol e codeína"
+      },
+      {
+        "letra": "C",
+        "texto": "iniciar anti-inflamatório não hormonal e orientar consulta com psicólogo"
+      },
+      {
+        "letra": "D",
+        "texto": "solicitar radiografia de mãos e punhos e iniciar anti-inflamatório hormonal"
+      },
+      {
+        "letra": "E",
+        "texto": "iniciar antidepressivo e orientar exercícios físicos"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11481,
+    "tags": [],
+    "enunciado": "A (cid:41)bromialgia é uma síndrome dolorosa crônica com prevalência que pode chegar a 2,5% em nosso meio. O sintoma central é a dor crônica, difusa e generalizada, mas há outras condições associadas à (cid:41)bromialgia em que pro(cid:41)ssionais de saúde devem estar atentos para sua correlação clínica, indo além da dor central. Assinale a alternativa que contenha somente manifestações-satélites da (cid:41)bromialgia, ou seja, situações clínicas associadas ao espectro da fibromialgia primária:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "fadiga, síndrome do intestino irritável, cefaléia."
+      },
+      {
+        "letra": "B",
+        "texto": "retocolite ulcerativa, dismenorreia, artralgia."
+      },
+      {
+        "letra": "C",
+        "texto": "hipotireoidismo, osteoartrite, hipotensão postural."
+      },
+      {
+        "letra": "D",
+        "texto": "polimiosite, autoanticorpos positivos, elevação de VHS."
+      },
+      {
+        "letra": "E",
+        "texto": "poliartrite erosiva, edema muscular, síndrome das pernas inquietas."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11482,
+    "tags": [],
+    "enunciado": "Paciente sexo feminino, 46 anos, procura atendimento em hospital com queixa principal de \"dor no corpo inteiro\". Pela história da doença atual, percebeu-se que as dores são intensas, com início logo ao despertar e duração maior que 18 horas, alternando com dias sem dor e ausente em pelo menos 6 meses durante o ano. A história pregressa revelou que a paciente frequentemente acorda com sensação de fadiga, independentemente de estar com dor. É portadora de cefaléia com forte intensidade com característica de ser de origem tensional e já fez consulta psiquiátrica para tratamento de depressão. Ao exame físico percebe-se dor a digitopressão em região occipital, músculo trapézio, quadrante superior externo da nádega, epicôndilo lateral e joelho (para todos os pontos a dor foi bilateral). Assinale a alternativa CORRETA quanto à terapia a ser instituída:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Agentes antibióticos por 30 dias como doxiciclina por via oral"
+      },
+      {
+        "letra": "B",
+        "texto": "Colchicina, anti-inflamatório não hormonal e aplicação de compressa gelada"
+      },
+      {
+        "letra": "C",
+        "texto": "Tratar comorbidades, evitar opioides e utilizar medicação analgésica que promova sono como a amitriptilina"
+      },
+      {
+        "letra": "D",
+        "texto": "Utilizar cloreto de vinilia, bleomicina e pentazocina"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11483,
+    "tags": [],
+    "enunciado": "Paciente sexo feminino, 46 anos, procura atendimento em hospital com queixa principal de \"dor no corpo inteiro\". Pela história da doença atual, percebeu-se que as dores são intensas, com início logo ao despertar e duração maior que 18 horas, alternando com dias sem dor e ausente em pelo menos 6 meses durante o ano. A história pregressa revelou que a paciente frequentemente acorda com sensação de fadiga, independentemente de estar com dor. É portadora de cefaléia de forte intensidade com característica de ser de origem tensional e já fez consulta psiquiátrica para tratamento de depressão. Ao exame físico percebe-se dor a digitopressão em região occipital, músculo trapézio, quadrante superior externo da nádega, epicôndilo lateral e joelho (para todos os pontos a dor foi bilateral). Assinale a alternativa CORRETA quanto ao diagnóstico MAIS PROVÁVEL:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Artrite reumatóide"
+      },
+      {
+        "letra": "B",
+        "texto": "Esclerodermia"
+      },
+      {
+        "letra": "C",
+        "texto": "Fibromialgia"
+      },
+      {
+        "letra": "D",
+        "texto": "Gota"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11484,
+    "tags": [],
+    "enunciado": "Em relação aos novos critérios diagnósticos de (cid:41)bromialgia publicados em 2010 pelo American College Reumatology, podemos afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não é mais necessário que o paciente apresente dor generalizada e a palpação de áreas dolorosas foi substituídas por ressonância magnética muscular."
+      },
+      {
+        "letra": "B",
+        "texto": "O escore de gravidade dos sintomas não tem importância na pontuação para o diagnóstico de fibromialgia já que a presença dos tender points já é suficiente."
+      },
+      {
+        "letra": "C",
+        "texto": "Fadiga faz parte dos critérios diagnósticos atuais."
+      },
+      {
+        "letra": "D",
+        "texto": "Sono não restaurador é condição pouco frequente no contexto da fibromialgia."
+      },
+      {
+        "letra": "E",
+        "texto": "Sintomas cognitivos como perda de memória, atenção reduzida, dificuldade na concentração estão presentes em pacientes deprimidos com fibromialgia mas não em outros grupos de fibromiálgicos."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11485,
+    "tags": [],
+    "enunciado": "Levando-se em consideração o tratamento da dor, assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Alterações significativas ocorrem em absorção, distribuição, ligação a receptores, metabolismo e excreção de substâncias em decorrência das mudanças que a farmacocinética e a farmacodinâmica dos analgésicos sofrem com a idade."
+      },
+      {
+        "letra": "B",
+        "texto": "A deficiência genética do citocromo P-450 subtipo 2D6, que converte codeína em morfina, pode levar à ineficácia dessa substância no tratamento da dor."
+      },
+      {
+        "letra": "C",
+        "texto": "A constipação é um efeito colateral previsível com o uso prolongado dos opioides, e os eu tratamento deve ser instituído desde o inicio do emprego dos opioides."
+      },
+      {
+        "letra": "D",
+        "texto": "A depressão respiratória deve ser tratada com analgésico não opioide, estimulação e ventilação com máscara, se necessário."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11486,
+    "tags": [],
+    "enunciado": "Paciente que apresenta dor moderada (segundo grau da Escala Analgésica), sem alívio adequado, deve receber:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Gabapentina."
+      },
+      {
+        "letra": "B",
+        "texto": "Anti-inflamatórios não hormonais."
+      },
+      {
+        "letra": "C",
+        "texto": "Codeína, quando necessário."
+      },
+      {
+        "letra": "D",
+        "texto": "Morfina por VO em intervalos regulares."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11487,
+    "tags": [],
+    "enunciado": "Das patologias relacionadas abaixo, qual não esta relacionada à dor crônica?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Grande queimado."
+      },
+      {
+        "letra": "B",
+        "texto": "Anemia falciforme."
+      },
+      {
+        "letra": "C",
+        "texto": "Metástases ósseas."
+      },
+      {
+        "letra": "D",
+        "texto": "Apendicite aguda."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11488,
+    "tags": [],
+    "enunciado": "Um paciente de 80 anos de idade, PS 2, com câncer de próstata, refratário ao tratamento hormonal, apresenta metástases ósseas. Encontra-se em tratamento com quimioterapia e bisfosfonato. Sua dor é inicialmente bem controlada com mor(cid:41)na de liberação prolongada, 60mg, 2X/dia, com resgate de mor(cid:41)na de curta duração. Caso a sua dor aumente, todas as abordagens a seguir podem ser aceitáveis, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aumentar a dose de morfina em 50%."
+      },
+      {
+        "letra": "B",
+        "texto": "Adicionar corticosteroides."
+      },
+      {
+        "letra": "C",
+        "texto": "Tratamento com radium-223."
+      },
+      {
+        "letra": "D",
+        "texto": "Mudar para metadona 60mg, por via oral, 2 vezes ao dia."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11489,
+    "tags": [],
+    "enunciado": "Mulher, 38 anos, apresenta dores difusas há 6 meses, principalmente em dorso, glúteos, trocânteres e face interna de joelhos. Em paralelo, refere sono irregular, bruxismo e intensa fadiga matinal. Pontos dolorosos disseminados estão presentes no exame físico. O VSG é de 20 mm na primeira hora e a dosagem de CK é normal. Qual é o tratamento medicamentoso mais indicado?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Zolpidem"
+      },
+      {
+        "letra": "B",
+        "texto": "Duloxetina"
+      },
+      {
+        "letra": "C",
+        "texto": "Venlafaxina"
+      },
+      {
+        "letra": "D",
+        "texto": "Trazodona"
+      },
+      {
+        "letra": "E",
+        "texto": "Desvenlafaxina"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11490,
+    "tags": [],
+    "enunciado": "Assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O diagnóstico de fibromialgia (FM) é puramente clínico, não havendo exame complementar que favoreça a sua realização."
+      },
+      {
+        "letra": "B",
+        "texto": "Dor generalizada associada à rigidez articular, fadiga e distúrbios do sono são alterações comuns na FM."
+      },
+      {
+        "letra": "C",
+        "texto": "O tendão do músculo supra-espinhal é o principal tendão envolvido na síndrome do impacto dos ombros."
+      },
+      {
+        "letra": "D",
+        "texto": "A epicondilite lateral, ou cotovelo de tenista, é causada pela lesão do tendão do flexor comum em sua inserção no cotovelo."
+      },
+      {
+        "letra": "E",
+        "texto": "A tendinite de Dequervain corresponde à lesão dos tendões do extensor curto e do abdutor longo do polegar."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11491,
+    "tags": [],
+    "enunciado": "Mulher, 40 anos, com quadro de mialgia generalizada, inchaço articular, cansaço, insônia, formigamento e dormência em membros superiores. Exame físico: avaliação neurológica e articular dentro da normalidade. Exames laboratoriais como PCR, VHS, TSH, T4 livre, Fator antinúcleo normais. Dentre as alternativas seguintes, o tratamento inicial ideal deve ser feito com:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Alopurinol."
+      },
+      {
+        "letra": "B",
+        "texto": "Corticosteroide."
+      },
+      {
+        "letra": "C",
+        "texto": "Anti-inflamatório não hormonal."
+      },
+      {
+        "letra": "D",
+        "texto": "Antidepressivos tricíclicos."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11492,
+    "tags": [],
+    "enunciado": "Mulher, 40 anos, com quadro de mialgia generalizada, inchaço articular, cansaço, insônia, formigamento e dormência em membros superiores. Exame físico: avaliação neurológica e articular dentro da normalidade. Exames laboratoriais como PCR, VHS, TSH, T4 livre, Fator antinúcleo normais. A hipótese diagnóstica mais provável é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fibromialgia."
+      },
+      {
+        "letra": "B",
+        "texto": "Gota."
+      },
+      {
+        "letra": "C",
+        "texto": "Polimialgia reumática."
+      },
+      {
+        "letra": "D",
+        "texto": "Artrite reumatóide."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11493,
+    "tags": [],
+    "enunciado": "Mulher jovem procura atendimenrto com clínico geral após já ter passado por vários outros especialistas sem que se chegasse a um diagnóstico. Ela descreve fadiga extrema nos últimos dois anos e relata que não importa o quanto ela durma, sempre parece que ela não descansou su(cid:41)cientemente. A história patológica pregressa é positiva para depressão e anorexia na adolescência e um episódio de mononucleose há dois anos (imediatamente antes do início dos sintomas). O exame físico não tem alterações, exceto por frequência cardíaca de repouso de 102 bpm. Qual dos fatores abaixo é excludente do diagnóstico de síndrome de fadiga crônica?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "História de anorexia."
+      },
+      {
+        "letra": "B",
+        "texto": "História de depressão."
+      },
+      {
+        "letra": "C",
+        "texto": "História de mononucleose."
+      },
+      {
+        "letra": "D",
+        "texto": "Frequência cardíaca elevada."
+      },
+      {
+        "letra": "E",
+        "texto": "Nenhuma das acima."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 11494,
+    "tags": [],
+    "enunciado": "Priscilla, 44 anos, vem à consulta com dores no pescoço, na cabeça e na mandíbula há 5 meses, progressivamente mais intensas. Alguns dias, tem di(cid:41)culdade até na abertura da boca. Nega trauma no local. Há 6 meses passou a trabalhar em turnos noturnos alternados e desde então tem tido dificuldade para dormir bem, se sentido mais cansada durante o dia. Não tem melhorado com aplicação de bolsa de água quente nem com os emplastros que usou. As dores só (cid:41)cam intensas no lado direito. Ao exame físico, durante a palpação da área dolorosa com maior tensão muscular na borda súpero-lateral direita do trapézio, a paciente refere intensa dor na cabeça e na mandíbula. Neste caso, é indicado: I) proceder educação da paciente sobre o curso da Fibromialgia; II) receitar analgésico simples em dose plena ; III) proceder orientações de alongamento e fortalecimento muscular; IV) proceder infiltração local com anestésico no trapézio. (GUSSO, Gustavo D. F., LOPES, Jose M. C. Tratado de Medicina de Família e Comunidade – Princípios, Formação e Pratica. Porto Alegre: ARTMED, 2012, Pg: 1643-1650 e 1774-1778)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas I e III estão corretas"
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas II e IV estão corretas"
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas I, II e III estão corretas"
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas II, III e IV estão corretas"
+      },
+      {
+        "letra": "E",
+        "texto": "Todas estão corretas"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11495,
+    "tags": [],
+    "enunciado": "Pacientes com dor neuropática se bene(cid:41)ciam do tratamento com inibidores da receptação de serotonina e noradrenalina como os antidepressivos tricíclicos. Os opióides não apresentam uma e(cid:41)cácia satisfatória no controle da dor neuropática, exceto dois deles que são considerados “opióides atípicos” por apresentarem efeitos tanto nos receptores NMDA (Metadona) ou por apresentar efeito na inibição da receptação de serotonina e noradrenalina exercendo efeito analgésico sinérgico no controle da dor neuropática. Dos opióides abaixo qual deles exerce efeito sinérgico na dor neuropática por inibição da receptação de noradrenalina e serotonina?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Morfina."
+      },
+      {
+        "letra": "B",
+        "texto": "Oxicodona."
+      },
+      {
+        "letra": "C",
+        "texto": "Tramadol."
+      },
+      {
+        "letra": "D",
+        "texto": "Pregabalina."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11496,
+    "tags": [],
+    "enunciado": "A Unidade de Saúde recebeu o pedido de visita domiciliar para Dona Marília, que teve alta hospitalar há 1 semana. Segundo sua irmã, nada mais havia a ser feito no hospital. Resumo de alta: Marília, 43 anos, professora. Diagnóstico de carcinoma de colo uterino com metástases cerebrais há 8 meses. Foram realizados ciclos de quimioterapia, sem resposta terapêutica. O quadro clínico atual é considerado avançado e progressivo, sem perspectiva de tratamento curativo. Em visita, a equipe veri(cid:41)ca que a irmã está muito preocupada em como lidar bem com essa situação. Queixa-se de que Marília tem muitas náuseas, está constipada e reclama frequentemente de dor (Escala Visual Analógica - EVA 5). Com relação ao caso, assinale a alternativa CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O uso de medicações adjuvantes no tratamento de dor, como amitriptilina e carbamazepina, não influenciará na qualidade de vida de Marília."
+      },
+      {
+        "letra": "B",
+        "texto": "Náuseas e vômitos não são comuns em casos como o de Marília. A Ondansetrona por via subcutânea está indicada como primeira linha de tratamento."
+      },
+      {
+        "letra": "C",
+        "texto": "No tratamento da constipação, deve-se orientar medidas não farmacológicas, como aumento do consumo de fibras e líquidos, evitando-se a prescrição de qualquer laxante."
+      },
+      {
+        "letra": "D",
+        "texto": "Os cuidados da equipe de saúde cessarão no momento do óbito de Marília, que é o sujeito das ações de saúde."
+      },
+      {
+        "letra": "E",
+        "texto": "No tratamento da dor de Marília, está bem indicado o uso do tramadol 50 a 100mg até de 4h/4h, com dose diária máxima recomendada de até 400mg."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 11497,
+    "tags": [],
+    "enunciado": "Paciente do sexo feminino, 66 anos, hipertensa em tratamento regular com losartana, sem outras comorbidades. Informa que há 3 semanas iniciou quadro de lombalgia, após esforço, sem irradiação para membros inferiores. Informa ainda que as dores estão se agravando, principalmente à noite, e que \"subiram\" até os ombros. Informa perda funcional dos ombros e quadril e, há 1 semana, tem apresentado rigidez matinal do quadril com duração de 1 hora. Não apresenta qualquer outro sintoma sistêmico. Solicitados exames laboratoriais e de imagem com os seguintes resultados: Tomogra(cid:41)a computadorizada de coluna lombar - discopatia degenerativa sem compressão radicular; Tomogra(cid:41)a computadorizada dos ombros - osteoartrose; Laboratorais - anemia (HB: 10,1) normocítica normocrômica, VHS aumentado (106 mm/h), PCR aumentada, FAN negativo, fator reumatoide negativo, sorologias virais negativas. Qual o diagnóstico mais provável para essa paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Doença neoplásica."
+      },
+      {
+        "letra": "B",
+        "texto": "Arterite de células gigantes."
+      },
+      {
+        "letra": "C",
+        "texto": "Artrite reumatoide."
+      },
+      {
+        "letra": "D",
+        "texto": "Polimialgia reumática."
+      },
+      {
+        "letra": "E",
+        "texto": "Fibromialgia."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11498,
+    "tags": [],
+    "enunciado": "São efeitos adversos dos Opioides, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Arritmias."
+      },
+      {
+        "letra": "B",
+        "texto": "Diarréia."
+      },
+      {
+        "letra": "C",
+        "texto": "Rigidez Torácica."
+      },
+      {
+        "letra": "D",
+        "texto": "Náuseas."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11499,
+    "tags": [],
+    "enunciado": "Mulher, 63 anos de idade, refere há 2 anos dores que iniciaram em ombros, progrediram para coluna lombar, coxas, antebraços, mãos, coluna cervical e pés. As dores melhoram com repouso e pioram com movimentação. Relata sono de má qualidade e acorda cansada. Teve diagnóstico de depressão há 5 anos, porém não trata. No exame físico, há dor na mobilização e palpação de diversas articulações e regiões musculares. Considerando o diagnóstico mais provável, qual a conduta mais adequada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fisioterapia motora, colchicina e alopurinol."
+      },
+      {
+        "letra": "B",
+        "texto": "Exercícios físicos e antidepressivos."
+      },
+      {
+        "letra": "C",
+        "texto": "Repouso e antidepressivos."
+      },
+      {
+        "letra": "D",
+        "texto": "Exercícios físicos e glucosamina"
+      },
+      {
+        "letra": "E",
+        "texto": "Repouso, prednisona e metotrexato."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11500,
+    "tags": [],
+    "enunciado": "M.A, 50 anos, foi encaminhado à clínica de dor para avaliação de dor abdominal e com diagnóstico de adenocarcinoma de pâncreas. A dor está localizada na região epigástrica e mais intensa à noite. o paciente está usando sulfato de mor(cid:41)na de liberação rápida de 6/6 horas. Queixa-se de controle inadequado da dor, de náusea, vômito e constipação. Sobre o caso acima, responda ao item. Em que consiste a conduta em \"escada\", de acordo com a Organização Mundial de Saúde (OMS) para o controle da dor oncológica? Essa questão possui comentário do professor no site 4000127997",
+    "alternativas": [],
+    "resposta_correta": null
+  },
+  {
+    "id": 11501,
+    "tags": [],
+    "enunciado": "M.A, 50 anos, foi encaminhado à clínica de dor para avaliação de dor abdominal e com diagnóstico de adenocarcinoma de pâncreas. A dor está localizada na região epigástrica e é mais intensa à noite. O paciente está usando sulfato de mor(cid:41)na de liberação rápida de 6/6 horas. Queixa-se de controle inadequado da dor, de náusea, vômito e constipação. Sobre o caso acima, responda ao item: cite duas causas de dor em pacientes com câncer. Essa questão possui comentário do professor no site 4000127996",
+    "alternativas": [],
+    "resposta_correta": null
+  },
+  {
+    "id": 11502,
+    "tags": [],
+    "enunciado": "Mulher de 87 anos, com escolaridade de 7 anos, obtém, ao mini exame do estado mental, 14 pontos. É diabética, hipertensa e dislipidêmica de longa data. Apresenta, no retorno médico, humor deprimido devido à piora da dor do tipo (cid:41)sgada com irradiação para MID (intensidade 6/10). Qual seria a melhor escolha terapêutica dentre as drogas a seguir ?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Metadona e amitriptilina."
+      },
+      {
+        "letra": "B",
+        "texto": "Fentanil transdérmico e carbamazepina."
+      },
+      {
+        "letra": "C",
+        "texto": "Codeína e prednisona."
+      },
+      {
+        "letra": "D",
+        "texto": "Tramadol e pregabalina."
+      },
+      {
+        "letra": "E",
+        "texto": "Morfina e gabapentina."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11503,
+    "tags": [],
+    "enunciado": "Em relação aos novos critérios diagnósticos de fibromialgia propostos em 2010, podemos afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os tender points não devem ser mais valorizados nem para diagnóstico e nem como parte do exame físico."
+      },
+      {
+        "letra": "B",
+        "texto": "Sob a ótica dos novos critérios, basta que o paciente obtenha 7 ou mais pontos no índice de dor difusa para que seja configurado o diagnóstico de fibromialgia."
+      },
+      {
+        "letra": "C",
+        "texto": "O critério de duração de tempo dos sintomas não deve mais ser levado em conta para o diagnóstico."
+      },
+      {
+        "letra": "D",
+        "texto": "Antes de quantificar o índice de dor generalizada e a escala de gravidade, outras condições que predispõem a dor difusa devem ser descartadas antes de se dar o diagnóstico de fibromialgia."
+      },
+      {
+        "letra": "E",
+        "texto": "Na escala de gravidade dos sintomas, fadiga não entra como um item a ser pontuado."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11504,
+    "tags": [],
+    "enunciado": "Paciente do sexo feminino, 44 anos, portadora de neoplasia de mama com metástases pulmonares, apresenta queixas de dor em região torácica do tipo (cid:41)sgada, mal localizada, de forte intensidade (intensidade 9 em escala de dor de 0 a 10) e acompanhada por náuseas e vômitos. Qual a melhor proposta de controle de dor aguda para essa paciente, de acordo com as recomendações da Organização Mundial de Saúde?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Opioides fortes, como a morfina, são drogas iniciais de escolha."
+      },
+      {
+        "letra": "B",
+        "texto": "Paracetamol ou dipirona deve ser a opção inicial."
+      },
+      {
+        "letra": "C",
+        "texto": "A via preferencial de escolha é a oral por ser a mais fisiológica."
+      },
+      {
+        "letra": "D",
+        "texto": "Morfina é contraindicada, porque pode acentuar náuseas e vômitos."
+      },
+      {
+        "letra": "E",
+        "texto": "Meperidina é droga de escolha por não apresentar efeito emético."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11505,
+    "tags": [],
+    "enunciado": "Quando administramos mor(cid:41)na (opiáceo) para minimizar a dor (analgesia) em um paciente, teremos uma ação deste fármaco mais significativa, sobre o receptor:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Kappa."
+      },
+      {
+        "letra": "B",
+        "texto": "Delta."
+      },
+      {
+        "letra": "C",
+        "texto": "Ômega."
+      },
+      {
+        "letra": "D",
+        "texto": "Mu."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11506,
+    "tags": [],
+    "enunciado": "Das classes de drogas, aquela que se indica no tratamento da Fibromialgia é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "corticosteroides"
+      },
+      {
+        "letra": "B",
+        "texto": "benzodiazepínicos"
+      },
+      {
+        "letra": "C",
+        "texto": "antidepressivos tricíclicos"
+      },
+      {
+        "letra": "D",
+        "texto": "antiinflamatórios não esteroides"
+      },
+      {
+        "letra": "E",
+        "texto": "ácido acetilsalicílico"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11507,
+    "tags": [],
+    "enunciado": "Dor é uma experiência sensorial e emocional desagradável associada a uma lesão tissular potencial ou real, ou ainda, a nenhuma lesão. Associe as colunas e escolha a alternativa com a sequência CORRETA: (Conforme a imagem do caderno de questões). (PORTO CC e PORTO AL. Sinais e sintomas. Em; _______________ Exame Clínico Porto & Porto. Editora Guanabara Koogan, 2012.)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "II, I, IV, III."
+      },
+      {
+        "letra": "B",
+        "texto": "I, IV, III, II."
+      },
+      {
+        "letra": "C",
+        "texto": "IV, III, II, I."
+      },
+      {
+        "letra": "D",
+        "texto": "II, III, IV, I."
+      },
+      {
+        "letra": "E",
+        "texto": "III, II, I, IV."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 11508,
+    "tags": [],
+    "enunciado": "No tratamento da dor, associe as colunas e escolha a alternativa com a sequência CORRETA: (Conforme imagem do caderno de questões) (ADELMAN AM. DALY MP. 20 problemas comuns - Geriatria. Editora Revinter. Capítulo 2. 2004.)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I-II-III."
+      },
+      {
+        "letra": "B",
+        "texto": "II-I-II."
+      },
+      {
+        "letra": "C",
+        "texto": "III-III-I."
+      },
+      {
+        "letra": "D",
+        "texto": "III-II-I."
+      },
+      {
+        "letra": "E",
+        "texto": "II-I-I."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11509,
+    "tags": [],
+    "enunciado": "A abordagem da dor crônica é um desa(cid:41)o cotidiano na Atenção Primária a Saúde, sendo fundamental entender seus componentes nociceptivo e neuropático. Considerando a abordagem mais moderna da neurociência, analise as afirmativas abaixo e assinale a letra contém somente as CORRETAS: I - A pessoa com dor crônica pode não apresentar uma lesão tecidual; II - A busca de lesão em exames de imagem é muitas vezes infrutífera; III - A pessoa deve se manter tão (cid:41)sicamente ativa quanto possível e progressivamente aumentar seu grau de atividade",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente II"
+      },
+      {
+        "letra": "B",
+        "texto": "Somente III"
+      },
+      {
+        "letra": "C",
+        "texto": "I e II"
+      },
+      {
+        "letra": "D",
+        "texto": "I e III"
+      },
+      {
+        "letra": "E",
+        "texto": "I, II e III"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 11510,
+    "tags": [],
+    "enunciado": "Em relação à fibromialgia assinale o conceito que estaria incorreto:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Existe depressão associada em até 80% dos casos."
+      },
+      {
+        "letra": "B",
+        "texto": "São entidades associadas enxaqueca, dor têmporo-mandibular e cistite intersticial."
+      },
+      {
+        "letra": "C",
+        "texto": "Entram no diagnóstico diferencial síndrome de Sjögren, hepatite C , hipotireoidismo e HIV."
+      },
+      {
+        "letra": "D",
+        "texto": "Têm demonstrado efetividade terapêutica analgésicos, anti-inflamatórios não hormonais, amitriptilina, duloxetina e gabapentina."
+      },
+      {
+        "letra": "E",
+        "texto": "Cerca de 20% dos pacientes com doenças reumáticas inflamatórias e degenerativas têm fibromialgia associada uma vez que situações dolorosas atuam gerando estímulos que alteram os processos centrais de processamento de dor."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11511,
+    "tags": [],
+    "enunciado": "A (cid:41)bromialgia é uma síndrome dolorosa não-in(cid:62)amatória, frequente e de (cid:41)siopatologia ainda pouco esclarecida. Analise as assertivas abaixo e escolha a que define as afirmações CORRETAS. I - Trata-se de síndrome dolorosa caracterizada por alodínia (redução do limiar de dor) e hiperalgesia (sensação álgica com estímulo normalmente inócuo).; II - São frequentes a presença de parestesia, cãibras, rigidez articular e edema subjetivo (sensação de edema) nos membros e nas articulações, além do quadro álgico; III - quando da avaliação dos tender points, a dor não obrigatoriamente apresenta simetria, podendo acometer apenas um dimidio, e/ou apresentar diferenças em sua intensidade.; IV - A presença de alterações no exame osteoarticular exclui o diagnóstico de fibromialgia.; V - Seu diagnóstico é de exclusão, sendo con(cid:41)rmado apenas depois de exames laboratoriais e radiológicos normais.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II, III"
+      },
+      {
+        "letra": "B",
+        "texto": "II, III e IV"
+      },
+      {
+        "letra": "C",
+        "texto": "I, III, IV"
+      },
+      {
+        "letra": "D",
+        "texto": "II, III"
+      },
+      {
+        "letra": "E",
+        "texto": "I, IV"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11512,
+    "tags": [],
+    "enunciado": "Paciente sexo feminino, 29 anos procura UPA em decorrência de úlceras em mucosa oral com recorrência frequente. A anamnese identi(cid:41)cou quadro de dor articular múltipla compatível com poliartrite e áreas de inflamação cutânea. Internado na UTI devido a meningite asséptica. Qual diagnóstico provável?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Doença de Behçet."
+      },
+      {
+        "letra": "B",
+        "texto": "Lupus eritematoso sistêmico."
+      },
+      {
+        "letra": "C",
+        "texto": "Artrite reumatoide."
+      },
+      {
+        "letra": "D",
+        "texto": "Fibromialgia."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11513,
+    "tags": [],
+    "enunciado": "São medicamentos eficazes no tratamento da dor neuropatia pós-herpética, exceto:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pre-gabalina."
+      },
+      {
+        "letra": "B",
+        "texto": "Amitriptilina."
+      },
+      {
+        "letra": "C",
+        "texto": "Gabapentina."
+      },
+      {
+        "letra": "D",
+        "texto": "Imipramina."
+      },
+      {
+        "letra": "E",
+        "texto": "Sertralina."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 11514,
+    "tags": [],
+    "enunciado": "\"A área de atuação da Medicina de Família e Comunidade (MFC) abrange a assistência à saúde durante todo o ciclo da vida, desde o período antes do nascimento (preconcepção) até o post mortem (enlutados). Experiências bem consolidadas de Atenção Primária (AP) em países como Reino Unido e Canadá também pontuam a prática dos cuidados no (cid:41)nal de vida dentro da linha dos cuidados longitudinais\". Entre os pacientes sob cuidados paliativos, uma das queixas mais frequentes é a dor. Sobre as recomendações do uso de analgésicos da Organização Mundial da Saúde (OMS), marque a CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Para garantir um alívio adequado da dor, os medicamentos analgésicos devem ser administrados somente conforme a necessidade e não em intervalos regulares."
+      },
+      {
+        "letra": "B",
+        "texto": "Escolher os medicamentos analgésicos conforme a intensidade da dor, essa abordagem é conhecida como \"escada analgésica da dor\"."
+      },
+      {
+        "letra": "C",
+        "texto": "Deve-se privilegiar a forma injetável dos analgésicos, principalmente a via intramuscular por ter efeito mais rápido."
+      },
+      {
+        "letra": "D",
+        "texto": "A dose dos medicamentos precisa ser padronizada, não sendo necessário levar em conta como a pessoa sente a dor."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11515,
+    "tags": [],
+    "enunciado": "M. A. C., sexo feminino, 32 anos, do lar, refere que há um ano vem apresentando dores constantes nos braços, pernas, quadris, e região dorsal, que a impedem de realizar suas atividades diárias, precisando (cid:41)car a maior parte do tempo deitada. Refere que as dores vão desde o \"(cid:41)o de cabelo até as pontas dos pés\". Por conta disso, está dormindo mal, sente-se muito desanimada, apática e sem paciência com as pessoas e para cumprir suas obrigações. Ao exame físico, não apresenta alterações neurológicas, apenas dor à palpação nos locais que já informara durante a anamnese. Traz exames de ressonância da coluna cervical e lombar; screening metabólico, infeccioso e reumatológico e tomogra(cid:41)as de tórax e abdmômen, todos nornais. Refere que já passou por vários médicos, que a orientaram a conviver com a dor. A partir das informações dadas, responda o item a seguir. Cite 2 fármacos (princípio ativo) para o tratamento dessa patologia. Essa questão possui comentário do professor no site 4000127622",
+    "alternativas": [],
+    "resposta_correta": null
+  },
+  {
+    "id": 11516,
+    "tags": [],
+    "enunciado": "M. A. C., sexo feminino, 32 anos, do lar, refere que há um ano vem apresentando dores constantes nos braços, pernas, quadris, e região dorsal, que a impedem de realizar suas atividades diárias, precisando (cid:41)car a maior parte do tempo deitada. Refere que as dores vão desde o \"(cid:41)o de cabelo até as pontas dos pés\". Por conta disso, está dormindo mal, sente-se muito desanimada, apática e sem paciência com as pessoas e para cumprir suas obrigações. Ao exame físico, não apresenta alterações neurológicas, apenas dor à palpação nos locais que já informara durante a anamnese. Traz exames de ressonância da coluna cervical e lombar; screening metabólico, infeccioso e reumatológico e tomogra(cid:41)as de tórax e abdmômen, todos nornais. Refere que já passou por vários médicos, que a orientaram a conviver com a dor. A partir das informações dadas, responda o item a seguir. Cite 2 diagnósticos diferenciais. Essa questão possui comentário do professor no site 4000127621",
+    "alternativas": [],
+    "resposta_correta": null
+  },
+  {
+    "id": 11517,
+    "tags": [],
+    "enunciado": "M. A. C., sexo feminino, 32 anos, do lar, refere que há um ano vem apresentando dores constantes nos braços, pernas, quadris, e região dorsal, que a impedem de realizar suas atividades diárias, precisando (cid:41)car a maior parte do tempo deitada. Refere que as dores vão desde o \"(cid:41)o de cabelo até as pontas dos pés\". Por conta disso, está dormindo mal, sente-se muito desanimada, apática e sem paciência com as pessoas e para cumprir suas obrigações. Ao exame físico, não apresenta alterações neurológicas, apenas dor à palpação nos locais que já informara durante a anamnese. Traz exames de ressonância da coluna cervical e lombar; screening metabólico, infeccioso e reumatológico e tomogra(cid:41)as de tórax e abdome, todos normais. Refere que já passou por vários médicos, que a orientaram a conviver com a dor. A partir das informações dadas, responda o item a seguir. Qual é o diagnóstico dessa paciente? Essa questão possui comentário do professor no site 4000127620",
+    "alternativas": [],
+    "resposta_correta": null
+  },
+  {
+    "id": 11518,
+    "tags": [],
+    "enunciado": "A (cid:41)bromialgia foi recentemente descrita na infância. Predomina no sexo feminino (3:1) e adolescência e associa-se a episódio prévio de outra dor recorrente funcional. Também é relatada alta prevalência em familiares de pacientes com fibromialgia, sugerindo etiologia genética e ambiental. São critérios diagnósticos para fibromialgia pela American College of Rheumatology (1991), EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Dor nos dimídios direito e esquerdo."
+      },
+      {
+        "letra": "B",
+        "texto": "Dor axial (coluna vertebral e arcos costais)."
+      },
+      {
+        "letra": "C",
+        "texto": "Presença de dor difusa por mais de seis meses."
+      },
+      {
+        "letra": "D",
+        "texto": "Dor em 11 ou mais dos 18 pontos-gatilho padronizados."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11519,
+    "tags": [],
+    "enunciado": "A (cid:41)bromialgia é de(cid:41)nida como uma síndrome multissintomática. Indique dentre as alternativas apresentadas, o achado não encontrado no corolário desta síndrome.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fadiga matinal."
+      },
+      {
+        "letra": "B",
+        "texto": "Transtorno do sono."
+      },
+      {
+        "letra": "C",
+        "texto": "Bem mais prevalente no sexo feminino."
+      },
+      {
+        "letra": "D",
+        "texto": "Inflamação cutânea ao redor dos clássicos \"trigger points\""
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11520,
+    "tags": [],
+    "enunciado": "Paciente de 40 anos com história de \"dor pelo corpo”, fadiga, insônia que iniciaram há cerca de 6 meses. Fez extensa investigação laboratorial que resultou normal. Ao exame físico apresentava 10 pontos dolorosos (“tender points”): I. O diagnóstico é de fibromialgia; II. Há uma associação documentada desta com síndrome do cólon irritável; III. Os benzodiazepínicos são as drogas mais úteis no tratamento desta condição.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Todas são verdadeiras."
+      },
+      {
+        "letra": "B",
+        "texto": "I e II são verdadeiras."
+      },
+      {
+        "letra": "C",
+        "texto": "I e III são verdadeiras."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas I é verdadeira."
+      },
+      {
+        "letra": "E",
+        "texto": "Apenas III é correta."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11521,
+    "tags": [],
+    "enunciado": "Sobre dor é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "dor somática é bem localizada, constante ou intermitente, em pontada."
+      },
+      {
+        "letra": "B",
+        "texto": "dor de distensão capsular é considerada nociceptiva."
+      },
+      {
+        "letra": "C",
+        "texto": "dor de metástases ósseas ou infiltração muscular é considerada visceral (bem localizada apontada com dedo)."
+      },
+      {
+        "letra": "D",
+        "texto": "dose de resgate de analgesia é cerca de 50% da dose total diária."
+      },
+      {
+        "letra": "E",
+        "texto": "dor aguda é aquela que excede seis meses, sendo constante e intermitente."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11522,
+    "tags": [],
+    "enunciado": "Sobre os princípios de tratamento da dor aguda, assinale a afirmativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A dor aguda está relacionada à instalação de um processo patológico, seja ele de origem traumática ou inflamatória."
+      },
+      {
+        "letra": "B",
+        "texto": "A dor aguda produz liberação de neuro-hormônios adrenérgicos em resposta à agressão."
+      },
+      {
+        "letra": "C",
+        "texto": "A resposta endocrinometabólica ao stress não é benéfica na tentativa de recuperação do paciente."
+      },
+      {
+        "letra": "D",
+        "texto": "A dor desencadeia diminuição da motilidade da uretra e da bexiga, com consequente dificuldade para urinar."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11523,
+    "tags": [],
+    "enunciado": "São recomendações gerais no tratamento farmacológico da dor, exceto:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Prescrever dose de resgate, quando em uso de opioide forte."
+      },
+      {
+        "letra": "B",
+        "texto": "Usar medicação de horário."
+      },
+      {
+        "letra": "C",
+        "texto": "Não associar opioides de classes diferentes."
+      },
+      {
+        "letra": "D",
+        "texto": "Titular a dose de maneira individual no idoso"
+      },
+      {
+        "letra": "E",
+        "texto": "Preferir a via subcutânea sempre que possível."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 11524,
+    "tags": [],
+    "enunciado": "Assinale a alternativa que apresenta a melhor definição de dor.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fenômeno objetivo e facilmente mensurável pelos instrumentais teóricos disponíveis."
+      },
+      {
+        "letra": "B",
+        "texto": "Sensação subjetiva descrita em termos de lesões teciduais reais ou potenciais."
+      },
+      {
+        "letra": "C",
+        "texto": "Fenômeno sensitivo complexo sempre associado à nocicepção."
+      },
+      {
+        "letra": "D",
+        "texto": "Estímulo sensitivo desagradável decorrente de dano tecidual."
+      },
+      {
+        "letra": "E",
+        "texto": "Um complexo de percepções e sensações percebidas como nocivas ao organismo"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11525,
+    "tags": [],
+    "enunciado": "Sobre o tratamento não medicamentoso da fibromialgia, marque a CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Deve-se estimular a prática de atividade física intensa e vigorosa já na primeira semana de tratamento."
+      },
+      {
+        "letra": "B",
+        "texto": "Acupuntura isolada comprovadamente melhora prognóstico da fibromialgia."
+      },
+      {
+        "letra": "C",
+        "texto": "Estudos provam que pessoas acima do peso respondem melhor ao tratamento não medicamentoso da fibromialgia."
+      },
+      {
+        "letra": "D",
+        "texto": "Não existe nenhuma evidência que suporte o tratamento não medicamentoso na fibromialgia."
+      },
+      {
+        "letra": "E",
+        "texto": "Nas primeiras semanas de tratamento, o exercício na fibromialgia deve ser leve, com aumento gradual, e de preferência iniciar com atividades aeróbicas."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 11526,
+    "tags": [],
+    "enunciado": "As síndromes dolorosas crônicas constituem grande desafio terapêutico. No seu manejo empregamos drogas consideradas adjuvantes no tratamento da dor, sendo correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os antidepressivos tricíclicos, e entre eles a amitriptilina, em que a dose analgésica preconizada é três vezes a dose antidepressiva, demora em média 6 semanas para que surta efeito, sendo contra- indicado seu uso em cardiopatias graves e glaucoma de ângulo agudo"
+      },
+      {
+        "letra": "B",
+        "texto": "Os anticonvulsivantes agem bem na dor neuropática e sua ação se deve ao efeito agonista puro como a da morfina, e entre os seus efeitos colaterais temos retenção hídrica e psicose"
+      },
+      {
+        "letra": "C",
+        "texto": "Os neurolépticos atuam por bloqueio da noradrenalina e serotonina, com ação analgésica duvidosa, sendo indicados quando temos alucinações associados ao quadro doloroso"
+      },
+      {
+        "letra": "D",
+        "texto": "Os corticosteroides atuam por bloqueio na formação do ácido araquidônico e têm boa indicação nas dores por compressão medular, metástases ósseas e distensão de cápsula"
+      },
+      {
+        "letra": "E",
+        "texto": "Os bifosfonados ativam a ação de osteoclastos, melhorando a dor de metástases e mieloma múltiplo"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11527,
+    "tags": [],
+    "enunciado": "Paciente com 67 anos, sexo feminino, procura assistência médica devido a dor e rigidez na musculatura da cintura escapular e pélvica de início há 30 dias, após o falecimento do marido. Nega sintomas relacionados ao aparelho cardíaco, pulmonar, urinário e gastrointestinal. Exames laboratoriais com discreta anemia normocítica normocrômica, VHS 98 mm, proteína C reativa ultrassensível 45,1 mg/L. Qual o provável diagnóstico dessa paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Polimialgia reumática."
+      },
+      {
+        "letra": "B",
+        "texto": "Fibromialgia."
+      },
+      {
+        "letra": "C",
+        "texto": "Dermatopolimiosite."
+      },
+      {
+        "letra": "D",
+        "texto": "Transtorno de ansiedade."
+      },
+      {
+        "letra": "E",
+        "texto": "Tuberculose."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11528,
+    "tags": [],
+    "enunciado": "A característica da dor em fibromialgia é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aguda e localizada."
+      },
+      {
+        "letra": "B",
+        "texto": "Aguda e difusa."
+      },
+      {
+        "letra": "C",
+        "texto": "Crônica e localizada."
+      },
+      {
+        "letra": "D",
+        "texto": "Crônica e difusa."
+      },
+      {
+        "letra": "E",
+        "texto": "Nenhuma das anteriores."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11529,
+    "tags": [],
+    "enunciado": "Marque a primeira opção no tratamento da fibromialgia:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Exercícios físicos."
+      },
+      {
+        "letra": "B",
+        "texto": "Amitriptilina."
+      },
+      {
+        "letra": "C",
+        "texto": "Indometacina."
+      },
+      {
+        "letra": "D",
+        "texto": "Fluoxetina."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11530,
+    "tags": [],
+    "enunciado": "Mulher de 40 anos com história de dores musculares e fadiga. Tem piora pela manhã com dor em todas as articulações, cansaço e corpo endurecido-SIC. Tem di(cid:41)culdade para dormir. Ao exame físico, tem dor à palpação de vários grupamentos musculares tais como trapézios, deltoides e lombares. Não há sinais de artrite, força muscular normal e reflexos simétricos e normais. Assinale a correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Trata-se possivelmente de quadro de polimialgia reumática."
+      },
+      {
+        "letra": "B",
+        "texto": "Quadro sugere artrite reumatoide."
+      },
+      {
+        "letra": "C",
+        "texto": "Possivelmente terá provas de atividade inflamatória elevadas, assim como elevação de enzimas musculares."
+      },
+      {
+        "letra": "D",
+        "texto": "Quadro sugere fibromialgia pela fadiga, sono não repousante, dor difusa e dor à palpação dos “tender points”."
+      },
+      {
+        "letra": "E",
+        "texto": "O quadro mais provável é Lúpus Eritematoso Sistêmico."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11531,
+    "tags": [],
+    "enunciado": "Paciente, 19 anos, com quadro de poliartralgia e polimialgia há 2 anos, refere sono não restaurador associado ao quadro clínico. Nega sinais de artrite. Nega febre. Ao exame físico, não apresenta sinais de artrite e o exame físico sistêmico está inalterado. Com base nessas informações, escolha a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O diagnóstico é fibromialgia, não é necessário realização de exames complementares e deve-se iniciar o tratamento com antidepressivos, sendo a sertralina a primeira escolha."
+      },
+      {
+        "letra": "B",
+        "texto": "A principal hipótese diagnóstica é fibromialgia e deve-se solicitar hemograma, T SH, provas de atividade inflamatória para avaliação inicial do caso e exclusão de diagnósticos diferenciais."
+      },
+      {
+        "letra": "C",
+        "texto": "O exame de FAN é fundamental para análise diagnóstica e sua positividade confirma o diagnóstico de LES."
+      },
+      {
+        "letra": "D",
+        "texto": "O encontro de resultado de TSH alterado não tem relação causal com o quadro clínico."
+      },
+      {
+        "letra": "E",
+        "texto": "Deve-se solicitar avaliação da ortopedia, visto a queixa de dor articular."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11532,
+    "tags": [],
+    "enunciado": "Julgue o item seguinte, relativo às doenças de acometimento comum na população. Distúrbios do sono estão intrinsicamente ligados à ocorrência da fibromialgia.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Certo."
+      },
+      {
+        "letra": "B",
+        "texto": "Errado."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11533,
+    "tags": [],
+    "enunciado": "Mulher, 40 anos, com quadro de mialgia generalizada, inchaço articular, cansaço, insônia, formigamento e dormência em MMSS. Ao exame físico: avaliação neurológica e articular dentro da normalidade. Exames laboratoriais como PCR, VHS, TSH, T4 livre e fator antinúcleo normais. Qual o diagnóstico mais provável?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fibromialgia."
+      },
+      {
+        "letra": "B",
+        "texto": "Gota."
+      },
+      {
+        "letra": "C",
+        "texto": "Polimialgia reumática."
+      },
+      {
+        "letra": "D",
+        "texto": "Polimiosite."
+      },
+      {
+        "letra": "E",
+        "texto": "Artrite reumatoide."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11534,
+    "tags": [],
+    "enunciado": "Mulher, 40 anos, com quadro de mialgia generalizada, inchaço articular, cansaço, insônia, formigamento e dormência em MMSS. Ao exame físico: avaliação neurológica e articular dentro da normalidade. Exames laboratoriais como PCR, VHS, TSH, T4 livre e Fator anti-núcleo normais. Com base no caso, qual a alternativa que melhor representa o tratamento inicial ideal?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Metotrexato."
+      },
+      {
+        "letra": "B",
+        "texto": "Alopurinol."
+      },
+      {
+        "letra": "C",
+        "texto": "Antidepressivos tricíclicos."
+      },
+      {
+        "letra": "D",
+        "texto": "Corticosteroide."
+      },
+      {
+        "letra": "E",
+        "texto": "Anti-inflamatório não hormonal."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11535,
+    "tags": [],
+    "enunciado": "Doença caracterizada por dores musculoesqueléticas crônicas difusas, mal de(cid:41)nidas, geralmente acompanhada de sono não reparador e fadiga matinal, muito prevalente no sexo feminino, considerada como diagnóstico de exclusão, e que costuma responder à terapêutica a base de alguns antidepressivos e exercícios aeróbicos. Qual das alternativas é a correspondente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Polimiosite."
+      },
+      {
+        "letra": "B",
+        "texto": "Fibromialgia."
+      },
+      {
+        "letra": "C",
+        "texto": "Polimialgia reumática."
+      },
+      {
+        "letra": "D",
+        "texto": "Insônia terciária."
+      },
+      {
+        "letra": "E",
+        "texto": "Piomiosite tropical."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11536,
+    "tags": [],
+    "enunciado": "Uma mulher de 64 anos com dor lombar e na região interescapular, persistente com uso de anti-in(cid:62)amatórios não hormonais, tem VHS = 70 mm/1ª hora e autoanticorpos negativos. Após o início de prednisona em dose baixa tem melhora significativa dos sintomas. O diagnóstico mais provável é de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Polimiosite."
+      },
+      {
+        "letra": "B",
+        "texto": "Espondiloartropatia soronegativa."
+      },
+      {
+        "letra": "C",
+        "texto": "Polimialgia reumática."
+      },
+      {
+        "letra": "D",
+        "texto": "Fibromialgia."
+      },
+      {
+        "letra": "E",
+        "texto": "Osteoartrite."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11537,
+    "tags": [],
+    "enunciado": "ID: Homem, 78 anos de idade, com carcinoma de células claras em rim direito, com metástases pulmonares, sem possibilidade de nova quimioterapia. HMA: procurou ambulatório especializado com dor de intensidade 3 em 10 pela Escala Visual Analógica da Dor, contínua, há uma semana, em local da tumoração. Nega alteração da micção ou da evacuação. EF: BEG, eupneico, hidratado, hipocorado +/4+, com massa palpável em (cid:62)anco direito, ruídos hidroaéreos normoativos, sem dor à descompressão brusca. Não utiliza qualquer medicação no momento. A primeira conduta para o controle da dor neste caso é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Dipirona."
+      },
+      {
+        "letra": "B",
+        "texto": "Tramadol."
+      },
+      {
+        "letra": "C",
+        "texto": "Morfina."
+      },
+      {
+        "letra": "D",
+        "texto": "Amitriptilina."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11538,
+    "tags": [],
+    "enunciado": "Mulher, 31 anos, queixa-se de dor em região cervical, lombar, esternal, cotovelos e joelhos há três meses; em paralelo, refere fadiga, sono não restaurador, rigidez matinal fugaz e lapsos de memória. As provas de atividade in(cid:62)amatórias e os exames de função tireoidiana estão normais. A conduta inicial mais adequada é indicar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Paracetamol em doses regulares e midazolam."
+      },
+      {
+        "letra": "B",
+        "texto": "Meios físicos analgésicos e repouso."
+      },
+      {
+        "letra": "C",
+        "texto": "Ibuprofeno e atividade física."
+      },
+      {
+        "letra": "D",
+        "texto": "Amitriptilina e atividade física."
+      },
+      {
+        "letra": "E",
+        "texto": "Lorazepam e atividade física."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11539,
+    "tags": [],
+    "enunciado": "S.S.M.C., de 55 anos, sexo feminino, empresária, relata quadro clínico de dor difusa, persistente, descrita como queimação ou peso, em diferentes partes do organismo, de forma migratória, a dor vem acompanhada de fadiga diurna, sem evidências de fraqueza muscular. O diagnóstico mais provável é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Poliartrite nodosa."
+      },
+      {
+        "letra": "B",
+        "texto": "Fibromialgia."
+      },
+      {
+        "letra": "C",
+        "texto": "Osteoartrite."
+      },
+      {
+        "letra": "D",
+        "texto": "Doença de Kawasaki."
+      },
+      {
+        "letra": "E",
+        "texto": "Lúpus eritematoso sistêmico."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11540,
+    "tags": [],
+    "enunciado": "Paciente feminina, 35 anos, há 3 anos com poliartrite simétrica em interfalangianas proximais, metacarpofalangianas, punhos, cotovelos e tornozelos com rigidez matinal superior a 1 hora. Alívio com uso de prednisona. Atualmente não está fazendo tratamento. É hipertensa e está em uso de enalapril 20 mg 12/12 horas. Gesta 2, para 2, aborto zero, usa DIU como método contraceptivo. Pai teve infarto fulminante aos 50 anos. Nega etilismo, tabagismo e uso de drogas ilícitas. Ao exame físico PA = 140/90 mmHg, FC = 72 bpm, peso = 60 kg e altura = 160 cm, exame osteoarticular com artrite em 2ª e 3ª interfalangianas proximais à esquerda e 1ª, 2ª e 4ª à direita, 2ª e 3ª metacarpofalangianas bilateral, punhos bilateral e tornozelos bilateral e \"squeeze teste\" positivo em tarso. Resumidamente traz VHS e PCR normais, sorologias para hepatites B e hepatite C negativas, fator reumatoide, anti-CCP e FAN negativos, LDL colesterol = 120 mg/dl, radiogra(cid:41)a de mãos com osteopenia periarticular em interfalangianas proximais, metacarpofalangianas e ossos do carpo, sem erosões e radiogra(cid:41)a de tórax normal. Segundo as recomendações da Sociedade Brasileira de Reumatologia, assinale a alternativa CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A principal hipótese diagnóstica é artrite reumatoide. Apesar de ocorrer alívio com uso de prednisona, este medicamento não deve ser iniciado devido aos efeitos colaterais, tais como hipertensão arterial, diabetes, glaucoma e osteoporose."
+      },
+      {
+        "letra": "B",
+        "texto": "A principal hipótese diagnóstica é artrite reumatoide. Uma vez que a paciente está muito sintomática, o uso de prednisona na dose de 40 mg está indicado, associado ao metotrexato."
+      },
+      {
+        "letra": "C",
+        "texto": "A principal hipótese diagnóstica é a fibromialgia, pois a paciente tem poliartralgia difusa. Entretanto apresenta VHS e PCR normais, além de fator reumatoide, anti-CCP e FAN negativos. Deve ser iniciado fluoxetina na dose de 40 mg/dia."
+      },
+      {
+        "letra": "D",
+        "texto": "A principal hipótese diagnóstica é artrite reumatoide. Neste caso deve ser iniciado metotrexato na dose de 10 a 15 mg uma vez por semana."
+      },
+      {
+        "letra": "E",
+        "texto": "Não é necessário intervir sobre o LDL-colesterol, pois o alívio para esta paciente é um LDL- colesterol \"menor ou igual a\" 130 mg/dl."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11541,
+    "tags": [],
+    "enunciado": "Maria das Dores, 46 anos, vem ao ambulatório queixando-se de dores musculares difusas e fadiga severa. Ela diz que seus sintomas são mais intensos pela manhã, com dores em todas as juntas, muito cansaço, e o corpo endurecido em virtude de ter di(cid:41)culdade de conciliar e não ter um sono reconfortante. Ao exame físico: evidencia a palpação sensibilidade dolorosa na maior parte dos grupamentos musculares, incluindo trapézios, deltoides, quadríceps e lombares. Não foi visto sinal de artrite, a força muscular está normal, mas limitada pela dor. Assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Na fibromialgia não existem anormalidades ao exame físico, assim como nos exames laboratoriais."
+      },
+      {
+        "letra": "B",
+        "texto": "A característica semiológica da dor na fibromialgia é a manifestação mais específica da doença."
+      },
+      {
+        "letra": "C",
+        "texto": "Os achados de distúrbios do sono, fadiga, parestesias, cefaleias, dificuldades cognitivas, humor deprimido e irritabilidade são queixas apresentadas pelos pacientes."
+      },
+      {
+        "letra": "D",
+        "texto": "O principal objetivo do tratamento na fibromialgia é a minimização da dor, restauração da amplitude dos movimentos e o relaxamento muscular."
+      },
+      {
+        "letra": "E",
+        "texto": "As medidas não farmacológicas, como exercícios físicos, alongamentos, atividades aeróbicas e fortalecimento muscular são mais eficazes que os analgésicos, anti- inflamatórios e antidepressivos."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11542,
+    "tags": [],
+    "enunciado": "Paciente do sexo masculino, 70 anos de idade, procura atendimento no ambulatório de clínica médica com queixa de dor e rigidez em cintura escapular bilateralmente, febre não aferida e fadiga há mais ou menos 2 meses. Sem outras queixas clínicas naquele momento. Exames complementares demonstraram VHS = 100 mm, anemia normocítica e normocrômica, trombocitose. PCR = 12. Creatinoquinase (CK) e aldolase foram normais. Sobre o paciente em questão, qual a principal hipótese diagnóstica?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fibromialgia."
+      },
+      {
+        "letra": "B",
+        "texto": "Tendinopatia do manguito rotador."
+      },
+      {
+        "letra": "C",
+        "texto": "Polimiosite."
+      },
+      {
+        "letra": "D",
+        "texto": "Polimialgia reumática."
+      },
+      {
+        "letra": "E",
+        "texto": "Espondilite Anquilosante."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11543,
+    "tags": [],
+    "enunciado": "João, 35 anos de idade, procura um centro de saúde por uma dor lombar, de leve intensidade, há três dias. Não estava usando nenhum analgésico. Seu médico prescreveu paracetamol 500 mg a cada seis horas, se houvesse dor. Em relação à prescrição de analgésicos para dor em adultos, é CORRETO afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A conduta está correta, pois, na escala de analgesia, essa medicação é recomendada como primeira escolha adequada para iniciar a analgesia na maioria das pessoas com dor leve a moderada."
+      },
+      {
+        "letra": "B",
+        "texto": "O ideal é usar o primeiro analgésico prescrito na dose máxima antes de associar com outro analgésico. A dose máxima de paracetamol é 1 g, três vezes ao dia."
+      },
+      {
+        "letra": "C",
+        "texto": "Se não melhorar com a dose máxima de paracetamol, pode-se substituí-lo por ibuprofeno, iniciando na dose máxima."
+      },
+      {
+        "letra": "D",
+        "texto": "Se não houver melhora da dor com paracetamol e ibuprofeno, indicar um opioide potente, como a codeína."
+      },
+      {
+        "letra": "E",
+        "texto": "Nesse caso, deve-se indicar sempre um anti-inflamatório não esteroide como primeira escolha."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11544,
+    "tags": [],
+    "enunciado": "Mulher, 34 anos de idade. HMA: vem à consulta referindo ter recebido diagnóstico de (cid:41)bromialgia há 6 meses e que, desde então, seu tratamento consiste no uso de amitriptilina (25 mg/dia). Refere ter havido melhora completa da qualidade do sono após o início da medicação, mas melhora parcial da mialgia e da artralgia difusas, que persistem principalmente após as atividades do lar, associadas à fadiga. Após sua avaliação, você confirma o diagnóstico de fibromialgia. A melhor conduta para esse caso deve ser:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Iniciar programa gradual de condicionamento físico aeróbico."
+      },
+      {
+        "letra": "B",
+        "texto": "Aumentar a dose da amitriptilina até o máximo de 75 mg/dia."
+      },
+      {
+        "letra": "C",
+        "texto": "Associar tramadol 100 mg/dia, podendo aumentar até 200 mg/dia."
+      },
+      {
+        "letra": "D",
+        "texto": "Iniciar fisioterapia com alongamento e relaxamento muscular."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11545,
+    "tags": [],
+    "enunciado": "Com relação ao tratamento da dor oncológica, qual afirmação a seguir é INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O uso do naloxone está indicado na intoxicação por opioide."
+      },
+      {
+        "letra": "B",
+        "texto": "Os opioides podem ser administrados via oral, peridural, subcutânea, transdérmica e venosa."
+      },
+      {
+        "letra": "C",
+        "texto": "Na dor severa, o uso de dose de resgate está sempre indicado."
+      },
+      {
+        "letra": "D",
+        "texto": "A dependência química aos opioides é comum, principalmente com uso venoso."
+      },
+      {
+        "letra": "E",
+        "texto": "Não há dose máxima para a morfina. Diante do fenômeno de tolerância, sua dose pode ser progressivamente aumentada para manutenção da analgesia eficiente."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11546,
+    "tags": [],
+    "enunciado": "Sobre os Anti-inflamatórios não hormonais (AINH) é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Possuem apenas ação periférica."
+      },
+      {
+        "letra": "B",
+        "texto": "Agem bloqueando a ciclooxigenase que é responsável pela transformação de ácidoaracdônico em prostaglandinas."
+      },
+      {
+        "letra": "C",
+        "texto": "Cox-1 é denominada indutível e cox-2 é constitutiva."
+      },
+      {
+        "letra": "D",
+        "texto": "A grande vantagem do AINH é não possuir dose teto para analgesia."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11547,
+    "tags": [],
+    "enunciado": "Mulher, 75 anos, apresenta há cerca de 8 semanas perda do apetite, prostração e dor em ombros e coluna cervical, principalmente matinal, que a impede de se arrumar. Exame físico: mucosas hipocoradas, sem adenomegalias, palpação dolorosa de ambos os ombros, com incapacidade de abdução ativa e abdução passiva atingindo 180° com muita dor. Apresenta ainda hipersensibilidade à palpação de ambos os punhos e joelhos, porém sem aumento do volume e da temperatura nas articulações referidas. Exames laboratoriais: hematócrito = 33%, hemoglobina = 11 g/L, VCM = 80 e CHCM = 32, leucócitos = 6000/mm³, contagem diferencial normal, VHS = 97 mm na 1ª hora. Bioquímica normal, Sorologias para dengue, HIV, vírus Epstein- Barr, hepatite B e C, toxoplasmose e citomegaloviírus negativas.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "hipótese diagnóstica mais provável é:"
+      },
+      {
+        "letra": "A",
+        "texto": "artrite reumatoide."
+      },
+      {
+        "letra": "B",
+        "texto": "polimialgia reumática."
+      },
+      {
+        "letra": "C",
+        "texto": "polimiosite."
+      },
+      {
+        "letra": "D",
+        "texto": "fibromialgia."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11548,
+    "tags": [],
+    "enunciado": "A (cid:41)bromialgia requer abordagem num modelo holístico da doença. O paciente deve ser orientado de que sua condição não é incapacitante, nem deformante, nem degenerativa, e o tratamento consiste na utilização de medicamentosos até terapias não convencionais para controle dos sintomas. Assinale a abordagem com benefício significativo no tratamento da dor:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Glicocorticoides e analgésicos opioides."
+      },
+      {
+        "letra": "B",
+        "texto": "Inibidores de recaptação de acetilcolina."
+      },
+      {
+        "letra": "C",
+        "texto": "Exercícios aeróbicos e de alongamento."
+      },
+      {
+        "letra": "D",
+        "texto": "Acupuntura com técnicas manipulativas."
+      },
+      {
+        "letra": "E",
+        "texto": "Injeção dos tender points com lidocaína."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11549,
+    "tags": [],
+    "enunciado": "Sobre os distúrbios do sistema imune, tecido conjuntivo e das articulações, é CORRETO afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Na artrite psoriática, na maioria das vezes a doença articular precede a psoríase."
+      },
+      {
+        "letra": "B",
+        "texto": "A vasculite de Kawasaki é uma síndrome secundária."
+      },
+      {
+        "letra": "C",
+        "texto": "Os diuréticos tiazídicos não contribuem para o surgimento de artrite gotosa."
+      },
+      {
+        "letra": "D",
+        "texto": "Na fibromialgia ocorre dor somente acima da cintura."
+      },
+      {
+        "letra": "E",
+        "texto": "A manifestação da síndrome de Sjögren pode estar relacionada à artrite reumatoide, lúpus eritematoso sistêmico ou esclerodermia."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 11550,
+    "tags": [],
+    "enunciado": "Quando se obtém anamnese de uma queixa de dor, os termos técnicos que devem ser considerados sobre a história clínica são bem estabelecidos. Correlacione o termo com sua definição. COLUNA 1 ( ) Alodínia; ( ) Causalgia; ( ) Hiperpatia; ( ) Disestesia; ( ) Hipoestesia; COLUNA 2 I - Síndrome dolorosa caracterizada por uma reação dolorosa excessiva e retardada após um estímulo repetitivo. II - Sensibilidade diminuída à estimulação nociva. III - Sensação anormal desagradável, espontânea ou não. IV - Síndrome de dor queimante, que persiste após lesão nervosa traumática. V - Dor que surge como resultado de estimulação não nociva da pele, mas que pode provocar dor nos locais de dor referida. Marque a alternativa que apresenta a ordem CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II, III, IV, V"
+      },
+      {
+        "letra": "B",
+        "texto": "V, IV, III, II, I"
+      },
+      {
+        "letra": "C",
+        "texto": "V, IV, I, III, II"
+      },
+      {
+        "letra": "D",
+        "texto": "I, III, II, V, IV"
+      },
+      {
+        "letra": "E",
+        "texto": "II, I, V, IV, III"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11551,
+    "tags": [],
+    "enunciado": "Dor é sintoma comum em pacientes internados e acarreta grande sofrimento psíquico e físico. Portanto, é fundamental que seja reconhecida e tratada adequadamente. Com relação ao tratamento da dor, é CORRETO afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A associação de opioide fraco (por: ex: tramadol e codeína) com opioide forte (por ex: morfina e metadona) é benéfica, pois diminui as doses necessárias de cada um e otimiza a analgesia."
+      },
+      {
+        "letra": "B",
+        "texto": "Anticonvulsivantes (por ex: carbamazepina), antidepressivos (por ex: tricíclicos) e drogas que agem por intermédio de canais de cálcio (por ex: gabapentina) são eficazes isoladamente ou em associação a analgésico de outra classe para tratamento da dor neuropática."
+      },
+      {
+        "letra": "C",
+        "texto": "Os opioides fortes como a morfina devem ser utilizados apenas em situações de dor extrema uma vez que acarretam sérios riscos de dependência psicológica e depressão respiratória."
+      },
+      {
+        "letra": "D",
+        "texto": "Para se reduzir os riscos de efeitos colaterais, a administração de morfina por via endovenosa deve respeitar longo intervalo de tempo entre as doses."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11552,
+    "tags": [],
+    "enunciado": "Em relação à Fibromialgia, assinale a alternativa incorreta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pode-se encontrar associada a 50% das síndromes de Sjögren, 30% dos lúpus eritematosos sistêmicos e 25% das artrites reumatoides."
+      },
+      {
+        "letra": "B",
+        "texto": "A sua prevalência é de aproximadamente 2% na população geral."
+      },
+      {
+        "letra": "C",
+        "texto": "O sintoma presente em 80% dos pacientes é a dor difusa e crônica, envolvendo o esqueleto axial e periférico."
+      },
+      {
+        "letra": "D",
+        "texto": "Os exercícios mais adequados são os aeróbicos, sem carga, sem grandes impactos para o sistema osteoarticular."
+      },
+      {
+        "letra": "E",
+        "texto": "A maior prevalência encontra-se entre 30-50 anos, podendo ocorrer também na infância e na terceira idade."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11553,
+    "tags": [],
+    "enunciado": "Aline, 46 anos, vem ao ambulatório queixando-se de dores musculares difusas e cansaço. Ela diz que seus sintomas são mais intensos pela manhã, acorda com dores na região posterior do pescoço, na região lombar, ao longo dos braços e pernas. Ao deitar, além das dores, relata um desânimo intenso. O excesso de atividades domésticas e o stress emocional pioram seus sintomas. Não dorme bem à noite. O exame físico da paciente evidencia sensibilidade dolorosa na maior parte dos grupamentos musculares, incluindo trapézios, deltoides, quadríceps e lombares. Assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Trata-se de uma síndrome miofascial decorrente de sobrecargas nos grupamentos musculares. O diagnóstico se confirma pelas provas de atividade inflamatória."
+      },
+      {
+        "letra": "B",
+        "texto": "Trata-se de uma síndrome periarticular e por atividade de esforço repetitivo causando lesão (microtraumas) nos tendões e ligamentos nos grupamentos musculares. A confirmação se dá pela história e exame físico."
+      },
+      {
+        "letra": "C",
+        "texto": "Trata-se das manifestações fibromiosíticas iniciais das doenças inflamatórias articulares. O diagnóstico se confirma pela elevação da hemossedimentação e proteína C- reativa."
+      },
+      {
+        "letra": "D",
+        "texto": "Trata-se de uma síndrome fibromiálgica relacionada a alterações dos neurotransmissores e o diagnóstico se confirma pela história clínica da paciente."
+      },
+      {
+        "letra": "E",
+        "texto": "Trata-se de síndrome de polimiosite e o diagnóstico confirma-se pela elevação da CPK e eletromiografia."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11554,
+    "tags": [],
+    "enunciado": "Sobre a fibromialgia, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É uma síndrome dolorosa crônica, com características inflamatórias e que apresenta aumento de provas de atividade inflamatória como aumento importante do VHS."
+      },
+      {
+        "letra": "B",
+        "texto": "Os sintomas mais comuns são mialgia generalizada e poliartrite."
+      },
+      {
+        "letra": "C",
+        "texto": "Os níveis séricos de GH (hormônio do crescimento) estão elevados em 90% dos pacientes."
+      },
+      {
+        "letra": "D",
+        "texto": "Estudos mostram que existe aumento de substância P no Iiquor de pacientes com fibromialgia."
+      },
+      {
+        "letra": "E",
+        "texto": "Apresenta incidência igual entre homens e mulheres."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11555,
+    "tags": [],
+    "enunciado": "Qual classe de medicamentos a seguir é de primeira linha no tratamento da fibromialgia?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Anti-inflamatórios não esteroidais."
+      },
+      {
+        "letra": "B",
+        "texto": "Opioides."
+      },
+      {
+        "letra": "C",
+        "texto": "Antidepressivos dual."
+      },
+      {
+        "letra": "D",
+        "texto": "Relaxantes musculares."
+      },
+      {
+        "letra": "E",
+        "texto": "Benzodiazepínicos."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11556,
+    "tags": [],
+    "enunciado": "O médico da Unidade Básica de Saúde (UBS) atende uma mulher de 47 anos de idade, costureira, queixando- se de dor lombar sem irradiação há 2 anos, intermitente, com intervalos de piora espontânea e melhora com ibuprofeno, que utiliza frequentemente, e tramadol, esporadicamente. No momento apresenta-se com dor moderada que interfere no sono e no trabalho. Nega traumas prévios. T em antecedente de doença dispéptica e é diabética do tipo II. Está tensa e chorosa. No exame físico apresenta sobrepeso, encurtamento dos ísquio-tibiais e tensão em pontos musculares no trapézio e elevador da escápula. Manobra de elevação de membro inferior em extensão normal. O exame neurológico é normal. O exame da coluna lombar apresenta pequeno desvio para a esquerda, mobilidade preservada, dor à palpação da musculatura paravertebral bilateralmente. Exames complementares: radiogra(cid:41)a d a coluna lombo sacra: osteó(cid:41)tos marginais e pinçamento do espaço L5-S1; radiogra(cid:41)a da articulação sacroilíaca: normal Hemograma e dosagem da Proteína C Reativa normais, velocidade de hemossedimentação na primeira hora também normal. Pesquisa de HLA B 27 negativa. Tomando por base o caso clínico acima, responda às questões abaixo. Cite duas condutas não farmacológicas efetivamente úteis para o tratamento adequado desta paciente em longo prazo. Essa questão possui comentário do professor no site 4000127404",
+    "alternativas": [],
+    "resposta_correta": null
+  },
+  {
+    "id": 11557,
+    "tags": [],
+    "enunciado": "O médico da Unidade Básica de Saúde (UBS) atende uma mulher de 47 anos de idade, costureira, queixando- se de dor lombar sem irradiação há 2 anos, intermitente, com intervalos de piora espontânea e melhora com ibuprofeno, que utiliza frequentemente, e tramadol, esporadicamente. No momento apresenta-se com dor moderada que interfere no sono e no trabalho. Nega traumas prévios. T em antecedente de doença dispéptica e é diabética do tipo II. Está tensa e chorosa. No exame físico apresenta sobrepeso, encurtamento dos ísquio-tibiais e tensão em pontos musculares no trapézio e elevador da escápula. Manobra de elevação de membro inferior em extensão normal. O exame neurológico é normal. O exame da coluna lombar apresenta pequeno desvio para a esquerda, mobilidade preservada, dor à palpação da musculatura paravertebral bilateralmente. Exames complementares: radiogra(cid:41)a da coluna lombo sacra: osteó(cid:41)tos marginais e pinçamento do espaço L5-S1; radiogra(cid:41)a da articulação sacroilíaca: normal Hemograma e dosagem da Proteína C Reativa normais, velocidade de hemossedimentação na primeira hora também normal. Pesquisa de HLA B 27 negativa. Tomando por base o caso clínico acima, responda às questões abaixo. Dentre os fármacos que a paciente está utilizando atualmente, identifique o que deve ser suspenso e justifique. Essa questão possui comentário do professor no site 4000127403",
+    "alternativas": [],
+    "resposta_correta": null
+  },
+  {
+    "id": 11558,
+    "tags": [],
+    "enunciado": "Feminino, 65 anos, há seis meses tem dor e rigidez matinal nos ombros e região cervical superior com duração de 30 minutos. Exames: anemia normocítica; VHS = 100 mm/h; fator reumatoide negativo. Sem sinais (cid:62)ogísticos nas articulações ou a alteração na mobilidade das mesmas. Entre as hipóteses abaixo, assinale o diagnóstico mais provável:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Arterite de células gigantes."
+      },
+      {
+        "letra": "B",
+        "texto": "Espondiloartropatia."
+      },
+      {
+        "letra": "C",
+        "texto": "Polimialgia reumática."
+      },
+      {
+        "letra": "D",
+        "texto": "Malignidade."
+      },
+      {
+        "letra": "E",
+        "texto": "Fibromialgia."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11559,
+    "tags": [],
+    "enunciado": "Mulher, 40 anos, comparece à UBS com artromialgias difusas, fadiga e sono irregular. Ao exame, refere dor à palpação de trapézio, ombros, trocânteres, glúteos e epicôndilos laterais. Radiograma destas regiões são normais, assim como hemograma, VSG e CK. A melhor conduta médica a ser tomada é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "solicitar fator reumatoide e fator antinuclear."
+      },
+      {
+        "letra": "B",
+        "texto": "iniciar programa de atividade física, analgésicos simples e antidepressivo tricíclico."
+      },
+      {
+        "letra": "C",
+        "texto": "iniciar programa de atividade física e anti-inflamatórios não esteroidais."
+      },
+      {
+        "letra": "D",
+        "texto": "iniciar programa de atividade física e corticoides orais."
+      },
+      {
+        "letra": "E",
+        "texto": "iniciar inibidor seletivo da recaptação da serotonina e derivado opioide."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11560,
+    "tags": [],
+    "enunciado": "Uma senhora de 55 anos vem apresentando há cerca de 1 ano, dor no corpo, cansaço, falta de energia e de disposição para realizar suas tarefas rotineiras, cefaleia e perda de memória. Nega perda de peso e febre. Refere que não está conseguindo mais trabalhar e pede um atestado médico para tentar conseguir um auxílio-doença e poder se tratar. Ao exame, o médico encontra apenas pontos de sensibilidade dolorosa sobre proeminências ósseas e porções mediais de segmentos musculares. Com relação ao quadro, assinale a alternativa que apresenta o diagnóstico correto.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fibromialgia."
+      },
+      {
+        "letra": "B",
+        "texto": "Esclerodermia."
+      },
+      {
+        "letra": "C",
+        "texto": "Artrite reumatoide."
+      },
+      {
+        "letra": "D",
+        "texto": "Doença de Behçet."
+      },
+      {
+        "letra": "E",
+        "texto": "Lúpus eritematoso sistêmico."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11561,
+    "tags": [],
+    "enunciado": "Síndrome de Burnout ou Síndrome do Esgotamento Profissional Os estudos em saúde mental têm encontrado na organização do trabalho as determinações preponderantes dos agravos psíquicos relacionados ao trabalho. Em relação ao tema, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Síndrome da fadiga crônica, síndrome do esgotamento profissional, ou burn out, e distúrbio bipolar são os quadros clínicos de distúrbios psíquicos que têm sido vinculados às situações de trabalho."
+      },
+      {
+        "letra": "B",
+        "texto": "A síndrome da fadiga crônica ocorre no período da vida próximo à aposentadoria, pois é uma síndrome caracterizada pelo acúmulo da fadiga ao longo dos anos trabalhados."
+      },
+      {
+        "letra": "C",
+        "texto": "As síndromes pós-traumáticas estão relacionadas a uma contusão que ocorreu no trabalho."
+      },
+      {
+        "letra": "D",
+        "texto": "A síndrome do esgotamento profissional, ou burn out, caracterizada por exaustão emocional, despersonalização e diminuição do envolvimento pessoal no trabalho, afeta, principalmente, profissionais da área de serviços, como trabalhadores da área de educação, da área da saúde, policiais, assistentes sociais e agentes penitenciários, entre outros."
+      },
+      {
+        "letra": "E",
+        "texto": "Todo o trabalhador que atua em turnos alternados de trabalho apresenta, em algum grau, distúrbio psíquico."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11562,
+    "tags": [],
+    "enunciado": "A dor pode ser conceituada como uma experiência sensorial desagradável associada a dano tecidual real ou potencial. É um sintoma extremamente frequente nos pacientes em enfermarias e ambulatórios, mas ainda cercada de mitos e preconceitos que atrapalham seu manejo apropriado. Em relação á dor crônica, assinale a alternativa ERRADA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A associação de drogas adjuvantes como carbamazepina, gabapentina, bifosfonatos e outras auxiliam no tratamento de dores crônicas."
+      },
+      {
+        "letra": "B",
+        "texto": "A metadona é mais potente e eficaz que a morfina para a dor neuropática."
+      },
+      {
+        "letra": "C",
+        "texto": "A prescrição de analgésicos deve seguir os seguintes critérios básicos da Organização Mundial de Saúde: pela boca, pelo relógio, pela escada analgésica, individualizada e, com atenção aos detalhes."
+      },
+      {
+        "letra": "D",
+        "texto": "O risco de depressão respiratória e dependência psicológica é muito alto em um paciente com dor crônica e, por isto, a morfina deve ser evitada nestes pacientes e a meperidina deve ser a droga de escolha."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11563,
+    "tags": [],
+    "enunciado": "Paciente do sexo feminino, 46 anos de idade, vem ao ambulatório queixando de dores musculares difusas e fadiga severa. Ela diz que seus sintomas são mais intensos pela manhã, com dores em todas as juntas, muito cansaço, e o corpo endurecido em virtude de ter di(cid:41)culdade de conciliar e não ter um sono reconfortante. Ao exame físico, evidencia sensibilidade dolorosa na maior parte dos grupamentos musculares, incluindo trapézios, deltoides, quadríceps e lombares. Não foi visto sinal de artrite, a força muscular está normal, mas limitada pela dor. Assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Podemos orientar o diagnóstico sindrômico para grupo das poliartrites inflamatórias, realçando a rigidez matinal como elemento de muita especificidade."
+      },
+      {
+        "letra": "B",
+        "texto": "Podemos encaminhar o diagnóstico para o grupo de osteoartrose, pois a sintomatologia é predominante no esqueleto axial, não há sinais de artrite."
+      },
+      {
+        "letra": "C",
+        "texto": "Estamos diante de um quadro de fibromialgia, pelas queixas de sono não repousante, pela fadiga, pelas dores difusas sem localização e pelos “tender points”."
+      },
+      {
+        "letra": "D",
+        "texto": "Devemos iniciar o tratamento com anti-inflamatórios não hormonais, corticosteroides, antidepressivos tricíclicos e psicoterapia."
+      },
+      {
+        "letra": "E",
+        "texto": "No diagnóstico dos reumatismos de partes moles, podemos ter comprometimento muscular com fraqueza muscular proximal e enzimas musculares (CPK) elevados."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11564,
+    "tags": [],
+    "enunciado": "Na polimialgia reumática e na fibromialgia espera-se encontrar, respectivamente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "VHS elevada e ausência de marcadores laboratoriais."
+      },
+      {
+        "letra": "B",
+        "texto": "ausência de marcadores laboratoriais e VHS elevada."
+      },
+      {
+        "letra": "C",
+        "texto": "FAN positivo e VHS elevada."
+      },
+      {
+        "letra": "D",
+        "texto": "fator reumatoide positivo e ausência de marcadores laboratoriais."
+      },
+      {
+        "letra": "E",
+        "texto": "ANCA positivo e fator reumatoide positivo."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11565,
+    "tags": [],
+    "enunciado": "Mulher, 32 anos de idade, sem qualquer doença prévia, queixa-se de dor em todas as juntas há 1 ano e rigidez após repouso de 60 minutos. Faz uso de benzilpenicilina benzatina 1.200.000 UI há 6 meses, inicialmente a cada 3 semanas, depois a cada 2 semanas, e semanalmente nos últimos 2 meses, para “reumatismo infeccioso no sangue”. Traz exames.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "conduta é:"
+      },
+      {
+        "letra": "A",
+        "texto": "Aumentar a dose da benzilpenicilina, já que é o melhor tratamento para febre reumática aguda."
+      },
+      {
+        "letra": "B",
+        "texto": "Iniciar prednisona 20 mg/dia e reavaliar em 6 semanas. Havendo boa resposta, reduzir até a dose de 5 mg/dia e mantê-la."
+      },
+      {
+        "letra": "C",
+        "texto": "Iniciar prednisona 20 mg/dia e anti-inflamatórios e mantê-los por 6 meses, caso o diagnóstico seja de artrite reumatoide. Após 6 meses, se não houver resposta, iniciar metotrexato."
+      },
+      {
+        "letra": "D",
+        "texto": "Iniciar antidepressivo tricíclico em baixa dose e indicar atividade física regular, se o diagnóstico for fibromialgia."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11566,
+    "tags": [],
+    "enunciado": "Na fibromialgia:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O quadro doloroso não tem boa resposta à AINH."
+      },
+      {
+        "letra": "B",
+        "texto": "As dores decorrem de inflamação leve da fáscia muscular, o que pode serdemonstrado por biópsia."
+      },
+      {
+        "letra": "C",
+        "texto": "As dores são caracteristicamente noturnas."
+      },
+      {
+        "letra": "D",
+        "texto": "A VHS é normal, mas a PCR costuma elevar-se."
+      },
+      {
+        "letra": "E",
+        "texto": "A CK eleva-se moderadamente."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11567,
+    "tags": [],
+    "enunciado": "Com relação à (cid:41)bromialgia, problema frequente em Atenção Primária à Saúde, considere as assertivas abaixo. I- É comum haver associação com quadro de depressão. II- A fadiga é uma das principais manifestações. III- O uso de antidepressivos tricíclicos em baixas doses constitui uma boa opção terapêutica. Quais são corretas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas I."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas II."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas III."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas I e III."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II e III."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 11568,
+    "tags": [],
+    "enunciado": "Nos critérios diagnósticos para a (cid:41)bromialgia, uma das síndromes reumatológicas mais comuns nos dias atuais, inclui-se sensibilidade aumentada em, pelo menos, 11 dos 18 pontos dolorosos à digitopressão, conforme critérios estabelecidos pelo “American College of Rheumatology ” em 1990. As regiões contendo os chamados “tender points”, que devem ser testados bilateralmente, não incluem:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ponto medial da borda superior do trapézio;"
+      },
+      {
+        "letra": "B",
+        "texto": "junção costocondral da segunda costela;"
+      },
+      {
+        "letra": "C",
+        "texto": "coxim gorduroso medial do joelho;"
+      },
+      {
+        "letra": "D",
+        "texto": "epicôndilo medial do cotovelo."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11569,
+    "tags": [],
+    "enunciado": "Levando-se em conta a (cid:41)siopatologia da dor – os mecanismos de transmissão, modulação e da neuroplasticidade e o desafio da terapêutica, assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Na dor neuropática (neuralgia pós-herpética p.ex.) as drogas de primeira linha são os analgésicos não opioides, AINE e na segunda escolha os antidepressivos tricíclicos ou opioides fracos"
+      },
+      {
+        "letra": "B",
+        "texto": "Nas dores nociceptivas de moderada intensidade (dor pós-operatória p.ex.) deveremos empregar sempre analgésicos opioides como a morfina e a meperidina e eventualmente o fentanil"
+      },
+      {
+        "letra": "C",
+        "texto": "Em dores neuropáticas revisões sistemáticas sugerem que tem efetividade similar o uso de opioides, antidepressivos tricíclicos, gabapentina ou seu análogo a pregabalina"
+      },
+      {
+        "letra": "D",
+        "texto": "Nas dores provenientes de câncer são ineficazes o uso de corticoides, pamidronato e os bloqueios de nervos"
+      },
+      {
+        "letra": "E",
+        "texto": "Nos transtornos dolorosos multissomatiformes os antidepressivos dopaminérgicos ou antagonistas da COX 2 são as drogas de primeira escolha."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11570,
+    "tags": [],
+    "enunciado": "Em relação à fibromialgia, analise as seguintes assertivas: I – São necessários 4 dos 11 critérios para o diagnóstico da fibromialgia. II – A depressão é o principal diagnóstico diferencial. III – Dor difusa persistindo por mais de 3 meses, faz parte dos critérios diagnósticos. IV – Para o diagnóstico da fibromialgia, não existe nenhum exame laboratorial específico. Assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As assertivas I, II e III estão corretas."
+      },
+      {
+        "letra": "B",
+        "texto": "As assertivas III e IV estão corretas."
+      },
+      {
+        "letra": "C",
+        "texto": "As assertivas I e IV estão corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "As assertivas I, III e IV estão corretas."
+      },
+      {
+        "letra": "E",
+        "texto": "As assertivas I e II estão corretas."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11571,
+    "tags": [],
+    "enunciado": "Em relação à fibromialgia é INCORRETO afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Frequentemente os pacientes melhoram nas estações mais quentes e durante as férias."
+      },
+      {
+        "letra": "B",
+        "texto": "Dor, rigidez musculoesquelética generalizada e fadiga são sintomas presentes na fibromialgia."
+      },
+      {
+        "letra": "C",
+        "texto": "A fibromialgia afeta predominantemente as mulheres e é mais prevalente nas com menos de 50 anos."
+      },
+      {
+        "letra": "D",
+        "texto": "Os exames complementares são normais nos pacientes com fibromialgia."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11572,
+    "tags": [],
+    "enunciado": "Mulher, 44 anos, lavadeira. Há 12 meses com dor difusa, sono não reparador, “dormências” (hipoestesia e parestesias) no 2º, 3º e 4º quirodáctilos direitos. Refere dor discreta no punho D e face anterior do antebraço D. Piora quando trabalha muito (lava para fora; não tem máquina; esfrega a roupa, torce, pendura no varal e passa a ferro). Piora também na fase pré-menstrual (tem 6 (cid:41)lhos e fez ligadura tubária). Exames complementares de laboratórios são todos normais. O que falta para concluir o diagnóstico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A presença de 11 pontos dolorosos é sugestiva de fibromialgia."
+      },
+      {
+        "letra": "B",
+        "texto": "A presença de ácido úrico no sangue confirma o diagnóstico de Artrite gotosa."
+      },
+      {
+        "letra": "C",
+        "texto": "A presença de Anticorpo Antinuclear confirma o diagnóstico de LES."
+      },
+      {
+        "letra": "D",
+        "texto": "A presença de Fator Reumatoide confirma o diagnóstico de Artrite Reativa."
+      },
+      {
+        "letra": "E",
+        "texto": "Densitometria óssea, pois o diagnóstico mais provável é o de osteoporose."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11573,
+    "tags": [],
+    "enunciado": "Paciente feminino, 20 anos, apresentando fraqueza muscular proximal, astenia e mialgia profundas, com histopatologia de biópsia muscular com in(cid:41)ltrado linfomonocitário endomisial, necrose de (cid:41)bras musculares, tem diagnóstico mais provável de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Dermatopolimiosite."
+      },
+      {
+        "letra": "B",
+        "texto": "Polimiosite."
+      },
+      {
+        "letra": "C",
+        "texto": "Fibromialgia."
+      },
+      {
+        "letra": "D",
+        "texto": "Hipotireoidismo."
+      },
+      {
+        "letra": "E",
+        "texto": "Osteoartrite."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11574,
+    "tags": [],
+    "enunciado": "Mulher de 32 anos apresenta-se na consulta com queixas de dores em \"todo corpo\", incluindo articulações. Não se queixa de rigidez, vermelhidão ou inchume articular. Refere-se à insônia devido à dor e frequentemente apresenta cefaleia. Ao exame, não apresenta sinais in(cid:62)amatórios articulares e à palpação da inserção da musculatura suboccipital, dos epicôndilos laterais e no quadrante superior e lateral das nádegas sente dor. A velocidade de hemossedimentação é de 14 mm, a pesquisa de anticorpos antinucleares é positiva num título de 1:40, padrão pontilhado, e o fator reumatoide é negativo. Qual é o provável diagnóstico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Espondilite anquilosante."
+      },
+      {
+        "letra": "B",
+        "texto": "Infecção gonocócica disseminada."
+      },
+      {
+        "letra": "C",
+        "texto": "Fibromialgia."
+      },
+      {
+        "letra": "D",
+        "texto": "Artrite reumatoide."
+      },
+      {
+        "letra": "E",
+        "texto": "Lúpus eritematoso sistêmico."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11575,
+    "tags": [],
+    "enunciado": "Você é convidado para participar como consultor principal de uma campanha do Ministério da Saúde para a prevenção de doenças reumáticas. Qual você escolheria no intuito de de(cid:41)nir a primeira doença a ser abordada, levando-se em conta a prevalência e a morbidade?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "artrite reumatoide"
+      },
+      {
+        "letra": "B",
+        "texto": "osteoartrite"
+      },
+      {
+        "letra": "C",
+        "texto": "fibromialgia"
+      },
+      {
+        "letra": "D",
+        "texto": "espondilite anquilosante"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11576,
+    "tags": [],
+    "enunciado": "Assinale a alternativa que contém apenas condições clínicas classi(cid:41)cadas como Síndromes de Ampli(cid:41)cação Dolorosa.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Dores de crescimento, febre reumática, artrite reumatoide juvenil."
+      },
+      {
+        "letra": "B",
+        "texto": "Lupus eritematoso sistêmico juvenil, dores do crescimento, distrofia simpático-reflexa."
+      },
+      {
+        "letra": "C",
+        "texto": "Febre reumática, distrofia simpático-reflexa, fibromialgia."
+      },
+      {
+        "letra": "D",
+        "texto": "Fibromialgia, dores de crescimento, distrofia simpático-reflexa."
+      },
+      {
+        "letra": "E",
+        "texto": "Dores de crescimento, fibromialgia, distrofia simpático-reflexa."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11577,
+    "tags": [],
+    "enunciado": "No tratamento da dor crônica, que grupo de fármacos constitui a primeira escolha para melhorar o padrão do sono?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Anticonvulsivantes"
+      },
+      {
+        "letra": "B",
+        "texto": "Benzodiazepínicos"
+      },
+      {
+        "letra": "C",
+        "texto": "Antidepressivos tricíclicos"
+      },
+      {
+        "letra": "D",
+        "texto": "Ansiolíticos"
+      },
+      {
+        "letra": "E",
+        "texto": "Relaxantes musculares"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11578,
+    "tags": [],
+    "enunciado": "Uma paciente do sexo feminino, de 30 anos, refere um início há cerca de dois anos de dor generalizada. Refere que o início foi insidioso, com dores inicialmente na região cervical, que se estenderam para todo o corpo. Refere que no mesmo período iniciou com insônia inicial, sono não reparador e um cansaço generalizado, mal-de(cid:41)nido. Nega rigidez matinal. Ao exame físico, o estado geral é bom, com dados vitais normais, sem evidência de sinovite ou fraqueza muscular objetiva. A palpação da musculatura revelou vários pontos de hipersensibilidade dolorosa. Com relação a esse caso, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Exames que são úteis na avaliação dessa paciente incluem T SH, VHS, proteína C reativa e FAN (fator antinuclear)."
+      },
+      {
+        "letra": "B",
+        "texto": "Para o diagnóstico formal de fibromialgia, é necessária a presença de onze de dezoito pontos dolorosos na musculatura e ausência de provas de atividade inflamatória positivas."
+      },
+      {
+        "letra": "C",
+        "texto": "A polissonografia pode mostrar apneia do sono e síndrome de movimentos anormais de membros em pacientes como esta."
+      },
+      {
+        "letra": "D",
+        "texto": "Um dos principais erros de conduta no caso desses pacientes é o uso de doses insuficientes (abaixo de 50 mg) de amitriptilina em doses noturnas."
+      },
+      {
+        "letra": "E",
+        "texto": "O repouso muscular é fundamental no manejo desse tipo de paciente."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11579,
+    "tags": [],
+    "enunciado": "Em relação ao controle da dor, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Anti-inflamatórios não esteroidais geralmente têm maior poder analgésico que o paracetamol."
+      },
+      {
+        "letra": "B",
+        "texto": "Fentanil é um analgésico opioide que age nos receptores opioides kappa."
+      },
+      {
+        "letra": "C",
+        "texto": "Pacientes epiléticos se beneficiam do uso de tramadol no controle da dor muscular após crises convulsivas."
+      },
+      {
+        "letra": "D",
+        "texto": "O uso da associação de tramadol com metadona em suas doses máximas é uma boa alternativa em dores refratárias."
+      },
+      {
+        "letra": "E",
+        "texto": "A metadona tem potência analgésica muito maior que a morfina."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11580,
+    "tags": [],
+    "enunciado": "A dor difusa é um sintoma muito comum na prática diária do clínico geral e do reumatologista. Muitos destes pacientes possuem fadiga severa, sono não restaurador e desordens funcionais viscerais que podem caracterizar a fibromialgia. Em relação a essa doença, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O quadro doloroso costuma ter boa resposta à AINH, o que é explicado pelo papel das citocinas inflamatórias na fisiopatogenia da doença."
+      },
+      {
+        "letra": "B",
+        "texto": "As dores decorrem de inflamação leve da fascia muscular, o que pode ser demonstrado por biopsia"
+      },
+      {
+        "letra": "C",
+        "texto": "A VHS é normal, mas a PCR e a CK costumam elevar-se, sendo exames laboratoriais importantes para definir o diagnóstico da doença."
+      },
+      {
+        "letra": "D",
+        "texto": "A fibromialgia possui manifestações clinicas características, porém algumas doenças podem causar uma confusão quanto ao diagnóstico ou piorar a dor e fadiga, como o hipotireoidismo e a insuficiência gonadal da menopausa."
+      },
+      {
+        "letra": "E",
+        "texto": "A disfunção neuroendócrina tem correlação com o mecanismo de dor, sendo rotina a dosagem de prolactina e de hormônios adrenais nos pacientes com fibromilagia."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11581,
+    "tags": [],
+    "enunciado": "São característicos da fibromialgia, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Predomínio entre as mulheres dos 30 aos 50 anos."
+      },
+      {
+        "letra": "B",
+        "texto": "Dor musculoesquelética difusa, crônica e simétrica."
+      },
+      {
+        "letra": "C",
+        "texto": "Rigidez, parestesias, alterações do sono e fatigabilidade fácil."
+      },
+      {
+        "letra": "D",
+        "texto": "Fraqueza muscular proximal e enzimas musculares elevadas."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11582,
+    "tags": [],
+    "enunciado": "Dentre as medicações abaixo, qual fármaco não opioide é considerado de primeira linha para a dor neuropática?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Prednisona."
+      },
+      {
+        "letra": "B",
+        "texto": "Nortriptilina."
+      },
+      {
+        "letra": "C",
+        "texto": "Paracetamol."
+      },
+      {
+        "letra": "D",
+        "texto": "Indometacina."
+      },
+      {
+        "letra": "E",
+        "texto": "Ibuprofeno."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11583,
+    "tags": [],
+    "enunciado": "A radiografia abaixo é mais sugestiva de quadro de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "artrite gotosa."
+      },
+      {
+        "letra": "B",
+        "texto": "artrite psoriásica."
+      },
+      {
+        "letra": "C",
+        "texto": "osteoartrose."
+      },
+      {
+        "letra": "D",
+        "texto": "lúpus eritematoso sistêmico."
+      },
+      {
+        "letra": "E",
+        "texto": "síndrome miofascial."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11584,
+    "tags": [],
+    "enunciado": "O que deve ser utilizado no tratamento da fibromialgia?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Corticosteroides"
+      },
+      {
+        "letra": "B",
+        "texto": "Amitriptilina"
+      },
+      {
+        "letra": "C",
+        "texto": "Azatioprina"
+      },
+      {
+        "letra": "D",
+        "texto": "Aspirina"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11585,
+    "tags": [],
+    "enunciado": "Em relação à dor aguda ou crônica, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Na abordagem de dor aguda, enquanto se tenta diagnosticar a abolir (quando possível) a causa da dor, não se deve administrar analgésicos potentes, pelo risco de mascarar o quadro, causar dependência psíquica ou física."
+      },
+      {
+        "letra": "B",
+        "texto": "A dor crônica (com mais de 6 meses de duração) geralmente tem uma causa conhecida e tratável."
+      },
+      {
+        "letra": "C",
+        "texto": "A dor crônica raramente se associa com sintomas de ansiedade e depressão."
+      },
+      {
+        "letra": "D",
+        "texto": "Nos casos de dor crônica a anamnese permite separar, com relativa facilidade o que é a dor propriamente dita, daquilo que seria o sofrimento dela decorrente."
+      },
+      {
+        "letra": "E",
+        "texto": "Num indivíduo com dor crônica a resposta repetida a placebo não exclui a possibilidade de causa orgânica para a dor e deve-se completar a investigação diagnóstica."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 11586,
+    "tags": [],
+    "enunciado": "Funcionária pública, 37 anos de idade, relata fadiga intensa nos últimos dois anos. O quadro começou após episódio gripal mais prolongado. Tem dores, diariamente, em região cervical, ombros cotovelos, MMSS, região lombar e joelhos. Piora no trabalho, quando (cid:41)ca sentada, e com atividade física; melhorando um pouco com o repouso. Queixa-se também de ansiedade e falta de sono. Ao exame físico, apresenta-se com sobrepeso. TA: 130X70mmHg. Mucosas coradas. Aparelhos cardiovasculares e respiratório sem alterações. Abdome com fígado palpável a 2cm do RCD e 4cm do AX, elástico. Baço impalpável. Extremidade sem edemas e sem sinais de (cid:62)ogose em articulações, sensíveis à palpação. Os exames complementares mostraram VRS de 16mm na primeira hora, AST e ALT normais, gama glutamil transferase de 1,5 vez o valor normal. Tem FAN positivo em duas ocasiões, com intervalos de 6 meses, em título de 1/80. No tratamento dessa paciente, a conduta mais eficaz é usar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Clonazepan em dose noturna de 0,5mg a 2mg."
+      },
+      {
+        "letra": "B",
+        "texto": "Prednisona em dose de 1mg/kg/dia"
+      },
+      {
+        "letra": "C",
+        "texto": "Amitriptilina em doses de 12,5mg/dia a 50mg/dia."
+      },
+      {
+        "letra": "D",
+        "texto": "Nimesulida, 100mg duas vezes ao dia por, no mínimo, 3 meses"
+      },
+      {
+        "letra": "E",
+        "texto": "Indometacina, 100mg duas vezes ao dia por, no mínimo, 3 meses."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11587,
+    "tags": [],
+    "enunciado": "A melhor opção diagnóstica para uma paciente de 42 anos, com alterações do humor e sono, poliartralgias, cefaléia, tonteira e fadiga é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "artrite reumatoide."
+      },
+      {
+        "letra": "B",
+        "texto": "espondite anquilosante."
+      },
+      {
+        "letra": "C",
+        "texto": "fibromialgia."
+      },
+      {
+        "letra": "D",
+        "texto": "osteoartrite."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11588,
+    "tags": [],
+    "enunciado": "Mulher de 40 anos refere dor difusa pelo corpo há cerca de 7 anos. Como as dores são mais importantes na coluna cervical e lombar, refere ter realizado radiogra(cid:41)as que diagnosticaram artrose no segmento cervical e lombar. Queixa-se também de parestesias em toda a região das coxas, bilateralmente, e sensação de queimação em face extensora de ambos os antebraços. Tem diagnóstico de síndrome do cólon irritável e também faz tratamento para enxaqueca. Refere acordar cansada apesar de dormir 7 horas por noite. Os exames a serem solicitados para o diagnóstico e o tratamento mais adequado para esse caso são, respectivamente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ressonância nuclear magnética da coluna cervical e lombar; se confirmada compressão de raízes nervosas, encaminhar para fisioterapia."
+      },
+      {
+        "letra": "B",
+        "texto": "exame físico com pesquisa dos pontos dolorosos; orientação sobre a doença, exercícios aeróbicos regulares, antidepressivos."
+      },
+      {
+        "letra": "C",
+        "texto": "tomografia computadorizada da coluna cervical e lombar; a conduta irá depender do resultado do exame."
+      },
+      {
+        "letra": "D",
+        "texto": "exame físico com pesquisa dos pontos dolorosos; anti-inflamatórios não hormonais e analgésicos."
+      },
+      {
+        "letra": "E",
+        "texto": "nenhum exame é necessário; encaminhamento para psiquiatria com diagnóstico de depressão."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11589,
+    "tags": [],
+    "enunciado": "Na intoxicação por opioide, devemos considerar a administração de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Naloxona."
+      },
+      {
+        "letra": "B",
+        "texto": "Tiamina."
+      },
+      {
+        "letra": "C",
+        "texto": "Paracetamol."
+      },
+      {
+        "letra": "D",
+        "texto": "Propofol.  Respostas: 1 B 2 C 3 B 4 C 5 D 6 C 7 A 8 9 B 10 D 11 C 12 D 13 A 14 D 15 C 16 A 17 D 18 A 19 C 20 B 21 A 22 D 23 B 24 A 25 B 26 C 27 D 28 E 29 B 30 B 31 A 32 D 33 A 34 B 35 C 36 D 37 B 38 D 39 B 40 C 41 B 42 D 43 D 44 B 45 E 46 A 47 D 48 A 49 C 50 C 51 D 52 D 53 B 54 C 55 B 56 D 57 B 58 D 59 A 60 B 61 D 62 C 63 D 64 B 65 C 66 D 67 C 68 C 69 A 70 A 71 A 72 C 73 C 74 C 75 D 76 D 77 D 78 D 79 B 80 D 81 D 82 A 83 E 84 C 85 C 86 E 87 D 88 B 89 B 90 91 92 D 93 D 94 A 95 D 96 C 97 E 98 D 99 E 100 D 101 D 102 A 103 E 104 B 105 106 107 108 C 109 D 110 B 111 A 112 C 113 E 114 B 115 E 116 D 117 A 118 D 119 A 120 D 121 B 122 A 123 A 124 C 125 B 126 C 127 A 128 D 129 B 130 D 131 B 132 D 133 A 134 A 135 D 136 B 137 B 138 C 139 E 140 C 141 B 142 C 143 D 144 D 145 C 146 147 148 C 149 B 150 A 151 D 152 D 153 C 154 A 155 D 156 A 157 E 158 D 159 C 160 B 161 C 162 A 163 B 164 C 165 B 166 D 167 C 168 C 169 A 170 D 171 D 172 B 173 A 174 B 175 E 176 C 177 C 178 B 179 A"
+      }
+    ],
+    "resposta_correta": "A"
+  }
+]

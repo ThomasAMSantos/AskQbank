@@ -1,0 +1,1358 @@
+[
+  {
+    "id": 104742,
+    "tags": [],
+    "enunciado": "Os pesquisadores estão investigando a prevalência do uso de tabaco em uma população especí(cid:38)ca. Eles descobriram que 200 em 1.000 indivíduos na população são fumantes. No entanto, eles também observaram que muitos desses fumantes estão tentando parar de fumar e têm reduzido seu consumo. Neste cenário, como os pesquisadores poderiam mais adequadamente descrever a prevalência do uso de tabaco na população?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Prevalência pontual, pois reflete o número de fumantes na população em um dado momento."
+      },
+      {
+        "letra": "B",
+        "texto": "Prevalência periódica, pois leva em conta as mudanças no comportamento de fumar ao longo do tempo."
+      },
+      {
+        "letra": "C",
+        "texto": "Prevalência de período, pois reflete o número de pessoas que fumaram durante um período específico."
+      },
+      {
+        "letra": "D",
+        "texto": "Prevalência de vida, pois leva em conta o número de pessoas que já fumaram em algum momento de suas vidas."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104743,
+    "tags": [],
+    "enunciado": "Em um estudo sobre a incidência de gripe em uma comunidade especí(cid:38)ca durante um ano, os pesquisadores observaram que a incidência de gripe aumentou durante os meses de inverno e diminuiu durante os meses de verão. Nesse cenário, qual conceito epidemiológico melhor explica essa observação?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Incidência cumulativa, pois reflete o número de novos casos de uma doença que ocorre em uma população em um período de tempo."
+      },
+      {
+        "letra": "B",
+        "texto": "Prevalência, pois reflete o número total de casos de uma doença em uma população em um dado momento."
+      },
+      {
+        "letra": "C",
+        "texto": "Incidência de densidade, pois leva em conta o tempo de observação, que pode variar para cada indivíduo."
+      },
+      {
+        "letra": "D",
+        "texto": "Incidência padrão, pois reflete o número de casos de uma doença que ocorre em uma população em risco."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104744,
+    "tags": [],
+    "enunciado": "Considerando um estudo longitudinal sobre a artrite reumatoide em uma cidade especí(cid:38)ca, os pesquisadores observaram um aumento na prevalência da doença ao longo do tempo, mas a incidência permaneceu constante. Qual das seguintes afirmações pode explicar melhor essa observação?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A população estudada está envelhecendo e a artrite reumatoide é mais comum em idosos."
+      },
+      {
+        "letra": "B",
+        "texto": "As pessoas com artrite reumatoide estão morrendo em uma taxa mais rápida do que podem ser substituídas por novos casos."
+      },
+      {
+        "letra": "C",
+        "texto": "A taxa de diagnóstico da doença aumentou, levando a um aumento artificial na prevalência."
+      },
+      {
+        "letra": "D",
+        "texto": "Os pacientes com artrite reumatoide estão vivendo mais tempo, devido a melhorias no tratamento e gestão da doença."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104745,
+    "tags": [],
+    "enunciado": "Em uma cidade com 500.000 habitantes, 50.000 pessoas foram diagnosticadas com hipertensão. Ao longo de um ano, foram registrados 10.000 novos casos. Quando os pesquisadores calculam a incidência da hipertensão na cidade, que população deveria ser considerada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A população total da cidade no início do ano."
+      },
+      {
+        "letra": "B",
+        "texto": "A população total da cidade no final do ano."
+      },
+      {
+        "letra": "C",
+        "texto": "A população total da cidade no início do ano, menos aqueles já diagnosticados com hipertensão."
+      },
+      {
+        "letra": "D",
+        "texto": "A população total da cidade no final do ano, mais os novos casos de hipertensão."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104746,
+    "tags": [],
+    "enunciado": "Em um estudo sobre a doença de Alzheimer em uma comunidade de idosos, os pesquisadores descobriram que 100 em 1.000 idosos na comunidade foram diagnosticados com a doença no início do estudo. No (cid:38)nal do ano, 30 novos casos foram identi(cid:38)cados. Qual é a medida de frequência de doenças mais adequada para descrever essas observações?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Incidência, pois se refere ao número de novos casos de uma doença em um período de tempo específico."
+      },
+      {
+        "letra": "B",
+        "texto": "Prevalência, pois se refere à proporção total de indivíduos em uma população que têm a doença."
+      },
+      {
+        "letra": "C",
+        "texto": "Incidência cumulativa, pois se refere ao número de novos casos de uma doença em uma população em risco durante um período de tempo."
+      },
+      {
+        "letra": "D",
+        "texto": "Taxa de mortalidade, pois se refere ao número de mortes em um determinado período de tempo."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104747,
+    "tags": [],
+    "enunciado": "Em um estudo de um ano, 200 de 1.000 indivíduos em uma população isolada desenvolveram diabetes. No mesmo período, 50 indivíduos da população estudada morreram devido a várias causas, incluindo diabetes. Ao considerar essas informações, qual medida de frequência de doenças mais adequadamente representa a ocorrência de diabetes nesta população?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Prevalência, pois descreve a proporção de indivíduos na população que têm diabetes em um dado momento."
+      },
+      {
+        "letra": "B",
+        "texto": "Incidência cumulativa, pois descreve o número de novos casos de diabetes em um período de tempo específico."
+      },
+      {
+        "letra": "C",
+        "texto": "Taxa de mortalidade, pois se refere ao número de mortes em um determinado período de tempo."
+      },
+      {
+        "letra": "D",
+        "texto": "Taxa de prevalência, pois se refere à proporção de indivíduos que desenvolveram diabetes em um determinado período."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104748,
+    "tags": [],
+    "enunciado": "Uma mulher jovem que vive em uma área rural tem pouca educação formal, não tem acesso a transporte con(cid:38)ável e vive a mais de 50 quilômetros de um centro médico. Levando em consideração os determinantes de saúde, qual das seguintes intervenções seria a mais adequada para melhorar seu acesso à atenção à saúde?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aumentar a disponibilidade de serviços de telemedicina para que ela possa ter consultas médicas à distância."
+      },
+      {
+        "letra": "B",
+        "texto": "Incentivar a adoção de uma dieta saudável e exercícios físicos, mesmo que ela não tenha problemas de saúde conhecidos."
+      },
+      {
+        "letra": "C",
+        "texto": "Fornecer aconselhamento genético para entender sua predisposição para doenças futuras."
+      },
+      {
+        "letra": "D",
+        "texto": "Promover a vacinação, mesmo que ela não esteja em um grupo de alto risco para doenças imunopreveníveis."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104749,
+    "tags": [],
+    "enunciado": "No contexto de uma pandemia, como a do COVID-19, os determinantes de saúde desempenham um papel crucial na determinação de quem tem mais probabilidade de contrair a doença. Levando em consideração fatores como o acesso a informações precisas, a capacidade de trabalhar em casa, o acesso a cuidados médicos e a exposição a ambientes lotados, qual dos seguintes grupos seria considerado o mais vulnerável?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Trabalhadores de escritório de classe média que podem trabalhar em casa e têm acesso a cuidados de saúde privados."
+      },
+      {
+        "letra": "B",
+        "texto": "Trabalhadores da construção civil que devem trabalhar em locais físicos, têm acesso limitado a cuidados de saúde e podem ter que utilizar transporte público lotado."
+      },
+      {
+        "letra": "C",
+        "texto": "Aposentados que moram em casas de repouso com boa assistência médica."
+      },
+      {
+        "letra": "D",
+        "texto": "Crianças que não vão à escola durante a pandemia e cujos pais podem trabalhar em casa."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104750,
+    "tags": [],
+    "enunciado": "Um idoso que vive sozinho em um apartamento pequeno no centro da cidade sofre de várias doenças crônicas, incluindo diabetes e hipertensão. Ele tem di(cid:38)culdade para se locomover e depende de serviços de entrega para obter alimentos e outros suprimentos essenciais. Nesse contexto, qual dos seguintes determinantes de saúde poderia ser uma intervenção eficaz para melhorar a saúde desse idoso?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Implementar um programa de ginástica comunitária para promover a atividade física."
+      },
+      {
+        "letra": "B",
+        "texto": "Proporcionar transporte público gratuito para facilitar o acesso a serviços de saúde."
+      },
+      {
+        "letra": "C",
+        "texto": "Fornecer aconselhamento genético para entender a predisposição do idoso para doenças crônicas."
+      },
+      {
+        "letra": "D",
+        "texto": "Implementar uma política de redução de açúcar em alimentos processados para combater a diabetes."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104751,
+    "tags": [],
+    "enunciado": "A taxa de mortalidade infantil em um bairro de baixa renda é signi(cid:38)cativamente maior do que a média nacional. Vários fatores contribuem para esta situação, incluindo a qualidade dos cuidados pré-natais, a nutrição materna, a qualidade do parto e a exposição a fatores ambientais adversos. Com base nesses fatores, que aspecto dos determinantes de saúde está mais diretamente relacionado a essa disparidade?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Determinantes genéticos, pois as diferenças genéticas influenciam a mortalidade infantil."
+      },
+      {
+        "letra": "B",
+        "texto": "Determinantes comportamentais, pois o comportamento da mãe durante a gravidez é o principal responsável."
+      },
+      {
+        "letra": "C",
+        "texto": "Determinantes socioeconômicos, pois o acesso a serviços de saúde de qualidade, nutrição adequada e ambientes seguros é limitado em bairros de baixa renda."
+      },
+      {
+        "letra": "D",
+        "texto": "Determinantes ambientais, pois a poluição e outros fatores ambientais são os principais culpados."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104752,
+    "tags": [],
+    "enunciado": "A realização de colonoscopia para rastrear o câncer colorretal é um exemplo de rastreamento. No entanto, a colonoscopia pode causar complicações em alguns pacientes. Neste contexto, qual é a melhor estratégia para minimizar o dano potencial do rastreamento?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Realizar a colonoscopia em todos os pacientes, independentemente do risco."
+      },
+      {
+        "letra": "B",
+        "texto": "Limitar o rastreamento àqueles com alto risco de câncer colorretal."
+      },
+      {
+        "letra": "C",
+        "texto": "Realizar a colonoscopia somente em pacientes que já apresentam sintomas de câncer colorretal."
+      },
+      {
+        "letra": "D",
+        "texto": "Abandonar completamente o rastreamento de câncer colorretal para evitar danos."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104753,
+    "tags": [],
+    "enunciado": "Um teste de rastreamento ideal deve ser capaz de identi(cid:38)car corretamente indivíduos com a doença (sensibilidade) e aqueles sem a doença (especi(cid:38)cidade). Se um teste tem uma alta taxa de falsos positivos, qual é a propriedade do teste que está comprometida?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sensibilidade"
+      },
+      {
+        "letra": "B",
+        "texto": "Especificidade"
+      },
+      {
+        "letra": "C",
+        "texto": "Prevalência"
+      },
+      {
+        "letra": "D",
+        "texto": "Incidência"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104754,
+    "tags": [],
+    "enunciado": "Qual dos seguintes é uma característica desejável de um teste de rastreamento para uma doença crônica, como a diabetes tipo 2?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O teste deve ser caro e complexo para garantir a precisão."
+      },
+      {
+        "letra": "B",
+        "texto": "O teste deve ser simples, seguro, aceitável para a população e relativamente barato."
+      },
+      {
+        "letra": "C",
+        "texto": "O teste deve ser capaz de confirmar o diagnóstico sem a necessidade de testes adicionais."
+      },
+      {
+        "letra": "D",
+        "texto": "O teste deve ser capaz de identificar todas as condições médicas que um indivíduo possa ter, além da condição sendo rastreada."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104755,
+    "tags": [],
+    "enunciado": "A vigilância de doenças de noti(cid:38)cação compulsória e a investigação de surtos de doenças são componentes chave de qual dos seguintes conceitos?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Vigilância sanitária"
+      },
+      {
+        "letra": "B",
+        "texto": "Vigilância epidemiológica"
+      },
+      {
+        "letra": "C",
+        "texto": "Prevenção primária"
+      },
+      {
+        "letra": "D",
+        "texto": "Prevenção secundária"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104756,
+    "tags": [],
+    "enunciado": "Um restaurante foi fechado temporariamente por violar as normas de segurança alimentar, incluindo a preparação e armazenamento inadequados de alimentos. Qual conceito a ação das autoridades de saúde exemplifica neste caso?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Vigilância sanitária"
+      },
+      {
+        "letra": "B",
+        "texto": "Vigilância epidemiológica"
+      },
+      {
+        "letra": "C",
+        "texto": "Prevenção primária"
+      },
+      {
+        "letra": "D",
+        "texto": "Prevenção secundária"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104757,
+    "tags": [],
+    "enunciado": "Em uma cidade, ocorre um surto inesperado de gastroenterite. As autoridades de saúde imediatamente iniciam uma investigação para identi(cid:38)car a fonte da doença e implementar medidas para controlar o surto. Isso é um exemplo de qual dos seguintes conceitos?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Vigilância sanitária"
+      },
+      {
+        "letra": "B",
+        "texto": "Vigilância epidemiológica"
+      },
+      {
+        "letra": "C",
+        "texto": "Prevenção primária"
+      },
+      {
+        "letra": "D",
+        "texto": "Prevenção secundária"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104758,
+    "tags": [],
+    "enunciado": "O rastreamento de câncer de mama através da mamogra(cid:38)a é uma estratégia amplamente utilizada. No entanto, esse método pode levar ao sobrediagnóstico e ao tratamento excessivo em alguns casos. Qual nível de prevenção é diretamente relacionado a minimizar esses riscos?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Prevenção primária, pois envolve a identificação precoce e intervenção na doença."
+      },
+      {
+        "letra": "B",
+        "texto": "Prevenção secundária, pois envolve a administração de tratamento para evitar complicações."
+      },
+      {
+        "letra": "C",
+        "texto": "Prevenção terciária, pois envolve a reabilitação e a redução da incapacidade causada pela doença."
+      },
+      {
+        "letra": "D",
+        "texto": "Prevenção quaternária, pois envolve a identificação de pacientes em risco de sobrediagnóstico e a prevenção de intervenções médicas desnecessárias."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104759,
+    "tags": [],
+    "enunciado": "Um paciente que sofreu um acidente vascular cerebral é submetido à (cid:38)sioterapia para ajudar a recuperar a mobilidade e prevenir incapacidades futuras. Isso é um exemplo de qual nível de prevenção?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Prevenção primária"
+      },
+      {
+        "letra": "B",
+        "texto": "Prevenção secundária"
+      },
+      {
+        "letra": "C",
+        "texto": "Prevenção terciária"
+      },
+      {
+        "letra": "D",
+        "texto": "Prevenção quaternária"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104760,
+    "tags": [],
+    "enunciado": "Um paciente com diabetes é aconselhado a monitorar regularmente sua glicemia para prevenir complicações. Isso é um exemplo de qual nível de prevenção?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Prevenção primária"
+      },
+      {
+        "letra": "B",
+        "texto": "Prevenção secundária"
+      },
+      {
+        "letra": "C",
+        "texto": "Prevenção terciária"
+      },
+      {
+        "letra": "D",
+        "texto": "Prevenção quaternária"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104761,
+    "tags": [],
+    "enunciado": "A vacinação é uma estratégia usada para evitar o surgimento de doenças infecciosas em uma população. Isso é um exemplo de qual nível de prevenção?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Prevenção primária"
+      },
+      {
+        "letra": "B",
+        "texto": "Prevenção secundária"
+      },
+      {
+        "letra": "C",
+        "texto": "Prevenção terciária"
+      },
+      {
+        "letra": "D",
+        "texto": "Prevenção quaternária"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104762,
+    "tags": [],
+    "enunciado": "Um surto de Hepatite A ocorre em uma escola. Exames laboratoriais con(cid:38)rmaram o vírus da Hepatite A em maçãs servidas no refeitório da escola. Nesse caso, as maçãs servem como:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Reservatório"
+      },
+      {
+        "letra": "B",
+        "texto": "Vetor"
+      },
+      {
+        "letra": "C",
+        "texto": "Fonte de infecção"
+      },
+      {
+        "letra": "D",
+        "texto": "Hospedeiro intermediário"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104763,
+    "tags": [],
+    "enunciado": "Durante uma epidemia de dengue, o número de casos aumentou rapidamente em um curto período de tempo e depois diminuiu da mesma forma. Como esse tipo de curva é chamado em epidemiologia?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Curva em J"
+      },
+      {
+        "letra": "B",
+        "texto": "Curva em S"
+      },
+      {
+        "letra": "C",
+        "texto": "Curva em U"
+      },
+      {
+        "letra": "D",
+        "texto": "Curva em V"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104764,
+    "tags": [],
+    "enunciado": "A vacinação em massa é uma estratégia para alcançar a imunidade de rebanho. Qual é a principal vantagem desta estratégia epidemiológica?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Reduzir a mortalidade individual"
+      },
+      {
+        "letra": "B",
+        "texto": "Aumentar a imunidade individual"
+      },
+      {
+        "letra": "C",
+        "texto": "Proteger pessoas não vacinadas através da redução da circulação do patógeno"
+      },
+      {
+        "letra": "D",
+        "texto": "Eliminar completamente a doença"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104765,
+    "tags": [],
+    "enunciado": "Um estudo de coorte foi realizado para determinar a associação entre o consumo de água contaminada e a ocorrência de cólera. Neste contexto, o que representa a coorte?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O grupo de pessoas que consomem água contaminada"
+      },
+      {
+        "letra": "B",
+        "texto": "O grupo de pessoas com cólera"
+      },
+      {
+        "letra": "C",
+        "texto": "O grupo de pessoas sem cólera"
+      },
+      {
+        "letra": "D",
+        "texto": "Todas as pessoas da comunidade estudada"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104766,
+    "tags": [],
+    "enunciado": "Qual é a diferença entre um reservatório e um vetor na epidemiologia das doenças infecciosas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Reservatórios são sempre humanos, enquanto vetores são animais."
+      },
+      {
+        "letra": "B",
+        "texto": "Vetores são sempre humanos, enquanto reservatórios são animais."
+      },
+      {
+        "letra": "C",
+        "texto": "Vetores transmitem a doença, enquanto reservatórios a hospedam."
+      },
+      {
+        "letra": "D",
+        "texto": "Reservatórios transmitem a doença, enquanto vetores a hospedam."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104767,
+    "tags": [],
+    "enunciado": "Durante uma epidemia de meningite, uma grande proporção dos casos ocorreu em crianças não vacinadas. Que tipo de prevenção poderia ter evitado essa situação?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Prevenção primária"
+      },
+      {
+        "letra": "B",
+        "texto": "Prevenção secundária"
+      },
+      {
+        "letra": "C",
+        "texto": "Prevenção terciária"
+      },
+      {
+        "letra": "D",
+        "texto": "Prevenção quaternária"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104768,
+    "tags": [],
+    "enunciado": "Em um surto de sarampo em uma cidade, o que o número básico de reprodução (R0) indica?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A quantidade de pessoas que uma pessoa infectada pode infectar"
+      },
+      {
+        "letra": "B",
+        "texto": "O período de incubação da doença"
+      },
+      {
+        "letra": "C",
+        "texto": "A taxa de mortalidade da doença"
+      },
+      {
+        "letra": "D",
+        "texto": "A prevalência da doença"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104769,
+    "tags": [],
+    "enunciado": "Qual o papel do vetor na transmissão de doenças infecciosas como a dengue?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hospedeiro intermediário"
+      },
+      {
+        "letra": "B",
+        "texto": "Reservatório de doenças"
+      },
+      {
+        "letra": "C",
+        "texto": "Agente etiológico"
+      },
+      {
+        "letra": "D",
+        "texto": "Hospedeiro definitivo"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104770,
+    "tags": [],
+    "enunciado": "Uma comunidade isolada apresenta uma elevada taxa de tuberculose, com vários casos registrados nos últimos anos. Qual é o termo epidemiológico usado para descrever essa situação?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Epidemia"
+      },
+      {
+        "letra": "B",
+        "texto": "Pandemia"
+      },
+      {
+        "letra": "C",
+        "texto": "Endemia"
+      },
+      {
+        "letra": "D",
+        "texto": "Surto"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104771,
+    "tags": [],
+    "enunciado": "Um paciente chega à clínica com febre, dor de cabeça e erupções cutâneas. Ele foi recentemente a uma região endêmica para a febre amarela. O que representa esse caso no contexto epidemiológico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Prevalência"
+      },
+      {
+        "letra": "B",
+        "texto": "Incidência"
+      },
+      {
+        "letra": "C",
+        "texto": "Mortalidade"
+      },
+      {
+        "letra": "D",
+        "texto": "Morbidade"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104772,
+    "tags": [],
+    "enunciado": "Um médico analisa os dados de mortalidade da área de cobertura de sua UBS (Unidade Básica de Saúde) e vê que uma determinada doença é responsável por uma grande porcentagem das mortes. Ele resolve fazer um programa para detectar o mais precocemente possível as pessoas que apresentam essa doença. O programa vai se basear na aplicação de um teste diagnóstico. Qual a principal característica que esse teste deve ter?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Alta especificidade."
+      },
+      {
+        "letra": "B",
+        "texto": "Alta sensibilidade."
+      },
+      {
+        "letra": "C",
+        "texto": "Risco relativo elevado."
+      },
+      {
+        "letra": "D",
+        "texto": "Valor preditivo negativo elevado. 4000188399"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104773,
+    "tags": [],
+    "enunciado": "Risco Relativo RR Razão de Riscos Para se avaliar a associação entre a depressão e o risco de óbitos entre pessoas idosas, em uma população urbana da região Nordeste do Brasil, 160 pessoas foram acompanhadas em um estudo de coorte prospectivo. A depressão foi diagnosticada em 70 dos participantes do estudo. Houve 46 óbitos no total, sendo 28 entre as pessoas com depressão e 18 entre as pessoas sem depressão. Assinale a alternativa que apresenta o risco relativo de óbito associado à depressão neste estudo, utilizando a aproximação até a segunda casa decimal.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "0,18."
+      },
+      {
+        "letra": "B",
+        "texto": "0,40."
+      },
+      {
+        "letra": "C",
+        "texto": "1,55."
+      },
+      {
+        "letra": "D",
+        "texto": "2,00."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104774,
+    "tags": [],
+    "enunciado": "Em relação à medida prevalência de uma doença, analise as afirmativas a seguir: I) elevadas taxas de incidência não implicam em altas proporções de prevalência quando a duração do problema de saúde em questão é curta; II) elevadas proporções de prevalência podem se sobrepor a baixo níveis de incidência quando a duração de uma doença é longa; III)a imigração de casos ou a emigração de não-doentes leva a uma redução na proporção de prevalência. Pode-se afirmar que estão corretas as afirmativas:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e III"
+      },
+      {
+        "letra": "B",
+        "texto": "I e II"
+      },
+      {
+        "letra": "C",
+        "texto": "II e III"
+      },
+      {
+        "letra": "D",
+        "texto": "I, II e III"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104775,
+    "tags": [],
+    "enunciado": "Medidas de Associação Risco Relativo Razão de Prevalência e Odds Ratio Quarenta e oito por cento dos adultos relataram ter tido episódio de cefaleia que durou pelo menos 1 dia nos últimos 3 meses. Qual dos seguintes fatores melhor descreve essa taxa?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Incidência-densidade"
+      },
+      {
+        "letra": "B",
+        "texto": "Incidência cumulativa"
+      },
+      {
+        "letra": "C",
+        "texto": "Prevalência-ponto"
+      },
+      {
+        "letra": "D",
+        "texto": "Prevalência-período"
+      },
+      {
+        "letra": "E",
+        "texto": "Taxa de complicação"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104776,
+    "tags": [],
+    "enunciado": "Medidas de Associação Risco Relativo Razão de Prevalência e Odds Ratio Entre os anos de 2015 e 2020, diversos estudos de caso-controle foram realizados a (cid:38)m de de(cid:38)nir a in(cid:76)uência do sedentarismo sobre o risco de Infarto Agudo do Miocárdio (IAM). Os resultados de Odds Ratio (OR) com seus respectivos intervalos de con(cid:38)ança a 95% (IC95%) são apresentados abaixo. A indicação de que o sedentarismo seria fator de risco significativo para IAM encontra-se em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "OR 0,6 IC95% (0,3-0,8)."
+      },
+      {
+        "letra": "B",
+        "texto": "OR 0,8 IC95% (0,5-1,1)."
+      },
+      {
+        "letra": "C",
+        "texto": "OR 1,8 IC95% (1,2-2,7)."
+      },
+      {
+        "letra": "D",
+        "texto": "OR 2,5 IC95% (0,9-4,1)."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104777,
+    "tags": [],
+    "enunciado": "Risco Relativo RR Razão de Riscos Princípios de Estatística Bioestatística ou Estatística Médica Considerando-se os grá(cid:38)cos de (cid:76)oresta (forestplot) do artigo: Niitsuma ENA, Bueno IC, Arantes EO, Carvalho APM, Xavier Junior GF, Fernandes GDR, Lana FCF. Factors associated with the development of leprosy in contacts: a systematic review and meta-analysis. RevBrasEpidemiol. 2021 Jun30;24:e210039 e apresentados a seguir, analisar os itens abaixo: I. A tabela do estudo demonstra elevada heterogeneidade, que expressa o quão diferentes são os resultados dos ensaios clínicos, além do que poderia ser esperado ao acaso. II. O contato domiciliar foi fator de risco para a ocorrência de hanseníase na comparação com indivíduos sem contato RR = 1,72; IC95% 1,45 - 2,05. III. O contato com vizinhos foi fator de risco para a ocorrência de hanseníase na comparação com indivíduos sem contato RR = 2,41; IC95% 1,87 - 3,10. Está(ão) CORRETO(S):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente o item I."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente o item II."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente o item III."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente os itens II e III."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104778,
+    "tags": [],
+    "enunciado": "Medidas de Associação Risco Relativo Razão de Prevalência e Odds Ratio São exemplos de medidas para avaliação do tratamento em epidemiologia clínica:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a redução do risco relativo – RRR, a redução do risco absoluto – RRA, o número necessário para tratar – NNT."
+      },
+      {
+        "letra": "B",
+        "texto": "a mortalidade, a letalidade, a incidência."
+      },
+      {
+        "letra": "C",
+        "texto": "o prognóstico, a taxa de sobrevida em 5 anos, recorrência."
+      },
+      {
+        "letra": "D",
+        "texto": "a mortalidade, o prognóstico, o número necessário para tratar – NNT."
+      },
+      {
+        "letra": "E",
+        "texto": "a redução do risco relativo – RRR, a redução da taxa de sobrevida – RTS, a redução do tempo de interstício – RTI."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104779,
+    "tags": [],
+    "enunciado": "Em 01/01/2021, existiam 800 casos de hanseníase em determinado município. Ao longo deste ano foram noti(cid:38)cados 200 casos novos dessa doença e 400 casos tiveram alta por cura. A população residente estimada para esse município era de 100.000 habitantes. Qual a taxa de prevalência de hanseníase no (cid:38)nal de 2021?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "0,6 %."
+      },
+      {
+        "letra": "B",
+        "texto": "0,8 %."
+      },
+      {
+        "letra": "C",
+        "texto": "1,0 %."
+      },
+      {
+        "letra": "D",
+        "texto": "1,4 %."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104780,
+    "tags": [],
+    "enunciado": "Risco Relativo RR Razão de Riscos Após analisar os dados de internações por SRAG, o Ministério da Saúde concluiu que \"\"pessoas com 80 anos ou mais que se internaram na rede pública da capital paulista com COVID-19 grave tiveram menos chance de sobreviver do que aquelas que buscaram atendimento privado\"\". Os dados estão apresentados na tabela abaixo: TABELA: Número de internações, óbitos e Coe(cid:38)ciente de Mortalidade por SRAG no município de São Paulo, 2021. Em relação às conclusões do estudo, técnicos da saúde e pesquisadores (cid:38)zeram os seguintes comentários: Pesquisador em saúde pública da Fiocruz e coordenador do projeto Infogripe, que monitora os índices nacionais de covid 19, Marcelo Gomes lembra \"\"que condições prévias desfavoráveis de pessoas em situação de vulnerabilidade socioeconômica ajudam um pouco a explicar a diferença dos números nas redes público e privada. Mesmo se atendidos em rede privada, é possível que muitos desses casos tivessem o mesmo desfecho. Não se trata apenas de um debate sobre a capacidade do SUS de oferecer atendimento adequado\"\". Técnicos da Secretaria Municipal de Saúde informaram que \"\"não considera correto comparar serviços com per(cid:38)s assistenciais diferentes, que consequentemente receberam pacientes com per(cid:38)s distintos. Na fase pré-pandemia, os hospitais sob gestão estadual já respondiam por mais de 65% dos leitos clínicos e de UTI entre os serviços do plano de contingência de enfrentamento da COVID-19 de São Paulo, absorvendo os casos mais graves da doença desde o início da pandemia. A partir dos dados da tabela e dos comentários dos técnicos e pesquisadores, responda: Qual o Risco Relativo de Morte por SRAG entre a Rede Pública e a Rede Privada e quais os fatores podem estar interferindo na validade do estudo do Ministério da Saúde? Imagens anexas:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Risco Relativo = 8 e fatores de viés de seleção."
+      },
+      {
+        "letra": "B",
+        "texto": "Risco Relativo = 1,3 e fatores de confundimento."
+      },
+      {
+        "letra": "C",
+        "texto": "Risco Relativo = 8 e fatores de viés de informação."
+      },
+      {
+        "letra": "D",
+        "texto": "Risco Relativo = 1,3 e fatores de viés de informação."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104781,
+    "tags": [],
+    "enunciado": "Um estudo de prevalência, em uma cidade com dois milhões de habitantes, foi conduzido de 1º de janeiro a 31 de dezembro de 2019. Foram identi(cid:38)cados 1.000 casos de hipertensão, com taxa de incidência de 5/100.000 pessoas/ano. O percentual da população com hipertensão foi:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "5%"
+      },
+      {
+        "letra": "B",
+        "texto": "10%"
+      },
+      {
+        "letra": "C",
+        "texto": "15%"
+      },
+      {
+        "letra": "D",
+        "texto": "20%"
+      },
+      {
+        "letra": "E",
+        "texto": "25%"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104782,
+    "tags": [],
+    "enunciado": "Em relação ao ensaio clínico fase III da vacina Coronavac realizado no Brasil, participaram 12123 voluntários, sendo randomizados 6057 no grupo vacinado e 6058 no grupo não vacinado. Após um período de acompanhamento, 85 casos de infecção pelo SARS-Cov2 foram identi(cid:38)cados, enquanto no grupo placebo foram 166 casos. Então, a partir desses dados, podemos dizer da eficácia vacinal:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pode ser calculada pela fórmula 1/Risco Atribuível."
+      },
+      {
+        "letra": "B",
+        "texto": "Não é tão importante em estudos fase III, pois precisamos considerar a medida de efetividade."
+      },
+      {
+        "letra": "C",
+        "texto": "Pode ser calculada pela fórmula de redução do Risco Relativo (1-RR) ou no caso de dados censurados 1-HR (Hazard-Ratio)."
+      },
+      {
+        "letra": "D",
+        "texto": "Pode ser calculada pela fórmula Risco entre Vacinados – Risco no grupo placebo. 4000167892"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104783,
+    "tags": [],
+    "enunciado": "Na pandemia da COVID-19, ainda em evolução, os testes diagnósticos rápidos de Ag, com material de swab de oro e naso faringe foram comparados com o padrão-ouro RT-PCR com material semelhante. Na avaliação da acurácia desses testes, podemos usar a medida do Odds-Ratio. Quanto maior essa medida, melhor é o teste. Então, assinale a afirmativa verdadeira:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O Odds-ratio diagnóstico é a razão entre a Razão de Verossimilhança Positiva e a Razão de Verossimilhança Negativa."
+      },
+      {
+        "letra": "B",
+        "texto": "A curva ROC é fundamental nessa avaliação, pois a área sob a curva expressa a medida do Odds- ratio diagnóstico."
+      },
+      {
+        "letra": "C",
+        "texto": "O Odds-ratio diagnóstico depende da sensibilidade, da especificidade, e da prevalência, assim como o Valor Preditivo Positivo."
+      },
+      {
+        "letra": "D",
+        "texto": "Não se aplica o Odds-ratio na avaliação de testes diagnóstico, somente é útil em estudos epidemiológicos."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104784,
+    "tags": [],
+    "enunciado": "Pesquisadores internacionais desejam testar cienti(cid:38)camente uma nova vacina para a Malária, no Brasil. Contam para isso com uma instituição nacional patrocinadora. O protocolo de pesquisa implica em usar em voluntários uma dose da nova vacina, testando sua eficácia e segurança. Identi(cid:38)que, entre os citados, o desenho metodológico mais apropriado para veri(cid:38)car os desfechos primário e secundários da pesquisa.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ensaio Clínico Prospectivo Randomizado Duplo Cego."
+      },
+      {
+        "letra": "B",
+        "texto": "Estudo Caso – Controle Pareado e Estratificado."
+      },
+      {
+        "letra": "C",
+        "texto": "Metanálise com Inferência Estatística."
+      },
+      {
+        "letra": "D",
+        "texto": "Estudo Teste de Sensibilidade e Especificidade."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104785,
+    "tags": [],
+    "enunciado": "Medidas de Associação Risco Relativo Razão de Prevalência e Odds Ratio Risco Relativo RR Razão de Riscos Observe a tabela abaixo: Analise as afirmativas abaixo derivadas deste estudo entre hábito de fumar e câncer de pulmão: 1. O risco relativo é obtido pela divisão da incidência entre expostos e incidência em não expostos. 2. A razão de prevalência é obtida pela divisão dos casos entre os fumantes e não fumantes. 3. Odds ratio é obtido pela divisão de situações coincidentes e situações não coincidentes. Assinale a alternativa que indica todas as afirmativas corretas.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É correta apenas a afirmativa 1."
+      },
+      {
+        "letra": "B",
+        "texto": "É correta apenas a afirmativa 2."
+      },
+      {
+        "letra": "C",
+        "texto": "São corretas apenas as afirmativas 1 e 2."
+      },
+      {
+        "letra": "D",
+        "texto": "São corretas apenas as afirmativas 1 e 3."
+      },
+      {
+        "letra": "E",
+        "texto": "São corretas apenas as afirmativas 2 e 3."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104786,
+    "tags": [],
+    "enunciado": "Medidas de Ocorrência de Doenças Incidência e Prevalência Alguns fatores podem in(cid:76)uenciar na prevalência de uma doença, levando ao seu acréscimo ou diminuição. Assinale a alternativa que apresenta o fator que faz com que ocorra a diminuição da prevalência de uma doença, mantidos constantes os demais fatores:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Menor incidência da doença."
+      },
+      {
+        "letra": "B",
+        "texto": "Melhora no diagnóstico da doença."
+      },
+      {
+        "letra": "C",
+        "texto": "Melhor tratamento que prolongue a sobrevida dos pacientes, mas não leve à cura."
+      },
+      {
+        "letra": "D",
+        "texto": "Imigração de indivíduos doentes."
+      },
+      {
+        "letra": "E",
+        "texto": "Emigração de indivíduos sadios."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104787,
+    "tags": [],
+    "enunciado": "Risco Absoluto Sobre as medidas de risco epidemiológico, considere as afirmativas a seguir. I. Risco atribuível é a relação da incidência no grupo de expostos e informa a proporção de doença entre os expostos que poderia ter sido prevenida se a exposição fosse eliminada. II. O risco relativo indica quantas vezes maior é o risco das pessoas expostas quando comparado ao risco das pessoas não expostas. III. Incidência é a medida do número de casos novos de uma doença, originados de uma população em risco de sofrê-la, durante um período de tempo determinado. IV. Prevalência é a medida do número total de casos existentes de uma doença em um ponto ou período de tempo e em uma população determinada, sem distinguir se são casos novos ou não. Assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente as afirmativas I e II são corretas."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente as afirmativas I e IV são corretas."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente as afirmativas III e IV são corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente as afirmativas I, II e III são corretas."
+      },
+      {
+        "letra": "E",
+        "texto": "Somente as afirmativas II, III e IV são corretas. 4000163265"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 104788,
+    "tags": [],
+    "enunciado": "Levando em conta as recomendações sanitárias durante a pandemia COVID-19, uma amostra de 100 jovens de 18 a 25 anos de idade, 80 relataram não ter mantido o distanciamento social na semana anterior, enquanto que em um grupo similar de 100 idosos de mais de 65 anos, apenas 20 relataram não ter mantido o distanciamento social no mesmo período. A razão de chances (odds ratio) de um jovem não ter mantido o distanciamento social em relação a um idoso é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "64."
+      },
+      {
+        "letra": "B",
+        "texto": "32."
+      },
+      {
+        "letra": "C",
+        "texto": "16."
+      },
+      {
+        "letra": "D",
+        "texto": "8."
+      },
+      {
+        "letra": "E",
+        "texto": "4. 4000172205"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104789,
+    "tags": [],
+    "enunciado": "Um exame de detecção em massa (rastreamento) de 1000 mulheres de 45-54 anos identi(cid:38)cou 20 casos de carcinoma de mama. Durante o período de 10 anos de seguimento outras 60 mulheres tiveram diagnóstico de carcinoma de mama. Dessas informações podem ser obtidas as seguintes medidas de frequência respectivamente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "taxa de incidência e taxa de prevalência"
+      },
+      {
+        "letra": "B",
+        "texto": "taxa de prevalência e taxa de incidência"
+      },
+      {
+        "letra": "C",
+        "texto": "taxa de prevalência e taxa de letalidade"
+      },
+      {
+        "letra": "D",
+        "texto": "taxa de letalidade e taxa de incidência"
+      },
+      {
+        "letra": "E",
+        "texto": "taxa de incidência e taxa de sobrevida."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104790,
+    "tags": [],
+    "enunciado": "Risco Relativo RR Razão de Riscos Em um estudo de coorte, analisou-se o risco de desenvolvimento da doença \"\"X\"\" a partir da exposição a \"V\". Após 1 O anos de seguimento, entre 100 pessoas expostas, 10 desenvolveram a doença. E entre 200 não expostos, cinco desenvolveram a doença. O Risco Relativo calculado nesse estudo é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "0.1."
+      },
+      {
+        "letra": "B",
+        "texto": "1."
+      },
+      {
+        "letra": "C",
+        "texto": "4."
+      },
+      {
+        "letra": "D",
+        "texto": "8."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104791,
+    "tags": [],
+    "enunciado": "Um estudo foi realizado com o objetivo de avaliar a possível associação entre o tipo de personalidade e o risco de desenvolvimento de doença coronariana. Participaram do estudo 3.154 trabalhadores do sexo masculino. Por meio de entrevista no início do estudo, eles foram classi(cid:38)cados em dois tipos de personalidade (A e B) e, após a classi(cid:38)cação, foram acompanhados por um período médio de nove anos. O delineamento do estudo e a medida calculada para se avaliar a associação foram, respectivamente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "caso-controle – risco relativo."
+      },
+      {
+        "letra": "B",
+        "texto": "coorte – risco relativo."
+      },
+      {
+        "letra": "C",
+        "texto": "caso-controle – odds ratio."
+      },
+      {
+        "letra": "D",
+        "texto": "prevalência – razão de prevalência. 4000142581"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104792,
+    "tags": [],
+    "enunciado": "Foram identi(cid:38)cadas 5.554 gestantes infectadas pelo HIV e 4.559 crianças expostas ao HIV, das quais 130 casos de soroconversão foram con(cid:38)rmados, com taxa de 2,9%. O não uso de antirretroviral durante a gestação (OR=9,31 IC95% 5,97-14,52; p<0,001) e aleitamento materno (OR=3,10 IC95%1,34-7,20; p=0,008) foram considerados fatores de risco independentes para a soroconversão (Cunga, IVA, 2019, dissertação de mestrado PPGSC, UNISUL). Pode-se concluir pelos resultados do estudo que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O não uso de ART e o aleitamento materno são fatores de risco estatisticamente significativos para a transmissão vertical do HIV."
+      },
+      {
+        "letra": "B",
+        "texto": "O não uso de ART é um fator de risco para a transmissão vertical, mas o aleitamento materno não, para a transmissão vertical do HIV."
+      },
+      {
+        "letra": "C",
+        "texto": "Houve interação ou modificação do efeito entre o aleitamento materno e o não uso do ART."
+      },
+      {
+        "letra": "D",
+        "texto": "Não houve confundimento entre o não uso de ART e o aleitamento materno. 4000133133"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104793,
+    "tags": [],
+    "enunciado": "A eficácia vacinal em um estudo de ensaio clínico randomizado duplo-cego é calculada através:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Do número de casos evitados de uma doença infecciosa para cada um indivíduo vacinado."
+      },
+      {
+        "letra": "B",
+        "texto": "Do inverso do Risco Atribuível."
+      },
+      {
+        "letra": "C",
+        "texto": "Da Redução do Risco Relativo (RRR ou 1 – RR)."
+      },
+      {
+        "letra": "D",
+        "texto": "Da fração etiológica ou atribuível na população. 4000133132"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104794,
+    "tags": [],
+    "enunciado": "No dia 07/11/2020, o boletim epidemiológico do Governo do Estado do Paraná trazia as seguintes informações a respeito dos números da COVID-19. Disponível em: https://www.saude.pr.gov.br/sites/default/arquivos_restritos/files/documento/202011/informe_epidemiolog ico_07_11_2020_.pdf . Acesso em: 15/11/2020. Sobre a interpretação desses dados, assinale a alternativa CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A mortalidade por COVID-19 no Estado do Paraná na data de divulgação do Boletim era de 2,4."
+      },
+      {
+        "letra": "B",
+        "texto": "O risco relativo de morte é maior entre os homens do que entre as mulheres."
+      },
+      {
+        "letra": "C",
+        "texto": "A Média Móvel de óbitos é calculada pelo número de óbitos em um dia dividido pelo número total de casos."
+      },
+      {
+        "letra": "D",
+        "texto": "No dia do boletim, o número de casos ativos no Estado era de 566."
+      },
+      {
+        "letra": "E",
+        "texto": "A curva de casos acumulados é ascendente, o que é preocupante, pois o esperado, caso as políticas de distanciamento social estivessem sendo seguidas, seria uma curva descendente. 4000131272"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104795,
+    "tags": [],
+    "enunciado": "A razão de chances, mais conhecida como Odds Ratio (OR), é uma medida de risco que representa quantitativamente a relação entre eventos. Verifique as afirmativas abaixo e identifique a alternativa correta: I. O risco relativo e o OR sempre apontam para a mesma direção, embora possa haver mínimas diferenças numéricas entre as duas medidas. II. O OR é de(cid:38)nido como as chances de um caso exposto dividido pelas chances de um controle ser exposto. III. Quanto mais forte for a associação entre a exposição a um fator de risco e a doença, menor será o OR.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As afirmativas I e II são verdadeiras."
+      },
+      {
+        "letra": "B",
+        "texto": "As afirmativas II e III são verdadeiras."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente a afirmativa I é verdadeira."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente a afirmativa III é verdadeira."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104796,
+    "tags": [],
+    "enunciado": "Uma médica iniciou, em fevereiro de 2020, sua atuação como plantonista de um hospital que era referência para o tratamento de pacientes com COVID-19. Após atender os primeiros pacientes, resolveu ler um artigo para ter mais segurança no manejo clínico destes. Considerando os princípios da Medicina Baseada em Evidências (MBE) e os dados de um estudo transversal apresentados na tabela, qual a interpretação mais adequada para este artigo?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A não realização de tomografia foi mais associada à evolução para óbito e a associação apresentou significância estatística."
+      },
+      {
+        "letra": "B",
+        "texto": "Ter idade menor que 60 anos foi associado a maior chance de evoluir para o óbito por COVID-19, mas não teve significância estatística."
+      },
+      {
+        "letra": "C",
+        "texto": "Pacientes do sexo masculino morreram mais que do sexo feminino e esse achado teve significância estatística."
+      },
+      {
+        "letra": "D",
+        "texto": "O uso de azitromicina foi mais prevalente entre os pacientes que evoluíram para óbito e um estudo transversal é o mais adequado para respaldar a tomada de decisão para uma conduta clínica.  Respostas: 1 A 2 C 3 D 4 C 5 B 6 B 7 A 8 B 9 B 10 C 11 B 12 B 13 B 14 B 15 A 16 B 17 D 18 C 19 B 20 A 21 C 22 D 23 C 24 A 25 C 26 A 27 A 28 A 29 C 30 B 31 B 32 D 33 B 34 D 35 C 36 B 37 A 38 A 39 B 40 A 41 C 42 A 43 A 44 D 45 A 46 E 47 C 48 B 49 C 50 B 51 A 52 C 53 B 54 A 55 C"
+      }
+    ],
+    "resposta_correta": "C"
+  }
+]

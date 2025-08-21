@@ -1,0 +1,4826 @@
+[
+  {
+    "id": 96999,
+    "tags": [],
+    "enunciado": "Gestante no primeiro trimestre, 29 anos, notou verrugas vulvares há 1 mês. A médica do pré-natal referiu tratar-se de infecção por HPV. A conduta mais adequada é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "aplicação de imiquimode."
+      },
+      {
+        "letra": "B",
+        "texto": "vacinação para HPV."
+      },
+      {
+        "letra": "C",
+        "texto": "vacinação de podofilina."
+      },
+      {
+        "letra": "D",
+        "texto": "aplicação de ácido tricloroacético."
+      },
+      {
+        "letra": "E",
+        "texto": "aplicação de 5 fluoracil. 4000235312"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 97000,
+    "tags": [],
+    "enunciado": "Mulher, 50 anos de idade, transplantada renal há 15 anos, apresenta placa hipercrômica com áreas de hipocromia e aspecto in(cid:49)ltrativo de 2 cm no terço superior do grande lábio direito, próximo à prega inguino- crural. AP: carcinoma epidermóide associado a neoplasia intraepitelial vulvar do tipo usual. Ausência de metástase a distância. Qual é a conduta mais adequada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Vulvectomia e linfadenectomia ipsilateral."
+      },
+      {
+        "letra": "B",
+        "texto": "Hemi-vulvectomia e pesquisa de linfonodo sentinela à direita."
+      },
+      {
+        "letra": "C",
+        "texto": "Hemi-vulvectomia e linfadenectomia inguino- crural bilateral."
+      },
+      {
+        "letra": "D",
+        "texto": "Vulvectomia e linfadenectomia bilateral. 4000235293"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 97001,
+    "tags": [],
+    "enunciado": "Mulher, 54 anos de idade, com CEC de colo do útero estádio IIIC1(r), submetida a radioterapia e quimioterapia há 1 ano, refere saída de sangue e urina pela vagina, emagrecimento e dor pélvica há 30 dias. Exame ginecológico: vagina encurtada, fístula de cerca de 1,5cm em parede vaginal anterior com amplo acesso à bexiga. No fundo vaginal, nota- se lesão friável de aspecto cerebroide de 1,0 cm, cuja biopsia revelou CEC. Ressonância magnética: lesão de 1,3 cm no fórnice vaginal anterior em íntimo contato com cúpula vesical e ausência de linfonodomegalias. PET-Scan: lesão no fórnice vaginal com hipermetabolismo glicolítico sugestivo de neoplasia (SUVmax 17). Performance Status Karnofsky (KPS) 90% e ECOG 0. Qual é a conduta mais adequada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Colpectomia distal e correção da fístula vésico vaginal."
+      },
+      {
+        "letra": "B",
+        "texto": "Nefrostomia bilateral e colpectomia distal."
+      },
+      {
+        "letra": "C",
+        "texto": "Exenteração pélvica anterior, com derivação urinária."
+      },
+      {
+        "letra": "D",
+        "texto": "Histerectomia abdominal intrafascial e nefrostomia bilateral. 4000235289"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 97002,
+    "tags": [],
+    "enunciado": "O líquen escleroso geralmente acomete mulheres na pós‑menopausa e caracteriza‑se por lesões vulvares esbranquiçadas em áreas circunscritas ou difusas. A queixa clínica mais comum é o prurido vulvar. Em relação a essa afecção, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o diagnóstico é clínico, pois a biópsia sempre revela fibrose intensa."
+      },
+      {
+        "letra": "B",
+        "texto": "é considerada afecção de risco para desenvolvimento de carcinoma de células escamosas da vulva."
+      },
+      {
+        "letra": "C",
+        "texto": "o melhor tratamento é realizado com injeções de anticorpos monoclonais."
+      },
+      {
+        "letra": "D",
+        "texto": "é considerado de risco para o câncer de vagina, quando atinge a vagina."
+      },
+      {
+        "letra": "E",
+        "texto": "o clobetazol oral e tópico só pode ser utilizado por, no máximo, seis meses. 4000235115"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 97003,
+    "tags": [],
+    "enunciado": "Mulher, 69 anos, apresenta prurido vulvar há, aproximadamente, 1 ano. Ao exame: lesão esbranquiçada na região de grande lábio esquerdo. A conduta correta é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "uso de anti-histamínico."
+      },
+      {
+        "letra": "B",
+        "texto": "biópsia da lesão."
+      },
+      {
+        "letra": "C",
+        "texto": "uso de creme de nistatina."
+      },
+      {
+        "letra": "D",
+        "texto": "vulvectomia."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 97004,
+    "tags": [],
+    "enunciado": "Uma mulher de 72 anos, é levada pela (cid:49)lha ao ginecologista com queixa de prurido vulvar, dor e “ferida” na vulva. A (cid:49)lha refere que sua mãe não faz exame preventivo há mais de 5 anos. Ao exame, observase hipocromia vulvar, atro(cid:49)a e úlcera de aproximadamente 5 mm, com secreção serossanguinolenta, em região vestibular. Com relação a este caso clínico, avalie as a(cid:49)rmativas a seguir, a respeito do diagnóstico e da conduta médica adequada: I. A biópsia é o método de eleição para confirmar a suspeita de malignidade. II. O diagnóstico diferencial inclui condiloma plano, condiloma acuminado, neoplasia intraepitelial vulvar (NIV), nevos, líquen escleroso e dermatose seborreica. III. As distrofias vulvares são de grande importância, devido ao potencial maligno por elas abrigado. IV. Doença de Paget está inclusa no diagnóstico diferencial. Está CORRETO o que se afirma em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e II, apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "I, II e III, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "I, III e IV, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "I e III, apenas. 4000233551"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 97005,
+    "tags": [],
+    "enunciado": "A respeito da doença de Paget extramamária, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É um câncer não invasivo da vulva."
+      },
+      {
+        "letra": "B",
+        "texto": "É uma doença do metabolismo ósseo."
+      },
+      {
+        "letra": "C",
+        "texto": "É uma lesão benigna verrucoide da vulva."
+      },
+      {
+        "letra": "D",
+        "texto": "É uma lesão eczematosa da vulva em criança. 4000232956"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 97006,
+    "tags": [],
+    "enunciado": "Uma mulher de 37 anos, obesa, tabagista, hipertensa e diabética, apresenta prurido vulvar e lesões pleomór(cid:49)cas em vulva. A biópsia revelou lesão intraepitelial escamosa de alto grau (HSIL) vulvar. O fator de risco para esta condição, identificado nesse caso é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "diabetes"
+      },
+      {
+        "letra": "B",
+        "texto": "obesidade"
+      },
+      {
+        "letra": "C",
+        "texto": "tabagismo"
+      },
+      {
+        "letra": "D",
+        "texto": "hipertensão"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 97007,
+    "tags": [],
+    "enunciado": "O diagnóstico e o tratamento das dermatoses vulvares costumam ser desa(cid:49)adores para o ginecologista, pois a região genital é diferente das superfícies cutâneas extragenitais, queratinizadas e secas. As lesões brancas da vulva, que incluem a despigmentação parcial ou total, podem ser extensas ou limitadas. Sobre o líquen escleroso vulvar, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não está relacionado a um risco aumentado de carcinoma de células escamosas."
+      },
+      {
+        "letra": "B",
+        "texto": "Terapia com laser de CO₂ tem se demonstrado como o tratamento mais eficaz e com menos efeitos adversos."
+      },
+      {
+        "letra": "C",
+        "texto": "Corticosteroide tópico de alta potência (propionato de clobetasol 0,05%) é o tratamento de primeira linha."
+      },
+      {
+        "letra": "D",
+        "texto": "Tratamento cirúrgico não é recomendado."
+      },
+      {
+        "letra": "E",
+        "texto": "Inibidores de calcineurina são contraindicados como tratamento de segunda linha. 4000230697"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 97008,
+    "tags": [],
+    "enunciado": "Sobre o tratamento para o condiloma vulvar acuminado, que pode ser realizado na unidade de saúde, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O ácido tricloroacético (ATA) a 10% pode ser feito em 3 aplicações."
+      },
+      {
+        "letra": "B",
+        "texto": "O ATA a 80%-90% pode ser aplicado semanalmente por 8 a 10 semanas."
+      },
+      {
+        "letra": "C",
+        "texto": "O ATA não pode ser aplicado na gestação."
+      },
+      {
+        "letra": "D",
+        "texto": "O imiquimod 5% creme só pode ser aplicado depois do segundo trimestre."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 97009,
+    "tags": [],
+    "enunciado": "Mulher, 30a, previamente hígida, procurou a Unidade Básica de Saúde em junho de 2023 por apresentar lesões elevadas e acinzentadas na região perianal. A investigação mostrou anti-HIV=negativo, teste treponêmico=positivo e VDRL=1:128. Foi tratada com benzilpenicilina benzatina 2.400.000 UI em dose única. Retornou em junho de 2024, referindo não ter tido atividade sexual desde o diagnóstico, e estar assintomática, com VDRL=1:8. O DIAGNÓSTICO EM JUNHO DE 2024 ERA: Essa questão possui comentário do professor no site 4000230423",
+    "alternativas": [],
+    "resposta_correta": null
+  },
+  {
+    "id": 97010,
+    "tags": [],
+    "enunciado": "Sobre o rastreamento de câncer na mulher é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O rastreamento do câncer de ovário está recomendado com ultrassonografia Transvaginal (USTV) e dosagem de marcadores tumorais após a menopausa."
+      },
+      {
+        "letra": "B",
+        "texto": "O rastreamento do câncer de endométrio está recomendado com USTV após a menopausa."
+      },
+      {
+        "letra": "C",
+        "texto": "O rastreamento do câncer do colo uterino terá incorporada a detecção de HPV oncogênico com testes moleculares no SUS."
+      },
+      {
+        "letra": "D",
+        "texto": "O rastreamento do câncer de vulva está indicado com colposcopia nas mulheres com fatores de risco. 4000230113"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 97011,
+    "tags": [],
+    "enunciado": "Paciente, sexo feminino, 30 anos, com histórico de múltiplos parceiros sexuais, apresenta lesões papilares na região anogenital. O método diagnóstico mais adequado para confirmar a presença de condiloma é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Vulvoscopia com aplicação de ácido acético."
+      },
+      {
+        "letra": "B",
+        "texto": "Teste de Schiller."
+      },
+      {
+        "letra": "C",
+        "texto": "Biópsia excisional."
+      },
+      {
+        "letra": "D",
+        "texto": "PCR para identificação do tipo viral. 4000230077"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 97012,
+    "tags": [],
+    "enunciado": "A incidência da neoplasia intraepitelial vulvar (NIV) vem aumentando signi(cid:49)cativamente nas últimas décadas e quase triplicou no grupo de pacientes com idade inferior a 35 anos. Ela apresenta duas vias diferentes para seu surgimento. Em relação ao surgimento da NIV, as seguintes afirmativas estão corretas, à exceção de uma. Assinale-a.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ocorre em pacientes mais jovens, entre 35 e 55 anos, com fatores de riscos semelhantes àqueles associados com a neoplasia intraepitelial cervical HPV induzidas como o tabagismo."
+      },
+      {
+        "letra": "B",
+        "texto": "Ocorre em pacientes mais velhas, acima de 55 anos, com história de líquen escleroso."
+      },
+      {
+        "letra": "C",
+        "texto": "Ocorre em pacientes mais jovens, entre 35 e 55 anos, com fatores de riscos semelhantes àqueles associados com a neoplasia intraepitelial cervical HPV induzidas como múltiplas parcerias."
+      },
+      {
+        "letra": "D",
+        "texto": "Ocorre em pacientes mais velhas, acima de 55 anos, com história de líquen simples crônico."
+      },
+      {
+        "letra": "E",
+        "texto": "Ocorre em pacientes mais velhas, acima de 55 anos, com história de líquen plano."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 97013,
+    "tags": [],
+    "enunciado": "Gestante de 28 anos com 26 semanas de gravidez refere surgimento de verrugas na região genital. O exame clínico evidenciou lesões condilomatosas em vulva e região perianal. Em relação à infecção por HPV e gestação, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A transmissão perinatal não ocorre no período intrauterino."
+      },
+      {
+        "letra": "B",
+        "texto": "O parto cesáreo contribui na prevenção da infecção viral."
+      },
+      {
+        "letra": "C",
+        "texto": "O ácido tricloroacético pode ser utilizado por não ter absorção sistêmica."
+      },
+      {
+        "letra": "D",
+        "texto": "O imiquimode já esta liberado para uso em gestantes."
+      },
+      {
+        "letra": "E",
+        "texto": "O interferon tem eficácia comprovada para essa população."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 97014,
+    "tags": [],
+    "enunciado": "Mulher de 55 anos comparece ao Posto de Saúde queixando-se de lesão pruriginosa em vulva com aparecimento há quatro meses. Nega uso de terapia hormonal sistêmica. Utiliza estriol vaginal para maior conforto sexual. Refere ser tabagista de longa data. O exame ginecológico que identi(cid:49)cou lesão papulosa, policrômica, medindo cerca de 2cm de diâmetro localizada em 1/3 médio de grade lábios direito. Foi submetida a biopsia com laudo histopatológico de lesão intraepitelial vulvar de alto grau (NIV tipo usual). Para o caso, a conduta a ser adotada é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "imiquimode 3 x/sem por 16 semanas."
+      },
+      {
+        "letra": "B",
+        "texto": "ácido acético 90% até o desaparecimento das lesões."
+      },
+      {
+        "letra": "C",
+        "texto": "excisão da lesão com margem de segurança."
+      },
+      {
+        "letra": "D",
+        "texto": "vulvectomia radical."
+      },
+      {
+        "letra": "E",
+        "texto": "tratamento com LASER."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 97015,
+    "tags": [],
+    "enunciado": "Uma mulher com 70 anos foi encaminhada para o ambulatório de patologia cervical/vulvar por causa de uma lesão avermelhada, pruriginosa, próxima ao clitóris. Fez uso de corticosteroides tópicos e sistêmicos, com melhora parcial do prurido, mas sem alteração da lesão. Também fez uso oral de (cid:87)uconazol, sem resposta ao tratamento. O resultado da pesquisa de DNA de HPV foi negativo. Ao exame da paciente, evidenciou-se uma lesão no clitóris medindo 2 cm, eritematosa, com área de descamação, além de líquen escleroso acometendo parte do clitóris e pequenos lábios.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "partir da situação apresentada, o médico deve solicitar"
+      },
+      {
+        "letra": "A",
+        "texto": "vulvoscopia e realizar a biópsia da lesão."
+      },
+      {
+        "letra": "B",
+        "texto": "testes alérgicos e iniciar clobetasol tópico."
+      },
+      {
+        "letra": "C",
+        "texto": "cultura de fungos e tratar com cetoconazol tópico."
+      },
+      {
+        "letra": "D",
+        "texto": "teste de azul de toluidina e indicar vulvectomia simples."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 97016,
+    "tags": [],
+    "enunciado": "Mulher, 72 anos de idade, refere prurido vulvar intenso há 6 meses e ferida vulvar que não cicatriza com o creme prescrito pelo geriatra há 4 meses. Tem histórico de infecção por HPV no colo uterino e condiloma aos 25 anos de idade. Exame físico: acentuada atro(cid:49)a vulvar, apagamento de pequenos lábios e úlcera de 5 cm envolvendo grande lábio esquerdo. A biópsia incisional revelou carcinoma epidermóide bem diferenciado associado a neoplasia intraepitelial diferenciada, p16 negativo e p53 padrão não aberrante. Baseado no histórico e no exame físico, a lesão possivelmente associada a carcinogênese é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Líquen escleroso e atrófico."
+      },
+      {
+        "letra": "B",
+        "texto": "Papiloma fibroepitelial."
+      },
+      {
+        "letra": "C",
+        "texto": "NIC pelo HPV 18."
+      },
+      {
+        "letra": "D",
+        "texto": "Doença de Paget."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 97017,
+    "tags": [],
+    "enunciado": "Paciente, 39 anos, refere nódulo na vulva há 2 dias percebido durante a higiene. Nuligesta, uso de contraceptivo hormonal oral. Nega dor, prurido ou corrimento genital. O exame clínico é apresentado. Considerando a principal hipótese diagnóstica, qual é a afirmativa correta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O tratamento com ciprofloxacino é adequado."
+      },
+      {
+        "letra": "B",
+        "texto": "A lesão sofrerá regressão espontânea em uma semana."
+      },
+      {
+        "letra": "C",
+        "texto": "Deve-se solicitar sorologia para HIV."
+      },
+      {
+        "letra": "D",
+        "texto": "A biópsia da margem da lesão definirá o diagnóstico."
+      },
+      {
+        "letra": "E",
+        "texto": "O contágio ocorreu até 3 dias prévios ao aparecimento da lesão. 4000214837"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 97018,
+    "tags": [],
+    "enunciado": "Correlacione as colunas A e B: Coluna A [ A ] Condiloma Acuminado [ B ] Neoplasia Intraepitelial Anal [ C ] Carcinoma Verrucoso [ D ] Doença de Paget Coluna B [ ] Verruga anogenital causado pelo HPV [ ] Lesões de baixo grau. O termo doença de Bowen, complica mais a discussão visto que existem variabilidade e confusão no que diz respeito a terminologia descritiva desta lesão [ ] É também referido como condiloma acuminado gigante ou tumor de Buschke-Lowenstein [ ] Adenocarcinoma intraepitelial raro. Manifesta-se com mais frequência em pacientes idosos e é muitas vezes observada em áreas de elevada densidade de glândulas sudoríparas apócrinas",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "C, B, A, D"
+      },
+      {
+        "letra": "B",
+        "texto": "A, D, C, B"
+      },
+      {
+        "letra": "C",
+        "texto": "C, B, D, A"
+      },
+      {
+        "letra": "D",
+        "texto": "C, D, B, A"
+      },
+      {
+        "letra": "E",
+        "texto": "A, B, C, D"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 97019,
+    "tags": [],
+    "enunciado": "Mulher de 28 anos de idade procura atendimento no pronto-socorro com queixa de lesão vulvar há dois meses. Nega qualquer outro sintoma ou comorbidades prévias. Ao exame ginecológico, a inspeção da genitália externa apresenta o achado que pode ser visto na imagem a seguir: Qual é o tratamento que deve ser indicado neste momento?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Azitromicina 1g por via via oral."
+      },
+      {
+        "letra": "B",
+        "texto": "Penicilina benzatina 2.400.000UI por via intramuscular."
+      },
+      {
+        "letra": "C",
+        "texto": "Clorexidina a 2% em uso tópico."
+      },
+      {
+        "letra": "D",
+        "texto": "Ácido tricloroacético 80% em uso tópico."
+      },
+      {
+        "letra": "E",
+        "texto": "Aciclovir pomada em uso tópico."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 97020,
+    "tags": [],
+    "enunciado": "Sobre a infecção pós-operatória em cirurgia pélvica, analise as proposições abaixo e assinale (V) para Verdadeiro ou (F) para Falso. ( ) Tabagismo, obesidade, anemia pré-operatória são fatores de risco para infecção. ( ) Celulite de cúpula vaginal, celulite pélvica parametrial e abscesso intra ou extra-peritoneal são exemplos de infecções. ( ) Infecções pélvicas e/ou abscesso pélvico pós histerectomia geralmente são monomicrobianas e pode-se esperar a cultura pra iniciar o tratamento. ( ) A infecção do ducto da glândula de Bartholin é tratada primariamente por drenagem. Assinale a alternativa que apresenta a sequência correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "F / V / F / V"
+      },
+      {
+        "letra": "B",
+        "texto": "V / F / V / F"
+      },
+      {
+        "letra": "C",
+        "texto": "V / V / F / F"
+      },
+      {
+        "letra": "D",
+        "texto": "V / V / F / V"
+      },
+      {
+        "letra": "E",
+        "texto": "V / V / V / V"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 97021,
+    "tags": [],
+    "enunciado": "Sobre patologia e tumores vulvares, analise as proposições abaixo. I. Nevo, vitiligo e acrocórdon são condições malignas. II. Fibroma e leiomioima são tumores malignos. III. Hematoma, laceração e corpos estranhos podem ser condições de trauma vaginal e não são malignas. IV. Líquen simples e líquen escleroso são condições malignas. V. Carcinoma de células escamosas é uma condição maligna. É correto o que se afirma em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e II, apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "III e V, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "I, II e III, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "III, IV e V, apenas."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II, III, IV e V."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 97022,
+    "tags": [],
+    "enunciado": "O diagnóstico mais provável e a melhor conduta a ser realizada diante da imagem é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "condiloma acuminado – erradicar as verrugas destruindo-as"
+      },
+      {
+        "letra": "B",
+        "texto": "herpes Simples vaginal – aciclovir tópico 6 vezes ao dia"
+      },
+      {
+        "letra": "C",
+        "texto": "lesão por gonococo – antibiótico por via oral"
+      },
+      {
+        "letra": "D",
+        "texto": "sífilis – Penicilina benzatina intramuscular"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 97023,
+    "tags": [],
+    "enunciado": "L.M., 28 anos, consultou-se em clínica privada com queixa de aparecimento de verrugas genitais (no vestíbulo de vagina, períneo e face interna de pequenos lábios). Essas pequenas lesões se apresentavam como pápulas, alguns nódulos macios, pedunculados, com crescimento exofítico, superfície hiperceratósica e irregular, indolores e múltiplas. Assinale a alternativa CORRETA em relação a que conduta deve ser tomada entre as abaixo relacionadas:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Prescrever Penicilina Benzatina, pois a lesão é característica de sífilis secundária (condiloma plano);"
+      },
+      {
+        "letra": "B",
+        "texto": "Medicar com Aciclovir creme, pois tratam-se de lesões sugestivas de herpes hominis tipo II;"
+      },
+      {
+        "letra": "C",
+        "texto": "Prescrever Imiquimode em autoaplicações tópicas 3 vezes por semana, por 8 semanas;"
+      },
+      {
+        "letra": "D",
+        "texto": "Solicitar a pesquisa de PCR para HPV do esfregaço das lesões para fazer o diagnóstico."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 97024,
+    "tags": [],
+    "enunciado": "Mulher, 38a, apresenta lesão vulvar multicêntrica redicivante. Anatomopatológico: lesão intraepitelial escamosa de alto grau da vulva. O PRINCIPAL FATOR DE RISCO ASSOCIADO A ESTA LESÃO É: Essa questão possui comentário do professor no site 4000209460",
+    "alternativas": [],
+    "resposta_correta": null
+  },
+  {
+    "id": 97025,
+    "tags": [],
+    "enunciado": "Mulher, 23 anos, vem à consulta porque notou, há 1 semana, uma lesão não pruriginosa na vulva. Ao exame físico, a lesão apresenta uma pápula única, rosada com uma depressão central semelhante a um umbigo, não dolorosa. O diagnóstico mais provável é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Molusco contagioso."
+      },
+      {
+        "letra": "B",
+        "texto": "Pediculose."
+      },
+      {
+        "letra": "C",
+        "texto": "Condiloma."
+      },
+      {
+        "letra": "D",
+        "texto": "Cancro duro"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 97026,
+    "tags": [],
+    "enunciado": "Paciente de 72 anos apresentou queixa de prurido vulvar e lesão unifocal hipocrômica de aproximadamente 2cm em grande lábio esquerdo. Após realização de biópsia, foi constatada neoplasia intraepitelial vulvar (NIV) diferenciada. Nesse caso, deve ser indicado(a):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "corticoide sistêmico"
+      },
+      {
+        "letra": "B",
+        "texto": "vulvectomia radical"
+      },
+      {
+        "letra": "C",
+        "texto": "imiquimode tópico"
+      },
+      {
+        "letra": "D",
+        "texto": "exérese da lesão"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 97027,
+    "tags": [],
+    "enunciado": "Em relação aos cistos do ducto de Gartner, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É uma formação cística em parede vaginal lateral no terço superior."
+      },
+      {
+        "letra": "B",
+        "texto": "Desenvolvem-se a partir dos resíduos dos ductos paramesonéfricos."
+      },
+      {
+        "letra": "C",
+        "texto": "Esse cisto não gera sintomas, portanto a conduta sempre é conservadora."
+      },
+      {
+        "letra": "D",
+        "texto": "Os ductos de Müller são responsáveis pela formação do cisto do ducto de Gartner."
+      },
+      {
+        "letra": "E",
+        "texto": "A vulvoscopia é indicada para todos os casos."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 97028,
+    "tags": [],
+    "enunciado": "Paciente de 56 anos procura atendimento por um quadro de prurido vulvar crônico, com piora no período noturno. É menopausada há 5 anos e nega terapia de reposição hormonal. Durante a inspeção, apresenta vulva com área de pápulas atró(cid:49)cas branquicentas, simétrica, regressão dos pequenos lábios e encobrimento do clitóris. Após avaliação, o médico ginecologista indicou tratamento para líquen escleroso, sendo a melhor medicação para essa patologia",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "nistatina por 30 dias em região vulvar."
+      },
+      {
+        "letra": "B",
+        "texto": "prednisona 20 mg via oral por 30 dias. Após, iniciar a redução do corticoide progressivamente."
+      },
+      {
+        "letra": "C",
+        "texto": "itraconazol associado à pomada de clindamicina gel por 20 dias consecutivos."
+      },
+      {
+        "letra": "D",
+        "texto": "propionato de clobetasol a 0,05."
+      },
+      {
+        "letra": "E",
+        "texto": "neomicina + bacitracina zincica associadas a anti-histamínico de primeira geração."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 97029,
+    "tags": [],
+    "enunciado": "Mulher de 70 anos relata, durante a consulta ginecológica, uma queixa de ardência vulvar e hipersensibilidade. Ela fora diagnosticada com líquen escleroso vulvar em biópsia há 15 anos, e o prurido vulvar, que era seu principal sintoma naquela época, está bem controlado. Relata também um histórico de incontinência urinária de esforço. O exame recente da área afetada revela manchas vermelhas mal de(cid:49)nidas com edema discreto da vulva e da pele perianal. Quanto à causa mais provável dos sintomas vulvares, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Atrofia vaginal."
+      },
+      {
+        "letra": "B",
+        "texto": "Dermatite de contato por irritação pela urina."
+      },
+      {
+        "letra": "C",
+        "texto": "Dor psicogênica."
+      },
+      {
+        "letra": "D",
+        "texto": "Recorrência do líquen escleroso."
+      },
+      {
+        "letra": "E",
+        "texto": "Uso excessivo de esteroides tópicos."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 97030,
+    "tags": [],
+    "enunciado": "Mulher de 74 anos consulta por prurido vulvar há mais de 3 anos. Nega outras queixas. O exame da vulva está representado na figura. Qual é a afecção e qual o sinal clínico que, se positivo, irá corroborar o diagnóstico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Líquen plano; presença de lesões em áreas de extensão."
+      },
+      {
+        "letra": "B",
+        "texto": "Líquen escleroso; modificação da arquitetura vulvar."
+      },
+      {
+        "letra": "C",
+        "texto": "Dermatose autoimune; lesão acetorreagente."
+      },
+      {
+        "letra": "D",
+        "texto": "Psoríase; mucosa da boca com lesões semelhantes."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 97031,
+    "tags": [],
+    "enunciado": "As glândulas de Bartholin têm como principal função secretar muco para garantir a lubri(cid:49)cação vaginal e vulvar. Porém, elas são propensas a infecções, podendo resultar em dor vestibular e dispareunia. Assinale a alternativa que apresenta a melhor estratégia no tratamento da paciente com abscesso da glândula de Bartholin.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Gelo e analgésicos."
+      },
+      {
+        "letra": "B",
+        "texto": "Antibioticoterapia, anti-inflamatórios e analgésicos."
+      },
+      {
+        "letra": "C",
+        "texto": "Drenagem e antibioticoterapia."
+      },
+      {
+        "letra": "D",
+        "texto": "Antibioticoterapia e remoção cirúrgica."
+      },
+      {
+        "letra": "E",
+        "texto": "Compressa morna, assepsia local e controle em 2 a 3 dias."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 97032,
+    "tags": [],
+    "enunciado": "O líquen escleroso é dermatose que acomete ambos os sexos e variadas faixas etárias. É mais frequente em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Mulheres jovens após a menarca."
+      },
+      {
+        "letra": "B",
+        "texto": "Meninas e adolescentes."
+      },
+      {
+        "letra": "C",
+        "texto": "Mulheres na perimenopausa."
+      },
+      {
+        "letra": "D",
+        "texto": "Mulheres na pós-menopausa."
+      },
+      {
+        "letra": "E",
+        "texto": "Mulheres no puerpério."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 97033,
+    "tags": [],
+    "enunciado": "Paciente de 33 anos procura o pronto atendimento de ginecologia e obstetrícia (PAGO) do Hospital de Clínicas da UFPR com queixa de algia intensa, febre aferida acima de 38 °C, sensação de bola na entrada da vagina e leucocitose de 24.000 cel/microL. Ao exame ginecológico, foi observado tumoração cística de 5 cm à direita, dolorosa, com edema e hiperemia de grandes e pequenos lábios vulvares, além do ponto de flutuação e linfadenopatia inguinal homolateral dolorosa. A conduta adequada para esse caso é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "bartolinectomia associada com antibióticos de largo espectro."
+      },
+      {
+        "letra": "B",
+        "texto": "ablação com nitrato de prata, compressa morna e assepsia do local e controle."
+      },
+      {
+        "letra": "C",
+        "texto": "internação imediata, início de antibiótico de largo espectro e tratamento cirúrgico de drenagem."
+      },
+      {
+        "letra": "D",
+        "texto": "tratamento ambulatorial com antibióticos de largo espectro e anti-inflamatórios. 4000188942"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 97034,
+    "tags": [],
+    "enunciado": "Paciente de 75 anos com quadro de prurido vulvar importante há 1 ano já tendo realizado tratamento com antifúngico tópico sem sucesso. Procurou atendimento ginecológico onde foi visualizado lesão hipocrômica em sulco interlabial, períneo e região perianal, em formato e “8”, com apagamento dos pequenos lábios. Qual é o provável diagnóstico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Atrofia genital."
+      },
+      {
+        "letra": "B",
+        "texto": "Carcinoma vulvar."
+      },
+      {
+        "letra": "C",
+        "texto": "Vitiligo vulvar."
+      },
+      {
+        "letra": "D",
+        "texto": "Líquen escleroso."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 97035,
+    "tags": [],
+    "enunciado": "Paciente de 75 anos procura atendimento ginecológico com queixa de dor na região genital com vários meses de evolução. À inspeção, o ginecologista observa a presença de uma única úlcera localizada entre o grande lábio direito e o clitóris. A úlcera tem aproximadamente 2 cm de diâmetro, com bordos elevados e endurados, e destruindo parte do caput do clitóris. Não há nenhuma outra lesão semelhante em nenhuma parte do corpo. Além disso, o ginecologista observa linfadenopatia em cadeia inguinal direita, apresentando alguns linfonodos endurecidos e indolores à palpação. Em relação ao caso descrito, qual alternativa abaixo descreve a melhor conduta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Realizar exames para rastreamento de TORCHs."
+      },
+      {
+        "letra": "B",
+        "texto": "Tratar como leishmaniose."
+      },
+      {
+        "letra": "C",
+        "texto": "Prescrever cetoconazol pomada para aplicação 2 vezes ao dia."
+      },
+      {
+        "letra": "D",
+        "texto": "Realizar exames para rastreamento de DST's."
+      },
+      {
+        "letra": "E",
+        "texto": "Realizar exames para rastreamento de DST's e biópsia incisional da lesão."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 97036,
+    "tags": [],
+    "enunciado": "O câncer de vulva é aquele que acomete predominantemente a pele dos lábios vulvares e, em menor proporção, pode se originar do clitóris e das glândulas vestibulares. Qual é o tipo histológico mais frequente de câncer de vulva?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Melanoma."
+      },
+      {
+        "letra": "B",
+        "texto": "Carcinoma escamoso."
+      },
+      {
+        "letra": "C",
+        "texto": "Tumor de célula basal."
+      },
+      {
+        "letra": "D",
+        "texto": "Adenocarcinoma."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 97037,
+    "tags": [],
+    "enunciado": "Mulher, 58a, com quadro de prurido vulvar crônico há 10 anos, comparece em consulta de retorno para avaliação de resultado de biopsia de lesão vulvar, cujo diagnóstico foi neoplasia intraepitelial diferenciada. Exame ginecológico: (Figura 11, anexo. Área biopsiada destacada). O FATOR FREQUENTEMENTE ASSOCIADO A ESTE DIAGNÓSTICO É:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Líquen escleroso da vulva."
+      },
+      {
+        "letra": "B",
+        "texto": "Papilomavírus humano tipos 6 e 11."
+      },
+      {
+        "letra": "C",
+        "texto": "Papilomavírus humano tipos 16 e 18."
+      },
+      {
+        "letra": "D",
+        "texto": "Doença de Paget invasiva."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 97038,
+    "tags": [],
+    "enunciado": "Mulher de 68 anos, queixa-se de prurido vulvar há cerca de 8 meses. A inspeção genital está representada na imagem. Diante do quadro clínico e do exame físico, qual a melhor conduta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Exérese completa com margem de 3 mm."
+      },
+      {
+        "letra": "B",
+        "texto": "Biópsia incisional da borda da lesão."
+      },
+      {
+        "letra": "C",
+        "texto": "Corticosteroide de alta potência."
+      },
+      {
+        "letra": "D",
+        "texto": "Antibioticoterapia com penicilina benzatina."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 97039,
+    "tags": [],
+    "enunciado": "O câncer de vulva representa 3-5 % das neoplasias ginecológicas malignas, chegando até 8%, em razão do aumento da expectativa de vida. Em relação ao câncer de vulva, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Menarca precoce e menopausa tardia são fatores de risco."
+      },
+      {
+        "letra": "B",
+        "texto": "A via carcinogênica mais importante é a HPV induzida."
+      },
+      {
+        "letra": "C",
+        "texto": "O sintoma mais comum é o prurido de longa duração."
+      },
+      {
+        "letra": "D",
+        "texto": "O carcinoma escamoso de vulva queratinizante é o que ocorre em mulheres jovens."
+      },
+      {
+        "letra": "E",
+        "texto": "O atual sistema de estadiamento é clínico."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 97040,
+    "tags": [],
+    "enunciado": "Carcinoma espinocelular queratinizante da vulva está relacionado a:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Mulheres jovens."
+      },
+      {
+        "letra": "B",
+        "texto": "Infecção persistente pelo HPV."
+      },
+      {
+        "letra": "C",
+        "texto": "Líquen escleroso."
+      },
+      {
+        "letra": "D",
+        "texto": "Lesão intraepitelial escamosa (SIL)."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 97041,
+    "tags": [],
+    "enunciado": "Mulher de 60 anos em acompanhamento com oncologista por câncer de vulva com indicação cirúrgica. Para a correta realização do procedimento, deve-se ter em mente que a primeira cadeia linfática comprometida, nesse caso, é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pré-sacral"
+      },
+      {
+        "letra": "B",
+        "texto": "Paraórtica."
+      },
+      {
+        "letra": "C",
+        "texto": "Pélvica."
+      },
+      {
+        "letra": "D",
+        "texto": "Inguinal."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 97042,
+    "tags": [],
+    "enunciado": "Criança de cinco anos de idade foi levada pela mãe ao pediatra com queixa de prurido genital há cerca de dois meses. A genitália externa da criança não revelou sinais de infecção fúngica ou de abuso sexual e a inspeção vulvar está representada na imagem a seguir. A mãe refere ter administrado medicação para parasitoses intestinais há três meses. Assinale a conduta adequada ao caso.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Realizar biópsia e iniciar tratamento com estrogênio tópico."
+      },
+      {
+        "letra": "B",
+        "texto": "Não realizar biópsia e iniciar o uso de dermocorticoide."
+      },
+      {
+        "letra": "C",
+        "texto": "Realizar biópsia e iniciar terapia de luz."
+      },
+      {
+        "letra": "D",
+        "texto": "Não realizar biópsia e iniciar testosterona de uso tópico."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 97043,
+    "tags": [],
+    "enunciado": "Uma mulher de 70 anos de idade compareceu ao ambulatório de ginecologia, queixando-se de prurido vulvar crônico e queimação local. No exame ginecológico, apresentava apagamento de pequenos lábios, uma área hipocrômica na face interna dos grandes lábios e região perineal, além de uma pequena lesão ulcerada em grande lábio direito, próximo ao clitóris. Assinale a opção que indica a hipótese diagnóstica desse caso e a conduta adequada, respectivamente.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cancroide; prescrever doxiciclina."
+      },
+      {
+        "letra": "B",
+        "texto": "Doença de Behçet; tratar com corticoide."
+      },
+      {
+        "letra": "C",
+        "texto": "Câncer de vulva; realizar biópsia da lesão."
+      },
+      {
+        "letra": "D",
+        "texto": "Neoplasia intravaginal (NIV) usual ou lesão intraepitelial de alto grau; exérese ampla da lesão."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 97044,
+    "tags": [],
+    "enunciado": "As glândulas de Bartholin são localizadas:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Profundamente ao músculo isquiocavernoso"
+      },
+      {
+        "letra": "B",
+        "texto": "Superficialmente ao músculo isquiocavernoso"
+      },
+      {
+        "letra": "C",
+        "texto": "Profundamente ao músculo bulbocavernoso"
+      },
+      {
+        "letra": "D",
+        "texto": "Superficialmente ao músculo bulbocavernoso"
+      },
+      {
+        "letra": "E",
+        "texto": "Profundamente ao levantador do ânus"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 97045,
+    "tags": [],
+    "enunciado": "Uma paciente de sessenta anos de idade, G6P4A2, queixa-se de prurido vulvar há cerca de dois anos. Exame ginecológico: lesão hipopigmentada de 2 cm no terço médio do grande lábio esquerdo. Foi realizada uma biópsia da lesão, cujo diagnóstico foi o de NIV diferenciada. Com base nesse caso hipotético, é correto afirmar que a terapêutica recomendada é o(a)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "radioterapia, que, após a excisão da lesão, é necessária devido à multicentricidade da doença."
+      },
+      {
+        "letra": "B",
+        "texto": "ablação com laser."
+      },
+      {
+        "letra": "C",
+        "texto": "tratamento inicial com imiquimode."
+      },
+      {
+        "letra": "D",
+        "texto": "excisão, com bisturi, com margens."
+      },
+      {
+        "letra": "E",
+        "texto": "vulvectomia simples."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 97046,
+    "tags": [],
+    "enunciado": "As neoplasias intraepiteliais de vulva (NIV) e de vagina (NIVA) são menos frequentes que as neoplasias intraepiteliais de colo uterino. Porém, também são induzidas, principalmente, pelos HPVs de alto risco oncogênico. Sobre o tratamento da NIVA, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O tratamento tópico com imiquimode isolado é a escolha para tal doença."
+      },
+      {
+        "letra": "B",
+        "texto": "A excisão local alargada é o primeiro tratamento a ser feito na paciente."
+      },
+      {
+        "letra": "C",
+        "texto": "O melhor método é a multifragmentação da lesão."
+      },
+      {
+        "letra": "D",
+        "texto": "Estudos mostram que o laser de CO₂ não traz bons resultados."
+      },
+      {
+        "letra": "E",
+        "texto": "Não existe na literatura médica protocolos para o tratamento de NIVA, e a condução de cada caso deve ser individualizada."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 97047,
+    "tags": [],
+    "enunciado": "As glândulas de Bartholin, também chamadas de glândulas vestibulares maiores, constituem-se de duas glândulas do tamanho de ervilhas, localizadas na região posterior do canal vaginal. Sobre o diagnóstico diferencial entre cisto do ducto de Bartholin e abscesso da glândula de Bartholin, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A evolução de ambos é gradual."
+      },
+      {
+        "letra": "B",
+        "texto": "O cisto deve ser tratado com analgésicos potentes."
+      },
+      {
+        "letra": "C",
+        "texto": "O cisto não afeta o tecido circundante."
+      },
+      {
+        "letra": "D",
+        "texto": "O abscesso de Bartholin dura semanas."
+      },
+      {
+        "letra": "E",
+        "texto": "A dor do abscesso é intermitente."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 97048,
+    "tags": [],
+    "enunciado": "A respeito do tratamento de líquen escleroso vulvar, deve-se considerar o uso tópico de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "corticóide de alta potência"
+      },
+      {
+        "letra": "B",
+        "texto": "estrogênio"
+      },
+      {
+        "letra": "C",
+        "texto": "progesterona"
+      },
+      {
+        "letra": "D",
+        "texto": "testosterona"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 97049,
+    "tags": [],
+    "enunciado": "Primigesta, 16 anos, 21 semanas, refere lesões na vulva há 30 dias. Na consulta Unidade Básica de Saúde, a avaliação da genitália evidencia as lesões mostradas na figura 1. Qual a melhor conduta para esse caso?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ácido tricloacético 80%."
+      },
+      {
+        "letra": "B",
+        "texto": "Podofilotoxina."
+      },
+      {
+        "letra": "C",
+        "texto": "Expectante."
+      },
+      {
+        "letra": "D",
+        "texto": "Imiquimode."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 97050,
+    "tags": [],
+    "enunciado": "Paciente de 75 anos, viúva, procura atendimento médico por apresentar dolorimento genital com corrimento hemorrágico e de odor fétido. Ao EF observa-se colo de aspecto normal, hipotró(cid:49)co e lesão vaginal secretante a esclarecer. Quanto ao câncer de vagina é correto afirmar. Assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Em geral não se apresenta como lesão ulcerativa."
+      },
+      {
+        "letra": "B",
+        "texto": "O carcinoma de células escamosas é o tipo histológico mais comum."
+      },
+      {
+        "letra": "C",
+        "texto": "A localização mais frequente é no terço inferior da parede vaginal."
+      },
+      {
+        "letra": "D",
+        "texto": "A exposição intrauterina ao dietilestilbestrol não se enquadra entre os fatores de risco."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 97051,
+    "tags": [],
+    "enunciado": "Nas afecções não neoplásicas da vulva é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o líquen plano não apresenta intenso prurido"
+      },
+      {
+        "letra": "B",
+        "texto": "o líquen simples crônico tem o fator autoimune como principal etiologia"
+      },
+      {
+        "letra": "C",
+        "texto": "a hidroadenite supurativa se associa a outras dermatoses como pênfigo ou eczema"
+      },
+      {
+        "letra": "D",
+        "texto": "na vulvodínea existe intensa atrofia que leva à dor"
+      },
+      {
+        "letra": "E",
+        "texto": "o líquen escleroso se caracteriza por placa hipocrômica, de limites nítidos"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 97052,
+    "tags": [],
+    "enunciado": "Paciente 40 anos com queixa de prurido vulvar. Ao exame clínico anogenital observa-se área atró(cid:49)ca, branco-mar(cid:49)m, afetando a pele vulvar e perianal. Realizada biópsia com diagnóstico de líquen escleroso. Qual é o tratamento tópico inicial mais adequado?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Estradiol."
+      },
+      {
+        "letra": "B",
+        "texto": "Testosterona."
+      },
+      {
+        "letra": "C",
+        "texto": "Retinoide."
+      },
+      {
+        "letra": "D",
+        "texto": "Corticosteroide. 4000198788"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 97053,
+    "tags": [],
+    "enunciado": "Mulher de 24 anos de idade vem à consulta queixando-se de lesões pruriginosas em vulva, que iniciaram há dois meses. Paciente HIV positiva em tratamento com terapia antiretroviral e pouca aderência ao tratamento. Exame genital conforme demonstrado na imagem a seguir. Nesse caso, qual é a orientação inicial?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Orientar a necessidade de a paciente utilizar adequadamente seus medicamentos antirretrovirais e realizar biópsia vulvar."
+      },
+      {
+        "letra": "B",
+        "texto": "Explicar para a paciente a necessidade de realizar diretamente cirurgia excisional de todas as lesões em exérese única."
+      },
+      {
+        "letra": "C",
+        "texto": "Aguardar e observar, por se tratar de lesão HPV induzida em paciente jovem, não é necessário tratamento imediato."
+      },
+      {
+        "letra": "D",
+        "texto": "Realizar tratamento para candidíase com antifúngico primeiramente, por ser tratar de mulher HIV positiva e a seguir tratamento excisional das lesões."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 97054,
+    "tags": [],
+    "enunciado": "Mulher de 75 anos de idade refere prurido vulvar e aparecimento de nódulo irregular sobrelevado no 1/3 superior do grande lábio direito, que às vezes sangra. Foi realizada a biópsia da lesão que mostrou tratar-se de carcinoma microinvasor. Nesse caso, o estadiamento e a conduta para o melhor cuidado são, respectivamente,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "estadio IA - excisão ampla da lesão."
+      },
+      {
+        "letra": "B",
+        "texto": "estadio II - vulvectomia radical modificada com linfadenectomia inguinal bilateral."
+      },
+      {
+        "letra": "C",
+        "texto": "estadio III - vulvectomia por tripla incisão."
+      },
+      {
+        "letra": "D",
+        "texto": "estadio IB - excisão completa da lesão e pesquisa de linfonodo sentinela."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 97055,
+    "tags": [],
+    "enunciado": "Uma paciente de 18 anos de idade comparece a consulta médica por queixa de lesões vulvares. Refere histórico de múltiplos parceiros sexuais, sem uso de preservativo. Ao exame físico, apresenta lesões condilomatosas em vulva, vagina e região perianal. A respeito desse caso clínico, assinale a alternativa que indica os subtipos virais mais prováveis de serem causadores dessas lesões.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "HPV 16 e 18."
+      },
+      {
+        "letra": "B",
+        "texto": "HPV 6 e 18."
+      },
+      {
+        "letra": "C",
+        "texto": "HPV 45 e 56."
+      },
+      {
+        "letra": "D",
+        "texto": "HPV 6 e 11."
+      },
+      {
+        "letra": "E",
+        "texto": "HPV 16 e 56. 4000173065"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 97056,
+    "tags": [],
+    "enunciado": "Assinale a alternativa correta abaixo:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As estruturas presentes na histologia vaginal são: epitélio estratificado pavimentoso não queratinizado, musculatura lisa e tecido elástico."
+      },
+      {
+        "letra": "B",
+        "texto": "Denomina-se atresia vaginal a ausência congênita da vagina."
+      },
+      {
+        "letra": "C",
+        "texto": "Rabdomioma é uma tumoração benigna da vagina, caracterizada por massa polipoide única, constituído por células musculares, com atividade mitótica e pleomorfismo."
+      },
+      {
+        "letra": "D",
+        "texto": "Cisto de Gartner deriva-se de restos paramesonéfricos e Adenose Vaginal de restos mesonéfricos. 4000171747"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 97057,
+    "tags": [],
+    "enunciado": "No caso da paciente A.J.S, de 34 anos, com diagnóstico de líquen vulvar crônico simples, qual das seguintes alternativas abaixo representa o tratamento de escolha para o seu caso?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Creme de clotrimazol 10 mg/g."
+      },
+      {
+        "letra": "B",
+        "texto": "Prednisona oral, 10 mg/dia."
+      },
+      {
+        "letra": "C",
+        "texto": "Metronidazol oral ou tópico."
+      },
+      {
+        "letra": "D",
+        "texto": "Pomada de propionato de clobetasol 0,05%. 4000171595"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 97058,
+    "tags": [],
+    "enunciado": "Sobre as lesões da vulva, dentre as afirmações abaixo descritas, assinale a alternativa CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A vulvoscopia é dispensável na suspeita de líquen escleroatrófico"
+      },
+      {
+        "letra": "B",
+        "texto": "O líquen escleroatrófico apresenta risco de malignização"
+      },
+      {
+        "letra": "C",
+        "texto": "O líquen escleroatrófico está associado à exposição excessiva ao estrogênio"
+      },
+      {
+        "letra": "D",
+        "texto": "O uso de corticoide é a primeira linha de tratamento no caso de líquen plano"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 97059,
+    "tags": [],
+    "enunciado": "Paciente, 50 anos, relata desconforto acompanhado de prurido na região anogenital há 8 meses. História de hipertireoidismo. Ao exame físico, hipocromia vulvar e perineal, áreas de queratose e atro(cid:49)a dos pequenos lábios, coalescência com os grandes lábios. Hipótese diagnóstica:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Candidíase"
+      },
+      {
+        "letra": "B",
+        "texto": "Hipoestrogenismo"
+      },
+      {
+        "letra": "C",
+        "texto": "Esclerodermia"
+      },
+      {
+        "letra": "D",
+        "texto": "Líquen escleroatrófico"
+      },
+      {
+        "letra": "E",
+        "texto": "Líquen crônico simples 4000144969"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 97060,
+    "tags": [],
+    "enunciado": "Paciente com 60 anos de idade apresenta prurido crônico vulvar, e seu exame físico apresenta mancha branca e espessa envolvendo toda a vulva. A conduta é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Citologia esfoliativa."
+      },
+      {
+        "letra": "B",
+        "texto": "Biópsia."
+      },
+      {
+        "letra": "C",
+        "texto": "Corticoide."
+      },
+      {
+        "letra": "D",
+        "texto": "Testosterona tópica."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 97061,
+    "tags": [],
+    "enunciado": "Uma paciente de 18 anos de idade comparece a consulta médica por queixa de lesões vulvares. Refere histórico de múltiplos parceiros sexuais, sem uso de preservativo. Ao exame físico, apresenta lesões condilomatosas em vulva, vagina e região perianal. Sobre o caso assinale a alternativa que indica os subtipos virais mais prováveis de serem causadores dessas lesões.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "HPV 16 e 18"
+      },
+      {
+        "letra": "B",
+        "texto": "HPV 6 e 18"
+      },
+      {
+        "letra": "C",
+        "texto": "HPV 45 e 56"
+      },
+      {
+        "letra": "D",
+        "texto": "HPV 6 e 11"
+      },
+      {
+        "letra": "E",
+        "texto": "HPV 16 e 56 4000143951"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 97062,
+    "tags": [],
+    "enunciado": "Paciente de 33 anos procura o pronto atendimento de ginecologia e obstetrícia (PAGO) do Hospital de Clínicas da UFPR com queixa de algia intensa, febre aferida acima de 38 ºC, sensação de bola na entrada da vagina e leucocitose de 24.000 cel/microL. Ao exame ginecológico, foi observado tumoração cística de 5 cm à direita, dolorosa, com edema e hiperemia de grandes e pequenos lábios vulvares, além de ponto de flutuação e linfadenopatia inguinal homolateral dolorosa.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "conduta adequada para esse caso é:"
+      },
+      {
+        "letra": "A",
+        "texto": "bartolinectomia associada com antibióticos de largo espectro."
+      },
+      {
+        "letra": "B",
+        "texto": "ablação com nitrato de prata, compressa morna e assepsia do local e controle."
+      },
+      {
+        "letra": "C",
+        "texto": "internação imediata, início de antibiótico de largo espectro e tratamento cirúrgico de drenagem."
+      },
+      {
+        "letra": "D",
+        "texto": "compressa morna, anti-inflamatórios e tratamento cirúrgico de bartolinectomia."
+      },
+      {
+        "letra": "E",
+        "texto": "tratamento ambulatorial com antibióticos de largo espectro e anti-inflamatórios."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 97063,
+    "tags": [],
+    "enunciado": "A ginecologia infanto-puberal é a área de estudo que abrange os cuidados do sistema reprodutor feminino, desde o nascimento até a puberdade. Essa área abarca, por exemplo, distúrbios de diferenciação sexual, sinequias, corrimentos e traumas genitais.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "respeito desse assunto, julgue o item a seguir. No tratamento inicial da sinequia de pequenos lábios, deve-se indicar cremes de estrogênio tópico."
+      },
+      {
+        "letra": "A",
+        "texto": "Certo."
+      },
+      {
+        "letra": "B",
+        "texto": "Errado. 4000139082"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 97064,
+    "tags": [],
+    "enunciado": "Segundo o estadiamento da Federação Internacional de Ginecologia e Obstetrícia 2009 (FIGO) para o carcinoma de vulva, as lesões com mais de 2 cm ou com invasão do estroma maior que 1 mm, limitadas à vulva ou ao períneo, com linfonodos negativos deve ser classificada em qual estágio?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "IA."
+      },
+      {
+        "letra": "B",
+        "texto": "IB."
+      },
+      {
+        "letra": "C",
+        "texto": "II."
+      },
+      {
+        "letra": "D",
+        "texto": "IIA."
+      },
+      {
+        "letra": "E",
+        "texto": "IVA."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 97065,
+    "tags": [],
+    "enunciado": "A imagem abaixo representa qual das seguintes desordens vulvares? FONTE:https://www.msdmanuals.com/en-nz/professional/gynecology-and-obstetrics/miscellaneous- gynecologic-disorders",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Abscesso da glândula de Skene."
+      },
+      {
+        "letra": "B",
+        "texto": "Divertículo uretral."
+      },
+      {
+        "letra": "C",
+        "texto": "Cisto de inclusão epidérmico."
+      },
+      {
+        "letra": "D",
+        "texto": "Cisto da glândula de Bartholin."
+      },
+      {
+        "letra": "E",
+        "texto": "Cisto sebáceo. 4000134665"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 97066,
+    "tags": [],
+    "enunciado": "A respeito do líquen escleroso vulvar, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Geralmente apresenta manchas hipercrômicas simétricas."
+      },
+      {
+        "letra": "B",
+        "texto": "O propionato de testosterona a 8% tópico é a primeira linha do tratamento."
+      },
+      {
+        "letra": "C",
+        "texto": "A maioria dos casos ocorre em mulheres pós-menopáusicas."
+      },
+      {
+        "letra": "D",
+        "texto": "corticoterapia oral é o tratamento mais recomendado e com menor risco de recidiva."
+      },
+      {
+        "letra": "E",
+        "texto": "Sua duração é autolimitada e o prurido não é frequente."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 97067,
+    "tags": [],
+    "enunciado": "Mulher de 20 anos comparece à primeira consulta ginecológica com queixa de prurido vulvar ocasional há alguns dias. Relata corrimento vaginal de longa data, sem relação com fase do ciclo menstrual. Faz uso de contraceptivo injetável mensal desde a sexarca aos 17 anos. Ao exame, apresenta vulva sem hiperemia, com presença de pequenas lesões papilomatosas espiculadas, de coloração semelhante à pele, em região perineal. Conteúdo vaginal esbranquiçado, escasso, sem odor, não aderido às paredes vaginais. Colo sem lesões. Qual a conduta adequada a seguir?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Coletar exame citopatológico."
+      },
+      {
+        "letra": "B",
+        "texto": "Solicitar genotipagem para HPV."
+      },
+      {
+        "letra": "C",
+        "texto": "Aplicar ácido tricloroacético a 90%."
+      },
+      {
+        "letra": "D",
+        "texto": "Realizar bacterioscopia a fresco do conteúdo vaginal."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 97068,
+    "tags": [],
+    "enunciado": "Mulher de 28 anos de idade, nuligesta, tabagista, refere aparecimento de lesões em vulva, conforme imagem, com prurido e ardência leves, há dois meses. Nesse caso, a hipótese diagnóstica e conduta, são, respectivamente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Doença de Paget; imiquimode."
+      },
+      {
+        "letra": "B",
+        "texto": "NIV diferenciada; exérese ampla da lesão."
+      },
+      {
+        "letra": "C",
+        "texto": "Condiloma plano; cauterização com TCA 90%."
+      },
+      {
+        "letra": "D",
+        "texto": "Lesão de alto grau (NIV tipo usual); biópsia."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 97069,
+    "tags": [],
+    "enunciado": "Nas afecções que acometem a vagina:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A principal neoplasia maligna vaginal é o adenocarcinoma de células claras, que se manifesta na pós- menopausa."
+      },
+      {
+        "letra": "B",
+        "texto": "Cistos vaginais raramente se manifestam clinicamente e, quando ocorrem, têm grande chance de malignidade."
+      },
+      {
+        "letra": "C",
+        "texto": "Formações verrucosas são comuns, principalmente no 1/3 médio da vagina e se manifestam por sangramentos irregulares."
+      },
+      {
+        "letra": "D",
+        "texto": "Os quadros infecciosos são os mais prevalentes, principalmente a candidíase, a vaginose bacteriana e a infecção por HPV."
+      },
+      {
+        "letra": "E",
+        "texto": "Os prolapsos das paredes vaginais aumentam o risco de aparecimento de câncer na vagina, por alteração do pH."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 97070,
+    "tags": [],
+    "enunciado": "Adolescente de 17 anos refere surgimento há quatro semanas de lesões assintomáticas na base do pênis, com extensão para raiz de coxas e hipogástrio (imagem a seguir). Tem história de contato sexual desprotegido há seis semanas. O diagnóstico e a proposta terapêutica são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "molusco contagioso; curetagem."
+      },
+      {
+        "letra": "B",
+        "texto": "verruga genital (HPV); cauterização com ácido tricloroa-cético 90%."
+      },
+      {
+        "letra": "C",
+        "texto": "sífilis primária (cancro duro); penicilina benzatina 2400000 UI intramuscular dose única."
+      },
+      {
+        "letra": "D",
+        "texto": "herpes genital; aciclovir 400 mg cinco vezes por dia por 7 dias."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 97071,
+    "tags": [],
+    "enunciado": "Em relação ao exame ginecológico está incorreto:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O exame físico das mamas deve ser feito rotineiramente apenas após aos 40 anos de idade da paciente, ou quando houver queixa específica."
+      },
+      {
+        "letra": "B",
+        "texto": "Os dados relacionados à pilificação da paciente são importantes. Por exemplo, o hirsutismo pode estar associado à Síndrome dos Ovários Policísticos."
+      },
+      {
+        "letra": "C",
+        "texto": "Politelia é um termo usado para o achado de mamilos extranumerários."
+      },
+      {
+        "letra": "D",
+        "texto": "O carcinoma de mama geralmente propaga-se por via linfática, o que justifica a necessidade de inspeção e palpação de linfonodos axilares e supraclaviculares durante o exame das mamas."
+      },
+      {
+        "letra": "E",
+        "texto": "Edema, dor e vermelhidão no coxim gorduroso dos grandes lábios pode estar associado à bartolinite gonocócica."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 97072,
+    "tags": [],
+    "enunciado": "A dermatose in(cid:87)amatória de vulva descrita como lesão pruriginosa, hipocrômica, brilhante, nacarada, causando aderência na linha mediana e estreitando o introito vaginal é?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Líquen escleroso"
+      },
+      {
+        "letra": "B",
+        "texto": "Epitélio acetobranco"
+      },
+      {
+        "letra": "C",
+        "texto": "Condiloma plano"
+      },
+      {
+        "letra": "D",
+        "texto": "Vitiligo"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 97073,
+    "tags": [],
+    "enunciado": "A bactéria que mais comumente infecta o cisto e provoca o abscesso de glândula de Bartholin é a:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "estreptococo beta hemolítico"
+      },
+      {
+        "letra": "B",
+        "texto": "Chlamydia trachomatis"
+      },
+      {
+        "letra": "C",
+        "texto": "Neisseria gonorrhoeae"
+      },
+      {
+        "letra": "D",
+        "texto": "Escherichia coli"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 97074,
+    "tags": [],
+    "enunciado": "Paciente de 60 anos com quadro de prurido vulvar há cerca de 6 meses. Já usou por conta própria creme de nistatina sem melhora. Ao exame físico observa-se lesão hipocrômica acometendo sulco interlabial e região perianal, além de um adelgaçamento de pequenos lábios. O diagnóstico clínico da paciente é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Vitiligo."
+      },
+      {
+        "letra": "B",
+        "texto": "Líquen simples."
+      },
+      {
+        "letra": "C",
+        "texto": "Doença de Paget vulvar."
+      },
+      {
+        "letra": "D",
+        "texto": "Líquen escleroso."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 97075,
+    "tags": [],
+    "enunciado": "A Condilomatose conhecida como tumor de Buscke-Lowenstein apresenta as seguintes características, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É considerada variante de carcinoma espinocelular verrucoso."
+      },
+      {
+        "letra": "B",
+        "texto": "Associada geralmente aos HPVs 6 e 11."
+      },
+      {
+        "letra": "C",
+        "texto": "Adquirem tamanhos grandes com crescimento lento."
+      },
+      {
+        "letra": "D",
+        "texto": "Geralmente acometem indivíduos imunocompetentes."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 97076,
+    "tags": [],
+    "enunciado": "Assinale a alternativa correta, a respeito do HPV.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É frequente a transmissão por fômites, bem como durante o parto."
+      },
+      {
+        "letra": "B",
+        "texto": "Apesar de ser uma infecção rara, é importante devido ao potencial oncogênico."
+      },
+      {
+        "letra": "C",
+        "texto": "A prevalência é maior em mulheres acima de 30 anos."
+      },
+      {
+        "letra": "D",
+        "texto": "A maioria das infecções leva ao desenvolvimento de verrugas anogenitais."
+      },
+      {
+        "letra": "E",
+        "texto": "A imunização contra HPV faz parte do Calendário Nacional de Vacinação."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 97077,
+    "tags": [],
+    "enunciado": "A moléstia de Paget da vulva é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Neoplásica."
+      },
+      {
+        "letra": "B",
+        "texto": "Inflamatória."
+      },
+      {
+        "letra": "C",
+        "texto": "Metaplásica."
+      },
+      {
+        "letra": "D",
+        "texto": "Degenerativa."
+      },
+      {
+        "letra": "E",
+        "texto": "Traumática."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 97078,
+    "tags": [],
+    "enunciado": "Mulher, 35 anos, queixando-se de prurido intenso em genitália, apresenta, ao exame ginecológico, lesões em placa hipoacrômica, de aspecto nacarado, discretamente endurecida em vulva. Indique, respectivamente, o diagnóstico e tratamento corretos.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Atrofia branca de Milian, clobetasol tópico."
+      },
+      {
+        "letra": "B",
+        "texto": "Liquen escleroatrófico, clotrimazol tópico."
+      },
+      {
+        "letra": "C",
+        "texto": "Atrofia branca de Milian, clotrimazol tópico."
+      },
+      {
+        "letra": "D",
+        "texto": "Liquen escleroatrófico, clobetasol tópico."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 97079,
+    "tags": [],
+    "enunciado": "Maria, 60 anos, apresenta prurido vulvar há 6 meses. Ao exame: lesão hipocrômica em clitóris, pequenos lábios e perianal em formato de \"\"8\"\", além de pequena sinequia de pequenos lábios. Qual provável diagnóstico:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Líquen plano."
+      },
+      {
+        "letra": "B",
+        "texto": "Líquen escleroso."
+      },
+      {
+        "letra": "C",
+        "texto": "Vitiligo."
+      },
+      {
+        "letra": "D",
+        "texto": "Psoríase."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 97080,
+    "tags": [],
+    "enunciado": "Sobre a Neoplasia Intraepitelial Vulvar (NIV) avalie as afirmativas: I- A vulvectomia pode ser utilizada como tratamento. II- A Doença de Paget da Vulva acomete principalmente mulheres brancas na pós-menopausa. III- O melanoma disseminado superficial é diagnóstico diferencial da Doença de Paget da Vulva. Estão corretas:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas a afirmativa I está correta."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas a afirmativa II está correta."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas a afirmativa III está correta."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas as afirmativas I e II estão corretas."
+      },
+      {
+        "letra": "E",
+        "texto": "As afirmativas I, II e III estão corretas."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 97081,
+    "tags": [],
+    "enunciado": "Mulher com vida sexual ativa, chega à emergência referindo prurido vulvar intenso, sensação de queimação local. Ao exame observam-se inúmeras verrugas vulvares. Conduta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Prescrever a vacina para o vírus HPV"
+      },
+      {
+        "letra": "B",
+        "texto": "Internar e realizar exérese ampla das lesões"
+      },
+      {
+        "letra": "C",
+        "texto": "Solicitar teste rápido para sífilis; se negativo, encaminhar ao ambulatório para cauterização das lesões"
+      },
+      {
+        "letra": "D",
+        "texto": "Iniciar antibióticos"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 97082,
+    "tags": [],
+    "enunciado": "Uma mulher de 78 anos de idade apresenta lesão numular de 1,5 cm em grande lábio direito. Submeteu-se à biópsia incisional ambulatorial que revelou carcinoma espinocelular com invasão estromal de 0,5 mm. A conduta recomendada é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Radioterapia locoregional exclusiva, uma vez que o risco cirúrgico é elevado."
+      },
+      {
+        "letra": "B",
+        "texto": "Vulvectomia simples direita e remoção do linfonodo sentinela inguinal isilateral."
+      },
+      {
+        "letra": "C",
+        "texto": "Vulvectomia radical e remoção do linfonodo sentinela inguinal bilateral."
+      },
+      {
+        "letra": "D",
+        "texto": "Ressecção ampliada da lesão com margem de 2cm, dispensando linfadenectomia."
+      },
+      {
+        "letra": "E",
+        "texto": "Cauterização química ou elétrica da lesão e excisão cirúrgica se houver recidiva."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 97083,
+    "tags": [],
+    "enunciado": "Uma adolescente de 15 anos de idade procura o ginecologista para orientação contraceptiva. Refere que seus pais desconhecem que tem atividade sexual e que não pretende contar a eles. Durante o exame ginecológico, são encontradas verrugas genitais suspeitas de HPV. Após esclarecer as dúvidas da jovem quanto à vida sexual com segurança, o ginecologista deve",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Prescrever contraceptivo, biopsiar e tratar as lesões suspeitas com autorização da paciente."
+      },
+      {
+        "letra": "B",
+        "texto": "Solicitar a presença de um familiar responsável para prescrever o contraceptivo e tratar as lesões."
+      },
+      {
+        "letra": "C",
+        "texto": "Prescrever o contraceptivo, mas solicitar a um responsável que autorize a realização da biópsia."
+      },
+      {
+        "letra": "D",
+        "texto": "Orientar o uso de preservativo, cauterizar as lesões verrucosas e esclarecer sobre a necessidade da presença de um adulto responsável para prescrição de medicamentos."
+      },
+      {
+        "letra": "E",
+        "texto": "Avisar os responsáveis a respeito da suspeita de HPV por se tratar de doença sexualmente transmissível antes de instituir qualquer tratamento."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 97084,
+    "tags": [],
+    "enunciado": "A glândula de Bartholin está localizada no terço interior dos grandes lábios. Quando seu ducto é obstruído, forma-se um cisto, geralmente assintomático, podendo eventualmente se manifestar como desconforto ou mesmo dor ao sentar ou nas relações sexuais. Qual a conduta diante de um caso:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Se assintomático ou com sintomas leves, orientar quanto a benignidade do quadro e evitar banhos de assento"
+      },
+      {
+        "letra": "B",
+        "texto": "Se assintomático ou com sintomas leves, orientar quanto a possível malignidade do quadro, observar e tratar com banhos de assento e analgésicos"
+      },
+      {
+        "letra": "C",
+        "texto": "Se sintomático a cirurgia de marsupialização não é indicada"
+      },
+      {
+        "letra": "D",
+        "texto": "Usar antibióticos apenas se suspeita de IST, presença de abscesso ou em caso de recorrências"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 97085,
+    "tags": [],
+    "enunciado": "Paciente de 18 anos é atendida na USF com queixa de aparecimento de lesões, destacadas na (cid:49)gura abaixo. Assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Trata-se de candidíase vulvar e o tratamento correto deverá utilizar fluconazol oral e creme vaginal contendo miconazol;"
+      },
+      {
+        "letra": "B",
+        "texto": "Trata-se de infecção mista e o tratamento correto deverá utilizar tinidazol oral e creme vaginal contendo nistatina;"
+      },
+      {
+        "letra": "C",
+        "texto": "Trata-se de condiloma, causado pelo HPV e o tratamento recomendado é a aplicação de gama- interferon, devido à quantidade maciça de lesões;"
+      },
+      {
+        "letra": "D",
+        "texto": "Trata-se de de condiloma, causado pelo HPV e o tratamento recomendado é a aplicação de ácido tricloroacético em concentração não inferior a 80%;"
+      },
+      {
+        "letra": "E",
+        "texto": "Não é possível definir a infecção, o correto seria utilização de creme vaginal contendo antifúngico, antibacteriano e antiprotozoário."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 97086,
+    "tags": [],
+    "enunciado": "Mulher de 85 anos de idade queixa-se de prurido vulvar intermitente, há mais de três anos, que piorou nos últimos meses. Ao exame, observase pequena lesão ulcerada de 1 cm no grande lábio direito. Pela frequência, espera-se encontrar em exame histológico:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Melanoma."
+      },
+      {
+        "letra": "B",
+        "texto": "Carcinoma basocelular."
+      },
+      {
+        "letra": "C",
+        "texto": "Sarcoma."
+      },
+      {
+        "letra": "D",
+        "texto": "Carcinoma escamoso."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 97087,
+    "tags": [],
+    "enunciado": "Menina de 9 anos, pré-púbere, apresenta prurido na região genital há quatro meses. Utilizou nistatina tópica sem melhora. Exame físico: área acrômica de quatro centímetros de diâmetro em região interna dos grandes lábios, com discretas fissuras. A principal hipótese diagnóstica e o respectivo tratamento são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "vitiligo; fototerapia com UVA"
+      },
+      {
+        "letra": "B",
+        "texto": "trauma local; investigar abuso sexual."
+      },
+      {
+        "letra": "C",
+        "texto": "líquen escleroso; corticosteroide tópico."
+      },
+      {
+        "letra": "D",
+        "texto": "esclerodermia; metotrexato oral."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 97088,
+    "tags": [],
+    "enunciado": "Jovem, 16 anos de idade, conta que há 2 semanas surgiram lesões exo(cid:49)licas em vulva, semelhantes a \"cristas de galo\". Ao exame: múltiplas verrugas genitais em topogra(cid:49)a de lábios menores, bilateralmente (foto da lesão reproduzida a seguir). Diante da situação apresentada, indique a alternativa correta com relação à suspeita diagnóstica e ao tratamento, respectivamente, conforme o Protocolo Clínico e Diretrizes Terapêuticas do Ministério da Saúde.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Herpes genital; aciclovir"
+      },
+      {
+        "letra": "B",
+        "texto": "Donovanose; doxiciclina"
+      },
+      {
+        "letra": "C",
+        "texto": "Condiloma acuminado; ácido tricloroacético"
+      },
+      {
+        "letra": "D",
+        "texto": "Síflis, penicilina benzatina"
+      },
+      {
+        "letra": "E",
+        "texto": "Linfogranuloma venéreo; azitromicina"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 97089,
+    "tags": [],
+    "enunciado": "Paciente de 25 anos de idade, gestante de 30 semanas, apresentando condiloma acuminado em vulva. Dos tratamentos abaixo, qual é contra-indicado para esta paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ácido tricloro-acético (ATA) a 50%"
+      },
+      {
+        "letra": "B",
+        "texto": "Eletrocauterização"
+      },
+      {
+        "letra": "C",
+        "texto": "5-fluorouracil"
+      },
+      {
+        "letra": "D",
+        "texto": "Excisão das lesões com bisturi de alta frequência"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 97090,
+    "tags": [],
+    "enunciado": "Mulher de 65 anos com carcinoma de vulva invasivo com 3 cm de diâmetro, sem evidência de disseminação linfática. Qual deve ser o tratamento inicial de escolha?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Quimioterapia."
+      },
+      {
+        "letra": "B",
+        "texto": "Radioterapia."
+      },
+      {
+        "letra": "C",
+        "texto": "Vulvectomia simples."
+      },
+      {
+        "letra": "D",
+        "texto": "Vulvectomia radical sem linfadenectomia inguinal."
+      },
+      {
+        "letra": "E",
+        "texto": "Vulvectomia radical parcial com linfadenectomia inguinal bilateral."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 97091,
+    "tags": [],
+    "enunciado": "Paciente de 52 anos, na pós-menopausa, refere prurido vulvar há um ano associado à dispareunia, com espessamento da pele e (cid:49)ssuras. Exame físico: mancha hipocrômica em grandes lábios com extensão para região perineal e atro(cid:49)a de pequenos lábios. Realizada biópsia com diagnóstico de líquen escleroso vulvar. A terapêutica inicial, mais adequada, para esta paciente é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Estrogenioterapia local"
+      },
+      {
+        "letra": "B",
+        "texto": "Corticoide tópico de alta potência."
+      },
+      {
+        "letra": "C",
+        "texto": "Hidratantes ou emolientes locais."
+      },
+      {
+        "letra": "D",
+        "texto": "Anti-histamínico por via oral."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 97092,
+    "tags": [],
+    "enunciado": "A neoplasia intraepitelial da vulva, mais conhecida pela sigla VIN, que deriva da sua denominação inglesa “vulvar intraepithelial neoplasia”, é uma entidade patológica reconhecida há mais de 20 anos pela International Society for Study of Vulvo-vaginal Diseases (ISSVD). O interesse médico pela VIN se acentuou na última década, dado o reconhecimento do crescente aumento da incidência da doença, especialmente em mulheres jovens, e pelo desenvolvimento de novas terapêuticas médicas dirigidas ao tratamento primário. Na neoplasia de vulva, as metástases para linfonodos intrapélvicos são mais frequentes quando a lesão localiza-se",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "nos pequenos lábios."
+      },
+      {
+        "letra": "B",
+        "texto": "nos grandes lábios."
+      },
+      {
+        "letra": "C",
+        "texto": "no clitóris."
+      },
+      {
+        "letra": "D",
+        "texto": "na comissura posterior."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 97093,
+    "tags": [],
+    "enunciado": "Paciente, 50 anos, relata desconforto acompanhado de prurido na região anogenital há 8 meses. História de hipertireoidismo. Ao exame físico, hipocromia vulvar e perineal, áreas de queratose e atro(cid:49)a dos pequenos lábios, coalescência com os grandes lábios. Hipótese diagnóstica:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Candidíase."
+      },
+      {
+        "letra": "B",
+        "texto": "Hipoestrogenismo."
+      },
+      {
+        "letra": "C",
+        "texto": "Esclerodermia."
+      },
+      {
+        "letra": "D",
+        "texto": "Líquen escleroatrófico."
+      },
+      {
+        "letra": "E",
+        "texto": "Líquen crônico simples."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 97094,
+    "tags": [],
+    "enunciado": "Paciente, 20 anos, comparece no serviço de ginecologia devido aparecimento de verrugas genitais. MAC:ACO. Ao exame físico, múltiplos pequenos condilomas na vulva. Realizado os testes rápidos para ISTs, reagente para sí(cid:49)lis. Fez VDRL, não reagente. História de tratamento para sí(cid:49)lis. Marque a alternativa correta quanto as condutas, respectivamente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ATA; tratar sífilis."
+      },
+      {
+        "letra": "B",
+        "texto": "Podofilina; tratar sífilis."
+      },
+      {
+        "letra": "C",
+        "texto": "Imiquimode; não tratar sífilis."
+      },
+      {
+        "letra": "D",
+        "texto": "Ressecção das lesões vulvares; não tratar sífilis."
+      },
+      {
+        "letra": "E",
+        "texto": "Laser; tratar sífilis."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 97095,
+    "tags": [],
+    "enunciado": "A neoplasia de vulva é incomum e o tipo histopatológico mais prevalente é o epidermoide. A disseminação neoplástica pode ocorrer por três vias: linfática, hematogênica e locorregional. Os linfáticos da vulva e do terço distal da vagina drenam geralmente para os linfonodos:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "inguinais superficiais"
+      },
+      {
+        "letra": "B",
+        "texto": "inguinais profundos"
+      },
+      {
+        "letra": "C",
+        "texto": "femorais profundos"
+      },
+      {
+        "letra": "D",
+        "texto": "ilíacos internos"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 97096,
+    "tags": [],
+    "enunciado": "Lactente de 10 meses foi levada ao pediatra com quadro de lesões verrucosas perianais de início há um mês, que foram aumentando em quantidade. A mãe, 14 anos, refere que ele nasceu no parto vaginal, assistido por pediatra, sem complicações, permanecendo em aleitamento materno exclusivo até 2 meses. Por vezes, a bebê (cid:49)cava sozinha com o avô paterno. Foi veri(cid:49)cado que o calendário vacinal está em dia, e que no cartão de acompanhamento pré-natal há registro de oito consultas, sem intercorrências. O laudo de exame colposcópico, realizado com seis meses de gestação, mostrou lesão NIC grau I. Ao exame físico, a criança está em bom estado geral, mas apresenta lesões condilomatosas acuminadas em região perianal. O restante do exame físico apresentou resultado normal. Diante desse caso, a principal hipótese diagnóstica é de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Infecção por HPV de transmissão perinatal."
+      },
+      {
+        "letra": "B",
+        "texto": "Infecção por HPV por abuso sexual."
+      },
+      {
+        "letra": "C",
+        "texto": "Sífilis por abuso sexual."
+      },
+      {
+        "letra": "D",
+        "texto": "Sífilis congênita."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 97097,
+    "tags": [],
+    "enunciado": "Mulher, 35 anos, procura atendimento médico com queixa de prurido vulvar. Ao exame clícnico apresenta lesões policrômicas, papulosas em placas con(cid:87)uentes acometendo 1/3 médio de grande lábio esquerdo. É submetida à biópsia que revela tratar-se de lesão intraepitelial escamosa vulvar de alto grau (NIV usual). O tipo de HPV mais comumente envolvido e o respectivo tratamento indicado são os seguintes:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "HPV 11/ vulvectomia parcial."
+      },
+      {
+        "letra": "B",
+        "texto": "HPV 11/ vulvectomia total com linfadenectomia inguinal do lado da lesão."
+      },
+      {
+        "letra": "C",
+        "texto": "HPV 16 / excisão ampla com linfadenectomia inguinal do lado da lesão."
+      },
+      {
+        "letra": "D",
+        "texto": "HPV 18 / excisão ampla com linfadenectomia inguinal do lado da lesão."
+      },
+      {
+        "letra": "E",
+        "texto": "HPV 16 / excisão ampla da lesão com margem de segurança."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 97098,
+    "tags": [],
+    "enunciado": "A pele e o tecido subcutâneo do monte púbico são irrigadas pela artéria",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "uterina."
+      },
+      {
+        "letra": "B",
+        "texto": "vaginal."
+      },
+      {
+        "letra": "C",
+        "texto": "femoral."
+      },
+      {
+        "letra": "D",
+        "texto": "pudenda externa."
+      },
+      {
+        "letra": "E",
+        "texto": "glútea inferior."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 97099,
+    "tags": [],
+    "enunciado": "Paciente de 55 anos comparece à consulta com queixa de prurido vulvar há 1 ano. Realizou vários tratamentos por conta própria com diferentes cremes vaginais, sem sucesso. Faz tratamento para diabetes e hipotireoidismo. Está divorciada, é sexualmente ativa e refere última menstruação há 3 anos. Ao exame ginecológico você observa uma área hipopigmentada e atró(cid:49)ca envolvendo introito vaginal, clitóris, pequenos lábios, região perianal e face interna dos grandes lábios, em formato de ampulheta. Qual o tratamento mais adequado?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fluconazol 150 mg via oral."
+      },
+      {
+        "letra": "B",
+        "texto": "Estriol 1% creme vaginal."
+      },
+      {
+        "letra": "C",
+        "texto": "Cetoconazol 2% + betametasona 0,05% tópico."
+      },
+      {
+        "letra": "D",
+        "texto": "Clobetasol 0,05% tópico."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 97100,
+    "tags": [],
+    "enunciado": "Dentre as patologias vulvares, as mais comuns se manisfestam pela presença de úlceras ou verrugas. Marque a afirmativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Todas as mulheres com úlceras genitais devem ser submetidas a teste sorológico para sífilis, objetivando prevenir a forma terciária desta doença e a sífilis congênita."
+      },
+      {
+        "letra": "B",
+        "texto": "Vesículas agrupadas misturadas a pequenas úlceras, sobretudo com história prévia dessas mesmas lesões, são quase sempre patognomônicas de herpes genital."
+      },
+      {
+        "letra": "C",
+        "texto": "As verrugas genitais externas são uma manifestação de infecção pelo HPV e o objetivo do tratamento deve ser a erradicação da infecção viral, por seu risco oncogênico."
+      },
+      {
+        "letra": "D",
+        "texto": "Úlcera única, indolor, de bordo regular e endurecido é sugestiva de sífilis enquanto úlcera única ou múltipla, dolorosa, de bordo irregular com linfadenopatia inguinal sugere cancróide."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 97101,
+    "tags": [],
+    "enunciado": "Os linfonodos mais frequentemente acometidos, em relação ao câncer de vulva são os:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pelvicos"
+      },
+      {
+        "letra": "B",
+        "texto": "Para-aorticos"
+      },
+      {
+        "letra": "C",
+        "texto": "Inguinofemorais"
+      },
+      {
+        "letra": "D",
+        "texto": "Ilíacos externos"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 97102,
+    "tags": [],
+    "enunciado": "Assinale a alternativa correto:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A ressonância magnética é a modalidade de imagem preferencial para a avaliação inicial de massas anexiais."
+      },
+      {
+        "letra": "B",
+        "texto": "A vaginose pela Gardnerella é uma condição em que há um predomínio de bactérias aeróbias e não é causa importante de prurido vulvar."
+      },
+      {
+        "letra": "C",
+        "texto": "O líquen escleroso é uma inflamação crônica cujo sintoma chave é o prurido vulvar."
+      },
+      {
+        "letra": "D",
+        "texto": "A adenomiose é a infiltração profunda do miométrio por tecido endometrial (glandular e estromal) sendo o diagnóstico suspeitado pelos achados histológicos da peça cirúrgica."
+      },
+      {
+        "letra": "E",
+        "texto": "A doença inflamatória pélvica caracteriza-se por dor no abdômen inferior, febre e hemograma alterado, sendo o seu diagnóstico fácil e preciso."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 97103,
+    "tags": [],
+    "enunciado": "Sobre as neoplasias ginecológicas, assinale a opção CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A disseminação por via linfática é a principal forma de propagação do câncer de ovário."
+      },
+      {
+        "letra": "B",
+        "texto": "O câncer de endométrio possui lesão precursora estabelecida e passível de prevenção."
+      },
+      {
+        "letra": "C",
+        "texto": "O câncer de vulva é mais prevalente em mulheres jovens e tem o HPV como seu principal agente etiológico."
+      },
+      {
+        "letra": "D",
+        "texto": "A quimioterapia tem papel importante no tratamento do câncer do colo uterino."
+      },
+      {
+        "letra": "E",
+        "texto": "A radioterapia não tem indicação no tratamento do câncer de ovário."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 97104,
+    "tags": [],
+    "enunciado": "Sobre o carcinoma da vulva, assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O tipo histológico mais frequente é o carcinoma queratinizante."
+      },
+      {
+        "letra": "B",
+        "texto": "O melanoma de vulva é o quarto câncer invasivo de vulva mais frequente."
+      },
+      {
+        "letra": "C",
+        "texto": "A Doença de Paget vulvar invasiva não está relacionada as células apócrinas."
+      },
+      {
+        "letra": "D",
+        "texto": "No tumor de Buscke Löwestein de comportamento maligno, não se deve indicar radioterapia porque os raios ionizantes provocam transformação da célula diplóide em aneuplóide."
+      },
+      {
+        "letra": "E",
+        "texto": "O tratamento preconizado para o Adenocarcinoma de glândula de Bartholin é a Bartholinectomia associado a radioterapia local."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 97105,
+    "tags": [],
+    "enunciado": "Mulher de 71 anos, com carcinoma escamoso da vulva e lesão de 1 cm, adjacente ao meato uretral e com metástases para linfonodos inguinais bilaterais. O estadiamento correto pelos critérios da FIGO (Federação Internacional de Ginecologia e Obstetrícia) será:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "III A"
+      },
+      {
+        "letra": "B",
+        "texto": "IV A"
+      },
+      {
+        "letra": "C",
+        "texto": "II B"
+      },
+      {
+        "letra": "D",
+        "texto": "III B"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 97106,
+    "tags": [],
+    "enunciado": "Coco gram negativo que pode causar Bartholinite,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "estafilococo."
+      },
+      {
+        "letra": "B",
+        "texto": "gonococo."
+      },
+      {
+        "letra": "C",
+        "texto": "trichomonas."
+      },
+      {
+        "letra": "D",
+        "texto": "mobiluncus."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 97107,
+    "tags": [],
+    "enunciado": "Em um quadro de Bartholinite aguda, o tratamento imediato mais recomendado é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Bartholinectomia."
+      },
+      {
+        "letra": "B",
+        "texto": "Punção e antibiótico."
+      },
+      {
+        "letra": "C",
+        "texto": "Antibioticoterapia e calor local."
+      },
+      {
+        "letra": "D",
+        "texto": "Drenagem e antibiótico."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 97108,
+    "tags": [],
+    "enunciado": "Sobre a anatomia da vulva, pode-se afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As glândulas de Skene se localizam na superfície interna dos grandes lábios;"
+      },
+      {
+        "letra": "B",
+        "texto": "As glândulas de Bartholin originam-se do ducto menosonéfricos;"
+      },
+      {
+        "letra": "C",
+        "texto": "Os lábios maiores são homólogos à próstata;"
+      },
+      {
+        "letra": "D",
+        "texto": "Os pequenos retalhos do hímen, restantes após o parto são chamados de carúnculas"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 97109,
+    "tags": [],
+    "enunciado": "Paciente 52 anos, refere prurido vulvar resistente ao uso de medicamentos. Ao exame é observado diminuição da gordura subcutânea da vulva, atro(cid:49)a das formações vulvares, os pequenos lábios ausentes e sepultamento do clitóris. Qual o provável diagnóstico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Líquen escleroso."
+      },
+      {
+        "letra": "B",
+        "texto": "Líquen plano."
+      },
+      {
+        "letra": "C",
+        "texto": "Candidíase vaginal crônica."
+      },
+      {
+        "letra": "D",
+        "texto": "Distrofia hiperplásica."
+      },
+      {
+        "letra": "E",
+        "texto": "Doença de Paget."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 97110,
+    "tags": [],
+    "enunciado": "Jéssica, 11 anos, é levada à consulta com Pediatra devido ao surgimento de lesões papulares umbilicadas, de tamanhos variados (3 mm a 1 cm de diâmetro), em abdome, há cerca de 3 semanas. Sua genitora a(cid:49)rma que inicialmente eram poucas, que vem aumentando seu número e que são assintomáticas. Qual a hipótese diagnóstica mais provável e qual a melhor conduta a ser tomada para Jéssica?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Prurigo estrófulo, devendo ser utilizado corticoide tópico."
+      },
+      {
+        "letra": "B",
+        "texto": "Nódulo escabiótico, devendo ser utilizado anti-histamínico."
+      },
+      {
+        "letra": "C",
+        "texto": "Molusco contagioso, devendo ser realizada curetagem das lesões."
+      },
+      {
+        "letra": "D",
+        "texto": "Verruga filiforme, devendo ser utilizada solução à base de ácidos salicílico e lático."
+      },
+      {
+        "letra": "E",
+        "texto": "Condiloma acuminado, devendo ser utilizada solução à base de ácidos salicílico e lático."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 97111,
+    "tags": [],
+    "enunciado": "Outros fatores necessitam ser considerados no momento da decisão terapêutica das lesões induzidas pelo HPV, como preferência do paciente, custos, disponibilidade de recursos, conveniência, efeitos adversos e experiência do profissional de saúde. Sobre isso, está inadequado o item:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As verrugas anogenitais localizadas em superfícies úmidas e/ou nas áreas intertriginosas respondem pior à terapêutica tópica (ex.: ácido tricloroacético – ATA, podofilina) que as verrugas em superfícies secas."
+      },
+      {
+        "letra": "B",
+        "texto": "Deve-se mudar de opção terapêutica quando um paciente não apresentar melhora significativa após três sessões, ou se as verrugas não desaparecerem após seis sessões."
+      },
+      {
+        "letra": "C",
+        "texto": "Menos frequentemente, podem estar presentes em áreas extragenitais, como conjuntivas, mucosa nasal, oral e laríngea."
+      },
+      {
+        "letra": "D",
+        "texto": "A infecção por um genótipo de HPV não impede a infecção por outros tipos de HPV. O tratamento deve basear-se nos mesmos princípios referidos para os não- imunossuprimidos."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 97112,
+    "tags": [],
+    "enunciado": "O objetivo principal do tratamento das lesões anogenitais induzidas pelo HPV é a remoção das lesões clínicas. Não sendo adequado o seguinte item:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Se não houver esse tratamento, os condilomas podem desaparecer, permanecer inalterados ou aumentar em tamanho ou número."
+      },
+      {
+        "letra": "B",
+        "texto": "Nenhuma evidência indica que os tratamentos disponíveis erradicam ou afetam a história natural da infecção do HPV."
+      },
+      {
+        "letra": "C",
+        "texto": "Como o carcinoma escamoso costuma surgir mais raramente em imunossuprimidos, valoriza-se a biópsia de lesões nesse grupo."
+      },
+      {
+        "letra": "D",
+        "texto": "O tratamento das lesões anogenitais induzidas pelo HPV deve ser individualizado, considerando tamanho, morfologia, número e local das lesões."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 97113,
+    "tags": [],
+    "enunciado": "Quanto ao líquen escleroso vulvar, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "apresenta lesões planas, pruriginosas e esverdeadas."
+      },
+      {
+        "letra": "B",
+        "texto": "é causado geralmente pelo HPV tipo 8 e 16."
+      },
+      {
+        "letra": "C",
+        "texto": "o corticoide tópico está contraindicado."
+      },
+      {
+        "letra": "D",
+        "texto": "a etiologia é incerta e o risco de aparecimento de câncer vulvar é inferior a 5%."
+      },
+      {
+        "letra": "E",
+        "texto": "é mais frequente durante a menacme, sendo raro na infância e na pós-menopausa."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 97114,
+    "tags": [],
+    "enunciado": "Durante exame físico de uma paciente de 70 anos, com prurido vulvar há vários anos, identi(cid:49)cou-se na vulva uma lesão avermelhada, com bordas elevadas e halo de epitélio branco. Qual a conduta mais adequada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Solicitar colposcopia pelo risco evidente de infecção por HPV de alto grau."
+      },
+      {
+        "letra": "B",
+        "texto": "Tratar o prurido com anti-histamínicos sistêmicos."
+      },
+      {
+        "letra": "C",
+        "texto": "Reavaliar a lesão após 30 dias de estrógeno tópico devido a menopausa."
+      },
+      {
+        "letra": "D",
+        "texto": "Realizar cauterização com laser de CO2."
+      },
+      {
+        "letra": "E",
+        "texto": "Realizar biópsia com anestesia local."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 97115,
+    "tags": [],
+    "enunciado": "Mãe procura a UBS pois notou alteração na genitália de sua (cid:49)lha de 2 anos, relatando\"fechamento\" da vagina. Ao exame físico, nota-se que os pequenos lábios estão unidos por uma linha (cid:49)na distinta de demarcação ou rafe entre eles. Feito o diagnóstico de sinéquia labial, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A causa da aderência labial é desconhecida, embora o hiperestrogenismo esteja envolvido."
+      },
+      {
+        "letra": "B",
+        "texto": "O tratamento das sinéquias labiais varia de acordo com o grau de fibrose e os sintomas, raramente apresentado resolução espontânea."
+      },
+      {
+        "letra": "C",
+        "texto": "A separação manual da sinéquia labial em ambiente ambulatorial, sem analgesia, é recomendada."
+      },
+      {
+        "letra": "D",
+        "texto": "A secção de lábios fundidos, também chamada introitoplastia, pode ser realizada em casos selecionados, envolvendo incisão em linha média com eletrocautério, sendo posteriormente suturado com fio absorvível."
+      },
+      {
+        "letra": "E",
+        "texto": "Essa aderência desenvolve-se em 1 a 5% das meninas de qualquer idade na fase pré- puberal e em cerca de 10% dos lactentes do sexo feminino no primeiro ano de vida."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 97116,
+    "tags": [],
+    "enunciado": "Paciente de 60 anos comparece ao ambulatório de ginecologia com queixa de prurido vulvar. Ao exame ginecológico, apresenta vulva atró(cid:49)ca, com presença de mácula hipocrômica em face interna de grandes lábios bilateralmente que se estende até região perineal e perianal. Nesse caso, o diagnóstico mais provável é de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "psoríase"
+      },
+      {
+        "letra": "B",
+        "texto": "líquen escleroso"
+      },
+      {
+        "letra": "C",
+        "texto": "candidíase vulvar"
+      },
+      {
+        "letra": "D",
+        "texto": "dermatite seborreica"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 97117,
+    "tags": [],
+    "enunciado": "Mulher de 37 anos de idade refere aparecimento de \"bolinha\" na vulva há 1 semana, que limita a deambulação e a atividade sexual. A inspeção genital está mostrada abaixo. Qual é o tratamento adequado para o caso?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aspirado por punção."
+      },
+      {
+        "letra": "B",
+        "texto": "Biópsia por agulha grossa."
+      },
+      {
+        "letra": "C",
+        "texto": "Marsupialização."
+      },
+      {
+        "letra": "D",
+        "texto": "Ressecção ampla com margem livre."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 97118,
+    "tags": [],
+    "enunciado": "O câncer de vulva, é raro, sendo responsável por 3 a 5% das neoplasias malignas do trato genital feminino, o que corresponde a menos de 1% dessas neoplasias. Em relação a essa neoplasia, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o câncer de vulva pode se disseminar a partir do sítio inicial por meio da invasão local, mas a disseminação se dá principalmente por via hematogênica, atingindo pulmões, fígado e ossos."
+      },
+      {
+        "letra": "B",
+        "texto": "a localização mais comum da lesão é no pequeno lábio, com taxa de incidência de 50%; em seguida, na fúrcula, com incidência entre 15% a 20%, no clitóris e na glândula de Bartholin."
+      },
+      {
+        "letra": "C",
+        "texto": "o tipo histológico mais frequente é o carcinoma epidermoide, responsável por, aproximadamente, 85% das ocorrências, seguido pelo melanoma."
+      },
+      {
+        "letra": "D",
+        "texto": "a incidência estimada é de 10 a 20 casos por 100.000 mulheres/ano, com maior frequência entre mulheres com idade superior a 60 anos, quando a taxa aumenta para 50 casos por 100.000 mulheres/ano."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 97119,
+    "tags": [],
+    "enunciado": "O tratamento do líquen escleroso vulvar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não necessita de biópsia prévia."
+      },
+      {
+        "letra": "B",
+        "texto": "Com androgênios é a melhor alternativa."
+      },
+      {
+        "letra": "C",
+        "texto": "Obtém boa resposta terapêutica em menos da metade dos casos."
+      },
+      {
+        "letra": "D",
+        "texto": "Deve ser realizado de preferência com corticosteróides de alta potência."
+      },
+      {
+        "letra": "E",
+        "texto": "A vulvectomia é a primeira opção."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 97120,
+    "tags": [],
+    "enunciado": "Qual das alternativas, a seguir, informa a doença vulvar crônica com maior risco de malignidade?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Líquen simples crônico."
+      },
+      {
+        "letra": "B",
+        "texto": "Líquen escleroso."
+      },
+      {
+        "letra": "C",
+        "texto": "Doença de Behçet."
+      },
+      {
+        "letra": "D",
+        "texto": "Líquen plano."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 97121,
+    "tags": [],
+    "enunciado": "Uma paciente de 70 anos, com lesão ulcerada no terço médio do grande lábio esquerdo, de 1,5 cm no maior diâmetro e com linfonodos inguinais clinicamente negativos, recebeu diagnóstico por biópsia de carcinoma escamoso de vulva com invasão do estroma menor que 1,0 mm³. O tratamento adequado para essa paciente, de acordo com o estágio dessa lesão, é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Excisão local ampla."
+      },
+      {
+        "letra": "B",
+        "texto": "Vulvectomia radical."
+      },
+      {
+        "letra": "C",
+        "texto": "Hemivulvectomia com uretrectomia segmentar distal."
+      },
+      {
+        "letra": "D",
+        "texto": "Excisão local ampla com linfadenectomia inguinofemoral bilateral."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 97122,
+    "tags": [],
+    "enunciado": "Estão relacionados com a epidemiologia de câncer basalóide ou verrucoso da vulva, exceto:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Mulheres abaixo de 55 anos"
+      },
+      {
+        "letra": "B",
+        "texto": "Baixo nível sócioeconômico"
+      },
+      {
+        "letra": "C",
+        "texto": "HPV oncogênico"
+      },
+      {
+        "letra": "D",
+        "texto": "Tabagismo"
+      },
+      {
+        "letra": "E",
+        "texto": "Liquen escleroso"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 97123,
+    "tags": [],
+    "enunciado": "Mãe procura o ambulatório de ginecologia trazendo (cid:49)lha de 7 (sete) anos que apresenta ao exame da região genital, lesão hipopigmentada, simétrica, com pele atró(cid:49)ca com aspecto de pergaminho e (cid:49)ssuras. Qual é o possível diagnóstico:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Herpes simples"
+      },
+      {
+        "letra": "B",
+        "texto": "Cancroide"
+      },
+      {
+        "letra": "C",
+        "texto": "Linfogranuloma venéreo"
+      },
+      {
+        "letra": "D",
+        "texto": "Líquen escleroso"
+      },
+      {
+        "letra": "E",
+        "texto": "Molusco contagioso"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 97124,
+    "tags": [],
+    "enunciado": "Assinale o item abaixo cujo estadiamento não é cirúrgico:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Câncer de mama;"
+      },
+      {
+        "letra": "B",
+        "texto": "Câncer de colo uterino;"
+      },
+      {
+        "letra": "C",
+        "texto": "Câncer do endométrio;"
+      },
+      {
+        "letra": "D",
+        "texto": "Câncer de vulva;"
+      },
+      {
+        "letra": "E",
+        "texto": "Câncer de ovário;"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 97125,
+    "tags": [],
+    "enunciado": "Assinale a opção que indica o agente causador do condiloma acuminado:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Papilomavirus"
+      },
+      {
+        "letra": "B",
+        "texto": "Dermatófitos"
+      },
+      {
+        "letra": "C",
+        "texto": "Herpesvírus"
+      },
+      {
+        "letra": "D",
+        "texto": "Parvovírus"
+      },
+      {
+        "letra": "E",
+        "texto": "Zontevirus"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 97126,
+    "tags": [],
+    "enunciado": "Com relação aos cistos da glândula de Bartholin, assinale a alternativa CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Quanto a sua etiopatologia, podemos afirmar que as bactérias mais comumente encontradas são a Neisseria gonorrhoeae e Chlamydia trachomatis."
+      },
+      {
+        "letra": "B",
+        "texto": "Devemos extirpá-los independentemente do seu tamanho, pois, no período de excitação sexual da mulher, eles se tornam muito volumosos e dolorosos."
+      },
+      {
+        "letra": "C",
+        "texto": "A terapia com antibióticos, após incisão e drenagem dos cistos de Bartholin, deve ser usada até mesmo nos casos em que a celulite não esteja presente."
+      },
+      {
+        "letra": "D",
+        "texto": "Quando o tratamento inclui incisão e drenagem, marsupialização, em mulheres com 40 anos ou mais, recomenda-se a biópsia devido ao risco de adenocarcinoma de Bartholin."
+      },
+      {
+        "letra": "E",
+        "texto": "O epitélio de transição dos ductos e os traumas não são considerados fatores etiológicos."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 97127,
+    "tags": [],
+    "enunciado": "O cisto de Gardner localiza-se no(a):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Canal cervical uterino."
+      },
+      {
+        "letra": "B",
+        "texto": "Ovário."
+      },
+      {
+        "letra": "C",
+        "texto": "Parede lateral da vagina."
+      },
+      {
+        "letra": "D",
+        "texto": "Porção distal das tubas uterinas."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 97128,
+    "tags": [],
+    "enunciado": "Mulher de 65 anos com carcinoma de vulva invasivo com 3 cm de diâmetro sem evidência de disseminação linfática. Qual deve ser o tratamento inicial de escolha?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Quimioterapia."
+      },
+      {
+        "letra": "B",
+        "texto": "Radioterapia."
+      },
+      {
+        "letra": "C",
+        "texto": "Vulvectomia simples."
+      },
+      {
+        "letra": "D",
+        "texto": "Vulvectomia radical sem linfadenectomia inguinal."
+      },
+      {
+        "letra": "E",
+        "texto": "Vulvectomia radical parcial com linfadenectomia inguinal bilateral."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 97129,
+    "tags": [],
+    "enunciado": "Das seguintes lesões vulvares, qual é considerada como Neoplasia?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Lipoma."
+      },
+      {
+        "letra": "B",
+        "texto": "Hidroadenoma papilar."
+      },
+      {
+        "letra": "C",
+        "texto": "Fibroma."
+      },
+      {
+        "letra": "D",
+        "texto": "Doença de Paget vulvar."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 97130,
+    "tags": [],
+    "enunciado": "Uma criança do sexo masculino com 5 anos de idade chega à consulta na Unidade Básica de Saúde (UBS) conduzido pela mãe. Ela relata que o menor vem apresentando há algumas semanas, lesões na região perianal, conforme mostra a foto a seguir. Na anamnase, foram coletadas as seguintes informações: a mãe não vive com o pai da criança, trabalha como diarista e a criança (cid:49)ca na casa do vizinho, um senhor já aposentado. O menor não frequenta a escola e o último registro de atendimento na UBS foi há 3 anos. O médico observa que a criança apresenta um comportamento arredio e se agarra à mãe quando dele se aproxima. Considerando o quadro descrito e as informações apresentadas, responda o questionamento do item a seguir. Cite dois provaveis diagnósticos para o caso. Essa questão possui comentário do professor no site 4000127937",
+    "alternativas": [],
+    "resposta_correta": null
+  },
+  {
+    "id": 97131,
+    "tags": [],
+    "enunciado": "Qual o tratamento de escolha para o líquen vulvar crônico simples?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Creme de clotrimazol 10 mg/g."
+      },
+      {
+        "letra": "B",
+        "texto": "Prednisona oral, 10 mg/dia."
+      },
+      {
+        "letra": "C",
+        "texto": "Imunoterapia."
+      },
+      {
+        "letra": "D",
+        "texto": "Pomada de propionato de clobetasol 0,05%."
+      },
+      {
+        "letra": "E",
+        "texto": "Metronidazol oral ou tópico."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 97132,
+    "tags": [],
+    "enunciado": "O câncer de vulva é uma neoplasia rara, responsável por 0,5% de todos os cânceres nas mulheres e 5% dos tumores ginecológicos. Aproximadamente 90% dos cânceres de vulva são carcinomas epidermóides. Os demais casos compreendem adenocarcinomas, melanomas, sarcomas e carcinomas basocelulares. O pricipal sintoma do câncer de vulva é o prurido. Baseado nestas informações, anamnese e exame físico minucioso as lesões suspeitas podem ser identi(cid:49)cadas. O diagnóstico é con(cid:49)rmado por biópsia, procedimento em geral ambulatorial e sob anestesia local. Considerando uma paciente, 63 anos de idade, apresenta lesão vulvar pruriginosa de 1,5 cm, localizada na fúrcula vaginal. A biópsia dirigida evidenciou tratar-se de um carcinoma epidermóide com 0,5 mm de invasão estromal. Nesse caso, o tratamento proposto é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Vulvectomia simples e linfonodectomia inguinal bilateral."
+      },
+      {
+        "letra": "B",
+        "texto": "Vulvectomia radical modificada e linfonodectomia inguinal bilateral."
+      },
+      {
+        "letra": "C",
+        "texto": "Vulvectomia simples, linfonodectomia pélvica e inguinal bilateral."
+      },
+      {
+        "letra": "D",
+        "texto": "Ressecção local ampliada, uma vez que se trata de um carcinoma microinvasor."
+      },
+      {
+        "letra": "E",
+        "texto": "Hemivulvectomia posterior sem linfonodectomia inguinal."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 97133,
+    "tags": [],
+    "enunciado": "G.L.S., 60 anos, procura o serviço devido história de prurido vulvar crônico. Ao exame físico, presença de áreas hipocrômicas na vulva com lesão única de aspecto verrucoso. Tem citologia negativa. Provável diagnóstico (s) e conduta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Condiloma; biópsia."
+      },
+      {
+        "letra": "B",
+        "texto": "Condiloma; cauterização da lesão."
+      },
+      {
+        "letra": "C",
+        "texto": "Candidíase e condiloma; antifúngico e biópsia."
+      },
+      {
+        "letra": "D",
+        "texto": "Líquen esclero-atrófico e niv; vulvoscopia."
+      },
+      {
+        "letra": "E",
+        "texto": "Vulvite diabética; controle do diabetes."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 97134,
+    "tags": [],
+    "enunciado": "Mulher de 60 anos, na menopausa, apresenta pápulas atró(cid:49)cas esbranquiçadas, que coalescem em determinadas regiões com formação de placas de \"porcelana\" e distorcem a anatomia normal. Após biópsia da área em questão e confirmação da hipótese diagnóstica, o médico deve iniciar o tratamento com:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Metronidazol gel a 0,75%, com aplicação uma vez ao dia, durante uma semana."
+      },
+      {
+        "letra": "B",
+        "texto": "Clindamicina creme 2%, com aplicação uma vez ao dia, durante quatro semanas."
+      },
+      {
+        "letra": "C",
+        "texto": "Testosterona gel 12,5 mg, com aplicação na lesão duas vezes ao dia, durante uma semana."
+      },
+      {
+        "letra": "D",
+        "texto": "Propionato de clobetasol a 0,05%, com aplicação na lesão duas vezes ao dia, durante quatro semanas."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 97135,
+    "tags": [],
+    "enunciado": "A Bartolinite é uma infeção comum da mulher no menacme e pode surgir de maneira repentina. Quais os achados sugestivos de Bartolinite ao exame físico:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Massa vulvar próximo à uretra."
+      },
+      {
+        "letra": "B",
+        "texto": "Celulite da pele do pequeno lábio próximo ao introíto vaginal (às 5 horas)."
+      },
+      {
+        "letra": "C",
+        "texto": "Massa ao toque profundo com palpação abdominal."
+      },
+      {
+        "letra": "D",
+        "texto": "Linfonodos na região inguinal."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 97136,
+    "tags": [],
+    "enunciado": "Prurido vulvar é uma queixa frequente no consultório. Ao examinar uma paciente com história de prurido vulvar há 2 anos, queixa de dispaurenia, história de outras alergias (incluindo dermatite de contato por bijuterias) e uso de pomadas e cremes com corticoides (baixa potência) para melhora do prurido, você identi(cid:49)ca a presença de 3 placas espessadas e esbranquiçadas no pequeno lábio direito, perto do clitóris. A paciente relata que em uma consulta anterior, há 6 meses, o médico já havia informado que existia uma placa. Diante disso você deve:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ficar tranquilo e orientar a paciente que se trata do mesmo problema que ela tem no restante do corpo."
+      },
+      {
+        "letra": "B",
+        "texto": "Trocar a medicação para corticoides de alta potência."
+      },
+      {
+        "letra": "C",
+        "texto": "Explicar à paciente que nesse caso é comum aparecer novas lesões devido à alergia."
+      },
+      {
+        "letra": "D",
+        "texto": "Fazer uma biópsia para identificar, do ponto de vista anatomopatológico, o problema da paciente."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 97137,
+    "tags": [],
+    "enunciado": "Para realização de biópsia de vulva, utiliza-se para orientação, o teste de Collins, que é feito com:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Lugol e ácido acético."
+      },
+      {
+        "letra": "B",
+        "texto": "Solução de Shiller e hidróxido de potássio."
+      },
+      {
+        "letra": "C",
+        "texto": "Azul de toluidina e ácido acético."
+      },
+      {
+        "letra": "D",
+        "texto": "Lugol e azul de toluidina."
+      },
+      {
+        "letra": "E",
+        "texto": "Solução de Shiller e azul de toluidina."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 97138,
+    "tags": [],
+    "enunciado": "O fator prognóstico isolado mais importante no câncer de vulva é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "profundidade de invasão tecidual"
+      },
+      {
+        "letra": "B",
+        "texto": "metástase linfonodal"
+      },
+      {
+        "letra": "C",
+        "texto": "tamanho da lesão"
+      },
+      {
+        "letra": "D",
+        "texto": "grau nuclear"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 97139,
+    "tags": [],
+    "enunciado": "A patologia caracterizada por lesões cutaneomucosas (ocular, oral e genital), associada à vasculite sistêmica, é denominada como:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Acantose nigricante."
+      },
+      {
+        "letra": "B",
+        "texto": "Doença de Crohn."
+      },
+      {
+        "letra": "C",
+        "texto": "Doença de Behçet."
+      },
+      {
+        "letra": "D",
+        "texto": "Líquen plano."
+      },
+      {
+        "letra": "E",
+        "texto": "Líquen escleroatrófico."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 97140,
+    "tags": [],
+    "enunciado": "Em relação às urgências ginecológicas, marque a resposta INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A torção ovariana geralmente é acompanhada de náuseas, vômitos e dor abdominal aguda."
+      },
+      {
+        "letra": "B",
+        "texto": "Os tumores uterinos podem causar dor associada à hemorragia, à necrose ou à compressão de vísceras adjacentes."
+      },
+      {
+        "letra": "C",
+        "texto": "A dor no início do ciclo ou durante a menstruação é denominada Mittelschmerz."
+      },
+      {
+        "letra": "D",
+        "texto": "Sangramento uterino anormal acentuado pode ter causa orgânica ou disfuncional."
+      },
+      {
+        "letra": "E",
+        "texto": "Trauma na região vulvar facilmente evolui com hematoma devido à hipervascularização local."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 97141,
+    "tags": [],
+    "enunciado": "Neoplasia intraepitelial vulvar NIV Durante o climatério também é importante a avaliação periódica objetivando-se diagnosticar precocemente enfermidades decorrentes de doenças sexualmente transmissíveis. Assim, relativa às doenças atípicas do trato genital inferior, pode-se afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A colposcopia, evidenciando mosaico grosseiro irregular, relaciona-se à infecção pelo HIV."
+      },
+      {
+        "letra": "B",
+        "texto": "O câncer epidermoide vulvar associa-se, comumente, ao líquen escleroso da vulva."
+      },
+      {
+        "letra": "C",
+        "texto": "O carcinoma epidermoide cervical não é lesão HPV-induzida."
+      },
+      {
+        "letra": "D",
+        "texto": "Colpocitologia oncótica positiva significa conização como passo seguinte."
+      },
+      {
+        "letra": "E",
+        "texto": "A lesão intraepitelial vulvar de alto grau relaciona-se diretamente ao herpes-vírus."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 97142,
+    "tags": [],
+    "enunciado": "O câncer de vulva é um tumor maligno que atinge a parte externa do aparelho reprodutor feminino. A vulva é formada pelos lábios maiores, lábios menores, clitóris e intróito vaginal. Na vulva está localizada a abertura da uretra, canal que conduz urina da bexiga ao meio externo. Câncer da vulva é uma neoplasia rara, responsável por 0,5% de todos os cânceres nas mulheres e 5% dos tumores ginecológicos. Aproximadamente 90% dos cânceres de vulva são carcinomas epidermóides. Os demais casos compreendem adenocarcinomas, melanomas, sarcomas e carcinomas basocelulares. Em relação ao câncer de vulva, os linfonodos mais frequentemente acometidos são os:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ilíacos externos."
+      },
+      {
+        "letra": "B",
+        "texto": "Ilíacos comuns."
+      },
+      {
+        "letra": "C",
+        "texto": "Inguinofemorais."
+      },
+      {
+        "letra": "D",
+        "texto": "Para-aórticos."
+      },
+      {
+        "letra": "E",
+        "texto": "Pélvicos."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 97143,
+    "tags": [],
+    "enunciado": "Observe a imagem abaixo para responder à questão (Conforme imagem do caderno de questões). Paciente de 29 anos, refere aparecimento de “bolinhas” na vulva há 1 semana. No exame físico, evidenciaram lesões expostas na imagem acima. O tratamento indicado para o caso acima, é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aciclovir."
+      },
+      {
+        "letra": "B",
+        "texto": "Ácido Bórico."
+      },
+      {
+        "letra": "C",
+        "texto": "Ácido Acético."
+      },
+      {
+        "letra": "D",
+        "texto": "Ácido Tricloroacético."
+      },
+      {
+        "letra": "E",
+        "texto": "Metotrexate."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 97144,
+    "tags": [],
+    "enunciado": "Sobre a fase do climatério relativa às doenças atípicas do trato genital inferior, atribua V (verdadeiro) ou F (falso) às afirmativas a seguir. ( ) Colposcopia, evidenciando mosaico grosseiro irregular, relaciona-se à infecção pelo HPV; ( ) O câncer epidermoide vulvar associa-se, comumente, ao líquen escleroso da vulva; ( ) O carcinoma epidermoide cervical é lesão HPV-induzida; ( ) Colpocitologia oncótica positiva significa conização como passo seguinte; ( ) A lesão intraepitelial vulvar de alto grau relaciona-se diretamente ao herpes-vírus. Assinale a alternativa que contém, de cima para baixo, a sequência correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "V, V, V, F, F."
+      },
+      {
+        "letra": "B",
+        "texto": "V, F, V, V, F."
+      },
+      {
+        "letra": "C",
+        "texto": "V, F, F, V, F."
+      },
+      {
+        "letra": "D",
+        "texto": "F, V, V, F, V."
+      },
+      {
+        "letra": "E",
+        "texto": "F, F, F, V, V."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 97145,
+    "tags": [],
+    "enunciado": "Durante a gestação, devemos tratar os condilomas acuminados com:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Solução de podofilina a 4% em gel."
+      },
+      {
+        "letra": "B",
+        "texto": "Creme de 5-fluorouracil a 5%."
+      },
+      {
+        "letra": "C",
+        "texto": "Pomada de podofilotoxina, para inativar o vírus."
+      },
+      {
+        "letra": "D",
+        "texto": "Diatermocauterização das lesões ou ácido tricloroacético a 70%."
+      },
+      {
+        "letra": "E",
+        "texto": "Solução de ácido metacresossulfônico ou ATA a 60%."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 97146,
+    "tags": [],
+    "enunciado": "Sobre as doenças que acometem a vulva, é CORRETO afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A doença de Paget vulvar é a neoplasia mais frequente da vulva e apresenta crescimento rápido"
+      },
+      {
+        "letra": "B",
+        "texto": "O câncer de vulva acomete as pacientes principalmente durante a menacme"
+      },
+      {
+        "letra": "C",
+        "texto": "O tipo histológico que acomete as pacientes idosas tem íntima relação com infecção pelo vírus HPV"
+      },
+      {
+        "letra": "D",
+        "texto": "O carcinoma de células escamosas tem como tratamento convencional a excisão cirúrgica vulvar e linfadenectomia inguinofemoral"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 97147,
+    "tags": [],
+    "enunciado": "Uma criança de dois anos com sangramento vaginal leve e corrimento fétido, com lesão polipoide e friável em fundo de saco vaginal, que à ultrassonogra(cid:49)a se apresenta como tumoração complexa de 2cm em parede fúndica-lateral esquerda, tem como hipótese diagnóstica mais provável:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Corpo estranho."
+      },
+      {
+        "letra": "B",
+        "texto": "Tumor botrioide."
+      },
+      {
+        "letra": "C",
+        "texto": "Vaginite granulomatosa"
+      },
+      {
+        "letra": "D",
+        "texto": "Sarcoma vaginal."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 97148,
+    "tags": [],
+    "enunciado": "Paciente de 55 anos queixa-se de prurido vulvar intenso há vários anos que, por vezes, interfere no sono. Ao exame, apresenta lesão brancacenta bem delimitada, envolvendo vulva e ânus, em forma de “8”. Ao exame especular, a mucosa vaginal está íntegra. Neste caso:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A hipótese mais provável é líquen plano."
+      },
+      {
+        "letra": "B",
+        "texto": "A biópsia é obrigatória para confirmar o diagnóstico."
+      },
+      {
+        "letra": "C",
+        "texto": "O tratamento de escolha é o corticoide tópico de alta potência."
+      },
+      {
+        "letra": "D",
+        "texto": "A alta ambulatorial é programada após a remissão dos sintomas."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 97149,
+    "tags": [],
+    "enunciado": "Mulher de 23 anos de idade apresentou no passado diagnóstico de lesão de baixo grau no colo uterino e foi submetida a tratamento destrutivo. Atualmente apresenta esfregaço cervicovaginal de lesão de alto grau. Onde está a lesão e qual a conduta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Na parede vaginal direita e deverá ser biopsiada."
+      },
+      {
+        "letra": "B",
+        "texto": "No fórnice vaginal e deve ser mantida em observação."
+      },
+      {
+        "letra": "C",
+        "texto": "No canal endocervical e a conduta é expectante."
+      },
+      {
+        "letra": "D",
+        "texto": "No canal endocervical e deve-se biopsiar."
+      },
+      {
+        "letra": "E",
+        "texto": "No septo embriológico residual e deve-se realizar vaginoplastia."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 97150,
+    "tags": [],
+    "enunciado": "Dentre os abaixo, qual NÃO se constitui em fator de risco para neoplasia intraepitelial vaginal (NIVA)?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tratamento prévio para neoplasia intraepitelial."
+      },
+      {
+        "letra": "B",
+        "texto": "Radioterapia prévia para câncer de colo uterino."
+      },
+      {
+        "letra": "C",
+        "texto": "Tabagismo."
+      },
+      {
+        "letra": "D",
+        "texto": "Adenose vaginal."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 97151,
+    "tags": [],
+    "enunciado": "M. J., 27 anos, solteira, gestação, parto e aborto zero. Tabagista. Vida sexual ativa. Usa o anticoncepcional Depo-provera. Procurou a Unidade Básica de Saúde (UBS) para avaliar o aparecimento de lesão vulvar, vegetante, pruriginosa há 2 semanas, que vem aumentando em número e tamanho. Após avaliação do exame clínico, o médico diagnosticou condiloma vulvar. Para o tratamento dessa condição clínica, pode-se a(cid:49)rmar que NÃO se usa:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Eletrocautério."
+      },
+      {
+        "letra": "B",
+        "texto": "Aplicação de Ácido Acético 5%."
+      },
+      {
+        "letra": "C",
+        "texto": "Aplicação de Podofilina."
+      },
+      {
+        "letra": "D",
+        "texto": "Criocautério."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 97152,
+    "tags": [],
+    "enunciado": "Mulher de 20 anos, G1P0, 36 semanas de idade gestacional, chega à consulta do Projeto Nascer referindo aparecimento de uma lesão verrucosa crescente em região vulvar (VER IMAGEM), sem tratamento pelo ginecologista da UBS. A paciente refere di(cid:49)culdade de deambulação. Biópsia do local mostra células sem características de malignidade, com vacúolos citoplasmáticos perinaviculares e núcleos de grande diâmetro. Sobre a doença clínica apresentada na imagem, assinale a opção INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Existe um risco elevado de papilomatose laríngea caso a via obstétrica seja a vaginal, devido ao tamanho e à carga viral da lesão."
+      },
+      {
+        "letra": "B",
+        "texto": "O tratamento com imiquimode poderia ser uma ótima opção para essa paciente, com potencial regressão da lesão e possibilidade da via obstétrica."
+      },
+      {
+        "letra": "C",
+        "texto": "A cesariana seria a melhor opção para essa paciente, pois não haveria tempo de regressão após tratamento cirúrgico com exérese da lesão."
+      },
+      {
+        "letra": "D",
+        "texto": "A doença apresenta mais de 120 sorotipos, sendo 40 deles voltados para a região genital. O subtipo apresentado poderia ser o tipo 6 e 11."
+      },
+      {
+        "letra": "E",
+        "texto": "A eletrocauterização não é tratamento indicado durante a gestação."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 97153,
+    "tags": [],
+    "enunciado": "O carcinoma espinocelular corresponde a menos de 20% dos carcinomas de vulva, porque o carcinoma de vulva mais prevalente é o adenocarcinoma.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As duas assertivas estão incorretas."
+      },
+      {
+        "letra": "B",
+        "texto": "A primeira assertiva está correta e a segunda está incorreta."
+      },
+      {
+        "letra": "C",
+        "texto": "A primeira assertiva está incorreta e a segunda está correta."
+      },
+      {
+        "letra": "D",
+        "texto": "As duas assertivas estão corretas e a segunda não justifica a primeira."
+      },
+      {
+        "letra": "E",
+        "texto": "As duas assertivas estão corretas e a segunda justifica a primeira."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 97154,
+    "tags": [],
+    "enunciado": "Líquen escleroso e uma dermatose mais comum em que faixa de idade feminina:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pré-púbere."
+      },
+      {
+        "letra": "B",
+        "texto": "Puerpério."
+      },
+      {
+        "letra": "C",
+        "texto": "Pós-menopausa."
+      },
+      {
+        "letra": "D",
+        "texto": "Menacme com vida sexual ativa."
+      },
+      {
+        "letra": "E",
+        "texto": "Jovem após a menarca."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 97155,
+    "tags": [],
+    "enunciado": "Sobre o câncer de vulva é CORRETO afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Prurido vulvar e vulvodínea são manifestações clínicas incomuns."
+      },
+      {
+        "letra": "B",
+        "texto": "O melanoma é o tipo histológico mais frequente."
+      },
+      {
+        "letra": "C",
+        "texto": "O carcinoma verrucoso é uma variante do carcinoma epidemoide e tende a dar metástase linfonodal."
+      },
+      {
+        "letra": "D",
+        "texto": "Pode estar relacionado à infecção pelo HPV."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 97156,
+    "tags": [],
+    "enunciado": "O tratamento do líquen escleroso da vulva tem o objetivo de prevenir:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Alterações anatômicas e transformação maligna."
+      },
+      {
+        "letra": "B",
+        "texto": "Tricomoníase e candidíase recorrente."
+      },
+      {
+        "letra": "C",
+        "texto": "Transformação maligna e tricomoníase."
+      },
+      {
+        "letra": "D",
+        "texto": "Vaginose bacteriana e alterações anatômicas."
+      },
+      {
+        "letra": "E",
+        "texto": "Candidíase recorrente e vaginose bacteriana."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 97157,
+    "tags": [],
+    "enunciado": "No câncer de vulva, as metástases para linfonodos intrapélvicos são mais observadas, quando a localização é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pequenos lábios."
+      },
+      {
+        "letra": "B",
+        "texto": "Grandes lábios."
+      },
+      {
+        "letra": "C",
+        "texto": "Clitoridiana."
+      },
+      {
+        "letra": "D",
+        "texto": "Perineal."
+      },
+      {
+        "letra": "E",
+        "texto": "Fúrcula. 4000074827"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 97158,
+    "tags": [],
+    "enunciado": "Uma mulher de 58 anos procura o consultório médico devido prurido vulvar. No exame ginecológico da genitália, você observa uma pele fina, parecendo enrugada, atrófica, coloração esbranquiçada em toda vulva. Dos diagnósticos abaixo, qual é o diagnóstico mais provável:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Dermatite de contato."
+      },
+      {
+        "letra": "B",
+        "texto": "Psoríase vulvar."
+      },
+      {
+        "letra": "C",
+        "texto": "Acrocórdon de vulva."
+      },
+      {
+        "letra": "D",
+        "texto": "Líquen escleroso de vulva."
+      },
+      {
+        "letra": "E",
+        "texto": "Vulvite atrófica."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 97159,
+    "tags": [],
+    "enunciado": "Paciente queixa-se de prurido vulvar iniciado há cinco anos. Ao exame, observa-se mancha hipocrômica extensa acometendo face interna dos lábios maiores e apagamento dos lábios menores, com lesão ulcerada próxima ao clitóris. A hipótese diagnóstica e conduta imediata são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sífilis / Administrar penicilina benzatina."
+      },
+      {
+        "letra": "B",
+        "texto": "Herpes genital / Aplicar aciclovir."
+      },
+      {
+        "letra": "C",
+        "texto": "Câncer de vulva / Realizar biópsia da lesão."
+      },
+      {
+        "letra": "D",
+        "texto": "Donovanose / Prescrever vibramicina."
+      },
+      {
+        "letra": "E",
+        "texto": "Doença de Behçet / Tratar com corticoide."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 97160,
+    "tags": [],
+    "enunciado": "Associe a sintomatologia ao diagnóstico e assinale a alternativa correta: 1 - Sangramento genital pós-menopausa; 2- Sinusorragia; 3 - Dor Abdominal esporádica; 4 - Dietilestibestrol (DES); 5 - Beta-hCG. I. Cancer de colo uterino; II Cancer de ovário; III. Cancer de endométrio; IV. Neoplasma trofoblástrica; V. Adenose Vaginal.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1-III; 2-I; 3-IV; 4II; 5-V."
+      },
+      {
+        "letra": "B",
+        "texto": "1-II; 2-V; 3-I; 4-III; 5-IV."
+      },
+      {
+        "letra": "C",
+        "texto": "1-IV; 2-V; 3-I; 4-III; 5-V."
+      },
+      {
+        "letra": "D",
+        "texto": "1-II; 2-III; 3-I; 4-V; 5-IV."
+      },
+      {
+        "letra": "E",
+        "texto": "1-III; 2-I; 3-II; 4-V;5-IV."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 97161,
+    "tags": [],
+    "enunciado": "Em relação ao câncer de vulva, os linfonodos mais frequentemente acometidos são os:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ilíacos externos."
+      },
+      {
+        "letra": "B",
+        "texto": "Ilíacos comuns."
+      },
+      {
+        "letra": "C",
+        "texto": "Inguinofemorais."
+      },
+      {
+        "letra": "D",
+        "texto": "Para-aórticos."
+      },
+      {
+        "letra": "E",
+        "texto": "Pélvicos."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 97162,
+    "tags": [],
+    "enunciado": "No tratamento de Condiloma acuminado é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É indicado exérese cirúrgica, quando houver extensa área acometida ou grande número de lesões."
+      },
+      {
+        "letra": "B",
+        "texto": "A podofilina é indicada para a cauterização de verrugas genitais durante a gestação."
+      },
+      {
+        "letra": "C",
+        "texto": "Deve ser realizado o tratamento com crioterapia de todas as lesões pigmentadas ulceradas e fixas."
+      },
+      {
+        "letra": "D",
+        "texto": "O ácido tricloroacético de 50 a 60 % de concentração, não pode ser usado na gravidez, mesmo quando a lesão for extensa."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 97163,
+    "tags": [],
+    "enunciado": "Paciente de 70 anos veio à consulta por apresentar lesão única na vulva com cerca de 3 cm, localizada em grande lábio, de coloração enegrecida e que, após aplicação de ácido acético a 3%, tornou-se de superfície acinzentada. Biópsia incisional demonstrou presença de neoplasia intraepitelial vulvar de alto grau. Qual o tratamento recomendado:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aplicação tópica de ácido tricloroacético."
+      },
+      {
+        "letra": "B",
+        "texto": "Uso do Imiquimode tópico para redução de lesão e posterior exérese."
+      },
+      {
+        "letra": "C",
+        "texto": "Excisão local com margem livre."
+      },
+      {
+        "letra": "D",
+        "texto": "Vaporização a laser."
+      },
+      {
+        "letra": "E",
+        "texto": "Conduta expectante em razão do alto índice de regressão."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 97164,
+    "tags": [],
+    "enunciado": "Paciente de 18 anos que a partir do 5º mês da gestação apresentou verrugas com muito prurido na genitália. Já deu à luz há mais de 4 meses e as verrugas se reduziram, mas ainda persistem. Seu parceiro apresenta também verrugas na glande. Ao exame físico, veri(cid:49)cam-se múltiplas lesões verrucosas com superfície espiculada em grandes e pequenos lábios, clitóris e períneo. O especular apresentou conteúdo vaginal abundante, acinzentado, bolhoso, com odor fétido; o teste de Schiller foi negativo e o pH vaginal é 5,2. Assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O diagnóstico do quadro clínico acima é clínico, mas, caso se submeta a paciente a alguma biópsia, constataremos a presença de coilocitose, disceratose e discariose na biópsia das lesões vulvares."
+      },
+      {
+        "letra": "B",
+        "texto": "Uma excelente indicação é a pesquisa do tipo de vírus envolvido neste processo, pois poderá ser de alto e de baixo grau oncológico, assim, indicam-se técnicas de pesquisa com hibridização in situ."
+      },
+      {
+        "letra": "C",
+        "texto": "A coexistência de alteração na microbiota vaginal pode ser caracterizada como fator contributivo para a persistência das lesões, mesmo depois de cessada a imunossupressão fisiológica da gravidez."
+      },
+      {
+        "letra": "D",
+        "texto": "Estudos indicam que não está indicada a vacinação como tratamento, pois a mesma não possui nenhum efeito terapêutico nas lesões já existentes, a despeito de poder conferir defesa contra novas infecções."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 97165,
+    "tags": [],
+    "enunciado": "Mulher de 64 anos, com prurido vulvar há 6 meses, vem à consulta ginecológica referindo “mancha” na vulva. Relata já ter utilizado vários tratamentos tópicos com cremes antifúngicos sem sucesso. O exame ginecológico identifica a imagem abaixo: (VER IMAGEM) Qual é o diagnóstico mais provável?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Candidíase."
+      },
+      {
+        "letra": "B",
+        "texto": "Líquen escleroso."
+      },
+      {
+        "letra": "C",
+        "texto": "Doença de Milroy."
+      },
+      {
+        "letra": "D",
+        "texto": "Doença de Behçet."
+      },
+      {
+        "letra": "E",
+        "texto": "Neoplasia intraepitelial vulvar."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 97166,
+    "tags": [],
+    "enunciado": "Segundo a classi(cid:49)cação da Sociedade Internacional para o Estudo das Doenças Vulvovaginais em 2011, qual dos seguintes achados é considerado anormal?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Linfangiectasia."
+      },
+      {
+        "letra": "B",
+        "texto": "Micropapilomatose."
+      },
+      {
+        "letra": "C",
+        "texto": "Glândulas sebáceas."
+      },
+      {
+        "letra": "D",
+        "texto": "Grânulos de Fordyce."
+      },
+      {
+        "letra": "E",
+        "texto": "Vermelhidão vestibular."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 97167,
+    "tags": [],
+    "enunciado": "Paciente de 26 anos vem ao pronto-socorro com queixa de nodulação na vagina há 3 meses, localizada do lado direito (introito vaginal), que vem crescendo ultimamente, passando de um grão de feijão para o tamanho de um limão, com dor local e piora após relações sexuais. Qual é o diagnóstico para esse caso clínico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cancroide / Cancro mole."
+      },
+      {
+        "letra": "B",
+        "texto": "Teratoma cístico maduro."
+      },
+      {
+        "letra": "C",
+        "texto": "Cancro duro / Sífilis."
+      },
+      {
+        "letra": "D",
+        "texto": "Cisto da glândula de Bartholin."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 97168,
+    "tags": [],
+    "enunciado": "Paciente de 75 anos, com queixa de prurido vulvar há vários anos. Durante o exame físico, identi(cid:49)ca-se lesão avermelhada, ulcerada, com bordas elevadas nítidas e halos de epitélio branco. A CONDUTA INICIAL MAIS ADEQUADA é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Solicitar colposcopia pelo risco evidente de infecção por HPV de alto grau."
+      },
+      {
+        "letra": "B",
+        "texto": "Observação e manejo do prurido com anti histamínicos sitêmicos."
+      },
+      {
+        "letra": "C",
+        "texto": "Reavaliar a lesão após 30 dias de estrógeno tópico devido à menopausa."
+      },
+      {
+        "letra": "D",
+        "texto": "Excisão local ampla da lesão com margens de 2 cm devido à idade da paciente."
+      },
+      {
+        "letra": "E",
+        "texto": "Biópsia com anestesia local."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 97169,
+    "tags": [],
+    "enunciado": "Durante a 22ª semana de gestação, visualiza-se na consulta de pré-natal volumosas lesões verrucosas que obstruem o intróito vaginal. Deve-se:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Realizar exérese cirúrgica das lesões imediatamente."
+      },
+      {
+        "letra": "B",
+        "texto": "Aplicar ácido tricloroacético sobre as lesões."
+      },
+      {
+        "letra": "C",
+        "texto": "Usar podofilina nas lesões."
+      },
+      {
+        "letra": "D",
+        "texto": "Observar as lesões até o termino da gravidez."
+      },
+      {
+        "letra": "E",
+        "texto": "Usar ácido retinóico tópico para retirada das lesões."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 97170,
+    "tags": [],
+    "enunciado": "Paciente com 60 anos, menopausada, apresenta pápulas atró(cid:49)cas esbranquiçadas que coalescem em determinadas regiões com formação de placas de \"porcelana\", distorcendo a anatomia normal. Após biópsia da área em questão e con(cid:49)rmação de sua hipótese diagnóstica, deve ser iniciado o tratamento com aplicação, na lesão, de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Metronidazol gel a 0,75%, uma vez ao dia, por uma semana"
+      },
+      {
+        "letra": "B",
+        "texto": "Clindamicina creme 2%, uma vez ao dia, por quatro semanas"
+      },
+      {
+        "letra": "C",
+        "texto": "Propionato de clobetasol a 0,05%, duas vezes ao dia, por uma semana"
+      },
+      {
+        "letra": "D",
+        "texto": "Propionato de clobetasol a 0,05%, duas vezes ao dia, por quatro semanas"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 97171,
+    "tags": [],
+    "enunciado": "Usuária, 37 anos de idade, vem à consulta para apresentar-lhe laudo de citologia cérvico vaginal, coletada há 20 dias por enfermeira, com resultado negativo para neoplasia e micro(cid:87)ora composta de bacilos supracitoplasmáticos. Queixa-se também de tumor em lábio direito da vulva há oito meses. A própria paciente notou o “caroço ” na vulva que inicialmente media em torno de 1cm. Apresentava consistência endurecida, com fácil mobilidade na autopalpação, indolor e que desaparecia ao ser pressionado. Porém, após dois meses do seu surgimento, suas dimensões começaram a aumentar progressivamente. Relata que há três meses o tumor aumentou consideravelmente, com consequente piora dos sintomas. Está em abstinência sexual há meses, devido ao incômodo causado pela tumoração. Na inspeção da vulva foi observada a presença de tumoração pediculada, medindo, aproximadamente, 10cm de comprimento, com inserção em região superior do grande lábio direito, semelhante à passa de uva, sem sinais (cid:87)ogísticos, maleável na periferia e apresentando consistência endurecida em seu interior. Não houve alteração da tumoração à realização da manobra de Valsalva. Ao exame especular, veri(cid:49)cou-se colo epitelizado, orifício externo em fenda transversa, conteúdo vaginal esbranquiçado, homogêneo, teste de Whi(cid:109) positivo e toque vaginal bidigital combinado sem anormalidades. I. A tumoração vulvar descrita é compatível com acrocórdon. II. São exemplos de tumorações císticas benignas de vulva o cisto sebáceo, o abscesso da glândula de Bartholin e o cisto disontogenético. III. O laudo citológico é compatível com vaginose bacteriana. IV. São exemplos de tumorações sólidas benignas de vulva o pólipo (cid:49)broepitelial, o condiloma acuminado e o leiomioma vulvar. V. O tratamento para o descrito no laudo citológico pode ser feito com secnidazol 2 gramas em dose única via vaginal.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "seguinte alternativa contempla o solicitado no enunciado:"
+      },
+      {
+        "letra": "A",
+        "texto": "I, II e V"
+      },
+      {
+        "letra": "B",
+        "texto": "I, III e IV"
+      },
+      {
+        "letra": "C",
+        "texto": "II e IV"
+      },
+      {
+        "letra": "D",
+        "texto": "II, IV e V"
+      },
+      {
+        "letra": "E",
+        "texto": "III e V"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 97172,
+    "tags": [],
+    "enunciado": "Paciente, 58 anos, apresenta prurido vulvar há três anos e dispareunia. Última menstruação aos 53 anos. Exame ginecológico: vulva atró(cid:49)ca, com apagamento dos pequenos lábios e lesão esbranquiçada, acometendo os grandes lábios, associada a escoriações e (cid:49)ssuras. Biópsia de vulva: líquen escleroso. A conduta mais adequada é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "excisão completa da lesão para afastar carcinoma."
+      },
+      {
+        "letra": "B",
+        "texto": "vulvoscopia trimestral com biópsia de áreas suspeitas."
+      },
+      {
+        "letra": "C",
+        "texto": "vaporização a laser de toda área acometida."
+      },
+      {
+        "letra": "D",
+        "texto": "corticoide tópico de alta potência."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 97173,
+    "tags": [],
+    "enunciado": "Para paciente com 60 anos, que apresenta prurido vulvar crônico e lesão esbranquiçada na região clitoridiana, a conduta correta será:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Anti-histamínico."
+      },
+      {
+        "letra": "B",
+        "texto": "Retirada total da lesão."
+      },
+      {
+        "letra": "C",
+        "texto": "Biópsia da lesão."
+      },
+      {
+        "letra": "D",
+        "texto": "Corticóide."
+      },
+      {
+        "letra": "E",
+        "texto": "Estrogênio."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 97174,
+    "tags": [],
+    "enunciado": "J. M. T., 42 anos, refere prurido vulvar de moderada intensidade há seis meses. Ao exame físico apresenta espessamento da pele vulvar com aspecto acinzentado, com algumas áreas esbranquiçadas e eritematosas, localizadas na face anterior dos grandes lábios, bilateralmente, com acentuação dos sulcos naturais da pele (liqueni(cid:49)cação) e escoriações (erosões) causadas pelo ato de coçar. Não há mudança na morfologia vulvar. O diagnóstico presuntivo é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "líquen escleroso."
+      },
+      {
+        "letra": "B",
+        "texto": "líquen simples crônico."
+      },
+      {
+        "letra": "C",
+        "texto": "líquen plano."
+      },
+      {
+        "letra": "D",
+        "texto": "vitiligo."
+      },
+      {
+        "letra": "E",
+        "texto": "doença de Behçet."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 97175,
+    "tags": [],
+    "enunciado": "Com referência a oncologia ginecológica e mamária julgue o item a seguir. Os cânceres invasivos de vulva que acometem principalmente mulheres portadoras do HPV, são multifocais e apresentam lesões bilaterais mal delimitadas.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Certo."
+      },
+      {
+        "letra": "B",
+        "texto": "Errado."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 97176,
+    "tags": [],
+    "enunciado": "No que se refere aos tipos de câncer ginecológico e às suas lesões precursoras, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O tratamento cirúrgico indicado para o câncer de colo uterino com estadiamento IA2 é a histerectomia total ampliada (Piver III) e a linfadenectomia pélvica"
+      },
+      {
+        "letra": "B",
+        "texto": "Na propedêutica pré-operatória do câncer de endométrio, a ressonância nuclear magnética com contraste é considerada superior à tomografia computadorizada, visto que permite melhor avaliação da extensão tumoral e da invasão locorregional, além de oferecer informações importantes para o delineamento da estratégia cirúrgica adequada"
+      },
+      {
+        "letra": "C",
+        "texto": "O HPV apresenta forte relação com a neoplasia intraepitelial vulvar do tipo diferenciado (não- basaloide)"
+      },
+      {
+        "letra": "D",
+        "texto": "Os tumores ovarianos germinativos do tipo seio endodérmico (Yolk Sac) apresentam elevação sérica de betaHCG e alfafetoproteína"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 97177,
+    "tags": [],
+    "enunciado": "Mulher de 57 anos foi ao seu ginecologista queixando-se de ter notado área pálida e pruriginosa em um dos lábios vulvares. O exame ginecológico mostrou uma área plana e branca de 0,9 cm no lábio direito. Foi realizada biópsia incisional, (cid:49)xada em formol a 10%. O histopatológico revelou a presença de células discarióticas que comprometem os dois terços basais do epitélio escamoso, bem como a presença de mitoses. A hibridização in situ aponta o DNA do papilomavírus humano tipo 16 nas células epiteliais. O diagnóstico para essa paciente é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "condiloma plano."
+      },
+      {
+        "letra": "B",
+        "texto": "verruga plana."
+      },
+      {
+        "letra": "C",
+        "texto": "neoplasia intraepitelial vulvar."
+      },
+      {
+        "letra": "D",
+        "texto": "líquen escleroso e atrófico."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 97178,
+    "tags": [],
+    "enunciado": "Para paciente de 60 anos, que apresenta prurido vulvar crônico e lesão esbranquiçada na região clitoridiana, a conduta correta é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "anti-histamínico."
+      },
+      {
+        "letra": "B",
+        "texto": "retirada total da lesão."
+      },
+      {
+        "letra": "C",
+        "texto": "corticoide."
+      },
+      {
+        "letra": "D",
+        "texto": "biópsia da lesão."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 97179,
+    "tags": [],
+    "enunciado": "Criança de 3 anos, ainda usuária de fraldas, é trazida pela mãe com história de prurido vulvar há seis meses acompanhada de aparecimento de lesão esbranquiçada em vulva acometendo clitóris, pequenos lábios e região perianal, em formato de “oito”. Tal lesão apresenta distribuição bilateral e simétrica. O principal diagnóstico a ser considerado e a melhor terapêutica neste caso seriam:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tínea - antifúngico oral."
+      },
+      {
+        "letra": "B",
+        "texto": "Dermatite por fraldas – antifúngico tópico."
+      },
+      {
+        "letra": "C",
+        "texto": "Vitiligo – observação clínica."
+      },
+      {
+        "letra": "D",
+        "texto": "Vulvovaginite- observação clínica com higiene local e banhos assento."
+      },
+      {
+        "letra": "E",
+        "texto": "Líquen escleroso - teste terapêutico com corticosteróide."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 97180,
+    "tags": [],
+    "enunciado": "Em Unidade Básica de Saúde compareceram, para atendimento, três pacientes. I- Paciente, 29 anos de idade, com exame de Papanicolau cujo resultado é ASC US - células escamosas atípicas de significados indeterminado. II- Mulher, 26 anos de idade, com múltiplos condilomas em vulva de até 5mm de diâmetro. III- Adolescente, 13 anos de idade, desejando iniciar vida sexual. Considerando o caso descrito, indique o melhor tratamento auto-aplicado para a paciente II. Essa questão possui comentário do professor no site 4000007151",
+    "alternativas": [],
+    "resposta_correta": null
+  },
+  {
+    "id": 97181,
+    "tags": [],
+    "enunciado": "Em relação ao câncer de vulva, os linfonodos mais frequentemente acometidos são os:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ilíacos externos."
+      },
+      {
+        "letra": "B",
+        "texto": "Ilíacos comuns."
+      },
+      {
+        "letra": "C",
+        "texto": "Inguinofemorais."
+      },
+      {
+        "letra": "D",
+        "texto": "Para-aórticos."
+      },
+      {
+        "letra": "E",
+        "texto": "Pélvicos."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 97182,
+    "tags": [],
+    "enunciado": "As infecções cutâneas podem se apresentar com morfologias variadas e o conhecimento das características clínicas é fundamental para o diagnóstico clínico correto e indicação terapêutica adequada. Nesse sentido, identifique as afirmativas a seguir como verdadeiras (V) ou falsas (F): ( ) A pitiríase versicolor é caracterizada por lesões hipocrômicas ou hipercrômicas na região superior do tronco, pescoço e face e é causada pelo Microsporum canis. ( ) A Tinea capitis se caracteriza por lesões no couro cabeludo, com alopécia e descamação, e é mais observada nos pré-púberes. ( ) O condiloma acuminado é caracterizado por pápulas localizadas na região genital e perianal, e o seu agente causal é o Coxsackievirus. ( ) O molusco contagioso é uma infecção super(cid:49)cial da pele, causada por um membro da família Poxvirus, de contágio inter-humano, em que pode ocorrer melhora espontânea. Assinale a alternativa que apresenta a sequência correta, de cima para baixo.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "F – F – V – V."
+      },
+      {
+        "letra": "B",
+        "texto": "V – V – F – F."
+      },
+      {
+        "letra": "C",
+        "texto": "V – V – V – F."
+      },
+      {
+        "letra": "D",
+        "texto": "F – V – F – V."
+      },
+      {
+        "letra": "E",
+        "texto": "V – F – F – V."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 97183,
+    "tags": [],
+    "enunciado": "As dermatoviroses são de distribuição universal e ocorrem em qualquer idade, despertando preocupações mais especí(cid:49)cas em jovens, adultos e idosos. Acerca desse assunto, correlacione a coluna da direita com a da esquerda. 1. Verruga plana. 2. Verruga genital. 3. Molusco contagioso. 4. Herpes simples. 5. Herpes zoster. ( ) Eritema multiforme de repetição. ( ) Diagnóstico diferencial com lesões de acne. ( ) Cursa com desconforto, dor e risco de complicações. ( ) Requer prevenção de DST e carcinogênese. ( ) Pode cursar com HIV/AIDS. Assinale a alternativa que apresenta a numeração correta na coluna da direita, de cima para baixo.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "3 – 2 – 1 – 5 – 4."
+      },
+      {
+        "letra": "B",
+        "texto": "4 – 1 – 5 – 2 – 3."
+      },
+      {
+        "letra": "C",
+        "texto": "1 – 2 – 4 – 5 – 3."
+      },
+      {
+        "letra": "D",
+        "texto": "4 – 1 – 2 – 3 – 5."
+      },
+      {
+        "letra": "E",
+        "texto": "3 – 2 – 5 – 1 – 4."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 97184,
+    "tags": [],
+    "enunciado": "Uma mulher de 78 anos de idade apresenta lesão numular de 1,5 cm em grande lábio direito. Submeteu-se à biópsia incisional ambulatorial que revelou carcinoma espinocelular com invasão estromal de 0,5 mm. A conduta recomendada é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "radioterapia locoregional exclusiva, uma vez que o risco cirúrgico é elevado."
+      },
+      {
+        "letra": "B",
+        "texto": "vulvectomia simples direita e remoção do linfonodo sentinela inguinal ipsilateral."
+      },
+      {
+        "letra": "C",
+        "texto": "vulvectomia radical e remoção do linfonodo sentinela inguinal bilateral."
+      },
+      {
+        "letra": "D",
+        "texto": "ressecção ampliada da lesão com margem de 2 cm, dispensando linfadenectomia."
+      },
+      {
+        "letra": "E",
+        "texto": "cauterização química ou elétrica da lesão e excisão cirúrgica se houver recidiva. 4000008113"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 97185,
+    "tags": [],
+    "enunciado": "Com relação às dermatoviroses, assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O agente causal da varicela é um herpes-vírus do tipo I."
+      },
+      {
+        "letra": "B",
+        "texto": "A varicela e o herpes-zóster são causados pelo mesmo vírus."
+      },
+      {
+        "letra": "C",
+        "texto": "O molusco contagioso é causado por um poxvírus."
+      },
+      {
+        "letra": "D",
+        "texto": "Na verruga vulgar, as lesões são pápulas ceratósicas e o agente causal é o papiloma vírus humano."
+      },
+      {
+        "letra": "E",
+        "texto": "O condiloma acuminado é caracterizado por lesões vegetantes e é causado pelo papiloma vírus humano."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 97186,
+    "tags": [],
+    "enunciado": "Com relação às dermatoviroses, é INCORRETO afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O agente causal da varicela é um herpes vírus do tipo I"
+      },
+      {
+        "letra": "B",
+        "texto": "A varicela e o herpes zoster são causados pelo mesmo vírus"
+      },
+      {
+        "letra": "C",
+        "texto": "O molusco contagioso é causado por um poxvírus"
+      },
+      {
+        "letra": "D",
+        "texto": "Na verruga vulgar, as lesões são pápulas ceratósicas, e o agente causal é o papiloma vírus humano"
+      },
+      {
+        "letra": "E",
+        "texto": "O condiloma acuminado é caracterizado por lesões vegetantes e é causado pelo papiloma vírus humano  Respostas: 1 D 2 B 3 C 4 B 5 B 6 C 7 A 8 C 9 C 10 B 11 12 C 13 A 14 A 15 C 16 C 17 A 18 A 19 C 20 E 21 D 22 D 23 B 24 A 25 C 26 27 A 28 D 29 A 30 D 31 B 32 B 33 C 34 D 35 C 36 D 37 E 38 B 39 A 40 B 41 C 42 C 43 D 44 B 45 C 46 C 47 D 48 E 49 C 50 A 51 A 52 B 53 E 54 D 55 A 56 A 57 D 58 C 59 D 60 D 61 D 62 C 63 D 64 C 65 B 66 B 67 D 68 C 69 C 70 D 71 D 72 A 73 A 74 A 75 D 76 D 77 D 78 E 79 A 80 D 81 B 82 E 83 C 84 D 85 A 86 D 87 D 88 D 89 C 90 C 91 C 92 E 93 B 94 C 95 D 96 C 97 A 98 A 99 E 100 D 101 D 102 C 103 C 104 C 105 D 106 D 107 B 108 B 109 D 110 D 111 A 112 C 113 A 114 C 115 D 116 E 117 E 118 B 119 C 120 C 121 D 122 B 123 A 124 E 125 D 126 B 127 A 128 D 129 C 130 E 131 D 132 133 D 134 D 135 D 136 D 137 B 138 D 139 C 140 B 141 C 142 C 143 B 144 C 145 D 146 A 147 D 148 D 149 B 150 C 151 A 152 D 153 B 154 B 155 A 156 C 157 D 158 A 159 C 160 D 161 C 162 E 163 C 164 A 165 C 166 B 167 B 168 A 169 D 170 E 171 A 172 D 173 B 174 D 175 C 176 B 177 B 178 A 179 C 180 D 181 E 182 183 C 184 D 185 B 186 D 187 A 188 A"
+      }
+    ],
+    "resposta_correta": "A"
+  }
+]

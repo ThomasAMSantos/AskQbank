@@ -1,0 +1,2770 @@
+[
+  {
+    "id": 105468,
+    "tags": [],
+    "enunciado": "A orelha humana é composta por três partes principais. Qual das seguintes a(cid:34)rmativas descreve corretamente a anatomia da orelha externa?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A orelha externa inclui o pavilhão auricular, o canal auditivo e a membrana timpânica."
+      },
+      {
+        "letra": "B",
+        "texto": "A orelha externa inclui a cóclea, o órgão de Corti e os ossículos."
+      },
+      {
+        "letra": "C",
+        "texto": "A orelha externa inclui o pavilhão auricular, a cóclea e a trompa de Eustáquio."
+      },
+      {
+        "letra": "D",
+        "texto": "A orelha externa inclui os ossículos, a membrana timpânica e a trompa de Eustáquio."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105469,
+    "tags": [],
+    "enunciado": "A cóclea é uma estrutura crucial na orelha interna. Qual das seguintes a(cid:34)rmativas descreve corretamente a função da cóclea?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A cóclea é responsável por amplificar as ondas sonoras e transmitir as vibrações para os ossículos."
+      },
+      {
+        "letra": "B",
+        "texto": "A cóclea converte as vibrações mecânicas do som em sinais elétricos que são enviados ao cérebro."
+      },
+      {
+        "letra": "C",
+        "texto": "A cóclea é responsável por equilibrar a pressão do ar entre o ouvido médio e a garganta."
+      },
+      {
+        "letra": "D",
+        "texto": "A cóclea é a parte da orelha externa que capta as ondas sonoras iniciais."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105470,
+    "tags": [],
+    "enunciado": "O órgão de Corti é a estrutura sensorial da audição. Qual das seguintes a(cid:34)rmativas descreve corretamente a função das células ciliadas do órgão de Corti?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As células ciliadas do órgão de Corti captam as ondas sonoras iniciais e as transmitem para o canal auditivo."
+      },
+      {
+        "letra": "B",
+        "texto": "As células ciliadas do órgão de Corti vibram em resposta ao som e convertem essas vibrações em sinais elétricos."
+      },
+      {
+        "letra": "C",
+        "texto": "As células ciliadas do órgão de Corti amplificam as ondas sonoras e equilibram a pressão entre o ouvido médio e a garganta."
+      },
+      {
+        "letra": "D",
+        "texto": "As células ciliadas do órgão de Corti produzem o fluido coclear que mantém a homeostase da orelha interna."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105471,
+    "tags": [],
+    "enunciado": "A membrana timpânica desempenha um papel essencial na audição. Qual das seguintes a(cid:34)rmativas descreve corretamente a função da membrana timpânica?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A membrana timpânica é responsável por converter as vibrações sonoras em sinais elétricos."
+      },
+      {
+        "letra": "B",
+        "texto": "A membrana timpânica amplifica as ondas sonoras e transmite as vibrações para a cóclea."
+      },
+      {
+        "letra": "C",
+        "texto": "A membrana timpânica vibra em resposta às ondas sonoras e transmite essas vibrações aos ossículos da orelha média."
+      },
+      {
+        "letra": "D",
+        "texto": "A membrana timpânica equilibra a pressão do ar entre a orelha média e a orelha interna."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105472,
+    "tags": [],
+    "enunciado": "Os ossículos da orelha média são cruciais para a transmissão do som. Qual das seguintes a(cid:34)rmativas descreve corretamente o papel dos ossículos na audição?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os ossículos amplificam e transmitem as vibrações sonoras da membrana timpânica para a cóclea."
+      },
+      {
+        "letra": "B",
+        "texto": "Os ossículos convertem as vibrações sonoras em sinais elétricos."
+      },
+      {
+        "letra": "C",
+        "texto": "Os ossículos produzem o fluido coclear necessário para a função auditiva."
+      },
+      {
+        "letra": "D",
+        "texto": "Os ossículos equilibram a pressão do ar entre a orelha média e a garganta."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105473,
+    "tags": [],
+    "enunciado": "O olfato é um dos sentidos químicos essenciais que permite a detecção de odores. Qual das seguintes afirmativas descreve corretamente a anatomia do sistema olfativo e sua função?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O sistema olfativo é composto exclusivamente pelas narinas e pelo bulbo olfativo."
+      },
+      {
+        "letra": "B",
+        "texto": "O epitélio olfativo, localizado na cavidade nasal, contém células receptoras que detectam moléculas odoríferas e transmitem sinais ao bulbo olfativo."
+      },
+      {
+        "letra": "C",
+        "texto": "As papilas gustativas na língua são responsáveis pela detecção de odores e transmitem sinais ao córtex olfativo."
+      },
+      {
+        "letra": "D",
+        "texto": "O epitélio olfativo é responsável pela produção de saliva, facilitando a percepção dos sabores."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105474,
+    "tags": [],
+    "enunciado": "O processo de transdução olfativa envolve a conversão de estímulos químicos em sinais elétricos. Qual das seguintes afirmativas descreve corretamente esse processo?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As moléculas odoríferas se ligam a receptores olfativos na membrana das células receptoras, ativando uma cascata de sinalização que resulta em um potencial de ação."
+      },
+      {
+        "letra": "B",
+        "texto": "As moléculas odoríferas são diretamente convertidas em sinais elétricos pelas glândulas salivares."
+      },
+      {
+        "letra": "C",
+        "texto": "As moléculas odoríferas são absorvidas pelo sangue e transportadas ao cérebro, onde são interpretadas como odores."
+      },
+      {
+        "letra": "D",
+        "texto": "As moléculas odoríferas ativam diretamente os neurônios no córtex olfativo sem a necessidade de receptores."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105475,
+    "tags": [],
+    "enunciado": "O olfato é um dos sentidos químicos, ou seja, ele é mediado por moléculas, diferente da visão (ondas eletromagnéticas), audição (ondas sonoras) e tato (estímulo mecânico). Esse fato traz algumas peculiaridades à forma com a qual os receptores sensoriais olfativos evoluíram. Sobre isso, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os receptores olfativos são específicos, isto é, ligam-se a uma única molécula. Desta forma, os animais são capazes de reconhecer com alta acurácia qual odor estão sentindo."
+      },
+      {
+        "letra": "B",
+        "texto": "As espécies animais têm capacidades olfativas muito semelhantes, pois o desenvolvimento do olfato, do ponto de vista evolutivo, é algo muito primitivo."
+      },
+      {
+        "letra": "C",
+        "texto": "Para codificar diferentes odores de forma fidedigna, os receptores olfativos fazem endocitose das moléculas odoríferas, levando-as diretamente ao hipotálamo para interpretação e codificação em sinais neurológicos."
+      },
+      {
+        "letra": "D",
+        "texto": "Os receptores olfativos respondem a mais de uma molécula odorífera, e as moléculas ativam mais de um receptor. A identidade do cheiro é dada pelo código populacional dos diversos receptores juntos."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105476,
+    "tags": [],
+    "enunciado": "O paladar é um sentido químico que permite a percepção dos sabores. Qual das seguintes a(cid:34)rmativas descreve corretamente a anatomia do sistema gustativo e sua função?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O sistema gustativo é composto exclusivamente pelas glândulas salivares e pela língua."
+      },
+      {
+        "letra": "B",
+        "texto": "As papilas gustativas contêm botões gustativos, que são estruturas sensoriais responsáveis pela detecção de sabores."
+      },
+      {
+        "letra": "C",
+        "texto": "O paladar depende unicamente das células receptoras olfativas no epitélio nasal."
+      },
+      {
+        "letra": "D",
+        "texto": "Os botões gustativos estão localizados apenas na ponta da língua."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105477,
+    "tags": [],
+    "enunciado": "O processo de transdução gustativa envolve a conversão de estímulos químicos em sinais elétricos. Qual das seguintes afirmativas descreve corretamente esse processo?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As moléculas saborosas se ligam a receptores nos botões gustativos, ativando uma cascata de sinalização que resulta em um potencial de ação."
+      },
+      {
+        "letra": "B",
+        "texto": "As moléculas saborosas são absorvidas diretamente pelo sangue e transportadas ao cérebro, onde são interpretadas como sabores."
+      },
+      {
+        "letra": "C",
+        "texto": "As moléculas saborosas são detectadas pelas células receptoras olfativas e transmitidas ao bulbo olfativo."
+      },
+      {
+        "letra": "D",
+        "texto": "As moléculas saborosas ativam diretamente os neurônios no córtex gustativo sem a necessidade de receptores."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105478,
+    "tags": [],
+    "enunciado": "Os sentidos químicos do olfato e do paladar frequentemente trabalham juntos para criar a percepção completa dos sabores. Qual das seguintes afirmativas descreve corretamente a integração desses sentidos?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O olfato e o paladar são totalmente independentes e não influenciam a percepção dos sabores."
+      },
+      {
+        "letra": "B",
+        "texto": "O olfato e o paladar trabalham juntos para melhorar a percepção dos sabores, com o olfato contribuindo significativamente para a complexidade dos sabores."
+      },
+      {
+        "letra": "C",
+        "texto": "O paladar depende unicamente da detecção de moléculas odoríferas pelo epitélio olfativo."
+      },
+      {
+        "letra": "D",
+        "texto": "A percepção dos sabores depende apenas dos receptores gustativos na língua, sem influência do olfato."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105479,
+    "tags": [],
+    "enunciado": "O sistema vestibular é essencial para o equilíbrio e a orientação espacial. Qual das seguintes a(cid:34)rmativas descreve corretamente a anatomia do sistema vestibular?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O sistema vestibular está localizado no ouvido externo e consiste em três ossículos que ajudam na percepção do som."
+      },
+      {
+        "letra": "B",
+        "texto": "O sistema vestibular está localizado no cérebro e consiste no córtex vestibular, que processa informações auditivas."
+      },
+      {
+        "letra": "C",
+        "texto": "O sistema vestibular está localizado no ouvido médio e é responsável pela amplificação dos sons."
+      },
+      {
+        "letra": "D",
+        "texto": "O sistema vestibular está localizado no ouvido interno e é composto pelos canais semicirculares, o vestíbulo (sáculo e utrículo), que detectam a posição da cabeça e o movimento."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105480,
+    "tags": [],
+    "enunciado": "Os canais semicirculares são uma parte crucial do sistema vestibular. Qual das seguintes a(cid:34)rmativas descreve corretamente a função dos canais semicirculares?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os canais semicirculares detectam a posição estática da cabeça em relação à gravidade."
+      },
+      {
+        "letra": "B",
+        "texto": "Os canais semicirculares detectam a rotação da cabeça nos três planos perpendiculares."
+      },
+      {
+        "letra": "C",
+        "texto": "Os canais semicirculares amplificam os sons recebidos pelo ouvido médio."
+      },
+      {
+        "letra": "D",
+        "texto": "Os canais semicirculares são responsáveis pela percepção dos sons agudos."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105481,
+    "tags": [],
+    "enunciado": "O sáculo e o utrículo são componentes do sistema vestibular. Qual das seguintes a(cid:34)rmativas descreve corretamente a função do sáculo e do utrículo?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O sáculo e o utrículo detectam a rotação da cabeça nos três planos perpendiculares."
+      },
+      {
+        "letra": "B",
+        "texto": "O sáculo e o utrículo detectam a aceleração linear e a posição estática da cabeça em relação à gravidade."
+      },
+      {
+        "letra": "C",
+        "texto": "O sáculo e o utrículo amplificam os sons recebidos pelo ouvido médio."
+      },
+      {
+        "letra": "D",
+        "texto": "O sáculo e o utrículo são responsáveis pela percepção dos sons graves."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105482,
+    "tags": [],
+    "enunciado": "O processo de transdução vestibular envolve a conversão de estímulos mecânicos em sinais elétricos. Qual das seguintes afirmativas descreve corretamente esse processo no sistema vestibular?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As células ciliadas do sistema vestibular detectam ondas sonoras e as convertem em sinais elétricos."
+      },
+      {
+        "letra": "B",
+        "texto": "As células ciliadas do sistema vestibular são responsáveis pela produção de endolinfa."
+      },
+      {
+        "letra": "C",
+        "texto": "As células ciliadas do sistema vestibular detectam movimentos da endolinfa, gerando sinais elétricos que são enviados ao cérebro para manutenção do equilíbrio."
+      },
+      {
+        "letra": "D",
+        "texto": "As células ciliadas do sistema vestibular detectam a pressão arterial e regulam a homeostase corporal."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105483,
+    "tags": [],
+    "enunciado": "Você é chamado para examinar um paciente vítima de transecção completa de medula espinhal a nível de C3, internado em unidade de terapia intensiva. Seu professor informa que o paciente evoluiu com tetraplegia e está respirando com o auxílio de ventilação mecânica. Como se espera que estejam, nesse paciente, os reflexos cutâneo-plantar e cutâneo abdominal?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cutâneo-plantar em extensão, cutâneo abdominal aumentado de intensidade."
+      },
+      {
+        "letra": "B",
+        "texto": "Cutâneo-plantar em extensão, cutâneo abdominal abolido."
+      },
+      {
+        "letra": "C",
+        "texto": "Cutâneo-plantar em flexão, cutâneo abdominal aumentado de intensidade."
+      },
+      {
+        "letra": "D",
+        "texto": "Cutâneo-plantar em flexão, cutâneo abdominal abolido."
+      },
+      {
+        "letra": "E",
+        "texto": "Provavelmente ambos os reflexos estão preservados."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105484,
+    "tags": [],
+    "enunciado": "O tônus muscular é uma característica que pode estar alterada em determinados quadros neurológicos, fazendo parte do exame clínico. Qual a mais provável alteração do tônus de um paciente vítima de acidente vascular cerebral extenso do lado esquerdo do córtex?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hipotonia no membro superior direito."
+      },
+      {
+        "letra": "B",
+        "texto": "Hipertonia no membro superior direito."
+      },
+      {
+        "letra": "C",
+        "texto": "Hipotonia no membro superior esquerdo."
+      },
+      {
+        "letra": "D",
+        "texto": "Hipertonia no membro superior esquerdo."
+      },
+      {
+        "letra": "E",
+        "texto": "O tônus não sofre influência do córtex."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105485,
+    "tags": [],
+    "enunciado": "Em qual das seguintes situações a pesquisa dos re(cid:67)exos miotáticos pode auxiliar no diagnóstico diferencial entre duas doenças?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Diferenciar paresia por lesão medular do corno anterior de lesão da raiz anterior do nervo espinhal."
+      },
+      {
+        "letra": "B",
+        "texto": "Diferenciar paresia por lesão do neurônio motor superior de lesão do neurônio motor inferior."
+      },
+      {
+        "letra": "C",
+        "texto": "Diferenciar paresia por lesão de nervo periférico de lesão muscular."
+      },
+      {
+        "letra": "D",
+        "texto": "Diferenciar paresia por lesão de nervo periférico de lesão de plexo nervoso."
+      },
+      {
+        "letra": "E",
+        "texto": "Diferenciar paresia por lesão medular do corno anterior de lesão do nervo periférico."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105486,
+    "tags": [],
+    "enunciado": "Qual das seguintes manobras não é utilizada para diagnosticar ataxia em pacientes com queixas compatíveis?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Teste do índex-nariz."
+      },
+      {
+        "letra": "B",
+        "texto": "Avaliação da marcha."
+      },
+      {
+        "letra": "C",
+        "texto": "Teste de diadococinesia."
+      },
+      {
+        "letra": "D",
+        "texto": "Sinal de Romberg."
+      },
+      {
+        "letra": "E",
+        "texto": "Prova de Brudzinski."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 105487,
+    "tags": [],
+    "enunciado": "A pesquisa de sensibilidade geral é parte do exame neurológico, e tem como objetivo investigar as vias neurais envolvidas na transdução dos sentidos. Nesse contexto, assinale a alternativa que correlaciona corretamente o exame de sensibilidade e uma via medular que está sendo testada por ele:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pesquisa de sensibilidade térmica – Fascículos grácil e cuneiforme."
+      },
+      {
+        "letra": "B",
+        "texto": "Pesquisa de sensibilidade tátil – Trato vestibuloespinhal."
+      },
+      {
+        "letra": "C",
+        "texto": "Pesquisa de propriocepção consciente – Trato espinotalâmico anterior."
+      },
+      {
+        "letra": "D",
+        "texto": "Pesquisa de sensibilidade vibratória – Trato corticoespinhal lateral."
+      },
+      {
+        "letra": "E",
+        "texto": "Pesquisa de sensibilidade dolorosa – Trato espinotalâmico lateral."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 105488,
+    "tags": [],
+    "enunciado": "Imagine que você está acompanhando o ambulatório de Neurologia e o seu preceptor pede para que você avalie a força de (cid:67)exão do cotovelo de um paciente em recuperação pós acidente vascular cerebral. Você observa que o paciente não é capaz de realizar o movimento contra a gravidade, mas consegue (cid:67)exionar o membro quando é colocado deitado sobre uma maca, eliminando a ação da gravidade. Qual é a classi(cid:34)cação correta do grau de força muscular desse paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Grau 0"
+      },
+      {
+        "letra": "B",
+        "texto": "Grau 1"
+      },
+      {
+        "letra": "C",
+        "texto": "Grau 2"
+      },
+      {
+        "letra": "D",
+        "texto": "Grau 3"
+      },
+      {
+        "letra": "E",
+        "texto": "Grau 4"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105489,
+    "tags": [],
+    "enunciado": "Marque a alternativa que contém duas escalas médicas utilizadas para avaliar o nível de consciência dos pacientes:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Escala de coma de Glasgow e escala RASS."
+      },
+      {
+        "letra": "B",
+        "texto": "Prova de Laségue e prova de Brudzinski."
+      },
+      {
+        "letra": "C",
+        "texto": "Exame MEEM e exame MoCA."
+      },
+      {
+        "letra": "D",
+        "texto": "Escala RASS e exame MEEM."
+      },
+      {
+        "letra": "E",
+        "texto": "Escala de coma de Glasgow e prova de Brudzinski."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105490,
+    "tags": [],
+    "enunciado": "Quais são os três elementos avaliados pela escala de coma de Glasgow?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Reflexo fotomotor direto, reflexo fotomotor consensual e resposta motora."
+      },
+      {
+        "letra": "B",
+        "texto": "Atenção, memória e linguagem."
+      },
+      {
+        "letra": "C",
+        "texto": "Cooperatividade, resposta verbal e perfusão periférica."
+      },
+      {
+        "letra": "D",
+        "texto": "Abertura ocular, resposta verbal e resposta motora."
+      },
+      {
+        "letra": "E",
+        "texto": "Reflexo fotomotor direto, memória e perfusão periférica."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105491,
+    "tags": [],
+    "enunciado": "Ao avaliar a integridade do nervo hipoglosso, qual dos seguintes resultados indica lesão do feixe nervoso à direita?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Protrusão da língua com desvio para a esquerda."
+      },
+      {
+        "letra": "B",
+        "texto": "Protrusão da língua com desvio para a direita."
+      },
+      {
+        "letra": "C",
+        "texto": "Queda do véu palatino à direita."
+      },
+      {
+        "letra": "D",
+        "texto": "Atrofia da língua à esquerda."
+      },
+      {
+        "letra": "E",
+        "texto": "Perda de sensibilidade no lado direito da língua."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105492,
+    "tags": [],
+    "enunciado": "Assinale a alternativa que contém um teste adequado para avaliar a função do nervo acessório, 11º nervo craniano:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Teste de força do músculo esternocleidomastoideo."
+      },
+      {
+        "letra": "B",
+        "texto": "Protrusão da língua."
+      },
+      {
+        "letra": "C",
+        "texto": "Pesquisa de motricidade ocular."
+      },
+      {
+        "letra": "D",
+        "texto": "Sensibilidade gustativa nos 2/3 anteriores da língua."
+      },
+      {
+        "letra": "E",
+        "texto": "Teste de sensibilidade geral na região da face."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105493,
+    "tags": [],
+    "enunciado": "Qual dos seguintes reflexos integrados do tronco encefálico é ideal para testar a função do nervo vago?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Reflexo fotomotor direto."
+      },
+      {
+        "letra": "B",
+        "texto": "Reflexo oculocefálico."
+      },
+      {
+        "letra": "C",
+        "texto": "Reflexo mentoniano."
+      },
+      {
+        "letra": "D",
+        "texto": "Reflexo corneopalpebral."
+      },
+      {
+        "letra": "E",
+        "texto": "Reflexo do vômito."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 105494,
+    "tags": [],
+    "enunciado": "O nervo glossofaríngeo é o 9º nervo craniano, e está envolvido com o sentido da gustação. Em qual região é mais indicado pesquisar a gustação do paciente com o intuito de avaliar a integridade do nervo glossofaríngeo?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1/3 anterior da língua."
+      },
+      {
+        "letra": "B",
+        "texto": "1/3 médio da língua."
+      },
+      {
+        "letra": "C",
+        "texto": "1/3 posterior da língua."
+      },
+      {
+        "letra": "D",
+        "texto": "Região da epiglote."
+      },
+      {
+        "letra": "E",
+        "texto": "Qualquer região da língua."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105495,
+    "tags": [],
+    "enunciado": "Qual das seguintes combinações de resultados de testes de audição indica uma surdez de origem neurossensorial no lado esquerdo do paciente avaliado?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Teste de Rinne: condução aérea dura menos que condução óssea no lado esquerdo, e condução aérea dura mais que condução aérea no lado direito. Teste de Weber: desvio do som para o lado esquerdo. Teste de Schwabach: o examinado continua ouvindo o som por mais tempo que o examinador quando se avalia a orelha esquerda."
+      },
+      {
+        "letra": "B",
+        "texto": "Teste de Rinne: condução aérea dura mais que condução óssea no lado esquerdo, e condução aérea dura menos que condução óssea do lado direito. Teste de Weber: desvio do som para o lado direito. Teste de Schwabach: o examinado continua ouvindo o som por mais tempo que o examinador quando se avalia a orelha direita."
+      },
+      {
+        "letra": "C",
+        "texto": "Teste de Rinne: condução aérea dura mais que condução óssea no lado esquerdo, e condução aérea dura mais que condução óssea do lado direito. Teste de Weber: desvio do som para o lado direito. Teste de Schwabach: o examinado ouve o som por menos tempo que o examinador quando se avalia a orelha esquerda."
+      },
+      {
+        "letra": "D",
+        "texto": "Teste de Rinne: condução aérea dura mais que condução óssea no lado esquerdo, e condução aérea dura mais que condução óssea no lado direito. Teste de Weber: desvio do som para o lado esquerdo. Teste de Schwabach: o examinado ouve o som por menos tempo que o examinador quando se avalia a orelha direita."
+      },
+      {
+        "letra": "E",
+        "texto": "Teste de Rinne: condução aérea dura menos que condução óssea do lado esquerdo, e condução aérea dura menos que condução óssea do lado direito. Teste de Weber: sem desvio do som. Teste de Schwabach: o examinado ouve o som por mais tempo que o examinador bilateralmente."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105496,
+    "tags": [],
+    "enunciado": "Assinale a alternativa que descreve adequadamente o sinal de paralisia do nervo facial:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sinal de Bell, paralisia dos músculos da mímica, tanto no andar superior quanto no andar inferior da face."
+      },
+      {
+        "letra": "B",
+        "texto": "Sinal de Bell, paralisia dos músculos da mímica, restrita ao andar inferior da face."
+      },
+      {
+        "letra": "C",
+        "texto": "Sinal de Bell, queda espontânea da mandíbula."
+      },
+      {
+        "letra": "D",
+        "texto": "Sinal de Bell, desvio ipsilateral da protrusão da língua."
+      },
+      {
+        "letra": "E",
+        "texto": "Sinal de Bell, ptose palpebral."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105497,
+    "tags": [],
+    "enunciado": "Qual é o único grupamento muscular da musculatura extrínseca do olho inervado pelo 4º nervo craniano, o nervo troclear?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Reto medial."
+      },
+      {
+        "letra": "B",
+        "texto": "Reto lateral."
+      },
+      {
+        "letra": "C",
+        "texto": "Reto superior."
+      },
+      {
+        "letra": "D",
+        "texto": "Reto inferior."
+      },
+      {
+        "letra": "E",
+        "texto": "Oblíquo superior."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 105498,
+    "tags": [],
+    "enunciado": "Marque a alternativa que contém a principal função do nervo trigêmeo, que é utilizada para avaliar a integridade desse nervo:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O nervo trigêmeo é o principal responsável pelo sentido da visão. Portanto, utilizam-se os exames de acuidade visual, campo visual e fundoscopia para avaliar esse nervo."
+      },
+      {
+        "letra": "B",
+        "texto": "O nervo trigêmeo é responsável pela audição e equilíbrio, portanto, as avaliações de surdez neurossensorial são utilizadas para testá-lo"
+      },
+      {
+        "letra": "C",
+        "texto": "O nervo trigêmeo é o feixe que realiza a inervação parassimpática das vísceras abdominais, contribuindo para função do trato gastrointestinal."
+      },
+      {
+        "letra": "D",
+        "texto": "O nervo trigêmeo é responsável pela sensibilidade geral da cabeça. Portanto, utiliza-se testes de sensibilidade tátil, térmica e dolorosa para avaliar a função desse nervo."
+      },
+      {
+        "letra": "E",
+        "texto": "O nervo trigêmeo é o feixe que realiza a inervação motora da musculatura da mímica, portanto, utiliza-se testes de força muscular desses grupamentos para avaliar o trigêmeo."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105499,
+    "tags": [],
+    "enunciado": "Você é chamado para avaliar um paciente do ambulatório de Neurologia que se apresenta com o seguinte quadro: Qual o nervo craniano que provavelmente está comprometido nesse caso?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nervo oculomotor."
+      },
+      {
+        "letra": "B",
+        "texto": "Nervo troclear."
+      },
+      {
+        "letra": "C",
+        "texto": "Nervo trigêmeo."
+      },
+      {
+        "letra": "D",
+        "texto": "Nervo abducente."
+      },
+      {
+        "letra": "E",
+        "texto": "Nervo facial."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105500,
+    "tags": [],
+    "enunciado": "Qual seria o quadro clínico mais provável para uma lesão completa do 3º nervo craniano, o nervo oculomotor?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Midríase, desvio lateral do olho e ptose palpebral no lado afetado."
+      },
+      {
+        "letra": "B",
+        "texto": "Miose, desvio medial do olho e impossibilidade de fechar a pálpebra no lado afetado."
+      },
+      {
+        "letra": "C",
+        "texto": "Midríase, desvio lateral do olho e impossibilidade de fechar a pálpebra no lado afetado."
+      },
+      {
+        "letra": "D",
+        "texto": "Miose, desvio medial do olho e ptose palpebral no lado afetado."
+      },
+      {
+        "letra": "E",
+        "texto": "Midríase, desvio medial do olho e ptose palpebral no lado afetado."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105501,
+    "tags": [],
+    "enunciado": "Imagine que você está atendendo um paciente, na atenção primária, que chega com queixas relacionadas ao escurecimento da visão. Qual exame pode ser utilizado, naquele momento, para avaliar clinicamente o campo visual desse paciente e identificar escotomas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Teste de Jaeger."
+      },
+      {
+        "letra": "B",
+        "texto": "Campimetria de confrontação."
+      },
+      {
+        "letra": "C",
+        "texto": "Teste de Snellen."
+      },
+      {
+        "letra": "D",
+        "texto": "Campimetria computadorizada."
+      },
+      {
+        "letra": "E",
+        "texto": "Fundoscopia."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105502,
+    "tags": [],
+    "enunciado": "Para avaliar o estado do 1º nervo craniano, qual dos sentidos abaixo deve ser testado?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Gustação."
+      },
+      {
+        "letra": "B",
+        "texto": "Visão."
+      },
+      {
+        "letra": "C",
+        "texto": "Olfato."
+      },
+      {
+        "letra": "D",
+        "texto": "Tato e propriocepção."
+      },
+      {
+        "letra": "E",
+        "texto": "Audição."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105503,
+    "tags": [],
+    "enunciado": "Observe a imagem a seguir, que representa a anastomose entre as artérias da base do crânio: Figura: Polígono de Willis. Fonte: Arquivos Estratégia Med.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "artéria representada por “C” é chamada de:"
+      },
+      {
+        "letra": "A",
+        "texto": "Artéria carótida interna."
+      },
+      {
+        "letra": "B",
+        "texto": "Artéria vertebral."
+      },
+      {
+        "letra": "C",
+        "texto": "Artéria cerebral anterior."
+      },
+      {
+        "letra": "D",
+        "texto": "Artéria cerebral posterior."
+      },
+      {
+        "letra": "E",
+        "texto": "Artéria cerebral média."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 105504,
+    "tags": [],
+    "enunciado": "Observe a imagem a seguir, que representa a anastomose entre as artérias da base do crânio: Figura: Polígono de Willis. Fonte: Arquivos Estratégia Med.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "artéria representada por “B” é chamada de:"
+      },
+      {
+        "letra": "A",
+        "texto": "Artéria carótida interna."
+      },
+      {
+        "letra": "B",
+        "texto": "Artéria vertebral."
+      },
+      {
+        "letra": "C",
+        "texto": "Artéria cerebral posterior."
+      },
+      {
+        "letra": "D",
+        "texto": "Artéria cerebral média."
+      },
+      {
+        "letra": "E",
+        "texto": "Artéria cerebral anterior."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 105505,
+    "tags": [],
+    "enunciado": "Leia a seguinte descrição, referente a uma célula que faz parte da neuróglia: “Célula com formato epitelial prismático ou cuboide. Participa do revestimento das cavidades do sistema ventricular do encéfalo e da medula, como os ventrículos e o aqueduto cerebral.”",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "célula descrita é conhecida como:"
+      },
+      {
+        "letra": "A",
+        "texto": "Célula de Schwann."
+      },
+      {
+        "letra": "B",
+        "texto": "Oligodendrócito."
+      },
+      {
+        "letra": "C",
+        "texto": "Célula ependimária."
+      },
+      {
+        "letra": "D",
+        "texto": "Astrócito."
+      },
+      {
+        "letra": "E",
+        "texto": "Microgliócito."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105506,
+    "tags": [],
+    "enunciado": "Leia a seguinte descrição, referente a uma célula que faz parte da neuróglia: “Célula achatada, com núcleo ovoide. Se dispõe enrolada ao redor das (cid:34)bras nervosas. Presente no sistema nervoso periférico, constitui a bainha de mielina dos axônios”.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "célula descrita é conhecida como:"
+      },
+      {
+        "letra": "A",
+        "texto": "Oligodendrócito."
+      },
+      {
+        "letra": "B",
+        "texto": "Astrócito."
+      },
+      {
+        "letra": "C",
+        "texto": "Célula ependimária."
+      },
+      {
+        "letra": "D",
+        "texto": "Célula de Schwann."
+      },
+      {
+        "letra": "E",
+        "texto": "Microgliócito."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105507,
+    "tags": [],
+    "enunciado": "Leia a seguinte descrição, referente a uma célula que faz parte da neuróglia: “Célula pertencente à macróglia do sistema nervoso central, apresenta poucos prolongamentos citoplasmáticos. Nesse sistema, participa da formação da bainha de mielina dos neurônios.”",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "célula descrita é conhecida como:"
+      },
+      {
+        "letra": "A",
+        "texto": "Célula de Schwann."
+      },
+      {
+        "letra": "B",
+        "texto": "Astrócito."
+      },
+      {
+        "letra": "C",
+        "texto": "Célula ependimária."
+      },
+      {
+        "letra": "D",
+        "texto": "Microgliócito."
+      },
+      {
+        "letra": "E",
+        "texto": "Oligodendrócito."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 105508,
+    "tags": [],
+    "enunciado": "Leia a seguinte descrição, referente a uma célula que faz parte da neuróglia: “Célula alongada de pequenas dimensões. Participa da resposta imune do sistema nervoso, assumindo, nesse sistema, funções fagocíticas similares aos macrófagos nos demais tecidos do organismo”.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "célula descrita é conhecida como:"
+      },
+      {
+        "letra": "A",
+        "texto": "Astrócito."
+      },
+      {
+        "letra": "B",
+        "texto": "Oligodendrócito."
+      },
+      {
+        "letra": "C",
+        "texto": "Célula de Schwann."
+      },
+      {
+        "letra": "D",
+        "texto": "Microgliócito."
+      },
+      {
+        "letra": "E",
+        "texto": "Célula ependimária."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105509,
+    "tags": [],
+    "enunciado": "Leia a seguinte descrição, referente a uma célula que faz parte da neuróglia: “Célula com formato estrelado, provida de muitos prolongamentos que se apoiam nos capilares sanguíneos e nos neurônios. Sua função é de sustentar e de proteger os neurônios, contribuindo para a formação e o funcionamento adequado das sinapses”.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "célula descrita é conhecida como:"
+      },
+      {
+        "letra": "A",
+        "texto": "Astrócito."
+      },
+      {
+        "letra": "B",
+        "texto": "Oligodendrócito."
+      },
+      {
+        "letra": "C",
+        "texto": "Célula de Schwann."
+      },
+      {
+        "letra": "D",
+        "texto": "Microgliócito."
+      },
+      {
+        "letra": "E",
+        "texto": "Célula ependimária."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105510,
+    "tags": [],
+    "enunciado": "Assinale a alternativa que preenche corretamente as lacunas do enunciado abaixo: Um neurônio típico é constituído por três porções distintas: dendritos, corpo celular e axônio. No(s) _____, ocorre a recepção dos impulsos nervosos, que são conduzidos até o(s) _____, produzindo uma alteração do potencial de membrana. Caso essa alteração atinja um determinado limiar, um potencial de ação é gerado e conduzido pelo(s) _____ até as terminações nervosas.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Axônio, corpo celular, dendritos."
+      },
+      {
+        "letra": "B",
+        "texto": "Dendritos, corpo celular, axônio."
+      },
+      {
+        "letra": "C",
+        "texto": "Corpo celular, axônio, dendritos."
+      },
+      {
+        "letra": "D",
+        "texto": "Dendritos, axônio, corpo celular."
+      },
+      {
+        "letra": "E",
+        "texto": "Axônio, dendritos, corpo celular."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105511,
+    "tags": [],
+    "enunciado": "Observe a imagem a seguir, que representa a anastomose entre as artérias da base do crânio: Figura: Polígono de Willis. Fonte: Arquivos Estratégia Med.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "artéria representada por “A” é chamada de:"
+      },
+      {
+        "letra": "A",
+        "texto": "Artéria cerebral anterior."
+      },
+      {
+        "letra": "B",
+        "texto": "Artéria cerebral média."
+      },
+      {
+        "letra": "C",
+        "texto": "Artéria cerebral posterior."
+      },
+      {
+        "letra": "D",
+        "texto": "Artéria vertebral."
+      },
+      {
+        "letra": "E",
+        "texto": "Artéria carótida interna."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 105512,
+    "tags": [],
+    "enunciado": "Assinale a alternativa que preenche corretamente as lacunas do enunciado abaixo: Duas grandes artérias são as protagonistas do suprimento sanguíneo do encéfalo. Nas regiões anteriores do sistema nervoso central, predomina a vascularização pelos ramos da ________, e, nas regiões posteriores, predomina a vascularização pelos ramos derivados das __________.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Artéria carótida interna, artérias vertebrais."
+      },
+      {
+        "letra": "B",
+        "texto": "Artéria carótida externa, artérias vertebrais."
+      },
+      {
+        "letra": "C",
+        "texto": "Artéria vertebral, artérias carótidas (interna e externa)."
+      },
+      {
+        "letra": "D",
+        "texto": "Artéria vertebral, artérias meníngeas médias."
+      },
+      {
+        "letra": "E",
+        "texto": "Artéria meníngea média, artérias carótidas (interna e externa)"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105513,
+    "tags": [],
+    "enunciado": "Observe a figura a seguir: Figura: Núcleos da base. Fonte: Arquivos Estratégia Med. Os núcleos indicados como “A”, “B” e “C”, componentes do corpo estriado, são denominados, respectivamente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Núcleo caudado, putâmen e globo pálido."
+      },
+      {
+        "letra": "B",
+        "texto": "Núcleo caudado, globo pálido e putâmen."
+      },
+      {
+        "letra": "C",
+        "texto": "Putâmen, núcleo caudado e globo pálido."
+      },
+      {
+        "letra": "D",
+        "texto": "Putâmen, globo pálido e núcleo caudado."
+      },
+      {
+        "letra": "E",
+        "texto": "Globo pálido, núcleo caudado e putâmen."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105514,
+    "tags": [],
+    "enunciado": "Ao se realizar acessos cirúrgicos do centro branco medular do cérebro, o cirurgião deve estar atento para a posição dos núcleos da base, que são aglomerados de substância cinzenta presentes no interior da substância branca cerebral. Partindo do córtex da ínsula até o III ventrículo, as estruturas encontradas no interior de cada hemisfério cerebral, de superficial para profundo, são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cápsula extrema, claustrum, cápsula externa, globo pálido, putâmen, cápsula interna, núcleo caudado e tálamo."
+      },
+      {
+        "letra": "B",
+        "texto": "Cápsula externa, claustrum, cápsula interna, putâmen, globo pálido, cápsula extrema, núcleo caudado e tálamo."
+      },
+      {
+        "letra": "C",
+        "texto": "Cápsula externa, claustrum, cápsula interna, globo pálido, putâmen, cápsula extrema, tálamo e núcleo caudado."
+      },
+      {
+        "letra": "D",
+        "texto": "Cápsula extrema, claustrum, cápsula externa, putâmen, globo pálido, cápsula interna, núcleo caudado e tálamo."
+      },
+      {
+        "letra": "E",
+        "texto": "Cápsula extrema, claustrum, cápsula externa, globo pálido, putâmen, cápsula interna, tálamo e núcleo caudado."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105515,
+    "tags": [],
+    "enunciado": "No cérebro, dois importantes giros são separados entre si pelo sulco central. O primeiro deles possui localização ventral em relação ao sulco central, e contém a área motora primária. Já o segundo possui localização dorsal ao sulco, e contém a área somestésica primária. Esses giros são intitulados, respectivamente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Giro pré-central e giro pós-central."
+      },
+      {
+        "letra": "B",
+        "texto": "Giro pós-central e giro pré-central."
+      },
+      {
+        "letra": "C",
+        "texto": "Área de Broca e área de Wernicke."
+      },
+      {
+        "letra": "D",
+        "texto": "Giro frontal superior e giro frontal médio."
+      },
+      {
+        "letra": "E",
+        "texto": "Giro temporal superior e giro temporal médio."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105516,
+    "tags": [],
+    "enunciado": "A figura a seguir representa dois dos mais importantes acidentes anatômicos do córtex cerebral: Figura: Acidentes anatômicos do córtex cerebral. Fonte: Arquivos Estratégia Med. Identifique-os:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Giro central e giro lateral."
+      },
+      {
+        "letra": "B",
+        "texto": "Sulco central e sulco lateral."
+      },
+      {
+        "letra": "C",
+        "texto": "Sulco pré-central e sulco lateral."
+      },
+      {
+        "letra": "D",
+        "texto": "Sulco central e sulco temporal superior."
+      },
+      {
+        "letra": "E",
+        "texto": "Sulco pré-central e sulco temporal superior."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105517,
+    "tags": [],
+    "enunciado": "Um dos lobos do telencéfalo não tem relação com os ossos do crânio, estando contido na profundidade do sulco lateral do cérebro. O lobo a que essa afirmação faz referência é chamado de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Lobo frontal."
+      },
+      {
+        "letra": "B",
+        "texto": "Lobo parietal."
+      },
+      {
+        "letra": "C",
+        "texto": "Lobo temporal."
+      },
+      {
+        "letra": "D",
+        "texto": "Ínsula."
+      },
+      {
+        "letra": "E",
+        "texto": "Lobo occipital."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105518,
+    "tags": [],
+    "enunciado": "O lobo temporal é uma das regiões anatômicas do telencéfalo, estando relacionado aos ossos temporais do crânio. Como são definidos os limites do lobo temporal, na face dorsolateral do cérebro?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O lobo temporal se localiza profundamente no sulco lateral, recoberto pelos lobos frontal e parietal, não sendo visto na face dorsolateral do cérebro."
+      },
+      {
+        "letra": "B",
+        "texto": "O lobo temporal se localiza posteriormente ao sulco central, superiormente ao ramo posterior do sulco lateral, e anteriormente à linha imaginária que une a incisura pré-occipital ao sulco parieto- occipital."
+      },
+      {
+        "letra": "C",
+        "texto": "O lobo temporal se localiza inferiormente ao sulco lateral, e anteriormente à linha imaginária que une a incisura pré-occipital ao sulco parieto-occipital."
+      },
+      {
+        "letra": "D",
+        "texto": "O lobo temporal se localiza anteriormente ao sulco central, e superiormente ao sulco lateral."
+      },
+      {
+        "letra": "E",
+        "texto": "O lobo temporal é toda a massa de cérebro localizada posteriormente à linha imaginária que une a incisura pré-occipital ao sulco parieto-occipital."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105519,
+    "tags": [],
+    "enunciado": "O lobo occipital é uma das regiões anatômicas do telencéfalo, estando relacionado ao osso occipital do crânio. Como são definidos os limites do lobo occipital, na face dorsolateral do cérebro?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O lobo occipital se localiza inferiormente ao sulco lateral, e anteriormente à linha imaginária que une a incisura pré-occipital ao sulco parieto-occipital."
+      },
+      {
+        "letra": "B",
+        "texto": "O lobo occipital se localiza anteriormente ao sulco central, e superiormente ao sulco lateral."
+      },
+      {
+        "letra": "C",
+        "texto": "O lobo occipital se localiza posteriormente ao sulco central, superiormente ao ramo posterior do sulco lateral, e anteriormente à linha imaginária que une a incisura pré-occipital ao sulco parieto- occipital."
+      },
+      {
+        "letra": "D",
+        "texto": "O lobo occipital se localiza profundamente no sulco lateral, recoberto pelos lobos frontal, parietal e temporal, não sendo visto na face dorsolateral do cérebro."
+      },
+      {
+        "letra": "E",
+        "texto": "O lobo occipital é toda a massa de cérebro localizada posteriormente à linha imaginária que une a incisura pré-occipital ao sulco parieto-occipital."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 105520,
+    "tags": [],
+    "enunciado": "O lobo parietal é uma das regiões anatômicas do telencéfalo, estando relacionado aos ossos parietais do crânio. Como são definidos os limites do lobo parietal, na face dorsolateral do cérebro?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O lobo parietal é toda a massa de cérebro localizada posteriormente à linha imaginária que une a incisura pré-occipital ao sulco parieto-occipital."
+      },
+      {
+        "letra": "B",
+        "texto": "O lobo parietal se localiza inferiormente ao sulco lateral, e anteriormente à linha imaginária que une a incisura pré-occipital ao sulco parieto-occipital."
+      },
+      {
+        "letra": "C",
+        "texto": "O lobo parietal se localiza profundamente no sulco lateral, recoberto pelos lobos frontal e temporal, não sendo visto na face dorsolateral do cérebro."
+      },
+      {
+        "letra": "D",
+        "texto": "O lobo parietal se localiza posteriormente ao sulco central, superiormente ao ramo posterior do sulco lateral, e anteriormente à linha imaginária que une a incisura pré-occipital ao sulco parieto- occipital."
+      },
+      {
+        "letra": "E",
+        "texto": "O lobo parietal se localiza anteriormente ao sulco central, e superiormente ao sulco lateral."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105521,
+    "tags": [],
+    "enunciado": "O lobo frontal é uma das regiões anatômicas do telencéfalo, estando relacionado aos ossos frontais do crânio. Como são definidos os limites do lobo frontal, na face dorsolateral do cérebro?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O lobo frontal se localiza anteriormente ao sulco central, e superiormente ao sulco lateral."
+      },
+      {
+        "letra": "B",
+        "texto": "O lobo frontal se localiza posteriormente ao sulco central, superiormente ao ramo posterior do sulco lateral, e anteriormente à linha imaginária que une a incisura pré-occipital ao sulco parieto-occipital."
+      },
+      {
+        "letra": "C",
+        "texto": "O lobo frontal se localiza profundamente no sulco lateral, recoberto pelos lobos parietal e temporal, não sendo visto na face dorsolateral do cérebro."
+      },
+      {
+        "letra": "D",
+        "texto": "O lobo frontal se localiza inferiormente ao sulco lateral, e anteriormente à linha imaginária que une a incisura pré-occipital ao sulco parieto-occipital."
+      },
+      {
+        "letra": "E",
+        "texto": "O lobo frontal é toda a massa de cérebro localizada posteriormente à linha imaginária que une a incisura pré-occipital ao sulco parieto-occipital."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105522,
+    "tags": [],
+    "enunciado": "No estudo da anatomia do sistema nervoso central, o cérebro costuma ser dividido em duas regiões: uma central, ímpar e mediana, e outra lateral, dupla e volumosa. Identifique essas regiões na imagem abaixo: Figura: Regiões do cérebro. Fonte: Arquivos Estratégia Med.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A – Córtex cerebral, B – Tronco encefálico."
+      },
+      {
+        "letra": "B",
+        "texto": "A – Diencéfalo, B – Telencéfalo."
+      },
+      {
+        "letra": "C",
+        "texto": "A – Telencéfalo, B – Diencéfalo."
+      },
+      {
+        "letra": "D",
+        "texto": "A – Córtex cerebral, B – Centro branco medular."
+      },
+      {
+        "letra": "E",
+        "texto": "A – Hemisférios cerebrais, B – Tronco encefálico."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105523,
+    "tags": [],
+    "enunciado": "A figura a seguir representa as estruturas do assoalho do III ventrículo, pertencentes ao hipotálamo: Figura: Assoalho do III ventrículo. Fonte: Arquivos Estratégia Med. Assinale a alternativa que identifica corretamente as estruturas indicadas por “A”, “B”, “C” e “D”:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Corpo mamilar, túber cinéreo, infundíbulo e quiasma óptico."
+      },
+      {
+        "letra": "B",
+        "texto": "Corpo mamilar, quiasma óptico, infundíbulo e túber cinéreo."
+      },
+      {
+        "letra": "C",
+        "texto": "Quiasma óptico, corpos mamilares, túber cinéreo e infundíbulo."
+      },
+      {
+        "letra": "D",
+        "texto": "Quiasma óptico, corpos mamilares, infundíbulo e túber cinéreo."
+      },
+      {
+        "letra": "E",
+        "texto": "Quiasma óptico, infundíbulo, túber cinéreo e corpo mamilar."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 105524,
+    "tags": [],
+    "enunciado": "A imagem a seguir representa a emergência dos doze pares de nervos cranianos a partir do encéfalo: Figura: Nervos Cranianos. Fonte: Arquivos Estratégia Med. Assinale a alternativa que identi(cid:34)ca corretamente os nervos cranianos indicados por “A”, “B” e “C”, respectivamente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nervo olfatório, nervo óptico e nervo oculomotor."
+      },
+      {
+        "letra": "B",
+        "texto": "Nervo trigêmeo, nervo oculomotor e nervo troclear."
+      },
+      {
+        "letra": "C",
+        "texto": "Nervo trigêmeo, nervo abducente e nervo facial."
+      },
+      {
+        "letra": "D",
+        "texto": "Nervo glossofaríngeo, nervo vago e nervo acessório."
+      },
+      {
+        "letra": "E",
+        "texto": "Nervo vago, nervo acessório e nervo hipoglosso."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105525,
+    "tags": [],
+    "enunciado": "A imagem a seguir é uma representação esquemática de um corte transversal do mesencéfalo: Figura: Corte transversal do mesencéfalo. Fonte: Arquivos Estratégia Med. Assinale a alternativa que identi(cid:34)ca corretamente a região assinalada por “A”, correspondente à área mesencefálica situada posteriormente ao aqueduto cerebral:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tegmento."
+      },
+      {
+        "letra": "B",
+        "texto": "Pedúnculo cerebral."
+      },
+      {
+        "letra": "C",
+        "texto": "Base."
+      },
+      {
+        "letra": "D",
+        "texto": "Teto."
+      },
+      {
+        "letra": "E",
+        "texto": "Substância negra."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105526,
+    "tags": [],
+    "enunciado": "Observe a figura abaixo: Figura: Visão frontal do tronco encefálico. Fonte: Arquivos Estratégia Med. Como são denominados os acidentes anatômicos do bulbo indicados por “A”, “B” e “C”, respectivamente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pirâmides bulbares, oliva, raízes do nervo hipoglosso."
+      },
+      {
+        "letra": "B",
+        "texto": "Olivas, pirâmide bulbar, decussação das pirâmides."
+      },
+      {
+        "letra": "C",
+        "texto": "Pirâmides bulbares, oliva, decussação das pirâmides."
+      },
+      {
+        "letra": "D",
+        "texto": "Fascículos grácil e cuneiforme, pirâmide bulbar, raízes do nervo hipoglosso."
+      },
+      {
+        "letra": "E",
+        "texto": "Fascículos grácil e cuneiforme, oliva, raízes do nervo hipoglosso."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105527,
+    "tags": [],
+    "enunciado": "A imagem a seguir é uma representação esquemática da região do IV ventrículo: Figura: IV ventrículo. Fonte: Arquivos Estratégia Med. Assinale a alternativa que contém a nomenclatura correta das estruturas indicadas por “A” e “B”, respectivamente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Forame de Luschka e Forame de Magendie."
+      },
+      {
+        "letra": "B",
+        "texto": "Aqueduto cerebral e canal central da medula."
+      },
+      {
+        "letra": "C",
+        "texto": "III ventrículo e canal central da medula."
+      },
+      {
+        "letra": "D",
+        "texto": "Aqueduto cerebral e V ventrículo."
+      },
+      {
+        "letra": "E",
+        "texto": "Forame de Magendie e III ventrículo."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105528,
+    "tags": [],
+    "enunciado": "Observe a imagem esquemática de um corte coronal do cérebro a seguir: Figura: Meninges. Fonte: Arquivos Estratégia Med. Como são denominados respectivamente os folhetos das meninges representados por “a”, “b” e “d”, e o espaço representado por “c”?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Dura-máter, aracnoide e pia-máter. Espaço subaracnóideo."
+      },
+      {
+        "letra": "B",
+        "texto": "Dura-máter, pia-máter e aracnoide. Espaço subaracnóideo."
+      },
+      {
+        "letra": "C",
+        "texto": "Pia-máter, dura-máter e aracnoide. Espaço subdural."
+      },
+      {
+        "letra": "D",
+        "texto": "Aracnoide, dura-máter e pia-máter. Espaço subdural."
+      },
+      {
+        "letra": "E",
+        "texto": "Pia-máter, aracnoide e dura-máter. Espaço epidural."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105529,
+    "tags": [],
+    "enunciado": "Observe a imagem esquemática de um corte transversal da medula espinhal abaixo: Como são denominados os acidentes indicados por a, b, c e d, respectivamente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fissura mediana anterior, sulco lateral posterior, sulco lateral anterior e sulco mediano posterior."
+      },
+      {
+        "letra": "B",
+        "texto": "Fissura mediana anterior, sulco lateral anterior, sulco lateral posterior e fissura mediana posterior."
+      },
+      {
+        "letra": "C",
+        "texto": "Sulco lateral anterior, sulco intermediário anterior, sulco intermediário posterior e sulco lateral posterior."
+      },
+      {
+        "letra": "D",
+        "texto": "Sulco anterior, sulco lateral anterior, sulco lateral posterior, sulco posterior."
+      },
+      {
+        "letra": "E",
+        "texto": "Fissura mediana anterior, sulco lateral anterior, sulco lateral posterior e sulco mediano posterior."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 105530,
+    "tags": [],
+    "enunciado": "A superfície do cérebro é marcadamente irregular, sendo repleta de sulcos que de(cid:34)nem os giros cerebrais. Qual a função dos sulcos do cérebro, quando comparados a uma superfície cortical lisa?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A presença de sulcos na superfície do cérebro serve para aumentar a área de substância cinzenta, sem que se aumente excessivamente o volume do órgão."
+      },
+      {
+        "letra": "B",
+        "texto": "Os sulcos da superfície do cérebro existem para reduzir a quantidade de área de superfície, ao encapsular parte do órgão."
+      },
+      {
+        "letra": "C",
+        "texto": "A função dos sulcos do cérebro é a de aumentar a área de substância branca que pode ser contida no interior da cavidade craniana, ao dispô-la no interior dessas depressões."
+      },
+      {
+        "letra": "D",
+        "texto": "Os sulcos do cérebro não apresentam nenhuma vantagem evolutiva em relação a uma superfície lisa, sendo apenas um resquício da embriologia do sistema nervoso."
+      },
+      {
+        "letra": "E",
+        "texto": "A presença de sulcos na superfície do cérebro serve para proteger o parênquima cerebral nos casos de trauma, uma vez que as áreas mais nobres do órgão ficam localizadas no interior dessas depressões."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105531,
+    "tags": [],
+    "enunciado": "O III ventrículo é uma das cavidades que compõem o sistema ventricular do encéfalo, sendo responsável pela circulação do líquor. Quais são os limites que definem o III ventrículo?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Parede anterior: lâmina terminal. Parede posterior: subtálamo. Paredes laterais: tálamo e epitálamo. Assoalho: hipotálamo. Teto: tela coroide."
+      },
+      {
+        "letra": "B",
+        "texto": "Parede anterior: hipotálamo. Parede posterior: epitálamo. Paredes laterais: tálamo e hipotálamo. Assoalho: subtálamo. Teto: tela coroide."
+      },
+      {
+        "letra": "C",
+        "texto": "Parede anterior: lâmina terminal. Parede posterior: epitálamo. Paredes laterais: tálamo e epitálamo. Assoalho: subtálamo. Teto: epitálamo."
+      },
+      {
+        "letra": "D",
+        "texto": "Parede anterior: hipotálamo. Parede posterior: subtálamo. Paredes laterais: tálamo e hipotálamo. Assoalho: hipotálamo. Teto: epitálamo."
+      },
+      {
+        "letra": "E",
+        "texto": "Parede anterior: lâmina terminal. Parede posterior: epitálamo. Paredes laterais: tálamo e hipotálamo. Assoalho: hipotálamo. Teto: tela coroide."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 105532,
+    "tags": [],
+    "enunciado": "O diencéfalo é parte do sistema nervoso central, tendo estreita relação com uma das cavidades do sistema ventricular do encéfalo. Assinale a alternativa que nomeia corretamente a cavidade supracitada:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ventrículos laterais."
+      },
+      {
+        "letra": "B",
+        "texto": "III ventrículo."
+      },
+      {
+        "letra": "C",
+        "texto": "IV ventrículo."
+      },
+      {
+        "letra": "D",
+        "texto": "Canal central da medula."
+      },
+      {
+        "letra": "E",
+        "texto": "Aqueduto cerebral."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105533,
+    "tags": [],
+    "enunciado": "Qual das afirmativas a seguir é verdadeira a respeito da anatomia do cerebelo?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A superfície do cerebelo é composta pelo córtex cerebelar, uma lâmina de substância cinzenta contínua e regular, repleta de corpos celulares de neurônios."
+      },
+      {
+        "letra": "B",
+        "texto": "Macroscopicamente, o cerebelo aparece como duas eminências laterais, os hemisférios cerebelares, ligados a uma estrutura ímpar e mediana, denominada vérmis."
+      },
+      {
+        "letra": "C",
+        "texto": "O cerebelo se localiza posterior ao tronco encefálico, constituindo o teto do IV ventrículo e estando em íntima relação com o mesencéfalo."
+      },
+      {
+        "letra": "D",
+        "texto": "O córtex cerebelar, composto por substância cinzenta, engloba o corpo medular do cerebelo, composto por substância branca. Ao contrário do que ocorre no telencéfalo e no tronco encefálico, não existem núcleos de substância cinzenta no interior da substância branca cerebelar."
+      },
+      {
+        "letra": "E",
+        "texto": "Os pedúnculos cerebelares, superior e inferior, unem o cerebelo ao tronco encefálico. Essas são as duas principais estruturas que carregam as aferências e eferências relativas ao cerebelo."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105534,
+    "tags": [],
+    "enunciado": "Assinale a alternativa correta a respeito da disposição da substância cinzenta do cerebelo:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O cerebelo possui uma organização similar à da medula espinhal, com a substância cinzenta disposta no interior da substância branca."
+      },
+      {
+        "letra": "B",
+        "texto": "O cerebelo é organizado de forma que a substância branca está contida em seu centro medular, sendo circundada por um córtex cerebelar composto de substância cinzenta. Essa organização é similar à da medula espinhal."
+      },
+      {
+        "letra": "C",
+        "texto": "O cerebelo possui substância cinzenta localizada no córtex cerebelar, disposto ao redor de um centro de substância branca, o qual contém alguns núcleos de substância cinzenta em seu interior. Essa organização se assemelha ao telencéfalo."
+      },
+      {
+        "letra": "D",
+        "texto": "O cerebelo constitui-se de maneira similar ao telencéfalo: possui substância cinzenta na região central e substância branca na periferia do órgão."
+      },
+      {
+        "letra": "E",
+        "texto": "O cerebelo é considerado como um grande núcleo de substância cinzenta, não sendo encontrado nele um centro medular de substância branca."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105535,
+    "tags": [],
+    "enunciado": "Assinale a alternativa que descreve corretamente os limites do IV ventrículo:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Súpero-lateral: Pedúnculo cerebelar superior. Ínfero-lateral: Pedúnculo cerebelar inferior. Teto: Cerebelo. Assoalho: Ponte e Bulbo."
+      },
+      {
+        "letra": "B",
+        "texto": "Súpero-lateral: Pedúnculo cerebelar médio. Ínfero-lateral: Pedúnculo cerebelar inferior. Teto: Cerebelo. Assoalho: Ponte e Bulbo."
+      },
+      {
+        "letra": "C",
+        "texto": "Súpero-lateral: Pedúnculo cerebelar médio. Ínfero-lateral: Pedúnculo cerebelar inferior. Teto: Cerebelo. Assoalho: Mesencéfalo e Ponte."
+      },
+      {
+        "letra": "D",
+        "texto": "Súpero-lateral: Pedúnculo cerebelar superior. Ínfero-lateral: Pedúnculo cerebelar inferior. Teto: Cerebelo. Assoalho: Mesencéfalo e Ponte."
+      },
+      {
+        "letra": "E",
+        "texto": "Súpero-lateral: Pedúnculo cerebelar superior. Ínfero-lateral: Pedúnculo cerebelar médio. Teto: Cerebelo. Assoalho: Mesencéfalo e Ponte."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105536,
+    "tags": [],
+    "enunciado": "Como é denominado o acidente anatômico do bulbo localizado entre os sulcos lateral anterior e lateral posterior?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Oliva."
+      },
+      {
+        "letra": "B",
+        "texto": "Pirâmide bulbar."
+      },
+      {
+        "letra": "C",
+        "texto": "Fascículo grácil."
+      },
+      {
+        "letra": "D",
+        "texto": "Fascículo cuneiforme."
+      },
+      {
+        "letra": "E",
+        "texto": "Decussação das pirâmides."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105537,
+    "tags": [],
+    "enunciado": "Marque a alternativa que contém a estrutura do IV ventrículo responsável pela produção de líquor:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Forames de Luschka."
+      },
+      {
+        "letra": "B",
+        "texto": "Forame de Magendie."
+      },
+      {
+        "letra": "C",
+        "texto": "Plexo coroide."
+      },
+      {
+        "letra": "D",
+        "texto": "Canal central da medula."
+      },
+      {
+        "letra": "E",
+        "texto": "Aqueduto cerebral."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105538,
+    "tags": [],
+    "enunciado": "Qual das seguintes assertivas é verdadeira a respeito do quiasma óptico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O quiasma óptico é a região do assoalho do III ventrículo, relacionada ao hipotálamo, que recebe os nervos ópticos e marca o cruzamento das fibras da retina nasal."
+      },
+      {
+        "letra": "B",
+        "texto": "O quiasma óptico é a região do assoalho do IV ventrículo, relacionada ao tálamo, que recebe os nervos ópticos e marca o cruzamento das fibras da retina nasal."
+      },
+      {
+        "letra": "C",
+        "texto": "O quiasma óptico é a região do assoalho do III ventrículo, relacionada ao hipotálamo, que recebe os nervos oculomotores e marca o cruzamento das fibras que inervam a musculatura intrínseca do olho."
+      },
+      {
+        "letra": "D",
+        "texto": "O quiasma óptico é a região do assoalho do IV ventrículo, relacionada ao tálamo, que recebe os nervos ópticos e marca o cruzamento das fibras da retina temporal."
+      },
+      {
+        "letra": "E",
+        "texto": "O quiasma óptico é a região do assoalho do III ventrículo, relacionada ao hipotálamo, que recebe os nervos ópticos e marca o cruzamento das fibras da retina temporal."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105539,
+    "tags": [],
+    "enunciado": "Quais dos pares de nervos cranianos emergem a partir do mesencéfalo?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nervo olfatório e nervo óptico (I e II pares)."
+      },
+      {
+        "letra": "B",
+        "texto": "Nervo oculomotor e nervo troclear (III e IV pares)."
+      },
+      {
+        "letra": "C",
+        "texto": "Nervo trigêmeo (V par)."
+      },
+      {
+        "letra": "D",
+        "texto": "Nervo abducente, nervo facial e nervo vestíbulo-coclear (VI, VII e VII pares de nervos cranianos)."
+      },
+      {
+        "letra": "E",
+        "texto": "Não emergem nervos cranianos a partir do mesencéfalo."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105540,
+    "tags": [],
+    "enunciado": "O pedúnculo cerebral, região ventral do mesencéfalo, é dividido em base e tegmento pela substância negra, núcleo de neurônios pigmentados com melanina que produzem o neurotransmissor:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Dopamina."
+      },
+      {
+        "letra": "B",
+        "texto": "Serotonina."
+      },
+      {
+        "letra": "C",
+        "texto": "Acetilcolina."
+      },
+      {
+        "letra": "D",
+        "texto": "Noradrenalina."
+      },
+      {
+        "letra": "E",
+        "texto": "Encefalina."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105541,
+    "tags": [],
+    "enunciado": "A base da ponte é marcada por um profundo sulco mediano, que aloja uma importante estrutura da região. A estrutura que passa ali é denominada:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nervo trigêmeo."
+      },
+      {
+        "letra": "B",
+        "texto": "Nervo hipoglosso."
+      },
+      {
+        "letra": "C",
+        "texto": "Artéria cerebral média."
+      },
+      {
+        "letra": "D",
+        "texto": "Artéria cerebral anterior."
+      },
+      {
+        "letra": "E",
+        "texto": "Artéria basilar."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 105542,
+    "tags": [],
+    "enunciado": "Qual das seguintes afirmativas é verdadeira a respeito do mesencéfalo observado em corte transversal?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "No interior do mesencéfalo é possível observar uma cavidade preenchida por líquor, que faz parte do sistema ventricular, denominada III ventrículo."
+      },
+      {
+        "letra": "B",
+        "texto": "Utilizando como referência o aqueduto cerebral, o mesencéfalo pode ser divido em duas regiões, o teto mesencefálico (posterior) e os pedúnculos cerebrais (anteriores)."
+      },
+      {
+        "letra": "C",
+        "texto": "O mesencéfalo é bastante uniforme quando observado em corte transversal, tendo como único acidente anatômico mais importante o aqueduto cerebral."
+      },
+      {
+        "letra": "D",
+        "texto": "Os colículos são estruturas arredondadas presentes na região ventral do mesencéfalo, sendo que os colículos inferiores participam da via auditiva e os colículos superiores participam da via óptica."
+      },
+      {
+        "letra": "E",
+        "texto": "Diferentemente da ponte e do bulbo, não emergem nervos cranianos a partir do mesencéfalo."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105543,
+    "tags": [],
+    "enunciado": "Qual acidente anatômico do tronco encefálico marca o ponto de surgimento do nervo trigêmeo?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sulco bulbo-pontino."
+      },
+      {
+        "letra": "B",
+        "texto": "Sulco medial do pedúnculo cerebral."
+      },
+      {
+        "letra": "C",
+        "texto": "Região do teto do mesencéfalo caudal aos colículos inferiores."
+      },
+      {
+        "letra": "D",
+        "texto": "Sulco lateral posterior."
+      },
+      {
+        "letra": "E",
+        "texto": "Limite entre a ponte e o pedúnculo cerebelar médio."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 105544,
+    "tags": [],
+    "enunciado": "Na investigação de suspeita de coma, é de rotina que se teste o re(cid:67)exo fotomotor, com o intuito de veri(cid:34)car a integridade do sistema ativador reticular ascendente (SARA), localizado no mesencéfalo, que é responsável por manter a vigília. Qual o nervo que participa do re(cid:67)exo fotomotor cujo núcleo e ponto de emergência se localizam no mesencéfalo?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nervo olfatório."
+      },
+      {
+        "letra": "B",
+        "texto": "Nervo óptico."
+      },
+      {
+        "letra": "C",
+        "texto": "Nervo oculomotor."
+      },
+      {
+        "letra": "D",
+        "texto": "Nervo troclear."
+      },
+      {
+        "letra": "E",
+        "texto": "Nervo trigêmeo."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105545,
+    "tags": [],
+    "enunciado": "Um dos acidentes anatômicos mais marcantes do bulbo é o sulco lateral posterior, que representa uma continuação direta do mesmo sulco presente na medula espinhal. No caso de um processo expansivo que comprima o sulco lateral posterior do bulbo, quais estruturas seriam lesadas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nervo trigêmeo e pedúnculo cerebelar médio."
+      },
+      {
+        "letra": "B",
+        "texto": "Nervo abducente, nervo facial e nervo vestíbulo-coclear."
+      },
+      {
+        "letra": "C",
+        "texto": "Nervo hipoglosso e pirâmides bulbares."
+      },
+      {
+        "letra": "D",
+        "texto": "Nervo acessório, nervo vago e nervo glossofaríngeo."
+      },
+      {
+        "letra": "E",
+        "texto": "Artéria basilar e nervo oculomotor."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105546,
+    "tags": [],
+    "enunciado": "Na área dorsal do bulbo, encontramos os fascículos grácil e cuneiforme, continuações do funículo posterior da medula espinhal, que fazem sinapses nos núcleos grácil e cuneiforme. Essa via então continua superiormente, juntamente às estruturas denominadas:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pedúnculos cerebelares superiores."
+      },
+      {
+        "letra": "B",
+        "texto": "Pedúnculos cerebelares médios."
+      },
+      {
+        "letra": "C",
+        "texto": "Pedúnculos cerebelares inferiores."
+      },
+      {
+        "letra": "D",
+        "texto": "Colículos inferiores."
+      },
+      {
+        "letra": "E",
+        "texto": "Colículos superiores."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105547,
+    "tags": [],
+    "enunciado": "O sulco bulbo-pontino é uma importante área de emergência de nervos cranianos a partir do tronco encefálico. Marque a alternativa que contém os nervos que emergem do encéfalo a partir deste sulco:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nervo hipoglosso e nervo acessório."
+      },
+      {
+        "letra": "B",
+        "texto": "Nervo trigêmeo, nervo facial e nervo vestíbulo-coclear."
+      },
+      {
+        "letra": "C",
+        "texto": "Nervo abducente, nervo facial e nervo vestíbulo-coclear."
+      },
+      {
+        "letra": "D",
+        "texto": "Nervo acessório, nervo vago e nervo glossofaríngeo."
+      },
+      {
+        "letra": "E",
+        "texto": "Nervo troclear e nervo oculomotor."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105548,
+    "tags": [],
+    "enunciado": "O canal central da medula continua na porção fechada do bulbo, até que se abre na região dorsal do tronco encefálico formando a cavidade denominada:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I ventrículo."
+      },
+      {
+        "letra": "B",
+        "texto": "II ventrículo."
+      },
+      {
+        "letra": "C",
+        "texto": "III ventrículo."
+      },
+      {
+        "letra": "D",
+        "texto": "IV ventrículo."
+      },
+      {
+        "letra": "E",
+        "texto": "Aqueduto cerebral."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105549,
+    "tags": [],
+    "enunciado": "Qual nervo craniano emerge do sulco lateral anterior do bulbo?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nervo acessório."
+      },
+      {
+        "letra": "B",
+        "texto": "Nervo vago."
+      },
+      {
+        "letra": "C",
+        "texto": "Nervo glossofaríngeo."
+      },
+      {
+        "letra": "D",
+        "texto": "Nervo hipoglosso."
+      },
+      {
+        "letra": "E",
+        "texto": "Nervo trigêmeo."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105550,
+    "tags": [],
+    "enunciado": "A (cid:34)ssura mediana anterior da medula espinhal é contínua no bulbo, até que é obliterada por um acidente anatômico de grande importância. O acidente anatômico que cruza a (cid:34)ssura mediana anterior do bulbo é o(a):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Oliva."
+      },
+      {
+        "letra": "B",
+        "texto": "Decussação das pirâmides."
+      },
+      {
+        "letra": "C",
+        "texto": "Nervo hipoglosso."
+      },
+      {
+        "letra": "D",
+        "texto": "Nervo acessório."
+      },
+      {
+        "letra": "E",
+        "texto": "IV ventrículo."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105551,
+    "tags": [],
+    "enunciado": "O tronco encefálico é a região de transição entre a medula espinhal e o cérebro, compartilhando características com ambos. Assinale a alternativa que contém as estruturas que compõem o tronco encefálico:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tálamo e hipotálamo."
+      },
+      {
+        "letra": "B",
+        "texto": "Ponte, bulbo e cerebelo."
+      },
+      {
+        "letra": "C",
+        "texto": "Subtálamo e ponte."
+      },
+      {
+        "letra": "D",
+        "texto": "Hipocampo, amígdala e corpos mamilares."
+      },
+      {
+        "letra": "E",
+        "texto": "Bulbo, ponte e mesencéfalo."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 105552,
+    "tags": [],
+    "enunciado": "Qual estrutura de grande importância está localizada no espaço epidural da medula espinhal?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nenhuma em particular. Por ser um espaço virtual, contém apenas pequena quantidade de líquido."
+      },
+      {
+        "letra": "B",
+        "texto": "Grande quantidade de líquor. Nesse espaço se localiza a maior quantidade do líquido cefalorraquidiano, onde flutua o sistema nervoso central."
+      },
+      {
+        "letra": "C",
+        "texto": "Substância cinzenta. No espaço epidural se localizam os corpos celulares dos neurônios medulares, que se dispõem na periferia do órgão."
+      },
+      {
+        "letra": "D",
+        "texto": "Ligamento denticulado. Essa formação da dura-máter contribui para a fixação lateral da medula espinhal na coluna vertebral."
+      },
+      {
+        "letra": "E",
+        "texto": "Plexo venoso vertebral. Esse conjunto de veias sem válvulas realiza a drenagem da medula espinhal e pode contribuir para a disseminação medular de infecções e metástases."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 105553,
+    "tags": [],
+    "enunciado": "Durante uma raquianestesia, o médico deve perfurar os tecidos com a agulha até alcançar o espaço subaracnoideo, onde será depositado o anestésico. Quais folhetos das meninges serão perfurados nesse trajeto?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Dura-máter e aracnoide."
+      },
+      {
+        "letra": "B",
+        "texto": "Aracnoide e pia-máter."
+      },
+      {
+        "letra": "C",
+        "texto": "Dura-máter, pia-máter e aracnoide."
+      },
+      {
+        "letra": "D",
+        "texto": "Dura-máter e pia-máter."
+      },
+      {
+        "letra": "E",
+        "texto": "Apenas a aracnoide."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105554,
+    "tags": [],
+    "enunciado": "Entre as alternativas abaixo, qual contém uma a(cid:34)rmação correta a respeito dos segmentos da medula espinhal e dos nervos espinhais correspondentes?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Existem oito pares de nervos espinhais cervicais, porém apenas sete vértebras. O oitavo nervo cervical emerge pelo forame intervertebral abaixo da sétima vértebra."
+      },
+      {
+        "letra": "B",
+        "texto": "Todos os nervos espinhais emergem acima da vértebra da coluna vertebral correspondente (ex.: o nervo T11 sai pelo forame intervertebral acima da 11ª vértebra torácica)."
+      },
+      {
+        "letra": "C",
+        "texto": "Existem 33 pares de nervos espinhais, correspondentes às 33 vértebras da coluna vertebral. Cada um dos nervos tem relação íntima com a sua vértebra equivalente."
+      },
+      {
+        "letra": "D",
+        "texto": "Todos os nervos espinhais emergem abaixo da vértebra da coluna vertebral correspondente (ex.: o nervo C5 sai pelo forame intervertebral abaixo da 5ª vértebra cervical)."
+      },
+      {
+        "letra": "E",
+        "texto": "Todas as alternativas estão incorretas."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105555,
+    "tags": [],
+    "enunciado": "Marque a alternativa que descreve corretamente a estrutura dos funículos de substância branca na medula espinhal:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O funículo lateral está contido entre os sulcos lateral anterior e lateral posterior, na periferia da medula espinhal."
+      },
+      {
+        "letra": "B",
+        "texto": "O funículo posterior é delimitado pelos sulcos lateral posterior e intermediário posterior, na periferia da medula espinhal."
+      },
+      {
+        "letra": "C",
+        "texto": "O funículo posterior é delimitado pelos sulcos intermediário posterior e mediano posterior, na periferia da medula espinhal."
+      },
+      {
+        "letra": "D",
+        "texto": "O funículo anterior está contido entre a fissura mediana anterior e o sulco lateral anterior, profundamente à substância cinzenta."
+      },
+      {
+        "letra": "E",
+        "texto": "O funículo lateral se localiza entre a fissura mediana anterior e o sulco mediano posterior, profundamente à substância cinzenta."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105556,
+    "tags": [],
+    "enunciado": "Assinale a alternativa verdadeira a respeito da substância cinzenta da medula espinhal:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A substância cinzenta da medula se organiza na periferia do órgão, formando a área cortical que contém os corpos celulares dos neurônios, a qual circunda a substância branca."
+      },
+      {
+        "letra": "B",
+        "texto": "A substância cinzenta da medula espinhal se divide em três funículos: posterior, anterior e lateral. Esses funículos contêm os prolongamentos neuronais mielinizados que realizam a comunicação do sistema nervoso com o restante do organismo."
+      },
+      {
+        "letra": "C",
+        "texto": "A substância cinzenta da medula espinhal tem a forma de um “H” nos cortes transversais, formando colunas anteriores e posteriores ao longo do órgão. Os neurônios da coluna anterior estão relacionados à sensibilidade, formando as raízes dorsais dos nervos espinhais."
+      },
+      {
+        "letra": "D",
+        "texto": "A substância cinzenta da medula espinhal se dispõe no interior da substância branca, e forma as colunas anterior, posterior e lateral, sendo que esta última é encontrada apenas na região torácica e lombar."
+      },
+      {
+        "letra": "E",
+        "texto": "Os funículos da substância cinzenta são delimitados pelos sulcos superficiais da medula espinhal, e formam um anel ao redor da periferia do órgão, entremeado pela substância branca que dá origem aos nervos espinhais."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105557,
+    "tags": [],
+    "enunciado": "Como é chamado o acidente anatômico da superfície da medula espinhal de onde emergem as raízes ventrais dos nervos espinhais?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fissura mediana anterior."
+      },
+      {
+        "letra": "B",
+        "texto": "Sulco lateral anterior."
+      },
+      {
+        "letra": "C",
+        "texto": "Sulco lateral posterior."
+      },
+      {
+        "letra": "D",
+        "texto": "Sulco intermediário posterior."
+      },
+      {
+        "letra": "E",
+        "texto": "Sulco mediano posterior."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105558,
+    "tags": [],
+    "enunciado": "A medula espinhal é um órgão que não apresenta diâmetro uniforme ao longo do seu trajeto, formando intumescências de maior volume em determinadas regiões. Como são denominadas as intumescências da medula e o que determinam essas expansões?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Intumescência cervical e intumescência lombar. As intumescências são coxins adiposos que protegem a medula de choques mecânicos."
+      },
+      {
+        "letra": "B",
+        "texto": "Intumescência torácica e intumescência sacral. As intumescências são coxins adiposos que protegem a medula de choques mecânicos."
+      },
+      {
+        "letra": "C",
+        "texto": "Intumescência torácica e intumescência lombar. As intumescências são formadas pela expansão da substância cinzenta na altura de formação dos plexos braquial e lombossacral."
+      },
+      {
+        "letra": "D",
+        "texto": "Intumescência cervical e intumescência lombar. As intumescências são formadas pela expansão da substância cinzenta na altura de formação dos plexos braquial e lombossacral."
+      },
+      {
+        "letra": "E",
+        "texto": "Intumescência torácica e intumescência cervical. As intumescências são resquícios de processos infecciosos da medula, que cursam com inflamação local e edema não reabsorvível."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105559,
+    "tags": [],
+    "enunciado": "Na maioria das pessoas, onde estão localizados os limites superiores e inferiores da medula espinhal?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Limite superior: Ponte, na altura do forame magno do osso occipital. Limite inferior: Osso cóccix."
+      },
+      {
+        "letra": "B",
+        "texto": "Limite superior: Bulbo, na altura do forame magno do osso occipital. Limite inferior: Segunda vértebra lombar (L2)."
+      },
+      {
+        "letra": "C",
+        "texto": "Limite superior: Cérebro, na altura da órbita ocular. Limite inferior: Segunda vértebra lombar (L2)."
+      },
+      {
+        "letra": "D",
+        "texto": "Limite superior: Bulbo, na altura do forame magno do osso occipital. Limite inferior: Osso cóccix."
+      },
+      {
+        "letra": "E",
+        "texto": "Limite superior: Ponte, na altura do forame magno do osso occipital. Limite inferior: Segunda vértebra lombar (L2)."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105560,
+    "tags": [],
+    "enunciado": "Como ocorre a divisão entre os neurotransmissores utilizados pelos neurônios pós-ganglionares do sistema nervoso simpático e o sistema nervoso parassimpático?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A maioria dos neurônios do sistema nervoso simpático utiliza acetilcolina, e o sistema nervoso parassimpático utiliza noradrenalina."
+      },
+      {
+        "letra": "B",
+        "texto": "A maioria dos neurônios do sistema nervoso simpático utiliza dopamina, e o sistema nervoso parassimpático utiliza serotonina."
+      },
+      {
+        "letra": "C",
+        "texto": "A maioria dos neurônios do sistema nervoso simpático utiliza acetilcolina, e o sistema nervoso parassimpático também. A diferença entre eles está no neurotransmissor utilizado pelo neurônio pré-ganglionar."
+      },
+      {
+        "letra": "D",
+        "texto": "A maioria dos neurônios do sistema nervoso simpático realiza sinapses elétricas e os neurônios do sistema nervoso parassimpático utilizam sinapses químicas."
+      },
+      {
+        "letra": "E",
+        "texto": "A maioria dos neurônios do sistema nervoso simpático utiliza noradrenalina, e os neurônios do sistema nervoso parassimpático utilizam acetilcolina."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 105561,
+    "tags": [],
+    "enunciado": "O sistema nervoso autônomo (SNA) é parte fundamental da estrutura homeostática do organismo. Quais são os componentes do SNA?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "SNA aferente e SNA eferente."
+      },
+      {
+        "letra": "B",
+        "texto": "SNA somático e SNA visceral."
+      },
+      {
+        "letra": "C",
+        "texto": "SNA simpático e SNA parassimpático."
+      },
+      {
+        "letra": "D",
+        "texto": "SNA voluntário e SNA involuntário."
+      },
+      {
+        "letra": "E",
+        "texto": "SNA muscular estriado esquelético e SNA muscular liso."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105562,
+    "tags": [],
+    "enunciado": "Assinale a alternativa que descreve corretamente como é realizada a divisão do sistema nervoso baseada em critérios anatômicos:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A divisão anatômica do sistema nervoso separa esse sistema em sistema nervoso central e sistema nervoso periférico, de acordo com a sua relação com o esqueleto axial."
+      },
+      {
+        "letra": "B",
+        "texto": "A divisão anatômica do sistema nervoso é baseada na separação entre sistema nervoso somático e sistema nervoso visceral."
+      },
+      {
+        "letra": "C",
+        "texto": "A divisão anatômica do sistema nervoso divide o sistema em três porções: prosencéfalo, mesencéfalo e rombencéfalo, baseado na estrutura intrauterina das vesículas primordiais."
+      },
+      {
+        "letra": "D",
+        "texto": "Os dois componentes da divisão anatômica do sistema nervoso central são o sistema nervoso segmentar e o sistema nervoso suprassegmentar."
+      },
+      {
+        "letra": "E",
+        "texto": "A divisão anatômica se baseia na semelhança histológica entre os tecidos que compõem o sistema nervoso, e divide o sistema em telencéfalo, diencéfalo, mesencéfalo, metencéfalo e mielencéfalo."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105563,
+    "tags": [],
+    "enunciado": "Das alternativas apresentadas abaixo, qual não faz parte do diagnóstico diferencial de Hiperatividade Simpática Paroxística?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fratura óssea."
+      },
+      {
+        "letra": "B",
+        "texto": "Síndrome de abstinência."
+      },
+      {
+        "letra": "C",
+        "texto": "Síndrome da resposta inflamatória sistêmica."
+      },
+      {
+        "letra": "D",
+        "texto": "Anemia falciforme."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105564,
+    "tags": [],
+    "enunciado": "Um paciente de 45 anos de idade, que tinha realizado cirurgia de exérese de tumor de hipó(cid:34)se havia sete dias, via transfenoidal, compareceu ao pronto-socorro com queixa de cefaleia intensa, febre de 38,5 oC e rinorreia clara e volumosa. Estava consciente, orientado, sem sinais localizatórios. Iniciou-se antibioticoterapia endovenosa e foi realizada internação para investigação diagnóstica. Considerando esse caso hipotético, assinale a alternativa que apresenta a medicação que deve ser utilizada junto ao tratamento dessa complicação.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "dexametasona"
+      },
+      {
+        "letra": "B",
+        "texto": "furosemida"
+      },
+      {
+        "letra": "C",
+        "texto": "acetazolamida"
+      },
+      {
+        "letra": "D",
+        "texto": "manitol"
+      },
+      {
+        "letra": "E",
+        "texto": "desferroxamina"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105565,
+    "tags": [],
+    "enunciado": "Uma boa anamnese e um exame físico detalhado são passos essenciais para a avaliação de pacientes com queixas álgicas em geral. O tipo de dor, a sua localização e a irradiação podem sugerir a existência de patologias em determinados órgãos e sistemas. Assinale a alternativa que apresenta a associação correta entre a localização da dor referida e o possível órgão acometido.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ombro direito – pâncreas."
+      },
+      {
+        "letra": "B",
+        "texto": "Ombro esquerdo – estômago."
+      },
+      {
+        "letra": "C",
+        "texto": "Periumbilical – cólon."
+      },
+      {
+        "letra": "D",
+        "texto": "Fossa ilíaca direita – vesícula biliar."
+      },
+      {
+        "letra": "E",
+        "texto": "Escroto – ureter."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 105566,
+    "tags": [],
+    "enunciado": "Com a evolução da espécie humana, o número de células e conexões corticais aumentaram muito, possibilitando a existência de circuitos corticais mais complexos. Dentre essas evoluções, podemos destacar as chamadas células horizontais (de Cajal). Em que camada do isocórtex encontramos com maior abundância este tipo de célula?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Camada granular externa"
+      },
+      {
+        "letra": "B",
+        "texto": "Camada piramidal externa"
+      },
+      {
+        "letra": "C",
+        "texto": "Camada granular interna"
+      },
+      {
+        "letra": "D",
+        "texto": "Camada piramidal interna ou camada ganglionar"
+      },
+      {
+        "letra": "E",
+        "texto": "Camada molecular 4000173618"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 105567,
+    "tags": [],
+    "enunciado": "Sobre as alterações do sentido olfatório é incorreto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Na sinusite purulenta crônica é comum o paciente pode ser portador de cacosmia subjetiva."
+      },
+      {
+        "letra": "B",
+        "texto": "Em casos de traumatismo facial o paciente pode referir hidrorréia nasal por passagem de líquido cefalorraquidiano pela lâmina crivada do etmóide."
+      },
+      {
+        "letra": "C",
+        "texto": "A parosmia pode ser encontrada em pacientes com determinadas afecções neurológicas."
+      },
+      {
+        "letra": "D",
+        "texto": "A hiperosmia pode ser encontrada em pacientes com COVID 19."
+      },
+      {
+        "letra": "E",
+        "texto": "Na obstrução nasal unilateral deve-se considerar as hipóteses de desvio de septo ou tumor.  Respostas: 1 A 2 B 3 B 4 C 5 A 6 B 7 A 8 D 9 B 10 A 11 B 12 D 13 B 14 B 15 C 16 B 17 B 18 B 19 E 20 E 21 C 22 A 23 D 24 B 25 A 26 E 27 C 28 C 29 A 30 E 31 D 32 D 33 A 34 B 35 C 36 E 37 E 38 C 39 D 40 E 41 D 42 A 43 B 44 E 45 A 46 B 47 D 48 A 49 B 50 D 51 C 52 E 53 D 54 A 55 C 56 E 57 C 58 D 59 C 60 B 61 A 62 E 63 A 64 E 65 B 66 B 67 C 68 A 69 A 70 C 71 A 72 B 73 A 74 E 75 B 76 E 77 C 78 D 79 C 80 B 81 D 82 D 83 B 84 E 85 E 86 A 87 A 88 A 89 D 90 B 91 D 92 B 93 E 94 C 95 A 96 D 97 C 98 E 99 E 100 D"
+      }
+    ],
+    "resposta_correta": "D"
+  }
+]

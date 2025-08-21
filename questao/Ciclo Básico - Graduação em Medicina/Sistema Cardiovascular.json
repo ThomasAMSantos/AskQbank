@@ -1,0 +1,1946 @@
+[
+  {
+    "id": 104516,
+    "tags": [],
+    "enunciado": "M.C.P, mulher de 65 anos, com histórico de hipertensão mal controlada, se apresenta ao pronto-socorro com dor intensa e abrupta na região do tórax, que ela descreve como \"rasgando\" e que irradia para as costas. O exame físico mostra pressão arterial signi(cid:45)cativamente mais alta no braço direito em comparação com o braço esquerdo. Um exame de imagem de emergência é realizado e revela a presença de uma dissecção da aorta ascendente. Com base no caso clínico apresentado e em seus conhecimentos, qual das seguintes opções é a principal causa da dissecção da aorta neste paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aterosclerose"
+      },
+      {
+        "letra": "B",
+        "texto": "Infecção da parede da aorta"
+      },
+      {
+        "letra": "C",
+        "texto": "Integridade estrutural prejudicada da túnica média da aorta"
+      },
+      {
+        "letra": "D",
+        "texto": "Coagulação intravascular disseminada (CIVD)"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104517,
+    "tags": [],
+    "enunciado": "L.P.S., mulher de 56 anos, apresenta-se ao consultório com queixas de falta de ar progressiva, especialmente durante atividades físicas, e episódios ocasionais de palpitações. Ela também relata um histórico de febre reumática na infância. O exame físico revela um sopro diastólico na ponta do coração e a presença de (cid:45)brilação atrial no eletrocardiograma. Após realizar um ecocardiograma, a paciente foi diagnosticada com estenose mitral. Com base no caso clínico apresentado e em seus conhecimentos, qual das seguintes opções é a principal causa da estenose mitral nesta paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Degeneração mixomatosa da válvula mitral"
+      },
+      {
+        "letra": "B",
+        "texto": "Calcificação senil da válvula mitral"
+      },
+      {
+        "letra": "C",
+        "texto": "Febre reumática"
+      },
+      {
+        "letra": "D",
+        "texto": "Lesão valvar após infarto agudo do miocárdio"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104518,
+    "tags": [],
+    "enunciado": "E.S.S., mulher de 56 anos, apresenta-se à clínica com uma queixa principal de falta de ar progressiva nos últimos 6 meses, especialmente ao fazer esforços. Ela também relata palpitações ocasionais e uma sensação de \"coração acelerado\". A paciente menciona um histórico de febre reumática na infância, mas não houve mais episódios desde então. No exame físico, você nota um sopro cardíaco sistólico no ápice do coração, que se irradia para a axila. Um ecocardiograma é realizado, o qual revela insu(cid:45)ciência mitral signi(cid:45)cativa. Com base no caso clínico apresentado e em seus conhecimentos, qual das seguintes opções é a principal causa da insuficiência mitral nesta paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Prolapso da válvula mitral"
+      },
+      {
+        "letra": "B",
+        "texto": "Lesão da válvula mitral secundária à febre reumática"
+      },
+      {
+        "letra": "C",
+        "texto": "Endocardite infecciosa"
+      },
+      {
+        "letra": "D",
+        "texto": "Miocardiopatia dilatada"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104519,
+    "tags": [],
+    "enunciado": "J.M.L, mulher de 67 anos, com histórico de hipertensão e diabetes mellitus, chega ao consultório relatando episódios de falta de ar durante atividades físicas moderadas e palpitações frequentes. Ela também relata episódios ocasionais de tontura e desmaio. O exame físico revela um pulso em martelo d'água e um sopro diastólico decrescente ouvido no terceiro espaço intercostal esquerdo (foco aórtico). Um ecocardiograma é realizado e revela dilatação do ventrículo esquerdo e regurgitação aórtica signi(cid:45)cativa. Foi feito o diagnóstico de insuficiência aórtica. Com base no caso clínico apresentado e em seus conhecimentos, qual das seguintes opções é a principal causa de insuficiência aórtica neste paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Degeneração do tecido valvular aórtico"
+      },
+      {
+        "letra": "B",
+        "texto": "Infarto agudo do miocárdio"
+      },
+      {
+        "letra": "C",
+        "texto": "Estenose mitral"
+      },
+      {
+        "letra": "D",
+        "texto": "Hipertensão pulmonar"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104520,
+    "tags": [],
+    "enunciado": "J.F.S., uma mulher de 72 anos, vem ao consultório com queixas de falta de ar e cansaço fácil durante atividades físicas que antes eram realizadas sem esforço. Ela também menciona episódios ocasionais de tontura e aperto no peito. Ela tem um histórico de hipertensão bem controlada, mas não fuma nem tem histórico de diabetes ou dislipidemia. O exame físico revela um sopro cardíaco sistólico e o ecocardiograma mostra um espessamento da válvula aórtica, com uma área valvar de 0,8 cm² (área normal é de 3,0 a 4,0 cm²), consistente com estenose aórtica severa. Com base no caso clínico apresentado e em seus conhecimentos, qual das seguintes opções é a principal causa de estenose aórtica nesta paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Endocardite infecciosa"
+      },
+      {
+        "letra": "B",
+        "texto": "Doença reumática"
+      },
+      {
+        "letra": "C",
+        "texto": "Miocardiopatia hipertrófica"
+      },
+      {
+        "letra": "D",
+        "texto": "Degeneração e calcificação da válvula aórtica"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104521,
+    "tags": [],
+    "enunciado": "J.L.R., um homem de 32 anos, chega ao pronto-socorro apresentando febre, dor torácica e falta de ar. Ele relata que teve uma infecção de garganta há cerca de uma semana e agora se sente geralmente indisposto e com baixa energia. Um eletrocardiograma (ECG) mostra alterações não especí(cid:45)cas e a ecocardiogra(cid:45)a revela uma leve disfunção sistólica do ventrículo esquerdo. A dosagem de troponina sérica está elevada e os exames de sangue indicam in(cid:75)amação. Diante destes achados, é considerada a possibilidade de miocardite. Com base no caso clínico apresentado e em seus conhecimentos, qual das seguintes opções descreve corretamente a fisiopatologia das alterações celulares que ocorrem na miocardite?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Acúmulo de líquido no espaço pericárdico devido ao aumento da permeabilidade vascular, com migração de neutrófilos e formação de um exsudato inflamatório."
+      },
+      {
+        "letra": "B",
+        "texto": "Estenose das artérias coronárias causada pelo acúmulo de placas de ateroma."
+      },
+      {
+        "letra": "C",
+        "texto": "Inflamação e necrose do miocárdio causada por resposta imunológica ao agente infeccioso."
+      },
+      {
+        "letra": "D",
+        "texto": "Obstrução de uma artéria pulmonar por um coágulo sanguíneo, geralmente originado nas veias das pernas."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104522,
+    "tags": [],
+    "enunciado": "L.C.F., uma mulher de 52 anos, chega ao pronto-socorro com dor torácica intensa e aguda que piora ao se deitar e melhora ao se inclinar para frente. Ela relata que sentiu sintomas de gripe há cerca de duas semanas.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "dor é acompanhada de febre baixa e fadiga. O eletrocardiograma (ECG) é realizado e mostra alterações difusas na elevação do segmento ST. O ecocardiograma não mostra derrame pericárdico signi(cid:45)cativo. Uma análise do líquido pericárdico é realizada, e os resultados sugerem pericardite viral. Com base no caso clínico apresentado e em seus conhecimentos, qual das seguintes opções descreve corretamente a fisiopatologia da pericardite?"
+      },
+      {
+        "letra": "A",
+        "texto": "Acúmulo de líquido no espaço pericárdico devido ao aumento da permeabilidade vascular, com migração de neutrófilos e formação de um exsudato inflamatório."
+      },
+      {
+        "letra": "B",
+        "texto": "Estenose das artérias coronárias causada pelo acúmulo de placas de ateroma."
+      },
+      {
+        "letra": "C",
+        "texto": "Obstrução de uma artéria pulmonar por um coágulo sanguíneo, geralmente originado nas veias das pernas."
+      },
+      {
+        "letra": "D",
+        "texto": "Estreitamento da válvula aórtica, dificultando a saída de sangue do ventrículo esquerdo para a aorta."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104523,
+    "tags": [],
+    "enunciado": "J.F.S., homem de 68 anos, com histórico de doença arterial coronariana e infarto do miocárdio há 5 anos, procura atendimento médico devido a fadiga progressiva, falta de ar ao fazer esforços e edema dos membros inferiores. Relata ainda episódios de dispneia noturna paroxística. Ao exame físico, apresenta estase jugular, ritmo cardíaco irregular e hepatomegalia. Os exames laboratoriais revelam níveis elevados de peptídeo natriurético do tipo B (BNP). Um ecocardiograma mostra dilatação e hipertro(cid:45)a do ventrículo esquerdo, bem como uma fração de ejeção reduzida (35%). O paciente é diagnosticado com insu(cid:45)ciência cardíaca. Com base no caso clínico apresentado e em seus conhecimentos, qual dos seguintes é a principal alteração celular/molecular que contribui para a hipertro(cid:45)a e dilatação do ventrículo esquerdo observada nesse paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aumento da proliferação de miócitos"
+      },
+      {
+        "letra": "B",
+        "texto": "Redução na apoptose de miócitos"
+      },
+      {
+        "letra": "C",
+        "texto": "Hipertrofia dos miócitos remanescentes e fibrose após perda de miócitos por apoptose"
+      },
+      {
+        "letra": "D",
+        "texto": "Redução na proliferação de fibroblastos e deposição de matriz extracelular"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104524,
+    "tags": [],
+    "enunciado": "R.G.S., mulher de 72 anos, com histórico de diabetes mellitus tipo 2 e hipertensão arterial sistêmica, é levada ao hospital por seus familiares devido à falta de ar progressiva, especialmente à noite, e inchaço nas pernas e pés. Ela tem histórico de infarto agudo do miocárdio há 10 anos e vem apresentando uma série de internações hospitalares por insu(cid:45)ciência cardíaca congestiva nos últimos anos. Ao exame, a paciente está taquipneica, com frequência cardíaca de 110 bpm e pressão arterial de 150/90 mmHg. Na ausculta cardíaca, percebe-se a presença de estertores crepitantes bilaterais e um terceiro ruído cardíaco (B3). Exames laboratoriais revelam níveis elevados de peptídeo natriurético tipo B (BNP). O ecocardiograma revela dilatação do ventrículo esquerdo e diminuição da fração de ejeção (35%). Com base no caso clínico apresentado e em seus conhecimentos, qual das seguintes opções melhor descreve o processo de remodelamento cardíaco observado nessa paciente com insu(cid:45)ciência cardíaca crônica?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Atrofia e redução do tamanho do miocárdio."
+      },
+      {
+        "letra": "B",
+        "texto": "Hipertrofia e dilatação do miocárdio sem alterações na função cardíaca."
+      },
+      {
+        "letra": "C",
+        "texto": "Hipertrofia do miocárdio sem alterações na forma ou tamanho das câmaras cardíacas."
+      },
+      {
+        "letra": "D",
+        "texto": "Hipertrofia e dilatação do miocárdio, resultando em disfunção cardíaca."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104525,
+    "tags": [],
+    "enunciado": "R.P.S., uma mulher de 68 anos com histórico de hipertensão e diabetes, apresenta dispneia progressiva e edema de membros inferiores há 2 meses. O exame físico revela pressão arterial de 140/90 mmHg, ritmo cardíaco regular de 90 batimentos por minuto, crepitações em ambas as bases pulmonares e edema +2/4 em ambos os membros inferiores. O ECG mostra sinais de hipertro(cid:45)a ventricular esquerda e o ecocardiograma revela uma fração de ejeção de 35%. A paciente é diagnosticada com insu(cid:45)ciência cardíaca com fração de ejeção reduzida (ICFER). Com base no caso clínico apresentado e em seus conhecimentos, qual dos seguintes mecanismos neuro- hormonais contribui para a redução do débito cardíaco nesta paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aumento da atividade do sistema nervoso simpático."
+      },
+      {
+        "letra": "B",
+        "texto": "Diminuição da atividade do sistema renina-angiotensina-aldosterona (SRAA)."
+      },
+      {
+        "letra": "C",
+        "texto": "Diminuição da atividade do sistema nervoso simpático."
+      },
+      {
+        "letra": "D",
+        "texto": "Aumento da atividade do sistema natriurético."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104526,
+    "tags": [],
+    "enunciado": "A.A.N., uma mulher de 70 anos com um histórico de hipertensão, é trazida ao pronto-socorro por seus familiares devido a um início súbito de falta de ar e fadiga que se desenvolveu ao longo do último dia. No exame físico, ela apresenta ritmo cardíaco irregular, batimentos cardíacos rápidos, e edema nas pernas. O exame pulmonar revela crepitações bilaterais nas bases. O ECG mostra (cid:45)brilação atrial e o ecocardiograma revela uma fração de ejeção de 30%. A paciente é diagnosticada com insu(cid:45)ciência cardíaca com fração de ejeção reduzida (ICFER). Com base no caso clínico apresentado e em seus conhecimentos, qual dos seguintes mecanismos está mais diretamente relacionado à ativação do sistema renina-angiotensina-aldosterona (SRAA) nesta paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aumento da atividade simpática levando à liberação de renina"
+      },
+      {
+        "letra": "B",
+        "texto": "Redução do fluxo sanguíneo renal levando à liberação de renina"
+      },
+      {
+        "letra": "C",
+        "texto": "Hipovolemia levando à liberação de renina"
+      },
+      {
+        "letra": "D",
+        "texto": "Hiponatremia levando à liberação de aldosterona"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104527,
+    "tags": [],
+    "enunciado": "M.A., mulher de 68 anos, com histórico de hipertensão arterial sistêmica e diabetes mellitus tipo II, chega à consulta com queixa de falta de ar progressiva, pior ao se deitar, e inchaço nos membros inferiores que vem aumentando nas últimas semanas. Ela também relata ganho de peso e fadiga. Ao exame físico, nota-se distensão jugular e crepitações basais bilaterais à ausculta pulmonar. Um ecocardiograma é realizado e revela uma fração de ejeção do ventrículo esquerdo de 35% (o normal é acima de 55%). Esses achados são compatíveis com insuficiência cardíaca com fração de ejeção reduzida. Com base no caso clínico apresentado e em seus conhecimentos, qual das seguintes opções melhor explica a relação entre a Lei de Frank-Starling e a redução do débito cardíaco na insuficiência cardíaca?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A insuficiência cardíaca aumenta a pré-carga, levando a uma maior distensão do miocárdio e, consequentemente, a um maior débito cardíaco, de acordo com a Lei de Frank-Starling."
+      },
+      {
+        "letra": "B",
+        "texto": "Na insuficiência cardíaca, a incapacidade do coração de bombear sangue suficiente leva a uma menor distensão do miocárdio, resultando em um débito cardíaco reduzido."
+      },
+      {
+        "letra": "C",
+        "texto": "Na insuficiência cardíaca, a Lei de Frank-Starling é alterada, de modo que um aumento da distensão do miocárdio não leva a um aumento proporcional do débito cardíaco."
+      },
+      {
+        "letra": "D",
+        "texto": "A insuficiência cardíaca não tem relação com a Lei de Frank-Starling."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104528,
+    "tags": [],
+    "enunciado": "P.L.S., mulher de 65 anos, com histórico de febre reumática na infância, foi internada com sintomas de febre, calafrios e perda de peso ao longo das últimas duas semanas. Ela também descreveu a ocorrência de manchas arroxeadas em seus dedos e um novo sopro cardíaco. Foi realizada uma ecocardiogra(cid:45)a transesofágica, que mostrou vegetações na válvula mitral. Foi feito o diagnóstico de Endocardite Infecciosa. Durante a internação, ela apresentou súbita perda de força no membro superior direito e alteração da fala. Um exame de imagem cerebral foi imediatamente realizado e sugeriu a presença de um acidente vascular cerebral isquêmico (AVC). Com base no caso clínico apresentado, qual das seguintes opções é a explicação mais provável para a ocorrência de AVC nesta paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aumento da pressão intracraniana devido à febre."
+      },
+      {
+        "letra": "B",
+        "texto": "Vasculite cerebral secundária à febre reumática."
+      },
+      {
+        "letra": "C",
+        "texto": "Embolia de vegetação de endocardite."
+      },
+      {
+        "letra": "D",
+        "texto": "Efeito do stress causado pela internação."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104529,
+    "tags": [],
+    "enunciado": "J.R.S, mulher de 34 anos, chega ao consultório com febre baixa há duas semanas, perda de peso e fadiga. A paciente tem histórico de uso de drogas intravenosas. No exame físico, observam-se petéquias nas palmas das mãos e plantas dos pés, além de lesões de Janeway (manchas eritematosas, não dolorosas, na palma das mãos e sola dos pés) e nódulos de Osler (nódulos subcutâneos dolorosos nas pontas dos dedos). Os sinais vitais são estáveis, porém há um sopro cardíaco diastólico ouvido na ausculta. Exames laboratoriais indicam anemia leve e os hemocultivos revelam a presença de Staphylococcus aureus. O ecocardiograma transesofágico mostra vegetações nas válvulas cardíacas. Foi então feito o diagnóstico de endocardite infecciosa. Com base no caso clínico apresentado e em seus conhecimentos, qual o principal mecanismo (cid:45)siopatológico da endocardite infecciosa neste paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Colonização direta do miocárdio por patógenos."
+      },
+      {
+        "letra": "B",
+        "texto": "Disseminação hematogênica de bactérias e formação de vegetações em válvulas cardíacas."
+      },
+      {
+        "letra": "C",
+        "texto": "Proliferação incontrolável de células miocárdicas."
+      },
+      {
+        "letra": "D",
+        "texto": "Deposição de complexos imunológicos na parede dos vasos sanguíneos."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104530,
+    "tags": [],
+    "enunciado": "P.J.P., 58 anos, sexo feminino, hipertensa, vem ao seu consultório para consulta de rotina. Ela tem se queixado de episódios de tontura, especialmente ao se levantar rapidamente. Você suspeita que esses sintomas possam estar relacionados à sua medicação anti-hipertensiva, que provoca vasodilatação e, consequentemente, pode reduzir sua resistência vascular periférica (RVP). A paciente, uma enfermeira aposentada, está curiosa sobre como a RVP pode ter relação com sua pressão arterial e os episódios de tontura. Sobre isso, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A resistência vascular periférica é inversamente proporcional à pressão arterial, portanto, quando a RVP aumenta, a pressão arterial diminui."
+      },
+      {
+        "letra": "B",
+        "texto": "A resistência vascular periférica não tem relação direta com a pressão arterial. Alterações na RVP não afetam a pressão arterial."
+      },
+      {
+        "letra": "C",
+        "texto": "A resistência vascular periférica é diretamente proporcional à pressão arterial, portanto, quando a RVP diminui, a pressão arterial também diminui."
+      },
+      {
+        "letra": "D",
+        "texto": "A resistência vascular periférica afeta a pressão arterial somente em situações de stress ou exercício físico. Em repouso, a RVP não tem impacto na pressão arterial."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104531,
+    "tags": [],
+    "enunciado": "A.C.S., 62 anos, sexo feminino, é trazida ao seu consultório para uma consulta de rotina. Durante a consulta, ela menciona que tem um histórico de hipertensão arterial e está em tratamento farmacológico há alguns anos. Ela está curiosa sobre os fatores que in(cid:75)uenciam sua pressão arterial e diz que em uma pesquisa na internet encontrou o conceito de resistência vascular periférica, porém não compreendeu bem seu signi(cid:45)cado, pedindo maiores esclarecimentos. Considerando a importância da resistência vascular periférica na regulação da pressão arterial, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A resistência vascular periférica é determinada principalmente pela dilatação das arteríolas, que resulta em aumento da pressão arterial sistólica e diminuição da pressão arterial diastólica."
+      },
+      {
+        "letra": "B",
+        "texto": "A resistência vascular periférica é influenciada principalmente pelo diâmetro e comprimento dos capilares, o que pode levar a variações significativas na pressão arterial."
+      },
+      {
+        "letra": "C",
+        "texto": "A resistência vascular periférica é influenciada pelo diâmetro e pelo tônus dos vasos sanguíneos, sendo que a vasoconstrição aumenta a resistência vascular periférica e a pressão arterial, enquanto a vasodilatação diminui a resistência vascular periférica e a pressão arterial."
+      },
+      {
+        "letra": "D",
+        "texto": "A resistência vascular periférica é influenciada apenas pelo fluxo sanguíneo venoso, que determina a quantidade de sangue que retorna ao coração e, assim, afeta a pressão arterial."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104532,
+    "tags": [],
+    "enunciado": "R.M.S., 58 anos, sexo masculino, é um paciente hipertenso e diabético que apresenta quadro de falta de ar aos esforços há alguns meses. Durante a consulta, ele menciona que ultimamente tem sentido palpitações e percebeu inchaço nas pernas. Ao exame físico, observa-se uma frequência cardíaca aumentada e terceira bulha cardíaca. A pressão arterial encontra-se dentro dos valores normais. O médico levantou a hipótese de insu(cid:45)ciência cardíaca congestiva e o Ecocardiograma transtorácico mostrou uma fração de ejeção do ventrículo esquerda reduzida. Com base no caso clínico descrito, qual é a possível alteração no débito cardíaco?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O Débito Cardíaco está aumentado devido à elevação da pressão arterial e ao aumento da frequência cardíaca."
+      },
+      {
+        "letra": "B",
+        "texto": "O Débito Cardíaco está diminuído devido à disfunção sistólica do ventrículo esquerdo."
+      },
+      {
+        "letra": "C",
+        "texto": "O Débito Cardíaco está aumentado devido à hipertrofia do ventrículo esquerdo."
+      },
+      {
+        "letra": "D",
+        "texto": "O Débito Cardíaco está diminuído devido à obstrução na circulação pulmonar."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104533,
+    "tags": [],
+    "enunciado": "K.A.M, sexo feminino, 69 anos, com histórico de hipertensão arterial sistêmica e diabetes mellitus, foi internada com queixa de falta de ar e inchaço nas pernas. Ao exame físico, apresentava dispneia aos médios esforços, crepitações pulmonares e edema em ambos os membros inferiores. Após a realização de exames complementares, foi diagnosticada com insuficiência cardíaca congestiva descompensada. Considerando o caso clínico descrito acima, assinale a alternativa que apresenta o melhor conceito de Débito Cardíaco e sua relação com a insuficiência cardíaca congestiva?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O Débito Cardíaco é a quantidade de sangue que o coração bombeia por minuto e é diretamente proporcional à força de contração do ventrículo esquerdo. Na insuficiência cardíaca congestiva, o Débito Cardíaco pode estar diminuído devido à disfunção sistólica ou diastólica do ventrículo esquerdo, o que pode levar a um acúmulo de líquido nos pulmões e edema nos membros inferiores."
+      },
+      {
+        "letra": "B",
+        "texto": "O Débito Cardíaco é a quantidade de sangue que o coração bombeia por minuto e é diretamente proporcional à resistência vascular periférica. Na insuficiência cardíaca congestiva, o Débito Cardíaco pode estar aumentado devido à redução da resistência vascular periférica, o que pode levar a um acúmulo de líquido nos pulmões e edema nos membros inferiores."
+      },
+      {
+        "letra": "C",
+        "texto": "O Débito Cardíaco é a quantidade de sangue que o coração bombeia por minuto e é diretamente proporcional à pressão arterial. Na insuficiência cardíaca congestiva, o Débito Cardíaco pode estar aumentado devido à elevação da pressão arterial, o que pode levar a um acúmulo de líquido nos pulmões e edema nos membros inferiores."
+      },
+      {
+        "letra": "D",
+        "texto": "O Débito Cardíaco é a quantidade de sangue que o coração bombeia por minuto e é independente da função ventricular. Na insuficiência cardíaca congestiva, o Débito Cardíaco não é afetado pela disfunção ventricular, mas pode estar aumentado ou diminuído devido a outros fatores, como a perda de sangue ou a desidratação."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104534,
+    "tags": [],
+    "enunciado": "H.F.G, sexo masculino, 66 anos, é admitido na unidade de emergência com queixa de dor torácica e falta de ar. Ao exame físico, apresenta hipotensão, taquicardia, sopro sistólico e terceira bulha cardíaca. Foi diagnosticado com um infarto agudo do miocárdio e iniciado o tratamento adequado. Durante a hospitalização, o Débito Cardíaco foi monitorado e apresentou valores abaixo do normal. Considerando o caso clínico descrito acima, qual é o conceito de Débito Cardíaco e por que a diminuição do Débito Cardíaco pode estar associada a um infarto agudo do miocárdio?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O Débito Cardíaco é a quantidade de sangue que o coração bombeia por minuto e é inversamente proporcional à frequência cardíaca. Na presença de um infarto agudo do miocárdio, o Débito Cardíaco pode estar diminuído devido a uma bradicardia sinusal."
+      },
+      {
+        "letra": "B",
+        "texto": "O Débito Cardíaco é a quantidade de sangue que o coração bombeia por minuto e é diretamente proporcional ao volume sistólico. Na presença de um infarto agudo do miocárdio, o Débito Cardíaco pode estar diminuído devido à redução do volume sistólico causado pela disfunção do miocárdio infartado."
+      },
+      {
+        "letra": "C",
+        "texto": "O Débito Cardíaco é a quantidade de sangue que o coração bombeia por minuto e é inversamente proporcional à pressão arterial. Na presença de um infarto agudo do miocárdio, o Débito Cardíaco pode estar diminuído devido à hipotensão que frequentemente ocorre após um infarto."
+      },
+      {
+        "letra": "D",
+        "texto": "O Débito Cardíaco é a quantidade de sangue que o coração bombeia por minuto e é independente da função ventricular. Na presença de um infarto agudo do miocárdio, o Débito Cardíaco não é afetado pela disfunção ventricular, mas pode estar diminuído devido a outros fatores, como a perda de sangue ou a desidratação."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104535,
+    "tags": [],
+    "enunciado": "M.R.S., 67 anos, sexo feminino, comparece à consulta com queixas de fadiga progressiva e dispneia aos esforços há 6 meses. Ela possui histórico de hipertensão arterial sistêmica e diabetes mellitus tipo 2. Durante a consulta, você suspeita de insu(cid:45)ciência cardíaca e solicita um ecocardiograma, que revela uma fração de ejeção do ventrículo esquerdo (FEVE) de 35% (valores normais entre 55% e 70%). Ao explicar o diagnóstico à paciente, ela pergunta sobre o conceito de contratilidade cardíaca e como isso está relacionado à sua condição. Sobre isso, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A contratilidade cardíaca é a capacidade do coração de gerar força e encurtar-se em resposta a um estímulo elétrico, sendo inversamente proporcional à quantidade de sangue que o coração bombeia a cada batimento."
+      },
+      {
+        "letra": "B",
+        "texto": "A contratilidade cardíaca refere-se à força com que o coração se contrai independentemente da pré-carga e pós-carga, sendo um fator determinante na capacidade do coração de bombear sangue de forma eficiente."
+      },
+      {
+        "letra": "C",
+        "texto": "A contratilidade cardíaca é a capacidade do coração de se adaptar às variações na quantidade de sangue que retorna ao coração, sendo determinada principalmente pela frequência cardíaca."
+      },
+      {
+        "letra": "D",
+        "texto": "A contratilidade cardíaca é a capacidade do coração de manter um ritmo cardíaco constante, sendo um indicador da eficiência do nódulo sinoatrial como marcapasso natural do coração."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104536,
+    "tags": [],
+    "enunciado": "G.F.S., 63 anos, sexo feminino, chega ao seu consultório com queixas de falta de ar e cansaço fácil. Ela tem histórico de hipertensão arterial sistêmica e diabetes mellitus tipo 2. Exames revelam que a paciente está com insu(cid:45)ciência cardíaca. Você explica para ela sobre a condição e menciona que a contratilidade do seu coração está comprometida. Ela, porém, não entende o que significa contratilidade e pede mais explicações. Sobre isso, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A contratilidade refere-se à capacidade do coração de se contrair, mas não tem qualquer relação com a quantidade de sangue que o coração é capaz de bombear."
+      },
+      {
+        "letra": "B",
+        "texto": "A contratilidade refere-se à força com a qual o coração se contrai em cada batimento. Quando a contratilidade está comprometida, o coração não consegue bombear o sangue eficientemente."
+      },
+      {
+        "letra": "C",
+        "texto": "A contratilidade é a capacidade do coração de se contrair de forma sincronizada, garantindo que o sangue seja bombeado de maneira eficiente para todas as partes do corpo."
+      },
+      {
+        "letra": "D",
+        "texto": "A contratilidade refere-se à velocidade com que o coração se contrai e relaxa, sendo que uma contratilidade maior leva a uma frequência cardíaca mais alta."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104537,
+    "tags": [],
+    "enunciado": "F.S., 28 anos, sexo feminino, vem ao seu consultório para uma avaliação cardiológica de rotina. Ela é uma atleta pro(cid:45)ssional de natação e relata treinar diariamente por várias horas. Durante a consulta, você veri(cid:45)ca a frequência cardíaca dela, que é de 50 batimentos por minuto. F.S. (cid:45)ca preocupada com esse valor, pois sabe que a média para adultos é de cerca de 60 a 100 batimentos por minuto. Sobre a frequência cardíaca (FC) de F.S., assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A baixa frequência cardíaca indica uma condição médica grave e F.S. deve parar imediatamente de praticar esportes."
+      },
+      {
+        "letra": "B",
+        "texto": "A baixa frequência cardíaca é resultado do condicionamento físico de F.S., e é esperada em atletas treinados."
+      },
+      {
+        "letra": "C",
+        "texto": "A baixa frequência cardíaca indica uma possível arritmia cardíaca e F.S. deve complementar sua investigação com um Holter, além de iniciar tratamento farmacológico."
+      },
+      {
+        "letra": "D",
+        "texto": "A baixa frequência cardíaca indica que F.S. não está treinando adequadamente e precisa melhorar sua performance."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104538,
+    "tags": [],
+    "enunciado": "J.G.S., 26 anos, sexo feminino, vem ao seu consultório para uma consulta de rotina. Ela não tem queixas especí(cid:45)cas, mas menciona que tem praticado corrida diariamente como uma forma de aliviar o estresse do trabalho. Durante a anamnese, ela revela que usa um smartwatch que registra sua frequência cardíaca durante os exercícios, e notou que sua frequência cardíaca durante a corrida é signi(cid:45)cativamente maior do que em repouso. Ela pergunta o motivo dessa diferença. Sobre a frequência cardíaca nesse caso, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A frequência cardíaca aumenta durante o exercício porque o coração precisa bombear mais sangue para suprir a demanda de oxigênio dos músculos."
+      },
+      {
+        "letra": "B",
+        "texto": "A frequência cardíaca diminui durante o exercício porque o coração se torna mais eficiente, necessitando de menos batimentos para bombear a mesma quantidade de sangue. O aumento mostrado no smartwatch na verdade é em relação ao volume sistólico."
+      },
+      {
+        "letra": "C",
+        "texto": "A frequência cardíaca durante o exercício é a mesma que em repouso, a diferença notada no smartwatch é devido ao aumento do estresse e da ansiedade."
+      },
+      {
+        "letra": "D",
+        "texto": "A frequência cardíaca aumenta durante o exercício porque o coração precisa bombear menos sangue, reduzindo o esforço sobre o músculo cardíaco."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104539,
+    "tags": [],
+    "enunciado": "P.R.J, 45 anos, foi encaminhado ao hospital após um acidente de carro. Um exame de imagem mostra um trauma no abdômen inferior, com suspeita de lesão na veia cava inferior. Com base em seus conhecimentos sobre a anatomia da veia cava inferior e seus ramos, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Uma lesão na veia cava inferior pode comprometer a drenagem de sangue dos membros superiores."
+      },
+      {
+        "letra": "B",
+        "texto": "A veia cava inferior é formada pela junção das veias jugulares internas."
+      },
+      {
+        "letra": "C",
+        "texto": "Uma lesão na veia cava inferior pode comprometer a drenagem de sangue dos membros inferiores, órgãos pélvicos e parte do abdômen."
+      },
+      {
+        "letra": "D",
+        "texto": "A veia cava inferior drena diretamente para o átrio esquerdo do coração."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104540,
+    "tags": [],
+    "enunciado": "J.C.P, 33 anos, foi encaminhado ao hospital com suspeita de trombose venosa profunda no membro inferior direito. O clínico decide realizar uma ultrassonografia Doppler para confirmar o diagnóstico. Considerando o sistema venoso maior, que compreende a veia cava e seus ramos, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A veia cava inferior é formada principalmente pela confluência das veias ilíacas internas e externas."
+      },
+      {
+        "letra": "B",
+        "texto": "A veia cava superior recebe o sangue do tronco e dos membros superiores, sendo formada pela junção das veias subclávias e jugulares internas."
+      },
+      {
+        "letra": "C",
+        "texto": "A veia cava inferior recebe sangue apenas das veias renais, veias adrenais e veia gonadal direita."
+      },
+      {
+        "letra": "D",
+        "texto": "A veia cava superior não possui comunicação direta com as veias do sistema ázigo."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104541,
+    "tags": [],
+    "enunciado": "J.R., 55 anos, é trazido ao pronto socorro após um acidente de carro. Durante o exame inicial, você percebe que a frequência cardíaca de J.R. está bastante elevada, mesmo após a administração de um sedativo leve para acalmar a ansiedade do paciente. Você suspeita de uma possível lesão que afeta a inervação do coração. Com base no caso apresentado e no seu conhecimento sobre a inervação simpática e parassimpática do coração, qual das seguintes afirmações é mais provável?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Uma lesão no nervo vago pode ter levado a uma diminuição da inervação parassimpática, resultando em um aumento relativo da inervação simpática e, consequentemente, em uma frequência cardíaca elevada."
+      },
+      {
+        "letra": "B",
+        "texto": "Uma lesão nos nervos espinhais torácicos pode ter levado a uma diminuição da inervação simpática, resultando em um aumento relativo da inervação parassimpática e, consequentemente, em uma frequência cardíaca elevada."
+      },
+      {
+        "letra": "C",
+        "texto": "Uma lesão no nervo vago pode ter levado a um aumento da inervação parassimpática, resultando em uma diminuição relativa da inervação simpática e, consequentemente, em uma frequência cardíaca elevada."
+      },
+      {
+        "letra": "D",
+        "texto": "Uma lesão nos nervos espinhais torácicos pode ter levado a um aumento da inervação simpática, resultando em uma diminuição relativa da inervação parassimpática e, consequentemente, em uma frequência cardíaca elevada."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104542,
+    "tags": [],
+    "enunciado": "A regulação do ritmo cardíaco é uma tarefa complexa que envolve a interação entre o sistema nervoso autônomo, o sistema endócrino e o coração. O sistema nervoso autônomo, composto pelos sistemas simpático e parassimpático, desempenha um papel crucial na modulação da frequência e da força de contração do coração. Considerando a inervação simpática e parassimpática do coração, marque a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A estimulação simpática do coração, que ocorre principalmente através do nervo vago, tende a diminuir a frequência cardíaca e a força de contração do coração."
+      },
+      {
+        "letra": "B",
+        "texto": "A estimulação parassimpática do coração, mediada principalmente pelo nervo vago, tende a aumentar a frequência cardíaca e a força de contração do coração."
+      },
+      {
+        "letra": "C",
+        "texto": "A estimulação simpática do coração, que ocorre principalmente através dos nervos espinhais torácicos, tende a aumentar a frequência cardíaca e a força de contração do coração."
+      },
+      {
+        "letra": "D",
+        "texto": "A estimulação parassimpática do coração, mediada principalmente através dos nervos espinhais torácicos, tende a diminuir a frequência cardíaca e a força de contração do coração."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104543,
+    "tags": [],
+    "enunciado": "R.F., 65 anos, chega à emergência apresentando falta de ar, fadiga e inchaço nas pernas. Ela tem um histórico de hipertensão arterial e diabetes. Durante o exame físico, o médico detecta um sopro cardíaco. Um ecocardiograma é realizado e revela o estreitamento de uma das valvas do coração, que está impedindo o (cid:75)uxo sanguíneo adequado do átrio esquerdo para o ventrículo esquerdo. Qual das seguintes valvas cardíacas está provavelmente afetada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Valva mitral"
+      },
+      {
+        "letra": "B",
+        "texto": "Valva tricúspide"
+      },
+      {
+        "letra": "C",
+        "texto": "Valva pulmonar"
+      },
+      {
+        "letra": "D",
+        "texto": "Valva aórtica"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104544,
+    "tags": [],
+    "enunciado": "P.L.S., 65 anos, chega ao hospital com queixa de inchaço nos membros inferiores e sensação de peso. A paciente relata ter histórico de doença renal crônica e hipertensão arterial sistêmica. Durante o exame físico, o médico nota distensão das veias super(cid:45)ciais do abdômen. A ultrassonogra(cid:45)a doppler evidencia uma obstrução em um vaso grande, que coleta sangue de regiões como o tronco, pescoço, membros superiores e parte da cabeça. Qual é o vaso provavelmente obstruído?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Veia porta"
+      },
+      {
+        "letra": "B",
+        "texto": "Veia pulmonar"
+      },
+      {
+        "letra": "C",
+        "texto": "Veia cava superior"
+      },
+      {
+        "letra": "D",
+        "texto": "Veia cava inferior"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104545,
+    "tags": [],
+    "enunciado": "R.S.P., 71 anos, comparece ao consultório com queixa de dor no peito durante atividades físicas intensas, aliviada com o repouso. A paciente possui histórico de diabetes mellitus tipo 2 e hipertensão arterial sistêmica. Durante a consulta, é realizado um teste de estresse, que mostra alterações sugestivas de isquemia miocárdica. O médico decide encaminhar a paciente para um cateterismo cardíaco, que evidencia obstrução em uma artéria que irriga principalmente o ventrículo direito, o nódulo sinoatrial na maioria das pessoas, e, em muitos casos, a parte inferior do ventrículo esquerdo. Qual é a artéria provavelmente obstruída?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Artéria coronária esquerda"
+      },
+      {
+        "letra": "B",
+        "texto": "Ramo circunflexo da artéria coronária esquerda"
+      },
+      {
+        "letra": "C",
+        "texto": "Artéria descendente anterior esquerda"
+      },
+      {
+        "letra": "D",
+        "texto": "Artéria coronária direita"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104546,
+    "tags": [],
+    "enunciado": "R.C.A., 63 anos, é levado ao pronto-socorro com queixa de dor torácica intensa e contínua, irradiada para o braço esquerdo, com duração de aproximadamente 1 hora. O paciente relata que é fumante há 40 anos, possui hipertensão arterial sistêmica controlada com medicação e tem histórico familiar de doença arterial coronariana. O eletrocardiograma realizado na emergência mostra alterações sugestivas de infarto agudo do miocárdio. O médico solicita um cateterismo cardíaco, que identi(cid:45)ca uma obstrução em uma artéria que irriga a maior parte da parede anterior do ventrículo esquerdo e a porção anterior do septo ventricular. Qual é a artéria provavelmente obstruída?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Artéria coronária direita."
+      },
+      {
+        "letra": "B",
+        "texto": "Artéria coronária esquerda."
+      },
+      {
+        "letra": "C",
+        "texto": "Ramo circunflexo da artéria coronária esquerda."
+      },
+      {
+        "letra": "D",
+        "texto": "Artéria descendente anterior esquerda."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104547,
+    "tags": [],
+    "enunciado": "A.C.M., sexo masculino, 70 anos, foi encaminhado para consulta de rotina com seu cardiologista. Durante a anamnese, o paciente relata sentir falta de ar ao realizar atividades físicas moderadas. Além disso, menciona episódios de tontura e fadiga após os exercícios. O médico decide realizar um exame físico e, ao auscultar o coração, nota um sopro sistólico em foco mitral. Um ecocardiograma subsequente con(cid:45)rmou a suspeita de insuficiência da válvula mitral. Com base nas informações apresentadas pelo caso e de acordo com seus conhecimentos de anatomia, qual das seguintes afirmações descreve corretamente a função da válvula mitral?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A válvula mitral permite o fluxo de sangue do ventrículo direito para o átrio direito durante a diástole e impede o refluxo durante a sístole."
+      },
+      {
+        "letra": "B",
+        "texto": "A válvula mitral permite o fluxo de sangue do ventrículo esquerdo para o átrio esquerdo durante a diástole e impede o refluxo durante a sístole."
+      },
+      {
+        "letra": "C",
+        "texto": "A válvula mitral permite o fluxo de sangue do átrio direito para o ventrículo direito durante a diástole e impede o refluxo durante a sístole."
+      },
+      {
+        "letra": "D",
+        "texto": "A válvula mitral permite o fluxo de sangue do átrio esquerdo para o ventrículo esquerdo durante a diástole e impede o refluxo durante a sístole."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104548,
+    "tags": [],
+    "enunciado": "L.M.N., sexo masculino, 45 anos, vem ao consultório médico com queixa de cansaço fácil e fadiga durante atividades físicas. Relata também que vem ganhando peso nas últimas semanas, mesmo sem grandes alterações na dieta. Ao exame físico, foi identi(cid:45)cado edema bilateral de membros inferiores e ingurgitamento das veias jugulares. Ausculta cardíaca revela presença de sopro sistólico em foco mitral. Um ecocardiograma foi realizado, confirmando a hipótese de insuficiência mitral. Com base nas informações apresentadas pelo caso e em seus conhecimentos, qual das seguintes estruturas anatômicas é a principal responsável pela insuficiência mitral neste caso?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Folhetos da valva mitral."
+      },
+      {
+        "letra": "B",
+        "texto": "Seio coronário"
+      },
+      {
+        "letra": "C",
+        "texto": "Músculos papilares"
+      },
+      {
+        "letra": "D",
+        "texto": "Valva tricúspide"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104549,
+    "tags": [],
+    "enunciado": "J.C.M., sexo masculino, 42 anos, chega ao consultório médico relatando episódios de tontura e fraqueza nos últimos meses. Durante o exame físico, o médico veri(cid:45)ca que a frequência cardíaca do paciente é bastante irregular. Um eletrocardiograma subsequente revela um bloqueio completo do ramo esquerdo. Com base nas informações apresentadas e em seus conhecimentos de anatomia, qual das seguintes afirmações descreve corretamente a função do feixe de His no contexto deste caso clínico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O feixe de His é responsável pela geração do impulso elétrico que inicia cada batimento cardíaco, atuando como o marca-passo natural do coração."
+      },
+      {
+        "letra": "B",
+        "texto": "O feixe de His é responsável pela condução do impulso elétrico dos ventrículos para os átrios, garantindo a contração coordenada do coração."
+      },
+      {
+        "letra": "C",
+        "texto": "O feixe de His é responsável pela condução do impulso elétrico do nó atrioventricular para os ventrículos, garantindo a contração coordenada do coração."
+      },
+      {
+        "letra": "D",
+        "texto": "O feixe de His é responsável pela geração do impulso elétrico que inicia a contração dos ventrículos, garantindo o bombeamento eficiente do sangue."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104550,
+    "tags": [],
+    "enunciado": "Paciente de 25 anos chega ao pronto-socorro com histórico de palpitações e falta de ar há alguns meses. Durante a avaliação, ele relata que esses episódios geralmente duram alguns minutos e ocorrem de forma espontânea, sem um fator desencadeante especí(cid:45)co. Ao realizar um eletrocardiograma, é observado um padrão de pré-excitação ventricular, sugerindo a presença de uma síndrome de Wol(cid:88)-Parkinson-White (WPW). O médico solicita exames adicionais, incluindo um ecocardiograma, que revela um coração estruturalmente normal. O paciente é então encaminhado para um especialista em arritmias cardíacas, que con(cid:45)rma o diagnóstico de WPW. O tratamento inicial consiste em medicamentos para controlar a frequência cardíaca durante os episódios de palpitações e a realização de um procedimento chamado ablação por cateter. Durante a Síndrome de WPW, existe uma via anômala adicional entre os átrios e os ventrículos, que é chamada de feixe de Kent. Essa via pode permitir a ativação precoce dos ventrículos antes de o impulso elétrico normal chegar aos ventrículos pelo ________________________. Qual das estruturas abaixo é a que preenche corretamente a lacuna?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ramo direito do feixe atrioventricular."
+      },
+      {
+        "letra": "B",
+        "texto": "Nó sinoatrial."
+      },
+      {
+        "letra": "C",
+        "texto": "Nó atrioventricular."
+      },
+      {
+        "letra": "D",
+        "texto": "Nervo vago."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104551,
+    "tags": [],
+    "enunciado": "Paciente de 68 anos de idade chega ao pronto-socorro com queixa de desmaio repentino. Ao realizar o exame físico, o médico percebeu uma frequência cardíaca baixa. Ao realizar o eletrocardiograma (ECG), foi diagnosticado um bloqueio atrioventricular de terceiro grau. O paciente foi encaminhado para uma unidade de terapia intensiva e colocado em monitoramento cardíaco contínuo. Foi iniciado o tratamento com um marca-passo temporário para manter uma frequência cardíaca adequada. Após avaliação completa, foi identi(cid:45)cado que a causa do bloqueio atrioventricular era devido a uma doença cardíaca subjacente, como a doença de Chagas. O paciente foi submetido a exames de imagem e foi encaminhado para avaliação cardiológica especializada para definição do tratamento a longo prazo. O texto acima conta um caso clínico sobre bloqueio atrioventricular, uma disfunção do nó atrioventricular. Em relação a função do nó atrioventricular assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Contração cardíaca."
+      },
+      {
+        "letra": "B",
+        "texto": "Conduzir impulsos elétricos dos átrios aos ventrículos."
+      },
+      {
+        "letra": "C",
+        "texto": "Controlar a frequência cardíaca."
+      },
+      {
+        "letra": "D",
+        "texto": "Iniciar a condução elétrica do coração."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104552,
+    "tags": [],
+    "enunciado": "J.L.V, 48 anos, foi submetido a cirurgia cardiovascular e pós-operatório evolui com arritmia cardíaca de origem atrial. Esta arritmia pode ocorrer nesta situação devido, entre outros fatores, à in(cid:75)amação do pericárdio (pericardite) que ocorre após o procedimento cirúrgico. A estrutura do complexo estimulante do coração afetada, por estar localizada mais próxima do epicárdio é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nó atrioventricular."
+      },
+      {
+        "letra": "B",
+        "texto": "Ramo esquerdo do feixe atrioventricular."
+      },
+      {
+        "letra": "C",
+        "texto": "Ramo direito do feixe atrioventricular."
+      },
+      {
+        "letra": "D",
+        "texto": "Nó sinoatrial."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104553,
+    "tags": [],
+    "enunciado": "Paciente do sexo masculino, 45 anos, sem histórico de doenças cardíacas, comparece ao pronto-socorro com queixa de palpitações e desconforto no peito. Ele relata que começou a sentir os sintomas cerca de uma hora antes de procurar ajuda médica e que não consegue identi(cid:45)car nenhum fator desencadeante especí(cid:45)co. Ao ser examinado, o paciente apresenta frequência cardíaca de 110 batimentos por minuto e pressão arterial dentro dos valores normais. O ECG mostra um ritmo sinusal regular com ondas P normais, indicando uma taquicardia sinusal. Os demais exames de sangue e imagem não apresentaram alterações signi(cid:45)cativas. Após avaliação clínica, o médico opta por monitorar o paciente e prescrever medicamentos para controlar a frequência cardíaca e aliviar os sintomas, além de recomendar medidas para reduzir o estresse e a ansiedade, como técnicas de relaxamento e mudanças no estilo de vida. O texto acima descreve um caso clínico de taquicardia sinusal. A respeito do nó sinoatrial, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É responsável por iniciar os batimentos cardíacos, atuando como 'marcapasso' natural do coração."
+      },
+      {
+        "letra": "B",
+        "texto": "Está localizado no átrio esquerdo."
+      },
+      {
+        "letra": "C",
+        "texto": "É responsável por controlar a pressão arterial do corpo."
+      },
+      {
+        "letra": "D",
+        "texto": "É um tecido nervoso responsável pela contração do coração."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104554,
+    "tags": [],
+    "enunciado": "G.N.I, 52 anos, queixa-se de sudorese, falta de ar, palpitações e dor no peito há cerca de três horas. Paciente possui antecedente pessoal de hipertensão arterial sistêmica e diabetes tipo 2, mas não possui histórico prévio de doença cardíaca. Plantonista realiza exames complementares e detecta lesão grave no principal vaso que sai do ventrículo esquerdo. Qual o vaso lesado?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Artéria ilíaca comum"
+      },
+      {
+        "letra": "B",
+        "texto": "Tronco celíaco"
+      },
+      {
+        "letra": "C",
+        "texto": "Artéria aorta."
+      },
+      {
+        "letra": "D",
+        "texto": "Artéria pulmonar."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104555,
+    "tags": [],
+    "enunciado": "H.B.L, 64 anos, queixa-se de dor torácica em aperto de intensidade 6 em 10, sudorese, falta de ar e palpitações há duas horas. Paciente hipertenso, sem histórico de doença cardiovascular prévio e sem antecedentes familiares de problema no coração. Médico de plantão realiza exames complementares que detectam uma rara lesão em um vaso que desemboca no átrio direito. Assinale a alternativa que identi(cid:45)ca um possível vaso lesado.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Seio coronário"
+      },
+      {
+        "letra": "B",
+        "texto": "Veia pulmonar"
+      },
+      {
+        "letra": "C",
+        "texto": "Tronco braquiocefálico"
+      },
+      {
+        "letra": "D",
+        "texto": "Veia subclávia direita"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104556,
+    "tags": [],
+    "enunciado": "K.M.D., 58 anos, chega à emergência com queixa de dor abdominal intermitente, perda de peso não intencional e diminuição do apetite nos últimos 6 meses. Paciente relata que não há histórico de câncer ou de doença arterial na família. Além disso, não apresenta outras doenças e nunca realizou procedimentos cirúrgicos. Médico realiza exames complementares que detectam uma obstrução na artéria que origina ramos responsáveis por irrigar os seguintes órgãos: estômago, baço, pâncreas, fígado e duodeno. Assinale a alternativa que indica corretamente o vaso obstruído.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tronco braquiocefálico."
+      },
+      {
+        "letra": "B",
+        "texto": "Artéria frênica inferior."
+      },
+      {
+        "letra": "C",
+        "texto": "Tronco celíaco."
+      },
+      {
+        "letra": "D",
+        "texto": "Artéria mesentérica inferior."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104557,
+    "tags": [],
+    "enunciado": "H.M.G, 49 anos, apresenta-se no pronto socorro com queixa de dormência e dor na região dorsal. Após realização de exames complementares observou-se uma obstrução em ramos da aorta descendente. Assinale a alternativa que indica uma possível artéria ocluída.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Artéria carótida comum direita."
+      },
+      {
+        "letra": "B",
+        "texto": "Artéria subclávia direita."
+      },
+      {
+        "letra": "C",
+        "texto": "Artéria intercostal posterior."
+      },
+      {
+        "letra": "D",
+        "texto": "Artéria frênica inferior."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104558,
+    "tags": [],
+    "enunciado": "M.L.N, sexo feminino, 71 anos, chega ao pronto socorro com queixa dor em aperto na região retroesternal, intensa, 9 de 10. Relata que a dor irradia para a região dorsal e para o pescoço. Possui antecedente pessoal de hipertensão arterial sistêmica, diabetes e tabagismo. Foi realizado um exame de imagem que mostrou dissecção da aorta ascendente que se inicia na altura do primeiro ramo da aorta após as artérias coronárias. Considerando essas informações, assinale a alternativa que indica corretamente a ordem dos três primeiros ramos que surgem da aorta após as coronárias.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tronco braquiocefálico, artéria subclávia esquerda e artéria carótida comum esquerda."
+      },
+      {
+        "letra": "B",
+        "texto": "Artéria subclávia esquerda, tronco braquiocefálico e artéria carótida comum esquerda."
+      },
+      {
+        "letra": "C",
+        "texto": "Artéria carótida comum esquerda, tronco braquiocefálico e artéria subclávia esquerda."
+      },
+      {
+        "letra": "D",
+        "texto": "Tronco braquiocefálico, artéria carótida comum esquerda e artéria subclávia esquerda."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104559,
+    "tags": [],
+    "enunciado": "J.F.S, 64 anos, sexo masculino, chega ao pronto socorro com queixa de dor torácica intensa, 8 de 10, dor no pescoço e di(cid:45)culdade para respirar. Possui histórico de tabagismo, 50 maços ano, ou seja, fumou um maço de cigarro por dia durante 50 anos. Não há histórico de doença cardiovascular na família. Foram realizados exames complementares que detectaram uma alteração anatômica no primeiro ramo da aorta ascendente após as artérias coronárias. Qual o ramo afetado?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tronco braquiocefálico"
+      },
+      {
+        "letra": "B",
+        "texto": "Artéria carótida comum esquerda"
+      },
+      {
+        "letra": "C",
+        "texto": "Artéria subclávia esquerda"
+      },
+      {
+        "letra": "D",
+        "texto": "Artéria subclávia direita"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104560,
+    "tags": [],
+    "enunciado": "L.M.K, 55 anos, sexo masculino, chega ao hospital com dor no peito intensa há 3 horas que irradia para o braço esquerdo, acompanhada de sudorese e falta de ar. Relata histórico de hipertensão arterial de difícil controle e tabagismo desde os 18 anos. Descreve que a dor começou enquanto ele fazia atividades físicas leves em casa. Ao examinar o paciente, o médico constata que sua pressão arterial está elevada, bem como sua frequência cardíaca. Além disso, detecta um sopro cardíaco e um terceiro som cardíaco. O ECG mostra alterações típicas de infarto agudo do miocárdio de ventrículo esquerdo. Sobre o miocárdio do VE e suas diferentes camadas, pode-se afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O miocárdio é dividido em 3 camadas musculares, sendo que a orientação do feixe muscular é longitudinal no miocárdio subepicárdico, circunferencial no segmento médio e novamente longitudinal no miocárdio subendocárdico."
+      },
+      {
+        "letra": "B",
+        "texto": "O miocárdio é dividido em 2 camadas musculares, sendo que a orientação do feixe muscular é longitudinal no miocárdio subepicárdico e circunferencial no miocárdio subendocárdico."
+      },
+      {
+        "letra": "C",
+        "texto": "O miocárdio é dividido em 3 camadas musculares, sendo que a orientação do feixe muscular é circunferencial no miocárdio subepicárdico, longitudinal no segmento médio e novamente circunferencial no miocárdio subendocárdico."
+      },
+      {
+        "letra": "D",
+        "texto": "O miocárdio é dividido em 2 camadas musculares, sendo que a orientação do feixe muscular é circunferencial no miocárdio subepicárdico e longitudinal no miocárdio subendocárdico."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104561,
+    "tags": [],
+    "enunciado": "Paciente B é uma menina de 7 anos que se queixa de cansaço frequente e falta de ar durante atividades físicas leves, como correr ou brincar no parquinho. Ela também tem episódios de cianose, uma coloração azulada nos lábios e nas extremidades, principalmente quando está agitada. Ao realizar um exame físico, o médico identi(cid:45)ca um sopro cardíaco e solicita um exame de ecocardiograma. O exame revela a presença de um forame oval patente.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "respeito do forame oval, qual a principal função dessa estrutura na circulação fetal?"
+      },
+      {
+        "letra": "A",
+        "texto": "Permitir que o sangue passe do átrio esquerdo para o átrio direito."
+      },
+      {
+        "letra": "B",
+        "texto": "Permitir que o sangue passe do átrio direito para o átrio esquerdo."
+      },
+      {
+        "letra": "C",
+        "texto": "Impedir que o sangue passe do átrio esquerdo para o átrio direito."
+      },
+      {
+        "letra": "D",
+        "texto": "Permitir que o sangue passe do ventrículo direito para o ventrículo esquerdo."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104562,
+    "tags": [],
+    "enunciado": "Paciente masculino de 3 anos, é trazido pelos pais para atendimento médico com queixa principal de fadiga, falta de ar e sudorese excessiva durante as atividades físicas. Os pais referem que é uma criança saudável e ativa, mas que notaram que ele (cid:45)ca rapidamente cansado durante atividades físicas, como brincar com seus amigos ou correr. Ele também apresenta falta de ar e sudorese excessiva nessas situações. Seus pais também perceberam que ele não cresceu tanto quanto outras crianças da mesma idade. Ao examinar a criança, é possível ouvir um sopro cardíaco em sua ausculta cardíaca. Após realizar um ecocardiograma, foi visualizado uma abertura entre os dois ventrículos do coração e feito o diagnóstico de Comunicação interventricular. Considerando a anatomia do septo interventricular, é mais provável que o defeito citada esteja localizado:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Mais próximo do ápice do coração"
+      },
+      {
+        "letra": "B",
+        "texto": "Na parte muscular do septo cardíaco"
+      },
+      {
+        "letra": "C",
+        "texto": "No septo atrioventricular"
+      },
+      {
+        "letra": "D",
+        "texto": "Na parte membranácea do septo cardíaco"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104563,
+    "tags": [],
+    "enunciado": "Paciente A.V.G 2 anos, é trazido pelos familiares para atendimento com queixa principal de fadiga, falta de ar e sudorese excessiva durante as atividades físicas. Os pais referem que é uma criança saudável e ativa, mas que notaram que ele (cid:45)ca rapidamente cansado durante atividades físicas, como brincar com seus amigos ou correr. Ele também apresenta falta de ar e sudorese excessiva nessas situações. Seus pais também perceberam que ele não cresceu tanto quanto outras crianças da mesma idade. Ao examinar a criança, é possível ouvir um sopro cardíaco em sua ausculta cardíaca. Após realizar um ecocardiograma, foi visualizado uma abertura entre os dois ventrículos do coração e feito o diagnóstico de Comunicação interventricular. Em relação à anatomia do septo interventricular assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É uma divisória entre o ventrículo direito e esquerdo, sendo sua espessura similar à do ventrículo direito."
+      },
+      {
+        "letra": "B",
+        "texto": "Após a contração ventricular, o septo se expande para a cavidade do ventrículo esquerdo."
+      },
+      {
+        "letra": "C",
+        "texto": "A parte membranácea se localiza mais inferiormente que a parte muscular."
+      },
+      {
+        "letra": "D",
+        "texto": "A principal função dessa estrutura é impedir que o sangue oxigenado do ventrículo direito se comunique com o sangue não oxigenado do ventrículo esquerdo."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104564,
+    "tags": [],
+    "enunciado": "F.N.R, 50 anos, procedente do interior de Minas Gerais, chega ao pronto socorro com queixa de falta de ar, fadiga excessiva, tontura e di(cid:45)culdade para respirar ao se deitar. Segundo o paciente, esses sintomas se iniciaram há 2 meses, porém pioraram nos últimos 2 dias. Não há antecedentes familiares de doença cardíaca e o paciente não tem outras doenças. O médico fez exames complementares que indicaram o diagnóstico de Insu(cid:45)ciência cardíaca. Usando os seus conhecimentos sobre os vasos sanguíneos que chegam e saem do coração, sobre a anatomia das câmaras cardíacas e sobre a circulação sanguínea, analise as a(cid:45)rmativas e assinale a alternativa correta: I. Quando o átrio direito se contrai, a válvula mitral se abre, permitindo a passagem de sangue pobre em oxigênio para o ventrículo direito. II. O sangue oxigenado circula pelo lado esquerdo do coração. III. A veia cava inferior, a veia cava superior e o seio coronário chegam no átrio direito, trazendo sangue pobre em oxigênio para essa câmara cardíaca. IV. Quando o átrio esquerdo se contrai, a válvula tricúspide se abre, permitindo a passagem de sangue rico em oxigênio para o ventrículo esquerdo. V. Do ventrículo esquerdo o sangue oxigenado é transportado para a artéria aorta, que se rami(cid:45)ca em artérias menores para distribuir esse sangue rico em oxigênio para tecidos e órgãos no corpo inteiro.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e IV"
+      },
+      {
+        "letra": "B",
+        "texto": "II, III e V"
+      },
+      {
+        "letra": "C",
+        "texto": "I, II e V"
+      },
+      {
+        "letra": "D",
+        "texto": "III e IV"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104565,
+    "tags": [],
+    "enunciado": "N.M.C, 48 anos, chega ao hospital com queixa de inchaço em membros inferiores, cansaço excessivo e falta de ar há 3 dias. O médico de plantão faz um ecocardiograma, cujo laudo levantou a hipótese de insu(cid:45)ciência cardíaca, que é uma condição em que o coração não bombeia sangue su(cid:45)ciente para suprir as necessidades do corpo. Levando em seus conhecimentos sobre a circulação cardíaca, a anatomia das câmaras cardíacas e as artérias que saem em cada câmara, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Do ventrículo direito sai sangue pobre em oxigênio para a artéria aorta, que distribui esse sangue para todo o corpo."
+      },
+      {
+        "letra": "B",
+        "texto": "Do ventrículo esquerdo sai sangue rico em oxigênio para a artéria aorta, que distribui esse sangue para todo o corpo."
+      },
+      {
+        "letra": "C",
+        "texto": "Do ventrículo esquerdo sai sangue pobre em oxigênio para a artéria pulmonar, que leva esse sangue para ser oxigenado nos pulmões."
+      },
+      {
+        "letra": "D",
+        "texto": "Do ventrículo direito sai sangue rico em oxigênio para a artéria aorta, que distribui esse sangue para todo o corpo."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104566,
+    "tags": [],
+    "enunciado": "N.M.C, 48 anos, chega ao hospital com queixa de inchaço em membros inferiores, cansaço excessivo e falta de ar há 3 dias. O médico de plantão solicita um ecocardiograma, cujo laudo levantou a hipótese de insu(cid:45)ciência cardíaca, que é uma condição em que o coração não bombeia sangue su(cid:45)ciente para suprir as necessidades do corpo. Levando em seus conhecimentos sobre a circulação cardíaca, a anatomia das câmaras cardíacas e as veias que chegam em cada câmara, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As veias cavas inferior e superior drenam no átrio esquerdo, transportando sangue rico em oxigênio."
+      },
+      {
+        "letra": "B",
+        "texto": "A veia pulmonar drena no átrio direito, transportando sangue rico em oxigênio."
+      },
+      {
+        "letra": "C",
+        "texto": "As veias cavas inferior e superior drenam no átrio direito, transportando sangue pobre em oxigênio."
+      },
+      {
+        "letra": "D",
+        "texto": "A veia pulmonar drena no átrio esquerdo, transportando sangue pobre em oxigênio."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104567,
+    "tags": [],
+    "enunciado": "F.V.G., 47 anos, relata que nas últimas semanas vem se sentindo muito cansado para atividades que antes realizava com facilidade. Além disso, queixa-se de 2 episódios de desmaio após realização de atividade física vigorosa. Nega doenças prévias ou antecedentes familiares de doença cardiovascular. O médico de plantão solicita a realização de um Eletrocardiograma e de um Ecocardiograma, que levam a conclusão de sobrecarga do ventrículo esquerdo, com aumento da espessura dessa câmara e consequente di(cid:45)culdade no bombeamento de sangue por essa câmara cardíaca. Sobre as possíveis consequências desse problema, levando em consideração a relação anatômica das câmaras cardíacas, analise as a(cid:45)rmativas e assinale a alternativa correta: I.O ventrículo esquerdo do paciente terá di(cid:45)culdade de bombear o sangue rico em oxigênio para a artéria aorta. II.O ventrículo esquerdo é menos espesso e menos trabeculado que o ventrículo direito. Além disso, o VE possui dimensões menores que o VD. III.O sangue pobre em oxigênio passa do átrio esquerdo para o ventrículo esquerdo pela válvula mitral.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas I"
+      },
+      {
+        "letra": "B",
+        "texto": "II e III"
+      },
+      {
+        "letra": "C",
+        "texto": "I e III"
+      },
+      {
+        "letra": "D",
+        "texto": "II e III"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104568,
+    "tags": [],
+    "enunciado": "J.V.R., 48 anos, relata que nos últimos meses apresenta cansaço excessivo, tontura e falta de ar após realização de exercícios físicos de moderada intensidade. Segundo ele não há histórico de doença cardiovascular na família, exceto por um primo de segundo grau que teve um infarto agudo do miocárdio há 2 anos. Paciente relata ainda que possui alimentação equilibrada e que é tabagista desde os 18 anos, 1 maço por dia. O médico de plantão solicita a realização de um Eletrocardiograma e de um Ecocardiograma, que mostram aumento do ventrículo direito e di(cid:45)culdade no bombeamento de sangue por essa câmara cardíaca. Sobre as possíveis consequências desse problema, levando em consideração a relação anatômica das câmaras cardíacas, analise as afirmativas e assinale a alternativa correta: I.O ventrículo direito do paciente terá dificuldade de bombear o sangue rico em oxigênio para a artéria aorta. II.O sangue pobre em oxigênio passa do átrio direito para o ventrículo direito pela válvula tricúspide. III.O ventrículo direito do paciente terá di(cid:45)culdade de bombear o sangue pobre em oxigênio para a artéria pulmonar.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas II"
+      },
+      {
+        "letra": "B",
+        "texto": "I, II e III"
+      },
+      {
+        "letra": "C",
+        "texto": "Todas estão incorretas."
+      },
+      {
+        "letra": "D",
+        "texto": "II e III."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104569,
+    "tags": [],
+    "enunciado": "T.M.S, sexo masculino, 63 anos, chega ao pronto socorro queixando-se de palpitações, falta de ar e cansaço intenso há cerca de 50 minutos. Relata ter diagnostico de diabetes, atualmente bem controlada com Metformina. Ao exame físico encontra-se com frequência cardíaca aumentada e com sinais de esforço respiratório, porém sua pressão está dentro da normalidade, 128x82mmHg. No exame de eletrocardiograma (ECG), é possível observar uma (cid:45)brilação atrial, com frequência cardíaca de 140 batimentos por minuto. Considerando seus conhecimentos sobre a anatomia dos átrios, pode-se afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os músculos papilares são estruturas em forma de cone localizadas nas paredes dos átrios cardíacos."
+      },
+      {
+        "letra": "B",
+        "texto": "No átrio esquerdo existe o assoalho da fossa oval, enquanto no átrio direito há a válvula do forame oval."
+      },
+      {
+        "letra": "C",
+        "texto": "O sangue pobre em oxigênio entra no átrio esquerdo por meio de três vasos: veia cava inferior, veia cava superior e seio coronário."
+      },
+      {
+        "letra": "D",
+        "texto": "Uma parte do átrio direito se localiza na porção direita da face esternocostal do coração, enquanto o átrio esquerdo forma a maior parte da base ou da face posterior do coração."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104570,
+    "tags": [],
+    "enunciado": "G.N.S., 61 anos, sexo feminino, chega ao pronto socorro com queixa de falta de ar, palpitações, fadiga e tontura há 3 dias. Tabagista desde os 30 anos, possui mãe falecida de doença cardiovascular e pai falecido de causas naturais. No exame físico é diagnosticada com um sopro diastólicono foco mitral do coração, levando a hipótese de estenose mitral. Essa doença caracteriza-se por di(cid:45)cultar a abertura completa da válvula mitral, o que prejudica o fluxo sanguíneo do átrio esquerdo para o ventrículo esquerdo. Considerando-se as câmaras cardíacas e suas relações anatômicas é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O ventrículo esquerdo bombeia o sangue desoxigenado para todo o corpo por meio da artéria aorta."
+      },
+      {
+        "letra": "B",
+        "texto": "A válvula mitral, também conhecida como válvula tricúspide, se abre durante a contração do átrio esquerdo e permite que o sangue rico em oxigênio passe do átrio esquerdo para o ventrículo esquerdo."
+      },
+      {
+        "letra": "C",
+        "texto": "O átrio direito recebe sangue venoso (desoxigenado) das veias pulmonares e envia o sangue para o ventrículo direito por meio da válvula tricúspide."
+      },
+      {
+        "letra": "D",
+        "texto": "O ventrículo direito envia sangue venoso (desoxigenado) para o pulmão através das artérias pulmonares. Esse ventrículo é levemente menor que ventrículo esquerdo."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104571,
+    "tags": [],
+    "enunciado": "M.T.A.R, sexo feminino, 68 anos de idade, chega ao consultório com queixa de cansaço aos esforços e falta de ar. Ela relata ter notado esses sintomas há alguns meses, mas que vem piorando nas últimas semanas. Ao exame físico, é observado que o paciente apresenta sopro diastólico audível na ausculta cardíaca e o pulso está regular. A pressão arterial é normal, mas a frequência cardíaca está aumentada. O Ecocardiograma con(cid:45)rma o diagnóstico de estenose mitral moderada, com estreitamento da válvula mitral e aumento da pressão no átrio esquerdo. A fração de ejeção está preservada, mas há sinais de hipertensão pulmonar.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "paciente é então encaminhada para tratamento cirúrgico, apresentando melhora signi(cid:45)cativa dos sintomas e retorno à atividade física habitual após o procedimento."
+      },
+      {
+        "letra": "A",
+        "texto": "estenose mitral é uma doença que causa alteração importante na pressão do átrio esquerdo. Considerando que a curva abaixo representa a pressão atrial nas diferentes fases de um ciclo cardíaco normal, assinale a alternativa que apresenta uma correlação correta entre a letra da curva e sua fase correspondente: Livro Semiologia Cardíaca, Figura 8"
+      },
+      {
+        "letra": "A",
+        "texto": "A - representa a alteração de pressão gerada pelo fechamento das válvulas atrioventriculares."
+      },
+      {
+        "letra": "B",
+        "texto": "C - representa a contração atrial, momento em que ocorre a passagem de cerca de 25% do volume de enchimento ventricular."
+      },
+      {
+        "letra": "C",
+        "texto": "X - representa a queda de pressão logo após a abertura das válvulas atrioventriculares, com saída de sangue dos átrios para os ventrículos."
+      },
+      {
+        "letra": "D",
+        "texto": "V - representa o aumento de pressão que ocorre no final da contração ventricular, momento em que o sangue começa a acumular nos átrios pois as válvulas atrioventriculares ainda não se abriram."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104572,
+    "tags": [],
+    "enunciado": "B.C.C.A, sexo masculino, 50 anos de idade, sem histórico de doenças cardíacas prévias, chega à emergência com queixa de palpitações e desconforto no peito. Relata sensação de mal-estar que iniciou há cerca de 30 minutos, associado a palpitações persistentes. Ao exame físico, observa-se sinais de desconforto respiratório, sudorese intensa, frequência cardíaca em torno de 180 batimentos por minuto e pressão arterial baixa, 78x52mmHg. O exame cardiovascular revela sopro sistólico audível e o eletrocardiograma (ECG) con(cid:45)rma o diagnóstico de taquicardia ventricular sustentada. O paciente é imediatamente tratado com cardioversão elétrica para reverter o ritmo cardíaco anormal, procedimento realizado com sucesso.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "taquicardia ventricular é uma arritmia de origem ventricular. Sobre o sistema de condução e estímulo dos ventrículos, pode-se afirmar:"
+      },
+      {
+        "letra": "A",
+        "texto": "O Nó Sinoatrial, que fica na região de encontro dos átrios e dos ventrículos, é responsável pela transmissão do impulso elétrico que despolariza as células miocárdicas ventriculares."
+      },
+      {
+        "letra": "B",
+        "texto": "Após passar pelo Nó Atrioventricular, o estímulo elétrico segue em direção as Fibras de Purkinje. Em seguida, divide-se entre os ramos direito e esquerdo do Feixe de His, que é responsável por distribuir o sinal pelos cardiomiócitos ventriculares."
+      },
+      {
+        "letra": "C",
+        "texto": "O potencial de ação levado do Nó Sinoatrial e que converge para o Nó Atrioventricular é retardado nessa região, pois ela é uma área de condução relativamente lenta, o que permite a diferença que existe entre a contração atrial e a ventricular."
+      },
+      {
+        "letra": "D",
+        "texto": "O Nó Atrioventricular, localizado no septo interventricular, age distribuindo o sinal elétrico para ambos os ventrículos, o que permite sua contração ocorra de forma simultânea."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104573,
+    "tags": [],
+    "enunciado": "L.F.C.R, sexo masculino, 75 anos, com histórico de hipertensão arterial sistêmica e doença arterial coronariana, chega ao consultório com queixa de falta de ar aos esforços e tonturas ao se levantar que vem progredindo nos últimos 2 anos. Relata piora importante dos sintomas nos últimos meses, referindo episódios de palpitações e cansaço inclusive para andar dentro de casa. Ao exame físico, é observado que o paciente está em bom estado geral, porém com sopro sistólico audível na ausculta cardíaca. A pressão arterial é elevada, o pulso é fraco e a frequência cardíaca está em torno de 90 batimentos por minuto. O ecocardiograma con(cid:45)rma o diagnóstico de estenose aórtica grave, com estreitamento da válvula aórtica e hipertro(cid:45)a ventricular esquerda associada. Após analisar esses sinais e sintomas, o médico opta por indicar abordagem cirúrgica para troca da válvula aórtica da paciente. O quadro de estenose aórtica caracteriza-se por alterar substancialmente o ciclo cardíaco. Uma das etapas por ele alteradas é o momento em que ocorre o maior volume do esvaziamento dos ventrículos, logo após a abertura das válvulas semilunares. Essa etapa chama-se:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Contração isovolumétrica ventricular"
+      },
+      {
+        "letra": "B",
+        "texto": "Esvaziamento rápido ventricular"
+      },
+      {
+        "letra": "C",
+        "texto": "Relaxamento isovolumétrico ventricular"
+      },
+      {
+        "letra": "D",
+        "texto": "Esvaziamento lento ventricular"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104574,
+    "tags": [],
+    "enunciado": "E.P.A., sexo masculino, 60 anos, chega em consulta ambulatorial com cardiologista queixa de falta de ar aos esforços progressivamente menores, cansaço e inchaço nas pernas há alguns meses. Relata histórico de hipertensão arterial sistêmica de longa data, tabagismo e obesidade. Ao exame físico, o paciente apresenta pressão arterial elevada, frequência cardíaca e respiratória aumentadas. Na ausculta pulmonar há crepitações pulmonares em ambos os pulmões e na ausculta cardíaca há um sopro sistólico na borda esternal esquerda. Além disso, o médico observa inchaço em ambas as pernas em grau moderado. O eletrocardiograma demonstra sinais de sobrecarga ventricular esquerda e con(cid:45)rma o aumento da frequência cardíaca, sem sinais de arritmia. O ecocardiograma mostra dilatação ventricular esquerda e fração de ejeção reduzida para 30%, con(cid:45)rmando o diagnóstico de insuficiência cardíaca sistólica. Sobre a sístole e suas diferentes etapas, pode-se afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A ejeção ventricular rápida é a primeira etapa dessa fase, ocorrendo logo após a abertura das válvulas semilunares. Ela é seguida da fase de ejeção lenta e da fase de contração isovolumétrica ventricular."
+      },
+      {
+        "letra": "B",
+        "texto": "A etapa de ejeção ventricular lenta é responsável pela maior parte do volume de sangue que é ejetado pelos ventrículos para as circulações pulmonar e sistêmica."
+      },
+      {
+        "letra": "C",
+        "texto": "A contração ventricular isovolumétrica logo após a abertura das válvulas semilunares. Essa etapa dura pouco tempo e corresponde ao momento em que há variação de pressão dentro dos ventrículos sem variação de volume."
+      },
+      {
+        "letra": "D",
+        "texto": "A sístole ventricular é composta, nessa ordem, pelas seguintes etapas: contração isovolumétrica, ejeção ventricular rápida e ejeção ventricular lenta."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104575,
+    "tags": [],
+    "enunciado": "C.L.B, sexo feminino, 45 anos de idade, com histórico de Lupus Eritematoso Sistêmico, chega à emergência com queixa de desconforto respiratório, falta de ar e sudorese profusa. Ela relata ter se sentido mal nos últimos dias, com cansaço e mal-estar progressivos. Ao exame físico, observa-se sinais de desconforto respiratório, com pulso rápido e fraco, pressão arterial baixa e temperatura elevada. Há turgência jugular bilateral, com pulso paradoxal presente. O exame cardiovascular revela diminuição dos sons cardíacos, com atrito pericárdico audível em todos os campos pulmonares. O abdome está distendido e doloroso à palpação. O médico de plantão suspeita tamponamento cardíaco, o que é con(cid:45)rmado pelo ecocardiograma, que demonstra uma grande quantidade de líquido no saco pericárdico, determinando compressão cardíaca. A paciente é imediatamente encaminhada para o centro cirúrgico para realização de drenagem pericárdica de emergência. O quadro de tamponamento pericárdico caracteriza-se por alterar substancialmente o ciclo cardíaco. Uma das etapas por ele alteradas é o momento em que ocorre o maior volume do enchimento dos ventrículos, logo após a abertura das válvulas atrioventriculares. Essa etapa chama-se:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Enchimento ventricular lento."
+      },
+      {
+        "letra": "B",
+        "texto": "Contração isovolumétrica ventricular."
+      },
+      {
+        "letra": "C",
+        "texto": "Enchimento ventricular rápido."
+      },
+      {
+        "letra": "D",
+        "texto": "Relaxamento isovolumétrico ventricular."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104576,
+    "tags": [],
+    "enunciado": "M.A.R, sexo feminino, 75 anos, com histórico de hipertensão arterial, diabetes mellitus e doença pulmonar obstrutiva crônica, chega ao Pronto Socorro com queixa de falta de ar progressiva nas últimas semanas, especialmente ao se deitar. Relatou ter acordado várias vezes à noite com falta de ar e teve di(cid:45)culdade em realizar atividades do dia a dia, como caminhar até o mercado, que fica a duas quadras de sua casa. Ao exame físico, a paciente apresentava sinais de desconforto respiratório, com a frequência cardíaca em repouso de 85 bpm, pressão arterial de 145/90 mmHg, e saturação de oxigênio de 92% em ar ambiente. Havia alteração na ausculta pulmonar, com estertores pulmonares bibasais, e edema em ambos os membros inferiores. Os exames laboratoriais revelaram valores normais de hemoglobina, função renal e eletrólitos, mas um aumento significativo no nível de peptídeo natriurético do tipo B (BNP), indicando estresse no coração. Foi realizado um ecocardiograma que mostrou aumento de tamanho do coração da paciente, com espessamento da parede do ventrículo esquerdo e função sistólica preservada. Além disso, foi observado um importante aumento da pressão no átrio esquerdo, indicando um possível comprometimento da função diastólica.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "diástole, momento em que há relaxamento ventricular, é composta por algumas etapas que ocorrem nos átrios e nos ventrículos. Sobre elas, pode-se afirmar:"
+      },
+      {
+        "letra": "A",
+        "texto": "Durante a diástole, ocorrem os seguintes processos nos ventrículos, nessa ordem: Relaxamento isovolumétrico, enchimento lento, enchimento rápido."
+      },
+      {
+        "letra": "B",
+        "texto": "O enchimento ventricular é totalmente dependente da contração atrial, sendo iniciado apenas após a despolarização do Nó Sinoatrial, o que indica que é um 100% processo ativo."
+      },
+      {
+        "letra": "C",
+        "texto": "Durante a diástole ventricular, a primeira fase que ocorre é o relaxamento isovolumétrico dos ventrículos. Nesse momento, tanto as válvulas semilunares quanto as atrioventriculares estão fechadas, o que permite uma queda da Pressão dentro dos ventrículos sem variação do seu volume."
+      },
+      {
+        "letra": "D",
+        "texto": "O enchimento ventricular lento é a primeira fase da diástole ventricular. Nesse momento, a Pressão dentro dos átrios torna-se maior do que a pressão dentro dos ventrículos, permitindo uma abertura gradual das válvulas atrioventriculares e criando um fluxo progressivo de enchimento ventricular."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104577,
+    "tags": [],
+    "enunciado": "C.L.C.R, 65 anos, sexo feminino, chega ao consultório do cardiologista com queixas de palpitações (aumento da frequência cardíaca), cansaço e falta de ar. Relata que esses sintomas vêm ocorrendo com frequência nas últimas semanas, especialmente quando se exercita ou se estressa. Ao exame físico, o médico detecta uma frequência cardíaca elevada e irregular, além de aumento da pressão arterial. O eletrocardiograma (ECG) realizado no próprio consultório mostra leva ao diagnóstico de (cid:45)brilação atrial, uma condição em que os átrios do coração não se contraem de forma sincronizada, levando a uma frequência cardíaca rápida e irregular. Para entender bem o mecanismo dessa doença, é fundamental conhecer a contração atrial normal do coração. Sobre esse evento do ciclo cardíaco, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A contração atrial tem início no Nó Atrioventricular, que é o principal responsável pela diferença temporal que existe entre a contração atrial e a ventricular. Primeiro ele estimula a contração dos átrios e depois envia estímulos elétricos para a contração dos ventrículos."
+      },
+      {
+        "letra": "B",
+        "texto": "A contração atrial tem início no Nó Sinoatrial, que é o responsável pela automaticidade e ritmicidade do coração. Seu estímulo elétrico é propagado por um tecido de condução especializado que leva à sístole atrial, momento em que sangue é bombeado dos átrios para os ventrículos."
+      },
+      {
+        "letra": "C",
+        "texto": "A contração atrial tem início nas Fibras de Purkinje, que são diferentes regiões localizadas no átrio direito que emitem estímulos elétricos que são centralizados no Nó Sinoatrial e depois propagado por todo o coração. Esse sistema é o responsável pela automaticidade e ritmicidade do coração."
+      },
+      {
+        "letra": "D",
+        "texto": "A contração atrial tem início no Nó Sinoatrial, que é um tecido de condução bastante lento, o que torna possível a contração atrial antes da ventricular."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104578,
+    "tags": [],
+    "enunciado": "G.M.H., 65 anos, sexo masculino, hipertenso e diabético, apresenta-se ao pronto-socorro com queixas de falta de ar, cansaço e inchaço nas pernas há cerca de 1 ano. Relata que os sintomas pioraram ao longo das últimas semanas, apesar do uso de medicamentos prescritos para controlar sua hipertensão e diabetes. Ao exame físico, o médico identi(cid:45)ca aumento da frequência cardíaca e da frequência respiratória, pressão arterial elevada, edema nas pernas e ausculta dos pulmões com crepitações em bases, que pode indicar edema nesta região. O eletrocardiograma solicitado mostra sinais de sobrecarga do ventrículo esquerdo e o Ecocardiograma revela dilatação do ventrículo esquerdo e diminuição da fração de ejeção do coração. Diante desses achados clínicos, o paciente é diagnosticado com insu(cid:45)ciência cardíaca congestiva (ICC), uma condição em que o ciclo cardíaco está alterado, levando a bombeamento ine(cid:45)caz de sangue para suprir as necessidades do corpo. Dentre as alternativas abaixo, qual traz a definição mais completa de Ciclo cardíaco?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sequência de eventos elétricos e mecânicos durante um único batimento cardíaco."
+      },
+      {
+        "letra": "B",
+        "texto": "Sequência de batimentos cardíacos realizados em um minuto, pois nos permite entender de forma mais ampla como está o funcionamento do coração."
+      },
+      {
+        "letra": "C",
+        "texto": "Quantidade de sangue bombeada pela coração dentro de um minuto, que pode ser calculada por Frequência cardíaca multiplicada por Volume sistólico."
+      },
+      {
+        "letra": "D",
+        "texto": "Diferença matemática entre a Pressão sistólica e a pressão diastólica."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104579,
+    "tags": [],
+    "enunciado": "Um homem de 63 anos, hipertenso e diabético, chega ao Pronto Socorro com queixa de palpitação associada a falta de ar há cerca de 30 minutos. Relata 2 episódios semelhantes prévios, porém que cessaram sem necessidade de ida ao Hospital. O médico de plantão solicitou um eletrocardiograma, que identi(cid:45)cou um ritmo de Fibrilação atrial, que é quando os átrios não contraem em ritmo sincronizado, o que prejudica o bombeamento do coração para o resto do organismo. Sobre a estimulação elétrica do coração, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O nó atrioventricular é o principal responsável por ditar o ritmo cardíaco, uma vez que sua localização é estratégica para atuar estimulando tanto os átrios quanto os ventrículos."
+      },
+      {
+        "letra": "B",
+        "texto": "O Nó Sinoatrial, também conhecido como marcapasso cardíaco, é o principal responsável pela automaticidade e pelo ritmo cardíaco. Sua ação se inicia estimulando a contração do Ventrículo Direito, para que essa câmara se esvazie e seja capaz de receber o sangue trazido pelas veias cavas superior e inferior."
+      },
+      {
+        "letra": "C",
+        "texto": "Em indivíduos saudáveis, o potencial de ação iniciado no Nó Sinoatrial é propagado para os átrios por um tecido de condução especializado que leva a contração atrial."
+      },
+      {
+        "letra": "D",
+        "texto": "A contração ventricular ocorre exatamente no mesmo momento em que há a contração atrial, visto que o sinal transmitido do nó sinoatrial para o nó atrioventricular é transmitido em poucos milissegundos, o que permite essa sincronia entre todas as câmaras cardíacas, essencial para a chegada de sangue em órgãos vitais como o cérebro e os rins."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104580,
+    "tags": [],
+    "enunciado": "Paciente masculino, 28 anos, chega ao pronto socorro com queixa de febre, mal-estar geral, inchaço dos gânglios linfáticos, taquicardia e forte dor de cabeça há 1 semana. Relata que foi visitar a família no interior de Minas Gerais há cerca de 3 semanas e que foi picado por um inseto popularmente conhecido como \"barbeiro\". Na ressonância magnética é detectada uma miocardite, inflamação do músculo cardíaco. Sobre a histologia das camadas cardíacas é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A parede cardíaca é formada por 4 camadas principais: epicárdio, pericárdio, miocárdio e endocárdio."
+      },
+      {
+        "letra": "B",
+        "texto": "O epicárdio é o folheto visceral do pericárdio e é composto por epitélio pavimentoso simples apoiado sobre uma camada de tecido conjuntivo."
+      },
+      {
+        "letra": "C",
+        "texto": "O endocárdio é uma camada de tecido conjuntivo denso, formado por fibras colágenas, elásticas e células de músculo liso."
+      },
+      {
+        "letra": "D",
+        "texto": "A miocardite afeta principalmente o epicárdio, camada mais externa do coração."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104581,
+    "tags": [],
+    "enunciado": "J.V.S, 58 anos, diabético, hipertenso e com pai falecido por doença cardíaca. Durante a consulta, foram realizados exames de imagem que constataram uma hipertro(cid:45)a do átrio e do ventrículo esquerdos. Sobre as câmaras cardíacas e sua anatomia, pode-se afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O sangue sai do átrio esquerdo para o ventrículo esquerdo pela válvula tricúspide."
+      },
+      {
+        "letra": "B",
+        "texto": "O ventrículo esquerdo é menos espesso e menos trabeculado que o ventrículo direito. Além disso, possui dimensão interna maior que o ventrículo direito."
+      },
+      {
+        "letra": "C",
+        "texto": "O átrio direito e o átrio esquerdo são separados pelo septo interatrial, que contém resquício do forame oval, a fossa oval."
+      },
+      {
+        "letra": "D",
+        "texto": "O átrio esquerdo é ligeiramente menor que o átrio direito e recebe uma ou até três veias pulmonares do seu lado esquerdo e duas a três do seu lado direito."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104582,
+    "tags": [],
+    "enunciado": "G.C.R, 34 anos, relata episódios recorrentes de dor no peito e falta de ar em exercícios mais intensos. Ao ecocardiograma transtorácico detecta-se uma comunicação interatrial, uma condição congênita na qual a abertura do septo interatrial deveria ter se fechado após o nascimento, mas permaneceu aberta. Este defeito congênito ocorre na localização de qual estrutura cardíaca?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "septo atrioventricular"
+      },
+      {
+        "letra": "B",
+        "texto": "fossa oval"
+      },
+      {
+        "letra": "C",
+        "texto": "na parte membranácea do septo interventricular"
+      },
+      {
+        "letra": "D",
+        "texto": "na parte muscular do septo interventricular"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104583,
+    "tags": [],
+    "enunciado": "Paciente masculino, 68 anos, dá entrada no atendimento de urgência e emergência queixando-se de dor intensa na perna e pé direitos, associada a edema. Ao exame físico apresentava importante edema na perna direita e endurecimento da panturrilha direita. Sem alterações ao exame físico da perna contralateral. Após investigação com USG Doppler, foi realizado diagnóstico de trombose da veia femoral direita. Em relação a essa estrutura anatômica, assinale a alternativa incorreta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A veia femoral é continuação da veia poplítea."
+      },
+      {
+        "letra": "B",
+        "texto": "Ela é considerada uma veia solitária por não correr próximo da artéria femoral."
+      },
+      {
+        "letra": "C",
+        "texto": "Ao passar pela região inguinal ela dá origem a veia ilíaca externa."
+      },
+      {
+        "letra": "D",
+        "texto": "Suas tributárias são veia femoral profunda, veia safena magna, veia circunflexa femoral lateral."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104584,
+    "tags": [],
+    "enunciado": "Paciente masculino, 71 anos, busca atendimento ambulatorial com queixa de falta de ar aos esforços, dor precordial com exercícios e episódios de desmaios. Ao exame físico cardíaco foi auscultado sopro sistólico em foco aórtico. Após investigação adicional, foi feito diagnóstico de estenose aórtica. Em relação à valva aórtica, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O seu funcionamento se dá pela contração dos músculos papilares que tensionam as cordas tendíneas, gerando o fechamento da valva."
+      },
+      {
+        "letra": "B",
+        "texto": "É formada por três válvulas, chamadas válvula semilunar direita, válvula semilunar esquerda e válvula semilunar anterior."
+      },
+      {
+        "letra": "C",
+        "texto": "O local onde o sopro foi melhor auscultado é no 4o espaço intercostal esquerdo, lateral ao esterno."
+      },
+      {
+        "letra": "D",
+        "texto": "As artérias coronárias direita e esquerda originam-se dos seios aórticos direito e esquerdo, respectivamente."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104585,
+    "tags": [],
+    "enunciado": "Paciente A.P.R., 42 anos, em consulta ambulatorial com queixa de 1 ano de dispneia progressiva. No início sentia falta de ar ao fazer exercícios físicos intensos e atualmente sente queixa ao fazer esforços habituais. Ao exame clínico cardíaco foi visto sopro diastólico em ru(cid:75)ar, mais audível no foco mitral. Após con(cid:45)rmação com exames de imagem, foi feito o diagnóstico de estenose mitral. Em relação à valva mitral assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As cordas tendíneas são responsáveis pela abertura e fechamento da valva. No momento da sístole, os músculos papilares contraem, tensionando as cordas tendíneas e gerando o fechamento da valva."
+      },
+      {
+        "letra": "B",
+        "texto": "É formada por 3 folhetos, chamadas: folheto anterior, folheto posterior e folheto septal."
+      },
+      {
+        "letra": "C",
+        "texto": "É responsável por evitar que o sangue retorne do ventrículo direito para o átrio direito durante a sístole."
+      },
+      {
+        "letra": "D",
+        "texto": "O local onde o sopro foi mais audível foi no 2° espaço intercostal esquerdo lateral ao esterno."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104586,
+    "tags": [],
+    "enunciado": "Joana, 65 anos, chega ao pronto socorro com queixa de dor no peito intensa que irradia para a mandíbula e para o braço esquerdo, associada a náuseas e fadiga aos mínimos esforços. Paciente hipertensa há 5 anos, com pai diabético e mãe falecida de Infarto agudo do miocárdio. Foi realizado cateterismo que identi(cid:45)cou lesão obstrutiva nas artérias que irrigam o ventrículo esquerdo. Sobre a principal artéria lesada e sua irrigação, pode-se afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Artéria coronária esquerda e seus ramos, que irrigam a margem esquerda da parede livre do ventrículo direito, o átrio esquerdo, a parede anterior e lateral do ventrículo direito e 2/3 anteriores do septo."
+      },
+      {
+        "letra": "B",
+        "texto": "Artéria coronária direita e seus ramos, que irrigam a margem esquerda da parede livre do ventrículo direito, o átrio esquerdo, a parede anterior e lateral do ventrículo esquerdo e 2/3 anteriores do septo."
+      },
+      {
+        "letra": "C",
+        "texto": "Artéria coronária direita e seus ramos, que irrigam toda a parede livre do ventrículo direito, todo o átrio direito, a parede inferior do ventrículo esquerdo e 1/3 posterior do septo."
+      },
+      {
+        "letra": "D",
+        "texto": "Artéria coronária esquerda e seus ramos, que irrigam a margem esquerda da parede livre do ventrículo direito, o átrio esquerdo, a parede anterior e lateral do ventrículo esquerdo e 2/3 anteriores do septo interventricular."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104587,
+    "tags": [],
+    "enunciado": "Edimar, 61 anos, chega ao pronto socorro com quadro de dor torácica intensa há 3 horas, di(cid:45)culdade respiratória, fadiga e sudorese excessiva. Paciente tabagista, 1 maço de cigarro por dia, desde os 21 anos, sedentário e com obesidade grau 1. Ao exame físico, nota-se edema de membros inferiores. Considerando- se que foi diagnosticado uma lesão isquêmica do ventrículo direito do coração, pode-se a(cid:45)rmar que o provável vaso lesado e seus ramos são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Artéria coronária direita. Principais ramos: ramo interventricular anterior e ramo circunflexo."
+      },
+      {
+        "letra": "B",
+        "texto": "Artéria coronária esquerda. Principais ramos: ramo interventricular anterior e ramo circunflexo."
+      },
+      {
+        "letra": "C",
+        "texto": "Artéria coronária direita. Principais ramos: ramo do nó SA, ramo marginal direito e ramo interventricular posterior."
+      },
+      {
+        "letra": "D",
+        "texto": "Artéria coronária esquerda. Principais ramos: ramo do nó SA, ramo marginal direito e ramo interventricular posterior."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104588,
+    "tags": [],
+    "enunciado": "Paciente de 61 anos chega ao Pronto Socorro com quadro de dor retroesternal há cerca de 45 minutos. Descreve a dor como sendo em aperto, intensidade 9 em 10, irradia para o braço esquerdo e sente náuseas intensas, sem nenhum episódio de vômito. Relata ser diabético e hipertenso, porém não faz uso correto das medicações, esquecendo de tomá-las diversas vezes durante a semana. Foi realizado Eletrocardiograma que levantou a hipótese de lesão isquêmica da parede inferior do coração. Sobre esse quadro clínico e relacionando com a vascularização do coração, pode-se afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Provavelmente a artéria acometida é a coronária direita ou um dos seus ramos. Essa artéria origina- se diretamente do ventrículo esquerdo, logo abaixo da válvula aórtica."
+      },
+      {
+        "letra": "B",
+        "texto": "Provavelmente a artéria acometida é a coronária direita ou dos seus ramos. Essa artéria origina-se do seio aórtico direito da aorta ascendente."
+      },
+      {
+        "letra": "C",
+        "texto": "Provavelmente a artéria acometida é a coronária esquerda ou um dos seus ramos. Essa artéria tem origem diretamente no ventrículo esquerdo, logo abaixo da válvula aórtica."
+      },
+      {
+        "letra": "D",
+        "texto": "Provavelmente a artéria acometida é a coronária esquerda ou um dos seus ramos. Essa artéria tem origem no seio aórtico esquerdo da aorta ascendente."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104589,
+    "tags": [],
+    "enunciado": "Paciente de 61 anos chega ao Pronto Socorro com quadro de dor retroesternal há cerca de 45 minutos. Descreve a dor como sendo em aperto, intensidade 9 em 10, irradia para o braço esquerdo e sente náuseas intensas, sem nenhum episódio de vômito. Relata ser diabético e hipertenso, porém não faz uso correto das medicações, esquecendo de tomá-las diversas vezes durante a semana. Foi realizado Eletrocardiograma que levantou a hipótese de lesão isquêmica da parede inferior do coração. Sobre esse quadro clínico e relacionando com as camadas da parede cardíaca, pode-se afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A principal camada acometida em quadros isquêmicos é epicárdio, pois essa é a camada é rica em musculatura, sendo responsável pela contração cardíaca."
+      },
+      {
+        "letra": "B",
+        "texto": "O miocárdio é uma camada intermediária helicoidal e espessa, sendo formada majoritariamente pelo músculo cardíaco, que é a principal estrutura lesada em caso de lesão isquêmica."
+      },
+      {
+        "letra": "C",
+        "texto": "O endocárdio, camada rica em musculatura, é responsável pela contração cardíaca. Ela é a mais próxima das artérias coronárias e, por isso, é a camada que mais sofre com as lesões isquêmicas, visto que depende diretamente do oxigênio entregue por esses vasos."
+      },
+      {
+        "letra": "D",
+        "texto": "O miocárdio, por ser a camada mais externa do coração, é a mais acometida pela lesão isquêmica. Como consequência, ela deixa de realizar a contração necessária para o bom funcionamento do coração, o que acaba afetando também o epicárdio e o endocárdio."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104590,
+    "tags": [],
+    "enunciado": "Ivan, 35 anos, chega ao pronto socorro com queixa de dor torácica intensa, que melhora ao sentar-se. Além disso, queixa-se de coração acelerado, di(cid:45)culdade para respirar e tosse seca. Possui antecedente pessoal de febre reumática há 2 anos. Após realização de um eletrocardiograma e exames laboratoriais, o paciente foi diagnosticado com Pericardite, que é uma in(cid:75)amação no pericárdio. Sobre essa estrutura que envolve o coração, assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O seio oblíquo do pericárdio é responsável por separar as artérias pulmonares das veias pulmonares, enquanto o seio transverso do pericárdio é responsável por separar as veias cavas inferior e superior."
+      },
+      {
+        "letra": "B",
+        "texto": "O pericárdio fibroso é um tecido conjuntivo denso que define os limites do mediastino médio."
+      },
+      {
+        "letra": "C",
+        "texto": "O líquido pericárdio tem a função de reduzir o atrito entre as camadas viscerais e parietais do pericárdio durante a movimentação do coração."
+      },
+      {
+        "letra": "D",
+        "texto": "As camadas do pericárdio de fora pra dentro são: pericárdio fibroso, lâmina parietal do pericárdio seroso, cavidade pericárdica, lâmina visceral do pericárdio seroso (epicárdio)."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104591,
+    "tags": [],
+    "enunciado": "Um paciente de 20 anos foi vítima de um ferimento por arma de fogo (FAF) em região torácica há cerca de 30 minutos. Ao chegar na sala de atendimento de trauma, entre as diversas alterações de exame físico, percebeu-se uma ausculta cardíaca reduzida e hipotensão arterial, sendo levantada a hipótese de Tamponamento Pericárdico (líquido ao redor do coração, dentro da cavidade pericárdica, restringindo as contrações cardíacas). Sobre o pericárdio e a cavidade pericárdica, pode-se afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O pericárdio é um saco fibrosseroso formado por uma única camada de tecido que envolve apenas o coração, sem qualquer relação com os grandes vasos."
+      },
+      {
+        "letra": "B",
+        "texto": "Tem relação íntima com o osso esterno através dos ligamentos esternopericárdicos superior e inferior, e com o diafragma pelo ligamento pericárdicofrênico."
+      },
+      {
+        "letra": "C",
+        "texto": "O pericárdio é formado por 3 camadas: pericárdio fibroso, mais externo, pericárdio seroso, mais interno, e pericárdio intermembranoso, que fica entre o fibroso e seroso."
+      },
+      {
+        "letra": "D",
+        "texto": "A cavidade pericárdica tem como principal função ser um reservatório de líquido drenado pelas artérias coronárias, permitindo o relaxamento do coração."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104592,
+    "tags": [],
+    "enunciado": "Sobre as considerações anatômicas para a cirurgia cardíaca, assinale a correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O seio coronário é responsável pela irrigação do átrio direito."
+      },
+      {
+        "letra": "B",
+        "texto": "A valva atrioventricular esquerda possui três cúspides: septal, anterolateral e posteromedial."
+      },
+      {
+        "letra": "C",
+        "texto": "O nó sinusal se localiza na junção da veia cava superior com o átrio direito."
+      },
+      {
+        "letra": "D",
+        "texto": "A valva aórtica tem sua topografia normal no tronco de saída do ventrículo direito. 4000187071"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104593,
+    "tags": [],
+    "enunciado": "Assinale a alternativa que apresenta a principal repercussão quando há queda do débito cardíaco.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Má perfusão tecidual."
+      },
+      {
+        "letra": "B",
+        "texto": "Hipotensão arterial."
+      },
+      {
+        "letra": "C",
+        "texto": "Pulsos periféricos reduzidos."
+      },
+      {
+        "letra": "D",
+        "texto": "Extremidades frias. 4000145630"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104594,
+    "tags": [],
+    "enunciado": "Em relação às cardiopatias fetais, assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O sistema cardiovascular composto pelo coração, vasos e sanguíneas origina-se da camada germinativa endodérmica."
+      },
+      {
+        "letra": "B",
+        "texto": "O “septo primum” divide o átrio totalmente, permitindo a separação dessas duas cavidades."
+      },
+      {
+        "letra": "C",
+        "texto": "As valvas aórtica e pulmonar são formadas entre a sétima e nona semana de gravidez, completando assim o circuito cardiorrespiratório."
+      },
+      {
+        "letra": "D",
+        "texto": "O sistema de condução do coração fetal está maduro ao redor da 16ª semana de vida intrauterina. 4000129938"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104595,
+    "tags": [],
+    "enunciado": "Em relação à investigação complementar das cardiopatias, assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Baixa voltagem do QRS e alternância elétrica sugerem derrame pericárdico."
+      },
+      {
+        "letra": "B",
+        "texto": "Cintilografia com zona de hipoperfusão em repouso e no esforço indica necrose."
+      },
+      {
+        "letra": "C",
+        "texto": "A presença de onda U no ECG é um sinal de isquemia miocárdica."
+      },
+      {
+        "letra": "D",
+        "texto": "Ecocardiograma transtorácico na Estenose Aórtica é o exame de escolha para o acompanhamento.  Respostas: 1 C 2 C 3 B 4 A 5 D 6 C 7 A 8 C 9 D 10 A 11 B 12 C 13 C 14 B 15 C 16 C 17 B 18 A 19 B 20 B 21 B 22 B 23 A 24 C 25 B 26 A 27 C 28 A 29 C 30 D 31 D 32 D 33 A 34 C 35 C 36 B 37 D 38 A 39 C 40 A 41 C 42 C 43 D 44 A 45 A 46 B 47 D 48 B 49 B 50 B 51 C 52 A 53 D 54 D 55 D 56 D 57 C 58 B 59 D 60 C 61 C 62 B 63 A 64 C 65 B 66 C 67 B 68 B 69 D 70 A 71 D 72 C 73 B 74 B 75 A 76 B 77 C 78 A 79 D 80 C"
+      }
+    ],
+    "resposta_correta": "C"
+  }
+]

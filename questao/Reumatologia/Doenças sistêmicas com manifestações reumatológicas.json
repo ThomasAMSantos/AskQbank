@@ -1,0 +1,741 @@
+[
+  {
+    "id": 11682,
+    "tags": [],
+    "enunciado": "Menino, 10 meses de idade, com aumento de volume nos joelhos, evolução de 30 dias ao iniciar a engatinhar. Sem outras queixas e restante do exame físico normal, exceto edema em ambos joelhos sem sinais (cid:42)ogísticos. Hemograma normal, tap normal e ttpa (tempo de tromboplastina parcial ativado) prolongado. Qual o diagnóstico mais provável?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Artrite séptica."
+      },
+      {
+        "letra": "B",
+        "texto": "Artrite reumatóide juvenil."
+      },
+      {
+        "letra": "C",
+        "texto": "Hemofilia."
+      },
+      {
+        "letra": "D",
+        "texto": "Púrpura trombocitopênica imunológica. 4000230058"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11683,
+    "tags": [],
+    "enunciado": "Homem de 67 anos de idade comparece ao ambulatório com queixa de \"in(cid:42)amação\" no pé. Nega dor no local. Além disso, também se queixa de redução crônica da sensibilidade nos pés. Ao exame, apresenta a lesão que pode ser vista na imagem a seguir, a qual tem calor e eritema locais: Qual é a doença de base que o paciente tem que causou as alterações clínicas presentes no caso descrito?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Lúpus eritematoso sistêmico"
+      },
+      {
+        "letra": "B",
+        "texto": "Hipotireoidismo"
+      },
+      {
+        "letra": "C",
+        "texto": "Diabetes"
+      },
+      {
+        "letra": "D",
+        "texto": "Osteoartrite"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11684,
+    "tags": [],
+    "enunciado": "João Lucas, dois anos, foi internado com história de aumento de volume do joelho esquerdo. Negava febre, perda de peso, astenia ou outras queixas clínicas. Exame físico estava normal, exceto pela presença de aumento de volume da articulação do joelho esquerdo. Realizada punção articular que demonstrou hemartrose. Mãe refere que paciente apresentou sangramento no nascimento dos dentes. Tendo em vista a principal hipótese diagnóstica, o exame laboratorial que mais provavelmente estará alterado é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "prova do laço."
+      },
+      {
+        "letra": "B",
+        "texto": "tempo de protrombina."
+      },
+      {
+        "letra": "C",
+        "texto": "contagem de plaquetas."
+      },
+      {
+        "letra": "D",
+        "texto": "tempo de tromboplastina parcial ativada."
+      },
+      {
+        "letra": "E",
+        "texto": "tempo de sangramento."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11685,
+    "tags": [],
+    "enunciado": "Homem, 55 anos, apresenta quadro de dor progressiva em mãos e joelhos. Refere acompanhamento médico por diabetes mellitus tipo 2 e impotência sexual. Antecedente familiar de cirrose hepática. Exame físico: aumento de volume bilateral nas articulações metacarpofalangeanas 2 e 3 e dos joelhos. Realizadas radiogra(cid:70)as simples que evidenciaram: osteó(cid:70)tos em gancho nas 2a e 3a articulações metacarpofalangeanas, diminuição do espaço articular e calci(cid:70)cação dos meniscos nos joelhos. Exames laboratoriais: hemograma, função renal e provas in(cid:42)amatórias normais; anticorpo antipeptídeo citrulinado cíclico negativo. Além da analgesia, assinale a alternativa que apresenta a forma correta de tratamento.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Flebotomia para sangria e quelante de ferro."
+      },
+      {
+        "letra": "B",
+        "texto": "Azatioprina."
+      },
+      {
+        "letra": "C",
+        "texto": "Hidroxicloroquina."
+      },
+      {
+        "letra": "D",
+        "texto": "Pulsoterapia com metilprednisolona."
+      },
+      {
+        "letra": "E",
+        "texto": "Ácido fólico."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11686,
+    "tags": [],
+    "enunciado": "Mulher de 65 anos procura serviço médico com queixa de fraqueza muscular proximal nos últimos 3 meses, que di(cid:70)culta pentear o cabelo e levantar das cadeiras sem auxílio. Relata também lesões eritematosas em metacarpofalangeanas e interfalangeanas proximais. Nega disfagia ou disfonia. Exame físico con(cid:70)rmou redução de força em cintura escapular e pélvica, além de pápulas de Gottron. Exames laboratoriais demonstraram elevação acentuada de enzimas musculares. De acordo com a principal hipótese, qual a conduta adequada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pulsoterapia com metilprednisolona, seguida de ciclofosfamida."
+      },
+      {
+        "letra": "B",
+        "texto": "Investigação de timoma e, se presente, ressecção cirúrgica."
+      },
+      {
+        "letra": "C",
+        "texto": "Rastreio de neoplasia."
+      },
+      {
+        "letra": "D",
+        "texto": "Introdução de antimalárico. Se não houver resposta, introduzir metotrexato."
+      },
+      {
+        "letra": "E",
+        "texto": "Introdução de baixas doses de prednisona (5 mg/dia) e filtro solar nas lesões. 4000170206"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11687,
+    "tags": [],
+    "enunciado": "6. Homem, 60a, refere perda progressiva de sensibilidade em pés, com calosidades frequentes e feridas que demoram para cicatrizar, além de inchaço permanente no pés. Refere dor e di(cid:70)culdade para apoiar o pé direito no chão há um ano. Antecedente Pessoal: diabete melito há 25 anos e hipertenso há 15 anos, m uso de insulina, metformina, losartana, carvedilol, furosemida, sinvastatina e cilostazol. Exame físico das extremidades e radiograma de pé: COM BASE NAS IMAGENS A HIPÓTESE DIAGNÓSTICA É: Essa questão possui comentário do professor no site 4000141193",
+    "alternativas": [],
+    "resposta_correta": null
+  },
+  {
+    "id": 11688,
+    "tags": [],
+    "enunciado": "Paciente, 19 anos, portador de hemo(cid:70)lia B, procura serviço médico com queixa de dor, calor, edema em joelho direito de início há 4 horas. Ao exame clínico, o estado geral está preservado, sem sinais de toxemia. Posição antálgica em (cid:42)exão de joelho direito, com calor, rubor no mesmo local, sem outras anormalidades. Frente ao quadro, marque a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A artrocentese deve ser realizada devido à suspeita de artrite séptica"
+      },
+      {
+        "letra": "B",
+        "texto": "A reposição de plasma fresco congelado é o tratamento de escolha"
+      },
+      {
+        "letra": "C",
+        "texto": "O uso de Prednisona está indicado para efeito anti-inflamatório"
+      },
+      {
+        "letra": "D",
+        "texto": "A reposição de fator VIII recombinante na dose de 5000 UI a cada 12 horas por 3 dias é o tratamento mais eficaz"
+      },
+      {
+        "letra": "E",
+        "texto": "Apenas compressa de gelo e repouso serão suficientes para resolução do quadro"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11689,
+    "tags": [],
+    "enunciado": "Mulher, 66 anos, comparece ao ambulatório de Reumatologia por quadro de dor articular em interfalangeanas proximais e distais que piora com a movimentação, melhora com repouso, havendo rigidez matinal de aproximadamente 10 minutos. Nega despertar noturno pela dor. Durante avaliação laboratorial, visto VHS DE 30 mm, proteína C reativa de 0,3 mg/dl, FAN não reagente e Fator reumatoide látex de 20 UI/ml (Valor de referência de 14 UI/ml). Assinale a alternativa que indica corretamente qual a principal hipótese diagnóstica.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "pseudogota"
+      },
+      {
+        "letra": "B",
+        "texto": "artrite gotosa"
+      },
+      {
+        "letra": "C",
+        "texto": "artrite reumatoide"
+      },
+      {
+        "letra": "D",
+        "texto": "artrite psoriásica"
+      },
+      {
+        "letra": "E",
+        "texto": "osteoartropatia hipertrófica"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11690,
+    "tags": [],
+    "enunciado": "Uma mulher de 48 anos queixa-se de dor e edema nas articulações das mãos, punhos e joelhos há 2 meses. Há di(cid:70)culdade para movimentar essas articulações nas primeiras 3 horas da manhã. É portadora de adenocarcinoma de pulmão, e está aguardando o início da quimioterapia. O exame físico revela dor à palpação, redução da amplitude de movimento e aumento de volume das articulações metacarpofalangeanas, interfalangeanas proximais, punhos e joelhos. Sem outras anormalidades. Exames de laboratório: Hg: 10,4g/dL; LG: 6.760/mm³; plq: 187.000/mm³; PCR: 15mg/dL; FR: 6UI/mL; antiCCP: 45UI/mL; ácido úrico 8,1md/dL. A partir do caso descrito, assinale a alternativa que apresenta o diagnóstico MAIS PROVÁVEL para essa paciente.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Artrite paraneoplásica."
+      },
+      {
+        "letra": "B",
+        "texto": "Artrite reumatoide."
+      },
+      {
+        "letra": "C",
+        "texto": "Gota poliarticular."
+      },
+      {
+        "letra": "D",
+        "texto": "Osteoartrite."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11691,
+    "tags": [],
+    "enunciado": "Os nódulos de Heberden são características de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Artopatia de Jaccoud"
+      },
+      {
+        "letra": "B",
+        "texto": "Artrite psoriásica"
+      },
+      {
+        "letra": "C",
+        "texto": "Osteoartrite"
+      },
+      {
+        "letra": "D",
+        "texto": "Osteoartropatia hipertrófica"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11692,
+    "tags": [],
+    "enunciado": "A Síndrome da Mobilidade Articular Limitada caracteriza-se pela deformidade em flexão dos dedos das mãos de Diabéticos, apresenta como achados epidemiológicos os seguintes aspectos, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Embora possa ocorrer precocemente no curso da doença, é mais comum em portadores de Diabetes Mellitus tipo 2 (DM2) com controle inadequado e longa evolução."
+      },
+      {
+        "letra": "B",
+        "texto": "A incidência da quiroartropatia no DM1 já foi maior e diminuiu nos últimos 20 a 30 anos, provavelmente como consequência da intensificação do controle glicêmico que ocorreu nessas décadas."
+      },
+      {
+        "letra": "C",
+        "texto": "Alterações musculoesqueléticas são mais comuns que a retinopatia em portadores de DM1 de longa evolução, deles, sendo que a limitação da mobilidade articular ocorreu em 22% dos casos."
+      },
+      {
+        "letra": "D",
+        "texto": "Juntamente com a quiroartropatia, as outras alterações das mãos discutidas a seguir possibilitam introduzir um conceito genérico de “mão diabética”."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11693,
+    "tags": [],
+    "enunciado": "A quiroartropatia diabética, também chamada de Síndrome Da Mobilidade Articular Limitada, caracteriza-se pelo achado de diversas alterações, sendo apenas INCORRETA a alternativa:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Deformidade em flexão dos dedos das mãos."
+      },
+      {
+        "letra": "B",
+        "texto": "Resulta em limitação da extensão das articulações metacarpofalangianas e interfalangianas."
+      },
+      {
+        "letra": "C",
+        "texto": "Ocorre afinamento da pele, do tecido conjuntivo periarticular e da fáscia palmar."
+      },
+      {
+        "letra": "D",
+        "texto": "Em casos mais graves, acomete também outras articulações."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11694,
+    "tags": [],
+    "enunciado": "O que torna os pacientes diabéticos mais suscetíveis a lesão tecidual, infecção, inclusive desenvolvimento de neurosteoartropatia de Charcot, seria uma resposta da denervação com implicação no controle neurovascular, resultando em alteração do (cid:42)uxo capilar, oxigenação, (cid:70)ltração de (cid:42)uidos e resposta inflamatória. Sendo CORRETO se considerar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Essa cadeia de resposta denota a ação da polineuropatia diabética (PND) em microvasos com liberação de neuropeptídios vasoconstrictores (substância P, calcitonin gene-related peptide – CGRP, peptídeo relacionado com o gene da calcitonina e fator de necrose tumoral alfa TNF-a."
+      },
+      {
+        "letra": "B",
+        "texto": "Essa cadeia de resposta não denota a ação da polineuropatia diabética (PND) em microvasos com liberação de neuropeptídios vasodilatadores (substância P, calcitonin gene-related peptide – CGRP, peptídeo relacionado com o gene da calcitonina e fator de necrose tumoral alfa TNF-a."
+      },
+      {
+        "letra": "C",
+        "texto": "Essa cadeia de resposta denota a ação da polineuropatia diabética (PND) em macrovasos com liberação de neuropeptídios vasodilatadores (substância P, calcitonin gene-related peptide – CGRP, peptídeo relacionado com o gene da calcitonina e fator de necrose tumoral alfa TNF-a."
+      },
+      {
+        "letra": "D",
+        "texto": "Essa cadeia de resposta denota a ação da polineuropatia diabética (PND) em microvasos com liberação de neuropeptídios vasodilatadores (substância P, calcitonin gene-related peptide – CGRP, peptídeo relacionado com o gene da calcitonina e fator de necrose tumoral alfa TNF-a."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11695,
+    "tags": [],
+    "enunciado": "São manifestações reumatológicas do Diabetes Mellitus: (I) Capsulite adesiva; (II) Dedo em gatilho; (III) Contratura de Dupuytren; (IV) Artropatia de Charcot; (V) Neuropatias periféricas; Assinale a associação correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "II, III e IV, apenas"
+      },
+      {
+        "letra": "B",
+        "texto": "II, III e V, apenas"
+      },
+      {
+        "letra": "C",
+        "texto": "I, II, III e IV, apenas"
+      },
+      {
+        "letra": "D",
+        "texto": "I, II, III, IV e V"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11696,
+    "tags": [],
+    "enunciado": "Artrite periférica e hipocratismo digital são achados frequentes na oxicastropolia lupertró(cid:70)ca. A tríade clássica custa paranoplasia se complementa em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hipercalemia"
+      },
+      {
+        "letra": "B",
+        "texto": "Ginecosmatia"
+      },
+      {
+        "letra": "C",
+        "texto": "Livedo recicular"
+      },
+      {
+        "letra": "D",
+        "texto": "Periostite de ossos longos"
+      },
+      {
+        "letra": "E",
+        "texto": "Hipercalcemia"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11697,
+    "tags": [],
+    "enunciado": "Homem, 53 anos de idade, com dor progressiva em mãos e joelhos. História familiar de cirrose hepática. Acompanha com endocrinologista por diabetes mellitus e impotência sexual. Ao exame físico, apresenta discreto aumento de volume bilateral nas 2ª e 3ª metacarpofalângicas e joelhos. Nas radiogra(cid:70)as, notam-se osteó(cid:70)tos em gancho nas 2ª e 3ª metacarpofalângicas e calci(cid:70)cação dos meniscos em joelhos. Qual o diagnóstico do paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Osteoartrite primária."
+      },
+      {
+        "letra": "B",
+        "texto": "Gota."
+      },
+      {
+        "letra": "C",
+        "texto": "Artrite reumatoide."
+      },
+      {
+        "letra": "D",
+        "texto": "Artropatia por hemocromatose."
+      },
+      {
+        "letra": "E",
+        "texto": "Lúpus eritematoso sistêmico."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11698,
+    "tags": [],
+    "enunciado": "Marque a afirmativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Na doença de Addison a produção de glicocorticoides esta aumentada."
+      },
+      {
+        "letra": "B",
+        "texto": "O hiperaldosteronismo primário é condição clínica caracterizada por produção excessiva de aldosterona pelo córtex suprarrenal."
+      },
+      {
+        "letra": "C",
+        "texto": "A Doença de Behçet está associada a tumor maligno da suprarrenal."
+      },
+      {
+        "letra": "D",
+        "texto": "Na hemocromatose o ferro corporal esta diminuído."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11699,
+    "tags": [],
+    "enunciado": "Paciente do sexo feminino, 25 anos de idade, apresenta-se na consulta com queixa de dor, edema e calor local em articulações metacarpofalangianas do 2°, 3° e 4° quirodáctilos da mão esquerda, e interfalangianas proximais do 2°, 4° e 5° quirodáctilos da mão direita. Relata que tais queixas surgiram há cerca de 3 semanas. Relata que não é portadora de nenhuma comorbidade, mas que uma semana antes do início do quadro apresentou sinais de infecção de vias aéreas superiores. Essa paciente deve apresentar como diagnóstico principal:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Artrite reumatoide."
+      },
+      {
+        "letra": "B",
+        "texto": "Artrite psoriásica."
+      },
+      {
+        "letra": "C",
+        "texto": "Artrite reativa."
+      },
+      {
+        "letra": "D",
+        "texto": "Artrite séptica."
+      },
+      {
+        "letra": "E",
+        "texto": "Artrite paraneoplásica."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11700,
+    "tags": [],
+    "enunciado": "Um paciente com sessenta e cinco anos de idade, portador de doença pulmonar obstrutiva crônica (DPOC), procurou o serviço de emergência informando que, há duas horas, havia acumulado uma expectoração sanguinolenta em quantidade equivalente a meia xícara de café. O exame físico mostrou sinais vitais normais, baqueteamento dos dedos e ausculta pulmonar com murmúrio vesicular diminuído globalmente.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "respeito desse caso clínico, julgue o item subsecutivo. O baqueteamento de dedos decorre, provavelmente, do quadro de DPOC."
+      },
+      {
+        "letra": "A",
+        "texto": "Certo."
+      },
+      {
+        "letra": "B",
+        "texto": "Errado."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11701,
+    "tags": [],
+    "enunciado": "Um paciente com sessenta e cinco anos de idade, portador de doença pulmonar obstrutiva crônica (DPOC), procurou o serviço de emergência informando que, há duas horas, havia acumulado uma expectoração sanguinolenta em quantidade equivalente a meia xícara de café. O exame físico mostrou sinais vitais normais, baqueteamento dos dedos e ausculta pulmonar com murmúrio vesicular diminuído globalmente.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "respeito desse caso clínico, julgue o item subsecutivo."
+      },
+      {
+        "letra": "A",
+        "texto": "broncoscopia é o procedimento imediato a ser adotado para o paciente nesse caso."
+      },
+      {
+        "letra": "A",
+        "texto": "Certo."
+      },
+      {
+        "letra": "B",
+        "texto": "Errado."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11702,
+    "tags": [],
+    "enunciado": "Um paciente com sessenta e cinco anos de idade, portador de doença pulmonar obstrutiva crônica (DPOC), procurou o serviço de emergência informando que, há duas horas, havia acumulado uma expectoração sanguinolenta em quantidade equivalente a meia xícara de café. O exame físico mostrou sinais vitais normais, baqueteamento dos dedos e ausculta pulmonar com murmúrio vesicular diminuído globalmente.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "respeito desse caso clínico, julgue o item subsecutivo. Pacientes com DPOC na classe de risco moderada, como o do caso mencionado, devem realizar (cid:70)sioterapia respiratória e ser tratados com beta-2 agonista de longa duração."
+      },
+      {
+        "letra": "A",
+        "texto": "Certo."
+      },
+      {
+        "letra": "B",
+        "texto": "Errado."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11703,
+    "tags": [],
+    "enunciado": "Acerca da Neuro-osteoartropatia Pé de Charcot, assinale a alternativa incorreta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pé de Charcot (doença neuropática articular) é consequência de lesões dos nervos, que impedem a percepção da dor articular por parte da pessoa afetada;"
+      },
+      {
+        "letra": "B",
+        "texto": "No início da doença um diagnóstico diferencial pode apontar artrite;"
+      },
+      {
+        "letra": "C",
+        "texto": "É extremamente raro a rigidez e a presença de líquido nas articulações afetadas por essa doença;"
+      },
+      {
+        "letra": "D",
+        "texto": "Embora o joelho seja, muitas vezes, o mais afetado, esta doença pode desenvolver-se em quase todas as articulações."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11704,
+    "tags": [],
+    "enunciado": "Em relação às doenças sistêmicas que mais comumente apresentam manifestações cardíacas, é CORRETO afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aortite, insuficiência cardíaca direita, insuficiência aórtica e mitral, são frequentes no Lúpus eritematoso sistêmico."
+      },
+      {
+        "letra": "B",
+        "texto": "Aneurisma aórtico e coronariano, prolapso das válvulas mitral e tricúspide são encontrados na Síndrome de Ehlers-Danlos."
+      },
+      {
+        "letra": "C",
+        "texto": "Cardiomiopatia restritiva ou dilatada, anormalidades do sistema de condução, tromboses arterial e venosas estão presentes nas artrites soronegativas."
+      },
+      {
+        "letra": "D",
+        "texto": "Pericardite, endocardite de Libman-Sacks, doença valvar tricúspide e pulmonar fazem parte do quadro de Carcinóide Maligno."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11705,
+    "tags": [],
+    "enunciado": "Artropatias associadas a doenças endocrinológicas As artrites, artralgias e/ou mialgias podem ser características importantes de varias doenças sistêmicas e constituir os sintomas na apresentação para alguns destes transtornos. Em relação às doenças endócrinas associadas à artrite, assinale a opção correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A síndrome da mão rígida diabética ocorre em pacientes diabete melito tipo 1 independente da duração ou controle clínico, com alterações cutâneas e contratura dos dedos que lembram a esclerodermia."
+      },
+      {
+        "letra": "B",
+        "texto": "No hiperparatireoidismo grave, mialgias e artralgias indefinidas lembram o diagnóstico de fibromialgia, podendo ser observadas miopatia proximal reversível, dor óssea e osteíte fibrosa cística."
+      },
+      {
+        "letra": "C",
+        "texto": "Na acromegalia, os pacientes podem desenvolver osteoartrite típica distal e de coluna torácica, embora as mãos revelem as alterações radiológicas mais características."
+      },
+      {
+        "letra": "D",
+        "texto": "Síndrome do túnel do carpo, fenômeno de Raynaud ou dor e rigidez musculares similares à fibromialgia e polimialgia reumática podem ser manifestações de hipertireoidismo."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11706,
+    "tags": [],
+    "enunciado": "O aspecto do pé de Charcot é observado nos casos de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tromboangeíte obliterante."
+      },
+      {
+        "letra": "B",
+        "texto": "Diabetes mellitus."
+      },
+      {
+        "letra": "C",
+        "texto": "Aterosclerose obliterante."
+      },
+      {
+        "letra": "D",
+        "texto": "Esclerodermia."
+      },
+      {
+        "letra": "E",
+        "texto": "Doença de Raynaud."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11707,
+    "tags": [],
+    "enunciado": "Doenças sistêmicas com manifestações reumatológicas Associe os achados característicos à doença mais provável. 1- Fenômeno de Raynaud transitório; 2- Início agudo de ptose de supercílio direito e desvio de comissura labial à direita; 3- Vesicopústulas hemorrágicas; 4- Atrofia óptica isquêmica; 5- Oligoartrite inflamatória em homem de 21 anos; 6- Deformidade pela subluxação da primeira metacarpofalangeana em mulher de 66 anos; 7- Baqueteamento digital, periostite e edema doloroso em ossos e articulações. a) Acromegalia; b) Arterite temporal; c) Síndrome de Reiter; d) Artrite relacionada à doença de Lyme; e) Carcinoma broncogênico; f) Artrite gonocócica disseminada.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1d, 2e, 3f, 4a, 5d, 6b."
+      },
+      {
+        "letra": "B",
+        "texto": "1b, 2e, 3c, 4b, 5a, 7d."
+      },
+      {
+        "letra": "C",
+        "texto": "1b, 2f, 3a, 4d, 5c, 7b."
+      },
+      {
+        "letra": "D",
+        "texto": "1a, 2d, 3f, 4b, 5c, 7e."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11708,
+    "tags": [],
+    "enunciado": "Das alternativas abaixo, qual apresenta a neoplasia mais comumente associada à osteoartropatia hipertró(cid:70)ca secundária?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Leucemia."
+      },
+      {
+        "letra": "B",
+        "texto": "Adenocarcinoma pulmonar."
+      },
+      {
+        "letra": "C",
+        "texto": "Tumor papilífero de tiroide."
+      },
+      {
+        "letra": "D",
+        "texto": "Colangiocarcinoma."
+      },
+      {
+        "letra": "E",
+        "texto": "Leiomioma gástrico."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11709,
+    "tags": [],
+    "enunciado": "Homem de 35 anos, com hemocromatose hereditária há 8 anos (controlada com sangrias), procura atendimento por dor nos joelhos. Refere que a dor iniciou-se há cerca de 1 ano, com piora após atividade física, alternando com períodos de remissão de semanas. Há 3 meses, a dor adquiriu caráter contínuo, sendo aliviada com repouso, o que tem prejudicado as atividades diárias do paciente. Exame físico: joelhos moderadamente aquecidos, com leve perda da amplitude de movimento e crepitações à mobilização passiva. Qual terapêutica farmacológica deve ser primeiramente iniciada nesta paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ibuprofeno."
+      },
+      {
+        "letra": "B",
+        "texto": "Colchicina."
+      },
+      {
+        "letra": "C",
+        "texto": "Metilprednisolona."
+      },
+      {
+        "letra": "D",
+        "texto": "Condroitina/glicosamina."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11710,
+    "tags": [],
+    "enunciado": "Um idoso de 73 anos inicia quadro de poliartrite simétrica de pequenas articulações das mãos, cumulativa, com rigidez pós-repouso de 90 minutos; realiza radiogra(cid:70)as de mãos, que mostram osteopenia justa- articular. Seu diagnóstico mais provável é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "RS3PE."
+      },
+      {
+        "letra": "B",
+        "texto": "Osteoartrose."
+      },
+      {
+        "letra": "C",
+        "texto": "Artrite reumatoide."
+      },
+      {
+        "letra": "D",
+        "texto": "Osteoartropatia hipertrófica."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11711,
+    "tags": [],
+    "enunciado": "Mulher, 54 anos, apresenta dor em articulações de mãos há 1 ano. Relata rigidez matinal de 30 minutos. As alterações de exame físico são mostradas na fotografia (VER IMAGEM). O diagnóstico mais provável é de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "artrose."
+      },
+      {
+        "letra": "B",
+        "texto": "artrite psoriásica."
+      },
+      {
+        "letra": "C",
+        "texto": "artrite reumatoide."
+      },
+      {
+        "letra": "D",
+        "texto": "osteoartropatia hipertrófica."
+      },
+      {
+        "letra": "E",
+        "texto": "lúpus eritematoso sistêmico.  Respostas: 1 C 2 C 3 D 4 A 5 C 6 7 C 8 D 9 B 10 C 11 A 12 C 13 D 14 D 15 B 16 D 17 B 18 C 19 B 20 B 21 A 22 A 23 B 24 B 25 B 26 D 27 B 28 A 29 C 30 A"
+      }
+    ],
+    "resposta_correta": "A"
+  }
+]

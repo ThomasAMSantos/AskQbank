@@ -1,0 +1,5329 @@
+[
+  {
+    "id": 10887,
+    "tags": [],
+    "enunciado": "Obstétrico USG obst",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "mensuração da transluscência nucal (TN) marcador de doenças cromossomiais, deve ser realizada por meio de ultrassonografia"
+      },
+      {
+        "letra": "A",
+        "texto": "entre a 6ª e 8ª semana."
+      },
+      {
+        "letra": "B",
+        "texto": "entre a 8ª e 10ª semana e 6 dias."
+      },
+      {
+        "letra": "C",
+        "texto": "entre a 11ª e 13ª semana e 6 dias."
+      },
+      {
+        "letra": "D",
+        "texto": "na 20ª semana. 4000235376"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10888,
+    "tags": [],
+    "enunciado": "O exame de ecocardiograma fetal é realizado na gestação para veri(cid:50)car melhor as estruturas cardíacas fetais, são indicações para esse exame na gestação:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Arritmia cardíaca fetal, cromossomopatia fetal, crescimento intrauterino restrito."
+      },
+      {
+        "letra": "B",
+        "texto": "Arritmia cardíaca fetal, crescimento adequado intrauterino, cromossomopatia fetal."
+      },
+      {
+        "letra": "C",
+        "texto": "Arritmia cardíaca fetal, suspeita de mal formação cardíaca fetal, crescimento adequado intrauterino"
+      },
+      {
+        "letra": "D",
+        "texto": "Suspeita de mal formação cardíaca fetal, crescimento intrauterino restrito, investigação de idade gestacional. 4000232503"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10889,
+    "tags": [],
+    "enunciado": "No estudo doppler-velocimétrico obstétrico, considere os itens abaixo: a) A obtenção do índice de pulsatilidade da artéria umbilical é resultado da equação: sístole - diástole / velocidade média. b) A avaliação do sonograma da artéria umbilical deve, preferencialmente, ser realizada próxima à inserção do cordão umbilical. c) A função placentária pode ser investigada por meio do sonograma das artérias uterinas. É(são) correto(s) o(s) item(ns):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "apenas a"
+      },
+      {
+        "letra": "B",
+        "texto": "apenas b e c"
+      },
+      {
+        "letra": "C",
+        "texto": "apenas b e c"
+      },
+      {
+        "letra": "D",
+        "texto": "apenas a e b"
+      },
+      {
+        "letra": "E",
+        "texto": "apenas c. 4000232373"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10890,
+    "tags": [],
+    "enunciado": "Assinale a alternativa que apresenta, corretamente, a ordem de aparecimento das estruturas embrionárias em um ultrassom obstétrico inicial.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Saco gestacional, vesícula vitelínica, embrião, batimentos cardioembrionários."
+      },
+      {
+        "letra": "B",
+        "texto": "Vesícula vitelínica, embrião, batimentos cardioembrionários, saco gestacional."
+      },
+      {
+        "letra": "C",
+        "texto": "Batimentos cardioembrionários, saco gestacional, vesícula vitelínica, embrião."
+      },
+      {
+        "letra": "D",
+        "texto": "Vesícula vitelínica, batimentos cardioembrionários, embrião, saco gestacional."
+      },
+      {
+        "letra": "E",
+        "texto": "Saco gestacional, embrião, batimentos cardioembrionários, vesícula vitelínica. 4000230891"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10891,
+    "tags": [],
+    "enunciado": "Uma gestante de 10 semanas e 6 dias vem à consulta de pré-natal. Ela não apresenta fatores de risco ou queixas. Após a consulta, o médico agenda uma ultrassonogra(cid:50)a para ser realizada em 1 semana. O tipo de ultrassonografia que ela deverá realizar é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Obstétrica transvaginal com doppler das artérias ovarianas para ver a função do corpo lúteo."
+      },
+      {
+        "letra": "B",
+        "texto": "Morfológica de primeiro trimestre (medir a translucência nucal)."
+      },
+      {
+        "letra": "C",
+        "texto": "Morfológica do segundo trimestre."
+      },
+      {
+        "letra": "D",
+        "texto": "Obstétrica para ver o fenômeno de centralização. 4000230513"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10892,
+    "tags": [],
+    "enunciado": "É causa de hidropisia fetal não imune:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "pré-eclâmpsia;"
+      },
+      {
+        "letra": "B",
+        "texto": "obesidade materna;"
+      },
+      {
+        "letra": "C",
+        "texto": "anomalia de Ebstein;"
+      },
+      {
+        "letra": "D",
+        "texto": "cisto da bolsa de Blake;"
+      },
+      {
+        "letra": "E",
+        "texto": "síndrome de Arnold-Chiari."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10893,
+    "tags": [],
+    "enunciado": "Uma gestante realiza ultrassonogra(cid:50)a com 18 semanas e é evidenciada adramnia. O feto está vivo, com bexiga muito distendida. A causa mais provável da adramnia nesse caso é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "válvula de uretra posterior;"
+      },
+      {
+        "letra": "B",
+        "texto": "sequência da extrofia cloacal;"
+      },
+      {
+        "letra": "C",
+        "texto": "malformação adenomatoide cística;"
+      },
+      {
+        "letra": "D",
+        "texto": "hipoplasia pulmonar fetal;"
+      },
+      {
+        "letra": "E",
+        "texto": "displasia renal multicística."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10894,
+    "tags": [],
+    "enunciado": "Uma gestante de 29 anos realizou ultrassonogra(cid:50)a morfológica de 1º trimestre que evidenciou transluscência nucal de 3,8mm. Não foram observadas outras alterações durante o exame. Foi realizada biopsia de vilo corial para cariótipo cujo resultado foi 46, XX. Diante desses achados, o melhor aconselhamento à paciente será",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "realizar ultrassonografia morfológica de 2º trimestre e ecocardiografia."
+      },
+      {
+        "letra": "B",
+        "texto": "tranquilizar a gestante, pois foi confirmado que o feto é completamente saudável."
+      },
+      {
+        "letra": "C",
+        "texto": "indicar interrupção da gestação, devido à inviabilidade de vida após o parto."
+      },
+      {
+        "letra": "D",
+        "texto": "iniciar o uso de ácido fólico 5mg por dia, até o termo da gestação."
+      },
+      {
+        "letra": "E",
+        "texto": "repetir a medida da transluscência nucal e dos outros marcadores no 2º trimestre."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10895,
+    "tags": [],
+    "enunciado": "Gestante é submetida a exame ultrassonográ(cid:50)co obstétrico com 24 semanas, que descreve herniação de alças intestinais para dentro da cavidade amniótica pela parede abdominal, à direita do cordão umbilical. Essas alças intestinais encontram-se livres no líquido amniótico. Não foram encontradas outras alterações estruturais no feto. Acerca desse caso, analise as afirmativas a seguir. I. Deverá ser oferecido estudo do cariótipo fetal, devido ao alto risco de aneuploidias associadas com essa malformação. II. Essa malformação é mais comum em mulheres jovens, com menos de 20 anos. III. A presença de dilatação de alças intestinais dentro do abdome pode ter associação com complicações pós-natais. Está correto o que se afirma em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "I e II, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "I e III, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "II e III, apenas."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II e III."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10896,
+    "tags": [],
+    "enunciado": "Uma gestante realiza ultrassonogra(cid:50)a com 24 semanas, sendo encontrado feto com peso fetal no percentil 99, nefromegalia, macroglossia e onfalocele. Tais achados são característicos na",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Síndrome de Crouzon."
+      },
+      {
+        "letra": "B",
+        "texto": "Síndrome de Seckel."
+      },
+      {
+        "letra": "C",
+        "texto": "Síndrome de Patau."
+      },
+      {
+        "letra": "D",
+        "texto": "Síndrome de Beckwith-Wiedemann."
+      },
+      {
+        "letra": "E",
+        "texto": "Síndrome de Pallister-Killian. 4000220502"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10897,
+    "tags": [],
+    "enunciado": "Uma médica pediatra procura um especialista em Medicina Fetal alegando que quer ter certeza se o seu feto não tem Síndrome de Down. No momento ela está com 12 semanas. Diante desse desejo da gestante, o mais adequado a oferecer é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "medida da TN e do osso nasal."
+      },
+      {
+        "letra": "B",
+        "texto": "teste pré-natal não invasivo (NIPT)."
+      },
+      {
+        "letra": "C",
+        "texto": "ultrassonografia morfológica de 2º trimestre."
+      },
+      {
+        "letra": "D",
+        "texto": "teste bioquímico (PAPP-A e hCG livre)"
+      },
+      {
+        "letra": "E",
+        "texto": "biopsia de vilo corial para cariótipo."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 10898,
+    "tags": [],
+    "enunciado": "Ao realizar ultrassonogra(cid:50)a com 16 semanas, o médico depara-se com os seguintes achados: encefalocele occipital, polidactilia pós- axial nas mãos de pés e rins aumentados de tamanho e displásicos. Assinale a opção que indica a síndrome mais provável associada a esses achados.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Síndrome de Edwards."
+      },
+      {
+        "letra": "B",
+        "texto": "Síndrome de Turner."
+      },
+      {
+        "letra": "C",
+        "texto": "Síndrome de Meckel-Gruber."
+      },
+      {
+        "letra": "D",
+        "texto": "Síndrome de Down."
+      },
+      {
+        "letra": "E",
+        "texto": "Síndrome de Ellis-van Creveld."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10899,
+    "tags": [],
+    "enunciado": "Gestante com 22 semanas realiza ultrassonogra(cid:50)a morfológica de 2º trimestre, sendo encontrado feto com os dois rins aumentados de tamanho, hiperecoicos, com perda da diferenciação corticomedular, não sendo visualizados cistos renais. Sem outras alterações aparentes no restante da morfologia. Diante desses achados, assinale a opção que indica o diagnóstico mais provável.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Doença renal policística autossômica recessiva."
+      },
+      {
+        "letra": "B",
+        "texto": "Doença renal policística autossômica dominante."
+      },
+      {
+        "letra": "C",
+        "texto": "Displasia renal multicística."
+      },
+      {
+        "letra": "D",
+        "texto": "Tumor de Wilms."
+      },
+      {
+        "letra": "E",
+        "texto": "Refluxo vesico-ureteral. 4000220499"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10900,
+    "tags": [],
+    "enunciado": "Na ultrassonogra(cid:50)a morfológica de primeiro trimestre, os achados mais frequentes na síndrome de Patau são",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a onfalocele e a acrania."
+      },
+      {
+        "letra": "B",
+        "texto": "a bradicardia e o higroma cístico."
+      },
+      {
+        "letra": "C",
+        "texto": "a taquicardia e a gastrosquise."
+      },
+      {
+        "letra": "D",
+        "texto": "a bradicardia e a onfalocele."
+      },
+      {
+        "letra": "E",
+        "texto": "a taquicardia e a holoprosencefalia. 4000220498"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 10901,
+    "tags": [],
+    "enunciado": "Sobre a malformação adenomatoide cística (MAC) dos pulmões, analise as afirmativas a seguir. I. É um hamartoma. II. Em casos em que há risco elevado de evolução para hidropsia, a corticoterapia é uma opção. III. A MAC tem tendência de aumentar seu volume a partir do terceiro trimestre. Está correto o que se afirma em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e II, apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "I e III, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "II e III, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "I, apenas."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II e III. 4000220496"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10902,
+    "tags": [],
+    "enunciado": "Uma gestante realiza ultrassonogra(cid:50)a com 12 semanas que encontra bexiga fetal medindo 17mm no eixo craniocaudal. Nesse caso, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É um exame normal, não necessitando de outros cuidados."
+      },
+      {
+        "letra": "B",
+        "texto": "Esse tipo de alteração acomete fetos masculinos."
+      },
+      {
+        "letra": "C",
+        "texto": "Será necessária cirurgia fetal em caso de normodramnia."
+      },
+      {
+        "letra": "D",
+        "texto": "Esses achados são compatíveis com o diagnóstico de Potter II."
+      },
+      {
+        "letra": "E",
+        "texto": "Deverá ser programada punção para esvaziamento vesical. 4000220494"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10903,
+    "tags": [],
+    "enunciado": "M.G.A., 23 anos, idade gestacional cronológica de 8 semanas, procura a medicina fetal para ultrassom obstétrico inicial. As imagens demonstram útero em anteversão, contornos regulares. Identi(cid:50)cado saco gestacional intrauterino, com diâmetro médio de 8 mm. Não identi(cid:50)cado embrião no interior do saco gestacional. Não identi(cid:50)cados sinais de descolamento ovular. Paciente sem queixas. De acordo com o caso acima, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Trata-se de gestação anembrionada."
+      },
+      {
+        "letra": "B",
+        "texto": "Deve-se repetir o ultrassom em cerca de 7-14 dias para controle evolutivo."
+      },
+      {
+        "letra": "C",
+        "texto": "Trata-se de ameaça de abortamento."
+      },
+      {
+        "letra": "D",
+        "texto": "Com essa medida de saco gestacional, já deveria ser visibilizada a vesícula vitelínica."
+      },
+      {
+        "letra": "E",
+        "texto": "A idade gestacional pelo ultrassom está compatível com a idade gestacional cronológica."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10904,
+    "tags": [],
+    "enunciado": "A avaliação ultrassonográ(cid:50)ca na gestação foi revolucionária no manejo pré-natal, muito embora seu uso rotineiro não tenha relatado redução de morbidade ou mortalidade neonatais quando aplicado à população geral. Sobre esse método, qual das afirmações abaixo está correta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É um método que utiliza radiação ionizante, não devendo ser utilizado de forma excessiva;"
+      },
+      {
+        "letra": "B",
+        "texto": "A quantidade de líquido amniótico não interfere na capacidade do examinador diagnosticar dismorfologias fetais;"
+      },
+      {
+        "letra": "C",
+        "texto": "Todas as dismorfologias podem ser observadas por meio da ultrassonografia;"
+      },
+      {
+        "letra": "D",
+        "texto": "O uso excessivo da ultrassonografia provoca cavitações subcutâneas, comprovadas em literatura médica;"
+      },
+      {
+        "letra": "E",
+        "texto": "A realização de exame ultrassonográfico entre 11 e 14 semanas permite avaliar o risco de aneuploidias. 4000215863"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 10905,
+    "tags": [],
+    "enunciado": "Gestante, 26 anos de idade, na 12ª semana de gestação, realiza ultrassonogra(cid:50)a (US) morfológica do 1° trimestre que revela feto com transluscência nucal de 2,0mm, osso nasal presente, batimentos cardíacos fetais de 158 bpm e abaulamento na parede abdominal compatível com onfalocele. Qual é a conduta mais adequada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Solicitar NIPT."
+      },
+      {
+        "letra": "B",
+        "texto": "Aguardar US morfológica do 2° trimestre."
+      },
+      {
+        "letra": "C",
+        "texto": "Realizar biópsia de vilo corial."
+      },
+      {
+        "letra": "D",
+        "texto": "Solicitar rastreamento bioquímico"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10906,
+    "tags": [],
+    "enunciado": "A translucência nucal (TN) é a representação ultrassonográ(cid:50)ca do (cid:85)uido, sob a pele, presente na região da nuca, no primeiro trimestre de gestação. A TN é um preditor para cromossomopatias. Dessa forma, considerando a técnica para a medida ultrassonográfica da TN é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a medida da TN deve ser feita colocando a barra transversal do caliper eletrônico na borda externa das linhas brancas horizontais que delimitam o espaço anecoico da TN."
+      },
+      {
+        "letra": "B",
+        "texto": "o comprimento cabeça-nádegas (CCN) do feto necessário para a medida da translucência nucal é entre 35 mm e 74 mm."
+      },
+      {
+        "letra": "C",
+        "texto": "a imagem deve ser magnificada para que apenas a cabeça e a parte superior do tórax ocupem pelo menos metade da tela."
+      },
+      {
+        "letra": "D",
+        "texto": "a medida deve ser repetida por pelo menos duas vezes e a menor medida deve ser anotada."
+      },
+      {
+        "letra": "E",
+        "texto": "deve ser obtido um corte sagital do feto, onde o osso nasal ecogênico e o palato retangular são vistos separadamente."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 10907,
+    "tags": [],
+    "enunciado": "São condições associadas à baixa expectativa de vida, EXCETO",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Trissomia 13."
+      },
+      {
+        "letra": "B",
+        "texto": "Trissomia 18."
+      },
+      {
+        "letra": "C",
+        "texto": "Síndrome de Klinefelter."
+      },
+      {
+        "letra": "D",
+        "texto": "Anencefalia."
+      },
+      {
+        "letra": "E",
+        "texto": "Holoprosencefalia."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10908,
+    "tags": [],
+    "enunciado": "Diversos índices do Doppler são utilizados na prática clínica para identi(cid:50)car fetos com maior risco de morbidade e morte perinatal que possam se bene(cid:50)ciar com monitorização ou interrupção eletiva da gestação. Assinale a alternativa que apresenta o achado de Doppler associado ao pior prognóstico fetal e à imediata interrupção da gestação, após 26 semanas de idade gestacional.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Artéria umbilical com diástole zero."
+      },
+      {
+        "letra": "B",
+        "texto": "Artéria umbilical com diástole reversa."
+      },
+      {
+        "letra": "C",
+        "texto": "Onda A reversa no ducto venoso."
+      },
+      {
+        "letra": "D",
+        "texto": "IP (índice de pulsatilidade) aumentado na artéria umbilical."
+      },
+      {
+        "letra": "E",
+        "texto": "IP diminuído na Artéria Cerebral Média (ACM). 4000214206"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10909,
+    "tags": [],
+    "enunciado": "Uma gestante de trinta anos de idade estava no consultório para uma consulta pré‑natal e uma médica a informou sobre a ultrassonografia morfológica do primeiro trimestre. Com base nessa situação hipotética e considerando as diretrizes atuais, assinale a alternativa que apresenta os marcadores de risco avaliados nesse exame para detecção de anormalidades cromossômicas, incluindo a síndrome de Down",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a medida do comprimento do úmero e a presença de defeitos cardíacos congênitos"
+      },
+      {
+        "letra": "B",
+        "texto": "apenas a translucência nucal, sendo outros marcadores, como o ducto venoso e o fluxo sanguíneo no tricúspide, irrelevantes"
+      },
+      {
+        "letra": "C",
+        "texto": "o ângulo frontomaxilar e a medida do comprimento do fêmur"
+      },
+      {
+        "letra": "D",
+        "texto": "a translucência nucal (TN), com valores normais abaixo de 2,5 mm, o osso nasal, que, quando ausente ou hipoplásico, pode indicar síndrome de Edwards e síndrome de Patau, e o Doppler do ducto venoso"
+      },
+      {
+        "letra": "E",
+        "texto": "a medida do comprimento cabeça‑nádega (CCN), para estimar o risco de anormalidades cromossômicas, associado à dosagem de estriol plasmático"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10910,
+    "tags": [],
+    "enunciado": "Exames ultrassonográficos No rastreamento das anomalias cromossômicas em ultrassom obstétrico de primeiro trimestre, além das trissomias dos cromossomos 13, 18 e 21, a medida da translucência nucal pode ter utilidade também para rastreamento da síndrome de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Klinenfelter."
+      },
+      {
+        "letra": "B",
+        "texto": "Turner."
+      },
+      {
+        "letra": "C",
+        "texto": "DiGeorge."
+      },
+      {
+        "letra": "D",
+        "texto": "Prader-Willi. 4000213249"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10911,
+    "tags": [],
+    "enunciado": "O teste pré-natal não invasivo (NIPT) realizado no primeiro trimestre da gestação, tem como método a pesquisa de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fragmentos de DNA fetal no sangue materno."
+      },
+      {
+        "letra": "B",
+        "texto": "Fragmentos de células descamativas fetais no líquido amniótico."
+      },
+      {
+        "letra": "C",
+        "texto": "Associação do ultrassom de primeiro trimestre + hcg beta no sangue materno."
+      },
+      {
+        "letra": "D",
+        "texto": "Pesquisa ultrassonografica de transluscência nucal + osso nasal + doppler de ducto venoso. 4000213244"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10912,
+    "tags": [],
+    "enunciado": "Um dos parâmetros analisados no doppler obstétrico é o índice de pulsatilidade, cuja fórmula é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "S-D/VM"
+      },
+      {
+        "letra": "B",
+        "texto": "A/B=S/D"
+      },
+      {
+        "letra": "C",
+        "texto": "A-B/A"
+      },
+      {
+        "letra": "D",
+        "texto": "S-a/VM 4000213239"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10913,
+    "tags": [],
+    "enunciado": "Primigesta de 29 anos inicia o pré-natal com 8 semanas de gestação calculada pela DUM e refere pequeno sangramento vaginal. Realiza exame de ultrassonogra(cid:50)a de urgência e o laudo mostra presença de saco gestacional tópico com diâmetro interno médio de 23 mm, sem embrião ou vesícula vitelínica.Assinale a conduta correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Realizar novo exame de ultrassonografia para reavaliação em 10 dias."
+      },
+      {
+        "letra": "B",
+        "texto": "Realizar novo exame de ultrassonografia para reavaliação em 14 dias."
+      },
+      {
+        "letra": "C",
+        "texto": "Considerar como gestação inviável e oferecer conduta ativa ao casal."
+      },
+      {
+        "letra": "D",
+        "texto": "Considerar como gestação inviável e confirmar com Beta-HCG sérico."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10914,
+    "tags": [],
+    "enunciado": "São indicações para ecocardiografia fetal de acordo com o protocolo Mãe Curitibana 2023:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Gestação gemelar dizigótica, transluscência nucal alterada, Golf Ball."
+      },
+      {
+        "letra": "B",
+        "texto": "Oligodrâmnio, hipotireoidismo, placenta prévia."
+      },
+      {
+        "letra": "C",
+        "texto": "Polidrâmnio, hiperparatireoidismo, crescimento intrauterino restrito."
+      },
+      {
+        "letra": "D",
+        "texto": "Diabetes mellitus, Hipertensão, colagenoses. 4000211289"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10915,
+    "tags": [],
+    "enunciado": "Pode-se a(cid:50)rmar que se suspeita de macrossomia fetal quando duas avaliações sucessivas na US do peso estimado do feto ou da circunferência abdominal estão acima do percentil:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "90"
+      },
+      {
+        "letra": "B",
+        "texto": "80"
+      },
+      {
+        "letra": "C",
+        "texto": "70"
+      },
+      {
+        "letra": "D",
+        "texto": "60"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10916,
+    "tags": [],
+    "enunciado": "Uma gestante recebe o diagnóstico de anencefalia com 12 semanas de gestação. É orientada sobre o prognóstico neonatal letal e, mesmo assim, optou pela continuidade da gestação. Tendo a patologia fetal como base, assinale a alternativa que apresenta, corretamente, a complicação a que estaria mais susceptível durante a gestação.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Diabetes gestacional"
+      },
+      {
+        "letra": "B",
+        "texto": "Placenta prévia"
+      },
+      {
+        "letra": "C",
+        "texto": "Polidramnia"
+      },
+      {
+        "letra": "D",
+        "texto": "Pré-eclâmpsia"
+      },
+      {
+        "letra": "E",
+        "texto": "Tromboembolismo venoso"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10917,
+    "tags": [],
+    "enunciado": "Assinale a alternativa que apresenta, corretamente, a anomalia fetal mais comumente observada em gestantes mais jovens.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Gastrosquise"
+      },
+      {
+        "letra": "B",
+        "texto": "Displasia esquelética letal"
+      },
+      {
+        "letra": "C",
+        "texto": "Trissomia 13"
+      },
+      {
+        "letra": "D",
+        "texto": "Espinha bífida"
+      },
+      {
+        "letra": "E",
+        "texto": "Agenesia renal"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10918,
+    "tags": [],
+    "enunciado": "Fissuras labiopalatais apresentam etiologia multifatorial e expressividade variável. Assinale a alternativa correta acerca deste diagnóstico.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Variações na incidência conforme a etnia dos pacientes não são observadas na atualidade."
+      },
+      {
+        "letra": "B",
+        "texto": "O tratamento cirúrgico precoce neonatal (até a primeira semana de vida) é considerado o melhor para permitir o crescimento adequado da face."
+      },
+      {
+        "letra": "C",
+        "texto": "As fissuras palatinas isoladas são as mais comuns."
+      },
+      {
+        "letra": "D",
+        "texto": "Causas ambientais incluem infecções virais e uso de agentes teratogênicos. 4000203606"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10919,
+    "tags": [],
+    "enunciado": "Paciente de 18 anos realizou BETA-HCG quantitativo com resultado 720 ao procurar o Centro de Imagem e realizar, a pedido, um Ultrassom Pélvico Endovaginal, que revelou útero discretamente aumentado 99 cc com endométrio denso de 12 mm e ovários multifoliculares aumentados. Nesse caso, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a paciente não está grávida e houve erro laboratorial."
+      },
+      {
+        "letra": "B",
+        "texto": "a paciente não está grávida e deve-se pensar em coriocarcinoma pela presença de beta-HCG positivo."
+      },
+      {
+        "letra": "C",
+        "texto": "o ultrassom, em uma fase precoce da gravidez, não consegue visualização e deveria ser repetido após nível discriminatório do beta-HCG quantitativo (acima de 1.000 ui)."
+      },
+      {
+        "letra": "D",
+        "texto": "a paciente está grávida e possivelmente apresenta ectociese."
+      },
+      {
+        "letra": "E",
+        "texto": "a paciente está grávida e necessita de abordagem para Doença Trofoblástica Gestacional. 4000197908"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10920,
+    "tags": [],
+    "enunciado": "Qual medida ao ultrassom tem menor variabilidade para cálculo da idade gestacional após 12 semanas de gestação?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Comprimento da cabeça e das nádegas."
+      },
+      {
+        "letra": "B",
+        "texto": "Diâmetro biparietal."
+      },
+      {
+        "letra": "C",
+        "texto": "Circunferência do crânio."
+      },
+      {
+        "letra": "D",
+        "texto": "Comprimento do fêmur."
+      },
+      {
+        "letra": "E",
+        "texto": "Circunferência abdominal. 4000197868"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10921,
+    "tags": [],
+    "enunciado": "Qual é o período certo para o estudo da Translucência Nucal na gestação?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "De 8 a 10 semanas."
+      },
+      {
+        "letra": "B",
+        "texto": "De 10 a 12 semanas."
+      },
+      {
+        "letra": "C",
+        "texto": "De 11 a 13 semanas."
+      },
+      {
+        "letra": "D",
+        "texto": "De 13 a 15 semanas."
+      },
+      {
+        "letra": "E",
+        "texto": "De 15 a 17 semanas. 4000197859"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10922,
+    "tags": [],
+    "enunciado": "Qual é o período certo para o estudo morfológico fetal na gravidez?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "De 11 a 13 semanas."
+      },
+      {
+        "letra": "B",
+        "texto": "De 13 a 16 semanas."
+      },
+      {
+        "letra": "C",
+        "texto": "De 16 a 20 semanas."
+      },
+      {
+        "letra": "D",
+        "texto": "De 20 a 24 semanas."
+      },
+      {
+        "letra": "E",
+        "texto": "De 24 a 28 semanas. 4000197858"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10923,
+    "tags": [],
+    "enunciado": "A circunferência abdominal e a estimativa de peso fetal pela biometria fetal são medidas mais precisas para o diagnóstico de restrição de crescimento. Em que intervalo essas medidas devem ser feitas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1 semana."
+      },
+      {
+        "letra": "B",
+        "texto": "2 semana."
+      },
+      {
+        "letra": "C",
+        "texto": "3 semana."
+      },
+      {
+        "letra": "D",
+        "texto": "4 semana. 4000197288"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10924,
+    "tags": [],
+    "enunciado": "A respeito da avaliação ultrassonográfica fetal na gestação, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Medida da transluscência nucal acima de 2,5 cm é indicativo de trissomia do 21."
+      },
+      {
+        "letra": "B",
+        "texto": "O primeiro trimestre é o momento ideal para rastreamento de aneuploidias."
+      },
+      {
+        "letra": "C",
+        "texto": "Medidas da transluscência nucal abaixo de 2,5 afastam trissomia do 21."
+      },
+      {
+        "letra": "D",
+        "texto": "A avaliação da regurgitação da valva tricúspide deve ser realizada no 2° trimestre junto do ecocardiograma."
+      },
+      {
+        "letra": "E",
+        "texto": "O segundo trimestre é o momento ideal para rastreamento de aneuploidias. 4000197180"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10925,
+    "tags": [],
+    "enunciado": "Gestante em acompanhamento pré-natal na Unidade Básica realiza ultrassom com 13 semanas que demonstrou osso nasal ausente e transluscência nucal fetal de 4,0 mm. O exame é considerado como sugestivo de maior risco para:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "defeitos abertos do tubo neural."
+      },
+      {
+        "letra": "B",
+        "texto": "gastrosquise."
+      },
+      {
+        "letra": "C",
+        "texto": "trissomias."
+      },
+      {
+        "letra": "D",
+        "texto": "anencefalia. 4000190703"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10926,
+    "tags": [],
+    "enunciado": "Ultrassonografia no terceiro trimestre Em relação às alterações hemodinâmicas envolvidas na circulação materno-fetal em gestações com restrição do crescimento fetal intra-uterino e/ ou pré eclampsia, assinale a alternativa correta",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "após a 37ª semana, a indicação de interrupção da gestação se faz somente após o comprometimento do ducto venoso."
+      },
+      {
+        "letra": "B",
+        "texto": "o elevado IP das artérias uterinas no 1º trimestre da gestação demonstra adequada invasão trofoblástica."
+      },
+      {
+        "letra": "C",
+        "texto": "o fenômeno de vasodilatação cerebral é medido pelo IP da artéria cerebral média abaixo do percentil 5 da normalidade para a idade gestacional."
+      },
+      {
+        "letra": "D",
+        "texto": "a contínua diminuição do IP das artérias umbilicais pode culminar com diástole zero ou reversa no terceiro trimestre da gestação."
+      },
+      {
+        "letra": "E",
+        "texto": "a avaliação Doppler das artérias uterinas no 2º trimestre torna-se desnecessária após a avaliação dos mesmos vasos no primeiro trimestre da gestação. 4000189863"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10927,
+    "tags": [],
+    "enunciado": "Sobre os agentes teratogênicos, é CORRETO afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A maioria dos compostos estrogênicos afeta o desenvolvimento embrionário, como, por exemplo, os anticoncepcionais orais hormonais."
+      },
+      {
+        "letra": "B",
+        "texto": "A teratogênese de um agente deve ser avaliada em três importantes princípios: período crítico do desenvolvimento, dose ou magnitude da exposição e genótipo do embrião."
+      },
+      {
+        "letra": "C",
+        "texto": "A caxumba é uma infecção aguda causada por vírus RNA, porém, não aumenta o risco de abortamento espontâneo e óbito intrauterino."
+      },
+      {
+        "letra": "D",
+        "texto": "De todos os agentes teratogênicos, o uso de álcool não merece grande atenção pois não é um dos maiores causadores de deficiência mental em crianças. 4000189149"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10928,
+    "tags": [],
+    "enunciado": "A Translucência Nucal (TN) deve ser aferida entre 11 e 14 semanas incompletas de gestação como parte do rastreio de aneuploidias fetais. Sobre esse marcador, assinale a assertiva incorreta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a presença do osso nasal e padrão de fluxo no ducto venoso são outros marcadores biofísicos utilizados no rastreio de aneuploidias fetais"
+      },
+      {
+        "letra": "B",
+        "texto": "malformações cardíacas e dos grandes vasos podem levar a TN alterada"
+      },
+      {
+        "letra": "C",
+        "texto": "aloimunização pelo fator RH não é causa de TN aumentada"
+      },
+      {
+        "letra": "D",
+        "texto": "a TN alterada está relacionada a agentes do grupo TORCH 4000188853"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10929,
+    "tags": [],
+    "enunciado": "A translucência nucal, osso nasal e ducto venoso são marcadores biofísicos para rastreamento de aneuploidias no primeiro trimestre. São considerados marcadores bioquímicos para o rastreamento de aneuploidias no primeiro trimestre:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "PAPP-A e βHCG fração."
+      },
+      {
+        "letra": "B",
+        "texto": "βHCG fração livre e α-fetoproteína."
+      },
+      {
+        "letra": "C",
+        "texto": "α-fetoproteína e PAPP-A."
+      },
+      {
+        "letra": "D",
+        "texto": "α-fetoproteína e estriol livre."
+      },
+      {
+        "letra": "E",
+        "texto": "PAPP-A e estriol livre. 4000188259"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10930,
+    "tags": [],
+    "enunciado": "Qual parâmetro NÃO pode ser avaliado no ultrassom morfológico de 1º trimestre?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Placenta de inserção baixa"
+      },
+      {
+        "letra": "B",
+        "texto": "Translucência nucal"
+      },
+      {
+        "letra": "C",
+        "texto": "Comprimento do colo uterino"
+      },
+      {
+        "letra": "D",
+        "texto": "Presença de osso nasal 4000187411"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10931,
+    "tags": [],
+    "enunciado": "No ultrassom para pesquisa de trissomias na gestação, o doppler serve para investigar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Artéria umbilical."
+      },
+      {
+        "letra": "B",
+        "texto": "Ducto venoso."
+      },
+      {
+        "letra": "C",
+        "texto": "Artéria uterina."
+      },
+      {
+        "letra": "D",
+        "texto": "Artéria cerebral média. 4000187329"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10932,
+    "tags": [],
+    "enunciado": "Gestante de 40 anos comparece a consulta com obstetra apresentando ultrassom de 12 semanas de gestação com medida de translucencia nucal de 3,8 mm e ausência de osso nasal. Esse laudo representa aumento do risco de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Gastrosquise."
+      },
+      {
+        "letra": "B",
+        "texto": "Anencefalia."
+      },
+      {
+        "letra": "C",
+        "texto": "Defeito aberto do tubo neural."
+      },
+      {
+        "letra": "D",
+        "texto": "Trissomia. 4000187226"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10933,
+    "tags": [],
+    "enunciado": "Gestante, 36 anos, primigesta, 17 semanas, comparece ao pré-natal querendo orientações, pois em exame de rastreio de 1º trimestre foi evidenciado feto com translucência nucal medindo 3,1mm. Sobre a propedêutica que deve ser proposta, assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Manter controle com ultrassonografia seriada."
+      },
+      {
+        "letra": "B",
+        "texto": "Cariótipo através da biópsia de vilo corial."
+      },
+      {
+        "letra": "C",
+        "texto": "Cariótipo através de amniocentese."
+      },
+      {
+        "letra": "D",
+        "texto": "Orientar que exame está normal e manter seguimento pré-natal. 4000186703"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10934,
+    "tags": [],
+    "enunciado": "Sobre o diagnóstico de gravidez e gestação inicial, analise as assertivas abaixo considerando V para verdadeiro e F para falso e assinale a alternativa que apresenta a sequência correta. ( ) A detecção da hCG no sangue ou na urina maternos é a base dos testes endócrinos para o diagnóstico de gravidez. ( ) A medida ultrassonográ(cid:50)ca do comprimento cabeça-nádega (CCN) constitui o índice biométrico mais preciso para estimar a idade gestacional. ( ) Através do sonar, os batimentos cardíacos do concepto são audíveis a partir da 7ª semana de gestação na consulta de rotina de prénatal.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "VVF"
+      },
+      {
+        "letra": "B",
+        "texto": "FVF"
+      },
+      {
+        "letra": "C",
+        "texto": "FFF"
+      },
+      {
+        "letra": "D",
+        "texto": "VVV"
+      },
+      {
+        "letra": "E",
+        "texto": "VFV"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10935,
+    "tags": [],
+    "enunciado": "Em relação ao NIPT (noninvasive prenatal testing), exame de rastreamento de anomalias cromossômicas fetais, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Trata-se de um exame com base na análise de DNA fetal livre no sangue materno que, em sua versão ampliada, pode avaliar o risco de algumas síndromes genéticas mais raras, como cri-du-chat (síndrome do miado do gato) e síndrome de DiGeorge."
+      },
+      {
+        "letra": "B",
+        "texto": "Trata-se de um teste bioquímico que avalia se o feto apresenta alto risco para aneuploidias nos cromossomos sexuais, como síndrome de Klinefelter (45,X) e de Turner (47,XXY)."
+      },
+      {
+        "letra": "C",
+        "texto": "Trata-se de um exame com base na análise de DNA fetal livre no sangue materno que, em sua versão simples, pode avaliar se o feto apresenta alto risco de aneuploidias como a síndrome de Edwards (trissomia do 13) e síndrome de Patau (trissomia do 16)."
+      },
+      {
+        "letra": "D",
+        "texto": "Trata-se de um exame com base na análise de DNA fetal livre no sangue materno, portanto não pode ser realizado em gestações gemelares."
+      },
+      {
+        "letra": "E",
+        "texto": "Trata-se de um exame genético que, pela análise do vilo corial, possibilita a cariotipagem por bandeamento G."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10936,
+    "tags": [],
+    "enunciado": "Paciente de 41 anos retorna em consulta de pré-natal trazendo o exame realizado com 12 semanas de gestação: translucência nucal: 2,5 mm e imagens apresentadas. Quando comparado à população dessa mesma idade, qual é o significado desse resultado?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Mantido o risco basal de cardiopatia fetal."
+      },
+      {
+        "letra": "B",
+        "texto": "Maior risco de meningomielocele."
+      },
+      {
+        "letra": "C",
+        "texto": "Maior risco de trissomia."
+      },
+      {
+        "letra": "D",
+        "texto": "Maior risco de espinha bífida."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10937,
+    "tags": [],
+    "enunciado": "Gestante vem para consulta de pré-natal. Não sabe a data da última menstruação e traz a sua primeira ultrassonogra(cid:50)a, que mostrava saco gestacional sem visualização do embrião, a sua segunda ultrassonogra(cid:50)a que mostrava a medida do embrião de 8 semanas e a terceira ultrassonogra(cid:50)a que mostrava gestação de 14 semanas e morfologia normal. Assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A primeira ultrassonografia é a mais adequada para datação para essa paciente, pela medida do diâmetro médio do saco gestacional."
+      },
+      {
+        "letra": "B",
+        "texto": "A terceira ultrassonografia tem margem de erro de 2-3 dias para datação da gestação, sendo a mais adequada para tal."
+      },
+      {
+        "letra": "C",
+        "texto": "Mesmo não sendo o primeiro exame, a ultrassonografia que mostra o embrião de 8 semanas é mais precisa para datação da gestação."
+      },
+      {
+        "letra": "D",
+        "texto": "As três ultrassonografias possuem a mesma precisão para datação da gestação. 4000183808"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10938,
+    "tags": [],
+    "enunciado": "Com relação à Vigilância das Anomalias Congênitas ao Nascimento, avalie as a(cid:50)rmativas abaixo e assinale a alternativa correta: I) As anomalias congênitas são alterações estruturais ou funcionais que ocorrem durante a vida intrauterina e que podem ser detectadas antes, durante ou após o nascimento. Trata-se de um grupo complexo de alterações que podem afetar diversos órgãos e sistemas do corpo humano. II) Entre as anomalias funcionais, as que representam consequências médicas, cirúrgicas, cosméticas ou de estilo de vida signi(cid:50)cativa são classi(cid:50)cadas como anomalias congênitas maiores, em contraponto às menores, que geralmente não exigem intervenção clínica. III) O acompanhamento pré-natal possibilita o diagnóstico e a descoberta de determinadas anomalias congênitas ainda durante a gravidez. Existem diversos métodos de rastreamento e de diagnóstico pré-natal para a identi(cid:50)cação de anomalias morfológicas, bem como de alterações genéticas e cromossômicas, além de doenças infecciosas. IV) As anomalias congênitas são consideradas estruturais, ou morfológicas, quando estão relacionadas a problemas em estruturas anatômicas, como, por exemplo, fenda labial ou palatina, defeitos cardíacos, defeitos de membros, defeitos de tubo neural etc. Já as anomalias funcionais estão relacionadas às alterações na função de determinada parte do corpo e levam a de(cid:50)ciências no desenvolvimento, que podem incluir distúrbios metabólicos ou de comprometimento intelectual, comportamental, sensorial, degenerativo ou imunológico, por exemplo.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Todas as afirmativas estão corretas."
+      },
+      {
+        "letra": "B",
+        "texto": "Todas as afirmativas estão incorretas."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas 1 afirmativa está correta."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas 1 afirmativa está incorreta. 4000183776"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10939,
+    "tags": [],
+    "enunciado": "No que se refere à interrupção terapêutica da gestação de feto anencéfalo, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Um de seus fundamentos jurídicos é o entendimento de que o anencéfalo é uma vida em potencial, portanto, com proteção jurídica, conforme a ADPF 54, votada pelo Supremo Tribunal Federal (STF) em 2012."
+      },
+      {
+        "letra": "B",
+        "texto": "O mencionado procedimento depende de autorização judicial."
+      },
+      {
+        "letra": "C",
+        "texto": "Em conformidade com a Resolução do Conselho Federal de Medicina, para seu diagnóstico, é necessária uma ecografia gestacional com, no mínimo, duas fotografias do feto, uma com a face em posição sagital e a outra com a visualização do polo encefálico no corte transversal evidenciando ausência de calota craniana e de parênquima cerebral."
+      },
+      {
+        "letra": "D",
+        "texto": "A referida interrupção terapêutica independe da idade gestacional."
+      },
+      {
+        "letra": "E",
+        "texto": "De acordo com a Resolução do Conselho Federal de Medicina, para seu diagnóstico, é suficiente uma ecografia gestacional assinada por apenas um médico."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10940,
+    "tags": [],
+    "enunciado": "Considere a imagem abaixo. Nessa imagem ultrassonográfica do final do primeiro trimestre de gestação observa-se feto com",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ausência do osso nasal e pé torto congênito."
+      },
+      {
+        "letra": "B",
+        "texto": "osso nasal adequado e anencefalia."
+      },
+      {
+        "letra": "C",
+        "texto": "ausência de osso nasal e aumento da transluscência nucal."
+      },
+      {
+        "letra": "D",
+        "texto": "osso nasal e transluscência nucal adequados."
+      },
+      {
+        "letra": "E",
+        "texto": "higroma cístico e edema da calota craniana."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10941,
+    "tags": [],
+    "enunciado": "Com relação à ultrassonografia obstétrica, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A determinação da idade gestacional com base na ultrassonografia, quando esta é realizada no 1º trimestre de gestação, sempre é mais eficaz do que por meio de fatores clínicos como a data da última menstruação e a data da concepção, nos casos de técnicas de reprodução assistida."
+      },
+      {
+        "letra": "B",
+        "texto": "O espessamento do saco gestacional em torno de dez a doze semanas de gestação representa sinal de alerta para a gestação."
+      },
+      {
+        "letra": "C",
+        "texto": "A ultrassonografia obstétrica é capaz de detectar diversas anomalias fetais, como a acrania, a espinha bífida e a onfalocele, por exemplo."
+      },
+      {
+        "letra": "D",
+        "texto": "A estimativa do peso fetal pode ser realizada pela obtenção do diâmetro biparietal."
+      },
+      {
+        "letra": "E",
+        "texto": "A translucência nucal aumentada no exame morfológico de 1º trimestre de gestação indica que o feto é portador da síndrome de Down."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10942,
+    "tags": [],
+    "enunciado": "Primigesta de 20 anos, com 16 semanas de gestação, trouxe ao Ambulatório de Pré-natal uma ultrassonogra(cid:50)a obstétrica mostrando feto com anencefalia. Manifestou o desejo de interrupção imediata da gestação. Qual a conduta mais adequada neste momento?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Encaminhar a paciente ao Centro Obstétrico para realizar a interrupção da gestação."
+      },
+      {
+        "letra": "B",
+        "texto": "Solicitar nova ultrassonografia e, confirmado o diagnóstico, interromper a gestação."
+      },
+      {
+        "letra": "C",
+        "texto": "Solicitar autorização judicial para interrupção da gestação."
+      },
+      {
+        "letra": "D",
+        "texto": "Negar o pedido de interrupção da gestação, pois a paciente tem menos de 25 anos."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10943,
+    "tags": [],
+    "enunciado": "São indicações de realização de exame ecográfico durante a gestação: I. Determinar a localização da gestação (intrauterina ou extrauterina). II. Avaliar sangramento vaginal ou dor pélvica. III. Avaliar colo do útero para risco de nascimento e perda pré-termo. IV. Avaliar massa pélvica. Estão CORRETOS:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente os itens I e II."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente os itens I, II e III."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente os itens II e IV."
+      },
+      {
+        "letra": "D",
+        "texto": "Todos os itens."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10944,
+    "tags": [],
+    "enunciado": "P.S., 23 anos, foi a consulta de pré-natal em que foi solicitado exame morfológico de 1o trimestre. No dia do exame, o CCN (comprimento cabeça-nádega) mediu 48.3 mm, com biometria compatível para 11 semanas e 4 dias. O osso nasal foi identificado. Com base nesse caso, e sabendo-se da importância e metodologia de avaliação do exame morfológico de 1º trimestre, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não é possível avaliar o risco de trissomias, neste caso, por CCN estar abaixo de 50 mm."
+      },
+      {
+        "letra": "B",
+        "texto": "Uma medida de translucência nucal de 2 mm indica risco alto pra cromossomopatias."
+      },
+      {
+        "letra": "C",
+        "texto": "No exame morfológico de 1o trimestre, o doppler de artérias uterinas ainda não tem importância."
+      },
+      {
+        "letra": "D",
+        "texto": "A presença de osso nasal aumenta risco para cromossomopatias."
+      },
+      {
+        "letra": "E",
+        "texto": "Não há de se avaliar dopplervelocimetria de artérias umbilicais nessa fase. 4000182509"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 10945,
+    "tags": [],
+    "enunciado": "A ultrassonogra(cid:50)a é um método seguro e amplamente difundido de avaliação fetal. A indicação para a realização do exame no primeiro trimestre é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "avaliação de volume de líquido amniótico"
+      },
+      {
+        "letra": "B",
+        "texto": "definição de inserção placentária"
+      },
+      {
+        "letra": "C",
+        "texto": "diagnóstico de corionicidade"
+      },
+      {
+        "letra": "D",
+        "texto": "estimativa de peso fetal"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10946,
+    "tags": [],
+    "enunciado": "F.B.A., 25 anos, GII P0 AI, veio ao serviço de Medicina Fetal para a realização de seu primeiro exame de ultrassom obstétrico nesta gestação. Paciente sem comorbidades. Ao medir CCN (comprimento cabeça nádega), identificada medida de 48,3 mm, conforme figura a seguir. De acordo com o caso, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O comprimento cabeça-nádega não está medido de forma adequada pelo operador."
+      },
+      {
+        "letra": "B",
+        "texto": "A paciente deve retornar em cerca de 1 semana para haver medida de CCN suficiente para a medida da translucência nucal."
+      },
+      {
+        "letra": "C",
+        "texto": "Para o cálculo de trissomias, a medida do CCN deve estar no intervalo de 46 – 88 mm."
+      },
+      {
+        "letra": "D",
+        "texto": "Para o cálculo de trissomias, a medida do CCN deve estar no intervalo de 45 – 84 mm."
+      },
+      {
+        "letra": "E",
+        "texto": "Essa é a foto adequada para a realização da medida da translucência nucal."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10947,
+    "tags": [],
+    "enunciado": "No ultrassom obstétrico morfológico, o ultrassonogra(cid:50)sta, em sua hipótese diagnóstica, descreve o exame do feto com presença de: rins policísticos, polidactilia e encefalocele. O quadro sugere qual síndrome?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Síndrome de Edwards."
+      },
+      {
+        "letra": "B",
+        "texto": "Síndrome de Marfan."
+      },
+      {
+        "letra": "C",
+        "texto": "Síndrome de Möebius."
+      },
+      {
+        "letra": "D",
+        "texto": "Síndrome de Meckel-Gruber."
+      },
+      {
+        "letra": "E",
+        "texto": "Síndrome de DiGeorge. 4000197919"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10948,
+    "tags": [],
+    "enunciado": "Em relação à hidropisia fetal, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "as principais causas da hidropisia não imune são cardiovasculares e erros inatos do metabolismo."
+      },
+      {
+        "letra": "B",
+        "texto": "a hidropisia mais frequentemente encontrada é a de origem imune."
+      },
+      {
+        "letra": "C",
+        "texto": "o risco de hidropisia na síndrome transfusor-transfundido é maior no feto receptor."
+      },
+      {
+        "letra": "D",
+        "texto": "a causa infecciosa mais comum de hidropisia está relacionada ao citomegalovírus. 4000196883"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10949,
+    "tags": [],
+    "enunciado": "O acompanhamento de Pré-natal é de extrema importância para assistência à paciente gestante visando prevenir doenças na mãe e no feto, bem como tratar as intercorrências que surjam ao longo da gestação e para programação de assistência ao recém-nato. Neste contexto, os exames complementares utilizados englobam os de laboratório e os exames de ultrassonografia. Em relação aos exames de imagem ultrassonográ(cid:50)ca podemos a(cid:50)rmar que a avaliação de Transluscência nucal:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Deve ser realizada entre 11 e 13 semanas e 6 dias de idade gestacional e o valor desta avaliação corresponde à medida em centímetros da prega cervical."
+      },
+      {
+        "letra": "B",
+        "texto": "Não prediz patologias genéticas, apenas morfológicas."
+      },
+      {
+        "letra": "C",
+        "texto": "Não deve ser realizada em pacientes sem fatores de risco."
+      },
+      {
+        "letra": "D",
+        "texto": "Apresenta sensibilidade baixa e especificidade alta para cromossomopatias."
+      },
+      {
+        "letra": "E",
+        "texto": "Representa risco de distúrbios hematológicos. 4000192764"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 10950,
+    "tags": [],
+    "enunciado": "Sobre o uso da ultrassonogra(cid:50)a no estudo de malformações durante o período gestacional, está INCORRETA a afirmativa:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O rastreio ultrassonográfico de aneuploidias ocorre entre 11 e 13 semanas;"
+      },
+      {
+        "letra": "B",
+        "texto": "O rastreio cardíaco deve ser realizado entre 20 e 24 semanas;"
+      },
+      {
+        "letra": "C",
+        "texto": "A ecocardiografia fetal pode ser realizada preferencialmente com 14 semanas em casos de TN aumentada;"
+      },
+      {
+        "letra": "D",
+        "texto": "O diabetes materno mal controlado pode evoluir com hipertrofia cardíaca no primeiro trimestre. 4000192483"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10951,
+    "tags": [],
+    "enunciado": "Primigesta, 35 anos de idade, 12 semanas de gestação, foi submetida a ultrassonogra(cid:50)a morfológica de primeiro trimestre cujo resultado está demonstrado na imagem a seguir. Nesse momento, sabendo que a paciente deseja esclarecer o problema o mais rápido possível, qual é o próximo passo para a investigação da condição fetal?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Investigar o cariótipo fetal por biopsia de vilo corial."
+      },
+      {
+        "letra": "B",
+        "texto": "Investigar o cariótipo fetal por amniocentese genética."
+      },
+      {
+        "letra": "C",
+        "texto": "Indicar pesquisa de DNA fetal em sangue materno – NIPT."
+      },
+      {
+        "letra": "D",
+        "texto": "Solicitar dosagem materna de proteína plasmática A – PAPPA."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10952,
+    "tags": [],
+    "enunciado": "Secundigesta de 25 anos de idade procurou a clínica da família para iniciar seu pré-natal na 16ª semana de gestação. Referiu ter tido um parto pré-termo anterior, na 21ª semana de gestação. Trouxe consigo uma ultrassonografia transvaginal, que mostrou colo do útero de 43 mm de comprimento. Qual é a conduta mais efetiva a ser proposta nesse momento, a (cid:50)m de reduzir a ocorrência de uma nova perda gestacional nessa paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Indicação de cerclagem eletiva via transvaginal."
+      },
+      {
+        "letra": "B",
+        "texto": "Uso de progesterona natural micronizada 200 mg à noite."
+      },
+      {
+        "letra": "C",
+        "texto": "Suplementação diária de ácido fólico associado a ômega 3."
+      },
+      {
+        "letra": "D",
+        "texto": "Rastreio de estreptococo do grupo B em cultura vaginal e retal."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10953,
+    "tags": [],
+    "enunciado": "A translucência nucal é um marcador ultrassonográ(cid:50)co avaliado no primeiro trimestre da gravidez, a (cid:50)m de determinar o risco para trissomia do 21. Quanto à trissomia do 21, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É considerada como normal a translucência nucal com medida menor que 2,5 mm."
+      },
+      {
+        "letra": "B",
+        "texto": "A medida deve ser realizada com o comprimento cabeça-nádegas do feto entre 40 mm e 82 mm."
+      },
+      {
+        "letra": "C",
+        "texto": "Quando a translucência nucal é aumentada, o cariótipo é normal e o morfológico de 2º trimestre e o ecocardiograma são normais, ainda assim é alto o risco de alterações de desenvolvimento neurológico."
+      },
+      {
+        "letra": "D",
+        "texto": "O aumento da transluscência nucal pode ser decorrente de alteração da composição da matriz extracelular."
+      },
+      {
+        "letra": "E",
+        "texto": "A translucência nucal aumentada, com cariótipo normal, exclui a possibilidade de alterações genéticas."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10954,
+    "tags": [],
+    "enunciado": "Algumas malformações fetais detectadas no exame morfológico de segundo trimestre são indicativas de anomalia cromossômica. Sendo assim, assinale a alternativa que apresenta a relação correta entre a malformação e a respectiva afecção.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "holoprosencefalia e trissomia do 18"
+      },
+      {
+        "letra": "B",
+        "texto": "gastrosquise e trissomia do 21"
+      },
+      {
+        "letra": "C",
+        "texto": "defeito do coxim endocárdico e trissomia do 21"
+      },
+      {
+        "letra": "D",
+        "texto": "onfalocele e monossomia do X"
+      },
+      {
+        "letra": "E",
+        "texto": "higroma cístico e trissomia do 13"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10955,
+    "tags": [],
+    "enunciado": "Uma adolescente de 18 anos apresenta placenta prévia marginal no exame ultrassonográ(cid:50)co , com 22 semanas de gestação. Ela não tem sangramento vaginal. Qual das alternativas a seguir é o manejo mais adequado?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Recomendar o término da gravidez."
+      },
+      {
+        "letra": "B",
+        "texto": "Agendar amniocentese para 34 semanas e parto cesáreo se os pulmões fetais estiverem maduros."
+      },
+      {
+        "letra": "C",
+        "texto": "Agendar um exame de ressonância magnética nuclear para 35 semanas, a fim de avaliar possível placenta percreta envolvendo a bexiga."
+      },
+      {
+        "letra": "D",
+        "texto": "Agendar parto cesariano para 39 semanas."
+      },
+      {
+        "letra": "E",
+        "texto": "Reavaliar a posição da placenta por ultrassonografia com 32 semanas. 4000169190"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 10956,
+    "tags": [],
+    "enunciado": "São marcadores ultrassonográficos de trissomia de 21:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Inserção abdominal anômala do cordão umbilical, ausência da bexiga."
+      },
+      {
+        "letra": "B",
+        "texto": "Ventriculomegalia, intestino hiperecogênico."
+      },
+      {
+        "letra": "C",
+        "texto": "Pé torto congênito, ausência de bolha gástrica."
+      },
+      {
+        "letra": "D",
+        "texto": "Oligoâmnio, ausência renal unilateral."
+      },
+      {
+        "letra": "E",
+        "texto": "Lesões císticas pulmonares, foco ecogênico intracardíaco."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10957,
+    "tags": [],
+    "enunciado": "Uma paciente de 30 anos, GlllP2A0, está com 12 semanas de gestação e vem para a realização do exame morfológico do primeiro trimestre. Na ultrassonogra(cid:50)a, observa-se os seguintes parâmetros: comprimento cabeça nádega = 50mm, 140BPM, translucência nucal = 5mm, osso nasal ausente, ducto venoso com onda A negativa, placenta anterior grau 0. A conduta para o caso é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Encaminhar para realização de biópsia.do vilo corial;"
+      },
+      {
+        "letra": "B",
+        "texto": "Encaminhar para realização de amniocentese;"
+      },
+      {
+        "letra": "C",
+        "texto": "Solicitar dosagem de BHCG e PAPP-A que confirmam o diagnóstico;"
+      },
+      {
+        "letra": "D",
+        "texto": "Informar a paciente que o exame está normal;"
+      },
+      {
+        "letra": "E",
+        "texto": "Explicar que a translucência nucal é específica para síndrome de Down, o que praticamente exclui a síndrome de Edwards ou Patau como diagnósticos."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10958,
+    "tags": [],
+    "enunciado": "Gestante, 38 anos, 13 semanas realizou ultrassonogra(cid:50)a morfológica de primeiro trimestre e a translucência nucal (TN) mediu 3,4 mm. Assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "TN aumentada, indicar estudo genético fetal."
+      },
+      {
+        "letra": "B",
+        "texto": "TN normal, seguimento pré-natal habitual."
+      },
+      {
+        "letra": "C",
+        "texto": "TN aumentada, iniciar aspirina em baixas doses."
+      },
+      {
+        "letra": "D",
+        "texto": "TN normal, solicitar NIPT pela idade materna. 4000166498"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10959,
+    "tags": [],
+    "enunciado": "Ultrassonografia no primeiro trimestre Com relação ao ultrassom morfológico de primeiro trimestre, assinale a alternativa correta",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A medida da transluscência nucal deve ser feita quando comprimento cabeça nádega estiver entre 45–86 mm."
+      },
+      {
+        "letra": "B",
+        "texto": "A ausência do osso nasal é considerado marcador menor para aneuploidias."
+      },
+      {
+        "letra": "C",
+        "texto": "O doppler da válvula tricúspide busca auxiliar no rastreio de aneuploidias fetais e das cardiopatias congênitas."
+      },
+      {
+        "letra": "D",
+        "texto": "O doppler do ducto venoso é fundamental na detecção do sofrimento fetal no primeiro trimestre da gestação."
+      },
+      {
+        "letra": "E",
+        "texto": "O doppler das artérias uterinas não tem valor no primeiro trimestre da gestação."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10960,
+    "tags": [],
+    "enunciado": "Durante o período pré-natal diversos exames complementares podem ser necessários. Assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O ultrassom 3D é vantajoso em diversas situações como fenda facial e micrognatia, e a maior parte dos diagnósticos feitos pelo método 3D não são feitas pela ultrassonografia bidimensional."
+      },
+      {
+        "letra": "B",
+        "texto": "A ressonância magnética é um método seguro e sem restrições para seu emprego na gestação em qualquer trimestre, inclusive com uso de contrastes."
+      },
+      {
+        "letra": "C",
+        "texto": "As imagens obtidas por ressonância magnética não têm interferência da quantidade de líquido amniótico ou pela espessura da parede abdominal materna."
+      },
+      {
+        "letra": "D",
+        "texto": "A ultrassonografia 3D e a ressonância magnética fetal são exames equivalentes na propedêutica pré-natal."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10961,
+    "tags": [],
+    "enunciado": "Primigesta, 20 anos de idade, realizou ultrassom morfológico de 2° trimestre que evidenciou feto único, com pés tortos, sem visualização dos rins e oligoâmnio absoluto. Qual é a conduta mais adequada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aconselhamento genético, cariótipo e amnioinfusão"
+      },
+      {
+        "letra": "B",
+        "texto": "Aconselhamento genético e oferecer interrupção judicial da gestação"
+      },
+      {
+        "letra": "C",
+        "texto": "Aconselhamento genético, cariótipo e derivação vesico-urinária"
+      },
+      {
+        "letra": "D",
+        "texto": "Punção vesical para avaliar função renal e derivação vesico-amniótica"
+      },
+      {
+        "letra": "E",
+        "texto": "Cordocentese para avaliar função renal 4000198936"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10962,
+    "tags": [],
+    "enunciado": "Primigesta, 25 semanas, com diabetes mellitus tipo I, realizou ecocardiogra(cid:50)a fetal que identi(cid:50)cou tetralogia de Fallot. Qual é a conduta mais adequada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Seguimento pré-natal especializado, amniocentese para cariótipo e parto no termo por indicação obstétrica"
+      },
+      {
+        "letra": "B",
+        "texto": "Ecocardiografia seriada, amniocentese para cariótipo e cesárea com 36 semanas"
+      },
+      {
+        "letra": "C",
+        "texto": "Seguimento pré-natal especializado, amniocentese para cariótipo e cesárea no termo"
+      },
+      {
+        "letra": "D",
+        "texto": "Oferecimento de interrupção judicial devido malformação incompatível com a vida"
+      },
+      {
+        "letra": "E",
+        "texto": "Seguimento pré-natal especializado, valvoplastia percutânea intrauterina 4000198935"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10963,
+    "tags": [],
+    "enunciado": "Primigesta, 28 anos de idade, 20 semanas, US morfológico de 2° trimestre evidencia meningomielocele lombo-sacral e dilatação de ventrículos laterais (15 mm). Qual é a melhor conduta segundo os resultados do estudo MOMS?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Solicitação judicial de interrupção da gestação"
+      },
+      {
+        "letra": "B",
+        "texto": "Seguimento em ambulatório de Medicina Fetal e derivação ventrículo-amniótica"
+      },
+      {
+        "letra": "C",
+        "texto": "Seguimento e parto em hospital geral"
+      },
+      {
+        "letra": "D",
+        "texto": "Seguimento em ambulatório de Medicina Fetal e correção cirúrgica pós-natal"
+      },
+      {
+        "letra": "E",
+        "texto": "Ecocardiografia fetal, cariótipo e cirurgia fetal a “céu aberto” 4000198934"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 10964,
+    "tags": [],
+    "enunciado": "Primigesta de 22 semanas realizou ultrassonogra(cid:50)a morfológica que evidenciou abertura de arcos vertebrais lombro-sacrais com exteriorização medular, sem superfície cutânea, descida das amígdalas cerebelares pelo forame magno e obliteração da cisterna magna. Assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Se a medida do colo uterino for superior a 15mm, a terapia fetal é recomendada."
+      },
+      {
+        "letra": "B",
+        "texto": "A inserção baixa da placenta centro-total não contraindica a cirurgia fetal."
+      },
+      {
+        "letra": "C",
+        "texto": "A herniação cerebelar é irreversível mesmo após o tratamento intrauterino."
+      },
+      {
+        "letra": "D",
+        "texto": "O defeito fetal em questão ocorreu entre a 3ª e a 4ª semana gestacional. 4000198910"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10965,
+    "tags": [],
+    "enunciado": "Uma gestante de 40 anos, hígida, G2P1, sem intercorrências na gestação anterior, realizou ultrassonogra(cid:50)a morfológica de primeiro trimestre com 12 semanas e 3 dias, que mostrou feto único, vivo, com desenvolvimento adequado para a idade gestacional e medida da translucência nucal (TN) de 2,5 mm (percentil 81). O risco basal de trissomia do cromossomo 21 para essa gestante era de 1 em 78 e, corrigido pela TN, passou a ser de 1 em 38. Qual afirmativa está correta a respeito do aconselhamento desse casal?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Deve-se indicar a realização de biópsia de vilo corial para cariótipo fetal devido ao risco associado à idade materna avançada."
+      },
+      {
+        "letra": "B",
+        "texto": "O risco de perda da gestação devido ao procedimento invasivo é maior do que o risco de acometimento fetal pela síndrome de Down."
+      },
+      {
+        "letra": "C",
+        "texto": "Houve um aumento discreto do risco de trissomia do cromossomo 21 após o exame, porém este ainda é baixo, em torno de 2,5%."
+      },
+      {
+        "letra": "D",
+        "texto": "Caso o resultado do teste não invasivo para trissomias (NIPT) seja positivo, ainda haverá necessidade de confirmação pelo cariótipo. 4000198772"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10966,
+    "tags": [],
+    "enunciado": "Em relação às malformações fetais, analise as seguintes assertivas: I. Entre os Defeitos do Tubo Neural (DTN), encontramos a anencefalia, a espinha bí(cid:50)da, a encefalocele, a cranioraquisquise e a iniencefalia. II. A malformação de Dandy-Walker é caracterizada pela agenesia da ponte, fossa posterior alargada e elevação do tentorium. III. A gastrosquise e a onfalocele constituem os mais comuns defeitos de parede abdominal. IV. O diagnóstico ecográ(cid:50)co de atresia de esôfago é sugerido pela ausência de imagem do estômago e pela presença de polidramnia associada. Quais estão corretas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas I e II."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas III e IV."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas I, III e IV."
+      },
+      {
+        "letra": "D",
+        "texto": "I, II, III e IV. 4000198513"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10967,
+    "tags": [],
+    "enunciado": "Gestante comparece a emergência com queixa de sangramento vaginal, indolor. A idade gestacional atual é de 11 semanas pela data da última menstruação e de 10 semanas por ultrassonogra(cid:50)a realizada há duas semanas. Ao exame especular, visualiza-se colo íntegro e sangramento discreto pelo ori(cid:50)́cio cervical externo. Ao toque vaginal, percebe-se o útero amolecido, globoso, colo fechado. Nesse atendimento, foi realizada ultrassonogra(cid:50)a que constatou atividade cardíaca fetal com frequência de 168 bpm, conforme imagem a seguir. Assinale a alternativa que descreve a estrutura indicada pela seta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hematoma retrocoriônico."
+      },
+      {
+        "letra": "B",
+        "texto": "Hematoma retroamniótico."
+      },
+      {
+        "letra": "C",
+        "texto": "Descolamento trofoblástico."
+      },
+      {
+        "letra": "D",
+        "texto": "Cavidade exocelômica."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10968,
+    "tags": [],
+    "enunciado": "Com relação à realização de Ultrassonogra(cid:50)a (US) Obstétrica em gestantes que iniciaram o pré-natal em tempo recomendado e sem nenhum fator de risco identificável ao longo do pré-natal, é correto:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não há recomendação para solicitar US após 24 semanas de gestação, exceto na avaliação de suspeita de malformação fetal."
+      },
+      {
+        "letra": "B",
+        "texto": "A US antes das 24 semanas ajuda estimar melhor a idade gestacional e reduz o risco de pós- datismo, tendo impacto na mortalidade perinatal."
+      },
+      {
+        "letra": "C",
+        "texto": "Deve-se solicitar US morfológica ao longo do pré-natal idealmente entre 18 e 20 semanas de idade gestacional."
+      },
+      {
+        "letra": "D",
+        "texto": "É recomendada a realização de uma US a cada trimestre da gestação. 4000172951"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10969,
+    "tags": [],
+    "enunciado": "No exame de Doppler Obstétrico, a investigação de “território materno” é feita com avaliação do fluxo de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "artéria umbilical."
+      },
+      {
+        "letra": "B",
+        "texto": "artéria uterina."
+      },
+      {
+        "letra": "C",
+        "texto": "artéria cerebral média."
+      },
+      {
+        "letra": "D",
+        "texto": "ducto venoso. 4000172829"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10970,
+    "tags": [],
+    "enunciado": "A TranslucênciaNucal (TN) deve ser aferida entre 11 e 14 semanas incompletas de idade gestacional como parte do rastreio de aneuploidias fetais. Sobre os marcadores fetais marque a assertiva ERRADA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A presença do osso nasal (ON) e padrão de fluxo no ducto venoso (DV) são outros marcadores biofísicos utilizados no rastreio de Aneuploidias fetais."
+      },
+      {
+        "letra": "B",
+        "texto": "Malformações cardíacas e dos grandes vasos pode levar a TN alterada."
+      },
+      {
+        "letra": "C",
+        "texto": "Aloimunização pelo fator RH não é causa de TN aumentada."
+      },
+      {
+        "letra": "D",
+        "texto": "A TN aumentada está relacionada a agentes do grupo TORCH."
+      },
+      {
+        "letra": "E",
+        "texto": "A alteração no padrão de fluxo no ducto venoso (DV) quando realizado conjuntamente com a análise da TN, pode sugerir chance maior para desenvolvimento de cardiopatias fetais. 4000172646"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10971,
+    "tags": [],
+    "enunciado": "Gestante realiza ultrassom obstétrico que evidencia Cisto de Plexo Coróide fetal. A Síndrome mais associada a esse achado é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Down."
+      },
+      {
+        "letra": "B",
+        "texto": "Patau."
+      },
+      {
+        "letra": "C",
+        "texto": "Morris."
+      },
+      {
+        "letra": "D",
+        "texto": "Edwards. 4000172039"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10972,
+    "tags": [],
+    "enunciado": "São doenças associadas à hidropisia fetal não imune, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Infecção pelo parvovírus B19."
+      },
+      {
+        "letra": "B",
+        "texto": "Síndrome de Turner."
+      },
+      {
+        "letra": "C",
+        "texto": "Aloimunização RhD."
+      },
+      {
+        "letra": "D",
+        "texto": "Taquiarritmia fetal. 4000171838"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10973,
+    "tags": [],
+    "enunciado": "Gestante em acompanhamento pré-natal comparece a consulta de rotina com ultrassom evidenciando gestação de 24 semanas com oligodramnio absoluto e feto com agenesia renal bilateral. Pensando ser Síndrome de Potter, o obstetra orienta a gestante que o feto provavelmente terá",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "hipoplasia pulmonar."
+      },
+      {
+        "letra": "B",
+        "texto": "malformação neurológica."
+      },
+      {
+        "letra": "C",
+        "texto": "atresia de esôfago."
+      },
+      {
+        "letra": "D",
+        "texto": "hérnia de diafragma. 4000170857"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10974,
+    "tags": [],
+    "enunciado": "Uma mulher de 23 anos, G1P0, com 20 semanas de gestação, é submetida a um exame ultrassonográ(cid:50)co devido a uma biometria discordante. A ultrassonogra(cid:50)a revela polidrâmnio com índice de líquido amniótico de 30 cm. O abdômen fetal revela uma massa cística na região abdominal direita e outra na área abdominal esquerda. Qual das alternativas seguintes é a condição associada mais provável?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Diabetes gestacional"
+      },
+      {
+        "letra": "B",
+        "texto": "Tumores ovarianos congênitos"
+      },
+      {
+        "letra": "C",
+        "texto": "DHEG"
+      },
+      {
+        "letra": "D",
+        "texto": "Isoimunização Rh"
+      },
+      {
+        "letra": "E",
+        "texto": "Síndrome de Down 4000151789"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 10975,
+    "tags": [],
+    "enunciado": "Dentro da propedêutica fetal, alguns marcadores são utilizados em diversas fases fetais para predição de eventos adversos. Analisando a presente figura, observa-se:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ausência de osso nasal, marcador de elevação de risco de aneuploidias cromossômicas."
+      },
+      {
+        "letra": "B",
+        "texto": "Magnificação da imagem ultrassonográfica de forma inadequada para avaliação da translucência nucal."
+      },
+      {
+        "letra": "C",
+        "texto": "Achados sugestivos de malformação de fechamento de tubo neural com aumento da translucência intra-nucal e encefalocele occipital."
+      },
+      {
+        "letra": "D",
+        "texto": "Ossificação de ossos da face e angulação naso-frontal compatível com a normalidade."
+      },
+      {
+        "letra": "E",
+        "texto": "Achados compatíveis com higroma cístico, anormalidade associada com síndrome de Turner."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 10976,
+    "tags": [],
+    "enunciado": "\"As anomalias estruturais do coração são as malformações congênitas mais comuns. A incidência de cardiopatias congênitas, se considerado somente o período pós-natal, varia de 3 a 12 por 1.000 nascimentos vivos”. Assim, a propedêutica fetal tem melhorado nessa perspectiva diagnóstica. Sobre o tema, afirma-se:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O diabetes mellitus parece aumentar em cerca de três a cinco vezes o risco de cardiopatia fetal. Porém, ainda não caracteriza uma patologia que justifique a ecocardiografia fetal na atualidade."
+      },
+      {
+        "letra": "B",
+        "texto": "O Bloqueio Atrioventricular (BAV congênito pode ser uma manifestação do lúpus eritematoso neonatal, estando associado à presença no soro materno de anticorpos SSA/Ro, porém a ecocardiografia fetal possui severa limitação no diagnóstico de BAV total."
+      },
+      {
+        "letra": "C",
+        "texto": "O aumento da translucência nucal correlaciona-se a aumento do risco de malformações cardíacas, sendo importante fator de risco, apenas quando relacionado a cromossomopatias."
+      },
+      {
+        "letra": "D",
+        "texto": "Apesar de serem reconhecidas as situações em que o risco de malformação cardíaca está aumentado, é importante ressaltar o fato de que, na maioria das crianças portadoras de cardiopatias congênitas, não se identificam fatores de risco materno-fetais durante a vida intrauterina."
+      },
+      {
+        "letra": "E",
+        "texto": "Os fatores de risco de origem fetal incluem: presença de hidropsia fetal, malformações extra- cardíacas, cromossomopatia, gemelaridade, arritmia, translucência nucal dentro do percentil 10 e 90 da curva de normalidade e duto venoso com onda “A\"\" positiva detectada no primeiro trimestre da gestação."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10977,
+    "tags": [],
+    "enunciado": "O melhor momento para realização do ecocardiograma fetal é com a idade gestacional de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "12 semanas."
+      },
+      {
+        "letra": "B",
+        "texto": "34 semanas."
+      },
+      {
+        "letra": "C",
+        "texto": "18 semanas."
+      },
+      {
+        "letra": "D",
+        "texto": "28 semanas."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10978,
+    "tags": [],
+    "enunciado": "Das seguintes drogas, a que não deve ser utilizada na gestação é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tetraciclina."
+      },
+      {
+        "letra": "B",
+        "texto": "Ceftriaxona."
+      },
+      {
+        "letra": "C",
+        "texto": "Metronidazol."
+      },
+      {
+        "letra": "D",
+        "texto": "Azitromicina."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10979,
+    "tags": [],
+    "enunciado": "Considere os parâmetros ultrassonográ(cid:50)cos I. Translucência nucal. lI. Pesquisa de osso nasal. IlI. Doppler de artérias uterinas. IV. Doppler de dueto venoso. Podem ser realizados no ultrassom de primeiro trimestre, com resultados que tem aplicabilidade clínica",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, lI e IV"
+      },
+      {
+        "letra": "B",
+        "texto": "I, lI e IlI"
+      },
+      {
+        "letra": "C",
+        "texto": "II, IlI e IV"
+      },
+      {
+        "letra": "D",
+        "texto": "I, IlI e IV 4000145656"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10980,
+    "tags": [],
+    "enunciado": "Mulher de 28 anos, primigesta com 12 semanas de gestação, comparece para realização de US de primeiro trimestre da gestação. Este exame tem como finalidade principal:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Identificar o sexo fenotípico fetal"
+      },
+      {
+        "letra": "B",
+        "texto": "Identificar malformações cardíacas"
+      },
+      {
+        "letra": "C",
+        "texto": "Identificar a presença de onda A no dueto venoso fetal, cuja presença indica risco de anencefalia"
+      },
+      {
+        "letra": "D",
+        "texto": "Identificar o tamanho do osso nasal, cujos valores acima da referência estão correlacionados com malformações genéticas"
+      },
+      {
+        "letra": "E",
+        "texto": "Identificar o tamanho da transluscência nucal, cujos valores acima da referência estão correlacionados com risco de síndrome de Down. 4000144782"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 10981,
+    "tags": [],
+    "enunciado": "A ultrassonogra(cid:50)a para avaliação de translucência nucal como método de rastreio de anomalias cromossômicas deve ser realizada idealmente na seguinte época:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "4 a 8 semanas."
+      },
+      {
+        "letra": "B",
+        "texto": "7 a 11 semanas."
+      },
+      {
+        "letra": "C",
+        "texto": "18 a 22 semanas."
+      },
+      {
+        "letra": "D",
+        "texto": "14 a 18 semanas."
+      },
+      {
+        "letra": "E",
+        "texto": "11 a 14 semanas."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 10982,
+    "tags": [],
+    "enunciado": "Primigesta, com 12 semanas de idade gestacional. Durante a consulta de pré-natal indaga qual seria a (cid:50)nalidade da medida chamada translucência nucal (TN), presente no exame ultrassonográ(cid:50)co morfológico de primeiro trimestre ao qual a mesma foi submetida. A resposta correta diante dessa indagação, é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "avaliação da integridade do sistema nervoso central."
+      },
+      {
+        "letra": "B",
+        "texto": "método de rastreamento de doenças genéticas do embrião."
+      },
+      {
+        "letra": "C",
+        "texto": "avaliação da vitalidade fetal."
+      },
+      {
+        "letra": "D",
+        "texto": "diagnóstico precoce de meningomielocele."
+      },
+      {
+        "letra": "E",
+        "texto": "avaliação histológica embrionária."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10983,
+    "tags": [],
+    "enunciado": "Gestante, 30 anos, 14 semanas foi ao pré-natal com ultrassonogra(cid:50)a morfológica que evidenciou translucência nucal 3,0 mm, ducto venoso com onda A reversa, Osso nasal ausente. O risco relativo pós teste foi de 1:60. Qual a conduta CORRETA?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aguardar terceiro trimestre para realizar ultrassonografia morfológica."
+      },
+      {
+        "letra": "B",
+        "texto": "Tranquilizar a paciente pois 1:80 é um risco baixo de cromossomopatias."
+      },
+      {
+        "letra": "C",
+        "texto": "Informar a paciente o diagnóstico de aneuploidia sem possibilidade terapêutica."
+      },
+      {
+        "letra": "D",
+        "texto": "Realizar teste invasivo para estudo genético fetal."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10984,
+    "tags": [],
+    "enunciado": "Gestante de 13 semanas faz ultrassonogra(cid:50)a de rotina, em que se observa translucência nucal de 8 mm. Ela deverá ser informada que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "está indicada a realização do exame morfológico no segundo e terceiro trimestres."
+      },
+      {
+        "letra": "B",
+        "texto": "existe alto risco de que o feto tenha anomalias cromossômicas."
+      },
+      {
+        "letra": "C",
+        "texto": "se trata de medida adequada para a idade gestacional, indicando baixo risco de aneuploidia."
+      },
+      {
+        "letra": "D",
+        "texto": "se trata de marcador patognomônico de trissomia fetal."
+      },
+      {
+        "letra": "E",
+        "texto": "isoladamente essa medida não indica risco aumentado de trissomia."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10985,
+    "tags": [],
+    "enunciado": "Durante a anamnese no pré-parto, uma gestante de 29 anos conta que fez o pré-natal de forma adequada, tomou todas as vacinas e seus exames de sangue eram normais. Entretanto, esqueceu a carteira de pré- natal. Estava preocupada porque o ultrassom que (cid:50)zera no terceiro trimestre mostrou hidrocefalia fetal. Dá à luz de parto vaginal recém-nascido do sexo feminino, IG: 38 semanas, P: 2.827 g e Apgar: 7/8. Ao exame físico, recém-nascido hipotônico, hiporreativo, com fenda labial e palato fendido, punhos cerrados e plantas arqueadas, hipertelorismo ocular e microftalmia bilateral, orelhas malformadas e baixamente implantadas. É encaminhado à UTI e o ultrassom transfontanelar revelou holoprosencefalia alobar. O diagnóstico mais provável é síndrome de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Patau."
+      },
+      {
+        "letra": "B",
+        "texto": "Klinefelter."
+      },
+      {
+        "letra": "C",
+        "texto": "Down."
+      },
+      {
+        "letra": "D",
+        "texto": "Edwards."
+      },
+      {
+        "letra": "E",
+        "texto": "Prader-Willi."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10986,
+    "tags": [],
+    "enunciado": "Paciente, 28 anos de idade, G2 P0 A1, IG: 32+5/7 dias, realizando pré-natal de risco habitual após fertilização in vitro. Comparece para atendimento de pré-natal com o exame a seguir. Sobre esse caso, assinale a alternativa incorreta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A fertilização in vitro é fator de risco."
+      },
+      {
+        "letra": "B",
+        "texto": "O parto vaginal pode ser conduzido."
+      },
+      {
+        "letra": "C",
+        "texto": "Possui alta morbimortalidade neonatal."
+      },
+      {
+        "letra": "D",
+        "texto": "Está indicada a interrupção antes do termo. 4000133994"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10987,
+    "tags": [],
+    "enunciado": "Devido aos avanços tecnológicos nas últimas décadas vários métodos diagnósticos têm ganhado importância na evolução da gestação. Em relação à indicação destes métodos diagnósticos avalie as afirmações abaixo. I - A ressonância nuclear magnética é indicada para o estudo dos órgãos abdominais do feto e de seu sistema musculo-esquelético. II - Pode ser necessária a complementação propedêutica por meio da ultrassonogra(cid:50)a tridimensional ou da ressonância nuclear magnética frente a determinados diagnósticos de malformações fetais ou de suspeita de alteração no exame ultrassonográfico bidimensional. III - A ultrassonogra(cid:50)a convencional bidimensional é a ferramenta primária e na maioria dos casos su(cid:50)ciente para a avaliação da morfologia e rastreamento de anormalidades fetais. IV - A ultrassonogra(cid:50)a tridimensional é uma tecnologia relativamente nova mas que vem conquistando espaço para uso em diagnóstico pré-natal. Estão corretas apenas as afirmativas",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e IV."
+      },
+      {
+        "letra": "B",
+        "texto": "I, II e III."
+      },
+      {
+        "letra": "C",
+        "texto": "I, II e IV."
+      },
+      {
+        "letra": "D",
+        "texto": "II, III e IV."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II, III e IV."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10988,
+    "tags": [],
+    "enunciado": "O objetivo maior no rastreamento das aneuploidias fetais, é a detecção da trissomia do cromossomo 21 – Síndrome de Down. Sobre esta situação, analise as alternativas abaixo. I - A melhor idade gestacional para realização do rastreamento ultrassonográ(cid:50)co no segundo trimestre de gestação é entre 20 e 24 semanas de gravidez. II - O risco para trissomias fetais será maior quanto maior for a idade materna e maior for a idade gestacional. III - Na interpretação do rastreamento de segundo trimestre não se leva em consideração o resultado do rastreamento do primeiro trimestre. IV - Na presença de malformação estrutural, deve-se considerar a investigação do cariótipo fetal, independentemente de resultados de rastreamentos prévios. Estão corretas apenas as afirmativas",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e IV."
+      },
+      {
+        "letra": "B",
+        "texto": "I, II e III."
+      },
+      {
+        "letra": "C",
+        "texto": "I, II e IV."
+      },
+      {
+        "letra": "D",
+        "texto": "II, III e IV."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II, III e IV."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10989,
+    "tags": [],
+    "enunciado": "Uma primigesta com 40 anos de idade realiza pré-natal na Unidade Básica de Saúde. Retorna na 22.a semana de gestação com resultado de ecogra(cid:50)a morfológica que descreve a presença de malformações cardíaca e óssea graves. Relata que o marido está trabalhando, não podendo acompanhá-la, e que está assustada com o resultado do exame. Ansiosa, pergunta ao médico prenatalista: “O que isto signi(cid:50)ca para o meu bebê? Devo tirar o bebê se ele não tiver chances de sobreviver? Como vai ser o meu parto?”. Com base no caso descrito, responda às questões a seguir. (A) Cite quatro elementos a serem considerados na comunicação da má notícia à paciente. (valor: 3,0 pontos) (B) O resultado da ecogra(cid:50)a morfológica é indicativo de interrupção precoce da gestação? Justi(cid:50)que. (valor: 3,0 pontos) (C) Em caso de prosseguimento da gestação, em qual nível de atenção deverá ser realizado o pré-natal da gestante? Justifique. (valor: 2,0 pontos) (D) Em caso de prosseguimento da gestação, em qual nível de atenção à saúde o parto deverá ser realizado? Justifique. (valor: 2,0 pontos) Essa questão possui comentário do professor no site 4000142301",
+    "alternativas": [],
+    "resposta_correta": null
+  },
+  {
+    "id": 10990,
+    "tags": [],
+    "enunciado": "Pelo modelo piramidal de assistência pré-natal o ultrassom mais importante é realizado:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "no primeiro trimestre."
+      },
+      {
+        "letra": "B",
+        "texto": "no segundo trimestre."
+      },
+      {
+        "letra": "C",
+        "texto": "no terceiro trimestre."
+      },
+      {
+        "letra": "D",
+        "texto": "não há definição de qual seria a época mais importante."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10991,
+    "tags": [],
+    "enunciado": "Ao realizar pré-natal em uma Unidade Básica de Saúde, um médico recebeu uma gestante de 23 semanas de gravidez, que realizara USG morfológico de segundo trimestre dois dias atrás, em que se notou, em seu feto, rins císticos displásicos, polidactilia em todos os membros e encefalocele occipital. Ela quer entender melhor o quadro, porque o médico que fez a ultrassonogra(cid:50)a, segundo ela, não explicara nada sobre o exame. Com base nesse caso hipotético, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A encefalocele caracteriza-se por ausência completa da calota craniana e consequente lesão encefálica."
+      },
+      {
+        "letra": "B",
+        "texto": "Os achados fetais descritos são usuais nessa idade gestacional e, em sua maioria, regridem com o evoluir da gravidez, associando-se a bom prognóstico pós-natal."
+      },
+      {
+        "letra": "C",
+        "texto": "É esperado que a gestação evolua com polidrâmnio, na medida em que há alteração renal associada."
+      },
+      {
+        "letra": "D",
+        "texto": "Os achados ultrassonográficos fetais descritos são compatíveis com uma síndrome genética autossômica recessiva."
+      },
+      {
+        "letra": "E",
+        "texto": "Pela lei vigente no Brasil, o abortamento no caso está liberado sem a necessidade de autorização judicial."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10992,
+    "tags": [],
+    "enunciado": "A ultrassonogra(cid:50)a morfológica fetal de primeiro trimestre, realizada entre a 11ª a 14ª semanas de gestação, é um exame que consiste em fazer uma avaliação das estruturas de cada segmento do feto e do líquido amniótico, cordão umbilical e placenta, com auxílio do Doppler colorido. Esse exame avalia principalmente o risco de _______________ baseando-se _______________. Assinale a alternativa que complementa de forma correta as lacunas da questão:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hérnia diafragmática congênita; no diâmetro do anel diafragmático."
+      },
+      {
+        "letra": "B",
+        "texto": "Malformações cardíacas; no diâmetro do ducto arterioso."
+      },
+      {
+        "letra": "C",
+        "texto": "Síndromes cromossômicas; na translucência nucal."
+      },
+      {
+        "letra": "D",
+        "texto": "Descolamento prematuro de placenta (DPP; no fundo do útero)."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10993,
+    "tags": [],
+    "enunciado": "Gestante multípara com idade gestacional de 23 semanas apresenta poli-hidrâmnio e o ultrassom obstétrico revela que o concepto é anencéfalo. Assinale a alternativa CORRETA entre as abaixo relacionadas:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Caso a paciente queira interromper a gravidez, a instituição hospitalar pode alegar‘escusa de consciência’ para não efetuar essa interrupção, dando alta administrativa para a paciente."
+      },
+      {
+        "letra": "B",
+        "texto": "O médico assistente pode recusar a realização deste ato médico que, embora seja permitido por lei, é contrário aos ditames de sua consciência."
+      },
+      {
+        "letra": "C",
+        "texto": "Está indicada a interrupção da gravidez compulsoriamente, pois há inúmeros relatos científicos de complicações nestas gestações, como hipertensão arterial, gravidez prolongada, apresentações anômalas, entre outras."
+      },
+      {
+        "letra": "D",
+        "texto": "Será necessário novo exame de ultrassom com 32 semanas para confirmação da situação clínica do concepto e para se conseguir melhor resposta ao uso do misoprostol, na indução de parto vaginal."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10994,
+    "tags": [],
+    "enunciado": "Dentre os marcos ultrassonográficos de primeiro trimestre, o último a ser identificado com precisão é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "saco gestacional."
+      },
+      {
+        "letra": "B",
+        "texto": "eco fetal com BCF."
+      },
+      {
+        "letra": "C",
+        "texto": "placenta."
+      },
+      {
+        "letra": "D",
+        "texto": "cabeça fetal."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10995,
+    "tags": [],
+    "enunciado": "Na década de 90 do século passado, um grupo de pesquisadores do King’s College, de Londres, descreveu um marcador chamado translucência nucal. Em relação a esse marcador, assinale a alternativa que apresenta, respectivamente, uma utilidade desse marcador, o trimestre da gestação em que se faz essa avaliação e o método utilizado para a sua avaliação.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Diagnóstico de trissomia do cromossomo 21/ Primeiro trimestre da gestação/ Dosagem sanguínea materna."
+      },
+      {
+        "letra": "B",
+        "texto": "Rastreamento de trissomia do cromossomo 21/ Primeiro trimestre de gestação/ Ultrassonografia."
+      },
+      {
+        "letra": "C",
+        "texto": "Diagnóstico de malformação cardíaca/ Primeiro trimestre de gestação/ Ultrassonografia."
+      },
+      {
+        "letra": "D",
+        "texto": "Rastreamento de trissomia dos cromossomos 13, 18, 21/ Primeiro trimestre de gestação/ Dosagem sanguínea materna."
+      },
+      {
+        "letra": "E",
+        "texto": "Diagnóstico de trissomia do cromossomo 21/ Primeiro trimestre de gestação/Ultrassonografia."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10996,
+    "tags": [],
+    "enunciado": "Em uma gestante de 38 anos foi realizado ultrassom de 11 semanas cujo laudo evidenciou translucência nucal de 2,0 mm, osso nasal presente e Doppler de ducto venoso com fluxo anterógrado. Podemos afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "os 3 parâmetros estão normais."
+      },
+      {
+        "letra": "B",
+        "texto": "2 parâmetros estão normais."
+      },
+      {
+        "letra": "C",
+        "texto": "somente 1 parâmetro esta normal."
+      },
+      {
+        "letra": "D",
+        "texto": "todos os parâmetros estão alterados ."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10997,
+    "tags": [],
+    "enunciado": "Paciente de 27 anos, GIIPIA0, comparece à consulta de pré-natal com 13 semanas de gestação, trazendo ultrassonogra(cid:50)a realizada na semana anterior com o seguinte laudo: feto em situação e posição variáveis, com comprimento cabeça-nádega (CCN) = 57mm, BCF = 148bpm, translucência nucal = 4mm, osso nasal ausente e ducto venoso com onda A positiva; placenta anterior grau 0. A conduta correta para esse caso é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "encaminhar para a realização de cariótipo fetal"
+      },
+      {
+        "letra": "B",
+        "texto": "informar a paciente que trata-se de exame normal, devendo seguir com pré-natal regular"
+      },
+      {
+        "letra": "C",
+        "texto": "encaminhar para realização de coleta de fração livre de DNA fetal para confirmação diagnóstica"
+      },
+      {
+        "letra": "D",
+        "texto": "explicar que a transluscência nucal é um exame altamente específico para rastreio de aneuploidias e orientar sobre prognóstico do feto e terapia pós-natal"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10998,
+    "tags": [],
+    "enunciado": "A avaliação da translucência nucal está mais associada a anomalias fetais quando:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Maior que 2,5 mm na 12ª semana."
+      },
+      {
+        "letra": "B",
+        "texto": "Maior que 2,5 mm na 18ª semana."
+      },
+      {
+        "letra": "C",
+        "texto": "Menor que 2,5 mm na 12ª semana."
+      },
+      {
+        "letra": "D",
+        "texto": "Menor que 2,5 mm na 18ª semana."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10999,
+    "tags": [],
+    "enunciado": "Sobre translucência nucal, assinale a alternativa incorreta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A medida do ccn deve estar entre 45 e 84mm."
+      },
+      {
+        "letra": "B",
+        "texto": "É a imagem ultrassonográfica do aumento de líquido que se forma na regiao da nuca fetal."
+      },
+      {
+        "letra": "C",
+        "texto": "Após a decima quarta semana a translucência nucal aumentada geralmente se normaliza independente de o cariótipo estar ou não alterado."
+      },
+      {
+        "letra": "D",
+        "texto": "A translucência nucal aumentada está associada apenas a alterações cromossômicas tais como trissomia do 21, 18 e 13."
+      },
+      {
+        "letra": "E",
+        "texto": "Deve ser realizada entre 11 e 13 semanas e 6 dias de gestação."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11000,
+    "tags": [],
+    "enunciado": "Considerando uma gestante no primeiro trimestre de evolução, a ultrassonogra(cid:50)a de rastreio na 12ª semana, deve analisar principalmente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O comprimento cabeça -nádega"
+      },
+      {
+        "letra": "B",
+        "texto": "A quantidade de líquido amniótico"
+      },
+      {
+        "letra": "C",
+        "texto": "A medida da translucência nucal e a presença de osso nasal"
+      },
+      {
+        "letra": "D",
+        "texto": "A posição fetal"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11001,
+    "tags": [],
+    "enunciado": "Pelo modelo piramidal de assistência pré-natal o ultrassom mais importante é realizado:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "no primeiro trimestre."
+      },
+      {
+        "letra": "B",
+        "texto": "no segundo trimestre."
+      },
+      {
+        "letra": "C",
+        "texto": "no terceiro trimestre."
+      },
+      {
+        "letra": "D",
+        "texto": "não há definição de qual seria a época mais importante."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11002,
+    "tags": [],
+    "enunciado": "O NIPT (no invasive pré natal test) é um teste genético não invasivo que usa uma amostra de sangue da mãe para analisar o DNA fetal circulante no plasma materno e detectar determinadas alterações cromossômicas. Quais são os cromossomos analisados em um NIPT básico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "13, 18, 21, X e Y"
+      },
+      {
+        "letra": "B",
+        "texto": "13, 18, 21, Fibrose cística"
+      },
+      {
+        "letra": "C",
+        "texto": "Pentalogia de Cantrell, Fibrose cística, Trissomia 21 e 18"
+      },
+      {
+        "letra": "D",
+        "texto": "Síndrome de Prader Willi, Síndrome de Arnold Chiari tipo 2, Tetralogia de Fallot"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11003,
+    "tags": [],
+    "enunciado": "O diagnóstico ultrassonográfico de artéria umbilical única durante a gestação representa:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "bom prognóstico fetal, apesar do risco de malformação, que deve ser investigado."
+      },
+      {
+        "letra": "B",
+        "texto": "risco de vida fetal muito elevado, chegando a óbito em 85% dos casos."
+      },
+      {
+        "letra": "C",
+        "texto": "anomalia incompatível com a vida, com provável abortamento espontâneo como desfecho."
+      },
+      {
+        "letra": "D",
+        "texto": "achado comum que não necessita investigação."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11004,
+    "tags": [],
+    "enunciado": "Em relação aos marcadores séricos para aneuploidias, em caso de Síndrome de Down, o resultado que re(cid:85)ete risco aumentado, no primeiro trimestre, é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "PAPP-A baixo e BHCG livre aumentado."
+      },
+      {
+        "letra": "B",
+        "texto": "PAPP-A e BHCG livre aumentados."
+      },
+      {
+        "letra": "C",
+        "texto": "PAPP-A e BHCG livre diminuídos."
+      },
+      {
+        "letra": "D",
+        "texto": "PAPP-A aumentado e BHCG livre diminuído."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11005,
+    "tags": [],
+    "enunciado": "Um ultrassom em gestação de 32 semanas evidencia oligoâmnio absoluto, rins fetais não identi(cid:50)cáveis e bolha gástrica ausente. A síndrome mais provável nesse caso é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Potter"
+      },
+      {
+        "letra": "B",
+        "texto": "Edwards"
+      },
+      {
+        "letra": "C",
+        "texto": "Patau"
+      },
+      {
+        "letra": "D",
+        "texto": "Down"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11006,
+    "tags": [],
+    "enunciado": "Um ultrassom em gestação de 32 semanas evidencia oligoâmnio absoluto, rins fetais não identi(cid:50)cáveis e bolha gástrica ausente. A síndrome mais provável nesse caso é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Potter"
+      },
+      {
+        "letra": "B",
+        "texto": "Edwards"
+      },
+      {
+        "letra": "C",
+        "texto": "Patau"
+      },
+      {
+        "letra": "D",
+        "texto": "Down"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11007,
+    "tags": [],
+    "enunciado": "A principal indicação de ecocardiograma fetal está na gestante:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "diabética gestacional com Hb Glicada 5,6% no primeiro trimestre."
+      },
+      {
+        "letra": "B",
+        "texto": "diabética tipo 2 com Hb Glicada 10,2% no primeiro trimestre."
+      },
+      {
+        "letra": "C",
+        "texto": "diabética tipo 1 com Hb Glicada 6,1% no primeiro trimestre."
+      },
+      {
+        "letra": "D",
+        "texto": "diabética tipo 2 com Hb Glicada 5,9% no segundo trimestre."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11008,
+    "tags": [],
+    "enunciado": "A mãe de um paciente com mielomeningocele informa, em uma consulta de rotina, a intenção de engravidar novamente. Para a prevenção da recorrência da mielomeningocele, recomenda-se a suplementação de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Vitamina C."
+      },
+      {
+        "letra": "B",
+        "texto": "Carnitina."
+      },
+      {
+        "letra": "C",
+        "texto": "Ácido fólico."
+      },
+      {
+        "letra": "D",
+        "texto": "Homocisteína."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11009,
+    "tags": [],
+    "enunciado": "Tercigesta, 35 anos de idade, faz ultrassonogra(cid:50)a morfológica do primeiro trimestre que mostra translucência nucal aumentada, ausência de osso nasal e alteração do ducto venoso. É correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "deve-se realizar amniocentese para pesquisa de trissomias na 20ª semana."
+      },
+      {
+        "letra": "B",
+        "texto": "o exame é patognomônico de síndrome de Down."
+      },
+      {
+        "letra": "C",
+        "texto": "há entre 95% e 99% de chance de aneuploidia fetal."
+      },
+      {
+        "letra": "D",
+        "texto": "está indicado biópsia de vilo corial para cariótipo."
+      },
+      {
+        "letra": "E",
+        "texto": "está indicado coletar cariótipo fetal por punção de sangue do cordão."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11010,
+    "tags": [],
+    "enunciado": "A partir de qual idade gestacional os batimentos cardíacos fetais são detectados ao ultrassom?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "4 semanas."
+      },
+      {
+        "letra": "B",
+        "texto": "6 semanas."
+      },
+      {
+        "letra": "C",
+        "texto": "7 semanas."
+      },
+      {
+        "letra": "D",
+        "texto": "9 semanas."
+      },
+      {
+        "letra": "E",
+        "texto": "10 semanas."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 11011,
+    "tags": [],
+    "enunciado": "Segundo a American College of Obstetrics and Gynecologists (ACOG, 2015) quanto ao rastreamento das anomalias cromossômicas, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A deteccção do DNA livre circulante no sangue materno (cfDNA) é um teste que pode ser realizado entre 10 semanas e o termo da gestação e constitui a melhor alternativa nos casos de baixo risco para trissomia de cromossomo 21."
+      },
+      {
+        "letra": "B",
+        "texto": "com a queda dos custos associados à realização do teste de detecção do DNA livre circulante no sangue materno (cfDNA) para rastreamento das anomalias cromossômicas, sua realização universal, inclusive nas gestações de baixo risco para aneuploidias, já é uma realidade"
+      },
+      {
+        "letra": "C",
+        "texto": "a presença de alterações ultrassonográficas, como aumento da transluscência nucal na avaliação morfológica de primeiro trimestre, em gestante de 45 anos com antecedentes de aneuploidia, é indicação de pesquisa do DNA livre circulante no sangue materno (cfDNA), preferencialmente à pesquisa do cariótipo por amniocentese, pois é menos invasivo."
+      },
+      {
+        "letra": "D",
+        "texto": "a combinação do rastreamento bioquímico (dosagem da fração beta livre da gonadotrofina coriônica humana e a dosagem de proteína plasmática-A associada à gestação) com a medida da transluscência nucal pela ultrassonografia morfológica, no primeiro trimestre, é um método adequado para o rastreamento das anomalias cromossômicas."
+      },
+      {
+        "letra": "E",
+        "texto": "a medida normal da transluscência nucal, a presença da onda-A reversa no ducto venoso, a ausência do osso nasal e a regurgitação da tricúspide pelo Doppler pulsátil são marcadores ultrassonográficos de normalidade cromossômica no primeiro trimestre."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11012,
+    "tags": [],
+    "enunciado": "O encontro de feto com rins hipoplásicos à ultrassonografia pode estar relacionado mais provavelmente à:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Síndrome de Edwards."
+      },
+      {
+        "letra": "B",
+        "texto": "Síndrome de Potter."
+      },
+      {
+        "letra": "C",
+        "texto": "Síndrome de Down."
+      },
+      {
+        "letra": "D",
+        "texto": "Síndrome de Patau."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11013,
+    "tags": [],
+    "enunciado": "Em ultrassom obstétrico de primeiro trimestre, a ausência ou atraso no aparecimento do osso nasal pode implicar",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "trissomia."
+      },
+      {
+        "letra": "B",
+        "texto": "defeito aberto do tubo neural."
+      },
+      {
+        "letra": "C",
+        "texto": "gastrosquise."
+      },
+      {
+        "letra": "D",
+        "texto": "anencefalia."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11014,
+    "tags": [],
+    "enunciado": "A ultrassonogra(cid:50)a para avaliação de translucência nucal como método de rastreio de anomalias cromossômicas deve ser realizada idealmente na seguinte época:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "4 a 8 semanas."
+      },
+      {
+        "letra": "B",
+        "texto": "7 a 11 semanas."
+      },
+      {
+        "letra": "C",
+        "texto": "18 a 22 semanas."
+      },
+      {
+        "letra": "D",
+        "texto": "14 a 18 semanas."
+      },
+      {
+        "letra": "E",
+        "texto": "11 a 14 semanas."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 11015,
+    "tags": [],
+    "enunciado": "Um grande marco, na prática obstétrica, ocorreu na segunda metade do século XX com a introdução da ultrassonogra(cid:50)a. A avaliação ultrassonográ(cid:50)ca possui diversas indicações e, entre as indicações para realização desse exame no 1° trimestre, está o(a):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "rastreio de aneuploidias"
+      },
+      {
+        "letra": "B",
+        "texto": "estimativa de liquído amniótico"
+      },
+      {
+        "letra": "C",
+        "texto": "medida do comprimento do colo"
+      },
+      {
+        "letra": "D",
+        "texto": "avaliação de inserção placentária"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11016,
+    "tags": [],
+    "enunciado": "Com os avanços tecnológicos da medicina, os índices de detecção de aneuploidia utilizando testes de rastreamento não invasivos aumentaram. Um resultado positivo no teste de triagem indica risco aumentado, mas não con(cid:50)rma o diagnóstico de aneuploidia. A medida da translucência nucal é um método ultrassonográ(cid:50)co consagrado no rastreio de aneuploidia no primeiro trimestre. Quais exames laboratoriais podem ser realizados em conjunto com a translucência nucal para rastreio bioquímico de aneuploidia no primeiro trimestre?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Alfafetoproteína e PAPP-A."
+      },
+      {
+        "letra": "B",
+        "texto": "Estriol, alfafetoproteína e hCG."
+      },
+      {
+        "letra": "C",
+        "texto": "ß-hCG e estriol."
+      },
+      {
+        "letra": "D",
+        "texto": "Estradiol e alfafetoproteína."
+      },
+      {
+        "letra": "E",
+        "texto": "PAPP-A e ß-hCG."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 11017,
+    "tags": [],
+    "enunciado": "Paciente de 26 anos, realiza rastreio combinado de aneuploidias do primeiro trimestre e o resultado apresenta o risco (cid:50)nal corrigido para trissomia do cromossomo 21 de 1 chance em 5000. Como aconselhar esta paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sugerir a realização de biópsia do vilo corial para o diagnóstico de certeza"
+      },
+      {
+        "letra": "B",
+        "texto": "Aconselhar como baixo risco para trissomia do 21"
+      },
+      {
+        "letra": "C",
+        "texto": "Complementar a avaliação com ecocardiograma fetal precoce"
+      },
+      {
+        "letra": "D",
+        "texto": "Complementar a avaliação com ultrassonografia morfológica e ecocardiograma fetal precoce"
+      },
+      {
+        "letra": "E",
+        "texto": "Complementar a avaliação com teste quádruplo"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11018,
+    "tags": [],
+    "enunciado": "Paciente (G2P1A0) comparece ao atendimento pré-natal na 22ª semana de gravidez, assintomática, com laudo de exame ultrassonográ(cid:50)co morfológico revelando: feto único, longitudinal, pélvico, BCF = 132 bpm; placenta corporal anterior grau 0 de maturação; índice de líquido amniótico = 0,8 cm e maior bolsão vertical = 0,5 cm; bexiga fetal aumentada de volume, com imagem \"em raquete\", associada a hidronefrose bilateral severa; restante da morfologia aparentemente sem alterações; peso fetal no percentil 38 para idade gestacional; doppler(cid:85)uxometria de artéria umbilical normal para idade gestacional. Diante desse quadro, uma das complicações que pode ser encontrada é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hipoplasia pulmonar fetal."
+      },
+      {
+        "letra": "B",
+        "texto": "Retenção placentária."
+      },
+      {
+        "letra": "C",
+        "texto": "Prolapso de cordão."
+      },
+      {
+        "letra": "D",
+        "texto": "Corioamnionite."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11019,
+    "tags": [],
+    "enunciado": "Durante o rastreamento para aneuploidias em gestante de 18 anos, o feto apresenta comprimento cabeça- nádegas de 38 mm, idade gestacional, estimada pela DUM, de 10 semanas e translucência nucal de 1,8 mm. A melhor conduta para o caso é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "considerar uma gestação de baixo-risco e encaminhar para a assistência pré-natal."
+      },
+      {
+        "letra": "B",
+        "texto": "desconsiderar o exame para este fim e reavaliar a medida da translucência nucal quando o comprimento cabeça-nádega estiver entre 45mm e 84mm."
+      },
+      {
+        "letra": "C",
+        "texto": "indicar a biópsia de vilo corial para confirmação diagnóstica da cromossomopatia."
+      },
+      {
+        "letra": "D",
+        "texto": "indicar a amniocentese após 16 semanas de gestação."
+      },
+      {
+        "letra": "E",
+        "texto": "solicitar a dosagem de PAPP-A e Beta-HCG livre para concluir o rastreamento."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11020,
+    "tags": [],
+    "enunciado": "O item que retrata o melhor marcador ultrassonogra(cid:50)co para rastreio de trissomias no 1° trimestre da gravidez é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ossos longos encurtados."
+      },
+      {
+        "letra": "B",
+        "texto": "restrição de crescimento."
+      },
+      {
+        "letra": "C",
+        "texto": "artéria umbilical única."
+      },
+      {
+        "letra": "D",
+        "texto": "transluscência nucal."
+      },
+      {
+        "letra": "E",
+        "texto": "intestino hipercogênico."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11021,
+    "tags": [],
+    "enunciado": "Os principais objetivos da ultrassonografia de primeiro trimestre de gestação (realizada por via transvaginal) é avaliar a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "morfologia e a vitalidade fetal."
+      },
+      {
+        "letra": "B",
+        "texto": "idade gestacional, a vesicula vitelínica (VV) e o comprimento do colo uterino."
+      },
+      {
+        "letra": "C",
+        "texto": "localização da gravidez, o número de embriões e a idade gestacional pelo comprimento cabeça- nádegas (CCN)."
+      },
+      {
+        "letra": "D",
+        "texto": "idade gestacional pelo diâmetro médio do saco gestacional e os anexos embrionários e uterinos."
+      },
+      {
+        "letra": "E",
+        "texto": "morfologia uterina."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11022,
+    "tags": [],
+    "enunciado": "Para adequada assistência pré-natal, a determinação correta da idade gestacional é fator de grande importância. Assinale o parâmetro ultrassonográ(cid:50)co MAIS con(cid:50)ável para isso e o período gestacional ideal para sua avaliação:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Circunferência abdominal - segundo trimestre."
+      },
+      {
+        "letra": "B",
+        "texto": "Circunferência cefálica - primeiro trimestre."
+      },
+      {
+        "letra": "C",
+        "texto": "Comprimento da cabeça nádega - primeiro trimestre."
+      },
+      {
+        "letra": "D",
+        "texto": "Diâmetro biparietal - primeiro trimestre."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11023,
+    "tags": [],
+    "enunciado": "São estruturas que devem ser avaliadas no exame morfológico do primeiro trimestre da gravidez:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Translucência nucal, ducto venoso e líquido amniótico."
+      },
+      {
+        "letra": "B",
+        "texto": "Osso nasal, translucência nucal e ducto venoso."
+      },
+      {
+        "letra": "C",
+        "texto": "Ducto venoso, líquido amniótico e CCN."
+      },
+      {
+        "letra": "D",
+        "texto": "Sexo fetal, osso nasal e ducto venoso."
+      },
+      {
+        "letra": "E",
+        "texto": "Líquido amniótico, CCN e osso nasal."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11024,
+    "tags": [],
+    "enunciado": "Observe a figura abaixo. A estrutura assinalada na figura é de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Polo cefálico embrionário."
+      },
+      {
+        "letra": "B",
+        "texto": "Vesícula vitelínica."
+      },
+      {
+        "letra": "C",
+        "texto": "Saco gestacional."
+      },
+      {
+        "letra": "D",
+        "texto": "Conduto onfalomesentérico."
+      },
+      {
+        "letra": "E",
+        "texto": "Coração fetal inicial."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11025,
+    "tags": [],
+    "enunciado": "Com relação ao rastreamento de aneuploidias no primeiro trimestre da gestação, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A medida da translucência nucal quando acima do 95o percentil infere um alto risco para aneuploidias, independentemente da utilização de técnica padronizada."
+      },
+      {
+        "letra": "B",
+        "texto": "O risco de aneuploidias aumenta com a idade materna e com a idade gestacional."
+      },
+      {
+        "letra": "C",
+        "texto": "Adicionalmente à medida da translucência nucal, outros marcadores ecográficos, como o osso nasal, o ducto venoso e o fluxo tricúspide, podem ser utilizados no rastreamento de aneuploidias."
+      },
+      {
+        "letra": "D",
+        "texto": "O DNA fetal livre no sangue materno tem-se demonstrado um método de rastreamento de grande valor, principalmente pela alta taxa de detecção e baixo custo."
+      },
+      {
+        "letra": "E",
+        "texto": "O rastreamento bioquímico das aneuploidias pode ser feito pela dosagem sérica da fração beta livre da gonadotrofina coriônica humana e do hormônio antimulleriano."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11026,
+    "tags": [],
+    "enunciado": "O melhor período para realizar ultrassonogra(cid:50)a, com o objetivo de determinar a corionicidade de uma gestação gemelar é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "2° trimestre."
+      },
+      {
+        "letra": "B",
+        "texto": "3° trimestre."
+      },
+      {
+        "letra": "C",
+        "texto": "1° trimestre."
+      },
+      {
+        "letra": "D",
+        "texto": "em qualquer idade idade gestacional."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11027,
+    "tags": [],
+    "enunciado": "Mulher de 38 anos de idade, primigesta com 20 semanas, realizou ultrassonogra(cid:50)a morfológica que evidenciou anencefalia do feto. A respeito desse caso clínico, julgue o item a seguir. Visto o diagnóstico, deve-se realizar a interrupção da gestação, não sendo necessária uma abordagem multidisciplinar.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Certo."
+      },
+      {
+        "letra": "B",
+        "texto": "Errado."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11028,
+    "tags": [],
+    "enunciado": "O exame de ultrassonogra(cid:50)a é um exame de imagem, hoje, essencial no acompanhamento pré-natal. A translucência nucal é um importante parâmetro ultrassonográ(cid:50)co, que auxilia no rastreamento de anomalias cromossômicas, como a trissomia 21. Qual o melhor período da gestação para a avaliação da translucência nucal?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Entre a 7ª e a 10ª semanas de gestação."
+      },
+      {
+        "letra": "B",
+        "texto": "Entre a 11ª e a 13ª semanas de gestação."
+      },
+      {
+        "letra": "C",
+        "texto": "Entre a 22ª e a 26ª semanas de gestação."
+      },
+      {
+        "letra": "D",
+        "texto": "Entre a 28ª e a 32ª semanas de gestação."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11029,
+    "tags": [],
+    "enunciado": "Uma gestante de 32 semanas retorna ao pré-natal com exame ultrassonográ(cid:50)co que mostra hidronefrose unilateral em feto masculino, bexiga visualiada e líquido amniótico normal. Qual é a conduta preconizada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "interrupção da gestação"
+      },
+      {
+        "letra": "B",
+        "texto": "amniocenteses seriadas até o parto"
+      },
+      {
+        "letra": "C",
+        "texto": "cirurgia fetal"
+      },
+      {
+        "letra": "D",
+        "texto": "perfil biofísico fetal"
+      },
+      {
+        "letra": "E",
+        "texto": "expectante"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 11030,
+    "tags": [],
+    "enunciado": "Gestante 18 anos na 12ª semana de gestação foi realizar ultrassonogra(cid:50)a morfológica que evidenciou Translucência Nucal medindo 3,5 mm, osso nasal não visibilizado, regurgito da válvula tricúspide e onda A reversa do ducto venoso. Assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os achados estão normais e a próxima conduta será a ultrassonografia morfológica com 20 semanas"
+      },
+      {
+        "letra": "B",
+        "texto": "Os achados podem estar associados a cromossomopatias e deve ser oferecido a paciente Cariotipo fetal."
+      },
+      {
+        "letra": "C",
+        "texto": "Os achados diagnosticam cromossomopatia e para a paciente deve ser encaminhada para maternidade terciária"
+      },
+      {
+        "letra": "D",
+        "texto": "Os achados são normais e a paciente deve ser encaminhada ao pré-natal de risco habitual."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11031,
+    "tags": [],
+    "enunciado": "Objetivo principal e a melhor idade gestacional para avaliar a translucência nucal e observar a presença do osso nasal:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Avaliação da face fetal; entre 20 a 25 semanas."
+      },
+      {
+        "letra": "B",
+        "texto": "Investigação de defeitos do tubo neural; entre 8 e 12 semanas."
+      },
+      {
+        "letra": "C",
+        "texto": "Avaliação do risco de síndromes genéticas; entre 11 e 14 semanas."
+      },
+      {
+        "letra": "D",
+        "texto": "Investigação de malformações cardíacas; entre 10 e 13 semanas."
+      },
+      {
+        "letra": "E",
+        "texto": "Avaliação da morfologia fetal; entre 18 e 22 semanas."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11032,
+    "tags": [],
+    "enunciado": "Gestante, G2P1A0, idade gestacional de 12 semanas, encaminhada para avaliação com obstetra, com achados ecográ(cid:50)cos: translucência nucal= 4,8 mm; imagem multisseptada em região cervical e dorsal do feto, sugestiva de higroma cístico; duto venoso com onda A positiva e osso nasal ausente. Frente ao caso clínico, podemos afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "necessidade de realização de ultrassonografia morfológica do primeiro e segundo trimestre, além de cardiotocografia fetal."
+      },
+      {
+        "letra": "B",
+        "texto": "tal achado possui grande associação com doenças genéticas, dentre elas, a mais comum é a trissomia do cromossomo 13, associado a holoprosencefalia semilobar."
+      },
+      {
+        "letra": "C",
+        "texto": "deve-se orientar o casal para o mau prognóstico fetal, devido à elevada probabilidade de aneuploidias cromossômicas, frente o duto venoso positivo."
+      },
+      {
+        "letra": "D",
+        "texto": "a orientação para a necessidade do estudo do cariótipo fetal é relevante, pois há grande probabilidade de aneuploidias fetais, sendo a monossomia do X a mais comum."
+      },
+      {
+        "letra": "E",
+        "texto": "o estudo do DNA fetal em sangue periférico passa a ser imperativo, nesse caso, pois permite a identificação das 5 principais aneuploidias cromossômicas fetais e nos assegura síndromes gênicas."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11033,
+    "tags": [],
+    "enunciado": "Os sinais do “limão” e da “banana” são achados sonográficos observados na",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "anencefalia."
+      },
+      {
+        "letra": "B",
+        "texto": "acrania."
+      },
+      {
+        "letra": "C",
+        "texto": "malformação de Arnold-Chiari II."
+      },
+      {
+        "letra": "D",
+        "texto": "síndrome de Budd-Chiari."
+      },
+      {
+        "letra": "E",
+        "texto": "síndrome de Chiari-Frommel."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11034,
+    "tags": [],
+    "enunciado": "A placentomegalia está associada a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "agenesia renal bilateral."
+      },
+      {
+        "letra": "B",
+        "texto": "insuficiência placentar."
+      },
+      {
+        "letra": "C",
+        "texto": "restrição do crescimento fetal."
+      },
+      {
+        "letra": "D",
+        "texto": "placenta anular."
+      },
+      {
+        "letra": "E",
+        "texto": "eritroblastose fetal."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 11035,
+    "tags": [],
+    "enunciado": "Quanto aos procedimentos indicados para análise citogenética de fetos, é CORRETO afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A amniocentese genética deve ser oferecida a todas as gestantes com mais de 30 anos de idade, no momento da fecundação."
+      },
+      {
+        "letra": "B",
+        "texto": "A biópsia de vilo corial apresenta complicações extremamente raras, portanto é o método de escolha para análise citogenética dos fetos em qualquer idade gestacional."
+      },
+      {
+        "letra": "C",
+        "texto": "Não deve ser indicada na vigência de marcador de risco fetal diagnosticado em ultrassonografia morfológica de primeiro trimestre."
+      },
+      {
+        "letra": "D",
+        "texto": "A amniocentese para fins de obtenção de cariótipo fetal pode ser oferecida ao casal, nos casos de gestante ou pai portador de anormalidade cromossômica ou antecedente de feto com anormalidade cromossômica."
+      },
+      {
+        "letra": "E",
+        "texto": "A amniocentese citogenética realizada no segundo trimestre apresenta altas taxas de complicações quando comparada aos outros procedimentos diagnósticos em medicina fetal"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11036,
+    "tags": [],
+    "enunciado": "O exame ultrassonográ(cid:50)co morfológico de 1° trimestre de gestante com 41 anos de idade, evidenciou translucência nucal aumentada, com demais parâmetros (ducto venoso, osso nasal, angulo nasal) normais. Neste caso, a afecção fetal mais provável é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Deleção do cromossomo 6"
+      },
+      {
+        "letra": "B",
+        "texto": "Síndrome de Turner"
+      },
+      {
+        "letra": "C",
+        "texto": "Trissomia do cromossomo 18"
+      },
+      {
+        "letra": "D",
+        "texto": "Cardiopatia fetal"
+      },
+      {
+        "letra": "E",
+        "texto": "Trissomia do cromossomo 21"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 11037,
+    "tags": [],
+    "enunciado": "Com relação ao desenvolvimento fetal, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Centros de ossificação e movimentos espontâneos acontecem a partir das 12 semanas"
+      },
+      {
+        "letra": "B",
+        "texto": "a nomenclatura embrião é usada até as 16 semanas"
+      },
+      {
+        "letra": "C",
+        "texto": "circulação feto placentária se completa na décima quarta semana"
+      },
+      {
+        "letra": "D",
+        "texto": "Os néfros são formados com 4 semanas de gestação"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11038,
+    "tags": [],
+    "enunciado": "A diferenciação sexual pode ser observada ao ultrassom obstétrico somente a partir de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "9 semanas de gestação."
+      },
+      {
+        "letra": "B",
+        "texto": "16 semanas de gestação."
+      },
+      {
+        "letra": "C",
+        "texto": "20 semanas de gestação."
+      },
+      {
+        "letra": "D",
+        "texto": "12 semanas de gestação."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11039,
+    "tags": [],
+    "enunciado": "Mulher de 28 anos, primigesta, comparece ao setor de medicina fetal para realizar seu primeiro exame ultrassonográ(cid:50)co. Pela data da última menstruação, encontra-se com 12 semanas e três dias de gestação. Entre as indicações do exame, encontra-se:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Avaliação do volume de líquido amniótico."
+      },
+      {
+        "letra": "B",
+        "texto": "Identificação da estática fetal."
+      },
+      {
+        "letra": "C",
+        "texto": "Rastreio de aneuploidias."
+      },
+      {
+        "letra": "D",
+        "texto": "Estimativa do peso fetal."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11040,
+    "tags": [],
+    "enunciado": "Nos últimos anos, algumas técnicas de diagnóstico permitiram investigação do DNA fetal no sangue periférico da mãe, sem risco para o feto. O exame do DNA fetal livre está mais indicado em que situação?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pacientes com alto risco para alterações cromossômicas do 13 e 21."
+      },
+      {
+        "letra": "B",
+        "texto": "Pacientes com baixo risco de alterações cromossômicas."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas para casais nos quais os pais são heterozigotos para doenças autossômicas recessivas"
+      },
+      {
+        "letra": "D",
+        "texto": "Como rotina em todas as gestações."
+      },
+      {
+        "letra": "E",
+        "texto": "Pacientes com risco intermediário para alterações cromossômicas."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 11041,
+    "tags": [],
+    "enunciado": "Foco ecogênico do músculo papilar no ventrículo do coração do feto evidenciado pela ultrassonogra(cid:50)a de rotina no pré-natal. Qual alternativa abaixo indica como é caracterizado o achado escrito?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sinal de Faget."
+      },
+      {
+        "letra": "B",
+        "texto": "\"Star in the Heart\""
+      },
+      {
+        "letra": "C",
+        "texto": "Sinal de Tinel"
+      },
+      {
+        "letra": "D",
+        "texto": "\"Golf Ball\""
+      },
+      {
+        "letra": "E",
+        "texto": "Alteração típica nos casos de gestante tabagista"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11042,
+    "tags": [],
+    "enunciado": "Sobre os métodos de rastreamento de aneuploidias na gestação é CORRETO afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A transluscência nucal deve ser avaliada entre 9 e 13 semanas"
+      },
+      {
+        "letra": "B",
+        "texto": "A transluscência nucal deve ser avaliada no período em que o comprimento cabeça- nádega (CCN) mede entre 45 e 84 mm"
+      },
+      {
+        "letra": "C",
+        "texto": "O ducto venoso deve ser considerado normal se houver onda \"a\" reversa"
+      },
+      {
+        "letra": "D",
+        "texto": "A presença de osso nasal deve ser avaliada após 14 semanas"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11043,
+    "tags": [],
+    "enunciado": "O advento da ultra-sonogra(cid:50)a representou um grande avanço na área materno-fetal, permitindo uma visão não só do ambiente intra-uterino, mas também do feto no papel paciente. Ultra-sonogra(cid:50)a no primeiro trimestre é realizada, por via transvaginal, antes da 12º semana da idade gestacional. As suas principais aplicações são ... EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Determinação precoce da localização tópica ou ectópica da gestação"
+      },
+      {
+        "letra": "B",
+        "texto": "Determinação da corionicidade em gestações gemelares"
+      },
+      {
+        "letra": "C",
+        "texto": "Diagnóstico do número de fetos"
+      },
+      {
+        "letra": "D",
+        "texto": "Avaliar a localização da placenta"
+      },
+      {
+        "letra": "E",
+        "texto": "Nenhuma das alternativas anteriores"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11044,
+    "tags": [],
+    "enunciado": "Qual parâmetro NÃO está incluso na investigação ultrassonográ(cid:50)ca morfológica do primeiro trimestre (entre 11 e 13 semanas) para aneuploidia fetal?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ducto venoso"
+      },
+      {
+        "letra": "B",
+        "texto": "Osso nasal fetal"
+      },
+      {
+        "letra": "C",
+        "texto": "Regurgitação tricúspide"
+      },
+      {
+        "letra": "D",
+        "texto": "Translucência nucal"
+      },
+      {
+        "letra": "E",
+        "texto": "Diâmetro cerebelar fetal"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 11045,
+    "tags": [],
+    "enunciado": "Analise os parâmetros ultrassonográficos, abaixo: I. Translucência nucal.; II. Diâmetro Bi-parietal.; III. Osso nasal.; IV. Fluxo de ducto venoso.; V. Diâmetro dos ventrículos cerebrais. Os parâmetros analisados na ultrassom de primeiro trimestre para quantificar o risco de trissomias são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, III e V, apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "I, II e III, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "II, III e IV, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "I, III e IV, apenas."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11046,
+    "tags": [],
+    "enunciado": "Em relação aos parâmetros ultrassonográ(cid:50)cos abaixo, a assertiva que contém aqueles com importância quando realizados no ultrassom de primeiro trimestre é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Translucência Nucal / Doppler de Artéria Umbilical / Doppler de Artéria Cerebral Média."
+      },
+      {
+        "letra": "B",
+        "texto": "Doppler de Artéria Umbilical / Doppler de Ducto Venoso / Doppler de Ducto Arterioso."
+      },
+      {
+        "letra": "C",
+        "texto": "Translucência Nucal / Doppler de Ducto Venoso / Osso Nasal."
+      },
+      {
+        "letra": "D",
+        "texto": "Osso Nasal / Doppler de Ducto Arterioso / Doppler de Artéria Cerebral Média."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11047,
+    "tags": [],
+    "enunciado": "Entre os achados possíveis na ultrassonogradia pré-natal, sugestivos de malformações congênicas urinárias, a de melhor prognóstico quanto à função renal é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Obstrução infravesical."
+      },
+      {
+        "letra": "B",
+        "texto": "Oligoidrâmnio."
+      },
+      {
+        "letra": "C",
+        "texto": "Hidronefrose."
+      },
+      {
+        "letra": "D",
+        "texto": "Rim multicístico bilateral."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11048,
+    "tags": [],
+    "enunciado": "Primigesta, 44 anos, atualmente na 20ª semana de gestação, transluscência nucal (TN) medindo 4,0 mm e resultado de cariótipo por amniocentese normal (realizado na 16ª semana). A conduta mais adequada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Orientar sobre prognóstico fetal desfavorável e oferecer interrupção legal da gestação."
+      },
+      {
+        "letra": "B",
+        "texto": "Investigar infecção fetal, realizar ecocardiografia fetal e avaliação da vitalidade fetal."
+      },
+      {
+        "letra": "C",
+        "texto": "Descartar malformações, realizar ecocardiografia fetal pelo risco de trissomias."
+      },
+      {
+        "letra": "D",
+        "texto": "Descartar malformação cardíaca fetal, rastrear malformações subjacentes e investigar alterações gênicas."
+      },
+      {
+        "letra": "E",
+        "texto": "Realizar pesquisa de DNA fetal no sangue materno e avaliar aneuploidias fetais."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11049,
+    "tags": [],
+    "enunciado": "Numa gestação de 8 semanas, o achado ultrassonográfico normal é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Saco gestacional intraútero com vesícula vitelínica."
+      },
+      {
+        "letra": "B",
+        "texto": "Ausência de imagem intrauterina nesta fase."
+      },
+      {
+        "letra": "C",
+        "texto": "Saco gestacional intraútero de contornos regulares, sem evidência de eco embrionário."
+      },
+      {
+        "letra": "D",
+        "texto": "Saco gestacional intraútero de contornos regulares contendo vesícula vitelínica e embrião com batimentos cardíacos visualizados."
+      },
+      {
+        "letra": "E",
+        "texto": "Saco gestacional intraútero contendo vesícula vitelínica e embrião com batimentos cardíacos não visualizados."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11050,
+    "tags": [],
+    "enunciado": "A dosagem da alfafetoproteína (AFP) sérica tem valor para avaliação de risco de fetos com malformações congênitas. Assinale a condição em que teremos dosagens de AFP abaixo do normal:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Trissomias."
+      },
+      {
+        "letra": "B",
+        "texto": "Defeitos do tubo neural."
+      },
+      {
+        "letra": "C",
+        "texto": "Onfalocele ou gastrosquise."
+      },
+      {
+        "letra": "D",
+        "texto": "Gestação gemelar."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11051,
+    "tags": [],
+    "enunciado": "A medida indicada na imagem ultrassonográ(cid:50)ca é utilizada para (Conforme imagem do caderno de questões)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "confirmar precocemente a idade gestacional."
+      },
+      {
+        "letra": "B",
+        "texto": "avaliar o risco de trissomia fetal"
+      },
+      {
+        "letra": "C",
+        "texto": "avaliar o risco de pré-eclâmpsia grave."
+      },
+      {
+        "letra": "D",
+        "texto": "avaliar malformação neurológica fetal."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11052,
+    "tags": [],
+    "enunciado": "Qual dos exames abaixo permite aferir a cronologia gestacional (idade gestacional)?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Índice de Bishop."
+      },
+      {
+        "letra": "B",
+        "texto": "Biometria fetal pelo ultrassom."
+      },
+      {
+        "letra": "C",
+        "texto": "Avaliação do comprimento do colo uterino pelo ultrassom transvaginal."
+      },
+      {
+        "letra": "D",
+        "texto": "Cardiotocografia basal."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11053,
+    "tags": [],
+    "enunciado": "Quanto ao rastreio para aneuploidias realizado entre 11 e 13+6 semanas, é CORRETO afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A síndrome de Down tem seu diagnóstico confirmado quando os três marcadores ultrassonográficos mais comuns estão alterados (translucência nucal, osso nasal e fluxo pelo ducto venoso)."
+      },
+      {
+        "letra": "B",
+        "texto": "Podemos associar marcadores bioquímicos e ultrassonográficos para aumentar a taxa de detecção das síndromes."
+      },
+      {
+        "letra": "C",
+        "texto": "A dosagem do PAPP-A e do beta-hCG são importantes, pois suas taxas estão diminuídas nas três síndromes genéticas rastreadas pelo método."
+      },
+      {
+        "letra": "D",
+        "texto": "A síndrome de Edwards e a síndrome de Patau não precisam ser rastreadas já que são incompatíveis com a vida."
+      },
+      {
+        "letra": "E",
+        "texto": "Mulheres cuja avaliação indique baixo risco para síndrome de Down, mas que tem idade materna avançada, devem ser submetidas à amniocentese."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11054,
+    "tags": [],
+    "enunciado": "A mensuração da translucência nucal, marcador para doenças cromossomiais, deve ser realizada através da ultrassonografia no seguinte período:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "No final do segundo trimestre."
+      },
+      {
+        "letra": "B",
+        "texto": "Na vigésima semana, aproximadamente."
+      },
+      {
+        "letra": "C",
+        "texto": "Entre 11 semanas e 13 semanas + 6 dias de gestação."
+      },
+      {
+        "letra": "D",
+        "texto": "Próximo ao termo."
+      },
+      {
+        "letra": "E",
+        "texto": "No final do terceiro trimestre."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11055,
+    "tags": [],
+    "enunciado": "Qual marcador abaixo tem a maior importância para rastreio de aneuploidias fetais:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ducto Venoso."
+      },
+      {
+        "letra": "B",
+        "texto": "Osso Nasal."
+      },
+      {
+        "letra": "C",
+        "texto": "Refluxo tricúspide."
+      },
+      {
+        "letra": "D",
+        "texto": "Translucência nucal."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11056,
+    "tags": [],
+    "enunciado": "Gestante de 36 anos, com 16 semanas hoje, realizou exame ultrassonográ(cid:50)co para rastreio de aneuploidias com 13 semanas de gestação. A medida da Translucência Nucal (TN) é de 4,0 mm e não foi visualizado osso nasal. Como a gestante deseja saber se o feto apresenta ou não alguma aneuploidia, qual conduta seria a MAIS indicada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Biópsia de vilo corial."
+      },
+      {
+        "letra": "B",
+        "texto": "Amniocentese."
+      },
+      {
+        "letra": "C",
+        "texto": "Fetoscopia."
+      },
+      {
+        "letra": "D",
+        "texto": "Avaliação de marcadores bioquímicos."
+      },
+      {
+        "letra": "E",
+        "texto": "Avaliação de marcadores de 2º trimestre."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11057,
+    "tags": [],
+    "enunciado": "Em qual período e com qual (cid:50)nalidade deve ser realizado o ultrassom obstétrico, com medidas da Translucência Nucal e Osso Nasal?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "De 11 a 13 semanas, para avaliar integridade do Sistema Nervoso Central do feto."
+      },
+      {
+        "letra": "B",
+        "texto": "De 11 a 13 semanas, para rastrear doenças genéticas no feto."
+      },
+      {
+        "letra": "C",
+        "texto": "De 20 a 22 semanas, para pesquisar hidrocefalia e lesões na coluna cervical fetal."
+      },
+      {
+        "letra": "D",
+        "texto": "De 20 a 22 semanas, para diagnosticar defeitos abertos do tubo neural."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11058,
+    "tags": [],
+    "enunciado": "A ultrassonografia não faz o diagnóstico de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Síndrome de Down."
+      },
+      {
+        "letra": "B",
+        "texto": "Oligoâmnio."
+      },
+      {
+        "letra": "C",
+        "texto": "Agenesia renal."
+      },
+      {
+        "letra": "D",
+        "texto": "Hidrocefalia."
+      },
+      {
+        "letra": "E",
+        "texto": "Gestação dupla com morte de um dos fetos."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11059,
+    "tags": [],
+    "enunciado": "Em relação à alfa-fetoproteína fetal, assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sua concentração não tem relação com a idade gestacional fetal."
+      },
+      {
+        "letra": "B",
+        "texto": "É uma glicoproteína sintetizada pelo saco gestacional fetal e, mais tarde, pelo trato gastrointestinal e fígado fetais."
+      },
+      {
+        "letra": "C",
+        "texto": "É a principal proteína sérica do embrião e do feto sendo, portanto, análoga à albumina do adulto."
+      },
+      {
+        "letra": "D",
+        "texto": "Pode ser dosada no sangue materno, contribuindo para diagnóstico de defeitos abertos do tubo neural fetal."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11060,
+    "tags": [],
+    "enunciado": "Antônia está muito feliz com a descoberta de sua primeira gravidez. Tem 28 anos de idade e não apresenta nenhum problema de saúde até então. Encontra-se na 8º semana de gravidez pela data da última menstruação. Realizou todos os exames solicitados na sua primeira consulta de pré-natal, sendo orientada a realizar uma ultrassonogra(cid:50)a morfológica de 1º trimestre no período de 11 a 14 semanas de gestação. Assinale a alternativa INCORRETA a respeito da ultrassonografia morfológica de 1º trimestre:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Exame que possibilita a avaliação das estruturas anatômicas fetais."
+      },
+      {
+        "letra": "B",
+        "texto": "Exame de suma importância para predição de parto prematuro com base na medida do colo uterino."
+      },
+      {
+        "letra": "C",
+        "texto": "Confirma a idade gestacional, permitindo redução significativa no número de induções de parto por diagnóstico equivocado de gestação prolongada."
+      },
+      {
+        "letra": "D",
+        "texto": "Permite o diagnóstico de anencefalia, e a interrupção da gestação pode ser menos traumática para a gestante na primeira metade da gestação."
+      },
+      {
+        "letra": "E",
+        "texto": "Permite a avaliação dos fluxos na valva tricúspide e no ducto venoso, contribuindo de forma relevante para a suspeita e detecção pré-natal das cardiopatias fetais."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11061,
+    "tags": [],
+    "enunciado": "Gestante de 38 anos de idade, que no ultrassom morfológico do primeiro trimestre mostrou feto com translucência nucal = 3,0 mm e presença de cisto de plexo coroide direito, manifesta desejo de interromper a gestação. Qual é a conduta a ser adotada nesse caso?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Solicitar judicialmente a interrupção da gestação."
+      },
+      {
+        "letra": "B",
+        "texto": "Realizar a punção e drenagem do cisto de plexo coroide."
+      },
+      {
+        "letra": "C",
+        "texto": "Manter conduta expectante, por não ser permitido interromper a gestação."
+      },
+      {
+        "letra": "D",
+        "texto": "Prosseguir a investigação com ecocardiograma fetal na 14ª semana de gestação."
+      },
+      {
+        "letra": "E",
+        "texto": "Prosseguir a investigação diagnóstica com exame de cariótipo fetal."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 11062,
+    "tags": [],
+    "enunciado": "Gestante primigesta, 42 anos, com 12 semanas de idade gestacional. Realizou Ultrassom Obstétrico onde foi evidenciada Translucência Nucal (TN) aumentada (acima do 95° Percetil). Diante destes achados assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Trata-se de um feto com diagnóstico confirmado de síndrome de Down"
+      },
+      {
+        "letra": "B",
+        "texto": "O risco de este feto ter mal-formações cardíacas é o mesmo da população geral"
+      },
+      {
+        "letra": "C",
+        "texto": "Está autorizado o aborto em situações como estas"
+      },
+      {
+        "letra": "D",
+        "texto": "Trata-se um feto com risco aumentado para Trissomias tais como Trissomia do cromossomo 13, 18 ou 21"
+      },
+      {
+        "letra": "E",
+        "texto": "Trata-se de um achado fisiológico"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11063,
+    "tags": [],
+    "enunciado": "O risco de anomalias cromossômicas, particularmente a trissomia do cromossomo 21 ou síndrome de Down, aumenta com o aumento da idade materna. Este risco é em torno de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1/1734 aos 30 anos de idade."
+      },
+      {
+        "letra": "B",
+        "texto": "1/11 aos 35 anos de idade."
+      },
+      {
+        "letra": "C",
+        "texto": "1/965 aos 40 anos de idade."
+      },
+      {
+        "letra": "D",
+        "texto": "1/31 aos 45 anos de idade."
+      },
+      {
+        "letra": "E",
+        "texto": "1/110 aos 49 anos de idade."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11064,
+    "tags": [],
+    "enunciado": "Via de regra, translucência nucal aumentada é compatível com:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Risco gestacional."
+      },
+      {
+        "letra": "B",
+        "texto": "Doença cromossômica fetal."
+      },
+      {
+        "letra": "C",
+        "texto": "Cardiopatia fetal."
+      },
+      {
+        "letra": "D",
+        "texto": "Leucinose."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11065,
+    "tags": [],
+    "enunciado": "Com relação ao rastreamento e à detecção, bem como à ocorrência de cromossomopatia, a a(cid:50)rmação CORRETA é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A biópsia de vilo corial, embora tenha a vantagem de ser mais precoce e com resultado mais rápido que o da amniocentese, apresenta maior risco de mosaicismo."
+      },
+      {
+        "letra": "B",
+        "texto": "Gestantes tardias, com mais de 35 anos, quando primigestas, têm maior chance de apresentar cromossomopatia que as multíparas."
+      },
+      {
+        "letra": "C",
+        "texto": "A avaliação do nariz e do ducto venoso são marcadores importantes de cromossomopatia quando realizados entre a 18ª e a 20ª semana de gravidez."
+      },
+      {
+        "letra": "D",
+        "texto": "A maior parte dos indivíduos portadores de síndrome de Down no mundo são filhos de mães com mais de 35 anos."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11066,
+    "tags": [],
+    "enunciado": "Um dos objetivos da ultrassonografia obstétrica de 1º trimestre realizada entre 6 a 10 semanas é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Avaliação morfológica inicial."
+      },
+      {
+        "letra": "B",
+        "texto": "Avaliação da placenta."
+      },
+      {
+        "letra": "C",
+        "texto": "Confirmação da idade gestacional."
+      },
+      {
+        "letra": "D",
+        "texto": "Rastreamento de cromossomopatias."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11067,
+    "tags": [],
+    "enunciado": "Paciente de 29 anos, em sua primeira gestação, realiza o rastreio de aneuploidias do primeiro trimestre e o resultado apresenta alto risco para trissomia do cromossomo 21 ( risco corrigido de 1/10). Qual a melhor opção para aprofundar a investigação nesta fase da gestação?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Realizar biopsia do vilo corial."
+      },
+      {
+        "letra": "B",
+        "texto": "Realizar teste triplo (alfafetoproteína + estriol + inibina-A)."
+      },
+      {
+        "letra": "C",
+        "texto": "Realizar amniocentese."
+      },
+      {
+        "letra": "D",
+        "texto": "Realizar teste quádruplo (alfafetoproteína + estriol + inibina-A + ß-hCG)."
+      },
+      {
+        "letra": "E",
+        "texto": "Realizar cordocentese."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11068,
+    "tags": [],
+    "enunciado": "Em uma primípara de 30 anos, a espessura da translucência nucal mediu 5 mm com 11 semanas. Mesmo com cariótipo normal, este feto tem maior risco de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cardiopatia."
+      },
+      {
+        "letra": "B",
+        "texto": "Monossomia de X."
+      },
+      {
+        "letra": "C",
+        "texto": "Macrossomia."
+      },
+      {
+        "letra": "D",
+        "texto": "Defeito do tubo neural."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11069,
+    "tags": [],
+    "enunciado": "Das proteínas placentárias associadas à gravidez, a que tem sido utilizada no rastreio de aneuploidias fetais é a:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "D"
+      },
+      {
+        "letra": "B",
+        "texto": "C"
+      },
+      {
+        "letra": "C",
+        "texto": "B"
+      },
+      {
+        "letra": "D",
+        "texto": "A"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11070,
+    "tags": [],
+    "enunciado": "Considere as condições feto-anexiais usualmente associadas ao polidrâmnio: I. Atresia de esôfago; II. Doença hemolítica perinatal; III. Corioangioma, placenta circunvalada; IV. Placenta prévia, atresia uretral. São verdadeiras apenas as que vêm apresentadas em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e II."
+      },
+      {
+        "letra": "B",
+        "texto": "I, II, III."
+      },
+      {
+        "letra": "C",
+        "texto": "II e IV."
+      },
+      {
+        "letra": "D",
+        "texto": "I, III e IV."
+      },
+      {
+        "letra": "E",
+        "texto": "III e IV."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11071,
+    "tags": [],
+    "enunciado": "Dentre as anomalias cromossomíais, o abortamento espontâneo é mais comum na síndrome de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Down."
+      },
+      {
+        "letra": "B",
+        "texto": "Edwards."
+      },
+      {
+        "letra": "C",
+        "texto": "Turner."
+      },
+      {
+        "letra": "D",
+        "texto": "Patan."
+      },
+      {
+        "letra": "E",
+        "texto": "Klinefelter."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11072,
+    "tags": [],
+    "enunciado": "Assinale a alternativa CORRETA em relação às indicações da ultrassonografia de 1º trimestre:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Avaliar o risco de parto prematuro através da medida do colo uterino."
+      },
+      {
+        "letra": "B",
+        "texto": "Medir o tamanho do osso nasal fetal, visto que ossos nasais menores que 1 mm nesta fase gestacional têm elevada correlação com aneuploidias."
+      },
+      {
+        "letra": "C",
+        "texto": "Verificar a Translucência Nucal (TN). Valores de TN acima de 2,5 mm estão relacionados com o risco de o feto ser portador de trissomia do 21."
+      },
+      {
+        "letra": "D",
+        "texto": "Identificar mulheres com risco aumentado de desenvolver hipertensão na gestação através da aferição da resistência dos vasos uterinos."
+      },
+      {
+        "letra": "E",
+        "texto": "Identificar o fluxo sanguíneo no ducto venoso. A identificação da onda \"a\" positiva tem forte correlação com cromossomopatias."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11073,
+    "tags": [],
+    "enunciado": "Gestante de 40 anos, primigesta, vem com exame de ultrassonogra(cid:50)a com 12 semanas, que mostra translucência nucal = 3,5 cm e osso nasal ausente. Diante de tal exame, podemos concluir que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Existe risco para síndrome de Down."
+      },
+      {
+        "letra": "B",
+        "texto": "Não existe risco de cardiopatia."
+      },
+      {
+        "letra": "C",
+        "texto": "Não existe risco de síndrome de Down."
+      },
+      {
+        "letra": "D",
+        "texto": "Existe risco de aborto precoce."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11074,
+    "tags": [],
+    "enunciado": "Gestante de 24 semanas comparece para realização de ultrassom morfológico cujo achado foi: projeção em região de inserção de cordão umbilical com presença de alças intestinais em seu interior, sem sinais de necrose. Qual o provável diagnóstico e qual orientação quanto a via de parto?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Gastrosquise e parto vaginal"
+      },
+      {
+        "letra": "B",
+        "texto": "Hérnia umbilical e parto vaginal"
+      },
+      {
+        "letra": "C",
+        "texto": "Onfalocele e parto vaginal."
+      },
+      {
+        "letra": "D",
+        "texto": "Gastrosquise e parto cesárea"
+      },
+      {
+        "letra": "E",
+        "texto": "Onfalocele e parto cesárea"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 11075,
+    "tags": [],
+    "enunciado": "O ultrassom de primeiro trimestre para avaliar risco para cromossomopatias não pesquisa:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Translucência nucal"
+      },
+      {
+        "letra": "B",
+        "texto": "Avaliação do ducto venoso"
+      },
+      {
+        "letra": "C",
+        "texto": "Medida do ângulo fronto-maxilar"
+      },
+      {
+        "letra": "D",
+        "texto": "Presença de golf ball"
+      },
+      {
+        "letra": "E",
+        "texto": "Presença do osso nasal"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11076,
+    "tags": [],
+    "enunciado": "Paciente de 40 anos, nuligesta, deseja engravidar e gostaria de saber dos riscos e como fazer o rastreamento para cromossomopatias. Qual, dos exames abaixo, NÃO pode ser realizado durante a gravidez para se fazer o rastreamento?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Dosagem de Beta hCG e PAPP-A."
+      },
+      {
+        "letra": "B",
+        "texto": "US com Doppler de ducto venoso."
+      },
+      {
+        "letra": "C",
+        "texto": "Dosagem de CA 125."
+      },
+      {
+        "letra": "D",
+        "texto": "US com medida de translucência nucal e osso nasal."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11077,
+    "tags": [],
+    "enunciado": "Cinco por cento dos conceptos apresentam aumento da espessura da translucência nucal entre 11 e 14 semanas, ao ultra-som. Felizmente, a maioria deles é normal. Entretanto, neste grupo eleva-se risco de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aneuploidia e cardiopatia;"
+      },
+      {
+        "letra": "B",
+        "texto": "Neoplasia trofoblástica gestacional e hidropisia fetal;"
+      },
+      {
+        "letra": "C",
+        "texto": "Oligoâmnio e conceptos grandes para a idade gestacional;"
+      },
+      {
+        "letra": "D",
+        "texto": "Abortamento e infecção pré-natal."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11078,
+    "tags": [],
+    "enunciado": "Uma gestante de 32 semanas apresenta ao exame ultrassonográ(cid:50)co de pré-natal hidronefrose unilateral no feto único do sexo masculino. Qual a causa mais provável desta alteração encontrada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Refluxo vésico-ureteral."
+      },
+      {
+        "letra": "B",
+        "texto": "Megaureter."
+      },
+      {
+        "letra": "C",
+        "texto": "Válvula de uretra posterior."
+      },
+      {
+        "letra": "D",
+        "texto": "Estenose da junção uretero-piélica."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11079,
+    "tags": [],
+    "enunciado": "O exame ultrassonográ(cid:50)co na prática obstétrica atual tem importância indiscutível, pois se trata de exame complementar inócuo, não invasivo e, portanto, obrigatório no acompanhamento da gravidez. Entre as indicações da ultrassonografia no 1º trimestre da gravidez é correto citar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "datação da gravidez"
+      },
+      {
+        "letra": "B",
+        "texto": "estimativa de peso fetal"
+      },
+      {
+        "letra": "C",
+        "texto": "determinação da estática fetal"
+      },
+      {
+        "letra": "D",
+        "texto": "avaliação do volume de líquido amniótico"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11080,
+    "tags": [],
+    "enunciado": "Sobre o rastreamento de aneuploidias durante a gestação, escolha a opção que contemple apenas as assertivas verdadeiras: I. regurgitação da válvula tricúspide e o ângulo facial são alguns dos marcadores biofísicos usados no primeiro trimestre para rastrear Síndrome de Down. I. Anemia fetal, infecção fetal, hipoproteinemia fetal, congestão venosa da cabeça fetal, de(cid:50)ciência da drenagem linfática fetal e disfunção cardiovascular são alguns dos mecanismos (cid:50)siopatológicos da TN aumentada. III. A idade materna não interfere no cálculo de risco para Síndrome de Down. IV. O risco Síndrome de Turner aumenta com a idade materna.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e IV estão corretas."
+      },
+      {
+        "letra": "B",
+        "texto": "II e III estão corretas."
+      },
+      {
+        "letra": "C",
+        "texto": "I e II estão corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "II e IV estão corretas."
+      },
+      {
+        "letra": "E",
+        "texto": "Todas estão corretas."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11081,
+    "tags": [],
+    "enunciado": "Primigesta de 19 anos é atendida com 23 semanas de gestação no pré-natal de alto risco, devido ao achado ultrassonográ(cid:50)co de oligodramnia. A paciente está assintomática, nega perdas transvaginais ou quaisquer outras queixas. Ela apresenta exame ultrassonográ(cid:50)co realizado há uma semana com o seguinte laudo: feto único, pélvico, com biometria de 22 semanas de gravidez, adramnia, agenesia renal bilateral, restante da morfologia aparentemente sem alterações. Entre as complicações encontradas nesse caso, é correto citar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hipoplasia pulmonar fetal."
+      },
+      {
+        "letra": "B",
+        "texto": "Insuficiência placentária."
+      },
+      {
+        "letra": "C",
+        "texto": "Prolapso de cordão."
+      },
+      {
+        "letra": "D",
+        "texto": "Corioamnionite."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11082,
+    "tags": [],
+    "enunciado": "Mulher de 38 anos, GIIIPIAI, comparece à consulta pré-natal apresentando o seguinte laudo de exame ultrassonográ(cid:50)co: feto único com CCN = 58 mm, compatível com 12 semanas e dois dias, BCF = 158 bpm, translucência nucal medindo 3 mm, osso nasal ausente, ducto venoso com onda A positiva (normal). Calculado o risco relativo pós-teste, obteve-se resultado de 1:40. Com base nesses dados, deve-se fornecer a seguinte orientação à paciente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Informar a paciente que se trata de um diagnóstico de aneuploidia fetal e que não há tratamento para o caso."
+      },
+      {
+        "letra": "B",
+        "texto": "Aguardar o segundo trimestre para realizar ultrassonografia morfológica para confirmação diagnóstica."
+      },
+      {
+        "letra": "C",
+        "texto": "Tranquilizar a paciente em relação ao prognóstico fetal, pois o risco relativo de 1:40 é baixo."
+      },
+      {
+        "letra": "D",
+        "texto": "Realizar teste invasivo para coleta de material fetal, visando à realização de cariótipo."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11083,
+    "tags": [],
+    "enunciado": "Cinco por cento dos conceptos apresentam aumento da espessura da translucência nucal entre 11 e 14 semanas, ao ultrassom. Felizmente, a maioria deles é normal. Entretanto, neste grupo eleva-se o risco de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Neoplasia trofoblástica gestacional e hidropsia fetal."
+      },
+      {
+        "letra": "B",
+        "texto": "Aneuploidia e cardiopatia."
+      },
+      {
+        "letra": "C",
+        "texto": "Abortamento e infecção pré-natal."
+      },
+      {
+        "letra": "D",
+        "texto": "Oligoâmnio e conceptos grandes para a idade gestacional."
+      },
+      {
+        "letra": "E",
+        "texto": "Restrição do crescimento fetal e placenta de inserção baixa."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11084,
+    "tags": [],
+    "enunciado": "A determinação correta da idade gestacional é um dos mais importantes parâmetros da assistência pré- natal. Assinale o parâmetro ultrassonográ(cid:50)co mais (cid:50)dedigno para esta (cid:50)nalidade e o momento ideal da gestação para a realização da sua aferição:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Circunferência abdominal - segundo trimestre."
+      },
+      {
+        "letra": "B",
+        "texto": "Circunferência cefálica - primeiro trimestre."
+      },
+      {
+        "letra": "C",
+        "texto": "Comprimento Cabeça-Nádega (CCN) - primeiro trimestre."
+      },
+      {
+        "letra": "D",
+        "texto": "Diâmetro Biparietal (DBP) - terceiro trimestre."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11085,
+    "tags": [],
+    "enunciado": "Em ambulatório, diversas gestantes possuem questionamentos a respeito das ultrassonogra(cid:50)as (USG) realizadas durante o pré-natal. Qual a afirmativa abaixo é INCORRETA?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O CCN (comprimento cabeça-nádega) é uma medida utilizada para datar a idade gestacional até cerca de 13 semanas completas."
+      },
+      {
+        "letra": "B",
+        "texto": "A gestação anembrionada pode ser diagnosticada com saco gestacional com diâmetro médio de 25mm em medida via transabdominal sem vesícula vitelínica e sem embrião."
+      },
+      {
+        "letra": "C",
+        "texto": "O cálculo de risco trissomias a partir da translucência nucal não depende do valor do CCN."
+      },
+      {
+        "letra": "D",
+        "texto": "A ausência de osso nasal em USG realizado com 12 semanas aumenta o risco de trissomias."
+      },
+      {
+        "letra": "E",
+        "texto": "A onda-A reversa do ducto venoso em USG de primeiro trimestre aumenta o risco de trissomias"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11086,
+    "tags": [],
+    "enunciado": "A avaliação ultrassonográfica fetal até 14 semanas, que mostra risco de aneuplodia detecta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "translucência nucal aumentada."
+      },
+      {
+        "letra": "B",
+        "texto": "osso nasal com dimensão aumentada."
+      },
+      {
+        "letra": "C",
+        "texto": "comprimento cabeça nádega aumentado."
+      },
+      {
+        "letra": "D",
+        "texto": "líquido amniótico aumentado."
+      },
+      {
+        "letra": "E",
+        "texto": "dopplevelocimetria da artéria umbilical com resistência aumentada."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11087,
+    "tags": [],
+    "enunciado": "Não é causa de hidropsia fetal não imune:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Infecção por parvovírus."
+      },
+      {
+        "letra": "B",
+        "texto": "Sensibilização pelo fator D."
+      },
+      {
+        "letra": "C",
+        "texto": "Toxoplasmose."
+      },
+      {
+        "letra": "D",
+        "texto": "Cromossomopatias."
+      },
+      {
+        "letra": "E",
+        "texto": "Obstruções intestinais."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11088,
+    "tags": [],
+    "enunciado": "Gestante de 29 anos, IIG IP, com gestação de 12 sem., realizou US Obstétrico de 1º trimestre para rastreio de cromossomopatia e foi observado uma TN (Translucência Nucal) de 4,2 mm, ON (Osso Nasal) presente e ducto venoso normal. Encaminhada para aconselhamento genético, todas as alternativas estão corretas, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ecocardiografia fetal de preferência entre 26 e 28 sem."
+      },
+      {
+        "letra": "B",
+        "texto": "Indicado exame invasivo (biopsia de vilo corial ou amniocentese genética) para avaliar cariótipo fetal."
+      },
+      {
+        "letra": "C",
+        "texto": "US Morfológico Fetal de preferência entre 20 e 24 sem. de gestação."
+      },
+      {
+        "letra": "D",
+        "texto": "Acompanhamento normal da gestação, pois o valor da TN está normal."
+      },
+      {
+        "letra": "E",
+        "texto": "Dosagens maternas das frações livres de ß-hC G e da proteína plasmática A associada à gravidez (PAPP-A)."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11089,
+    "tags": [],
+    "enunciado": "Qual dos seguintes marcadores não se inclui no “teste triplo” para a Síndrome de Down?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Alfafetoproteína sérica materna."
+      },
+      {
+        "letra": "B",
+        "texto": "Lactogênio placentário."
+      },
+      {
+        "letra": "C",
+        "texto": "Estriol não conjugado."
+      },
+      {
+        "letra": "D",
+        "texto": "Gonadotropina coriônica."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11090,
+    "tags": [],
+    "enunciado": "Cinco por cento dos conceptos apresentam aumento da espessura da translucência nucal entre 11 e 14 semanas, ao ultrassom. Felizmente, a maioria deles é normal. Entretanto, neste grupo eleva-se o risco de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Neoplasia trofoblástica gestacional e hidropsia fetal."
+      },
+      {
+        "letra": "B",
+        "texto": "Abortamento e infecção pré-natal."
+      },
+      {
+        "letra": "C",
+        "texto": "Oligoâmnio e conceptos grandes para a idade gestacional."
+      },
+      {
+        "letra": "D",
+        "texto": "Restrição do crescimento fetal e placenta de inserção baixa."
+      },
+      {
+        "letra": "E",
+        "texto": "Aneuploidia e cardiopatia."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 11091,
+    "tags": [],
+    "enunciado": "Adolescente de 16 anos, com vida sexual ativa, ciclos irregulares, procura a Unidade Básica de Saúde, pois acha que está grávida. Realizou teste urinário, adquirido na farmácia, com resultado positivo e informa a última menstruação há cinco semanas. O médico solicita ultrassonogra(cid:50)a (US) pélvica via transvaginal. A adolescente retorna em três dias trazendo o resultado da US que revelou presença de saco gestacional mas não visualizou o embrião. Nesse caso, a conduta deve ser:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Esvaziar o útero imediatamente, pois trata-se de ovo cego."
+      },
+      {
+        "letra": "B",
+        "texto": "Realizar curetagem uterina, se o aborto não ocorrer em duas semanas."
+      },
+      {
+        "letra": "C",
+        "texto": "Repetir o exame de ultrassonografia após duas semanas."
+      },
+      {
+        "letra": "D",
+        "texto": "Solicitar beta HCG quantitativo pelo risco de mola hidatiforme."
+      },
+      {
+        "letra": "E",
+        "texto": "Repouso e tratamento com progestogênio.  Respostas: 1 C 2 A 3 C 4 A 5 B 6 C 7 A 8 A 9 D 10 D 11 E 12 C 13 A 14 E 15 A 16 B 17 B 18 E 19 C 20 E 21 C 22 C 23 D 24 B 25 A 26 A 27 B 28 D 29 A 30 C 31 A 32 D 33 C 34 D 35 C 36 D 37 C 38 B 39 C 40 C 41 B 42 D 43 A 44 A 45 B 46 D 47 C 48 A 49 A 50 C 51 C 52 D 53 C 54 D 55 C 56 B 57 D 58 E 59 C 60 D 61 D 62 C 63 E 64 D 65 A 66 B 67 D 68 C 69 E 70 B 71 A 72 A 73 C 74 C 75 B 76 A 77 E 78 D 79 D 80 C 81 D 82 A 83 B 84 D 85 D 86 C 87 A 88 E 89 E 90 D 91 D 92 A 93 C 94 E 95 E 96 B 97 D 98 B 99 A 100 B 101 D 102 A 103 104 A 105 D 106 C 107 B 108 C 109 B 110 A 111 A 112 A 113 D 114 C 115 A 116 A 117 A 118 A 119 A 120 A 121 B 122 C 123 D 124 E 125 D 126 B 127 A 128 E 129 A 130 E 131 B 132 A 133 B 134 D 135 C 136 C 137 B 138 B 139 C 140 C 141 B 142 B 143 E 144 B 145 C 146 D 147 C 148 E 149 D 150 E 151 A 152 D 153 C 154 E 155 D 156 B 157 D 158 E 159 D 160 C 161 C 162 D 163 D 164 A 165 B 166 B 167 B 168 C 169 D 170 B 171 B 172 A 173 A 174 B 175 E 176 D 177 D 178 D 179 A 180 C 181 A 182 A 183 D 184 B 185 C 186 C 187 A 188 E 189 D 190 C 191 A 192 D 193 A 194 C 195 A 196 D 197 B 198 C 199 C 200 A 201 B 202 D 203 B 204 E 205 C"
+      }
+    ],
+    "resposta_correta": "C"
+  }
+]

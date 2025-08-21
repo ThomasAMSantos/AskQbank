@@ -1,0 +1,934 @@
+[
+  {
+    "id": 113002,
+    "tags": [],
+    "enunciado": "Nas situações clínicas de depleção de volume do extracelular ou redução do volume circulante efetivo com hiposmolalidade, o rim não é capaz de produzir grande quantidade de urina diluída. Isto acontece porque:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O hormônio antidiurético (ADH) é secretado em resposta à ativação de sensores de volume."
+      },
+      {
+        "letra": "B",
+        "texto": "A hiposmolalidade é um importante estímulo para aumentar a secreção de ADH."
+      },
+      {
+        "letra": "C",
+        "texto": "O segmento diluidor renal não responde ao estímulo do ADH."
+      },
+      {
+        "letra": "D",
+        "texto": "A renina e a angiotensina estão inibidas. 4000229331"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 113003,
+    "tags": [],
+    "enunciado": "Analise as assertivas abaixo. I- Corresponde a um débito urinário > 3 l/dia; deve ser distinguida da frequência urinária, que corresponde à necessidade de urinar muitas vezes durante o dia ou à noite, mas em volume normal ou inferior ao normal. II - Corresponde à micção dolorosa ou desconfortável, tipicamente uma sensação aguda de queimação. III - É a presença de eritrócitos na urina, especi(cid:62)camente > 3 eritrócitos por campo de grande aumento no exame do sedimento urinário. É correto afirmar que a assertiva I faz referência a:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hematúria isolada."
+      },
+      {
+        "letra": "B",
+        "texto": "Disúria."
+      },
+      {
+        "letra": "C",
+        "texto": "Poliuria."
+      },
+      {
+        "letra": "D",
+        "texto": "Priapismo. 4000216175"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 113004,
+    "tags": [],
+    "enunciado": "Condições que determinam alterações na homeostase de sódio e água podem determinar grande mortalidade em pacientes hospitalizados. Sobre esta condição, analise as afirmativas abaixo. I. O controle do balanço hídrico, embora possa ser realizado em pacientes críticos, têm valor de avaliação limitado, pois não é possível estimar efetivamente o volume recebido pelo paciente. Dessa forma, não se recomenda sua avaliação diária. II. Osmorreceptores estão localizados nos núcleos supraópticos e paraventriculares do hipotálamo. III. Síndromes de Bartter ou Gitelman não costumam estar associado a distúrbios da reabsorção tubular de sódio.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "alternativa que contém todas as afirmativas corretas é:"
+      },
+      {
+        "letra": "A",
+        "texto": "I, II e III"
+      },
+      {
+        "letra": "B",
+        "texto": "I e II"
+      },
+      {
+        "letra": "C",
+        "texto": "I"
+      },
+      {
+        "letra": "D",
+        "texto": "II"
+      },
+      {
+        "letra": "E",
+        "texto": "III 4000215176"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 113005,
+    "tags": [],
+    "enunciado": "Paciente de 70 anos, em tratamento de câncer de mama avançado com hormonioterapia, dá entrada no PS por vômitos, confusão mental, sonolência, fraqueza muscular e poliúria há 1 dia. O melhor tratamento imediato, pensando na principal hipótese diagnóstica, é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "solução polarizante (glico-insulina 100ml EV)."
+      },
+      {
+        "letra": "B",
+        "texto": "hidratação com soro glicosado 5%."
+      },
+      {
+        "letra": "C",
+        "texto": "hidratação vigorosa com solução salina 0,9%."
+      },
+      {
+        "letra": "D",
+        "texto": "atbterapia endovenosa com ceftriaxona."
+      },
+      {
+        "letra": "E",
+        "texto": "solução salina 3% 100 ml em 10 minutos e solicitar avaliação neurocirúrgica."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 113006,
+    "tags": [],
+    "enunciado": "A reposição volêmica é de grande importância na cirurgia e no tratamento de pacientes críticos. Quanto aos líquidos que podem ser infundidos por via intravenosa, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a infusão de líquidos tem como objetivo a reposição do compartimento intersticial."
+      },
+      {
+        "letra": "B",
+        "texto": "o soro glicosado 5% é isotônico e pode ser utilizado para reposição volêmica."
+      },
+      {
+        "letra": "C",
+        "texto": "o ringer lactato é considerado isotônico em relação ao plasma."
+      },
+      {
+        "letra": "D",
+        "texto": "o cloreto de sódio a 0,9% tem composição muito semelhante à do plasma. 4000217333"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 113007,
+    "tags": [],
+    "enunciado": "Quando se administra líquidos por via endovenosa é importante saber qual será a distribuição desse líquido nos diferentes compartimentos corporais, o que dependerá principalmente da sua composição iônica. Esse conhecimento é fundamental para que se faça a expansão hídrica do compartimento correto. Identi(cid:62)que a descrição da dinâmica da infusão de líquidos endovenosos.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a infusão de 1000 ml de solução salina a 0,9% aumenta a volemia em aproximadamente 300 ml."
+      },
+      {
+        "letra": "B",
+        "texto": "a infusão de 1000 ml de solução glicosada a 5% aumenta a volemia em 200 a 250 ml."
+      },
+      {
+        "letra": "C",
+        "texto": "os cristaloides isotônicos se distribuem igualmente por todos os compartimentos corporais."
+      },
+      {
+        "letra": "D",
+        "texto": "a infusão de 500 ml de solução coloide aumenta a volemia em 1000 ml em média. 4000217332"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 113008,
+    "tags": [],
+    "enunciado": "Existem 2 opções de líquidos para infusão na reposição volêmica: cristaloides e coloides. Existem vários tipos de coloides disponíveis na prática clínica e é importante saber quais deles são indicados ou não para reposição volêmica. Em relação à reposição volêmica utilizando coloides é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "atualmente não há evidências que justifiquem uso de coloides na prática clínica."
+      },
+      {
+        "letra": "B",
+        "texto": "o plasma fresco congelado é uma das opções de coloide para reposição volêmica."
+      },
+      {
+        "letra": "C",
+        "texto": "os derivados do amido possuem mais efeitos colaterais em relação aos outros coloides sintéticos."
+      },
+      {
+        "letra": "D",
+        "texto": "as evidências recentes apontam uma morbidade menor com uso de coloides em pacientes graves. 4000217328"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 113009,
+    "tags": [],
+    "enunciado": "A infusão de soluções hidroeletrolíticas é amplamente usada no ambiente cirúrgico. Qual das seguintes solu- ções apresenta o menor pH?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Soro fisiológico 0,9%."
+      },
+      {
+        "letra": "B",
+        "texto": "Soro Glicosado 5%."
+      },
+      {
+        "letra": "C",
+        "texto": "Soro Glicosado 10%."
+      },
+      {
+        "letra": "D",
+        "texto": "Ringer simples."
+      },
+      {
+        "letra": "E",
+        "texto": "Ringer Lactato. 4000185905"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 113010,
+    "tags": [],
+    "enunciado": "A presença de sedimento urinário inativo, FeNa < 1%, FeUreia < 35% e UOsm > 500 mOsm/kg sugere mais provavelmente a ocorrência de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "sepse."
+      },
+      {
+        "letra": "B",
+        "texto": "uso de contraste."
+      },
+      {
+        "letra": "C",
+        "texto": "hipertensão maligna."
+      },
+      {
+        "letra": "D",
+        "texto": "hipovolemia."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 113011,
+    "tags": [],
+    "enunciado": "Mulher de 58 anos é submetida à colectomia esquerda com anastomose primária e encaminhada à UTI. Antecedentes: hipertensão, diabetes mellitus, dislipidemia, bem controlados. Nega dispneia para subir até quatro lances de escada. Durante o intra-operatório (5 h), houve lesão de vasos mesentéricos, com hipotensão sustentada e necessidade de drogas vasoativas. A paciente chega à UTI no período da noite, extubada, com noradrenalina 0,15 mcg/Kg/min, PAM 75 mmHg, tempo de enchimento capilar 1 segundo. Consciente e orientada, referindo dor apenas na incisão cirúrgica. Recebeu 3500 mL de cristaloide e dois concentrados de hemácias. Apresentou diurese de 500 mL e perda sanguínea estimada de 600 mL. Exames da admissão: lactato 27 mg/dL, pH 7,38, BIC 18 mEq/L, Cr 1,5 mg/dL, Na⁺ 142 mEq/L, K⁺ 4,6 mEq/L, 4,2 mg/dL, troponina 0,2 mg/dL (VR < 0,014), Hb 8,5 g/dL.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "conduta mais adequada na admissão da UTI é:"
+      },
+      {
+        "letra": "A",
+        "texto": "Soro de manutenção e reposição endovenosa de cálcio."
+      },
+      {
+        "letra": "B",
+        "texto": "Um concentrado de hemácias e reposição endovenosa de cálcio."
+      },
+      {
+        "letra": "C",
+        "texto": "Um concentrado de hemácias e expansão volêmica."
+      },
+      {
+        "letra": "D",
+        "texto": "Soro de manutenção."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 113012,
+    "tags": [],
+    "enunciado": "Qual a via preferencial de administração de líquidos para tratamento do dé(cid:62)cit de água no paciente cirúrgico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Via parenteral por cateter venoso periférico."
+      },
+      {
+        "letra": "B",
+        "texto": "Via intra-óssea."
+      },
+      {
+        "letra": "C",
+        "texto": "Via oral."
+      },
+      {
+        "letra": "D",
+        "texto": "Via parenteral por cateter venoso central. 4000174057"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 113013,
+    "tags": [],
+    "enunciado": "Paciente com SIADH (Síndrome de Liberação Inadequada de Hormônio Antidiurético) é atendido no Hospital com quadro de hiponatremia moderada crônica. Sobre essa condição e seu tratamento, é correto a(cid:62)rmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o tratamento deve ser realizado com infusão rápida de soro glicosado 5%."
+      },
+      {
+        "letra": "B",
+        "texto": "a correção lenta do sódio pode gerar mielinólise pontina central."
+      },
+      {
+        "letra": "C",
+        "texto": "o índice de aumento do sódio sérico deve ser de no mínimo 12mEq/kg por dia."
+      },
+      {
+        "letra": "D",
+        "texto": "na hiponatremia prolongada, também pode haver depleção de potássio com necessidade de reposição."
+      },
+      {
+        "letra": "E",
+        "texto": "a taxa de correção do sódio deve ser de pelo menos 0,5 mEq/L por hora para evitar mielinólise pontina."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 113014,
+    "tags": [],
+    "enunciado": "Reposição volêmica é de extrema importância no pós-operatório, sendo a concentração de sódio, potássio, cálcio e o pH da solução importantes fatores a serem levados em conta. Nesse sentido, os componentes cloreto de sódio 130mEq/L, cloreto de potássio 4mEq/L, cloreto de cálcio 3mEq/L, pH 6.5 correspondem à qual solução cristaloide?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Soro fisiológico 0,9%."
+      },
+      {
+        "letra": "B",
+        "texto": "Plasma lyte A."
+      },
+      {
+        "letra": "C",
+        "texto": "Ringer Lactato."
+      },
+      {
+        "letra": "D",
+        "texto": "Plasma."
+      },
+      {
+        "letra": "E",
+        "texto": "Salina hipertônica."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 113015,
+    "tags": [],
+    "enunciado": "Paciente do sexo masculino, 55 anos, 70 Kg, sem comorbidades, foi submetido a colectomia videolaparoscópica O residente da cirurgia geral prescreveu para o pósoperatório imediato 2800 mi de soro glicosado 5% associado a 30 mi de cloreto de sódio 20%. Em relação a soroterapia empregada é CORRETO afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A oferta de glicose está abaixo das necessidades básicas"
+      },
+      {
+        "letra": "B",
+        "texto": "A quantidade de água ofertada está acima do necessário"
+      },
+      {
+        "letra": "C",
+        "texto": "A quantidade de sódio ofertada está abaixo das necessidades básicas"
+      },
+      {
+        "letra": "D",
+        "texto": "A velocidade de gotejamento deve ser de aproximadamente 40 gotas por minuto para se infundir o total da soroterapia em 24 horas"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 113016,
+    "tags": [],
+    "enunciado": "Paciente de 56 anos de idade, sexo masculino, 60Kg, hipertenso e diabético, controlados com losartana e metformina, foi submetido a pancreatectomia parcial para tratamento de neoplasia. Recebeu, no pós- operatório imediato, volume total de 2200ml intravenoso (glicose a 5% e NaCI 20%) em 24 horas e, apresentou diurese de 800ml em 24 horas. Não apresentou vômitos e diarreia. O cirurgião assistente irá realizar a prescrição da soroterapia para o primeiro dia pós-operatório. Considerando os dados acima, é CORRETO afirmar que a soroterapia do primeiro dia pós-operatório deve conter:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "154mEq de sódio"
+      },
+      {
+        "letra": "B",
+        "texto": "2.400ml de soro glicosado isotônico (SGI 5%)"
+      },
+      {
+        "letra": "C",
+        "texto": "50ml de soro glicosado hipertônico (SGH 50%)"
+      },
+      {
+        "letra": "D",
+        "texto": "60mEq de potássio"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 113017,
+    "tags": [],
+    "enunciado": "Homem, 60a, procura atendimento médico por fadiga e di(cid:62)culdade de concentração. Antecedente pessoal: câncer de pulmão de pequenas células em tratamento. Exame físico: PA= 130x80 mmHg, FC= 80 bpm. Sódio= 125 mEq/L, creatinina= 1,0 mg/dL, ureia= 15 mg/dL, osmolaridade urinária= 350 mmol/kg. A CONDUTA É:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Solução salina isotônica."
+      },
+      {
+        "letra": "B",
+        "texto": "Sais de lítio."
+      },
+      {
+        "letra": "C",
+        "texto": "Espironolactona."
+      },
+      {
+        "letra": "D",
+        "texto": "Restrição de ingesta hídrica."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 113018,
+    "tags": [],
+    "enunciado": "Mulher de 68 anos, aposentada, 60Kg, desnutrida grave em decorrência de carcinoma hepatocelular, foi submetida a hepatectomia parcial. No perioperatório houve sangramento importante, sendo necessária a administração de 1.200mL de concentrado de hemácias e 1.200 mL de solução glico(cid:62)siológica. A diurese ao (cid:62)nal da cirurgia foi de 500mL. O balanço hídrico foi considerado zerado pelo anestesista. Na enfermaria, na manhã do dia seguinte (cerca de 12 horas de PO), após ter recebido 1.500mL de soro glicosado isotônico a 5%, o médico residente constatou diurese de 300mL e que a drenagem pelo dreno perihepático era serohemorrágica em quantidade íntima.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "prescrição MAIS ADEQUADA para essa paciente deve considerar que:"
+      },
+      {
+        "letra": "A",
+        "texto": "a oferta de líquidos para as próximas 24 horas deve ser de aproximadamente 1.100ml."
+      },
+      {
+        "letra": "B",
+        "texto": "a oferta de potássio deve ser de 60meq, equitativamente dividida no esquema de soro."
+      },
+      {
+        "letra": "C",
+        "texto": "a quantidade de sódio deve ser incrementada para compensar a desnutrição e a oligúria."
+      },
+      {
+        "letra": "D",
+        "texto": "há indicação de se administrar furosemida em bolus."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 113019,
+    "tags": [],
+    "enunciado": "Mulher, 69a, foi trazida em Unidade de Pronto Atendimento por prostração e confusão há 3 dias. O quadro é acompanhado por evacuações líquidas (14 episódios/dia). Antecedentes Pessoais: câncer de cólon ascendente com múltiplas metástases em fígado e pulmões em quimioterapia. Exame físico: FC= 108bpm, FR=24ipm, PA= 100X60 mmHg, Peso= 50 kg Exames laboratoriais: Ureia= 82 mg/dL; Creatinina= 2,8 mg/dL; Sódio= 164 mEq/L; Potássio= 4,1 mEq/L. PARA REDUZIR A CONCENTRAÇÃO SÉRICA DO SÓDIO EM 10 mEq/L A SOLUÇÃO E O VOLUME NECESSÁRIOS SÃO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Soro fisiológico, 3 litros em 24 horas."
+      },
+      {
+        "letra": "B",
+        "texto": "Ringer lactato, 6 litros em 24 horas."
+      },
+      {
+        "letra": "C",
+        "texto": "Soro glicosado 5%, 6 litros em 24 horas."
+      },
+      {
+        "letra": "D",
+        "texto": "Soro fisiológico e água destilada em partes iguais, 5 litros em 24 horas."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 113020,
+    "tags": [],
+    "enunciado": "Porteiro 43 anos é levado ao hospital devido à diminuição do nível de consciência e hipotensão arterial. Familiares referem que a doença começou paulatinamente com náuseas, vômitos eventuais, perda de peso e tonteiras principalmente ao se levantar. A(cid:62)rmam que ele teve tuberculose há 10 anos e que, àquela época, foi informado que a doença acometia outros órgãos, além do pulmão, tendo sido considerado curado após o tratamento. Ao exame físico, está emagrecido, desidratado 3+/4+, hipocorado+/4+, com PA = 86 x 50 mmHg, FC = 110, TAX = 36,2°C, sem rigidez de nuca e sem demais alterações relevantes. Nos exames de sangue, veri(cid:62)cou-se hemoglobina = 11,5g/dL, 10.000 leucócitos com 12 eosinó(cid:62)los, 62 segmentados, 22 linfócitos e 4 basó(cid:62)los, glicose = 50mEq/L, potássio = 6,5mEq/L, cloro = 100mEq/L, creatinina = 1,6mg/dl, uréia = 120 mg/dL e albumina = 3,5g/dL. Levando em conta a principal hipótese diagnóstica em um caso típico, seriam valores esperados de sódio (em mEqq/L) e cálcio (em mg/dL), respectivamente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "128 / 11,2"
+      },
+      {
+        "letra": "B",
+        "texto": "138 / 12,0"
+      },
+      {
+        "letra": "C",
+        "texto": "130 / 8,2"
+      },
+      {
+        "letra": "D",
+        "texto": "149 / 7,4"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 113021,
+    "tags": [],
+    "enunciado": "Adulto de 76 anos, sexo masculino, 63 kg, com doença cardíaca e renal foi submetido à colecistectomia laparoscópica, procedimento de duas horas de duração, sem complicações anestésico-cirúrgicas. Considerando as necessidades diárias de água, de calorias e de eletrólitos desse paciente, assinale a alternativa CORRETA em relação aos itens da hidratação venosa a ser administrada no pós-operatório imediato.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "2.500mL de água."
+      },
+      {
+        "letra": "B",
+        "texto": "300g de glicose."
+      },
+      {
+        "letra": "C",
+        "texto": "63mEq de sódio."
+      },
+      {
+        "letra": "D",
+        "texto": "63mEq de potássio. 4000033136"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 113022,
+    "tags": [],
+    "enunciado": "Em relação ao equilíbrio hidroeletrolítico assinale alternativa ERRADA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A correção rápida dos níveis de sódio na hiponatremia pode ocasionar edema cerebral"
+      },
+      {
+        "letra": "B",
+        "texto": "Na hipocalemia associada a acidose o tratamento inicial deve ser a correção do pH pela administração de bicarbonato"
+      },
+      {
+        "letra": "C",
+        "texto": "O risco para arritmia associada à hipocalemia é mais alto em paciente em uso de digoxina"
+      },
+      {
+        "letra": "D",
+        "texto": "Tanto a hipercalemia quanto a hipocalemia grave podem prejudicar a capacidade das células tubulares renais de absorver sódio"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 113023,
+    "tags": [],
+    "enunciado": "Quando administramos soro fisiológico aos pacientes, a concentração de NaCl, em g, por 100ml, é de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "0,09"
+      },
+      {
+        "letra": "B",
+        "texto": "0,9"
+      },
+      {
+        "letra": "C",
+        "texto": "90"
+      },
+      {
+        "letra": "D",
+        "texto": "900"
+      },
+      {
+        "letra": "E",
+        "texto": "0,009"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 113024,
+    "tags": [],
+    "enunciado": "Assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Um paciente prostrado na sala de emergência do hospital com seguintes resultados: Na 130 Cl 105 K 3,2 HCO3 15 tem como possibilidade causal perdas gastrointestinais."
+      },
+      {
+        "letra": "B",
+        "texto": "O primeiro tratamento a ser administrado a um paciente com nível de potássio 6,3 e ondas P achatadas no ECG é administração endovenosa de Gluconato de Cálcio, após cessadas todas as administrações exógenas de potássio."
+      },
+      {
+        "letra": "C",
+        "texto": "Uma boa escolha para reposição de perda de fluido sérico isotônico é solução salina de Ringer Lactato."
+      },
+      {
+        "letra": "D",
+        "texto": "Hipocalcemia cursa com: reflexos hiperativos, tremores, tetania e sinais de Chvostek e Trousseau positivos."
+      },
+      {
+        "letra": "E",
+        "texto": "A administração de 1 litro de solução de NaCl 0.9 % por via intravenosa distribuirá 750 ml para o espaço intersticial e 250 ml para o espaço intravascular."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 113025,
+    "tags": [],
+    "enunciado": "Na situação onde o paciente apresenta densidade urinária de 1016, sódio sérico de 138 mEq/L e poliúria, a principal hipótese diagnóstica é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hidratação Excessiva."
+      },
+      {
+        "letra": "B",
+        "texto": "Diabetes Insipidus Central."
+      },
+      {
+        "letra": "C",
+        "texto": "Síndrome Perdedora de Sal."
+      },
+      {
+        "letra": "D",
+        "texto": "Secreção Inapropriada do Hormônio Antidiurético."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 113026,
+    "tags": [],
+    "enunciado": "Se administrarmos, por via endovenosa, um litro de soro (cid:62)siológico (NaCl a 0,9%), a quantidade a ser distribuída para o espaço intersticial é de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "150 mililitros."
+      },
+      {
+        "letra": "B",
+        "texto": "300 mililitros."
+      },
+      {
+        "letra": "C",
+        "texto": "400 mililitros."
+      },
+      {
+        "letra": "D",
+        "texto": "550 mililitros."
+      },
+      {
+        "letra": "E",
+        "texto": "750 mililitros."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 113027,
+    "tags": [],
+    "enunciado": "A hidratação endovenosa constitui um dos pilares na abordagem do paciente criticamente enfermo. Expansão com soluções eletrolíticas tem papel estabelecido na prática clínica, sendo os fluídos mais utilizados no paciente com descompensação aguda. O uso de soluções coloidosmóticas vem sendo estudado na abordagem do paciente grave, baseado em princípios (cid:62)siopatológicos de reposição e manutenção do volume no espaço intravascular. Sobre esse tema, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Albumina humana a 20% em dose de 0,5 a 1 g/kg/dia (fracionada de três a quatro horários), é utilizada, em associação com a Terlipressina, em pacientes cirróticos com ascite e hipoalbuminemia, para diagnóstico da IRA pré-renal associada ao hepatopata."
+      },
+      {
+        "letra": "B",
+        "texto": "A solução de Ringer Lactato apresenta menor concentração de sódio que o cloreto de sódio a 0,9%. Ocasiona menos acidose metabólica na reposição relacionada ao trauma, o que torna sua reposição excessiva livre da ocorrência de edema periférico."
+      },
+      {
+        "letra": "C",
+        "texto": "Soluções semissintéticas, em que há adição do radical hidroxietil em amido, têm seu uso justificado em pacientes admitidos na UTI que já apresentam balanço hídrico acumulado positivo, sendo relacionados a melhor desfecho renal."
+      },
+      {
+        "letra": "D",
+        "texto": "A solução de cloreto de sódio a 0,9% possui osmolaridade em torno de 300 mOsm/litro, e sua reposição excessiva está relacionada à acidose metabólica, à hipernatremia e à injúria renal aguda."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 113028,
+    "tags": [],
+    "enunciado": "O eletrólito urinário de maior utilidade para estimar as condições do volume de líquido extracelular em paciente com alcalose metabólica é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Potássio."
+      },
+      {
+        "letra": "B",
+        "texto": "Sódio."
+      },
+      {
+        "letra": "C",
+        "texto": "Cálcio."
+      },
+      {
+        "letra": "D",
+        "texto": "Cloro."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 113029,
+    "tags": [],
+    "enunciado": "Se 1 litro de solução de NaCl a 0.9% é administrado por via endovenosa, quanto será distribuído para o espaço intersticial?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "100 cc"
+      },
+      {
+        "letra": "B",
+        "texto": "250 cc"
+      },
+      {
+        "letra": "C",
+        "texto": "350 cc"
+      },
+      {
+        "letra": "D",
+        "texto": "500 cc"
+      },
+      {
+        "letra": "E",
+        "texto": "750 cc"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 113030,
+    "tags": [],
+    "enunciado": "Qual das soluções abaixo apresenta concentrações de sódio e cloro mais próximas das observadas no plasma?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Plasma fresco congelado."
+      },
+      {
+        "letra": "B",
+        "texto": "Soro glicosado a 5%."
+      },
+      {
+        "letra": "C",
+        "texto": "Ringer lactato."
+      },
+      {
+        "letra": "D",
+        "texto": "Soro fisiológico a 0,9%."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 113031,
+    "tags": [],
+    "enunciado": "Qual a osmolaridade sérica aproximada de um paciente com os seguintes achados laboratoriais? Na = 130, Cl = 94, K = 5,2, CO2 = 14, glicose = 360, nitrogênio da ureia sanguínea = 84, creatinina = 3,2.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "270"
+      },
+      {
+        "letra": "B",
+        "texto": "290"
+      },
+      {
+        "letra": "C",
+        "texto": "310"
+      },
+      {
+        "letra": "D",
+        "texto": "330"
+      },
+      {
+        "letra": "E",
+        "texto": "390"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 113032,
+    "tags": [],
+    "enunciado": "Um paciente internado numa unidade pediátrica apresenta os seguintes resultados laboratoriais: Na: 136 mEq/L; Cl: 104 mEq/L; K: 4 mEq/L; ureia: 45 mg/dl; creatinina: 0,9 mg/dl e glicemia: 90 mg/dl. A osmolaridade sérica deste paciente é aproximadamente de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "300."
+      },
+      {
+        "letra": "B",
+        "texto": "310."
+      },
+      {
+        "letra": "C",
+        "texto": "284."
+      },
+      {
+        "letra": "D",
+        "texto": "270."
+      },
+      {
+        "letra": "E",
+        "texto": "290."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 113033,
+    "tags": [],
+    "enunciado": "Criança de 6 meses de idade, que apresenta desidratação grave por diarreia aguda, com sinais muito acentuados de desidratação e que continua com diurese. Neste caso, o distúrbio metabólico mais comum é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hiponatremia."
+      },
+      {
+        "letra": "B",
+        "texto": "Hipernatremia."
+      },
+      {
+        "letra": "C",
+        "texto": "Hipopotassemia."
+      },
+      {
+        "letra": "D",
+        "texto": "Hipoglicemia. 4000105367"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 113034,
+    "tags": [],
+    "enunciado": "Homem, 25 anos de idade, assintomático e clinicamente saudável. HMA: participa de corrida de 21 km durante 110 minutos em dia quente. Faz hidratação vigorosa antes da partida e ao terminar sentia muita sede e sua urina tinha cor amarelo forte. Qual grá(cid:62)co melhor representa a curva de variação da concentração urinária em função da concentração sanguínea deste indivíduo (AZUL)? (Observação: a variação hipotética do hormônio antidiurético é mostrada em VERMELHO). (VER IMAGEM)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Gráfico A."
+      },
+      {
+        "letra": "B",
+        "texto": "Gráfico B."
+      },
+      {
+        "letra": "C",
+        "texto": "Gráfico C."
+      },
+      {
+        "letra": "D",
+        "texto": "Gráfico D."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 113035,
+    "tags": [],
+    "enunciado": "Os dois mecanismos responsáveis pela regulação do metabolismo da água são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sede a ADH."
+      },
+      {
+        "letra": "B",
+        "texto": "ADH e angiotensina."
+      },
+      {
+        "letra": "C",
+        "texto": "Vasopressina e renina."
+      },
+      {
+        "letra": "D",
+        "texto": "ADH e aldosterona."
+      },
+      {
+        "letra": "E",
+        "texto": "Angiotensina e renina."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 113036,
+    "tags": [],
+    "enunciado": "Em relação à solução de cloreto de sódio a 0,9%,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1 litro contém 90 gramas de sódio."
+      },
+      {
+        "letra": "B",
+        "texto": "na solução, existe, 131mmol/L Na."
+      },
+      {
+        "letra": "C",
+        "texto": "na solução, encontram-se 154 mmol/L Na."
+      },
+      {
+        "letra": "D",
+        "texto": "tem um ph de 7,5."
+      },
+      {
+        "letra": "E",
+        "texto": "quando administrada em excesso, causa acidose hipoclorêmica."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 113037,
+    "tags": [],
+    "enunciado": "500 ml de solução fisiológica a 0,9% apresenta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "38,9 mEq de sódio."
+      },
+      {
+        "letra": "B",
+        "texto": "190 mEq de sódio."
+      },
+      {
+        "letra": "C",
+        "texto": "154 mEq de sódio."
+      },
+      {
+        "letra": "D",
+        "texto": "340 mEq de sódio."
+      },
+      {
+        "letra": "E",
+        "texto": "60 mEq de sódio.  Respostas: 1 A 2 C 3 D 4 C 5 C 6 A 7 A 8 C 9 D 10 D 11 C 12 D 13 C 14 D 15 D 16 D 17 A 18 D 19 A 20 C 21 C 22 B 23 C 24 A 25 E 26 D 27 D 28 E 29 C 30 C 31 C 32 A 33 C 34 A 35 C 36 C"
+      }
+    ],
+    "resposta_correta": "C"
+  }
+]

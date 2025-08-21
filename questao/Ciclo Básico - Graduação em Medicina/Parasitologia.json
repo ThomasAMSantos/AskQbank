@@ -1,0 +1,786 @@
+[
+  {
+    "id": 106254,
+    "tags": [],
+    "enunciado": "Primigesta, 30 anos, consulta com 16 semanas de gestação em uso de espiramicina 3g/dia desde as 10 semanas, quando apresentou IgG e IgM positivos para toxoplasmose. Com 12 semanas, o exame de avidez de IgG foi de 10% (avidez baixa). Assinalar a alternativa que apresenta o manejo adequado dessa gestante:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Suspender a espiramicina, pois os exames indicam infecção anterior à gravidez."
+      },
+      {
+        "letra": "B",
+        "texto": "Manter a espiramicina intercalando com sulfadiazina, pirimetamina e ácido folínico."
+      },
+      {
+        "letra": "C",
+        "texto": "Manter a espiramicina e indicar a realização da amniocentese com exame de reação em cadeia da polimerase (PCR) a partir de 18 semanas."
+      },
+      {
+        "letra": "D",
+        "texto": "Trocar o tratamento para sulfadiazina, pirimetamina e ácido folínico."
+      },
+      {
+        "letra": "E",
+        "texto": "Manter a espiramicina até o final da gestação."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 106255,
+    "tags": [],
+    "enunciado": "Gestante de 13 semanas comparece à consulta trazendo resultados da primeira rotina laboratorial. Possui sorologia para toxoplasmose IgG não reagente e IgM não reagente. Qual é a conduta mais correta a ser seguida?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Considerar a paciente imune e tranquilizá-la com relação à doença."
+      },
+      {
+        "letra": "B",
+        "texto": "Solicitar teste de avidez para determinar quando houve a infecção e avaliar se há necessidade de tratamento."
+      },
+      {
+        "letra": "C",
+        "texto": "Iniciar o tratamento com espiramicina."
+      },
+      {
+        "letra": "D",
+        "texto": "Iniciar o tratamento com espiramicina e solicitar teste de avidez."
+      },
+      {
+        "letra": "E",
+        "texto": "Considerar a paciente não imunizada e repetir a sorologia no segundo e no terceiro trimestres, além de orientar sobre a alimentação e os riscos da infecção."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 106256,
+    "tags": [],
+    "enunciado": "Em relação ao Toxoplasma gondii, analise as afirmativas abaixo: I - Apresenta três formas durante o seu ciclo de vida: esporozoítos, taquizoítos e bradizoítos; II - É um protozoário extracelular que acomete preferencialmente o sistema nervoso central; III - O parasita se multiplica no intestino dos felinos e taquizoítos resultantes são eliminados nas fezes; IV - A contaminação humana pode ocorrer pela ingestão de carnes cruas ou frutas, verduras e legumes mal lavados; V - A transmissão vertical ocorre, principalmente, por via transplacentária, através da passagem de taquizoítos pela placenta. Está CORRETO o que se afirma em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, III e IV, apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "II e IV, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "I, II e III, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "I, IV e V, apenas."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II, III, IV e V."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 106257,
+    "tags": [],
+    "enunciado": "Durante o rodízio na pediatria, Rafael tem contato com uma criança com múltiplas malformações devido à infecção congênita: coriorretinite, calci(cid:70)cações cerebrais difusas, microcefalia e retardo mental; também conhecida como Tétrade de Sabin. Qual o agente responsável pelo quadro clínico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Zika vírus"
+      },
+      {
+        "letra": "B",
+        "texto": "Citomegalovírus"
+      },
+      {
+        "letra": "C",
+        "texto": "Toxoplasma gondii"
+      },
+      {
+        "letra": "D",
+        "texto": "Parvovírus"
+      },
+      {
+        "letra": "E",
+        "texto": "Treponema pallidum"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106258,
+    "tags": [],
+    "enunciado": "Mulher de 30 anos apresenta corrimento vaginal e mau odor genital há 6 dias, após relação sexual desprotegida. Nega atraso menstrual e refere uso de contraceptivo injetável trimestral há 2 anos. Exame ginecológico com presença de corrimento com aspecto bolhoso, hiperemia de paredes vaginais e sufusões hemorrágicas no colo: Exame microscópico apresenta estruturas arredondadas, compatíveis com protozoário (cid:75)agelado. Teste de aminas positivo e pH 5,8. A hipótese diagnóstica e a conduta mais adequada são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tricomoníase, iniciar tratamento com Metronidazol para a paciente."
+      },
+      {
+        "letra": "B",
+        "texto": "Vaginose bacteriana, iniciar tratamento com Metronidazol para a paciente."
+      },
+      {
+        "letra": "C",
+        "texto": "Tricomoníase, iniciar tratamento com Metronidazol para a paciente e para o seu parceiro sexual."
+      },
+      {
+        "letra": "D",
+        "texto": "Vaginose bacteriana, iniciar tratamento com Metronidazol para a paciente e para o seu parceiro sexual."
+      },
+      {
+        "letra": "E",
+        "texto": "Candidíase vulvovaginal, iniciar tratamento com fluconazol para a paciente."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106259,
+    "tags": [],
+    "enunciado": "Paciente feminina, 25 anos, chega ao pronto atendimento com queixa de corrimento vaginal. Relata ter relações sexuais com parceiro único há 6 meses sem preservativo. Ao exame físico ginecológico: genitália externa sem alterações. Ao exame com espéculo, vê-se colo uterino com presença de microulcerações, além de corrimento amarelo esverdeado, bolhoso, de odor fétido. Notam-se ainda paredes vaginais íntegras. Assinale a alternativa correta acerca da principal hipótese diagnóstica e o agente causador da doença.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tricomoníase e Gardnerella vaginalis."
+      },
+      {
+        "letra": "B",
+        "texto": "Tricomoníase e Trichomonas vaginalis."
+      },
+      {
+        "letra": "C",
+        "texto": "Vaginose bacteriana e Gardnerella vaginalis."
+      },
+      {
+        "letra": "D",
+        "texto": "Vaginose bacteriana e Trichomonas vaginalis."
+      },
+      {
+        "letra": "E",
+        "texto": "Candidíase vulvovagina e Candida sp."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106260,
+    "tags": [],
+    "enunciado": "Miguel, 10 anos, apresenta quadro de dor abdominal e episódios de diarreia há 30 dias. Esteve na casa da tia passando férias e nadou na lagoa do sítio. Realizado protoparasitológico que mostrou a presença de cistos de Giardia intestinalis. Qual medicamento abaixo não é indicado para o tratamento da Giardíase?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tinidazol"
+      },
+      {
+        "letra": "B",
+        "texto": "Pantoprazol"
+      },
+      {
+        "letra": "C",
+        "texto": "Mebendazol"
+      },
+      {
+        "letra": "D",
+        "texto": "Albendazol"
+      },
+      {
+        "letra": "E",
+        "texto": "Metronidazol"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106261,
+    "tags": [],
+    "enunciado": "Escolar de 5 anos, apresenta episódios de doença diarreica aguda, com fezes volumosas, por vezes com alimentos mal digeridos. A mãe refere hiporexia, e distensão abdominal após alimentação, às vezes com náuseas e vômitos. No grá(cid:70)co de crescimento, o paciente apresenta desaceleração do ganho ponderal. Qual a forma infectante do protozoário causador dessa doença?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Trofozoíto"
+      },
+      {
+        "letra": "B",
+        "texto": "Promastigota"
+      },
+      {
+        "letra": "C",
+        "texto": "Epimastigota"
+      },
+      {
+        "letra": "D",
+        "texto": "Cisto"
+      },
+      {
+        "letra": "E",
+        "texto": "Amastigota"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 106262,
+    "tags": [],
+    "enunciado": "Mãe comparece ao posto de saúde com criança de 04 anos com história de dor abdominal frequente, além de diarreia intercalada com período de trânsito intestinal normal há 30 dias. O aspecto das fezes: líquido, espumoso e algumas vezes com restos alimentares. Esse quadro clínico é sugestivo de qual doença:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Amebíase"
+      },
+      {
+        "letra": "B",
+        "texto": "Teníase"
+      },
+      {
+        "letra": "C",
+        "texto": "Ancilostomíase"
+      },
+      {
+        "letra": "D",
+        "texto": "Giardíase"
+      },
+      {
+        "letra": "E",
+        "texto": "Ascaridíase"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 106263,
+    "tags": [],
+    "enunciado": "Joana, 31 anos, secundigesta, com 36 semanas de gestação, foi encaminhada ao ambulatório de Infectologia, devido sorologia positiva para Doença de Chagas há 7 dias. Com o objetivo de reduzir o risco de transmissão vertical do T. cruzi, qual o medicamento indicado para a paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cloroquina"
+      },
+      {
+        "letra": "B",
+        "texto": "Benzonidazol"
+      },
+      {
+        "letra": "C",
+        "texto": "Metronidazol"
+      },
+      {
+        "letra": "D",
+        "texto": "Espiramicina"
+      },
+      {
+        "letra": "E",
+        "texto": "Anfotericina B"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106264,
+    "tags": [],
+    "enunciado": "Sebastião, 45 anos, procedente da região amazônica, onde trabalha como vendedor de caldo de cana-de-açúcar, procura atendimento médico no hospital em que você cursa medicina. Queixa-se de di(cid:70)culdade para deglutir alimentos sólidos e perda de peso progressiva. Refere que quando come tem dor retroesternal, que melhora com a ingestão de líquidos. Esofagograma baritado realizado apresenta aspecto em “bico de pássaro”. Aventada a hipótese de megaesôfago chagásico, seu preceptor pergunta quais são os possíveis métodos para confirmar a Doença de Chagas em um paciente. São eles, exceto:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Diagnóstico clínico"
+      },
+      {
+        "letra": "B",
+        "texto": "Pesquisa de parasitos no sangue"
+      },
+      {
+        "letra": "C",
+        "texto": "Punção-biópsia de linfonodo"
+      },
+      {
+        "letra": "D",
+        "texto": "Sorologia"
+      },
+      {
+        "letra": "E",
+        "texto": "Xenodiagnóstico"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106265,
+    "tags": [],
+    "enunciado": "José Augusto, 52 anos, apresentou infarto agudo do miocárdio em sua residência e evoluiu para óbito sem chance de socorro. A família refere que o mesmo sabia que tinha o coração aumentado devido a Doença de Chagas que adquiriu na infância. Qual a forma do protozoário que deve ser encontrada durante a autópsia do coração do paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Amastigota"
+      },
+      {
+        "letra": "B",
+        "texto": "Epimastigota"
+      },
+      {
+        "letra": "C",
+        "texto": "Tripomastigota"
+      },
+      {
+        "letra": "D",
+        "texto": "Promastigota"
+      },
+      {
+        "letra": "E",
+        "texto": "Coanomastigota"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106266,
+    "tags": [],
+    "enunciado": "João, madeireiro no interior da Bahia, procura atendimento médico devido quadro de febre e sensação de fraqueza após 20 dias de um quadro agudo de edema palpebral à direita (sinal de Romaña). Qual a forma do protozoário que deve ser encontrada durante uma pesquisa no sangue do indivíduo?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Amastigota"
+      },
+      {
+        "letra": "B",
+        "texto": "Epimastigota"
+      },
+      {
+        "letra": "C",
+        "texto": "Tripomastigota"
+      },
+      {
+        "letra": "D",
+        "texto": "Promastigota"
+      },
+      {
+        "letra": "E",
+        "texto": "Coanomastigota"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106267,
+    "tags": [],
+    "enunciado": "José resolveu provar o “verdadeiro açaí” em sua última viagem de férias ao Pará. Sabendo que o produto não passou pelo processo de pasteurização, ele está suscetível a se infectar pelo Trypanosoma cruzi, causador da Doença de Chagas. São formas de transmissão do T. cruzi, exceto?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Vetorial"
+      },
+      {
+        "letra": "B",
+        "texto": "Vertical"
+      },
+      {
+        "letra": "C",
+        "texto": "Aleitamento"
+      },
+      {
+        "letra": "D",
+        "texto": "Sexual"
+      },
+      {
+        "letra": "E",
+        "texto": "Transfusional"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 106268,
+    "tags": [],
+    "enunciado": "Dona Maria, 67 anos, procura atendimento médico devido quadro de cansaço aos pequenos esforços, inchaço nas pernas e despertares noturnos há 6 meses. Durante a anamnese, refere ser natural da zona rural no interior de Minas Gerais, onde morou muitos anos em casa de pau a pique. Diante do quadro clínico e histórico da paciente, qual o possível agente etiológico do quadro?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Leishmania braziliensis"
+      },
+      {
+        "letra": "B",
+        "texto": "Trypanosoma cruzi"
+      },
+      {
+        "letra": "C",
+        "texto": "Plasmodium falciparum"
+      },
+      {
+        "letra": "D",
+        "texto": "Toxoplasma gondii"
+      },
+      {
+        "letra": "E",
+        "texto": "Giardia lamblia"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106269,
+    "tags": [],
+    "enunciado": "A ancilostomíase é uma das parasitoses intestinais mais prevalentes do mundo: estima-se que mais de 1 bilhão de pessoas apresentem esses parasitas em seus intestinos, mesmo que de forma assintomática. Sabe-se que é uma doença muito relacionada a baixos níveis socioeconômicos e maus hábitos de higiene, endêmica em algumas regiões do globo. Sobre as medidas de combate à ancilostomíase, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Uma das medidas mais eficazes de combate a essa parasitose consiste no uso de telas e mosquiteiros que impeçam a inoculação das larvas infectantes no hospedeiro humano, que ocorre por meio da picada de mosquitos flebotomíneos."
+      },
+      {
+        "letra": "B",
+        "texto": "Não ingerir vegetais que não foram adequadamente lavados, água que não foi fervida ou filtrada, bem como carnes cruas e mal passadas, são as medidas mais eficazes de prevenir a infecção pelo parasita."
+      },
+      {
+        "letra": "C",
+        "texto": "Campanhas de conscientização quanto à lavagem adequada das mãos antes das refeições consistem em uma forma eficiente de combate à doença."
+      },
+      {
+        "letra": "D",
+        "texto": "A vacinação mostrou-se como uma das ferramentas mais eficazes na prevenção da doença."
+      },
+      {
+        "letra": "E",
+        "texto": "A utilização de calçados evita a exposição da pele ao solo contaminado por larvas filarioides de ancilostomídeos, sendo uma medida eficaz de combate à doença. Além disso, o tratamento e descarte adequados do esgoto também são fundamentais para evitar a transmissão."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 106270,
+    "tags": [],
+    "enunciado": "Paciente de 4 anos de idade é levado até a Unidade Básica de Saúde pela mãe, que relata aparecimento de lesões pruriginosas na região plantar dos pés e em nádegas. Refere que, cerca de 12 dias depois do aparecimento das lesões pruriginosas, a criança passou a apresentar tosse seca e evoluiu com náuseas e perda do apetite nos dias seguintes. A mãe ainda a(cid:70)rma que a criança tem o hábito de brincar de pés descalços no quintal de casa e na rua. Diante do caso, foi solicitado o exame parasitológico de fezes, que con(cid:70)rmou o diagnóstico de ancilostomíase. A respeito dos principais agentes etiológicos e da forma de transmissão da doença, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "No Brasil, os principais agentes etiológicos são Ancylostoma duodenale e Ancylostoma caninum, sendo que a transmissão ocorre pela ingestão de carnes cruas e mal cozidas."
+      },
+      {
+        "letra": "B",
+        "texto": "Necator americanus e Ancylostoma ceylanicum são os principais agentes etiológicos no País e a transmissão ocorre durante banhos em lagos contaminados com as larvas infectantes."
+      },
+      {
+        "letra": "C",
+        "texto": "Os principais agentes etiológicos da ancilostomíase são Necator americanus e Ancylostoma duodenale, sendo que a transmissão ocorre através da inoculação das formas infectantes na corrente sanguínea humana a partir da picada de mosquitos flebotomíneos."
+      },
+      {
+        "letra": "D",
+        "texto": "Necator americanus e Ancylostoma duodenale correspondem aos principais agentes e a transmissão ocorre a partir do contato da pele desprotegida com o solo contaminado por larvas filarioides."
+      },
+      {
+        "letra": "E",
+        "texto": "Necator americanus e Ancylostoma duodenale correspondem aos principais agentes e a transmissão ocorre a partir do contato da pele desprotegida com o solo contaminado por larvas rabditoides."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 106271,
+    "tags": [],
+    "enunciado": "A ancilostomíase é uma parasitose intestinal muito frequente em nosso meio e, apesar de ser assintomática em boa parte dos casos, quando associada à dé(cid:70)cits nutricionais preexistentes e a maus hábitos de higiene, podemos encontrar infecções maciças. Clinicamente, essas infecções maciças podem se traduzir em quadros de anemia, desconforto abdominal, náuseas, vômitos, perda de apetite, cansaço e até mesmo pneumonia eosinofílica. Sobre essa parasitose, assinale a alternativa incorreta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A infecção por Necator americanus e Ancylostoma duodenale pode manifestar-se clinicamente com tosse seca, visto que esses parasitas realizam ciclo pulmonar."
+      },
+      {
+        "letra": "B",
+        "texto": "O diagnóstico da ancilostomíase é estabelecido laboratorialmente a partir de exame de fezes pelo método de Willis, realizando-se a identificação dos ovos de ancilostomídeos."
+      },
+      {
+        "letra": "C",
+        "texto": "A infecção por ancilostomídeos ocorre a partir do contato da pele do hospedeiro humano com o solo contaminado por larvas rabditoides, as quais penetram na pele e atingem a circulação linfática e/ou sanguínea."
+      },
+      {
+        "letra": "D",
+        "texto": "O mebendazol é a medicação de primeira escolha para o tratamento da ancilostomíase."
+      },
+      {
+        "letra": "E",
+        "texto": "O uso de calçados, a destinação e o tratamento adequado das excretas, bem como o combate às larvas no solo, são medidas profiláticas eficazes para evitar a infecção por ancilostomídeos."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106272,
+    "tags": [],
+    "enunciado": "Em relação à infecção e os principais sinais e sintomas da ancilostomíase, doença provocada por nematelmintos como N. americanus e A. duodenale, assinale a alternativa incorreta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apesar da pele dos pés ser o ponto de penetração mais frequente para as larvas infectantes de ancilostomídeos, qualquer área cutânea em contato com o solo contaminado pode propiciar a invasão, como mãos, pernas e nádegas."
+      },
+      {
+        "letra": "B",
+        "texto": "No período de invasão cutânea, são frequentes as erupções papuloeritematosas, edemas e um quadro de dermatite alérgica desencadeada pela presença das larvas filarioides na pele."
+      },
+      {
+        "letra": "C",
+        "texto": "Apesar da possibilidade de ocorrer a síndrome de Loeffler durante o período migratório das larvas pela árvore brônquica, assim como na ascaridíase e na estrongiloidíase, essa fase da infecção costuma ser assintomática na maior parte dos casos."
+      },
+      {
+        "letra": "D",
+        "texto": "Em casos de infecções maciças por ancilostomídeos, é possível que a perda sanguínea provocada pelo parasitismo intestinal, somada à déficits nutricionais, acarrete anemia hipocrômica e microcítica."
+      },
+      {
+        "letra": "E",
+        "texto": "Mal-estar abdominal, especialmente em região epigástrica, anorexia, náuseas, vômitos, febre e perda de peso são parte do quadro clínico que pode ocorrer entre a terceira e a quinta semana de infecção, especialmente quando a carga parasitária adquirida for grande."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106273,
+    "tags": [],
+    "enunciado": "Popularmente conhecida como “amarelão”, a ancilostomíase é uma doença provocada por algumas espécies de nematoides que pertencem à família dos ancilostomídeos. Estima-se que mais de 1 bilhão de pessoas no mundo estejam infectadas por esses vermes, especialmente em países com menores índices socioeconômicos, como o Brasil.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "respeito dessa parasitose, assinale a alternativa correta."
+      },
+      {
+        "letra": "A",
+        "texto": "Os principais agentes etiológicos da ancilostomose são Ancylostoma duodenale, Necator americanus e Ancylostoma ceylanicum, sendo o primeiro o principal responsável pela doença no Brasil."
+      },
+      {
+        "letra": "B",
+        "texto": "O contato direto da pele do hospedeiro com o solo contaminado é a principal forma de transmissão da ancilostomíase. Nesses casos, o parasita é encontrado no solo em seu terceiro estágio e só consegue atingir a maturidade sexual após penetrar na pele do hospedeiro, realizar o ciclo pulmonar e alcançar o intestino delgado, onde se fixa através da sua peça bucal."
+      },
+      {
+        "letra": "C",
+        "texto": "A principal forma de infecção por esses parasitas ocorre pela ingestão de água e alimentos contaminados, quando são deglutidos em seu terceiro estágio e passam pelas próximas fases de evolução na luz do tubo digestivo, sem fazer ciclo pulmonar. A infecção por contato direto da pele do hospedeiro com o solo contaminado é menos prevalente."
+      },
+      {
+        "letra": "D",
+        "texto": "Assim como Ascaris lumbricoides, Ancylostoma duodenale e Necator americanus também realizam ciclo pulmonar, sendo que, após a infecção percutânea, a larva no seu terceiro estágio perde sua cutícula e ganha a circulação pulmonar, onde passa para seu quarto estágio. Após atingir esse estágio, o parasita encontra-se sexualmente maduro e pode realizar cópula ao atingir o intestino."
+      },
+      {
+        "letra": "E",
+        "texto": "Os vermes adultos parasitam seres humanos apenas nas porções altas do intestino delgado, após a papila de Vater; por isso, não é possível os encontrar após esse segmento, dada a impossibilidade de adesão das suas peças bucais à parede do íleo e do ceco, por exemplo."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106274,
+    "tags": [],
+    "enunciado": "Janaína tem 35 anos e compareceu à Unidade Básica de Saúde a(cid:70)rmando categoricamente que está “com verme”. Ela relata que tem se sentido mais cansada e desanimada e que, olhando-se no espelho, considerou que estava com a pele mais pálida. Nega outros sintomas. Ao exame físico, o único achado é o das mucosas conjuntivais hipocoradas 1+/4+. Você, um exímio estudante de Medicina, reporta-se ao preceptor após o exame clínico. O preceptor, tentando te pegar na curva, faz a seguinte pergunta: “Considerando que ela, de fato, apresente uma parasitose intestinal, qual destas histórias epidemiológicas falaria mais a favor de esquistossomose?”.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Residente de casa de pau a pique."
+      },
+      {
+        "letra": "B",
+        "texto": "Possui um gato de cerca de 2 meses de idade."
+      },
+      {
+        "letra": "C",
+        "texto": "Almoça todos os dias em um restaurante por quilo."
+      },
+      {
+        "letra": "D",
+        "texto": "Não possui telas de proteção para mosquitos em sua janela."
+      },
+      {
+        "letra": "E",
+        "texto": "Tem o hábito de nadar no lago de seu bairro."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 106275,
+    "tags": [],
+    "enunciado": "O secretário de saúde de uma pequena cidade do interior de Pernambuco notou um aumento na incidência de esquistossomose no último ano. Dessa forma, reuniu-se com sua equipe para discutir medidas preventivas na tentativa de reduzir a incidência dessa patologia no ano seguinte. Assinale a alternativa que melhor sumariza uma medida combativa adequada que poderia ser adotada pelo secretário de saúde.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Campanhas de conscientização em escolas para lavagem correta das mãos antes das refeições."
+      },
+      {
+        "letra": "B",
+        "texto": "Combate aos mosquitos Aedes aegypti, Anopheles e Phlebotomus e estímulo ao uso de telas de proteção."
+      },
+      {
+        "letra": "C",
+        "texto": "Fiscalização em restaurantes para higienização correta dos vegetais."
+      },
+      {
+        "letra": "D",
+        "texto": "Investimento em saneamento básico e desencorajamento de recreação em lagos potencialmente contaminados."
+      },
+      {
+        "letra": "E",
+        "texto": "Fiscalização em abatedouros bovinos e suínos para inspeção da presença de cisticercos na carne."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 106276,
+    "tags": [],
+    "enunciado": "Cláudio tem 46 anos e é levado ao pronto-socorro pela família porque está “vomitando sangue” há três horas. Ao exame físico abdominal, nota-se esplenomegalia, ascite volumosa e circulação colateral. Cláudio precisou ser entubado, pois havia muito sangue em suas vias aéreas superiores. Após estabilização inicial, o plantonista dirigiu-se para a esposa do paciente para complementar a anamnese. A mulher relata que eles residem ao lado de um despejo de esgoto há cerca de 10 anos e que o marido sempre entra na água para vasculhar a presença de objetos de potencial valor, pois, certa vez, um vizinho encontrou uma pepita de ouro em um dos mergulhos. Nega tabagismo ou etilismo. Acerca do quadro apresentado, pode-se afirmar que se trata de infecção por:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ancylostoma duodenale."
+      },
+      {
+        "letra": "B",
+        "texto": "Strongyloides stercoralis."
+      },
+      {
+        "letra": "C",
+        "texto": "Toxocara canis."
+      },
+      {
+        "letra": "D",
+        "texto": "Ascaris lumbricoides."
+      },
+      {
+        "letra": "E",
+        "texto": "Schistosoma mansoni."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 106277,
+    "tags": [],
+    "enunciado": "A esquistossomose é uma parasitose causada pelo platelminto Schistosoma mansoni, da classe Trematoda, e está relacionada ao baixo nível socioeconômico e a condições precárias de saneamento básico, consistindo num grande problema de saúde pública. Tendo em mente os mecanismos de transmissão dessa doença, pode-se afirmar que a transmissão ocorre:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "por meio da ingestão de ovos do parasita, presentes nas fezes do hospedeiro definitivo, sobretudo quando contaminam água e vegetais."
+      },
+      {
+        "letra": "B",
+        "texto": "devido à penetração da larva cercária em fontes d’água, como rios e lagos em que há a presença de caramujos contaminados pelo helminto."
+      },
+      {
+        "letra": "C",
+        "texto": "a partir do contato direto com fezes de animais, nas quais estão presentes a larva do helminto, o esporocisto, que penetra ativamente na pele de pés e mãos, sobretudo em crianças."
+      },
+      {
+        "letra": "D",
+        "texto": "pela ingestão de cistos teciduais do verme presentes em carne mal passada."
+      },
+      {
+        "letra": "E",
+        "texto": "com a penetração ativa do miracídio, larva eliminada pelo molusco do gênero Biomphalaria, presente em água doce ou salgada contaminadas pelo helminto."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106278,
+    "tags": [],
+    "enunciado": "Bianca tem 9 anos e foi levada à Unidade Básica de Saúde de seu bairro pela mãe, que relata surgimento de lesões eritematosas e pruriginosas em ambos os membros inferiores, bem como na barriga de sua (cid:70)lha. Cita que, na tarde anterior, foi a um córrego naquele mesmo bairro e entrou na água juntamente a outras crianças, iniciando o quadro de prurido naquela mesma noite. Acerca da parasitose em questão, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O miracídio é a forma infectante do homem nessa patologia, que eclode na água após sua eliminação pelo molusco do gênero Biomphalaria e busca ativamente penetrar na pele humana."
+      },
+      {
+        "letra": "B",
+        "texto": "Trata-se da sintomatologia inicial da infecção por Necator americanus, a qual também pode ser adquirida por meio de penetração ativa da larva na sola dos pés ao andar descalço em terrenos com fezes de animais."
+      },
+      {
+        "letra": "C",
+        "texto": "A forma infectante desse helminto é a cercária, que eclode na água a partir de ovos do verme adulto eliminados nas fezes humanas. Essa patologia é um típico exemplo de transmissão por ciclo fecal-oral."
+      },
+      {
+        "letra": "D",
+        "texto": "A forma adulta do helminto, que apresenta dimorfismo sexual, sofre maturação no sistema porta intra-hepático e, antes mesmo dessa maturação, já pode ocasionar sintomas, como febre, eosinofilia e urticária."
+      },
+      {
+        "letra": "E",
+        "texto": "A oviposição dos vermes costuma ocorrer ainda no sistema porta, ao redor da segunda semana após a exposição infectante, com posterior migração para vasos menos calibrosos."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 106279,
+    "tags": [],
+    "enunciado": "Os acidentes por animais peçonhentos no Brasil é tema de grande relevância, pois podem estar relacionados à ocorrência de óbitos ou produção de sequelas. Sobre esses acidentes, assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "São quatro os gêneros de serpentes de interesse médico: Bothrops, Crotalus, Lachesis e Micrurus."
+      },
+      {
+        "letra": "B",
+        "texto": "No ofidismo, o soro ou antiveneno deve ser específico para cada tipo de acidente, e a via de administração é a endovenosa."
+      },
+      {
+        "letra": "C",
+        "texto": "No escorpionismo, o soro antiescorpiônico ou antiaracnídico é indicado nos acidentes moderados e graves."
+      },
+      {
+        "letra": "D",
+        "texto": "O araneísmo constitui, dentre os acidentes por animais peçonhentos, o de maior interesse médico devido à frequência e gravidade."
+      },
+      {
+        "letra": "E",
+        "texto": "A picada de aranha do gênero Loxosceles pode causar úlcera necrótica na região afetada."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 106280,
+    "tags": [],
+    "enunciado": "Filo Nematoda Ascaris lumbricoides Trichuris trichiura Enterobius vermicularis Ancylostoma duodenale Necator americanus Strongyloides stercoralis Tratamento Quadro clínico Pré-escolar no pronto atendimento com queda do estado geral, dor abdominal em cólica e vômitos eventuais. Ao exame físico: abdome distendido, peristalse exacerbada e massa abdominal arredondada, irregular, em hipocôndrio direito. Mãe refere ter feito tratamento com mebendazol por 3 dias, há 15 dias, orientada pelo pediatra da unidade básica de saúde, pois a criança apresentava dor abdominal recorrente. Diante do quadro apresentado, é correto afirmar que se trata de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Suboclusão intestinal por áscaris. Jejum, hidratação venosa e óleo mineral, por via oral, deve ser o tratamento clínico por 48 a 72 horas."
+      },
+      {
+        "letra": "B",
+        "texto": "Suboclusão intestinal por áscaris Jejum, hidratação venosa, mebendazol e óleo mineral, por via oral, deve ser o tratamento clínico por 24 horas."
+      },
+      {
+        "letra": "C",
+        "texto": "Abdome agudo por invaginação intestinal; a massa palpável em hipocôndrio e a faixa etária apoiam o diagnóstico, sendo indicado tratamento cirúrgico."
+      },
+      {
+        "letra": "D",
+        "texto": "Abdome agudo por invaginação intestinal; deve ser indicado ultrassonografia abdominal e tratamento clínico, com manobras para redução da invaginação."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106281,
+    "tags": [],
+    "enunciado": "Filo Nematoda Ascaris lumbricoides Trichuris trichiura Enterobius vermicularis Ancylostoma duodenale Necator americanus Strongyloides stercoralis Exames de Imagem Uma criança de 2 anos foi admitida no pronto atendimento com quadro de vômitos, desidratação e abdome distendido. Foi realizado uma radiografia de abdome. Analise a figura a seguir e assinale qual o diagnóstico mais provável. Disponível em: 10.18561/2179-5746/biotaamazonia.v4n4p102-107 Acesso em: 13/11/2020.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Suboclusão por Áscaris."
+      },
+      {
+        "letra": "B",
+        "texto": "Invaginação Intestinal."
+      },
+      {
+        "letra": "C",
+        "texto": "Tumoração."
+      },
+      {
+        "letra": "D",
+        "texto": "Bridas de Delgado."
+      },
+      {
+        "letra": "E",
+        "texto": "Megacólon. 4000131255 Respostas: 1 D 2 E 3 D 4 C 5 C 6 B 7 B 8 D 9 D 10 B 11 A 12 A 13 C 14 D 15 B 16 E 17 D 18 C 19 B 20 B 21 E 22 D 23 E 24 B 25 D 26 D 27 A 28 A"
+      }
+    ],
+    "resposta_correta": "A"
+  }
+]

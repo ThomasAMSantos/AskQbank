@@ -1,0 +1,4234 @@
+[
+  {
+    "id": 116420,
+    "tags": [],
+    "enunciado": "Paciente submetido a laparotomia exploratória de urgência após quadro de abdome agudo perfurativo, evoluiu em pós-operatório com plaquetopenia progressiva, alargamento de tempo de protrombina (TP) e tempo de tromboplastina parcial ativado (TTPA) e (cid:41)brinogênio consumido = 85 mg/dL, sem sangramento ativo. Qual é a conduta hemoterápica adequada para este caso?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Transfusão de plasma fresco congelado (PFC) 20 ml/Kg."
+      },
+      {
+        "letra": "B",
+        "texto": "Transfusão de plasma fresco congelado (PFC) 1 UI/10 Kg."
+      },
+      {
+        "letra": "C",
+        "texto": "Transfusão de Crioprecipitado 1 UI/10 Kg."
+      },
+      {
+        "letra": "D",
+        "texto": "Transfusão de Crioprecipitado 20 ml/Kg."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116421,
+    "tags": [],
+    "enunciado": "Paciente de 67 anos chega à unidade de emergência com quadro de plaquetopenia em investigação.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "correta correlação entre contagem segura de plaqueta e procedimento é:"
+      },
+      {
+        "letra": "A",
+        "texto": "pequena sutura e > 30 000 / mm³."
+      },
+      {
+        "letra": "B",
+        "texto": "endoscopia e > 50 000 / mm³."
+      },
+      {
+        "letra": "C",
+        "texto": "punção lombar e > 40 000 / mm³."
+      },
+      {
+        "letra": "D",
+        "texto": "passagem de acesso central e > 15 000 / mm³. 4000233443"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116422,
+    "tags": [],
+    "enunciado": "Paciente, do sexo feminino, 23 anos de idade, tem anemia falciforme com hemoglobina basal de 7 g/dL, com antecedente de transfusões desde a infância. Comparece na emergência com dispneia e dor torácica. Ao exame físico, apresentou PA de 100x68 mmHg, FC de 112 bpm, FR de 26 ipm, temperatura 36,8 °C e saturação de oxigênio de 89%; hipocorada 3+/4+, hidratada, colaborativa; murmúrios vesiculares bilateralmente com estertores crepitantes na base direita; demais aparelhos sem alterações. Exames laboratoriais: Hb: 5,2 g/dL Leucócitos: 12.000 células/mm³ Plaquetas: 123 mil/mm³ Creatinina: 1,2 mg/dL Foi indicada transfusão de 2 concentrados de hemácias. Qual é a técnica que deve ser utilizada com este hemocomponente além da filtração?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Irradiação."
+      },
+      {
+        "letra": "B",
+        "texto": "Leucodepleção."
+      },
+      {
+        "letra": "C",
+        "texto": "Fenotipagem estendida."
+      },
+      {
+        "letra": "D",
+        "texto": "Lavagem com solução salina."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 116423,
+    "tags": [],
+    "enunciado": "Homem, 67 anos de idade, apresentou melena em grande quantidade há 1 hora. Tem antecedente de troca de valva mitral e faz uso contínuo de varfarina. Exames laboratoriais: Hb: 6,3 g/dL Ht: 19% Plaquetas: 135 mil/mm³ TP com INR de 5,1 TTPa com R de 1,14 Na sala de emergência, além da reanimação volêmica, qual deve ser a conduta mais adequada antes da realização da endoscopia digestiva alta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Vitamina K."
+      },
+      {
+        "letra": "B",
+        "texto": "Fibrinogênio."
+      },
+      {
+        "letra": "C",
+        "texto": "Aférese de plaquetas."
+      },
+      {
+        "letra": "D",
+        "texto": "Complexo protrombínico."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116424,
+    "tags": [],
+    "enunciado": "Paciente do sexo masculino, com 64 anos, apresenta enterorragia, petéquias e equimoses, além de epistaxe. Ao exame físico, apresenta baço palpável a 4 cm do RCE. Pesa 80 Kg. Hemograma mostra Hb: 12,1 g/dl, leucócitos: 7.800/mm³ com diferencial normal e plaquetas: 1.450.000/mm³. TP com INR de 1,3 e TTPa de 26”. Relata ser portador de trombocitemia essencial. Qual o tratamento indicado para a hemorragia?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "8 unidades de concentrados de plaquetas;"
+      },
+      {
+        "letra": "B",
+        "texto": "4 unidades (800 ml) de plasma fresco congelado;"
+      },
+      {
+        "letra": "C",
+        "texto": "1 unidade de crioprecipitado;"
+      },
+      {
+        "letra": "D",
+        "texto": "3.200 UI de fator de Von Willebrand. 4000231140"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116425,
+    "tags": [],
+    "enunciado": "Um paciente com sangramento devido a doença hepática requer correção de coagulopatia. Qual dos seguintes componentes do sangue seria a escolha mais apropriada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Concentrado de hemácias;"
+      },
+      {
+        "letra": "B",
+        "texto": "Plasma fresco congelado;"
+      },
+      {
+        "letra": "C",
+        "texto": "Plaquetas;"
+      },
+      {
+        "letra": "D",
+        "texto": "Crioprecipitado. 4000231132"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116426,
+    "tags": [],
+    "enunciado": "Você vai operar um paciente de 77 kg com uma colecistite aguda e que se apresenta com plaquetopenia. Voce vê a necessidade de transfusão de uma unidade de concentrado de plaquetas (CP) e o cálculo de quantidade de concentrado de plaquetas seria quantas unidades do CP para este paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1 a 3"
+      },
+      {
+        "letra": "B",
+        "texto": "3 a 5"
+      },
+      {
+        "letra": "C",
+        "texto": "7 a 9"
+      },
+      {
+        "letra": "D",
+        "texto": "10 a 15 4000231049"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 116427,
+    "tags": [],
+    "enunciado": "Homem de 57 anos de idade é internado por quadro de acidente vascular hemorrágico. O paciente faz uso de cumarínico (Varfarina) em decorrência de uma fibrilação atrial. O coagulograma do paciente revela: INR = 6, TTPA = 32 seg. Além de suspender o cumarínico, qual a medida mais adequada caso seja necessária a reversão, em caráter de urgência, da anticoagulação nesse paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Administração de complexo protrombínico."
+      },
+      {
+        "letra": "B",
+        "texto": "Administração de vitamina K."
+      },
+      {
+        "letra": "C",
+        "texto": "Administração de plasma fresco congelado."
+      },
+      {
+        "letra": "D",
+        "texto": "Transfusão de concentrado de plaquetas. 4000228615"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116428,
+    "tags": [],
+    "enunciado": "Um escolar de 9 anos, portador de anemia falciforme, politransfundido, encontra-se internado há 3 dias devido a uma crise álgica. Evoluiu com melhora da dor e estava afebril e estável clinicamente. Em hemograma, obteve-se hemoglobina de 5,8 g/dL e hematócrito de 16,5%. Iniciou-se transfusão de concentrado de hemácias desleucocitadas e fenotipadas. Quase ao término da transfusão, o menino passa a apresentar febre de 38,4 °C, calafrios, dor no local do acesso e nos (cid:83)ancos e epistaxe, mantendo-se com estabilidade hemodinâmica, acianótico, anictérico e sem outras alterações ao exame físico. A radiografia de tórax está sem alterações. Nesse caso, o que provavelmente está acontecendo é uma",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "sobrecarga circulatória associada à transfusão."
+      },
+      {
+        "letra": "B",
+        "texto": "lesão pulmonar aguda relacionada à transfusão (TRALI)."
+      },
+      {
+        "letra": "C",
+        "texto": "reação febril não hemolítica."
+      },
+      {
+        "letra": "D",
+        "texto": "hemólise aguda."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 116429,
+    "tags": [],
+    "enunciado": "A embolia aérea é um diagnóstico difícil que deve ser pensado, em pacientes com trauma penetrante de tórax, nas situações a seguir. I. Em pacientes previamente lúcidos, que desenvolvem quadro neurológico súbito. II. Nas lesões penetrantes com comprometimento hilar. III. Em pacientes com colapso circulatório grave, de instalação súbita, sem perda volêmica significativa. Está correto o que se afirma em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II e III."
+      },
+      {
+        "letra": "B",
+        "texto": "II e III, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "I e III, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "I e II, apenas."
+      },
+      {
+        "letra": "E",
+        "texto": "II, apenas."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116430,
+    "tags": [],
+    "enunciado": "Sobre o tratamento da anemia em pacientes instáveis, assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A análise da necessidade de transfusão de hemoderivados em pacientes com instabilidade hemodinâmica só deve ser feita após a avaliação da fonte de sangramento e a interrupção da hemorragia."
+      },
+      {
+        "letra": "B",
+        "texto": "A infusão de volume superior a 1,5L de cristaloides em paciente hemodinamicamente instável tem sido associada à redução da mortalidade."
+      },
+      {
+        "letra": "C",
+        "texto": "Os pacientes com sangramento ou trauma, estáveis, que não demandam transfusão maciça, podem se beneficiar de uma estratégia mais restritiva, mantendo um limiar de hemoglobina de 7g/dL."
+      },
+      {
+        "letra": "D",
+        "texto": "A relação entre a realização de transfusão de concentrados de hemácias frescos versus os congelados e estocados por até 42 dias, apresenta uma diferença significativa no que se refere à mortalidade."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 116431,
+    "tags": [],
+    "enunciado": "Em relação às boas práticas a serem cumpridas pelos serviços de hemoterapia, assinale a alternativa incorreta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O serviço de hemoterapia deve estar sob responsabilidade técnica de profissional médico, especialista em hemoterapia ou hematologia, ou qualificado pelo órgão competente devidamente reconhecido para este fim pelo Sistema Estadual de Sangue, que responderá pelas atividades executadas pelo serviço;"
+      },
+      {
+        "letra": "B",
+        "texto": "O serviço de hemoterapia deve disponibilizar equipamentos de proteção individual (EPI) e coletiva (EPC) de acordo com o estabelecido pelo mapeamento de riscos elaborado para cada setor do serviço, com sua respectiva identificação;"
+      },
+      {
+        "letra": "C",
+        "texto": "O serviço de hemoterapia deve dispor de fonte de energia de emergência com capacidade compatível com as atividades e equipamentos críticos;"
+      },
+      {
+        "letra": "D",
+        "texto": "O serviço de hemoterapia deve desenvolver mecanismos para gerenciamento de documentação e todos os registros devem ter sua integridade garantida e permanecer arquivados pelo período mínimo de cinco anos, de forma tal que sejam disponibilizados e recuperados sempre que necessário"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116432,
+    "tags": [],
+    "enunciado": "A transfusão de sangue pode salvar vidas e é relativamente segura. No entanto, a transfusão de sangue está associada a múltiplos desfechos adversos, incluindo complicações não infecciosas e infecciosas. Sobre a lesão pulmonar aguda relacionada à transfusão, podemos afirmar, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "cirurgia hepática, alcoolismo, tabagismo e balanço hídrico positivo são importantes fatores de risco"
+      },
+      {
+        "letra": "B",
+        "texto": "hipoxemia com evidência de infiltrados bilaterais em RX de tórax é um achado comum"
+      },
+      {
+        "letra": "C",
+        "texto": "caracteriza-se por edema pulmonar cardiogênico, que ocorre no início da transfusão sanguínea"
+      },
+      {
+        "letra": "D",
+        "texto": "em casos suspeitos, a infusão deve ser prontamente descontinuada"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 116433,
+    "tags": [],
+    "enunciado": "Considerando o alto custo (cid:41)nanceiro, os riscos e benefícios, são consideradas indicações FORMAIS de prescrição de albumina humana intravenosa, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tratamento de pacientes com ascites volumosas, por paracenteses repetidas."
+      },
+      {
+        "letra": "B",
+        "texto": "Pacientes com cirrose hepática e síndrome nefrótica, quando houver edemas refratários aos diuréticos e que coloquem em risco iminente a vida dos pacientes."
+      },
+      {
+        "letra": "C",
+        "texto": "Grandes queimados, após as primeiras 24 horas pós-queimadura."
+      },
+      {
+        "letra": "D",
+        "texto": "Pós-operatório de transplante de fígado, quando a albumina sérica for inferior a 2,5 g%"
+      },
+      {
+        "letra": "E",
+        "texto": "Cirrose hepática com peritonite bacteriana espontânea confirmada. 4000213606"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 116434,
+    "tags": [],
+    "enunciado": "Paciente de 29 anos é submetido a tamponamento pélvico devido a fratura pélvica instável após atropelamento por automóvel. Paciente demandando droga vasoativa crescente e transfusão múltipla de hemoderivados. Dentre os fatores abaixo, o mais depletado nesse contexto é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fator X."
+      },
+      {
+        "letra": "B",
+        "texto": "Fator II."
+      },
+      {
+        "letra": "C",
+        "texto": "Fator I."
+      },
+      {
+        "letra": "D",
+        "texto": "Fator VII."
+      },
+      {
+        "letra": "E",
+        "texto": "Plaquetas."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 116435,
+    "tags": [],
+    "enunciado": "Paciente de 23 anos foi submetido a tamponamento pélvico extraperitoneal e (cid:41)xador externo devido a fratura de pelve em livro aberto após acidente com moto. Durante a cirurgia, fez uso de noradrenalina e vasopressina pela instabilidade. Recebeu 10 concentrados de hemácias, 5 de plasma fresco e 1,5 g de (cid:41)brinogênio. Os dois eletrólitos que devem ser especialmente monitorados após esse pacote de transfusão são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "cálcio e potássio."
+      },
+      {
+        "letra": "B",
+        "texto": "sódio e cloro."
+      },
+      {
+        "letra": "C",
+        "texto": "cloro e fósforo."
+      },
+      {
+        "letra": "D",
+        "texto": "magnésio e cálcio."
+      },
+      {
+        "letra": "E",
+        "texto": "sódio e potássio."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116436,
+    "tags": [],
+    "enunciado": "Considerando os riscos relacionados à transfusão de hemocomponentes, assinale a alterativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A lesão pulmonar aguda relacionada à transfusão (TRALI) caracteriza-se presença de nova síndrome do desconforto respiratório agudo (SDRA) ocorrendo durante ou dentro de até 24 horas após a administração de hemoderivados, documentada por hipoxemia e imagens torácicas anormais"
+      },
+      {
+        "letra": "B",
+        "texto": "A sobrecarga circulatória associada à transfusão (TACO) é uma reação transfusional na qual o edema pulmonar se desenvolve principalmente devido ao excesso de volume ou sobrecarga circulatória, apresentando desconforto respiratório novo ou agravamento durante ou dentro de 12 horas após a conclusão de uma transfusão"
+      },
+      {
+        "letra": "C",
+        "texto": "O peptídeo natriurético cerebral (BNP) elevado é necessário para o diagnóstico de TACO"
+      },
+      {
+        "letra": "D",
+        "texto": "Na TRALI a hipoxemia é definida como PaO₂ /FiO₂ ≤300 ou SpO₂ <90% em ar ambiente ou outra evidência clínica de hipoxemia, que ocorre apenas após transfusão de concentrado de hemácias ou plaquetas 4000210743"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116437,
+    "tags": [],
+    "enunciado": "Durante seu plantão na UTI, você está atendendo um paciente chamado L.F.P, de 62 anos, portador de Insu(cid:41)ciência Cardíaca com fração de ejeção reduzida, internado devido a choque séptico de foco pulmonar, em uso de piperacilinatazobactam 4,5 gramas de 6/6 horas. No momento de sua avaliação, o paciente encontra-se intubado em ventilação mecânica, sob modalidade assistido-controlada, modo VCV, com volume corrente (VC): 360 ml, frequência respiratória (FR): 16 irpm, PEEP: 5 cmH2O, FiO2: 30%, monitorizado hemodinamicamente com pressão arterial invasiva e pressão venosa central, que estão respectivamente em 112/64 mmHg e em 3 cmH2O.Ao checar os exames laboratoriais, você percebe um Hb: 5,6 g/dl, e opta então por indicar transfusão de concentrado de hemácias, e solicita três bolsas. Após cerca de 2 horas, durante a infusão da segunda bolsa, você é chamado pela enfermagem, pois o paciente está dessaturando. Ao avaliar o paciente, você observa que a SaO2 está em 84% e decide então aumentar a PEEP para 10 cmH2O e a FiO2: 60%, com pouca resposta. Após a sua intervenção, você avalia os demais parâmetros do paciente e vê que a PA está em 134/88 mmHg e a PVC está em 16 cmH2O. Você decide então por realizar um POCUS e vê que ambos os pulmões apresentam-se com padrão B, com diâmetro de veia cava inferior de 29 mm, sem variabilidade respiratória. Qual o possível diagnóstico e a melhor conduta a ser tomada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Provavelmente trata-se de TRALI (Transfusion related acute lung injury), devendo-se parar imediatamente a transfusão e notificar o banco de sangue, sendo a terapia de suporte a única indicada para este caso."
+      },
+      {
+        "letra": "B",
+        "texto": "Deve tratar-se de um quadro de TACO (Transfusion associated circulatory overload), não havendo necessidade de comunicação ao banco de sangue por não se tratar de reação transfusional, sendo necessário investigação do paciente com marcadores de necrose miocárdica e possível cateterismo cardíaco."
+      },
+      {
+        "letra": "C",
+        "texto": "Provavelmente trata-se de TRALI (Transfusion related acute lung injury), devendo-se parar imediatamente a transfusão e notificar o banco de sangue, devendo-se iniciar terapia com corticoide, tendo em vista que seu uso de rotina para esses casos associa-se a melhores desfechos."
+      },
+      {
+        "letra": "D",
+        "texto": "Provavelmente o quadro é de choque cardiogênico, devendo-se iniciar dobutamina a 5 mcg/kg/min e manter a transfusão do concentrado de hemácias, visto não haver relação do quadro atual com a transfusão."
+      },
+      {
+        "letra": "E",
+        "texto": "Deve tratar-se de um quadro de TACO (Transfusion associated circulatory overload), devendo-se parar a transfusão e ser notificado o banco de sangue, e iniciado estratégia de diureticoterapia com furosemida endovenosa. 4000210574"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 116438,
+    "tags": [],
+    "enunciado": "A administração intravenosa de Plasma Fresco Congelado, atualmente, é recomendada nas seguintes situações:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "INR menor do que 1,5 ou se o tempo de protrombina (TP) e o tempo de tromboplastina parcial ativada (TTPa) estiverem abaixo de 60%."
+      },
+      {
+        "letra": "B",
+        "texto": "Pacientes com doença hepática, com TP e TTPa minimamente alterados e com sangramento normal."
+      },
+      {
+        "letra": "C",
+        "texto": "Pacientes com grave deficiência congénita de IgA circulante."
+      },
+      {
+        "letra": "D",
+        "texto": "Reposição de volume, suporte nutricional e reposição de imunoglobulinas."
+      },
+      {
+        "letra": "E",
+        "texto": "Presença de sangramento ativo ou se houver risco de sangramento em um procedimento de emergência."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 116439,
+    "tags": [],
+    "enunciado": "Paciente cirrótico Child-Pugh C, 53 anos de idade, apresenta quadro clínico e radiológico compatível com apendicite aguda. A equipe cirúrgica indicou apendicectomia. Os resultados dos exames laboratoriais atuais são: Hb: 12,6 g/dL; Ht: 38,9%, LT: 4200; plaq: 78.000 cel/mm3 ; tempo de protrombina: RNI: 1,69; tempo de tromboplastina parcial ativado: relação P/N: 1,31. De acordo como o caso relatado, qual é a conduta transfusional a ser adotada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Transfusão de 1 UI de plaquetaférese pré-procedimento cirúrgico."
+      },
+      {
+        "letra": "B",
+        "texto": "Transfusão de 10 mL/Kg de plasma fresco congelado pré-procedimento."
+      },
+      {
+        "letra": "C",
+        "texto": "Transfusão de 2 UI de plaquetaférese pré-procedimento cirúrgico."
+      },
+      {
+        "letra": "D",
+        "texto": "Transfusão de 25 mL/Kg de plasma fresco congelado pré-procedimento."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116440,
+    "tags": [],
+    "enunciado": "Sobre o tratamento da anemia em pacientes instáveis, assinale a alternativa CORRETA",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A análise da necessidade de transfusão de hemoderivados em pacientes com instabilidade hemodinâmica só deve ser feita após a avaliação da fonte de sangramento e a interrupção da hemorragia."
+      },
+      {
+        "letra": "B",
+        "texto": "A infusão de volume superior a 1,5L de cristaloides em paciente hemodinamicamente instável tem sido associada à redução da mortalidade."
+      },
+      {
+        "letra": "C",
+        "texto": "Os pacientes com sangramento ou trauma, estáveis, que não demandam transfusão maciça, podem se beneficiar de uma estratégia mais restritiva, mantendo um limiar de hemoglobina de 7g/dL."
+      },
+      {
+        "letra": "D",
+        "texto": "A relação entre a realização de transfusão de concentrados de hemácias frescos versus os congelados e estocados por até 42 dias, apresenta uma diferença significativa no que se refere à mortalidade."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 116441,
+    "tags": [],
+    "enunciado": "Quanto à transfusão de hemoderivados em pediatria, podemos afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "uma das potenciais complicações de transfusões é a TRALI (transfusion related acute lung injury) e seu tratamento é feito por medidas de suporte e administração de corticoides."
+      },
+      {
+        "letra": "B",
+        "texto": "no paciente hemodinamicamente estável, recomenda-se transfusão de concentrado de hemácias para manter níveis de Hb > 9,0 g/dL."
+      },
+      {
+        "letra": "C",
+        "texto": "a administração de plasma fresco congelado pode ser indicada como expansor volêmico, em substituição à albumina humana, em pacientes portadores de hepatopatia."
+      },
+      {
+        "letra": "D",
+        "texto": "não há evidência de que a manutenção de valores de hemoglobina acima de 10 g/dL seja benéfica para crianças com disfunção miocárdica de ventrículo direito ou esquerdo (congênita ou adquirida)."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116442,
+    "tags": [],
+    "enunciado": "Homem de 75 anos, internado por insu(cid:41)ciência cardíaca descompensada. Hemograma: Hb 7,2 g/dL, leucócitos 14 mil/mm³, diferencial normal, plaquetas 140 mil/mm³. Solicitada transfusão de dois concentrados de hemácias. Logo após o segundo concentrado, iniciou quadro de piora respiratória, com taquipneia e dessaturação. Ao exame clínico, afebril, com estertores finos até terço médio, bilateralmente. Essa intercorrência poderia ter sido evitada com:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "fracionamento da transfusão."
+      },
+      {
+        "letra": "B",
+        "texto": "irradiação do hemocomponente."
+      },
+      {
+        "letra": "C",
+        "texto": "filtração do hemocomponente."
+      },
+      {
+        "letra": "D",
+        "texto": "lavagem do hemocomponente."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116443,
+    "tags": [],
+    "enunciado": "Paciente masculino, 19 anos, sem passado mórbido, atendido em emergência por fratura pélvica e choque hipovolêmico após acidente com motocicleta. Durante uma cirurgia ortopédica bem-sucedida recebe duas unidades de concentrado de hemácias e ressuscitação volêmica com cristaloides. É encaminhado estável para recuperação, mas após 30 minutos desenvolve quadro de intensa dispneia com hipoxemia, precisando ser entubado e levado a UTI. PA 110/70mmHg, enchimento capilar normal. Rx de tórax revela edema pulmonar bilateral difuso. Assinale o diagnóstico mais provável neste caso.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "embolia gordurosa."
+      },
+      {
+        "letra": "B",
+        "texto": "embolia gasosa."
+      },
+      {
+        "letra": "C",
+        "texto": "tromboembolismo pulmonar."
+      },
+      {
+        "letra": "D",
+        "texto": "injúria pulmonar relacionada a transfusão (TRALI)."
+      },
+      {
+        "letra": "E",
+        "texto": "sobrecarga circulatória relacionada a transfusão (TACO). 4000189874"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116444,
+    "tags": [],
+    "enunciado": "Paciente com reação febril não hemolítica, reações alérgicas e ana(cid:41)láticas após transfusão de sangue. Considerando a suspeita de uma reação transfusional aguda, NÃO se deve:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Interromper imediatamente a transfusão."
+      },
+      {
+        "letra": "B",
+        "texto": "Manter o acesso venoso e hidratar paciente com SF."
+      },
+      {
+        "letra": "C",
+        "texto": "Checar as etiquetas de identificação da bolsa."
+      },
+      {
+        "letra": "D",
+        "texto": "Colher amostras de sangue e urina para provas de hemólise, culturas e testes de compatibilidade. 4000189224"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116445,
+    "tags": [],
+    "enunciado": "A terapia transfusional requer indicações e cuidados específicos, inclusive com riscos e complicações quando indicada. Nesse sentido, é correto afirmar sobre a TRALI (Transfusion Related Acute Lung Injury):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "TRALI severa é distinguível da Síndrome do Desconforto Respiratório Agudo (SDRA) através da radiografia de tórax."
+      },
+      {
+        "letra": "B",
+        "texto": "o edema pulmonar é unilateral e distinguível pela radiografia de tórax do edema pulmonar cardiogênico"
+      },
+      {
+        "letra": "C",
+        "texto": "geralmente ocorre após 5 a 7 dias da transfusão de concentrado de hemácias."
+      },
+      {
+        "letra": "D",
+        "texto": "hipotensão e hipoxemia de início abrupto são marcadores que excluem o diagnóstico."
+      },
+      {
+        "letra": "E",
+        "texto": "fatores de risco para SDRA, quando previamente presentes, impedem o diagnóstico de TRALI, denominando-se “possível TRALI”. 4000189085"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 116446,
+    "tags": [],
+    "enunciado": "A LDL-aférese (LA) e plasmaférese são duas opções de tratamento a partir de (cid:41)ltração sanguínea extracorpórea. Ambas envolvem sessões com duração de 2 a 3 horas, semanais ou quinzenais. Sendo correto que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "No procedimento de plasmaférese, ocorre separação das células do sangue e plasma do paciente, de modo que as sanguíneas são retidas e misturadas em um fluido de reposição para retornar ao paciente, enquanto o plasma juntamente com as proteínas (incluindo o HDL-C) é descartado."
+      },
+      {
+        "letra": "B",
+        "texto": "No procedimento de plasmaférese, não ocorre separação das células do sangue e plasma do paciente, de modo que as sanguíneas são retidas e misturadas em um fluido de reposição para retornar ao paciente, enquanto o plasma juntamente com as proteínas (incluindo o HDL-C) é descartado."
+      },
+      {
+        "letra": "C",
+        "texto": "No procedimento de plasmaférese, ocorre separação das células do sangue e plasma do paciente, de modo que as sanguíneas nunca são retidas ou misturadas em um fluido de reposição para retornar ao paciente, enquanto o plasma juntamente com as proteínas (incluindo o HDL-C) é descartado."
+      },
+      {
+        "letra": "D",
+        "texto": "No procedimento de plasmaférese, ocorre separação das células do sangue e plasma do paciente, de modo que as sanguíneas são retidas e misturadas em um fluido de reposição para retornar ao paciente, enquanto o plasma juntamente com as proteínas (incluindo o HDL-C) não é descartado. 4000186883"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116447,
+    "tags": [],
+    "enunciado": "Paciente de 60 anos em uso de AAS por IAM prévio, é internado com quadro de colecistite aguda litiásica com indicação de tratamento cirúrgico de urgência. O cirurgião deverá solicitar a reserva do seguinte componente sanguíneo para eventual necessidade em caso de sangramento per operatório:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Plaquetas"
+      },
+      {
+        "letra": "B",
+        "texto": "Plasma fresco"
+      },
+      {
+        "letra": "C",
+        "texto": "Concentrado de hemácias"
+      },
+      {
+        "letra": "D",
+        "texto": "Fator VII 4000186501"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116448,
+    "tags": [],
+    "enunciado": "A albumina humana é um composto imunobiológico com ampla utilização na medicina incluindo a faixa etária pediátrica, conforme critérios de(cid:41)nidos pela Agência Nacional de Vigilância Sanitária (ANVISA). “Soluções de albumina para uso terapêutico são obtidas a partir do fracionamento industrial do plasma humano ... as empresas que fracionam o plasma preparam as soluções de albumina nas seguintes concentrações: 4%, 5%, 20% e 25%” ANVISA ResoluçãoRDC nº 115, de 10 de maio de 2004; Considerando uma criança com Peso=20Kg com indicação para infusão de Albumina Humana 20% (Frasco contendo 50ml de Albumina) na dose de 1g para cada Kg de peso, qual é a quantidade em mililitros (ml) a ser infundido nesta criança?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "10ml."
+      },
+      {
+        "letra": "B",
+        "texto": "25ml."
+      },
+      {
+        "letra": "C",
+        "texto": "50ml."
+      },
+      {
+        "letra": "D",
+        "texto": "75ml."
+      },
+      {
+        "letra": "E",
+        "texto": "100ml. 4000186157"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 116449,
+    "tags": [],
+    "enunciado": "É indicação de infusão de concentrado de plaquetas para prevenção de sangramento:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "púrpura trombocitopênica trombótica, com plaquetas = 15 000/mm³."
+      },
+      {
+        "letra": "B",
+        "texto": "punção lombar em suspeita de meningite com plaquetas = 32 000/mm³."
+      },
+      {
+        "letra": "C",
+        "texto": "púrpura trombocitopênica imune, com plaquetas = 20000/mm³."
+      },
+      {
+        "letra": "D",
+        "texto": "sepse, com plaquetas = 45000/mm³."
+      },
+      {
+        "letra": "E",
+        "texto": "leucemia mieloide aguda, com plaquetas = 45000/mm³. 4000185878"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116450,
+    "tags": [],
+    "enunciado": "Concentrado protrombínico Laboratório da hemostasia Um jovem de 21 anos é levado ao centro cirúrgico para laparotomia exploradora, em função de um ferimento por arma de fogo em face anterior do abdômen. Durante a cirurgia, foi evidenciado sangramento ativo oriundo do retroperitônio, em Zona II a direita. A equipe anestésica e cirúrgica resolve ativar o Protocolo de Transfusão Maciça. Após a realização de 1,0 grama de Ácido Tranexâmico, dois Concentrado de Hemácias e dois Plasmas Fresco Congelado, foi realizado uma tromboelastrometria que evidenciou a presença de fibrinólise. Diante do achado, a conduta mais adequada seria;",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Indicar a infusão de Beriplex"
+      },
+      {
+        "letra": "B",
+        "texto": "Indicar a infusão de Hemocomplettam"
+      },
+      {
+        "letra": "C",
+        "texto": "Repetir 1,0 grama de Ácido Tranexâmico"
+      },
+      {
+        "letra": "D",
+        "texto": "Repetir duas bolsas de Plasma Fresco Congelado."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 116451,
+    "tags": [],
+    "enunciado": "Mulher de 27 anos vai ao PS queixando-se de lombalgia direita muito intensa, náuseas e vômitos. É portadora de lúpus eritematoso sistêmico e está em uso de prednisona 10mg aodia e hidroxicloroquina 400mg ao dia. Nega internações recentes. Ao exame físico, PA: 100x60mmHg, FC: 128bpm, FR: 26ipm, SpO2 94% (aa). Apresenta-se alerta e orientada. O exame cardiovascular revela ritmo cardíaco taquicárdico; as extremidades estão aquecidas e apresentam o enchimento capilar imediato. O exame respiratório revela taquipneia, sem esforço e ausculta normal. O exame do abdome não revela anormalidades. A punhopercussão revela dor na região lombar direita. Exames de laboratório: Hemoglobina: 8.3g/dL (VR 12-16d/dL); Leucócitos: 4.780mm (4.000- 11.000/mm³); neutró(cid:41)los: 10.890/mm³ (1.500-7.000/mm³); plaquetas: 78.000/mm³ (150.000- 450.000mm³); creatinina: 2.2mg/dL; ureia: 54mg/dL; bilirrubina total: 3,4mg/dL (<1,2mg/dL); bilirrubina direta: 2,0mg/dL (<0,4mg/dL). Assinale a alternativa que apresenta uma conduta INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Solicitar TC abdominal total na urgência."
+      },
+      {
+        "letra": "B",
+        "texto": "Prescrever hidrocortisona parenteral."
+      },
+      {
+        "letra": "C",
+        "texto": "Prescrever antibiótico parenteral de espectro."
+      },
+      {
+        "letra": "D",
+        "texto": "Prescrever transfusão de concentrado de hemácias."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116452,
+    "tags": [],
+    "enunciado": "Dentre as estratégias para redução do uso de hemocomponentes no intraoperatório temos:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "hipotermia."
+      },
+      {
+        "letra": "B",
+        "texto": "doação heteróloga."
+      },
+      {
+        "letra": "C",
+        "texto": "hemoconcentração normovolêmica."
+      },
+      {
+        "letra": "D",
+        "texto": "uso do Cell Saver. 4000183968"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116453,
+    "tags": [],
+    "enunciado": "Um paciente portador de cirrose alcoólica foi admitido na UTI após apresentar hemorragia varicosa que se desenvolveu no terceiro dia de tratamento de peritonite bacteriana espontânea. Após estabilização hemodinâmica e realização de endoscopia, estava recebendo a segunda unidade de concentrado de hemácias, quando passou a apresentar febre, calafrios e dispneia. Rapidamente evoluiu com grave insu(cid:41)ciência respiratória hipoxêmica e, durante a intubação orotraqueal, foi observada uma secreção rósea espumosa em vias aéreas. Sobre o quadro descrito, assinale a alternativa CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A causa provável da insuficiência respiratória é sepse de foco abdominal"
+      },
+      {
+        "letra": "B",
+        "texto": "Devem-se evitar novas hemotransfusões por um período de 120 dias em pacientes que sobrevivem a essa complicação."
+      },
+      {
+        "letra": "C",
+        "texto": "Antecedente de múltiplas transfusões é fator de risco para essa complicação."
+      },
+      {
+        "letra": "D",
+        "texto": "O banco de sangue deve ser notificado para que possa identificar o doador e impedi-lo de realizar novas doações de sangue."
+      },
+      {
+        "letra": "E",
+        "texto": "Após a intubação orotraqueal, é possível dar prosseguimento àquela hemotransfusão, desde que seja descartada a hipótese de hipervolemia."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116454,
+    "tags": [],
+    "enunciado": "Mulher de 66 anos, hipertensa, com insu(cid:41)ciência cardíaca e diagnóstico de mielo(cid:41)brose primária, com necessidade de suporte transfusional semanal, procura o ambulatório de hematologia para transfusão de concentrado de hemácias. Após 30 minutos do início da infusão, a paciente apresenta febre de 38,3°C, dispneia e dessaturação. A radiogra(cid:41)a de tórax evidencia in(cid:41)ltrado alveolar bilateral difuso. Não havia icterícia, dor abdominal ou alteração da cor da urina. Nesse caso, a reação transfusional está associada a:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "sepse bacteriana"
+      },
+      {
+        "letra": "B",
+        "texto": "lesão pulmonar aguda"
+      },
+      {
+        "letra": "C",
+        "texto": "sobrecarga circulatória"
+      },
+      {
+        "letra": "D",
+        "texto": "reação hemolítica aguda"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116455,
+    "tags": [],
+    "enunciado": "Paciente, 32 anos, portador de anemia falciforme. Encontra-se no 3º dia de internação hospitalar, em enfermaria, por crise álgica, sob uso de mor(cid:41)na, cetoprofeno e dipirona, para controle do quadro. Está hemodinamicamente estável, com bom controle álgico, diurese presente, afebril, eupneico, sem suporte de oxigênio. Apresenta hemograma do dia com Hb 5,9g/dL Ht 17%, sendo indicada transfusão de concentrado de hemácias desleucocitado e fenotipado. Após 12 minutos do início da administração do hemocomponente, pela enfermeira da unidade, o paciente passa a apresentar febre (T: 38,3ºC), calafrios, dor no local do acesso periférico, dor em (cid:83)ancos e epistaxe. Você, como médico plantonista da unidade, é imediatamente chamado para prestar assistência ao paciente. Ao chegar, você solicita imediata interrupção da transfusão, prescreve sintomáticos, noti(cid:41)ca a suspeita de reação transfusional e solicita coleta de amostras para análise da reação pelo serviço de hemoterapia. Além das ações citadas, qual a melhor conduta a ser realizada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Devolver hemocomponente à agência transfusional, solicitar provas de hemólise, função renal, coagulograma e hemoculturas do paciente e prescrever hidratação vigorosa"
+      },
+      {
+        "letra": "B",
+        "texto": "Coletar hemocultura do paciente, retornar a transfusão com o mesmo hemocomponente, após resolução dos sintomas, e administrá-lo em 4 horas."
+      },
+      {
+        "letra": "C",
+        "texto": "Coletar novo hemograma, devolver hemocomponente à agência transfusional e só prescrever hemocomponentes lavados para transfusões futuras."
+      },
+      {
+        "letra": "D",
+        "texto": "Descartar concentrado de hemácias, solicitar que enviem novo concentrado para transfusão imediata e administrá-lo em 4 horas."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116456,
+    "tags": [],
+    "enunciado": "Homem de 65 anos em tratamento de leucemia mieloide aguda com quimioterapia intensiva, com necessidade frequente de transfusões de concentrado de hemácias e de plaquetas. Durante transfusão de concentrado de plaquetas, inicia quadro de mal estar, Tax 39ºC, tremores, hipoxemia e hipotensão.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "hipótese diagnóstica mais provável é:"
+      },
+      {
+        "letra": "A",
+        "texto": "Reação febril não-hemolítica."
+      },
+      {
+        "letra": "B",
+        "texto": "Contaminação bacteriana."
+      },
+      {
+        "letra": "C",
+        "texto": "Lesão pulmonar aguda associada à transfusão."
+      },
+      {
+        "letra": "D",
+        "texto": "Reação alérgica ao hemocomponente."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116457,
+    "tags": [],
+    "enunciado": "A plasmaférese consiste na separação do plasma e células sanguíneas:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sendo que essas últimas não são reinfundidas após diluição em albumina diluída com gelatina ou plasma fresco."
+      },
+      {
+        "letra": "B",
+        "texto": "Sendo que essas últimas são reinfundidas antes da diluição em albumina com gelatina ou plasma fresco."
+      },
+      {
+        "letra": "C",
+        "texto": "Sendo que essas últimas são reinfundidas após diluição em albumina diluída com gelatina,mas não com plasma fresco."
+      },
+      {
+        "letra": "D",
+        "texto": "Sendo que essas últimas são reinfundidas após diluição em albumina diluída com gelatina ou plasma fresco. 4000191248"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116458,
+    "tags": [],
+    "enunciado": "Na prática hemoterápica moderna, alguns procedimentos são utilizados visando à maior segurança dos pacientes transfundidos. A desleucotização ou (cid:41)ltração de hemocomponente é um procedimento realizado para prevenções de complicações relacionadas à transfusão de hemocomponentes alogênicos devido à exposição do receptor aos leucócitos do doador. Dentre as condições clínicas abaixo, assinale aquela em que não se indica a filtração ou desleucotização:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Policitemia vera."
+      },
+      {
+        "letra": "B",
+        "texto": "Leucemia mieloide aguda."
+      },
+      {
+        "letra": "C",
+        "texto": "Candidatos a transplante de medula óssea."
+      },
+      {
+        "letra": "D",
+        "texto": "Anemia aplástica."
+      },
+      {
+        "letra": "E",
+        "texto": "Beta talassemia major (anemia de Cooley). 4000191205"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116459,
+    "tags": [],
+    "enunciado": "Assinale a alternativa correta com relação à indicação da terapia de Troca Plasmática.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A rejeição mediada por anticorpos é uma indicação de primeira linha da terapia de troca plasmática."
+      },
+      {
+        "letra": "B",
+        "texto": "Na falência hepática aguda, a reposição na terapia de troca plasmática é preferencialmente realizada com albumina."
+      },
+      {
+        "letra": "C",
+        "texto": "Na púrpura trombocitopênica trombótica, a reposição com plasma fresco congelado reduz a atividade da ADAMTS 13."
+      },
+      {
+        "letra": "D",
+        "texto": "A escolha pela substituição com albumina se dá pela possibilidade de infecção. 4000189668"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116460,
+    "tags": [],
+    "enunciado": "Sobre a indicação de transfusão de hemocomponentes, é INCORRETO afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "em geral, a transfusão de uma unidade de concentrado de hemácias aumenta a dosagem de hemoglobina em 1 mg/dL, caso não haja sangramento ativo."
+      },
+      {
+        "letra": "B",
+        "texto": "não havendo contraindicações, e na inexistência de sangramento ativo, a transfusão de plaquetas está indicada, profilaticamente, em valores < 60.000/L, segundo o Ministério da Saúde."
+      },
+      {
+        "letra": "C",
+        "texto": "em trombocitopenias induzidas por heparina, as transfusões de plaquetas aumentam consideravelmente o risco de trombose."
+      },
+      {
+        "letra": "D",
+        "texto": "em neurocirurgias e cirurgias oftalmológicas, é recomendado que a contagem de plaquetas esteja em torno de 100.000/L, imediatamente antes do procedimento."
+      },
+      {
+        "letra": "E",
+        "texto": "hospitais que atendam pacientes vítimas de trauma devem ter protocolo de transfusão maciça vigente. 4000175668"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116461,
+    "tags": [],
+    "enunciado": "P.T.C., 32 anos, chega ao PS queixando-se de cansaço, dispneia e palidez cutânea, além de manchas roxas pelo corpo. Foi realizado hemograma cujo resultado demonstra contagem de hemácias = 3,32 milhões/mm³, hemoglobina = 6,4 g/dL, hematócrito = 25,6%, volume corpuscular médio = 130fL, RDW 14,6%, Leucócitos = 1.500/mm³, plaquetas = 43.000/mm³. Com base neste caso, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Caso o paciente apresente sangramentos ou febre haverá indicação de transfusão de plaquetas, devendo-se transfundir 01 unidade de plaquetas para cada 15 Kg de peso corpóreo do paciente."
+      },
+      {
+        "letra": "B",
+        "texto": "A terapia transfusional liberal com o objetivo de manter níveis normais de hemoglobina apresenta melhores resultados que a terapia transfusional restritiva, com objetivo de manter hemoglobina maior que 7,0g/dL em pacientes não coronariopatas."
+      },
+      {
+        "letra": "C",
+        "texto": "A paciente apresenta quadro de pancitopenia, com volume corpuscular médio aumentado, quadro muito comum em episódios carenciais, em que a deficiência de ácido fólico, relacionada à não ingestão de carne vermelha é a principal causa."
+      },
+      {
+        "letra": "D",
+        "texto": "Neste caso há indicação de terapia transfusional com concentrado de hemácias para que seja mantenha nível de hemoglobina acima de 7,0g/dL, devendo-se coletar exames de avaliação do perfil de ferro, reticulócitos, dosagem de vitamina B12 e ácido fólico anteriormente à transfusão."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116462,
+    "tags": [],
+    "enunciado": "Menino, 10 anos de idade, tem anemia falciforme e deve realizar, em até 5 dias, cirurgia para drenagem biliar e colecistectomia sob anestesia geral. No pré-operatório, tem Hb 9,9 g /dL e porcentagem de hemoglobina S de 70%. Os procedimentos corretos para a realização da cirurgia devem incluir",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "transfusão de concentrado de hemácias irradiado."
+      },
+      {
+        "letra": "B",
+        "texto": "transfusão de concentrado de hemácias filtrado e irradiado."
+      },
+      {
+        "letra": "C",
+        "texto": "reserva cirúrgica de hemocomponentes fenotipados, filtrados e irradiados."
+      },
+      {
+        "letra": "D",
+        "texto": "exsanguineotransfusão parcial."
+      },
+      {
+        "letra": "E",
+        "texto": "iniciar a administração de hidroxiureia."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116463,
+    "tags": [],
+    "enunciado": "Seguindo as normas do uso racional de hemoderivados, qual dos pacientes a seguir teria indicação para receber transfusão deplaquetas segundo o guia para uso de hemocomponentes do Ministério da Saúde?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Paciente em quimioterapia que será submetido a punção lombar para coleta de líquor com plaquetas de 22000/µL."
+      },
+      {
+        "letra": "B",
+        "texto": "Paciente com quadro de plaquetopenia de 18000 /µL após quimioterapia por neoplasia pulmonar e quadro de neu\u0000tropenia febril."
+      },
+      {
+        "letra": "C",
+        "texto": "Paciente com quadro de Dengue e plaquetopenia de 12000/ µL, porém ainda sem sangramentos ativos."
+      },
+      {
+        "letra": "D",
+        "texto": "Paciente com quadro de coagulação intravascular disseminada e plaquetas 25000 µL, com sangramentos ativos."
+      },
+      {
+        "letra": "E",
+        "texto": "Paciente com quadro de trombocitopenia induzia por heparina e 8000 plaquetas/ µL, com sangramento leve de mucosas. 4000168102"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116464,
+    "tags": [],
+    "enunciado": "Atualmente estima-se que existam seis milhões de Testemunhas de Jeová, o que representa 0,1% da população do planeta. Em relação ao sangue, elas acreditam que assimilar sangue no corpo, pela boca ou pelas veias, viola as leis de Deus. A esse respeito avalie as assertivas abaixo e assinale com V (verdadeiro) ou F (falso) e escolha a alternativa que contém a sequência correta. [ ] Não pode ser transfundidos o sangue total mas podem ser transfundidos em separado, o plasma, as plaquetas e o concentrado de hemácias. [ ] Os hemoderivados albumina e crioprecipitado podem ser transfundidos. [ ] Não há restrição quanto ao transplante de órgãos e tecidos, mesmo que haja nestes [ ] O transplante de medula óssea é proibido por se tratar de um tecido hematopoiético. [ ] Autotransfusão intra-operatória, preparada em circuito fechado ao sistema circulatório do paciente e sem armazenamento de sangue não é proibido. órgãos e tecidos células sanguíneas do doador.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "V, V, F, V, F"
+      },
+      {
+        "letra": "B",
+        "texto": "F, V, V, F, V"
+      },
+      {
+        "letra": "C",
+        "texto": "V, F, V, V, F"
+      },
+      {
+        "letra": "D",
+        "texto": "F, F, V, V, F"
+      },
+      {
+        "letra": "E",
+        "texto": "Nenhuma das alternativas acima está correta."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116465,
+    "tags": [],
+    "enunciado": "Sobre a utilização de sangue e seus componentes na prática médica é incorreto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O sangue total é raramente utilizado"
+      },
+      {
+        "letra": "B",
+        "texto": "O uso de concentrado de hemácias está indicado no tratamento de “déficits” sintomáticos da capacidade de transporte de oxigênio e não está indicado na correção da anemia de pacientes sintomáticos que não necessitam de aporte imediato de oxigênio."
+      },
+      {
+        "letra": "C",
+        "texto": "A transfusão de plaquetas é indicada nos casos de sangramentos que não estejam relacionados a plaquetopenia/plaquetopatia e em casos em que há destruição plaquetária."
+      },
+      {
+        "letra": "D",
+        "texto": "O plasma fresco congelado não deve ser utilizado para expansão volêmica ou suplemento nutricional."
+      },
+      {
+        "letra": "E",
+        "texto": "Pacientes com anemias carenciais ferropriva ou por deficiências de folatos ou vitamina B12 costumam responder muito bem e rapidamente à administração destes medicamentos evitando o uso de transfusões."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 116466,
+    "tags": [],
+    "enunciado": "Sobre a injúria pulmonar aguda relacionada à transfusão (TRALI), é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "só ocorre nas tranfusões de concentrado de hemáceas."
+      },
+      {
+        "letra": "B",
+        "texto": "o uso de corticoides sistêmicos está indicado."
+      },
+      {
+        "letra": "C",
+        "texto": "nos casos em que a ventilação mecânica seja necessária, volume corrente >8mL/Kg e pressão média de via aérea acima de 30cm de H20 estão indicados."
+      },
+      {
+        "letra": "D",
+        "texto": "o início dos sintomas em até 06 (seis) horas da transfusão é um dos critérios diagnósticos."
+      },
+      {
+        "letra": "E",
+        "texto": "o uso de diurético de alça está indicado."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116467,
+    "tags": [],
+    "enunciado": "Um paciente em tratamento oncológico quimioterápico, que terá programação de tratamento cirúrgico em breve, apresenta astenia importante, porém nega vômitos ou sangramentos. Foram realizados exames laboratoriais. Qual das alternativas a seguir representa indicação de transfusão de ambos os componentes – hemácias e plaquetas – para esse paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hemoglobina = 9,1g/dL e plaquetas = 21000/mm³."
+      },
+      {
+        "letra": "B",
+        "texto": "Hemoglobina = 6,2g/dL e plaquetas = 18000/mm³."
+      },
+      {
+        "letra": "C",
+        "texto": "Hemoglobina = 6,8g/dL e plaquetas = 7000/mm³."
+      },
+      {
+        "letra": "D",
+        "texto": "Hemoglobina = 10,1g/dL e plaquetas = 11000/mm³."
+      },
+      {
+        "letra": "E",
+        "texto": "Hemoglobina = 7,5g/dL e plaquetas = 11000/mm³."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 116468,
+    "tags": [],
+    "enunciado": "Paciente de 72 anos, sexo masculino, foi internado por anemia sintomática, com dosagem de hemoglobina sérica de 6 g/dL. O médico plantonista solicitou a transfusão de 3 unidades de concentrado de hemácias (CH) na tarde de hoje. Você é acionado(a) para reavaliar o paciente logo no início da transfusão da terceira unidade de CH por ele apresentar quadro de dispneia, iniciada durante a transfusão da segunda unidade de CH, com necessidade de oxigênio suplementar, associada a taquicardia e elevação da pressão arterial, sem febre ou outras queixas. Além da avaliação radiológica complementar, frente ao quadro clínico apresentado, o diagnóstico provável e a conduta correta são, respectivamente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "reação transfusional hemolítica – suspensão da transfusão e administração de metilprednisolona."
+      },
+      {
+        "letra": "B",
+        "texto": "lesão pulmonar aguda associada à transfusão (TRALI) – suspensão da transfusão e administração de metilprednisolona."
+      },
+      {
+        "letra": "C",
+        "texto": "congestão pulmonar associada à transfusão (TACO) – suspensão da transfusão e administração de diurético."
+      },
+      {
+        "letra": "D",
+        "texto": "lesão pulmonar aguda associada à transfusão (TRALI) – administração de metilprednisolona e continuidade da transfusão."
+      },
+      {
+        "letra": "E",
+        "texto": "congestão pulmonar associada à transfusão (TACO) – administração de diurético e continuidade da transfusão."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 116469,
+    "tags": [],
+    "enunciado": "Constitui uma indicação para o crioprecipitado:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "fibrinogênio sérico menor que 100 mg/dL e sangramento grave."
+      },
+      {
+        "letra": "B",
+        "texto": "paciente com hepatopatia crônica antes de cirurgia no sistema nervoso central."
+      },
+      {
+        "letra": "C",
+        "texto": "reposição de albumina em procedimentos de aférese."
+      },
+      {
+        "letra": "D",
+        "texto": "reposição de fator VIII no sangramento relacionado à hemofilia."
+      },
+      {
+        "letra": "E",
+        "texto": "ruptura de varizes esofágicas e fibrinogênio sérico menor que 300 mg/dL. 4000174142"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116470,
+    "tags": [],
+    "enunciado": "Pedro tem 10 anos, há 6 meses com diagnóstico de leucemia linfoide aguda (LLA). Hoje comparece assintomático e sem evidência de sangramento em consulta ambulatorial para checagem de exames laboratoriais: Hemoglobina 6,0g/dL , leucócitos 5.100céls/mm3, plaquetas 30.000/mm3. Sobre a indicação de transfusão de hemoderivados, qual a afirmativa correta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "transfundir concentrado de hemácias e bolsa de plaquetas"
+      },
+      {
+        "letra": "B",
+        "texto": "transfundir apenas concentrado de hemácias"
+      },
+      {
+        "letra": "C",
+        "texto": "transfundir apenas bolsa de plaquetas"
+      },
+      {
+        "letra": "D",
+        "texto": "não tem indicação de transfusão 4000173302"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116471,
+    "tags": [],
+    "enunciado": "A chance de adquirir HIV em uma transfusão de fator VIII nos EUA é zero, pela seguinte justificativa:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Todos os doadores do fator VIII são rastreados."
+      },
+      {
+        "letra": "B",
+        "texto": "O fator VIII é submetida ao processo de \"\"purging\"\" a laser antes da liberação."
+      },
+      {
+        "letra": "C",
+        "texto": "O fator VIII é produzido sinteticamente."
+      },
+      {
+        "letra": "D",
+        "texto": "O fator VII é produzido sob demanda."
+      },
+      {
+        "letra": "E",
+        "texto": "O fator VIII é importado nos EUA. 4000171658"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 116472,
+    "tags": [],
+    "enunciado": "Durante realização da triagem clínica para doação num banco de sangue localizado em área não endêmica para malária, um candidato refere ter estado 15 dias antes num município localizado em área endêmica de malária. De acordo com a legislação vigente (Portaria 158), qual a conduta correta para este candidato?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Recusa temporária por 12 meses a partir da data do retorno da área endêmica, desde que não apresente sintomas de malária"
+      },
+      {
+        "letra": "B",
+        "texto": "Recusa temporária por 5 anos a partir da data do retorno da área endêmica, desde que não apresente sintomas de malária"
+      },
+      {
+        "letra": "C",
+        "texto": "Realizar um teste para detecção de plasmódio ou de antígenos plasmodiais. Se o resultado do teste for negativo, o candidato estará apto para doação"
+      },
+      {
+        "letra": "D",
+        "texto": "Recusa definitiva"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116473,
+    "tags": [],
+    "enunciado": "Mulher, 32 anos, compareceu para doar sangue, sendo aprovada na triagem clínica e hematológica. Após 15 minutos, foram coletados 320 mL de sangue total em uma bolsa com 63 mL de CPDA1. Que hemocomponente(s) pode(m) ser preparado(s) a partir desta doação?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Concentrado de hemácias"
+      },
+      {
+        "letra": "B",
+        "texto": "Plasma fresco congelado"
+      },
+      {
+        "letra": "C",
+        "texto": "Concentrado de hemácias e plasma fresco congelado"
+      },
+      {
+        "letra": "D",
+        "texto": "Nenhum hemocomponente"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116474,
+    "tags": [],
+    "enunciado": "Homem, 17 anos, com de(cid:41)ciência de IgA necessita de transfusão de concentrado de hemácias. Qual dos seguintes procedimentos é o mais recomendado para reduzir o risco de reação transfusional neste paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Irradiação e lavagem"
+      },
+      {
+        "letra": "B",
+        "texto": "Leucorredução pré-estocagem"
+      },
+      {
+        "letra": "C",
+        "texto": "Leucorredução pós-estocagem"
+      },
+      {
+        "letra": "D",
+        "texto": "Lavagem"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116475,
+    "tags": [],
+    "enunciado": "Mulher, 60 anos, cardiopata, refere que há uma semana começou a apresentar fraqueza progressiva, cansaço e falta de ar. Encontra-se pálida, ictérica, taquipneica e taquicárdica. Apresenta Hb de 5,0g/dL e foi indicada transfusão de 01 U de Concentrado de Hemácias. Nega transfusões prévias. G4A0P4. Tipagem ABO/Rh: A Rh+ Pesquisa de Anticorpos Irregulares: positiva Identificação do anticorpo irregular: positivo 4+ com todas as células do painel Teste direto da antiglobulina: positivo 4+ Eluato: positivo 4+ com todas as células do painel Fenotipagem eritrocitária: R1R2, K+, Fy(a+b+), Jk(a+b+), S+s+ Teste de compatibilidade positivo com todas as unidades testadas Qual é alternativa que melhor auxilia na conduta transfusional?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O fenótipo a transfundir considera aloanticorpo contra antígeno de alta frequência"
+      },
+      {
+        "letra": "B",
+        "texto": "O resultado de fenotipagem obtido não ajuda na escolha do fenótipo a transfundir"
+      },
+      {
+        "letra": "C",
+        "texto": "Considerando o autoanticorpo, não há necessidade de investigar aloanticorpo"
+      },
+      {
+        "letra": "D",
+        "texto": "Para maior segurança, é necessária identificação da especificidade do autoanticorpo"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116476,
+    "tags": [],
+    "enunciado": "Homem, 76 anos, em tratamento para leucemia linfocítica crônica recebeu prescrição de 01 unidade de Concentrado de Hemácias. Nos testes pré-transfusionais apresenta o seguinte resultado de tipagem ABO: Qual medida pode ser usada para ajudar na resolução desta discrepância?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Lavar as hemácias antes da tipagem direta"
+      },
+      {
+        "letra": "B",
+        "texto": "Incubar a tipagem reversa a frio"
+      },
+      {
+        "letra": "C",
+        "texto": "Incubar a tipagem reversa a 37º C"
+      },
+      {
+        "letra": "D",
+        "texto": "Levar a tipagem reversa até a fase de antiglobulina"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116477,
+    "tags": [],
+    "enunciado": "A agência transfusional descongelou 2 unidades de plasma fresco congelado tipo AB para um paciente com uma coagulopatia adquirida e sangramento ativo. Paciente foi a óbito antes de receber a transfusão. Qual é a conduta mais apropriada para estas unidades de plasma?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Descartar as unidades imediatamente"
+      },
+      {
+        "letra": "B",
+        "texto": "Manter entre 2 e 6o C por até 24 horas"
+      },
+      {
+        "letra": "C",
+        "texto": "Recongelar as unidades imediatamente"
+      },
+      {
+        "letra": "D",
+        "texto": "Encaminhar para produção de hemoderivados"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116478,
+    "tags": [],
+    "enunciado": "Mulher, branca, 27 anos, 2a gestação, gestação sem intercorrências, deu à luz a uma criança de 2,9 kg que apresenta manifestações hemorrágicas exuberantes em pele e mucosas e contagem de plaquetas do recém-nascido de 15.000/μL. Contagem de plaquetas da mãe: 180.000/μL. Considerando o diagnóstico mais provável, a urgência e o risco de hemorragias no sistema nervoso central, qual a conduta hemoterápica mais adequada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Infusão de imunoglobulina intravenosa"
+      },
+      {
+        "letra": "B",
+        "texto": "Transfusão de plaquetas HLA compatíveis"
+      },
+      {
+        "letra": "C",
+        "texto": "Transfusão de plaquetas maternas"
+      },
+      {
+        "letra": "D",
+        "texto": "Transfusão de plaquetas paternas"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 116479,
+    "tags": [],
+    "enunciado": "Homem, 60 anos, em quimioterapia para hepatocarcinoma, recebe com relativa frequência transfusões de concentrados de hemácias e de plaquetas. Hoje, durante a transfusão de 1 pool de 6 unidades de plaquetas obtidas de sangue total, apresentou febre de 39ºC (temperatura inicial era 36,5ºC), tremores, náuseas, vômitos, hipotensão e choque. Este quadro clínico é sugestivo de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Transfusão de componente contaminado com bactéria"
+      },
+      {
+        "letra": "B",
+        "texto": "Reação hemolítica imune imediata"
+      },
+      {
+        "letra": "C",
+        "texto": "Reação transfusional febril não hemolítica"
+      },
+      {
+        "letra": "D",
+        "texto": "TRALI"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116480,
+    "tags": [],
+    "enunciado": "Mulher, 4o mês de gestação, vítima de acidente automobilístico, foi trazida pelo SAMU para a emergência do hospital. É levada para o centro cirúrgico para ser submetida a esplenectomia de emergência e são solicitadas transfusões de concentrados de hemácias. Quais concentrados de hemácias são mais adequados para transfusão nesta paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "HLA compatíveis"
+      },
+      {
+        "letra": "B",
+        "texto": "Lavados"
+      },
+      {
+        "letra": "C",
+        "texto": "Irradiados"
+      },
+      {
+        "letra": "D",
+        "texto": "Leucorreduzidos"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116481,
+    "tags": [],
+    "enunciado": "01 U de sangue total foi coletada e fracionada em 01/10/2018 em 01U de concentrado de hemácias (CH), 01 U de concentrado de plaquetas (CP) e 01 U de plasma fresco congelado (PFC). Em 10/10/2018, o CH foi submetido a irradiação com 25G. Qual a data de validade deste CH irradiado?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "15/10/2018"
+      },
+      {
+        "letra": "B",
+        "texto": "29/10/2018"
+      },
+      {
+        "letra": "C",
+        "texto": "05/11/2018"
+      },
+      {
+        "letra": "D",
+        "texto": "12/11/2018"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116482,
+    "tags": [],
+    "enunciado": "Homem, 72 anos, portador de leucemia linfoide crônica em uso de (cid:83)udarabina, apresentou febre, dispneia, palpitações, tontura e fraqueza intensa. É cardiopata e faz uso de diuréticos e inibidor de enzima conversora. PA: 90 X 60 mmHg, temperatura axilar: 38,6oC; dispneico, pálido 4+/4+, pulso: 100 bpm, arrítmico, ausculta pulmonar sem ruídos adventícios. Iniciada hidratação e antibioticoterapia empírica endovenosas e prescritas duas unidades de concentrado de hemácias. Após 3 horas, ao término da transfusão do segundo concentrado de hemácias, o paciente apresentou agitação, cianose, febre (38,7oC), dispneia intensa, com estertores crepitantes até metade dos pulmões, saturação de O2 em ar ambiente de 85%, PA: 130/100, pulso: 120 bpm, ritmo em três tempos, radiogra(cid:41)a de tórax mostrando in(cid:41)ltrado e edema pulmonar bilateral, índice cardiotorácico aumentado e presença de linhas B de Kerley. Considerando o histórico e o quadro clínico do paciente, qual medida poderia ter evitado essa complicação?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Uso de concentrados de hemácia de coleta recente com baixa concentração de lípides bioativos"
+      },
+      {
+        "letra": "B",
+        "texto": "Transfusão fracionada com menor velocidade de infusão"
+      },
+      {
+        "letra": "C",
+        "texto": "Transfusão de concentrados de hemácias irradiados e leucorreduzidos"
+      },
+      {
+        "letra": "D",
+        "texto": "Pré-medicação com hidrocortisona e anti-histamínico"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116483,
+    "tags": [],
+    "enunciado": "Mulher, 22 anos, tipo sanguíneo Rh(D) negativo, recebeu transfusão de 12 unidades de concentrado de plaquetas, das quais uma única era D positivo. Qual a melhor conduta neste caso?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fazer plasmaférese de urgência para remover a substância D"
+      },
+      {
+        "letra": "B",
+        "texto": "Transfundir hemácias D positivo daí por diante, pois a paciente já foi sensibilizada pelo antígeno D"
+      },
+      {
+        "letra": "C",
+        "texto": "Anotar no prontuário da paciente o fato, a fim de que o mesmo não se repita."
+      },
+      {
+        "letra": "D",
+        "texto": "Administrar imunoglobulina anti-D"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116484,
+    "tags": [],
+    "enunciado": "Um doador de repetição faz uma doação de sangue em Maio/16. A amostra coletada nesta doação apresentou resultado positivo para HIV no teste NAT, porém com triagem sorológica não reagente. Suas doações anteriores foram em Fevereiro/16, Julho/15 e Dezembro/14, todas no mesmo banco de sangue. Quais doações deverão ser submetidas à retovigilância?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não é necessário retrovigilância de nenhuma das doações anteriores"
+      },
+      {
+        "letra": "B",
+        "texto": "Fazer retrovigilância somente da doação ocorrida em Fevereiro/16"
+      },
+      {
+        "letra": "C",
+        "texto": "Fazer retrovigilância de todas as doações dos últimos 12 meses"
+      },
+      {
+        "letra": "D",
+        "texto": "Fazer retrovigilância de todas as doações anteriores, independente da data"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116485,
+    "tags": [],
+    "enunciado": "Mulher, 40 anos, cardiopata, foi internada com anemia sintomática (Hb:5,6g/dL) e necessitando de transfusão de CH. Negava transfusão nos últimos 3 meses. Testes imuno-hematológicos: A Rh+; Pesquisa de Anticorpos Irregulares positiva; Reação 4+ com todas as células do painel. Teste direto da antiglobulina 4+ e teste monoespecí(cid:41)co IgG 4+ C3d 4+. Eluato 4+ com todas as células do painel. Fenotipagem eritrocitária: CcDEe, K+, Fy(a+b+), Jk(a+b+), S+s+. Teste de compatibilidade positivo com todas as unidades testadas. Considerando a necessidade imediata de transfusão, qual conduta é mais adequada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Compatibilizar CH com fenótipo idêntico ao obtido"
+      },
+      {
+        "letra": "B",
+        "texto": "Fenotipar as hemácias da paciente após tratamento com cloroquina"
+      },
+      {
+        "letra": "C",
+        "texto": "Selecionar para transfusão o CH com menor reatividade no teste de compatibilidade"
+      },
+      {
+        "letra": "D",
+        "texto": "Identificar a especificidade do autoanticorpo para compatibilizar unidades de CH"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116486,
+    "tags": [],
+    "enunciado": "Homem, 72 anos, com história de febre, tosse e dispneia há 3 dias, foi internado para tratamento de pneumonia. Logo após a internação, evoluiu com piora dos parâmetros respiratórios e foi submetido a intubação orotraqueal. Após 24 horas, o paciente apresentava PA= 140x100mHg, FC=92bpm, petéquias em extremidades, isquemia de pododáctilos bilateralmente e necrose do pavilhão auricular direito. Sem sinais de sangramento em sítios de punção. Apresentava oligúria. Os exames mostraram Hb 9,7 g/dL, leucócitos 15100/ L (com neutro(cid:41)lia), plaquetas 22.000/ L, RNI= 3,8, TTPA (razão)= 2,9, (cid:41)brinogênio=88 g/dL, dímeros- D= 9μg/mL. (VR: < 0,5 μg/mL). Qual a melhor conduta em relação a terapia transfusional, neste momento?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Administrar concentrado de complexo protrombínico"
+      },
+      {
+        "letra": "B",
+        "texto": "Transfundir plasma fresco congelado"
+      },
+      {
+        "letra": "C",
+        "texto": "Transfundir plaquetas e plasma fresco congelado"
+      },
+      {
+        "letra": "D",
+        "texto": "Não transfundir"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116487,
+    "tags": [],
+    "enunciado": "Homem, 42 anos, em uso de rivaroxabana sofreu traumatismo craniano e apresentava, à entrada no hospital, confusão mental e anisocoria. Tempo de tromboplastina parcial ativado: > 180 segundos; tempo de protrombina > 180 segundos. A equipe de neurocirurgia indicou cirurgia. Qual é melhor conduta pré-operatória do ponto de vista hemoterápico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Transfundir plasma fresco congelado"
+      },
+      {
+        "letra": "B",
+        "texto": "Administrar vitamina K"
+      },
+      {
+        "letra": "C",
+        "texto": "Liberar a cirurgia após 12 horas"
+      },
+      {
+        "letra": "D",
+        "texto": "Transfundir complexo protrombínico"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116488,
+    "tags": [],
+    "enunciado": "A respeito das reações adversas relacionadas à transfusão dos componentes sanguíneos podemos a(cid:41)rmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A reação transfusional febril não hemolítica é caracterizada por sintomas como calafrios, tremores e elevação da temperatura = 1ºC, ocorrendo imprescindivelmente até 1 hora após o término da transfusão."
+      },
+      {
+        "letra": "B",
+        "texto": "As reações alérgicas leves podem se apresentar como prurido, urticária, tosse, rouquidão. Após o tratamento e resolução dos sintomas é possível retornar a infusão do hemocomponente."
+      },
+      {
+        "letra": "C",
+        "texto": "Dentre as reações adversas mediadas imunologicamente, podemos citar: sobrecarga hídrica, hipotermia, doença do enxerto versus hospedeiro e hipercalemia."
+      },
+      {
+        "letra": "D",
+        "texto": "A Injúria Pulmonar Relacionada à Transfusão (TRALI) é uma complicação grave, rara, não mediada imunologicamente e o tratamento é suporte clínico."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116489,
+    "tags": [],
+    "enunciado": "Paciente feminina, 77 anos, submetida a colectomia parcial devido a neoplasia de cólon. Retorna do centro cirúrgico desperta, eupneica em ar ambiente, estável hemodinamicamente, apresenta acesso venoso periférico calibroso onde está sendo realizada infusão de bolsa de concentrado de hemácias. Abdome cirúrgico, (cid:83)ácido, pouco doloroso próximo à ferida operatória. Durante sua avaliação inicial nota-se uma temperatura axilar de 39°. A causa mais provável para este sintoma é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Atelectasia"
+      },
+      {
+        "letra": "B",
+        "texto": "Reação transfusional"
+      },
+      {
+        "letra": "C",
+        "texto": "Infecção de ferida operatória"
+      },
+      {
+        "letra": "D",
+        "texto": "Peritonite. 4000151683"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116490,
+    "tags": [],
+    "enunciado": "Sobre o correto uso de hemoderivados, assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Uma unidade de concentrado de hemácias (CH) deve elevar o nível de hemoglobina em 1,5g/dL (70kg) e que não esteja com sangramento ativo."
+      },
+      {
+        "letra": "B",
+        "texto": "A transfusão está habitualmente indicada quando Hb&lt;9g/dL. (grau de recomendação A)."
+      },
+      {
+        "letra": "C",
+        "texto": "Em casos de síndrome coronariana aguda, é recomendável transfundir-se Hb entre 8 e10g/dL, mantendo em 10g/dL."
+      },
+      {
+        "letra": "D",
+        "texto": "Na anemia falciforme e nas hemoglobinopatias as transfusões estão vinculadas ao nível de hemoglobina e não ao quadro clínico."
+      },
+      {
+        "letra": "E",
+        "texto": "Em pacientes urêmicos com sangramento por plaquetopenia, transfundir-se Hb&lt; 9 g/dL."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 116491,
+    "tags": [],
+    "enunciado": "O hemocomponente e a situação que melhor indicaria seu uso são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "concentrado de hemácias para paciente anêmico crônico, com Hb de 8 g/dL e FC de 66 bpm."
+      },
+      {
+        "letra": "B",
+        "texto": "concentrado de plaquetas para paciente sem sangramento que será submetido inadiavelmente à cirurgia cardíaca e apresenta plaquetometria de 70 000/mm³."
+      },
+      {
+        "letra": "C",
+        "texto": "crioprecipitado para paciente com sangramento intraoperatório, com plaquetometria de 30 000/mm³, tempo de protrombina com RNI de 3,5 e fribrinogênio de 180 g/dL."
+      },
+      {
+        "letra": "D",
+        "texto": "plasma fresco congelado para paciente sem sangramento e com tempo de protrombina com RNI de 6."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116492,
+    "tags": [],
+    "enunciado": "Uma mulher de 20 anos, estudante, recém-diagnosticada com leucemia linfoide aguda, está recebendo transfusão pro(cid:41)lática de plaquetas para uma contagem de 5.000/mm3. Aproximadamente 10 minutos após início da transfusão, a taxa de oxigênio caiu de 98% para 65%, a pressão arterial caiu de 120x60 mmHg para 80x40 mmHg. A paciente está, visivelmente, agônica com rápida deterioração clínica. Uma intubação de emergência foi realizada com copiosa eliminação de líquido claro pela cânula. O diagnóstico mais provável para o quadro atual do paciente é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "lesão aguda pulmonar relacionada à transfusão (TRALI)."
+      },
+      {
+        "letra": "B",
+        "texto": "sepsis relacionada à transfusão."
+      },
+      {
+        "letra": "C",
+        "texto": "reação anafilática relacionada à transfusão."
+      },
+      {
+        "letra": "D",
+        "texto": "transtorno de sobrecarga circulatória aguda (TACO)."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116493,
+    "tags": [],
+    "enunciado": "No setor da nefrologia pediátrica, está internada uma menina com insu(cid:41)ciência renal crônica e anemia decorrente dessa doença. Ela aguarda um transplante renal que será realizado nos próximos 2 meses. No momento, ela tem Hb 5,0 g/dL e necessita de transfusão. Nessa situação, o hemoderivado mais apropriado é o concentrado de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "hemácias convencional."
+      },
+      {
+        "letra": "B",
+        "texto": "hemácias pobre em leucócitos."
+      },
+      {
+        "letra": "C",
+        "texto": "hemácias filtradas."
+      },
+      {
+        "letra": "D",
+        "texto": "hemácias irradiadas."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116494,
+    "tags": [],
+    "enunciado": "Sobre o uso racional de hemoderivados, qual dos pacientes abaixo apresenta indicação para transfusão de pool plaquetário?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Paciente com quadro clínico de leucemia mieloide aguda e com 33mil plaquetas, em tratamento para aspergilose invasiva."
+      },
+      {
+        "letra": "B",
+        "texto": "Paciente com quadro de purpura trombocitpenica trombótica com 20 mil plaquetas e gengivorragia."
+      },
+      {
+        "letra": "C",
+        "texto": "Paciente com anemia aplásica com 55 mil plaquetas e epistaxe."
+      },
+      {
+        "letra": "D",
+        "texto": "Paciente com Leucemia Linfocitica aguda e quadro de neutropenia febril (temperatura de 38,3º) e com 15 mil plaquetas, mas sem sangramento ativo."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116495,
+    "tags": [],
+    "enunciado": "Em relação à Medicina Transfusional, é INCORRETO afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É considerada transfusão maciça a transfusão de dez ou mais concentrados de hemácias (CHAD) em 24h."
+      },
+      {
+        "letra": "B",
+        "texto": "Na transfusão maciça, a recomendação atual é transfundir a proporção 1:1:1 de plasma: plaquetas: concentrado de hemácias."
+      },
+      {
+        "letra": "C",
+        "texto": "Os testes pré-transfusionais incluem a tipagem ABO e antígeno D, pesquisa de anticorpos irregulares e prova de compatibilidade."
+      },
+      {
+        "letra": "D",
+        "texto": "Em situação de urgência, se o paciente tiver anticorpos irregulares em níveis elevados, o concentrado de hemácias será selecionado pela prova de compatibilidade."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116496,
+    "tags": [],
+    "enunciado": "Uma paciente de 38 anos foi internada no plantão noturno para realizar cirurgia no dia seguinte. Na checagem de rotina dos exames pré-operatórios, a enfermeira do setor acionou o plantonista da cirurgia, pois a dosagem de hemoglobina da paciente era de 7,6 g/dl. Na avaliação médica, constatou-se que a paciente estava assintomática, não tinha comorbidades, não fazia uso de medicações regulares, a frequência cardíaca era de 88 bpm/minuto, a pressão arterial era de 110x 70 mmhg e iria ser submetida a uma histerectomia em decorrência de miomatose uterina associada a hipermenorreia. A prescrição deixada pela equipe assistente, constava apenas de jejum, aferição de dados vitais e medicações sintomáticas. Qual deve ser a conduta do plantonista?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Prescrever ferro por via endovenosa."
+      },
+      {
+        "letra": "B",
+        "texto": "Transfundir concentrado de hemáceas."
+      },
+      {
+        "letra": "C",
+        "texto": "Manter a prescrição da equipe assistente."
+      },
+      {
+        "letra": "D",
+        "texto": "Prescrever eritropoietina por via endovenosa."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 116497,
+    "tags": [],
+    "enunciado": "Em relação ao tratamento das anemias, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Deve-se evitar a transfusão nos pacientes com o teste de Coombs indireto positivo pelo diagnóstico de anemia hemolítica autoimune."
+      },
+      {
+        "letra": "B",
+        "texto": "Reposição de ferro parenteral é a escolha em pacientes com anemia ferropriva e hemoglobina inferior a 10 g/dL."
+      },
+      {
+        "letra": "C",
+        "texto": "Transfusão de concentrado de hemácias corrige parcialmente as alterações hematológicas da deficiência de vitamina B12."
+      },
+      {
+        "letra": "D",
+        "texto": "Transfusão é aceitável e pode ser recomendada quando o valor de hemoglobina for inferior a 10 g/dL."
+      },
+      {
+        "letra": "E",
+        "texto": "Transfusão não é isenta de complicações, por isso deve-se evitar a indicação de apenas1 concentrado de hemácias, preferindo-se duas ou três bolsas numa mesma transfusão."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 116498,
+    "tags": [],
+    "enunciado": "Homem, 55 anos, é admitido em unidade de emergência com quadro de fezes enegrecidas, amolecidas e de odor fétido há 2 dias. Há 3 horas, sensação de fraqueza, tonturas e lipotímia. Antecedentes pessoais: (cid:41)brilação atrial em uso de varfarina e hipertensão em uso de losartana. Exame físico: descorado ++/4+, desidratado +/4+, FC = 112 bpm; PA = 80 x 55 mmHg; peso = 70 kg; presença de hematomas de até 3 cm em tronco e membros inferiores. Exames laboratoriais: Hb = 10,1 g/dL e INR > 10. Foram administrados 600 mL de plasma fresco, associado à vitamina K endovenosa. Seis horas após a transfusão, o paciente cursou com desconforto respiratório intenso, dessaturação acentuada e necessidade de ventilação mecânica. As radiogra(cid:41)as realizadas, antes e após o evento descrito, estão ilustradas a seguir. A primeira hipótese diagnóstica é de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "reação hemolítica aguda."
+      },
+      {
+        "letra": "B",
+        "texto": "reação anafilática."
+      },
+      {
+        "letra": "C",
+        "texto": "lesão pulmonar aguda relacionada à transfusão."
+      },
+      {
+        "letra": "D",
+        "texto": "edema pulmonar aguda por sobrecarga de volume."
+      },
+      {
+        "letra": "E",
+        "texto": "tromboembolismo pulmonar maciço."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 116499,
+    "tags": [],
+    "enunciado": "Em pacientes em cuidados intensivos e sem evidências de sangramento ativo, o nível de hemoglobina sérica, desencadeador da necessidade de transfusão sanguínea, deve ser inferior a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "6mg/dL."
+      },
+      {
+        "letra": "B",
+        "texto": "7mg/dL."
+      },
+      {
+        "letra": "C",
+        "texto": "8mg/dL."
+      },
+      {
+        "letra": "D",
+        "texto": "9mg/dL."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116500,
+    "tags": [],
+    "enunciado": "Analise os casos abaixo: I. Paciente com sepse de foco pulmonar, apresentando Hb=8g/dL. II. Paciente com neutropenia febril, pós quimioterapia, apresentando 4.800 plaquetas/µL. III. Paciente com fratura do colo do fêmur, apresentando 65.000 plaquetas/ µL. IV. Paciente em uso de varfarina, com sangramento gastrointestinal maciço. Apresentam indicação de transfusão de hemocomponente apenas",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "pacientes I e II."
+      },
+      {
+        "letra": "B",
+        "texto": "pacientes I e III."
+      },
+      {
+        "letra": "C",
+        "texto": "pacientes II e III."
+      },
+      {
+        "letra": "D",
+        "texto": "pacientes II e IV."
+      },
+      {
+        "letra": "E",
+        "texto": "pacientes III e IV."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116501,
+    "tags": [],
+    "enunciado": "Homem, 80 anos, diabético, hipertenso e portador de insu(cid:41)ciência renal crônica, com hemoglobina 7,0 g/dl, evolui durante a transfusão da 2ª unidade de concentrado de hemácias com hipertensão arterial, taquicardia, dispneia e hipoxemia (Saturação: 80%). Das reações transfusionais abaixo, a mais provável para justi(cid:41)car o quadro clínico é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Reação hemolítica aguda."
+      },
+      {
+        "letra": "B",
+        "texto": "Contaminação bacteriana."
+      },
+      {
+        "letra": "C",
+        "texto": "Sobrecarga volêmica."
+      },
+      {
+        "letra": "D",
+        "texto": "TRALI (insuficiência pulmonar aguda associada à transfusão."
+      },
+      {
+        "letra": "E",
+        "texto": "Reação anafilática."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 116502,
+    "tags": [],
+    "enunciado": "Sobre as indicações clínicas para o uso de componentes sanguíneos, marque a alternativa incorreta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Está indicado transfusão de hemácias em pacientes com hemoglobina < 8 g/dL ou perda aguda de sangue em paciente saudável, com sinais ou sintomas de diminuição de oferta de oxigênio."
+      },
+      {
+        "letra": "B",
+        "texto": "Está indicado transfusão de hemácias em pacientes com hemoglobina < 10 g/dL em pacientes que sabidamente tem risco aumentado de doença arterial coronariana que tiveram ou esperam que venham a ter hemorragia significativa."
+      },
+      {
+        "letra": "C",
+        "texto": "Transfusão de hemácias em pacientes assintomáticos, estáveis, com hemoglobina entre 7 g/dL e 10 g/dL, apresenta indicação questionável ou sem fundamento."
+      },
+      {
+        "letra": "D",
+        "texto": "Deveremos usar transfusão de plaquetas (para profilaxia) em pacientes com contagem recente (menos de 24 horas) < 50.000/mm³."
+      },
+      {
+        "letra": "E",
+        "texto": "Transfusão de plasma não é justificada para reposição de volume, suplementação nutricional e hipoalbuminemia."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116503,
+    "tags": [],
+    "enunciado": "O crioprecipitado contém todos os fatores de coagulação, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fator XIII."
+      },
+      {
+        "letra": "B",
+        "texto": "Fator de Von Willebrand."
+      },
+      {
+        "letra": "C",
+        "texto": "Fator IX."
+      },
+      {
+        "letra": "D",
+        "texto": "Fator VIII."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 116504,
+    "tags": [],
+    "enunciado": "Segundo a estatística populacional americana, o risco de contrair o vírus HIV ao receber uma doação de hemoderivados é de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1/100.000 unidades."
+      },
+      {
+        "letra": "B",
+        "texto": "1/200.000 unidades."
+      },
+      {
+        "letra": "C",
+        "texto": "1/500.000 unidades."
+      },
+      {
+        "letra": "D",
+        "texto": "1/2.000.000 unidades."
+      },
+      {
+        "letra": "E",
+        "texto": "1/ 100.000.000 unidades."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116505,
+    "tags": [],
+    "enunciado": "Homem, 56a, admitido em Unidade de Emergência por fezes pretas, amolecidas e de odor fétido há 2 dias e tonturas há 3 horas. Antecedentes pessoais: (cid:41)brilação atrial, CHADS2=2 em uso de varfarina. Exame físico: descorado ++/4+, desidratado +/4+, FC= 104 bpm; PA= 82x55 mmHg; Peso= 72 kg; Pele: hematomas de até 3 cm em tronco e membros inferiores. Hb= 11,1 g/dL e RNI > 10. Administrados 600ml de plasma fresco congelado associado a vitamina K endovenosa. Seis horas após o paciente evoluiu com desconforto respiratório e necessidade de ventilação mecânica. Radiograma de tórax: opacidades heterogêneas bilaterais. O DIAGNÓSTICO É:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sobrecarga circulatória relacionada à transfusão."
+      },
+      {
+        "letra": "B",
+        "texto": "Lesão pulmonar aguda relacionada à transfusão."
+      },
+      {
+        "letra": "C",
+        "texto": "Reação hemolítica aguda."
+      },
+      {
+        "letra": "D",
+        "texto": "Reação anafilática à vitamina K."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116506,
+    "tags": [],
+    "enunciado": "Paciente do sexo masculino, de 55 anos de idade, necessitou de transfusão de 02 concentrados de hemácias no pós-operatório de troca valvar mitral. Após 20 minutos do início da segunda bolsa, apresentou febre de 38,5°C, sem outros sintomas. Diante dessa situação, a melhor conduta a ser adotada é parar a transfusão, manter acesso com soro, fazer antitérmico:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não notificar incidente transfusional leve, mas devolver hemocomponente. Na próxima transfusão, preferir hemocomponente lavado."
+      },
+      {
+        "letra": "B",
+        "texto": "otificar incidente transfusional e reiniciar a transfusão após defervescência. Na próxima transfusão, preferir hemocomponente desleucocitado."
+      },
+      {
+        "letra": "C",
+        "texto": "notificar incidente transfusional e devolver hemocomponente. Na próxima trasnfusão, preferir hemocomponente desleucocitado."
+      },
+      {
+        "letra": "D",
+        "texto": "não notificar incidente trasnfusional leve. Na próxima transfusão, preferir hemocomponente desleucocitado."
+      },
+      {
+        "letra": "E",
+        "texto": "nenhuma das respostas anteriores."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 116507,
+    "tags": [],
+    "enunciado": "Com relação à transfusão de Concentrados de Hemácias, responda a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Para um paciente com anemia e plaquetopenia utiliza-se, preferencialmente, sangue total ao invés de concentrados de glóbulos."
+      },
+      {
+        "letra": "B",
+        "texto": "Devemos transfundir quantas unidades forem necessárias, para deixar o paciente com 10 g/dl de hemoglobina."
+      },
+      {
+        "letra": "C",
+        "texto": "Uma unidade de concentrado de glóbulos tem hematócrito próximo de 80%, eleva a hemoglobina em 1 grama/dl em um indivíduo de 70 Kg e deve ser transfundida em 1 a 4 horas."
+      },
+      {
+        "letra": "D",
+        "texto": "O uso de filtro de leucócitos evita reações transfusionais como hemólise e febre."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 116508,
+    "tags": [],
+    "enunciado": "Homem, 72 anos de idade, está em preparo para gastrectomia devido a neoplasia gástrica. Recebeu transfusão de 3 concentrados de hemácias e evoluiu com dispneia e ortopneia intensas. Ao exame afebril, saturação de O₂ = 90%, em ar ambiente, repouso; pressão arterial: 120 x 80 mmHg, frequência cardíaca: 102 batimentos/minuto, sinusal e estertores (cid:41)nos nos 2/3 inferiores de ambos os hemitóraces. Radiogra(cid:41)a simples de tórax revela congestão pulmonar. A reação transfusional e a conduta a ser adotada, são, respectivamente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "TRALI (injúria pulmonar relacionada a transfusão); corticosteroides"
+      },
+      {
+        "letra": "B",
+        "texto": "Reação hemolitica aguda; corticosteroides"
+      },
+      {
+        "letra": "C",
+        "texto": "Doença enxerto X hospedeiro; imunoglobulina"
+      },
+      {
+        "letra": "D",
+        "texto": "TACO (sobrecarga cardíaca associada a transfusão); diuréticos"
+      },
+      {
+        "letra": "E",
+        "texto": "Hipersensibilidade do tipo; prometazina"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116509,
+    "tags": [],
+    "enunciado": "Assinale a alternativa que indica a reação mais comum no ato da transfusão sanguínea",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Reação anafilática."
+      },
+      {
+        "letra": "B",
+        "texto": "Reação hemolítica intravascular."
+      },
+      {
+        "letra": "C",
+        "texto": "Reação hemolítica extravascular."
+      },
+      {
+        "letra": "D",
+        "texto": "Reação febril não hemolítica."
+      },
+      {
+        "letra": "E",
+        "texto": "Reação febril por contaminação bacteriana."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116510,
+    "tags": [],
+    "enunciado": "São indicações de transfusão de concentrado de plaquetas:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Plaquetopatias constitucionais com sangramento ativo, plaquetopenia em vigência de sangramentos, profilaxia de sangramento em colecistectomia em paciente com contagem de plaquetas de 80000/mm³."
+      },
+      {
+        "letra": "B",
+        "texto": "Plaquetopenia em vigência de sangramentos, profilaxia de sangramento em paciente com 20000/mm³ de plaquetas, com diagnóstico de plaquetopenia imune, plaquetopatias constitucionais com sangramento ativo."
+      },
+      {
+        "letra": "C",
+        "texto": "Plaquetopatias constitucionais sem sangramento ativo, profilaxia de sangramento em cirurgia oftalmológica em paciente com contagem de plaquetas de 90 000/mm³, profilaxia de sangramento em paciente que será submetido a biópsia de medula óssea com contagem plaquetária de 25000/mm³."
+      },
+      {
+        "letra": "D",
+        "texto": "Plaquetopatias constitucionais com sangramento ativo, profilaxia de sangramento em paciente que será submetido a punção lombar com 55 000/mm³ de plaquetas, profilaxia de sangramento em paciente com 30000/mm³ e diagnóstico de púrpura trombocitopênica trombótica."
+      },
+      {
+        "letra": "E",
+        "texto": "Plaquetopatias constitucionais com sangramento ativo, profilaxia de sangramento em cirurgia oftalmológica em paciente com contagem de plaquetas de 90000/mm³, profilaxia de sangramento em paciente com contagem de plaquetas de 45000/mm³, que será submetido a punção lombar."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 116511,
+    "tags": [],
+    "enunciado": "Paciente do sexo masculino, de 55 anos de idade, necessitou de transfusão de 02 concentrados de hemácias no pós-operatório de troca valvar mitral. Após 20 minutos do início da segunda bolsa, apresentou febre de 38,5°C, sem outros sintomas. Diante dessa situação, a melhor conduta a ser adotada é parar a transfusão, manter acesso com soro, fazer antitérmico,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não notificar incidente transfusional leve, mas devolver hemocomponente. Na próxima transfusão, preferir hemocomponente lavado."
+      },
+      {
+        "letra": "B",
+        "texto": "notificar incidente transfusional e reiniciar transfusão após defervescência. Na próxima transfusão, preferir hemocomponente desleucocitato."
+      },
+      {
+        "letra": "C",
+        "texto": "notificar incidente transfusional e devolver hemocomponente. Na próxima transfusão, preferir hemocomponente desleucocitato."
+      },
+      {
+        "letra": "D",
+        "texto": "não notificar incidente transfusional leve. Na próxima transfusão, preferir hemocomponente desleucocitato."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 116512,
+    "tags": [],
+    "enunciado": "A transfusão profilática de concentrado de plaquetas estará indicada em pacientes:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "com púrpura trombocitopênica imunológica e plaquetas em 30.000 mm³"
+      },
+      {
+        "letra": "B",
+        "texto": "submetidos a punção venosa profunda e plaquetas em 50.000 mm³"
+      },
+      {
+        "letra": "C",
+        "texto": "com epistaxe de origem hipertensiva e plaquetas em 70.000 mm³"
+      },
+      {
+        "letra": "D",
+        "texto": "candidatos à neurocirurgia com plaquetas em 90.000 mm³"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116513,
+    "tags": [],
+    "enunciado": "Paciente em enfermaria hospitalar recebendo transfusão de concentrado de hemácias evolui com quadro febril acompanhado de calafrios sem instabilidade hemodinâmica. Escolha a melhor alternativa:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Reação febril não hemolítica é complicação rara da transfusão de hemoderivados."
+      },
+      {
+        "letra": "B",
+        "texto": "Após a administração de anti-histamínico e antipirético a infusão do mesmo concentrado de hemácias pode ser reiniciado."
+      },
+      {
+        "letra": "C",
+        "texto": "O quadro acima representa claramente uma contaminação bacteriana levando a bacteremia durante a transfusão."
+      },
+      {
+        "letra": "D",
+        "texto": "A presença de anticorpos contra antígenos específicos de Antígeno Leucocitário Humano - HLA e linfócitos em receptores previamente aloimunizados está relacionada à fisiopatologia da reação febril não hemolítica."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116514,
+    "tags": [],
+    "enunciado": "A reação febril não hemolítica é complicação comum da transfusão de hemoderivados. Assinale a melhor alternativa:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Contaminações bacterianas são a principal fisiopatologia."
+      },
+      {
+        "letra": "B",
+        "texto": "Após a administração de antihistaminico e antipirético a infusão do mesmo concentrado de hemácias pode ser reiniciado."
+      },
+      {
+        "letra": "C",
+        "texto": "O hemoderivado que causou a reação deve ser analisado e descartado, não podendo ser reinfundido."
+      },
+      {
+        "letra": "D",
+        "texto": "A reação mais comum em pacientes submetidos a primeira transfusão."
+      },
+      {
+        "letra": "E",
+        "texto": "A reação ocorre apenas na transfusão de plasma fresco congelado."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 116515,
+    "tags": [],
+    "enunciado": "Sobre hemostasia e terapia transfusional, marque a opção INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Uma cirurgia com menos de 30% de perda sanguínea rápida de volume provavelmente não precisará de hemotransfusão se o paciente for previamente sadio."
+      },
+      {
+        "letra": "B",
+        "texto": "O tratamento de trombocitopenias secundárias às doenças hematológicas, como na Púrpura Trombocitopênica Idiopática (PTI), deve ser realizado com base em transfusões de plaquetas."
+      },
+      {
+        "letra": "C",
+        "texto": "A aspirina e os outros AINES atuam bloqueando o metabolismo da prostaglandina nas plaquetas."
+      },
+      {
+        "letra": "D",
+        "texto": "Os conceitos tradicionais de coagulação sustentam que existem duas vias pelas quais elas podem ocorrer: uma via intrínseca e a outra extrínseca. Nesse modelo de cascata, as duas vias convergem para uma via comum."
+      },
+      {
+        "letra": "E",
+        "texto": "Os principais riscos associados a hemotransfusão não são mais infecções pelo HIV e hepatites e sim incompatibilidade ABO, contaminação por bactérias e lesão pulmonar relacionada à transfusão."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116516,
+    "tags": [],
+    "enunciado": "Em qual das seguintes situações está correta a indicação da transfusão de hemoderivados?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Transfusão de concentrado de plaquetas em quando contagem plaquetária < 50.000/ µL, mesmo na ausência de fatores de risco."
+      },
+      {
+        "letra": "B",
+        "texto": "Transfusão de concentrado de plaquetas nos casos de dengue com contagem plaquetária < 10.000 / µL, independente da existência ou não de sangramentos."
+      },
+      {
+        "letra": "C",
+        "texto": "Transfusão de concentrado de plaquetas nos casos de cirurgia neurológica com contagem plaquetária < 100.000/ µL."
+      },
+      {
+        "letra": "D",
+        "texto": "Transfusão de concentrado de hemácias nos casos de pré-operatório de cirurgia abdominal de grande porte com Hb < 11,0 g/dL."
+      },
+      {
+        "letra": "E",
+        "texto": "Transfusão de crioprecipitado nos casos de sangramento ativo com INR > 2,0."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 116517,
+    "tags": [],
+    "enunciado": "Em um paciente crítico sem sangramento ativo, o gatilho para transfusão de concentrado de hemácias é hemoglobina valendo, em g/dL,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "5."
+      },
+      {
+        "letra": "B",
+        "texto": "7."
+      },
+      {
+        "letra": "C",
+        "texto": "9."
+      },
+      {
+        "letra": "D",
+        "texto": "11."
+      },
+      {
+        "letra": "E",
+        "texto": "4."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116518,
+    "tags": [],
+    "enunciado": "Pacientes submetidos a transfusão de concentrado de hemácias são divididos em 2 grupos Grupo I: reação transfusional hemolítica aguda. Grupo II: reação transfusional hemolítica tardia. São características destes casos",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "B"
+      },
+      {
+        "letra": "C",
+        "texto": "D"
+      },
+      {
+        "letra": "E",
+        "texto": ""
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116519,
+    "tags": [],
+    "enunciado": "Transfusão de plaquetas está indicada para paciente com:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "7 mil plaquetas/mm³ e sem evidência de sangramento."
+      },
+      {
+        "letra": "B",
+        "texto": "20 mil plaquetas/mm³ e necessidade de paracentese."
+      },
+      {
+        "letra": "C",
+        "texto": "60 mil plaquetas/mm³ e necessidade de traqueostomia."
+      },
+      {
+        "letra": "D",
+        "texto": "70 mil plaquetas/mm³ e necessidade de laparotomia."
+      },
+      {
+        "letra": "E",
+        "texto": "80 mil plaquetas/mm³ e necessidade de acesso venoso central."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116520,
+    "tags": [],
+    "enunciado": "A transfusão de hemocomponentes é um procedimento relativamente seguro, todavia, a indicação correta é essencial para evitar incidentes adversos. Dentre as opções abaixo, a que representa o paciente que mais se beneficiaria da transfusão é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Feminino, 25 anos, com hipermenorreia, astenia e dor em membros inferiores. Dosagem de hemoglobina de 5,0 e VCM de 70."
+      },
+      {
+        "letra": "B",
+        "texto": "Masculino, 67 anos, neoplasia de pâncreas, dispneia aos médios esforços. Dosagem de hemoglobina de 7,5 e VCM de 85."
+      },
+      {
+        "letra": "C",
+        "texto": "Feminino, 30 anos, diagnóstico provável de anemia aplástica, com astenia. Dosagem de hemoglobina de 6,5 e VCM de 88."
+      },
+      {
+        "letra": "D",
+        "texto": "Masculino, 50 anos, insuficiência renal dialítica, assintomático. Dosagem de hemoglobina de 8,0 e VCM de 80."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116521,
+    "tags": [],
+    "enunciado": "Durante uma transfusão sanguínea, um paciente apresentou prurido difuso e placas urticariformes. O procedimento CORRETO a ser realizado é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Por se tratar de quadro de natureza alérgica, tratar com sintomáticos e suspender a transfusão temporariamente."
+      },
+      {
+        "letra": "B",
+        "texto": "Suspender a transfusão e iniciar corticoterapia venosa em dose imunossupressora."
+      },
+      {
+        "letra": "C",
+        "texto": "Por se tratar de reação enxerto versus hospedeiro, suspender a transfusão."
+      },
+      {
+        "letra": "D",
+        "texto": "Por se tratar de reação hemolítica, suspender imediatamente a transfusão."
+      },
+      {
+        "letra": "E",
+        "texto": "Por se tratar de reação anafilática, suspender a transfusão e iniciar epinefrina."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116522,
+    "tags": [],
+    "enunciado": "Dentre as opções abaixo são indicações para o uso de plasma fresco congelado, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Expansão do volume sanguíneo"
+      },
+      {
+        "letra": "B",
+        "texto": "Tratamento da púrpura trombocitopênica trombótica"
+      },
+      {
+        "letra": "C",
+        "texto": "Correção das coagulopatias"
+      },
+      {
+        "letra": "D",
+        "texto": "Suprimento de proteínas plasmáticas deficientes"
+      },
+      {
+        "letra": "E",
+        "texto": "Reversão do efeito da varfarina"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116523,
+    "tags": [],
+    "enunciado": "Em virtude das possibilidades de riscos de transmissão de doenças e da existência de hemoderivados, atualmente são restritas as indicações terapêuticas de plasma fresco congelado em seu estado natural, dentre elas podemos citar: Assinale a opção correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Reversão urgente do efeito cumarínico."
+      },
+      {
+        "letra": "B",
+        "texto": "Reposição de perda volêmica superior à 20%."
+      },
+      {
+        "letra": "C",
+        "texto": "Suporte nutricional em pacientes hipoalbuminêmicos."
+      },
+      {
+        "letra": "D",
+        "texto": "Tratamento de grandes queimados."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116524,
+    "tags": [],
+    "enunciado": "Paciente do sexo feminino, 19 anos, portadora de leucemia mieloide aguda em tratamento quimioterápico. Apresenta-se no pronto-atendimento com anemia importante (Hb: 6.2) e informa dois episódios de reação febril não hemolítica. Qual a melhor escolha para a transfusão de concentrado de hemácias nessa paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Irradiado."
+      },
+      {
+        "letra": "B",
+        "texto": "Deleucotizado."
+      },
+      {
+        "letra": "C",
+        "texto": ") Fenotipado."
+      },
+      {
+        "letra": "D",
+        "texto": "Lavado com solução salina."
+      },
+      {
+        "letra": "E",
+        "texto": "Convencional."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116525,
+    "tags": [],
+    "enunciado": "Paciente masculino de 62 anos estava internado com quadro de sepse em ventilação mecânica. Foi indicada transfusão de uma unidade de concentrado de hemácias pois apresentava Hb de 6,4 g/dl (Valor de referência: 12 - 16,5 g/dl). Os testes pré- transfusionais obrigatórios para transfusão de concentrados de hemácias são tipagem ABO/RhD, Pesquisa de Anticorpos Irregulares (PAI) e prova de compatibilidade. Qual o objetivo da pesquisa de anticorpos irregulares?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Avaliação de autoanticorpos."
+      },
+      {
+        "letra": "B",
+        "texto": "Avaliação de anticorpos anti-HLA."
+      },
+      {
+        "letra": "C",
+        "texto": "Avaliação de incompatibilidade ABO."
+      },
+      {
+        "letra": "D",
+        "texto": "Avaliação de aloanticorpos antieritrocitários."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116526,
+    "tags": [],
+    "enunciado": "Quanto à terapia transfusional, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É considerado um sangramento excessivo quando a perda ultrapassar 50 ml/hora em 4 horas."
+      },
+      {
+        "letra": "B",
+        "texto": "Uma unidade de sangue total contém 1000 ml de sangue com anticoagulante."
+      },
+      {
+        "letra": "C",
+        "texto": "O plasma fresco descongelado é utilizado como expansor volumétrico."
+      },
+      {
+        "letra": "D",
+        "texto": "A administração de 250 ml de concentrado de hemácias causa aumento de 1 g/dl de hemoglobina."
+      },
+      {
+        "letra": "E",
+        "texto": "A transfusão plaquetária está indicada na trombocitopenia induzida por heparina."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116527,
+    "tags": [],
+    "enunciado": "Com relação à anemia ferropriva na infância, marque a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ao avaliar o hemograma percebemos níveis de hemoglobina e HCM baixos, associados ao VCM elevado."
+      },
+      {
+        "letra": "B",
+        "texto": "Não é a principal causa de anemias na infância."
+      },
+      {
+        "letra": "C",
+        "texto": "O tratamento consiste em administração de antihelminticos, complexos contendo ferro na dose de 3 a 6 mg/kg/dia de ferro elementar, além de dieta rica em alimentos com boa biodisponibilidade desse elemento."
+      },
+      {
+        "letra": "D",
+        "texto": "Indica-se transfusão de concentrado de hemácias a todas as crianças com hemoglobina <7g/dl."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116528,
+    "tags": [],
+    "enunciado": "Homem, 70 anos de idade, vítima de atropelamento por moto em via de média velocidade, há 30min. A: via aérea pérvia, em uso de prancha rígida e colar cervical. B: murmúrio vesicular presente bilateral, SpO² = 88%; FR = 22 irpm/min; forte dor e escoriações em gradil costal à esquerda. C: sem sangramento externo ativo, PA = 160 X 90 mmHg; FC = 95 bpm/min; TEC = 2s; abdome doloroso em (cid:83)anco esquerdo, pelve estável. D: Glasgow 12, pupilas sem alterações, sem de(cid:41)cit neurológico focal, E: dorso e extremidades com pequenas escoriações. Colocada máscara de oxigênio, com melhora da saturação para SpO² = 90%. Realizada ultrassonogra(cid:41)a à beira do leito (eFAST), que evidenciou: 1 cm de líquido livre em espaço hepatorrenal; “sinal da praia” presente e linhas B ausentes em hemitórax esquerdo. Antecedentes pessoais: (cid:41)brilação atrial em uso de varfarina. Qual, das opções abaixo, é a primeira escolha para reversão do efeito anticoagulante cumarínico da varfarina?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Complexo protrombínico."
+      },
+      {
+        "letra": "B",
+        "texto": "Plasma fresco congelado e vitamina K."
+      },
+      {
+        "letra": "C",
+        "texto": "Concentrado de plaquetas."
+      },
+      {
+        "letra": "D",
+        "texto": "Crioprecipitado."
+      },
+      {
+        "letra": "E",
+        "texto": "Protamina"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116529,
+    "tags": [],
+    "enunciado": "Criopreciptido pode ser indicado nas seguintes situações, EXCETO",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "coagulação vascular disseminada."
+      },
+      {
+        "letra": "B",
+        "texto": "pacientes com INR maior que 4."
+      },
+      {
+        "letra": "C",
+        "texto": "transfusão maciça."
+      },
+      {
+        "letra": "D",
+        "texto": "profilaxia para pacientes com hemofilia A."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116530,
+    "tags": [],
+    "enunciado": "Paciente apresenta pancitopenia secundária e mielotoxicidade por quimioterapia. Assinale alternativa CORRETA em relação à indicação de transfusão de plaquetas nesse paciente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Deve-se realizar transfusão se a plaquetometria for menor que 50.000/mm³, por causa do risco de sangramento grave e espontâneo."
+      },
+      {
+        "letra": "B",
+        "texto": "Deve-se realizar transfusão, independentemente da contagem de plaquetas."
+      },
+      {
+        "letra": "C",
+        "texto": "Deve-se realizar transfusão se a plaquetometria for menor que 10.000/mm³, apenas na necessidade de procedimentos invasivos."
+      },
+      {
+        "letra": "D",
+        "texto": "Deve-se realizar transfusão se a plaquetometria for menor que 10.000/mm³, por causa do risco de sangramento grave e espontâneo."
+      },
+      {
+        "letra": "E",
+        "texto": "Deve-se realizar transfusão se a plaquetometria for menor que 50.000/mm³, independentemente da necessidade de procedimentos invasivos."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116531,
+    "tags": [],
+    "enunciado": "Com relação às transfusões de plaquetas, é CORRETO afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Na púrpura trombocitopênica imunológica, se a contagem de plaquetas estiver menor que 10.000/mm³, o paciente poderá se beneficiar da transfusão de plaquetas, considerando-se a fisiopatologia da doença."
+      },
+      {
+        "letra": "B",
+        "texto": "Na púrpura trombocitopênica trombótica, o paciente irá se beneficiar da transfusão de plaquetas, desde que a contagem de plaquetas esteja menor que 5.000/mm³."
+      },
+      {
+        "letra": "C",
+        "texto": "Na púrpura trombocitopênica trombótica, o paciente não irá se beneficiar da transfusão de plaquetas, já que os anticorpos envolvidos na fisiopatologia da doença são inespecíficos."
+      },
+      {
+        "letra": "D",
+        "texto": "Na púrpura trombocitopênica imunológica, o paciente não irá se beneficiar da transfusão de plaquetas, já que os anticorpos envolvidos na fisiopatologia da doença são inespecíficos."
+      },
+      {
+        "letra": "E",
+        "texto": "Na púrpura trombocitopênica trombótica, se a contagem de plaquetas estiver menor que 10.000/mm³, o paciente poderá se beneficiar da transfusão de plaquetas, considerando-se o risco de hemorragia espontânea."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116532,
+    "tags": [],
+    "enunciado": "Assinale a assertiva INCORRETA sobre o tratamento das condições clínicas abaixo.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ferro e eritropoetina são opções terapêuticas que trazem benefícios clínicos a pacientes criticamente enfermos portadores de anemia."
+      },
+      {
+        "letra": "B",
+        "texto": "Crioprecipitado, rico em crioglobulinas, deve ser empregado em caso de hemorragia associada à hipofibrinogenemia e sangramento urêmico."
+      },
+      {
+        "letra": "C",
+        "texto": "Hemocomponentes desleucocitados devem ser empregados em pacientes com história de reações transfusionais febris."
+      },
+      {
+        "letra": "D",
+        "texto": "Contagem de plaquetas inferior a 10.000/mm³ é aceita como gatilho para indicação de transfusão profilática de plaquetas em pacientes criticamente enfermos."
+      },
+      {
+        "letra": "E",
+        "texto": "Não há evidência de benefício do uso de plasma fresco congelado em pacientes criticamente enfermos com alterações laboratoriais de coagulação, como elevação do tempo de protrombina, na ausência de hemorragia."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116533,
+    "tags": [],
+    "enunciado": "Qual é a complicação mais frequente da transfusão de sangue?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sobrecarga de volume."
+      },
+      {
+        "letra": "B",
+        "texto": "Reação hemolítica."
+      },
+      {
+        "letra": "C",
+        "texto": "Vírus da imunodeficiência humana."
+      },
+      {
+        "letra": "D",
+        "texto": "Hepatite c."
+      },
+      {
+        "letra": "E",
+        "texto": "Hepatite b."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116534,
+    "tags": [],
+    "enunciado": "Paciente recebendo concentrado de hemácias inicia quadro de calafrios intensos. A avaliação de sinais vitais demonstra: FC = 120; FR = 30; PA = 190 x 100 mmHg; T = 36,5°C. A conduta básica recomendada após a transfusão é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Administrar 20 mg de petidina, manter acesso venoso com soro, preencher ficha de notificação e devolver a bolsa para unidade transfusional."
+      },
+      {
+        "letra": "B",
+        "texto": "Administrar 100 mg de hidrocortisona, manter acesso com soro até melhora dos sintomas e reiniciar transfusão lentamente."
+      },
+      {
+        "letra": "C",
+        "texto": "Administrar 1 g de dipirona, trocar acesso venoso e devolver a bolsa para unidade transfusional."
+      },
+      {
+        "letra": "D",
+        "texto": "Administrar 500 mg de hidrocortisona, preencher ficha de notificação e, após melhora dos sintomas, reiniciar transfusão lentamente."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116535,
+    "tags": [],
+    "enunciado": "Uma paciente de 40 anos de idade, internada na enfermaria por hemorragia digestiva alta, apresenta dispneia súbita enquanto recebia hemotransfusão de um concentrado de hemácias (iniciada há 90 minutos). Ao exame físico, a temperatura é 39ºC, a frequência cardíaca é 115 bpm; a pressão arterial é 110 x 65 bpm e a frequência respiratória é 28 irpm, com saturação periférica de O2 de 83%. A enfermeira instalou cânula nasal de O2 a 2L/min. A ausculta pulmonar revela sibilos esparsos e estertores crepitantes difusos. A ausculta cardíaca é normal e a paciente não apresenta sinais de congestão periférica. Radiogra(cid:41)a de tórax no leito revela infiltrado difuso bilateral. Qual o diagnóstico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Injúria pulmonar relacionada à transfusão (TRALI)."
+      },
+      {
+        "letra": "B",
+        "texto": "Reação hemolítica transfusional aguda."
+      },
+      {
+        "letra": "C",
+        "texto": "Reação febril transfusional não hemolítica."
+      },
+      {
+        "letra": "D",
+        "texto": "Sobrecarga de volume e edema agudo de pulmão."
+      },
+      {
+        "letra": "E",
+        "texto": "Sepse."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116536,
+    "tags": [],
+    "enunciado": "Acerca do uso racional de plaquetas, é CORRETO afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A dose padrão utilizada no calculo da transfusão de plaquetas é de 5 unidades/kg no adulto."
+      },
+      {
+        "letra": "B",
+        "texto": "Não há indicação para transfusão de plaquetas profiláticas na trombocitopenia na dengue (ou seja, sem sangramento ativo)."
+      },
+      {
+        "letra": "C",
+        "texto": "Deve-se transfundir plaquetas nos casos de plaquetopenia induzida por heparina se os níveis forem inferiores a 50000."
+      },
+      {
+        "letra": "D",
+        "texto": "Nos pacientes com purpura trombocitopenica idiopática deve-se transfundir profilaticamente plaquetas quando seus níveis forem inferiores a 50000."
+      },
+      {
+        "letra": "E",
+        "texto": "Na purpura trombocitopênica trombótica a transfusão está recomendada com níveis inferiores a 20000."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116537,
+    "tags": [],
+    "enunciado": "Assinale verdadeiro ou falso sobre hemocomponentes e seu uso clínico: I. Deve-se transfundir concentrados de hemácias em pacientes com hemoglobina menor que 10 g/dl, mesmo em pacientes estáveis e sem sangramento agudo; II. O crioprecipitado é proveniente da centrifugação do plasma fresco congelado, sendo rico em (cid:41)brinogênio, fator VIII e fator de von Willebrand; III. Quando existe indicação de transfusão de plaquetas, deve-se transfundir uma bolsa de plaquetas de doador randômico para cada 10 kg de peso corporal do receptor; IV. Espera-se que uma unidade de concentrado de hemácias gere um incremento de 6% no hematócrito do paciente transfundido; V. O plasma fresco congelado pode ser utilizado para reversão do efeito anticoagulante da heparina em pacientes com sangramentos.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "V - F - F - V - V."
+      },
+      {
+        "letra": "B",
+        "texto": "F - V - V - F - V."
+      },
+      {
+        "letra": "C",
+        "texto": "F - V - V - F - F."
+      },
+      {
+        "letra": "D",
+        "texto": "F - V - V - V - F."
+      },
+      {
+        "letra": "E",
+        "texto": "V - F - F - V - F."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 116538,
+    "tags": [],
+    "enunciado": "Com relação às reações transfusionais, assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A sepse ocasionada pela contaminação bacteriana tem como etiologia bacteriana mais frequente os germes de pele, como o S. aureus e S. epidermidis"
+      },
+      {
+        "letra": "B",
+        "texto": "As reações transfusionais podem ser classificadas como agudas, quando ocorrem no período de até 2 horas da transfusão, ou crônicas, quando ocorrem após 48 horas da transfusão"
+      },
+      {
+        "letra": "C",
+        "texto": "A TRALI apresenta início insidioso de hipoxemia e insuficiência respiratória durante ou até 48 horas após a transfusão"
+      },
+      {
+        "letra": "D",
+        "texto": "A reação febril não hemolítica ocorre com a frequência de 1 a 10 eventos a cada 50 transfusões, sendo mais frequente com o uso de concentrado de hemácias"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116539,
+    "tags": [],
+    "enunciado": "Sobre a utilização de hemocomponentes em pacientes cirúrgicos, assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A utilização de hemocomponentes leucodepletados está indicada para prevenção de reação transfusional febril não hemolítica em pacientes com mais de duas reações prévias."
+      },
+      {
+        "letra": "B",
+        "texto": "As transfusões de plasma e/ou crioprecipitados devem ser feitas com filtros, devido à alta concentração de leucócitos íntegros."
+      },
+      {
+        "letra": "C",
+        "texto": "O uso de concentrado de hemácias deve ser feito com parcimônia devido ao risco de sobrecarga volumétrica."
+      },
+      {
+        "letra": "D",
+        "texto": "Plasma fresco congelado tem como uma de suas principais indicações promover expansão volumétrica."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116540,
+    "tags": [],
+    "enunciado": "Com relação às reações transfusionais:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As reações ditas leves são desconsideradas pelo NOTIVISA (Sistema de Notificação em Vigilância Sanitária)."
+      },
+      {
+        "letra": "B",
+        "texto": "Os sintomas mais comuns na reação febril não hemolítica são tremores, calafrios e febre."
+      },
+      {
+        "letra": "C",
+        "texto": "A investigação e notificação da reação transfusional é de responsabilidade exclusiva do banco de sangue que distribuiu a unidade transfundida."
+      },
+      {
+        "letra": "D",
+        "texto": "O acúmulo de citocinas em concentrados de hemácias é causa de reações do tipo incompatibilidade ABO."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116541,
+    "tags": [],
+    "enunciado": "Sobre os hemocomponentes, marque a opção INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O crioprecipitado contém a maior parte composta por fator VIIIC e parte do fibrinogênio do plasma original. Está indicado em diversas patologias, como hemofilia A, doença de von Willebrand ou hipofibrinogenemia, entre outras."
+      },
+      {
+        "letra": "B",
+        "texto": "O plasma fresco congelado é indicado para pacientes com processos hemorrágicos por deficiências múltiplas de fatores de coagulação, secundárias à disfunção hepática, anticoagulação oral (antagonistas da vitamina K), coagulação vascular disseminada, coagulopatias dilucionais, pacientes com deficiência de antitrombina, proteína C e S, púrpura trombocitopênica trombótica, síndrome hemolítico-urêmica e pacientes submetidos à circulação mecânica."
+      },
+      {
+        "letra": "C",
+        "texto": "O sangue total restabelece a capacidade de transporte de oxigênio e promove a expansão de volume, sendo indicado para pacientes com sangramentos profusos, que desenvolvam choque hemorrágico. Uma unidade de sangue total acarretará em um incremento aproximado de 3 g/dl na concentração de hemoglobina ou 3 a 4% do hematócrito."
+      },
+      {
+        "letra": "D",
+        "texto": "As transfusões de concentrados de plaquetas podem ter indicações de caráter terapêutico ou profilático. Uma unidade de plaqueta acarretará no aumento de 5 a 12mil/mm³/m². Sabe-se que cinquenta mil/mm³ acarretam hemostasia adequada, desde que o sistema de coagulação, fibrinolítico e endotélio estejam em condições satisfatórias."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 116542,
+    "tags": [],
+    "enunciado": "A transfusão de uma unidade de concentrado de hemácias deve aumentar o valor da hemoglobina do receptor em, aproximadamente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "0,5 g/dl."
+      },
+      {
+        "letra": "B",
+        "texto": "1,0 g/dl."
+      },
+      {
+        "letra": "C",
+        "texto": "1,5 g/dl."
+      },
+      {
+        "letra": "D",
+        "texto": "2,0 g/dl."
+      },
+      {
+        "letra": "E",
+        "texto": "2,5 g/dl."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116543,
+    "tags": [],
+    "enunciado": "As complicações pós-transfusionais tardias dos hemocomponentes podem ocorrer após 24 horas ou mais do término do procedimento. Dentre as mais observadas, pode-se identificar, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Reação hemolítica tardia."
+      },
+      {
+        "letra": "B",
+        "texto": "Aloimunização plaquetária."
+      },
+      {
+        "letra": "C",
+        "texto": "Sobrecarga de ferro."
+      },
+      {
+        "letra": "D",
+        "texto": "Reação enxerto contra hospedeiro."
+      },
+      {
+        "letra": "E",
+        "texto": "Reação anafilática."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 116544,
+    "tags": [],
+    "enunciado": "Analise as asserções a seguir: O uso de um valor de hemoglobina para determinar a necessidade de hemotransfusão não é aceitável, visto que na queda da massa eritrocitária a oferta de oxigênio é mantida por mecanismos compensatórios. PORTANTO Não existe indicação para a transfusão de hemácias objetivando a melhora na cicatrização de feridas.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As duas assertivas são proposições verdadeiras, e a segunda é uma justificativa correta da primeira."
+      },
+      {
+        "letra": "B",
+        "texto": "As duas assertivas são proposições verdadeiras, mas a segunda não é uma justificativa correta da primeira."
+      },
+      {
+        "letra": "C",
+        "texto": "A primeira assertiva é uma proposição verdadeira, e a segunda é falsa."
+      },
+      {
+        "letra": "D",
+        "texto": "A primeira assertiva é uma proposição falsa, e a segunda é verdadeira."
+      },
+      {
+        "letra": "E",
+        "texto": "As duas assertivas são proposições falsas."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116545,
+    "tags": [],
+    "enunciado": "Em cirurgias de grande porte, recomenda-se solicitar reserva de hemocomponentes. A opção que lista corretamente os exames realizados na agência transfusional para con(cid:41)rmação de reserva de concentrado de hemácias é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tipagem ABO e RhD do receptor."
+      },
+      {
+        "letra": "B",
+        "texto": "Tipagem ABO e RhD; pesquisa de anticorpos irregulares do receptor; retipagem ABO e RhD do componente sanguíneo e realização de uma prova de compatibilidade entre as hemácias do doador e o soro ou plasma do receptor."
+      },
+      {
+        "letra": "C",
+        "texto": "Tipagem ABO e RhD do receptor e retipagem ABO e RhD do componente sanguíneo."
+      },
+      {
+        "letra": "D",
+        "texto": "Tipagem ABO e RhD; pesquisa de anticorpos irregulares do receptor; Coombs direto do receptor e realização de uma prova de compatibilidade entre as hemácias do doador e o soro ou plasma do receptor."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116546,
+    "tags": [],
+    "enunciado": "No que se refere à hemoterapia, julgue: Uma das consequências graves da transfusão de hemoderivados é a lesão pulmonar aguda relacionada à transfusão (TRALI), que leva ao edema agudo de pulmão, não cardiogênico, pelo aumento da pressão coloidosmótica devido ao alto poder osmótico dos hemocomponentes.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Certo."
+      },
+      {
+        "letra": "B",
+        "texto": "Errado."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116547,
+    "tags": [],
+    "enunciado": "No que se refere à hemoterapia, julgue:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "transfusão de hemocomponentes esbarra em questões éticas e culturais, como a não utilização desse recurso terapêutico, sob nenhum contexto clínico, em adeptos a religiões que não admitem transfusão."
+      },
+      {
+        "letra": "A",
+        "texto": "Certo."
+      },
+      {
+        "letra": "B",
+        "texto": "Errado."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116548,
+    "tags": [],
+    "enunciado": "Paciente, hepatopata crônico, será submetido à cirurgia de derivação de (cid:83)uxo hepático devido à hipertensão portal grave, com sangramento recorrente e esplenomegalia importante. Em exames pré-operatórios, foi constatada plaquetopenia: 87.000/mm³. Em relação ao caso, é INCORRETO afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Deve ser transfundido com concentrado de plaquetas uma semana antes da data prevista para cirurgia."
+      },
+      {
+        "letra": "B",
+        "texto": "A provável causa da plaquetopenia é a hipertensão portal e o hiperesplenismo."
+      },
+      {
+        "letra": "C",
+        "texto": "Pacientes com hiperesplenismo, geralmente, têm capacidade de responder a situaçõesde estresse e aumentar a produção medular de plaquetas."
+      },
+      {
+        "letra": "D",
+        "texto": "Pelo porte da cirurgia e pela doença de base, não há indicação específica detransfusão pré- operatória."
+      },
+      {
+        "letra": "E",
+        "texto": "É importante atentar, também, para o risco trombótico, que pode ser aumentado empacientes com hepatopatia."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116549,
+    "tags": [],
+    "enunciado": "Assinale a assertiva CORRETA sobre reações transfusionais:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A insuficiência respiratória aguda relacionada à transfusão (TRALI - Transfusion Related Acute Lung Injury) está relacionada à sobrecarga de volume durante e/ou após a hemotransfusão."
+      },
+      {
+        "letra": "B",
+        "texto": "O quadro clínico clássico de TRALI é dispneia, acompanhada de sinais de edema pulmonar sem turgência jugular ou edema periférico, com início nas primeiras horas após a transfusão."
+      },
+      {
+        "letra": "C",
+        "texto": "TRALI está relacionada à reação inflamatória causada por exposição a antígenos do doador, ocorrendo exclusivamente ao se transfundir concentrado de hemácias."
+      },
+      {
+        "letra": "D",
+        "texto": "Por se tratar de um quadro benigno, pacientes com reações febris não hemolíticas não necessitam de intervenção, mesmo os que apresentam reações recorrentes."
+      },
+      {
+        "letra": "E",
+        "texto": "Em caso de suspeita de reação transfusional hemolítica (incompatibilidade ABO), as medidas a serem adotadas incluem completar a infusão do hemoderivado, administrar soro glicosado e conferir a identificação do paciente e do hemoderivado."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116550,
+    "tags": [],
+    "enunciado": "Em relação a reações transfusionais, assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Febre é uma reação precoce de uma série de reações transfusionais e deve ser motivo de interrupção da transfusão para evitar graves consequências."
+      },
+      {
+        "letra": "B",
+        "texto": "A ocorrência de dispneia durante a infusão lenta de sangue é geralmente atribuída à hipervolemia, e não deve ser considerada motivo de preocupação mesmo quando acompanhada de febre, cianose e hipotensão."
+      },
+      {
+        "letra": "C",
+        "texto": "A infusão de sangue contaminado se manifesta por rash cutâneo e/ou placas eritematosas disseminadas, prurido, tosse, dispneia, broncoespasmo, arritmias, hipotensão e perda de consciência."
+      },
+      {
+        "letra": "D",
+        "texto": "A irradiação dos hemocomponentes é feita de rotina, visando-se à esterilização e redução da contaminação bacteriana."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116551,
+    "tags": [],
+    "enunciado": "Mielodisplasiassíndromes mielodisplásicas SMD Paciente com síndrome mielodisplásica vem sendo transfundido com concentrados de hemácias para manter o nível de hemoglobina. Nas últimas transfusões, apresentou quadro febril com calafrios. As culturas para rastreamento de infecções foram negativas. Esses episódios de reações transfusionais estão relacionados aos (às):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Leucócitos."
+      },
+      {
+        "letra": "B",
+        "texto": "Plaquetas."
+      },
+      {
+        "letra": "C",
+        "texto": "Hemácias."
+      },
+      {
+        "letra": "D",
+        "texto": "Resíduos de bactérias."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116552,
+    "tags": [],
+    "enunciado": "Paciente imunossuprimido irá receber transfusão sanguínea. Nesse caso, está indicado irradiação do hemocomponente para prevenir reação:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Febril não hemolítica."
+      },
+      {
+        "letra": "B",
+        "texto": "Febril hemolítica."
+      },
+      {
+        "letra": "C",
+        "texto": "Do enxerto contra hospedeiro transfusional."
+      },
+      {
+        "letra": "D",
+        "texto": "Hemolítica aguda."
+      },
+      {
+        "letra": "E",
+        "texto": "Hemolítica tardia."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 116553,
+    "tags": [],
+    "enunciado": "“Complicações relacionadas à transfusão de sangue e derivados podem ser decorrentes de reações febris agudas, alérgicas, choque ana(cid:41)lático, injúria pulmonar entre outros”. Analise as assertivas abaixo e assinale a alternativa correta. I. TRALI é a imunomodulação relacionada à Transfusão alogênica, provavelmente associada a microquimerismo. II. TRIM ocorre em todas as faixas etárias e gêneros; trata-se de uma lesão pulmonar aguda e tem vários fatores de risco, como por exemplo: cirurgias recentes, citocinas, choque, ventilação mecânica. III. TACO tem frequência elevada e grandes taxas de morbimortalidade, ocorrendo quando o volume de transfusão de hemoderivados é grande.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I - V; II - V; III - F."
+      },
+      {
+        "letra": "B",
+        "texto": "I - V; II - F; III - F."
+      },
+      {
+        "letra": "C",
+        "texto": "I - F; II - F; III - F."
+      },
+      {
+        "letra": "D",
+        "texto": "I - F; II - F; III - V."
+      },
+      {
+        "letra": "E",
+        "texto": "I - V; II - F; III - V."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116554,
+    "tags": [],
+    "enunciado": "Sobre as indicações clínicas para o uso de componentes sanguíneos, marque a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Está indicada transfusão de hemácias em pacientes com hemoglobina < 8 g/dl ou perda aguda de sangue em paciente saudável, com sinais ou sintomas de diminuição de oferta de oxigênio."
+      },
+      {
+        "letra": "B",
+        "texto": "Está indicada transfusão de hemácias em pacientes com hemoglobina < 10 g/dl, em pacientes que sabidamente têm risco aumentado de doença arterial coronariana que tiveram ou espera-se que venham a ter hemorragia significativa."
+      },
+      {
+        "letra": "C",
+        "texto": "Transfusão de hemácias em pacientes assintomáticos, estáveis, com hemoglobina entre 7 g/dl e 10 g/dl, apresenta indicação questionável ou sem fundamento."
+      },
+      {
+        "letra": "D",
+        "texto": "Deveremos usar transfusão de plaquetas (para profilaxia) em pacientes com contagem recente (menos de 24 horas) < 50.000/mm³."
+      },
+      {
+        "letra": "E",
+        "texto": "Transfusão de plasma não é justificada para reposição de volume, suplementação nutricional e hipoalbuminemia."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116555,
+    "tags": [],
+    "enunciado": "Paciente do sexo feminino, 40 anos, testemunha de Jeová, procura ambulatório com dores constantes no baixo ventre em decorrência de um útero miomatoso. Ao exame físico, observa-se massa palpável e os exames complementares estão normais, exceto por uma discreta anemia, hemoglobina de 10,5 g/dl e hematócrito de 38%. Considerando a questão legal frente a esta paciente, qual a melhor opção a ser tomada diante da possibilidade de transfusão sanguínea?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Transfusão de sangue total autólogo fresco."
+      },
+      {
+        "letra": "B",
+        "texto": "Uso de hemácias autólogas armazenadas."
+      },
+      {
+        "letra": "C",
+        "texto": "Contraindicar a operação."
+      },
+      {
+        "letra": "D",
+        "texto": "Operar sem transfusão."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116556,
+    "tags": [],
+    "enunciado": "Um rapaz de 17 anos chega ao setor de emergência 45 minutos após colisão de veículos. Está em choque hipovolêmico franco e são necessários 6000 ml de solução cristaloide e oito unidades de concentrado de hemácias na sua reanimação. A causa mais provável de coagulopatia neste paciente é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Acidose."
+      },
+      {
+        "letra": "B",
+        "texto": "Hipotermia."
+      },
+      {
+        "letra": "C",
+        "texto": "Hipocalcemia."
+      },
+      {
+        "letra": "D",
+        "texto": "Hipercalemia."
+      },
+      {
+        "letra": "E",
+        "texto": "Sepsis."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116557,
+    "tags": [],
+    "enunciado": "Assinale a INCORRETA com relação às indicações principais de transfusão:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Granulócitos: neutrofilia associado à febre e infecção usando ou não antibioticoterapia."
+      },
+      {
+        "letra": "B",
+        "texto": "Concentrado de hemácias: fornece aumento na capacidade de transporte de oxigênio."
+      },
+      {
+        "letra": "C",
+        "texto": "Concentrado de hemácias leucorreduzidos: reação transfusional febril não hemolítica em pacientes politransfundidos."
+      },
+      {
+        "letra": "D",
+        "texto": "Concentrado de hemácias lavadas: reação transfucional alérgica."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116558,
+    "tags": [],
+    "enunciado": "O plasma fresco congelado tem sua melhor indicação na:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hipovolemia como expansor plasmático."
+      },
+      {
+        "letra": "B",
+        "texto": "Trombocitopenia causada pela heparina."
+      },
+      {
+        "letra": "C",
+        "texto": "Disfunção plaquetária com sangramento."
+      },
+      {
+        "letra": "D",
+        "texto": "Deficiência de fatores de coagulação."
+      },
+      {
+        "letra": "E",
+        "texto": "Associação ao uso de concentrado de hemácias."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116559,
+    "tags": [],
+    "enunciado": "Considere as afirmativas abaixo: I. Hipocalcemia e hipercalemia são complicações comuns em pacientes politransfundidos. II. Diminuição da a(cid:41)nidade da hemoglobina pelo oxigênio (aumento da oferta para os tecidos) ocorre com aumento da temperatura corporal, redução do pH, e aumento da demanda dos tecidos. III. A presença de dispneia, hipotensão e febre em 1 a 4 horas após a transfusão pode ser explicada por lesão pulmonar relacionada à transfusão (TRALI). IV. A transfusão de plasma fresco congelado está apenas indicada em pacientes com de(cid:41)ciência de coagulação e com sangramento ativo. Assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente as assertivas I e II estão corretas."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente a assertiva III está incorreta."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente as assertivas I e IV estão corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "Todas as assertivas estão incorretas."
+      },
+      {
+        "letra": "E",
+        "texto": "Todas as assertivas estão corretas."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116560,
+    "tags": [],
+    "enunciado": "Rafael, estudante de medicina, em plantão supervisionado curricular, presencia uma transfusão de concentrado de plaquetas em Dona Margarida, 76 anos, portadora de síndrome mielodisplásica. Durante a transfusão, a paciente refere mal-estar precordial, febre, hipertensão, dispneia leve e taquicardia, seguidos de vômitos. Como estudante atento, deve-se pensar que se trata de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Um infarto agudo do miocárdio, e a paciente deve ter a transfusão interrompida e ser avaliada pela cardiologia para cuidados específicos."
+      },
+      {
+        "letra": "B",
+        "texto": "Uma reação tranfusional aguda e deve-se prosseguir a transfusão e posteriormente reavaliar o quadro clínico caso a reação não cesse espontaneamente."
+      },
+      {
+        "letra": "C",
+        "texto": "Reação transfusional aguda tipo TRALI, pois apresenta-se com sintomas respiratórios associados."
+      },
+      {
+        "letra": "D",
+        "texto": "Reação transfusional aguda, deve-se interromper imediatamente a transfusão, e iniciar antibiótico empiricamente."
+      },
+      {
+        "letra": "E",
+        "texto": "Reação transfusional aguda, a interrupção da transfusão é sempre mandatória, e o sangue do paciente deve ser enviado para análise juntamente com a bolsa transfusional."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 116561,
+    "tags": [],
+    "enunciado": "Paciente com função ventricular normal internado em unidade de terapia intensiva apresenta dispneia e queda da saturação arterial após receber transfusão de plasma fresco. A gasometria arterial de 40 minutos antes da transfusão revelava relação PaO₂/FiO₂ de 320 mmHg. Diante desses dados, a possibilidade diagnóstica mais plausível é de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Edema agudo de pulmão cardiogênico."
+      },
+      {
+        "letra": "B",
+        "texto": "Síndrome da angústia respiratória aguda."
+      },
+      {
+        "letra": "C",
+        "texto": "Doença pulmonar obstrutiva crônica."
+      },
+      {
+        "letra": "D",
+        "texto": "Lesão aguda pulmonar relacionada à transfusão."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116562,
+    "tags": [],
+    "enunciado": "Sobre hemoderivados, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "TRALI é uma complicação muito comum após transfusão de plasma fresco"
+      },
+      {
+        "letra": "B",
+        "texto": "A chamada estratégia restritiva - transfusão de concentrado de hemácias em pacientes críticos estáveis com hemoglobina inferior a 7 - tem sido associada à diminuição da mortalidade"
+      },
+      {
+        "letra": "C",
+        "texto": "Reposição de hemoderivados agressiva, incluindo reposição de plasma fresco 40 ml/kg e metas de hemoglobina de 10 no doente crítico, tem sido associada à redução da mortalidade"
+      },
+      {
+        "letra": "D",
+        "texto": "tromboelastografia e estratégia restritiva de concentrado de hemácias com meta de hemoglobina = 11 tem sido associado a melhores desfechos de mortalidade"
+      },
+      {
+        "letra": "E",
+        "texto": "pacientes críticos instáveis com doença cardíaca isquêmica aguda devem ter metas de hemoglobina = 6,5 devido ao elevado efeito trombótico transfusional"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116563,
+    "tags": [],
+    "enunciado": "Sobre as indicações clínicas para o uso de componentes sanguíneos, marque a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Está indicado transfusão de hemácias em pacientes com hemoglobina entre 7 g/dl e 10 g/dl em pacientes assintomáticos, estáveis."
+      },
+      {
+        "letra": "B",
+        "texto": "Está indicado transfusão de hemácias em pacientes com hemoglobina < 10 g/dl em pacientes que sabidamente tem risco aumentado de doença arterial coronariana que tiveram ou esperam que venham a ter hemorragia significativa."
+      },
+      {
+        "letra": "C",
+        "texto": "Uso de transfusão de plaquetas empiricamente associado a transfusão maciça."
+      },
+      {
+        "letra": "D",
+        "texto": "Deveremos usar transfusão de plaquetas (para profilaxia) em pacientes com contagem recente (menos de 24 horas) < 100.000/mm³."
+      },
+      {
+        "letra": "E",
+        "texto": "Transfusão de plasma é justificada para reposição de volume, suplementação nutricional e hipoalbuminemia."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116564,
+    "tags": [],
+    "enunciado": "Assinale a alternativa que apresenta o sinal mais frequente de transfusão acidental de sangue incompatível em um paciente anestesiado.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aumento da pressão diastólica arterial."
+      },
+      {
+        "letra": "B",
+        "texto": "Sangramento generalizado anormal."
+      },
+      {
+        "letra": "C",
+        "texto": "Diminuição abrupta da temperatura corporal."
+      },
+      {
+        "letra": "D",
+        "texto": "Calafrios."
+      },
+      {
+        "letra": "E",
+        "texto": "Urticária."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116565,
+    "tags": [],
+    "enunciado": "Mulher com 45 anos de idade, em preparo para colecistectomia por doença calculosa, procura o médico da Unidade Básica de Saúde de seu bairro, apresentando os resultados dos exames laboratoriais solicitados. O hemograma apresenta hemoglobina = 11 g/dL. Ela quer saber sobre o risco da necessidade de transfusão de sangue durante a operação. Salienta que não perguntou ao cirurgião a respeito da necessidade de transfusão. Tendo como base o Guia para o Uso de Hemocomponentes do Ministério da Saúde, o médico formulará a resposta à paciente com base no fato de que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a transfusão de hemocomponentes traz riscos imediatos ou tardios e por isso deve ser evitada na cirurgia proposta, se possível."
+      },
+      {
+        "letra": "B",
+        "texto": "a transfusão de concentrado de hemácias está recomendada após perda volêmica superior a 8% da volemia total."
+      },
+      {
+        "letra": "C",
+        "texto": "as cirurgias de abdome exigem reserva de sangue para transfusão porque pode ser necessário ampliar a ressecção."
+      },
+      {
+        "letra": "D",
+        "texto": "as mulheres, após os 40 anos de idade, podem ter anemia leve, por isso é correto reservar sangue para a cirurgia."
+      },
+      {
+        "letra": "E",
+        "texto": "a transfusão poderá ser indicada com a finalidade de proporcionar a mais rápida recuperação da paciente."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116566,
+    "tags": [],
+    "enunciado": "Com relação à transfusão de plasma fresco congelado, podemos afirmar, com EXCEÇÃO de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não deve ser feita como complemento à transfusão de concentrado de hemácias."
+      },
+      {
+        "letra": "B",
+        "texto": "Não deve ser utilizado para reposição nutricional."
+      },
+      {
+        "letra": "C",
+        "texto": "Deverá ser feita em até 04 horas de infusão após descongelamento."
+      },
+      {
+        "letra": "D",
+        "texto": "Após descongelamento e caso não seja utilizado, poderá ser submetido a novo congelamento, mantendo sua função pelo mesmo período (12 meses)."
+      },
+      {
+        "letra": "E",
+        "texto": "Poderá ser realizada em paciente hepatopata com RNI de 3,0 e sangramento."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116567,
+    "tags": [],
+    "enunciado": "Paciente de 70 anos, coronariopata e diabético, em uso diário de aspirina é internado com quadro de colecistite aguda litiásica com indicação de tratamento cirúrgico de urgência. O cirurgião deverá solicitar a reserva do seguinte componente sanguíneo:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Plasma fresco."
+      },
+      {
+        "letra": "B",
+        "texto": "Sangue total."
+      },
+      {
+        "letra": "C",
+        "texto": "Plaquetas."
+      },
+      {
+        "letra": "D",
+        "texto": "Fator VII."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 116568,
+    "tags": [],
+    "enunciado": "A complicação pós-transfusional mais frequente é representada pela (s):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Anemia hemolítica autoimune."
+      },
+      {
+        "letra": "B",
+        "texto": "Reação febril não hemolítica."
+      },
+      {
+        "letra": "C",
+        "texto": "Infecções virais."
+      },
+      {
+        "letra": "D",
+        "texto": "Reação anafilática."
+      },
+      {
+        "letra": "E",
+        "texto": "Doença enxerto versus hospedeiro."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116569,
+    "tags": [],
+    "enunciado": "O edema pulmonar fatal associado à transfusão sanguínea, também chamada de Lesão Pulmonar Aguda, relacionada à Transfusão (TRALI) é a causa mais comum de reação transfusional fatal. Esta síndrome é caracterizada pelos itens abaixo, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Edema pulmonar bilateral dentro de 6 horas após a transfusão."
+      },
+      {
+        "letra": "B",
+        "texto": "Hipertensão."
+      },
+      {
+        "letra": "C",
+        "texto": "Hipoxemia."
+      },
+      {
+        "letra": "D",
+        "texto": "Febre."
+      },
+      {
+        "letra": "E",
+        "texto": "Transfusão de anticorpos leucocitários ou lipídeos ativos do doador."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116570,
+    "tags": [],
+    "enunciado": "Considere, separadamente, as quatro situações apresentadas abaixo. 1- paciente com perda sanguínea aguda. 2- paciente com doença cardiopulmonar. 3- paciente com insu(cid:41)ciência renal. 4- paciente com febre durante hemotransfusão prévia. De acordo com os princípios (cid:41)siológicos e com a compreensão da relação risco/benefício para o paciente, o componente do sangue que, respectivamente, está indicado para a hemotransfusão, nestas situações é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hemácias lavadas - hemácias desglicerolisadas - sangue total - concentrado de hemácias."
+      },
+      {
+        "letra": "B",
+        "texto": "Sangue total - concentrado de hemácias - hemácias lavadas - hemácias desglicerolisadas."
+      },
+      {
+        "letra": "C",
+        "texto": "Hemácias desglicerolisadas - sangue total - concentrado de hemácias - hemácias lavadas."
+      },
+      {
+        "letra": "D",
+        "texto": "Concentrado de hemácias - hemácias lavadas - hemácias desglicerolisadas - sangue total."
+      },
+      {
+        "letra": "E",
+        "texto": "Sangue total - sangue total - hemácias salinizadas - concentrado de hemácias."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116571,
+    "tags": [],
+    "enunciado": "Sobre as indicações clínicas para o uso de componentes sanguíneos, marque a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Está indicada transfusão de hemácias em pacientes com hemoglobina < 8 g/dl ou perda aguda de sangue em paciente saudável, com sinais ou sintomas de diminuição de oferta de oxigênio."
+      },
+      {
+        "letra": "B",
+        "texto": "Está indicada transfusão de hemácias em pacientes com hemoglobina < 10 g/dl naqueles que sabidamente tem risco aumentado de doença arterial coronariana, ou que tiveram ou esperam que venham a ter hemorragia significativa."
+      },
+      {
+        "letra": "C",
+        "texto": "Transfusão de hemácias em pacientes assintomáticos, estáveis, com hemoglobina entre 7 g/dl e 10 g/dl, apresenta indicação questionável ou sem fundamento."
+      },
+      {
+        "letra": "D",
+        "texto": "Deveremos usar transfusão de plaquetas (para profilaxia de sangramento em pacientes de risco) em pacientes com contagem recente (menos de 24 horas) < 50.000/mm³."
+      },
+      {
+        "letra": "E",
+        "texto": "Transfusão de plasma não é justificada para reposição de volume, suplementação nutricional e hipoalbuminemia."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116572,
+    "tags": [],
+    "enunciado": "Mielodisplasiassíndromes mielodisplásicas SMD Um estudante de medicina, em seu plantão supervisionado curricular, presencia uma transfusão de concentrado de plaquetas em uma senhora de 76 anos, portadora de síndrome mielodisplásica. Durante a transfusão, ela refere mal-estar precordial, febre, hipertensão, dispneia leve, taquicardia, seguida de vômitos. Como estudante atento, deve-se pensar que se trata de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Um infarto agudo do miocárdio, e a paciente deve terminar a transfusão e ser encaminhada ao cardiologista para avaliação e cuidados."
+      },
+      {
+        "letra": "B",
+        "texto": "Uma reação transfusional aguda e deve-se prosseguir a transfusão e posteriormente reavaliar o quadro clínico para cuidados médicos adequados."
+      },
+      {
+        "letra": "C",
+        "texto": "Um quadro típico de TRALI, inclusive por ocorrer durante a transfusão."
+      },
+      {
+        "letra": "D",
+        "texto": "Reação transfusional aguda e deve-se interromper imediatamente a transfusão, e soro fisiológico deve ser administrado com urgência."
+      },
+      {
+        "letra": "E",
+        "texto": "Reação transfusional aguda, a interrupção da transfusão é mandatória, e o sangue deve ser coletado do paciente e enviado para análise em conjunto com a bolsa transfusional."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 116573,
+    "tags": [],
+    "enunciado": "É indicação para transfusão de concentrado de hemácias:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hb < 10 g/dl em pacientes sem comorbidades que vão ser submetidos à cirurgia."
+      },
+      {
+        "letra": "B",
+        "texto": "Hb < 10 g/dl em pacientes críticos."
+      },
+      {
+        "letra": "C",
+        "texto": "Ht < 38% em pacientes com IAM."
+      },
+      {
+        "letra": "D",
+        "texto": "Hb < 10 g/dl em pacientes com insuficiência cardíaca."
+      },
+      {
+        "letra": "E",
+        "texto": "Profilaticamente em indivíduos com Hb entre 6,0 e 8,0 g/dl."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116574,
+    "tags": [],
+    "enunciado": "Em relação à aférese terapêutica, é correto afirmar, exceto:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Leucaférese é usada comumente em pacientes com Leucemia Mieloide Aguda (LMA), apresentando sintomas de leucoestase intravascular, ocasião em que a contagem de blastos ultrapassa 50000 células/ul."
+      },
+      {
+        "letra": "B",
+        "texto": "A prescrição de troca de hemácias pode se justificar quando pacientes portadores de doença falciforme apresentam acidente vascular cerebral, síndrome torácica aguda, priapismo ou disfunção de múltiplos órgãos como complicação da doença."
+      },
+      {
+        "letra": "C",
+        "texto": "Plasmaférese encontra nível de evidência III na síndrome de Guillain-Barré, segundo critérios da Sociedade Americana para Aférese (ASFA)."
+      },
+      {
+        "letra": "D",
+        "texto": "Plasmaférese encontra nível de evidência I na Púrpura Trombocitopênica Trombótica (PTT), segundo critérios da Sociedade Americana para Aférese (ASFA)."
+      },
+      {
+        "letra": "E",
+        "texto": "Pacientes com Miastenia gravis podem ser tratados tanto com plasmaférese quanto com imunoglobulina intravenosa, pois os ensaios clínicos publicados até o momento não têm mostrado diferenças importantes na variação do escore muscular miastênico no 15º dia."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 116575,
+    "tags": [],
+    "enunciado": "A transfusão maciça é de(cid:41)nida como a reposição do volume sanguíneo do paciente com concentrados de hemácias em 24h ou a transfusão de mais de 10 unidades de sangue em poucas horas. Em consequência disso pode ocorrer:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Acidose metabólica."
+      },
+      {
+        "letra": "B",
+        "texto": "Aumento do 2,3-DPG."
+      },
+      {
+        "letra": "C",
+        "texto": "Hipercalemia."
+      },
+      {
+        "letra": "D",
+        "texto": "Hipercalcemia."
+      },
+      {
+        "letra": "E",
+        "texto": "Aumento na concentração sérica dos fatores V e VIII da coagulação."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 116576,
+    "tags": [],
+    "enunciado": "Em relação a um paciente que durante a transfusão de hemoconcentrado se queixou de prurido e surgiram algumas placas urticariformes em seu tronco, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Trata-se de reação transfusional hemolítica. Deve-se parar a transfusão imediatamente."
+      },
+      {
+        "letra": "B",
+        "texto": "O paciente deve estar apresentando uma reação anafilática. Deve ser tratado com epninefrina subcutânea."
+      },
+      {
+        "letra": "C",
+        "texto": "O quadro sugere doença do enxerto versus hospedeiros"
+      },
+      {
+        "letra": "D",
+        "texto": "O quadro é de natureza alérgica e pode ser tratado com sintomáticos, interrompendo temporariamente a transfusão."
+      },
+      {
+        "letra": "E",
+        "texto": "Deve-se interromper a transfusão e usar corticoterapia endovenosa em dose imunossupressora."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116577,
+    "tags": [],
+    "enunciado": "Criança com leucemia aguda apresenta Hb = 6,0 g/dl, leucócitos = 350.000/mm³, plaquetas = 15.000/mm³. Entre os cuidados emergenciais, sabe-se que NÃO deve ser prescrito:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Transfusão simples de concentrado de hemácias."
+      },
+      {
+        "letra": "B",
+        "texto": "Leucoaférese."
+      },
+      {
+        "letra": "C",
+        "texto": "Concentrado de plaquetas."
+      },
+      {
+        "letra": "D",
+        "texto": "Corticoterapia."
+      },
+      {
+        "letra": "E",
+        "texto": "Exosanguineotransfusão."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116578,
+    "tags": [],
+    "enunciado": "São considerados critérios para TRALI (“Transfusion-Related Acute Lung Injury”):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não existir Lesão Pulmonar Aguda (LPA) imediatamente antes da transfusão e início dos sintomas durante as primeiras 6 horas de transfusão de hemoderivados."
+      },
+      {
+        "letra": "B",
+        "texto": "Relação PaO2/FiO2 < 200 durante as primeiras 6 horas da transfusão de hemoderivados e presença de consolidação parenquimatosa pulmonar."
+      },
+      {
+        "letra": "C",
+        "texto": "Presença de infiltrado alveolointersticial pulmonar simétrico na radiografia de tórax, e trauma de tórax com LPA recente."
+      },
+      {
+        "letra": "D",
+        "texto": "Presença de sinais de sobrecarga circulatória por grandes volumes transfundidos."
+      },
+      {
+        "letra": "E",
+        "texto": "Início nas primeiras 24 horas da transfusão de hemoderivados, e rápida resolução do quadro com o início da terapêutica apropriada."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116579,
+    "tags": [],
+    "enunciado": "Considere as assertivas abaixo, sobre plaquetopenia. I - Pacientes com contagem de plaquetas de 100.000/mm³ ou mais são usualmente assintomáticos e permanecem com tempo de sangramento normal, não havendo risco de sangramentos excessivos mesmo em cirurgias de grande porte. II - Pacientes com contagem de plaquetas entre 50.000 e 100.000/mm³ podem sangrar por mais tempo do que o usual, mas, se a função plaquetária for normal e não houver complicações hemorrágicas, podem ser submetidos a procedimentos cirúrgicos como biópsia de rim e de fígado. III - Em pacientes com contagem de plaquetas abaixo de 50.000/mm³, podem ocorrer sangramentos provocados por pequenos traumas; se a contagem estiver abaixo de 20.000/mm³, pode haver sangramentos espontâneos, sendo necessária transfusão pro(cid:41)lática de plaquetas com valores inferiores ou iguais a 10.000/mm³. Quais são corretas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas I"
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas II"
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas III"
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas II e III"
+      },
+      {
+        "letra": "E",
+        "texto": "I, II e III"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 116580,
+    "tags": [],
+    "enunciado": "Homem idoso (72 anos) é internado por dor retroesternal, supradesnível de ST em D1, AVL, V5 e V6, troponina sérica elevada e hemoglobina de 8 g%. Dentre as citadas, indique a melhor opção terapêutica:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sangue total 2 U EV."
+      },
+      {
+        "letra": "B",
+        "texto": "Sulfato ferroso oral."
+      },
+      {
+        "letra": "C",
+        "texto": "Ferro venoso."
+      },
+      {
+        "letra": "D",
+        "texto": "Papa de hemácias 3 U EV."
+      },
+      {
+        "letra": "E",
+        "texto": "Soro fisiológico 1 L EV."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116581,
+    "tags": [],
+    "enunciado": "Uma criança com leucemia aguda apresenta Hb = 6,0 g/dl, leucócitos = 350.000/mm³ e plaquetas = 15.000/mm³. Entre os cuidados emergenciais, sabe-se que NÃO se deve prescrever:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "leucoaférese."
+      },
+      {
+        "letra": "B",
+        "texto": "concentrado de plaquetas."
+      },
+      {
+        "letra": "C",
+        "texto": "transfusão simples de concentrado de hemácias."
+      },
+      {
+        "letra": "D",
+        "texto": "plasma fresco."
+      },
+      {
+        "letra": "E",
+        "texto": "corticoterapia."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 116582,
+    "tags": [],
+    "enunciado": "Paciente com prótese valvar cardíaca em anticoagulação plena com varfarina necessita ser submetido à cirurgia de emergência. Qual a abordagem terapêutica adequada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Transfusão de plasma fresco congelado."
+      },
+      {
+        "letra": "B",
+        "texto": "Transfusão de crioprecipitado."
+      },
+      {
+        "letra": "C",
+        "texto": "Administração parenteral de vitamina K."
+      },
+      {
+        "letra": "D",
+        "texto": "Administração de sulfato de protamina."
+      },
+      {
+        "letra": "E",
+        "texto": "Administração ácido épsilon-aminocaproico.  Respostas: 1 D 2 B 3 C 4 D 5 A 6 B 7 C 8 A 9 C 10 A 11 C 12 D 13 C 14 E 15 C 16 A 17 B 18 E 19 E 20 B 21 C 22 D 23 A 24 D 25 A 26 E 27 A 28 A 29 E 30 B 31 C 32 D 33 D 34 D 35 B 36 A 37 B 38 D 39 A 40 A 41 A 42 D 43 D 44 B 45 B 46 C 47 D 48 C 49 C 50 A 51 B 52 C 53 A 54 A 55 D 56 B 57 B 58 B 59 C 60 A 61 D 62 B 63 B 64 D 65 B 66 B 67 D 68 D 69 B 70 B 71 E 72 B 73 A 74 D 75 D 76 D 77 C 78 C 79 C 80 B 81 D 82 C 83 D 84 C 85 D 86 B 87 C 88 C 89 D 90 D 91 E 92 C 93 D 94 D 95 C 96 B 97 C 98 B 99 A 100 A 101 B 102 A 103 A 104 A 105 B 106 D 107 D 108 D 109 A 110 B 111 D 112 D 113 A 114 D 115 A 116 A 117 B 118 C 119 A 120 A 121 B 122 C 123 B 124 E 125 B 126 B 127 B 128 B 129 A 130 B 131 A 132 A 133 C 134 D 135 D 136 A 137 B 138 A 139 D 140 A 141 E 142 D 143 B 144 B 145 B 146 A 147 D 148 C 149 B 150 B 151 D 152 D 153 E 154 D 155 C 156 C 157 D 158 A 159 A 160 E 161 D 162 C 163 A"
+      }
+    ],
+    "resposta_correta": "A"
+  }
+]

@@ -1,0 +1,714 @@
+[
+  {
+    "id": 104458,
+    "tags": [],
+    "enunciado": "Assinale a alternativa verdadeira a respeito dos linfócitos B:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os linfócitos B, espécie de linfócito produzida nos órgãos linfoides secundários, são responsáveis pela fagocitose de microrganismos invasores."
+      },
+      {
+        "letra": "B",
+        "texto": "Para desempenharem as suas funções imunológicas, os linfócitos B necessitam das células apresentadoras de antígenos (APCs), sendo incapazes de reconhecer antígenos solúveis presentes no meio."
+      },
+      {
+        "letra": "C",
+        "texto": "É possível diferenciar, ao microscópio óptico, os linfócitos B dos linfócitos T presentes no sangue pelas características da morfologia nuclear e do citoplasma dessas células."
+      },
+      {
+        "letra": "D",
+        "texto": "Os linfócitos B respondem às infecções mediante a produção de imunoglobulinas, ou anticorpos solúveis, que tornam os organismos invasores mais suscetíveis à ação do sistema imune."
+      },
+      {
+        "letra": "E",
+        "texto": "É sabido que os linfócitos B possuem ação citotóxica sobre as células próprias infectadas por vírus ou portadoras de mutações tumorais, estimulando a apoptose dessas células “doentes”."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104459,
+    "tags": [],
+    "enunciado": "Marque a alternativa correta em relação aos linfócitos do tipo T:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os linfócitos T, que recebem esse nome por serem produzidos no timo, são leucócitos responsáveis pela resposta imune adaptativa."
+      },
+      {
+        "letra": "B",
+        "texto": "A principal função dos linfócitos T é integrar a resposta imune adaptativa celular e regular a função dos demais leucócitos."
+      },
+      {
+        "letra": "C",
+        "texto": "É sabido que os linfócitos do tipo T CD4 são os principais coordenadores da resposta imune, reconhecendo antígenos de patógenos invasores e ativando as demais células por meio de citocinas."
+      },
+      {
+        "letra": "D",
+        "texto": "Os linfócitos T são fagócitos profissionais, participando da imunidade inata por meio da endocitose e consequente destruição de microrganismos invasores."
+      },
+      {
+        "letra": "E",
+        "texto": "A principal função dos linfócitos T é a de secretar imunoglobulinas, ou anticorpos solúveis, que neutralizam toxinas e tornam patógenos mais suscetíveis à ação do restante do sistema imune."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104460,
+    "tags": [],
+    "enunciado": "Assinale, entre as assertivas a seguir, aquela que está correta em relação aos macrófagos teciduais:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os macrófagos são células fagocíticas profissionais derivadas dos neutrófilos da circulação sanguínea."
+      },
+      {
+        "letra": "B",
+        "texto": "A principal função dos macrófagos é a de eliminar microrganismos patogênicos através da produção de anticorpos solúveis."
+      },
+      {
+        "letra": "C",
+        "texto": "Mediante a estimulação por citocinas inflamatórias, os macrófagos são capazes de liberar seus grânulos citoplasmáticos contendo histamina e desencadear uma reação alérgica."
+      },
+      {
+        "letra": "D",
+        "texto": "Os macrófagos são os principais responsáveis pela síntese e pela reabsorção da matriz extracelular de colágeno."
+      },
+      {
+        "letra": "E",
+        "texto": "Por meio da formação de pseudópodes, os macrófagos capturam patógenos no interior de seu citoplasma e os eliminam utilizando espécies reativas de oxigênio e enzimas digestivas."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 104461,
+    "tags": [],
+    "enunciado": "Marque a alternativa correta a respeito da função dos basófilos:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os basófilos são leucócitos muito abundantes no sangue periférico, e estão relacionados aos processos alérgicos de hipersensibilidade. Atuam mediante a liberação de grânulos citoplasmáticos contendo espécies reativas de oxigênio."
+      },
+      {
+        "letra": "B",
+        "texto": "Os basófilos são células anucleadas presentes nos tecidos extravasculares, que se encontram repletas por grânulos citoplasmáticos contendo histamina, um mediador inflamatório."
+      },
+      {
+        "letra": "C",
+        "texto": "Os basófilos são fagócitos profissionais, que atuam combatendo infecções bacterianas por meio da incorporação citoplasmática e consequente destruição dos patógenos."
+      },
+      {
+        "letra": "D",
+        "texto": "Os basófilos são os leucócitos menos frequentes no sangue, uma vez que residem nos órgãos linfoides secundários, estando relacionados à produção de anticorpos solúveis que combatem patógenos invasores."
+      },
+      {
+        "letra": "E",
+        "texto": "Os basófilos são granulócitos presentes no sangue e relacionados aos processos alérgicos. Os grânulos citoplasmáticos desses leucócitos contêm histamina e citocinas inflamatórias que estimulam a resposta alérgica."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 104462,
+    "tags": [],
+    "enunciado": "Assinale a alternativa que descreve corretamente as funções dos monócitos:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os monócitos são as células responsáveis pela produção de anticorpos, ou imunoglobulinas, moléculas que realizam a imunidade humoral."
+      },
+      {
+        "letra": "B",
+        "texto": "Os monócitos atuam nos processos da imunidade adaptativa celular, estimulando a apoptose de células próprias infectadas por vírus ou portadoras de mutações tumorais."
+      },
+      {
+        "letra": "C",
+        "texto": "Os monócitos são auxiliares das hemácias no transporte sanguíneo de oxigênio, produzindo interleucinas que estimulam a função eritrocitária."
+      },
+      {
+        "letra": "D",
+        "texto": "Os monócitos são os precursores sanguíneos dos macrófagos teciduais, células que atuam na fagocitose de microrganismos e na apresentação de antígenos."
+      },
+      {
+        "letra": "E",
+        "texto": "Os monócitos atuam nos processos de alergia, liberando citocinas inflamatórias e moléculas vasodilatadoras contidas nos seus grânulos citoplasmáticos."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104463,
+    "tags": [],
+    "enunciado": "Qual das afirmativas a seguir é verdadeira a respeito dos eosinófilos?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os eosinófilos são os leucócitos mais abundantes no sangue periférico, e a sua concentração aumenta agudamente durante infecções bacterianas, processo conhecido como eosinofilia."
+      },
+      {
+        "letra": "B",
+        "texto": "Os eosinófilos são fagócitos profissionais, capazes de responder a infecções por meio da emissão de pseudópodes e a incorporação das células invasoras."
+      },
+      {
+        "letra": "C",
+        "texto": "A principal função dos eosinófilos é a produção de interleucinas que atuam na resposta às infecções virais, inibindo a replicação dos vírus no interior das células parasitadas."
+      },
+      {
+        "letra": "D",
+        "texto": "Sabe-se que os eosinófilos são fundamentais na deflagração da resposta alérgica, atuando na imunidade contra parasitos macroscópicos, como os vermes, por meio da ativação de outras células e da produção de substâncias tóxicas contra os invasores."
+      },
+      {
+        "letra": "E",
+        "texto": "Os eosinófilos atuam na imunidade celular, produzindo substâncias que estimulam a apoptose de células humanas infectadas por patógenos intracelulares."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104464,
+    "tags": [],
+    "enunciado": "Qual das afirmativas a seguir é verdadeira a respeito dos neutrófilos?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Em condições normais, não são encontradas formas imaturas de neutrófilos, como bastonetes, na circulação. A presença desse tipo de célula indica doença e requer investigação médica."
+      },
+      {
+        "letra": "B",
+        "texto": "Os neutrófilos são os principais protagonistas da imunidade humoral, atuando na produção de anticorpos, ou imunoglobulinas, que atacam microrganismos invasores."
+      },
+      {
+        "letra": "C",
+        "texto": "A função dos neutrófilos é a de fagocitar e destruir patógenos microscópicos, como bactérias e fungos, que estejam causando um processo infeccioso ao organismo."
+      },
+      {
+        "letra": "D",
+        "texto": "Os neutrófilos são as principais células apresentadoras de antígenos, agindo como um gatilho que alerta o restante do sistema imune para a presença de um patógeno invasor."
+      },
+      {
+        "letra": "E",
+        "texto": "A principal tarefa desempenhada pelos neutrófilos é a deflagração da resposta alérgica, processo no qual essas células liberam citocinas inflamatórias e histamina para responder à presença de uma molécula estranha."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104465,
+    "tags": [],
+    "enunciado": "Qual das afirmativas a seguir é verdadeira a respeito das hemácias?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As hemácias são capazes de atravessar a barreira endotelial íntegra, levando oxigênio até o interstício, por meio do processo conhecido como diapedese."
+      },
+      {
+        "letra": "B",
+        "texto": "Observa-se nas hemácias humanas um núcleo fortemente basofílico, o que indica a intensa atividade metabólica dessas células."
+      },
+      {
+        "letra": "C",
+        "texto": "As hemácias possuem um tempo médio de vida de apenas 120 dias na circulação, período após o qual elas são destruídas pelo baço."
+      },
+      {
+        "letra": "D",
+        "texto": "A principal fonte de energia para a atividade das hemácias é a glicose, através do processo de fosforilação oxidativa."
+      },
+      {
+        "letra": "E",
+        "texto": "A presença de hemácias imaturas, conhecidas como reticulócitos, na circulação é sempre indicativa de processos patológicos, demandando investigação médica."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104466,
+    "tags": [],
+    "enunciado": "Leia atentamente o parágrafo a seguir, que descreve uma célula do tecido conjuntivo: “Derivada dos monócitos da circulação sanguínea, essa grande célula nucleada possui diversos prolongamentos ameboides utilizados para a endocitose de outras células e de partículas do meio. É capaz de se unir com outras células do mesmo tipo, formando arranjos multinucleados conhecidos como células gigantes.”",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "descrição acima faz referência a um:"
+      },
+      {
+        "letra": "A",
+        "texto": "Fibroblasto."
+      },
+      {
+        "letra": "B",
+        "texto": "Macrófago."
+      },
+      {
+        "letra": "C",
+        "texto": "Mastócito."
+      },
+      {
+        "letra": "D",
+        "texto": "Fibrócito."
+      },
+      {
+        "letra": "E",
+        "texto": "Plasmócito."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104467,
+    "tags": [],
+    "enunciado": "Veja a seguinte descrição, que faz referência a um tipo de célula do sangue: “Célula nucleada e esférica, extremamente rara no sangue periférico em condições normais. Naturalmente incolor, quando submetida à preparação histológica de Giemsa apresenta grânulos citoplasmáticos grosseiros fortemente corados em roxo, que obscurecem a visão do núcleo celular.”",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "descrição faz referência a um:"
+      },
+      {
+        "letra": "A",
+        "texto": "Eosinófilo."
+      },
+      {
+        "letra": "B",
+        "texto": "Neutrófilo."
+      },
+      {
+        "letra": "C",
+        "texto": "Monócito."
+      },
+      {
+        "letra": "D",
+        "texto": "Linfócito."
+      },
+      {
+        "letra": "E",
+        "texto": "Basófilo."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 104468,
+    "tags": [],
+    "enunciado": "Leia com atenção o parágrafo abaixo, que se refere a uma célula do sangue: “Pequena célula nucleada esférica, apenas ligeiramente maior do que as hemácias. Naturalmente incolor, ao ser tratada com a preparação de Giemsa apresenta núcleo fortemente basofílico que ocupa quase todo o volume citoplasmático e tem formato circular. Não se observam granulações no citoplasma.”",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "descrição faz referência a um:"
+      },
+      {
+        "letra": "A",
+        "texto": "Basófilo."
+      },
+      {
+        "letra": "B",
+        "texto": "Monócito."
+      },
+      {
+        "letra": "C",
+        "texto": "Neutrófilo."
+      },
+      {
+        "letra": "D",
+        "texto": "Eosinófilo."
+      },
+      {
+        "letra": "E",
+        "texto": "Linfócito."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 104469,
+    "tags": [],
+    "enunciado": "Observe a descrição a seguir, relativa a uma das células do sangue: “Célula nucleada, grande e esférica, naturalmente incolor ao microscópio. Quando tratada com a preparação histológica de Giemsa, possui núcleo basofílico em formato de rim e ausência de granulações citoplasmáticas.”",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "descrição faz referência a um:"
+      },
+      {
+        "letra": "A",
+        "texto": "Eritrócito."
+      },
+      {
+        "letra": "B",
+        "texto": "Linfócito."
+      },
+      {
+        "letra": "C",
+        "texto": "Neutrófilo."
+      },
+      {
+        "letra": "D",
+        "texto": "Monócito."
+      },
+      {
+        "letra": "E",
+        "texto": "Basófilo."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104470,
+    "tags": [],
+    "enunciado": "Veja a seguinte descrição, que faz referência a um tipo de célula do sangue: “Célula nucleada e esférica, normalmente pouco presente na circulação. Quando corada pela preparação de Giemsa, observamos nela um núcleo basofílico bilobulado, em formato de ferradura, e múltiplos grânulos citoplasmáticos que se coram em vermelho”.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "descrição faz referência a um:"
+      },
+      {
+        "letra": "A",
+        "texto": "Neutrófilo."
+      },
+      {
+        "letra": "B",
+        "texto": "Linfócito."
+      },
+      {
+        "letra": "C",
+        "texto": "Eosinófilo."
+      },
+      {
+        "letra": "D",
+        "texto": "Monócito."
+      },
+      {
+        "letra": "E",
+        "texto": "Eritrócito."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104471,
+    "tags": [],
+    "enunciado": "Leia com atenção o parágrafo abaixo, que se refere a uma célula do sangue: “Célula nucleada e esférica, bastante abundante na circulação. Quando completamente madura, seu núcleo possui formato trilobular. No citoplasma, observam-se múltiplos grânulos naturalmente incolores, mas que nas preparações histológicas possuem afinidade pelo corante azul de metileno.”",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "descrição faz referência a um:"
+      },
+      {
+        "letra": "A",
+        "texto": "Linfócito."
+      },
+      {
+        "letra": "B",
+        "texto": "Neutrófilo."
+      },
+      {
+        "letra": "C",
+        "texto": "Eritrócito."
+      },
+      {
+        "letra": "D",
+        "texto": "Monócito."
+      },
+      {
+        "letra": "E",
+        "texto": "Eosinófilo."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104472,
+    "tags": [],
+    "enunciado": "Observe a descrição a seguir, relativa a uma das células do sangue: “Célula discoide bicôncava, de pequenas dimensões e anucleada. Ao microscópio, possui uma coloração avermelhada, mais intensa na periferia. É o elemento mais comum em uma lâmina de esfregaço sanguíneo.”",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "descrição faz referência a um(a):"
+      },
+      {
+        "letra": "A",
+        "texto": "Hemácia."
+      },
+      {
+        "letra": "B",
+        "texto": "Linfócito."
+      },
+      {
+        "letra": "C",
+        "texto": "Neutrófilo."
+      },
+      {
+        "letra": "D",
+        "texto": "Eosinófilo."
+      },
+      {
+        "letra": "E",
+        "texto": "Monócito."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104473,
+    "tags": [],
+    "enunciado": "Veja a (cid:74)gura a seguir, que representa o corte histológico do pâncreas de um rato, no qual foi injetado o corante vital azul tripan: Figura: Pâncreas, coloração hematoxilina-eosina. Fonte: Arquivos Estratégia Med. As células em preto, que fagocitam e acumulam o corante são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Neutrófilos."
+      },
+      {
+        "letra": "B",
+        "texto": "Linfócitos."
+      },
+      {
+        "letra": "C",
+        "texto": "Macrófagos."
+      },
+      {
+        "letra": "D",
+        "texto": "Monócitos."
+      },
+      {
+        "letra": "E",
+        "texto": "Células acinares."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104474,
+    "tags": [],
+    "enunciado": "Analise atentamente a ilustração abaixo, que representa uma lâmina de esfregaço sanguíneo corada com Giemsa: Figura: Células do Sangue. Fonte: Arquivos Estratégia Med.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "célula nucleada no centro da ilustração é denominada:"
+      },
+      {
+        "letra": "A",
+        "texto": "Linfócito."
+      },
+      {
+        "letra": "B",
+        "texto": "Basófilo."
+      },
+      {
+        "letra": "C",
+        "texto": "Neutrófilo."
+      },
+      {
+        "letra": "D",
+        "texto": "Eosinófilo."
+      },
+      {
+        "letra": "E",
+        "texto": "Monócito."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104475,
+    "tags": [],
+    "enunciado": "Veja a figura a seguir, que representa uma lâmina histológica de esfregaço sanguíneo: Figura: Células do sangue, coloração Giemsa. Fonte: Arquivos Estratégia Med. As duas células nucleadas da figura são classificadas como:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Monócitos."
+      },
+      {
+        "letra": "B",
+        "texto": "Linfócitos."
+      },
+      {
+        "letra": "C",
+        "texto": "Neutrófilos."
+      },
+      {
+        "letra": "D",
+        "texto": "Basófilos."
+      },
+      {
+        "letra": "E",
+        "texto": "Eosinófilos."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104476,
+    "tags": [],
+    "enunciado": "Observe a imagem a seguir, que representa uma lâmina de esfregaço sanguíneo corada com Giemsa: Figura: Células do sangue. Fonte: Arquivos Estratégia Med.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "grande célula nucleada presente na imagem é classificada como:"
+      },
+      {
+        "letra": "A",
+        "texto": "Eritrócito."
+      },
+      {
+        "letra": "B",
+        "texto": "Basófilo."
+      },
+      {
+        "letra": "C",
+        "texto": "Eosinófilo."
+      },
+      {
+        "letra": "D",
+        "texto": "Neutrófilo."
+      },
+      {
+        "letra": "E",
+        "texto": "Monócito."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 104477,
+    "tags": [],
+    "enunciado": "Analise atentamente a ilustração abaixo, que representa uma lâmina de esfregaço sanguíneo corada com Giemsa: Figura: Células do Sangue. Fonte: Arquivos Estratégia Med.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "célula grande nucleada presente no centro da imagem é denominada:"
+      },
+      {
+        "letra": "A",
+        "texto": "Eritrócito."
+      },
+      {
+        "letra": "B",
+        "texto": "Neutrófilo."
+      },
+      {
+        "letra": "C",
+        "texto": "Basófilo."
+      },
+      {
+        "letra": "D",
+        "texto": "Monócito."
+      },
+      {
+        "letra": "E",
+        "texto": "Eosinófilo."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 104478,
+    "tags": [],
+    "enunciado": "Veja a figura a seguir, que representa uma lâmina histológica de esfregaço sanguíneo: Figura: Células do sangue, coloração Giemsa. Fonte: Arquivos Estratégia Med. As três células nucleadas no centro da imagem são denominadas:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Neutrófilos."
+      },
+      {
+        "letra": "B",
+        "texto": "Basófilos."
+      },
+      {
+        "letra": "C",
+        "texto": "Eosinófilos."
+      },
+      {
+        "letra": "D",
+        "texto": "Eritrócitos."
+      },
+      {
+        "letra": "E",
+        "texto": "Linfócitos."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104479,
+    "tags": [],
+    "enunciado": "Observe a imagem a seguir, que representa uma lâmina de esfregaço sanguíneo corada com Giemsa: Figura: Células do sangue. Fonte: Arquivos Estratégia Med. As células representadas são classificadas como:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Eritrócitos."
+      },
+      {
+        "letra": "B",
+        "texto": "Neutrófilos."
+      },
+      {
+        "letra": "C",
+        "texto": "Linfócitos."
+      },
+      {
+        "letra": "D",
+        "texto": "Monócitos."
+      },
+      {
+        "letra": "E",
+        "texto": "Plaquetas."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104480,
+    "tags": [],
+    "enunciado": "Em relação ao linfoma gástrico tipo MALT, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cirurgia com gastrectomia total é sempre o tratamento de escolha."
+      },
+      {
+        "letra": "B",
+        "texto": "A erradicação do H. pylori poderá ser o suficiente para o tratamento."
+      },
+      {
+        "letra": "C",
+        "texto": "Quimioterapia não tem papel efetivo no seu tratamento."
+      },
+      {
+        "letra": "D",
+        "texto": "Está associado a infecção por Epstein-Barr."
+      },
+      {
+        "letra": "E",
+        "texto": "Nenhuma das anteriores. 4000173700"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104481,
+    "tags": [],
+    "enunciado": "A primeira opção de tratamento que se imagina para um linfoma de células B (MALT) confinado ao estômago é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Gastrectomia subtotal."
+      },
+      {
+        "letra": "B",
+        "texto": "Antibioticoterapia para erradicação do Helicobacter pylori."
+      },
+      {
+        "letra": "C",
+        "texto": "Radioterapia + quimioterapia."
+      },
+      {
+        "letra": "D",
+        "texto": "Radioterapia."
+      },
+      {
+        "letra": "E",
+        "texto": "Quimioterapia.  Respostas: 1 D 2 B 3 E 4 E 5 D 6 D 7 C 8 C 9 B 10 E 11 E 12 D 13 C 14 B 15 A 16 C 17 B 18 B 19 E 20 E 21 A 22 A 23 B 24 B"
+      }
+    ],
+    "resposta_correta": "B"
+  }
+]

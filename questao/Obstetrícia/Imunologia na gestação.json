@@ -1,0 +1,182 @@
+[
+  {
+    "id": 11092,
+    "tags": [],
+    "enunciado": "O transporte de imunoglobulinas e albumina pelo trofoblasto faz‑se por meio de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "difusão simples."
+      },
+      {
+        "letra": "B",
+        "texto": "difusão facilitada."
+      },
+      {
+        "letra": "C",
+        "texto": "osmose."
+      },
+      {
+        "letra": "D",
+        "texto": "transporte passivo."
+      },
+      {
+        "letra": "E",
+        "texto": "pinocitose. 4000234073"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 11093,
+    "tags": [],
+    "enunciado": "As imunizações antes, durante e após a gravidez promovem não apenas a saúde materna, mas também, por meio da imunidade passiva, promovem uma gravidez e período pós-natal saudáveis. Devem fazer parte da orientação pré-concepcional. As vacinas recomendadas às gestantes, de acordo com o Programa Nacional de Imunizações, são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "hepatite B, gripe, tétano/difteria/coqueluche, COVID-19 e sarampo."
+      },
+      {
+        "letra": "B",
+        "texto": "hepatite B, gripe, tétano/difteria/coqueluche, varicela."
+      },
+      {
+        "letra": "C",
+        "texto": "hepatite B, gripe, tétano/difteria/coqueluche, COVID-19 e HPV."
+      },
+      {
+        "letra": "D",
+        "texto": "hepatite B, gripe, tétano/difteria/coqueluche e rubéola."
+      },
+      {
+        "letra": "E",
+        "texto": "hepatite B, gripe, tétano/difteria/coqueluche, COVID-19."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 11094,
+    "tags": [],
+    "enunciado": "O puerpério dura de 6 a 12 semanas e é o período de adaptação após o nascimento do bebê, o corpo volta ao seu estado pré concepcional quando as alterações anatômicas e (cid:61)siológicas são revertidas. São observados os seguintes eventos, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A secreção puerperal normal começa com lóquios rubros, que contém sangue, restos de tecidos e decídua, e lóquios serosos, quando se tornam mais claros"
+      },
+      {
+        "letra": "B",
+        "texto": "A puérpera que amamenta apresenta atrofia do epitélio vaginal por queda do nível de estrogênio"
+      },
+      {
+        "letra": "C",
+        "texto": "As contrações miometriais pós parto favorecem a involução do útero, principalmente nas mães que amamentam, pela liberação de ocitocina"
+      },
+      {
+        "letra": "D",
+        "texto": "No puerpério imediato, a contagem de leucócitos pode chegar a 2.000/ml 4000188095"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11095,
+    "tags": [],
+    "enunciado": "Com relação à fisiologia da resposta imunológica na gravidez, podemos dizer que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o padrão de resposta imunológica no início da gestação se caracteriza pela redução da resposta Th1"
+      },
+      {
+        "letra": "B",
+        "texto": "a resposta imunológica no término da gestação não interfere no determinismo do parto"
+      },
+      {
+        "letra": "C",
+        "texto": "as alterações hormonais na parturição não interferem na resposta imunológica do final da gestação"
+      },
+      {
+        "letra": "D",
+        "texto": "a placenta é um escudo imunológico de proteção fetal contra a rejeição do aloenxerto 4000175519"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11096,
+    "tags": [],
+    "enunciado": "A velocidade de hemossedimentação poderá estar paradoxalmente acelerada na seguinte situação clínica:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Mieloma múltiplo"
+      },
+      {
+        "letra": "B",
+        "texto": "Polimialgia reumática"
+      },
+      {
+        "letra": "C",
+        "texto": "Tuberculose vertebral"
+      },
+      {
+        "letra": "D",
+        "texto": "Gravidez"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11097,
+    "tags": [],
+    "enunciado": "Com relação à fisiologia da resposta imunológica na gravidez, podemos dizer que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O padrão de resposta imunológica no início da gestação se caracteriza pela redução da resposta Th1."
+      },
+      {
+        "letra": "B",
+        "texto": "A resposta imunológica no término da gestação não interfere no determinismo do parto."
+      },
+      {
+        "letra": "C",
+        "texto": "As alterações hormonais na parturição não interferem na resposta imunológica do final da gestação."
+      },
+      {
+        "letra": "D",
+        "texto": "A placenta é um escudo imunológico de proteção fetal contra a rejeição do aloenxerto."
+      },
+      {
+        "letra": "E",
+        "texto": "A redução das respostas Th1 e Th2 favorecem o aloenxerto e permite a presença de tecido fetal."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11098,
+    "tags": [],
+    "enunciado": "A velocidade de hemossedimentação poderá estar paradoxalmente acelerada na seguinte situação clínica:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Polimialgia reumática."
+      },
+      {
+        "letra": "B",
+        "texto": "Tuberculose vertebral."
+      },
+      {
+        "letra": "C",
+        "texto": "Mieloma múltiplo."
+      },
+      {
+        "letra": "D",
+        "texto": "Gravidez.  Respostas: 1 E 2 E 3 D 4 A 5 D 6 A 7 D"
+      }
+    ],
+    "resposta_correta": "D"
+  }
+]

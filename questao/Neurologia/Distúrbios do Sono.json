@@ -1,0 +1,3021 @@
+[
+  {
+    "id": 86385,
+    "tags": [],
+    "enunciado": "Homem, 48 anos de idade, com histórico de hipertensão arterial controlada e sobrepeso, apresenta queixa de fadiga persistente, di(cid:38)culdade de concentração e insônia há 6 meses. Ele também relata episódios de ansiedade e tristeza que afetam suas atividades diárias. O paciente é avaliado na UBS e, após investigação, é diagnosticado com transtorno depressivo maior. Iniciado tratamento com antidepressivo. Após 2 meses, ele retorna, relatando melhora parcial dos sintomas, mas continua apresentando fadiga e insônia. Ele também menciona aumento de peso desde o início do tratamento, apesar de manter os mesmos hábitos alimentares. Não há histórico de abuso de substâncias, e os sinais vitais estão normais.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "comorbidade, dentre as abaixo, que mais provavelmente poderia estar associada à refratariedade dos sintomas"
+      },
+      {
+        "letra": "A",
+        "texto": "Hipotireoidismo."
+      },
+      {
+        "letra": "B",
+        "texto": "Doença arterial coronariana."
+      },
+      {
+        "letra": "C",
+        "texto": "Diabetes mellitus tipo 2."
+      },
+      {
+        "letra": "D",
+        "texto": "Síndrome da apneia-hipopneia obstrutiva do sono. 4000231231"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 86386,
+    "tags": [],
+    "enunciado": "Sobre fatores associados à Apneia Obstrutiva do Sono (AOS), analise as assertivas a seguir: I. Há correlação positiva entre o índice de massa corporal e ocorrência de AOS. II. Tabagistas têm risco três vezes maior de desenvolver AOS. III. A prevalência de AOS está aumentada entre pacientes com fibrilação atrial. Quais estão corretas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas I e II."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas I e III."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas II e III."
+      },
+      {
+        "letra": "D",
+        "texto": "I, II e III."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 86387,
+    "tags": [],
+    "enunciado": "Homem de 65 anos de idade, obeso, procura atendimento por estar se sentindo sonolento ao longo dia embora esteja dormindo no horário habitual. Sua esposa informa que o marido sempre roncou, mas que ultimamente seu ronco se tronou mais alto e algumas vezes é como se ele se engasgasse dormindo. Considerando a possibilidade de apneia obstrutiva do sono, qual o melhor exame para con(cid:38)rmar o diagnóstico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Espirometria."
+      },
+      {
+        "letra": "B",
+        "texto": "Polissonografia."
+      },
+      {
+        "letra": "C",
+        "texto": "Gasometria arterial."
+      },
+      {
+        "letra": "D",
+        "texto": "Radiografia de tórax. 4000228071"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 86388,
+    "tags": [],
+    "enunciado": "Acerca dos distúrbios de sono, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A deficiência de ferro pode ser causa da síndrome das pernas inquietas."
+      },
+      {
+        "letra": "B",
+        "texto": "A insônia é um dos distúrbios de sono mais prevalentes, com tratamento essencialmente medicamentoso."
+      },
+      {
+        "letra": "C",
+        "texto": "Obesidade é importante causa de apneia obstrutiva do sono, sendo este diagnóstico praticamente excluído na ausência de IMC elevado."
+      },
+      {
+        "letra": "D",
+        "texto": "O uso de medicamentos neuroestimuladores é vedado para tratamento de narcolepsia, haja vista risco de desenvolvimento psicose nesses pacientes."
+      },
+      {
+        "letra": "E",
+        "texto": "Apesar do uso crescente de melatonina, este medicamento não apresenta eficácia para o tratamento de insônia."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 86389,
+    "tags": [],
+    "enunciado": "Acerca das formas de tratamento da apneia do sono, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O CPAP é a principal forma de tratamento, gerando uma pressão positiva de ar nas vias aéreas, que evita seu colabamento durante o sono."
+      },
+      {
+        "letra": "B",
+        "texto": "A estimulação do nervo hipoglosso é um procedimento cirúrgico recente cujo objetivo é aumentar o tônus da língua."
+      },
+      {
+        "letra": "C",
+        "texto": "As medidas comportamentais incluem outra forma de tratamento, e alguns exemplos de orientação seriam: redução no uso de álcool, posição supina durante o sono e perda de peso."
+      },
+      {
+        "letra": "D",
+        "texto": "O aparelho intraoral, cujo principal efeito é o avanço da mandíbula em relação à maxila, é indicado, principalmente, nos casos de apneias moderadas e graves."
+      },
+      {
+        "letra": "E",
+        "texto": "Os procedimentos cirúrgicos mais comumente realizados são técnicas de modificação de tecidos moles das vias aéreas, tendo a uvulopalatofaringoplastia alta taxa de sucesso."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 86390,
+    "tags": [],
+    "enunciado": "Sobre os critérios diagnósticos da Síndrome da Apneia Obstrutiva do Sono (SAOS), segundo a Classi(cid:38)cação Internacional de Distúrbios do Sono (ICSD-3), assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A SAOS é diagnosticada no adulto que apresenta mais do que cinco eventos predominantemente obstrutivos por hora em polissonografia, mesmo na ausência de sintomas, sinais ou comorbidades associadas."
+      },
+      {
+        "letra": "B",
+        "texto": "Na criança, não há necessidade da presença de ronco, respiração difícil/obstruída ou consequências diurnas (sonolência, hiperatividade) para o diagnóstico da apneia do sono."
+      },
+      {
+        "letra": "C",
+        "texto": "É dispensada a informação de terceiros, como do parceiro de cama ou de um observador, a respeito do ronco habitual ou das interrupções respiratórias no sono (apneias relatadas)."
+      },
+      {
+        "letra": "D",
+        "texto": "A SAOS é diagnosticada no adulto que apresenta mais do que 15 eventos predominantemente obstrutivos por hora em polissonografia, mesmo na ausência de sintomas, sinais ou comorbidades associadas."
+      },
+      {
+        "letra": "E",
+        "texto": "Hipertensão, transtorno do humor, disfunção cognitiva, doença arterial coronariana, acidente vascular cerebral, insuficiência cardíaca congestiva, fibrilação atrial, trombofilia, hipotireoidismo e diabetes melito tipo 2 são comorbidades associadas à presença de apneia do sono e fazem parte dos critérios diagnósticos."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 86391,
+    "tags": [],
+    "enunciado": "Considerando que, para oferecer uma adequada atenção em saúde mental, é necessário que os serviços de saúde do SUS estejam estruturados e que o conhecimento cientí(cid:38)co possa ser aplicado na assistência ao cidadão, julgue o item subsequente. Transtornos do sono aumentam a vulnerabilidade a sintomas psiquiátricos, mas os estudos cientí(cid:38)cos não conseguiram relacionar a insônia como possível causadora de maior reatividade a experiências emocionais negativas.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Certo."
+      },
+      {
+        "letra": "B",
+        "texto": "Errado."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 86392,
+    "tags": [],
+    "enunciado": "A respeito de transtornos do sono, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A síndrome de Kleine-Levin caracteriza-se classicamente por episódios de hipersonia, perda de apetite e alterações comportamentais."
+      },
+      {
+        "letra": "B",
+        "texto": "Em paciente com diagnóstico de depressão, a alteração de sono mais típica é o terror noturno."
+      },
+      {
+        "letra": "C",
+        "texto": "O sonambulismo ocorre mais frequentemente em adultos."
+      },
+      {
+        "letra": "D",
+        "texto": "Medicamentos hipnótico-sedativos mais modernos, como o zolpidem, não causam dependência."
+      },
+      {
+        "letra": "E",
+        "texto": "A narcolepsia é usualmente tratada com anfetaminas e metilfenidato."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 86393,
+    "tags": [],
+    "enunciado": "Homem, 54 anos, queixa de di(cid:38)culdade para dormir, depois que deita, (cid:38)ca acordado por volta de 2 horas até adormecer. Relata que há alguns meses tem (cid:38)cado muito preocupado com seu (cid:38)lho adolescente que está envolvido com drogas, o que tem o deixado muito ansioso e aumentou muito o consumo café. Depois do trabalho tem encontrado com os amigos na praça para jogar “truco” e volta para casa só depois das 21h para evitar os embates com o filho. A conduta mais adequada para o caso apresentado nesse momento é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Prescrever psicofármaco para ansiedade e avaliar após algumas semanas."
+      },
+      {
+        "letra": "B",
+        "texto": "Encaminhar à psicoterapia."
+      },
+      {
+        "letra": "C",
+        "texto": "Orientar a mudança de alguns hábitos, higiene do sono e reavaliar em algumas semanas."
+      },
+      {
+        "letra": "D",
+        "texto": "Prescrever de indutor do sono e reavaliar em duas semanas."
+      },
+      {
+        "letra": "E",
+        "texto": "Encaminhar para psiquiatra na Atenção Secundária."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 86394,
+    "tags": [],
+    "enunciado": "Em relação aos distúrbios do sono, relacione os tipos de distúrbios com as descrições correspondentes abaixo: I- Despertar confusional II - Terror noturno III - Pesadelos IV - Enurese noturna 1- Os episódios são de curta duração (< 1 minuto), caracterizados por início abrupto com choro, gritos, olhos abertos, taquicardia, midríase, sudorese e expressão facial de medo intenso. A criança pode saltar da cama e correr sem direção, podendo ter sérios riscos de acidentes batendo contra móveis e/ou janelas. 2- Os episódios são relacionadas a uma associação de fatores como liberação de vasopressina durante o sono, instabilidade vesical e inabilidade de reconhecer bexiga cheia. 3- Os episódios tem duração média de 5 a 15 minutos e são caracterizados por choro, gritos, agitação motora e confusão, que pioram gradualmente até cessarem de forma espontânea. A reação piora quando se tenta consolar a criança, que não consegue despertar totalmente. 4- Os episódios podem causar a interrupção do sono por medo ou até a insônia (medo de dormir), existe memória do ocorrido e do conteúdo do sonho no dia seguinte e o correm geralmente no terço final da noite.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "relação correta é:"
+      },
+      {
+        "letra": "A",
+        "texto": "I-1, II-3, III-2, IV-4."
+      },
+      {
+        "letra": "B",
+        "texto": "I-3, II-4, III-1, IV-2."
+      },
+      {
+        "letra": "C",
+        "texto": "I-3, II-1, III-4, IV-2."
+      },
+      {
+        "letra": "D",
+        "texto": "I-2, II-1, III-4, IV-3."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 86395,
+    "tags": [],
+    "enunciado": "Todas as alternativas apresentadas abaixo são morbidades associada à síndrome da apneia obstrutiva do sono, exceto:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Enurese."
+      },
+      {
+        "letra": "B",
+        "texto": "Excessiva sonolência diurna."
+      },
+      {
+        "letra": "C",
+        "texto": "Hiperatividade."
+      },
+      {
+        "letra": "D",
+        "texto": "Cáries dentarias."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 86396,
+    "tags": [],
+    "enunciado": "A insônia pode ser de(cid:38)nida como uma experiência subjetiva de sono inadequado, com di(cid:38)culdade em iniciar ou na manutenção do sono, despertares precoces e \"sono não reparador\", com repercussão no funcionamento sócio-ocupacional diurno. Seu tratamento depende do tipo de insônia, devendo ser individualizado de acordo com as preferências do paciente, disponibilidade de recursos, gravidade e os riscos, benefícios e custos do tratamento. Assinale entre as alternativas abaixo, sobre a terapêutica da insônia, aquela que está ERRADA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A melatonina apresenta efeitos modestos no tratamento da insônia sem comorbilidades, parecendo diminuir a latência do sono, aumentar o tempo total de sono e a qualidade do sono."
+      },
+      {
+        "letra": "B",
+        "texto": "A terapia cognitivo-comportamental (TCC) no tratamento da insônia vem sendo considerada por várias sociedades médicas como o tratamento padrão."
+      },
+      {
+        "letra": "C",
+        "texto": "As benzodiazepinas estão recomendadas tanto na fase aguda quanto na fase crônica das queixas de insônia, devendo ser prescritas na menor dose possível."
+      },
+      {
+        "letra": "D",
+        "texto": "Os antidepressivos sedativos podem estar indicados como primeira linha quando a insônia está associada a sintomas depressivos ou de ansiedade ou em pacientes com abuso de substâncias ilícitas."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 86397,
+    "tags": [],
+    "enunciado": "A Síndrome da Apneia Obstrutiva do Sono (SAOS) é de(cid:38)nida por episódios recorrentes de obstrução parcial (hipopneia) ou total (apneia) da via aérea superior durante o sono. Assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É caracterizada por redução ou ausência de fluxo aéreo apesar do esforço respiratório. Geralmente, isso resulta em dessaturação da oxi-hemoglobina e despertares noturnos."
+      },
+      {
+        "letra": "B",
+        "texto": "Dentre os principais fatores de risco associados à SAOS, estão: idade avançada, gênero masculino, obesidade, medida aumentada da circunferência cervical e alterações craniofaciais (obstrução nasal e hipertrofia das adenóides e amigdalas)."
+      },
+      {
+        "letra": "C",
+        "texto": "Os critérios diagnósticos para SAOS são baseados nos sinais e sintomas clínicos e nos achados objetivos de polissonografia."
+      },
+      {
+        "letra": "D",
+        "texto": "Como indutores do sono, os benzodiazepínicos são considerados medicações de preferência nesses casos devido ao seu perfil de ação favorável e por não agravarem o quadro."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 86398,
+    "tags": [],
+    "enunciado": "Sobre a apneia obstrutiva do sono, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A espirometria é um dos exames utilizados na investigação dessa patologia."
+      },
+      {
+        "letra": "B",
+        "texto": "A polissonografia domiciliar é o método de maior sensibilidade no diagnóstico dessa condição."
+      },
+      {
+        "letra": "C",
+        "texto": "O uso de benzodiazepínicos relaxa a musculatura cervical, permitindo melhora do fluxo pela via aérea, sendo alternativa no tratamento dessa condição."
+      },
+      {
+        "letra": "D",
+        "texto": "A perda do descenso fisiológico da pressão arterial durante a noite é uma das características dessa condição."
+      },
+      {
+        "letra": "E",
+        "texto": "Indivíduos portadores de síndrome de Down tem menor risco de cursarem com essa condição."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 86399,
+    "tags": [],
+    "enunciado": "Homem de 65 anos, hipertenso, com história de ronco frequente que incomoda a esposa, apresenta escala de sonolência de Epworth de 8 (normal até 10). Traz exame de polissonogra(cid:38)a no retorno de sua consulta, que revelou índice de apneia e hipopneia de 54 eventos por hora. Quanto ao uso de CPAP para este paciente, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Está indicado para reduzir a incidência de infarto agudo do miocárdio."
+      },
+      {
+        "letra": "B",
+        "texto": "Está indicado para reduzir a incidência de acidente vascular encefálico."
+      },
+      {
+        "letra": "C",
+        "texto": "Está indicado para melhorar a qualidade de vida."
+      },
+      {
+        "letra": "D",
+        "texto": "Não está indicado para este paciente."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 86400,
+    "tags": [],
+    "enunciado": "Paciente do sexo feminino, 45 anos, procura atendimento médico devido à di(cid:38)culdade de iniciar o sono. Ela fez tratamento para depressão no passado e está na perimenopausa. Ela relata que bebe sua última xícara de café às 21h, antes de se deitar às 22h, e (cid:38)ca vendo os minutos passarem no relógio por cerca de uma hora até dormir. Seu exame físico e exames laboratoriais estão normais. Além de orientar medidas de higiene do sono e técnicas de relaxamento, o médico pode considerar a prescrição de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "diltiazem."
+      },
+      {
+        "letra": "B",
+        "texto": "diazepam."
+      },
+      {
+        "letra": "C",
+        "texto": "difenidramina."
+      },
+      {
+        "letra": "D",
+        "texto": "zolpidem."
+      },
+      {
+        "letra": "E",
+        "texto": "zolendronato."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 86401,
+    "tags": [],
+    "enunciado": "Júlia, de 35 anos, procura seu médico de família por queixa de insônia inicial, diária, há 2 semanas. Em relação a esse caso, assinale a alternativa CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O médico deve prescrever um hipnótico diário, por 1 mês."
+      },
+      {
+        "letra": "B",
+        "texto": "O médico deve iniciar um antidepressivo e reavaliar em 2 meses."
+      },
+      {
+        "letra": "C",
+        "texto": "O médico deve iniciar um benzodiazepínico diariamente, por 15 dias."
+      },
+      {
+        "letra": "D",
+        "texto": "O médico deve, inicialmente, analisar os aspectos relacionados à higiene do sono."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 86402,
+    "tags": [],
+    "enunciado": "Homem, 38 anos, tem roncos e sonolência diurna há 2 anos. Refere obstrução nasal e sua esposa diz que, durante a noite, o paciente apresenta episódios em que “para de respirar” e parece que parece estar “engasgado”. Sem antecedentes mórbidos relevantes. O exame clínico é normal, com exceção de IMC = 34 kg/m². Considerando a principal hipótese diagnóstica, qual a terapia clínica de escolha para o caso?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aparelho de pressão aérea positiva (CPAP)."
+      },
+      {
+        "letra": "B",
+        "texto": "Elevação da cabeceira da cama."
+      },
+      {
+        "letra": "C",
+        "texto": "Atividade física 30 minutos antes de dormir."
+      },
+      {
+        "letra": "D",
+        "texto": "Aparelho intraoral noturno."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 86403,
+    "tags": [],
+    "enunciado": "Analise as assertivas abaixo relacionadas aos transtornos do sono: I. Os quadros de insônia são mais frequentes em homens e têm predisposição familiar. II. O tratamento deve ser iniciado por medidas não farmacológicas (higiene do sono). III. Deve-se considerar a síndrome obstrutiva do sono em casos de sonolência excessiva diurna. Quais estão corretas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas I e II."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas I e III."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas II e III."
+      },
+      {
+        "letra": "D",
+        "texto": "I, II e III."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 86404,
+    "tags": [],
+    "enunciado": "Sobre a apneia obstrutiva do sono, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "são fatores de risco: sexo feminino, obesidade e idade acima de 40 anos."
+      },
+      {
+        "letra": "B",
+        "texto": "a prevalência estimada no Brasil é de 8-10 %."
+      },
+      {
+        "letra": "C",
+        "texto": "é considerada fator de risco independente para HAS, DM e síndrome metabólica."
+      },
+      {
+        "letra": "D",
+        "texto": "o tratamento com CPAP normaliza HAS noturna."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 86405,
+    "tags": [],
+    "enunciado": "Paciente masculino, de 50 anos, veio à consulta queixando-se de despertares frequentes durante o sono noturno e fadiga diurna. Com base no registro abaixo, ilustrativo de uma época (registro de 30 segundos) de uma polissonografia de noite inteira, qual o diagnóstico mais provável?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Síndrome da apneia/hipopneia obstrutiva do sono."
+      },
+      {
+        "letra": "B",
+        "texto": "Apneia do sono central."
+      },
+      {
+        "letra": "C",
+        "texto": "Síndrome de hipoventilação relacionada ao sono."
+      },
+      {
+        "letra": "D",
+        "texto": "O registro encontra-se dentro da normalidade, e diagnósticos alternativos devem ser buscados para explicar as queixas do paciente."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 86406,
+    "tags": [],
+    "enunciado": "Cardiologia Homem de 44 anos chega para consulta acompanhado da esposa, a qual reclama que ele ronca muito à noite. Ao (cid:38)nal da avaliação, o médico explica que o diagnóstico provável é de apneia obstrutiva do sono. A orientação do profissional deve ser de que tal condição é fator de risco para",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "sinusopatia."
+      },
+      {
+        "letra": "B",
+        "texto": "hipertensão arterial sistêmica."
+      },
+      {
+        "letra": "C",
+        "texto": "pneumonia."
+      },
+      {
+        "letra": "D",
+        "texto": "asma brônquica."
+      },
+      {
+        "letra": "E",
+        "texto": "doença pulmonar obstrutiva crônica."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 86407,
+    "tags": [],
+    "enunciado": "Mulher de 56 anos, com queixa de insônia, refere que, ao (cid:38)nal do dia e ao se deitar, sente desconforto nas pernas que a obrigam a levantar-se e caminhar pelo quarto para aliviar o desconforto. Relata que precisa fazer isso diversas vezes à noite, com perda na qualidade do sono. Refere também os mesmos sintomas quando está sentada à noite, acordada, assistindo à TV. É mais provável que esta paciente tenha:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Intolerância ao glúten."
+      },
+      {
+        "letra": "B",
+        "texto": "Doença de Parkinson."
+      },
+      {
+        "letra": "C",
+        "texto": "Anemia microcítica."
+      },
+      {
+        "letra": "D",
+        "texto": "Parentes com a mesma doença."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 86408,
+    "tags": [],
+    "enunciado": "O Sr. Thiago, 46 anos, pardo, porteiro de prédio comercial, procura ambulatório de clínica médica com história de cefaleia matinal, e que ultimamente está um pouco deprimido, e que muitas vezes dorme na portaria do prédio durante seu trabalho, relata ainda que ronca muito a noite. AP: Hipertensão Arterial Sistêmica, sedentarismo. Ao exame: PA= 160x100 mmHg, P= 79 bpm (R), Temp.= 36,9º C, Glicose capilar= 125 mg %, Peso=119 Kg, altura=180 cm. Ausculta cardíaca; BR hipofonéticas S/S em 2 tempos; Ausculta Pulmonar: MV +/ difusamente diminuído, sem R.A. Abdome globoso, batráquio, sem visceromegalias, RHA + e normal, membros sem edema, pele com aspecto normal, Vascular: pulsos periféricos amplos e palpáveis. Assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O diagnóstico mais provável é hipersonolência diurna secundária à narcolepsia, sendo recomendado iniciar com metilfenidato e cafeína."
+      },
+      {
+        "letra": "B",
+        "texto": "Caso o paciente apresente diâmetro cervical > 38 cm, e IMC >35, considere o diagnóstico de Apneia Obstrutiva do Sono (AOS) e iniciar uso do BIPAP."
+      },
+      {
+        "letra": "C",
+        "texto": "Caso paciente apresente duas ou mais das 3 categorias positivas na escala de Berlim, o diagnóstico de AOS é muito provável, e deve ser indicada polissonografia."
+      },
+      {
+        "letra": "D",
+        "texto": "Na polissonografia, caso o paciente apresente índice de Apnéia/ hipopnéia >= 2 considere o diagnóstico de AOS e iniciar uso do BIPAP."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 86409,
+    "tags": [],
+    "enunciado": "A síndrome da apneia e hipopneia obstrutiva do sono (SAHOS) é uma alteração caracterizada pela obstrução das vias aéreas superiores (VAS) decorrente do colapso repetitivo de estruturas faríngeas, resultando em distúrbios de troca gasosa e em fragmentação do sono. No que se refere a esse tema, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não existe uma ligação bem definida entre SAHOS e hipertensão arterial."
+      },
+      {
+        "letra": "B",
+        "texto": "Não se observa alta prevalência de SAHOS entre pessoas com insuficiência cardíaca."
+      },
+      {
+        "letra": "C",
+        "texto": "Fatores como sexo masculino, idade, obesidade e tabagismo estão ligados a índices maiores dessa síndrome."
+      },
+      {
+        "letra": "D",
+        "texto": "O ronco é um sintoma que apresenta alta sensibilidade e especificidade para a SAHOS."
+      },
+      {
+        "letra": "E",
+        "texto": "Ainda não existe exame que seja padrão ouro para diagnosticar a SAHOS; e é o diagnóstico eminentemente clínico."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 86410,
+    "tags": [],
+    "enunciado": "De acordo com DUNCAN et al. os transtornos do sono são comuns na infância, podendo estar presentes em 25 a 40% das crianças. Em relação a esses transtornos, analisar os itens abaixo: I. O transtorno das apneias do sono envolve dois sintomas principais: sono noturno perturbado e sonolência diurna excessiva. II. A insônia caracteriza-se por uma di(cid:38)culdade para iniciar ou manter o sono, causando fadiga com comprometimento da ocupação diurna, como, por exemplo, o desempenho escolar. III. As dissonias subdividem-se em insônia, hipersonia, narcolepsia e transtornos do sono relacionados com a respiração. Está(ão) CORRETO(S):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente o item I."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente o item II."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente os itens I e III."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente os itens II e III."
+      },
+      {
+        "letra": "E",
+        "texto": "Todos os itens."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 86411,
+    "tags": [],
+    "enunciado": "Homem de 60 anos procura atendimento devido a cefaleia refratária e sonolência diurna excessiva há 4 meses. Há 2 meses vem apresentando amnésia para fatos recentes e anomia. É obeso, hipertenso, diabético, sedentário, dislipidêmico, etilista e tabagista. No momento, apresenta-se com pressão arterial = 180 x 120 mmHg, fundoscopia KW3 e todo o restante do exame neurológico normal. Qual é o melhor exame complementar para fazer o diagnóstico da patologia que, ainda não diagnosticada, in(cid:93)uencia negativamente o controle das demais moléstias apresentadas por ele e agrava todo o seu prognóstico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "RNM encéfalo."
+      },
+      {
+        "letra": "B",
+        "texto": "CT crânio."
+      },
+      {
+        "letra": "C",
+        "texto": "Arteriografia digital cerebral."
+      },
+      {
+        "letra": "D",
+        "texto": "Líquido cefalorraquidiano."
+      },
+      {
+        "letra": "E",
+        "texto": "Polissonografia de noite inteira."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 86412,
+    "tags": [],
+    "enunciado": "Homem de 62 anos apresenta cansaço intenso diário e episódios de esquecimentos há 5 anos. AP: doença do refluxo gastroesofágico (DRGE), HAS e consumo de duas doses de cerveja/dia. Nega tabagismo. Faz uso contínuo de omeprazol, hidroclorotiazida, losartana e propranolol. Exame físico: altura 1,60 m; peso 98 kg; circunferência cervical 41 cm; PA 180/90 mmHg; FC 89 bpm; FR 18 ipm. Hipoplasia mandibular; 2 bulhas rítmicas hipofonéticas; pulmonar: murmúrio vesicular presente, sem ruídos adventícios; abdome globoso. Dentre os exames complementares relacionados, o mais adequado a ser solicitado nesse momento é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "espirometria pré e pós-broncodilatador."
+      },
+      {
+        "letra": "B",
+        "texto": "tomografia computadorizada de tórax."
+      },
+      {
+        "letra": "C",
+        "texto": "polissonografia."
+      },
+      {
+        "letra": "D",
+        "texto": "ressonância magnética de tórax."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 86413,
+    "tags": [],
+    "enunciado": "A respeito da medicina do sono, assinale a alternativa Correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O número de horas de sono ideal após os 4 anos é de 8 horas, nas 24 horas."
+      },
+      {
+        "letra": "B",
+        "texto": "Crianças até os 2 anos devem ter cochilos diurnos em quartos completamente isentos de luz e som."
+      },
+      {
+        "letra": "C",
+        "texto": "O adolescente tem fase de sono adiantada, devido às alterações hormonais próprias dessa idade."
+      },
+      {
+        "letra": "D",
+        "texto": "O recém-nascido dorme cerca de 17 horas nas vinte e quatro horas do dia."
+      },
+      {
+        "letra": "E",
+        "texto": "A melatonina é estimulada pela via óptica, acumulada na pineal e liberada pela manhã para induzir a vigília."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 86414,
+    "tags": [],
+    "enunciado": "Um paciente com queixa de sono fragmentado e nictúria. Após a avaliação clínica inicial, apresentava pontuação de 6 no questionário STOP BANG. Assinale a alternativa que indica corretamente o exame complementar para o esclarecimento diagnóstico.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Polissonografia tipo 1"
+      },
+      {
+        "letra": "B",
+        "texto": "Poligrafia respiratória"
+      },
+      {
+        "letra": "C",
+        "texto": "Dosagem de Melatonina matinal"
+      },
+      {
+        "letra": "D",
+        "texto": "Tomografia computadorizada de região cervical"
+      },
+      {
+        "letra": "E",
+        "texto": "Avaliação ortodôntica quanto ao tipo de mordida"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 86415,
+    "tags": [],
+    "enunciado": "Estima-se em 63% a prevalência de queixas relacionadas ao sono no Brasil. A seguir, são apresentados os distúrbios de sono mais prevalentes, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cataplexia."
+      },
+      {
+        "letra": "B",
+        "texto": "Distúrbios do ritmo circadiano."
+      },
+      {
+        "letra": "C",
+        "texto": "Síndrome da apneia obstrutiva do sono."
+      },
+      {
+        "letra": "D",
+        "texto": "Síndrome das pernas inquietas."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 86416,
+    "tags": [],
+    "enunciado": "Na avaliação pré-anestésica, em um doente em que é possível visualizar apenas o palato duro, recebe a classificação de Mallampati em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "II."
+      },
+      {
+        "letra": "B",
+        "texto": "III."
+      },
+      {
+        "letra": "C",
+        "texto": "IV."
+      },
+      {
+        "letra": "D",
+        "texto": "V. 4000173152"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 86417,
+    "tags": [],
+    "enunciado": "A queixa de insônia é frequente entre os pacientes atendidos pelo médico de família. em relação a insônia e a higiene do sono, marque a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Faz parte das regras de revisão do ambiente de sono: eliminar ruídos no quarto; regular a temperatura do quarto, bem como tornar o ambiente de dormir confortável; eliminar o relógio do quarto."
+      },
+      {
+        "letra": "B",
+        "texto": "Dentre as regras sobre os horários de dormir, destacam-se: controlar ou eliminar os cochilos diurnos; reduzir o tempo na cama para um sono mais profundo e mais contínuo; manter horário fixo para ir para a cama."
+      },
+      {
+        "letra": "C",
+        "texto": "Dentre as atividades ao entardecer que conduzem ao sono, estão: prática de atividades aeróbicas, pelo menos três vezes na semana, começando 4 a 6 horas antes do horário de se deitar; engajar-se em atividades relaxantes antes de dormir; banho quente 1 ou 2 horas antes de se deitar."
+      },
+      {
+        "letra": "D",
+        "texto": "Dentre os medicamentos utilizados no tratamento da insônia, o uso de antidepressivos inibidores da recaptação de serotonina estão entre as opções de escolha, ainda que o paciente não apresente transtorno de humor associado."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 86418,
+    "tags": [],
+    "enunciado": "Os distúrbios do sono em crianças são sempre importantes já que trazem grande impacto na dinâmica da família. A higiene do sono é utilizada em todas as idades para organizar o horário e os rituais de sono, ajudando também a evitar ou minimizar as parassonias, como sonambulismo, terror noturno, sonilóquio e pesadelos. Analise as assertivas abaixo e julgue-as como verdadeiras (V) ou falsas (F). ( )Conforme a criança vai crescendo, os cochilos diurnos vão se tornando desnecessários. ( )A rotina de refeições também é importante. A criança deve receber regularmente suas refeições durante o dia, para que na hora de dormir não esteja com fome e nem superalimentada. ( )Manter o mesmo horário para dormir e acordar todos os dias, no entanto nos (cid:38)nais de semana e feriados a criança poderá sair da rotina. ( )Colocar a criança ainda acordada em sua cama, indicando que é hora de dormir e todo ambiente deverá ser calmo e tranquilo para induzir o sono e ganhar sua confiança e segurança.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "alternativa que contém a sequência CORRETA, de cima para baixo, é a:"
+      },
+      {
+        "letra": "A",
+        "texto": "V - V - F - F"
+      },
+      {
+        "letra": "B",
+        "texto": "F - V - F - V"
+      },
+      {
+        "letra": "C",
+        "texto": "V - V - F - V"
+      },
+      {
+        "letra": "D",
+        "texto": "V - V - V - F 4000171399"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 86419,
+    "tags": [],
+    "enunciado": "Todas as alternativas abaixo são indicações clínicas para o uso de CPAP, exceto.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Manejo da síndrome do desconforto respiratório."
+      },
+      {
+        "letra": "B",
+        "texto": "Traqueomalácia."
+      },
+      {
+        "letra": "C",
+        "texto": "Paralisia do nervo frênico."
+      },
+      {
+        "letra": "D",
+        "texto": "Fistula traqueoesofágica. 4000170905"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 86420,
+    "tags": [],
+    "enunciado": "Assinale a alternativa incorreta em relação aos benefícios do CPAP.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Diminui o trabalho respiratório e consumo de oxigênio."
+      },
+      {
+        "letra": "B",
+        "texto": "Não permite uma respiração espontânea."
+      },
+      {
+        "letra": "C",
+        "texto": "Melhora a função diafragmática."
+      },
+      {
+        "letra": "D",
+        "texto": "Diminui o edema alveolar. 4000170897"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 86421,
+    "tags": [],
+    "enunciado": "Das alternativas apresentadas abaixo assinale aquela que não é uma morbidade associada à Síndrome da Apneia Obstrutiva do Sono.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Enurese."
+      },
+      {
+        "letra": "B",
+        "texto": "Excessiva sonolência diurna."
+      },
+      {
+        "letra": "C",
+        "texto": "Hiperatividade."
+      },
+      {
+        "letra": "D",
+        "texto": "Cáries dentárias. 4000145616"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 86422,
+    "tags": [],
+    "enunciado": "Homem, 45 anos, portador de hipertensão arterial há 5 anos em tratamento com hidroclorotiazida, enalapril e anlodipino em doses máximas retorna para seguimento com onitorização ambulatorial da pressão arterial (MAPA). Queixa se de episódios de elevação de pressão arterial em domicílio, apesar da aderência ao tratamento farmacológico e não farmacológico, e nega uso de outras medicações. Exame físico sem alterações, PA: 143 x 91 mmHg, FC 73 bpm, peso de 80 kg, altura 1,6 m. MAPA ((cid:38)gura) com média das pressões em 24 horas de 135 x 86 mmHg. Qual a condição clínica mais provável neste caso?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Síndrome da apneia obstrutiva do sono."
+      },
+      {
+        "letra": "B",
+        "texto": "Feocromocitoma."
+      },
+      {
+        "letra": "C",
+        "texto": "Estenose de artéria renal."
+      },
+      {
+        "letra": "D",
+        "texto": "Hipertireoidismo."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 86423,
+    "tags": [],
+    "enunciado": "Um empresário de 62 anos, procurou um médico especialista em distúrbios do Sono pois sua esposa reclamava dos seus roncos e engasgos noturnos. Ao exame físico tem IMC- 38, aumento das circunferências cervical e abdominal e Mallampati classe IV Foi solicitada Polissonogra(cid:38)a de noite inteira que evidenciou Índice de Apneia e Hipopneia de 23 com dessaturações e hipoxemia durante o exame. Sendo assim, a gravidade da apneia obstrutiva do sono e o melhor tratamento proposto são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Leve / Uso de aparelho intraoral."
+      },
+      {
+        "letra": "B",
+        "texto": "Moderada / Cirurgia Ortognática."
+      },
+      {
+        "letra": "C",
+        "texto": "Moderada / CPAP (Continuous Positive Airway Pressure)."
+      },
+      {
+        "letra": "D",
+        "texto": "Grave / BPAP (Bilevel Positive Airway Pressure)."
+      },
+      {
+        "letra": "E",
+        "texto": "Grave / Uso de aparelho intraoral."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 86424,
+    "tags": [],
+    "enunciado": "Um paciente de 35 anos, obeso apresenta níveis de pressão arterial elevados e pouco responsivos às medicações usuais. Como sintoma, ele refere, apenas, fadiga e sonolência. Sabendo que ureia, creatinina e eletrólitos estão dentro da normalidade, qual seria o diagnóstico mais provável para o caso?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hipertensão renovascular"
+      },
+      {
+        "letra": "B",
+        "texto": "Feocromocitoma"
+      },
+      {
+        "letra": "C",
+        "texto": "Síndrome de Cushing"
+      },
+      {
+        "letra": "D",
+        "texto": "Síndrome da apneia obstrutiva do sono"
+      },
+      {
+        "letra": "E",
+        "texto": "Hiperaldosteronismo primário"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 86425,
+    "tags": [],
+    "enunciado": "Mulher, 62a, comparece para consulta médica com queixa de dispneia aos moderados esforços (NYHA II), fadiga crônica, sonolência diurna. Antecedentes pessoais: hipertensão arterial e diabetes há 20 anos, em uso de metformina 850mg/dia e losartana 50 mg/dia. Nega tabagismo, etilismo ou doença pulmonar prévia. Exame físico: Peso= 106 kg, altura= 1,60 m, oximetria de pulso (ar ambiente)= 88%, FC= 90 bpm, PA= 156x98 mmHg. Pletórica; Pulmões: murmúrio vesicular reduzido globalmente. Gasometria arterial (ar ambiente): pH= 7,38; paO₂= 52 mmHg, paC₂2= 56 mmHg, HCO₃= 30 mmol/L, sat O₂= 88%. Espirometria= distúrbio misto de grau leve.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "HIPÓTESE DIAGNÓSTICA É:"
+      },
+      {
+        "letra": "A",
+        "texto": "Síndrome de hipoventilação associada à obesidade."
+      },
+      {
+        "letra": "B",
+        "texto": "Tromboembolismo pulmonar crônico."
+      },
+      {
+        "letra": "C",
+        "texto": "Hipertensão pulmonar."
+      },
+      {
+        "letra": "D",
+        "texto": "Doença Pulmonar Obstrutiva Crônica."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 86426,
+    "tags": [],
+    "enunciado": "Um paciente de 37 anos de idade, bancário, procura um serviço de saúde mental, encaminhado pelo médico do banco. Na entrevista inicial, relata que, há um mês, recebeu uma promoção no trabalho, mediante a qual terá que mudar de cidade e passará a che(cid:38)ar uma equipe de 20 pessoas. Soube também que terá como superior imediato o gerente geral, uma pessoa muito severa e que impõe metas que são quase impossíveis de alcançar. Desde então, vem apresentando tristeza, chora com facilidade, sente desânimo, ansiedade, insônia, o coração “dispara” e mostra-se agitado quando está em casa e pensa que tem de trabalhar, que terá que se mudar, assim como que precisará ter contato frequente com seu futuro chefe. Está consumindo grande quantidade de bebidas alcoólicas para sentir-se mais calmo e conseguir dormir.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "respeito desse caso clínico e com base nos conhecimentos médicos correlatos, julgue os itens a seguir. No tratamento da insônia, o (cid:93)urazepam é melhor para di(cid:38)culdades em pegar no sono. Já o zolpidem e o triazolam são melhores para insônia no meio da noite."
+      },
+      {
+        "letra": "A",
+        "texto": "Certo."
+      },
+      {
+        "letra": "B",
+        "texto": "Errado."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 86427,
+    "tags": [],
+    "enunciado": "Um paciente de 37 anos de idade, bancário, procura um serviço de saúde mental, encaminhado pelo médico do banco. Na entrevista inicial, relata que, há um mês, recebeu uma promoção no trabalho, mediante a qual terá que mudar de cidade e passará a che(cid:38)ar uma equipe de 20 pessoas. Soube também que terá como superior imediato o gerente geral, uma pessoa muito severa e que impõe metas que são quase impossíveis de alcançar. Desde então, vem apresentando tristeza, chora com facilidade, sente desânimo, ansiedade, insônia, o coração “dispara” e mostra-se agitado quando está em casa e pensa que tem de trabalhar, que terá que se mudar, assim como que precisará ter contato frequente com seu futuro chefe. Está consumindo grande quantidade de bebidas alcoólicas para sentir-se mais calmo e conseguir dormir.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "respeito desse caso clínico e com base nos conhecimentos médicos correlatos, julgue os itens a seguir."
+      },
+      {
+        "letra": "A",
+        "texto": "insônia persistente no transtorno de insônia envolve dois problemas: tensão e ansiedade somatizadas e uma resposta associativa condicionada."
+      },
+      {
+        "letra": "A",
+        "texto": "Certo."
+      },
+      {
+        "letra": "B",
+        "texto": "Errado."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 86428,
+    "tags": [],
+    "enunciado": "Um paciente de 37 anos de idade, bancário, procura um serviço de saúde mental, encaminhado pelo médico do banco. Na entrevista inicial, relata que, há um mês, recebeu uma promoção no trabalho, mediante a qual terá que mudar de cidade e passará a che(cid:38)ar uma equipe de 20 pessoas. Soube também que terá como superior imediato o gerente geral, uma pessoa muito severa e que impõe metas que são quase impossíveis de alcançar. Desde então, vem apresentando tristeza, chora com facilidade, sente desânimo, ansiedade, insônia, o coração “dispara” e mostra-se agitado quando está em casa e pensa que tem de trabalhar, que terá que se mudar, assim como que precisará ter contato frequente com seu futuro chefe. Está consumindo grande quantidade de bebidas alcoólicas para sentir-se mais calmo e conseguir dormir.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "respeito desse caso clínico e com base nos conhecimentos médicos correlatos, julgue os itens a seguir. Para o diagnóstico de transtorno de insônia, é importante considerar, entre outros fatores, a frequência das di(cid:38)culdades relacionadas ao sono, pois elas precisam estar presente pelo menos em uma noite por semana, por pelo menos um mês."
+      },
+      {
+        "letra": "A",
+        "texto": "Certo."
+      },
+      {
+        "letra": "B",
+        "texto": "Errado."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 86429,
+    "tags": [],
+    "enunciado": "Um paciente de 37 anos de idade, bancário, procura um serviço de saúde mental, encaminhado pelo médico do banco. Na entrevista inicial, relata que, há um mês, recebeu uma promoção no trabalho, mediante a qual terá que mudar de cidade e passará a che(cid:38)ar uma equipe de 20 pessoas. Soube também que terá como superior imediato o gerente geral, uma pessoa muito severa e que impõe metas que são quase impossíveis de alcançar. Desde então, vem apresentando tristeza, chora com facilidade, sente desânimo, ansiedade, insônia, o coração “dispara” e mostra-se agitado quando está em casa e pensa que tem de trabalhar, que terá que se mudar, assim como que precisará ter contato frequente com seu futuro chefe. Está consumindo grande quantidade de bebidas alcoólicas para sentir-se mais calmo e conseguir dormir.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "respeito desse caso clínico e com base nos conhecimentos médicos correlatos, julgue os itens a seguir. Na história clínica do paciente, a presença de insônia remete à necessidade de avaliar se ela é um sintoma dentro do diagnóstico principal ou se constitui um transtorno de insônia."
+      },
+      {
+        "letra": "A",
+        "texto": "Certo."
+      },
+      {
+        "letra": "B",
+        "texto": "Errado."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 86430,
+    "tags": [],
+    "enunciado": "Idosa de 75 anos portadora de hipertensão arterial sistêmica, diabetes, dislipidemia, osteoartrose, depressão e osteoporose vem ao Posto de Saúde para atendimento médico com queixa de insônia. Refere que dorme de 22 até 4 horas da manhã e durante o dia tem um cochilo após o almoço por volta de 13h até as 15 horas. É independente para atividades básicas de vida diária e está em uso de: losartana 100mg/d, hidroclorotiazida 25mg/d, AAS 100mg/d, omeprazol 20mg/d, glibenclamida 5mg/d, amitriptilina 10mg/d e bromazepan 3mg/d. Nega queixas e apresenta exame físico sem alterações. Relata 3 episódios de queda no último ano. Qual o ajuste farmacológico prioritário para a paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Suspender gradualmente o bromazepam."
+      },
+      {
+        "letra": "B",
+        "texto": "Suspender gradualmente a amitriptilina."
+      },
+      {
+        "letra": "C",
+        "texto": "Aumentar a dose de amitriptilina."
+      },
+      {
+        "letra": "D",
+        "texto": "Aumentar dose do bromazepam."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 86431,
+    "tags": [],
+    "enunciado": "Homem de 52 anos foi avaliado por queixa de cefaleia occipital frequente, fadiga e sonolência diurna. Sedentário, também referia dispneia aos esforços mais acentuados como correr ou subir escadas. Ao exame, apresentava IMC 32,5 kg/m2, circunferência abdominal 102 cm, PA: 150 x 100 mmHg, pulso 95 bpm. Abdômen: globoso por adiposidade e sem estrias. Exames bioquímicos: Glicemia 118 mg/dL, A1C: 5,5%, Colesterol: 225 mg/dL, HDL: 32 mg/dL, Triglicerides: 335 mg/dL, LDL: 126 mg/dL. Foi prescrito losartana e recomendado mudanças no estilo de vida. LEGENDA: IMC: índice de massa corporal; PA: pressão arterial; bpm: batimentos por minuto; A1C: hemoglobina glicada. Qual conduta adicional seria a mais indicada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Solicitar polissonografia para investigar apneia do sono."
+      },
+      {
+        "letra": "B",
+        "texto": "Prescrever ácidos graxos de ômega 3 para promover elevação do HDL."
+      },
+      {
+        "letra": "C",
+        "texto": "Indicar cirurgia bariátrica para tratar a obesidade e prevenir diabetes tipo 2."
+      },
+      {
+        "letra": "D",
+        "texto": "Dosar microalbuminúria e proteína C reativa para confirmar síndrome metabólica."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 86432,
+    "tags": [],
+    "enunciado": "Assinale a assertiva incorreta sobre o sono e seus distúrbios na infância.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O terror noturno e o sonambulismo fazem parte de uma categoria diagnóstica conhecida como parassonias."
+      },
+      {
+        "letra": "B",
+        "texto": "No sonambulismo, não há memória do evento no dia seguinte, e as crianças, muitas vezes, podem ter comportamento inadequado (urinar no cesto do lixo, deslocar móveis do lugar, subir numa janela)."
+      },
+      {
+        "letra": "C",
+        "texto": "O terror noturno parece estar relacionado à imaturidade do sistema nervoso central."
+      },
+      {
+        "letra": "D",
+        "texto": "No terror noturno, as crianças não chegam a despertar, mas ficam com os olhos abertos e muito agitadas como se estivessem tendo um pesadelo, diferentemente do sonambulismo em que, no outro dia, a criança lembra, com detalhes, o evento."
+      },
+      {
+        "letra": "E",
+        "texto": "Frequentemente, é difícil acordar crianças durante o episódio de sonambulismo, o que pode piorar a confusão e a desorientação."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 86433,
+    "tags": [],
+    "enunciado": "Em relação à síndrome da apneia obstrutiva do sono podemos afirmar que: I – É mais frequente em homens. II – Tem relação com a obesidade e circunferência do pescoço acima de 40 cm. III – É mais frequente em negros e asiáticos.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Todas estão corretas."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas I e II estão corretas."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas II e III estão corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas I e III estão corretas."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 86434,
+    "tags": [],
+    "enunciado": "Seu Antônio, 60 anos, durante consulta médica na unidade básica de saúde, queixou-se que por volta de um ano apresenta insônia. Referiu ainda o uso de corticoterapia frequente para tratamento de asma. Tem por hábito tomar muito café com pão e relata também que seu quarto é muito quente. Ao ouvir as queixas do seu Antônio o médico prescreveu Alprazolam 2mg para tomar 1 comprimido à noite e agendou nova consulta em três meses. Com base no texto acima marque a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A prescrição do Alprazolam está correta, pois é um benzodiazepínico utilizado em casos de insônia."
+      },
+      {
+        "letra": "B",
+        "texto": "A higienização do sono é de fundamental importância para o tratamento da insônia, porém requer a abordagem de um psiquiatra."
+      },
+      {
+        "letra": "C",
+        "texto": "Na história acima o diagnóstico de insônia deveria ser feito através de uma anamnese detalhada, pois nem toda queixa do paciente se traduz em uma realidade absoluta."
+      },
+      {
+        "letra": "D",
+        "texto": "Como não foi descrito na história acima a ocorrência de sonambulismo e/ou pesadelos o diagnóstico de insônia não pode ser feito."
+      },
+      {
+        "letra": "E",
+        "texto": "O uso de indutores do sono como Zolpidem seria o mais indicado para o quadro acima."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 86435,
+    "tags": [],
+    "enunciado": "Segundo a classificação de Mallampati, o paciente classificado como grau III, expõe:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Palato duro."
+      },
+      {
+        "letra": "B",
+        "texto": "Palato duro, palato mole e base da úvula."
+      },
+      {
+        "letra": "C",
+        "texto": "Palato duro, palato mole, úvula e fauces."
+      },
+      {
+        "letra": "D",
+        "texto": "Palato duro, palato mole, úvula, fauces e pilares."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 86436,
+    "tags": [],
+    "enunciado": "Benedito, 65 anos, aposentado, (cid:38)cou viúvo há 3 meses, vem à Unidade Básica de Saúde solicitar medicação para dormir, porque há mais de 1 mês tem sentido uma grande di(cid:38)culdade para adormecer, (cid:38)cando várias horas na cama acordado e permanecendo muito cansado durante o dia. Nega quadro prévio de alteração do sono ou problema com roncos. Conta que seu pai tinha crises de insônia e usava Rivotril. No manejo da insônia no caso de Benedito, é recomendado",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "avaliar possível quadro de depressão e considerar tratamento com antidepressivo tricíclico ou antipsicótico."
+      },
+      {
+        "letra": "B",
+        "texto": "investigar uma causa secundária para a insônia com exames laboratoriais e polissonografia."
+      },
+      {
+        "letra": "C",
+        "texto": "oferecer terapia cognitivo-comportamental, pois é considerada de primeira-linha no tratamento da insônia."
+      },
+      {
+        "letra": "D",
+        "texto": "contra-indicar o uso de indutor do sono, como o zolpidem, por causarem confusão e perda de memória em idosos."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 86437,
+    "tags": [],
+    "enunciado": "Qual das alterações hematológicas abaixo está mais relacionada à síndrome das pernas inquietas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Anemia ferropriva"
+      },
+      {
+        "letra": "B",
+        "texto": "Anemia megaloblástica por deficiência de vitamina B12"
+      },
+      {
+        "letra": "C",
+        "texto": "Anemia megaloblástica por deficiência de folato"
+      },
+      {
+        "letra": "D",
+        "texto": "Mieloma múltiplo"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 86438,
+    "tags": [],
+    "enunciado": "Na avaliação pré-anestésica o anestesista examina a orofaringe para classi(cid:38)car a via aérea usando a classi(cid:38)cação de Mallampati. No exame realizado foi identi(cid:38)cado apenas o palato duro, não visualizando a úvula e nem os pilares. Qual o Mallampati?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "2"
+      },
+      {
+        "letra": "B",
+        "texto": "3"
+      },
+      {
+        "letra": "C",
+        "texto": "4"
+      },
+      {
+        "letra": "D",
+        "texto": "1"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 86439,
+    "tags": [],
+    "enunciado": "O paciente que apresenta apenas o palato mole e a base da úvula visíveis em um paciente sentado, com a boca totalmente aberta durante a protrusão máxima da língua, é classificado como Mallampati classe",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I."
+      },
+      {
+        "letra": "B",
+        "texto": "II."
+      },
+      {
+        "letra": "C",
+        "texto": "III."
+      },
+      {
+        "letra": "D",
+        "texto": "IV."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 86440,
+    "tags": [],
+    "enunciado": "Paciente de 70 anos, com hérnia inguinal direita, sempre redutível, há 2 anos. É obeso (IMC = 42Kg/m2), hipertenso e diabético tipo II. Tem apnéia obstrutiva do sono e queixas urinárias que sugerem prostatismo moderado. Qual a melhor conduta no pré-operatório:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Manter hemoglobina glicada abaixo de 10%, usar CPAP e dieta low carb"
+      },
+      {
+        "letra": "B",
+        "texto": "Fazer fisioterapia respiratória e utilizar suplemento de proteína"
+      },
+      {
+        "letra": "C",
+        "texto": "Manter a hemoglobina glicada abaixo de 7%, fazer fisioterapia respiratória, manter a PAS abaixo de 100 mmHg e usar sibutramina"
+      },
+      {
+        "letra": "D",
+        "texto": "Fazer dieta orientada com nutricionista, operar apenas quando IMC < 30Kg/m², usar sibutramina e procurar avaliação com o urologista"
+      },
+      {
+        "letra": "E",
+        "texto": "Estimular o uso de CPAP, manter a hemoglobina glicada abaixo de 7%, fazer dieta orientada e procurar avaliação com urologista"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 86441,
+    "tags": [],
+    "enunciado": "Mãe traz a (cid:38)lha de 2 anos para avaliação referindo que a menina tem di(cid:38)culdade para pegar no sono, acorda várias vezes à noite e vai até a cama da mãe para poder dormir, além de apresentar sonolência durante o dia. Sobre as recomendações a serem feitas nesse caso, é incorreto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Estabelecer rotina e horários para dormir."
+      },
+      {
+        "letra": "B",
+        "texto": "Eliminar hábitos de dependência dos pais para induzir a criança a dormir e incentivá-la a pegar no sono por conta própria."
+      },
+      {
+        "letra": "C",
+        "texto": "Prescrever melatonina."
+      },
+      {
+        "letra": "D",
+        "texto": "Orientar sobre higiene do sono."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 86442,
+    "tags": [],
+    "enunciado": "As alterações do sono, apesar de serem comuns nos indivíduos que buscam atendimento em serviços de Atenção Primária à Saúde, raras vezes é a queixa principal de uma consulta médica e di(cid:38)cilmente é investigada na anamnese. Com relação a higiene do sono, assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Estimular cochilo diurno mais prolongado apenas depois do almoço."
+      },
+      {
+        "letra": "B",
+        "texto": "Ir para a cama apenas quando estiver com sono."
+      },
+      {
+        "letra": "C",
+        "texto": "Evitar ficar olhando para o relógio."
+      },
+      {
+        "letra": "D",
+        "texto": "Havendo dificuldade para dormir, sair da cama e procurar uma atividade relaxante até ficar sonolento."
+      },
+      {
+        "letra": "E",
+        "texto": "Manter o quarto em temperatura agradável."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 86443,
+    "tags": [],
+    "enunciado": "O tratamento de escolha para a síndrome da apneia e hipopneia obstrutiva do sono – SAHOS moderada ou importante é o uso da pressão positiva contínua (CPAP) em vias aéreas superiores durante o sono. NÃO sendo correto se considerar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Foi demonstrado enorme efeito da CPAP na redução da PA, mas são limitadas por incluir estudos em normotensos e hipertensos controlados."
+      },
+      {
+        "letra": "B",
+        "texto": "em pacientes com SAHOS e hipertensão arterial resistente HAR, a maioria dos estudos mostrou reduções mais importantes da PA do que as verificadas em pacientes com HA não resistente."
+      },
+      {
+        "letra": "C",
+        "texto": "a perda de peso combinada à CPAP mostrou maior redução da PA do que cada intervenção isolada em obesos com SAHOS."
+      },
+      {
+        "letra": "D",
+        "texto": "o avanço mandibular, com dispositivos móveis ortodônticos, para SAHOS leve a moderada, pode, também, promover redução da PA."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 86444,
+    "tags": [],
+    "enunciado": "Assinale a alternativa que representa na classi(cid:38)cação de Mallampati, a visualização da úvula, palato mole, palato duro e pilares.:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Classificação II."
+      },
+      {
+        "letra": "B",
+        "texto": "Classificação III."
+      },
+      {
+        "letra": "C",
+        "texto": "Classificação IV."
+      },
+      {
+        "letra": "D",
+        "texto": "Classificação I."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 86445,
+    "tags": [],
+    "enunciado": "As doenças psiquiátricas vêm ganhando destaque ao longo da última década, com alguns levantamentos epidemiológicos apontando, por exemplo, a prevalência de transtorno de ansiedade superior a 25% em populações adultas. Nesse contexto, passa a ser importante para o clínico saber abordar alguns sintomas, que passaram a se tornar mais frequentes nos ambulatórios. Referente à semiologia da insônia podemos a(cid:38)rmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Insônia inicial é mais sugestiva de depressão, sendo a terminal mais sugestiva de ansiedade."
+      },
+      {
+        "letra": "B",
+        "texto": "Insônia inicial é mais sugestiva de fatores ambientais, enquanto a terminal sugere transtorno de ansiedade."
+      },
+      {
+        "letra": "C",
+        "texto": "Insônia terminal é mais sugestiva de fatores ambientais, enquanto a insônia inicial sugere transtorno de ansiedade."
+      },
+      {
+        "letra": "D",
+        "texto": "Insônia terminal é mais sugestiva de depressão e insônia inicial mais sugestiva de ansiedade."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 86446,
+    "tags": [],
+    "enunciado": "A Síndrome da Apneia Obstrutiva do Sono é uma condição que merece destaque na avaliação pré- anestésica, uma vez que sua ocorrência está relacionada à possibilidade de ventilação difícil sob máscara. Dentre os principais fatores predisponentes associados a essa síndrome, estão os abaixo listados, EXCETO.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Índice de massa corporal > 35 kg/m²."
+      },
+      {
+        "letra": "B",
+        "texto": "Circunferência do pescoço em homens maior ou igual a 43 cm."
+      },
+      {
+        "letra": "C",
+        "texto": "Idade > 50 anos."
+      },
+      {
+        "letra": "D",
+        "texto": "Gênero feminino."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 86447,
+    "tags": [],
+    "enunciado": "Com relação a doenças respiratórias, julgue o item a seguir.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "síndrome da apneia obstrutiva do sono (SAOS) aumenta, de forma signi(cid:38)cativa, o risco de doença coronariana; insu(cid:38)ciência cardíaca (com ou sem redução da fração de ejeção); ocorrência de arritmias atriais e ventriculares; aterosclerose; doença coronariana; acidente vascular encefálico e diabetes melito."
+      },
+      {
+        "letra": "A",
+        "texto": "Certo."
+      },
+      {
+        "letra": "B",
+        "texto": "Errado."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 86448,
+    "tags": [],
+    "enunciado": "Segundo a classificação de Mallampati, podemos classificar a figura abaixo como classe:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I"
+      },
+      {
+        "letra": "B",
+        "texto": "II"
+      },
+      {
+        "letra": "C",
+        "texto": "III"
+      },
+      {
+        "letra": "D",
+        "texto": "IV"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 86449,
+    "tags": [],
+    "enunciado": "A atenção básica tem como um dos seus princípios, possibilitar o primeiro acesso das pessoas ao sistema de saúde, inclusive daquelas que demandam um cuidado em saúde mental. É de extrema importância, que o pro(cid:38)ssional médico, atuante em uma unidade básica de saúde, detenha conhecimento sobre as medicações mais comumente utilizadas na área da saúde mental. Os benzodiazepínicos são extremamente populares em termos de utilização no Brasil. Marque a alternativa que contenha um exemplo de benzodiazepínico que não possua a classificação de “perfil indutor do sono”.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Alprazolam."
+      },
+      {
+        "letra": "B",
+        "texto": "Midazolam."
+      },
+      {
+        "letra": "C",
+        "texto": "Bromazepam."
+      },
+      {
+        "letra": "D",
+        "texto": "Lorazepam."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 86450,
+    "tags": [],
+    "enunciado": "Casal chega ao ambulatório de pediatria, queixando-se de que seu (cid:38)lho, um lactente de 18 meses, tem di(cid:38)culdade de dormir desde o nascimento, a qual vem se acentuando paulatinamente. A partir do relato dos pais, é possível chegar à conclusão de que se trata de uma insônia comportamental, definida como:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "insônia primária ou psicofisiológica, resultado do comportamento dos pais no lidar com o sono do lactente"
+      },
+      {
+        "letra": "B",
+        "texto": "quadro resultante da dificuldade dos pais em lidar com crianças com comportamento oposicionista exclusivamente"
+      },
+      {
+        "letra": "C",
+        "texto": "quadro de insônia na infância com condição mórbida associada ou uso de medicamentos e alimentos que causem ruptura do sono"
+      },
+      {
+        "letra": "D",
+        "texto": "distúrbio do sono em que a criança aprende a adormecer apenas com certas condições ou associações que caracteristicamente necessitam da presença materna ou paterna, como ser balançado ou alimentado, e não desenvolve a habilidade de se autoacalmar"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 86451,
+    "tags": [],
+    "enunciado": "A respeito da medicina do sono, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O número de horas de sono ideal após os 4 anos de idade é de 8 horas, nas 24 horas."
+      },
+      {
+        "letra": "B",
+        "texto": "Crianças até os 2 anos de idade devem ter cochilos diurnos em quartos completamente isentos de luz e som."
+      },
+      {
+        "letra": "C",
+        "texto": "O adolescente tem fase de sono adiantada, devido às alterações hormonais próprias dessa idade."
+      },
+      {
+        "letra": "D",
+        "texto": "O recém-nascido dorme cerca de 17 horas nas vinte e quatro horas do dia."
+      },
+      {
+        "letra": "E",
+        "texto": "A melatonina é estimulada pela via óptica, acumulada na pineal e liberada pela manhã para induzir a vigília."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 86452,
+    "tags": [],
+    "enunciado": "Paciente sem qualquer histórico clínico pregresso e sem relato de qualquer medicação em uso, é submetido a exame de monitorização ambulatorial da pressão arterial, após aferição pressórica isolada de 140 x 80 mmHg em consultório. Laudo do exame mostra comportamento normal da pressão arterial durante a vigília e atenuação do descenso noturno. Dentre as opções abaixo, esse achado pode estar relacionado mais PROVAVELMENTE a:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hiperaldosteronismo primário."
+      },
+      {
+        "letra": "B",
+        "texto": "Hipertensão mascarada."
+      },
+      {
+        "letra": "C",
+        "texto": "Uso de benzodiazepínicos para indução de sono."
+      },
+      {
+        "letra": "D",
+        "texto": "Apneia obstrutiva do sono."
+      },
+      {
+        "letra": "E",
+        "texto": "Dislipidemia."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 86453,
+    "tags": [],
+    "enunciado": "Podemos afirmar que o paciente que possui apenas palato duro visível, possui Mallampati:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I"
+      },
+      {
+        "letra": "B",
+        "texto": "II"
+      },
+      {
+        "letra": "C",
+        "texto": "III"
+      },
+      {
+        "letra": "D",
+        "texto": "IV"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 86454,
+    "tags": [],
+    "enunciado": "CPAP Aparelho de Pressão Positiva Contínua na Via Aérea Homem de 42 anos, apresenta queixa de roncos e sonolência diurna, com facilidade para cochilar durante o dia. Portador de síndrome metabólica, em programação de cirurgia bariátrica. Diante da possibilidade diagnóstica de Síndrome da Apneia Obstrutiva do Sono (SAOS), é correto afirmar que o paciente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "tem indicação de realizar polissonografia noturna diagnóstica e deve usar o CPAP ao menos 2 meses antes da cirurgia."
+      },
+      {
+        "letra": "B",
+        "texto": "deve ser submetido a polissonografia diurna (cochilo) para confirmação diagnóstica e iniciar tratamento com CPAP à noite."
+      },
+      {
+        "letra": "C",
+        "texto": "deve realizar a polissonografia diagnóstica após a cirurgia, no momento de perda de peso máxima."
+      },
+      {
+        "letra": "D",
+        "texto": "tem indicação de uso de CPAP em 14 cm H2O no pré-operatório (48 horas antes da cirurgia)."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 86455,
+    "tags": [],
+    "enunciado": "Os pais de um menino de 3 anos e 6 meses estão preocupados, pois seu (cid:38)lho está tendo pesadelos noturnos. Obtendo uma história mais detalhada, você chega à conclusão de que a criança apresenta terror noturno. Qual das seguintes alternativas suporta melhor o diagnóstico de terror noturno e não de pesadelos?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A criança responde à tentativa dos pais de confortá-la durante o evento."
+      },
+      {
+        "letra": "B",
+        "texto": "A criança não se lembra do ocorrido no dia seguinte."
+      },
+      {
+        "letra": "C",
+        "texto": "A criança torna-se alerta e orientada imediatamente após o evento."
+      },
+      {
+        "letra": "D",
+        "texto": "Pesadelos tendem a diminuir de frequência após os 3 anos de idade."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 86456,
+    "tags": [],
+    "enunciado": "Faça a correlação entre a situação clínica e a conduta recomendada. Situação clínica: pacientes idosos, com quadro de deficit cognitivo. 1. Primeiro paciente: evolução de 1 ano, apresentando Atividades de Vida Diárias (AVDs) anormais e exame de mini exame do estado mental (mini-mental) 12, para escolaridade de 8 anos. HPP: sem doenças prévias e em uso de Ginkgo biloba há 3 meses, indicado por um médico do serviço básico de saúde. Exames laboratoriais e TC de crânio normais; 2. Segundo paciente: evolução de 9 meses, apresentando AVDs anormais e exame de mini-mental 28, para escolaridade de 8 anos. Apresenta-se com labilidade emocional e anedonia. Exames laboratoriais e TC de crânio normais; 3. Terceiro paciente: evolução de 10 dias, com de(cid:38)cit de atenção, desorientação importante, alteração do ciclo sono vigília. AVDs anormais. Foi impossível aplicar o mini-mental devido ao de(cid:38)cit de atenção. Exames laboratoriais: hemograma: Hb = 14; VCM = 87; leucócitos = 12.000; plaquetas = 250.000; urina tipo1 pH = 7.0; densidade = 1026; leucócitos = 500.000; hemácias = 15.000; bacteriúria intensa; 4. Quarto paciente: evolução de 9 meses, após uso de benzodiazepínico devido à insônia, apresentando AVDs normais e mini-mental 26, para escolaridade de 8 anos. Exames laboratoriais e TC de crânio normais. Condutas recomendadas: a. Suspender o medicamento em uso, devido ao deficit cognitivo; b. Tratar especificamente a causa desencadeante, por se tratar de um quadro de delirium; c. Iniciar com anticolinesterásico, devido ao quadro sugestivo de Alzheimer; d. Iniciar o tratamento com citalopram, devido ao quadro sugestivo de depressão. Assinale a alternativa que apresenta as correlações CORRETAS:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1/b; 2/c; 3/d; 4/a."
+      },
+      {
+        "letra": "B",
+        "texto": "1/d; 2/c; 3/a; 4/b"
+      },
+      {
+        "letra": "C",
+        "texto": "1/c; 2/d; 3/b; 4/a."
+      },
+      {
+        "letra": "D",
+        "texto": "1/c; 2/d; 3/a; 4/b."
+      },
+      {
+        "letra": "E",
+        "texto": "1/a; 2/d; 3/b; 4/c."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 86457,
+    "tags": [],
+    "enunciado": "Uma senhora de 58 anos de idade vem à Unidade de Saúde da Família para uma consulta de rotina e queixa- se que sempre teve problemas para dormir e que isto tem piorado muito nos últimos anos. Está mais dispersa, com di(cid:38)culdades de se concentrar e está (cid:38)cando muito sonolenta durante o dia. A paciente é saudável, não apresenta sintomas ansiosos ou depressivos. Você então solicita que a paciente faça um diário do sono e siga algumas recomendações básicas para uma boa higiene do sono. Dois meses depois, ela retorna e queixa-se que apesar de atender às recomendações sugeridas, ainda mantém o quadro de insônia. Você opta por iniciar tratamento medicamentoso por um curto período de tempo. Dentre as possibilidades apresentadas, qual a melhor opção terapêutica?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Amitriptilina 25 mg."
+      },
+      {
+        "letra": "B",
+        "texto": "Prometazina 25 mg."
+      },
+      {
+        "letra": "C",
+        "texto": "Melatonina 5 mg."
+      },
+      {
+        "letra": "D",
+        "texto": "Zolpidem 10 mg."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 86458,
+    "tags": [],
+    "enunciado": "Dentre os fatores clínicos predisponentes, as doenças cardiovasculares destacam-se a presença de Apneia Obstrutiva do Sono (AOS). Marque a opção que NÃO é compatível com essa situação clínica.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A influência da AOS parece impactar significativamente na abordagem terapêutica dos pacientes portadores de fibrilação atrial."
+      },
+      {
+        "letra": "B",
+        "texto": "A AOS é caracterizada pela obstrução, completa ou parcial, recorrente das vias aérea superiores durante o sono, resultando em períodos de apneia, desnaturação de oxiemoglobina e despertares noturnos frequentes."
+      },
+      {
+        "letra": "C",
+        "texto": "Os mecanismos relacionados à anormalidade do sono e ao dano cardiovascular que merecem destaque são a hipóxia intermitente, despertares frequentes e alterações na pressão intratorácica."
+      },
+      {
+        "letra": "D",
+        "texto": "Alterações da AOS acabam por desencadear hiperatividade do sistema nervoso simpático, disfunção endotelial e inflamação."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 86459,
+    "tags": [],
+    "enunciado": "Na classificação de Mallampati, a visualização da úvula, palato mole, palato duro e pilares, é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I."
+      },
+      {
+        "letra": "B",
+        "texto": "II."
+      },
+      {
+        "letra": "C",
+        "texto": "III."
+      },
+      {
+        "letra": "D",
+        "texto": "C"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 86460,
+    "tags": [],
+    "enunciado": "Uma paciente de 58 anos procura o médico com queixas de sonolência excessiva. Refere que cai no sono facilmente durante atividades, como assistir televisão e ler. Acrescentou que, mais recentemente, isso vem comprometendo suas atividades pro(cid:38)ssionais. Ao exame físico, observa-se uma paciente obesa (IMC 38 kg/m²), com PA de 150 x 90 mmHg, sem nenhuma outra anormalidade. Traz exames laboratoriais que descartam disfunção tireoidiana, anemia e distúrbios eletrolíticos. Qual dos exames abaixo seria mais útil na elucidação diagnóstica desse caso?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Dosagem de vitamina B12."
+      },
+      {
+        "letra": "B",
+        "texto": "Ressonância magnética de encéfalo."
+      },
+      {
+        "letra": "C",
+        "texto": "Gasimetria arterial."
+      },
+      {
+        "letra": "D",
+        "texto": "Hemoglobina glicada."
+      },
+      {
+        "letra": "E",
+        "texto": "Polissonografia."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 86461,
+    "tags": [],
+    "enunciado": "Em relação à apneia obstrutiva do sono, assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A hipertensão arterial sistêmica é rara."
+      },
+      {
+        "letra": "B",
+        "texto": "A maioria dos pacientes é mulher de idade avançada com índice de massa corpórea pouco elevado."
+      },
+      {
+        "letra": "C",
+        "texto": "Os pacientes podem apresentar fadiga, sonolênica diurna, cefaleia, depressão e deterioração intelectual."
+      },
+      {
+        "letra": "D",
+        "texto": "Sinais de hipertensão pulmonar com cor pulmonale estão presentes nas fases iniciais da doença."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 86462,
+    "tags": [],
+    "enunciado": "Tratamento da insuficiência respiratória crônica",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "apneia do sono é uma doença que frequentemente faz parte de síndromes clínicas incluindo várias doenças. A associação com obesidade e obstrução de vias aéreas pode causas hipoventilação alveolar, que compreende as seguintes alterações:"
+      },
+      {
+        "letra": "A",
+        "texto": "PaCO2 > 45 mmHg e PaO2 < 70mmHg."
+      },
+      {
+        "letra": "B",
+        "texto": "Valor de VEF1 < 60% e pico de fluxo < 30%."
+      },
+      {
+        "letra": "C",
+        "texto": "SatO2 < 90% e PH< 7,30."
+      },
+      {
+        "letra": "D",
+        "texto": "PH > 7,30 e PaO2 < 50 mmHg."
+      },
+      {
+        "letra": "E",
+        "texto": "SatO2 < 90% e VEF1 < 60%."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 86463,
+    "tags": [],
+    "enunciado": "Durante a consulta pediátrica, a mãe de um adolescente de 13 anos refere que ele tem acordado durante a madrugada emitindo gritos, apresentando sudorese e choro de início abrupto, por cerca de dois minutos. Apesar de ser consolado, não se acalma. Na maioria das vezes, dorme novamente como se nada tivesse acontecido, não se lembrando do fato ao despertar. Qual é o transtorno do sono caracterizado pela descrição apresentada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Dissonia."
+      },
+      {
+        "letra": "B",
+        "texto": "Despertar confusional."
+      },
+      {
+        "letra": "C",
+        "texto": "Sonambulismo."
+      },
+      {
+        "letra": "D",
+        "texto": "Terror noturno."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 86464,
+    "tags": [],
+    "enunciado": "Julgue o próximo item, relativo à síndrome de apneia obstrutiva do sono (SAOS). As variáveis com maior valor preditivo positivo para diagnóstico de SAOS são circunferência de pescoço, roncos e índice de massa corporal (IMC).",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Certo."
+      },
+      {
+        "letra": "B",
+        "texto": "Errado."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 86465,
+    "tags": [],
+    "enunciado": "José, de cinquenta e cinco anos de idade, foi levado pelo SAMU ao pronto-socorro do Hospital de Base do Distrito Federal por apresentar sangramento nasal decorrente de um acidente de carro. Segundo um transeunte que testemunhou o fato, José dirigia o veículo a aproximadamente 40 km/h quando colidiu com um hidrante na descida de uma entrequadra do Plano Piloto. No hospital, o paciente não se lembrava de nada. Com base no caso clínico apresentado, julgue o seguinte item. Após a primeira avaliação e a contenção do sangramento, a hipótese diagnóstica a ser levantada pelo médico é a de que o paciente seja portador de síndrome de apneia obstrutiva do sono (SAOS), convulsão e depressão.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Certo."
+      },
+      {
+        "letra": "B",
+        "texto": "Errado."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 86466,
+    "tags": [],
+    "enunciado": "Um paciente de quarenta e oito anos de idade procurou atendimento médico queixando-se de sonolência diurna excessiva, ronco alto, pausas respiratórias testemunhadas, engasgos e sono agitado. O exame físico revelou pressão arterial de 150 mmHg x 100 mmHg; frequência cardíaca de 85 bpm; 1,70 m de altura; peso corporal de 118 kg; e palato ogival, sem outras alterações. O exame de polissonogra(cid:38)a mostrou índice de apneia-hipopneia por hora (IAH) igual a 25 eventos/hora. Tendo como referência esse caso clínico, julgue o item que se segue. O principal diagnóstico para o paciente em questão é síndrome de apneia obstrutiva do sono (SAOS).",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Certo."
+      },
+      {
+        "letra": "B",
+        "texto": "Errado."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 86467,
+    "tags": [],
+    "enunciado": "Um paciente de quarenta e oito anos de idade procurou atendimento médico queixando-se de sonolência diurna excessiva, ronco alto, pausas respiratórias testemunhadas, engasgos e sono agitado. O exame físico revelou pressão arterial de 150 mmHg x 100 mmHg; frequência cardíaca de 85 bpm; 1,70 m de altura; peso corporal de 118 kg; e palato ogival, sem outras alterações. O exame de polissonogra(cid:38)a mostrou Índice de Apneia-hipopneia por Hora (IAH) igual a 25 eventos/hora. Tendo como referência esse caso clínico, julgue o item que se segue. No caso em consideração, recomenda-se, como principal tratamento, a realização de pressão positiva contínua nas vias respiratórias.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Certo."
+      },
+      {
+        "letra": "B",
+        "texto": "Errado."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 86468,
+    "tags": [],
+    "enunciado": "Um paciente de quarenta e oito anos de idade procurou atendimento médico queixando-se de sonolência diurna excessiva, ronco alto, pausas respiratórias testemunhadas, engasgos e sono agitado. O exame físico revelou pressão arterial de 150 mmHg x 100 mmHg; frequência cardíaca de 85 bpm; 1,70 m de altura; peso corporal de 118 kg; e palato ogival, sem outras alterações. O exame de polissonogra(cid:38)a mostrou índice de apneia-hipopneia por hora (IAH) igual a 25 eventos/hora. Tendo como referência esse caso clínico, julgue o item que se segue. No caso em apreço, a pressão arterial elevada decorre da inibição absoluta da atividade do sistema nervoso parassimpático (vagal) do paciente.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Certo."
+      },
+      {
+        "letra": "B",
+        "texto": "Errado."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 86469,
+    "tags": [],
+    "enunciado": "No mundo de hoje com tantas tensões e estresses (trânsito, violência, dinheiro, trabalho), temos em torno de 50% das consultas médicas apresentando queixa de insônia ou inquietações para realizações de atividades. Mulher de 50 anos chega com queixa de insônia há 2 semanas. Segundo ela, demora a \"pegar no sono\", desperta no meio da madrugada e não dorme mais. Qual conduta a ser tomada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Encaminhar para o neurologista."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente prescrever benzodiazepínicos."
+      },
+      {
+        "letra": "C",
+        "texto": "Orientar o uso somente de fitoterápicos."
+      },
+      {
+        "letra": "D",
+        "texto": "Anamnese, exames complementares se necessários, orientações quanto a atividade física, higiene do sono, apoio psicológico e retorno para acompanhamento."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 86470,
+    "tags": [],
+    "enunciado": "ADAPTADA O teste de Mallampati visa prever e prevenir possíveis complicações durante a intubação de um paciente pela avaliação da cavidade oral, em posição sentada, boca totalmente aberta e língua totalmente protraída. Conforme a classi(cid:38)cação proposta, um paciente, em que se é possível observar palato mole, palato duro e a maior parte da úvula, pode ser classificado como:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Classe 0."
+      },
+      {
+        "letra": "B",
+        "texto": "Classe I."
+      },
+      {
+        "letra": "C",
+        "texto": "Classe II."
+      },
+      {
+        "letra": "D",
+        "texto": "Classe III."
+      },
+      {
+        "letra": "E",
+        "texto": "Classe IV."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 86471,
+    "tags": [],
+    "enunciado": "Durante o sono REM, todos os seguintes sintomas são encontrados, exceto",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "frequência cardíaca variável ou aumentada."
+      },
+      {
+        "letra": "B",
+        "texto": "pressão sanguínea variável ou aumentada."
+      },
+      {
+        "letra": "C",
+        "texto": "ereções penianas."
+      },
+      {
+        "letra": "D",
+        "texto": "ausência de sonhos"
+      },
+      {
+        "letra": "E",
+        "texto": "tônus musculoesquelético diminuído."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 86472,
+    "tags": [],
+    "enunciado": "Fisiologia do Sono Normal Com relação às evidências encontradas nos estudos sobre o sono de adultos, analise as seguintes afirmativas: I. A média maior do que nove horas diárias de duração do sono de uma pessoa está associada com longevidade aumentada. II. Alterações no sono estão associados a risco aumentado de transtornos psiquiátricos. III. A privação do sono está associada a prejuízo no metabolismo da glicose, na relativa insensibilidade à insulina e na alteração da função imunológica. Está/estão correta(s) a(s) afirmativa(s):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "II, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "III, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "II e III, apenas."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II e III."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 86473,
+    "tags": [],
+    "enunciado": "Pré-escolar, 18 meses de idade, sexo masculino, é trazido à consulta, pois sua mãe está preocupada com o sono da criança. Está apresentando, frequentemente, durante a noite, gritos e choro contínuo súbito, inconsolável, não relacionado com fome, \"parecendo não reconhecer os pais e não respondendo ao chamado\". O episódio tem duração de até 15 minutos e depois a criança volta a dormir. Na manhã seguinte, acorda bem e não recorda o ocorrido. A manifestação é compatível com:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cólicas."
+      },
+      {
+        "letra": "B",
+        "texto": "Pesadelo."
+      },
+      {
+        "letra": "C",
+        "texto": "Epilepsia."
+      },
+      {
+        "letra": "D",
+        "texto": "Terror noturno."
+      },
+      {
+        "letra": "E",
+        "texto": "Refluxo gastroesofágico."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 86474,
+    "tags": [],
+    "enunciado": "A classi(cid:38)cação de Mallampati relaciona o tamanho da língua com o tamanho da faringe. O teste é conduzido com o paciente sentado, com a cabeça mantida em posição neutra, a boca bem aberta e a língua projetada ao máximo para fora. A classi(cid:38)cação subsequente é designada de acordo com as estruturas da faringe que estejam visíveis. Um paciente em que se identi(cid:38)ca apenas o palato mole e a base da úvula, é classi(cid:38)cado como Mallampati Classe:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I."
+      },
+      {
+        "letra": "B",
+        "texto": "II."
+      },
+      {
+        "letra": "C",
+        "texto": "III."
+      },
+      {
+        "letra": "D",
+        "texto": "IV."
+      },
+      {
+        "letra": "E",
+        "texto": "V."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 86475,
+    "tags": [],
+    "enunciado": "Você está avaliando em domicílio um paciente masculino, obeso mórbido, que está imobilizado após sofrer fratura de vértebra cervical devido a acidente de trânsito em que dormiu ao volante. Refere que vem tendo sonolência excessiva durante o dia, lapsos de memória, labilidade emocional. Esposa ainda relata roncos frequentes com pausas respiratórias durante o sono. Nega outras comorbidades, uso de medicações ou drogas ilícitas. O diagnóstico mais provável e o exame inicial mais apropriado neste momento são, respectivamente,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Depressão e escala de Hamilton."
+      },
+      {
+        "letra": "B",
+        "texto": "Síndrome demencial e RNM de crânio."
+      },
+      {
+        "letra": "C",
+        "texto": "Síndrome da apneia e hipopneia obstrutiva do sono e polissonografia noturna."
+      },
+      {
+        "letra": "D",
+        "texto": "Síndrome da apneia e hipopneia obstrutiva do sono e polissonografia diurna."
+      },
+      {
+        "letra": "E",
+        "texto": "Arritmia e Holter."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 86476,
+    "tags": [],
+    "enunciado": "Um paciente de quarenta anos de idade procurou atendimento médico queixando-se de sonolência diurna que, de acordo com o relato, estaria mais intensa nos últimos seis meses. O paciente relatou que, apesar de dormir cerca de oito horas por noite, tem acordado com a sensação de não estar de todo descansado. A esposa do paciente informou que ele ronca muito durante a noite e que, em alguns momentos, para de respirar e acorda bruscamente. No exame físico, o paciente se apresentou sem alteração digna de nota. A respeito desse caso clínico, julgue o próximo item.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "realização de um exame de polissonografia faz-se desnecessária caso esse paciente não seja obeso."
+      },
+      {
+        "letra": "A",
+        "texto": "Certo."
+      },
+      {
+        "letra": "B",
+        "texto": "Errado."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 86477,
+    "tags": [],
+    "enunciado": "Um paciente de quarenta anos de idade procurou atendimento médico queixando-se de sonolência diurna que, de acordo com o relato, estaria mais intensa nos últimos seis meses. O paciente relatou que, apesar de dormir cerca de oito horas por noite, tem acordado com a sensação de não estar de todo descansado. A esposa do paciente informou que ele ronca muito durante a noite e que, em alguns momentos, para de respirar e acorda bruscamente. No exame físico, o paciente se apresentou sem alteração digna de nota. A respeito desse caso clínico, julgue o próximo item.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "utilização da escala de sonolência de Epworth mostra-se dispensável nessa situação, pois a sonolência excessiva apresentada pelo paciente ocorre durante o dia."
+      },
+      {
+        "letra": "A",
+        "texto": "Certo."
+      },
+      {
+        "letra": "B",
+        "texto": "Errado."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 86478,
+    "tags": [],
+    "enunciado": "Um paciente de quarenta anos de idade procurou atendimento médico queixando-se de sonolência diurna que, de acordo com o relato, estaria mais intensa nos últimos seis meses. O paciente relatou que, apesar de dormir cerca de oito horas por noite, tem acordado com a sensação de não estar de todo descansado. A esposa do paciente informou que ele ronca muito durante a noite e que, em alguns momentos, pára de respirar e acorda bruscamente. No exame físico, o paciente se apresentou sem alteração digna de nota. A respeito desse caso clínico, julgue o próximo item:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "possibilidade de o paciente, nesse caso, apresentar hipertro(cid:38)a de amígdalas e (ou) da adenoide deve ser investigada."
+      },
+      {
+        "letra": "A",
+        "texto": "Certo."
+      },
+      {
+        "letra": "B",
+        "texto": "Errado."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 86479,
+    "tags": [],
+    "enunciado": "Em se tratando da apneia obstrutiva do sono, assinale a alternativa ERRADA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nos casos graves, a sonolência diurna acentuada favorece a ocorrência de acidentes automobilísticos"
+      },
+      {
+        "letra": "B",
+        "texto": "Em face da queda da saturação periférica de oxigênio no período noturno, pode ocorrer eritrocitose secundária, a exemplo do que ocorre quando da exposição a grandes altitudes"
+      },
+      {
+        "letra": "C",
+        "texto": "O tratamento de casos graves com CPAP (Continuous Positive Airway Pressure) tem sido substituído, ultimamente, pela uvulopalatofaringoplastia que reduz de forma mais consistente os episódios de apneia e hipopneia"
+      },
+      {
+        "letra": "D",
+        "texto": "A ingestão de álcool e/ou sedativos no período noturno pode agravar o quadro clínico, em especial nos obesos que são particulamente suscetíveis a desenvolver o quadro"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 86480,
+    "tags": [],
+    "enunciado": "São associadas ao aumento de risco para síndrome da apneia obstrutiva do sono as seguintes condições:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "gênero feminino, sendentarismo, microglossia."
+      },
+      {
+        "letra": "B",
+        "texto": "gênero masculino, diabetes mellitus, acromegalia."
+      },
+      {
+        "letra": "C",
+        "texto": "tabagismo, prognatismo, macroglossia."
+      },
+      {
+        "letra": "D",
+        "texto": "gênero masculino, obesidade, hipotireoidismo."
+      },
+      {
+        "letra": "E",
+        "texto": "hipertireoidismo, síndrome de ovários policísticos e retrognatismo."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 86481,
+    "tags": [],
+    "enunciado": "Mulher com 35 anos refere história de insônia e sensações desagradáveis nas panturrilhas que ocorrem quando está sentada ou se deita. Essas sensações são temporariamente aliviadas por atividade física. Quando está dormindo, seu marido observa a presença de movimentos frequentes em (cid:93)exão dos membros inferiores. Em relação a esta doença, está INCORRETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Agentes antidopaminérgicos podem ser usadas no tratamento."
+      },
+      {
+        "letra": "B",
+        "texto": "Gravidez, insuficiência renal crônica e neuropatia periférica são fatores de risco para esta doença."
+      },
+      {
+        "letra": "C",
+        "texto": "Recomenda-se investigação de alterações do metabolismo de ferro."
+      },
+      {
+        "letra": "D",
+        "texto": "Cabergolina, pergolida e levodopa são drogas de primeira escolha no tratamento."
+      },
+      {
+        "letra": "E",
+        "texto": "Medidas para higiene do sono podem ser úteis no tratamento."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 86482,
+    "tags": [],
+    "enunciado": "Paciente de 48 anos, motorista de ônibus, procurou unidade básica de saúde com queixas de fadiga, hipersonolência diurna relatando que a esposa se queixa do seu ronco à noite que não a deixa dormir. Ao exame físico: índice de massa corpórea de 32 kg/m², circunferência do pescoço de 41cm, PA:145x95mmHg, Pulso:80 ppm, f:16 irpm. Auscultas cardíaca e pulmonar dentro da normalidade. Traz hemograma, glicemia e exames da função da tireoide dentro da normalidade. Qual exame deve ser solicitado para con(cid:38)rmação do provável diagnóstico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Monitorização cardiorrespiratória de noite inteira."
+      },
+      {
+        "letra": "B",
+        "texto": "Endoscopia nasal com manobra de Müller."
+      },
+      {
+        "letra": "C",
+        "texto": "Polissonografia de noite inteira."
+      },
+      {
+        "letra": "D",
+        "texto": "Polissonografia diurna (nap study)."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 86483,
+    "tags": [],
+    "enunciado": "Mulher, 36 anos de idade, vem à consulta com endocrinologista por causa da obesidade, presente desde a adolescência. Diz que come muito, principalmente carboidratos. Já tentou todo tipo de dieta e fez uso de medicações com prescrição médica, sem sucesso. No interrogatório sistemático, queixa-se de sonolência diurna inexplicada e desperta frequentemente à noite. Nega etilismo ou tabagismo. Não faz exercícios porque sente muitas dores em joelhos e tornozelos. Ao exame físico, apresenta bom estado geral. Altura 1,50m, peso 85 kg, circunferência abdominal 89 cm, PA: 150 X 100mmHg, FC: 80 bpm, FR:14 irpm. Apresenta acantose nigricans em região cervical e crepitações em joelhos. Demais exames sem alterações signi(cid:38)cativas. Exames laboratoriais solicitados pelo clínico geral apresentam glicemia de jejum: 205 mg/dl, triglicérides: 100 mg/dl, CT: 152 mg/dl, HDL: 55 mg/dl, LDL: 77 mg/dl, Hb: 13 g/dl, Ur: 23 mg/dl, Cr: 0,69 mg/dl, AST: 18 U/l, ATL: 20 U/l, FA: 59 U/l, GGT: 37 U/l, BT: 0,34 mg/dl, TSH 1,0 mUI/l. Frente a esse caso, indique o principal exame a ser realizado para investigação da sonolência e o achado necessário para diagnóstico do distúrbio mais provável. Essa questão possui comentário do professor no site 4000006646",
+    "alternativas": [],
+    "resposta_correta": null
+  },
+  {
+    "id": 86484,
+    "tags": [],
+    "enunciado": "Os pais de um menino de 8 anos estão preocupados porque durante as últimas 2 semanas a criança tem acordado durante a noite. O menino acorda em um estado assustado, confuso e desorientado, apresenta rubor facial e sudorese profusa durante os episódios. Relatam que a criança retorna ao sono em alguns minutos e não tem lembrança do episódio no dia seguinte. Qual é a causa MAIS provável da perturbação do sono dessa criança?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Terror noturno."
+      },
+      {
+        "letra": "B",
+        "texto": "Pesadelo."
+      },
+      {
+        "letra": "C",
+        "texto": "Depressão."
+      },
+      {
+        "letra": "D",
+        "texto": "Ansiedade de separação."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 86485,
+    "tags": [],
+    "enunciado": "Dentre as doenças do sono merece destaque a apneia obstrutiva do sono, por sua frequência, impacto na qualidade de vida e mortalidade associada. Assinale a alternativa verdadeira em relação à doença:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não há associação com desordens metabólicas e cardiovasculares."
+      },
+      {
+        "letra": "B",
+        "texto": "O uso de pressão positiva noturna está indicada em todos pacientes com roncointenso."
+      },
+      {
+        "letra": "C",
+        "texto": "A sonolência diurna está relacionada com o comprometimento das fases superficiaisdo sono."
+      },
+      {
+        "letra": "D",
+        "texto": "O grau de hipoventilação noturna, avaliada pelo aumento da hipercapnia durante osono se correlaciona com maior gravidade."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 86486,
+    "tags": [],
+    "enunciado": "São fatores anatômicos que predispõem à apneia obstrutiva do sono e hipoventilação todas as possibilidades citadas abaixo, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Estenose coanal / atresia"
+      },
+      {
+        "letra": "B",
+        "texto": "Micrognatia / retrognatia"
+      },
+      {
+        "letra": "C",
+        "texto": "Enfisema lobar congênito"
+      },
+      {
+        "letra": "D",
+        "texto": "Higroma cístico"
+      },
+      {
+        "letra": "E",
+        "texto": "Acondroplasia"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 86487,
+    "tags": [],
+    "enunciado": "Em relação à apneia obstrutiva do sono, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Associa-se com a diminuição de orexinas no SNC."
+      },
+      {
+        "letra": "B",
+        "texto": "São comuns à cataplexia e isquemias cerebrais."
+      },
+      {
+        "letra": "C",
+        "texto": "Os roncos são fenômenos raros."
+      },
+      {
+        "letra": "D",
+        "texto": "Ocorre em pessoas magras."
+      },
+      {
+        "letra": "E",
+        "texto": "Pode levar à hipertensão arterial refratária."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 86488,
+    "tags": [],
+    "enunciado": "“Doutor, eu vim pegar minha receita de RevotrilR (Clonazepan) ”, disse dona Nenzinha, 65 anos, ao sentar na cadeira do seu consultório. Ao ser indagada sobre como e por que usa tal medicação, ela responde que toma “de vez em quando”, mais ou menos duas vezes por semana, um comprimido de 0,5 mg, pois em geral tem di(cid:38)culdade de pegar no sono quando deita na cama para dormir. À anamnese e exame físico, não há outros achados relevantes, além do relato de insônia. Assinale abaixo a alternativa que representa a conduta mais adequada a ser tomada neste caso:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Manter a prescrição de clonazepan, para evitar síndrome de abstinência."
+      },
+      {
+        "letra": "B",
+        "texto": "Orientar higiene do sono."
+      },
+      {
+        "letra": "C",
+        "texto": "Trocar o clonazepan pela risperidona em baixa dose."
+      },
+      {
+        "letra": "D",
+        "texto": "Trocar o clonazepan pelo zolpidem."
+      },
+      {
+        "letra": "E",
+        "texto": "Trocar o clonazepan por um benzodiazepínico de meia-vida mais longa, como o nitrazepan."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 86489,
+    "tags": [],
+    "enunciado": "Pacientes com distúrbios de hipoventilação crônica frequentemente se queixam de cefaleia ao despertar. Qual é a causa desse sintoma?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Despertar do sono."
+      },
+      {
+        "letra": "B",
+        "texto": "Vasodilatação cerebral."
+      },
+      {
+        "letra": "C",
+        "texto": "Vasoconstricção cerebral."
+      },
+      {
+        "letra": "D",
+        "texto": "Policitemia."
+      },
+      {
+        "letra": "E",
+        "texto": "Microaspiração e tosse noturnas."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 86490,
+    "tags": [],
+    "enunciado": "Constitui fator de risco para a ocorrência da síndrome da apneia obstrutiva do sono:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "obesidade."
+      },
+      {
+        "letra": "B",
+        "texto": "diabetes mellitus."
+      },
+      {
+        "letra": "C",
+        "texto": "bronquiectasia."
+      },
+      {
+        "letra": "D",
+        "texto": "asma brônquica. 4000002810"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 86491,
+    "tags": [],
+    "enunciado": "Doença caracterizada por dores musculoesqueléticas crônicas difusas, mal de(cid:38)nidas, geralmente acompanhada de sono não reparador e fadiga matinal, muito prevalente no sexo feminino, considerada como diagnóstico de exclusão, e que costuma responder à terapêutica a base de alguns antidepressivos e exercícios aeróbicos. Qual das alternativas é a correspondente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Polimiosite."
+      },
+      {
+        "letra": "B",
+        "texto": "Fibromialgia."
+      },
+      {
+        "letra": "C",
+        "texto": "Polimialgia reumática."
+      },
+      {
+        "letra": "D",
+        "texto": "Insônia terciária."
+      },
+      {
+        "letra": "E",
+        "texto": "Piomiosite tropical."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 86492,
+    "tags": [],
+    "enunciado": "Paciente obeso de 140 kg de peso, vai realizar cirurgia de obesidade por videolaparoscopia. No pré- operatório, foi avaliado segundo a classi(cid:38)cação de MALLAMPATI, para ver o grau de di(cid:38)culdade na intubação. Qual manobra o médico deve fazer no exame físico do paciente para avaliar a possibilidade de uma intubação eficaz?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Exame da articulação atlantoaxial."
+      },
+      {
+        "letra": "B",
+        "texto": "Exame da tireoides."
+      },
+      {
+        "letra": "C",
+        "texto": "Exame da abertura da boca com saída da língua."
+      },
+      {
+        "letra": "D",
+        "texto": "Exame físico das fossas nasais."
+      },
+      {
+        "letra": "E",
+        "texto": "Exame físico do tórax."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 86493,
+    "tags": [],
+    "enunciado": "O pediatra atende uma criança de 4 anos, (cid:38)lha de pais em con(cid:93)ito familiar. A história é a seguinte: há 2 meses, nas primeiras horas após dormir, a criança senta-se na cama com fácies de pavor, agitação, gritos, gestos descoordenados, com sudorese, taquicardia, midríase. Não se consegue consolar a criança nesse momento, e, em 1 a 2 minutos, volta a dormir; no dia seguinte, ela passa bem e não se lembra do ocorrido. Assinale a hipótese diagnóstica desse caso.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Terror noturno."
+      },
+      {
+        "letra": "B",
+        "texto": "Pesadelo."
+      },
+      {
+        "letra": "C",
+        "texto": "Epilepsia."
+      },
+      {
+        "letra": "D",
+        "texto": "Mioclonia hípnica."
+      },
+      {
+        "letra": "E",
+        "texto": "Síndrome de Munchausen."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 86494,
+    "tags": [],
+    "enunciado": "Em que fase do sono a propensão a episódios de sonambulismo e terror noturno é maior?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fase 1."
+      },
+      {
+        "letra": "B",
+        "texto": "Fase 2."
+      },
+      {
+        "letra": "C",
+        "texto": "Fase de ondas lentas."
+      },
+      {
+        "letra": "D",
+        "texto": "Fase de movimentos rápidos (REM)."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 86495,
+    "tags": [],
+    "enunciado": "Homem, 38 anos, pedreiro, branco, é tabagista de 1 maço por dia há 20 anos e consome 2 latas de cerveja por dia. HMA: Procurou atendimento porque sua esposa se queixa de seus roncos durante o sono há 6 anos. Nega diabetes. EF: BEG, eupneico, FR = 20 ipm, FC = 87 bpm, PA = 120/78 mmHg, IMC = 29 Kg/m2 e murmúrio vesicular presente bilateralmente sem ruídos adventícios. Ausculta cardíaca normal. Polissonogra(cid:38)a: índice de apneias-hipopneias= 4,8 eventos/hora (Valor normal ≤ a 5 eventos/hora) e tempo total com saturação de O2 abaixo de 90% = 4 minutos. A melhor opção terapêutica para este paciente é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pressão positiva nas vias aéreas (CPAP)."
+      },
+      {
+        "letra": "B",
+        "texto": "Cirurgia de uvulopalatofaringoplastia."
+      },
+      {
+        "letra": "C",
+        "texto": "Pressão em 2 níveis nas vias aéreas (BIPAP)."
+      },
+      {
+        "letra": "D",
+        "texto": "Medidas comportamentais e perda de peso."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 86496,
+    "tags": [],
+    "enunciado": "Masculino, 50 anos, IMC = 32 kg/m2. Queixa-se de sonolência excessiva diurna. Polissonogra(cid:38)a: índice de apneia/hipopneia: 60/hora, com queda de saturação de > 10%. Qual a conduta mais adequada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Redução peso e CPAP."
+      },
+      {
+        "letra": "B",
+        "texto": "Redução de peso e uvulo faringo palatoplastia."
+      },
+      {
+        "letra": "C",
+        "texto": "Redução de peso e uso de metilfenidato."
+      },
+      {
+        "letra": "D",
+        "texto": "Benzodiazepínicos de curta duração e redução de peso."
+      },
+      {
+        "letra": "E",
+        "texto": "Prótese oral e metilfenidato."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 86497,
+    "tags": [],
+    "enunciado": "Qual alternativa é a terapia mais definitiva para apneia obstrutiva do sono?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Traqueostomia"
+      },
+      {
+        "letra": "B",
+        "texto": "Sistema de Pressão positiva contínua das vias aéreas (CPAP)"
+      },
+      {
+        "letra": "C",
+        "texto": "Redução de peso"
+      },
+      {
+        "letra": "D",
+        "texto": "Uvulopalatofaringoplastia (UPPP)"
+      },
+      {
+        "letra": "E",
+        "texto": "Antidepressivo tricíclico"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 86498,
+    "tags": [],
+    "enunciado": "Homem de 50 anos, obeso, queixa-se de hipersonolência diurna e fadiga. Um estudo polissonográ(cid:38)co detectou episódios de cessação da respiração com duração entre 15 a 25 segundos, cerca de 35 episódios/hora com dessaturação (SpO2<88%) e manutenção do esforço respiratório durante os mesmos. Qual dentre as intervenções abaixo tem maior chance de sucesso terapêutico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cirurgia redutora do estômago."
+      },
+      {
+        "letra": "B",
+        "texto": "Uvulopalatofaringoplastia."
+      },
+      {
+        "letra": "C",
+        "texto": "Aplicação de dispositivo avançador de mandíbula."
+      },
+      {
+        "letra": "D",
+        "texto": "Uso de teofilina ou medroxiprogesterona via oral."
+      },
+      {
+        "letra": "E",
+        "texto": "CPAP nasal à noite."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 86499,
+    "tags": [],
+    "enunciado": "Criança de 5 anos, durante o sono, apresenta um episódio súbito de grito, parecendo assustada, com taquicardia, hiperventilação, pupilas dilatadas, sudorese e não é consolada pelos pais. Volta a dormir em 5 minutos. Apresenta amnésia do evento. A descrição sugere:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "pesadelo."
+      },
+      {
+        "letra": "B",
+        "texto": "despertar confusional."
+      },
+      {
+        "letra": "C",
+        "texto": "transtorno do comportamento."
+      },
+      {
+        "letra": "D",
+        "texto": "terror noturno."
+      },
+      {
+        "letra": "E",
+        "texto": "sonilóquio."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 86500,
+    "tags": [],
+    "enunciado": "Mãe preocupada, pois seu (cid:38)lho de 5 anos de idade, saudável, está acordando à noite gritando, com olhos esbugalhados, movimentos incoordenados, sudorese e taquicardia. Fica indiferente à presença dos pais, não responde às tentativas de acordá-lo e não se lembra do ocorrido. Estamos diante de um quadro compatível com:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Crise convulsiva a esclarecer"
+      },
+      {
+        "letra": "B",
+        "texto": "Pesadelo"
+      },
+      {
+        "letra": "C",
+        "texto": "Sonambulismo"
+      },
+      {
+        "letra": "D",
+        "texto": "Terror noturno"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 86501,
+    "tags": [],
+    "enunciado": "Mulher queixa-se de incômodo nas pernas que a obriga a movê-las vigorosamente ou andar, o que rapidamente alivia os sintomas. Esse incômodo inicia-se à noite quando se senta para descansar, mas é muito pior ao se deitar, impedindo-a de dormir. Qual o diagnóstico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Polineuropatia periférica."
+      },
+      {
+        "letra": "B",
+        "texto": "Movimento periódico dos membros."
+      },
+      {
+        "letra": "C",
+        "texto": "Síndrome das pernas inquietas."
+      },
+      {
+        "letra": "D",
+        "texto": "Varizes de membros inferiores."
+      },
+      {
+        "letra": "E",
+        "texto": "Ansiedade generalizada."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 86502,
+    "tags": [],
+    "enunciado": "Um advogado procurou assistência médica por cefaleia matinal, falta de concentração, fadiga exagerada e sonolência diurna que, recentemente, o haviam feito perder o horário de duas importantes audiências. Seu IMC era de 32,4kg/m² e a circunferência do pescoço media 43 cm. Segundo sua esposa, ele (cid:38)cara irritadiço nos últimos meses, tinha o sono agitado, roncava muito e apresentava várias paradas respiratórias enquanto dormia, com despertar breve. No tratamento desta condição, está contraindicado o emprego de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "aparelhos intra-orais para retenção lingual."
+      },
+      {
+        "letra": "B",
+        "texto": "Sedação com barbitúrico para aprofundar o nível do sono."
+      },
+      {
+        "letra": "C",
+        "texto": "cirurgia ortogenética para promoção de avanço maxilomandibular."
+      },
+      {
+        "letra": "D",
+        "texto": "máscaras nasais para manter pressão positiva contínua em vias aéreas."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 86503,
+    "tags": [],
+    "enunciado": "Paciente do sexo masculino, 45 anos, caminhoneiro, com história de ronco noturno e sonolência diurna excessiva, chegando a dormir, por alguns segundos, ao dirigir. Ao exame físico: desvio de septo nasal para esquerda e hipertro(cid:38)a de conchas nasais; palato volumoso e amígdalas normotró(cid:38)cas; a língua em repouso, com boca aberta, obstrui a visão do palato. Apresenta IMC (índice de massa corpórea) de 24 e polissonogra(cid:38)a evidenciando IAH (índice de apneia-hipopneia) de 28, de predomínio misto. O caso clínico, quanto ao prognóstico:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "apneias mistas têm melhor prognóstico em pacientes obesos."
+      },
+      {
+        "letra": "B",
+        "texto": "apneias obstrutivas têm melhor prognóstico que apneias centrais quanto ao tratamento clínico."
+      },
+      {
+        "letra": "C",
+        "texto": "a historia de sonolência diurna excessiva é fator prognóstico importante, pois constitui evidência clínica de privação do estágio II do sono."
+      },
+      {
+        "letra": "D",
+        "texto": "os quadros de ronco noturno e apneia obstrutiva do sono constituem doenças evolutivas, a despeito do tratamento instituído."
+      },
+      {
+        "letra": "E",
+        "texto": "paciente com apneia mista tem menor risco de complicações coronarianas do que pacientes com apneia central."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 86504,
+    "tags": [],
+    "enunciado": "Paciente do sexo masculino, 45 anos, caminhoneiro, com história de ronco noturno e sonolência diurna excessiva, chegando a dormir, por alguns segundos, ao dirigir. Ao exame físico: desvio de septo nasal para esquerda e hipertro(cid:38)a de conchas nasais; palato volumoso e amígdalas normotró(cid:38)cas; a língua em repouso, com boca aberta, obstrui a visão do palato. Apresenta IMC (índice de massa corpórea) de 24 e polissonogra(cid:38)a evidenciando IAH (índice de apneia-hipopneia) de 28, de predomínio misto. Quanto ao diagnóstico:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o paciente apresenta quadro de apneia moderada."
+      },
+      {
+        "letra": "B",
+        "texto": "na síndrome de apneia obstrutiva do sono (SAOS) o diagnóstico é clínico e os exames subsidiários são apenas prognósticos."
+      },
+      {
+        "letra": "C",
+        "texto": "a determinação do índice de Mallampati só é importante em casos de apneia central."
+      },
+      {
+        "letra": "D",
+        "texto": "na síndrome de apneia obstrutiva do sono (SAOS) a escala de Epworth é um método objetivo para caracterização da sonolência do paciente."
+      },
+      {
+        "letra": "E",
+        "texto": "a realização da nasofibroscopia nesse caso não é necessária frente ao resultado da polissonografia."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 86505,
+    "tags": [],
+    "enunciado": "Consultan unos padres porque su hijo, de cinco años, lleva varias noches despertándo-se agitado como sí hubiera soñado algo que le angustía. Cuando acuden a su lado por la noche, el niño les mira y dice palabras que no tienen ningún signi(cid:38)cado. Al cabo de un rato vuelve a dormirse y por la mañana no recuerda nada de lo ocurrido. El diagnóstico sería",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "pesadillas."
+      },
+      {
+        "letra": "B",
+        "texto": "terrores nocturnos."
+      },
+      {
+        "letra": "C",
+        "texto": "foco epiléptico."
+      },
+      {
+        "letra": "D",
+        "texto": "disomnia."
+      },
+      {
+        "letra": "E",
+        "texto": "sonambulismo.  Respostas: 1 D 2 D 3 B 4 A 5 A 6 D 7 B 8 E 9 C 10 C 11 D 12 C 13 D 14 D 15 C 16 D 17 D 18 A 19 C 20 C 21 B 22 B 23 C 24 C 25 C 26 E 27 E 28 C 29 D 30 A 31 A 32 C 33 D 34 C 35 D 36 B 37 D 38 A 39 C 40 D 41 A 42 B 43 A 44 B 45 A 46 A 47 A 48 D 49 A 50 C 51 B 52 C 53 A 54 C 55 C 56 E 57 C 58 A 59 A 60 D 61 D 62 D 63 A 64 C 65 D 66 D 67 D 68 D 69 D 70 A 71 B 72 C 73 D 74 A 75 A 76 E 77 C 78 A 79 D 80 A 81 A 82 A 83 A 84 B 85 D 86 C 87 D 88 D 89 D 90 C 91 C 92 B 93 B 94 A 95 C 96 D 97 A 98 C 99 100 A 101 D 102 C 103 E 104 B 105 B 106 A 107 B 108 C 109 A 110 C 111 D 112 A 113 A 114 E 115 D 116 D 117 C 118 B 119 D 120 A 121 B"
+      }
+    ],
+    "resposta_correta": "B"
+  }
+]

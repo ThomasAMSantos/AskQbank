@@ -1,0 +1,78 @@
+[
+  {
+    "id": 126949,
+    "tags": [],
+    "enunciado": "Paciente 60 anos, há 1 mês submetido à ressecção completa de pólipo pediculado no reto alto que media 2 cm no maior diâmetro. AP fez o diagnóstico de adenocarcinoma com invasão até a lâmina própria e margens livres. No momento qual a melhor conduta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Observação."
+      },
+      {
+        "letra": "B",
+        "texto": "Nova colonoscopia em 1 mês."
+      },
+      {
+        "letra": "C",
+        "texto": "Retossigmoidectomia abdominal videolaparoscópica."
+      },
+      {
+        "letra": "D",
+        "texto": "Quimioterapia neoadjuvante. 4000230203"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 126950,
+    "tags": [],
+    "enunciado": "Homem de 48 anos retorna assintomático ao ambulatório. Há três meses iniciou tratamento com omeprazol, após endoscopia digestiva alta (EDA) ter evidenciado úlcera em corpo gástrico de 1 cm, bordas planas e nítidas, fundo com (cid:61)brina, sem sangramento ativo. Pesquisa para Helicobacter pylori: negativa. Exame físico: PA 114x76 mmHg; FC 68 bpm; FR 14 irpm; restante sem alterações. Assinale a melhor conduta para o caso.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Manter omeprazol até completar seis meses de tratamento."
+      },
+      {
+        "letra": "B",
+        "texto": "Repetir a EDA, independentemente da melhora dos sintomas."
+      },
+      {
+        "letra": "C",
+        "texto": "Repetir a EDA caso os sintomas persistam, após seis meses de tratamento."
+      },
+      {
+        "letra": "D",
+        "texto": "Suspender omeprazol e dar alta ambulatorial."
+      },
+      {
+        "letra": "E",
+        "texto": "Manter omeprazol e dar alta ambulatorial. 4000229808"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 126951,
+    "tags": [],
+    "enunciado": "Homem de 56 anos foi submetido a endoscopia digestiva alta para avaliação de sintomas de doença do re(cid:69)uxo gastroesofágico. Ao exame, foram observadas na mucosa esofagiana da transição esôfago-gástrica duas erosões lineares de 4,0 e 4,5 mm, não confluentes, localizadas nas pregas mucosas. O grau da classificação de Los Angeles é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A."
+      },
+      {
+        "letra": "B",
+        "texto": "B."
+      },
+      {
+        "letra": "C",
+        "texto": "C."
+      },
+      {
+        "letra": "D",
+        "texto": "D.  Respostas: 1 A 2 B 3 A"
+      }
+    ],
+    "resposta_correta": "A"
+  }
+]

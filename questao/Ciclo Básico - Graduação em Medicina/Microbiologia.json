@@ -1,0 +1,3086 @@
+[
+  {
+    "id": 106091,
+    "tags": [],
+    "enunciado": "Uma característica importante na determinação do comportamento do vírus é a presencia ou ausência do envelope, estrutura que recobre o nucleocapsídeo. Como é o seu mecanismo de formação?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Na biossíntese das proteínas virais, são sintetizadas glicoproteínas que se associam com lipídeos e formam vesículas ao redor dos nucleocapsídeos."
+      },
+      {
+        "letra": "B",
+        "texto": "Na biossíntese das proteínas virais, são sintetizados lipídeos esteroides que resultam na formação de vesículas ao redor dos nucleocapsídeos."
+      },
+      {
+        "letra": "C",
+        "texto": "Na liberação do vírus por lise celular, quando há a formação de uma membrana ao redor do nucleocapsídeo."
+      },
+      {
+        "letra": "D",
+        "texto": "Na liberação do vírus por brotamento, quando o vírus se projeta para o exterior da célula e leva uma parte da membrana plasmática consigo como uma vesícula."
+      },
+      {
+        "letra": "E",
+        "texto": "Na liberação do vírus por brotamento, quando há a destruição da membrana plasmática da célula com formação de uma camada de glicoproteínas e glicolipídios ao redor do nucleocapsídeo."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 106092,
+    "tags": [],
+    "enunciado": "Qual é ordem correta do processo de infecção viral no ciclo lítico nas células?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Adsorção – penetração – desnudamento – biossíntese – liberação."
+      },
+      {
+        "letra": "B",
+        "texto": "Penetração – adsorção – desnudamento – biossíntese – liberação."
+      },
+      {
+        "letra": "C",
+        "texto": "Desnudamento – adsorção – biossíntese – penetração – liberação."
+      },
+      {
+        "letra": "D",
+        "texto": "Penetração – biossíntese – desnudamento – liberação – adsorção."
+      },
+      {
+        "letra": "E",
+        "texto": "Desnudamento – penetração – biossíntese – liberação – adsorção."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106093,
+    "tags": [],
+    "enunciado": "O processo de biossíntese viral varia conforme o tipo de vírus e um dos fatores que mais in(cid:57)uencia nesse processo é o tipo de ácido nucleico apresentado. Assinale a alternativa que corresponda à melhor descrição da biossíntese nas infecções por lentivírus.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Após o desnudamento, ocorre a síntese de DNA de dupla fita a partir do RNA viral pela enzima transcriptase reversa, com a integração do DNA ao genoma como provírus, que pode ser expresso."
+      },
+      {
+        "letra": "B",
+        "texto": "Após o desnudamento, ocorre a tradução direta do RNA de simples fita positiva viral com a síntese de RNA polimerases que formam RNA de simples fita negativa para servir como molde."
+      },
+      {
+        "letra": "C",
+        "texto": "Após o desnudamento, a RNA polimerase viral atua no RNA viral de simples fita antissenso para transcrever uma fita senso que atua na tradução ribossomal."
+      },
+      {
+        "letra": "D",
+        "texto": "Após o desnudamento, o DNA viral migra para o núcleo e se utiliza das enzimas virais para se replicar e da célula hospedeira para a transcrição e tradução proteica."
+      },
+      {
+        "letra": "E",
+        "texto": "Após o desnudamento, o DNA viral de dupla fita replica-se no citoplasma com a utilização de enzimas virais, o que resulta na síntese de mRNA que atuam na tradução de proteínas virais."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106094,
+    "tags": [],
+    "enunciado": "A bactéria Corynebacterium diphtheriae é importante agente patogênico humano, responsável por causar a difteria cujo fator de virulência importante é a produção da toxina diftérica. Essa substância é codi(cid:64)cada por um gene que não está nas linhagens não patogênicas, visto que é inserido no material genético apenas com infecções virais de bacteriófagos. Assinale a alternativa que contenha o nome do processo de transferência gênica assim como o tipo de ciclo assumido pelo vírus na célula.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Transformação e ciclo lítico."
+      },
+      {
+        "letra": "B",
+        "texto": "Transdução e ciclo lisogênico."
+      },
+      {
+        "letra": "C",
+        "texto": "Conjugação e ciclo lisogênico."
+      },
+      {
+        "letra": "D",
+        "texto": "Transformação e ciclo lisogênico."
+      },
+      {
+        "letra": "E",
+        "texto": "Transdução e ciclo lítico."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106095,
+    "tags": [],
+    "enunciado": "Como o ciclo lisogênico de alguns vírus bacteriófagos pode contribuir com fatores de virulência na patogênese da bactéria?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Coinfecção de vírus e bactérias podem potencializar a infecção e inflamação causadas porque há contribuição dos chamados fatores de virulência que danificam as células do sistema imune hospedeiro."
+      },
+      {
+        "letra": "B",
+        "texto": "Há integração do material genético viral ao bacteriano, o que pode resultar também na transferência gênica horizontal de alguns genes que codificam fatores de virulência."
+      },
+      {
+        "letra": "C",
+        "texto": "Há liberação do material genético viral no citosol bacteriano, o que resulta na síntese de proteínas estruturais do vírus e alguns fatores de virulência, o que cria linhagens de bactéria novas."
+      },
+      {
+        "letra": "D",
+        "texto": "Ocorre um processo de lise das células bacterianas com liberação de endotoxinas, como lipopolissacarídeos que atuam no organismo."
+      },
+      {
+        "letra": "E",
+        "texto": "A bactéria é capaz de integrar os genes virais de produção de toxinas por conjugação."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106096,
+    "tags": [],
+    "enunciado": "Assinale a alternativa que contenha os termos corretos respectivos que completam o texto: “A partir do momento em que há liberação do material genético na célula, alguns vírus entram no ciclo _________, em que há a biossíntese e montagem dos componentes do __________ até que ocorra a ________.”",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Lítico, vírion e lise celular."
+      },
+      {
+        "letra": "B",
+        "texto": "Lisogênico, vírion e lise celular."
+      },
+      {
+        "letra": "C",
+        "texto": "Lisogênico, capsídeo e proliferação celular."
+      },
+      {
+        "letra": "D",
+        "texto": "Lítico, envelope viral e proliferação celular."
+      },
+      {
+        "letra": "E",
+        "texto": "Lítico, envelope viral e lise celular."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106097,
+    "tags": [],
+    "enunciado": "Os picornavírus são vírus cujo ácido nucleico é uma (cid:64)ta simples positiva de RNA. Qual é o processo que leva à síntese proteica desse tipo de vírus?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O RNA liberado nas células é traduzido diretamente para a produção de proteínas estruturais e RNA polimerase dependente de RNA para a geração de um RNA (-)."
+      },
+      {
+        "letra": "B",
+        "texto": "O RNA é liberado nas células em conjunto com uma RNA polimerase dependente de RNA, que realiza a sua transcrição para a geração de fitas de RNA capazes de serem traduzidas."
+      },
+      {
+        "letra": "C",
+        "texto": "O RNA é liberado nas células em conjunto com uma transcriptase reversa, que realiza a formação de DNA, capaz de ser transcrito para a geração de mRNA."
+      },
+      {
+        "letra": "D",
+        "texto": "O RNA liberado nas células é traduzido diretamente para a produção de proteínas estruturais e RNA polimerase dependente de RNA para a geração de um RNA (+)."
+      },
+      {
+        "letra": "E",
+        "texto": "O RNA é liberado nas células e utiliza-se da RNA polimerase dependente de RNA da célula hospedeira para ser transcrito em fitas de RNA capazes de serem traduzidas."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106098,
+    "tags": [],
+    "enunciado": "Atualmente, qual das seguintes características não é utilizada para classi(cid:64)car os vírus taxonomicamente em famílias?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tipo de ácido nucleico."
+      },
+      {
+        "letra": "B",
+        "texto": "Simetria do capsídeo."
+      },
+      {
+        "letra": "C",
+        "texto": "Presença de envelope."
+      },
+      {
+        "letra": "D",
+        "texto": "Dimensões do vírion ou capsídeo."
+      },
+      {
+        "letra": "E",
+        "texto": "Patologias associadas."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 106099,
+    "tags": [],
+    "enunciado": "Na imagem abaixo, há um esquema da estrutura de um vírus muito comum e disseminado. Assinale a alternativa que contenha esse tipo de vírus.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Vírus Ebola."
+      },
+      {
+        "letra": "B",
+        "texto": "Bacteriófagos."
+      },
+      {
+        "letra": "C",
+        "texto": "Influenza."
+      },
+      {
+        "letra": "D",
+        "texto": "Poxvírus."
+      },
+      {
+        "letra": "E",
+        "texto": "HIV."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106100,
+    "tags": [],
+    "enunciado": "Os vírus podem conter uma estrutura chamada de envelope, o que geralmente dá a eles a característica de transmissibilidade em meios com umidade. Assinale a alternativa que contenha a sua melhor descrição.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Complexos proteicos formados a partir do mRNA viral que envolvem o ácido nucleico viral."
+      },
+      {
+        "letra": "B",
+        "texto": "Complexos proteicos formados a partir do mRNA da célula hospedeira que envolvem o ácido nucleico viral."
+      },
+      {
+        "letra": "C",
+        "texto": "Bicamada fosfolipídica com lipídeos e glicoproteínas que delimita a superfície viral."
+      },
+      {
+        "letra": "D",
+        "texto": "Complexos de glicoproteínas e carboidratos que formam uma estrutura que delimita a estrutura viral."
+      },
+      {
+        "letra": "E",
+        "texto": "Proteínas que se projetam a partir do capsídeo viral."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106101,
+    "tags": [],
+    "enunciado": "O que é a Classificação de Baltimore?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sistema de classificação de bactérias conforme a morfologia de sua parede celular."
+      },
+      {
+        "letra": "B",
+        "texto": "Sistema de classificação de vírus conforme a morfologia do seu capsídeo."
+      },
+      {
+        "letra": "C",
+        "texto": "Sistema de classificação de vírus conforme a forma de ácido nucleico presente nos vírions."
+      },
+      {
+        "letra": "D",
+        "texto": "Sistema de classificação de bactérias conforme a forma de ácido nucleico presente."
+      },
+      {
+        "letra": "E",
+        "texto": "Sistema de classificação de vírus conforme o tipo de proteínas na espícula."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106102,
+    "tags": [],
+    "enunciado": "Veja a imagem e assinale a alternativa que contenha o nome da estrutura apontada pela seta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Capsídeo."
+      },
+      {
+        "letra": "B",
+        "texto": "Ácido nucleico."
+      },
+      {
+        "letra": "C",
+        "texto": "Envelope."
+      },
+      {
+        "letra": "D",
+        "texto": "Espículas."
+      },
+      {
+        "letra": "E",
+        "texto": "Parede celular."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106103,
+    "tags": [],
+    "enunciado": "Qual é a melhor definição para vírion?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Estrutura proteica que envolve o material genético do vírus."
+      },
+      {
+        "letra": "B",
+        "texto": "Monômeros do complexo proteico que envolve o material genético do vírus."
+      },
+      {
+        "letra": "C",
+        "texto": "Bicamada fosfolipídica que delimita a superfície viral."
+      },
+      {
+        "letra": "D",
+        "texto": "Partícula viral completa e infecciosa com um complexo proteico que envolve o material genético."
+      },
+      {
+        "letra": "E",
+        "texto": "Partícula viral de fagos produzida no citosol bacteriano."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 106104,
+    "tags": [],
+    "enunciado": "Os vírus são seres importantes na patogênese de várias doenças humanas. Assinale a alternativa incorreta acerca de suas características.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Contém um único tipo de ácido nucleico, DNA ou RNA."
+      },
+      {
+        "letra": "B",
+        "texto": "Contém um invólucro proteico que envolve o seu material genético."
+      },
+      {
+        "letra": "C",
+        "texto": "Multiplicam-se no interior de células vivas utilizando-se de sua maquinaria celular."
+      },
+      {
+        "letra": "D",
+        "texto": "Apresentam sempre uma bicamada fosfolipídica que delimita um meio intraviral."
+      },
+      {
+        "letra": "E",
+        "texto": "São parasitas intracelulares obrigatórios porque requer células vivas para a replicação."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 106105,
+    "tags": [],
+    "enunciado": "Um teste importante para veri(cid:64)car se substâncias são carcinogênicas é o teste de Ames, que utiliza bactérias da espécie Salmonella typhimurium com mutação de inativação do gene produtor de histidina (His⁻). É adicionada a substância a ser analisada em conjunto com extrato de fígado de rato que contém várias enzimas ativadoras. No (cid:64)nal, é analisada a velocidade de formação de colônias em um meio sem histidina com a substância e é comparada com um meio sem histidina em que não foi adicionado a substância. Qual é o resultado esperado de uma substância carcinogênica nesse caso?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aumento da formação de colônias em comparação ao controle, porque a adição gera mutações que podem reverter o fenótipo dependente de histidina."
+      },
+      {
+        "letra": "B",
+        "texto": "Ausência de colônias, porque a adição gera mutações que impedem a viabilidade de crescimento das células."
+      },
+      {
+        "letra": "C",
+        "texto": "Aumento da formação de colônias em comparação ao controle, porque a adição gera mutações em genes que estimulam a proliferação independente de controle externo."
+      },
+      {
+        "letra": "D",
+        "texto": "Poucas colônias em comparação ao controle, porque o carcinógeno é tóxico para as células auxotróficas para histidina."
+      },
+      {
+        "letra": "E",
+        "texto": "Poucas colônias em comparação com o controle, porque o carcinógeno gera mutações nos genes que realizam a proliferação da célula."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106106,
+    "tags": [],
+    "enunciado": "Um dos plasmídeos inicialmente caracterizados é o fator de fertilização (F) da Escherichia coli, que contém genes su(cid:64)cientes para que ocorra o processo de conjugação. Assinale a alternativa correta acerca desse processo.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A conjugação é o processo em que as moléculas de DNA do meio extracelular são interiorizadas por meio de complexos na membrana."
+      },
+      {
+        "letra": "B",
+        "texto": "A conjugação ocorre apenas em bactérias Gram-negativas e é a forma de transporte de genes essenciais para a sobrevivência bacteriana."
+      },
+      {
+        "letra": "C",
+        "texto": "A conjugação é o processo em que há transferência gênica entre duas células por meio de uma conexão."
+      },
+      {
+        "letra": "D",
+        "texto": "A conjugação transfere apenas plasmídeos."
+      },
+      {
+        "letra": "E",
+        "texto": "A conjugação é o processo em que há transferência gênica entre duas células por meio de fagos."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106107,
+    "tags": [],
+    "enunciado": "Qual é o termo correto para ser utilizado no mecanismo de transferência gênica horizontal por meio de vírus conhecidos como bacteriófagos?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Transformação"
+      },
+      {
+        "letra": "B",
+        "texto": "Conjugação bacteriana."
+      },
+      {
+        "letra": "C",
+        "texto": "Transdução."
+      },
+      {
+        "letra": "D",
+        "texto": "Transposons."
+      },
+      {
+        "letra": "E",
+        "texto": "Eletroporação."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106108,
+    "tags": [],
+    "enunciado": "As bactérias apresentam diferentes formas de transferência horizontal de genes, o que é importante para a variabilidade genética populacional e aquisição de resistência pelas populações. Assinale a alternativa correta acerca do fenômeno de transformação.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A transformação corresponde ao processo de transferência de plasmídeos entre células em contato direto por meio de fímbrias sexuais."
+      },
+      {
+        "letra": "B",
+        "texto": "Transferência de genes entre duas células por meio de fagos produzidos em uma célula que infectam outra."
+      },
+      {
+        "letra": "C",
+        "texto": "Recepção de DNA na célula do meio extracelular por meio de complexos responsáveis pela internalização do material genético."
+      },
+      {
+        "letra": "D",
+        "texto": "Processo de transferência de genes cromossômicos entre células em contato direto por meio de fímbrias sexuais."
+      },
+      {
+        "letra": "E",
+        "texto": "Transferência de genes entre duas células por meio da fusão celular que resulta na recombinação de alguns genes com a composição de um material genético quimérico."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106109,
+    "tags": [],
+    "enunciado": "Qual das seguintes bactérias pode ser descrita como um diplococo Gram-negativo não-móvel que expressa a proteína Opa e lipo-oligossacarídeos?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Staphylococcus aureus."
+      },
+      {
+        "letra": "B",
+        "texto": "Streptococcus pyogenes."
+      },
+      {
+        "letra": "C",
+        "texto": "Enterococcus faecalis."
+      },
+      {
+        "letra": "D",
+        "texto": "Escherichia coli."
+      },
+      {
+        "letra": "E",
+        "texto": "Neisseria gonorrhoeae."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 106110,
+    "tags": [],
+    "enunciado": "Uma das bactérias mais estudadas e utilizadas em laboratório é a Escherichia coli. Esse microrganismo, normalmente, vive na nossa microbiota e não é patogênico. Contudo, algumas de suas linhagens podem ser patogênicas. Assinale a alternativa que contenha qual é o mecanismo utilizado pela ETEC.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Produção de exotoxinas similares à toxina colérica."
+      },
+      {
+        "letra": "B",
+        "texto": "Agregação e aderência das células ao epitélio intestinal com produção de enterotoxinas que promovem inflamação."
+      },
+      {
+        "letra": "C",
+        "texto": "Invasão do epitélio intestinal."
+      },
+      {
+        "letra": "D",
+        "texto": "Produção da toxina Shiga com adesão e destruição das microvilosidades."
+      },
+      {
+        "letra": "E",
+        "texto": "Nenhuma das anteriores."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106111,
+    "tags": [],
+    "enunciado": "Qual das seguintes bactérias é considerada Gram-negativa?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Staphylococcus aureus."
+      },
+      {
+        "letra": "B",
+        "texto": "Streptococcus pyogenes."
+      },
+      {
+        "letra": "C",
+        "texto": "Mycobacterium tuberculosis."
+      },
+      {
+        "letra": "D",
+        "texto": "Escherichia coli."
+      },
+      {
+        "letra": "E",
+        "texto": "Enterococcus faecalis."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 106112,
+    "tags": [],
+    "enunciado": "A resistência a antibióticos é um tema muito importante de saúde pública e contém uma problemática importante no tratamento das doenças infecciosas. Os patógenos MRSA são um dos mais importantes exemplos de resistência antibiótica. Assinale a alternativa correta acerca dessa cepa.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "São Staphylococcus aureus que adquiriram resistência à meticilina em decorrência de plasmídeos com genes de β-lactamase."
+      },
+      {
+        "letra": "B",
+        "texto": "São Streptococcus aureus que adquiriram resistência à meticilina em decorrência de plasmídeos com genes de β-lactamase."
+      },
+      {
+        "letra": "C",
+        "texto": "São Streptococcus epidermidis que adquiriram resistência à meticilina em decorrência de plasmídeos com genes de β-lactamase."
+      },
+      {
+        "letra": "D",
+        "texto": "São Staphylococcus aureus que adquiriram resistência à meticilina por modificação na proteína de ligação à penicilina (PBP), importante na síntese do peptidoglicano."
+      },
+      {
+        "letra": "E",
+        "texto": "São Streptococcus epidermidis que adquiriram resistência à meticilina por modificação na proteína de ligação à penicilina (PBP), importante na síntese do peptidoglicano."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 106113,
+    "tags": [],
+    "enunciado": "Uma questão de saúde pública importante na atualidade é o uso inadequado de antibióticos e a sua correlação com o desenvolvimento de resistência ao arsenal atual de drogas disponíveis. Assinale a alternativa que contenha um uso adequado de drogas.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Limitação da venda e uso de antibióticos apenas em países subdesenvolvidos, fonte de qual provêm as resistências."
+      },
+      {
+        "letra": "B",
+        "texto": "Completar o tratamento prescrito mesmo que haja retração completa da sintomatologia."
+      },
+      {
+        "letra": "C",
+        "texto": "Utilizar sobras de antibióticos nas cartelas para evitar o uso de maior quantidade."
+      },
+      {
+        "letra": "D",
+        "texto": "Prescrição sempre de pelo menos três antibióticos para que a população não desenvolva resistência a nenhum deles."
+      },
+      {
+        "letra": "E",
+        "texto": "Optar por antibióticos de amplo espectro na maior parte dos tratamentos, mesmo que já tenha se identificado o agente etiológico."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106114,
+    "tags": [],
+    "enunciado": "Com o passar do tempo após o início do uso clínico da penicilina, houve seleção na população de patógenos para que o gene de resistência se propagasse e grande parte da população se tornasse resistente a esse antibiótico. Qual é o principal mecanismo utilizado para a resistência contra a penicilina e as cefalosporinas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Alteração no sítio-alvo da droga."
+      },
+      {
+        "letra": "B",
+        "texto": "Efluxo rápido do antibiótico."
+      },
+      {
+        "letra": "C",
+        "texto": "Bloqueio do influxo do antibiótico."
+      },
+      {
+        "letra": "D",
+        "texto": "Inativação enzimática da droga."
+      },
+      {
+        "letra": "E",
+        "texto": "Aumento da síntese das enzimas-alvo da droga."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 106115,
+    "tags": [],
+    "enunciado": "Para a prescrição de um antibiótico, o espectro de ação dele é muito importante caso o agente etiológico ainda não tenha sido estabelecido. Qual das seguintes drogas apresenta um espectro de ação que envolve as Gram-negativas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Penicilina G."
+      },
+      {
+        "letra": "B",
+        "texto": "Vancomicina."
+      },
+      {
+        "letra": "C",
+        "texto": "Isoniazida."
+      },
+      {
+        "letra": "D",
+        "texto": "Estreptomicina."
+      },
+      {
+        "letra": "E",
+        "texto": "Eritromicina."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 106116,
+    "tags": [],
+    "enunciado": "O primeiro antibiótico sintético utilizado na prática clínica foi a classe das sulfonamidas, que apresentam importância e utilidade até os dias atuais. A sua atuação é na inibição competitiva em uma enzima que sintetiza um dos precursores do ácido fólico, importante para a síntese adequada dos nucleotídeos. Assinale o seu tipo de ação.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Bactericida."
+      },
+      {
+        "letra": "B",
+        "texto": "Bacteriostática."
+      },
+      {
+        "letra": "C",
+        "texto": "Micobactericida."
+      },
+      {
+        "letra": "D",
+        "texto": "Antiviral."
+      },
+      {
+        "letra": "E",
+        "texto": "Fungicida."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106117,
+    "tags": [],
+    "enunciado": "Uma das doenças que mais acompanhou o homem durante a história foi a tuberculose e o seu tratamento foi apenas estabelecido no século XX. São administradas quatro drogas para que não ocorra o desenvolvimento d e resistência a alguma delas, o que seria muito prejudicial porque poucas drogas agem nesses microrganismos. Assinale a alternativa que contenha uma das drogas utilizadas para o tratamento e o seu mecanismo de atuação.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Isoniazida – Inibição da síntese das cadeias peptídicas do peptidoglicano."
+      },
+      {
+        "letra": "B",
+        "texto": "Rifampicina – Inibição da síntese de ácido fólico."
+      },
+      {
+        "letra": "C",
+        "texto": "Ceftriaxona – Inibição da síntese das cadeias peptídicas do peptidoglicano."
+      },
+      {
+        "letra": "D",
+        "texto": "Penicilina – Inibição da síntese de ácido micólico."
+      },
+      {
+        "letra": "E",
+        "texto": "Isoniazida – Inibição da síntese de ácido micólico."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 106118,
+    "tags": [],
+    "enunciado": "Um dos primeiros e mais importantes antibióticos é a penicilina, isolada de uma colônia de fungos do bolor Penicillium, que cresciam em uma cultura em conjunto com bactérias e inibiam a formação de suas colônias ao seu redor. Assim, isolou-se o composto produzido por essa espécie: a penicilina. Assinale a alternativa que contenha o mecanismo de atuação dessa droga.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Inibição da síntese proteica nos ribossomos 70S."
+      },
+      {
+        "letra": "B",
+        "texto": "Inibição da síntese da camada de peptidoglicanos na parede celular."
+      },
+      {
+        "letra": "C",
+        "texto": "Dano à membrana plasmática."
+      },
+      {
+        "letra": "D",
+        "texto": "Inibição da síntese de ácido micólico."
+      },
+      {
+        "letra": "E",
+        "texto": "Inibição da síntese de ácidos nucleicos."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106119,
+    "tags": [],
+    "enunciado": "Os primeiros antibióticos utilizados na prática clínica foram da classe da sulfonamidas, produzidas sinteticamente. Algumas drogas são utilizadas ainda atualmente, como o sulfametoxazol em combinação com a trimetoprima para o tratamento de Pneumocystis spp. e Nocardia spp. Assinale a alternativa que contenha o mecanismo de atuação dessa droga.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Inibição da síntese da camada de peptidoglicanos na parede celular."
+      },
+      {
+        "letra": "B",
+        "texto": "Inibição da síntese proteica nos ribossomos."
+      },
+      {
+        "letra": "C",
+        "texto": "Dano à membrana plasmática."
+      },
+      {
+        "letra": "D",
+        "texto": "Inibição da síntese de ácido micólico."
+      },
+      {
+        "letra": "E",
+        "texto": "Inibição competitiva da síntese de ácido fólico."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 106120,
+    "tags": [],
+    "enunciado": "Há diversos mecanismos pelos quais os antibióticos utilizados atualmente atuam para induzir a morte ou a parada de proliferação das bactérias. Assinale a alternativa que não contenha um desses mecanismos.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Inibição da síntese da camada de peptidoglicanos na parede celular."
+      },
+      {
+        "letra": "B",
+        "texto": "Inibição da síntese proteica nos ribossomos 70S."
+      },
+      {
+        "letra": "C",
+        "texto": "Dano à membrana plasmática."
+      },
+      {
+        "letra": "D",
+        "texto": "Inibidores da síntese de ácido nucleicos."
+      },
+      {
+        "letra": "E",
+        "texto": "Inibidores da síntese de cápsula."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 106121,
+    "tags": [],
+    "enunciado": "Uma série de bactérias, no processo de patogênese, secretam substâncias que alteram o funcionamento homeostático do organismo e geram a doença. Um exemplo é a atuação das toxinas da Vibrio cholerae. Assinale a alternativa correta acerca do seu funcionamento.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Produz uma exotoxina que diminui a secreção de fluidos e eletrólitos."
+      },
+      {
+        "letra": "B",
+        "texto": "Produz uma endotoxina que diminui a secreção de fluidos e eletrólitos."
+      },
+      {
+        "letra": "C",
+        "texto": "Produz uma exotoxina que causa abrasões no epitélio que provocam disenteria."
+      },
+      {
+        "letra": "D",
+        "texto": "Produz uma endotoxina que causa abrasões no epitélio que provocam disenteria."
+      },
+      {
+        "letra": "E",
+        "texto": "Produz uma exotoxina que aumenta a secreção de fluidos e eletrólitos."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 106122,
+    "tags": [],
+    "enunciado": "As bactérias gram-negativas apresentam moléculas importantes em sua membrana externa denominadas de lipopolissacarídeos (LPS), que são reconhecidas fortemente por células do sistema imune por receptores de padrões moleculares. Assinale a alternativa correta acerca dessas moléculas.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "São exotoxinas porque estão presentes na superfície da célula e induzem a produção de citocinas inflamatórias sistêmicas, como IL-1."
+      },
+      {
+        "letra": "B",
+        "texto": "São exotoxinas porque a sua origem é exógena ao organismo e a sua presença induz a produção de citocinas inflamatórias locais que causam necrose em tecidos."
+      },
+      {
+        "letra": "C",
+        "texto": "São endotoxinas porque são parte da morfologia das bactérias e são liberadas após a sua morte. A sua presença induz a liberação de pirógenos, como IL-1."
+      },
+      {
+        "letra": "D",
+        "texto": "São endotoxinas porque são parte da morfologia das bactérias e são liberadas após a sua morte. A sua presença causa dano direto ao material genético das células estromais."
+      },
+      {
+        "letra": "E",
+        "texto": "São exotoxinas porque estão presentes na superfície do patógeno e a sua presença causa dano direto ao material genético das células estromais."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106123,
+    "tags": [],
+    "enunciado": "Streptococcus pneumoniae é um dos principais agentes bacterianos causadores de pneumonia. Contudo, nem todas as cepas dessa espécie são capazes de causar doenças em humanos. Essas bactérias necessitam da presença de uma cápsula. Assinale a alternativa correta sobre a sua importância.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É um fator de virulência, cuja presença confere à bactéria proteção contra a fagocitose significativa."
+      },
+      {
+        "letra": "B",
+        "texto": "É um fator bactericida, cuja presença confere à bactéria proteção contra a fagocitose significativa."
+      },
+      {
+        "letra": "C",
+        "texto": "É um fator bacteriostático, cuja presença confere à bactéria diminuição da mobilidade, mas proteção contra a ação de anticorpos para a opsonização."
+      },
+      {
+        "letra": "D",
+        "texto": "É um fator de virulência, cuja presença é importante apenas nos casos mais graves em que a bactéria não é eliminada adequadamente."
+      },
+      {
+        "letra": "E",
+        "texto": "É um fator bactericida, cuja presença confere à bactéria capacidade de evasão da resposta imunológica."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106124,
+    "tags": [],
+    "enunciado": "Um dos processos fundamentais no controle do crescimento microbiano é a esterilização. Assinale a alternativa que contenha a melhor definição desse conceito.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Remoção ou destruição de todas as formas de vida microbiana e príons."
+      },
+      {
+        "letra": "B",
+        "texto": "Destruição de patógenos na forma vegetativa."
+      },
+      {
+        "letra": "C",
+        "texto": "Remoção mecânica da maioria dos microrganismos em uma área determinada."
+      },
+      {
+        "letra": "D",
+        "texto": "Redução da contagem microbiana a níveis seguros de saúde pública."
+      },
+      {
+        "letra": "E",
+        "texto": "Destruição de patógenos na forma vegetativa nos tecidos vivos."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106125,
+    "tags": [],
+    "enunciado": "Uma das bactérias clinicamente mais relevantes é Staphylococcus aureus e, por isso, elas devem ser identificadas quando causas de infecção para que o tratamento seja adequado. Um dos meios mais utilizados para a sua cultura é o Ágar manitol salgado, que apresenta uma concentração de NaCl de 7,5%, que inibe o crescimento da maior parte das bactérias, e alta disponibilidade da fonte de carbono manitol com um indicador de pH para veri(cid:64)car a metabolização desse carboidrato com geração de ácido, que varia em cada espécie. Assinale a alternativa que contenha o tipo de meio apresentado.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Meio diferencial, apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "Meio seletivo, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "Meio diferencial e seletivo."
+      },
+      {
+        "letra": "D",
+        "texto": "Meio redutor."
+      },
+      {
+        "letra": "E",
+        "texto": "Nenhuma das alternativas acima."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106126,
+    "tags": [],
+    "enunciado": "Um dos principais meios utilizados na identi(cid:64)cação das bactérias gram-positivas é o ágar-sangue que contém sangue de carneiro des(cid:64)brinado e provê vários nutrientes e fatores de crescimento para as células. Conforme a espécie inserida, há padrões de hemólise próprios que podem ser classificados em α-emólise, β- hemólise e γ-hemólise. Assinale a alternativa que corresponda a esse tipo de meio de cultura.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Meio seletivo."
+      },
+      {
+        "letra": "B",
+        "texto": "Meio diferencial e seletivo."
+      },
+      {
+        "letra": "C",
+        "texto": "Meio diferencial."
+      },
+      {
+        "letra": "D",
+        "texto": "Meio quimicamente definido."
+      },
+      {
+        "letra": "E",
+        "texto": "Meio redutor."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106127,
+    "tags": [],
+    "enunciado": "As bactérias continuem um domínio (cid:64)logenético extremamente diverso e grande, contendo um número enorme de espécies diferentes. Uma pequena porção delas são patogênicas para os humanos. Assinale a alternativa que não contenha os fatores de virulência que diferenciam essas bactérias.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fímbrias para o processo de adesão."
+      },
+      {
+        "letra": "B",
+        "texto": "Cápsula para a proteção contra a fagocitose."
+      },
+      {
+        "letra": "C",
+        "texto": "Biofilme para sobrevivência aumentada em superfícies."
+      },
+      {
+        "letra": "D",
+        "texto": "Flagelos para o processo de adesão."
+      },
+      {
+        "letra": "E",
+        "texto": "Heterogeneidade antigênica para evasão imunológica aos anticorpos e linfócitos T."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 106128,
+    "tags": [],
+    "enunciado": "O conceito de virulência é muito importante nas doenças infecciosas. Assinale a alternativa que contenha a melhor descrição de sua definição.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Capacidade de um agente etiológico qualquer se propagar em uma população pré-definida."
+      },
+      {
+        "letra": "B",
+        "texto": "Capacidade relativa de um vírus provocar doença se inoculada no hospedeiro."
+      },
+      {
+        "letra": "C",
+        "texto": "Letalidade de vírus para provocar doença se inoculada no hospedeiro."
+      },
+      {
+        "letra": "D",
+        "texto": "Capacidade relativa de uma espécie de causar doença."
+      },
+      {
+        "letra": "E",
+        "texto": "Velocidade de transmissão de patógenos em uma dada população."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 106129,
+    "tags": [],
+    "enunciado": "Considere que um pesquisador está tentando identi(cid:64)car uma espécie de bactéria isolada causadora de pneumonia. Um dos procedimentos que ele realiza é a inoculação da bactéria em tubos com meio de cultura sólido em contato com ar ambiente. Ele nota que as colônias se desenvolvem em maior quantidade na fronteira com o ar, mas também estão presentes no restante do meio em menor quantidade, mas sem formar um gradiente. Esse experimento determinou que essas bactérias podem ser caracterizadas de que forma?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Anaeróbicas obrigatórias."
+      },
+      {
+        "letra": "B",
+        "texto": "Aeróbicas obrigatórias."
+      },
+      {
+        "letra": "C",
+        "texto": "Anaeróbicas facultativas."
+      },
+      {
+        "letra": "D",
+        "texto": "Anaeróbicos aerotolerantes."
+      },
+      {
+        "letra": "E",
+        "texto": "Acidófilas."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106130,
+    "tags": [],
+    "enunciado": "Considerando que o tempo de geração da bactéria Escherichia coli é de 20 min, qual é a sua população após 2h do início da reprodução com o início de 50 bactérias considerando que elas estão na fase de crescimento exponencial?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "3.200"
+      },
+      {
+        "letra": "B",
+        "texto": "6.400"
+      },
+      {
+        "letra": "C",
+        "texto": "64"
+      },
+      {
+        "letra": "D",
+        "texto": "1.600"
+      },
+      {
+        "letra": "E",
+        "texto": "320"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106131,
+    "tags": [],
+    "enunciado": "Para que seja possível estabelecer o diagnóstico de doenças bacterianas, é necessária uma compreensão adequada acerca do seu processo de formação de culturas. Após a inserção de bactérias em um meio, considerando que ele contém condições adequadas para o seu crescimento, qual é a primeira fase do seu crescimento?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Há uma fase log com proliferação exponencial por fissão binária que dobra a população após um tempo estabelecido."
+      },
+      {
+        "letra": "B",
+        "texto": "Há uma fase estacionária que representa um período de equilíbrio inicial em que a proliferação das células é contrabalanceada com a morte em seu período de adaptação."
+      },
+      {
+        "letra": "C",
+        "texto": "Há uma fase de morte celular em que a população se reduz exponencialmente na adaptação ao meio de cultura."
+      },
+      {
+        "letra": "D",
+        "texto": "Há uma fase lag em que as células estão se adaptando ao novo meio e não reproduzem."
+      },
+      {
+        "letra": "E",
+        "texto": "Há uma fase log com proliferação exponencial por conjugação que dobra a população após um tempo estabelecido."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 106132,
+    "tags": [],
+    "enunciado": "Todas as células, tanto procarióticas quanto eucarióticas, apresentam uma organela chamada de ribossomo, que é essencial para a síntese de proteínas a partir de um RNA mensageiro. Assinale a alternativa quanto aos ribossomos das bactérias.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os ribossomos bacterianos são procarióticos e também estão presentes nas organelas com dupla membrana das células eucarióticas."
+      },
+      {
+        "letra": "B",
+        "texto": "Os ribossomos bacterianos são eucarióticos assim como o das células humanas, o que torna a síntese proteica bem similar entre ambos os organismos."
+      },
+      {
+        "letra": "C",
+        "texto": "Os ribossomos bacterianos são procarióticos e não estão presentes em nenhum espaço das células eucarióticas, o que permite o desenvolvimento de antibióticos que o inibam especificadamente."
+      },
+      {
+        "letra": "D",
+        "texto": "Os ribossomos bacterianos são eucarióticos de 70S e são maiores que os procarióticos."
+      },
+      {
+        "letra": "E",
+        "texto": "Os ribossomos bacterianos são procarióticos assim como o das células humanas, o que não permite o desenvolvimento de antibióticos que o inibam ser causar dano significativo ao homem."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106133,
+    "tags": [],
+    "enunciado": "As bactérias são seres com uma capacidade muito rápida de disseminar mutações em populações, o que, provavelmente, é um fator muito importante de virulência a ser considerado. Há estruturas na célula bacteriana que são pequenas moléculas de DNA de (cid:64)ta dupla capazes de serem transportados para outras células na população através do processo de conjugação. Qual é nome dessa estrutura?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nucleoide."
+      },
+      {
+        "letra": "B",
+        "texto": "Cromossomo bacteriano."
+      },
+      {
+        "letra": "C",
+        "texto": "Plasmídeo."
+      },
+      {
+        "letra": "D",
+        "texto": "Inclusões."
+      },
+      {
+        "letra": "E",
+        "texto": "Nucléolo."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106134,
+    "tags": [],
+    "enunciado": "As micobactérias são um grupo clinicamente muito signi(cid:64)cativo de microrganismos, englobando os agentes etiológicos da tuberculose (Mycobacterium tuberculosis) e da hanseníase (Mycobacterium leprae). Esse grupo de bactérias é, morfologicamente, bem distinto das bactérias tipicamente descritas, tanto que receberam um pre(cid:64)xo associado a fungos - Myco na sua identi(cid:64)cação. Há diferenças signi(cid:64)cativas na parede celular, com uma camada externa à de peptidoglicano. Assinale a alternativa que contenha essa substância.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ácido teicoico."
+      },
+      {
+        "letra": "B",
+        "texto": "Flagelina."
+      },
+      {
+        "letra": "C",
+        "texto": "Lipopolissacarídeos (LPS)"
+      },
+      {
+        "letra": "D",
+        "texto": "Ácido micólico."
+      },
+      {
+        "letra": "E",
+        "texto": "Ácido siálico."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 106135,
+    "tags": [],
+    "enunciado": "Há receptores na resposta imune inata, como Toll-like receptors (TLRs), que são capazes de reconhecer alguns componentes comuns de patógenos. Assim, essas células produzem citocinas pró-in(cid:57)amatórias assim que reconhecem que algum patógeno entrou no organismo. Na superfície das bactérias gram-negativas, há um componente reconhecido por TLRs muito importante no desenvolvimento da resposta imunológica. Assinale a alternativa que contenha esse peptídeo mais característico das gram-negativas.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ácido teicoico."
+      },
+      {
+        "letra": "B",
+        "texto": "Peptidoglicanos."
+      },
+      {
+        "letra": "C",
+        "texto": "Lipopolissacarídeos (LPS)"
+      },
+      {
+        "letra": "D",
+        "texto": "Ácido micólico."
+      },
+      {
+        "letra": "E",
+        "texto": "Ácido siálico."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106136,
+    "tags": [],
+    "enunciado": "Uma das etapas na diferenciação e identi(cid:64)cação das bactérias é a coloração de Gram, que utiliza os cristais violeta-iodo. Esse processo é muito importante porque permite separar dois grandes grupos: gram-positivas e gram-negativas, o que pode dar um norte ao tratamento que pode ser aplicado para esse patógeno. O mecanismo pelo qual algumas bactérias se coram, ou não, por essa coloração está associada à parede celular dos microrganismos. Assinale a alternativa que melhor descreve a razão de os gram-negativos não se corarem.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os gram-negativos se coram inicialmente, mas são lavados por álcool, responsável por dissolver a membrana externa e permitir a saída dos cristais violeta-iodo."
+      },
+      {
+        "letra": "B",
+        "texto": "Os gram-negativos não se coram porque apresentam uma densa camada de peptidoglicano que impede a passagem do corante."
+      },
+      {
+        "letra": "C",
+        "texto": "Os gram-negativos se coram inicialmente, mas são lavados por água, responsável por dissolver a membrana externa e permitir a saída dos cristais violeta-iodo."
+      },
+      {
+        "letra": "D",
+        "texto": "Os gram-negativos não se coram, porque o corante não é capaz de passar pela bicamada fosfolipídica externa."
+      },
+      {
+        "letra": "E",
+        "texto": "Os gram-negativos se coram inicialmente, mas apresentam enzimas intracelulares que degradam o corante rapidamente."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106137,
+    "tags": [],
+    "enunciado": "A parede celular é uma estrutura complexa presente na maior parte das bactérias que é responsável por envolver a membrana plasmática e atuar como uma camada protetora. Qual é a principal substância que compõe a parede celular bacteriana?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Peptidoglicanos."
+      },
+      {
+        "letra": "B",
+        "texto": "Celulose."
+      },
+      {
+        "letra": "C",
+        "texto": "Quitina."
+      },
+      {
+        "letra": "D",
+        "texto": "Ácido teicoico."
+      },
+      {
+        "letra": "E",
+        "texto": "Lipopolissacarídeos."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106138,
+    "tags": [],
+    "enunciado": "Algumas bactérias gram-negativas, como Neisseria gonorrhoeae, apresentam apêndices retos, (cid:64)nos e curtos que se projetam da célula e são importantes para a adesão e conjugação do material genético. Qual é o nome dessa estrutura?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Flagelo."
+      },
+      {
+        "letra": "B",
+        "texto": "Fímbrias."
+      },
+      {
+        "letra": "C",
+        "texto": "Filamento axial."
+      },
+      {
+        "letra": "D",
+        "texto": "Glicocálix."
+      },
+      {
+        "letra": "E",
+        "texto": "Parece celular."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106139,
+    "tags": [],
+    "enunciado": "Um dos componentes de virulência que pode ser importante na patogênese de várias doenças bacterianas é a presença do flagelo. Assinale a alternativa correta quanto a essa estrutura.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Flagelos procarióticos são sempre projeções da membrana plasmática não acompanhados da parede celular."
+      },
+      {
+        "letra": "B",
+        "texto": "Flagelos procarióticos são sempre projeções da membrana plasmática com um eixo central de proteínas."
+      },
+      {
+        "letra": "C",
+        "texto": "Todas as células apresentam flagelos, que representam o seu principal meio de movimentação."
+      },
+      {
+        "letra": "D",
+        "texto": "Os flagelos procarióticos são geralmente um filamento proteico projetado a partir da parede celular que contém capacidade de rotação."
+      },
+      {
+        "letra": "E",
+        "texto": "Os flagelos não fazem parte da movimentação da bactérias, porque atuam mais na comunicação intercelular e adesão."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 106140,
+    "tags": [],
+    "enunciado": "Um componente morfológico importante na virulência das bactérias é o seu glicocálix. Assinale a alternativa que contenha a descrição mais adequada a essa estrutura:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Estruturas filamentosas que se projetam das bactérias para promover o seu movimento."
+      },
+      {
+        "letra": "B",
+        "texto": "Apêndices proteicos e finos projetados de sua superfície."
+      },
+      {
+        "letra": "C",
+        "texto": "Rede de peptidoglicanos que envolve a membrana plasmática."
+      },
+      {
+        "letra": "D",
+        "texto": "Estrutura de sacarídeos intracelular em formato de cálice."
+      },
+      {
+        "letra": "E",
+        "texto": "Camada de polímeros de polissacarídeos e polipeptídios viscosa que envolve a parede celular."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 106141,
+    "tags": [],
+    "enunciado": "Uma das espécies de bactéria mais relevantes clinicamente é Staphylococcus aureus, responsável por causar um grande número de afecções em sistemas diversos, como pneumonias, impetigo e endocardite infecciosa. Qual das seguintes alternativas descreve mais adequadamente o formato que essas bactérias apresentam?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "São solitárias e com forma de bastão, ou seja, com eixos de tamanho diferentes."
+      },
+      {
+        "letra": "B",
+        "texto": "São solitárias e com forma esférica."
+      },
+      {
+        "letra": "C",
+        "texto": "São solitárias e com forma de bastão com uma curvatura central."
+      },
+      {
+        "letra": "D",
+        "texto": "Apresentam forma esférica e formam agrupamentos lineares."
+      },
+      {
+        "letra": "E",
+        "texto": "Apresentam forma esférica e formam agrupamentos em formato de cachos de uva."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 106142,
+    "tags": [],
+    "enunciado": "As bactérias são um dos componentes das células procarióticas, que não apresentam núcleo, e várias espécies são responsáveis por doenças importantes. Uma das formas de classi(cid:64)cação é com base na sua morfologia, ou seja, na forma apresentada. Assinale a alternativa que contenha o tipo de bactéria apresentada na imagem.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Estreptococo."
+      },
+      {
+        "letra": "B",
+        "texto": "Estafilococo."
+      },
+      {
+        "letra": "C",
+        "texto": "Espiroqueta."
+      },
+      {
+        "letra": "D",
+        "texto": "Vibrião."
+      },
+      {
+        "letra": "E",
+        "texto": "Bacilos."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106143,
+    "tags": [],
+    "enunciado": "As bactérias são um dos componentes das células procarióticas, que não apresentam núcleo, e várias espécies são responsáveis por doenças importantes. Uma das formas de classi(cid:64)cação é com base na sua morfologia, ou seja, na forma apresentada. Assinale a alternativa que contenha o tipo de bactéria apresentada na imagem. Figura 9 : Morfologia de bactérias. Fonte: Estratégia Imagens",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Diplococo."
+      },
+      {
+        "letra": "B",
+        "texto": "Estreptococo."
+      },
+      {
+        "letra": "C",
+        "texto": "Estafilococo."
+      },
+      {
+        "letra": "D",
+        "texto": "Estreptobacilo."
+      },
+      {
+        "letra": "E",
+        "texto": "Espiroqueta."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106144,
+    "tags": [],
+    "enunciado": "As bactérias são um dos componentes das células procarióticas, que não apresentam núcleo, e várias espécies são responsáveis por doenças importantes. Uma das formas de classi(cid:64)cação é com base na sua morfologia, ou seja, na forma apresentada. Assinale a alternativa que contenha o tipo de bactéria apresentada na imagem.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Diplococo."
+      },
+      {
+        "letra": "B",
+        "texto": "Estreptococo."
+      },
+      {
+        "letra": "C",
+        "texto": "Estafilococo."
+      },
+      {
+        "letra": "D",
+        "texto": "Estreptobacilo."
+      },
+      {
+        "letra": "E",
+        "texto": "Espiroqueta."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106145,
+    "tags": [],
+    "enunciado": "Qual é a célula com receptor antigênico responsável pela denominada imunidade mediada por células, que atua para ativação de fagócitos, recrutamento de leucócitos e auxílio à produção de anticorpos?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Linfócitos NK."
+      },
+      {
+        "letra": "B",
+        "texto": "Linfócitos B."
+      },
+      {
+        "letra": "C",
+        "texto": "Linfócitos T CD4⁺."
+      },
+      {
+        "letra": "D",
+        "texto": "Linfócitos T CD8⁺."
+      },
+      {
+        "letra": "E",
+        "texto": "Macrófagos."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106146,
+    "tags": [],
+    "enunciado": "Após o desenvolvimento de uma resposta imune a um antígeno, há uma fase denominada de contração da resposta que é importante para o retorno à homeostasia. Assinale a alternativa incorreta acerca desse processo.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Diminuição de proteínas antiapoptóticas nos linfócitos T efetores."
+      },
+      {
+        "letra": "B",
+        "texto": "Diminuição da produção de fatores de crescimento de linfócitos T."
+      },
+      {
+        "letra": "C",
+        "texto": "Atuação de receptores inibitórios nos linfócitos T."
+      },
+      {
+        "letra": "D",
+        "texto": "Retração completa da população de células T de memória."
+      },
+      {
+        "letra": "E",
+        "texto": "Diminuição da coestimulação dos linfócitos T."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 106147,
+    "tags": [],
+    "enunciado": "Há um grupo de citocinas composto por IL-7 e IL-15 que são importantes indutores da expressão de proteínas antiapoptóticas nas células de memória. Qual é a importância de sua presença na organização da resposta do sistema imune?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Garantir a contração da resposta imune para a manutenção da homeostasia do sistema imune."
+      },
+      {
+        "letra": "B",
+        "texto": "Garantir a geração de diversidade de receptores antigênicos."
+      },
+      {
+        "letra": "C",
+        "texto": "Indução de recombinação do gene do receptor de antígenos."
+      },
+      {
+        "letra": "D",
+        "texto": "Permitir a sobrevivência das células de memória sem a necessidade de estimulação antigênica."
+      },
+      {
+        "letra": "E",
+        "texto": "Permitir ao sistema responder rapidamente a antígenos para os quais não houve exposição anterior."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 106148,
+    "tags": [],
+    "enunciado": "Uma das propriedades conferidas com o desenvolvimento evolutivo da resposta imune adaptativa é a memória imunológica, que permite ao indivíduo responder mais rapidamente e e(cid:64)cientemente a uma antígeno previamente exposto. A resposta a um antígeno novo é feita por linfócitos T imaturos, enquanto de antígenos reintroduzidos é por células T de memória, o que confere as diferenças entre os processos. Assinale a alternativa correta quanto a essas diferenças.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A quantidade de células imaturas para um antígeno é maior que a de células de memória para o mesmo antígeno."
+      },
+      {
+        "letra": "B",
+        "texto": "As células de memória dependem de exposição contínua ao antígeno para receberem sinais de sobrevivência."
+      },
+      {
+        "letra": "C",
+        "texto": "As células de memória migram preferencialmente para órgãos linfoides secundários, como os linfonodos."
+      },
+      {
+        "letra": "D",
+        "texto": "As células de memória respondem mais rapidamente a exposição antigênica do que os linfócitos imaturos."
+      },
+      {
+        "letra": "E",
+        "texto": "Os linfócitos imaturos necessitam de menos coestimulação para a sua ativação quando comparado às células de memória."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 106149,
+    "tags": [],
+    "enunciado": "Uma das propriedades conferidas com o desenvolvimento da resposta imune adaptativa é a memória imunológica, na qual o indivíduo é capaz de responder mais rapidamente e e(cid:64)cientemente a um antígeno previamente exposto. Isso ocorre pela existência das células de memória. Qual é as características desse tipo celular que o distinguem de outros, como as células efetoras?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Presença exclusiva nos órgãos linfoides secundários."
+      },
+      {
+        "letra": "B",
+        "texto": "Proliferação rápida constitutiva."
+      },
+      {
+        "letra": "C",
+        "texto": "Manutenção dependente de reconhecimento antigênico."
+      },
+      {
+        "letra": "D",
+        "texto": "Maior quantidade de células durante a resposta imune."
+      },
+      {
+        "letra": "E",
+        "texto": "Sobrevivência celular prolongada."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 106150,
+    "tags": [],
+    "enunciado": "Um dos componentes mais importantes da imunidade adaptativa é a presença de memória imunológica, uma propriedade conferida pela existência das células T de memória. Assinale a alternativa incorreta acerca desse tipo celular.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Há expressão aumentada de proteínas antiapoptóticas, como Bcl-2."
+      },
+      {
+        "letra": "B",
+        "texto": "Células T de memória respondem mais rapidamente a um antígeno do que linfócitos T imaturos."
+      },
+      {
+        "letra": "C",
+        "texto": "O número de células T de memória para um antígeno é maior que o número de células T imaturas para o mesmo antígeno."
+      },
+      {
+        "letra": "D",
+        "texto": "Sua manutenção é dependente de estimulação antigênica contínua."
+      },
+      {
+        "letra": "E",
+        "texto": "Sua sobrevivência é dependente de citocinas que induzem proteínas antiapoptóticas."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 106151,
+    "tags": [],
+    "enunciado": "Qual das micoses sistêmicas a seguir é causada por um fungo que invade e está presente nos tecidos na forma de bolor?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Paracoccidioidomicose."
+      },
+      {
+        "letra": "B",
+        "texto": "Aspergilose."
+      },
+      {
+        "letra": "C",
+        "texto": "Histoplasmose."
+      },
+      {
+        "letra": "D",
+        "texto": "Criptococose."
+      },
+      {
+        "letra": "E",
+        "texto": "Candidíase."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106152,
+    "tags": [],
+    "enunciado": "A seguinte imagem é corada com tinta de nanquim e é utilizada para o diagnóstico de uma micose importante oportunista em pacientes com AIDS. Assinale a alternativa que contenha essa doença. Coloração com tinta de nanquim. Fonte: Estratégia Imagens.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Paracoccidioidomicose."
+      },
+      {
+        "letra": "B",
+        "texto": "Aspergilose."
+      },
+      {
+        "letra": "C",
+        "texto": "Histoplasmose."
+      },
+      {
+        "letra": "D",
+        "texto": "Criptococose."
+      },
+      {
+        "letra": "E",
+        "texto": "Candidíase."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 106153,
+    "tags": [],
+    "enunciado": "João, de 53 anos, residente e natural de São Paulo – SP é um paciente que chega à consulta com um quadro de tosse persistente acompanhado de cefaleia há 1 semana. Foi receitado um medicamento apenas sintomático com suspeita principal de síndrome gripal. O paciente evolui mal com náuseas, vômito e prostração intensa e vai ao pronto-socorro. Lá, apresenta-se com febre, queda do estado geral, confusão mental e rigidez de nuca. É realizada uma punção lombar do líquido cefalorraquidiano, que estava turvo e com aumento de pressão. Na análise laboratorial, há aumento da celularidade com leveduras encapsuladas com brotamentos. A investigação mostra que, no hemograma, a quantidade de linfócitos T CD4+ estava diminuída. Qual é a principal hipótese para o agente causador do quadro no paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cryptococcus neoformans."
+      },
+      {
+        "letra": "B",
+        "texto": "Mycobacterium tuberculosis."
+      },
+      {
+        "letra": "C",
+        "texto": "Paracoccidioides brasiliensis."
+      },
+      {
+        "letra": "D",
+        "texto": "Candida albicans."
+      },
+      {
+        "letra": "E",
+        "texto": "Malassezia furfur."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106154,
+    "tags": [],
+    "enunciado": "Qual é a espécie fúngica que é mais frequentemente isolada a partir de árvores do gênero Eucalyptus?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Histoplasma capsulatum."
+      },
+      {
+        "letra": "B",
+        "texto": "Candida albicans."
+      },
+      {
+        "letra": "C",
+        "texto": "Cryptococcus neoformans."
+      },
+      {
+        "letra": "D",
+        "texto": "Cryptococcus gatti."
+      },
+      {
+        "letra": "E",
+        "texto": "Paracoccidioides brasiliensis."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 106155,
+    "tags": [],
+    "enunciado": "Uma das micoses mais signi(cid:64)cativas é a criptococose, causada por Cryptococcus neoformans ou Cryptococcus gatti. Assinale a alternativa correta acerca dessa infecção.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Micose causada por fungo com dimorfismo térmico muito associada à solo com detritos vegetais."
+      },
+      {
+        "letra": "B",
+        "texto": "Micose causada por fungo com dimorfismo térmico associada a ambientes com fezes de morcego, como cavernas."
+      },
+      {
+        "letra": "C",
+        "texto": "Micose oportunista significativa em pacientes com AIDS e associada a ambientes com eucaliptos ou fezes de pássaros."
+      },
+      {
+        "letra": "D",
+        "texto": "Micose oportunista significativa em paciente com AIDS e associada a ambientes com fezes de morcego, como cavernas."
+      },
+      {
+        "letra": "E",
+        "texto": "Micose oportunista significativa em paciente com AIDS de fungo componente da microbiota humana normal."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106156,
+    "tags": [],
+    "enunciado": "Qual é a doença infecciosa fúngica oportunista que causa o quadro abaixo e está associada a envolvimentos de outros sistemas? Figura: Exame de orofaringe. Fonte: Arquivos Estratégia Med.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Candidíase."
+      },
+      {
+        "letra": "B",
+        "texto": "Pitiríase versicolor."
+      },
+      {
+        "letra": "C",
+        "texto": "Histoplasmose."
+      },
+      {
+        "letra": "D",
+        "texto": "Paracoccidioidomicose."
+      },
+      {
+        "letra": "E",
+        "texto": "Criptococose."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106157,
+    "tags": [],
+    "enunciado": "Quais são as características morfológicas típicas dos fungos causadores da candidíase?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Brotamentos múltiplos com aspecto de roda de leme."
+      },
+      {
+        "letra": "B",
+        "texto": "Leveduras em brotamento com pseudo-hifas."
+      },
+      {
+        "letra": "C",
+        "texto": "Leveduras intracelulares uninucleadas."
+      },
+      {
+        "letra": "D",
+        "texto": "Leveduras encapsuladas com brotamento único."
+      },
+      {
+        "letra": "E",
+        "texto": "Hifas septadas e ramificadas regularmente."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106158,
+    "tags": [],
+    "enunciado": "Na micologia, o conhecimento da estrutura morfológica microscópica dos fungos é muito importante para a sua identi(cid:64)cação. Dentre os fungos abaixo, qual é aquele que, caracteristicamente, apresenta pseudo-hifas e células leveduriformes como sua forma invasiva?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Criptococcus neoformans."
+      },
+      {
+        "letra": "B",
+        "texto": "Malassezia furfur."
+      },
+      {
+        "letra": "C",
+        "texto": "Histoplasma capsulatum."
+      },
+      {
+        "letra": "D",
+        "texto": "Candida albicans."
+      },
+      {
+        "letra": "E",
+        "texto": "Paracoccidioides brasiliensis."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 106159,
+    "tags": [],
+    "enunciado": "Muitas infecções fúngicas são suspeitadas a partir de elementos da anamnese que coincidam com a epidemiologia da doença. Alguns são associados a determinados habitats, com os quais geralmente o indivíduo entra em contato antes de desenvolver a doença. Qual é o habitat do patógeno causador da histoplasmose?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Solo ácido com matéria orgânica vegetal decomposta, principalmente plantas de café."
+      },
+      {
+        "letra": "B",
+        "texto": "Solo úmido rico em nitrogênio enriquecido com fezes de morcego ou aves."
+      },
+      {
+        "letra": "C",
+        "texto": "Solo seco com matéria orgânica vegetal decomposta."
+      },
+      {
+        "letra": "D",
+        "texto": "Patógeno oportunista componente da microbiota humana normal."
+      },
+      {
+        "letra": "E",
+        "texto": "Patógeno oportunista presente em ambientes nosocomiais apenas."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106160,
+    "tags": [],
+    "enunciado": "Uma infecção ser intracelular não signi(cid:64)ca que ela é viral, porque há outros patógenos com fatores de virulência que os permitem viver e replicar-se no interior das células humanas. Qual das seguintes espécies apresenta germinação dos conídios após a fagocitose para a formação de leveduras? Leveduras intracelulares. Fonte: Estratégia Imagens.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Histoplasma capsulatum."
+      },
+      {
+        "letra": "B",
+        "texto": "Paracoccidioides brasiliensis."
+      },
+      {
+        "letra": "C",
+        "texto": "Blastomyces dermatitidis."
+      },
+      {
+        "letra": "D",
+        "texto": "Malassezia spp."
+      },
+      {
+        "letra": "E",
+        "texto": "Staphylococcus aureus."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106161,
+    "tags": [],
+    "enunciado": "Uma das patologias fúngicas mais prevalentes no Brasil corresponde à paracoccidioidomicose, causada por espécies do gênero Paracoccidioides. No exame microscópico direto de uma amostra infectada nos pacientes, qual é a forma apresentada pelo fungo?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hifas hialinas septadas com artroconídios."
+      },
+      {
+        "letra": "B",
+        "texto": "Hifas pigmentadas septadas curtas."
+      },
+      {
+        "letra": "C",
+        "texto": "Leveduras associadas em cachos com pseudo-hifas."
+      },
+      {
+        "letra": "D",
+        "texto": "Leveduras arredondadas com múltiplos brotamentos de istmo estreito."
+      },
+      {
+        "letra": "E",
+        "texto": "Levedura arredonda com único brotamento."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 106162,
+    "tags": [],
+    "enunciado": "João, de 43 anos e agricultor, residente e natural do oeste paulista relata um quadro de tosse e cansaço progressivo ao longo de 1 ano. Há 6 meses, iniciou escarros hemoptoicos associados a quadros esporádicos de febre e mal-estar. A radiogra(cid:64)a simples de tórax mostrou consolidações bilaterais localizadas centralmente que poupam ápices e bases, em um aspecto de “asa de borboleta”. O exame microscópico direto do escarro mostrou a presença de células ovais com múltiplos brotamentos de base estreita. Qual das infecções fúngicas a seguir deve ser a hipótese principal? Radiografia convencional de tórax com aspecto de asa de borboleta. Fonte: Estratégia Imagens",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Paracoccidioidomicose."
+      },
+      {
+        "letra": "B",
+        "texto": "Candidíase."
+      },
+      {
+        "letra": "C",
+        "texto": "Histoplasmose."
+      },
+      {
+        "letra": "D",
+        "texto": "Criptococose."
+      },
+      {
+        "letra": "E",
+        "texto": "Tuberculose."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106163,
+    "tags": [],
+    "enunciado": "A imagem abaixo corresponde a um exame microscópico com coloração de metenamina de prata de Grocott-Gomori com uma morfologia típica de uma espécie de fungo patogênica aos humanos. Assinale a alternativa que corresponda à doença causada por esse fungo. Figura: Fungo com coloração de metenamina de prata de Grocott-Gomori. Fonte: Arquivos Estratégia Med.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Dermatofitose."
+      },
+      {
+        "letra": "B",
+        "texto": "Paracoccidioidomicose."
+      },
+      {
+        "letra": "C",
+        "texto": "Candidíase."
+      },
+      {
+        "letra": "D",
+        "texto": "Criptococose."
+      },
+      {
+        "letra": "E",
+        "texto": "Histoplasmose."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106164,
+    "tags": [],
+    "enunciado": "A maduromicose, ou micetoma eumicótico, é uma micose subcutânea que pode causar limitações e deformações importantes principalmente pelo rompimento de planos teciduais e destruição local do músculo e osso. É fonte de um diferencial importante com outros micetomas, porque o seu agente etiológico é fúngico, o que di(cid:64)culta o tratamento medicamentoso. Os micetoma actinomicótico é causado por bactérias que assumem uma morfologia similar a fungos, mas a resposta ao tratamento é muito mais e(cid:64)caz. Qual é a característica comum que agrupa esses patógenos sob o mesmo nome de micetoma?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Lesões queloides."
+      },
+      {
+        "letra": "B",
+        "texto": "Agregados de células filamentosas em matriz extracelular dura, os grãos."
+      },
+      {
+        "letra": "C",
+        "texto": "Nódulos de padrão de linfangite ascendente com ulceração."
+      },
+      {
+        "letra": "D",
+        "texto": "Placas eritematosas descamativas."
+      },
+      {
+        "letra": "E",
+        "texto": "Pápulas verrucosas."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106165,
+    "tags": [],
+    "enunciado": "Uma das micoses subcutâneas que existem no Brasil corresponde à doença de Jorge Lobo, porque o seu primeiro caso foi descrito em Recife em 1931 pelo dermatologista de mesmo nome. O seu agente etiológico foi denominado de Lacazia loboi. Qual são as características clínicas peculiares apresentadas nessa patologia?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Placas eritematosas descamativas."
+      },
+      {
+        "letra": "B",
+        "texto": "Nódulos de padrão de linfangite ascendente com ulceração."
+      },
+      {
+        "letra": "C",
+        "texto": "Úlceras únicas de bordas irregulares e conteúdo purulento."
+      },
+      {
+        "letra": "D",
+        "texto": "Lesões queloides."
+      },
+      {
+        "letra": "E",
+        "texto": "Máculas eritematosas descamativas."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 106166,
+    "tags": [],
+    "enunciado": "Na análise histopatológica de um nódulo indolor de aumento progressivo, veri(cid:64)cou-se a presença de granulomas e abcessos que envolvem estruturas peculiares conhecidas como grânulos. O seu conteúdo corresponde a um grande agregado de hifas septadas com modi(cid:64)cações na parede celular e clamidoconídios, somado à secreção de uma matriz extracelular rígida semelhante a cimento. Qual é o nome dessa patologia?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Esporotricose."
+      },
+      {
+        "letra": "B",
+        "texto": "Dermatofitose."
+      },
+      {
+        "letra": "C",
+        "texto": "Pitiríase versicolor."
+      },
+      {
+        "letra": "D",
+        "texto": "Micetoma eumicótico."
+      },
+      {
+        "letra": "E",
+        "texto": "Micetoma actinomicótico."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 106167,
+    "tags": [],
+    "enunciado": "Um dos fungos patológicos mais importantes é o Sporothrix schenckii, um fungo termodimór(cid:64)co cuja forma (cid:64)lamentosa consiste em hifas estreitas, septadas e hialinas com conídios dispostos em rosetas. Em contraste, sua forma leveduriforme, apresentada na infecção tecidual, consiste em células ovais ou em formato de charuto com um brotamento geralmente único. Qual é o tipo de micose causado e como é a apresentação de lesões?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Micose superficial e nódulos em padrão de linfangite ascendente."
+      },
+      {
+        "letra": "B",
+        "texto": "Micose cutânea e placas eritematosas com descamação."
+      },
+      {
+        "letra": "C",
+        "texto": "Micose subcutânea e placas eritematosas com descamação."
+      },
+      {
+        "letra": "D",
+        "texto": "Micose cutânea e nódulos em padrão de linfangite ascendente."
+      },
+      {
+        "letra": "E",
+        "texto": "Micose subcutânea e nódulos em padrão de linfangite ascendente."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 106168,
+    "tags": [],
+    "enunciado": "Manuel, de 50 anos e residente da área rural de São Paulo, apresenta uma queixa de lesões escuras e pruriginosas na pele. Elas se iniciaram há 1 ano com pápulas pequenas edemaciadas no dorso da mão com aumento gradual e evolução para uma área mais extensa de placa escamosa com hiperqueratose. O paciente procurou atendimento apenas com o aparecimento de nova lesão no outro membro superior também de aspecto papular, porque sua esposa achava que estava com câncer. Foi realizado um exame direto, com hidróxido de potássio, que revelou células escleróticas pigmentadas redondas com uma divisão septal interna. Qual é a doença apresentada por seu Manuel?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Esporotricose."
+      },
+      {
+        "letra": "B",
+        "texto": "Dermatofitose."
+      },
+      {
+        "letra": "C",
+        "texto": "Carcinoma basocelular."
+      },
+      {
+        "letra": "D",
+        "texto": "Cromoblastomicose."
+      },
+      {
+        "letra": "E",
+        "texto": "Micetoma."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 106169,
+    "tags": [],
+    "enunciado": "João, de 25 anos e residente da área rural de São Paulo, descreve um ferimento na palma de sua mão com um galho após cair de uma árvore. Durante a semana seguinte, a região ao redor da lesão evoluiu com edema, úlceras e secreção purulenta. Na primeira consulta, foi prescrito a utilização de um antibiótico tetracíclico, mas não houve sucesso no tratamento. No retorno, o paciente evoluiu com outros nódulos e úlceras no membro superior em um padrão linfático nodular ascendente. Foi realizado um exame histopatológico na lesão que não identi(cid:64)cou bacilos ou elementos fúngicos. Somente na cultura, foram identi(cid:64)cadas hifas (cid:64)nas e septadas com conídios depositados em rosetas. Qual é a doença apresentada por seu João?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Esporotricose."
+      },
+      {
+        "letra": "B",
+        "texto": "Dermatofitose."
+      },
+      {
+        "letra": "C",
+        "texto": "Pitiríase versicolor."
+      },
+      {
+        "letra": "D",
+        "texto": "Cromoblastomicose."
+      },
+      {
+        "letra": "E",
+        "texto": "Micetoma."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106170,
+    "tags": [],
+    "enunciado": "Na análise da etiologia da Tinea capitis é possível utilizar-se do padrão de infecção microscópico do pelo um fungo, que varia de acordo com a espécie causadora. Qual é o tipo em que há formação de artroconídios no interior da haste do pelo sem espaços vazios e qual é o nome geral dessas patologias?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ectótrix e dermatofitoses."
+      },
+      {
+        "letra": "B",
+        "texto": "Endótrix e dermatofitoses."
+      },
+      {
+        "letra": "C",
+        "texto": "Fávico e Piedra."
+      },
+      {
+        "letra": "D",
+        "texto": "Ectótrix e pitiríase."
+      },
+      {
+        "letra": "E",
+        "texto": "Endótrix e pitiríase."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106171,
+    "tags": [],
+    "enunciado": "Uma amostra de biópsia de pele de uma lesão dermatológica de placas eritematosas elevadas com descamação e diminuição central da in(cid:57)amação em uma área de alopecia é enviada para a realização de exame microscópico direto. Quais são as estruturas do patógeno, caso ele exista, que é esperado encontrar?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hifas septadas e hialinas com artroconídios em cadeia ou dissociados que invadem o estrato córneo."
+      },
+      {
+        "letra": "B",
+        "texto": "Hifas pigmentadas com células leveduriformes na superfície do extrato córneo."
+      },
+      {
+        "letra": "C",
+        "texto": "Hifas curtas e curvas com células leveduriformes agrupadas em cachos na superfície do extrato córneo."
+      },
+      {
+        "letra": "D",
+        "texto": "Células leveduriformes hialinas agrupadas em cadeias que invadem o estrato córneo."
+      },
+      {
+        "letra": "E",
+        "texto": "Células leveduriformes com brotamentos agrupadas em cachos que invadem o estrato córneo."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106172,
+    "tags": [],
+    "enunciado": "Você recebe o encaminhamento de um paciente com descrição de Tinea capitis, um tipo de dermato(cid:64)tose. Como é esperado que seja a sua apresentação clínica?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Mácula hipercrômica isolada na palma de mãos ou pés."
+      },
+      {
+        "letra": "B",
+        "texto": "Mácula hipercrômica isolada abaixo do couro cabeludo com descamação e preservação do cabelo."
+      },
+      {
+        "letra": "C",
+        "texto": "Placa eritematosa elevada com escamação na área com alopecia. O eritema diminui centralmente."
+      },
+      {
+        "letra": "D",
+        "texto": "Placa eritematosa elevada com escamação na área com alopecia. O eritema aumenta centralmente."
+      },
+      {
+        "letra": "E",
+        "texto": "Mácula hipocrômicas sem descamação na área de alopecia."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106173,
+    "tags": [],
+    "enunciado": "Qual dos seguintes gêneros fúngicos abaixo é um dos causadores de dermatofitoses?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Trichosporon."
+      },
+      {
+        "letra": "B",
+        "texto": "Malassezia."
+      },
+      {
+        "letra": "C",
+        "texto": "Piedraia."
+      },
+      {
+        "letra": "D",
+        "texto": "Candida."
+      },
+      {
+        "letra": "E",
+        "texto": "Trichophyton."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 106174,
+    "tags": [],
+    "enunciado": "Os fungos do gênero Trichosporon são causadores de uma micose super(cid:64)cial que acomete pelos com a formação de nódulos ao redor da haste. Assinale a doença causada por esses patógenos.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tinea nigra."
+      },
+      {
+        "letra": "B",
+        "texto": "Pitiríase versicolor."
+      },
+      {
+        "letra": "C",
+        "texto": "Piedra branca."
+      },
+      {
+        "letra": "D",
+        "texto": "Piedra nigra."
+      },
+      {
+        "letra": "E",
+        "texto": "Dermatofitoses."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106175,
+    "tags": [],
+    "enunciado": "Uma das micoses super(cid:64)ciais corresponde à Tinea nigra, causada por Hortaea werneckii. Assinale a alternativa que corresponda à melhor descrição do quadro clínico dessa patologia.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Máculas hipo ou hipercrômicas com bordas regulares distribuídas na parte superior do tronco e face."
+      },
+      {
+        "letra": "B",
+        "texto": "Máculas hipercrômicas isoladas na palma de mãos ou pés."
+      },
+      {
+        "letra": "C",
+        "texto": "Nódulos pastosos branco acastanhados ao redor dos pelos."
+      },
+      {
+        "letra": "D",
+        "texto": "Nódulos pequenos e escuros ao redor da haste do pelo de consistência dura."
+      },
+      {
+        "letra": "E",
+        "texto": "Anel de escamação inflamatória com pouca inflamação central."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106176,
+    "tags": [],
+    "enunciado": "A pitiríase versicolor é uma alteração dermatológica autolimitada que causa um quadro de exantema macular hipo ou hipercrômico. Como é possível realizar o diagnóstico dessa patologia? Pitiríase versicolor. Fonte: Estratégia Imagens.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Exame direto com KOH a 10%: blastoconídios agrupados em cachos de uva com hifas curtas e curvas septadas."
+      },
+      {
+        "letra": "B",
+        "texto": "Exame direto com KOH a 10%: hifa septada e ramificada com a presença de artroconídios."
+      },
+      {
+        "letra": "C",
+        "texto": "Exame direto com NAOH a 10%: blastoconídios agrupados em cachos de uva com hifas curtas e curvas septadas."
+      },
+      {
+        "letra": "D",
+        "texto": "Exame direto com NAOH a 10%: hifa septada e ramificada com a presença de artroconídios."
+      },
+      {
+        "letra": "E",
+        "texto": "Exame direto com KOH a 10%: hifas septadas hialinas com artroconídios."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106177,
+    "tags": [],
+    "enunciado": "Algumas doenças mais signi(cid:64)cativas causadas por fungos correspondem a micoses super(cid:64)ciais, dentre as quais está a pitiríase versicolor. Quais são as alterações encontradas nessa patologia e quais são as espécies associadas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Máculas hipo ou hipercrômicas e Malassezia spp."
+      },
+      {
+        "letra": "B",
+        "texto": "Máculas hipo ou hipercrômicas e Candida albicans."
+      },
+      {
+        "letra": "C",
+        "texto": "Exantema bolhoso e Trichophyton spp."
+      },
+      {
+        "letra": "D",
+        "texto": "Exantema bolhoso e Malassezia spp."
+      },
+      {
+        "letra": "E",
+        "texto": "Máculas hipo ou hipercrômicas e Trichosporon spp."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106178,
+    "tags": [],
+    "enunciado": "O que correspondem as formas anamórficas dos fungos?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Formas de reprodução assexuada que correspondem à maior parte dos fungos encontrados como patógenos."
+      },
+      {
+        "letra": "B",
+        "texto": "Formas de reprodução sexuada que correspondem à maior parte dos fungos encontrados como patógenos."
+      },
+      {
+        "letra": "C",
+        "texto": "Formas filamentosas responsáveis pela formação das estruturas de reprodução sexuada, não relacionadas ao parasitismo humano."
+      },
+      {
+        "letra": "D",
+        "texto": "Formas de reprodução assexuada que corresponde à morfologia dos fungos não encontradas nas patologias."
+      },
+      {
+        "letra": "E",
+        "texto": "Formas de reprodução sexuada que corresponde à morfologia dos fungos não encontradas nas patologias."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106179,
+    "tags": [],
+    "enunciado": "Qual é o principal filo do reino Fungi causador de doenças em humanos?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ascomicetos."
+      },
+      {
+        "letra": "B",
+        "texto": "Basidiomicetos."
+      },
+      {
+        "letra": "C",
+        "texto": "Glomeromicetos."
+      },
+      {
+        "letra": "D",
+        "texto": "Zigomicetos."
+      },
+      {
+        "letra": "E",
+        "texto": "Blastocladiomicetos."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106180,
+    "tags": [],
+    "enunciado": "Houve uma grande confusão na taxonomia dos fungos com relação a diversas espécies que receberam duas denominações, uma para a forma anamórfica e outra para a teleomórfica, o que provoca uma discordância na comunicação. Qual é a diferença entre ambas as formas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O teleomorfo corresponde ao estágio sexual reprodutivo de um fungo, encontrado na maior parte das micoses humanas."
+      },
+      {
+        "letra": "B",
+        "texto": "O anamorfo corresponde ao estágio assexual reprodutivo de um fungo, encontrado na maior parte das micoses humanas."
+      },
+      {
+        "letra": "C",
+        "texto": "O teleomorfo corresponde ao estágio assexual reprodutivo de um fungo, encontrado na maior parte das micoses humanas."
+      },
+      {
+        "letra": "D",
+        "texto": "O anamorfo corresponde ao estágio sexual reprodutivo de um fungo, cuja nômina foi padronizada mesmo não sendo a forma comum nas micoses."
+      },
+      {
+        "letra": "E",
+        "texto": "O teleomorfo corresponde ao estágio assexual reprodutivo de um fungo, cuja nômina foi padronizada mesmo não sendo a forma comum nas micoses."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106181,
+    "tags": [],
+    "enunciado": "Os fungos são seres complexos com mecanismos diversos de reprodução que conferem determinada propriedade à espécie. Assinale a alternativa correta acerca do ciclo de vida dos fungos.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A sua forma anamorfa está relacionada à formação de esporos sexuados."
+      },
+      {
+        "letra": "B",
+        "texto": "Os blastoconídios são células formadas a partir do brotamento assexual de uma célula parental."
+      },
+      {
+        "letra": "C",
+        "texto": "A formação de esporos ocorre apenas na reprodução sexuada."
+      },
+      {
+        "letra": "D",
+        "texto": "A forma de reprodução sexuada de algumas espécies patogênicas é com a formação de pseudo- hifas."
+      },
+      {
+        "letra": "E",
+        "texto": "A forma encontrada no ser humano durante as infecções é, predominantemente, a que realiza a reprodução sexuada."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106182,
+    "tags": [],
+    "enunciado": "Qual é o significado do termo dimórfico aplicado aos fungos patogênicos?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Podem se dividir por divisão assexuada, por brotamento, ou sexuada, por plasmogamia."
+      },
+      {
+        "letra": "B",
+        "texto": "Apresentam dois tipos de esporos sexuais: artroconídios e conídios."
+      },
+      {
+        "letra": "C",
+        "texto": "Crescem tanto na forma de levedura quanto filamentosa com a variação de algum componente do ambiente."
+      },
+      {
+        "letra": "D",
+        "texto": "Podem se apresentar na forma de levedura ou de pseudo-hifas de acordo com a variação de temperatura."
+      },
+      {
+        "letra": "E",
+        "texto": "Formação de blastoconídios como esporos assexuais."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106183,
+    "tags": [],
+    "enunciado": "As infecções fúngicas tomam uma importância médica mais signi(cid:64)cativa com o advento das terapias imunossupressoras e patologias que cursam com imunode(cid:64)ciência, como a AIDS. Assinale a alternativa abaixo que contenha um fator diferencial entre células fúngicas e de outros patógenos.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Parede celular fúngica é composta por quitina, polímero de N-acetilglicosamina."
+      },
+      {
+        "letra": "B",
+        "texto": "Membrana celular rica em colesterol."
+      },
+      {
+        "letra": "C",
+        "texto": "Células autotróficas."
+      },
+      {
+        "letra": "D",
+        "texto": "Formação de endósporos para a reprodução."
+      },
+      {
+        "letra": "E",
+        "texto": "Meios complexos de movimentação."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106184,
+    "tags": [],
+    "enunciado": "Um dos possíveis usos da titulação de anticorpos virais para diferentes antígenos virais é o acompanhamento e identi(cid:64)cação da fase da doença, visto que o padrão de expressão de anticorpos pode mudar durante a história natural. Qual dos seguintes vírus apresenta essa mudança característica que pode determinar o estado do indivíduo para os antígenos virais e anticorpos?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hepatite B."
+      },
+      {
+        "letra": "B",
+        "texto": "Hepatite A."
+      },
+      {
+        "letra": "C",
+        "texto": "HIV."
+      },
+      {
+        "letra": "D",
+        "texto": "Influenza."
+      },
+      {
+        "letra": "E",
+        "texto": "Coronavírus."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106185,
+    "tags": [],
+    "enunciado": "Você atende um paciente e suspeita fortemente de uma possível etiologia gripal para o quadro apresentado pelo paciente. Após solicitar os exames, os resultados retornam 4 dias após com IgM positiva especí(cid:64)ca para o vírus que você suspeitava. Qual é significado disso no quadro?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A paciente está no início do processo de infecção viral e ainda não entrou na convalescença."
+      },
+      {
+        "letra": "B",
+        "texto": "A infecção primária ao vírus foi a pelo menos 6 meses, tempo necessário para o desenvolvimento de IgM."
+      },
+      {
+        "letra": "C",
+        "texto": "A infecção secundária ao vírus ocorreu há, aproximadamente, 2 semanas."
+      },
+      {
+        "letra": "D",
+        "texto": "A viremia ainda é significativamente alta."
+      },
+      {
+        "letra": "E",
+        "texto": "A infecção primária ao vírus deve ter ocorrido recentemente."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 106186,
+    "tags": [],
+    "enunciado": "A identi(cid:64)cação de muitos vírus pode ser di(cid:64)cultada porque não é possível observá-lo diretamente no microscópio óptico e o seu material genético pode ser escasso em alguns casos. Alguns vírus com material genético integrado ou em baixas concentrações não apresentam biomoléculas su(cid:64)cientes para uma positividade nos testes laboratoriais. Qual o procedimento que pode ser utilizado para um melhor aproveitamento dessas amostras?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Southern blot."
+      },
+      {
+        "letra": "B",
+        "texto": "Reação de polimerase em cadeia."
+      },
+      {
+        "letra": "C",
+        "texto": "Hibridização fluorescente in situ."
+      },
+      {
+        "letra": "D",
+        "texto": "ELISA"
+      },
+      {
+        "letra": "E",
+        "texto": "Western blot."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106187,
+    "tags": [],
+    "enunciado": "O diagnóstico de infecções virais é diferente do de bactérias, em decorrência de sua (cid:64)siologia e proporções. Assinale a alternativa que não corresponda a formas de identificação possíveis da presença de vírus.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Biópsias de tecido com alterações celulares características."
+      },
+      {
+        "letra": "B",
+        "texto": "Imunofluorescência de biópsias com antígenos virais."
+      },
+      {
+        "letra": "C",
+        "texto": "Microscopia óptica de secreções."
+      },
+      {
+        "letra": "D",
+        "texto": "Ensaio de imunoabsorção enzimática."
+      },
+      {
+        "letra": "E",
+        "texto": "Hibridização fluorescente in situ"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106188,
+    "tags": [],
+    "enunciado": "O herpes-zóster é uma doença infecciosa causada pelo vírus HHV-3 (Herpesvírus humano 3), que se caracteriza por manifestações de eritemas bolhosos e vesiculares com distribuição em dermátomos. Assinale qual é o tipo de infecção dessa doença.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Infecção aguda."
+      },
+      {
+        "letra": "B",
+        "texto": "Infecção persistente produtiva."
+      },
+      {
+        "letra": "C",
+        "texto": "Infecção citolítica latente."
+      },
+      {
+        "letra": "D",
+        "texto": "Infecção persistente latente-recorrente."
+      },
+      {
+        "letra": "E",
+        "texto": "Infecção inaparente."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 106189,
+    "tags": [],
+    "enunciado": "Um dos componentes da morfologia dos vírus com efeito mais aparente em sua epidemiologia e forma de transmissão é o envelope viral. A sua presença confere qual propriedade aos vírus?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Maior resistência a ambientes secos, ação de detergentes e de pH com transmissão geralmente fecal-oral."
+      },
+      {
+        "letra": "B",
+        "texto": "Maior resistência a ambientes secos, o que permite a transmissão por via respiratória ou fômites."
+      },
+      {
+        "letra": "C",
+        "texto": "Maior fragilidade a ambientes secos, ação de detergentes e de pH com transmissão por gotículas respiratórias ou secreções."
+      },
+      {
+        "letra": "D",
+        "texto": "Maior fragilidade a ambientes secos e resistência a ação de detergentes e pH, o que permite a transmissão fecal-oral."
+      },
+      {
+        "letra": "E",
+        "texto": "Maior resistência a ambientes secos e fragilidade a ação de detergentes e pH, o que os torna mais transmissíveis pela via aérea."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106190,
+    "tags": [],
+    "enunciado": "Muito da manifestação clínica de infecções virais não está associado à patogênese do vírus em si, mas à resposta do sistema imune a essa infecção. Assinale a alternativa que não contenha um desses mecanismos.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Indução de citólise após a infecção por perturbação funcional do tecido."
+      },
+      {
+        "letra": "B",
+        "texto": "Formação de imunocomplexos de anticorpos e partículas virais com deposição e ativação constante do complemento."
+      },
+      {
+        "letra": "C",
+        "texto": "Ligação do anticorpo ao antígeno com inibição da interação das partículas virais com seus receptores celulares."
+      },
+      {
+        "letra": "D",
+        "texto": "Produção acentuada de citocinas pró-inflamatórias sistêmicas."
+      },
+      {
+        "letra": "E",
+        "texto": "Produção de sintomas sistêmicos prodrômicos de mal-estar."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106191,
+    "tags": [],
+    "enunciado": "Muitos vírus apresentam um papel conhecido na promoção de tumores e são conhecidos como oncogênicos. Assinale a alternativa incorreta acerca dos mecanismos patogênicos desses vírus para a imortalização das células.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ativação ou presença de genes de estimulação de crescimento."
+      },
+      {
+        "letra": "B",
+        "texto": "Indução da produção de citocinas estimulantes de proliferação, como IL-2."
+      },
+      {
+        "letra": "C",
+        "texto": "Inibição de proteínas inibitórias do ciclo celular e de proliferação, como p53 e RB."
+      },
+      {
+        "letra": "D",
+        "texto": "Indução de proteínas inibitórias da apoptose, como Bcl-2."
+      },
+      {
+        "letra": "E",
+        "texto": "Genes que se ligam a proto-oncogenes e inibem a sua expressão."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 106192,
+    "tags": [],
+    "enunciado": "A infecção celular por alguns vírus, como o HIV, ocorre sem que a maior parte das células seja destruída. A infecção permanece sem a destruição com produção de partículas virais que são liberados a partir de sua membrana plasmática por exocitose ou brotamento. É interessante para o vírus esse tipo de relação porque o seu maquinário de reprodução permanecesse acessível por bastante tempo e, então, mais vírus são produzidos. Assinale a alternativa que corresponda a esse tipo de infecção.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Persistente latente."
+      },
+      {
+        "letra": "B",
+        "texto": "Transformadora."
+      },
+      {
+        "letra": "C",
+        "texto": "Citolítica."
+      },
+      {
+        "letra": "D",
+        "texto": "Persistente produtiva."
+      },
+      {
+        "letra": "E",
+        "texto": "Abortiva."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 106193,
+    "tags": [],
+    "enunciado": "Durante as etapas da infecção viral no organismo, assinale a a(cid:64)rmativa correta acerca do tecido-alvo do vírus.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O tecido-alvo corresponde ao ponto primário de replicação viral, o que acarreta o pródromo."
+      },
+      {
+        "letra": "B",
+        "texto": "O tecido-alvo é aquele que permite ao vírus a disseminação para o restante dos tecidos do organismo, o que caracteriza a viremia."
+      },
+      {
+        "letra": "C",
+        "texto": "O tecido-alvo corresponde ao ponto primário de replicação viral, o que acarreta a convalescência."
+      },
+      {
+        "letra": "D",
+        "texto": "O tecido-alvo do vírus pode ser alcançado após a disseminação do vírus, o que acarreta os sintomas específicos."
+      },
+      {
+        "letra": "E",
+        "texto": "O tecido-alvo do vírus corresponde ao ponto de replicação secundário, atingido após a disseminação do vírus por viremia."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 106194,
+    "tags": [],
+    "enunciado": "As bactérias encontradas em feridas crônicas podem ser encapsuladas por uma camada protetora formada pelo hospedeiro e proteínas bacterianas. Essa camada é chamada de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "debris"
+      },
+      {
+        "letra": "B",
+        "texto": "fibrina"
+      },
+      {
+        "letra": "C",
+        "texto": "biofilme"
+      },
+      {
+        "letra": "D",
+        "texto": "abscesso"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106195,
+    "tags": [],
+    "enunciado": "A exposição a antimicrobianos é um dos mecanismos responsáveis pelo surgimento de mutações e expressão de resistência bacteriana aos antibióticos. Sobre o tratamento de infecções causadas por enterobactérias produtoras de betalactamases de espectro estendido (ESBL) e enterobactérias resistentes aos carbapenêmicos (ERC) podemos dizer que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o tratamento de escolha da pielonefrite, causada por ESBL, é Ertapenem ou Meropenem, podendo ser utilizada a Fosfomicina como alternativa terapêutica."
+      },
+      {
+        "letra": "B",
+        "texto": "ciprofloxacino não deve ser utilizado para infecções do trato urinário causadas por ERC, mesmo que seja uma cistite não complicada."
+      },
+      {
+        "letra": "C",
+        "texto": "o cefepime deve ser evitado para tratamento de infecções causadas por ESBL, mesmo se a sensibilidade ao cefepime esteja demonstrada. Porém, se o cefepime tiver sido iniciado empírico para cistite, causada por uma ESBL posteriormente identificada e tiver havido melhora clinica, não é necessário escalonar a terapia."
+      },
+      {
+        "letra": "D",
+        "texto": "não está indicado o uso de Ceftazidima-avibactam para ERC, pois a ceftazidima é uma cefalosporina de terceira geração e, portanto, demonstra resistência às cepas produtoras de carbapenemases. 4000193193"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106196,
+    "tags": [],
+    "enunciado": "Antibioticoprofilaxia Cirúrgica Com relação à antibioticopro(cid:64)laxia cirúrgica, o Colégio Brasileiro de Cirurgiões – CBC aponta que a principal condição que favorece à resistência bacteriana é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A farmacocinética."
+      },
+      {
+        "letra": "B",
+        "texto": "O espectro do antibiótico."
+      },
+      {
+        "letra": "C",
+        "texto": "A toxicidade do fármaco."
+      },
+      {
+        "letra": "D",
+        "texto": "O risco de alterar a flora bacteriana."
+      },
+      {
+        "letra": "E",
+        "texto": "A duração da antibioticoprofilaxia. 4000192237"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 106197,
+    "tags": [],
+    "enunciado": "Antibióticos e Resistência bacteriana Qual alternativa contém apenas antibióticos que não necessitam de correção de dose pela função renal?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ceftriaxona, amicacina, metronidazol."
+      },
+      {
+        "letra": "B",
+        "texto": "Ceftriaxona, clindamicina, moxifloxacino."
+      },
+      {
+        "letra": "C",
+        "texto": "Amicacina, teicoplanina, clindamicina."
+      },
+      {
+        "letra": "D",
+        "texto": "Teicoplanina, sulfametoxazol-trimetoprima, nitrofurantoína. 4000191288"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106198,
+    "tags": [],
+    "enunciado": "Bactérias Gram negativas e Gram positivas expressam distintos mecanismos de resistência aos antimicrobianos. Considerando esses mecanismos,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "betalactamases promovem resistência dos Staphylococcus aureus a penicilinas e cefalosporinas."
+      },
+      {
+        "letra": "B",
+        "texto": "proteínas ligadoras de penicilina codificadas pelo gene mecA conferem resistência do Streptococcus pneumoniae à penicilina."
+      },
+      {
+        "letra": "C",
+        "texto": "oxacilinases (betalactamases de Classe D de Ambler) de Acinetobacter baumannii hidrolisam carbapenem."
+      },
+      {
+        "letra": "D",
+        "texto": "carbapenemases e betalactamases de espectro estendido (ESBL) de Klebsiella pneumoniae hidrolisam todos os betalactâmicos, exceto o Aztreonam."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106199,
+    "tags": [],
+    "enunciado": "Qual das drogas abaixo apresenta melhor atividade contra pseudomonas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cefepima."
+      },
+      {
+        "letra": "B",
+        "texto": "Penicilina V."
+      },
+      {
+        "letra": "C",
+        "texto": "Sulfametoxazol."
+      },
+      {
+        "letra": "D",
+        "texto": "Ceftriaxona."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106200,
+    "tags": [],
+    "enunciado": "O uso indiscriminado de antibióticos, sabidamente, agravou-se durante a pandemia de COVID 19. Dentre o grupo de bactérias multirresistentes selecionadas, podemos destacar as produtoras de carbapenemases, cujo representante mais conhecido é a Klebsiella pneumoniae, produtora de carbapenemase (KPC). Os principais mecanismos de resistência destes germes são a produção de metalo-carbapenemases e serino- carbapenemases. Num paciente séptico, apresentando duas hemoculturas positivas para.KPC, cujo teste fenotípico evidenciou uma metalobetalactamase, o antibiótico de escolha é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cefepima;"
+      },
+      {
+        "letra": "B",
+        "texto": "Aztreonam;"
+      },
+      {
+        "letra": "C",
+        "texto": "Piperacilina + Tazobactam;"
+      },
+      {
+        "letra": "D",
+        "texto": "Imipenem .cilastatina;"
+      },
+      {
+        "letra": "E",
+        "texto": "Sulfametoxazol + Trimetoprima."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106201,
+    "tags": [],
+    "enunciado": "Qual é a importância do antígeno polissacarídeo capsular para o pneumococo?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Esse polissacarídeo capsular não pode ser utilizado como antígeno vacinai por causa da pouca diversidade antigênica da cápsula."
+      },
+      {
+        "letra": "B",
+        "texto": "A cápsula é o principal fator de virulência do pneumococo, pois protege a bactéria da fagocitose por macrófagos e neutrófilos."
+      },
+      {
+        "letra": "C",
+        "texto": "Não induz imunidade, portanto não pode ser utilizado como antígeno vacinai."
+      },
+      {
+        "letra": "D",
+        "texto": "Cerca de 90% das cepas de pneumococo isoladas de quadros de doença não têm cápsula polissacarídica. 4000145621 Respostas: 1 D 2 A 3 A 4 B 5 B 6 A 7 A 8 E 9 B 10 C 11 C 12 A 13 D 14 D 15 A 16 C 17 C 18 C 19 E 20 A 21 D 22 D 23 B 24 D 25 D 26 B 27 E 28 B 29 E 30 E 31 E 32 C 33 A 34 A 35 C 36 C 37 D 38 D 39 C 40 A 41 D 42 A 43 C 44 D 45 C 46 A 47 A 48 B 49 D 50 E 51 E 52 C 53 C 54 B 55 C 56 D 57 D 58 D 59 E 60 D 61 B 62 D 63 A 64 D 65 C 66 A 67 B 68 D 69 B 70 A 71 D 72 A 73 B 74 B 75 D 76 D 77 E 78 D 79 A 80 B 81 A 82 C 83 E 84 C 85 B 86 A 87 A 88 A 89 A 90 B 91 B 92 C 93 A 94 A 95 E 96 B 97 C 98 D 99 C 100 C 101 E 102 D 103 D 104 C 105 C 106 D 107 B 108 C 109 A 110 B 111 B"
+      }
+    ],
+    "resposta_correta": "B"
+  }
+]

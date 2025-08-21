@@ -1,0 +1,1214 @@
+[
+  {
+    "id": 105147,
+    "tags": [],
+    "enunciado": "L.R., uma mulher de 40 anos, foi recentemente diagnosticada com depressão maior. O psiquiatra de L.R. prescreveu um medicamento antidepressivo comum, a (cid:38)uoxetina, a ser tomado uma vez ao dia. Após três semanas de tratamento, L.R. retorna à consulta relatando que não notou melhora em seus sintomas. O médico decide então aumentar a dose do medicamento. No entanto, após uma semana com a dose aumentada, L.R. começa a experimentar efeitos colaterais graves, incluindo náusea, tremores e insônia. O médico de L.R. decide então pedir um teste genético para entender melhor a resposta do corpo de L.R. ao medicamento. Considerando o conceito de farmacogenética, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A farmacogenética não é relevante para o tratamento com fluoxetina, pois essa droga tem o mesmo efeito em todos os indivíduos."
+      },
+      {
+        "letra": "B",
+        "texto": "A farmacogenética poderia ajudar a entender por que L.R. está tendo efeitos colaterais com a fluoxetina, pois essa área estuda como as variações genéticas afetam a resposta de um indivíduo aos medicamentos."
+      },
+      {
+        "letra": "C",
+        "texto": "A farmacogenética se concentra apenas no estudo de doenças genéticas raras e não seria útil para entender a resposta de L.R. à fluoxetina."
+      },
+      {
+        "letra": "D",
+        "texto": "A farmacogenética é uma área da medicina que estuda os efeitos dos medicamentos no genoma humano, por isso seria útil para identificar os genes que a fluoxetina poderia estar alterando."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105148,
+    "tags": [],
+    "enunciado": "M.J., 32 anos, sexo feminino, foi diagnosticada com asma e seu médico prescreveu um agonista beta-2 adrenérgico de ação prolongada (salmeterol) para controlar seus sintomas crônicos. Além disso, ela recebeu um antagonista beta (propranolol) para controlar uma taquicardia supraventricular paroxística recém- diagnosticada. Após alguns dias, M.J. percebe que seu controle da asma parece ter piorado. Ela consulta um farmacêutico, explicando seus sintomas e as medicações que está tomando. O farmacêutico percebe que o propranolol, sendo um antagonista beta inespecí(cid:62)co, pode estar competindo com o salmeterol pelos receptores beta-2 nos pulmões, o que pode diminuir a e(cid:62)cácia do tratamento da asma. Ele sugere que M.J. fale com seu médico sobre a mudança para um antagonista beta-1 seletivo, que não competiria pelos mesmos receptores que o salmeterol. Sobre a interação entre um agonista total de um receptor e um antagonista competitivo ou não competitivo, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Um antagonista competitivo compete diretamente com o agonista pelo mesmo local de ligação no receptor, o que pode diminuir a eficácia do agonista se a concentração do antagonista for alta o suficiente."
+      },
+      {
+        "letra": "B",
+        "texto": "Um antagonista não competitivo compete diretamente com o agonista pelo mesmo local de ligação no receptor, o que pode diminuir a eficácia do agonista se a concentração do antagonista for alta o suficiente."
+      },
+      {
+        "letra": "C",
+        "texto": "Um antagonista competitivo se liga a um local diferente no receptor e altera a forma do receptor, o que pode diminuir a eficácia do agonista independentemente da concentração do antagonista."
+      },
+      {
+        "letra": "D",
+        "texto": "Um antagonista não competitivo se liga a um local diferente no receptor e não altera a forma do receptor, por isso não tem efeito sobre a eficácia do agonista."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105149,
+    "tags": [],
+    "enunciado": "M.S., 45 anos, sexo feminino, foi diagnosticada com enxaqueca crônica e seu neurologista prescreveu um novo medicamento para controle da dor. Para assegurar a e(cid:62)cácia e segurança do tratamento, o médico enfatizou a importância de aderir estritamente à dosagem prescrita. A paciente, uma professora de biologia, mostra-se curiosa e pergunta ao médico sobre o que determina a dosagem de um medicamento e quais fatores são considerados para estabelecer a segurança do tratamento. Levando em conta os conceitos farmacológicos da DE50, DL50 e Índice Terapêutico, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A DE50 é a dose de um medicamento que é eficaz em 50% dos indivíduos, enquanto a DL50 é a dose que é letal em 50% dos indivíduos. O Índice Terapêutico é a relação entre a DL50 e a DE50, sendo usado para determinar a segurança de um medicamento."
+      },
+      {
+        "letra": "B",
+        "texto": "A DE50 é a dose de um medicamento que é letal em 50% dos indivíduos, enquanto a DL50 é a dose que é eficaz em 50% dos indivíduos. O Índice Terapêutico é a relação entre a DE50 e a DL50, sendo usado para determinar a eficácia de um medicamento."
+      },
+      {
+        "letra": "C",
+        "texto": "A DE50 é a dose de um medicamento que é eficaz em 50% dos indivíduos, enquanto a DL50 é a dose que é letal em 50% dos indivíduos. O Índice Terapêutico é a relação entre a DE50 e a DL50, sendo usado para determinar a eficácia de um medicamento."
+      },
+      {
+        "letra": "D",
+        "texto": "A DE50 é a dose de um medicamento que é letal em 50% dos indivíduos, enquanto a DL50 é a dose que é eficaz em 50% dos indivíduos. O Índice Terapêutico é a relação entre a DL50 e a DE50, sendo usado para determinar a segurança de um medicamento."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105150,
+    "tags": [],
+    "enunciado": "L.F., 50 anos, sexo feminino, foi diagnosticada com enxaqueca e seu médico prescreveu um novo medicamento anti-enxaqueca para ser tomado via oral conforme necessário. L.F. tem uma vida muito ocupada e muitas vezes se esquece de tomar o medicamento no horário recomendado pelo médico. Ela volta à sua consulta e pergunta por que às vezes o alívio da enxaqueca demora a acontecer, mesmo quando ela toma a dose recomendada do medicamento. Ela também pergunta por que os efeitos do medicamento parecem durar menos algumas vezes. Sobre os conceitos de meia-vida de distribuição e meia-vida de eliminação, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A meia-vida de eliminação um medicamento é o tempo necessário para que a concentração do fármaco no sangue de L.F. atinja metade do seu valor inicial."
+      },
+      {
+        "letra": "B",
+        "texto": "A meia-vida de distribuição é o tempo necessário para que metade da dose de medicamento seja eliminada do corpo de L.F."
+      },
+      {
+        "letra": "C",
+        "texto": "A meia-vida de eliminação é o tempo necessário para que a quantidade do fármaco no corpo de L.F. seja reduzida à metade através do processo de excreção."
+      },
+      {
+        "letra": "D",
+        "texto": "A meia-vida de um medicamento é o tempo necessário para que metade da dose de medicamento seja absorvida pelo corpo de L.F."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105151,
+    "tags": [],
+    "enunciado": "M.P., 55 anos, sexo feminino, foi diagnosticada com uma condição crônica que requer a administração de dois medicamentos: o medicamento A, que possui uma alta taxa de extração, e o medicamento B, que possui uma baixa taxa de extração. Ambos os medicamentos são metabolizados pelo fígado e eliminados pelos rins. Para otimizar a terapia de M.P., seu médico está considerando estratégias para aumentar o clearance de ambos os medicamentos. Sobre as possíveis estratégias para aumentar o clearance de A e B, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aumentar o fluxo sanguíneo hepático aumentará o clearance do medicamento A, mas não afetará significativamente o clearance do medicamento B."
+      },
+      {
+        "letra": "B",
+        "texto": "Aumentar a diurese aumentará o clearance de ambos os medicamentos."
+      },
+      {
+        "letra": "C",
+        "texto": "Aumentar a atividade enzimática hepática aumentará o clearance de ambos os medicamentos."
+      },
+      {
+        "letra": "D",
+        "texto": "Aumentar o fluxo sanguíneo hepático aumentará o clearance do medicamento B, mas não afetará significativamente o clearance do medicamento A."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105152,
+    "tags": [],
+    "enunciado": "E.C., uma mulher de 58 anos, foi recentemente diagnosticada com insu(cid:62)ciência renal crônica. Ela tem um histórico de hipertensão e diabetes tipo 2, controlados por um regime de medicação oral que inclui metformina, um bloqueador dos canais de cálcio e um inibidor da ECA. Durante sua consulta de rotina, ela questiona o médico sobre como a insu(cid:62)ciência renal pode afetar o modo como seu corpo processa seus medicamentos, já que ela ouviu dizer que os rins desempenham um papel crucial na eliminação dos medicamentos. Relacionando este caso aos conceitos de clearance e fração de extração em farmacologia, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O clearance de um medicamento representa a taxa de excreção do medicamento e sempre será menor em pacientes com insuficiência renal."
+      },
+      {
+        "letra": "B",
+        "texto": "A fração de extração de um medicamento indica o volume de plasma completamente \"limpo\" do medicamento por unidade de tempo."
+      },
+      {
+        "letra": "C",
+        "texto": "O clearance de um medicamento indica o volume de plasma do qual o medicamento é completamente removido por unidade de tempo, enquanto a fração de extração representa a proporção do medicamento que é eliminada do corpo em relação à quantidade que foi administrada."
+      },
+      {
+        "letra": "D",
+        "texto": "A fração de extração de um medicamento é determinada exclusivamente pelo funcionamento dos rins e não é afetada por outras vias de excreção."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105153,
+    "tags": [],
+    "enunciado": "R.S., 55 anos, sexo feminino, foi diagnosticada recentemente com dores crônicas. Seu médico decidiu prescrever um opioide para ajudar a controlar sua dor. Para iniciar, o médico decidiu usar a codeína, mas após algumas semanas, R.S. informou que o medicamento não estava controlando adequadamente a dor. O médico então decide mudar para um opioide mais potente, a mor(cid:62)na. R.S. está confusa, pois ambos os medicamentos pertencem à mesma classe - os opioides. Ela quer saber por que a mor(cid:62)na é mais e(cid:62)caz para aliviar sua dor do que a codeína. Com relação à potência dos medicamentos opioides no tratamento da dor de R.S., assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A potência do fármaco é determinada pelo número de moléculas do fármaco que atingem o local de ação, portanto, a morfina é mais potente porque mais moléculas de morfina atingem o local de ação em comparação com a codeína."
+      },
+      {
+        "letra": "B",
+        "texto": "A potência do fármaco é determinada pela velocidade com que o fármaco é absorvido no organismo, portanto, a morfina é mais potente porque é absorvida mais rapidamente do que a codeína."
+      },
+      {
+        "letra": "C",
+        "texto": "A potência de um fármaco é a dose necessária para produzir um efeito específico, portanto, a morfina é mais potente porque é necessária uma dose menor para produzir o mesmo efeito que uma dose maior de codeína."
+      },
+      {
+        "letra": "D",
+        "texto": "A potência do fármaco é determinada pela duração do efeito do fármaco, portanto, a morfina é mais potente porque o seu efeito dura mais tempo do que o da codeína."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105154,
+    "tags": [],
+    "enunciado": "M.G., 42 anos, sexo feminino, tem sofrido de insônia recorrente e seu médico prescreve um novo medicamento hipnótico, o qual deve ser administrado por via transdérmica na forma de um adesivo. O adesivo libera o medicamento de forma controlada ao longo do tempo, oferecendo a M.G. um alívio constante e duradouro. M.G. é uma pessoa ativa e está preocupada com o fato de o exercício físico intensi(cid:62)car o efeito do medicamento, tornando-a sonolenta durante o dia. Ela pergunta ao médico se a transpiração excessiva e o aumento do (cid:38)uxo sanguíneo na pele durante o exercício podem in(cid:38)uenciar a absorção do medicamento pelo adesivo. Referindo-se à lei de difusão de Fick e como ela se aplica à administração transdérmica de medicamentos, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O aumento do fluxo sanguíneo na pele durante o exercício reduzirá a absorção do medicamento através do adesivo, minimizando o risco de sonolência."
+      },
+      {
+        "letra": "B",
+        "texto": "O exercício físico não terá impacto na absorção do medicamento através do adesivo, pois a lei de difusão de Fick se aplica apenas a medicamentos administrados por via oral."
+      },
+      {
+        "letra": "C",
+        "texto": "A transpiração excessiva e o aumento do fluxo sanguíneo na pele durante o exercício podem potencialmente aumentar a absorção do medicamento através do adesivo."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas a transpiração excessiva, não o aumento do fluxo sanguíneo na pele, afetará a absorção do medicamento através do adesivo."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105155,
+    "tags": [],
+    "enunciado": "S.C., uma mulher de 24 anos, chegou ao pronto-socorro após ingerir uma quantidade desconhecida de comprimidos de ácido acetilsalicílico (AAS) em uma tentativa de automutilação. Ela apresentava confusão, sudorese e hiperventilação. Foi iniciado tratamento com bicarbonato de sódio IV para alcalinização da urina. Considerando a farmacocinética do AAS e objetivo do uso de bicarbonato de sódio no caso de intoxicação por AAS, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O bicarbonato de sódio aumenta o pH do sangue, promovendo a ionização do AAS, o que permite que seja mais facilmente excretado na urina."
+      },
+      {
+        "letra": "B",
+        "texto": "O bicarbonato de sódio diminui o pH da urina, promovendo a ionização do AAS, o que aumenta sua reabsorção pelos rins e acelera sua eliminação do corpo."
+      },
+      {
+        "letra": "C",
+        "texto": "O bicarbonato de sódio aumenta o pH da urina, reduzindo a ionização do AAS, o que diminui sua reabsorção pelos rins e acelera sua eliminação do corpo."
+      },
+      {
+        "letra": "D",
+        "texto": "O bicarbonato de sódio diminui o pH do sangue, reduzindo a ionização do AAS, o que permite que seja mais facilmente excretado na urina."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105156,
+    "tags": [],
+    "enunciado": "C.P., uma mulher de 35 anos, foi recentemente diagnosticada com uma infecção do trato urinário (ITU). Seu médico prescreveu um antibiótico que é conhecido por ser ionizado de forma dependente do pH, sendo de(cid:62)nido como uma base fraca. C.P. lembra que teve uma aula sobre a equação de Henderson-Hasselbalch em uma aula de química no ensino médio e pergunta ao médico como o pH da urina pode afetar a e(cid:62)cácia do antibiótico prescrito. Sobre o impacto do pH urinário na e(cid:62)cácia do antibiótico, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Um pH urinário mais baixo (ácido) promoverá a ionização do antibiótico, o que diminuirá a sua reabsorção nos túbulos renais, aumentando assim a sua concentração na urina e a eficácia contra a ITU."
+      },
+      {
+        "letra": "B",
+        "texto": "Um pH urinário mais alto (alcalino) promoverá a ionização do antibiótico, o que aumentará a sua reabsorção nos túbulos renais, diminuindo assim a sua concentração na urina e a eficácia contra a ITU."
+      },
+      {
+        "letra": "C",
+        "texto": "Um pH urinário mais baixo (ácido) promoverá a ionização do antibiótico, o que aumentará a sua reabsorção nos túbulos renais, diminuindo assim a sua concentração na urina e a eficácia contra a ITU."
+      },
+      {
+        "letra": "D",
+        "texto": "Um pH urinário mais alto (alcalino) promoverá a ionização do antibiótico, o que diminuirá a sua reabsorção nos túbulos renais, aumentando assim a sua concentração na urina e a eficácia contra a ITU."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105157,
+    "tags": [],
+    "enunciado": "G.M.U, um homem de 56 anos, vem em consulta de rotina. Ele refere ser etilista crônico, porém demonstra o desejo de interromper esse hábito. Durante sua avaliação, G.M.U. relata ter percebido que quando ingere doses elevadas de álcool demora muito mais tempo para retornar a sobriedade do que quando ingere doses menores. Sabendo que G.M.U. não tem alterações na funcionalidade hepática e renal e considerando as leis da cinética farmacocinética, qual das seguintes a(cid:62)rmações é verdadeira e pode explicar a informação dada pelo paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O álcool segue uma cinética de ordem zero, o que significa que a taxa de eliminação é constante, independentemente da concentração do medicamento."
+      },
+      {
+        "letra": "B",
+        "texto": "O álcool segue uma cinética de ordem zero, o que significa que a taxa de eliminação é proporcional à concentração do medicamento."
+      },
+      {
+        "letra": "C",
+        "texto": "O álcool segue uma cinética de primeira ordem, o que significa que a taxa de eliminação é constante, independentemente da concentração do medicamento."
+      },
+      {
+        "letra": "D",
+        "texto": "O álcool segue uma cinética de primeira ordem, o que significa que a taxa de eliminação é proporcional à concentração do medicamento."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105158,
+    "tags": [],
+    "enunciado": "A.A., um homem de 56 anos, foi submetido a uma cirurgia ortopédica de grande porte. O anestesiologista de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A. administrou um anestésico intravenoso para induzir a anestesia e manter A.A. inconsciente durante a cirurgia. Após a cirurgia, o anestesiologista (cid:62)cou surpreso ao notar que A.A. demorou mais tempo do que o esperado para acordar da anestesia, apesar da concentração plasmática do anestésico ter caído abaixo do nível normalmente associado à perda de consciência. Com base nos conceitos de histerese e Ke0, assinale a alternativa correta:"
+      },
+      {
+        "letra": "A",
+        "texto": "A histerese ocorre quando a concentração do fármaco no plasma é diretamente proporcional ao efeito do fármaco, explicando por que A.A. demorou mais tempo para acordar."
+      },
+      {
+        "letra": "B",
+        "texto": "A histerese ocorre quando há um atraso entre a concentração do fármaco no plasma e o efeito farmacológico, o que pode explicar a demora para A.A. acordar."
+      },
+      {
+        "letra": "C",
+        "texto": "O Ke0 refere-se à velocidade com que o fármaco é eliminado do corpo, o que pode ter sido mais lento em A.A., levando a um despertar mais tardio."
+      },
+      {
+        "letra": "D",
+        "texto": "O Ke0 é a constante de taxa de eliminação do fármaco da biofase, mas não tem relação com o atraso para acordar de A.A."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105159,
+    "tags": [],
+    "enunciado": "M.F., uma mulher de 45 anos, recentemente foi diagnosticada com enxaqueca. Seu médico prescreveu um medicamento oral para ajudar a controlar a sua intensa cefaleia. M.F. toma o medicamento conforme as instruções, mas percebe que leva algum tempo antes de sentir qualquer efeito. Quando ela volta à consulta, ela pergunta por que o medicamento não tem um efeito imediato. Com base no conceito de biofase, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A biofase do medicamento é o mesmo que o tempo de absorção do medicamento no trato gastrointestinal."
+      },
+      {
+        "letra": "B",
+        "texto": "A biofase refere-se à concentração máxima do medicamento no plasma sanguíneo, o que explica o atraso no início do efeito."
+      },
+      {
+        "letra": "C",
+        "texto": "A biofase é o local onde o medicamento exerce seu efeito farmacológico, e o tempo necessário para o medicamento atingir a biofase pode contribuir para o atraso no início do efeito."
+      },
+      {
+        "letra": "D",
+        "texto": "A biofase é o local de metabolismo do medicamento, geralmente no fígado, o que explica o atraso no início do efeito."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105160,
+    "tags": [],
+    "enunciado": "P.K., um homem de 50 anos, é levado à sala de emergência após sofrer um acidente de carro. Ele sofreu uma lesão grave na cabeça e os médicos decidem induzir o coma para proteger seu cérebro de danos adicionais. Eles optam por usar um sedativo potente que pode ser administrado tanto em bôlus quanto em infusão contínua. O médico escolhe administrar o medicamento em bôlus para induzir rapidamente o coma e, em seguida, mudar para uma infusão contínua para mantê-lo. Levando em consideração o conceito de volume de distribuição e os diferentes efeitos dos métodos de administração em bôlus e em infusão contínua, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A administração do medicamento em bôlus e em infusão contínua resultará em concentrações plasmáticas do medicamento semelhantes durante o período de ação médio do fármaco."
+      },
+      {
+        "letra": "B",
+        "texto": "A administração do medicamento em bôlus resultará em uma concentração plasmática inicial mais alta do medicamento do que a administração em infusão contínua."
+      },
+      {
+        "letra": "C",
+        "texto": "A administração do medicamento em infusão contínua resultará em uma concentração plasmática inicial mais alta do medicamento do que a administração em bôlus."
+      },
+      {
+        "letra": "D",
+        "texto": "O volume de distribuição do medicamento não tem impacto na diferença de concentrações plasmáticas do medicamento entre a administração em bôlus e em infusão contínua."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105161,
+    "tags": [],
+    "enunciado": "A.B., uma mulher de 45 anos, é levada ao pronto-socorro após ser encontrada desmaiada em casa com um frasco vazio de um medicamento desconhecido ao seu lado. A equipe médica rapidamente deduz que ela possa ter ingerido uma dose excessiva do medicamento, causando uma overdose. A.B. é estabilizada e o médico decide administrar um antagonista especí(cid:62)co para neutralizar o efeito do medicamento desconhecido. No entanto, a resposta de A.B. ao antagonista é mais lenta do que o esperado. Com base nesse cenário, e sabendo que o volume de distribuição (Vd) é um parâmetro farmacocinético que fornece uma indicação do grau de distribuição de um medicamento no organismo, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Um medicamento com um alto volume de distribuição provavelmente estará confinado no plasma sanguíneo."
+      },
+      {
+        "letra": "B",
+        "texto": "Um medicamento com um alto volume de distribuição provavelmente se distribuirá extensivamente pelos tecidos corporais."
+      },
+      {
+        "letra": "C",
+        "texto": "O volume de distribuição de um medicamento é influenciado apenas pela taxa de eliminação do medicamento."
+      },
+      {
+        "letra": "D",
+        "texto": "Um volume de distribuição baixo indica que o medicamento se distribuiu extensivamente pelo corpo, porém com baixo volume em todos os locais."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105162,
+    "tags": [],
+    "enunciado": "C.D., uma menina de 6 anos, tem uma febre alta devido a uma infecção viral. Ela tem vômitos frequentes, tornando difícil a administração oral de medicação. Sua mãe está preocupada e pergunta ao pediatra se há alguma outra maneira de administrar o antipirético. O médico sugere o uso de supositórios retais. Sobre a via de administração retal de medicamentos, como o antipirético para C.D., assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A administração retal de medicamentos é ineficaz para medicamentos que requerem ação rápida."
+      },
+      {
+        "letra": "B",
+        "texto": "A administração retal de medicamentos, como o antipirético, é uma opção conveniente para pacientes que têm dificuldade em engolir ou estão vomitando."
+      },
+      {
+        "letra": "C",
+        "texto": "A administração retal de medicamentos sempre resulta em uma absorção mais lenta e menos eficaz do medicamento."
+      },
+      {
+        "letra": "D",
+        "texto": "A administração retal de medicamentos não é apropriada para crianças e só deve ser usada em adultos."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105163,
+    "tags": [],
+    "enunciado": "Sra. R., 72 anos, foi diagnosticada com diabetes tipo 2. Seu médico prescreveu metformina, um medicamento antidiabético que deve ser tomado via oral duas vezes ao dia. A Sra. R. manifestou sua preferência por medicações injetáveis, uma vez que ela tem di(cid:62)culdades para engolir comprimidos e está preocupada com o efeito de sua alimentação na e(cid:62)cácia da medicação. Sobre a via de administração oral de medicamentos, como a metformina, no tratamento de Sra. R., assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A administração oral de medicamentos não é afetada pelo estado de alimentação do paciente."
+      },
+      {
+        "letra": "B",
+        "texto": "A administração oral de medicamentos tem uma ação imediata, pois os medicamentos são rapidamente absorvidos no estômago."
+      },
+      {
+        "letra": "C",
+        "texto": "A administração oral de medicamentos, como a metformina, oferece a conveniência de administração em casa e pode permitir uma liberação controlada do medicamento no organismo."
+      },
+      {
+        "letra": "D",
+        "texto": "A administração oral de medicamentos é sempre a opção mais segura, pois evita o risco de infecções transmitidas pela injeção."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105164,
+    "tags": [],
+    "enunciado": "P.R., 51 anos, sexo masculino, tem um histórico de angina estável e está em tratamento com nitroglicerina sublingual, que ele utiliza conforme necessário para aliviar a dor torácica. Em uma consulta recente, ele pergunta por que não pode simplesmente tomar um comprimido todos os dias, como faz com seus outros medicamentos, em vez de ter que colocar a pílula embaixo da língua. Sobre a administração sublingual de medicamentos no tratamento de P.R., assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A administração sublingual é usada porque é a única via que permite que a nitroglicerina seja absorvida pelo organismo."
+      },
+      {
+        "letra": "B",
+        "texto": "A administração sublingual de medicamentos, como a nitroglicerina, permite que o medicamento aja rapidamente, pois é diretamente absorvido na corrente sanguínea e evita a primeira passagem hepática."
+      },
+      {
+        "letra": "C",
+        "texto": "A administração sublingual de medicamentos é sempre preferível à administração oral devido à sua maior eficácia."
+      },
+      {
+        "letra": "D",
+        "texto": "A administração sublingual permite uma absorção mais lenta e contínua do medicamento, evitando picos na concentração do medicamento no sangue."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105165,
+    "tags": [],
+    "enunciado": "P.M., um homem de 32 anos, foi diagnosticado com meningite bacteriana. Seu médico prescreveu um regime de tratamento intensivo que inclui antibióticos a serem administrados via intravenosa. Durante a consulta, P.M. pergunta por que ele não pode simplesmente tomar um comprimido em vez de receber o medicamento por via intravenosa. Sobre a administração intravenosa de medicamentos no tratamento de P.M., assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A administração intravenosa garante que a totalidade do medicamento será absorvida e disponibilizada na circulação sistêmica, garantindo o rápido início de ação."
+      },
+      {
+        "letra": "B",
+        "texto": "A administração intravenosa é menos eficaz que a via oral para a entrega de medicamentos no sistema nervoso central."
+      },
+      {
+        "letra": "C",
+        "texto": "A administração intravenosa de medicamentos geralmente causa mais efeitos colaterais em comparação com a administração oral."
+      },
+      {
+        "letra": "D",
+        "texto": "A administração intravenosa permite que o medicamento seja absorvido lentamente e de maneira uniforme, como acontece com a administração oral."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105166,
+    "tags": [],
+    "enunciado": "K.R., 55 anos, sexo feminino, é diagnosticada com diabetes mellitus tipo 2. Seu médico prescreveu a ela uma insulina de ação prolongada, que deve ser administrada via subcutânea uma vez por dia. K.R. questiona o motivo de a medicação não poder ser tomada por via oral ou como uma injeção intravenosa, já que a injeção subcutânea lhe parece desconfortável. Em relação à administração subcutânea do medicamento para diabetes, marque a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A administração subcutânea do medicamento proporciona um início de ação imediato e rápido, semelhante ao da administração intravenosa."
+      },
+      {
+        "letra": "B",
+        "texto": "A administração subcutânea do medicamento permite uma absorção mais lenta e constante do medicamento, mantendo níveis mais estáveis do fármaco no organismo de K.R."
+      },
+      {
+        "letra": "C",
+        "texto": "A administração subcutânea do medicamento é mais propensa a causar efeitos colaterais sistêmicos, como náusea e tontura, do que a administração oral."
+      },
+      {
+        "letra": "D",
+        "texto": "A administração subcutânea do medicamento é menos eficaz do que a administração oral ou intravenosa, pois o medicamento pode não ser completamente absorvido."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105167,
+    "tags": [],
+    "enunciado": "M.S., 74 anos, sexo masculino, foi diagnosticado com doença de Parkinson. Seu médico prescreveu um medicamento antiparkinsoniano que é administrado através de um adesivo transdérmico uma vez por dia. M.S. questiona sobre a e(cid:62)cácia do adesivo transdérmico e se preocupa se ele será capaz de administrar o medicamento corretamente. Sobre as características da administração transdérmica do medicamento antiparkinsoniano, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A administração transdérmica do medicamento permite uma liberação constante e controlada do fármaco, mas o início da ação é imediato após a aplicação do adesivo."
+      },
+      {
+        "letra": "B",
+        "texto": "A administração transdérmica do medicamento evita o primeiro passo do metabolismo hepático, mas M.S. pode ter dificuldades em administrar o adesivo devido à tremulação característica da doença de Parkinson."
+      },
+      {
+        "letra": "C",
+        "texto": "A administração transdérmica do medicamento é mais propensa a causar efeitos colaterais sistêmicos, como náusea e tontura, do que a administração oral."
+      },
+      {
+        "letra": "D",
+        "texto": "A administração transdérmica do medicamento é mais adequada para medicamentos de ação rápida, enquanto a administração oral é mais adequada para medicamentos de liberação prolongada."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105168,
+    "tags": [],
+    "enunciado": "M.C., 25 anos, sexo feminino, é uma paciente asmática que faz uso de salbutamol, um broncodilatador, administrado via inalatória. M.C. menciona que acha muito mais conveniente inalar seu medicamento em comparação ao consumo de comprimidos, mas ela se pergunta sobre os prós e contras de sua forma de medicação. Em relação à administração inalatória do salbutamol e seus efeitos no organismo de M.C., assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A administração inalatória do salbutamol resulta em uma absorção mais lenta e um início de ação mais demorado em comparação com a via oral."
+      },
+      {
+        "letra": "B",
+        "texto": "A administração inalatória do salbutamol permite a entrega direta do medicamento aos pulmões, resultando em um rápido início de ação e diminuição dos efeitos colaterais sistêmicos."
+      },
+      {
+        "letra": "C",
+        "texto": "A administração inalatória do salbutamol resulta em níveis mais altos do medicamento na corrente sanguínea em comparação à administração oral, aumentando o risco de efeitos colaterais."
+      },
+      {
+        "letra": "D",
+        "texto": "A administração inalatória do salbutamol reduz a eficácia do medicamento, pois o medicamento é absorvido em menor quantidade comparado à via oral."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105169,
+    "tags": [],
+    "enunciado": "R.F., 54 anos, sexo feminino, foi diagnosticada recentemente com doença de Parkinson. Seu médico prescreveu um medicamento que atua aumentando a disponibilidade de dopamina no cérebro. R.F. pergunta por que ela precisa começar com uma dose baixa do medicamento e aumentá-la gradualmente ao longo do tempo, em vez de começar com a dose completa. Com base no conceito de curva dose-resposta, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aumentar a dose do medicamento gradualmente ajuda a determinar a dose eficaz mínima para R.F., minimizando o risco de efeitos adversos."
+      },
+      {
+        "letra": "B",
+        "texto": "Aumentar a dose do medicamento gradualmente aumenta a eficácia do medicamento ao longo do tempo, pois doses mais altas de medicamento sempre produzem uma resposta maior."
+      },
+      {
+        "letra": "C",
+        "texto": "O aumento gradual da dose do medicamento não tem base científica e é uma prática comum, mas desnecessária."
+      },
+      {
+        "letra": "D",
+        "texto": "Aumentar a dose do medicamento gradualmente ajuda a prevenir a resistência ao medicamento, pois doses mais baixas de medicamento são menos propensas a causar resistência."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105170,
+    "tags": [],
+    "enunciado": "A.P., 45 anos, sexo masculino, apresenta um histórico de insônia crônica. Para tratar sua condição, seu médico prescreveu um hipnótico de curta duração. O paciente relata que, embora o medicamento o ajude a adormecer rapidamente, ele frequentemente acorda no meio da noite e tem di(cid:62)culdade para voltar a dormir. Ele pergunta por que o efeito do medicamento parece desaparecer tão rapidamente, uma vez que leu na internet que o fármaco tem metabolização e excreção mais demoradas do que o período em que o medicamento o tem mantido dormindo. Com base na farmacocinética do fármaco prescrito para A.P., assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A redistribuição do fármaco para tecidos de alta perfusão, como cérebro, coração e rins, explica o início e término rápido da ação do medicamento."
+      },
+      {
+        "letra": "B",
+        "texto": "A redistribuição do fármaco para tecidos de baixa perfusão, como tecido adiposo e músculo esquelético, explica por que o efeito do medicamento parece desaparecer tão rapidamente."
+      },
+      {
+        "letra": "C",
+        "texto": "A rápida distribuição do fármaco para os tecidos bem perfundidos, como cérebro, coração e rins, explica por que A.P. acorda no meio da noite e tem dificuldade para voltar a dormir."
+      },
+      {
+        "letra": "D",
+        "texto": "A redistribuição do fármaco para o fígado, onde é metabolizado, explica o início rápido da ação do medicamento e a duração curta do efeito."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105171,
+    "tags": [],
+    "enunciado": "A.L., 75 anos, sexo masculino, tem um histórico de doença cardíaca isquêmica e osteoartrite. Seu médico prescreveu um betabloqueador para sua condição cardíaca e um anti-in(cid:38)amatório não esteroidal (AINE) para aliviar a dor da osteoartrite. Além disso, ele toma um medicamento para dormir à base de benzodiazepina quando necessário. Durante uma consulta de rotina, ele pergunta sobre como seus medicamentos interagem entre si e por que é importante que ele informe o médico sobre todos os medicamentos que está tomando. Sobre a interação medicamentosa entre os fármacos prescritos para A.L., assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As interações medicamentosas são geralmente de natureza sinérgica, o que significa que a combinação de dois medicamentos produz um efeito maior do que a soma dos efeitos dos dois medicamentos tomados separadamente."
+      },
+      {
+        "letra": "B",
+        "texto": "Todas as interações medicamentosas são de natureza aditiva, o que significa que a combinação de dois medicamentos produz um efeito igual à soma dos efeitos dos dois medicamentos tomados separadamente."
+      },
+      {
+        "letra": "C",
+        "texto": "As interações medicamentosas são sempre de natureza antagônica, o que significa que um medicamento pode reduzir ou bloquear o efeito do outro medicamento."
+      },
+      {
+        "letra": "D",
+        "texto": "As interações medicamentosas podem ser sinérgicas, aditivas ou antagônicas, e é importante que"
+      },
+      {
+        "letra": "A",
+        "texto": "L. informe seu médico sobre todos os medicamentos que está tomando para evitar interações indesejadas."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105172,
+    "tags": [],
+    "enunciado": "P.B., 52 anos, sexo feminino, foi diagnosticada com enxaqueca e seu neurologista prescreveu um novo medicamento que é um agonista parcial de serotonina para tratar as crises de enxaqueca. P.B. é uma cientista e gosta de entender como seus medicamentos funcionam. Ela pediu uma explicação sobre o que signi(cid:62)ca que seu novo medicamento é um \"agonista parcial\" e como ele difere de um \"agonista completo\". Assinale a alternativa correta em relação ao mecanismo de ação do medicamento prescrito para P.B.:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Um agonista completo se liga ao receptor e causa uma resposta máxima, enquanto um agonista parcial também se liga ao receptor, mas mesmo na sua concentração máxima não é capaz de causar uma resposta completa."
+      },
+      {
+        "letra": "B",
+        "texto": "Tanto os agonistas completos quanto os parciais se ligam ao receptor, mas apenas os agonistas parciais causam uma resposta, enquanto os agonistas completos não causam nenhuma resposta."
+      },
+      {
+        "letra": "C",
+        "texto": "Um agonista parcial se liga ao receptor e causa uma resposta máxima, enquanto um agonista completo não causa nenhuma resposta, mesmo se ligando ao receptor."
+      },
+      {
+        "letra": "D",
+        "texto": "Tanto os agonistas completos quanto os parciais se ligam ao receptor e causam a mesma resposta máxima."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105173,
+    "tags": [],
+    "enunciado": "J.S., 40 anos, sexo masculino, foi diagnosticado com glaucoma de ângulo aberto. Seu oftalmologista prescreveu um colírio contendo um beta-bloqueador não seletivo como tratamento. Durante a consulta, J.S., que é enfermeiro, perguntou ao médico sobre o mecanismo de ação do medicamento e por que foi escolhido em detrimento de outros tratamentos. Durante a discussão, o médico mencionou que o medicamento é um antagonista competitivo dos receptores beta. Intrigado, J.S. pergunta qual é a diferença entre um antagonista competitivo e um antagonista não competitivo. Com base na explicação do oftalmologista, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Um antagonista competitivo se liga ao mesmo local do receptor que o agonista, mas não ativa o receptor, enquanto um antagonista não competitivo se liga a um local diferente do receptor e impede a ativação do receptor pelo agonista."
+      },
+      {
+        "letra": "B",
+        "texto": "Um antagonista competitivo e um antagonista não competitivo agem de maneira semelhante, ambos se ligam ao mesmo local do receptor e inibem a ativação do receptor pelo agonista."
+      },
+      {
+        "letra": "C",
+        "texto": "Um antagonista competitivo se liga ao mesmo local do receptor que o agonista e ativa o receptor, enquanto um antagonista não competitivo se liga a um local diferente do receptor e ativa o receptor."
+      },
+      {
+        "letra": "D",
+        "texto": "Um antagonista competitivo e um antagonista não competitivo não têm qualquer interação com os receptores."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105174,
+    "tags": [],
+    "enunciado": "M.F., 48 anos, sexo feminino, foi diagnosticada com asma moderada persistente. Seu médico prescreveu um tratamento de controle com um corticosteroide inalatório e um agonista de longa duração dos receptores beta-2 adrenérgicos (LABA). Em uma consulta de rotina, M.F. mencionou que sua irmã, que também tem asma, recebeu uma prescrição de um antagonista dos receptores muscarínicos como tratamento. Intrigada, M.F. perguntou por que ela e sua irmã estão recebendo medicamentos com diferentes mecanismos de ação. Sobre o conceito de fármaco agonista e fármaco antagonista, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Um fármaco agonista inibe a atividade do receptor ao qual se liga, enquanto um fármaco antagonista estimula a atividade do receptor."
+      },
+      {
+        "letra": "B",
+        "texto": "Um fármaco agonista e um fármaco antagonista agem de maneira semelhante, ambos inibindo a atividade do receptor ao qual se ligam."
+      },
+      {
+        "letra": "C",
+        "texto": "Um fármaco agonista estimula a atividade do receptor ao qual se liga, enquanto um fármaco antagonista inibe a atividade do receptor."
+      },
+      {
+        "letra": "D",
+        "texto": "Tanto um fármaco agonista quanto um fármaco antagonista não têm qualquer interação com os receptores."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105175,
+    "tags": [],
+    "enunciado": "A Sra. M, 75 anos, com histórico de artrite reumatoide e hipertensão, foi prescrita com um novo medicamento para controlar a dor da artrite. A droga pode ser administrada por via oral, transdérmica ou intravenosa. Durante a consulta, a Sra. M expressou sua preferência pela via oral, pois é mais conveniente para ela. No entanto, ela está preocupada com a e(cid:62)cácia do medicamento se administrado por via oral em comparação com as outras vias. Sobre as diferentes vias de administração e sua in(cid:38)uência na biodisponibilidade do medicamento, qual das seguintes afirmações é correta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A biodisponibilidade do medicamento é a mesma, independentemente da via de administração."
+      },
+      {
+        "letra": "B",
+        "texto": "A administração oral do medicamento resultará em uma biodisponibilidade mais baixa em comparação com a administração intravenosa, devido ao efeito de primeira passagem hepática."
+      },
+      {
+        "letra": "C",
+        "texto": "A administração transdérmica do medicamento resultará na mais alta biodisponibilidade, pois a droga será liberada diretamente na corrente sanguínea."
+      },
+      {
+        "letra": "D",
+        "texto": "A administração intravenosa do medicamento terá a menor biodisponibilidade, pois a droga será diluída no sangue imediatamente."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105176,
+    "tags": [],
+    "enunciado": "M.R., um homem de 55 anos, foi diagnosticado recentemente com diabetes tipo 2 e seu médico prescreveu dois medicamentos diferentes para ajudar a gerenciar seus níveis de glicose no sangue. Um dos medicamentos é altamente lipofílico, enquanto o outro é hidrofílico. M.R. tem curiosidade sobre por que foi prescrito dois medicamentos diferentes e como cada um é absorvido pelo corpo. Com relação à absorção desses medicamentos no organismo de M.R., assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tanto medicamentos lipofílicos quanto hidrofílicos são absorvidos da mesma forma e com a mesma velocidade pelo organismo de M.R."
+      },
+      {
+        "letra": "B",
+        "texto": "O medicamento lipofílico é absorvido mais rapidamente pelo organismo de M.R. porque pode passar mais facilmente através da membrana lipídica das células."
+      },
+      {
+        "letra": "C",
+        "texto": "O medicamento hidrofílico é absorvido mais rapidamente pelo organismo de M.R. porque a absorção ocorre principalmente por difusão passiva através da água que reveste as células do epitélio."
+      },
+      {
+        "letra": "D",
+        "texto": "Ambos os medicamentos não começam a ser absorvidos até chegarem ao fígado de M.R., onde são metabolizados e depois lançados na corrente sanguínea."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105177,
+    "tags": [],
+    "enunciado": "M.G., uma mulher de 43 anos, foi diagnosticada com epilepsia e seu médico prescreveu um medicamento antiepiléptico. M.G. está curiosa sobre como esse medicamento funciona em seu corpo para controlar suas convulsões. Ela faz uma consulta para entender melhor como o medicamento age em seu corpo. Neste contexto, qual das seguintes opções melhor descreve a farmacodinâmica, que é o estudo do que o medicamento faz ao corpo?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Farmacodinâmica refere-se ao processo pelo qual o medicamento é absorvido, distribuído, metabolizado e excretado pelo corpo."
+      },
+      {
+        "letra": "B",
+        "texto": "Farmacodinâmica diz respeito à concentração do medicamento no sangue e aos efeitos dos níveis sanguíneos do medicamento sobre o tempo de ação do medicamento."
+      },
+      {
+        "letra": "C",
+        "texto": "Farmacodinâmica envolve o estudo do mecanismo de ação do medicamento, ou seja, como o medicamento exerce seu efeito no nível molecular e celular."
+      },
+      {
+        "letra": "D",
+        "texto": "Farmacodinâmica está relacionada com a comparação dos efeitos colaterais e benefícios do medicamento com outros medicamentos usados para tratar a mesma condição."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105178,
+    "tags": [],
+    "enunciado": "J.B., um homem de 30 anos, comparece à emergência com queixa de dor intensa na região glútea esquerda, relatando que a dor vem aumentando progressivamente há cerca de uma semana. No exame físico, você nota uma área tensa, avermelhada, quente e muito dolorosa na nádega esquerda de J.B., sugestiva de abscesso. Decidido a drenar o abscesso, você injeta lidocaína, um anestésico local, na região do abscesso. No entanto, J.B. relata que ainda sente dor durante a drenagem. Sobre o anestésico local e a sua e(cid:62)cácia no ambiente ácido de um abscesso, assinale a alternativa que contém a explicação mais plausível para a ausência de efeito desse fármaco na drenagem do abscesso",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O anestésico local, sendo uma base fraca, tem um maior pKa e, portanto, tende a ficar ionizado em ambientes ácidos, diminuindo sua capacidade de atravessar a membrana celular e exercer sua ação anestésica."
+      },
+      {
+        "letra": "B",
+        "texto": "O anestésico local, sendo um ácido fraco, tem um maior pKa e, portanto, tende a ficar ionizado em ambientes ácidos, aumentando sua capacidade de atravessar a membrana celular e exercer sua ação anestésica."
+      },
+      {
+        "letra": "C",
+        "texto": "O anestésico local, sendo uma base fraca, tem um menor pKa e, portanto, tende a ficar ionizado em ambientes ácidos, aumentando sua capacidade de atravessar a membrana celular e exercer sua ação anestésica."
+      },
+      {
+        "letra": "D",
+        "texto": "O anestésico local, sendo um ácido fraco, tem um menor pKa e, portanto, tende a ficar ionizado em ambientes ácidos, diminuindo sua capacidade de atravessar a membrana celular e exercer sua ação anestésica."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105179,
+    "tags": [],
+    "enunciado": "A paciente M.N., 44 anos, é uma enfermeira que foi diagnosticada recentemente com enxaqueca crônica. Seu médico prescreveu um regime que inclui um medicamento administrado por via oral para ser tomado na presença de sintomas agudos de enxaqueca. M.N., com seu conhecimento de enfermagem, está interessada em entender mais sobre como os medicamentos funcionam em nível molecular. Durante sua próxima consulta, ela pergunta sobre o pKa do medicamento e como isso influencia a absorção do fármaco. Sobre essa dúvida da paciente, qual das seguintes opções é mais correta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O pKa de um medicamento não tem relação com a absorção, apenas com a excreção renal do mesmo."
+      },
+      {
+        "letra": "B",
+        "texto": "O pKa de um medicamento refere-se à sua solubilidade em água, o que pode influenciar a absorção do medicamento."
+      },
+      {
+        "letra": "C",
+        "texto": "O pKa de um medicamento é a medida do pH em que o medicamento está 50% ionizado e 50% não ionizado, e essa proporção pode influenciar a taxa e a extensão da absorção do medicamento."
+      },
+      {
+        "letra": "D",
+        "texto": "O pKa de um medicamento indica o grau em que o medicamento é ligado às proteínas plasmáticas, o que pode afetar a absorção do medicamento."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105180,
+    "tags": [],
+    "enunciado": "P.S., 72 anos, sexo feminino, foi diagnosticada com insu(cid:62)ciência cardíaca e começou a tomar um inibidor da ECA (Enzima Conversora de Angiotensina) para ajudar a controlar sua condição. Durante a consulta, P.S. pergunta ao médico por que o medicamento não pode ser administrado diretamente no coração, em vez de ser tomado por via oral. Além disso, ela gostaria de entender como o medicamento consegue chegar ao coração, além de se ele é ingerido e absorvido pelo trato gastrointestinal. Sobre o transporte ativo de medicamentos no organismo de P.S., assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O transporte ativo do medicamento requer energia e acontece contra o gradiente de concentração, mas todas as células do organismo possuem a mesma capacidade de realizar esse transporte."
+      },
+      {
+        "letra": "B",
+        "texto": "O transporte ativo do medicamento não requer energia e acontece a favor do gradiente de concentração, permitindo que o medicamento atinja o coração."
+      },
+      {
+        "letra": "C",
+        "texto": "O transporte ativo do medicamento requer energia e acontece contra o gradiente de concentração, o que permite que o medicamento seja distribuído para o coração mesmo após a absorção no trato gastrointestinal."
+      },
+      {
+        "letra": "D",
+        "texto": "O transporte ativo do medicamento ocorre apenas no trato gastrointestinal, e depois que o medicamento é absorvido, ele se move passivamente pelo corpo até chegar ao coração."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105181,
+    "tags": [],
+    "enunciado": "S.M., 25 anos, estudante de medicina, está aprendendo sobre as diferenças entre a difusão simples e a difusão facilitada em sua aula de farmacologia. Para ajudá-la a entender melhor, seu professor decide usar o exemplo de uma célula adiposa, que precisa tanto de glicose quanto de ácidos graxos para funcionar corretamente. A glicose é trazida para a célula através de uma proteína transportadora em um processo de difusão facilitada, enquanto os ácidos graxos passam diretamente pela membrana celular através da difusão simples. Sobre a difusão simples e a difusão facilitada, qual das seguintes opções é a mais correta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ambos, difusão simples e difusão facilitada, são processos que ocorrem sem limite de substância a ser transportada através da membrana celular."
+      },
+      {
+        "letra": "B",
+        "texto": "A difusão facilitada é um processo sem limite de substância a ser transportada, enquanto a difusão simples tem um limite devido à saturação dos transportadores."
+      },
+      {
+        "letra": "C",
+        "texto": "A difusão simples é um processo que ocorre sem limite de substância a ser transportada, enquanto a difusão facilitada tem um limite devido à saturação dos transportadores."
+      },
+      {
+        "letra": "D",
+        "texto": "Ambos, difusão simples e difusão facilitada, são processos que ocorrem com limite de substância a ser transportada devido à saturação dos transportadores."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105182,
+    "tags": [],
+    "enunciado": "F.M., 45 anos, sexo feminino, foi diagnosticada com diabetes tipo 2 e foi prescrito Metformina para controlar os níveis de glicose no sangue. A Metformina é conhecida por seu mecanismo de ação que envolve a diminuição da produção hepática de glicose e a melhora da sensibilidade à insulina, aumentando a absorção de glicose pelos músculos. F.M. está curiosa sobre como a Metformina entra em suas células e pede para você explicar. Com base no conhecimento do transporte passivo através da membrana celular, qual das alternativas abaixo é correta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O transporte passivo envolve apenas o processo de difusão simples, onde a Metformina se move de uma área de alta concentração para uma de baixa concentração."
+      },
+      {
+        "letra": "B",
+        "texto": "O transporte passivo sempre requer uma proteína transportadora, como no caso da Metformina que precisa de uma proteína específica para entrar nas células."
+      },
+      {
+        "letra": "C",
+        "texto": "O transporte passivo inclui difusão simples, difusão facilitada e osmose. Uma das formas de entrada da Metformina nas células é por difusão facilitada, processo que precisa de uma proteína transportadora, mas não requer gasto de energia."
+      },
+      {
+        "letra": "D",
+        "texto": "A Metformina entra nas células por exocitose, um tipo de transporte passivo."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105183,
+    "tags": [],
+    "enunciado": "J.D., 65 anos, sexo masculino, diagnosticado com insu(cid:62)ciência renal crônica, faz uso de um medicamento especí(cid:62)co para controlar a hipertensão arterial. Durante a consulta, o médico avalia a possibilidade de ajustar a dosagem do medicamento. No que diz respeito à excreção do fármaco no organismo de J.D., assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A insuficiência renal crônica de J.D. não deve afetar a excreção do fármaco, portanto, não é necessário ajustar a dosagem."
+      },
+      {
+        "letra": "B",
+        "texto": "A excreção do fármaco no organismo de J.D. pode ser acelerada devido à insuficiência renal, o que pode requerer um aumento na dosagem do medicamento."
+      },
+      {
+        "letra": "C",
+        "texto": "A insuficiência renal crônica pode levar a uma excreção reduzida do fármaco, potencialmente resultando em acúmulo do medicamento no organismo de J.D., o que pode requerer um ajuste na dosagem."
+      },
+      {
+        "letra": "D",
+        "texto": "A excreção do fármaco ocorre principalmente através do fígado, portanto, a insuficiência renal crônica de J.D. não deve afetar a excreção do medicamento."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105184,
+    "tags": [],
+    "enunciado": "J.R., um paciente masculino de 45 anos, está recebendo um medicamento para controlar sua pressão arterial elevada. O fármaco em questão é metabolizado no fígado, passando por duas fases distintas de metabolização. No que diz respeito à metabolização de fármacos, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A Fase I de metabolização envolve processos de conjugação, que geralmente tornam o fármaco mais solúvel em água e, portanto, mais fácil de ser excretado."
+      },
+      {
+        "letra": "B",
+        "texto": "A Fase II é uma etapa não sintética que pode envolver reações como oxidação, redução e hidrólise."
+      },
+      {
+        "letra": "C",
+        "texto": "A Fase I geralmente envolve a alteração química do fármaco por reações como oxidação, redução e hidrólise, enquanto a Fase II envolve a conjugação do fármaco ou de seus metabólitos com compostos endógenos para formar um produto mais polar e, portanto, mais facilmente excretado."
+      },
+      {
+        "letra": "D",
+        "texto": "As Fases I e II de metabolização não têm relação com a excreção do fármaco e ocorrem somente no intestino."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105185,
+    "tags": [],
+    "enunciado": "P.M., 53 anos, sexo masculino, recentemente diagnosticado com hipertensão, foi orientado por você, seu cardiologista, a usar um medicamento anti-hipertensivo diariamente. Durante a consulta de acompanhamento, P.M. pergunta sobre como o medicamento é processado pelo corpo. Você decide explicar a ele sobre a metabolização de medicamentos. Assinale a alternativa que melhor explica a metabolização de um fármaco:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Metabolização é o processo pelo qual o corpo excreta um fármaco, eliminando-o do corpo através dos rins."
+      },
+      {
+        "letra": "B",
+        "texto": "Metabolização é o processo pelo qual o corpo absorve um fármaco, movendo-o do local de administração para a corrente sanguínea."
+      },
+      {
+        "letra": "C",
+        "texto": "Metabolização é o processo pelo qual o corpo altera a estrutura química de um fármaco, geralmente tornando-o mais solúvel em água e mais fácil de ser excretado."
+      },
+      {
+        "letra": "D",
+        "texto": "Metabolização é o processo pelo qual o corpo identifica um fármaco como uma substância estranha e produz anticorpos para combatê-lo."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105186,
+    "tags": [],
+    "enunciado": "A.P., 58 anos, sexo masculino, com histórico de diabetes tipo 2, apresenta-se no consultório com um episódio recente de dor no peito. Exames subsequentes con(cid:62)rmam um infarto do miocárdio. O cardiologista prescreve um medicamento antiplaquetário para reduzir o risco de outro evento cardíaco. A.P. expressa preocupação em relação à velocidade com que o medicamento chegará ao seu coração após a ingestão. Sobre a distribuição do medicamento antiplaquetário no corpo de A.P., assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A distribuição do medicamento começa imediatamente após a ingestão, alcançando o coração e o sistema circulatório em segundos."
+      },
+      {
+        "letra": "B",
+        "texto": "O medicamento é distribuído uniformemente por todo o corpo, independentemente da necessidade terapêutica do paciente."
+      },
+      {
+        "letra": "C",
+        "texto": "A distribuição do medicamento depende de vários fatores, incluindo fluxo sanguíneo, afinidade do medicamento pelos tecidos e capacidade do medicamento de atravessar as membranas celulares."
+      },
+      {
+        "letra": "D",
+        "texto": "A distribuição do medicamento é um processo aleatório e imprevisível, tornando impossível determinar quando o medicamento atingirá o coração."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105187,
+    "tags": [],
+    "enunciado": "J.L., 67 anos, sexo masculino, foi diagnosticado recentemente com hipertensão e seu médico prescreveu um novo medicamento anti-hipertensivo, o qual deve ser tomado via oral duas vezes ao dia. J.L. vem à sua consulta e pergunta por que ele não pode simplesmente tomar uma injeção uma vez ao mês, em vez de ter que lembrar de tomar o comprimido duas vezes ao dia. Ele está especialmente interessado em saber por que o medicamento oral não funciona imediatamente após a ingestão. Sobre a absorção do medicamento anti- hipertensivo no organismo de J.L., assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A absorção do medicamento acontece imediatamente após a ingestão e a concentração do fármaco no sangue de J.L. aumenta imediatamente para o pico."
+      },
+      {
+        "letra": "B",
+        "texto": "A absorção do medicamento ocorre no estômago de J.L. imediatamente após a ingestão, mas a quantidade de fármaco no sangue de J.L. não aumenta até que o medicamento seja completamente absorvido."
+      },
+      {
+        "letra": "C",
+        "texto": "A absorção do medicamento começa no trato gastrointestinal de J.L. após a ingestão, com a concentração do fármaco no sangue aumentando gradualmente até atingir um pico."
+      },
+      {
+        "letra": "D",
+        "texto": "A absorção do medicamento não começa até que o fármaco chegue ao fígado de J.L., onde é metabolizado e depois lançado na corrente sanguínea."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105188,
+    "tags": [],
+    "enunciado": "M.C., 45 anos, sexo masculino, foi diagnosticado com hipertensão arterial sistêmica. Seu médico prescreveu um medicamento anti-hipertensivo que deve ser tomado diariamente. Depois de tomar o medicamento regularmente por um mês, M.C. retorna ao consultório para uma avaliação de rotina. Seu médico veri(cid:62)ca que a pressão arterial de M.C. está controlada e decide manter a mesma medicação e dosagem. Com base nesse cenário e em seus conhecimentos sobre farmacocinética, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A eficácia do medicamento na redução da pressão arterial de M.C. está diretamente relacionada com a biodisponibilidade do medicamento."
+      },
+      {
+        "letra": "B",
+        "texto": "A concentração do medicamento no sangue de M.C. deve permanecer constante, independentemente de quanto tempo ele tome a medicação."
+      },
+      {
+        "letra": "C",
+        "texto": "M.C. está tomando o medicamento há muito tempo para que a meia-vida do medicamento seja relevante para o tratamento."
+      },
+      {
+        "letra": "D",
+        "texto": "Se M.C. parar de tomar o medicamento de repente, não haverá nenhum efeito residual do medicamento em seu corpo."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105189,
+    "tags": [],
+    "enunciado": "L.M., 58 anos, sexo feminino, com histórico de diabetes tipo 2 e hipertensão, vem ao consultório para revisão de seus medicamentos. Atualmente, L.M. está tomando metformina 500mg duas vezes ao dia e losartana 50mg uma vez ao dia. Recentemente, ela vem relatando episódios de tontura e cansaço. L.M. expressa preocupação sobre se os medicamentos estão funcionando corretamente. Com relação à farmacocinética dos medicamentos que L.M. está tomando, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A farmacocinética se refere ao estudo dos efeitos de um medicamento no corpo, incluindo seu mecanismo de ação."
+      },
+      {
+        "letra": "B",
+        "texto": "A farmacocinética se refere ao estudo de como o corpo afeta um medicamento, incluindo processos de absorção, distribuição, metabolismo e excreção."
+      },
+      {
+        "letra": "C",
+        "texto": "A farmacocinética se refere apenas ao estudo da excreção de um medicamento, o que poderia explicar os sintomas de L.M."
+      },
+      {
+        "letra": "D",
+        "texto": "A farmacocinética se refere apenas ao estudo de como um medicamento é absorvido pelo corpo, o que não seria relevante para a situação de L.M."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105190,
+    "tags": [],
+    "enunciado": "Quando a TFGe chegar em 15mL/ min/1,73m2, devemos evitar o uso de enoxaparina. Está correto que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Uma alternativa nessa condição é a Heparina Não Fracionada HNF, pois tem metabolismo exclusivamente renal."
+      },
+      {
+        "letra": "B",
+        "texto": "Uma alternativa nessa condição não é a Heparina Não Fracionada HNF, pois tem metabolismo exclusivamente hepático."
+      },
+      {
+        "letra": "C",
+        "texto": "Uma alternativa nessa condição é a Heparina Não Fracionada HNF, pois tem metabolismo exclusivamente hepático."
+      },
+      {
+        "letra": "D",
+        "texto": "Uma alternativa nessa condição é a Heparina Não Fracionada HNF, pois tem metabolismo não exclusivamente hepático. 4000192087"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105191,
+    "tags": [],
+    "enunciado": "Antibióticos e Resistência bacteriana Qual alternativa contém apenas antibióticos que não necessitam de correção de dose pela função renal?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ceftriaxona, amicacina, metronidazol."
+      },
+      {
+        "letra": "B",
+        "texto": "Ceftriaxona, clindamicina, moxifloxacino."
+      },
+      {
+        "letra": "C",
+        "texto": "Amicacina, teicoplanina, clindamicina."
+      },
+      {
+        "letra": "D",
+        "texto": "Teicoplanina, sulfametoxazol-trimetoprima, nitrofurantoína. 4000191288"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105192,
+    "tags": [],
+    "enunciado": "O lopinavir-ritonavir podem também influenciar na atividade dos inibidores P2Y12 por inibição da CYP3A4:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O que aumenta o nível sérico de metabólitos ativos do clopidogrel e aumenta a atividade do ticagrelor."
+      },
+      {
+        "letra": "B",
+        "texto": "O que reduz o nível sérico de metabólitos inativos do clopidogrel e aumenta a atividade do ticagrelor."
+      },
+      {
+        "letra": "C",
+        "texto": "O que reduz o nível sérico de metabólitos ativos do clopidogrel e reduz a atividade do ticagrelor."
+      },
+      {
+        "letra": "D",
+        "texto": "O que reduz o nível sérico de metabólitos ativos do clopidogrel e aumenta a atividade do ticagrelor. 4000189682"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105193,
+    "tags": [],
+    "enunciado": "Apesar de classicamente bem toleradas, a cloroquina e a hidroxicloroquina:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nunca podem induzir graves efeitos colaterais tais como aumentar o intervalo QT, induzir hipoglicemia, retinopatia e distúrbios neuropsiquiátricos."
+      },
+      {
+        "letra": "B",
+        "texto": "Podem induzir graves efeitos colaterais tais como reduzir o intervalo QT, induzir hipoglicemia, retinopatia e distúrbios neuropsiquiátricos."
+      },
+      {
+        "letra": "C",
+        "texto": "Podem induzir graves efeitos colaterais tais como aumentar o intervalo QT, induzir hipoglicemia, retinopatia e distúrbios neuropsiquiátricos."
+      },
+      {
+        "letra": "D",
+        "texto": "Podem induzir graves efeitos colaterais tais como aumentar o intervalo QT, induzir hipoglicemia, retinopatia e nunca distúrbios neuropsiquiátricos. 4000189677"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105194,
+    "tags": [],
+    "enunciado": "A gabapentina é um análogo estrutural do GABA que possui propriedades antiepilépticas e antinociceptivas. É usada em pacientes com dor neuropática periférica, no pós-operatório e para controle da dor visceral. Sobre essa medicação, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sua eliminação é hepática e sua meia-vida varia de 5 a 7 horas."
+      },
+      {
+        "letra": "B",
+        "texto": "Sua dose varia de 5 a 15mg/Kg/dia, até 3 vezes ao dia, e deve ser lentamente ajustada conforme resposta do paciente."
+      },
+      {
+        "letra": "C",
+        "texto": "Não necessita redução gradual, pois não causa abstinência."
+      },
+      {
+        "letra": "D",
+        "texto": "Em associação com opioides, pode potencializar os efeitos adversos. 4000189670"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105195,
+    "tags": [],
+    "enunciado": "São medicações analgésicas que possuem ação anti-inflamatória, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "aspirina"
+      },
+      {
+        "letra": "B",
+        "texto": "acetoaminofen"
+      },
+      {
+        "letra": "C",
+        "texto": "nimesulida"
+      },
+      {
+        "letra": "D",
+        "texto": "diclofenaco"
+      },
+      {
+        "letra": "E",
+        "texto": "naproxeno 4000172736"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105196,
+    "tags": [],
+    "enunciado": "O Mepolizumabe é um anticorpo monoclonal humanizado, sendo adequado o item:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Que estimula a IL-5 de se ligar aos seus receptores nos eosinófilos e, consequentemente, reduz a inflamação eosinofílica."
+      },
+      {
+        "letra": "B",
+        "texto": "Que inibe a IL-5 de se ligar aos seus receptores nos eosinófilos e, consequentemente, aumenta a inflamação eosinofílica."
+      },
+      {
+        "letra": "C",
+        "texto": "Que inibe a IL-5 de se ligar aos seus receptores nos eosinófilos e, consequentemente, reduz a inflamação eosinofílica."
+      },
+      {
+        "letra": "D",
+        "texto": "Que inibe a IL-5 de se ligar aos seus receptores nos eosinófilos e, consequentemente, reduz a inflamação não eosinofílica. 4000171988 Respostas: 1 B 2 A 3 A 4 C 5 A 6 C 7 C 8 C 9 A 10 A 11 A 12 B 13 C 14 B 15 B 16 B 17 C 18 B 19 A 20 B 21 B 22 B 23 A 24 B 25 D 26 A 27 A 28 C 29 B 30 B 31 C 32 A 33 C 34 C 35 C 36 C 37 C 38 C 39 C 40 C 41 C 42 A 43 B 44 C 45 B 46 D 47 C 48 B 49 B 50 C"
+      }
+    ],
+    "resposta_correta": "C"
+  }
+]

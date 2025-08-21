@@ -1,0 +1,4302 @@
+[
+  {
+    "id": 100624,
+    "tags": [],
+    "enunciado": "Mulher, 60 anos de idade, em amenorreia há quatro anos, foi recentemente diagnosticada com anemia e na investigação apresenta os seguintes exames: TSH = 1,97 mUI/mL (VR 0,45 a 4,5 mUI/mL), T4 livre = 0,3 ng/dL (VR 0,9 a 1,8 ng/dL), FSH = 4,0 mUI/mL (VR 3,6 a 16,6 mUI/mL), LH = 1,6 mUI/mL (VR 1,1 a 11,1 mUI/mL), cortisol = 6,6 mcg/dL (VR 5,0 a 25 mcg/dL), ACTH = 12,6 pg/mL (VR < 46 pg/mL), IGF-1 = 64 ng/mL (VR 83 a 241 ng/mL), prolactina = 80 ng/dL (VR 5 a 25 ng/dL). A ressonância magnética da sela túrcica evidenciou lesão hipo(cid:61)sária de 3,5 x 2,8 x 3,1 cm em região selar compatível com adenoma hipofisário. Qual é a alternativa mais adequada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É possível excluir o diagnóstico de hipotiroidismo devido aos níveis normais de TSH."
+      },
+      {
+        "letra": "B",
+        "texto": "Para a confirmação do diagnóstico de deficiência de GH é necessária a dosagem do GH basal."
+      },
+      {
+        "letra": "C",
+        "texto": "Trata-se de pan-hipopituitarismo por apresentar deficiência de mais de um setor de hormônios adeno-hipofisários."
+      },
+      {
+        "letra": "D",
+        "texto": "O nível elevado de prolactina descarta o diagnóstico de hipopituitarismo. 4000233097"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 100625,
+    "tags": [],
+    "enunciado": "Mulher, 38 anos de idade, refere que não voltou a apresentar ciclos menstruais após seis meses do término da amamentação do seu segundo (cid:61)lho. Queixa-se também de cefaleia leve, esporádica. Faz uso de sertralina, omeprazol e anlodipino. Ao exame clínico, apresentou galactorreia à expressão mamária bilateral. Na consulta, apresenta um exame de sangue com dosagem de prolactina sérica de 48 ng/mL (VR: 4,2 a 24,2 ng/mL). O próximo passo mais adequado é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Solicitar ressonância magnética de hipófise."
+      },
+      {
+        "letra": "B",
+        "texto": "Solicitar cortisol basal, TSH, T4 livre, ACTH, FSH e LH."
+      },
+      {
+        "letra": "C",
+        "texto": "Suspender sertralina e reavaliar em três meses."
+      },
+      {
+        "letra": "D",
+        "texto": "Suspender omeprazol e reavaliar em três meses."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 100626,
+    "tags": [],
+    "enunciado": "Homem, 59 anos de idade, com carcinoma espinocelular de orofaringe metastático para pulmão e linfonodos, encontra- se em tratamento sistêmico de primeira linha com agente anti-PD-1 há três meses. Refere astenia importante e pré- síncopes ocasionais, além de náuseas e vômitos, há uma semana. Nega diarreia. Ao exame clínico, apresentou FC de 109 bpm, SpO₂ de 96%, PA de 90x60 mmHg, FR de 20 ipm, Temp. de 37,2 °C. Sem outras alterações. O conjunto de exames com maior probabilidade de esclarecer o diagnóstico é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ACTH, cortisol e ressonância magnética de adrenais."
+      },
+      {
+        "letra": "B",
+        "texto": "ACTH, cortisol, TSH, T4L, LH, FSH, testosterona e ressonância magnética de hipófise."
+      },
+      {
+        "letra": "C",
+        "texto": "Cálcio iônico, PTH, PTHrp e cintilografia óssea."
+      },
+      {
+        "letra": "D",
+        "texto": "Cálcio iônico, hemograma, hemoculturas e tomografia de tórax."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 100627,
+    "tags": [],
+    "enunciado": "Mulher, 22 anos, com diagnóstico de esquizofrenia paranoide teve alta de unidade psiquiátrica com a resolução dos sintomas psicóticos utilizando adequadamente um antipsicótico. Com o tempo, começou a apresentar perda da libido, oligomenorreia, aumento das mamas e galactorreia. Exames laboratoriais indicaram aumento de prolactina, sendo as demais causas excluídas. Entre os antipsicóticos abaixo, qual seria o causador mais provável do evento adverso relatado?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Risperidona."
+      },
+      {
+        "letra": "B",
+        "texto": "Olanzapina."
+      },
+      {
+        "letra": "C",
+        "texto": "Clorpromazina."
+      },
+      {
+        "letra": "D",
+        "texto": "Quetiapina. 4000230505"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 100628,
+    "tags": [],
+    "enunciado": "Sobre a hiperprolactinemia, assinale a correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a causa mais comum para hiperprolactinemia não fisiológica é o prolactinoma"
+      },
+      {
+        "letra": "B",
+        "texto": "Pode estar associada a hipotireoidismo, doença de Addison."
+      },
+      {
+        "letra": "C",
+        "texto": "Antipsicóticos como haloperidol, levomepromazina e clorpromazina não interferem nos níveis de prolactina."
+      },
+      {
+        "letra": "D",
+        "texto": "Sintomas exuberantes com prolactina <100ng/ml descartam hiperprolactinemia e mais investigação. 4000230110"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 100629,
+    "tags": [],
+    "enunciado": "Mulher de 35 anos apresenta aumento progressivo de mãos e pés, além de cefaleia e alterações visuais. Os exames laboratoriais mostram níveis elevados de IGF-1. Qual a hipótese diagnóstica?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Gigantismo"
+      },
+      {
+        "letra": "B",
+        "texto": "Doença de Cushing"
+      },
+      {
+        "letra": "C",
+        "texto": "Síndrome de Addison"
+      },
+      {
+        "letra": "D",
+        "texto": "Acromegalia"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 100630,
+    "tags": [],
+    "enunciado": "Mulher de 28 anos, que não está grávida, tem queixa de galactorreia espontânea e dosagem sérica da prolactina de 140μg/L. Acerca da hiperprolactinemia, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Quanto mais grave o hipogonadismo, menor a incidência de galactorreia."
+      },
+      {
+        "letra": "B",
+        "texto": "Os níveis elevados de prolactina levam ao estímulo da secreção do GnRH pelo hipotálamo."
+      },
+      {
+        "letra": "C",
+        "texto": "A domperidona e a metoclopramida podem inibir a produção de prolactina."
+      },
+      {
+        "letra": "D",
+        "texto": "A gestação não influencia na produção da prolactina em pacientes com prolactinoma."
+      },
+      {
+        "letra": "E",
+        "texto": "Na hiperprolactinemia assintomática, com níveis superiores a 100μg/L, descarta-se a presença de macroprolactinemia."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 100631,
+    "tags": [],
+    "enunciado": "Em relação ás possíveis manifestações clínicas da hiperprolactinemia, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "diminuição libido, fraqueza, depressão."
+      },
+      {
+        "letra": "B",
+        "texto": "dispareunia, acne/hirsutismo, rinorreia."
+      },
+      {
+        "letra": "C",
+        "texto": "ganho de peso, aumento massa óssea, dismenorreia."
+      },
+      {
+        "letra": "D",
+        "texto": "perda audição, cefaleia, infertilidade."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 100632,
+    "tags": [],
+    "enunciado": "Os efeitos fisiológicos do hormônio do crescimento (GH) estão associados ao:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "aumento da gordura corporal devido ao seu efeito catabólico."
+      },
+      {
+        "letra": "B",
+        "texto": "crescimento linear pós-natal."
+      },
+      {
+        "letra": "C",
+        "texto": "melhora dos índices glicêmicos em pacientes diabéticos."
+      },
+      {
+        "letra": "D",
+        "texto": "diminuição dos níveis de Fator de Crescimento Associado à Insulina (IGF-1)."
+      },
+      {
+        "letra": "E",
+        "texto": "balanço nitrogenado negativo. 4000215172"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 100633,
+    "tags": [],
+    "enunciado": "Em relação à hiperprolactinemia, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os tumores produtores de prolactina são classificados em microprolactinomas (menores que 10 mm) e macroprolactinomas (maiores ou iguais a 10 mm)."
+      },
+      {
+        "letra": "B",
+        "texto": "Concentração de prolactina acima de 500 mg/L usualmente ocorre com o uso da risperidona."
+      },
+      {
+        "letra": "C",
+        "texto": "O exame de escolha para avaliar adenoma hipofisário é o raio X de sela túrcica."
+      },
+      {
+        "letra": "D",
+        "texto": "Os antidopaminérgicos são usados para tratar a hiperprolactinemia."
+      },
+      {
+        "letra": "E",
+        "texto": "Tumores produtores de PRL (prolactinomas) são responsáveis por cerca de 80% dos casos de hiperprolactinemia patológica."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 100634,
+    "tags": [],
+    "enunciado": "Na amamentação, a sucção do mamilo aumenta a produção de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "dopamina e ocitocina."
+      },
+      {
+        "letra": "B",
+        "texto": "dopamina e prolactina."
+      },
+      {
+        "letra": "C",
+        "texto": "ocitocina e serotonina."
+      },
+      {
+        "letra": "D",
+        "texto": "ocitocina e prolactina. 4000213971"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 100635,
+    "tags": [],
+    "enunciado": "Paciente, 32 anos, sexo feminino, procura atendimento médico relatando amenorreia e galactorreia. Exames laboratoriais con(cid:61)rmam níveis elevados de prolactina. Um exame de imagem da sela túrcica evidencia um adenoma hipo(cid:61)sário. Diante desse cenário, com relação às manifestações clínicas associadas aos prolactinomas, é CORRETO afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A hiperprolactinemia leva ao hipogonadismo hipogonadotrófico, principalmente por inibir a pulsatilidade do Hormônio Liberador das Gonadotrofinas (GnRH)."
+      },
+      {
+        "letra": "B",
+        "texto": "O aumento dos níveis de prolactina geralmente estimula a produção de Hormônio Luteinizante (LH) e Hormônio Folículo-Estimulante (FSH)."
+      },
+      {
+        "letra": "C",
+        "texto": "A hiperprolactinemia é comumente associada a um aumento na libido e na função sexual."
+      },
+      {
+        "letra": "D",
+        "texto": "A presença de um prolactinoma afeta raramente outros eixos hormonais, e é frequentemente uma condição benigna que não requer tratamento. 4000213839"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 100636,
+    "tags": [],
+    "enunciado": "Mulher de 45 anos, em tratamento para depressão. Apresenta galactorreia há 3 meses. Apresenta prolactina de 80 ng/ml (normal ≤ 25 ng/ml). Já realizou ressonância da sela túrcica, sem alterações. A melhor explicação para este achado de hiperprolactinemia é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Microadenoma de hipófise"
+      },
+      {
+        "letra": "B",
+        "texto": "Medicamentosa"
+      },
+      {
+        "letra": "C",
+        "texto": "Idiopática"
+      },
+      {
+        "letra": "D",
+        "texto": "Hipotiroidismo 4000212901"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 100637,
+    "tags": [],
+    "enunciado": "Mulher, 55 anos de idade, em amenorreia há 2 anos, foi encaminhada pelo clínico ao ambulatório de endocrinologia por alteração da função tireoidiana e perda de campo visual. Apresentava TSH 0,85 mUI/mL (VR: 0,4 a 4,0) e T4 livre 0,55 ng/dL (VR: 0,9 a 1,8). Foram solicitados então os seguintes exames: T4 livre: 0,72 ng/dL TSH: 0,94 mUI/mL FSH: 2,5 mUI/mL (VR: 3,6 a 16,6) LH: 2,0 mUI/mL (VR: 1,1 a 11,1) Cortisol: 7,0 mcg/dL (VR: 5,0 a 25) ACTH: 13,1 pg/mL (VR: < 46) IGF-1: 62 ng/mL (VR: 83 a 241) Prolactina: 88 ng/dL (VR: 5 a 25) Prosseguindo a investigação, a ressonância magnética da sela túrcica evidenciou lesão hipo(cid:61)sária de 4,0 x 2,5 x 2,9 cm em região selar compatível com adenoma hipo(cid:61)sário. Assinale a alternativa CORRETA sobre o caso acima:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A dosagem de prolactina diluída é obrigatória neste caso para a exclusão do efeito gancho."
+      },
+      {
+        "letra": "B",
+        "texto": "Trata-se de um caso de amenorreia secundária, quando há ausência de menstruação por 4 meses consecutivos ou mais em mulheres que já tenham menstruado previamente."
+      },
+      {
+        "letra": "C",
+        "texto": "A paciente apresenta macroprolactinemia e deve ser encaminhada para tratamento cirúrgico."
+      },
+      {
+        "letra": "D",
+        "texto": "Podemos excluir o diagnóstico de hipotireoidismo devido aos níveis normais de TSH."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 100638,
+    "tags": [],
+    "enunciado": "Leia o caso clínico a seguir. Mulher de 53 anos foi encaminhada para avaliação de hiperprolactinemia. Não apresentava qualquer tipo de queixa, totalmente assintomática. Antecedente de última menstruação há 48 meses. Trazia exame de RNM de sela túrcica com lesão compatível com adenoma hipofisário de 5 mm, sem invasão extra-selar. Seguindo as diretrizes do último Consenso Internacional da Sociedade Hipo(cid:61)sária, a conduta mais apropriada para essa paciente deverá ser",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o encaminhamento para cirurgia."
+      },
+      {
+        "letra": "B",
+        "texto": "o encaminhamento para radioterapia."
+      },
+      {
+        "letra": "C",
+        "texto": "a utilização de agonista dopaminérgico."
+      },
+      {
+        "letra": "D",
+        "texto": "o acompanhamento da paciente"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 100639,
+    "tags": [],
+    "enunciado": "Mulher, 20 anos, refere amenorreia há 3 meses e galactorreia bilateral há um mês. Anteriormente, tinha ciclos menstruais regulares (27/27 dias), nega uso de anticoncepcionais. Usa regularmente risperidona desde os 16 anos de idade. Traz dosagem de Prolactina recente = 85 ng/mL (VR: 5-25). Apresenta pequena secreção esbranquiçada à expressão em ambas as mamas. Sua orientação será",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "repetir a dosagem de prolactina, LH, FSH, estradiol e progesterona, RMN de crânio;"
+      },
+      {
+        "letra": "B",
+        "texto": "solicitar 8-hCG e repetir dosagem de prolactina, se possível após suspensão da risperidona;"
+      },
+      {
+        "letra": "C",
+        "texto": "solicitar RMN de hipófise, provável prolactinoma;"
+      },
+      {
+        "letra": "D",
+        "texto": "repetir a dosagem de prolactina, mais LH, FSH, estradiol e testosterona total; RMN de hipófise. 4000210153"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 100640,
+    "tags": [],
+    "enunciado": "Paciente, 40 anos idade, sexo masculino, durante investigação de cefaleia foi encontrado adenoma hipo(cid:61)sário de 0,8 cm em lobo direito da hipó(cid:61)se. Exames laboratoriais demonstram GH: 10 μg/L, IGF1: 215 ng/mL (VR: 58 a 219 ng/mL) e normalidade dos demais eixos hipo(cid:61)sários. Considerando o caso relatado, qual é a próxima conduta e sua justificativa?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Acompanhar o paciente a longo prazo, por tratar-se de um incidentaloma hipofisário."
+      },
+      {
+        "letra": "B",
+        "texto": "Solicitar o teste de supressão do GH com glicose (dosagem de GH durante o TOTG) para esclarecimento diagnóstico."
+      },
+      {
+        "letra": "C",
+        "texto": "Iniciar o tratamento com octreotide LAR pois o GH, no valor apresentado no exame, confirma diagnóstico de acromegalia."
+      },
+      {
+        "letra": "D",
+        "texto": "Encaminhar o paciente para neurocirurgia, por se tratar de um tumor de hipófise com efeitos compressivos."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 100641,
+    "tags": [],
+    "enunciado": "Em pacientes com suspeita de hiperprolactinemia, a avaliação inicial deve ser",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "solicitar ressonância magnética da sela túrcica."
+      },
+      {
+        "letra": "B",
+        "texto": "solicitar exames laboratoriais."
+      },
+      {
+        "letra": "C",
+        "texto": "descartar causas genéticas."
+      },
+      {
+        "letra": "D",
+        "texto": "descartar causas fisiológicas."
+      },
+      {
+        "letra": "E",
+        "texto": "solicitar RX da sela túrcica."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 100642,
+    "tags": [],
+    "enunciado": "Analise as assertivas abaixo e assinale a alternativa correta. I. A regulação da maioria dos hormônios da adeno-hipó(cid:61)se depende de sinais estimulantes do hipotálamo; apenas a prolactina é regulada por estímulos inibitórios. II. Se a haste hipo(cid:61)sária for lesionada, a liberação de prolactina aumenta, ao passo que a liberação dos outros hormônios da adeno-hipófise diminui.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Todas as assertivas estão corretas."
+      },
+      {
+        "letra": "B",
+        "texto": "Todas as assertivas estão incorretas."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas a assertiva I está correta."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas a assertiva II está correta."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 100643,
+    "tags": [],
+    "enunciado": "Homem, 50 anos, casado, queixa-se de astenia, adinamia e redução de foça muscular nos últimos 4 meses, além de redução de libido e de ereção matinal espontânea. Exame físico: IMC: 26,2 kg/m², sem outros achados. Exames complementares: TSH:16,9 ulU/mL (VR: 0,4-4,5); T4 livre:0,45 ng/dL (VR: 0,9 - 1,8 ng/dL); testosterona total: 90,34 ng/dL (VR: 250-900 ng/dL); Hb:11,7 g/dL e Ht: 34 dL. Qual é a principal hipótese diagnóstica?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Síndrome do eutireoideo doente."
+      },
+      {
+        "letra": "B",
+        "texto": "Hipotireoidismo primário."
+      },
+      {
+        "letra": "C",
+        "texto": "Hipopituitarismo anterior."
+      },
+      {
+        "letra": "D",
+        "texto": "Uso de esteróide anabolizante."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 100644,
+    "tags": [],
+    "enunciado": "Níveis elevados de prolactina circulante podem ser causados por uma grande variedade de atividades (cid:61)siológicas, incluindo gravidez, sono, alimentação e ato sexual. Sobre o aumento dos níveis de prolactina circulante, analise as seguintes afirmativas. I. – Níveis elevados de prolactina, que em geral podem levar à galactorreia, podem ser observados após estimulação da parede torácica, como na amamentação. II. – Os medicamentos que bloqueiam a ação do receptor de dopamina (fenotiazinas) ou que reduzem os níveis de catecolaminas (inibidores da monoaminoxidase) aumentam os níveis de prolactina. III. – O hipertireoidismo também está associado à elevação dos níveis séricos de prolactina. Sobre esta situação selecione a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As afirmativas I e II são verdadeiras. A afirmativa III é falsa."
+      },
+      {
+        "letra": "B",
+        "texto": "As afirmativas I e III são verdadeiras. A afirmativa II é falsa."
+      },
+      {
+        "letra": "C",
+        "texto": "As afirmativas II e III são verdadeiras. A afirmativa I é falsa."
+      },
+      {
+        "letra": "D",
+        "texto": "As afirmativas I, II e III são verdadeiras."
+      },
+      {
+        "letra": "E",
+        "texto": "As afirmativas I, II e III são falsas."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 100645,
+    "tags": [],
+    "enunciado": "Constitui fator inibitório da síntese e secreção da prolactina:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "TRH (hormônio liberador de tireotrofina)."
+      },
+      {
+        "letra": "B",
+        "texto": "Serotonina."
+      },
+      {
+        "letra": "C",
+        "texto": "Estrogênio."
+      },
+      {
+        "letra": "D",
+        "texto": "Dopamina."
+      },
+      {
+        "letra": "E",
+        "texto": "VIP (peptídeo intestinal vasoativo)."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 100646,
+    "tags": [],
+    "enunciado": "Mulher, 28 anos, vem à consulta com queixa de galactorreia há 6 meses. Refere que seu ciclo menstrual é irregular e está há 8 meses tentando engravidar, sem sucesso. Há poucos dias vem sentindo dor de cabeça frequente e acredita que a causa seja porque a visão está embaçada. Foram solicitados exames laboratoriais e uma RNM de crânio, que evidenciou uma lesão expansiva em região selar com compressão do quiasma óptico. Qual alteração espera-se encontrar no exame de campimetria visual dessa paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Visão em túnel"
+      },
+      {
+        "letra": "B",
+        "texto": "Perda da visão central"
+      },
+      {
+        "letra": "C",
+        "texto": "Diplopia"
+      },
+      {
+        "letra": "D",
+        "texto": "Hemianopsia bitemporal"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 100647,
+    "tags": [],
+    "enunciado": "Paciente do sexo masculino, 60 anos, pardo, portador de (cid:61)brilação atrial, em uso de rivaroxabana 20mg/dia, com antecedente de derrame pericárdico importante com realização de janela pericárdica 03 meses antes da atual internação, com drenagem de líquido citrino gelatinoso, que após análise bioquímica revelou tratar-se de um transudato. Apresentou quadro de desorientação e alteração do nível de consciência, sendo internado para investigação. À anamnese, paciente apresentava sintomas inespecí(cid:61)cos, como fadiga, insônia, labilidade emocional e indisposição para realização de atividades diárias. Ao exame físico, paciente euvolêmica, sem alterações evidentes. Nos exames admissionais, evidenciado sódio sério de 119 mg/d (135-145), com resposta sintomática parcial à reposição de salina hipertônica a 3%. Na tomogra(cid:61)a de crânio, sem sinais sugestivos de acidente vascular encefálico (AVC), somente evidenciado sinais de manipulação prévia cirúrgica com alterações na calota craniana adjacente devido a cirurgia para retirada de tumor benigno, o qual não soube especi(cid:61)car, há 18 anos. Durante internação, manteve os sintomas inespecí(cid:61)cos, sem alteração do nível de consciência, com hiponatremia mantida apesar da restrição hídrica. Na investigação laboratorial, anemia normocrômica e normocítica, leve eosino(cid:61)lia , sódio sérico variando entre 121-129 mg/dl, TGP 21 e TGO 36, sem alteração na função renal, potássio limite superior da normalidade, sendo encontrado TSH 4.0 mg/dl( 0,5-5,5) e T4L 0.21 mg/dl( 0,6-1,9) , cortisol matinal 2.4 mcg/dl ( 5-23), testosterona total de 23.8 mg/dl( 300-800).Na ressonância magnética de crânio, apresentando glândula hipo(cid:61)sária de volume bastante reduzida, notando-se insinuação da cisterna supra selar na sela turca, determinando compressão da hipó(cid:61)se contra o assoalho da sela. Com base no caso, qual a alternativa com a resposta correta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Paciente deverá repetir os exames pois não existe explicação para essa correlação TSH e T4 livre."
+      },
+      {
+        "letra": "B",
+        "texto": "Trata-se de um pan-hipopituitarismo secundários a uma sela vazia, e a hiponatremia poderá ser explicada tanto pelo hipotireoidismo central como pelo hipocortisolismo."
+      },
+      {
+        "letra": "C",
+        "texto": "Hiponatremia é secundária à doença neoplasia recidivante em sela túrcica."
+      },
+      {
+        "letra": "D",
+        "texto": "O derrame pericárdico e a hiponatremia são secundários a um quadro de insuficiência cardíaca congestiva."
+      },
+      {
+        "letra": "E",
+        "texto": "O tumor benigno operado no passado tratava-se de um prolactinoma, pois é o adenoma benigno mais comum e a cirurgia é a terapêutica de escolha. 4000190475"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 100648,
+    "tags": [],
+    "enunciado": "Mulher de 39 anos apresentando 6 dias de intensa fadiga, tontura e leve cefaleia retro-arbitrária. Há 5 meses, tinha sido diagnosticada em estágio IIIb de melanoma sem metástase de acordo com os exames de imagem na época e iniciou tratamento com ipilimumabe há 1 mês. Além disso, refere hiper-reatividade brônquica em uso esporádico de albuterol inalatório, porém, chegou a fazer uso de prednisona por 7 dias no último ano, sendo a última vez há 3 meses. Laboratorialmente apresenta: sódio: 132 (valor de referência: 135- 145 mEq/I); TSH: 0,8 (valor de referência: 0,5-4,7 µU/ml); tiroxina livre: 0,9 (valor de referência: 0,8-1,8 ng/dl); hormônio adrenocorticotró(cid:61)co: 9 (valor de referência: 10-60 pg/ml); cortisol matinal: 1,2 (valor de referência: 5-25 µg/dl). Qual dos seguintes mecanismos é MAIS PROVÁVEL de causar os sintomas dela:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Inflamação cerebral paraneoplásica."
+      },
+      {
+        "letra": "B",
+        "texto": "Aumento da metabolização hepática hormonal devido à indução hepática enzimática."
+      },
+      {
+        "letra": "C",
+        "texto": "Regulação hormonal negativa da prednisona."
+      },
+      {
+        "letra": "D",
+        "texto": "Infiltração linfocítica da glândula adrenal."
+      },
+      {
+        "letra": "E",
+        "texto": "Destruição hipofisária mediada pelas células T (hipofisite pelo ipilimumabe). 4000189243"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 100649,
+    "tags": [],
+    "enunciado": "O hipotálamo é uma estrutura que mantém importantes relações com a hipó(cid:61)se e produz hormônios que serão liberados na neuro-hipófise. São hormônios produzidos no hipotálamo:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Estrogênio e FSH."
+      },
+      {
+        "letra": "B",
+        "texto": "Ocitocina e estrogênio."
+      },
+      {
+        "letra": "C",
+        "texto": "ADH e ocitocina."
+      },
+      {
+        "letra": "D",
+        "texto": "FSH e ADH. 4000189141"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 100650,
+    "tags": [],
+    "enunciado": "Um recém-nascido de 10 dias é atendido com quadro de icterícia. A mãe relata que ele permaneceu internado na maternidade durante 5 dias por ter apresentado hipoglicemia e icterícia. O peso e o comprimento ao nascer são 3.000g e 49cm, respectivamente. Ao exame físico, mostrou-se ativo, ictérico, com tônus adequado, micropênis e testículos tópicos. Assinale a alternativa correta, que apresenta o diagnóstico mais provável:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "síndrome de Noonan"
+      },
+      {
+        "letra": "B",
+        "texto": "hipotireoidismo congênito"
+      },
+      {
+        "letra": "C",
+        "texto": "hipopituitarismo"
+      },
+      {
+        "letra": "D",
+        "texto": "síndrome de Silver-Russe 4000188884"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 100651,
+    "tags": [],
+    "enunciado": "João Pedro de 40 anos apresenta macroadenoma hipo(cid:61)sário não funcionante. NÃO é alteração ocasionada por níveis muito reduzidos de ACTH:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "anemia."
+      },
+      {
+        "letra": "B",
+        "texto": "hipercalcemia."
+      },
+      {
+        "letra": "C",
+        "texto": "hiponatremia."
+      },
+      {
+        "letra": "D",
+        "texto": "hipoglicemia."
+      },
+      {
+        "letra": "E",
+        "texto": "hipercalemia. 4000188774"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 100652,
+    "tags": [],
+    "enunciado": "O hormônio que tem produção mais abundante da adeno-hipófise é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "GH."
+      },
+      {
+        "letra": "B",
+        "texto": "ACTH."
+      },
+      {
+        "letra": "C",
+        "texto": "LH."
+      },
+      {
+        "letra": "D",
+        "texto": "FSH. 4000187142"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 100653,
+    "tags": [],
+    "enunciado": "O tratamento dos prolactinomas da hipófise é preferencialmente feito com:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cirurgia."
+      },
+      {
+        "letra": "B",
+        "texto": "Betabloqueadores."
+      },
+      {
+        "letra": "C",
+        "texto": "Inibidor direto da renina."
+      },
+      {
+        "letra": "D",
+        "texto": "Agonistas dopaminérgicos."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 100654,
+    "tags": [],
+    "enunciado": "Mulher, 24a, nuligesta, queixa-se de secreção leitosa por ambas as mamas, há 18 meses. Refere ciclos menstruais longos, com atrasos de até 30 dias. Exame físico: IMC=22,2Kg/m²; mamas: expressão positiva de secreção láctea bilateralmente. Restante do exame físico normal. Prolactina=91ng/mL; TSH=2,5µUI/mL. Ressonância nuclear magnética cerebral: nódulo hipofisário de 6mm. A CONDUTA É:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Indicar tratamento cirúrgico, pois se trata de um tumor hipofisário e os agonistas dopaminérgicos não reduzem o volume do tumor."
+      },
+      {
+        "letra": "B",
+        "texto": "Não utilizar contraceptivos hormonais combinados, pois o estrogênio vai aumentar a prolactina e o tumor."
+      },
+      {
+        "letra": "C",
+        "texto": "Indicar tratamento com agonistas dopaminérgicos, para melhora do quadro clínico, da alteração hormonal e eventual redução do tumor."
+      },
+      {
+        "letra": "D",
+        "texto": "Manter estadiamento de imagem anual. Por ser tumor pequeno, não há indicação de tratamento no momento."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 100655,
+    "tags": [],
+    "enunciado": "Paciente de 35 anos, G2P2 (cesarianas), procurou o ambulatório de ginecologia por apresentar ausência de menstruação por seis meses. Informa que seu ciclo sempre foi regular e que, no mesmo período, começou a apresentar saída de secreção láctea pelas papilas mamárias. Sem demais sintomas. Usa como contracepção a laqueadura tubária. Faz uso de Risperidona como antipsicótico e Losartana, iniciados há seis meses. Beta HCG negativo e exame ecográfico transvaginal normal. Considerando o cenário acima, qual o provável mecanismo fisiopatológico para esta amenorreia secundária?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A laqueadura tubária diminui a perfusão sanguínea ovariana, podendo levar à falência gonadal."
+      },
+      {
+        "letra": "B",
+        "texto": "Após 35 anos de idade, ocorre naturalmente uma falência ovariana temporária com diminuição de função gonadal."
+      },
+      {
+        "letra": "C",
+        "texto": "A secreção láctea pode ser consequente à elevação do neuropeptídeo Y subsequente à estimulação da Losartana."
+      },
+      {
+        "letra": "D",
+        "texto": "Ocorre antagonismo dos receptores D2 no sistema tuberoinfundibular hipotalâmico promovido pela Risperidona."
+      },
+      {
+        "letra": "E",
+        "texto": "Nos casos em que não se estabelece um motivo evidente, como no caso acima, é classificada como idiopática."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 100656,
+    "tags": [],
+    "enunciado": "Paciente de 23 anos, gesta 2, para 2, veio na unidade básica de saúde com uma queixa de amenorreia secundária. Após ter um hCG sanguíneo negativo, o residente da ginecologia avaliou a paciente. O único aspecto relevante na história era uma cefaleia central, que não alterava as suas atividades diárias. A paciente negava uso de medicamentos. No exame físico, a avaliação sumária da visão sugeria uma redução da visão periférica. A palpação da tireoide era normal. As mamas apresentavam galactorreia bilateral espontânea. Na discussão do caso com a equipe, aventouse a possibilidade de hiperprolactinemia. Consideraram solicitar prolactina, FSH, LH, TSH, ressonância magnética da sela túrcica, a avaliação com oftalmologia e o teste da progesterona. Todavia, houve um debate sobre quais exames iniciais deveriam ser solicitados. A opção que segue uma investigação paulatina, baseada na hipótese diagnóstica considerada, deve iniciar com:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A dosagem do TSH e da prolactina."
+      },
+      {
+        "letra": "B",
+        "texto": "A dosagem do TSH, prolactina, FSH e LH. Se normais, solicitar a ressonância magnética e a consultoria com a oftalmologia."
+      },
+      {
+        "letra": "C",
+        "texto": "O teste da progesterona. Se for negativo, dosar FSH, LH. Se forem normais, solicitar o TSH e a prolactina; se o TSH for normal e a prolactina acima de 100 ng/ml, solicitar a ressonância magnética."
+      },
+      {
+        "letra": "A",
+        "texto": "consultoria com a oftalmologia deveria ser feita, caso a ressonância fosse normal."
+      },
+      {
+        "letra": "D",
+        "texto": "A dosagem de TSH. Se anormal, deve seguir com a dosagem da prolactina. Se a prolactina estiver entre 20 e 40 pg/ml, então, solicitar a ressonância magnética."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 100657,
+    "tags": [],
+    "enunciado": "A hiperprolactinemia pode ser resultado de causas (cid:61)siológicas, farmacológicas e patológicas. Dessa forma, as alternativas a seguir figuram como possíveis causas de hiperprolactinemia, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hipertireoidismo"
+      },
+      {
+        "letra": "B",
+        "texto": "Cirrose hepática"
+      },
+      {
+        "letra": "C",
+        "texto": "Herpes zoster acometendo parede torácica"
+      },
+      {
+        "letra": "D",
+        "texto": "Uso de domperidona e metoclopramida"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 100658,
+    "tags": [],
+    "enunciado": "Paciente masculino, de 30 anos, com diabetes melito e hipertensão arterial de difícil controle, veio à consulta de revisão na UBS. Alguns aspectos de seu exame físico estão reproduzidos nas imagens abaixo. Que diagnóstico, dentre os propostos, é o mais provável?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Síndrome de Cushing"
+      },
+      {
+        "letra": "B",
+        "texto": "Insuficiência adrenal"
+      },
+      {
+        "letra": "C",
+        "texto": "Acromegalia"
+      },
+      {
+        "letra": "D",
+        "texto": "Doença de Paget"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 100659,
+    "tags": [],
+    "enunciado": "Nuligesta, 21 anos, procura atendimento ginecológico referindo que não menstrua há seis meses. Histórico de ciclos menstruais regulares com intervalos de 28 a 30 dias. Refere cefaleia frequente, que melhora com analgésicos. Em uso de amitriptilina há um ano para tratamento de depressão. Nega alterações ponderais. Faz atividade física regularmente. Sem atividade sexual há dois anos. Exame físico: PA = 90X60 mmHg; IMC = 17 Kg/m². Mamas M5, sem nódulos e expressão negativa. Exame ginecológico: sem alterações. Exames complementares: prolactina = 112 ng/ml (VN < 25 ng/ml); FSH = 4,0 mlU/ml (VN - 2,5 a 10,2 mlU/ml); TSH = 2,1 mlU/ml (VN = 0,4 a 4,0 mlU/ml). Qual a conduta mais adequada para o caso neste momento?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Solicitar ressonância magnética de crânio e sela túrcica."
+      },
+      {
+        "letra": "B",
+        "texto": "Dosagem de prolactina 1 semana após troca do antidepressivo."
+      },
+      {
+        "letra": "C",
+        "texto": "Iniciar cabergolina 0,5 mg 2 vezes por semana."
+      },
+      {
+        "letra": "D",
+        "texto": "Iniciar terapia hormonal com estrogênio e progesterona."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 100660,
+    "tags": [],
+    "enunciado": "Quais dos seguintes sintomas podem estar associados ao aumento do hormônio prolactina no organismo?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Queda de cabelo e acne."
+      },
+      {
+        "letra": "B",
+        "texto": "Hirsutismo e aumento do fluxo menstrual."
+      },
+      {
+        "letra": "C",
+        "texto": "Amenorreia e galactorreia."
+      },
+      {
+        "letra": "D",
+        "texto": "Irregularidade menstrual e disforia pré-menstrual."
+      },
+      {
+        "letra": "E",
+        "texto": "Dispareunia e dismenorreia."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 100661,
+    "tags": [],
+    "enunciado": "A hiperprolactinemia é uma alteração endócrina comum do eixo hipotalâmicohipo(cid:61)sário levando à amenorreia. Dentre suas causas podemos citar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Adenomas hipofisários, idiopática, uso de medicações, insuficiência renal ou hepática."
+      },
+      {
+        "letra": "B",
+        "texto": "Anorexia, uso de medicações, adenomas hipofisários e idiopática."
+      },
+      {
+        "letra": "C",
+        "texto": "Síndromes genéticas, adenomas hipofisários, lactação e hiperplasia adrenal."
+      },
+      {
+        "letra": "D",
+        "texto": "Lactação, hiperplasia adrenal, uso de medicações e insuficiência renal ou hepática."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 100662,
+    "tags": [],
+    "enunciado": "São medicamentos que podem estimular a produção de prolactina: 1 - Metildopa 2 - Propranolol 3 - Cimetidina 4 - Ergotamina Está correto apenas o contido em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II e II"
+      },
+      {
+        "letra": "B",
+        "texto": "I e III"
+      },
+      {
+        "letra": "C",
+        "texto": "II e IV"
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas III"
+      },
+      {
+        "letra": "E",
+        "texto": "Apenas IV"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 100663,
+    "tags": [],
+    "enunciado": "Uma paciente de 18 anos procurou a Ginecologia Endócrina com quadro de amenorreia secundária associado a galactorréia e diminuição do campo visual. A dosagem de prolactina encontrava-se normal, entretanto na ressonância nuclear magnética, observou-se grande tumor hipo(cid:61)sário com a compressão do quiasma óptico. Assinale a alternativa que apresenta a conduta mais adequada para o diagnóstico da paciente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "repetir a prolactina em 3 meses"
+      },
+      {
+        "letra": "B",
+        "texto": "solicitar uma biópsia de hipófise"
+      },
+      {
+        "letra": "C",
+        "texto": "solicitar a diluição da amostra por se tratar de efeito gancho"
+      },
+      {
+        "letra": "D",
+        "texto": "solicitar a dosagem da macroprolactina"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 100664,
+    "tags": [],
+    "enunciado": "Mulher de 30 anos, gestante no curso de 22 s e 4 dias, portadora de macroadenoma hipo(cid:61)sário com hiperprolactinemia (250 ng/mL). No momento, encontra-se assintomática. A Ressonância Nuclear Magnética confirmou o macroadenoma. De acordo com o quadro acima, assinale a alternativa CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A glândula pituitária aumenta devido à hipertrofia e hiperplasia dos lactotrofos, em resposta aos níveis elevados de estrogênio sérico."
+      },
+      {
+        "letra": "B",
+        "texto": "A amamentação interfere no crescimento tumoral devido à elevação da prolactina e, dessa forma, está contraindicada nessas pacientes."
+      },
+      {
+        "letra": "C",
+        "texto": "Após o parto, a maioria das mulheres retorna aos ciclos regulares com níveis normais ou levemente aumentados de prolactina sérica."
+      },
+      {
+        "letra": "D",
+        "texto": "A monitorização da paciente é realizada por dosagens seriadas dos níveis de prolactina, da medida de campos visuais e do mapeamento da hipófise."
+      },
+      {
+        "letra": "E",
+        "texto": "Os distúrbios visuais devem ser avaliados precocemente, pois surgem, principalmente, no início da gestação e geralmente se antecipam à cefaleia."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 100665,
+    "tags": [],
+    "enunciado": "Mulher de 40 anos apresenta macroadenoma hipo(cid:61)sário não funcionante. NÃO é alteração ocasionada por níveis muito reduzidos de ACTH:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "hipercalcemia."
+      },
+      {
+        "letra": "B",
+        "texto": "hiponatremia."
+      },
+      {
+        "letra": "C",
+        "texto": "hipoglicemia."
+      },
+      {
+        "letra": "D",
+        "texto": "hipercalemia."
+      },
+      {
+        "letra": "E",
+        "texto": "anemia."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 100666,
+    "tags": [],
+    "enunciado": "A acromegalia, na maioria dos casos (98%), é causada por um adenoma hipo(cid:61)sário secretor de somatotro(cid:61)noma (GH), sendo 70-80% macroadenomas. Carcinomas somatotró(cid:61)cos são extremamente raros. Por ser uma doença com estigmas, o diagnóstico é clínico na maioria dos casos. Os sinais e os sintomas mais comuns na acromegalia em relação ao comprometimento osteomuscular são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Espessamento da pele, papilomas cutâneos (skin tags), espaçamento dentário."
+      },
+      {
+        "letra": "B",
+        "texto": "Espessamento do couro cabeludo, acantose nigricante, hiperidrose, hirsutismo."
+      },
+      {
+        "letra": "C",
+        "texto": "Aumento das mãos e do número dos sapatos, aumento do volume do crânio, acentuação dos malares."
+      },
+      {
+        "letra": "D",
+        "texto": "Edema de tecidos moles, aumento da cartilagem do nariz e das orelhas, lábios espessados. 4000166912"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 100667,
+    "tags": [],
+    "enunciado": "Os prolactinomas, tumores hipo(cid:61)sários produtores de prolactina (PRL), são os adenomas hipo(cid:61)sários mais frequentes. Em geral, surgem esporadicamente, mas podem se associar a síndromes genéticas, como neoplasia endócrina múltipla tipo 1 e adenoma hipo(cid:61)sário familiar isolado. Considerando as manifestações clínicas associadas aos prolactinomas, é CORRETO afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A hiperprolactinemia leva ao hipogonadismo hipogonadotrófico, principalmente por inibir a pulsatilidade do hormônio liberador das gonadotrofinas (GnRH)."
+      },
+      {
+        "letra": "B",
+        "texto": "Clinicamente, as mulheres podem apresentar fase lútea longa, anovulação, infertilidade, oligomenorreia e amenorreia."
+      },
+      {
+        "letra": "C",
+        "texto": "A hiperprolactinemia crônica leva ao aumento da densidade mineral óssea na coluna lombar em ambos os sexos em razão do hipogonadismo."
+      },
+      {
+        "letra": "D",
+        "texto": "A compressão da haste hipofisária, do tecido hipofisário normal ou em decorrência da apoplexia hipofisária, leva ao comprometimento dos seios cavernosos."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 100668,
+    "tags": [],
+    "enunciado": "Paciente, sexo masculino, 16 anos de idade, procura médico por atraso no desenvolvimento de caracteres sexuais secundários. Durante o exame físico, foi constatado proporções eunucoides, testículos diminuídos, pilificação pubiana em estágio 2 de Tanner e anosmia. Com base nesses achados, assinale a alternativa que apresenta, corretamente, a hipótese diagnóstica mais provável.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Craniofaringeoma."
+      },
+      {
+        "letra": "B",
+        "texto": "Hipogonadismo hipergonadotrófico."
+      },
+      {
+        "letra": "C",
+        "texto": "Macroprolactinoma."
+      },
+      {
+        "letra": "D",
+        "texto": "Síndrome de Kallmann."
+      },
+      {
+        "letra": "E",
+        "texto": "Síndrome de Sheehan."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 100669,
+    "tags": [],
+    "enunciado": "Os níveis séricos fisiológicos de prolactina são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "menores na fase lútea que na folicular."
+      },
+      {
+        "letra": "B",
+        "texto": "baixos na infância."
+      },
+      {
+        "letra": "C",
+        "texto": "maiores na pós-menopausa do que no menacme."
+      },
+      {
+        "letra": "D",
+        "texto": "menores durante o sono."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 100670,
+    "tags": [],
+    "enunciado": "Uma complicação que pode acontecer com o uso de altas doses de Cabergolina é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "lesões valvares cardíacas."
+      },
+      {
+        "letra": "B",
+        "texto": "hipotiroidismo de rebote."
+      },
+      {
+        "letra": "C",
+        "texto": "pan-hipopituitarismo."
+      },
+      {
+        "letra": "D",
+        "texto": "diplopia. 4000173163"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 100671,
+    "tags": [],
+    "enunciado": "Qual é a maior preocupação no pós-operatório de craniofaringioma?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hemorragia."
+      },
+      {
+        "letra": "B",
+        "texto": "Hipertensão intracraniana."
+      },
+      {
+        "letra": "C",
+        "texto": "Convulsão."
+      },
+      {
+        "letra": "D",
+        "texto": "Pan-hipopituitarismo secundário. 4000172806"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 100672,
+    "tags": [],
+    "enunciado": "Uma paciente de 28 anos de idade, nuligesta, queixa-se de amenorreia há sete meses. Refere depressão e faz uso de haloperidol há um ano. Teve a menarca aos catorze anos de idade, com ciclos menstruais regulares até o início do quadro depressivo. Ao exame físico, IMC 22. Ausência de alterações no exame ginecológico. USG transvaginal sem alterações. Com base nessa situação hipotética, assinale a alternativa que apresenta o diagnóstico mais provável.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "hipertireoidismo"
+      },
+      {
+        "letra": "B",
+        "texto": "síndrome de Sheehan"
+      },
+      {
+        "letra": "C",
+        "texto": "anorexia"
+      },
+      {
+        "letra": "D",
+        "texto": "hiperprolactinemia"
+      },
+      {
+        "letra": "E",
+        "texto": "insuficiência ovariana prematura"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 100673,
+    "tags": [],
+    "enunciado": "Em uma paciente com queixa de descarga papilar bilateral não espontânea, a causa mais provável é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "fibroadenoma."
+      },
+      {
+        "letra": "B",
+        "texto": "papiloma intra-ductal."
+      },
+      {
+        "letra": "C",
+        "texto": "hiperprolactinemia."
+      },
+      {
+        "letra": "D",
+        "texto": "ectasiaductal."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 100674,
+    "tags": [],
+    "enunciado": "Acromegalia Sobre os distúrbios hipo(cid:61)sários (Gigantismo e acromegalia), analise os itens para assinalar a alternativa verdadeira. 1 - São síndromes de excesso de secreção de GH (hipersomatotro(cid:61)smo) quase sempre decorrentes de adenoma hipo(cid:61)sário. li - Antes do fechamento das epí(cid:61)ses, o resultado é o gigantismo. Mais tarde, o resultado é a acromegalia, que produz características faciais e outras distintas. Ili - O diagnóstico é clínico, por meio de radiogra(cid:61)as de crânio e mãos e medida das concentrações de GH. IV - O tratamento envolve remoção ou destruição do adenoma responsável. Estão corretos os itens:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II, IlI e IV."
+      },
+      {
+        "letra": "B",
+        "texto": "I, lI e IlI, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "I, IlI e IV, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "lI e III, apenas. 4000145215"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 100675,
+    "tags": [],
+    "enunciado": "Homem, 38 anos de idade, infértil, apresenta azoospermia e IMC = 50 kg/m² . Exame físico: testículos de 10 cm³ bilateralmente. Testosterona total = 130 ng/dL (VR: 300 - 900), Estradiol = 52 pg/mL (<30), LH = 0,4 UI/L (VR: 2 a 12,1) e FSH = 0,8 UI/L (<10). Qual é o tratamento medicamentoso mais indicado?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Citrato de clomifeno."
+      },
+      {
+        "letra": "B",
+        "texto": "Anti-oxidantes."
+      },
+      {
+        "letra": "C",
+        "texto": "Inibidor de aromatase."
+      },
+      {
+        "letra": "D",
+        "texto": "Reposição de testosterona."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 100676,
+    "tags": [],
+    "enunciado": "Mulher de 28 anos, nuligesta, procura atendimento médico com queixas de cefaleia, perda visual gradual e ganho de peso progressivo sem resposta a dietas. Sua última menstruação foi há 4 meses, e referia ter apresentado alguns episódios de galactorreia espontânea. Exame físico: peso de 99,2 Kg, altura de 1,75 m, índice de massa corporal: 32,4 Kg/m², PA: 120x70 mmHg (deitada e em ortostase), FC: 72 bpm, fossa supraclavicular preenchida, ausência de giba ou pletora facial, ausculta pulmonar e cardíaca normais, abdome globoso e sem estrias violáceas, sem galactorreia à expressão mamária. Investigação laboratorial trouxe os seguintes resultados: hemoglobina: 11,3; hematócrito: 35%; plaquetas: 396.000; glicemia: 85,77 mg/dL; colesterol total: 176,26; triglicérides: 95,03; HDL: 39,93; LDL: 117; ureia: 28; creatinina: 0,79; sódio: 140; potássio: 3,99; prolactina: 78 ng/ml (VR: de 5 a 26) normal e diluída; FSH: 3,49 mui/ml (VR: de 3,0 a 8,0), T4 livre: 0,82 ng/dl (VR: 0,7 a 1,48); TSH: 1,81 (VR: 0,35 a 4,94). Sua ressonância magnética de sela túrcica é mostrada na figura. Qual o diagnóstico provável e o tratamento inicial?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Prolactinoma - antagonista dopaminérgico."
+      },
+      {
+        "letra": "B",
+        "texto": "Prolactinoma - cirurgia transesfenoidal."
+      },
+      {
+        "letra": "C",
+        "texto": "Macroadenoma não secretor - radioterapia."
+      },
+      {
+        "letra": "D",
+        "texto": "Macroadenoma não secretor - cirurgia transesfenoidal."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 100677,
+    "tags": [],
+    "enunciado": "Mulher de 30 anos interrompeu o uso de cabergolina após 2 anos de tratamento para um macroadenoma. Atualmente, está sem terapia e apresenta-se assintomática há um ano. Refere estar grávida de 12 semanas e está preocupada com o reaparecimento do macroadenoma. Além disso, está preocupada com o eventual tratamento durante a gravidez. Nesse caso, você diz a ela que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a cabergolina nunca deve ser usada durante a gravidez."
+      },
+      {
+        "letra": "B",
+        "texto": "os níveis de prolactina serão verificados periodicamente durante a gravidez para acompanhar o crescimento do tumor."
+      },
+      {
+        "letra": "C",
+        "texto": "o aumento sintomático de macroadenomas pode ocorrer durante a gravidez."
+      },
+      {
+        "letra": "D",
+        "texto": "a cirurgia é obrigatória se a gravidez cursar com crescimento do prolactinoma."
+      },
+      {
+        "letra": "E",
+        "texto": "o teste de campo visual é obrigatório na gravidez para macro e microadenomas."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 100678,
+    "tags": [],
+    "enunciado": "Paciente do sexo masculino, 28 anos, percebeu diminuição da libido e aumento de mama há um ano e recentemente desenvolveu galactorreia. Não estava utilizando qualquer medicação. A(cid:61)rma não apresentar cefaleia, visão borrada. Ao exame físico, não se constatou qualquer anormalidade, exceto por galactorreia bilateral. Exame laboratorial mostrou nível de tireotro(cid:61)na normal. A dosagem de prolactina sérica foi 95 ng/mL. A ressonância magnética de encéfalo evidenciou uma massa de 6 mm de diâmetro no lobo anterior da hipófise. Qual o eixo endócrino envolvido diretamente nessa alteração encontrada no paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hipotálamo → células somatotróficas → gônadas"
+      },
+      {
+        "letra": "B",
+        "texto": "Hipófise → células tireotróficas → glândulas mamárias"
+      },
+      {
+        "letra": "C",
+        "texto": "Hipotálamo → hipófise → células mamotróficas"
+      },
+      {
+        "letra": "D",
+        "texto": "Adeno-hipófise → células gonadotróficas → hormônio TRH"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 100679,
+    "tags": [],
+    "enunciado": "Qual a causa mais comum de hiperprolactinemia não fisiológica?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Prolactinomas."
+      },
+      {
+        "letra": "B",
+        "texto": "Hipotireoidismo primário."
+      },
+      {
+        "letra": "C",
+        "texto": "Doença celíaca."
+      },
+      {
+        "letra": "D",
+        "texto": "Granuloma de células gigantes."
+      },
+      {
+        "letra": "E",
+        "texto": "Uso de medicamentos."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 100680,
+    "tags": [],
+    "enunciado": "Mulher, 42a, em tratamento de hipertensão arterial sistêmica, de difícil controle, em uso de enalapril 40 mg/dia, nifedipina 40 mg/dia e hidroclorotiazida 12,5 mg/dia. Antecedente pessoal: acromegalia em tratamento com cabergolina. Exame físico: IMC = 28 kg/m² , PA= 160x110 mmHg. Glicemia de jejum= 101 mg/dL; colesterol total= 190 mg/dL; triglicerídeos= 152 mg/dL; creatinina= 0,9 mg/dL; sódio= 133 mEql/L, potássio= 2,6 mEq/L. DEVE-SE INVESTIGAR:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hiperaldosteronismo."
+      },
+      {
+        "letra": "B",
+        "texto": "Doença de Addison."
+      },
+      {
+        "letra": "C",
+        "texto": "Feocromocitoma."
+      },
+      {
+        "letra": "D",
+        "texto": "Macroadenoma de hipófise."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 100681,
+    "tags": [],
+    "enunciado": "Medicamento que não tem potencial de causar elevação nos níveis de Prolactina sérica:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Metildopa"
+      },
+      {
+        "letra": "B",
+        "texto": "Sulpirida"
+      },
+      {
+        "letra": "C",
+        "texto": "Metoclopramida"
+      },
+      {
+        "letra": "D",
+        "texto": "Loratadina"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 100682,
+    "tags": [],
+    "enunciado": "Mulher de 27 anos cursando com amenorreia devido à hiperprolactinemia. A alternativa que apresenta opções terapêuticas adequadas ao caso é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "dexametasona e ciproterona."
+      },
+      {
+        "letra": "B",
+        "texto": "cabergolina e bromoergocriptina."
+      },
+      {
+        "letra": "C",
+        "texto": "sulpirida e bromoprida."
+      },
+      {
+        "letra": "D",
+        "texto": "diazepam e sulpirida."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 100683,
+    "tags": [],
+    "enunciado": "Pacientes com anovulação crônica podem apresentar acantose nigricans que está relacionada com:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hiperprolactinemia"
+      },
+      {
+        "letra": "B",
+        "texto": "Hiperandrogenismo"
+      },
+      {
+        "letra": "C",
+        "texto": "resistência periférica à insulina"
+      },
+      {
+        "letra": "D",
+        "texto": "hipogonadismo"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 100684,
+    "tags": [],
+    "enunciado": "Mulher, 42 anos ao veri(cid:61)car fotos de seu casamento, ocorrido há 20 anos, percebeu que seu rosto havia mudado, com o aumento de seu queixo e fronte, assim como suas mãos haviam aumentado de tamanho. Ao procurar a UBS, perguntou ao médico se a rouquidão de sua voz, espessamento dos lábios e aumento da língua estavam associados às mudanças percebidas. Com este quadro clínico a hipótese diagnóstica é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hiperparatireoidismo."
+      },
+      {
+        "letra": "B",
+        "texto": "Hipoparatireoidismo."
+      },
+      {
+        "letra": "C",
+        "texto": "Feocromocitoma."
+      },
+      {
+        "letra": "D",
+        "texto": "Acromegalia."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 100685,
+    "tags": [],
+    "enunciado": "Paciente de 27 anos em investigação de amenorréia e galactorréia no ambulatório de ginecologia. A prolactina sérica encontrava-se elevada (115ng/mL) e a ressonância magnética demonstrou imagem compatível com macroadenoma hipofisário. Qual a conduta mais adequada para o caso?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Goserelina."
+      },
+      {
+        "letra": "B",
+        "texto": "Ressecção transesfenoidal."
+      },
+      {
+        "letra": "C",
+        "texto": "Radioterapia."
+      },
+      {
+        "letra": "D",
+        "texto": "Cabergolina."
+      },
+      {
+        "letra": "E",
+        "texto": "Acetato de medroxiprogesterona."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 100686,
+    "tags": [],
+    "enunciado": "Mulher de 30 anos, queixa-se de galactorréia e amenorreia há 6 semanas. Na investigação do caso, qual das opções abaixo não está indicada inicialmente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Prolactina sérica"
+      },
+      {
+        "letra": "B",
+        "texto": "B-hcg sérico"
+      },
+      {
+        "letra": "C",
+        "texto": "Tsh sérico"
+      },
+      {
+        "letra": "D",
+        "texto": "RNM de sela túrcica"
+      },
+      {
+        "letra": "E",
+        "texto": "Avaliação de fármacos em uso"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 100687,
+    "tags": [],
+    "enunciado": "Quanto às medicações que causam hiperprolactinemia, considere os itens a seguir. I. Risperidona. II. Domperidona. III. Haloperidol. IV. Nifedipina. Assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente os itens I e II são corretos."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente os itens I e IV são corretos."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente os itens III e IV são corretos."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente os itens I, II e III são corretos."
+      },
+      {
+        "letra": "E",
+        "texto": "Somente os itens II, III e IV são corretos."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 100688,
+    "tags": [],
+    "enunciado": "A prolactina pode ser considerada o hormônio da descendência, pois garante à prole o cuidado dos progenitores. Sobre a hiperprolactinemia, é correto afirmar que a(o)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "produção da prolactina na adeno-hipófise é controlada principalmente por fatores liberadores, como a serotonina sintetizada no hipotálamo."
+      },
+      {
+        "letra": "B",
+        "texto": "tratamento está indicado nos casos sintomáticos ou na presença de macroadenoma."
+      },
+      {
+        "letra": "C",
+        "texto": "amenorreia é a causa da infertilidade, sendo um dos primeiros sintomas ainda com níveis pouco elevados de prolactina."
+      },
+      {
+        "letra": "D",
+        "texto": "relação com hipertireoidismo é conhecida pela redução do hormônio liberador de tireoitrofina (TRH)."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 100689,
+    "tags": [],
+    "enunciado": "A amenorreia é um sintoma frequente nos consultórios, sobre as patologias que concorrem com este sintoma está correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A síndrome de Mayer-Rokitansky apresenta uma amenorreia com hipogonadismo hipogonadotrófico."
+      },
+      {
+        "letra": "B",
+        "texto": "A síndrome de Asherman ocorre por consequência de uma destruição da camada basal do endométrio."
+      },
+      {
+        "letra": "C",
+        "texto": "A amenorreia induzida pelo exercício se dá por hipogonadismo hipergonadotrófico adquirido."
+      },
+      {
+        "letra": "D",
+        "texto": "A hiperprolactinemia pode cursar com amenorreia por alterações na serotonina que afetam a secreção de estrogênio."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 100690,
+    "tags": [],
+    "enunciado": "Paciente de 51 anos, do sexo masculino, com diagnóstico de diabetes mellitus tipo 2 e HAS, há cinco anos. Durante consulta de rotina com endocrinologista, apresentou queixa de artralgia em várias articulações associada a hiperidrose e, ao exame físico, presença de discreto prognatismo, o que suscitou hipótese diagnóstica de acromegalia, con(cid:61)rmada posteriormente com a dosagem de GH basal de 7,6 ng/mL (VR homem: inferior ou igual a 3,00) e IGF-1 de 446 ng/mL (VR 50 a 54 anos: 48 a 209). A ressonância magnética revelou massa selar sólida, de 1,9 cm em seu maior diâmetro, sem expansão extrasselar, nem compressão de quiasma óptico. Nesse caso, qual tratamento primário de escolha deve ser indicado para esse paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cirurgia transesfenoidal, realizada preferencialmente em centro especializado de referência."
+      },
+      {
+        "letra": "B",
+        "texto": "Antagonista do receptor de GH, representado pelo pegvisomanto (PEG)."
+      },
+      {
+        "letra": "C",
+        "texto": "Análogos de somatostatina, como o octreotide."
+      },
+      {
+        "letra": "D",
+        "texto": "Agonistas dopaminérgicos, como a cabergolina."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 100691,
+    "tags": [],
+    "enunciado": "Em relação à reprodução assistida, é INCORRETO afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O hormônio liberador de gonadotrofina é único entre os hormônios liberadores porque regula simultaneamente a secreção de dois hormônios: o hormônio estimulante do folículo ovariano e o hormônio luteizante."
+      },
+      {
+        "letra": "B",
+        "texto": "A fase folicular do ciclo menstrual é caracterizada por pulsos com pequena amplitude, porém frequentes de secreção de hormônio liberador de gonadotrofina."
+      },
+      {
+        "letra": "C",
+        "texto": "O ciclo menstrual normal varia de 21 a 35 dias, com fluxo que dura de 2 a 7 dias, com perda sanguínea média de 60-90ml."
+      },
+      {
+        "letra": "D",
+        "texto": "Ao final da fase folicular do ciclo menstrual, receptores do hormônio luteizante, induzidos pelo hormônio estimulante do folículo ovariano estão presentes nas células granulosas e, com a estimulação do hormônio luteizante, modulam a secreção de progesterona."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 100692,
+    "tags": [],
+    "enunciado": "Puérpera, amamentando, usuária de anticoncepcional oral contínuo, apresenta ressecamento vaginal que gera desconforto nas relações sexuais. O provável hormônio envolvido nesse problema é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "progesterona"
+      },
+      {
+        "letra": "B",
+        "texto": "estrogênio"
+      },
+      {
+        "letra": "C",
+        "texto": "prolactina"
+      },
+      {
+        "letra": "D",
+        "texto": "testosterona"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 100693,
+    "tags": [],
+    "enunciado": "Mulher de 30 anos interrompeu o uso de cabergolina após 2 anos de tratamento para uma macroadenoma. Atualmente, está sem terapia e apresenta-se assintomática há um ano. Refere estar grávida de 12 semanas e está preocupada com o reaparecimento do macroadenoma. Além disso, está preocupada com o eventual tratamento durante a gravidez. Nesse caso, você diz a ela que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a cabergolina nunca deve ser usada durante a gravidez."
+      },
+      {
+        "letra": "B",
+        "texto": "os níveis de prolactina serão verificados periodicamente durante a gravidez para acompanhar o crescimento do tumor."
+      },
+      {
+        "letra": "C",
+        "texto": "o aumento sistemático de macroadenomas pode ocorrer durante a gravidez."
+      },
+      {
+        "letra": "D",
+        "texto": "a cirurgia é obrigatória se a gravidez cursar com crescimento do prolactinoma."
+      },
+      {
+        "letra": "E",
+        "texto": "o teste de campo visual é obrigatório na gravidez para macro e microadenomas."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 100694,
+    "tags": [],
+    "enunciado": "Durante uma consulta médica em um posto de saúde, observa-se um paciente, masculino, 42 anos, apresentando diabetes mellitus e hipertensão arterial sistêmica de difícil controle. Notamos a presença de fácies de característica grosseira, protuberância da mandíbula, lábios e sobrancelhas grossas e pavilhão auricular aumentado.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "alteração semiológica NÃO esperada em um exame mais minucioso é:"
+      },
+      {
+        "letra": "A",
+        "texto": "Dedos em salsicha."
+      },
+      {
+        "letra": "B",
+        "texto": "Aumento recente no número do tamanho dos calçados."
+      },
+      {
+        "letra": "C",
+        "texto": "Fisionomia modificada comparada com fotos prévias."
+      },
+      {
+        "letra": "D",
+        "texto": "Aumento considerável na estatura nos últimos meses."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 100695,
+    "tags": [],
+    "enunciado": "Sobre a fisiologia menstrual e o controle neuroendócrino do ciclo, assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Altos níveis de estrogênio aumentam a síntese e armazenamento de FSH e LH, tendo, portanto, importante efeito na regulação de LH e FSH."
+      },
+      {
+        "letra": "B",
+        "texto": "O pulso de secreção de GnRH deve estar dentro de um patamar crítico de frequência, e não de concentração, para manter a função reprodutiva normal."
+      },
+      {
+        "letra": "C",
+        "texto": "O aumento da frequência de pulso de GnRH aumenta a secreção de FSH, já a diminuição do pulso de GnRH aumenta a secreção de LH."
+      },
+      {
+        "letra": "D",
+        "texto": "O GnRH tem ação na glândula hipófise anterior, atuando na síntese, armazenamento, ativação e secreção de gonadotropinas."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 100696,
+    "tags": [],
+    "enunciado": "Paciente apresenta-se com amenorreia assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Na amenorreia associada à hiperprolactinemia, a avaliação por imagem da hipófise têm mais valor propedêutico que a dosagem de prolactina."
+      },
+      {
+        "letra": "B",
+        "texto": "Na amenorreia associada aos ovários policísticos, a dosagem de testosterona é o que define o tratamento."
+      },
+      {
+        "letra": "C",
+        "texto": "A amenorreia secundária, caracteriza-se por ausência de fluxo menstrual, em mulher com ciclo previamente regular, por um período superior a 90 dias."
+      },
+      {
+        "letra": "D",
+        "texto": "Na amenorreia gonadal, a avaliação de cariótipo, têm mais valor propedêutico que a dosagem de estrógenos e da proteína carreadora de hormônios."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 100697,
+    "tags": [],
+    "enunciado": "Sobre o ciclo menstrual, é CORRETO afirmar que,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o endométrio cresce estimulado pela progesterona (fase proliferativa)."
+      },
+      {
+        "letra": "B",
+        "texto": "o hormônio folículo estimulante é produzido na neuro-hipófise, estimulando o crescimento folicular com a produção de estrogênio."
+      },
+      {
+        "letra": "C",
+        "texto": "após a postura ovular (desencadeada pelo pico do hormônio luteinizante) temos a formação do corpo lúteo, produtor de estrogênio."
+      },
+      {
+        "letra": "D",
+        "texto": "o período compreendido entre a primeira menstruação (menarca) e a última (menopausa) é dito menacme."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 100698,
+    "tags": [],
+    "enunciado": "Medicamento que NÃO aumenta a prolactina é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Levodopa."
+      },
+      {
+        "letra": "B",
+        "texto": "Metildopa."
+      },
+      {
+        "letra": "C",
+        "texto": "Metoclopramida."
+      },
+      {
+        "letra": "D",
+        "texto": "Sulpirida."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 100699,
+    "tags": [],
+    "enunciado": "No Hipogonadismo Hipogonadotrófico é esperado encontrar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Produção excessiva de esteróides sexuais e atraso puberal."
+      },
+      {
+        "letra": "B",
+        "texto": "Produção insuficiente de gonadotrofinas levando a uma precocidade puberal."
+      },
+      {
+        "letra": "C",
+        "texto": "Produção insuficiente de gonadotrofinas e atraso puberal."
+      },
+      {
+        "letra": "D",
+        "texto": "Produção excessiva de esteróides sexuais e de gonadotrofinas levando a uma precocidade puberal."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 100700,
+    "tags": [],
+    "enunciado": "Mulher de 32 anos, com amenorreia secundária, TSH = 4,5 mU/L; T4 livre = 2 ng/dL; FSH = 15 mUI/ml; estradiol = 40 pg/ml e prolactina = 60 ng/ml. Nessa paciente, a causa da amenorreia e seu provável tratamento são, respectivamente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "hiperprolactinemia - cabergolina."
+      },
+      {
+        "letra": "B",
+        "texto": "hipotireoidismo - levotiroxina."
+      },
+      {
+        "letra": "C",
+        "texto": "síndrome dos ovários micropolicísticos - anticoncepcional hormonal."
+      },
+      {
+        "letra": "D",
+        "texto": "menopausa precoce - terapia hormonal."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 100701,
+    "tags": [],
+    "enunciado": "Paciente de 24 anos, nuligesta, vem ao consultório ginecológico queixando-se de ausência de menstruação há 6 meses, galactorréia, cefaleia e escotomas. Qual sua hipótese diagnóstica?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Microadenoma hipofisário;"
+      },
+      {
+        "letra": "B",
+        "texto": "Macrodenoma hipofisário;"
+      },
+      {
+        "letra": "C",
+        "texto": "Hipotireoidismo;"
+      },
+      {
+        "letra": "D",
+        "texto": "Síndrome dos ovários policísticos;"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 100702,
+    "tags": [],
+    "enunciado": "Três pacientes com doenças endocrinológicas e manifestações gastrointestinais apresentam: Paciente I: náuseas, vômitos, anorexia e diarreia. Paciente II: aparecimento progressivo de pólipos colônicos. Paciente III: obstipação, dor abdominal e pancreatite aguda. Hiperparatireoidismo, acromegalia e doença de Addison correspondem, respectivamente, aos pacientes",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II e III."
+      },
+      {
+        "letra": "B",
+        "texto": "III, II e I."
+      },
+      {
+        "letra": "C",
+        "texto": "II, I e III."
+      },
+      {
+        "letra": "D",
+        "texto": "III, I e II."
+      },
+      {
+        "letra": "E",
+        "texto": "I, III e II."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 100703,
+    "tags": [],
+    "enunciado": "Considere dois pacientes. O primeiro tem TSH de 6,8 mUI/L (VR = 0,5 – 5,0 mUI/L) e T4L de 2,4 (VR = 0,90 – 1,80 ng/ml); o segundo apresenta TSH de 2,50 mUI/L e T4L de 0,35 ng/dl. Estes pacientes apresentam respectivamente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hipertireoidismo primário e hipotiroidismo central."
+      },
+      {
+        "letra": "B",
+        "texto": "Hipertireoidismo primário e hipotiroidismo primário."
+      },
+      {
+        "letra": "C",
+        "texto": "Hipertireoidismo central e hipotireoidismo primário."
+      },
+      {
+        "letra": "D",
+        "texto": "Hipertireoidismo central e hipotireoidismo central."
+      },
+      {
+        "letra": "E",
+        "texto": "Hipertireoidismo central e hipotiroidismo de causa indefinida."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 100704,
+    "tags": [],
+    "enunciado": "Uma paciente de dezoito anos de idade procurou serviço de ginecologia endócrina com o quadro de amenorreia secundária associado à galactorreia e à diminuição de campo visual. A dosagem de prolactina encontrava-se normal, entretanto, na ressonância nuclear magnética, observou-se grande tumor hipo(cid:61)sário com a compressão do quiasma óptico. Considerando essa situação hipotética, assinale a alternativa que apresenta a conduta mais adequada para o diagnóstico da paciente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Repetir a prolactina em três meses."
+      },
+      {
+        "letra": "B",
+        "texto": "Solicitar uma biópsia de hipófise."
+      },
+      {
+        "letra": "C",
+        "texto": "Solicitar a diluição da amostra por se tratar de efeito gancho."
+      },
+      {
+        "letra": "D",
+        "texto": "Solicitar a dosagem da macroprolactina."
+      },
+      {
+        "letra": "E",
+        "texto": "Solicitar a cromatografia em coluna de gel-filtração."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 100705,
+    "tags": [],
+    "enunciado": "Homem, 52 anos, refere hiperidrose e artralgia generalizada há 5 anos, galactorreia e disfunção erétil há 1 ano. Há 5 meses com cefaleia diária e alteração de campo visual. Diabetes mellitus e hipertensão arterial há 4 anos e síndrome de apneia obstrutiva do sono há 3 anos. Exame físico: peso = 92 kg; estatura = 1,85 m; circunferência abdominal = 113 cm; FC = 80 bpm; PA = 140 X 90 mmHg. Restante nas figuras abaixo. Qual é o exame que confirma a hipótese diagnóstica mais provável?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Prolactina."
+      },
+      {
+        "letra": "B",
+        "texto": "GH (hormônio do crescimento)."
+      },
+      {
+        "letra": "C",
+        "texto": "IGF-1 (fator de crescimento semelhante à insulina 1)."
+      },
+      {
+        "letra": "D",
+        "texto": "Testosterona."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 100706,
+    "tags": [],
+    "enunciado": "Mulher de 42 anos procura médico de família muito preocupada com o resultado de exame de rotina, que mostrou prolactina aumentada (PRL = 48 ng/mL). A paciente nega irregularidade menstrual e galactorreia. Refere duas gestações prévias sem intercorrências. Baseando-se nesses dados, é correto a(cid:61)rmar que a melhor conduta diagnóstica é solicitar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "TSH e avaliar uso de drogas que aumentem a PRL"
+      },
+      {
+        "letra": "B",
+        "texto": "ultrassonografia transvaginal e testosterona"
+      },
+      {
+        "letra": "C",
+        "texto": "tomografia de crânio e sela túrcica"
+      },
+      {
+        "letra": "D",
+        "texto": "teste do progestágeno e FSH"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 100707,
+    "tags": [],
+    "enunciado": "Quando ocorre elevação da prolactina sérica também ocorre:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aumento da progesterona."
+      },
+      {
+        "letra": "B",
+        "texto": "Diminuição das gonadotropinas."
+      },
+      {
+        "letra": "C",
+        "texto": "Aumento do estradiol."
+      },
+      {
+        "letra": "D",
+        "texto": "Hiperestimulação ovariana podendo resultar em gestação gemelar."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 100708,
+    "tags": [],
+    "enunciado": "A hiperprolactinemia pode estar relacionada a todos os listados abaixo, EXCETO",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "hipotireoidismo."
+      },
+      {
+        "letra": "B",
+        "texto": "amenorreia."
+      },
+      {
+        "letra": "C",
+        "texto": "neoplasia de colo uterino."
+      },
+      {
+        "letra": "D",
+        "texto": "adenoma de hipófise."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 100709,
+    "tags": [],
+    "enunciado": "Em relação à prolactina, assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não há relação entre hiperprolactinemia e infertilidade."
+      },
+      {
+        "letra": "B",
+        "texto": "Os níveis de prolactina podem estar aumentados em pacientes portadoras de insuficiência renal crônica."
+      },
+      {
+        "letra": "C",
+        "texto": "A gordura visceral de mulheres obesas tem relação direta com a maior produção de prolactina."
+      },
+      {
+        "letra": "D",
+        "texto": "A dopamina é potente inibidor da liberação de prolactina."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 100710,
+    "tags": [],
+    "enunciado": "Hormônio do crescimento GH O uso crescente de agentes anabólicos por indivíduos que praticam exercícios com objetivo de melhorar sua performance e aumentar o ganho de massa muscular vem preocupando a sociedade médica. O uso injetável da somatotro(cid:61)na humana está associado a efeitos adversos graves. Assinale a alternativa que contém efeitos adversos típicos dessa substância:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hiperglicemia, hipertensão arterial e virilização."
+      },
+      {
+        "letra": "B",
+        "texto": "Hipoglicemia, hipertensão arterial e aumento de extremidades."
+      },
+      {
+        "letra": "C",
+        "texto": "Hiperglicemia, hipertensão arterial e aumento de extremidades."
+      },
+      {
+        "letra": "D",
+        "texto": "Hipoglicemia, hipotensão arterial e virilização."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 100711,
+    "tags": [],
+    "enunciado": "Paciente do sexo feminino, 21 anos de idade, vem para consulta de acompanhamento por pan- hipopituitarismo após ressecção de craniofaringeoma na infância. Exames de rotina revelaram baixo nível de TSH. Qual a conduta apropriada nesse caso?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Reduzir a dose de levotiroxina."
+      },
+      {
+        "letra": "B",
+        "texto": "Aumentar a dose de levotiroxina."
+      },
+      {
+        "letra": "C",
+        "texto": "Solicitar dosagem de T4 livre."
+      },
+      {
+        "letra": "D",
+        "texto": "Solicitar ressonância nuclear magnética cerebral."
+      },
+      {
+        "letra": "E",
+        "texto": "Solicitar dosagem de tireoglobulina e anti-peroxidase."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 100712,
+    "tags": [],
+    "enunciado": "Um homem de 60 anos, vítima de traumatismo cranioencefálico grave há alguns meses, apresenta-se com insu(cid:61)ciência hipo(cid:61)sária. Qual dos fatores abaixo NÃO está associado à de(cid:61)ciência de hormônio do crescimento nesse caso?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Dislipidemia."
+      },
+      {
+        "letra": "B",
+        "texto": "Aterosclerose."
+      },
+      {
+        "letra": "C",
+        "texto": "Aumento da densidade mineral óssea."
+      },
+      {
+        "letra": "D",
+        "texto": "Aumento da relação cintura-quadril."
+      },
+      {
+        "letra": "E",
+        "texto": "Disfunção ventricular esquerda."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 100713,
+    "tags": [],
+    "enunciado": "Sobre hiperprolactinemia, é correto afirmar: afirmar o seguinte:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O uso de fármacos é uma causa rara para o aumento da prolactina."
+      },
+      {
+        "letra": "B",
+        "texto": "Na hiperprolactinemia da mulher está sempre presente galactorreia ou amenorreia."
+      },
+      {
+        "letra": "C",
+        "texto": "Uma dosagem de prolactina aumentada deve ser confirmada, pois sua liberação é pulsátil e variável ao longo do dia."
+      },
+      {
+        "letra": "D",
+        "texto": "Ressonância nuclear magnética deve ser solicitada sempre."
+      },
+      {
+        "letra": "E",
+        "texto": "Toda paciente com hiperprolactinemia deve ser avaliada pelo neurologista."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 100714,
+    "tags": [],
+    "enunciado": "Numa paciente de 25 anos com microprolactinoma (tumor de 7 mmm), em tratamento com cabergolina 0,5 mg (1 ep 2 vezes por semana) que refere estar grávida de 6 semanas, qual a melhor conduta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Manter a dose de cabergolina"
+      },
+      {
+        "letra": "B",
+        "texto": "Reduzir a dose pela metade"
+      },
+      {
+        "letra": "C",
+        "texto": "Aumentar a dose"
+      },
+      {
+        "letra": "D",
+        "texto": "Suspender a cabergolida"
+      },
+      {
+        "letra": "E",
+        "texto": "Trocar cabergolida pela bromocriptina"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 100715,
+    "tags": [],
+    "enunciado": "Com relação à amenorréia secundária, assinale a opção correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o uso de 10 mg de acetato de medroxiprogesterona, por 5 a 10 dias, auxilia no diagnóstico da permeabilidade das vias genitais."
+      },
+      {
+        "letra": "B",
+        "texto": "A hiperprolactinemia é a causa de amenorréia quando os níveis séricos são superiores a 5mg/ml"
+      },
+      {
+        "letra": "C",
+        "texto": "Os níveis de FSH inferiores a 20 mIU/mL diagnosticam falência ovariana precoce."
+      },
+      {
+        "letra": "D",
+        "texto": "a amenorréia de causa hipotalâmica cursa com níveis eleveados de FSH e LH"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 100716,
+    "tags": [],
+    "enunciado": "Paciente com quadro clínico de acne, hirsutismo e obesidade. Em qual das patologias você pensaria?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Síndrome dos ovários policísticos"
+      },
+      {
+        "letra": "B",
+        "texto": "Hipertireoidismo"
+      },
+      {
+        "letra": "C",
+        "texto": "Acromegalia"
+      },
+      {
+        "letra": "D",
+        "texto": "Insuficiência adrenal crônica"
+      },
+      {
+        "letra": "E",
+        "texto": "Síndrome de Estocolmo"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 100717,
+    "tags": [],
+    "enunciado": "O ciclo menstrual refere-se a um conjunto de alterações (cid:61)siológicas que ocorrem no corpo da mulher com uma periodicidade mensal. Assinale a alternativa CORRETA, sobre o ciclo menstrual fisiológico.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "No Hipotálamo, ocorre a liberação de FSH e LH."
+      },
+      {
+        "letra": "B",
+        "texto": "Nos anos reprodutivos, a mulher consome cerca de 1.000 folículos a cada ciclo."
+      },
+      {
+        "letra": "C",
+        "texto": "À medida que diminui a reserva folicular, os níveis basais de FSH diminuem."
+      },
+      {
+        "letra": "D",
+        "texto": "O FSH estimula a produção de androgênios na teca a partir do colesterol."
+      },
+      {
+        "letra": "E",
+        "texto": "No endométrio, o estradiol condiciona o aumento do comprimento e da tortuosidade das glândulas e dos vasos espiralados, que se acompanham do incremento na secreção glandular, constituindo a fase secretora."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 100718,
+    "tags": [],
+    "enunciado": "Fabrício, 16 anos, 186 cm, altura alvo 175 cm, envergadura 194 cm, testículos 3 ml bilateral, Tanner de pelos 3 e ginecomastia bilateral. Apresenta os seguintes exames laboratoriais: LH 32 (normal 0,3-6), FSH 76 (normal 1- 10), testosterona 0,6 ng/dl (normal 2,5-7,0). Baseado na clínica e resultados laboratoriais, a hipótese diagnóstica mais provável é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Atraso Constitucional do crescimento e puberdade."
+      },
+      {
+        "letra": "B",
+        "texto": "Síndrome de Kallman."
+      },
+      {
+        "letra": "C",
+        "texto": "Síndrome de Klinefelter."
+      },
+      {
+        "letra": "D",
+        "texto": "Panhipopituitarismo."
+      },
+      {
+        "letra": "E",
+        "texto": "Menino saudável, sem patologias."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 100719,
+    "tags": [],
+    "enunciado": "Sobre as causas de amenorreia secundária, marque a alternativa CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A Síndrome de Sheehan caracteriza-se por um infarto agudo e necrose hipotalâmica causada por hemorragia pós-parto."
+      },
+      {
+        "letra": "B",
+        "texto": "A Síndrome dos Ovários Policísticos (SOP) é caracterizada por anovulação crônica e hipoandrogenismo."
+      },
+      {
+        "letra": "C",
+        "texto": "As sinéquias ou aderências intrauterinas são causas canaliculares de amenorreia secundária que podem ser diagnosticadas por histerossalpingografia ou mais precisamente por histeroscopia."
+      },
+      {
+        "letra": "D",
+        "texto": "Os prolactinomas cursam com níveis elevados de prolactina que estimulam a secreção pulsátil de GnRH."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 100720,
+    "tags": [],
+    "enunciado": "Mulher de 22 anos de idade, nuligesta, queixa-se de saída de secreção leitosa de ambas as mamas há 2 meses. Nega dor ou nódulo palpável ao autoexame. Refere ciclo menstrual irregular estando em amenorreia há 4 meses. Realizou US de mamas, que não identi(cid:61)cou qualquer alteração e o teste de Bhcg foi negativo. Possui história pregressa de tratamento com iodo radioativo por Doença de Graves. Quais exames iniciais seriam importantes para a condução desse caso?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "FSH e LH."
+      },
+      {
+        "letra": "B",
+        "texto": "TSH e Prolactina."
+      },
+      {
+        "letra": "C",
+        "texto": "FSH e Estradiol."
+      },
+      {
+        "letra": "D",
+        "texto": "Mamografia"
+      },
+      {
+        "letra": "E",
+        "texto": "Citologia oncótica da descarga papilar."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 100721,
+    "tags": [],
+    "enunciado": "Das patologias endócrinas citadas nas alternativas abaixo, a que NÃO faz parte da NEM tipo 1 (Neoplasia Endócrina tipo 1) é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Acromegalia."
+      },
+      {
+        "letra": "B",
+        "texto": "Insulinoma."
+      },
+      {
+        "letra": "C",
+        "texto": "Gastrinoma."
+      },
+      {
+        "letra": "D",
+        "texto": "Carcinoma medular de tireoide."
+      },
+      {
+        "letra": "E",
+        "texto": "Hiperparatireoidismo primário."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 100722,
+    "tags": [],
+    "enunciado": "O hormônio antidiurético (ADH) é sintetizado na(o):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Suprarrenal (porção glomerulosa)."
+      },
+      {
+        "letra": "B",
+        "texto": "Suprarrenal (porção fascicular)."
+      },
+      {
+        "letra": "C",
+        "texto": "Parênquima renal."
+      },
+      {
+        "letra": "D",
+        "texto": "Hipotálamo."
+      },
+      {
+        "letra": "E",
+        "texto": "Neuro-hipófise."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 100723,
+    "tags": [],
+    "enunciado": "Em relação ao metabolismo da prolactina é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "dopamina e GABA são os principais fatores liberadores da prolactina"
+      },
+      {
+        "letra": "B",
+        "texto": "dopamina é a principal reguladora da prolactina, inibindo sua liberação."
+      },
+      {
+        "letra": "C",
+        "texto": "a prolactina exerce ação sobre o gnrh, estimulando o pulso de FSH e o LH."
+      },
+      {
+        "letra": "D",
+        "texto": "a prolactina de molécula pequena é a menos ativa biologicamente"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 100724,
+    "tags": [],
+    "enunciado": "Abaixo, todos são produtos secretórios do hipotálamo, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "TSH (hormônio estimulante da tireóide)."
+      },
+      {
+        "letra": "B",
+        "texto": "GnRH (fator liberador da gonadotrofina)."
+      },
+      {
+        "letra": "C",
+        "texto": "TRH (hormônio liberador de tirotrofina)."
+      },
+      {
+        "letra": "D",
+        "texto": "GHRH (hormônio liberador do hormônio do crescimento)."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 100725,
+    "tags": [],
+    "enunciado": "São distúrbios associados à hipertensão arterial, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Síndrome de Cushing."
+      },
+      {
+        "letra": "B",
+        "texto": "Acromegalia."
+      },
+      {
+        "letra": "C",
+        "texto": "Adenoma produtor de aldosterona."
+      },
+      {
+        "letra": "D",
+        "texto": "Hipoplasia suprarrenal congênita."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 100726,
+    "tags": [],
+    "enunciado": "Em relação à hiperprolactinemia, assinale alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A hiperprolactinemia deve ser investigada em mulheres frente à ocorrência de oligomenorreia, amenorreia, galactorreia ou infertilidade."
+      },
+      {
+        "letra": "B",
+        "texto": "Na investigação de possível hiperprolactinemia, deve-se dosar o hormônio estimulador da tireoide (TSH) e proceder a exames bioquímicos de função renal e hepática, para que sejam afastados, respectivamente, hipotiroidismo primário, insuficiência renal e insuficiência hepática."
+      },
+      {
+        "letra": "C",
+        "texto": "Uma vez confirmada a hiperprolactinemia e afastadas as causas secundárias, a paciente deve então ser submetida à RM de hipófise para a pesquisa do prolactinoma."
+      },
+      {
+        "letra": "D",
+        "texto": "Pela melhor tolerância das pacientes, a cabergolina é considerada superior à bromocriptina no tratamento da hiperprolactinemia."
+      },
+      {
+        "letra": "E",
+        "texto": "A cirurgia é o tratamento de escolha quando for constatada a presença de microprolactinomas e macroadenomas pequenos."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 100727,
+    "tags": [],
+    "enunciado": "Mulher, 35 anos, refere tonturas, náuseas, vômitos e dor abdominal há 1 mês, que pioraram há 1 semana. Há 8 anos apresenta apatia, fraqueza, sonolência diurna e depressão. Nega outras queixas. Antecedentes: G3P2A1, em amenorreia desde o último parto há 8 anos quando apresentou hemorragia vaginal com necessidade de transfusão sanguínea. Não amamentou (cid:61)lho. Exame físico: fala lenta e rouca, pele ressecada, edema de face e MMII, ausência de pelos pubianos e axilares, tireoide normopalpável, FC = 56 bpm; PA = 80 X 55 mmHg. Sem outras alterações. Exames laboratoriais: Hb = 9,6 g/dL; GB=7.400/mm³; Plaquetas =150.000/mm³; glicemia: 63 mg/dL; creatinina: 0,9 mg/dL; sódio: 134 mEq/L; potássio: 5,6 mEq/L. Quais alterações hormonais são compatíveis com a hipótese diagnóstica mais provável?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "TSH = 1,3 mUI/L (VR: 0,4 - 4,5) e T4 livre = 0,5 ng/dL (VR: 0,9 - 1,8)."
+      },
+      {
+        "letra": "B",
+        "texto": "FSH = 0,1 UI/L (VR: 15 - 30) e Prolactina = 87 ng/ml (VR: <25)."
+      },
+      {
+        "letra": "C",
+        "texto": "ACTH = 56 pg/ml (VR = 10 - 40) e cortisol = 4,2 µg/dl (VR: 5 - 20)."
+      },
+      {
+        "letra": "D",
+        "texto": "LH = 37 UI/L (VR: 1,3 - 13) e estradiol <20 pg/ml (VR: <160)."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 100728,
+    "tags": [],
+    "enunciado": "Mulher de 35 anos apresenta, dois meses após o parto, alteração de campo visual, insu(cid:61)ciência adrenal secundária, T4 livre baixo com TSH normal, associado à suspensão de lactação. Sobre o quadro relatado, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As alterações que apresenta devem ter sido causadas por hemorragia periparto."
+      },
+      {
+        "letra": "B",
+        "texto": "Cirurgia de descompressão hipofisária corrige as deficiências endócrinas."
+      },
+      {
+        "letra": "C",
+        "texto": "À RNM, pode apresentar aumento homogêneo da hipófise e grande reforço pelogadolíneo."
+      },
+      {
+        "letra": "D",
+        "texto": "Presume-se que certamente tenha também deficiências de GH e gonadotrofinas,geralmente mais tardias que as de ACTH e TSH."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 100729,
+    "tags": [],
+    "enunciado": "Em paciente com hiperprolactinemia decorrente de microadenoma de hipó(cid:61)se, indica-se como primeira opção:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Radioterapia."
+      },
+      {
+        "letra": "B",
+        "texto": "Cirurgia para remoção do adenoma."
+      },
+      {
+        "letra": "C",
+        "texto": "Agonista dopaminérgico."
+      },
+      {
+        "letra": "D",
+        "texto": "Antagonista de serotonina."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 100730,
+    "tags": [],
+    "enunciado": "Paciente de 30 anos foi ao ginecologista e durante exames de rotina apresentou os seguintes achados: prolactina: 85 ng/ml (VR < 20); beta-hCG negativo e TSH: 1,1 mUI/ml (VR: 0,5-5,0), hemograma, glicemia, eletrólitos, função renal, função hepática e per(cid:61)l lipídico normais. Nega doenças prévias ou atuais. Nunca usou qualquer medicamento contínuo, não é tabagista, nem etilista e nem usuária de drogas ilícitas. Não está usando anticoncepcional hormonal. O próximo passo para investigação diagnóstica é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Avaliar dosagem de prolactina em amostra diluída de soro."
+      },
+      {
+        "letra": "B",
+        "texto": "Solicitar ressonância magnética de hipófise."
+      },
+      {
+        "letra": "C",
+        "texto": "Pesquisar macroprolactina."
+      },
+      {
+        "letra": "D",
+        "texto": "Investigar a presença de sintomas e sinais relacionados à hiperprolactinemia."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 100731,
+    "tags": [],
+    "enunciado": "Mulher, 28 anos, apresenta irregularidade menstrual há 14 meses. Queixa que último ciclo menstrual foi há quatro meses. Nuligesta. Beta hCG negativo. Exame físico: estágios de Tanner: M5 / P5. PA = 110 x 70 mmHg, Peso: 64kg, Altura: 1,65m. Há descarga papilar espontânea, bilateral, esbranquiçada. Restante do exame físico sem alterações. O tratamento adequado, uma vez confirmada sua impressão diagnóstica, é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Inibidores seletivos da receptação da serotonina."
+      },
+      {
+        "letra": "B",
+        "texto": "Etinilestradiol associado a drospirenona."
+      },
+      {
+        "letra": "C",
+        "texto": "Tamoxifeno."
+      },
+      {
+        "letra": "D",
+        "texto": "Valerato de estradiol."
+      },
+      {
+        "letra": "E",
+        "texto": "Agonistas da dopamina."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 100732,
+    "tags": [],
+    "enunciado": "Importante mecanismo de regulação do ciclo ovulatório são as interações endocrinológicas entre os diversos órgãos femininos. Nesse caso, assinale a alternativa que apresenta o MELHOR exemplo de feedback de alça longa.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hipotálamo-hipófise."
+      },
+      {
+        "letra": "B",
+        "texto": "Tireoide-ovário."
+      },
+      {
+        "letra": "C",
+        "texto": "Ovário-hipófise."
+      },
+      {
+        "letra": "D",
+        "texto": "Endométrio-hipófise."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 100733,
+    "tags": [],
+    "enunciado": "Carol tem 7 anos e apresenta broto mamário há 6 meses associado a aceleração do crescimento. Há 3 meses notou aparecimento da pubarca e maior labilidade emocional. Ao exame: BEG, acne, M2 P2 (Estagiamento de Tanner) e crescimento percentil 85 e peso percentil 50. Qual o provável diagnóstico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Puberdade precoce central"
+      },
+      {
+        "letra": "B",
+        "texto": "Hipertireoidismo"
+      },
+      {
+        "letra": "C",
+        "texto": "Pubarca precoce idiopática"
+      },
+      {
+        "letra": "D",
+        "texto": "Prolactinoma"
+      },
+      {
+        "letra": "E",
+        "texto": "Gigantismo"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 100734,
+    "tags": [],
+    "enunciado": "São causas de sangramento uterino anormal, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Gravidez ectópica."
+      },
+      {
+        "letra": "B",
+        "texto": "Adenomiose."
+      },
+      {
+        "letra": "C",
+        "texto": "Pólipos endometriais."
+      },
+      {
+        "letra": "D",
+        "texto": "Insuficiência lútea."
+      },
+      {
+        "letra": "E",
+        "texto": "Hiperprolactinemia."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 100735,
+    "tags": [],
+    "enunciado": "Sobre a fisiologia do ciclo menstrual é incorreto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O GnRh, hormônio liberador de gonadotrofina, é produzido na hipófise anterior e controla a liberação das gonadotrofinas."
+      },
+      {
+        "letra": "B",
+        "texto": "As gonadotrofinas FSH e LH são produzidas por células do gonadotrofo hipofisário anterior e responsáveis pela estimulação folicular."
+      },
+      {
+        "letra": "C",
+        "texto": "A Ocitocina é produzida principalmente pelo núcleo paraventricular do hipotálamo e sua secreção e armazenamento está localizada na hipófise posterior que é uma extensão direta do hipotálamo."
+      },
+      {
+        "letra": "D",
+        "texto": "O LH estimula as células da teça a produzirem androgênios, em especial, androstenediona."
+      },
+      {
+        "letra": "E",
+        "texto": "O estrogênio é produzido nas células da granulosa, através da aromatização dos androgênios, estimulada pelo FSH."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 100736,
+    "tags": [],
+    "enunciado": "Paciente de 25 anos com irregularidade mestrual e prolactina sérica de 80 ng/ml NÃO necessita inicialmente de qual medida?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pesquisa de adenoma hipofisário por ressonância nuclear magnética."
+      },
+      {
+        "letra": "B",
+        "texto": "Repetir o exame."
+      },
+      {
+        "letra": "C",
+        "texto": "Pesquisar causa medicamentosa."
+      },
+      {
+        "letra": "D",
+        "texto": "Solicitar TSH."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 100737,
+    "tags": [],
+    "enunciado": "Marque a afirmativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Na acromegalia existe deficiência do hormônio GH."
+      },
+      {
+        "letra": "B",
+        "texto": "No Diabetes Insipido existe secreção aumentada do hormônio antidiurético (ADH)."
+      },
+      {
+        "letra": "C",
+        "texto": "Puberdade precoce é definida como surgimento dos caracteres sexuais secundários em idade inferior a 12 anos."
+      },
+      {
+        "letra": "D",
+        "texto": "No hipopituitarismo com deficiência de gonadotrofinas pode levar a oligomenorreia e infertilidade."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 100738,
+    "tags": [],
+    "enunciado": "Paciente do sexo masculino foi submetido a TC de crânio devido a cefaleia, sendo sugerido imagem em região hipo(cid:61)sária. Realizada RM de hipó(cid:61)se que evidenciou lesão de 0,5 cm à direita da hipó(cid:61)se, sem extensão extra-hipo(cid:61)sária. Durante avaliação com endocrinologista, o paciente encontrava-se assintomático, com exame físico normal, sem antecedentes pessoais patológicos e sem uso de medicações. De acordo com as recomendações da Endocrino Society, o seguimento do paciente deverá ser feito com:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Realização de campimetria visual manual ou computadorizada ao diagnóstico."
+      },
+      {
+        "letra": "B",
+        "texto": "Avaliação clínica e laboratorial de hiperfunção e hipofunção hipofisária ao diagnóstico."
+      },
+      {
+        "letra": "C",
+        "texto": "Realização de RMN de hipófise de seis em seis meses."
+      },
+      {
+        "letra": "D",
+        "texto": "Realização de avaliação da função hipofisária de seis em seis meses."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 100739,
+    "tags": [],
+    "enunciado": "As opções a seguir apresentam manifestações da Acromegalia, à exceção de uma. Assinale-a.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Crescimento excessivo das extremidades."
+      },
+      {
+        "letra": "B",
+        "texto": "Aumento da sela túrcica."
+      },
+      {
+        "letra": "C",
+        "texto": "Aumento da força muscular."
+      },
+      {
+        "letra": "D",
+        "texto": "Tremores de extremidades."
+      },
+      {
+        "letra": "E",
+        "texto": "Hiperidrose."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 100740,
+    "tags": [],
+    "enunciado": "Sobre o ciclo reprodutivo feminino analise as assertivas e marque a alternativa CORRETA: I. O GnRh (Hormônio Liberador de Gonadotro(cid:61)na) é sintetizado pelas células neurossecretoras do hipotálamo. II. O GnRh é transportado pelo sistema porta hipofisário para o lobo anterior da Hipófise. III. O GnRh estimula a adenohipó(cid:61)se a produzir FSH (Hormônio Folículo-estimulante) e LH (Hormônio Luteinizante). IV. O FSH estimula o desenvolvimento dos folículos ovarianos e a produção de estrogênio. V. O LH atua liberando o oócito secundário, e estimula as células foliculares e o corpo lúteo a produzirem progesterona.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente as afirmativas I, II e III estão corretas."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente as afirmativas II e IV estão corretas."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente as afirmativas I, III e V estão corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente as afirmativas I, II, III e IV estão corretas."
+      },
+      {
+        "letra": "E",
+        "texto": "Todas as afirmativas estão corretas."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 100741,
+    "tags": [],
+    "enunciado": "Não se considera como causa fisiológica da hiperprolactinemia:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sono."
+      },
+      {
+        "letra": "B",
+        "texto": "Ovulação."
+      },
+      {
+        "letra": "C",
+        "texto": "Coito."
+      },
+      {
+        "letra": "D",
+        "texto": "Manipulação mamária."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 100742,
+    "tags": [],
+    "enunciado": "São causas de aumento dos níveis séricos de prolactina:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Exercício físico e alfametildopa."
+      },
+      {
+        "letra": "B",
+        "texto": "Bromocriptina e contraceptivos orais."
+      },
+      {
+        "letra": "C",
+        "texto": "Cabergolina e metoclopramida."
+      },
+      {
+        "letra": "D",
+        "texto": "Progesterona e bromocriptina."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 100743,
+    "tags": [],
+    "enunciado": "Qual o achado semiológico mais característico encontraríamos no paciente com uma massa hipo(cid:61)sária e hipotalâmica?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hemianopsia bitemporal."
+      },
+      {
+        "letra": "B",
+        "texto": "Hemianopsia binasal."
+      },
+      {
+        "letra": "C",
+        "texto": "Anosmia."
+      },
+      {
+        "letra": "D",
+        "texto": "Escotoma central."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 100744,
+    "tags": [],
+    "enunciado": "Qual a causa mais comum de hiperprolactinemia não fisiológica?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Medicamentosa."
+      },
+      {
+        "letra": "B",
+        "texto": "Adenoma hipofisário."
+      },
+      {
+        "letra": "C",
+        "texto": "Hipotireoidismo."
+      },
+      {
+        "letra": "D",
+        "texto": "Idiopática."
+      },
+      {
+        "letra": "E",
+        "texto": "Doença crônica."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 100745,
+    "tags": [],
+    "enunciado": "Paciente do sexo feminino, 48 anos de idade, procura médico da família por apresentar amenorreia, fogachos, sudorese e fortes dores articulares (pés, mãos e articulação têmporo-mandibular) nos últimos seis meses. Refere diagnósticos recentes de hipertensão e diabetes, fazendo uso de metformina e losartan regularmente. Nega história familiar de hipertensão e diabetes mellitus. Não é tabagista ou etilista. Ao exame físico, apresenta índice de massa corporal de 24,0 kg/m², dedos de mãos e pés edemaciados e prognatismo. Qual o provável diagnóstico da paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Acromegalia."
+      },
+      {
+        "letra": "B",
+        "texto": "Síndrome de Cushing."
+      },
+      {
+        "letra": "C",
+        "texto": "Prolactinoma."
+      },
+      {
+        "letra": "D",
+        "texto": "Síndrome metabólica."
+      },
+      {
+        "letra": "E",
+        "texto": "Doença de Addison."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 100746,
+    "tags": [],
+    "enunciado": "Os pais de Airton, de 13 anos de idade, estão preocupados com sua baixa estatura e falta de desenvolvimento sexual. Pela história, você descobre que o paciente nasceu de gravidez a termo (peso de nascimento: 3 kg; comprimento: 50 cm) e que manteve um crescimento constante durante a infância, embora sempre estivesse dentre os mais baixos da classe. Após os 11 anos, a diferença de altura entre ele e seus amigos aumentou ainda mais. Ao exame físico, sinais vitais são normais, PA = 110 x 70 mmHg, peso no percentil 3 e estatura < percentil 3. Proporções corpóreas revelam a relação 1:1 do segmento superior para segmento inferior, estádio puberal de Tanner G1P1. Qual, dentre os diagnósticos abaixo, é o mais provável para esse paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Prolactinoma."
+      },
+      {
+        "letra": "B",
+        "texto": "Retardo constitucional de crescimento e desenvolvimento puberal."
+      },
+      {
+        "letra": "C",
+        "texto": "Hipopituitarismo."
+      },
+      {
+        "letra": "D",
+        "texto": "Síndrome de Kallmann."
+      },
+      {
+        "letra": "E",
+        "texto": "Deficiência do hormônio do crescimento."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 100747,
+    "tags": [],
+    "enunciado": "NÃO é um critério para tratamento da hiperprolactinemia:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Galactorreia espontânea."
+      },
+      {
+        "letra": "B",
+        "texto": "Prolactinemia superior a 40 ng/Ml."
+      },
+      {
+        "letra": "C",
+        "texto": "Sintomas neurológicos do adenoma."
+      },
+      {
+        "letra": "D",
+        "texto": "Hipogonadismo."
+      },
+      {
+        "letra": "E",
+        "texto": "Infertilidade."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 100748,
+    "tags": [],
+    "enunciado": "Sobre fisiologia do ciclo menstrual, marque a alternativa incorreta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "LH e FSH são hormônios produzidos na adeno-hipófise pelos gonadotrofos."
+      },
+      {
+        "letra": "B",
+        "texto": "A duração média do ciclo menstrual é de 28 dias. As variações geralmente resultam de alterações na duração da fase lútea, uma vez que a fase folicular costuma ser estável."
+      },
+      {
+        "letra": "C",
+        "texto": "O primeiro dia de sangramento vaginal é considerado o primeiro dia do ciclo menstrual."
+      },
+      {
+        "letra": "D",
+        "texto": "GNRH é um hormônio produzido no hipotálamo e é responsável pela regulação das gonadotrofinas."
+      },
+      {
+        "letra": "E",
+        "texto": "Dentre os outros hormônios produzidos pela adeno-hipófise estão: T SH, prolactina e ACTH."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 100749,
+    "tags": [],
+    "enunciado": "Mulher, 36 anos de idade, usuária de DIU de cobre, com queixa de galactorreia hiperprolactinemica há 3 meses. Em relação às ações na avaliação propedêutica, considere as afirmativas a seguir. I. Avaliação da hipófise posterior. II. Avaliação da função hepática. III. Avaliação da função renal. IV. Pesquisa de ovários policísticos. Assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente as afirmativas I e II são corretas."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente as afirmativas I e IV são corretas."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente as afirmativas III e IV são corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente as afirmativas I, II e III são corretas."
+      },
+      {
+        "letra": "E",
+        "texto": "Somente as afirmativas II, III e IV são corretas."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 100750,
+    "tags": [],
+    "enunciado": "São fármacos relacionados com a galactorréia, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Antidepressivos tricíclicos, Inibidores da receptação de serotonina, codeína e sulpirida."
+      },
+      {
+        "letra": "B",
+        "texto": "Verapamil, Metildopa, Reserpina."
+      },
+      {
+        "letra": "C",
+        "texto": "Estrogênio, anticoncepcional oral, hormônio tireoideano."
+      },
+      {
+        "letra": "D",
+        "texto": "Inibidores de ECA, diuréticos, ß-bloqueadores."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 100751,
+    "tags": [],
+    "enunciado": "Sobre um fator de risco para o desenvolvimento da osteoartrite, assinale a alternativa incorreta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Acromegalia"
+      },
+      {
+        "letra": "B",
+        "texto": "Osteoporose"
+      },
+      {
+        "letra": "C",
+        "texto": "Pseudogota"
+      },
+      {
+        "letra": "D",
+        "texto": "Diabetes mellitus"
+      },
+      {
+        "letra": "E",
+        "texto": "Gota"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 100752,
+    "tags": [],
+    "enunciado": "A prolactina elevada pode estar relacionada",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A melasma."
+      },
+      {
+        "letra": "B",
+        "texto": "A varizes de mmii."
+      },
+      {
+        "letra": "C",
+        "texto": "À inapetência."
+      },
+      {
+        "letra": "D",
+        "texto": "À sonolência."
+      },
+      {
+        "letra": "E",
+        "texto": "À diminuição da libido."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 100753,
+    "tags": [],
+    "enunciado": "Paciente de 30 anos, começou a menstruar aos 13 anos, relação sexual desde os 20 anos, com preservativo, procura o médico devido à galactorreia bilateral, amenorreia há 3 meses, cefaleia frontal, dor orbital e distúrbio visual. Fez BetaHCG, que deu negativo. Qual dos exames abaixo NÃO deve ser feito para chegar ao diagnóstico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Rx de sela túrcica"
+      },
+      {
+        "letra": "B",
+        "texto": "Dosagem de prolactina"
+      },
+      {
+        "letra": "C",
+        "texto": "Dosagem de testosterona"
+      },
+      {
+        "letra": "D",
+        "texto": "Dosagem de TSH"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 100754,
+    "tags": [],
+    "enunciado": "M. C. F. S., 20 anos, refere irregularidades menstruais há aproximadamente 1 ano. Procurou assistência médica, onde a expressão das mamas evidenciou galactorreia. O nível sérico de prolactina foi de 125ng/ml. Qual a conduta mais adequada para esta paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Iniciar cabergolina 0,5mg via oral a cada 21 dias;"
+      },
+      {
+        "letra": "B",
+        "texto": "Solicitar RX de sela túrcica e iniciar bromoergocriptina 2,5mg via oral por dia para regularizar as menstruações;"
+      },
+      {
+        "letra": "C",
+        "texto": "Solicitar tomografia computadorizada de sela túrcica;"
+      },
+      {
+        "letra": "D",
+        "texto": "Solicitar RX de sela túrcica e iniciar cabergolina 0,5mg via oral a cada 21 dias;"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 100755,
+    "tags": [],
+    "enunciado": "Paciente do sexo feminino, 32 anos de idade, há 2 meses foi investigada por atraso menstrual de 60 dias. Até então seus ciclos menstruais eram eumenorreicos, não apresentava antecedentes pessoais clínicos e cirúrgicos e não fazia uso de qualquer tipo de medicação. As dosagens séricas de FSH, LH, estradiol, TSH e T4 livre encontravam-se dentro dos valores de normalidade, porém o valor da prolactina foi de 68 ng/ml. Foi iniciado tratamento com bromocriptina 7,5 mg via oral por dia durante 4 semanas. Nova dosagem de prolactina foi feita e resultou em 51 ng/ml. Diante este resultado solicitou-se a recuperação de macroprolactina cujo resultado foi 23%. Sobre a macroprolactina é incorreto afirmar: I. A principal indicação de sua recuperação é na vigência de hiperprolactinemia idiopática. II. Mulheres com recuperação de macroprolactina inferiores a 17% têm maior dificuldade para engravidar. III. A melhor indicação para ressonância magnética de sela túrcica é em pacientes com recuperação de macroprolactina superiores a 60%. IV. É um complexo de small prolactina ligado a anticorpo antiprolactina adquirindo alto peso molecular. V. Em pacientes com recuperação de macroprolactina inferiores a 30% a melhor indicação terapêutica é a cabergolina.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "seguinte alternativa contempla o solicitado no enunciado:"
+      },
+      {
+        "letra": "A",
+        "texto": "I, II,III e V."
+      },
+      {
+        "letra": "B",
+        "texto": "I, II e V."
+      },
+      {
+        "letra": "C",
+        "texto": "II, III e IV."
+      },
+      {
+        "letra": "D",
+        "texto": "II, III e V."
+      },
+      {
+        "letra": "E",
+        "texto": "III, IV e V."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 100756,
+    "tags": [],
+    "enunciado": "Todas as síndromes abaixo estão associadas à obesidade, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Acromegalia"
+      },
+      {
+        "letra": "B",
+        "texto": "Síndrome de Cushing"
+      },
+      {
+        "letra": "C",
+        "texto": "Hipotireoidismo"
+      },
+      {
+        "letra": "D",
+        "texto": "Insulinoma"
+      },
+      {
+        "letra": "E",
+        "texto": "Síndrome de Prader- Willi"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 100757,
+    "tags": [],
+    "enunciado": "Com relação aos mecanismos de retrocontrole responsáveis pela regulação do ciclo menstrual e da ovulação, é CORRETO dizer que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A inibina B produz feedback positivo para FSH durante a segunda metade da fase folicular."
+      },
+      {
+        "letra": "B",
+        "texto": "O FSH aumenta progressivamente após a ovulação como resposta ao feedback positivo do estradiol e da progesterona."
+      },
+      {
+        "letra": "C",
+        "texto": "A produção de estradiol aumenta gradualmente na fase folicular, sendo estimulada por FSH e indiretamente pela inibina A."
+      },
+      {
+        "letra": "D",
+        "texto": "Os níveis crescentes e mantidos de estradiol na fase folicular final produzem feedback positivo para secreção LH, gerando o pico de LH e consequentemente a ovulação."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 100758,
+    "tags": [],
+    "enunciado": "A menstruação pode ser de(cid:61)nida como o sangramento vaginal de origem uterina, periódico e temporário, que se manifesta a cada mês aproximadamente e se inicia com a menarca e termina com a menopausa. Sobre a fisiologia do ciclo menstrual, assinale a alternativa CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A inibina é um peptídeo ovariano produzido, sobretudo, pelas células da teca e está ligada à globulina de hormônios esteroides (SHBG)."
+      },
+      {
+        "letra": "B",
+        "texto": "O GnRH é um decapeptídeo secretado pelo núcleo arqueado do hipotálamo, que atua sobre a neurohipófise, estimulando a secreção de gonadotrofinas (FSH e LH)."
+      },
+      {
+        "letra": "C",
+        "texto": "O crescimento folicular passa pelos estágios de recrutamento, seleção e dominância. A seleção de dominância está relacionada ao maior número de receptores de FSH contidos nesse folículo."
+      },
+      {
+        "letra": "D",
+        "texto": "Os androgênios produzidos pela teca são transportados para as células da granulosa e convertidos em estrogênios por um processo, mediado pelo LH, denominado aromatização."
+      },
+      {
+        "letra": "E",
+        "texto": "O desenvolvimento folicular é um processo que se inicia, apenas, após a puberdade, haja vista na fase pré-puberal não haver estímulo gonadotrófico suficiente."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 100759,
+    "tags": [],
+    "enunciado": "O Hipopituitarismo resulta da menor produção de um ou mais hormônios tró(cid:61)cos da hipó(cid:61)se anterior, como consequência de distúrbios hereditários ou adquiridos. Quanto à sua apresentação clínica, assinale a afirmativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A falência dos hormônios tróficos associada à compressão ou destruição da hipófise ocorre habitualmente na forma sequencial GH>FSH>LH>TSH>ACTH."
+      },
+      {
+        "letra": "B",
+        "texto": "Durante a infância, a característica de apresentação é o hipogonadismo e nos adultos, a hipoglicemia grave é o sintoma mais precoce."
+      },
+      {
+        "letra": "C",
+        "texto": "A apoplexia hipofisária é uma emergência endócrina que pode resultar em poliúria e polidipsia que refletem a ausência de secreção de vasopressina."
+      },
+      {
+        "letra": "D",
+        "texto": "Quando as lesões acometem a hipófise posterior , ocorre hipotensão, hemorragia do sistema nervoso central e morte."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 100760,
+    "tags": [],
+    "enunciado": "Assinale a alternativa CORRETA em relação à fisiologia reprodutiva na mulher:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A atividade da aromatase do ovário é intensificada pela estimulação de receptores específicos pelo FSH na superfície das células da granulosa."
+      },
+      {
+        "letra": "B",
+        "texto": "Enquanto o nível de estrogênio periférico se eleva, ele tem efeito de retroalimentação positiva no hipotálamo para diminuir os níveis de FSH."
+      },
+      {
+        "letra": "C",
+        "texto": "Os esteroides sexuais não são os únicos reguladores das gonadotrofinas no desenvolvimento folicular."
+      },
+      {
+        "letra": "D",
+        "texto": "O GNRH é produzido no núcleo arqueado do hipotálamo e secretado de modo contínuo."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 100761,
+    "tags": [],
+    "enunciado": "Julgue o item a seguir, relativo à deficiência de crescimento do corpo. Diversos genes responsáveis por codi(cid:61)car fatores de transcrição estão implicados na etiologia da de(cid:61)ciência combinada dos hormônios hipo(cid:61)sários (pan-hipopituitarismo), sendo o gene PROP-1 o mais frequentemente envolvido.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Certo."
+      },
+      {
+        "letra": "B",
+        "texto": "Errado."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 100762,
+    "tags": [],
+    "enunciado": "Mulher de 22 anos apresenta ciclos menstruais irregulares há cerca de 10 meses, com períodos de amenorreia, negando uso de medicamentos. Sem parceiros sexuais há 2 anos. Exame físico geral e ginecológico normais. A dosagem de prolactina está elevada (150 ng/dl) com TSH e T4 livre normais. A ressonância magnética de sela túrcica revelou um macroadenoma hipofisário. A conduta é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Uso de agonistas da dopamina."
+      },
+      {
+        "letra": "B",
+        "texto": "Uso de agonistas do GnRH."
+      },
+      {
+        "letra": "C",
+        "texto": "Uso de contraceptivos hormonais orais."
+      },
+      {
+        "letra": "D",
+        "texto": "Cirurgia."
+      },
+      {
+        "letra": "E",
+        "texto": "Radioterapia."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 100763,
+    "tags": [],
+    "enunciado": "Paciente de 30 anos de idade, do sexo feminino, é encaminhada pelo psiquiatra por hiperprolactinemia. Faz uso de Risperidona há três meses. Ao exame físico: nada digno de nota. Avaliação hormonal: prolactina: 100 ng/ml (VR: 2,1 -18 ng/ml); estradiol, LH e FSH, TSH e T4 livre normais. A melhor conduta, neste caso, é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "dosagem de macroprolactina."
+      },
+      {
+        "letra": "B",
+        "texto": "tratamento com agonista dopaminérgico."
+      },
+      {
+        "letra": "C",
+        "texto": "avaliação da suspensão de Risperidona por 72 horas e repetição da dosagem de prolactina."
+      },
+      {
+        "letra": "D",
+        "texto": "realização de ressonância nuclear magnética de hipófise. 4000002718"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 100764,
+    "tags": [],
+    "enunciado": "Analise as afirmativas abaixo. I. O hipotireoidismo primário é caracterizado por uma supressão dos níveis séricos de TSH. II. A hiperpigmentação da pele é um achado típico da insuficiência adrenal secundária. III. No acompanhamento clínico de um paciente com hipotireoidismo secundário, o nível sérico de TSH não tem valor para guiar a dose de hormônio tireoideo. IV. A hipersecreção do hormônio do crescimento pode elevar a glicemia até níveis compatíveis com diabetes mellitus. Assinale a alternativa CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Todas as afirmativas são corretas."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente as afirmativas I e II são corretas."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente a afirmativa III é correta."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente a afirmativa II é correta."
+      },
+      {
+        "letra": "E",
+        "texto": "Somente as afirmativas III e IV são corretas."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 100765,
+    "tags": [],
+    "enunciado": "Mulher, 70 anos, com história de 4 meses de síndrome reumatoide com importante acometimento dos ombros. Recentemente com queixas sugestivas de polineuropatia periférica e síndrome do túnel do carpo. O exame físico mostra espessamento sinovial importante nos ombros e nos punhos, equimoses periorbitárias e macroglossia. Dos exames laboratoriais, o fator reumatoide negativo e elevação da creatinina. O diagnóstico mais provável é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Artrite reumatoide."
+      },
+      {
+        "letra": "B",
+        "texto": "Hipotireoidismo."
+      },
+      {
+        "letra": "C",
+        "texto": "Acromegalia."
+      },
+      {
+        "letra": "D",
+        "texto": "Lúpus eritematoso."
+      },
+      {
+        "letra": "E",
+        "texto": "Amiloidose."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 100766,
+    "tags": [],
+    "enunciado": "Mulher, 36 anos de idade. G3P3A0C0. HMA: procurou ginecologista devido à irregularidade menstrual iniciada há 2 anos. Antes apresentava ciclos regulares com intervalos de 30 dias e duração de 4 dias. Nega outras queixas associadas. EF: normal. EG: Tro(cid:61)smo genital preservado, sem outras alterações. Mamas: M5, com expressão positiva bilateralmente de secreção leitosa multiductal. ES: Dosagem de Prolactina = 150 ng/ml (VN = 5 a 25 ng/ml), FSH = 6,8 mUI/ml (VN = 2,8 a 14 mUI/ml). As etiologias mais frequentes desta condição são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hipotireoidismo; adenoma hipofisário e efeito colateral de medicamentos."
+      },
+      {
+        "letra": "B",
+        "texto": "Adenoma hipofisário; Síndrome dos ovários policísticos e ectasia ductal."
+      },
+      {
+        "letra": "C",
+        "texto": "Tumores extrasselares de SNC; Síndrome dos ovários policísticos e doença autoimune."
+      },
+      {
+        "letra": "D",
+        "texto": "Hipertireoidismo; Tumores de SNC e efeito colateral de medicamentos."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 100767,
+    "tags": [],
+    "enunciado": "Mulher de 32 anos de idade queixa-se de saída de secreção esbranquiçada dos mamilos há 6 meses. Refere que o (cid:102)uxo é bilateral e só sai quando faz a expressão dos mamilos. O ciclo menstrual está irregular. A dosagem da prolactina foi de 220 microgramas/L (normal até 15 microgramas/L). Qual deve ser a conduta nesse momento?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ultrassonografia de mamas."
+      },
+      {
+        "letra": "B",
+        "texto": "ressonância magnética de sela turca."
+      },
+      {
+        "letra": "C",
+        "texto": "prescrever carbegolina por via oral."
+      },
+      {
+        "letra": "D",
+        "texto": "prescrever bromoergocriptina por via oral."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 100768,
+    "tags": [],
+    "enunciado": "Analise a tabela abaixo, que contém dados relativos à prevalência de manifestações clínicas de determinada doença, e a figura que reproduz o aspecto usual da fácies e da mão de pacientes acometidos. Assinale a alternativa que preenche, CORRETA e respectivamente, as lacunas da frase a seguir: a causa mais comum deste quadro clínico é a presença de um tumor _______. Para con(cid:61)rmar a etiologia, a avaliação hormonal deve incluir dosagem de _______,que se mostrará _______.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hipofisário - GH (hormônio do crescimento) após sobrecarga oral de glicose - não suprimido."
+      },
+      {
+        "letra": "B",
+        "texto": "Hipotalâmico - IGF-1 (Insulin-like Growth Factor 1) - elevado."
+      },
+      {
+        "letra": "C",
+        "texto": "Hipofisário - GH à meia-noite - elevado."
+      },
+      {
+        "letra": "D",
+        "texto": "Hipotalâmico - GH após sobrecarga oral de glicose - suprimido."
+      },
+      {
+        "letra": "E",
+        "texto": "Hipofisário - IGF-1 - reduzido."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 100769,
+    "tags": [],
+    "enunciado": "Paciente de 42 anos, masculino, procura atendimento eletivo, acompanhado pela esposa, após ter realizado consulta com urologista para investigação de disfunção erétil. Ao exame físico você observa galactorreia bilateral, palidez facial e sinais de envelhecimento precoce e realiza pesquisa de perda de campo visual por confrontação que não identi(cid:61)ca alterações. Paciente trouxe exames laboratoriais solicitados pelo médico com testosterona total de 180 ng/dl, prolactina de 48 ng/ml e ressonância nuclear magnética de hipó(cid:61)se com achado de tumor em região de hipó(cid:61)se à esquerda medindo 20 mm no maior diâmetro, com desvio de haste hipo(cid:61)sária para a direita estando localizado a 3 mm do quiasma óptico. (Prolactina: 5-20 ng/dl, Testosterona: 280- 1500 ng/dl). O próximo passo da abordagem nesta consulta deve ser:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Orientar o paciente da benignidade do quadro devido ao diagnóstico de incidentaloma de hipófise e de disfunção erétil de causa psicogênica."
+      },
+      {
+        "letra": "B",
+        "texto": "Informar ao paciente que, no exame físico, a presença de galactorreia bilateral é um achado comum nos casos de hiperprolactinemia em homens."
+      },
+      {
+        "letra": "C",
+        "texto": "Informar que os sinais de palidez facial e envelhecimento precoce são devido ao hipogonadismo secundário a um tumor de localização hiposifária."
+      },
+      {
+        "letra": "D",
+        "texto": "Solicitar campimetria visual computadorizada, uma vez que a pesquisa de perda de campo visual por confrontação é um método clínico de pouca utilidade."
+      },
+      {
+        "letra": "E",
+        "texto": "Indicar cirurgia transesfenoidal devido se tratar de tumor não funcionante, pois uma prolactina de 48 ng/ml afasta o diagnóstico de macroprolactinoma."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 100770,
+    "tags": [],
+    "enunciado": "Das alternativas abaixo, qual o tumor hipofisário funcionante mais comum?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Secretor de GH."
+      },
+      {
+        "letra": "B",
+        "texto": "Secretor de ACTH."
+      },
+      {
+        "letra": "C",
+        "texto": "Secretor de LH."
+      },
+      {
+        "letra": "D",
+        "texto": "Secretor de TSH."
+      },
+      {
+        "letra": "E",
+        "texto": "Secretor de prolactina."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 100771,
+    "tags": [],
+    "enunciado": "Homem de 47 anos comparece com dispneia aos moderados esforços e parestesias nas mãos. Tem diagnóstico de diabetes e hipertensão há 5 anos. Durante o interrogatório por órgãos, o médico descobre crescimento dos pés e mãos, hiper-hidrose, ronco e mudança da voz. No exame físico, há quarta bulha, prognatismo e macroglossia. Qual dos exames abaixo deve ser usado como screening para o diagnóstico desse paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Imunofixação sérica e urinária."
+      },
+      {
+        "letra": "B",
+        "texto": "Dosagem do hormônio do crescimento (GH)."
+      },
+      {
+        "letra": "C",
+        "texto": "Dosagem do índice de saturação da transferrina."
+      },
+      {
+        "letra": "D",
+        "texto": "Dosagem do hormônio estimulante da tireoide (TSH)."
+      },
+      {
+        "letra": "E",
+        "texto": "Dosagem do fator de crescimento “insulina-like ” 1 (IGF-1)."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 100772,
+    "tags": [],
+    "enunciado": "S.Q.S, sexo feminino, 30 anos, apresentou quadro de amenorreia, atro(cid:61)a dos órgãos genitais externos, queda de pelos, astenia e fenômenos distró(cid:61)cos cutâneos, após parto vaginal do seu último (cid:61)lho há 2 anos. O mesmo foi complicado por atonia uterina com hemorragia volumosa, necessitando histerectomia puerperal. Diante desta sintomatologia, estamos frente a:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Síndrome de Kallmann."
+      },
+      {
+        "letra": "B",
+        "texto": "Síndrome de Sheehan."
+      },
+      {
+        "letra": "C",
+        "texto": "Hipotireoidismo."
+      },
+      {
+        "letra": "D",
+        "texto": "Anovulação crônica."
+      },
+      {
+        "letra": "E",
+        "texto": "Hiperprolactinemia."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 100773,
+    "tags": [],
+    "enunciado": "Paciente do sexo masculino, 42 anos, com queixa crônica de hiper-hidrose difusa, artralgias, fadiga e cefaleia. HAS diagnosticada há 10 anos e compensada com losartana 100 mg/dia. Ao exame físico, apresenta: IMC = 21. Face com acentuação dos malares, prognatismo e diastemas. Pele espessada com papiloma cutâneo em dorso e coxa direita. Quirodáctilos tipo ''salsicha''. Hepatomegalia indolor discreta. Bócio difuso (2x VR). Exames iniciais: ecocardiograma = cardiomegalia com hipertro(cid:61)a concêntrica de VE e FE = 78%; FAN = não reagente; USG abdome = hepatomegalia e esteatose leve. Ressonância crânio/sela turca com nódulo 1,5 cm hipocaptante em adeno-hipó(cid:61)se envolvendo seio cavernoso esquerdo e desvio de haste hipo(cid:61)sária. TSH = 2,1 mcUI/ml (VR = 0,35-4,2); T4L = 0,6 ng/dl (0,8-1,76); HGH basal = 20 ng/ml; prolactina = 30 ng/dl (VR até 16 ng/dl); IGF-1 acima do VR para idade. O diagnóstico principal do caso clínico acima é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Macroprolactinoma funcionante."
+      },
+      {
+        "letra": "B",
+        "texto": "Incidentaloma hipofisário com hipotireoidismo primário."
+      },
+      {
+        "letra": "C",
+        "texto": "Somatotropinoma hipotalâmico."
+      },
+      {
+        "letra": "D",
+        "texto": "Acromegalia por macroadenoma hipofisário."
+      },
+      {
+        "letra": "E",
+        "texto": "Acromegalia por microadenoma hipofisário."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 100774,
+    "tags": [],
+    "enunciado": "TRKPaciente de 43 anos é encaminhado ao cirurgião após avaliação inicial com dermatologista, por apresentar eritema migratório necrolítico associado a diabetes melito, anemia, glossite, perda de peso e exame de imagem mostrando massa tumoral ao nível do corpo do pâncreas. Qual a principal hipótese diagnóstica para esse caso?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Adenocarcinoma de pâncreas"
+      },
+      {
+        "letra": "B",
+        "texto": "Glucagoma"
+      },
+      {
+        "letra": "C",
+        "texto": "Síndrome de Verner-Morrison"
+      },
+      {
+        "letra": "D",
+        "texto": "Somatostinoma"
+      },
+      {
+        "letra": "E",
+        "texto": "GRFomas"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 100775,
+    "tags": [],
+    "enunciado": "NÃO é causa de hiperprolactinemia o uso de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ácido fólico"
+      },
+      {
+        "letra": "B",
+        "texto": "Metoclopramida"
+      },
+      {
+        "letra": "C",
+        "texto": "Verapamil"
+      },
+      {
+        "letra": "D",
+        "texto": "Fluoxetina"
+      },
+      {
+        "letra": "E",
+        "texto": "Metildopa"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 100776,
+    "tags": [],
+    "enunciado": "Mulher, 70 anos, com história de 4 meses de síndrome reumatoide com importante acometimento dos ombros. Recentemente com queixas sugestivas de polineuropatia periférica e síndrome de túnel do carpo. O exame físico mostra espessamento sinovial importante nos ombros e nos punhos, equimoses periorbitárias e macroglossia. Dos exames laboratoriais, o fator reumatoide negativo e elevação da creatinina. O diagnóstico mais provável é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Artrite reumatoide."
+      },
+      {
+        "letra": "B",
+        "texto": "Hipotireoidismo."
+      },
+      {
+        "letra": "C",
+        "texto": "Acromegalia."
+      },
+      {
+        "letra": "D",
+        "texto": "Lúpus eritematoso."
+      },
+      {
+        "letra": "E",
+        "texto": "Amiloidose."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 100777,
+    "tags": [],
+    "enunciado": "Mulher de 38 anos comparece para consulta com quadro de redução da libido, atro(cid:61)a mamária, ganho de peso, fala arrastada e astenia intensa. Exame físico: mamas atróficas, anasarca (+/4+) e redução da pilificação genital. Uma avaliação laboratorial mostra T4 livre baixo; TSH no limite inferior; cortisol basal = 05 mcg/dl após estimulação com ACTH (valor de referência > 18 mcg/dl); testosterona baixa e FSH e LH nos limites inferiores. Qual o exame mais provavelmente revelará a causa da sua doença?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tomografia de abdome."
+      },
+      {
+        "letra": "B",
+        "texto": "Cintilografia de tireoide."
+      },
+      {
+        "letra": "C",
+        "texto": "Teste combinado da pituitária anterior."
+      },
+      {
+        "letra": "D",
+        "texto": "Ressonância nuclear magnética de encéfalo."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 100778,
+    "tags": [],
+    "enunciado": "Homem, 55 anos, realizou TC de crânio para avaliar cefaleia. Foi detectada a presença de provável microadenoma de 5 mm na hipó(cid:61)se e o paciente mostra-se extremamente preocupado com a possibilidade de ter um tumor cerebral. Avaliação hormonal mostrou-se normal. Qual o próximo passo no manejo desse paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Realizar PET-CT para avaliar a atividade metabólica do tumor."
+      },
+      {
+        "letra": "B",
+        "texto": "Tranquilizar o paciente; realizar novo exame de neuroimagem em um ano."
+      },
+      {
+        "letra": "C",
+        "texto": "Encaminhar ao neurocirurgião com indicação de ressecção da lesão."
+      },
+      {
+        "letra": "D",
+        "texto": "Tranquilizar o paciente e repetir avaliação hormonal em três meses."
+      },
+      {
+        "letra": "E",
+        "texto": "Tranquilizar o paciente dizendo-lhe que é um achado comum e de natureza benigna, dispensando avaliações futuras."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 100779,
+    "tags": [],
+    "enunciado": "Paciente de 34 anos apresentou galactorreia bilateral espontânea e amenorreia após a suspensão do uso de anticoncepcional oral. A investigação hormonal demonstrou T4, TSH e andrógenos normais e prolactina de 680 ng/ml (valor de referência: até 18 ng/ml). A ressonância magnética da hipó(cid:61)se em T1, no plano coronal após o uso de gadolínio, está reproduzida abaixo. Qual a hipótese diagnóstica mais provável?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hipotireoidismo primário com hipófise normal e dosagens hormonais mascaradas pelo uso de anticoncepcional oral."
+      },
+      {
+        "letra": "B",
+        "texto": "Macroadenoma hipofisário não secretor associado à hiperprolactinemia funcional."
+      },
+      {
+        "letra": "C",
+        "texto": "Macroadenoma hipofisário produtor de prolactina."
+      },
+      {
+        "letra": "D",
+        "texto": "Galactorreia e amenorreia decorrentes de hiperprolactinemia funcional e sela túrcica vazia."
+      },
+      {
+        "letra": "E",
+        "texto": "Galactorreia e amenorreia decorrentes de hiperprolactinemia associada a craniofaringeoma."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 100780,
+    "tags": [],
+    "enunciado": "Paciente com história de tumor hipo(cid:61)sário há 1 ano em reposição de levotiroxina diária e testosterona injetável mensal. Do ponto de vista laboratorial, quais exames são necessários para o seguimento destas 2 reposições hormonais, respectivamente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "TSH e LH."
+      },
+      {
+        "letra": "B",
+        "texto": "TSH e testosterona sérica."
+      },
+      {
+        "letra": "C",
+        "texto": "T4 livre e testosterona sérica."
+      },
+      {
+        "letra": "D",
+        "texto": "T4 livre e sulfato de DHEA."
+      },
+      {
+        "letra": "E",
+        "texto": "T3 reverso e di-hidrotestosterona."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 100781,
+    "tags": [],
+    "enunciado": "Paciente feminina, de 45 anos, encaminhada por adinamia, lenti(cid:61)cação psicomotora e sintomas depressivos. Os sintomas tornaram-se mais intensos há uma semana, quando iniciou sintomas compatíveis com infecção de trato respiratório. Ao exame físico: PA 90/60 mmHg, palidez cutânea intensa e rarefação de pelos pubianos. Segundo familiares, a paciente apresentou complicação obstétrica hemorrágica em seu último parto, há 8 anos. Não conseguiu amamentar o (cid:61)lho e apresenta amenorreia desde então. Exames laboratoriais: TSH = 8,0 (0,3-5 mUl/mL), T4L = 0.3 ng/dL (0,7-1,8 ng/dL) e glicemia = 45 mg/dL. Trata-se, provavelmente, de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Insuficiência adrenal secundária a tuberculose."
+      },
+      {
+        "letra": "B",
+        "texto": "Hipotireoidismo autoimune."
+      },
+      {
+        "letra": "C",
+        "texto": "Necrose hipofisária pós-parto."
+      },
+      {
+        "letra": "D",
+        "texto": "Adrenalite autoimune."
+      },
+      {
+        "letra": "E",
+        "texto": "Hipotireoidismo e insuficiência adrenal autoimune."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 100782,
+    "tags": [],
+    "enunciado": "Mulher de 35 anos está em investigação para astenia crônica. Na avaliação laboratorial, encontra-se TSH < 0,01 mcU/L e T4 livre < 0,1 ng/mL. Dentre os abaixo, o próximo exame a ser solicitado deve ser:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "cintilografia tireoideana."
+      },
+      {
+        "letra": "B",
+        "texto": "anticorpo antirreceptor de tireotrofina (TRab)."
+      },
+      {
+        "letra": "C",
+        "texto": "anticorpo antitireoperoxidase."
+      },
+      {
+        "letra": "D",
+        "texto": "ultrassonografia de tireoide."
+      },
+      {
+        "letra": "E",
+        "texto": "ressonância magnética de sela turca."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 100783,
+    "tags": [],
+    "enunciado": "Mulher, 20 anos, com galactorreia bilateral e ciclos menstruais normais. Deve-se dosar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "estradiol"
+      },
+      {
+        "letra": "B",
+        "texto": "LH"
+      },
+      {
+        "letra": "C",
+        "texto": "FSH"
+      },
+      {
+        "letra": "D",
+        "texto": "TSH"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 100784,
+    "tags": [],
+    "enunciado": "Mulher, 23 anos, sem comorbidades prévias, relata que há 3 meses tem notado as mamas ingurgitadas e com secreção láctea. Os ciclos menstruais estão irregulares e também refere que tem dormido mais que o habitual. Está incomodada com a constipação e relaciona isso com o ganho de 7 kg neste período. Disse que já fez 3 testes de farmácia para gravidez e todos foram negativos. O exame físico é normal. Ela traz exames laboratoriais pedidos pela prima que é pediatra e tem Beta HGC negativo e Prolactina 1200 mcg/L. O primeiro passo a seguir é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Iniciar bromocriptina ou cabergolina."
+      },
+      {
+        "letra": "B",
+        "texto": "Dosar TSH ultrassensível e T4 livre."
+      },
+      {
+        "letra": "C",
+        "texto": "Dosar FH, LSH e estradiol E2."
+      },
+      {
+        "letra": "D",
+        "texto": "Fazer RM crânio e hipófise."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 100785,
+    "tags": [],
+    "enunciado": "Mulher de 52 anos apresenta há mais de uma década aumento progressivo das mãos e pés, espessamento da língua e cefaleia. A radiogra(cid:61)a de crânio mostra alargamento da sela túrcica. Para con(cid:61)rmar a principal hipótese diagnóstica, deve-se dosar o hormônio de crescimento:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Após ingestão de dexametasona."
+      },
+      {
+        "letra": "B",
+        "texto": "Após ingestão de clonidina."
+      },
+      {
+        "letra": "C",
+        "texto": "Após exercício físico."
+      },
+      {
+        "letra": "D",
+        "texto": "Durante teste oral de tolerância à glicose."
+      },
+      {
+        "letra": "E",
+        "texto": "Após administração de insulina."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 100786,
+    "tags": [],
+    "enunciado": "A cabeça parece maior do que o normal e grosseiramente assume uma forma triangular com a base do triângulo localizada na região da testa. Um paciente idoso com as características acima é portador de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "hipotireoidismo."
+      },
+      {
+        "letra": "B",
+        "texto": "acromegalia."
+      },
+      {
+        "letra": "C",
+        "texto": "doença de Paget."
+      },
+      {
+        "letra": "D",
+        "texto": "doença de Parkinson."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 100787,
+    "tags": [],
+    "enunciado": "Nos casos de hiperprolactinemia, deve-se sempre investigar o uso de drogas farmacológicas que podem ser responsáveis pelo aumento da concentração plasmática de prolactina, induzindo ao surgimento de galactorreia e de alterações menstruais. São exemplos destes tipos de medicamentos as seguintes substâncias:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "reserpina e sulpirida."
+      },
+      {
+        "letra": "B",
+        "texto": "haloperidol e lisurida."
+      },
+      {
+        "letra": "C",
+        "texto": "cabergolina e cimetidina."
+      },
+      {
+        "letra": "D",
+        "texto": "diclofenaco e promazina."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 100788,
+    "tags": [],
+    "enunciado": "De acordo com os últimos critérios de consenso para o acompanhamento de pacientes com acromegalia, pode-se afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Após tratamento, a doença é considerada curada nos pacientes assintomáticos e com supressão do GH menor que 2 ng/ml no teste de tolerância oral à glicose (GTT) e níveis de IgF1 normais para a idade e o sexo."
+      },
+      {
+        "letra": "B",
+        "texto": "Respostas falso-positivas no GTT oral podem ser observadas em pacientes com hiperprolactinemia."
+      },
+      {
+        "letra": "C",
+        "texto": "As dosagens sanguíneas de GH após estímulo com TRH, GHRH ou GnRH são muito utilizadas na avaliação diagnóstica e no acompanhamento clínico dos pacientes com Acromegalia."
+      },
+      {
+        "letra": "D",
+        "texto": "Uma dosagem sanguínea de GH com valor inferior a 0,4 mg/ml e níveis de IgF1 normais para a idade e sexo excluem o diagnóstico de Acromegalia."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 100789,
+    "tags": [],
+    "enunciado": "A maioria dos portadores da síndrome da sela vazia apresenta níveis:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "baixos de ADH e de prolactina"
+      },
+      {
+        "letra": "B",
+        "texto": "normais de ADH e de prolactina"
+      },
+      {
+        "letra": "C",
+        "texto": "baixos de ADH e normais de prolactina"
+      },
+      {
+        "letra": "D",
+        "texto": "normais de ADH e baixos de prolactina"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 100790,
+    "tags": [],
+    "enunciado": "Os mecanismos da hipofunção gonadal provocada pela hiperprolactinemia é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a diminuição na produção de dopamina."
+      },
+      {
+        "letra": "B",
+        "texto": "o aumento das células da teça e maior produção androgênica."
+      },
+      {
+        "letra": "C",
+        "texto": "o aumento da produção de 17-b-estradiol, por interferência da ação do FSH na granulosa."
+      },
+      {
+        "letra": "D",
+        "texto": "a suspensão da atividade pulsátil do GnRH e luteinização inadequada."
+      },
+      {
+        "letra": "E",
+        "texto": "a hiperatividade da enzima 21-hidroxilase, com redução do número de células da granulosa.  Respostas: 1 C 2 C 3 B 4 A 5 B 6 D 7 A 8 B 9 B 10 A 11 D 12 A 13 B 14 A 15 D 16 B 17 A 18 D 19 A 20 C 21 A 22 D 23 D 24 B 25 E 26 C 27 C 28 E 29 A 30 D 31 C 32 D 33 A 34 A 35 C 36 B 37 C 38 A 39 B 40 C 41 A 42 D 43 C 44 A 45 D 46 B 47 A 48 D 49 D 50 C 51 A 52 C 53 D 54 C 55 C 56 E 57 A 58 D 59 B 60 C 61 D 62 D 63 D 64 D 65 B 66 B 67 A 68 C 69 A 70 C 71 D 72 D 73 D 74 D 75 A 76 C 77 A 78 B 79 B 80 D 81 C 82 C 83 A 84 B 85 C 86 A 87 C 88 C 89 C 90 C 91 D 92 A 93 A 94 B 95 C 96 C 97 B 98 D 99 D 100 B 101 A 102 D 103 E 104 A 105 A 106 C 107 D 108 E 109 C 110 A 111 E 112 A 113 A 114 D 115 B 116 D 117 E 118 B 119 A 120 A 121 A 122 A 123 B 124 B 125 B 126 E 127 D 128 B 129 E 130 C 131 C 132 D 133 A 134 D 135 C 136 A 137 A 138 A 139 A 140 C 141 E 142 E 143 A 144 B 145 A 146 C 147 E 148 E 149 B 150 D 151 B 152 A 153 E 154 D 155 B 156 C 157 C 158 C 159 E 160 D 161 B 162 D 163 C 164 A 165 D 166 B 167 D"
+      }
+    ],
+    "resposta_correta": "D"
+  }
+]

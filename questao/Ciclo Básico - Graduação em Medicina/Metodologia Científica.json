@@ -1,0 +1,1178 @@
+[
+  {
+    "id": 106364,
+    "tags": [],
+    "enunciado": "O grá(cid:29)co de forest plot demonstrado abaixo mostra o resultado de uma metanálise publicada na Cochrane sobre o uso de determinado suplemento na prevenção de diabetes mellitus gestacional (DMG). O que se pode a(cid:29)rmar sobre o efeito do suplemento na incidência de DMG comparado ao placebo nesse estudo?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Suplemento reduziu a incidência de DMG em 53%, mas sem alcançar significância estatística."
+      },
+      {
+        "letra": "B",
+        "texto": "Suplemento reduziu significativamente a incidência de DMG em 47%."
+      },
+      {
+        "letra": "C",
+        "texto": "Os estudos incluídos tinham tamanhos similares e estimativas semelhantes."
+      },
+      {
+        "letra": "D",
+        "texto": "O índice de heterogeneidade nessa metanálise aumenta a confiança na estimativa final."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106365,
+    "tags": [],
+    "enunciado": "Um ensaio clínico é projetado para estudar o efeito de um novo medicamento para tratar o câncer de pulmão pequenas células. No entanto, os participantes que têm um prognóstico pior são mais propensos a serem designados para o grupo do novo medicamento. Que tipo de viés isso pode introduzir?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Viés de seleção"
+      },
+      {
+        "letra": "B",
+        "texto": "Viés de confusão"
+      },
+      {
+        "letra": "C",
+        "texto": "Viés de medição"
+      },
+      {
+        "letra": "D",
+        "texto": "Viés de informação"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106366,
+    "tags": [],
+    "enunciado": "Em um estudo para avaliar a e(cid:29)cácia de um novo medicamento para hipertensão, alguns pacientes deixam tomar a medicação, enquanto outros a mantêm. Os pesquisadores percebem que há diferenças entre os dois grupos. Que tipo de viés está ocorrendo?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Viés de aderência"
+      },
+      {
+        "letra": "B",
+        "texto": "Viés de seleção"
+      },
+      {
+        "letra": "C",
+        "texto": "Viés de medição"
+      },
+      {
+        "letra": "D",
+        "texto": "Viés de informação"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106367,
+    "tags": [],
+    "enunciado": "Em um ensaio clínico, os pesquisadores que medem o desfecho do estudo sabem qual grupo de tratamento o paciente foi designado. Que tipo de viés isso pode introduzir?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Viés de informação"
+      },
+      {
+        "letra": "B",
+        "texto": "Viés do observador"
+      },
+      {
+        "letra": "C",
+        "texto": "Viés de seleção"
+      },
+      {
+        "letra": "D",
+        "texto": "Viés de desistência"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106368,
+    "tags": [],
+    "enunciado": "Os resultados de um ensaio clínico para um novo tratamento de asma são publicados porque mostram uma melhoria signi(cid:29)cativa nos sintomas. No entanto, vários outros ensaios semelhantes que não mostraram benefício significativo não são publicados. Que tipo de viés isso representa?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Viés de publicação"
+      },
+      {
+        "letra": "B",
+        "texto": "Viés de seleção"
+      },
+      {
+        "letra": "C",
+        "texto": "Viés de medição"
+      },
+      {
+        "letra": "D",
+        "texto": "Viés de desistência"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106369,
+    "tags": [],
+    "enunciado": "Em um ensaio clínico de um novo medicamento para insônia, os pacientes que não estão experimentando melhorias são mais propensos a abandonar o estudo. Que tipo de viés isso pode introduzir?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Viés de seleção"
+      },
+      {
+        "letra": "B",
+        "texto": "Viés de desistência"
+      },
+      {
+        "letra": "C",
+        "texto": "Viés de medição"
+      },
+      {
+        "letra": "D",
+        "texto": "Viés de informação"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106370,
+    "tags": [],
+    "enunciado": "Em um ensaio clínico que avalia o efeito de um suplemento nutricional na prevenção da doença de Alzheimer, os pesquisadores descobrem que aqueles participantes com uma dieta mais saudável são mais propensos a tomar o suplemento de forma consistente. Que tipo de viés isso pode introduzir?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Viés de confusão"
+      },
+      {
+        "letra": "B",
+        "texto": "Viés de seleção"
+      },
+      {
+        "letra": "C",
+        "texto": "Viés de medição"
+      },
+      {
+        "letra": "D",
+        "texto": "Viés de publicação"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106371,
+    "tags": [],
+    "enunciado": "Em um ensaio clínico para um novo medicamento para perda de peso, os pesquisadores percebem que os participantes que estão recebendo o medicamento estão relatando maior perda de peso, mesmo quando seus registros alimentares e de exercícios não mudaram. Que tipo de viés isso poderia ser?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Viés de medição"
+      },
+      {
+        "letra": "B",
+        "texto": "Viés do observador"
+      },
+      {
+        "letra": "C",
+        "texto": "Viés de placebo"
+      },
+      {
+        "letra": "D",
+        "texto": "Viés de resposta"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 106372,
+    "tags": [],
+    "enunciado": "Um ensaio clínico está sendo realizado para testar um novo medicamento para tratar a dor de cabeça. No entanto, os pesquisadores notam que mais mulheres estão se inscrevendo para o estudo do que homens. Que tipo de viés isso poderia introduzir no estudo?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Viés de seleção"
+      },
+      {
+        "letra": "B",
+        "texto": "Viés de confusão"
+      },
+      {
+        "letra": "C",
+        "texto": "Viés de informação"
+      },
+      {
+        "letra": "D",
+        "texto": "Viés de publicação"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106373,
+    "tags": [],
+    "enunciado": "Qual das seguintes afirmações é verdadeira sobre o uso de placebo em ensaios clínicos?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O uso de placebo é sempre necessário para garantir a validade de um ensaio clínico."
+      },
+      {
+        "letra": "B",
+        "texto": "O uso de placebo é eticamente aceitável quando não há tratamento eficaz conhecido para a condição que está sendo estudada."
+      },
+      {
+        "letra": "C",
+        "texto": "O uso de placebo é eticamente aceitável mesmo quando há um tratamento eficaz conhecido para a condição que está sendo estudada."
+      },
+      {
+        "letra": "D",
+        "texto": "O uso de placebo é sempre contraproducente porque aumenta o efeito nocebo."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106374,
+    "tags": [],
+    "enunciado": "Em um ensaio clínico, o que é o \"braço\" de um estudo?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O grupo de participantes que não recebe nenhum tratamento."
+      },
+      {
+        "letra": "B",
+        "texto": "O grupo de participantes que recebe o tratamento experimental."
+      },
+      {
+        "letra": "C",
+        "texto": "Um subgrupo de participantes designado para receber um determinado tratamento ou intervenção."
+      },
+      {
+        "letra": "D",
+        "texto": "O grupo de participantes que recebe um placebo."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106375,
+    "tags": [],
+    "enunciado": "Qual é a principal vantagem de um ensaio clínico controlado randomizado em relação a outros desenhos de estudos?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É o melhor desenho de estudo para estabelecer a causalidade."
+      },
+      {
+        "letra": "B",
+        "texto": "É o desenho de estudo mais fácil e rápido de conduzir."
+      },
+      {
+        "letra": "C",
+        "texto": "É o desenho de estudo mais adequado para o estudo de doenças raras."
+      },
+      {
+        "letra": "D",
+        "texto": "É o desenho de estudo que exige o menor número de participantes."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106376,
+    "tags": [],
+    "enunciado": "A validade externa de um ensaio clínico refere-se a qual das seguintes características?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A extensão em que os resultados do estudo podem ser generalizados para populações externas ao estudo."
+      },
+      {
+        "letra": "B",
+        "texto": "A extensão em que o desenho do estudo e sua condução evitam vieses sistemáticos."
+      },
+      {
+        "letra": "C",
+        "texto": "A extensão em que o estudo foi capaz de detectar uma diferença estatisticamente significativa, se ela existir."
+      },
+      {
+        "letra": "D",
+        "texto": "A extensão em que o estudo foi capaz de avaliar a eficácia do tratamento em um ambiente de vida real."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106377,
+    "tags": [],
+    "enunciado": "A validade interna de um ensaio clínico refere-se a qual das seguintes características?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A extensão em que os resultados do estudo podem ser generalizados para populações externas ao estudo."
+      },
+      {
+        "letra": "B",
+        "texto": "A extensão em que o desenho do estudo e sua condução evitam vieses sistemáticos."
+      },
+      {
+        "letra": "C",
+        "texto": "A extensão em que o estudo foi capaz de detectar uma diferença estatisticamente significativa, se ela existir."
+      },
+      {
+        "letra": "D",
+        "texto": "A extensão em que o estudo foi capaz de avaliar a eficácia do tratamento em um ambiente de vida real."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106378,
+    "tags": [],
+    "enunciado": "O que significa NNT em um ensaio clínico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Número necessário para tratar para beneficiar um paciente."
+      },
+      {
+        "letra": "B",
+        "texto": "Número necessário para testar para validar um resultado."
+      },
+      {
+        "letra": "C",
+        "texto": "Número necessário para treinar para capacitar um pesquisador."
+      },
+      {
+        "letra": "D",
+        "texto": "Número necessário para transferir para generalizar um resultado."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106379,
+    "tags": [],
+    "enunciado": "Qual é a diferença entre o efeito placebo e o efeito nocebo em ensaios clínicos?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O efeito placebo refere-se a uma melhora na condição de um paciente devido à sua crença de que está recebendo tratamento, enquanto o efeito nocebo refere-se a uma piora na condição de um paciente devido ao tratamento."
+      },
+      {
+        "letra": "B",
+        "texto": "O efeito placebo refere-se a uma melhora na condição de um paciente devido à sua crença de que não está recebendo tratamento, enquanto o efeito nocebo refere-se a uma piora na condição de um paciente devido à sua crença de que está recebendo tratamento."
+      },
+      {
+        "letra": "C",
+        "texto": "O efeito placebo refere-se a efeitos colaterais de um medicamento, enquanto o efeito nocebo refere-se a uma melhora na condição de um paciente devido à sua crença de que está recebendo tratamento."
+      },
+      {
+        "letra": "D",
+        "texto": "O efeito placebo refere-se a uma melhora na condição de um paciente devido à sua crença de que está recebendo tratamento, enquanto o efeito nocebo refere-se a efeitos colaterais de um medicamento."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106380,
+    "tags": [],
+    "enunciado": "Qual é a diferença entre um desfecho clínico e um desfecho substituto em um ensaio clínico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Um desfecho clínico mede a percepção do paciente, enquanto um desfecho substituto mede resultados objetivos."
+      },
+      {
+        "letra": "B",
+        "texto": "Um desfecho clínico é diretamente significativo para o paciente, enquanto um desfecho substituto é uma medida indireta de efeito."
+      },
+      {
+        "letra": "C",
+        "texto": "Um desfecho clínico é usado em estudos observacionais, enquanto um desfecho substituto é usado em ensaios clínicos."
+      },
+      {
+        "letra": "D",
+        "texto": "Um desfecho clínico é usado em ensaios clínicos, enquanto um desfecho substituto é usado em estudos observacionais."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106381,
+    "tags": [],
+    "enunciado": "O que se entende por \"cegamento\" em um ensaio clínico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Restringir a divulgação dos resultados do estudo até que esteja completo."
+      },
+      {
+        "letra": "B",
+        "texto": "Garantir que os participantes e/ou pesquisadores não saibam qual tratamento (se houver) o participante está recebendo."
+      },
+      {
+        "letra": "C",
+        "texto": "Limitar o número de tratamentos que estão sendo testados no estudo."
+      },
+      {
+        "letra": "D",
+        "texto": "Garantir que todos os participantes recebam o mesmo tratamento."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106382,
+    "tags": [],
+    "enunciado": "Qual das seguintes opções é uma razão comum para a randomização em ensaios clínicos?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aumentar o número de participantes no estudo."
+      },
+      {
+        "letra": "B",
+        "texto": "Reduzir o viés na atribuição dos participantes aos grupos de tratamento."
+      },
+      {
+        "letra": "C",
+        "texto": "Aumentar a validade externa do estudo."
+      },
+      {
+        "letra": "D",
+        "texto": "Eliminar a necessidade de cegamento."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106383,
+    "tags": [],
+    "enunciado": "Um estudo de coorte é iniciado com dois grupos: um grupo exposto a um determinado fator de risco e um grupo não exposto. Ambos os grupos são então acompanhados ao longo do tempo para determinar a incidência de uma doença. Qual das seguintes afirmações é verdadeira sobre os estudos de coorte?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Eles são úteis para estabelecer correlação, mas não causalidade."
+      },
+      {
+        "letra": "B",
+        "texto": "Eles são comumente usados para estudar a história natural de uma doença."
+      },
+      {
+        "letra": "C",
+        "texto": "Eles são geralmente rápidos e econômicos para conduzir."
+      },
+      {
+        "letra": "D",
+        "texto": "Eles são especialmente úteis para estudar doenças muito raras."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106384,
+    "tags": [],
+    "enunciado": "Qual é a principal limitação dos estudos transversais?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não podem ser usados para estudar doenças raras."
+      },
+      {
+        "letra": "B",
+        "texto": "Não podem determinar a causalidade por causa de sua natureza de \"instantâneo\"."
+      },
+      {
+        "letra": "C",
+        "texto": "Não podem ser usados para estudar populações grandes."
+      },
+      {
+        "letra": "D",
+        "texto": "Não podem ser usados para coletar dados longitudinais."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106385,
+    "tags": [],
+    "enunciado": "Em um estudo, os pesquisadores estão comparando o histórico de exposição a um fator de risco entre um grupo de indivíduos com uma determinada doença (casos) e um grupo sem a doença (controles). Que tipo de estudo eles estão conduzindo?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Estudo de caso-controle"
+      },
+      {
+        "letra": "B",
+        "texto": "Estudo de coorte"
+      },
+      {
+        "letra": "C",
+        "texto": "Estudo transversal"
+      },
+      {
+        "letra": "D",
+        "texto": "Série temporal"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106386,
+    "tags": [],
+    "enunciado": "Um pesquisador está analisando a taxa de mortalidade por doenças cardíacas em um país ao longo de 50 anos. Que tipo de estudo ele está conduzindo?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Série temporal"
+      },
+      {
+        "letra": "B",
+        "texto": "Estudo de caso-controle"
+      },
+      {
+        "letra": "C",
+        "texto": "Estudo de coorte"
+      },
+      {
+        "letra": "D",
+        "texto": "Estudo ecológico"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106387,
+    "tags": [],
+    "enunciado": "Uma equipe de pesquisa reúne casos similares de uma condição rara de um hospital. O objetivo é entender melhor a apresentação e o curso da doença. Que tipo de estudo está sendo conduzido?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Série de casos"
+      },
+      {
+        "letra": "B",
+        "texto": "Estudo transversal"
+      },
+      {
+        "letra": "C",
+        "texto": "Estudo ecológico"
+      },
+      {
+        "letra": "D",
+        "texto": "Estudo de coorte"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106388,
+    "tags": [],
+    "enunciado": "Em que tipo de estudo um pesquisador analisaria a relação entre consumo de fast-food e obesidade em uma população ao longo de 20 anos?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Série de casos"
+      },
+      {
+        "letra": "B",
+        "texto": "Série temporal"
+      },
+      {
+        "letra": "C",
+        "texto": "Estudo de coorte"
+      },
+      {
+        "letra": "D",
+        "texto": "Estudo de caso-controle"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106389,
+    "tags": [],
+    "enunciado": "Um grupo de pesquisadores está estudando a relação entre a densidade populacional e a taxa de infecção por COVID-19 em diferentes países. Que tipo de estudo eles estão realizando?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Estudo de coorte"
+      },
+      {
+        "letra": "B",
+        "texto": "Estudo de caso-controle"
+      },
+      {
+        "letra": "C",
+        "texto": "Estudo ecológico"
+      },
+      {
+        "letra": "D",
+        "texto": "Estudo transversal"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106390,
+    "tags": [],
+    "enunciado": "O que diferencia um estudo de coorte de um estudo de caso-controle?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Em um estudo de coorte, os sujeitos são selecionados com base em sua exposição, enquanto em um estudo de caso-controle, eles são selecionados com base em seu resultado."
+      },
+      {
+        "letra": "B",
+        "texto": "Em um estudo de coorte, os sujeitos são selecionados com base em seu resultado, enquanto em um estudo de caso-controle, eles são selecionados com base em sua exposição."
+      },
+      {
+        "letra": "C",
+        "texto": "Um estudo de coorte é retrospectivo, enquanto um estudo de caso-controle é prospectivo."
+      },
+      {
+        "letra": "D",
+        "texto": "Um estudo de coorte é prospectivo, enquanto um estudo de caso-controle é retrospectivo."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106391,
+    "tags": [],
+    "enunciado": "Uma equipe de pesquisa está interessada em entender a relação entre a exposição ao sol e a vitamina D em uma população especí(cid:29)ca. Eles coletam os dados em um único momento. Que tipo de estudo estão conduzindo?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Estudo ecológico"
+      },
+      {
+        "letra": "B",
+        "texto": "Série temporal"
+      },
+      {
+        "letra": "C",
+        "texto": "Estudo transversal"
+      },
+      {
+        "letra": "D",
+        "texto": "Estudo de coorte"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106392,
+    "tags": [],
+    "enunciado": "Em qual tipo de estudo um médico documentaria a apresentação, tratamento e acompanhamento de um paciente individual com uma doença rara?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Estudo de caso-controle"
+      },
+      {
+        "letra": "B",
+        "texto": "Estudo de coorte"
+      },
+      {
+        "letra": "C",
+        "texto": "Relato de caso"
+      },
+      {
+        "letra": "D",
+        "texto": "Estudo transversal"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106393,
+    "tags": [],
+    "enunciado": "Uma equipe de pesquisa está estudando a prevalência de diabetes em diferentes cidades. Eles coletam dados sobre a quantidade total de pessoas diagnosticadas com diabetes em cada cidade, em vez de coletar dados de cada indivíduo. Que tipo de dados a equipe está usando?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Dados primários"
+      },
+      {
+        "letra": "B",
+        "texto": "Dados secundários"
+      },
+      {
+        "letra": "C",
+        "texto": "Dados individuais"
+      },
+      {
+        "letra": "D",
+        "texto": "Dados agregados"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 106394,
+    "tags": [],
+    "enunciado": "Um estudante de medicina está realizando uma revisão sistemática sobre os efeitos da (cid:29)sioterapia na recuperação pós-cirúrgica. Ele reúne e analisa vários estudos publicados sobre o assunto. Que tipo de estudo o aluno está realizando?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Um estudo primário"
+      },
+      {
+        "letra": "B",
+        "texto": "Um estudo secundário"
+      },
+      {
+        "letra": "C",
+        "texto": "Um estudo analítico"
+      },
+      {
+        "letra": "D",
+        "texto": "Um estudo descritivo"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106395,
+    "tags": [],
+    "enunciado": "Um pesquisador está estudando a relação entre o consumo de álcool e o desenvolvimento de doença hepática. Ele decide comparar a prevalência da doença hepática entre dois grupos: um grupo de indivíduos que consome álcool regularmente e outro que não o faz. Que tipo de estudo o pesquisador está realizando?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Um estudo analítico"
+      },
+      {
+        "letra": "B",
+        "texto": "Um estudo descritivo"
+      },
+      {
+        "letra": "C",
+        "texto": "Um estudo secundário"
+      },
+      {
+        "letra": "D",
+        "texto": "Um estudo com dados agregados"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106396,
+    "tags": [],
+    "enunciado": "Um estudo mostrou que pessoas que vivem em altitudes mais altas têm uma prevalência menor de doenças cardiovasculares. De acordo com o critério de \"Coerência\" de Bradford-Hill, como essa descoberta deve ser interpretada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A descoberta deve estar alinhada com o atual conhecimento científico e médico sobre doenças cardiovasculares e o efeito da altitude sobre o corpo humano."
+      },
+      {
+        "letra": "B",
+        "texto": "A descoberta deve mostrar que a exposição à altitude elevada ocorreu antes do desenvolvimento de doenças cardiovasculares."
+      },
+      {
+        "letra": "C",
+        "texto": "A descoberta deve demonstrar que quanto maior a altitude, menor a prevalência de doenças cardiovasculares."
+      },
+      {
+        "letra": "D",
+        "texto": "A descoberta deve provar que a vida em altitude elevada é a única causa de menor prevalência de doenças cardiovasculares."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106397,
+    "tags": [],
+    "enunciado": "Com base no critério de \"Plausibilidade\" de Bradford-Hill, qual das seguintes opções seria o curso mais apropriado de ação para um pesquisador estudando a associação entre exposição à radiação e desenvolvimento de catarata?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O pesquisador deve buscar evidências em estudos anteriores e teorias biológicas conhecidas que apoiem essa associação."
+      },
+      {
+        "letra": "B",
+        "texto": "O pesquisador deve provar que a exposição à radiação ocorreu antes do desenvolvimento da catarata."
+      },
+      {
+        "letra": "C",
+        "texto": "O pesquisador deve demonstrar que quanto maior a exposição à radiação, maior o risco de desenvolver catarata."
+      },
+      {
+        "letra": "D",
+        "texto": "O pesquisador deve evidenciar que a exposição à radiação é a única causa possível da catarata."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106398,
+    "tags": [],
+    "enunciado": "Um médico está pesquisando uma possível ligação entre o consumo de uma determinada substância alimentar e o surgimento de câncer colorretal. O médico observa que há um \"efeito dose-resposta\" presente. De acordo com os critérios de Bradford-Hill, o que isso significa?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O câncer colorretal é mais prevalente em pessoas que consomem a substância em questão."
+      },
+      {
+        "letra": "B",
+        "texto": "A exposição à substância alimentar ocorre antes do desenvolvimento do câncer colorretal."
+      },
+      {
+        "letra": "C",
+        "texto": "Quanto maior a ingestão da substância, maior a chance de desenvolver câncer colorretal."
+      },
+      {
+        "letra": "D",
+        "texto": "O câncer colorretal só ocorre em pessoas que consomem a substância."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106399,
+    "tags": [],
+    "enunciado": "Uma criança foi diagnosticada com asma após ser exposta à fumaça de segunda mão em casa. Seguindo o critério de Bradford Hill para \"Força da Associação\", qual das seguintes opções é a melhor descrição deste critério?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A associação é baseada em uma teoria sólida e consensuada."
+      },
+      {
+        "letra": "B",
+        "texto": "A exposição à fumaça de segunda mão gera um grande risco de desenvolver asma"
+      },
+      {
+        "letra": "C",
+        "texto": "A associação é consistente e pode ser observada em diferentes estudos."
+      },
+      {
+        "letra": "D",
+        "texto": "A fumaça de segunda mão é a única causa possível da asma."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106400,
+    "tags": [],
+    "enunciado": "Qual a opção errada da relação entre revisão narrativa e sistemática: Revisão narrativa; I) Fornece um panorama geral, cobrindo um tópico; II) Enfatiza um conhecimento por sequencia tais como causa de doença, manifestações clinicas, fisiopatologia, tratamento e prognostico; III) suscetível ao viés na seleção e na avaliação dos estudos; IV) geralmente não leva em conta tamanho e poder dos estudos, além do seu delineamento; V) É objetiva em responder uma ou poucas questões; Revisão sistemática; É objetiva em responder uma ou poucas questões; Enfatiza tópicos especí(cid:29)cos, tais como nos pacientes com determinada doença e qual dos tratamentos disponíveis tem maior beneficio; Usa métodos rigorosos, reprodutíveis para minimizar o viés, tornando as conclusões mais valiosas; Geralmente critérios especificados propiciam valorização de estudos com maior rigor cientifico; Suscetível ao viés na seleção e na avaliação dos estudos.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I"
+      },
+      {
+        "letra": "B",
+        "texto": "II"
+      },
+      {
+        "letra": "C",
+        "texto": "III"
+      },
+      {
+        "letra": "D",
+        "texto": "IV"
+      },
+      {
+        "letra": "E",
+        "texto": "V 4000188284"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 106401,
+    "tags": [],
+    "enunciado": "São critérios metodológicos para avaliação crítica de revisões sistemáticas, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "checar se a revisão é de ensaios clínicos randomizados com desfechos clínicos relevantes."
+      },
+      {
+        "letra": "B",
+        "texto": "não levar em conta a importância estatística do efeito da terapia."
+      },
+      {
+        "letra": "C",
+        "texto": "avaliar se a determinação dos efeitos da intervenção foi feita de maneira objetiva e reprodutível."
+      },
+      {
+        "letra": "D",
+        "texto": "analisar se a abrangência dos efeitos demonstrada permite uma avaliação sobre os benefícios e/ou danos reais da intervenção na prática."
+      },
+      {
+        "letra": "E",
+        "texto": "considerar se a magnitude do efeito da terapia era clinicamente relevante. 4000186354"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106402,
+    "tags": [],
+    "enunciado": "A vacina contra a COVID-19 produzida pelo Instituto Butantan em parceria com a farmacêutica chinesa Sinovac foi avaliada em diversas pesquisas e análises populacionais. Um dos principais estudos foi o ensaio clínico de fase 3 realizado, em 2020, pelo Butantan em parceria com 16 centros de pesquisa brasileiros, que testou o imunizante em cerca de 13 mil voluntários (Fonte: Instituto Butantan, 22/06/2021). Pode-se afirmar, sobre os ensaios clínicos, que os de fase:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "3 são ensaios de efetividade."
+      },
+      {
+        "letra": "B",
+        "texto": "2 são ensaios-piloto de eficácia."
+      },
+      {
+        "letra": "C",
+        "texto": "1 são ensaios de imunogenicidade."
+      },
+      {
+        "letra": "D",
+        "texto": "4 são ensaios controlados e randomizados."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106403,
+    "tags": [],
+    "enunciado": "Um ensaio clínico de fase IV tem como objetivo",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "estabelecer segurança, tolerabilidade e farmacocinética do produto."
+      },
+      {
+        "letra": "B",
+        "texto": "detectar novas reações adversas e confirmar a frequência das já conhecidas."
+      },
+      {
+        "letra": "C",
+        "texto": "determinar a relação risco/benefício a curto e longo prazo e o valor terapêutico do produto."
+      },
+      {
+        "letra": "D",
+        "texto": "estabelecer segurança, dose-resposta e eficácia do produto."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106404,
+    "tags": [],
+    "enunciado": "Assinale a alternativa correta sobre vacinação.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O Sistema Nacional de Vigilância Epidemiológica dos Eventos Adversos Pós-Vacinação foi instalado no Brasil com o advento da covid-19."
+      },
+      {
+        "letra": "B",
+        "texto": "Os protocolos e definições sobre os eventos adversos são definidos em cada país, o que dificulta comparações."
+      },
+      {
+        "letra": "C",
+        "texto": "Os efeitos adversos de uma vacina devem ser sempre relatados a hospitais e não em unidades básicas de saúde."
+      },
+      {
+        "letra": "D",
+        "texto": "Evento adverso pós-vacinação (EAPV) é qualquer ocorrência médica indesejada após a vacinação e que tenha relação causal com o uso de uma vacina."
+      },
+      {
+        "letra": "E",
+        "texto": "As vacinas pertencem a um dos grupos de produtos biológicos com excelente perfil de segurança."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 106405,
+    "tags": [],
+    "enunciado": "São considerados estudos observacionais, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Coorte."
+      },
+      {
+        "letra": "B",
+        "texto": "Transversal."
+      },
+      {
+        "letra": "C",
+        "texto": "Caso controle."
+      },
+      {
+        "letra": "D",
+        "texto": "Ensaio clínico. 4000189697"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 106406,
+    "tags": [],
+    "enunciado": "Pesquisadores internacionais desejam testar cienti(cid:29)camente uma nova vacina para a Malária, no Brasil. Contam para isso com uma instituição nacional patrocinadora. O protocolo de pesquisa implica em usar em voluntários uma dose da nova vacina, testando sua eficácia e segurança. Identi(cid:29)que, entre os citados, o desenho metodológico mais apropriado para veri(cid:29)car os desfechos primário e secundários da pesquisa.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ensaio Clínico Prospectivo Randomizado Duplo Cego."
+      },
+      {
+        "letra": "B",
+        "texto": "Estudo Caso – Controle Pareado e Estratificado."
+      },
+      {
+        "letra": "C",
+        "texto": "Metanálise com Inferência Estatística."
+      },
+      {
+        "letra": "D",
+        "texto": "Estudo Teste de Sensibilidade e Especificidade."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106407,
+    "tags": [],
+    "enunciado": "Pesquisadores internacionais desejam testar cienti(cid:29)camente uma nova vacina para a Malária, no Brasil. Contam para isso com uma instituição nacional patrocinadora. O protocolo de pesquisa implica em usar em voluntários uma dose da nova vacina, testando sua eficácia e segurança. Identi(cid:29)que o documento formal inicial necessário para o registro da pesquisa, no qual devem constar o nome do projeto e dos pesquisadores, e que precisa ser assinado pelos pesquisadores e anexado ao protocolo.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Termo de Consentimento Livre e Esclarecido."
+      },
+      {
+        "letra": "B",
+        "texto": "Folha de Rosto do Projeto."
+      },
+      {
+        "letra": "C",
+        "texto": "Termo de Anuência Institucional."
+      },
+      {
+        "letra": "D",
+        "texto": "Termo de Responsabilidade por Efeitos Adversos."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106408,
+    "tags": [],
+    "enunciado": "Diretrizes e normas regulamentadoras de pesquisas envolvendo seres humanos Resolução CNS n 4662012 Medicina Preventiva Ética em Pesquisa Pesquisadores internacionais desejam testar cienti(cid:29)camente uma nova vacina para a Malária, no Brasil. Contam para isso com uma instituição nacional patrocinadora. O protocolo de pesquisa implica em usar em voluntários uma dose da nova vacina, testando sua eficácia e segurança. Considerando os aspectos médicos e legais, identi(cid:29)que o órgão no qual a pesquisa cientí(cid:29)ca precisa ser, preliminarmente, registrada:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Agência Nacional de Vigilância Sanitária."
+      },
+      {
+        "letra": "B",
+        "texto": "Comissão Nacional de Ética em Pesquisa."
+      },
+      {
+        "letra": "C",
+        "texto": "Câmara Técnica do Conselho Federal de Medicina."
+      },
+      {
+        "letra": "D",
+        "texto": "Comitê de Ética em Pesquisa da instituição patrocinadora."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106409,
+    "tags": [],
+    "enunciado": "Leia o texto abaixo para assinalar a alternativa que completa corretamente a lacuna. Os estudos _____ permitem que a natureza determine o seu curso: o investigador mede, mas não intervém na pesquisa. Esses estudos podem ser descritivos e analítico. Um estudo descritivo limita-se a descrever a ocorrência de uma doença em uma população, sendo, frequentemente, o primeiro passo de uma investigação epidemiológica.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "de coorte."
+      },
+      {
+        "letra": "B",
+        "texto": "observacionais."
+      },
+      {
+        "letra": "C",
+        "texto": "descritivos experimentais randomizados."
+      },
+      {
+        "letra": "D",
+        "texto": "de caso controle. 4000145311"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106410,
+    "tags": [],
+    "enunciado": "A respeito dos ensaios clínicos, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O pareamento consiste em utilizar técnicas matemáticas para avaliar as diferenças entre fatores relacionados aos desfechos."
+      },
+      {
+        "letra": "B",
+        "texto": "Validade externa refere-se à ausência de erro sistemático"
+      },
+      {
+        "letra": "C",
+        "texto": "Mascaramento não pode ser utilizado em patologias com desfechos fatais."
+      },
+      {
+        "letra": "D",
+        "texto": "Ajuste multivariável consiste em comparar índices dentro de subgrupos que apresentam probabilidade de desfecho similar."
+      },
+      {
+        "letra": "E",
+        "texto": "A utilização de técnicas de cegamento permite evitar, entre outros fatores, o efeito Hawthorne 4000144803"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 106411,
+    "tags": [],
+    "enunciado": "Na revisão sistemática “E(cid:85)ect of hydroxychloroquine with or without azithromycin on the mortality of coronavirus disease 2019 (COVID-19) patients: a systematic review and meta-analysis” publicada por Fiolet et al. na revista Clinical Microbiology and Infection em agosto de 2020, foi apresentado o seguinte resumo: Introdução: A hidroxicloroquina ou cloroquina com ou sem azitromicina foram amplamente promovidas para tratar a doença coronavírus 2019 (COVID-19) após efeitos antivirais in vitro precoces contra a síndrome respiratória aguda grave coronavírus 2 (SARS-CoV-2). Objetivo: O objetivo desta revisão sistemática e meta-análise foi avaliar se a cloroquina ou hidroxicloroquina com ou sem azitromicina diminuiu a mortalidade de COVID-19 em comparação com o padrão de atendimento. Bases de dados: PubMed, Web of Science, Embase Cochrane Library, Google Scholar e MedRxiv foram pesquisados até 25 de julho de 2020. Critérios de elegibilidade dos estudos: Incluímos estudos publicados e não publicados comparando a taxa de mortalidade entre pacientes tratados com cloroquina ou hidroxicloroquina com ou sem azitromicina e pacientes tratados com tratamento padrão. Participantes: Pacientes de 18 anos ou mais com COVID-19 con(cid:29)rmado. Intervenções: Cloroquina ou hidroxicloroquina com ou sem azitromicina. Métodos: Os tamanhos de efeito foram combinados usando um modelo de efeitos aleatórios. As análises de múltiplos subgrupos foram conduzidas para avaliar a segurança do medicamento. Resultados: A busca inicial resultou em 839 artigos, dos quais 29 atenderam aos nossos critérios de inclusão. Todos os estudos exceto um foram realizados em pacientes hospitalizados e avaliaram os efeitos da hidroxicloroquina com ou sem azitromicina. Entre os 29 artigos, três eram ensaios clínicos randomizados, um era um ensaio não randomizado e 25 eram estudos observacionais, incluindo 11 com risco crítico de viés e 14 com risco grave ou moderado de viés. Depois de excluir estudos com risco crítico de viés, a meta-análise incluiu 11 932 participantes para o grupo da hidroxicloroquina, 8081 para a hidroxicloroquina com grupo azitromicina e 12 930 para o grupo controle. A hidroxicloroquina não foi signi(cid:29)cativamente associada à mortalidade: risco relativo (RR) 0.83 (IC 95% 0.65-1.06, n = 17 estudos) para todos os estudos e RR = 1,09 (IC 95% 0.97 e 1.24, n =3 estudos) para ensaios clínicos randomizados. Hidroxicloroquina com azitromicina foi associada a um aumento da mortalidade RR = 1.27 ( IC 95% 1.04-1.54 n = 7 estudos). Resultados semelhantes foram encontrados com uma meta-análise bayesiana.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "tabela 1 do artigo representada a seguir reporta os resultados reunidos para risco relativo e risco diferencial das terapias estudadas em óbito de pacientes hospitalizados com COVID 19. São corretas as seguintes afirmações a respeito da análise das informações apresentadas. 1- Considerando tanto risco relativo, quanto risco diferencial dos estudos reunidos, em qualquer um dos tratamentos estudados, não houve associação significativa com o desfecho óbito por qualquer causa. 2- Considerando todos os estudos que compararam a hidroxicloroquina associada a azitromicina versus terapia usual, atribuiu-se 7% óbitos adicionais (podendo variar de 1% a 14%) à hidroxicloroquina associada a azitromicina, com resultado influenciado por estudos não randomizados. 3- Considerando a comparação hidroxicloroquina versus terapia usual, os resultados de estudos randomizados até aquela data indicavam associação significativa a óbitos em pacientes internados por COVID 19."
+      },
+      {
+        "letra": "A",
+        "texto": "A afirmativa 1 está correta."
+      },
+      {
+        "letra": "B",
+        "texto": "A afirmativa 3 está correta."
+      },
+      {
+        "letra": "C",
+        "texto": "A afirmativa 2 está correta."
+      },
+      {
+        "letra": "D",
+        "texto": "As afirmativas 1 e 2 estão corretas."
+      },
+      {
+        "letra": "E",
+        "texto": "Nenhuma das alternativas está correta. 4000131276 Respostas: 1 B 2 A 3 A 4 B 5 A 6 B 7 A 8 D 9 A 10 B 11 C 12 A 13 A 14 B 15 A 16 A 17 B 18 B 19 B 20 B 21 B 22 A 23 A 24 A 25 C 26 C 27 A 28 C 29 C 30 D 31 B 32 A 33 A 34 A 35 C 36 B 37 E 38 B 39 B 40 B 41 E 42 D 43 A 44 B 45 B 46 B 47 E 48 C"
+      }
+    ],
+    "resposta_correta": "C"
+  }
+]

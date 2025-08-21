@@ -1,0 +1,5086 @@
+[
+  {
+    "id": 9183,
+    "tags": [],
+    "enunciado": "Paciente 33 anos, secundígesta e primípara, na 28a semana de gravidez. Foi atendida na primeira consulta de pré-natal assintomática, trazendo apenas a classificação sanguínea materna, a qual é A negativo. Não se tendo conhecimento de outros exames e nem do histórico da gestação anterior, assinale a alternativa CORRETA que representa o próximo exame a ser solicitado, pensando em uma possibilidade de incompatibilidade sanguínea materno-fetal.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Coombs direto"
+      },
+      {
+        "letra": "B",
+        "texto": "Classificação sanguínea paterna"
+      },
+      {
+        "letra": "C",
+        "texto": "Dopplervelocimetria da artéria cerebral média fetal"
+      },
+      {
+        "letra": "D",
+        "texto": "Ultrassonografia obstétrica"
+      },
+      {
+        "letra": "E",
+        "texto": "Perfil dos anticorpos maternos para os antígenos presentes nas hemácias 4000235672"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 9184,
+    "tags": [],
+    "enunciado": "A imunoglobulina anti-RH é indicada em qual situação?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Puérpera Rh negativa, coombs indireto negativo e RN Rh negativo."
+      },
+      {
+        "letra": "B",
+        "texto": "Puérpera Rh negativa, coombs indireto negativo e RN Rh positivo."
+      },
+      {
+        "letra": "C",
+        "texto": "Puérpera Rh negativa, coombs indireto positivo e RN Rh negativo."
+      },
+      {
+        "letra": "D",
+        "texto": "Puérpera Rh negativa, coombs indireto positivo e RN Rh positivo."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 9185,
+    "tags": [],
+    "enunciado": "Gestante de 32 anos, G3 P2 A0 (2 cesáreas), grupo sanguíneo O negativo, cujo parceiro não compareceu na consulta de pré-natal para tipagem sanguínea, é admitida em trabalho de parto com 37 semanas. Recebeu imunoglobulina anti-D na 28ª semana de gestação. Na admissão, o teste de Coombs indireto da paciente foi positivo com titulação de 1:2. Tipagem do recém-nascido A positivo. No que se refere à pro(cid:65)laxia da aloimunização no pós-parto dessa paciente, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Está indicada a realização da 2ª dose de imunoglobulina anti-D, desde que o resultado do Coombs indireto do recém-nascido seja negativo."
+      },
+      {
+        "letra": "B",
+        "texto": "Está indicada a realização da 2ª dose de imunoglobulina anti-D, independente do resultado do Coombs indireto, até 72 horas após o parto."
+      },
+      {
+        "letra": "C",
+        "texto": "Está indicada a realização de imunoglobulina anti-D, desde que o Coombs direto do recém-nascido seja positivo."
+      },
+      {
+        "letra": "D",
+        "texto": "Está contraindicado imunoglobulina anti-D, pois a paciente já a realizou com 28 semanas de gravidez. 4000234554"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 9186,
+    "tags": [],
+    "enunciado": "A velocidade sistólica máxima da artéria cerebral média fetal é utilizada para orientar a conduta nas gestantes com",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "pré-eclâmpsia."
+      },
+      {
+        "letra": "B",
+        "texto": "hipotireoidismo."
+      },
+      {
+        "letra": "C",
+        "texto": "diabetes gestacional."
+      },
+      {
+        "letra": "D",
+        "texto": "doença hemolítica perinatal. 4000234322"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 9187,
+    "tags": [],
+    "enunciado": "A imunoglobulina anti-Rh deve ser administrada nas primeiras 72 horas pós-parto, em casos de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "RN Rh (+), mãe Rh(-) Coombs indireto com anti D positivo."
+      },
+      {
+        "letra": "B",
+        "texto": "RN Rh (+), mãe Rh (-) Coombs indireto com anti D negativo."
+      },
+      {
+        "letra": "C",
+        "texto": "RN Rh (-), mãe Rh(+) Coombs indireto com anti D positivo."
+      },
+      {
+        "letra": "D",
+        "texto": "RN Rh (-), mãe Rh(+) Coombs indireto com anti D negativo. 4000233538"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 9188,
+    "tags": [],
+    "enunciado": "Gestante, 25 anos de idade, apresenta tipagem sanguínea B negativo e o esposo O positivo. Na 21ª semana, após realizar exames laboratoriais de rotina, apresentou pela primeira vez o coombs indireto positivo e com titulação inicial de 1:32, que passou para 1:128 após 3 semanas. Qual é a conduta mais adequada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Avaliação do pico sistólico da artéria cerebral média."
+      },
+      {
+        "letra": "B",
+        "texto": "Repetição da pesquisa de anticorpos irregulares em 1 semana."
+      },
+      {
+        "letra": "C",
+        "texto": "Cordocentese e dosagem de hemoglobina."
+      },
+      {
+        "letra": "D",
+        "texto": "Cordocentese e transfusão intrauterina. 4000233017"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 9189,
+    "tags": [],
+    "enunciado": "Gestante, 30 anos de idade, G2P1, sem antecedentes relevantes, comparece ao serviço de urgência com idade gestacional de 15 semanas e 2 dias, com queixa de sangramento vaginal. Ao exame físico, foi observada pequena quantidade de coágulos no fundo de saco familiar, sem outras alterações. Ao ultrassom, foi observado feto com sinais de vitalidade e desenvolvimento adequado para a idade gestacional. No cartão de pré-natal, os exames de rastreio mostram Rh negativo com teste de Coombs positivo e identi(cid:65)cação de anticorpo anti-C em título 1/4. Qual a conduta correta neste caso?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não administrar imunoglobulina, pois já ocorreu a aloimunização materna."
+      },
+      {
+        "letra": "B",
+        "texto": "Não administrar imunoglobulina devido ao baixo risco de DHP do anticorpo."
+      },
+      {
+        "letra": "C",
+        "texto": "Administrar imunoglobulina anti-Rh caso o marido tenha teste de Coombs positivo."
+      },
+      {
+        "letra": "D",
+        "texto": "Administrar imunoglobulina anti-Rh e titulação de anticorpos mensalmente. 4000232861"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 9190,
+    "tags": [],
+    "enunciado": "Mulher, 32a, G3P2A0CO, idade gestacional de 23 semanas é encaminhada para o ambulatório de gravidez de alto risco por ser Rh negativa e apresentar prova de Coombs indireto positivo com identi(cid:65)cação de anticorpo anti-Lewis A, classe IgM. O pai da criança é Rh positivo, com fenotipagem de heterozigoto para o sistema Rh. Refere não ter recebido imunoglobulina anti-D profilática após o último parto. A CONDUTA É:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Realizar estudo de dopplerfluxometria de artérias cerebrais fetais e, se alterado, indicar investigação de anemia fetal"
+      },
+      {
+        "letra": "B",
+        "texto": "Indicar cordocentese, já que há 50% de chance de o feto atual ser Rh negativo"
+      },
+      {
+        "letra": "C",
+        "texto": "Se persistir o mesmo resultado de Coombs indireto, há indicação de imunoglobulina anti-D no pós parto"
+      },
+      {
+        "letra": "D",
+        "texto": "Repetir a prova de Coombs indireto e indicar investigação de anemia fetal, apenas se houver titulação elevada de anticorpos 4000232381"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 9191,
+    "tags": [],
+    "enunciado": "Paciente, 40 anos de idade, secundigesta com parto vaginal anterior, sem doenças, retorna em pré-natal com 24 semanas de gravidez e apresenta os exames a seguir: Hb: 11,4 mg/dL Ht: 34% Glicemia: 84 mg/dL Tipagem sanguínea: A negativo. Pesquisa anticorpos irregulares: positiva. Toxoplasmose: IgG positivo e IgM negativo. Rubéola: IgG negativo e IgM negativo. Hepatite B: vacinada. Hepatite C: negativo. HIV: negativo. VDRL: 1:2 FTA-ABS: negativo. Urocultura: E. coli > 10⁶ UFC multi-sensível. Ultrassonogra(cid:65)a: feto único, vivo, apresentação pélvica com dorso à esquerda. Placenta posterior Grannum 0. Peso fetal estimado 780 g (p90). Observa-se ascite e derrame pleural laminar fetal. Doppler de artéria umbilical normal, pico sistólico de artéria cerebral média de 52 cm/s (mediana para 24 semanas = 30,7 cm/s).",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "hipótese diagnóstica para o achado ultrassonográfico é:"
+      },
+      {
+        "letra": "A",
+        "texto": "Anemia fetal."
+      },
+      {
+        "letra": "B",
+        "texto": "Infecção congênita."
+      },
+      {
+        "letra": "C",
+        "texto": "Cardiopatia fetal."
+      },
+      {
+        "letra": "D",
+        "texto": "Diabetes gestacional."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 9192,
+    "tags": [],
+    "enunciado": "Mulher, 30a, G2P1C0A0, evolui para parto vaginal às 37 semanas e 5 dias, sem intercorrências. Em alojamento conjunto, foi observado que possui tipagem sanguínea A, Rh negativo, Coombs indireto positivo (anti-D), coletado na admissão ao parto, e seu recém-nascido apresenta tipagem sanguínea A, Rh positivo. Antecedentes obstétricos: pré-natal realizado em Unidade Básica de Saúde com nove consultas, Coombs indireto no início do pré-natal e com 28 semanas=negativos; refere ter feito Imunoglobulina anti-Rh no puerpério imediato da primeira gestação e às 32 semanas dessa gestação.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "CONDUTA É: 4000230340"
+      }
+    ],
+    "resposta_correta": null
+  },
+  {
+    "id": 9193,
+    "tags": [],
+    "enunciado": "Paciente de 28 anos, gestante de 12 semanas, inicia o pré-natal do seu primeiro (cid:65)lho. Ela sabe que seu Rh é negativo e do pai da criança é Rh-positivo e você solicita pesquisa de anticorpos anti-Rh. Como deverá ser o acompanhamento desta gestante ao longo do pré-natal segundo as Diretrizes do Ministério da Saúde frente aos possíveis resultados do exame?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Se o resultado for positivo, deverá ser realizada a profilaxia imediatamente e repetir posteriormente."
+      },
+      {
+        "letra": "B",
+        "texto": "Se o resultado for positivo, deverá ser repetido semanalmente e realizar perfil biofísico fetal para pesquisa de Doença Hemolítica Perinatal."
+      },
+      {
+        "letra": "C",
+        "texto": "Se o resultado for negativo, deverá ser realizado o Coombs Direto imediatamente."
+      },
+      {
+        "letra": "D",
+        "texto": "Se o resultado for negativo, deverá ser repetido mensalmente e realizar a profilaxia com 28 semanas."
+      },
+      {
+        "letra": "E",
+        "texto": "Se o resultado for negativo, deverá ser feita a profilaxia em até 48 horas após o nascimento da criança. 4000228750"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 9194,
+    "tags": [],
+    "enunciado": "Paciente com 28 semanas de gestação, com tipagem sanguínea Rh(-), tem o teste de Coombs indireto com resultado positivo para anticorpos anti-D e título de 1:128. Realiza ultrassonogra(cid:65)a com doppler, que evidencia pico sistólico de velocidade na artéria cerebral média de 1,8 MoM. A conduta mais adequada nesse caso é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "repetir o teste de Coombs para confirmação diagnóstica;"
+      },
+      {
+        "letra": "B",
+        "texto": "administrar imunoglobulina anti-Rh e repetir o exame;"
+      },
+      {
+        "letra": "C",
+        "texto": "repetir a ultrassonografia e o Doppler em duas semanas;"
+      },
+      {
+        "letra": "D",
+        "texto": "prescrever corticoide e fazer o parto por cesariana;"
+      },
+      {
+        "letra": "E",
+        "texto": "fazer cordocentese e possível transfusão fetal intrauterina."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 9195,
+    "tags": [],
+    "enunciado": "Assinale a alternativa correta em relação ao manejo pré-natal de gestante com tipagem sanguínea Rh negativo, aloimunizada.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A pesquisa do Rh fetal no sangue materno, quando realizada a partir de 10 semanas de gestação, apresenta acurácia de cerca de 85%."
+      },
+      {
+        "letra": "B",
+        "texto": "Diante de teste de Coombs indireto positivo, é necessária a pesquisa de anticorpos irregulares com identificação e determinação dos títulos."
+      },
+      {
+        "letra": "C",
+        "texto": "A vasodilatação cerebral fetal demonstrada no exame dopplervelocimétrico é marcador precoce de anemia moderada/grave."
+      },
+      {
+        "letra": "D",
+        "texto": "A administração de imunoglobulina anti-D, no início do terceiro trimestre, diminui a chance de piora da sensibilização materna e de anemia fetal grave."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 9196,
+    "tags": [],
+    "enunciado": "Gestante de 39s0d, G3P2A0, 2PC, interna-se eletivamente e é submetida à cesariana com laqueadura tubária por iteratividade, tipagem sanguínea AB Rh negativo. Neste caso, o uso de imunoglobulina Anti-Rh será indicado",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "se a tipagem sanguínea do recém-nascido for Rh positivo e o teste de Coombs indireto negativo."
+      },
+      {
+        "letra": "B",
+        "texto": "se a tipagem sanguínea do recém-nascido for Rh positivo e o teste de Coombs indireto positivo."
+      },
+      {
+        "letra": "C",
+        "texto": "se o teste de Coombs indireto for negativo, independente da tipagem sanguínea do recém-nascido."
+      },
+      {
+        "letra": "D",
+        "texto": "se a tipagem sanguínea do recém-nascido for Rh negativo e o teste de Coombs indireto negativo. 4000225290"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 9197,
+    "tags": [],
+    "enunciado": "Gestante com 29 semanas com tipagem sanguínea “A - Rh negativo” foi encaminhada a um serviço de medicina fetal por ter resultado do teste de Coombs indireto positivo. Foi realizada pesquisa de anticorpos irregulares que evidenciou anticorpos anti-Kell. Diante dessa situação, assinale a opção que indica a conduta correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aplicar imunoglobulina anti-Rh após o parto, caso o recém- nascido seja Rh(+)."
+      },
+      {
+        "letra": "B",
+        "texto": "Realizar transfusão intrauterina imediatamente por cordocentese."
+      },
+      {
+        "letra": "C",
+        "texto": "Acompanhamento obstétrico de rotina, já que esse anticorpo não tem significado clínico."
+      },
+      {
+        "letra": "D",
+        "texto": "A transfusão deverá ser realizada apenas em caso de hidropsia fetal."
+      },
+      {
+        "letra": "E",
+        "texto": "Indicar o parto com 32 semanas para evitar comprometimento fetal."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 9198,
+    "tags": [],
+    "enunciado": "Após avaliação por equipe de Medicina Fetal, uma paciente será submetida à transfusão intrauterina por cordocentese, devido ao diagnóstico de doença hemolítica fetal.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "respeito desse procedimento, assinale a afirmativa correta."
+      },
+      {
+        "letra": "A",
+        "texto": "Deverá ser evitada a punção da veia umbilical em sua inserção placentária."
+      },
+      {
+        "letra": "B",
+        "texto": "Em fetos com anemia grave e hidrópicos, o volume transfundido deverá ser menor."
+      },
+      {
+        "letra": "C",
+        "texto": "Está contraindicada, durante o procedimento, a coleta de amostra de sangue fetal."
+      },
+      {
+        "letra": "D",
+        "texto": "O volume a ser transfundido é calculado levando em consideração o peso materno."
+      },
+      {
+        "letra": "E",
+        "texto": "O sangue a ser transfundido deverá ter hematócrito menor que 40%."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 9199,
+    "tags": [],
+    "enunciado": "Primigesta de 28 anos, com 28 semanas de gestação, procura atendimento por sangramento transvaginal de moderada intensidade. Realizou ultrassonogra(cid:65)a que mostrou feto vivo (BFC = 144pbm), sem hidropsia e placenta prévia oclusiva parcial. Ela é Rh negativo e não sabe o Rh do parceiro.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "conduta é:"
+      },
+      {
+        "letra": "A",
+        "texto": "Teste de Coombs direto."
+      },
+      {
+        "letra": "B",
+        "texto": "Teste de Kleihauer-Betke, em caso de resultado negativo, aplicar imunoglobulina anti-Rh."
+      },
+      {
+        "letra": "C",
+        "texto": "Teste de Coombs indireto, se resultado negativo, aplicar imunoglobulina anti-Rh na gestante."
+      },
+      {
+        "letra": "D",
+        "texto": "Espectrofotometria do líquido amniótico."
+      },
+      {
+        "letra": "E",
+        "texto": "Dopplerfluxometria da artéria cerebral média para aferir grau de anemia fetal."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 9200,
+    "tags": [],
+    "enunciado": "Paciente do sexo feminino, G2Pn1, IG de 29 semanas, Rh negativo com coombs indireto positivo, realiza dopplervelocimetria de artéria cerebral média apresentando velocidade de pico sistólico 0,9 MoM, sem sinais de hidropsia fetal. A conduta mais adequada é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cordocentese para tratamento de anemia fetal."
+      },
+      {
+        "letra": "B",
+        "texto": "Interrupção da gestação."
+      },
+      {
+        "letra": "C",
+        "texto": "Administrar imunoglobulina anti-D 300mcg."
+      },
+      {
+        "letra": "D",
+        "texto": "Repetir dopplervelocimetria de ACM em 1 semana. 4000215993"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 9201,
+    "tags": [],
+    "enunciado": "Na assistência à gestante Rh negativa, qual a conduta CORRETA?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Realizamos Doppler da artéria cerebral média para acompanhar a anemia fetal nas gestantes que apresentam pesquisa de anticorpos antieritrocitários negativa."
+      },
+      {
+        "letra": "B",
+        "texto": "Recomendamos, inicialmente, a pesquisa da tipagem sanguínea do progenitor e de anticorpos antieritrocitários no plasma materno, em todos os trimestres da gestação."
+      },
+      {
+        "letra": "C",
+        "texto": "Indicamos imunoprofilaxia anti-Rh ao redor de 28 semanas e após o parto, quando o progenitor for Rh positivo."
+      },
+      {
+        "letra": "D",
+        "texto": "Realizamos imunoprofilaxia anti-Rh logo após o parto em gestantes que apresentam pesquisa de anticorpos antieritrocitários positiva, cujo recém-nascido seja Rh positivo. 4000215914"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 9202,
+    "tags": [],
+    "enunciado": "Paciente G3Pn2, Rh negativo, realiza exames de primeiro trimestre da gestação com resultados de coombs indireto positivo com titulação 1:16. A conduta adequada seria:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Avaliação de possível anemia fetal por meio de dopplervelocimetria de artéria cerebral média."
+      },
+      {
+        "letra": "B",
+        "texto": "Prescrever imunoglobulina anti-D com 28 semanas de gestação."
+      },
+      {
+        "letra": "C",
+        "texto": "Transfusão intrauterina por meio de cordocentese."
+      },
+      {
+        "letra": "D",
+        "texto": "Realizar diagnóstico de gestação inviável. 4000215638"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 9203,
+    "tags": [],
+    "enunciado": "Em relação à doença hemolítica pelo sistema Rh, assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "há intensificação do processo hemolítico em gestações sucessivas."
+      },
+      {
+        "letra": "B",
+        "texto": "a hidropsia fetal pode ocorrer em mães gravemente sensibilizadas."
+      },
+      {
+        "letra": "C",
+        "texto": "a icterícia costuma ser precoce e intensificar-se nas primeiras horas de vida."
+      },
+      {
+        "letra": "D",
+        "texto": "diante de Coombs indireto positivo deve-se solicitar Doppler das artérias uterinas para pesquisa do pico de velocidade sistólica."
+      },
+      {
+        "letra": "E",
+        "texto": "pacientes que abortam também correm risco de sensibilização, que é maior no abortamento induzido do que no abortamento espontâneo 4000215258"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 9204,
+    "tags": [],
+    "enunciado": "Secundípara, 25 anos, no primeiro dia pós-parto normal sem intercorrências, com 38 semanas. Checados exames colhidos na internação: tipo sanguíneo A Rh negativo, Coombs indireto positivo. Checado tipagem sanguínea do recémnascido: A Rh positivo. Paciente fez uso de imunoglobulina anti-D com 28 semanas de gestação. Qual a conduta adequada quando a profilaxia para isoimunização Rh dessa paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não tem indicação de profilaxia."
+      },
+      {
+        "letra": "B",
+        "texto": "Administrar imunoglobulina anti-D."
+      },
+      {
+        "letra": "C",
+        "texto": "Encaminhar para o hematologista."
+      },
+      {
+        "letra": "D",
+        "texto": "Solicitar a triagem de anticorpos irregulares."
+      },
+      {
+        "letra": "E",
+        "texto": "Aguardar Coombs direto do recém-nascido. 4000215028"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 9205,
+    "tags": [],
+    "enunciado": "Considerando o manejo da doença hemolítica perinatal (DHP), é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "valores de pico de velocidade sistólica na dopplervelocimetria da artéria cerebral média (PVS-ACM) acima de 1,5 múltiplo da mediana (MoM) para a idade gestacional evidenciam anemia fetal moderada ou grave, com sensibilidade baixa sensibilidade (36%) e alta especificidade (91%)."
+      },
+      {
+        "letra": "B",
+        "texto": "para transfusão intrauterina, utiliza-se sangue do tipo O Rh negativo, com hematócrito entre 65% e 85% e submetido à irradiação, que promove menor reação enxertohospedeiro."
+      },
+      {
+        "letra": "C",
+        "texto": "o teste de coombs direto deve ser preconizado a gestantes Rh negativo (D variante negativo), parceiro Rh positivo, na primeira visita pré-natal e nos trimestres subsequentes."
+      },
+      {
+        "letra": "D",
+        "texto": "a avaliação do PVS-ACM fetal deve ser realizada de rotina nas gestantes Rh negativo com CI positivo, independente dos valores de titulação."
+      },
+      {
+        "letra": "E",
+        "texto": "na DHP grave, os níveis elevados de bilirrubina indireta no sangue fetal comprometem o desenvolvimento neurológico intrauterino."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 9206,
+    "tags": [],
+    "enunciado": "Para prevenção de anemia hemolítica perinatal em mães não sensibilizadas (coombs indireto negativo), deve- se proceder à administração de 300 µg de imunoglobulina anti-D nos seguintes momentos: 1. na 32ª semana; 2. até 82 horas após o parto de recém-nascido Rh+ ou de fator Rh desconhecido; 3. até 72 horas após procedimento/evento (que leve a risco de sensibilização materna). Está(ão) correta(s):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas 1 e 2."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas 2."
+      },
+      {
+        "letra": "C",
+        "texto": "1, 2 e 3."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas 2 e 3."
+      },
+      {
+        "letra": "E",
+        "texto": "Apenas 3."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 9207,
+    "tags": [],
+    "enunciado": "G3 PC2 A0, 28 anos, IG: 35s 2d, foi internada após realização de cardiotocogra(cid:65)a (CTG) que evidencia traçado com padrão sinusoidal. Logo após este exame, ela passa por avaliação ultrassonográfica com Doppler sendo observado que o feto apresenta estado hiperdinâmico, decorrente de diminuição da viscosidade sanguínea. O estudo Doppler revela pico de velocidade sistólica da artéria cerebral média > 1,5 MoM. Qual a conduta adequada para o caso?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Indicar parto cesariano."
+      },
+      {
+        "letra": "B",
+        "texto": "Hidratar e repetir a CTG em 24h."
+      },
+      {
+        "letra": "C",
+        "texto": "Realizar transfusão intra-uterina."
+      },
+      {
+        "letra": "D",
+        "texto": "Induzir parto normal com CTG intraparto. 4000214043"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 9208,
+    "tags": [],
+    "enunciado": "Avalie as assertivas, assinale com “C” as corretas, com “E” as erradas e escolha a alternativa com a sequência correta a respeito de aloimunizações: [ ] A incompatibilidade ABO e Rh são responsáveis pela maioria dos casos de anemia hemolítica neonatal. [ ] Na ocorrência de uma segunda exposição aos antígenos eritrocitários fetais é desencadeada uma produção rápida e maciça de IgM que se ligam aos eritrócitos fetais os quais serão destruídos no sistema retículo endotelial do feto ou do recém-nascido. [ ] A incompatibilidade ABO é habitualmente mais grave que a aloimunização Rh.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "E, C, E"
+      },
+      {
+        "letra": "B",
+        "texto": "C, E, E"
+      },
+      {
+        "letra": "C",
+        "texto": "E, E, E"
+      },
+      {
+        "letra": "D",
+        "texto": "E, E, C"
+      },
+      {
+        "letra": "E",
+        "texto": "C, C, C 4000213703"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 9209,
+    "tags": [],
+    "enunciado": "Primigesta, 8 semanas, Rh negativo foi submetida a um procedimento de esvaziamento uterino pós aborto. Informa que o cônjuge é Rh positivo homozigoto. Qual a conduta a ser adotada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não é necessário administrar imunoglobulina anti D pois nessa idade gestacional não há risco de aloimunização."
+      },
+      {
+        "letra": "B",
+        "texto": "administrar imunoglobulina anti D para evitar aloimunização que pode ocorrer mesmo em gestações precoces."
+      },
+      {
+        "letra": "C",
+        "texto": "administrar imunoglobulina anti D se o procedimento realizado foi a curetagem pois a mesma proporciona a passagem de hemácias fetais para circulação materna e aloimunização."
+      },
+      {
+        "letra": "D",
+        "texto": "não administrar imunoglobulina anti D se o procedimento realizado foi aspiração manual intrauterina pois há passagem de hemácias fetais para a circulação materna e aloimunização. 4000212665"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 9210,
+    "tags": [],
+    "enunciado": "O rastreamento de anemia fetal nos casos de isoimunização ao fator RH, identi(cid:65)ca fatores de risco antes da instalação de quadros graves. O método de eleição tem sido a dopplerfluxometria obstétrica, por meio",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "de fatores associados à centralização fetal."
+      },
+      {
+        "letra": "B",
+        "texto": "do aumento da velocidade sistólica na artéria cerebral média."
+      },
+      {
+        "letra": "C",
+        "texto": "do aumento do índice de resistência do ducto venoso e vasos umbilicais."
+      },
+      {
+        "letra": "D",
+        "texto": "da diminuição do índice de pulsatilidade das artérias umbilicais."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 9211,
+    "tags": [],
+    "enunciado": "Secundigesta, Rh negativo, na 1ª consulta de pré-natal apresentou teste de Coombs Indireto negativo. O teste foi repetido na 28ª semana de gestação com resultado = 1:32. Assinale a alternativa que contém a conduta adequada para o caso descrito:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Realizar dosagem espectofotométrica da bilirrubina."
+      },
+      {
+        "letra": "B",
+        "texto": "Repetir semanalmente o teste de Coombs Indireto e fazer cordocentese."
+      },
+      {
+        "letra": "C",
+        "texto": "Realizar doppler da artéria cerebral média fetal para averiguar o grau de anemia fetal."
+      },
+      {
+        "letra": "D",
+        "texto": "Acelerar a maturação pulmonar fetal e interrupção da gestação na 34ª semana."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 9212,
+    "tags": [],
+    "enunciado": "Secundigesta aloimunizada (anticorpos anti-D, titulação 1/256), sem outras doenças ou antecedentes obstétricos relevantes, assintomática, apresenta medida do pico de velocidade sistólica da artéria cerebral média fetal de 63 cm/s, equivalente a 1,88 múltiplos da mediana (MoM), com 26 semanas. Sem sinais de hidropisia fetal ou outras alterações na avaliação ecográfica obstétrica. PERGUNTA-SE: CONSIDERANDO AS INFORMAÇÕES ACIMA, QUAL SUA HIPÓTESE DIAGNÓSTICA EM RELAÇÃO AO FETO? EXPLIQUE. Essa questão possui comentário do professor no site 4000210417",
+    "alternativas": [],
+    "resposta_correta": null
+  },
+  {
+    "id": 9213,
+    "tags": [],
+    "enunciado": "Secundigesta aloimunizada (anticorpos anti-D, titulação 1/256), sem outras doenças ou antecedentes obstétricos relevantes, assintomática, apresenta medida do pico de velocidade sistólica da artéria cerebral média fetal de 63 cm/s, equivalente a 1,88 múltiplos da mediana (MoM), com 26 semanas. Sem sinais de hidropisia fetal ou outras alterações na avaliação ecográfica obstétrica. PERGUNTA-SE: CONSIDERANDO AS INFORMAÇÕES ACIMA, QUAL SUA RECOMENDAÇÃO DE CONDUTA DORAVANTE? EXPLIQUE. Essa questão possui comentário do professor no site 4000210416",
+    "alternativas": [],
+    "resposta_correta": null
+  },
+  {
+    "id": 9214,
+    "tags": [],
+    "enunciado": "Gestante, 25 anos, G1P0C0A0, vem em primeira consulta pré-natal com idade gestacional pela última menstruação de 8 semanas e 3 dias. Nega comorbidades e internamentos prévios, nega uso de medicações e alergias. Em consulta apresenta-se muito preocupada com sua tipagem sanguínea referida ser “A” negativo (con(cid:65)rmado em exame laboratorial). Refere estar bem, nega queixas. Exame físico dentro da normalidade. Verifica-se em primeira rotina teste de COOMBS indireto negativo. Diante do quadro, em qual semana será orientada a aplicação da imunoglobulina antirhd no pré-natal?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "12ª"
+      },
+      {
+        "letra": "B",
+        "texto": "24ª."
+      },
+      {
+        "letra": "C",
+        "texto": "28ª."
+      },
+      {
+        "letra": "D",
+        "texto": "36ª."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 9215,
+    "tags": [],
+    "enunciado": "Pode-se a(cid:65)rmar que, para o acompanhamento da doença hemolítica perinatal, a avaliação Dopplerfluxométrica da artéria cerebral média pode ser iniciada entre as semanas de gestação:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "22ª e 24ª"
+      },
+      {
+        "letra": "B",
+        "texto": "18ª e 20ª"
+      },
+      {
+        "letra": "C",
+        "texto": "20ª e 22ª"
+      },
+      {
+        "letra": "D",
+        "texto": "16ª e 18ª"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 9216,
+    "tags": [],
+    "enunciado": "Tercigesta, 27 anos, com gestação de 29 semanas, iniciou o pré-natal tardiamente. Ela vem à consulta para checar exames da rotina. Apresenta tipo sanguíneo A negativo, com Coombs Indireto positivo, anticorpo identi(cid:65)cado anti-Jk. Questionada sobre possíveis antecedentes de risco, ela relata que recebeu \"vacina anti- Rh\" apenas após o primeiro parto. No segundo parto, ela teve hemorragia e recebeu dois concentrados de hemácias. Na atual gestação, ela está assintomática e a ultrassonogra(cid:65)a obstétrica realizada hoje está normal. Com relação à imunoprofilaxia anti-Rh, qual alternativa representa a melhor conduta nesse caso?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Imunoglobulina anti-RhD está contraindicada por haver aloimunização."
+      },
+      {
+        "letra": "B",
+        "texto": "Pedir titulação dos anticorpos para decidir conduta."
+      },
+      {
+        "letra": "C",
+        "texto": "Realizar imunoglobulina anti-RhD agora."
+      },
+      {
+        "letra": "D",
+        "texto": "Repetir Coombs Indireto para confirmar aloimunização."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 9217,
+    "tags": [],
+    "enunciado": "Gestante Rh negativo, 28 semanas, com Coombs indireto positivo, foi ao pré-natal com resultado de Doppler demonstrado na imagem. Analise os dados do exame, correlacionando com o grá(cid:65)co da velocidade sistólica da artéria cerebral média, e assinale a alternativa correta quanto a conduta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Indicar cordocentese."
+      },
+      {
+        "letra": "B",
+        "texto": "Indicar transfusão intrauterina."
+      },
+      {
+        "letra": "C",
+        "texto": "Repetir Doppler em uma semana."
+      },
+      {
+        "letra": "D",
+        "texto": "Repetir Doppler a cada dois dias."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 9218,
+    "tags": [],
+    "enunciado": "Paciente de 23 anos está na segunda gestação. Seu tipo sanguíneo O Rh negativo é o mesmo de seu (cid:65)lho e marido. Está preocupada, pois seu marido é seu primo e tem medo da incompatibilidade de Rh. Nesse caso, o que se deve orientar?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Imunoglobulina Anti-Rh com 28 semanas e nas primeiras 72 horas pós-parto."
+      },
+      {
+        "letra": "B",
+        "texto": "Imunoglobulina Anti-Rh nas primeiras 72 horas pós-parto."
+      },
+      {
+        "letra": "C",
+        "texto": "Imunoglobulina Anti-Rh com 7 semanas e nas primeiras 72 horas pós-parto."
+      },
+      {
+        "letra": "D",
+        "texto": "Imunoglobulina Anti-Rh com 35 semanas e nas primeiras 72 horas pós-parto."
+      },
+      {
+        "letra": "E",
+        "texto": "Tendo a criança também o mesmo tipo sanguíneo dos pais, nenhuma medicação é necessária por inexistência de risco."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 9219,
+    "tags": [],
+    "enunciado": "Qual dos seguintes parâmetros Dopplervelocimétricos indica alto risco de anemia fetal em gestantes com aloimunização anti-D?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Índice de pulsatilidade na artéria cerebral média acima do percentil 95."
+      },
+      {
+        "letra": "B",
+        "texto": "Pico de velocidade sistólica na artéria cerebral média acima de 1,5 múltiplos da mediana."
+      },
+      {
+        "letra": "C",
+        "texto": "Índice de pulsatilidade na artéria umbilical acima do percentil 95."
+      },
+      {
+        "letra": "D",
+        "texto": "Pico de velocidade sistólica na artéria umbilical acima de 1,5 múltiplos da mediana."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 9220,
+    "tags": [],
+    "enunciado": "Gestante de 35 semanas, com diagnóstico de Isoimunização, retorna à consulta pré-natal com laudo de Coombs Indireto de 1/128. O ultrassom evidencia hidropsia fetal. A conduta mais adequada neste caso é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Interrupção da gestação."
+      },
+      {
+        "letra": "B",
+        "texto": "Cordocentese."
+      },
+      {
+        "letra": "C",
+        "texto": "Amniocentese."
+      },
+      {
+        "letra": "D",
+        "texto": "Repetir Coombs indireto em 1 semana. 4000187223"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 9221,
+    "tags": [],
+    "enunciado": "A administração de imunoglobulina anti-D deve ser feita em todas as mulheres Rh negativas com parceiro Rh positivo nas seguintes situações, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Gravidez ectópica."
+      },
+      {
+        "letra": "B",
+        "texto": "Gravidez molar."
+      },
+      {
+        "letra": "C",
+        "texto": "Abortamentos."
+      },
+      {
+        "letra": "D",
+        "texto": "Puérperas com títulos de Coombs indireto inferiores a 1/8."
+      },
+      {
+        "letra": "E",
+        "texto": "Gestante Rh negativa na 28ª semana gestacional caso não esteja sensibilizada. 4000186992"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 9222,
+    "tags": [],
+    "enunciado": "Na incompatibilidade sanguínea materno-fetal, devemos administrar a imunoglobulina anti-D no pós parto em qual condição?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Na puérpera Rh negativa, marido Rh positivo, recém nato Rh negativo, teste de Coombs indireto negativo"
+      },
+      {
+        "letra": "B",
+        "texto": "Na puérpera Rh negativa, marido Rh positivo, recém nato Rh positivo, teste de Coombs indireto positivo."
+      },
+      {
+        "letra": "C",
+        "texto": "Na puérpera Rh negativa, marido Rh positivo, recém nato Rh positivo, teste de Coombs indireto negativo."
+      },
+      {
+        "letra": "D",
+        "texto": "Na puérpera Rh positiva, marido Rh negativo, recém nato Rh negativo. 4000186431"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 9223,
+    "tags": [],
+    "enunciado": "Uma gestante de 9 semanas e 5 dias, datada pela última menstruação, procura atendimento por apresentar sangramento vaginal em pequena quantidade, há dois dias, associado à dor em região hipogástrica de intensidade moderada. Ao exame físico, sangue, em pequena quantidade, coletado em fundo de saco vaginal, sem sangramento ativo, dor intensa no toque vaginal, com colo impérvio. Abdome plano, (cid:100)ácido, dor à palpação de fossa ilíaca direita. Os sinais vitais são: PA: 100x60 mmHg, FC 80 bpm, stO₂ 98%. Tendo em vista esse caso clínico e os conhecimentos médicos correlatos, julgue o item a seguir. Caso a paciente tenha fator RH negativo, é necessário prescrever a imunoglobulina anti-RH.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Certo."
+      },
+      {
+        "letra": "B",
+        "texto": "Errado."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 9224,
+    "tags": [],
+    "enunciado": "Uma gestante I gesta com tipagem O Rh negativo e marido A positivo comparece no pré-natal. Baseando- se nesses exames, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não há com o que se preocupar, pois se o marido é A e o feto for A, não irá sensibilizar pois a gestante tem anti A como anticorpo natural que impede a sensibilização."
+      },
+      {
+        "letra": "B",
+        "texto": "Ocorrendo a sensibilização, a propedêutica passa a ser o controle do Doppler da artéria uterina e da artéria umbilical."
+      },
+      {
+        "letra": "C",
+        "texto": "Na 28ª semana, se a pesquisa de anticorpos irregulares (Coombs indireto) for de até 1 para 32, deverá receber imunoglobulina."
+      },
+      {
+        "letra": "D",
+        "texto": "Se apresentar sangramento na gestação, deverá receber imunoglobulina anti-Rh. 4000183988"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 9225,
+    "tags": [],
+    "enunciado": "Durante consulta pré-natal de uma gestante, observa-se a seguinte tipagem materna: A, RH negativo, DU negativo; e a seguinte paterna: O, Rh positivo. Foi realizado o teste de Coombs indireto, cujo resultado deu negativo. Nesse caso, o médico deve",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "prescrever imunoglobulina anti-D para a mãe apenas após o parto, se o recém-nascido for RH positivo."
+      },
+      {
+        "letra": "B",
+        "texto": "realizar teste de Coombs no recém-nascido e, se negativo, prescrever vacina anti-RH para a mãe."
+      },
+      {
+        "letra": "C",
+        "texto": "realizar amniocentese na 28ª semana de gestação para verificar a presença de isoimunização RH."
+      },
+      {
+        "letra": "D",
+        "texto": "prescrever imunoglobulina anti-D para a mãe na 28ª semana e após o parto, se o recém-nascido for RH positivo."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 9226,
+    "tags": [],
+    "enunciado": "Paciente no 3º trimestre de gestação, Rh-isoimunizada, realizou ultrassonogra(cid:65)a obstétrica com Doppler. Que parâmetro ultrassonográfico, dentre os abaixo, deve ser considerado para avaliar anemia fetal?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Relação sístole/diástole das artérias uterinas"
+      },
+      {
+        "letra": "B",
+        "texto": "Índice de pulsatilidade da artéria umbilical"
+      },
+      {
+        "letra": "C",
+        "texto": "Pico de velocidade sistólica da artéria cerebral média"
+      },
+      {
+        "letra": "D",
+        "texto": "Índice de resistência do ducto venoso"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 9227,
+    "tags": [],
+    "enunciado": "Leia o caso clínico. Gestante com 34 semanas e 4 dias, isoimunizada, apresenta doppler(cid:100)uxometria com PVS-ACM (Velocidade do Pico Sistólico da Artéria Cerebral Média) > que 1,5 múltiplo de mediana. Nessa situação, a conduta indicada é a realização de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "cordocentese e transfusão sanguínea fetal."
+      },
+      {
+        "letra": "B",
+        "texto": "corticoterapia e interrupção da gestação."
+      },
+      {
+        "letra": "C",
+        "texto": "interrupção imediata da gestação."
+      },
+      {
+        "letra": "D",
+        "texto": "realização de cardiotocografia fetal."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 9228,
+    "tags": [],
+    "enunciado": "Gestante aloimunizada (anticorpos anti-D, titulação 1/256), sem outras doenças, assintomática, apresenta medida do pico de velocidade sistólica da artéria cerebral média fetal de 63 cm/s, equivalente a 1,88 múltiplos da mediana (MoM), com 26 semanas. Sem sinais de hidropisia fetal ou outras alterações na avaliação ecográfica obstétrica. Qual a recomendação?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Repetir a avaliação em 2 semanas."
+      },
+      {
+        "letra": "B",
+        "texto": "Cardiotocografia computadorizada e, se alterada, cordocentese com preparo para transfusão sanguínea fetal."
+      },
+      {
+        "letra": "C",
+        "texto": "Realizar espectrofotometria do líquido amniótico e, se alterada, cordocentese com preparo para transfusão sanguínea fetal."
+      },
+      {
+        "letra": "D",
+        "texto": "Cordocentese com preparo para transfusão sanguínea fetal. 4000196442"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 9229,
+    "tags": [],
+    "enunciado": "Primigesta, 28 anos, procura início de pré-natal com idade gestacional de 9 semanas. Nos exames de rotina solicitados foi constatada tipagem sanguínea ABO/Rh: A negativo. Nos exames infecciosos foi constatada sorologia IgM e IgG positivos para citomegalovírus (CMV). Realizada avidez para IgG com resultado: 90% (valor de referência: baixa avidez até 40%). Considerando a tipagem sanguínea do parceiro:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Caso ele seja B Rh positivo: Pesquisa de anticorpos irregulares mensalmente."
+      },
+      {
+        "letra": "B",
+        "texto": "Caso ele seja O Rh negativo: acompanhar velocidade de artéria cerebral média mensalmente."
+      },
+      {
+        "letra": "C",
+        "texto": "Caso ele seja A Rh negativo: Pesquisa de anticorpos irregulares trimestralmente."
+      },
+      {
+        "letra": "D",
+        "texto": "Caso ele seja O Rh positivo: acompanhar velocidade de artéria cerebral média mensalmente."
+      },
+      {
+        "letra": "E",
+        "texto": "Caso ele seja AB Rh negativo: acompanhar índice de pulsatilidade de artéria cerebral média mensalmente. 4000191913"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 9230,
+    "tags": [],
+    "enunciado": "Gestante de 10 semanas, gesta 3 para 2, apresentando Coombs indireto 1⁄2. A MELHOR conduta nesse caso é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Realizar coombs indireto seriado."
+      },
+      {
+        "letra": "B",
+        "texto": "Cordocentese."
+      },
+      {
+        "letra": "C",
+        "texto": "Doppler de artéria cerebral média."
+      },
+      {
+        "letra": "D",
+        "texto": "Amniocentese. 4000191538"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 9231,
+    "tags": [],
+    "enunciado": "Em relação à DHPN (Doença Hemolítica Perinatal) assinale a alternativa incorreta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A incompatibilidade ABO é geralmente mais grave que a Rh."
+      },
+      {
+        "letra": "B",
+        "texto": "A hidropsia é mais frequente na incompatibilidade Rh em relação à ABO."
+      },
+      {
+        "letra": "C",
+        "texto": "A icterícia geralmente é mais grave na incompatibilidade Rh em relação à ABO."
+      },
+      {
+        "letra": "D",
+        "texto": "A anemia tardia é menos frequente na incompatibilidade ABO. 4000191176"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 9232,
+    "tags": [],
+    "enunciado": "Gestante Rh negativo cujo marido é Rh positivo. Considerando essa informação, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Administrar imunoglobulina anti-Rh, se tiver hemorragia no primeiro trimestre."
+      },
+      {
+        "letra": "B",
+        "texto": "Se existir incompatibilidade ABO, não é necessária a profilaxia durante a gestação."
+      },
+      {
+        "letra": "C",
+        "texto": "Administrar imunoglobulina anti-Rh, se o Coombs indireto for positivo."
+      },
+      {
+        "letra": "D",
+        "texto": "Durante a gestação, só se administra imunoglobulina se apresentar sangramento."
+      },
+      {
+        "letra": "E",
+        "texto": "Fazer profilaxia pós-parto somente se o teste de Kleihouer for positivo."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 9233,
+    "tags": [],
+    "enunciado": "A Doença Hemolítica Perinatal (DHPN), anteriormente chamada de Eritroblastose Fetal, caracteriza-se como afecção generalizada, acompanhada de destruição das hemácias, anemia e presença de suas formas jovens ou imaturas na circulação periférica fetal (eritroblastos). Em relação a doença hemolítica perinatal, assinale V para as afirmativas verdadeiras e F para as falsas. ( ) A sensibilidade por anticorpos atípicos é rara e geralmente relacionada a transfusão prévia. ( ) A complicação mais grave da isoimunização Rh é a hidropisia fetal. ( ) A resposta imune a exposição ao antígeno D costuma ser rápida, sendo detectável antes de 5 semanas ( ) A incompatibilidade ABO mais comum é: mãe com GS O e RN A ou B ( ) A cordocentese é o método propedêutico mais indicado para acompanhamento inicial da doença hemolítica perinatal Assinale a alternativa que apresenta a sequência CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "V V F F F."
+      },
+      {
+        "letra": "B",
+        "texto": "V F F V F."
+      },
+      {
+        "letra": "C",
+        "texto": "V V F V F."
+      },
+      {
+        "letra": "D",
+        "texto": "V V F V V. 4000189821"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 9234,
+    "tags": [],
+    "enunciado": "Gestante 27 anos, G3 P2 A0 (2 cesáreas), grupo sanguíneo A negativo é admitida em trabalho de parto com 37 semanas. Na admissão, o teste de Coombs indireto da paciente foi positivo com titulação de 1:4. Tipagem do recém-nascido A positivo. Paciente recebeu imunoglobulina anti-D com 28 semanas. No que se refere à profilaxia da aloimunização no pós-parto dessa paciente, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Está contraindicado imunoglobulina anti-D, pois a paciente já a realizou com 28 semanas de gravidez."
+      },
+      {
+        "letra": "B",
+        "texto": "Está contraindicado imunoglobulina anti-D, uma vez que o coombs indireto encontra-se positivo."
+      },
+      {
+        "letra": "C",
+        "texto": "Está indicada a realização da imunoglobulina anti-D, independente do resultado do coombs indireto."
+      },
+      {
+        "letra": "D",
+        "texto": "Está indicada a realização de imunoglobulina anti-D, desde que o coombs direto do recémnascido seja positivo."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 9235,
+    "tags": [],
+    "enunciado": "O uso da vitamina K profilática no recém-nascido reduz a incidência de que patologia?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "icterícia neonatal"
+      },
+      {
+        "letra": "B",
+        "texto": "doença hemorrágica do recém-nascido"
+      },
+      {
+        "letra": "C",
+        "texto": "fenilcetonúria"
+      },
+      {
+        "letra": "D",
+        "texto": "sepse neonatal 4000175488"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 9236,
+    "tags": [],
+    "enunciado": "Paciente II gesta I para interna em trabalho de parto. Na internação da maternidade, fez o exame de tipagem sanguínea que revelou que a gestante é AB negativo e o teste de Coombs Indireto foi positivo, embora no início do pré-natal fosse negativo. Frente a esse resultado, é correto que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ela está sensibilizada e não há o que ser feito."
+      },
+      {
+        "letra": "B",
+        "texto": "se a gestante recebeu imunoglobulina anti Rh na gestação, saber em que idade gestacional foi feito, pois pode ser devido a isso que o resultado está positivo."
+      },
+      {
+        "letra": "C",
+        "texto": "mesmo que a gestante tivesse recebido Imunoglobulina anti-Rh, o Coombs indireto não poderia ser positivo, e sim o Coombs direto."
+      },
+      {
+        "letra": "D",
+        "texto": "essa gestante não poderia receber imunoglobulina anti-Rh, pois ela era Rh negativo."
+      },
+      {
+        "letra": "E",
+        "texto": "sendo AB negativo, se o marido fosse O positivo, não haveria necessidade de imunoglobulina, pois existe incompatibilidade ABO."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 9237,
+    "tags": [],
+    "enunciado": "Tercigesta (02 partos cesarianas), 32 semanas de gestação, foi encaminhada ao Hospital Universitário Júlio Muller por apresentar um feto com hidropisia. Abandonou o pré-natal, pois (cid:65)cou com medo de se infectar com COVID-19. Cartão de pré-natal: tipagem sanguínea: A negativo, HIV – não reagente, HCV – não reagente, HbsAg – não reagente, VDRL – não reagente, Coombs Indireto 1:1024, hemoglobina: 11 g/dL, hematócrito: 29,0 %. Glicemia de jejum 88 mg/dL. Imune para toxoplasmose e rubéola. USG obstétrica com Doppler: Feto único, com biometria fetal estimada em 31 semanas (+/- 10 dias), peso fetal 1.705 g (percentil 11). Doppler das artérias umbilicais e cerebrais representados nos gráficos abaixo. Com base no caso e nas tabelas, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A hidropisia fetal foi ocasionada pela sífilis, e o tratamento de escolha é com penicilina benzatina."
+      },
+      {
+        "letra": "B",
+        "texto": "Trata-se de um feto grave, com centralização hemodinâmica fetal, e a interrupção deve ser imediata, com suporte de UTI neonatal."
+      },
+      {
+        "letra": "C",
+        "texto": "Deve-se aplicar a imunoglobulina anti-D para a mãe nas primeiras 24 horas pós parto, com intuito de diminuir a sensibilização Rh."
+      },
+      {
+        "letra": "D",
+        "texto": "Deve-se realizar transfusão intrauterina com acompanhamento rigoroso dos sinais de anemia fetal e interrupção da gestação entre 35 e 37 semanas. 4000169802"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 9238,
+    "tags": [],
+    "enunciado": "A introdução da imunoglobulina anti-D diminuiu a incidência de Doença Hemolítica Perinatal. Durante a assistência pré-natal, a administração desse medicamento em gestantes Rh negativo poderá ser realizada no seguinte caso:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Teste de Coombs indireto negativo em pacientes com gestação molar completa anterior."
+      },
+      {
+        "letra": "B",
+        "texto": "Teste de Coombs indireto positivo a partir da 12ª semana de gestação e repetir em torno da 32ª semana de gestação."
+      },
+      {
+        "letra": "C",
+        "texto": "Teste de Coombs indireto negativo após a ocorrência de sangramento por via vaginal em qualquer fase da gestação."
+      },
+      {
+        "letra": "D",
+        "texto": "Teste de Coombs indireto positivo mesmo se a paciente for submetida a laqueadura tubária, permitida nas leis brasileiras."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 9239,
+    "tags": [],
+    "enunciado": "Uma mulher de 24 anos, G1P0, com 27 semanas de gestação, tem bebê com tamanho fetal maior do que o previsto pela data. Uma ultrassonogra(cid:65)a fetal realizada revela hidropisia fetal. Os batimentos cardíacos fetais estão na faixa de 140 bpm. Os estudos Dopller da artéria cerebral média indicam (cid:100)uxo aumentado. Qual das alternativas a seguir é a etiologia mais provável?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Taquiarritmia cardíaca fetal."
+      },
+      {
+        "letra": "B",
+        "texto": "Púrpura trombocitopênica imune."
+      },
+      {
+        "letra": "C",
+        "texto": "Isoimunização Rh."
+      },
+      {
+        "letra": "D",
+        "texto": "RCIU"
+      },
+      {
+        "letra": "E",
+        "texto": "Diabetes gestacional. 4000169195"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 9240,
+    "tags": [],
+    "enunciado": "Primigesta, 28 anos, O Rh negativo, triagem de anticorpos: negativo, recebeu imunoglobulina anti-D 300 mcg com 28 semanas. Evoluiu para parto vaginal sem intercorrências com 37 semanas. Exames no puerpério: Tipagem sanguínea da mãe: O Rh negativo. Triagem de anticorpo: positivo. Tipagem sanguínea do recém-nascido: O Rh positivo. Qual a melhor conduta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Prescrever imunoglobulina anti-D."
+      },
+      {
+        "letra": "B",
+        "texto": "Considerar diagnóstico de isoimunização Rh."
+      },
+      {
+        "letra": "C",
+        "texto": "Solicitar a titulação de anticorpos."
+      },
+      {
+        "letra": "D",
+        "texto": "Encaminhar ao hematologista."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 9241,
+    "tags": [],
+    "enunciado": "A tipagem sanguínea materna e a pesquisa de anticorpos anti-eritrocitários irregulares são exames importantes para o rastreio da doença hemolítica perinatal (DHPN) durante o seguimento pré-natal. Quais antígenos eritrocitários do sistema RH estão mais associados com a DHPN grave?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A, B, O, D."
+      },
+      {
+        "letra": "B",
+        "texto": "M, N, D, C."
+      },
+      {
+        "letra": "C",
+        "texto": "D, C, C, E."
+      },
+      {
+        "letra": "D",
+        "texto": "D, C, E, KELL. 4000198775"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 9242,
+    "tags": [],
+    "enunciado": "Paciente em sua terceira gestação com tipagem sanguínea AB Rh negativa. Dentre os exames rotineiros de pré-natal, apresentou Coombs Indireto com 12 semanas positivo, titulação de 1:4. Pré-natalista não tomou nenhuma conduta especí(cid:65)ca em relação a esse achado. Com 28 semanas, repetiu exame com resultado novamente positivo e titulação de 1:32. Qual a conduta, dentre as abaixo, é a mais adequada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Monitorização com realização mensal do teste de Coombs Indireto."
+      },
+      {
+        "letra": "B",
+        "texto": "Realizar dopplervelocimetria da artéria cerebral média fetal."
+      },
+      {
+        "letra": "C",
+        "texto": "Interromper a gestação imediatamente."
+      },
+      {
+        "letra": "D",
+        "texto": "Realizar cordocentese. 4000198512"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 9243,
+    "tags": [],
+    "enunciado": "Se uma gestante é Rh negativo, e o seu companheiro é Rh positivo,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "deve ser pedido Coombs indireto na primeira consulta e se estiver normal, programar imunoglobulina anti-Rh pós-parto caso o RN for positivo."
+      },
+      {
+        "letra": "B",
+        "texto": "caso o Coombs indireto for negativo e apresentar sangramento no primeiro trimestre, a gestante deverá receber imunoglobulina anti-Rh."
+      },
+      {
+        "letra": "C",
+        "texto": "caso o Coombs indireto for positivo e apresentar sangramento no terceiro trimestre, a gestante deverá receber imunoglobulina anti-Rh."
+      },
+      {
+        "letra": "D",
+        "texto": "caso o Coombs indireto for positivo, acima de 1/16, a gestante deverá interromper a gestação."
+      },
+      {
+        "letra": "E",
+        "texto": "caso o RN for Rh positivo e não houver incompatibilidade ABO que destrua as hemácias com os anticorpos naturais, deverá receber imunoglobulina anti-Rh. 4000174171"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 9244,
+    "tags": [],
+    "enunciado": "Mulher, 33 anos, Rh negativa, vem á consulta de pré-natal com 28 semanas de gestação, trazendo teste de Coombs indireto de 1:32. G2P1A0. A gestação anterior apresentou evolução normal. No dia da consulta, foi realizada ultrassonogra(cid:65)a obstétrica com resultado normal e dopplervelocimetria do pico_______________da artéria cerebral média fetal (ACM) com resultado convertido em múltiplos da mediana (MOM) e corrigido para a idade gestacional de 1,29. A partir desses resultados, a conduta é _______________. As informações que completam corretamente as lacunas, na ordem em que se encontram, estão contidas na alternativa:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "sistólico - transfusão intrauterina imediata"
+      },
+      {
+        "letra": "B",
+        "texto": "diastólico - transfusão intrauterina imediata"
+      },
+      {
+        "letra": "C",
+        "texto": "sistólico - repetir doppler da ACM entre 7 e 14 dias"
+      },
+      {
+        "letra": "D",
+        "texto": "diastólico - repetir doppler da ACM entre 7 e 14 dias 4000172879"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 9245,
+    "tags": [],
+    "enunciado": "Puérpera, G4P4, com tipo sanguíneo A negativo, no 2º dia após parto cesáreo e laqueadura tubária. Fez seguimento em pré-natal sem intercorrências. Recebeu imunoglobulina anti-D na 28ª semana. Recém- nascido com tipo sanguíneo A positivo. Com relação à pro(cid:65)laxia da aloimunização Rh com imunoglobulina anti-D, marque a assertiva CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Deve ser administrada, se o resultado do Coombs indireto materno colhido antes do parto for negativo."
+      },
+      {
+        "letra": "B",
+        "texto": "Não deve ser administrada, pois já foi administrada com 28 semanas de gestação."
+      },
+      {
+        "letra": "C",
+        "texto": "Deve ser administrada imediatamente, já que o tipo sanguíneo do recém-nascido é positivo, se o Coombs indireto materno pós-parto for negativo."
+      },
+      {
+        "letra": "D",
+        "texto": "Não deve ser administrada, pois a paciente não terá mais filhos."
+      },
+      {
+        "letra": "E",
+        "texto": "Somente administrar se o Coombs indireto materno for positivo. 4000172648"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 9246,
+    "tags": [],
+    "enunciado": "Você atendeu na unidade de saúde uma mulher primigesta de 28 semanas, tipagem sanguínea B negativo e Coombs indireto negativo. Traz resultado de tipagem paterna A negativo. A indicação nesse caso será:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Encaminhar para a realização de imunoglobulina anti-Rh profilática."
+      },
+      {
+        "letra": "B",
+        "texto": "Orientar que a gestante não precisa realizar imunoglobulina profilática."
+      },
+      {
+        "letra": "C",
+        "texto": "Orientar que o bebê não precisará ter coleta de sangue de cordão pelo pai ser RH negativo."
+      },
+      {
+        "letra": "D",
+        "texto": "Encaminhar para pré-natal de alto risco imediatamente. 4000172368"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 9247,
+    "tags": [],
+    "enunciado": "A eritroblastose fetal é uma doença que requer o acompanhamento adequado para ver o nível de comprometimento fetal. O doppler tem papel importantíssimo em gestantes sensibilizadas. Qual parâmetro de onda de fluxo que reflete o quadro de anemia fetal:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "relação S/D."
+      },
+      {
+        "letra": "B",
+        "texto": "pico de Velocidade Sistólica."
+      },
+      {
+        "letra": "C",
+        "texto": "indice de Resistência."
+      },
+      {
+        "letra": "D",
+        "texto": "indice de Pulsatilidade. 4000171510"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 9248,
+    "tags": [],
+    "enunciado": "Qual o método diagnóstico mais sensível para a doença hemolítica perinatal:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Coombs indireto."
+      },
+      {
+        "letra": "B",
+        "texto": "Ultrassonografia obstétrica."
+      },
+      {
+        "letra": "C",
+        "texto": "Dopplerfluxometria."
+      },
+      {
+        "letra": "D",
+        "texto": "Espectrofotometria de fluxo. 4000171341"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 9249,
+    "tags": [],
+    "enunciado": "Em relação à doença hemolítica perinatal, analisar os itens abaixo: I. Entende-se por doença hemolítica perinatal a anemia hemolítica fetal causada pela presença de incompatibilidade sanguínea maternofetal, caracterizada pela síntese de antígeno, por parte da gestante, contra anticorpos específico da hemácia do feto. II. O teste de Coombs indireto é utilizado para avaliar a presença de anticorpos do feto. III. A hidropisia não é observada até que a hemoglobina fetal tenha um dé(cid:65)cit de, pelo menos, 7g/dL (abaixo da hemoglobina média para a idade gestacional). Está(ão) CORRETO(S):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente o item I."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente o item II."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente o item III."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente os itens I e III."
+      },
+      {
+        "letra": "E",
+        "texto": "Todos os itens. 4000171220"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 9250,
+    "tags": [],
+    "enunciado": "Uma mulher de 29 anos de idade procura a maternidade com queixa de sangramento vaginal tipo \"borra de café\". Estava na 32ª semana de gestação, tônus uterino, movimentação e batimentos cardíacos fetais normais. No toque não foi observado sangramento. Gesta 3; para 3. Exames laboratoriais normais. Tipo sanguíneo O negativo e do marido A positivo. Não apresentou cartão pré-natal e não tinha nenhum exame em sua posse. Diante da situação apresentada, a conduta a ser adotada é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "solicitar a dosagem de anticorpos irregulares e, caso negativa, aplicar a imunoglobulina anti-D."
+      },
+      {
+        "letra": "B",
+        "texto": "aplicar a imunoglobulina anti-D e acompanhar com exames semanais a elevação dos anticorpos irregulares."
+      },
+      {
+        "letra": "C",
+        "texto": "realizar a imunização com imunoglobulina anti-D e encaminhar para o pré-natal para dosar os anticorpos irregulares."
+      },
+      {
+        "letra": "D",
+        "texto": "aplicar a imunoglobulina anti-D semanalmente até completar 34 semanas, caso os anticorpos irregulares sejam positivos."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 9251,
+    "tags": [],
+    "enunciado": "Primigesta, 30 semanas, prénatal sem intercorrências, apresenta sangramento vaginal vermelho vivo em moderada quantidade, indolor. Refere que esse é o primeiro episódio de sangramento na gestação. Ao exame: PA 110/70 mmHg, AU 29 cm, BCF 140 bpm, DU ausente, MF presente, tônus uterino normal. Exame especular: moderada quantidade de sangue vermelho vivo coletado em fundo de saco, sem sangramento ativo no momento. Não realizado exame de toque. Solicitado ultrassonogra(cid:65)a que evidenciou placenta recobrindo todo o orifício interno do colo uterino. Observado nas anotações do cartão de pré-natal que a gestante é O RhD negativo, tendo recebido imunoglobulina anti-D com 28 semanas de gestação. Diante disso, qual é a conduta mais adequada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fazer imunoglobulina anti-D para evitar aloimunização materna devido ao sangramento causado pela placenta prévia, uma vez que a gestante é Rh negativo."
+      },
+      {
+        "letra": "B",
+        "texto": "Solicitar coombs indireto. Se esse vier positivo, significa que a gestante já foi aloimunizada e deve fazer dopplervelocimetria da artéria cerebral média para avaliar anemia fetal."
+      },
+      {
+        "letra": "C",
+        "texto": "Solicitar coombs indireto. Se esse vier negativo, a gestante precisa receber imunoglobulina anti-D."
+      },
+      {
+        "letra": "D",
+        "texto": "Solicitar coombs indireto. Se esse vier positivo, a gestante precisa receber imunoglobulina anti-D."
+      },
+      {
+        "letra": "E",
+        "texto": "Como a gestante recebeu imunoglobulina anti-D com 28 semanas, não há necessidade de solicitar coombs indireto e nem fazer imunoglobulina anti-D nesse momento."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 9252,
+    "tags": [],
+    "enunciado": "Assinale a alternativa que tem orientação do uso de imunoglobulina anti-D na profilaxia da aloimunização.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Mulher Rh negativo, com teste de Coombs indireto negativo."
+      },
+      {
+        "letra": "B",
+        "texto": "Mulher Rh negativo, com teste de Coombs indireto positivo."
+      },
+      {
+        "letra": "C",
+        "texto": "Mulher Rh positivo, com teste de Coombs indireto negativo."
+      },
+      {
+        "letra": "D",
+        "texto": "Mulher Rh positivo, com teste de Coombs indireto positivo."
+      },
+      {
+        "letra": "E",
+        "texto": "Parceiro Rh negativo ou com tipagem indeterminada."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 9253,
+    "tags": [],
+    "enunciado": "Algumas características do líquido amniótico podem expressar comprometimento fetal. Em gestações complicadas por doença hemolítica perinatal, o líquido amniótico pode se expressar tomando a característica",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "esverdeado."
+      },
+      {
+        "letra": "B",
+        "texto": "achocolatado."
+      },
+      {
+        "letra": "C",
+        "texto": "amarelo citrino."
+      },
+      {
+        "letra": "D",
+        "texto": "com sangue vermelho vivo. 4000146118"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 9254,
+    "tags": [],
+    "enunciado": "Algumas características do líquido amniótico podem expressar comprometimento fetal. Em gestações complicadas por doença hemolítica perinatal, o líquido amniótico pode se expressar tomando a característica",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "esverdeado"
+      },
+      {
+        "letra": "B",
+        "texto": "achocolatado"
+      },
+      {
+        "letra": "C",
+        "texto": "amarelo citrino."
+      },
+      {
+        "letra": "D",
+        "texto": "com sangue vermelho vivo."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 9255,
+    "tags": [],
+    "enunciado": "Observe a tabela abaixo: A Profilaxia deve ser empregada nos casos:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "X e Y, apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "W e Z, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "X e W, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "Y e Z, apenas. 4000144636"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 9256,
+    "tags": [],
+    "enunciado": "A doença hemolítica perinatal (DHPN) é caracterizada pela ação de anticorpos maternos contra antígenos de grupo sanguíneo, de origem paterna, presentes nas células fetais ou do recém-nascido (RN). Apenas anticorpos da classe:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "lgA são capazes de atravessar a placenta."
+      },
+      {
+        "letra": "B",
+        "texto": "lgD são capazes de atravessar a placenta."
+      },
+      {
+        "letra": "C",
+        "texto": "lgE são capazes de atravessar a placenta."
+      },
+      {
+        "letra": "D",
+        "texto": "lgG são capazes de atravessar a placenta. 4000144635"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 9257,
+    "tags": [],
+    "enunciado": "É de suma importância atentar durante o pré-natal sobre o correto manejo com uso de medicações e procedimentos que porventura possibilitem prevenção das complicações obstétricas e/ou fetais. Assinale alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os inibidores da enzima de conversão da Angiotensina e os antagonistas dos receptores da Angiotensina II são contraindicados na gravidez devido à sua associação com restrição do crescimento fetal, oligohidrâmnio, insuficiência renal neonatal e morte neonatal."
+      },
+      {
+        "letra": "B",
+        "texto": "Em gestantes com insuficiência istmo cervical, com história de duas ou mais perdas no 2º trimestre, sem sangramento, com dilatação cervical e sem dor, recomenda-se a cerclagem eletiva, que deve ser realizada entre 12–14 semanas da gravidez, após a ultrassonografia mostrar feto vivo e sem anomalias."
+      },
+      {
+        "letra": "C",
+        "texto": "Em gestantes Rh-negativo e coombs indireto negativo sempre deve ser feita a prescrição de imunoglobulina anti-D quando ela apresentar sangramento em qualquer período gestacional a fim de evitar isoimunização ABO - RH."
+      },
+      {
+        "letra": "D",
+        "texto": "Nem toda gestante que for submetida a uma ultrassonografia obstétrica entre 20 e 24 semanas deve ter uma avaliação do comprimento cervical por via transvaginal visto que os estudos atuais mostram não haver correlação desta medida com risco de parto pré termo. 4000143805"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 9258,
+    "tags": [],
+    "enunciado": "Paciente de 25 anos, GIIP0AI (gestação anembrionada), encontra-se na 11ª semana de gestação, tendo recebido resultado de tipagem sanguínea B, Rh negativo, Coombs indireto 1/4, às custas de anti D. A avaliação adicional identificou parceiro Rh positivo. Diante desse quadro, a conduta a ser adotada é realizar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "dopplerfluxometria de artéria cerebral média"
+      },
+      {
+        "letra": "B",
+        "texto": "espectofotometria de líquido amniótico"
+      },
+      {
+        "letra": "C",
+        "texto": "imunoglobulina anti D na 28ª semana"
+      },
+      {
+        "letra": "D",
+        "texto": "dosagem seriada de Coombs indireto"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 9259,
+    "tags": [],
+    "enunciado": "A imunoglobulina anti-RH está indicada em qual situação?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Puérpera Rh negativa, Coombs indireto negativo e RN Rh negativo."
+      },
+      {
+        "letra": "B",
+        "texto": "Puérpera Rh negativa, Coombs indireto positivo e RN RH negativo."
+      },
+      {
+        "letra": "C",
+        "texto": "Puérpera Rh negativa, Coombs indireto negativo e RN Rh positivo."
+      },
+      {
+        "letra": "D",
+        "texto": "Puérpera Rh negativa, Coombs indireto positivo e RN .Rh positivo."
+      },
+      {
+        "letra": "E",
+        "texto": "Gestante Rh negativa submetida à hemotransfusão de sangue Rh negativo. 4000143147"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 9260,
+    "tags": [],
+    "enunciado": "Puérpera de 37 anos, G3 P3 C0 A0, primeiro dia pós-parto normal, sem intercorrências. Durante a visita, ela lhe questiona se não vai tomar a “vacina” em virtude do seu tipo de sangue, pois nos dois partos prévios ela tomou a tal “medicação”. Os exames de pré-natal e da internação disponíveis foram: Tipagem sanguínea ABO: “B”; Fator Rh: negativo; Coombs indireto: negativo. Recém-nascido: Tipagem sanguínea ABO: “O”; Fator Rh: negativo; Coombs direto: negativo. Sua resposta para essa puérpera foi:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sim, você vai receber uma dose da imunoglobulina anti-D em virtude da incompatibilidade Rh do seu sangue e do seu filho."
+      },
+      {
+        "letra": "B",
+        "texto": "Não, você não vai receber uma dose da Imunoglobulina anti-D porque já é isoimunizada."
+      },
+      {
+        "letra": "C",
+        "texto": "Sim, você vai receber uma dose da Imunoglobulina anti-D porque já é isoimunizada."
+      },
+      {
+        "letra": "D",
+        "texto": "Não, você não precisa receber uma dose da imunoglobulina anti-D, porque não existe incompatibilidade Rh."
+      },
+      {
+        "letra": "E",
+        "texto": "Não, você não precisa receber uma dose da imunoglobulina anti-D, porque não existe incompatibilidade ABO."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 9261,
+    "tags": [],
+    "enunciado": "Paciente gestante com 16 semanas de idade gestacional, G1P0A0, chega em seu primeiro retorno ao Pré- Natal mostrando exame de tipagem sanguínea com sangue A Rh Neg e variante DU positivo. Nesse caso, como rotina de acompanhamento, a conduta indicada é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Teste de Coombs indireto semanal e aplicar Imunoglobulina Anti-Rh com 28 semanas."
+      },
+      {
+        "letra": "B",
+        "texto": "Teste de Coombs indireto e imunoglobulina não necessários."
+      },
+      {
+        "letra": "C",
+        "texto": "Teste de Coombs indireto mensal e aplicar Imunoglobulina Anti-Rh com 28 semanas."
+      },
+      {
+        "letra": "D",
+        "texto": "Teste de Coombs indireto mensal, aplicação de Imunoglobulina Anti-Rh não é necessária."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 9262,
+    "tags": [],
+    "enunciado": "Primigesta, 26 semanas, Rh negativo, com diagnóstico de placenta prévia, foi a maternidade com sangramento vaginal abundante. Informa que o marido é Rh positivo homozigoto. Qual o acompanhamento da gestante:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Solicitar coombs indireto e, se positivo, administrar imunoglobulina."
+      },
+      {
+        "letra": "B",
+        "texto": "Administrar imunoglobulina na 28a semana e no pós parto."
+      },
+      {
+        "letra": "C",
+        "texto": "Administrar imunoglobulina no momento do sangramento a na 28 a semana."
+      },
+      {
+        "letra": "D",
+        "texto": "Administrar imunoglobulina anti D e repetir a cada 12 semanas até o parto."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 9263,
+    "tags": [],
+    "enunciado": "Qual é o teste que identifica a presença e o volume de eritrócitos fetais no sangue materno?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Relação lecitina/esfingomielina."
+      },
+      {
+        "letra": "B",
+        "texto": "Coombs direto ou indireto."
+      },
+      {
+        "letra": "C",
+        "texto": "Kleihauer-Betke."
+      },
+      {
+        "letra": "D",
+        "texto": "Clements."
+      },
+      {
+        "letra": "E",
+        "texto": "Azul de nilo a 0,1%."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 9264,
+    "tags": [],
+    "enunciado": "A amniocentese é um método de diagnóstico pré-natal que consiste na aspiração transabdominal de uma pequena quantidade de (cid:100)uido amniótico da bolsa amniótica que envolve o feto. Pode ser usada para acompanhar a anemia fetal. Os critérios para de(cid:65)nição da anemia fetal foram determinados pelo estudo espectrofotométrico do líquido amniótico (denominado curva de Liley). De acordo com o enunciado, é CORRETO afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Na zona 1, o feto é levemente afetado."
+      },
+      {
+        "letra": "B",
+        "texto": "Na zona 2, o feto não é afetado ou apenas levemente afetado."
+      },
+      {
+        "letra": "C",
+        "texto": "A curva de Liley possui quatro zonas prognósticas."
+      },
+      {
+        "letra": "D",
+        "texto": "Na zona 1, o feto provavelmente está anêmico."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 9265,
+    "tags": [],
+    "enunciado": "Mulher, 33a, G3P2A1, em alojamento conjunto com 24h de puerpério, tipo sanguíneo A e Rh negativo, com Coombs indireto positivo anti-D (coletados na admissão hospitalar para o parto). Recém-nascido (RN): tipo sanguíneo O e Rh positivo. Antecedente pessoal: Imunoglobulina anti-Rh após o primeiro parto, após o aborto e às 28 semanas desta gestação.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "CONDUTA É:"
+      },
+      {
+        "letra": "A",
+        "texto": "Contra indicar nova gestação, pois paciente isoimunizada."
+      },
+      {
+        "letra": "B",
+        "texto": "Solicitar Coombs direto para orientar uso de Imunoglobulina anti-Rh."
+      },
+      {
+        "letra": "C",
+        "texto": "Imunoglobulina anti-Rh não indicada por Coombs indireto positivo."
+      },
+      {
+        "letra": "D",
+        "texto": "Prescrever Imunoglobulina anti-Rh, por RN Rh positivo."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 9266,
+    "tags": [],
+    "enunciado": "Paciente de 33 anos, G4P2A1, com 31 semanas de gestação, apresenta Coombs indireto em titulação 1/32 (anti-D). Trata-se de uma paciente com tipo sanguíneo O negativo. Foi solicitado o Doppler de artéria cerebral média, que evidenciou velocidade máxima de 1,65 múltiplos da mediana. A conduta subsequente deverá ser:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Imunoglobulina anti Rh-D"
+      },
+      {
+        "letra": "B",
+        "texto": "Espectrofotometria do líquido amniótico"
+      },
+      {
+        "letra": "C",
+        "texto": "Cordocentese"
+      },
+      {
+        "letra": "D",
+        "texto": "Acompanhar e repetir o Doppler de artéria cerebral"
+      },
+      {
+        "letra": "E",
+        "texto": "Corticoterapia e antecipação do parto"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 9267,
+    "tags": [],
+    "enunciado": "Na enfermaria de uma maternidade, encontram-se internadas quatro puérperas. Todas tiveram partos vaginais sem intercorrências. Paciente 1: 22 anos, G2P2A0, classi(cid:65)cação sanguínea da mãe foi A positivo; classi(cid:65)cação sanguínea do recém-nascido foi O negativo. Paciente 2: 30 anos, G1P1A0, classi(cid:65)cação sanguínea da mãe foi O negativo; classi(cid:65)cação sanguínea do recém-nascido foi O negativo. Paciente 3: 27 anos, G1P1A0, classi(cid:65)cação sanguínea da mãe foi O negativo; classi(cid:65)cação sanguínea do recém-nascido foi A positivo. Paciente 4: 20 anos, G2P2A0, classi(cid:65)cação sanguínea da mãe foi A positivo; classi(cid:65)cação sanguínea do recém nascido foi A positivo. Deve ser prescrita imunoglobulina anti-Rh, antes da alta hospitalar, apenas para",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a paciente 1."
+      },
+      {
+        "letra": "B",
+        "texto": "a paciente 3."
+      },
+      {
+        "letra": "C",
+        "texto": "as pacientes 1 e 4."
+      },
+      {
+        "letra": "D",
+        "texto": "as pacientes 2 e 3."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 9268,
+    "tags": [],
+    "enunciado": "No primeiro retorno de consulta pré-natal, sua paciente, primigesta com 12 semanas de gestação, sem intercorrências até o momento, traz os resultados dos exames. Um deles mostra que ela é Rh negativo. Foi solicitado também teste de Coombs Indireto, cujo resultado foi negativo. A conduta adequada para esta paciente é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Realizar dopplervelocimetria quinzenalmente para detecção precoce de anemia fetal"
+      },
+      {
+        "letra": "B",
+        "texto": "Após o nascimento do concepto, se o teste de Coombs Indireto for positivo, administrar imunoglobulina anti-D em até 72 horas após o parto"
+      },
+      {
+        "letra": "C",
+        "texto": "Repetir o teste de Coombs Indireto na 28ª semana de gestação e, se continuar negativo, fazer profilaxia antenatal com a imunoglobulina anti-D"
+      },
+      {
+        "letra": "D",
+        "texto": "Realizar exame ultrassonográfico mensal para verificar se existe a presença de hidrópsia fetal"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 9269,
+    "tags": [],
+    "enunciado": "A imunoglobulina anti-Rh está indicada para puérpera no caso de ser ela Rh:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "negativa com Coombs indireto negativo e recém-nascido Rh positivo."
+      },
+      {
+        "letra": "B",
+        "texto": "positiva com Coombs indireto positivo e recém-nascido Rh negativo."
+      },
+      {
+        "letra": "C",
+        "texto": "positiva com Coombs indireto negativo e recém-nascido Rh negativo."
+      },
+      {
+        "letra": "D",
+        "texto": "positiva com Coombs indireto negativo e recém-nascido Rh positivo."
+      },
+      {
+        "letra": "E",
+        "texto": "negativa com Coombs indireto negativo e recém-nascido Rh negativo."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 9270,
+    "tags": [],
+    "enunciado": "Frente aos desa(cid:65)os da Doença Hemolítica perinatal ou Isoimunizacão materna pelo fator Rh, as principais di(cid:65)culdades englobam o seguimento e diagnóstico do comprometimento fetal. Dentre os achados abaixo, qual se associa fortemente à anemia fetal grave:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Dopplerfluxometria da artéria cerebral média alterada, com decréscimo significativo da velocidade sistólica."
+      },
+      {
+        "letra": "B",
+        "texto": "Hidropsia fetal."
+      },
+      {
+        "letra": "C",
+        "texto": "Restrição de crescimento intrauterino fetal."
+      },
+      {
+        "letra": "D",
+        "texto": "Insuficiência tricúspide cardíaca fetal."
+      },
+      {
+        "letra": "E",
+        "texto": "Defeitos estruturais cardíacos."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 9271,
+    "tags": [],
+    "enunciado": "Assinale a alternativa correta quanto à doença hemolítica perinatal (DHPN).",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As gestantes aloimunizadas, com teste de Coombs Indireto (pesquisa de anticorposantieritrocitários) positivo com titulação superior ou igual a 1:8, devem realizar amniocenteses seriadas e análises espectrofotométricas do líquido amniótico, para o diagnóstico e acompanhamento de anemia fetal."
+      },
+      {
+        "letra": "B",
+        "texto": "A condição para a aplicação da imunoglobulina anti-D na profilaxia da aloimunizaçãoRhD na gravidez é que a gestante seja Rh negativa, possua teste de Coombs Indireto (pesquisa de anticorpos antieritrocitários) positivo e o marido seja Rh positivo ou tenha tipagem indeterminada."
+      },
+      {
+        "letra": "C",
+        "texto": "A medida do pico de velocidade sistólica (PVS) da artéria cerebral média (ACM) do fetopela dopplerfluxometria é um método não invasivo, seguro e eficaz no diagnóstico e acompanhamento da anemia fetal de gestantes sensibilizadas."
+      },
+      {
+        "letra": "D",
+        "texto": "A velocidade máxima do ducto venoso (DV) na dopplerfluxometria, por apresentarcorrelação direta com níveis de hematócrito e hemoglobina, é utilizada como parâmetro não invasivo para predizer anemia fetal em gestantes aloimunizadas."
+      },
+      {
+        "letra": "E",
+        "texto": "Os fetos anêmicos de gestantes sensibilizadas apresentam diminuição do débitocardíaco e estado hipodinâmico na dopplerfluxometria evidenciado pela diminuição nas velocidades de fluxo em alguns vasos como artéria esplênica (AE) e artéria cerebral média (ACM)."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 9272,
+    "tags": [],
+    "enunciado": "Na assistência a uma mulher Rh negativo, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "no pré-natal ela deverá receber imunoglobulina anti-Rh no primeiro trimestre e com 28 semanas."
+      },
+      {
+        "letra": "B",
+        "texto": "a pesquisa de eventual sensibilização deve ser feita com dopplervelocimetria da artéria cerebral média."
+      },
+      {
+        "letra": "C",
+        "texto": "se existir incompatibilidade ABO, a presença dos anti- corpos naturais na gestante irá protegê-la da sensibilização pela eventual passagem de hemácias Rh positivas do feto."
+      },
+      {
+        "letra": "D",
+        "texto": "no pós-parto, a administração de imunoglobulina anti-Rh somente deverá ser feita nos casos de recém-nascidos que sejam Rh positivo e que apre- sentem o teste de Coombs direto negativo."
+      },
+      {
+        "letra": "E",
+        "texto": "se ela já teve recém-nascido Rh negativo em gestação anterior, do mesmo casamento, não existe necessidade de nenhuma investigação nas demais gestações."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 9273,
+    "tags": [],
+    "enunciado": "Em gestações complicadas por isoimunização Rh, a conduta ativa está indicada quando os títulos de coombs indireto estiverem acima de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1/2"
+      },
+      {
+        "letra": "B",
+        "texto": "1/4"
+      },
+      {
+        "letra": "C",
+        "texto": "1/8"
+      },
+      {
+        "letra": "D",
+        "texto": "1/16"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 9274,
+    "tags": [],
+    "enunciado": "Primigesta, com idade gestacional de 9 semanas, com tipagem sanguínea O negativo, inicia pré-natal na UBS de seu bairro. Nessa situação, o médico que a acompanha deve questionar a tipagem do marido e:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Caso ele seja negativo, solicitar teste e coombs direto mensalmente."
+      },
+      {
+        "letra": "B",
+        "texto": "Caso ele seja negativo, solicitar teste e coombs indireto mensalmente."
+      },
+      {
+        "letra": "C",
+        "texto": "Caso ele seja positivo, solicitar teste e coombs indireto mensalmente."
+      },
+      {
+        "letra": "D",
+        "texto": "Caso ele seja positivo, solicitar teste e coombs direto mensalmente."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 9275,
+    "tags": [],
+    "enunciado": "Assinale a alternativa correta com relação ao seguimento e à conduta frente à gestante com Rh negativo.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Todas gestantes devem receber imunoglobulina anti-Rh com 28 semanas."
+      },
+      {
+        "letra": "B",
+        "texto": "O seguimento deve ser mensal com teste de Coombs e, nos casos em que o título for igual ou superior a 1/16, deverão pesquisar anemia fetal com doppler da artéria cerebral média."
+      },
+      {
+        "letra": "C",
+        "texto": "Nos casos em que ocorrer sangramento ou procedimentos invasivos tipo amniocentese genética, a gestante deverá, ao fazer Coombs indireto e se persistir negativo, aguardar as 28 semanas para profilaxia."
+      },
+      {
+        "letra": "D",
+        "texto": "No pós-parto, a profilaxia se indica nos casos de RN com Rh positivo e Coombs indireto negativo, ou no caso de RN com Rh negativo."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 9276,
+    "tags": [],
+    "enunciado": "G5 P2 A2, 26ª semana de gestação, gestante, Rh negativo, sensibilizada com título de anticorpos irregulares de 1/512. Ao exame ultrassonográfico, evidencia-se hidropsia fetal. Qual a conduta mais adequada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Internação e resolução por cesária."
+      },
+      {
+        "letra": "B",
+        "texto": "Amniocentese para realização do teste Kleihauer-Betke."
+      },
+      {
+        "letra": "C",
+        "texto": "Repouso e repetição da pesquisa de anticorpos em sete dias."
+      },
+      {
+        "letra": "D",
+        "texto": "Cordocentese para averiguar Hb fetal e transfusão intra-uterina."
+      },
+      {
+        "letra": "E",
+        "texto": "Aguardar o parto e realizar exanguineotransfusão no RN."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 9277,
+    "tags": [],
+    "enunciado": "A doença Hemolítica Perinatal (DHPN) é provocada por alo ou isoimunização a vários antígenos eritrocitários fetais. É CORRETO afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As hemácias fetais atingem a circulação da gestante, apenas, no momento do parto."
+      },
+      {
+        "letra": "B",
+        "texto": "A igm anti-rh materna atravessa a barreira placentária e destrói as hemácias fetais, criando a dhpn."
+      },
+      {
+        "letra": "C",
+        "texto": "No feto anêmico com mais de 34 semanas de gestação, devemos indicar a transfusão intrauterina por cordocentese."
+      },
+      {
+        "letra": "D",
+        "texto": "Coombs direto positivo 24 horas, após uso de imunoglobulina anti-rh, indica que houve sensibilização por ocasião do parto."
+      },
+      {
+        "letra": "E",
+        "texto": "A anemia fetal pode ser observada pela ultrassonografia ao detectarmos uma placenta com calcificações."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 9278,
+    "tags": [],
+    "enunciado": "No diagnóstico de aloimunização Rh, a amninocentese com espectofotometria do líquido amniótico foi substituída pelo seguinte parâmetro:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Velocidade sistólica máxima da artéria cerebral média."
+      },
+      {
+        "letra": "B",
+        "texto": "Índice de pulsatilidade da aorta."
+      },
+      {
+        "letra": "C",
+        "texto": "Relação A/B do ducto venoso."
+      },
+      {
+        "letra": "D",
+        "texto": "Índice de resistência da artéria umbilical."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 9279,
+    "tags": [],
+    "enunciado": "A detecção de Coombs indireto positivo em gestante Rh positivo, pode indicar",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "sensibilização ABO."
+      },
+      {
+        "letra": "B",
+        "texto": "sensibilização pelo C ou pelo E do sistema Rh."
+      },
+      {
+        "letra": "C",
+        "texto": "ausência de sensibilização."
+      },
+      {
+        "letra": "D",
+        "texto": "ausência de sensibilização e obrigatoriedade da administração de imunoglobulina anti-D."
+      },
+      {
+        "letra": "E",
+        "texto": "sensibilização causada pelo teste de Coombs."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 9280,
+    "tags": [],
+    "enunciado": "Gestante de 23 anos, primigesta, Ig: 9 semanas, realizou os primeiros exames laboratoriais do pré-natal sem anormalidades. Sua tipagem sanguínea é A negativo. Sobre a doença hemolítica perinatal podemos afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Se parceiro Rh positivo, devemos realizar imunoglobulina anti- D nas seguintes situações: procedimentos invasivos, gestação molar, gestação ectópica, abortamento."
+      },
+      {
+        "letra": "B",
+        "texto": "Ocorre quando a mãe é Rh positivo e o feto Rh negativo."
+      },
+      {
+        "letra": "C",
+        "texto": "Devemos realizar a imunoglobulina anti-D para todas as pacientes no pós-parto, de preferência nas primeiras 72 horas."
+      },
+      {
+        "letra": "D",
+        "texto": "Não há necessidade de vigilância fetal durante o pré-natal, já que as complicações ocorrem somente após o nascimento."
+      },
+      {
+        "letra": "E",
+        "texto": "Não devemos, para essa paciente, nos preocuparmos com doença hemolítica peri-natal, visto que só teremos informações possíveis para detecção da doença a partir da 24ª semana."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 9281,
+    "tags": [],
+    "enunciado": "A doença hemolítica perinatal é importante causa de mortalidade fetal e neonatal e a principal causa é incompatibilidade do grupo sanguíneo Rh-antígeno D. São situações clínicas onde indicamos a pro(cid:65)laxia anti Rh:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Puérpera com tipagem sanguínea A negativa, parceiro desconhecido e recém-nascido com tipagem sanguínea B negativa."
+      },
+      {
+        "letra": "B",
+        "texto": "Esvaziamento uterino por AMIU em gestante com tipagem sanguínea B positivo e parceiro com tipagem sanguínea A negativo."
+      },
+      {
+        "letra": "C",
+        "texto": "Abortamento em gestante com tipagem sanguínea A negativa e parceiro não identificado."
+      },
+      {
+        "letra": "D",
+        "texto": "Puérpera com tipagem sanguínea O negativa e Coombs indireto positivo, parceiro A positivo e recém-nascido com tipagem sanguínea A positiva."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 9282,
+    "tags": [],
+    "enunciado": "Paciente gestante Rh negativa, GIV PNII AI, IG de 24 semanas, apresentou teste de coombs indireto positivo 1:32. Esposo apresenta Rh positivo. A paciente não se lembra de ter feito pro(cid:65)laxia nas outras gestações e refere gestações anteriores sem intercorrências. A conduta mais apropriada nessa gestação é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "repetir o coombs no último trimestre."
+      },
+      {
+        "letra": "B",
+        "texto": "tranquilizar a paciente e orientar que pode ser um falso positivo devido a gestações anteriores."
+      },
+      {
+        "letra": "C",
+        "texto": "realizar a imunoglobulina anti Rh e indicar cordocentese para transfusão fetal."
+      },
+      {
+        "letra": "D",
+        "texto": "iniciar o rastreio com o doppler da artéria cerebral média e considerar valor alterado se VS max> 1,5 MoM."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 9283,
+    "tags": [],
+    "enunciado": "Dentre os procedimentos a seguir, qual a técnica não invasiva mais indicada para predição do grau de anemia fetal?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Gráfico de Liley."
+      },
+      {
+        "letra": "B",
+        "texto": "Coombs indireto."
+      },
+      {
+        "letra": "C",
+        "texto": "Pico sistólico da velocidade da artéria cerebral média."
+      },
+      {
+        "letra": "D",
+        "texto": "Perfil biofísico fetal."
+      },
+      {
+        "letra": "E",
+        "texto": "Medida do tecido celular subcutâneo e grau de ascite."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 9284,
+    "tags": [],
+    "enunciado": "Situação que representa mínimo risco de Isoimunização materno fetal:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "rotura prematura de membranas."
+      },
+      {
+        "letra": "B",
+        "texto": "gravidez ectópica rota."
+      },
+      {
+        "letra": "C",
+        "texto": "remoção manual de placenta no parto."
+      },
+      {
+        "letra": "D",
+        "texto": "placenta prévia centro-total."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 9285,
+    "tags": [],
+    "enunciado": "Antigamente conhecida como Doença de Rhesus, ou Eritroblastose fetal, hoje mais comumente denominada de Doença Hemolítica Perinatal, ocorre quando os anticorpos maternos atravessam a barreira placentária e ligam-se a antígenos presentes nas células sanguíneas fetais, causando hemólise prematura dessas células. Considerando a gravidade da doença e a necessidade de intervenção analise as alternativas abaixo e assinale a INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "no caso de morte intrauterina, se o feto era Rh positivo, independentemente da idade gestacional, a administração da imunoglobulina anti-D deve ser feita imediatamente após o parto."
+      },
+      {
+        "letra": "B",
+        "texto": "somente os anticorpos IgG são capazes de provocar a Doença hemolítica perinatal (DHPH), pois eles atravessam a placenta."
+      },
+      {
+        "letra": "C",
+        "texto": "mulheres RhD negativas, em primeira gestação, ao gerarem conceptos RhD positivos, podem desenvolver a DHPH já nessa gestação."
+      },
+      {
+        "letra": "D",
+        "texto": "a sensibilização materna está envolvida no processo de desenvolvimento da DHPN pelos números de abortos e gestações anteriores, além de transfusões prévias e permeabilidade placentária."
+      },
+      {
+        "letra": "E",
+        "texto": "a imunoglobulina anti-D promove proteção de 98 a 99% quando administrada nas 72 horas seguintes do parto."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 9286,
+    "tags": [],
+    "enunciado": "O exame ultrassonográ(cid:65)co que substitui a amniocentese na avaliação de fetos comprometidos por isoimunização Rh durante a gravidez é o doppler:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "de artérias uterinas."
+      },
+      {
+        "letra": "B",
+        "texto": "de artéria umbilical."
+      },
+      {
+        "letra": "C",
+        "texto": "de velocidade sistólica máxima de artéria cerebral média."
+      },
+      {
+        "letra": "D",
+        "texto": "de Ducto venoso fetal."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 9287,
+    "tags": [],
+    "enunciado": "Situação que representa mínimo risco de Isoimunização materno fetal:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "rotura prematura de membranas."
+      },
+      {
+        "letra": "B",
+        "texto": "gravidez ectópica rota."
+      },
+      {
+        "letra": "C",
+        "texto": "remoção manual de placenta no parto."
+      },
+      {
+        "letra": "D",
+        "texto": "placenta prévia centro-total."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 9288,
+    "tags": [],
+    "enunciado": "Em relação à Doença Hemolítica Peri-natal, assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A hidropsia fetal é facilmente diagnosticada pelo ultrassom, mas é sinal tardio da doença."
+      },
+      {
+        "letra": "B",
+        "texto": "Os anticorpos que se encontram na fração IgG atravessam facilmente a placenta."
+      },
+      {
+        "letra": "C",
+        "texto": "O teste de Coombs indireto avalia a quantidade de anticorpos anti-ABO no sangue materno."
+      },
+      {
+        "letra": "D",
+        "texto": "Estando o Coombs indireto acima de 1/8, inicia-se a investigação com Doppler de Artéria Cerebral Média fetal."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 9289,
+    "tags": [],
+    "enunciado": "A análise de líquido amniótico para diagnóstico de comprometimento fetal por anticorpos anti-Rh leva em consideração a dosagem de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Relação Lecitina/esfingomielina."
+      },
+      {
+        "letra": "B",
+        "texto": "Fosfatidilglicerol."
+      },
+      {
+        "letra": "C",
+        "texto": "Bilirrubina."
+      },
+      {
+        "letra": "D",
+        "texto": "Alfa-fetoproteína."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 9290,
+    "tags": [],
+    "enunciado": "A Doença Hemolítica perinatal apresenta elevados índices de morbidade e mortalidade fetal e perinatal. Dentre os achados abaixo, qual NÃO se associa com essa patologia:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "prematuridade."
+      },
+      {
+        "letra": "B",
+        "texto": "ascite fetal."
+      },
+      {
+        "letra": "C",
+        "texto": "placentomegalia."
+      },
+      {
+        "letra": "D",
+        "texto": "Síndrome de regressão caudal."
+      },
+      {
+        "letra": "E",
+        "texto": "insuficiência cardíaca fetal."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 9291,
+    "tags": [],
+    "enunciado": "Em relação a doença hemolítica perinatal, em gestantes Rh-negativo não sensibilizadas, com grupo sanguíneo fetal desconhecido ou Rh positivo, administra-se IgG anti-D com quantas semanas de gestação?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "32 semanas."
+      },
+      {
+        "letra": "B",
+        "texto": "30 semanas."
+      },
+      {
+        "letra": "C",
+        "texto": "24 semanas."
+      },
+      {
+        "letra": "D",
+        "texto": "28 semanas."
+      },
+      {
+        "letra": "E",
+        "texto": "26 semanas."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 9292,
+    "tags": [],
+    "enunciado": "Primigesta com 16 semanas retorna ao pré-natal com resultado de tipagem sanguínea solicitada: grupo sanguíneo O e RH negativo. O pai da criança pertence ao grupo A positivo. Qual deve ser a conduta na presente consulta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Solicitar o teste de Coombs indireto."
+      },
+      {
+        "letra": "B",
+        "texto": "Solicitar o teste de Coombs direto."
+      },
+      {
+        "letra": "C",
+        "texto": "Repetir o exame de tipagem sanguínea do pai."
+      },
+      {
+        "letra": "D",
+        "texto": "Repetir o exame de tipagem sanguínea da gestante."
+      },
+      {
+        "letra": "E",
+        "texto": "Iniciar imediatamente a imunoglobulina Anti RH."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 9293,
+    "tags": [],
+    "enunciado": "Gestante de 24 anos, secundigesta, primípara, 28 semanas de idade gestacional, veio encaminhada do Programa Saúde da Família para o Pré-Natal de Alto Risco (PNAR), com exame de Coombs Indireto (CI) 1/32. Qual a sua orientação?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Realizar ultrassonografia com medida de velocidade média no pico sistólica dodoppler da artéria cerebral média, para pesquisa de anemia fetal."
+      },
+      {
+        "letra": "B",
+        "texto": "Continuar o pré-natal de baixo risco, pois o Coombs Indireto positivo deve-se àimuniglobulina."
+      },
+      {
+        "letra": "C",
+        "texto": "Realizar ultrassonografia morfológica para avaliar possíveis repercussões fetais deanemia."
+      },
+      {
+        "letra": "D",
+        "texto": "Continuar o pré-natal de alto risco devido ao risco de isoimunização."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 9294,
+    "tags": [],
+    "enunciado": "S. tem 24 anos, está no curso da 28ª semana de gestação e não realizo upré-natal. É a sua primeira gestação. Por apresentar sangramento vaginal de moderada intensidade, procura a maternidade. O obstetra de plantão faz a ausculta fetal que revela 146 bpm. A ultrassonogra(cid:65)a não evidencia hidropsia fetal nem placenta prévia. O exame do sangue de Solange revela ser do tipo B fator Rh negativo, e ela não sabe quem é o pai da criança.Nesse caso,qual a melhor conduta a ser realizada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Solicitar teste de Coombs direto."
+      },
+      {
+        "letra": "B",
+        "texto": "Solicitar teste de Coombs direto e indireto."
+      },
+      {
+        "letra": "C",
+        "texto": "Solicitar teste de Kleihauer-Betke e, em caso de resultado negativo, aplicar imunoglobulina anti-Rh."
+      },
+      {
+        "letra": "D",
+        "texto": "Solicitar teste de Coombs indireto e, se o resultado for negativo, aplicar imunoglobulina anti-Rh na gestante."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 9295,
+    "tags": [],
+    "enunciado": "Gestante de 30 anos, gesta III, para I, aborto I, com idade gestacional de 27 semanas, acompanhada no pré- natal por isoimunização Rh, apresenta, ao exame obstétrico, altura uterina de 33 cm e resultado de ultrassonografia mostrando ascite e derrame pericárdico fetais. Outra alteração encontrada como parte do quadro descrito é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "edema subcutâneo."
+      },
+      {
+        "letra": "B",
+        "texto": "hidrocefalia fetal."
+      },
+      {
+        "letra": "C",
+        "texto": "oligoâmnio severo."
+      },
+      {
+        "letra": "D",
+        "texto": "hidronefrose fetal."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 9296,
+    "tags": [],
+    "enunciado": "G5 P2 A2, 26 semanas, Rh negativo sensibilizada com título de anticorpos irregulares de 1/512. Ao exame ultrassonográfico, evidencia-se hidropsia fetal. Qual a conduta mais adequada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Internação e resolução da gestação por cesária."
+      },
+      {
+        "letra": "B",
+        "texto": "Amniocentese para realização do teste Kleihauer-Betke."
+      },
+      {
+        "letra": "C",
+        "texto": "Cordocentese para averiguar anemia fetal e transfusão intra-uterina."
+      },
+      {
+        "letra": "D",
+        "texto": "Repouso e repetição da pesquisa de anticorpos em 7 dias."
+      },
+      {
+        "letra": "E",
+        "texto": "Amnioscopia para verificar a cor do líquido amniótico."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 9297,
+    "tags": [],
+    "enunciado": "Paciente com 44 anos, G3P1A1, 22 semanas de gestação, tipo sanguíneo AB negativo e Coombs indireto com título de 1/32 (anti-D). Qual a conduta mais adequada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Imunoglobulina anti-Rh D"
+      },
+      {
+        "letra": "B",
+        "texto": "Amniocentese"
+      },
+      {
+        "letra": "C",
+        "texto": "Doppler da artéria cerebral"
+      },
+      {
+        "letra": "D",
+        "texto": "Cordocentese para tipagem sanguínea fetal"
+      },
+      {
+        "letra": "E",
+        "texto": "Espectofotometria do líquido amniótico"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 9298,
+    "tags": [],
+    "enunciado": "A Doença Hemolítica Perinatal (DHPN) é provocada por alo ou isoimunização a vários antígenos eritrocitários fetais. É CORRETO afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As hemácias fetais atigem a circulação da gestante, apenas, no momento do parto."
+      },
+      {
+        "letra": "B",
+        "texto": "A IgM anti-Rh materna atravessa a barreira placentária e destrói as hemácias fetais, criando a DHPN."
+      },
+      {
+        "letra": "C",
+        "texto": "No feto anêmico com mais de 34 semanas de gestação, devemos indicar transfusão intrauterina por cordocentese."
+      },
+      {
+        "letra": "D",
+        "texto": "Coombs indireto positivo 24 horas, após uso de imunoglobulina anti-Rh, indica que houve sensibilização por ocasião do parto."
+      },
+      {
+        "letra": "E",
+        "texto": "A anemia fetal pode ser observada pelo ultrassom ao detectarmos uma placenta pequena."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 9299,
+    "tags": [],
+    "enunciado": "Em relação à Doença Hemolítica Perinatal (DHPN), atribua V (Verdadeiro) ou F (Falso) às afirmativas a seguir. ( ) Três anticorpos determinam a doença hemolítica perinatal grave: anti-D, anti-C e anti-Kell. ( ) Na gravidez, a incompatibilidade pelo sistema Rh poucas vezes acomete o primeiro (cid:65)lho, exceto se houver referência à hemotransfusão sem o conhecimento prévio do fator Rh. ( ) A hidropsia fetal geralmente ocorre quando a hemoglobina fetal é < 7 g/dl ou o hematócrito < 20%. ( ) Na aloimunização materna, os anticorpos anti-Rh são identi(cid:65)cados por meio do teste de Coombs direto no período pré- natal. ( ) Valores da velocidade sistólica máxima do Doppler da artéria cerebral média abaixo de 1,5 múltiplo da mediana são indicativos de anemia fetal. Assinale a alternativa que contém, de cima para baixo, a sequência CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "V, V, V, F, F."
+      },
+      {
+        "letra": "B",
+        "texto": "V, V, F, F, V."
+      },
+      {
+        "letra": "C",
+        "texto": "V, F, F, V, F."
+      },
+      {
+        "letra": "D",
+        "texto": "F, V, F, F, V."
+      },
+      {
+        "letra": "E",
+        "texto": "F, F, V, V, V."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 9300,
+    "tags": [],
+    "enunciado": "Tercigesta, 28 anos de idade, com 19 semanas de idade gestacional, apresentando exame de coombs indireto com título=1:32 tipagem sanguínea=O negativo. Considerando o diagnóstico diante deste quadro assinale a melhor opção para o controle da anemia fetal.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Medida do pico de velocidade sistólica na dopplervelocimetria da artéria cerebral média."
+      },
+      {
+        "letra": "B",
+        "texto": "Dosagem de anticorpos anti-Rh no capilar fetal."
+      },
+      {
+        "letra": "C",
+        "texto": "Medida da circunferência cefálica na ultrassonografia obstétrica."
+      },
+      {
+        "letra": "D",
+        "texto": "Medida da translucência nucal na ultrassonografia."
+      },
+      {
+        "letra": "E",
+        "texto": "Hemograma materno."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 9301,
+    "tags": [],
+    "enunciado": "Tercigesta, 28 anos de idade, com 19 semanas de idade gestacional, apresentando exame de coombs indireto com título=1:32 tipagem sanguínea=O negativo. Considerando o diagnóstico diante deste quadro assinale a melhor opção para o controle da anemia fetal.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Medida do pico de velocidade sistólica na dopplervelocimetria da artéria cerebral média."
+      },
+      {
+        "letra": "B",
+        "texto": "Dosagem de anticorpos anti-Rh no capilar fetal."
+      },
+      {
+        "letra": "C",
+        "texto": "Medida da circunferência cefálica na ultrassonografia obstétrica."
+      },
+      {
+        "letra": "D",
+        "texto": "Medida da translucência nucal na ultrassonografia."
+      },
+      {
+        "letra": "E",
+        "texto": "Hemograma materno."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 9302,
+    "tags": [],
+    "enunciado": "Parâmetro utilizado para o diagnóstico precoce de anemia fetal:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Índice de resistência."
+      },
+      {
+        "letra": "B",
+        "texto": "Relação A/B."
+      },
+      {
+        "letra": "C",
+        "texto": "Índice de pulsatilidade."
+      },
+      {
+        "letra": "D",
+        "texto": "Velocidade sistólica máxima."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 9303,
+    "tags": [],
+    "enunciado": "Na detecção de Coombs indireto positivo em gestante, durante o pré-natal, deve-se",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "pesquisar Coombs direto."
+      },
+      {
+        "letra": "B",
+        "texto": "buscar a identificação do anticorpo detectado."
+      },
+      {
+        "letra": "C",
+        "texto": "realizar pesquisa de avidez de lgG."
+      },
+      {
+        "letra": "D",
+        "texto": "administrar imunoglobulina anti-D (ex. Matergan)."
+      },
+      {
+        "letra": "E",
+        "texto": "realizar estudo dopplervelocimétrico do ducto venoso fetal."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 9304,
+    "tags": [],
+    "enunciado": "Paciente de 22 anos, G1P0A0, com 32 semanas de gestação, é Rh negativo e seu marido tem tipo sanguíneo",
+    "alternativas": [
+      {
+        "letra": "B",
+        "texto": "positivo, A Médica de Família e Comunidade, qual a acompanha, vem solicitando testes seriados de coombs indireto e o último resultado, o qual a paciente traz na consulta de hoje, mostrou-se positivo. A conduta para este caso é:"
+      },
+      {
+        "letra": "A",
+        "texto": "Solicitar novo coombs indireto para descartar falso positivo."
+      },
+      {
+        "letra": "B",
+        "texto": "Manter solicitação de coombs indireto mensalmente até o parto."
+      },
+      {
+        "letra": "C",
+        "texto": "Orientar quanto a prescrição de imunoglobulina anti-D no pós-parto imediato."
+      },
+      {
+        "letra": "D",
+        "texto": "Encaminhar para o pré-natal de alto risco."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 9305,
+    "tags": [],
+    "enunciado": "Gestante, 26 anos, G3P2A0, 16 semanas de amenorreia comparece ao pré-natal com os exames descritos no quadro abaixo e com queixa de sangramento vaginal em pequena quantidade iniciado hoje. Sem dados relevantes na história familiar e pessoal. Refere ter recebido imunoglobulina anti-Rh após os dois partos anteriores. Nos exames clínicos e obstétrico, chama atenção a presença de sangramento proveniente do orifício do colo do uterino. Diante desse caso, assinale a conduta MAIS ADEQUADA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Encaminhar a gestante à maternidade de referência para receber imunoglobulina anti- Rh."
+      },
+      {
+        "letra": "B",
+        "texto": "Solicitar teste de Coombs indireto e retorno com o resultado do exame."
+      },
+      {
+        "letra": "C",
+        "texto": "Solicitar ultrassonografia para pesquisa de anemia fetal."
+      },
+      {
+        "letra": "D",
+        "texto": "Tranquilizar a gestante pelo sangramento autolimitado e BCF positivo."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 9306,
+    "tags": [],
+    "enunciado": "Em relação a aloimunização materno-fetal, seguem as afirmativas. I- Apesar das recomendações existentes em relação à pro(cid:65)laxia com imunoglobina anti-D serem divulgadas e conhecidas, a aloimunização materno-fetal ainda afeta cerca de cinco a cada 1.000 gestações. II- Embora a principal causa seja falha na administração da imunoglobina, alguns casos ocorrem por dosagem inadequada, uso de drogas endovenosas e transfusões de sangue. III - Ao redor de 98% dos casos são devidos a antígeno D do fator Rh e 2% a antígenos atipicos como Kell, E ou C. Segundo o do Manual Técnico e gestação de Alto Risco do Ministério da Saúde, está CORRETO o que se afirma em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "II e III, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "I, II e III."
+      },
+      {
+        "letra": "D",
+        "texto": "II, apenas."
+      },
+      {
+        "letra": "E",
+        "texto": "III, apenas."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 9307,
+    "tags": [],
+    "enunciado": "Doença Hemolítica Perinatal DHPN é decorrente da incompatibilidade sanguínea materno-fetal. Nesse caso, o concepto apresenta fator hemático de herança paterna, ausente no organismo da gestante e capaz de imunizá-la, produzindo anticorpos específicos ao referido fator. Sobre a DHPN verifica-se o seguinte:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "os anticorpos que se encontram na fração IgG e IgM atravessam a placenta chegando ao feto."
+      },
+      {
+        "letra": "B",
+        "texto": "a incompatibilidade ABO tem menor frequência do que a incompatibilidade Rh."
+      },
+      {
+        "letra": "C",
+        "texto": "o Dopller da ACM com valores de velocidade sistólica máxima (VSmáx) acima de 1,5 múltiplo da mediana (MoM) são indicativos de anemia fetal."
+      },
+      {
+        "letra": "D",
+        "texto": "a espectrofotométrica da bilirrubina por não ser um método invasivo constitui o método de escolha para diagnosticar a anemia fetal."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 9308,
+    "tags": [],
+    "enunciado": "Sobre a Isoimunização Rh:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pode acontecer em mães Rh+ e RNs Rh-."
+      },
+      {
+        "letra": "B",
+        "texto": "Pode acontecer em mães Rh -e RNs Rh-."
+      },
+      {
+        "letra": "C",
+        "texto": "Pode acontecer em mães Rh- e filhos procedentes de pai Rh+."
+      },
+      {
+        "letra": "D",
+        "texto": "Pode acontecer em mães Rh - e filhos procedentes de pai Rh-."
+      },
+      {
+        "letra": "E",
+        "texto": "Patologia obstétrica debelada no século IX quando desvendada sua fisiopatologia e implementada uma vacinação em massa das mulheres em idade fértil."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 9309,
+    "tags": [],
+    "enunciado": "Quanto à Doença Hemolítica Perinatal (DHPN), é CORRETO afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aproximadamente 70% dos casos de aloimunização são devidos à incompatibilidade ABO e Rh. Antígenos eritrocitários atípicos como o Kell, o Duff e outros contribuem para os 30% restantes da patologia fetal."
+      },
+      {
+        "letra": "B",
+        "texto": "Nas gestações em que PAI (Pesquisa de Anticorpos Irregulares) é negativa, realiza-se seguimento para investigação de anemia fetal de acordo com o tipo de anticorpo presente e o risco de ocorrência de Doença Hemolítica Perinatal (DHPN)."
+      },
+      {
+        "letra": "C",
+        "texto": "A aloimunização RhD é a única causa de Doença Hemolítica Perinatal (DHPN) e sua profilaxia pode ser realizada com aplicação de imunoglobulina anti-D."
+      },
+      {
+        "letra": "D",
+        "texto": "Após exposição primária aos antígenos eritrocitários desconhecidos, ocorre sensibilização por meio da produção inicial de Imunoglobulina M (IgM) que atravessa a barreira placentária."
+      },
+      {
+        "letra": "E",
+        "texto": "Após a administração da imunoglobulina anti-D, algumas gestantes podem passar a apresentar anticorpos anti-D em baixos títulos na Pesquisa de Anticorpos Irregulares (PAI)."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 9310,
+    "tags": [],
+    "enunciado": "Em consulta pré-natal de rotina de uma secundigesta, nulípara, observa-se tipagem materna O Rh+, com teste de Coombs indireto positivo. A orientação feita pelo médico deve ser que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O feto deve receber transfusão sanguínea intrauterina se o nível de anticorpos for superior a 1:16."
+      },
+      {
+        "letra": "B",
+        "texto": "A paciente deve ter sido sensibilizada pelo fator Rh na primeira gestação."
+      },
+      {
+        "letra": "C",
+        "texto": "Possivelmente existam anticorpos antieritrocitários não Rh."
+      },
+      {
+        "letra": "D",
+        "texto": "Deve-se ministrar imunoglobulina anti-Rh durante a gestação e no puerpério, somente se o recém- nascido for Rh positivo."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 9311,
+    "tags": [],
+    "enunciado": "Gestante de 26 anos, G2AL, com 20 semanas de gestação, inicia pré natal tardio, Traz tipagem sanguínea O negativo e refere que seu parceiro é Rh positivo. Solicitado pesquisa de anticorpos irregulares (PAI) que veio positivo com identificação de anticorpo anti-Lewis A, classe IgM. Nesse caso, o mais adequado é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Acompanhar o feto com dopplerfluxometria de artérias cerebrais."
+      },
+      {
+        "letra": "B",
+        "texto": "Indicar transfusão fetal intra-útero ."
+      },
+      {
+        "letra": "C",
+        "texto": "Realizar cordocentese."
+      },
+      {
+        "letra": "D",
+        "texto": "Realizar amniocentese."
+      },
+      {
+        "letra": "E",
+        "texto": "Repetir Coombs indireto com 28 semanas."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 9312,
+    "tags": [],
+    "enunciado": "Com relação ao fator Rh e gestação, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a melhor forma de acompanhar uma gestante isoimunizada é com doppler da artéria cerebral média."
+      },
+      {
+        "letra": "B",
+        "texto": "a forma mais efetiva de identificar o grau de anemia fetal é acompanhar com Teste de Coombs Indireto seriado."
+      },
+      {
+        "letra": "C",
+        "texto": "nos casos de isoimunização, a melhor conduta cabível, atualmente, é a transfusão intravascular."
+      },
+      {
+        "letra": "D",
+        "texto": "quando indicada a transfusão intravascular em feto acometido pela isoimunização, a melhor opção é por sangue do grupo O Rh positivo."
+      },
+      {
+        "letra": "E",
+        "texto": "a profilaxia nos casos de gestantes Rh negativo é a administração de imunoglobulina anti-Rh até 72 horas após o parto em puérperas que deram à luz RN Rh positivo, sendo que as demais situações de profilaxias, sem conhecimento do Rh fetal não têm mais indicação."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 9313,
+    "tags": [],
+    "enunciado": "A doença hemolítica perinatal por incompatibilidade Rh é uma doença passível de prevenção através da adequada utilização de imunoglobulina anti-D. Em paciente Rh-negativo, a utilização de imunoglobulina anti-D é indicada no(a):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pós-parto vaginal, feto Rh-negativo e Coombs indireto negativo."
+      },
+      {
+        "letra": "B",
+        "texto": "Pós-cesariana, feto Rh-positivo e Coombs indireto positivo."
+      },
+      {
+        "letra": "C",
+        "texto": "Pós-gestação ectópica e parceiro Rh-positivo."
+      },
+      {
+        "letra": "D",
+        "texto": "Pós-amniocentese e parceiro Rh-negativo."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 9314,
+    "tags": [],
+    "enunciado": "Na gestante isoimunizada com Coombs indireto 1/64, idade gestacional 26 semanas, realiza-se a detecção da anemia fetal pela medida da velocidade máxima na sístole ventricular da artéria cerebral média que no feto anêmico estará:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Igual a zero."
+      },
+      {
+        "letra": "B",
+        "texto": "Aumentada."
+      },
+      {
+        "letra": "C",
+        "texto": "Diminuída."
+      },
+      {
+        "letra": "D",
+        "texto": "Reversa."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 9315,
+    "tags": [],
+    "enunciado": "Mulher, 32a, G3P2A0C0, idade gestacional de 23 semanas é encaminhada para o ambulatório de gravidez de alto risco por ser Rh negativa e apresentar prova de Coombs Indireto positivo com identi(cid:65)cação de anticorpo anti-Lewis A, classe IgM. O pai da criança é Rh positivo, com fenotipagem de heterozigoto para o sistema Rh. Refere não ter recebido imunoglobulina anti-D profilática após o último parto. A conduta é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Realizar estudo de dopplerfluxometria de artérias cerebrais fetais e, se alterado, indicar investigação de anemia fetal."
+      },
+      {
+        "letra": "B",
+        "texto": "Indicar cordocentese, já que há 50% de chance do feto atual ser Rh negativo."
+      },
+      {
+        "letra": "C",
+        "texto": "Se persistir o mesmo resultado de Coombs indireto, há indicação de imunoglobulina anti-D no pós parto."
+      },
+      {
+        "letra": "D",
+        "texto": "Repetir a prova de Coombs indireto e indicar investigação de anemia fetal, apenas se houver titulação elevada de anticorpos."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 9316,
+    "tags": [],
+    "enunciado": "Primigesta, 26 anos, Rh negativo, 34 semanas de gestação, pré-natal de risco habitual, desconhece o Rh e o paradeiro do parceiro. Traz um exame mostrando coombs indireto positivo e ultrassonografia obstétrica com doppler colorido mostrando anemia fetal. Qual parâmetro da doppler(cid:100)uxometria da artéria cerebral média foi observado?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Índice de resistência"
+      },
+      {
+        "letra": "B",
+        "texto": "Índice de pulsatilidade"
+      },
+      {
+        "letra": "C",
+        "texto": "Relação sístole-diástole"
+      },
+      {
+        "letra": "D",
+        "texto": "Velocidade máxima da sístole"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 9317,
+    "tags": [],
+    "enunciado": "Gestante de nosso pré-natal apresenta títulos do teste de Coombs indireto cada vez mais elevados. A explicação mais provável para esta ocorrência é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Corioamnionite"
+      },
+      {
+        "letra": "B",
+        "texto": "Acretização placentária"
+      },
+      {
+        "letra": "C",
+        "texto": "Doença hemolítica perinatal"
+      },
+      {
+        "letra": "D",
+        "texto": "Malformação fetal"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 9318,
+    "tags": [],
+    "enunciado": "Primigesta, 26 anos, Rh-negativo, no curso da 28ª semana de gestação, apresenta metrorragia de regular intensidade. À ultrassonografia, observa-se feto vivo, sem hidropsia e placenta prévia oclusiva parcial.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "paciente não realizou pré-natal e desconhece o Rh e o paradeiro do parceiro. A melhor conduta no caso é fazer:"
+      },
+      {
+        "letra": "A",
+        "texto": "Teste de Coombs direto."
+      },
+      {
+        "letra": "B",
+        "texto": "Teste de Kleihauer-Betke, em caso de resultado negativo, aplicar imunoglobulina anti- Rh."
+      },
+      {
+        "letra": "C",
+        "texto": "Teste de Coombs indireto, se resultado negativo, aplicar imunoglobulina anti-Rh na gestante."
+      },
+      {
+        "letra": "D",
+        "texto": "Espectrofotometria do líquido amniótico."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 9319,
+    "tags": [],
+    "enunciado": "Paciente com 39 anos, G6P4A1, 31 semanas de gestação, tipo sanguíneo O negativo e Coombs indireto com título de 1/64 (anti-D). A investigação ao Doppler demonstrou velocidade máxima da artéria cerebral média menor que 1,5 MOM para a idade gestacional. Qual a conduta mais adequada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Amniocentese."
+      },
+      {
+        "letra": "B",
+        "texto": "Cordocentese."
+      },
+      {
+        "letra": "C",
+        "texto": "Espectofotometria do líquido amniótico."
+      },
+      {
+        "letra": "D",
+        "texto": "Imunoglobulina anti-Rh D."
+      },
+      {
+        "letra": "E",
+        "texto": "Repetir o Doppler da artéria cerebral."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 9320,
+    "tags": [],
+    "enunciado": "Mulher com 33 anos de idade, G3, P2 (dois partos vaginais sem intercorrências), iniciou o pré-natal com 13 semanas. Durante a primeira rotina laboratorial foi veri(cid:65)cado o fator Rh negativo, com Coombs indireto negativo. Entretanto, com 28 semanas repetiu o Coombs indireto e o teste se tornou positivo. Ela con(cid:65)rmou que o marido é Rh-positivo e que recebeu imunoglobulina anti-D no pós-parto das gestações anteriores. O próximo passo no manejo deste caso é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aguardar o parto e se o recém-nato for Rh-positivo, administrar imunoglobulina anti- D"
+      },
+      {
+        "letra": "B",
+        "texto": "Administrar 300 mg de imunoglobulina anti-D"
+      },
+      {
+        "letra": "C",
+        "texto": "Solicitar a titulagem do Coombs indireto"
+      },
+      {
+        "letra": "D",
+        "texto": "Repetir o Coombs indireto para confirmar o resultado, visto que a gestante recebeu imunoglobulina anti-D nos partos anteriores"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 9321,
+    "tags": [],
+    "enunciado": "Após o parto, a profilaxia da doença hemolítica perinatal está indicada em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "coombs indireto negativo e RN Rh negativo."
+      },
+      {
+        "letra": "B",
+        "texto": "coombs indireto positivo e RN Rh positivo."
+      },
+      {
+        "letra": "C",
+        "texto": "coombs indireto positivo e RN Rh negativo."
+      },
+      {
+        "letra": "D",
+        "texto": "coombs indireto negativo e RN Rh positivo."
+      },
+      {
+        "letra": "E",
+        "texto": "coombs direto negativo e RN Rh negativo. 4000054188"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 9322,
+    "tags": [],
+    "enunciado": "Gestante Rh negativo e esposo RH positivo realizaram tratamento para sí(cid:65)lis terciária com penicilina benzatina no início da gestação. Sobre o acompanhamento pré-natal desta paciente, assinale a alternativa CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Realizar VDRL e Coombs Indireto mensais até o final da gestação."
+      },
+      {
+        "letra": "B",
+        "texto": "Realizar VDRL mensal até o final da gestação e Coombs indireto na primeira consulta, se negativo, repetir na 30ª semana."
+      },
+      {
+        "letra": "C",
+        "texto": "Realizar VDRL trimestral e Coombs Indireto mensal até o final da gestação."
+      },
+      {
+        "letra": "D",
+        "texto": "Realizar VDRL trimestral até o final da gestação e Coombs Indireto na primeira consulta, se negativo, repetir na 30ª semana."
+      },
+      {
+        "letra": "E",
+        "texto": "Realizar teste rápido bimensal e Coombs Indireto trimestral até o final da gestação."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 9323,
+    "tags": [],
+    "enunciado": "Algumas patologias obstétricas podem se re(cid:100)etir nas características do líquido amniótico. O encontro de líquido amarelado na amnioscopia em gestação de 34 semanas sugere",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "óbito fetal."
+      },
+      {
+        "letra": "B",
+        "texto": "corioamnionite."
+      },
+      {
+        "letra": "C",
+        "texto": "isoimunização Rh."
+      },
+      {
+        "letra": "D",
+        "texto": "descolamento de placenta."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 9324,
+    "tags": [],
+    "enunciado": "Exame utilizado para detectar anticorpos maternos que podem causar hemólise no feto é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Coombs direto."
+      },
+      {
+        "letra": "B",
+        "texto": "Coombs indireto."
+      },
+      {
+        "letra": "C",
+        "texto": "Metilenotetrahidrofolato redutase."
+      },
+      {
+        "letra": "D",
+        "texto": "Proteína S."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 9325,
+    "tags": [],
+    "enunciado": "Uma gestante Rh negativo, e marido Rh positivo, está em sua terceira gestação. No acompanhamento pré- natal, refere que no primeiro parto recebeu imunoglobulina, mas no segundo, não. Nos exames apresentou Coombs indireto positivo com título de 1/16. Diante dessas informações, é CORRETO afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O feto está com eritroblastose fetal."
+      },
+      {
+        "letra": "B",
+        "texto": "Não tendo recebido imunoglobulina recentemente nessa gestação, deve estar sensibilizada e deverá ser acompanhada com Doppler da cerebral média para monitorar anemia fetal."
+      },
+      {
+        "letra": "C",
+        "texto": "Deverá receber imunoglobulina com 28 semanas por recomendação do Ministério da Saúde."
+      },
+      {
+        "letra": "D",
+        "texto": "Se o RN for Rh positivo, deverá receber imunoglobulina até 72 horas pós-parto."
+      },
+      {
+        "letra": "E",
+        "texto": "Se o feto apresentar anemia, está indicada a transfusão intravascular com a administração de sangue com fator Rh positivo, que é o sangue do feto."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 9326,
+    "tags": [],
+    "enunciado": "Primigesta de 10 semanas de gestação, com tipagem sanguínea O Rh negativo, teve discreto sangramento vaginal há 6 horas. Seu marido tem tipagem sanguínea B Rh positivo. A ultrassonogra(cid:65)a mostra gestação tópica, com boa vitalidade, 10 semanas. É CORRETO realizar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pesquisa de genotipagem paterna. Se o pai for RH negativo homozigoto, a mãe deve receber imunoglobulina anti-Rh apenas no momento do sangramento,"
+      },
+      {
+        "letra": "B",
+        "texto": "Dopplervelocimetria de ducto venoso. Se normal, deve-se administrar imunoglobulina anti-Rh após o parto, caso o recém-nascido for Rh positivo."
+      },
+      {
+        "letra": "C",
+        "texto": "Pesquisa de anti-D materno. Se negativo, administrar imunoglobulina anti-Rh agora, com 28 semanas e após o parto se o recém-nascido for Rh positivo."
+      },
+      {
+        "letra": "D",
+        "texto": "Genotipagem do pai. Se for heterozigoto para Rh positivo, administrar imunoglobulina anti-Rh após o parto."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 9327,
+    "tags": [],
+    "enunciado": "Primigesta, tipo sanguíneo O Rh negativo, com parceiro A Rh positivo em homozigoze. Indica-se obrigatoriamenrte imunoglobulina anti-Rh para a mãe",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "apenas após o parto se a tipagem do recém-nascido for Rh positiva."
+      },
+      {
+        "letra": "B",
+        "texto": "na 28ª semana de gestação e após o parto em mães sem anticorpos irregulares."
+      },
+      {
+        "letra": "C",
+        "texto": "a cada trimestre da gestação se houver anticorpos irregulares no sangue materno."
+      },
+      {
+        "letra": "D",
+        "texto": "somente após o parto se o recém-nascido for Rh negativo e a mãe não tiver anticorpos irregulares."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 9328,
+    "tags": [],
+    "enunciado": "Gestante com 27 anos, com 38 semanas de idade gestacional, foi internada na maternidade em fase ativa de trabalho de parto, evoluindo para parto normal sem intercorrências. Checando os resultados de exames laboratoriais, observa-se que a paciente possui tipagem sanguínea A, sistema Rh negativo e triagem de anticorpos materna positiva para antígeno D, colhida no momento da internação hospitalar para assistência ao parto. Os exames de seu recém-nascido evidenciaram tipagem sanguínea A Rh positivo. Considerando-se que o cartão de pré-natal apresenta a informação de que foi administrada imunoglobulina anti-RhD com 34 semanas de idade gestacional para essa paciente, qual a conduta mais adequada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Informar à paciente que não há necessidade de imunoglobulina anti-D após o parto, já que foi administrada durante a gestação e a triagem de anticorpos permanece positiva."
+      },
+      {
+        "letra": "B",
+        "texto": "Administrar imunoglobulina anti-D intramuscular imediatamente, independentemente do resultado atual da triagem de anticorpos."
+      },
+      {
+        "letra": "C",
+        "texto": "Solicitar a realização da titulação dos anticorpos anti-RhD e prescrever imunoglobulina anti-D se títulos forem menores ou iguais a 1:8."
+      },
+      {
+        "letra": "D",
+        "texto": "Informar à paciente sobre diagnóstico de aloimunização pelo antígeno D e orientar seguimento em serviço de pré-natal de alto risco na próxima gestação."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 9329,
+    "tags": [],
+    "enunciado": "Gestante de 24 anos G2P0A1 30 semanas de gestação, Rh negativo e parceiro Rh positivo e coombs indireto negativo no começo da gestação, veio encaminhada da UBS para o pré-natal de alto risco por um resultado de exame de coombs indireto positivo. Relata ter tomado imunoglobulina anti-D com 28 semanas. O médico da UBS disse a ela que nada a mais poderia ser feito e que necessitaria de um acompanhamento no alto risco. O casal chega à consulta no serviço de referência preocupado e com muitas dúvidas. Qual a orientação que deve ser dada nesse momento?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Deve-se esperar o parto para que se possam avaliar as consequências no feto"
+      },
+      {
+        "letra": "B",
+        "texto": "Deve-se realizar ultrassonografia com doppler colorido semanal até o parto"
+      },
+      {
+        "letra": "C",
+        "texto": "Deve-se solicitar o coombs indireto quantitativo"
+      },
+      {
+        "letra": "D",
+        "texto": "Nada a ser feito, o exame positivou devido a imunoglobulina"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 9330,
+    "tags": [],
+    "enunciado": "Primigesta, 25a, interna em trabalho de parto com 8cm e rapidamente evoluiu para parto vaginal com retenção placentária, sendo necessária extração manual. Apresenta tipagem sanguínea O Rh negativo. Refere administração de Imunoglobulina anti-D com 30 semanas de idade gestacional. No alojamento conjunto realiza teste de Coombs indireto com resultado positivo. A conduta para essa puérpera é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Orientação para seguimento em pré-natal de alto risco em uma futura gestação."
+      },
+      {
+        "letra": "B",
+        "texto": "Administração de imunoglobulina anti-D se Coombs indireto negativar."
+      },
+      {
+        "letra": "C",
+        "texto": "Expectante, já que recebeu imunoglobulina durante o pré-natal."
+      },
+      {
+        "letra": "D",
+        "texto": "Administração de nova dose de imunoglobulina anti-D se recém-nascido Rh positivo."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 9331,
+    "tags": [],
+    "enunciado": "G5P2A2, 26ª semana, gestante Rh negativo sensibilizada com título de anticorpos irregulares de 1/512. Ao exame ultrassonográfico, evidencia-se hidropsia fetal. Qual a conduta mais adequada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Internação e resolução da gestação pela cesárea."
+      },
+      {
+        "letra": "B",
+        "texto": "Amniocentese para realização do teste Kleihauer-Betke."
+      },
+      {
+        "letra": "C",
+        "texto": "Repouso e repetição da pesquisa de anticorpos em sete dias."
+      },
+      {
+        "letra": "D",
+        "texto": "Condocentese para averiguar Hb fetal e tranfusão intra-uterina."
+      },
+      {
+        "letra": "E",
+        "texto": "Indução do parto com misoprostol."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 9332,
+    "tags": [],
+    "enunciado": "Gestante de 36 anos, G4P2A1, 29 semanas de gestação, tipo sanguíneo O negativo e Coombs indireto com título de 1/32 (anti-D). A investigação ao Doppler demonstrou aumento da velocidade máxima da artéria cerebral média (maior que 1,5 MOM para a idade gestacional). Qual a conduta mais adequada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cordocentese."
+      },
+      {
+        "letra": "B",
+        "texto": "Aplicar imunoglobulina anti-Rh D."
+      },
+      {
+        "letra": "C",
+        "texto": "Realizar espectofotometria do líquido amniótico."
+      },
+      {
+        "letra": "D",
+        "texto": "Amniocentese para averiguar o Rh fetal."
+      },
+      {
+        "letra": "E",
+        "texto": "Repetir o Doppler da artéria cerebral média em 2 semanas."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 9333,
+    "tags": [],
+    "enunciado": "Sobre a DHPN, na grávida sensibilizada, que vinha realizando o teste de Coombs mensalmente, foi detectado resultado do teste maior que 1:8 na 26ª semana de gestação. Qual é a conduta MAIS indicada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Interromper a gestação."
+      },
+      {
+        "letra": "B",
+        "texto": "Transfusão intravascular."
+      },
+      {
+        "letra": "C",
+        "texto": "Repetir o teste de Coombs indireto mensalmente."
+      },
+      {
+        "letra": "D",
+        "texto": "Doppler da artéria cerebral média (ACM) a cada 7-14 dias."
+      },
+      {
+        "letra": "E",
+        "texto": "Administrar imunoglobulina anti-Rh (D)."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 9334,
+    "tags": [],
+    "enunciado": "Primigesta, 29 anos, Rh negativo, no curso da 30ª semana de gestação, apresenta metrorragia de regular intensidade. Ao ultrassom, observa-se feto vivo, sem hidropsia e placenta prévia oclusiva parcial. A paciente não realizou pré-natal e desconhece o Rh e o paradeiro do parceiro. A melhor conduta no caso é fazer:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "teste de Coombs direto."
+      },
+      {
+        "letra": "B",
+        "texto": "teste de Kleihauer-Betke, em caso de resultado negativo, aplicar imunoglobulina anti- Rh."
+      },
+      {
+        "letra": "C",
+        "texto": "teste de Coombs indireto, se resultado negativo, aplicar imunoglobulina anti-Rh na gestante."
+      },
+      {
+        "letra": "D",
+        "texto": "espectrofotometria do líquido amniótico."
+      },
+      {
+        "letra": "E",
+        "texto": "dopplerfluxometria da artéria cerebral média para aferir grau de anemia fetal."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 9335,
+    "tags": [],
+    "enunciado": "Uma secundigesta om 35 anos de idade, parto vaginal há 2 anos, sem intercorrências, é atendida em sua primeira consulta pré-natal na 12ª semana de gestação. Apresenta classi(cid:65)cação sanguinea \"O\" Rh negativo e a tipagem do marido é \"B\" Rh positivo. A paciente não lembra se fez uso de imunoglobulina anti-Rh no parto anterior. Nesse caso, a conduta correta é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "dar seguimento mensal ao pré-natal da paciente, com teste de Coombs indireto até a 28ª semana de gestação e, se o teste permanecer negativo, administrar imunoglobulina anti-Rh na paciente."
+      },
+      {
+        "letra": "B",
+        "texto": "dar seguimento mensal ao pré-natal da paciente, com teste de Coombs indireto até a 28ª semana de gestação e, sendo o resultado positivo maior que 1:16, administrar imunoglobulina anti-Rh na paciente."
+      },
+      {
+        "letra": "C",
+        "texto": "solicitar teste de Coombs indireto se o primeiro filho for Rh negativo e, sendo o resultado negativo, administrar imunoglobulina anti-Rh na paciente."
+      },
+      {
+        "letra": "D",
+        "texto": "solicitar teste de Coombs indireto se o primeiro filho for Rh positivo e, sendo o resultado positivo maior que 1:16, administrar imunoglobulina anti-Rh na paciente."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 9336,
+    "tags": [],
+    "enunciado": "Feto de gestante isoimunizada mostra padrão sinusoidal à cardiotocografia. Isso indica:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ausência de gravidade da doença fetal."
+      },
+      {
+        "letra": "B",
+        "texto": "Falso positivo do método."
+      },
+      {
+        "letra": "C",
+        "texto": "Falso negativo do método."
+      },
+      {
+        "letra": "D",
+        "texto": "Necessidade de titulação de Coombs indireto."
+      },
+      {
+        "letra": "E",
+        "texto": "Gravidade extrema da doença fetal."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 9337,
+    "tags": [],
+    "enunciado": "O vaso envolvido na pesquisa de anemia fetal é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a artéria cerebral média."
+      },
+      {
+        "letra": "B",
+        "texto": "a artéria uterina."
+      },
+      {
+        "letra": "C",
+        "texto": "a artéria umbilical."
+      },
+      {
+        "letra": "D",
+        "texto": "o ducto venoso."
+      },
+      {
+        "letra": "E",
+        "texto": "a veia umbilical."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 9338,
+    "tags": [],
+    "enunciado": "G2PC1A0, 26 semanas de gestação, tipo sanguíneo O negativo, com primeiro (cid:65)lho grupo sanguíneo A positivo, apresenta coombs indireto 1:16. Assinale a alternativa CORRETA quanto à conduta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Repetir coombs indireto mensalmente, sem necessidade de exames complementares."
+      },
+      {
+        "letra": "B",
+        "texto": "Indicar avaliação fetal com dopplerfluxometria de artéria uterina."
+      },
+      {
+        "letra": "C",
+        "texto": "Profilaxia com imunoglobulina anti-Rh, com 28 semanas de gestação."
+      },
+      {
+        "letra": "D",
+        "texto": "Por apresentar titulação baixa, acompanhar gestante e realizar coombs direto mensal."
+      },
+      {
+        "letra": "E",
+        "texto": "Indicar avaliação fetal com dopplerfluxometria de artéria cerebral média."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 9339,
+    "tags": [],
+    "enunciado": "Primigesta Rh negativo, Coombs indireto negativo, 30 semanas, é admitida na maternidade com queixa de sangramento vaginal moderado. A ultrassonogra(cid:65)a mostra feto vivo, placenta marginal e posterior. Qual deve ser a conduta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Realizar amniocentese para espectrofotometria."
+      },
+      {
+        "letra": "B",
+        "texto": "Solicitar novo Coombs indireto."
+      },
+      {
+        "letra": "C",
+        "texto": "Realizar cordocentese para classificação do sangue fetal."
+      },
+      {
+        "letra": "D",
+        "texto": "Administrar imunoglobulina anti-Rh."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 9340,
+    "tags": [],
+    "enunciado": "Secundigesta, primípara, 25 anos, idade gestacional de 16 semanas, comparece em consulta de pré-natal com os seguintes exames laboratoriais: tipagem sanguínea A, Rh negativo e exame de Coombs indireto negativo. Tipagem sanguínea do marido: A e Rh positivo. As orientações a serem oferecidas à gestante sobre o seguimento laboratorial e a profilaxia da sensibilização ao fator Rh, RESPECTIVAMENTE, são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Exame de determinação do Rh fetal em sangue materno / Imunoglobulina anti-D no pós-parto, se o feto apresentar Rh positivo e Coombs indireto positivo."
+      },
+      {
+        "letra": "B",
+        "texto": "Exames seriados do Coombs indireto / imunoglobulina anti-D na 28ª semana e no pós-parto, se o recém-nascido apresentar Rh positivo e Coombs direto negativo."
+      },
+      {
+        "letra": "C",
+        "texto": "Exames seriados do Coombs indireto / Imunoglobulina anti-D na 28ª semana e no pós-parto, se o recém-nascido apresentar Rh positivo e Coombs direto positivo."
+      },
+      {
+        "letra": "D",
+        "texto": "Exames seriados do Coombs direto / Imunoglobulina anti-D no pós-parto, se o recém- nascido apresentar Rh positivo e Coombs direto negativo."
+      },
+      {
+        "letra": "E",
+        "texto": "Exame de determinação do Rh fetal em sangue materno / Imunoglobulina anti-D no pós-parto, se o feto apresentar Coombs direto positivo."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 9341,
+    "tags": [],
+    "enunciado": "Paciente, primigesta, sem comorbidades, com 32 semanas de gestação, sofre acidente de moto. Não sofreu lesões externas. Foi atendida no prontosocorro e liberada após seis horas de observação. Um dia após, chega à maternidade com contrações uterinas regulares (2 a cada 10 minutos), normotensa e cardiotocogra(cid:65)a reativa, categoria 1. Tônus uterino adequado. Exames especular: secreção vaginal (cid:65)siológica. Toque vaginal: colo amolecido, dilatado 4cm, bolsa íntegra, apresentação cefálica. Carteira de pré-natal evidencia tipo sanguíneo A negativo. Coombs indireto negativo. Nega perdas vaginais. Frente a esse caso, indique a conduta que deve ser tomada, antes da alta hospitalar, para diminuir risco de uma importante complicação nas próximas gestações, considerando que após dois dias em internação, a paciente evoluiu para parto normal e o recém-nascido apresentou APGAR 9/9, tipo sanguíneo A+. Essa questão possui comentário do professor no site 4000006575",
+    "alternativas": [],
+    "resposta_correta": null
+  },
+  {
+    "id": 9342,
+    "tags": [],
+    "enunciado": "A imunoglobulina anti-D deve ser ministrada a gestante:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Rh positiva com parceiro Rh positivo."
+      },
+      {
+        "letra": "B",
+        "texto": "Rh negativa após parto normal de recém-nascido Rh negativo."
+      },
+      {
+        "letra": "C",
+        "texto": "Rh negativa submetida a amniocentese com parceiro Rh positivo."
+      },
+      {
+        "letra": "D",
+        "texto": "Rh negativa com histórico de óbito fetal intrauterino anterior."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 9343,
+    "tags": [],
+    "enunciado": "Quando uma gestante multípara é Rh negativo e seu marido Rh positivo, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "se não recebeu profilaxia anti-Rh nos partos anteriores, deverá estar sensibilizada."
+      },
+      {
+        "letra": "B",
+        "texto": "se o Coombs Indireto for negativo e sangrar no primeiro trimestre, deverá receber imunoglobulina anti-Rh."
+      },
+      {
+        "letra": "C",
+        "texto": "se após o parto constatar-se que o RN é Rh positivo, mas com incompatibilidade ABO, não há necessidade de profilaxia pelo Rh."
+      },
+      {
+        "letra": "D",
+        "texto": "não há necessidade da profilaxia na 28ª semana, pois já é multípara."
+      },
+      {
+        "letra": "E",
+        "texto": "o teste de Coombs Indireto não se altera em função da profilaxia eventual durante a gestação."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 9344,
+    "tags": [],
+    "enunciado": "Paciente com tipagem de sangue A negativo e Coombs indireto negativo, teve parto vaginal há 6 horas de RN O positivo. Diante de tal caso, devemos",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Saber a tipagem de sangue do pai da criança."
+      },
+      {
+        "letra": "B",
+        "texto": "Fazer Mathergan com menos de 72 horas do parto."
+      },
+      {
+        "letra": "C",
+        "texto": "Colher nova tipagem e Coombs indireto."
+      },
+      {
+        "letra": "D",
+        "texto": "Fazer Mathergan com mais de 72 horas do parto."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 9345,
+    "tags": [],
+    "enunciado": "Em gestação com paciente Rh negativo e parceiro Rh positivo, foi diagnosticado Eritroblastose Fetal. Qual exame de escolha para a avaliação do grau de anemia fetal?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Dopplervelocimetria da artéria cerebral média"
+      },
+      {
+        "letra": "B",
+        "texto": "Teste de Coombs direto seriado"
+      },
+      {
+        "letra": "C",
+        "texto": "Cardiotocografia semanal"
+      },
+      {
+        "letra": "D",
+        "texto": "Perfil biofísico fetal semanal"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 9346,
+    "tags": [],
+    "enunciado": "Secundigesta, com tipagem sanguínea A negativa, recebeu, no primeiro dia pós- parto da primeira gestação, há 3 anos, imunoglobulina anti-Rh. Na atual gestação, o teste de Coombs indireto realizado com 12 semanas era de 1:8. Agora, na trigésima semana de gestação, o resultado do teste foi de 1:32. Que conduta, dentre as abaixo, é a mais adequada no momento?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Manter a monitorização com teste de Coombs."
+      },
+      {
+        "letra": "B",
+        "texto": "Indicar dopplervelocimetria da artéria cerebral média fetal."
+      },
+      {
+        "letra": "C",
+        "texto": "Fazer cordocentese."
+      },
+      {
+        "letra": "D",
+        "texto": "Realizar amniocentese."
+      },
+      {
+        "letra": "E",
+        "texto": "Interromper a gestação."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 9347,
+    "tags": [],
+    "enunciado": "Paciente gestante de Rh negativo, Coombs indireto negativo, realizou pro(cid:65)laticamente a aplicação de imunoglobulina anti-Rh com 28 semanas. Realizou novo teste de Coombs indireto, uma semana depois, com título de 1/16. Apresentou, logo após, episódio de sangramento vaginal, havendo passagem de sangue fetal para circulação materna. Na titulagem do Coombs indireto, deve-se esperar",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Queda rápida do titulo ou negativação."
+      },
+      {
+        "letra": "B",
+        "texto": "Queda lenta após 4 semanas."
+      },
+      {
+        "letra": "C",
+        "texto": "Queda lenta após 2 meses."
+      },
+      {
+        "letra": "D",
+        "texto": "Manutenção do título."
+      },
+      {
+        "letra": "E",
+        "texto": "Aumento do título."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 9348,
+    "tags": [],
+    "enunciado": "Paciente de 39 anos, GVPIIAII, duas cesáreas anteriores e dois abortos provocados, 19 semanas, título de anticorpos irregulares de 1/64. Qual é a melhor opção para investigar anemia fetal neste caso?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Avaliação de sinais de hidropisia fetal."
+      },
+      {
+        "letra": "B",
+        "texto": "Coombs indireto seriado."
+      },
+      {
+        "letra": "C",
+        "texto": "Cordocentese."
+      },
+      {
+        "letra": "D",
+        "texto": "Doppler da artéria umbilical."
+      },
+      {
+        "letra": "E",
+        "texto": "Doppler da artéria cerebral média."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 9349,
+    "tags": [],
+    "enunciado": "A doppler(cid:100)uxometria vem sendo utilizada atualmente na avaliação do feto acometido pela doença hemolítica perinatal, tendo a grande vantagem de estimar o grau de comprometimento da saúde fetal sem a utilização de métodos invasivos. Para tal objetivo, deve-se analisar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O formato da onda de velocidade de fluxo sanguíneo da aorta descendente fetal."
+      },
+      {
+        "letra": "B",
+        "texto": "O pico da velocidade do fluxo sanguíneo da artéria cerebral média fetal."
+      },
+      {
+        "letra": "C",
+        "texto": "A presença de incisura protodiastólica na artéria uterina materna."
+      },
+      {
+        "letra": "D",
+        "texto": "A amplitude do fluxo sanguíneo diastólico da artéria umbilical."
+      },
+      {
+        "letra": "E",
+        "texto": "A diferença entre o índice sístole/diástole."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 9350,
+    "tags": [],
+    "enunciado": "No (cid:65)nal da década de 1960, o emprego da imunoglobulina anti-D permitiu que a incidência da doença hemolítica pré-natal (DHPN) diminuísse consideravelmente no mundo. Em relação a essa doença, marque a opção INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O teste de Kleihauer permite diferenciar as hemácias fetais das adultas, possibilitando então o diagnóstico da hemorragia feto-materna."
+      },
+      {
+        "letra": "B",
+        "texto": "Cerca de 98% dos casos de aloimunização são devidos à incompatibilidade ABO e Rh."
+      },
+      {
+        "letra": "C",
+        "texto": "Antígenos atípicos como Kell, C e E contribuem com apenas 2% dos casos de DHPN."
+      },
+      {
+        "letra": "D",
+        "texto": "O teste de Kleihauer pode ser realizado pela citometria de fluxo marcando-se os eritrócitos fetais com anticorpos anti-hemoglobina fetal."
+      },
+      {
+        "letra": "E",
+        "texto": "Após exposição primária aos antígenos eritrocitários desconhecidos, ocorre sensibilização por meio da produção inicial de imunoglobulina M que, devido a seu baixo peso molecular, atravessa a barreira placentária."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 9351,
+    "tags": [],
+    "enunciado": "F. E. G, 26 anos, Rh(Du) negativo, tercigesta, atualmente na 22a semana de gestação, com antecedentes de um parto normal de termo há quatro anos, no qual foi aplicada a imunoglobulina anti-Rh, e um aborto na 12a semana de gestação há 14 meses, no qual não foi aplicada a imunoglobulina anti-Rh. Durante o pré-natal atual, teve Teste de Coombs Indireto = 1:64, considerada, portanto, gestante Rh(Du) negativo aloimunizada. Dos exames a seguir, a investigação de isoimunização fetal deve ser iniciada com:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cordocentese diagnóstica e terapêutica."
+      },
+      {
+        "letra": "B",
+        "texto": "Ultrassonografia obstétrica seriada, com dopplervelocimetria do ducto venoso."
+      },
+      {
+        "letra": "C",
+        "texto": "Dopplervelocimetria obstétrica da artéria cerebral média, com avaliação do pico máximo."
+      },
+      {
+        "letra": "D",
+        "texto": "Amniocentese com espectrometria do líquido amniótico."
+      },
+      {
+        "letra": "E",
+        "texto": "Controle seriado quinzenal de Teste de Coombs Indireto."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 9352,
+    "tags": [],
+    "enunciado": "No caso de uma paciente Rh negativo, Kell negativo, cujo Coombs indireto é positivo e o anticorpo detectado é anti-Kell. Seu RN é Rh positivo e Kell positivo, a conduta após o parto é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "administrar imunoglubulina anti-D (Rhogam) à mãe."
+      },
+      {
+        "letra": "B",
+        "texto": "administrar imunoglobulina anti-K ell à mãe."
+      },
+      {
+        "letra": "C",
+        "texto": "não administrar imunoglobulina anti-D, pois a mãe está sensibilizada."
+      },
+      {
+        "letra": "D",
+        "texto": "administrar ambas as imunoglobulinas (anti-D e anti-K ell) à mãe."
+      },
+      {
+        "letra": "E",
+        "texto": "realizar exsanguíneo-transfusão no RN."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 9353,
+    "tags": [],
+    "enunciado": "Primigesta, 37 semanas e 5 dias de gravidez, procurou atendimento médico, pois não vinha sentindo as movimentações fetais há 2 dias. Ao sonar Doppler não foi possível notar-se a ausculta dos batimentos cardíacos fetais, o que levou à solicitação de ultrassonogra(cid:65)a obstétrica que mostrava feto único, de 2890g, com ILA de 9,8 cm e ausência de batimentos cardíacos, sem outros achados. O acompanhamento gestacional foi adequado e tal gestante apresentava tipagem sanguínea A negativo, Du negativo, enquanto a do seu parceiro era O positivo. Ela havia recebido 300 mcg de imunoglobulina IM com 29 semanas de gravidez. Optou-se pela indução do parto e, na internação, foi solicitado Coombs indireto que se revelou positivo para anti-D com titulação de 1:2. Sobre este caso é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Como Coombs indireto é positivo, devemos considerar a gestante aloimunizado; não havendo, portanto, necessidade de administração de imunoglobulina após o parto."
+      },
+      {
+        "letra": "B",
+        "texto": "Sendo o Coombs indireto positivo havia alto risco de anemia fetal (50%) e o acompanhamento semanal com Doppler de artéria cerebral média teria evitado o desfecho desfavorável."
+      },
+      {
+        "letra": "C",
+        "texto": "A dose eficaz para se evitar a aloimunização é de 10 mcg para cada mililitro de sangue fetal Rh positivo."
+      },
+      {
+        "letra": "D",
+        "texto": "A indicação de cesariana é imperativa, pois há alto risco de anemia materna por sangramento em parto normal."
+      },
+      {
+        "letra": "E",
+        "texto": "Às 34 semanas, em sendo o Coombs positivo, era necessária amniocentese para espectrofotometria do líquido amniótico visando predição de anemia fetal."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 9354,
+    "tags": [],
+    "enunciado": "Assinale a afirmativa CORRETA sobre a doença hemolítica perinatal:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A aloimunização Rh é doença que não pode ser prevenida pois depende do fator Rh do casal."
+      },
+      {
+        "letra": "B",
+        "texto": "Os casos em que os títulos de anticorpos estão elevados (\"maior ou igual a\" 1:16) devem ser encaminhados para acompanhamento em centro de referência com monitorização de sinais de anemia fetal por meio de métodos não invasivos (dopplervelocimetria da artéria cerebral média e ultrassonografia)."
+      },
+      {
+        "letra": "C",
+        "texto": "A imunoglobulina anti-R o pode ser utilizada na cura da doença e está indicada para os casos de gestantes Rh negativo sensibilizadas."
+      },
+      {
+        "letra": "D",
+        "texto": "A pesquisa de anticorpos regulares deve ser solicitada para toda gestante que recebeu transfusão sanguínea que seja Rh negativo."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 9355,
+    "tags": [],
+    "enunciado": "Ana, 27 anos G2P1A0, Rh negativo, farmacêutica, sem comorbidades. Seu primeiro (cid:65)lho foi do sexo masculino Rh negativo, hoje com 2 anos de idade. Não apresentou nenhuma intercorrência na gestação anterior. A atual gestação também está evoluindo sem intercorrências. É casada com Matheus 29 anos, Rh positivo, que não apresenta nenhuma comorbidade. Sendo assim, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ana deve receber a imunoglobulina anti-D apenas se apresentar um sangramento por placenta prévia."
+      },
+      {
+        "letra": "B",
+        "texto": "Ana deve receber a imunoglobulina anti-D entre a 28 e a 34 semana de gestação se apresentar Coombs indireto positivo."
+      },
+      {
+        "letra": "C",
+        "texto": "Ana deve receber a imunoglobulina anti-D entre a 28 e a 34 semana de gestação se apresentar Coombs indireto negativo."
+      },
+      {
+        "letra": "D",
+        "texto": "Ana não precisa receber a imunoglobulina anti-D uma vez que ela nunca foi sensibilizada."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 9356,
+    "tags": [],
+    "enunciado": "G2P1, Rh negativo, sem intercorrências na gestação anterior, relata que seu (cid:65)lho anterior nasceu com fator Rh positivo e não sabe informar se recebeu imunoglobulina anti-Rh no pós-parto. No momento, com 24 semanas de gestação, traz teste de Coombs indireto positivo com titulação de 1:4. Em relação ao caso clínico, considere as seguintes a(cid:65)rmativas: I. Realizar cordocentese para avaliar diretamente o grau de anemia fetal. II. Realizar controle seriado com Teste de Coombs indireto até atingir titulação crítica. III. Realizar imunoglobulina anti-Rh para evitar agravamento da doença fetal. Está/Estão correta(s) a(s) a(cid:65)rmativa (s)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "II, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "III, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "I e II, apenas."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II e III."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 9357,
+    "tags": [],
+    "enunciado": "Durante consulta pré-natal observa-se tipagem materna A, RH negativo, DU negativo e paterna O, Rh positivo. O teste de Coombs indireto é negativo. Deve-se:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "prescrever vacina anti-RH para a mãe somente após parto normal ou abortamento."
+      },
+      {
+        "letra": "B",
+        "texto": "realizar teste de Coombs no recém-nascido e se negativo, prescrever vacina anti-RHpara a mãe."
+      },
+      {
+        "letra": "C",
+        "texto": "realizar amniocentese na 28ª semana para verificar isoimunização RH."
+      },
+      {
+        "letra": "D",
+        "texto": "prescrever imunoglobulina anti-D para o recém-nascido, se ele for RH negativo."
+      },
+      {
+        "letra": "E",
+        "texto": "prescrever imunoglobulina anti-D para a mãe na 28ª semana e após o parto se orecém-nascido for RH positivo."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 9358,
+    "tags": [],
+    "enunciado": "Qual exame deve ser solicitado para gestantes com tipo de sangue Rh negativo e marido com Rh positivo?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Coombs indireto."
+      },
+      {
+        "letra": "B",
+        "texto": "Hemoglobina glicada."
+      },
+      {
+        "letra": "C",
+        "texto": "Prova cruzada Rh."
+      },
+      {
+        "letra": "D",
+        "texto": "Coombs direto."
+      },
+      {
+        "letra": "E",
+        "texto": "Bilirrubina."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 9359,
+    "tags": [],
+    "enunciado": "As evidências atuais permitem recomendar pro(cid:65)laxia para doença hemolítica do recém-nascido por meio da aplicação da imunoglobulina anti-D em mulheres com fator Rh-negativo nas seguintes situações: I - Após procedimentos invasivos (amniocentese e biópsia de vilos coriônicos). II - Abortamentos e morte fetal intrauterina. III - Gestação ectópica. IV - Mola hidatidiforme. Estão corretas as afirmativas:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e II somente."
+      },
+      {
+        "letra": "B",
+        "texto": "I, II e III somente."
+      },
+      {
+        "letra": "C",
+        "texto": "II, III e IV somente."
+      },
+      {
+        "letra": "D",
+        "texto": "Todas as afirmativas estão corretas."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 9360,
+    "tags": [],
+    "enunciado": "A placentomegalia está associada à:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Agenesia renal bilateral."
+      },
+      {
+        "letra": "B",
+        "texto": "Insuficiência placentar."
+      },
+      {
+        "letra": "C",
+        "texto": "Restrição do crescimento fetal."
+      },
+      {
+        "letra": "D",
+        "texto": "Placenta anular."
+      },
+      {
+        "letra": "E",
+        "texto": "Eritroblastose fetal."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 9361,
+    "tags": [],
+    "enunciado": "Quando realizado o doppler de artéria cerebral média, qual o parâmetro da onda de (cid:100)uxo que re(cid:100)ete anemia fetal?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Índice de resistência."
+      },
+      {
+        "letra": "B",
+        "texto": "Índice de pulsatilidade."
+      },
+      {
+        "letra": "C",
+        "texto": "Índice de pulsatilidade."
+      },
+      {
+        "letra": "D",
+        "texto": "Velocidade máxima da diástole."
+      },
+      {
+        "letra": "E",
+        "texto": "Velocidade máxima da sístole."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 9362,
+    "tags": [],
+    "enunciado": "A velocidade sistólica máxima da artéria cerebral média fetal é utilizada para orientar a conduta em gravidez que apresente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "fetos com malformação cardíaca."
+      },
+      {
+        "letra": "B",
+        "texto": "doença hemolítica perinatal."
+      },
+      {
+        "letra": "C",
+        "texto": "doença hipertensiva da gestação."
+      },
+      {
+        "letra": "D",
+        "texto": "fenômenos tromboembólicos."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 9363,
+    "tags": [],
+    "enunciado": "Paciente gestante, Rh negativo, Coombs indireto negativo, realizou pro(cid:65)laticamente a aplicação de imunoglobulina anti-Rh com 28 semanas. Realizou novo teste de Coombs indireto, uma semana depois, com título de 1/4. Apresentou, logo após, episódio de sangramento vaginal, havendo passagem de sangue fetal para circulação materna. Na titulagem do Coombs indireto, deve-se esperar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aumento do título."
+      },
+      {
+        "letra": "B",
+        "texto": "Positivação do coombs direto."
+      },
+      {
+        "letra": "C",
+        "texto": "Manutenção do título."
+      },
+      {
+        "letra": "D",
+        "texto": "Queda rápida do título ou negativação."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 9364,
+    "tags": [],
+    "enunciado": "A Doppler(cid:100)uxometria vem sendo utilizada atualmente na avaliação do feto acometido pela Doença Hemolítica Perinatal, tendo a grande vantagem de estimar o grau de comprometimento da saúde fetal sem a utilização de métodos invasivos. Para tal objetivo, deve-se analisar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O formato da onda de velocidade de fluxo sanguíneo da aorta descendente fetal."
+      },
+      {
+        "letra": "B",
+        "texto": "A presença de incisura protodiastólica na artéria uterina materna."
+      },
+      {
+        "letra": "C",
+        "texto": "O pico da velocidade do fluxo sanguíneo da artéria cerebral média fetal."
+      },
+      {
+        "letra": "D",
+        "texto": "A amplitude do fluxo sanguíneo diastólico da artéria umbilical"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 9365,
+    "tags": [],
+    "enunciado": "Paciente de 30 anos, GIII-PII-A0, comparece à consulta pré-natal apresentando teste de Coombs indireto de 1:4; seu Rh é negativo e o do marido é positivo, sendo o mesmo pai das gestações prévias. Ela refere duas cesarianas anteriores sem intercorrências na gestação e com alta após 48 horas, acompanhada do recém- nascido, tendo realizado laqueadura tubária na segunda gravidez. A avaliação da caderneta de acompanhamento de puericultura dos (cid:65)lhos prévios revela primeiro (cid:65)lho com Rh negativo e o segundo com Rh positivo, não sendo realizada imunopro(cid:65)laxia na segunda gestação, em virtude da laqueadura tubária. O acompanhamento, nessa gravidez, deve ser realizado inicialmente com:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Realização de cordocentese."
+      },
+      {
+        "letra": "B",
+        "texto": "Dosagem seriada de Coombs indireto."
+      },
+      {
+        "letra": "C",
+        "texto": "Realização de espectrofotometria de líquido amniótico."
+      },
+      {
+        "letra": "D",
+        "texto": "Seguimento com dopplerfluxometria de artéria cerebral média."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 9366,
+    "tags": [],
+    "enunciado": "A avaliação fetal mais adequada para uma tercigesta com 33 semanas, Rh negativo e Teste de Coombs igual a 1:64 é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cordocentese;"
+      },
+      {
+        "letra": "B",
+        "texto": "Dopplervelocimetria do ducto venoso;"
+      },
+      {
+        "letra": "C",
+        "texto": "Espectrofotometria do líquido amniótico;"
+      },
+      {
+        "letra": "D",
+        "texto": "Transfusão intrauterina;"
+      },
+      {
+        "letra": "E",
+        "texto": "Dopplervelocimetria da artéria cerebral média."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 9367,
+    "tags": [],
+    "enunciado": "Como avaliar inicialmente, com menor risco, o comprometimento fetal em grávida Rh negativo com teste de Coombs positivo com titulagem ≥ 16 e mais de 20 semanas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Espectrofotometria do líquido amniótico;"
+      },
+      {
+        "letra": "B",
+        "texto": "Hematimetria fetal;"
+      },
+      {
+        "letra": "C",
+        "texto": "Rastreamento de derrames cavitários pela ultrassonografia;"
+      },
+      {
+        "letra": "D",
+        "texto": "Dopplerfluxometria da artéria uterina;"
+      },
+      {
+        "letra": "E",
+        "texto": "Dopplerfluxometria da artéria cerebral média."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 9368,
+    "tags": [],
+    "enunciado": "R. S. T., 25 anos, tercigesta, Rh(D) negativo, atualmente na 32ª semana, com antecedentes obstétricos de parto normal de termo e aborto na 12ª semana de gestação; foi realizada, pro(cid:65)laticamente, a imunoglobulina anti-D. Durante este pré-natal teve todos os Teste de Coombs indiretos negativos. Após sofrer acidente de trânsito, procurou imediatamente a Maternidade e, mesmo sem sangramento uterino presente, foi realizado o Teste de Kleihauer, que foi positivo. Esse teste corresponde à presença:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "de hemólise fetal."
+      },
+      {
+        "letra": "B",
+        "texto": "e a quantidade de anticorpos anti-D na circulação materna."
+      },
+      {
+        "letra": "C",
+        "texto": "de hemácia materna na circulação fetal."
+      },
+      {
+        "letra": "D",
+        "texto": "e a quantidade de anticorpos anti-D na circulação fetal."
+      },
+      {
+        "letra": "E",
+        "texto": "de hemácia fetal na circulação materna."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 9369,
+    "tags": [],
+    "enunciado": "Na detecção de Coombs indireto positivo em gestante, durante o pré-natal deve-se:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "administrar imunoglobulina anti-D (ex. RhoGam)."
+      },
+      {
+        "letra": "B",
+        "texto": "buscar a identificação do anticorpo detectado."
+      },
+      {
+        "letra": "C",
+        "texto": "realizar amniocentese."
+      },
+      {
+        "letra": "D",
+        "texto": "realizar estudo dopplervelocimétrico da artéria umbilical fetal."
+      },
+      {
+        "letra": "E",
+        "texto": "nenhuma conduta é necessária."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 9370,
+    "tags": [],
+    "enunciado": "As hidropisias fetais imunológicas se associam com:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cardiopatia fetal."
+      },
+      {
+        "letra": "B",
+        "texto": "Parvovirose."
+      },
+      {
+        "letra": "C",
+        "texto": "Sensibilização ao fator Kell."
+      },
+      {
+        "letra": "D",
+        "texto": "Diabetes."
+      },
+      {
+        "letra": "E",
+        "texto": "Atresia de esôfago."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 9371,
+    "tags": [],
+    "enunciado": "Feto de gestante isoimunizada mostra padrão sinusoidal à cardiotocografia. Isso indica:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ausência de gravidade da doença fetal."
+      },
+      {
+        "letra": "B",
+        "texto": "falso positivo do método."
+      },
+      {
+        "letra": "C",
+        "texto": "falso negativo do método."
+      },
+      {
+        "letra": "D",
+        "texto": "necessidade de titulação do Coombs indireto."
+      },
+      {
+        "letra": "E",
+        "texto": "gravidade extrema da doença fetal."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 9372,
+    "tags": [],
+    "enunciado": "Para avaliar anemia fetal em mães Rh negativo isoimunizada, o melhor método é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Doppler para avaliar a velocidade sistólica máxima da artéria cerebral média fetal."
+      },
+      {
+        "letra": "B",
+        "texto": "Diferença de densidade óptica a 450 mm (DDO450) para quantificar a bilirrubina presente no líquido amniótico."
+      },
+      {
+        "letra": "C",
+        "texto": "Determinação do título de anticorpos."
+      },
+      {
+        "letra": "D",
+        "texto": "Dosagem de hormônio lactogênio placentário."
+      },
+      {
+        "letra": "E",
+        "texto": "Cardiotocografia anteparto."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 9373,
+    "tags": [],
+    "enunciado": "Gestante, com 27 semanas, vem para consulta pré-natal com tipagem sanguínea Rh (-) e exame de Coombs indireto (+). Encontra-se na segunda gestação, com antecedente de abortamento espontâneo precoce na adolescência. Neste caso, a melhor conduta é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Administrar imunoglobulina anti-Rh de imediato, e repetir aplicação no pós-parto se recém-nascido Rh (+)."
+      },
+      {
+        "letra": "B",
+        "texto": "Administrar imunoglobulina anti-Rh de imediato, sem repetir no pós-parto, independentemente da tipagem do recém-nascido."
+      },
+      {
+        "letra": "C",
+        "texto": "Administrar imunoglobulina no pós-parto, até 72 horas preferentemente, apenas se recém-nascido Rh (+)."
+      },
+      {
+        "letra": "D",
+        "texto": "Indicar cordocentese para tipagem do recém-nascido e hemotransfusão intrauterina na dependência da hemoglobina fetal."
+      },
+      {
+        "letra": "E",
+        "texto": "Realizar dopplervelocimetria das artérias cerebrais médias do feto para avaliação e seguimento da anemia fetal."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 9374,
+    "tags": [],
+    "enunciado": "Secundigesta, com um parto normal domiciliar anterior, idade gestacional de 28 semanas, portadora de tipagem sanguínea Rh negativo, Du negativo e com parceiro Rh positivo, realizou Coombs indireto que se revelou positivo para anti-D no valor de 1:64. Por tal motivo, foi solicitado avaliação dopplervelocimétrica do pico sistólico da Artéria Cerebral Média (ACM), e este mostrou valor de 62 cm/s. Observando a tabela a seguir, que traz a mediana de picos sistólicos de ACM para cada idade gestacional, assinale a alternativa que apresenta a melhor conduta para esse caso: (VER IMAGEM)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Resolução da gestação."
+      },
+      {
+        "letra": "B",
+        "texto": "Conduta expectante com acompanhamento semanal do pico sistólico da artéria cerebral média."
+      },
+      {
+        "letra": "C",
+        "texto": "Cordocentese para verificar hematimetria fetal e necessidade de transfusão intrauterina."
+      },
+      {
+        "letra": "D",
+        "texto": "Amniocentese e coleta de líquido amniótico para espectrofotometria."
+      },
+      {
+        "letra": "E",
+        "texto": "Repetir Coombs indireto e Doppler de artéria cerebral média em quatro semanas."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 9375,
+    "tags": [],
+    "enunciado": "Sobre a doença hemolítica perinatal assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A doença hemolítica perinatal se deve entre a compatibilidade ABO, Rh e de anticorpos irregulares."
+      },
+      {
+        "letra": "B",
+        "texto": "A doença hemolítica perinatal se deve entre a compatibilidade ABO e Rh."
+      },
+      {
+        "letra": "C",
+        "texto": "A doença hemolítica perinatal se deve entre a compatibilidade ABO."
+      },
+      {
+        "letra": "D",
+        "texto": "A doença hemolítica perinatal se deve entre a compatibilidade ABO, Rh e de imunoglobulinas."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 9376,
+    "tags": [],
+    "enunciado": "Gestante secundigesta, com 30 semanas de gestação, Rh negativo e Coombs indireto 1/64. Qual o melhor exame para avaliar a repercussão hemodinâmica fetal?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "PBF."
+      },
+      {
+        "letra": "B",
+        "texto": "Doppler da artéria cerebral média."
+      },
+      {
+        "letra": "C",
+        "texto": "Doppler da artéria umbilical."
+      },
+      {
+        "letra": "D",
+        "texto": "Cordocentese."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 9377,
+    "tags": [],
+    "enunciado": "A aloimunização materno fetal ainda é um problema de saúde pública e afeta 5,6:1.000 nascidos vivos. Com objetivo de realizar a pro(cid:65)laxia da isoimunização Rh, cite cinco situações em que deva ser administrada a imunoglobulina anti-D no ciclo gravídico-puerperal. Essa questão possui comentário do professor no site 4000153695",
+    "alternativas": [],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 9378,
+    "tags": [],
+    "enunciado": "Puérpera: G5P3A2, no 1º dia após parto cesárea e laqueadura tubária devido às múltiplas cesáreas anteriores. Tipo sanguíneo é O negativo. RN: o tipo sanguíneo é O positivo. HMA: fez seguimento em pré-natal de alto risco por causa do diagnóstico de hipertensão arterial crônica. Recebeu imunoglobulina anti-Rh D na 28ª semana. Com relação à profilaxia da aloimunização Rh, a imunoglobulina anti-Rh D:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "deve ser administrada, se o resultado do Coombs Indireto materno colhido antes do parto for negativo."
+      },
+      {
+        "letra": "B",
+        "texto": "não deve ser administrada, pois a mãe já a recebeu durante o seguimento pré-natal."
+      },
+      {
+        "letra": "C",
+        "texto": "deve ser administrada imediatamente, uma vez que o tipo sanguíneo do recém-nascido é positivo."
+      },
+      {
+        "letra": "D",
+        "texto": "não deve ser administrada, pois a paciente fez laqueadura tubária e não terá mais filhos."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 9379,
+    "tags": [],
+    "enunciado": "Paciente a termo e em trabalho de parto, sem condições de ir ao hospital teve seu parto em domicílio. Uma semana após o parto, a paciente vai com seu RN ao hospital para avaliação. Essa paciente é Rh negativo e tem Coombs indireto negativo. A conduta mais adequada quanto à incompatibilidade Rh é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Realizar a tipagem sanguínea do RN e, caso seja Rh positivo, aplicar a imunoglobulina anti-Rh."
+      },
+      {
+        "letra": "B",
+        "texto": "Aplicar a imunoglobulina anti-Rh, independente da tipagem do RN."
+      },
+      {
+        "letra": "C",
+        "texto": "Realizar tipagem do RN e, caso seja Rh positivo, aplicar a imunoglobulina anti-Rh, somente se o RN for do sexo feminino."
+      },
+      {
+        "letra": "D",
+        "texto": "Não aplicar a imunoglobulina, mesmo que o RN seja Rh positivo, pois o parto aconteceu há mais de 72 horas."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 9380,
+    "tags": [],
+    "enunciado": "Em relação aos exames complementares na doença hemolítica perinatal, analise as assertivas: I) A cordocentese é considerada o padrão-ouro na investigação fetal, permitindo determinar o hematócrito e a classi(cid:65)cação sanguínea fetal. II) Espectrofotometria do líquido amniótico avalia, através da avaliação da pigmentação, a concentração de bilirrubina neste líquido, e assim, indiretamente, estima a hemólise fetal. III) A doppler(cid:100)uxometria (pico de velocidade máxima da artéria cerebral média) é exame de grande valia, já que fornece informações sobre a anemia fetal, de forma não invasiva. Está/estão CORRETA (S):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "I e II, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "I e III, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "II e III, apenas."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II, III."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 9381,
+    "tags": [],
+    "enunciado": "A DHEG (doença hemolítica perinatal) se caracteriza por apresentar, exceto:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Alteração na permeabilidade vascular levando ao edema;"
+      },
+      {
+        "letra": "B",
+        "texto": "Vasoconstrição e diminuição da resistência periférica levando à hipertensão arterial;"
+      },
+      {
+        "letra": "C",
+        "texto": "Ativação do sistema de coagulação levando à coagulopatia;"
+      },
+      {
+        "letra": "D",
+        "texto": "No fígado, aumento isquemia periportal, podendo evoluir para necrose hemorrágica. 4000004301"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 9382,
+    "tags": [],
+    "enunciado": "Indica-se o uso de gamaglobulina hiperimune anti-D:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Na presença de sangramento vaginal após 35 semanas de gestação em mulher Rh negativa, Du positivo, com teste de Coombs indireto negativo."
+      },
+      {
+        "letra": "B",
+        "texto": "Na 28ª semana de gravidez em mulher Rh negativa, Du negativa, com pai Rh positivo ou desconhecido."
+      },
+      {
+        "letra": "C",
+        "texto": "Após parto a termo de gestante Rh negativo, Du positivo, teste de Coombs indireto negativo."
+      },
+      {
+        "letra": "D",
+        "texto": "Após curetagem por abortamento retido com 11 semanas em mulher Rh negativo, Du negativo com pai Rh negativo.  Respostas: 1 B 2 B 3 B 4 D 5 A 6 A 7 D 8 C 9 A 10 11 D 12 E 13 B 14 A 15 A 16 B 17 C 18 D 19 B 20 A 21 D 22 B 23 B 24 E 25 A 26 B 27 B 28 B 29 C 30 31 32 C 33 D 34 C 35 C 36 E 37 B 38 A 39 D 40 C 41 A 42 D 43 D 44 C 45 C 46 D 47 A 48 A 49 A 50 A 51 C 52 C 53 B 54 B 55 D 56 C 57 C 58 A 59 C 60 B 61 B 62 C 63 C 64 B 65 B 66 A 67 C 68 A 69 E 70 A 71 D 72 A 73 A 74 D 75 D 76 D 77 C 78 D 79 B 80 D 81 C 82 A 83 D 84 C 85 B 86 C 87 A 88 B 89 C 90 C 91 A 92 C 93 B 94 D 95 E 96 A 97 B 98 A 99 C 100 D 101 C 102 A 103 C 104 C 105 A 106 C 107 C 108 D 109 D 110 A 111 A 112 D 113 A 114 C 115 C 116 A 117 A 118 A 119 A 120 D 121 B 122 D 123 A 124 C 125 C 126 C 127 E 128 C 129 E 130 A 131 C 132 B 133 C 134 D 135 C 136 C 137 E 138 C 139 D 140 A 141 C 142 B 143 B 144 C 145 B 146 B 147 D 148 D 149 D 150 A 151 D 152 C 153 A 154 E 155 A 156 E 157 D 158 B 159 160 C 161 B 162 B 163 A 164 B 165 A 166 E 167 B 168 E 169 C 170 A 171 C 172 B 173 C 174 B 175 E 176 A 177 D 178 E 179 E 180 B 181 D 182 C 183 B 184 E 185 E 186 E 187 B 188 C 189 E 190 A 191 E 192 C 193 A 194 B 195 196 C 197 D 198 E 199 A 200 B"
+      }
+    ],
+    "resposta_correta": "B"
+  }
+]

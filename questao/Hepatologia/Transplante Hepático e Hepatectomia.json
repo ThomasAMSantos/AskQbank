@@ -1,0 +1,2156 @@
+[
+  {
+    "id": 71052,
+    "tags": [],
+    "enunciado": "A paciente da questão (",
+    "alternativas": [],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 71053,
+    "tags": [],
+    "enunciado": "transplante hepático. O médico esclareceu que não estão nas condições previstas pelo ministério da saúde para o transplante. Dentre as opções abaixo, também NÃO está contemplado pelo MS para o transplante:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hepatocarcinoma"
+      },
+      {
+        "letra": "B",
+        "texto": "Cirrose por vírus C"
+      },
+      {
+        "letra": "C",
+        "texto": "Cirrose por álcool"
+      },
+      {
+        "letra": "D",
+        "texto": "Polineuropatia amiloidótica familiar"
+      },
+      {
+        "letra": "E",
+        "texto": "Colangiocarcinoma 4000235685"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 71054,
+    "tags": [],
+    "enunciado": "Paciente masculino, de 58 anos, com cirrose por HCV, sem história de etilismo, realizou tomogra(cid:61)a computadorizada de abdômen contrastada. No laudo, constava: Há 2 nódulos hepáticos, um no segmento III. medindo 2,7 cm e outro no segmento VI. medindo 2,3 cm, ambos com realce heterogêneo pelo contraste na fase arterial e diminuição do realce pelo contraste nas fases portal e tardia. Não há sinais de invasão vascular ou linfonodomegalias intra-abdominais. Fígado de bordos rombos, ascite moderada, esplenomegalia (baço com 18 cm) e extensa circulação colateral porto-sistêmica. Tomogra(cid:61)a computadorizada de tórax estava normal. Exames laboratoriais indicaram albumina de 2,2 g/dl (valor de referência - VR: 3,5-5,2 g/dl), INR de 1,6, bilirrubina total de 1,7 mg/dl (VR: 0,2-1,2 mg/dl) e alfafetoproteína de 87 ng/ml (VR: < 10 ng/ml). Considerando o quadro clínico, qual dos tratamentos abaixo está indicado?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hepatectomia não regrada de ambas as lesões"
+      },
+      {
+        "letra": "B",
+        "texto": "Hepatectomia regrada do segmento III e do segmento VI do fígado"
+      },
+      {
+        "letra": "C",
+        "texto": "Transplante hepático"
+      },
+      {
+        "letra": "D",
+        "texto": "Tratamento sistêmico com sorafenibe apenas 4000230260"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 71055,
+    "tags": [],
+    "enunciado": "Entre os critérios para indicação de transplante hepático, assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cirrose por vírus da hepatite C, hipertensão portal, hepatocarcinoma com três nódulos, um em segmento IV de 2,3cm; outro em segmento VII de 2,7cm; e outro em segmento III de 2,9cm."
+      },
+      {
+        "letra": "B",
+        "texto": "Doença hepática policística, com síndrome compartimental."
+      },
+      {
+        "letra": "C",
+        "texto": "Cirrose hepática por esteato-hepatite não alcoólica, ascite refratária a tratamento medicamentoso."
+      },
+      {
+        "letra": "D",
+        "texto": "Cirrose por vírus B, hipertensão portal, hepatocarcinoma com dois nódulos, um em segmento II de 5,3cm e outro em segmento VIII de 2,2cm. 4000229238"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 71056,
+    "tags": [],
+    "enunciado": "O tempo de isquemia é o período entre a interrupção de (cid:72)uxo sanguíneo do doador para o órgão e o novo aporte de sangue após o implante no receptor, ou seja, é o tempo máximo que cada órgão resiste à falta de circulação e oxigenação sanguínea. Sendo assim, qual é o tempo de isquemia de um fígado?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "2 horas."
+      },
+      {
+        "letra": "B",
+        "texto": "3 dias."
+      },
+      {
+        "letra": "C",
+        "texto": "8 horas."
+      },
+      {
+        "letra": "D",
+        "texto": "12 horas. 4000216255"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 71057,
+    "tags": [],
+    "enunciado": "Na avaliação pré-operatória de candidatos a transplante de fígado pediátrico por atresia biliar, qual das seguintes afirmativas é verdadeira em relação às contraindicações para o procedimento?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A presença de infecção por HIV é uma contraindicação absoluta ao transplante de fígado pediátrico em todos os centros transplantadores."
+      },
+      {
+        "letra": "B",
+        "texto": "A síndrome hepatopulmonar é uma contraindicação ao transplante de fígado pediátrico quando o PaO2 melhora significativamente com a administração de 100% de oxigênio."
+      },
+      {
+        "letra": "C",
+        "texto": "A presença de hipertensão portopulmonar com pressões da artéria pulmonar abaixo de 50 mm Hg é uma contraindicação absoluta ao transplante."
+      },
+      {
+        "letra": "D",
+        "texto": "Trombose venosa portal é uma contraindicação relativa ao transplante de fígado pediátrico, podendo ser superada por meio de enxerto de ponte para a veia mesentérica superior."
+      },
+      {
+        "letra": "E",
+        "texto": "O compromisso contínuo com a imunossupressão pós-transplante é uma condição crítica e a incapacidade de aderir ao regime de imunossupressores é uma contraindicação ao transplante. 4000215548"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 71058,
+    "tags": [],
+    "enunciado": "Um paciente de 45 anos de idade, portador de cirrose hepática por causa da hepatite C crônica, foi submetido a avaliação multidisciplinar, indicado como candidato a transplante hepático e inserido na lista de espera por um órgão compatível. Na admissão, os sinais vitais apresentavam PA = 120 mmHg x 80 mmHg, FC = 75 bpm, FR = 19 irpm e temperatura = 36,8 °C. Ele realizou exames laboratoriais, os quais revelaram os seguintes resultados: bilirrubina total = 2,5 mg/dL, albumina = 3,0 g/dL, INR = 2,2 e creatinina = 1,0 mg/dL. Tendo em vista o caso clínico apresentado, assinale a alternativa que corresponde à principal indicação para transplante hepático em pacientes com cirrose hepática.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Diagnóstico de carcinoma hepatocelular"
+      },
+      {
+        "letra": "B",
+        "texto": "Ascite não responsiva ao tratamento médico"
+      },
+      {
+        "letra": "C",
+        "texto": "Peritonite bacteriana espontânea recorrente"
+      },
+      {
+        "letra": "D",
+        "texto": "Insuficiência cardíaca refratária"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 71059,
+    "tags": [],
+    "enunciado": "Diversos fatores relacionados à doença e ao paciente devem ser avaliados antes de decidir pela ressecção hepática. Com relação a este tema, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ressecções em cunha, enucleações e desbridamento de tecidos desvitalizados são exemplos das ressecções hepáticas anatômicas."
+      },
+      {
+        "letra": "B",
+        "texto": "As ressecções não anatômicas são preferidas por estarem associadas à menor perda de sangue e, quando realizadas para tratamento de câncer, à menor incidência de margens positivas."
+      },
+      {
+        "letra": "C",
+        "texto": "A embolização pré-operatória da veia porta é uma técnica que pode ser utilizada para aumentar a segurança das ressecções hepáticas maiores."
+      },
+      {
+        "letra": "D",
+        "texto": "O pinçamento do pedículo de influxo portal (manobra de Pringle) não deve ser utilizado para reduzir a perda de sangue via ramos arteriais intra-hepáticos e venosos portais, pois pode aumentar o sangramento proveniente das veias supra-hepáticas."
+      },
+      {
+        "letra": "E",
+        "texto": "Pode-se remover até no máximo 50% do fígado normal com a expectativa de que o remanescente irá se regenerar suficientemente para que o paciente sobreviva, desde que tenha função hepática normal."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 71060,
+    "tags": [],
+    "enunciado": "Homem, 45 anos, com neoplasia metastática em parênquima hepático, será submetido a tratamento cirúrgico. O cirurgião planeja uma hepatectomia esquerda estendida. Pode-se a(cid:61)rmar que, de acordo com a anatomia funcional hepática, haverá a ressecção dos segmentos:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II, III, IV e V"
+      },
+      {
+        "letra": "B",
+        "texto": "II, III, IV, V e VIII"
+      },
+      {
+        "letra": "C",
+        "texto": "I, II, III, IV, V e VIII"
+      },
+      {
+        "letra": "D",
+        "texto": "II, III, IV e V"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 71061,
+    "tags": [],
+    "enunciado": "Mulher de 54 anos hipertensa e diabética, em uso habitual de suas medicações, é submetida a drenagem percutânea de abscesso hepático em segmento VIII, um dreno do tipo \"pig tail\" é deixado. A drenagem foi e(cid:61)caz e inicialmente correspondeu a 360ml de aspecto achocolatado. Dois dias depois do procedimento, a paciente refere fezes pretas e mal cheirosas, cerca de 5 episódios, drenagem sanguinolenta pelo dreno e vômitos com sangue. Ao exame está pálida, tendo sido iniciado reposição volêmica e de hemoderivados. Sua hemoglobina estava 7,5g/dl antes da transfusão. Coagulograma normal. Apesar das medidas, o aspecto da fezes e do dreno continua inalterado. Qual medida deve ser submetida essa paciente nesse momento?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Retirada do dreno \"pig tail\" e observação."
+      },
+      {
+        "letra": "B",
+        "texto": "Embolização hepática por cateterização arterial."
+      },
+      {
+        "letra": "C",
+        "texto": "Seguestrectomia hepática ou destelhamento do abscesso."
+      },
+      {
+        "letra": "D",
+        "texto": "Colangiografia endoscópica retrógrada e passagem de stent."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 71062,
+    "tags": [],
+    "enunciado": "A imagem abaixo representa uma hepatectomia de doador vivo para transplante. A linha demarcada representa uma linha imaginaria para a ressecção anatômica que separa o lobo esquerdo do lobo direito que vai desde o fundo da vesícula biliar a borda lateral da veia hepática média e veia cava. Qual o nome da referida linha?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Linha de Arantius"
+      },
+      {
+        "letra": "B",
+        "texto": "Linha de Rex"
+      },
+      {
+        "letra": "C",
+        "texto": "Linha de Cantus"
+      },
+      {
+        "letra": "D",
+        "texto": "Linha de Makuuchi"
+      },
+      {
+        "letra": "E",
+        "texto": "Linha de Cantlie 4000188252"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 71063,
+    "tags": [],
+    "enunciado": "Um paciente de 50 anos é portador de volumosa tumoração hepática envolvendo todo lobo esquerdo e parte do lobo direito e foi submetido a trissetorectomia esquerda. Quais os segmentos hepáticos foram ressecados segundo a classificação de Couinaud:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II, III, IV"
+      },
+      {
+        "letra": "B",
+        "texto": "I, II, III, IV, V e VIII"
+      },
+      {
+        "letra": "C",
+        "texto": "IV, V,VI,VII e VIII"
+      },
+      {
+        "letra": "D",
+        "texto": "V,VI,VII,VIII e I"
+      },
+      {
+        "letra": "E",
+        "texto": "II,III,IV,VI e VII 4000188241"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 71064,
+    "tags": [],
+    "enunciado": "São contraindicações absolutas ao transplante hepático, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "infecções bacterianas ou fúngicas extra-hepáticas não controladas."
+      },
+      {
+        "letra": "B",
+        "texto": "idade maior que 70 anos."
+      },
+      {
+        "letra": "C",
+        "texto": "neoplasia maligna metastática."
+      },
+      {
+        "letra": "D",
+        "texto": "abuso ativo de drogas ou de álcool."
+      },
+      {
+        "letra": "E",
+        "texto": "doença cardiovascular preexistente em fase avançada. 4000186336"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 71065,
+    "tags": [],
+    "enunciado": "Em relação ao transplante hepático, o termo doador efetivo se refere a:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "paciente com lesão encefálica grave em uso de DVA."
+      },
+      {
+        "letra": "B",
+        "texto": "paciente quando iniciada a cirurgia para captação de órgãos."
+      },
+      {
+        "letra": "C",
+        "texto": "paciente após confirmação da morte encefálica."
+      },
+      {
+        "letra": "D",
+        "texto": "paciente após abertura de protocolo de morte encefálica. 4000183978"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 71066,
+    "tags": [],
+    "enunciado": "Pacientes portadores de insu(cid:61)ciência hepática, com ou sem sangramento varicoso, devem ser avaliados quanto às indicações para transplante hepático. Em relação a esse procedimento, assinale a alternativa mais adequada.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pacientes que sangram de varizes e apresentam reserva funcional hepática adequada (classes A e B de Child) devem ser tratados, inicialmente, por transplante intervivos."
+      },
+      {
+        "letra": "B",
+        "texto": "A cirrose de etiologia alcoólica exclui o paciente da possibilidade de transplante hepático."
+      },
+      {
+        "letra": "C",
+        "texto": "A TIPS (derivação portossistêmica intra-hepática transjugular) deve ser indicada como procedimento ponte para o transplante em pacientes com insucesso da terapia endoscópica e farmacológica para varizes esofagogástricas."
+      },
+      {
+        "letra": "D",
+        "texto": "O transplante hepático não proporciona uma descompressão confiável do sistema porta."
+      },
+      {
+        "letra": "E",
+        "texto": "O transplante hepático está indicado para pacientes com esquistossomose em caso de sangramento varicoso mesmo com função hepática normal."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 71067,
+    "tags": [],
+    "enunciado": "Existem várias técnicas e muitos métodos para coagular e controlar os vasos sanguíneos nas hepatectomias. O conceito mais importante, no entanto, é a secção do tecido hepático e que essa dissecção seja feita por um cirurgião que tenha completo conhecimento da anatomia vascular do fígado. O conhecimento pormenorizado da anatomia do fígado é essencial para a prática da operação hepática segura. Segundo o consenso Brisbane (2000), quais são os segmentos ressecados na hemi-hepatectomia direita?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "II, III e IV."
+      },
+      {
+        "letra": "B",
+        "texto": "VI e VIII."
+      },
+      {
+        "letra": "C",
+        "texto": "V, VI, VII e VIII."
+      },
+      {
+        "letra": "D",
+        "texto": "IV, V, VI, VII e VIII."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 71068,
+    "tags": [],
+    "enunciado": "Sobre a cirurgia hepática assinale a opção CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A hipertensão portal ocasiona circulação colateral entre o sistema porta e a veia cava, como por exemplo entre a veia retal superior e a veia ilíaca interna através do plexo hemorroidário;"
+      },
+      {
+        "letra": "B",
+        "texto": "A irrigação hepática é dupla com 50% do sangue proveniente da artéria hepática e 50% da veia porta;"
+      },
+      {
+        "letra": "C",
+        "texto": "O adenoma hepático geralmente são únicos, assintomáticos e raramente cursam com necessidade de cirurgia;"
+      },
+      {
+        "letra": "D",
+        "texto": "A ressecção do carcinoma hepatocelular tem potencial curativo e é a opção terapêutica inicial na maioria dos casos;"
+      },
+      {
+        "letra": "E",
+        "texto": "A hepatectomia esquerda corresponde à ressecção dos segmentos II e III (lobo esquerdo). 4000175212"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 71069,
+    "tags": [],
+    "enunciado": "Atualmente, a indicação do transplante hepático na Síndrome de Budd-Chiari é devida:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ao fracasso do tratamento clínico e das derivações portossistêmicas em pacientes com insuficiência hepática progressiva."
+      },
+      {
+        "letra": "B",
+        "texto": "à anticoagulação contraindicada pelo risco de hemobilia, presença de ascite e icterícia intratável."
+      },
+      {
+        "letra": "C",
+        "texto": "a TIPSS prévio em pacientes selecionados com trombose antiga ou com estenose de longa extensão da veia cava inferior ou de veias hepáticas."
+      },
+      {
+        "letra": "D",
+        "texto": "a casos de obstrução focal da cava supra-hepática por membrana onde a dilatação da estenose com balão transluminal percutâneo não for possível."
+      },
+      {
+        "letra": "E",
+        "texto": "em todos os pacientes portadores da Síndrome, ao alto risco de desenvolverem hepatocarcinoma. 4000174193"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 71070,
+    "tags": [],
+    "enunciado": "Os critérios de Milão selecionam os doentes com hepatocarcinoma para a realização de transplante hepático como tratamento. São eles:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "tumor único menor que 5 cm ou no máximo três tumores, o maior deles tendo menos de 3 cm."
+      },
+      {
+        "letra": "B",
+        "texto": "tumor único menor que 7 cm ou no máximo quatro tumores, o maior deles tendo menos de 3 cm."
+      },
+      {
+        "letra": "C",
+        "texto": "tumor único menor que 5 cm ou no máximo dois tumores, o maior deles tendo menos de 4 cm."
+      },
+      {
+        "letra": "D",
+        "texto": "tumor único menor que 7 cm ou no máximo dois tumores, o maior deles tendo menos de 4 cm. 4000173399"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 71071,
+    "tags": [],
+    "enunciado": "Paciente cirrótico por hepatite B, CHILD C, MELD 12, apresenta carcinoma hepatocelular de 4,2 cm no maior diâmetro localizado no segmento II hepático, sem invasão vascular ou metástases, com alfa- fetoproteína de valor normal. O melhor tratamento para este paciente é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Transplante hepático."
+      },
+      {
+        "letra": "B",
+        "texto": "Quimioembolização transarterial."
+      },
+      {
+        "letra": "C",
+        "texto": "Quimioterapia sistêmica oral com sorafenibe."
+      },
+      {
+        "letra": "D",
+        "texto": "Segmentectomia hepática."
+      },
+      {
+        "letra": "E",
+        "texto": "Radioablação. 4000171687"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 71072,
+    "tags": [],
+    "enunciado": "Pacientes hepatopatas candidatos a transplante hepático tem o status médico determinado pelo modelo de pontuação da doença hepática em estágio terminal. Quais são os parâmetros utilizados na avaliação?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tempo da atividade da protrombina, ureia e bilirrubina."
+      },
+      {
+        "letra": "B",
+        "texto": "Razão normatizada internacional, creatinina e albumina."
+      },
+      {
+        "letra": "C",
+        "texto": "Razão normatizada internacional, creatinina e bilirrubina."
+      },
+      {
+        "letra": "D",
+        "texto": "Tempo da atividade da protrombina, bilirrubina e fosfatase alcalina."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 71073,
+    "tags": [],
+    "enunciado": "Paciente de 59 anos de idade, sexo masculino, com histórico de etilismo pesado durante cerca de 30 anos, iniciou com quadro de edema de membros inferiores, icterícia e ascite. Durante investigação diagnóstica, uma ultrassonogra(cid:61)a de abdome demonstrou esplenomegalia, hipotro(cid:61)a de lobo direito do fígado e hipertro(cid:61)a de lobo caudado. Exames laboratoriais demonstraram bilirrubina total de 3,5 mg\\dL; albumina sérica de 2,0 mg\\dL; creatinina de 1,8 mg\\dL e RNI (índice de normatização do tempo de protrombina) de 1,8. Após passar por exames de protocolo para transplante e de observar 6 meses de abstinência alcoólica (com acompanhamento psiquiátrico), esse paciente foi colocado na lista de espera para um transplante ortotópico de fígado cadavérico. Em relação a esse caso, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A descoberta da droga ciclosporina no final da década de 70 foi responsável pela manutenção hemodinâmica durante o término da hepatectomia e o implante do novo fígado, levando os índices de sobrevida de pacientes pós-transplante para cerca de 70% em um ano."
+      },
+      {
+        "letra": "B",
+        "texto": "O MELD (sigla para Model for Endstage Liver Disease) é o critério atual no Brasil para alocação de enxertos hepáticos na população adulta e se calcula a partir de uma fórmula logarítmica utilizando valores de bilirrubina total, creatinina, albumina e RNI."
+      },
+      {
+        "letra": "C",
+        "texto": "São algumas das indicações para transplante hepático: cirrose biliar primária, hepatite fulminante induzida por medicamentos, cirrose por hepatite viral crônica B ou C, doença de Wilson."
+      },
+      {
+        "letra": "D",
+        "texto": "A rejeição crônica (ductopênica) é muito comum, ocorrendo em cerca de 80% dos pacientes submetidos ao transplante hepático, e o seu tratamento consiste em corticosteroides em altas doses e apresenta um excelente prognóstico."
+      },
+      {
+        "letra": "E",
+        "texto": "O transplante de fígado por cirrose alcoólica não é realizado no Brasil."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 71074,
+    "tags": [],
+    "enunciado": "Assinale a alternativa correta sobre as contraindicações absolutas do transplante hepático.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sepse não controlada"
+      },
+      {
+        "letra": "B",
+        "texto": "Disfunção renal severa"
+      },
+      {
+        "letra": "C",
+        "texto": "Idade acima de 65 anos"
+      },
+      {
+        "letra": "D",
+        "texto": "Neoplasia maligna do fígado"
+      },
+      {
+        "letra": "E",
+        "texto": "Condição social que dificulte o pós-operatório"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 71075,
+    "tags": [],
+    "enunciado": "Homem de 51 anos, portador da síndrome de Budd-Chiari, submetido a derivação portossistêmica há 2 anos, procura atendimento médico por apresentar alteração discreta de comportamento e aumento do volume abdominal (ascite moderada). Na admissão, foram realizados os seguintes exames: bilirrubinas totais = 3,5 mg/dL; albumina = 2,8 g/dL; TAP = 8 segundos. Qual é a opção terapêutica mais indicada ao paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "TIPS."
+      },
+      {
+        "letra": "B",
+        "texto": "Escleroterapia endoscópica seriada."
+      },
+      {
+        "letra": "C",
+        "texto": "Transplante hepático."
+      },
+      {
+        "letra": "D",
+        "texto": "Espironolactona, lactulose e betabloqueador."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 71076,
+    "tags": [],
+    "enunciado": "Em relação ao transplante hepático, não é contraindicação:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sepse vigente."
+      },
+      {
+        "letra": "B",
+        "texto": "Idade maior que 65 anos."
+      },
+      {
+        "letra": "C",
+        "texto": "Trombose Portal Tipo IV."
+      },
+      {
+        "letra": "D",
+        "texto": "Doenças metastáticas."
+      },
+      {
+        "letra": "E",
+        "texto": "Etilismo em atividade."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 71077,
+    "tags": [],
+    "enunciado": "São indicações de transplante hepático, exceto:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Atresia biliar"
+      },
+      {
+        "letra": "B",
+        "texto": "Cirrose biliar primária"
+      },
+      {
+        "letra": "C",
+        "texto": "Síndrome de Alagille"
+      },
+      {
+        "letra": "D",
+        "texto": "Cirrose criptogênica"
+      },
+      {
+        "letra": "E",
+        "texto": "Síndrome de Alport"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 71078,
+    "tags": [],
+    "enunciado": "Uma mulher de 39 anos apresenta um nódulo hepático, em segmento V de aproximadamente 6cm. À tomografia, observa-se que essa lesão é hipercaptante de contraste na fase arterial. A melhor conduta para a paciente é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "observação."
+      },
+      {
+        "letra": "B",
+        "texto": "investigar tumor primário em outros sítios."
+      },
+      {
+        "letra": "C",
+        "texto": "biópsia hepática guiada por US."
+      },
+      {
+        "letra": "D",
+        "texto": "videolaparoscopia com biópsia hepática."
+      },
+      {
+        "letra": "E",
+        "texto": "hepatectomia segmentar."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 71079,
+    "tags": [],
+    "enunciado": "Paciente de anos de idade, com histórico de hemorragia digestiva vultuosa há um mês. Nega etilismo. Relata antecedente de hepatite aos 20 anos de idade. Apresenta em exames laboratoriais : Bilirrubinas totais=3,5 ,Creatinina=1,5 e INR= 1,75. A tomogra(cid:61)a apresenta fígado de heterogeneidade multinodular ,com nódulo periférico de 3 cm de diâmetro em lobo esquerdo, apresentando realce em fase arterial da infusão de contraste, desaparecendo nas fases portal e de equilíbrio. Qual conduta mais indicada:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Biópsia do nódulo"
+      },
+      {
+        "letra": "B",
+        "texto": "Ressecção hepática com biópsia de congelação"
+      },
+      {
+        "letra": "C",
+        "texto": "Transplante hepático"
+      },
+      {
+        "letra": "D",
+        "texto": "Acompanhamento clínico/radiológico"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 71080,
+    "tags": [],
+    "enunciado": "Transplante hepático Um paciente de 50 anos com cirrose hepática por hepatite C, Child B, com varizes esofágicas de médio calibre, apresenta à ultra-sonogra(cid:61)a abdominal um hepatocarcinoma de 3,5 cm de diâmetro em segmento 5 hepático. A melhor conduta terapêutica é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Transplante hepático."
+      },
+      {
+        "letra": "B",
+        "texto": "Ressecção hepática regrada: hepatectomia direita."
+      },
+      {
+        "letra": "C",
+        "texto": "Ressecção hepática não regrada: nodulectomia."
+      },
+      {
+        "letra": "D",
+        "texto": "Quimioembolização."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 71081,
+    "tags": [],
+    "enunciado": "São consideradas contraindicações relativas dos transplantes hepáticos:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Doença cardiopulmonar avançada e obesidade mórbida"
+      },
+      {
+        "letra": "B",
+        "texto": "Doença maligna extra-hepática não tratada e desnutrição grave"
+      },
+      {
+        "letra": "C",
+        "texto": "Sorologia positiva para HIV e alcoolismo ativo"
+      },
+      {
+        "letra": "D",
+        "texto": "Tumores hepáticos metastáticos e idade acima de 70 anos"
+      },
+      {
+        "letra": "E",
+        "texto": "Alcoolismo ativo e infecção ativa extra-hepática não tratada"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 71082,
+    "tags": [],
+    "enunciado": "Paciente ♂, 50 anos, portador de hepatite B, Child A, MELD 6, apresenta na tomogra(cid:61)a de abdome com contraste dinâmico lesão hipervascular com washout precoce e diâmetro de 6,5 cm localizada em segmento III do fígado. A dosagem de alfa-feto-proteína foi de 1900 ng/ml. Qual a melhor conduta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Indicar transplante hepático"
+      },
+      {
+        "letra": "B",
+        "texto": "Ablação por radiofrequência"
+      },
+      {
+        "letra": "C",
+        "texto": "Segmentectomia do segmento III"
+      },
+      {
+        "letra": "D",
+        "texto": "Alcoolização percutânea"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 71083,
+    "tags": [],
+    "enunciado": "Qual das alternativas abaixo NÃO é uma contraindicação para o transplante hepático?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Colangiocarcinoma de grandes ductos."
+      },
+      {
+        "letra": "B",
+        "texto": "Doença alcoólica com menos de seis meses de abstinência."
+      },
+      {
+        "letra": "C",
+        "texto": "Tumores hepáticos metastáticos de qualquer origem, exceto os adenocarcinomas pulmonares com metástase única."
+      },
+      {
+        "letra": "D",
+        "texto": "Polineuropatia amiloidótica familiar avançada grau IV."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 71084,
+    "tags": [],
+    "enunciado": "Com relação à disfunção primária do enxerto no transplante hepático ortotópico, assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A disfunção primária do enxerto abrange desde o mau funcionamento inicial até o não- funcionamento primário do enxerto, que é um evento raro e requer retransplante imediato."
+      },
+      {
+        "letra": "B",
+        "texto": "O aumento progressivo das bilirrubinas nos primeiros dias de pós-operatório é um dos principais indicadores de disfunção do fígado."
+      },
+      {
+        "letra": "C",
+        "texto": "No pós-operatório imediato, um grande aumento dos níveis de transaminases, a instalação abrupta de insuficiência renal e persistência do coma são indicadores do não- funcionamento primário do fígado."
+      },
+      {
+        "letra": "D",
+        "texto": "A causa exata da disfunção primária do enxerto ainda é desconhecida, mas existem fatores que parecem estar intimamente relacionados à sua maior incidência. Entre eles, destacam-se aqueles relacionados ao doador: grau de esteatose, extremos de idade, instabilidade hemodinâmica, uso de altas doses de drogas vasoativas e tempo de isquemia fria prolongado."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 71085,
+    "tags": [],
+    "enunciado": "Segundo a legislação brasileira de transplantes, são indicações de transplante hepático com doador cadavérico, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hemocromatose."
+      },
+      {
+        "letra": "B",
+        "texto": "Cirrose secundária à hepatite viral B."
+      },
+      {
+        "letra": "C",
+        "texto": "Doença de Budd-Chiari."
+      },
+      {
+        "letra": "D",
+        "texto": "Carcinoma hepatocelular de 7 cm."
+      },
+      {
+        "letra": "E",
+        "texto": "Hepatite fulminante por paracetamol."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 71086,
+    "tags": [],
+    "enunciado": "Anatomicamente o fígado é dividido pelo ligamento falciforme em lobos direito e esquerdo, enquanto que funcionalmente ele é dividido em fígado direito e esquerdo transversalmente pelos ramos portais e longitudinalmente pelas veias hepáticas. Dado estes conhecimentos responda as seguintes questões:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O fígado direito corresponde aos segmentos I, II, V e VI."
+      },
+      {
+        "letra": "B",
+        "texto": "O fígado direito corresponde aos segmentos I, IV,V,VI e VII."
+      },
+      {
+        "letra": "C",
+        "texto": "O Fígado esquerdo corresponde aos segmentos II, III e VII."
+      },
+      {
+        "letra": "D",
+        "texto": "O fígado direito corresponde aos segmentos V,VI,VII e VIII."
+      },
+      {
+        "letra": "E",
+        "texto": "O Fígado direito corresponde os segmentos IV, V, VI e VII."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 71087,
+    "tags": [],
+    "enunciado": "Indicações do transplante hepático Assinale a alternativa falsa:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As doenças colestáticas, como cirrose biliar primária, cirrose biliar secundária e a colangite esclerosante primária, são doenças tratadas com mais amplo sucesso pelo transplante hepático."
+      },
+      {
+        "letra": "B",
+        "texto": "O tratamento de escolha na doença cística coledociana é a ressecção parcial com reconstrução em Y de Roux do canal pancreático com o canal biliar."
+      },
+      {
+        "letra": "C",
+        "texto": "Os níveis séricos de gastrina podem ser aumentados pela administração intravenosa de cálcio ou de secretina no diagnóstico de síndrome de Zollinger-Ellison."
+      },
+      {
+        "letra": "D",
+        "texto": "Heineke-Mikuliz, finney e Jaboulay são técnicas de piloroplastia recomendados nos pacientes submetidos a vagotomia troncolar seletiva"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 71088,
+    "tags": [],
+    "enunciado": "São indicações de transplante hepático, exceto:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hepatite crônica ativa"
+      },
+      {
+        "letra": "B",
+        "texto": "Hemorragia alta de repetição"
+      },
+      {
+        "letra": "C",
+        "texto": "Cirrose biliar primária"
+      },
+      {
+        "letra": "D",
+        "texto": "Síndrome de Budd-Chiari"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 71089,
+    "tags": [],
+    "enunciado": "Sobre o transplante hepático estão corretas as assertivas, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ocasionalmente o transplante de fígado-coração é realizado para algumas doenças como amiloidose."
+      },
+      {
+        "letra": "B",
+        "texto": "A prioridade do paciente na lista de espera é baseada em seu status médico determinado pelo modelo de pontuação MELD."
+      },
+      {
+        "letra": "C",
+        "texto": "Contraindicado se houver sangramento varicoso."
+      },
+      {
+        "letra": "D",
+        "texto": "A infecção crônica por hepatite C é a indicação mais comum para transplantes no mundo ocidental."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 71090,
+    "tags": [],
+    "enunciado": "Qual é a primeira linha na terapêutica da encefalopatia hepática?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Antibióticos."
+      },
+      {
+        "letra": "B",
+        "texto": "Transplante hepático."
+      },
+      {
+        "letra": "C",
+        "texto": "Diálise peritoneal."
+      },
+      {
+        "letra": "D",
+        "texto": "Lactulose."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 71091,
+    "tags": [],
+    "enunciado": "Assinale a principal causa de transplante hepático, atualmente no Brasil:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cirrose por álcool."
+      },
+      {
+        "letra": "B",
+        "texto": "Cirrose por hepatite B."
+      },
+      {
+        "letra": "C",
+        "texto": "Cirrose por hepatite C."
+      },
+      {
+        "letra": "D",
+        "texto": "Cirrose por esteatose hepática não alcoólica."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 71092,
+    "tags": [],
+    "enunciado": "Atualmente não tem sido indicação para transplante hepático a seguinte condição:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "cirrose alcoólica com insuficiência hepática"
+      },
+      {
+        "letra": "B",
+        "texto": "infecção por hepatite C"
+      },
+      {
+        "letra": "C",
+        "texto": "esteatose com insuficiência hepática"
+      },
+      {
+        "letra": "D",
+        "texto": "carcinoma hepatocelular"
+      },
+      {
+        "letra": "E",
+        "texto": "câncer de cólon metastático"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 71093,
+    "tags": [],
+    "enunciado": "Transplante hepático Qual dos seguintes casos tem indicação formal para realização de transplante hepático conforme legislação brasileira vigente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Paciente com CHC de 5,5 cm, no segmento II."
+      },
+      {
+        "letra": "B",
+        "texto": "Paciente com CHC de 4,5 cm, no segmento VIII, com invasão da veia hepática direita."
+      },
+      {
+        "letra": "C",
+        "texto": "Paciente com carcinoma fibrolamelar irressecável, mas com 1 lesão metastática pulmonar ressecável."
+      },
+      {
+        "letra": "D",
+        "texto": "Paciente com colangiocarcinoma hilar de 2 cm, estendendo-se para ducto hepático direito, sem acometimento vascular."
+      },
+      {
+        "letra": "E",
+        "texto": "Paciente com três lesões compatíveis com CHC no lobo hepático direito, sendo que a maior mede 2,8 cm."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 71094,
+    "tags": [],
+    "enunciado": "A indicação mais frequente para um transplante hepático em crianças é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Doença de Wilson."
+      },
+      {
+        "letra": "B",
+        "texto": "Síndrome de Alagille."
+      },
+      {
+        "letra": "C",
+        "texto": "Atresia Biliar."
+      },
+      {
+        "letra": "D",
+        "texto": "Hepatite aguda fulminante."
+      },
+      {
+        "letra": "E",
+        "texto": "Tirosinemia elevada."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 71095,
+    "tags": [],
+    "enunciado": "Em relação ao transplante hepático, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a colecistite aguda é a condição inflamatória mais temida no paciente transplantado."
+      },
+      {
+        "letra": "B",
+        "texto": "a trombose da veia porta no receptor é uma contraindicação absoluta ao transplante hepático."
+      },
+      {
+        "letra": "C",
+        "texto": "os distúrbios genéticos do metabolismo são a principal causa de transplante hepático em crianças."
+      },
+      {
+        "letra": "D",
+        "texto": "a estenose da anastomose de via biliar é a complicação aguda mais temida no transplante hepático."
+      },
+      {
+        "letra": "E",
+        "texto": "nos pacientes transplantados, a incidência de câncer aumenta com o tempo de evolução e a maioria é de pele."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 71096,
+    "tags": [],
+    "enunciado": "Os segmentos hepáticos são muito importantes para a cirurgia abdominal, uma vez que possibilitam a ressecção de porções individuais do fígado sem sangramento. É CORRETO afirmar que os segmentos incluídos na Hepatectomia Direita são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II, III, IV I"
+      },
+      {
+        "letra": "B",
+        "texto": "V, VI, VII, VIII"
+      },
+      {
+        "letra": "C",
+        "texto": "II, III, IVa, IVb"
+      },
+      {
+        "letra": "D",
+        "texto": "III, IV, V, VI"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 71097,
+    "tags": [],
+    "enunciado": "Apesar de ser uma terapêutica com altos índices de sobrevida pós-operatória, o Transplante Hepático poderá evidenciar maus resultados quando realizado em pacientes sem condições clínicas para o procedimento. Serão consideradas contra-indicações absolutas as seguintes situações, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Idade acima de 65 anos."
+      },
+      {
+        "letra": "B",
+        "texto": "Abstinência alcoólica menor que 6 meses na época do transplante."
+      },
+      {
+        "letra": "C",
+        "texto": "Neoplasia extra - hepática."
+      },
+      {
+        "letra": "D",
+        "texto": "Doença extra-hepática descompensada."
+      },
+      {
+        "letra": "E",
+        "texto": "Ascite associada a insuficiência renal."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 71098,
+    "tags": [],
+    "enunciado": "Paciente 70 anos, portadora de cirrose hepática pelo vírus C, admitida na enfermaria de clínica Médica por encefalopatia hepática inicial. Na anamnese e exame físico você descobre que, apesar de apresentar ascite, ela nunca precisou de paracentese de alívio. Seus exames evidenciaram: bilirrubinas totais de 2,3 mg/dL, INR de 1,6 e albumina de 2,5 g/dL. Marque a alternativa que fornece a correta classi(cid:61)cação de Child-Pugh desta paciente, e quanto à indicação ou não de transplante hepático:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Child-Pugh A, sem indicação de transplante."
+      },
+      {
+        "letra": "B",
+        "texto": "Child-Pugh B, sem indicação de transplante."
+      },
+      {
+        "letra": "C",
+        "texto": "Child-Pugh B, com indicação de transplante."
+      },
+      {
+        "letra": "D",
+        "texto": "Child-Pugh C, sem indicação de transplante."
+      },
+      {
+        "letra": "E",
+        "texto": "Child-Pugh C, com indicação de transplante."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 71099,
+    "tags": [],
+    "enunciado": "As manifestações clínicas da síndrome de Alagille são expressas em diferentes graus e podem ser inespecí(cid:61)cas. O prognóstico para sobrevida prolongada é bom, mas os pacientes são propensos a ter pruridos, além de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "hipercolesterolemia e deficência de vitamia E"
+      },
+      {
+        "letra": "B",
+        "texto": "hipocalcemia e deficiência de vitamina A"
+      },
+      {
+        "letra": "C",
+        "texto": "hipoglicemia e deficiência de vitamina D"
+      },
+      {
+        "letra": "D",
+        "texto": "hipertrigliceridemia e deficiência de vitamina B12"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 71100,
+    "tags": [],
+    "enunciado": "Quais das situações a seguir são caracterizadas como situações especiais para a inclusão em lista de transplante de fígado:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "hemangioendotelioma epitelioide de fígado irressecável, síndrome hepatopulmonar e síndrome hepatorrenal."
+      },
+      {
+        "letra": "B",
+        "texto": "síndrome hepatopulmonar, hemangioendotelioma epitelioide de fígado irressecável e colangiocarcinoma irressecável."
+      },
+      {
+        "letra": "C",
+        "texto": "polineuropatia amiloidótica familiar, trombose de artéria hepática pós--transplante de fígado e metástase de neoplasia de cólon irressecável."
+      },
+      {
+        "letra": "D",
+        "texto": "adenomatosa múltipla bilobar extensa irressecável, trombose de artéria hepática pós- transplante de fígado e síndrome hepatopulmonar."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 71101,
+    "tags": [],
+    "enunciado": "São indicações para transplante hepático, exceto:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Paciente cirrótico CHILD A com 02 ou mais episódios de hemorragia digestiva alta e necessidade de hemotransfusão."
+      },
+      {
+        "letra": "B",
+        "texto": "Paciente cirrótico CHILD B ou C, independente de complicações."
+      },
+      {
+        "letra": "C",
+        "texto": "Paciente cirrótico que já tenha apresentado trombose de veia porta, independente do escore de CHILD."
+      },
+      {
+        "letra": "D",
+        "texto": "Paciente cirrótico com carcinoma hepatocelular menor que 5 cm."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 71102,
+    "tags": [],
+    "enunciado": "Mulher, 53 anos, procura atendimento ambulatorial para consulta de rotina. A(cid:61)rma estar infectada há mais de 25 anos por hepatite C. Seus últimos exames laboratoriais mostram bilirrubina total de 8,1 mg/dL, 79.000 plaquetas, tempo de protrombina de 48% e o índice internacional normalizado (INR) de 2,3. A ultrassonogra(cid:61)a revelou fígado com micronodulações e macronodulações além de ascite em moderada quantidade. A paciente quer saber se seu caso tem indicação ou não para transplante hepático. Assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Está indicado o transplante hepático pois o risco de recorrência da infecção por hepatite C é mínima já que vírus reside quase que exclusivamente no tecido hepático."
+      },
+      {
+        "letra": "B",
+        "texto": "Está contraindicado se o doador tiver menos de 30 anos pelo risco mais alto de cirrose recorrente."
+      },
+      {
+        "letra": "C",
+        "texto": "Está indicado pois o modelo de pontuação da doença hepática de estágio final (MELD) considera somente INR e níveis de bilirrubina."
+      },
+      {
+        "letra": "D",
+        "texto": "Está absolutamente contraindicado se durante avaliação pré-transplante forevidenciada infecção por HIV."
+      },
+      {
+        "letra": "E",
+        "texto": "Está indicado, pois infecção crônica por hepatite C é um fator de risco importante para o desenvolvimento de carcinoma hepatocelular."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 71103,
+    "tags": [],
+    "enunciado": "Sobre as complicações iniciais do transplante de fígado, assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os primeiros sinais que o fígado recém-implantado está funcionando são melhora da acidose metabólica, normalização dos parâmetros da coagulação e a produção de bile."
+      },
+      {
+        "letra": "B",
+        "texto": "A trombose da artéria hepática ocorre em 10% dos procedimentos de transplante em adultos, e em crianças a incidência é de três vezes menor."
+      },
+      {
+        "letra": "C",
+        "texto": "A disfunção primária refere-se a uma condição rara e fatal em que o fígado transplantado não funciona."
+      },
+      {
+        "letra": "D",
+        "texto": "A trombectomia da artéria hepática é necessária na maioria dos pacientes com trombose da artéria hepática."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 71104,
+    "tags": [],
+    "enunciado": "Assinale a alternativa que corresponde à doença com maior indicação de transplante no mundo ocidental.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cirrose Biliar Primária."
+      },
+      {
+        "letra": "B",
+        "texto": "Cirrose alcoólica."
+      },
+      {
+        "letra": "C",
+        "texto": "Atresia Biliar."
+      },
+      {
+        "letra": "D",
+        "texto": "Cirrose por Hepatite C."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 71105,
+    "tags": [],
+    "enunciado": "São indicações de transplante hepático, EXCETO",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "atresia biliar."
+      },
+      {
+        "letra": "B",
+        "texto": "cirrose biliar primária."
+      },
+      {
+        "letra": "C",
+        "texto": "síndrome de Alagille."
+      },
+      {
+        "letra": "D",
+        "texto": "cirrose criptogênica."
+      },
+      {
+        "letra": "E",
+        "texto": "síndrome de Alport."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 71106,
+    "tags": [],
+    "enunciado": "Em qual das neoplasias abaixo está indicado o transplante hepático:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hepatocarcinoma com até 3 nódulos com menos de 3 cm cada."
+      },
+      {
+        "letra": "B",
+        "texto": "Colangiocarcinoma de lobo direito <5 cm de diâmetro."
+      },
+      {
+        "letra": "C",
+        "texto": "Colangiocarcinoma de hilo hepático de 2 cm com icterícia."
+      },
+      {
+        "letra": "D",
+        "texto": "Hepatocarcinoma até 6 cm de diâmetro no lobo direito."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 71107,
+    "tags": [],
+    "enunciado": "Nos casos de pacientes cirróticos com pressão portal maior que 10 mmHg e varizes de esôfago, qual seria a melhor terapêutica cirúrgica?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Colocar um TIPS."
+      },
+      {
+        "letra": "B",
+        "texto": "Transplante Hepático."
+      },
+      {
+        "letra": "C",
+        "texto": "Cirurgia de Warren."
+      },
+      {
+        "letra": "D",
+        "texto": "Shunt término-lateral Porto-cava."
+      },
+      {
+        "letra": "E",
+        "texto": "Desvascularização gastroesofágica."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 71108,
+    "tags": [],
+    "enunciado": "Em relação ao per(cid:61)l sorológico de pacientes cirróticos potencialmente candidatos a transplante hepático, o que pode ser caracterizado como contraindicação à realização deste procedimento é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sorologia positiva para HIV, com CD4 inferior a 250."
+      },
+      {
+        "letra": "B",
+        "texto": "Cirrose hepática por vírus da hepatite C, com carga viral superior a 200.000 cópias/ml."
+      },
+      {
+        "letra": "C",
+        "texto": "Sorologia positiva para Chagas."
+      },
+      {
+        "letra": "D",
+        "texto": "Colecistectomia prévia."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 71109,
+    "tags": [],
+    "enunciado": "Considera-se como contraindicações para o transplante hepático:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Trombose do sistema porta, alcoolismo, HIV positivo."
+      },
+      {
+        "letra": "B",
+        "texto": "Neoplasia extra-hepática, doenças cardiopulmonares, coagulopatias."
+      },
+      {
+        "letra": "C",
+        "texto": "Desnutrição grave, cirrose biliar primária, doença cardíaca isquêmica."
+      },
+      {
+        "letra": "D",
+        "texto": "Doença renal crônica, hepatite tipo C, tumores metastáticos não endócrinos."
+      },
+      {
+        "letra": "E",
+        "texto": "Alcoolismo persistente, hepatocarcinoma maior que 5 cm, doenças cardiopulmonares graves."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 71110,
+    "tags": [],
+    "enunciado": "Paciente de 60 anos, ex-etilista pesado (parou há 10 anos) e portador de hepatopatia crônica. Durante acompanhamento clínico periódico, apresentou elevação do marcador alfafetoproteína. Realizou tomogra(cid:61)a de abdome que revelou 2 nódulos heterogêneos em lobo direito do fígado medindo 3 cm e 2 cm com captação do contraste na fase arterial. Durante avaliação da função hepática, foi classi(cid:61)cado como Child- Pugh B. Qual a melhor conduta para o caso?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hepatectomia direita."
+      },
+      {
+        "letra": "B",
+        "texto": "Biópsia da lesão hepática."
+      },
+      {
+        "letra": "C",
+        "texto": "Transplante hepático ortotópico."
+      },
+      {
+        "letra": "D",
+        "texto": "Ablação das lesões por radiofrequência."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 71111,
+    "tags": [],
+    "enunciado": "O transplante de fígado é o procedimento de escolha para vários tipos de doenças hepáticas agudas ou crônicas, que levam à insuficiência hepática ou para pacientes com neoplasia hepática. Com relação ao transplante hepático, assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Um dos escores de gravidade usado para avaliar a doença hepática é o escore de Child-Pugh, que tem como parâmetros: encefalopatia hepática, ascite, bilirrubinas, TGO (transaminase glutâmico- oxalacética) e tempo de atividade de protrombina."
+      },
+      {
+        "letra": "B",
+        "texto": "A maioria dos pacientes com hepatite B crônica submetidos a transplante hepático terá o enxerto hepático reinfectado."
+      },
+      {
+        "letra": "C",
+        "texto": "Um dos critérios para o transplante hepático em hepatocarcinomas é nódulo único menor que 7 cm."
+      },
+      {
+        "letra": "D",
+        "texto": "O critério de MELD é utilizado para alocar o paciente na fila de transplante. As variáveis usadas para calcular esse critério são: albumina, creatinina e bilirrubina."
+      },
+      {
+        "letra": "E",
+        "texto": "São contraindicações absolutas para o transplante hepático: idade menor que 60 anos, menos de 6 meses de abstinência alcoólica e neoplasia extra hepática."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 71112,
+    "tags": [],
+    "enunciado": "Dadas as indicações de transplante hepático, I. Colangite esclerosante primária; II. Cirrose hepática autoimune; III. Doença de Wilson. Verifica-se que está (ão) CORRETAS (S):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II e III."
+      },
+      {
+        "letra": "B",
+        "texto": "II e III, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "I e II, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "III, apenas."
+      },
+      {
+        "letra": "E",
+        "texto": "II, apenas."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 71113,
+    "tags": [],
+    "enunciado": "Segundo Couinauld, a Hepatectomia Esquerda estendida inclui os seguintes segmentos hepáticos:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "V, VI e VII."
+      },
+      {
+        "letra": "B",
+        "texto": "II, III e IV."
+      },
+      {
+        "letra": "C",
+        "texto": "II, III, IV e VIII."
+      },
+      {
+        "letra": "D",
+        "texto": "IV, V, VI, VII e VIII."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 71114,
+    "tags": [],
+    "enunciado": "Sobre o transplante hepático, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É o segundo tipo de transplante de órgãos sólidos mais realizado no Brasil."
+      },
+      {
+        "letra": "B",
+        "texto": "O incentivo monetário oferecido pelo Sistema Único de Saúde (SUS) às instituições de saúde que realizam o procedimento é, atualmente, de R$ 37.000,00 por cirurgia."
+      },
+      {
+        "letra": "C",
+        "texto": "A principal etiologia dos pacientes cirróticos submetidos a transplante no Brasil é a hepatite C."
+      },
+      {
+        "letra": "D",
+        "texto": "O transplante hepático pode ser realizado com o fígado bipartido, e essa modalidade chama-se split liver."
+      },
+      {
+        "letra": "E",
+        "texto": "É realizado apenas pelos planos de saúde."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 71115,
+    "tags": [],
+    "enunciado": "Mulher, 39a, com queixa de icterícia progressiva há 4 dias, adinamia e sonolência. Familiares referem períodos de confusão mental. Nega febre. Antecedentes: décimo dia pós-operatório de artroplastia de quadril esquerdo. Exame físico: regular estado geral; ictérica 2+/4; desidratada +/4+; descorada +/4+; PA = 100 x 78 mmHg; FC = 96 bpm; FR = 24 irpm; abdome: dor à palpação do epigástrio e hipocôndrio direito, ruídos hidroaéreos presentes. Neurológico: sonolenta, confusa, (cid:72)apping presente. Ultrassonogra(cid:61)a abdominal = sem alterações. Exames laboratoriais: Hb = 10,2 g/dl; leucócitos = 11.300/mm³ e plaquetas = 250.000/mm³; AST = 3.500 U/L; ALT= 5.600 U/L; bilirrubina total =18,5 mg/dl; tempo de protrombina = 150 segundos; INR = 3,8; creatinina sérica = 2,4 mg/dl. A CORRETA É:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Há indicação de transplante hepático na dependência do valor do MELD."
+      },
+      {
+        "letra": "B",
+        "texto": "Iniciar hidratação, lactulona, nutrição parenteral e metilprednisolona."
+      },
+      {
+        "letra": "C",
+        "texto": "Iniciar antibioticoterapia endovenosa e infusão contínua de furosemida."
+      },
+      {
+        "letra": "D",
+        "texto": "Há indicação de transplante hepático com situação de priorização."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 71116,
+    "tags": [],
+    "enunciado": "Quais das situações abaixo são caracterizadas como situações especiais para inclusão em lista de transplante de fígado?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hemangioendotelioma epitelioide de fígado irressecável, síndrome hepatopulmonar e síndrome hepatorrenal."
+      },
+      {
+        "letra": "B",
+        "texto": "Síndrome hepatopulmonar, hemangioendotelioma epitelioide de fígado irressecável e colangiocarcinoma irressecável."
+      },
+      {
+        "letra": "C",
+        "texto": "Polineuropatia amiloidótica familiar, trombose de artéria hepática pós-transplante de fígado e metástase de neoplasia de cólon irressecável."
+      },
+      {
+        "letra": "D",
+        "texto": "Adenomatosa múltipla bilobar extensa irressecável, trombose de artéria hepática pós- transplante de fígado e síndrome hepatopulmonar."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 71117,
+    "tags": [],
+    "enunciado": "Todas as opções abaixo são indicações para o transplante hepático, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fibrose hepática congênita."
+      },
+      {
+        "letra": "B",
+        "texto": "Hepatite viral crônica."
+      },
+      {
+        "letra": "C",
+        "texto": "Cirrose alcoólica."
+      },
+      {
+        "letra": "D",
+        "texto": "Protoporfiria."
+      },
+      {
+        "letra": "E",
+        "texto": "Colangiocarcinoma."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 71118,
+    "tags": [],
+    "enunciado": "A trissegmentectomia hepática corresponde à ressecção dos seguintes segmentos:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II e III."
+      },
+      {
+        "letra": "B",
+        "texto": "II, III e IV."
+      },
+      {
+        "letra": "C",
+        "texto": "V, VI, VII e VIII."
+      },
+      {
+        "letra": "D",
+        "texto": "IV, V, VI, VII e VIII."
+      },
+      {
+        "letra": "E",
+        "texto": "somente o segmento IV."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 71119,
+    "tags": [],
+    "enunciado": "Sobre os critérios de Milão para transplante de fígado devido à hepatocarcinoma, segundo Mazzaferro (1996), é CORRETO afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tumor único menor que 5 cm ou até três nódulos menores que 3 cm."
+      },
+      {
+        "letra": "B",
+        "texto": "Tumor único menor que 3 cm ou até três nódulos menores que 5 cm."
+      },
+      {
+        "letra": "C",
+        "texto": "Tumor único menor que 3 cm ou até três nódulos menores que 3 cm."
+      },
+      {
+        "letra": "D",
+        "texto": "Tumor único menor que 8 cm ou até três nódulos menores que 5 cm."
+      },
+      {
+        "letra": "E",
+        "texto": "Tumor único menor que 5 cm ou até três nódulos menores que 5 cm."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 71120,
+    "tags": [],
+    "enunciado": "São condições consideradas indicações para o transplante hepático, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As metástases hepáticas de tumores neuroendócrinos"
+      },
+      {
+        "letra": "B",
+        "texto": "O carcinoma hepatocelular"
+      },
+      {
+        "letra": "C",
+        "texto": "A síndrome hepatopulmonar"
+      },
+      {
+        "letra": "D",
+        "texto": "A hipertensão portal esquistossomótica"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 71121,
+    "tags": [],
+    "enunciado": "Mulher, 34 anos, portadora de cirrose de etiologia alcoólica, em uso de furosemida 80 mg/dia, espironolactona 200 mg/dia e propranolol 120 mg/dia, dá entrada no pronto socorro com quadro de agitação psicomotora, desorientação temporal e espacial de início há cerca de dois dias. Abstêmia há três meses. PA = 85/55 mmHg; FC = 94 bpm; FR = 24 irpm; SatpO2 em ar ambiente = 95%. Abdome doloroso difusamente, com macicez móvel presente. Edema de extremidades com cacifo (+++). Presença de asterix em ambos membros superiores. Em relação ao manejo do caso, assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As dosagens da fosfatase alcalina e do CEA no líquido ascítico apresentam alta sensibilidade e especificidade para o diagnóstico de Peritonite Bacteriana Secundária. Deverão, portanto, ser solicitadas neste caso."
+      },
+      {
+        "letra": "B",
+        "texto": "O uso dos diuréticos está associado ao quadro de desorientação do paciente e os mesmos deverão ser suspensos imediatamente."
+      },
+      {
+        "letra": "C",
+        "texto": "Esta paciente não deve ser considerada elegível para realização de transplante hepático, tendo em vista o tempo de abstinência ao etanol."
+      },
+      {
+        "letra": "D",
+        "texto": "O CA-125, marcador de tumores ovarianos de linhagem epitelial, tende a apresentar- se elevado em pacientes com ascite de qualquer etiologia, independente do sexo do paciente."
+      },
+      {
+        "letra": "E",
+        "texto": "O antibiótico de eleição indicado para tratamento empírico de Peritonite Bacteriana Espontânea, conforme as orientações da AASLD 2012 é a ciprofloxacina, por via endovenosa, 400 mg, a cada 12 horas, por 07 dias."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 71122,
+    "tags": [],
+    "enunciado": "Num paciente cirrótico, portador de varizes de esôfago e bilirrubinas elevadas, a ultrassonogra(cid:61)a mostra um hepatocarcinoma de 4 cm de diâmetro. O paciente não apresenta comorbidades. A melhor escolha para o tratamento é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Injeção percutânea de etanol"
+      },
+      {
+        "letra": "B",
+        "texto": "Sorafenib"
+      },
+      {
+        "letra": "C",
+        "texto": "Transplante hepático ortotópico"
+      },
+      {
+        "letra": "D",
+        "texto": "Quimioembolização transarterial"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 71123,
+    "tags": [],
+    "enunciado": "A hepatite C:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tem, na transmissão vertical, uma importante forma de disseminação."
+      },
+      {
+        "letra": "B",
+        "texto": "É uma das principais etiologias das hepatites agudas fulminantes."
+      },
+      {
+        "letra": "C",
+        "texto": "É a principal causa de transplante hepático atualmente."
+      },
+      {
+        "letra": "D",
+        "texto": "É a forma importante de contaminação em profissionais de saúde, que pode ser evitada pelo uso precoce de imunoglobulina hiperimune após o acidente."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 71124,
+    "tags": [],
+    "enunciado": "Homem, 42 anos de idade, internado com queixas de que, há 6 meses, vem apresentando perda ponderal, com astenia. Há 2 meses, notou aumento do volume abdominal, discreta icterícia e colúria e, há 15 dias, notou aparecimento de discreto edema de MMII bilateral. Nega HAS e DM. Etilista desde 16 anos de idade, ingere 70 g/dia de álcool. Ao exame físico, emagrecido, lúcido, orientado, ictérico +/IV, IMC: 17, PA: 100/60 mmHg, PR: 60 bpm. Presença de teleangiectasias, ginecomastia bilateral simétrica. Maciez móvel presente. Hepatimetria de 4 cm abaixo do rebordo costal. Exames laboratoriais mostram TP: 43% com RNI: 1,7, albumina: 2,8 mg%, bilirrubina total: 3,1 mg%. Diante do quadro exposto, indique a estratégia de tratamento indicada, de acordo com a classificação de gravidade do paciente. Essa questão possui comentário do professor no site 4000006620",
+    "alternativas": [],
+    "resposta_correta": null
+  },
+  {
+    "id": 71125,
+    "tags": [],
+    "enunciado": "São indicações de Transplante Hepático, exceto:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hepatite Aguda Fulminante."
+      },
+      {
+        "letra": "B",
+        "texto": "Hepatite por vírus B com HBsAG positivo e replicação viral."
+      },
+      {
+        "letra": "C",
+        "texto": "Câncer Hepatocelular multifocal extenso."
+      },
+      {
+        "letra": "D",
+        "texto": "Cirrose biliar primária e secundária descompensada."
+      },
+      {
+        "letra": "E",
+        "texto": "Cirrose alcoólica em paciente recuperado do vício por 6 meses."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 71126,
+    "tags": [],
+    "enunciado": "São contraindicações absolutas à realização do transplante de fígado:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cirroses virais, insuficiência hepática e doença de Wilson."
+      },
+      {
+        "letra": "B",
+        "texto": "Presença de infecção não controlada, trombose venosa portal e hipóxia grave."
+      },
+      {
+        "letra": "C",
+        "texto": "Idade acima de 65 anos, atresia de vias biliares e sarcoidose."
+      },
+      {
+        "letra": "D",
+        "texto": "Deficiência de alfa-1 antitripsina, doença policística e cirrose biliar primária."
+      },
+      {
+        "letra": "E",
+        "texto": "Hemocromatose genética, doença de Niemann Pick e renal crônico."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 71127,
+    "tags": [],
+    "enunciado": "Rapaz com 15 anos de idade, portador de cirrose biliar primária, com classi(cid:61)cação MELD igual a 32, encontra-se na (cid:61)la de transplantes do Sistema Único de Saúde (SUS). Seu pai, com 40 anos de idade, saudável, deseja antecipar o transplante. A orientação adequada para essa situação é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não há possibilidade de acelerar o transplante, pois o paciente é menor de idade e tem uma avaliação de menor gravidade clínica."
+      },
+      {
+        "letra": "B",
+        "texto": "o transplante somente poderá ser antecipado se houver um doador com morte cerebral comprovada e consentimento da família."
+      },
+      {
+        "letra": "C",
+        "texto": "o transplante poderá ser acelerado, pois o quadro clínico do paciente é grave e a doação intervivos pelo pai é consentida."
+      },
+      {
+        "letra": "D",
+        "texto": "em hipótese alguma o transplante poderá ser antecipado, pois, para a fila do SUS, os critérios são bem definidos e éticos."
+      },
+      {
+        "letra": "E",
+        "texto": "o transplante poderá ser antecipado somente com doador falecido HLA idêntico ou semi-idêntico."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 71128,
+    "tags": [],
+    "enunciado": "Paciente portador de hepatocarcinoma em sua variante (cid:61)brolamelar é submetido a uma trissegmentectomia hepática esquerda. Isso implica dizer que o mesmo teve ressecados os seguintes segmentos do fígado:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "V, VI, VII e VIII."
+      },
+      {
+        "letra": "B",
+        "texto": "IV, V, VI, VII e VIII."
+      },
+      {
+        "letra": "C",
+        "texto": "II, III, IV e VII."
+      },
+      {
+        "letra": "D",
+        "texto": "II, III, IV, V e VIII."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 71129,
+    "tags": [],
+    "enunciado": "Transplante hepático Segundo os Critérios de Milão, em qual dos casos abaixo não está indicado o transplante de fígado para tratamento curativo do hepatocarcinoma?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nódulo único de 5,0 cm"
+      },
+      {
+        "letra": "B",
+        "texto": "3 nódulos com os seguintes diâmetros: 3,0 cm, 2,8 cm e 2,5 cm"
+      },
+      {
+        "letra": "C",
+        "texto": "2 nódulos com os seguintes diâmetros: 3,5 cm e 2,5 cm"
+      },
+      {
+        "letra": "D",
+        "texto": "Nódulo único de 4,0 cm na região central do lobo direito"
+      },
+      {
+        "letra": "E",
+        "texto": "4 nódulos com os seguintes diâmetros: 2,1 cm, 2,2 cm, 2,5 cm e 2,8 cm"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 71130,
+    "tags": [],
+    "enunciado": "O transplante de fígado é a única opção curativa para pacientes com doença hepática descompensada. São indicações de transplante de fígado no Brasil, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "cirrose hepática descompensada (Child B e C)"
+      },
+      {
+        "letra": "B",
+        "texto": "cirrose com episódio de peritonite bacteriana primária"
+      },
+      {
+        "letra": "C",
+        "texto": "cirrose com hepatocarcinoma de 3 cm com invasão vascular"
+      },
+      {
+        "letra": "D",
+        "texto": "cirrose com ascite refratária"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 71131,
+    "tags": [],
+    "enunciado": "Hepatopata, com grave comprometimento da qualidade de vida é candidato ao transplante hepático, uma vez que esgotadas outras formas de tratamento clínico. São indicadores de alerta para necessidade de realização do transplante:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "hepatite crônica por vírus B com replicação viral e encefalopatia crônica."
+      },
+      {
+        "letra": "B",
+        "texto": "Child-Pugh B/C, hemorragia digestiva alta de repetição e ascite refratária."
+      },
+      {
+        "letra": "C",
+        "texto": "hepatopatia alcoólica associada com pancreatite crônica e desnutrição."
+      },
+      {
+        "letra": "D",
+        "texto": "cirrose biliar primária de rápida evolução com colangite de repetição."
+      },
+      {
+        "letra": "E",
+        "texto": "carcinoma hepatocelular extenso metastático e síndrome hepatorrenal."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 71132,
+    "tags": [],
+    "enunciado": "Em qual destas doenças podemos realizar “Transplante Hepático em dominó” ? Assinale-a.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Leishmaniose."
+      },
+      {
+        "letra": "B",
+        "texto": "Tuberculose."
+      },
+      {
+        "letra": "C",
+        "texto": "Amebíase."
+      },
+      {
+        "letra": "D",
+        "texto": "Amiloidose."
+      },
+      {
+        "letra": "E",
+        "texto": "Blastomicose."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 71133,
+    "tags": [],
+    "enunciado": "A portaria 1.160/2006 do Ministério da Saúde de(cid:61)niu o sistema MELD (Model for End- stage Liver Desease) como critério para seleção de receptores de fígado de cadáver. Esta recente mudança trouxe maior agilidade no transplante de fígado nos pacientes mais graves. Sobre o transplante hepático e o Sistema MELD, assinale a alternativa incorreta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A rejeição aguda ao enxerto é extremamente grave, porém rara."
+      },
+      {
+        "letra": "B",
+        "texto": "O MELD varia em uma escala crescente de gravidade entre seis e quarenta e prevê a urgência de um transplante nos 3 meses subsequentes à avaliação."
+      },
+      {
+        "letra": "C",
+        "texto": "Para o cálculo do MELD são considerados os valores da bilirrubina sérica, creatinina e tempo de protrombina pela razão normatizada internacional."
+      },
+      {
+        "letra": "D",
+        "texto": "O momento ideal do transplante é quando o paciente tem sobrevida inferior a 50% em um a dois anos e doença multissistêmica instalada."
+      },
+      {
+        "letra": "E",
+        "texto": "Este modelo foi originalmente desenvolvido para determinar o prognóstico de pacientes com cirrose hepática submetidos à anastomose portossistêmica intra-hepática transjugular (TIPS)."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 71134,
+    "tags": [],
+    "enunciado": "Silvana, 38 anos, procurou ambulatório com fadiga, artralgias e febre baixa há aproximadamente um mês. Ultima menstruação há três meses. Teve o diagnóstico de “hepatite” há um ano, sem tratamento especí(cid:61)co. Nega uso de drogas lícitas ou ilícitas, passado de transfusão sanguínea ou outras doenças. Exame físico: bom estado geral, icterícia (2+/4+), acne em face e tronco. TAX 37,3 C. Aparelhos cardiovascular e respiratório sem alterações, abdômen com fígado palpável a 2 cm da RCD na LHCD, borda (cid:61)na, doloroso, baço impalpável, espaço de Traube maciço. Exames laboratoriais: hemoglobina- 11g/dl, hematócrito- 35%, leucócitos- 334.800/mm (0/2/2/48/35/9), plaquetas- 180.000/mm, TAP 12 seg, 100%, TGO- 240 UI/l, TGP 210 UI/l, gama GT 35 UI/l, fosfatase alcalina- 150 UI/l, bilirrubina total 2,9 mg/dl, bilirrubina direta- 1,9 mg/dl. AntiHAV IgG positivo, antiHAV IgM negativo, HbsAg negativo, antiHBs positivo, antiHBc total negativo, antiHCV positivo,HCV-RNA negativo, anticorpo antinuclear positivo, anticorpo antimúsculo liso positivo, anticorpo antimitocôndria negativo. Oito anos após a consulta anterior Silvana é atendida na Emergência com febre e alteração do nível de consciência há 24h. Exame físico: desorientada, “(cid:72)apping” , telangiectasias em tronco, ictérica ++/4, TAX 37,8ºC. Aparelhos cardiovascular e respiratório sem alterações. Abdômen com circulação colateral tipo porta, macicez móvel de decúbito, difusamente doloroso à palpação profunda, com fígado palpável a 8 cm da RCD na LHCD, borda romba, superfície nodular e consistência aumentada, baço palpável a 4cm da RCE. Membros inferiores sem edemas. Exames laboratoriais: hemoglobina 10g/dl, hematócrito 32%, leucócitos 1.800/mm (0/0/12/64/21/3), plaquetas 54.000/mm, TAP 40% , TGO 22 UI/l, TGP 18 UI/l, bilirrubina total 6,0 mg/dl, bilirrubina direta 4,0 mg/dl, gama GT 32 UI/l, fosfatase alcalina 135 UI/l, proteínas totais 5,8 g/dl; albumina 2,2 g/dl; creatinina 2,7 mg/dl, uréia 89 mg/dl. Exame de líquido ascítico: 900 leucócitos com 40% de polimorfonucleares, albumina de 0.5 g/dL. Evoluiu nesta internação com encefalopatia hepática, síndrome hepato-renal, sem resposta clínica adequada às manobras terapêuticas instituídas. Os familiares questionam a possibilidade de transplante hepático. Deve ser respondido que está indicado:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "sendo considerado curativo para a doença de base."
+      },
+      {
+        "letra": "B",
+        "texto": "com ressalvas, pelo grau avançado da disfunção orgânica."
+      },
+      {
+        "letra": "C",
+        "texto": "se associado ao transplante renal, devido à presença de síndrome hepato-renal."
+      },
+      {
+        "letra": "D",
+        "texto": "porém 30% dos pacientes têm recidiva em cinco anos."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 71135,
+    "tags": [],
+    "enunciado": "É contraindicação absoluta para o transplante hepático, uma vez confirmada a insuficiência hepática:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "alcoolismo ativo."
+      },
+      {
+        "letra": "B",
+        "texto": "revascularização cardíaca prévia."
+      },
+      {
+        "letra": "C",
+        "texto": "tuberculose pulmonar."
+      },
+      {
+        "letra": "D",
+        "texto": "pressão arterial pulmonar menor que 35mmHg."
+      },
+      {
+        "letra": "E",
+        "texto": "hipoxemia consequente à síndrome hepatorrenal.  Respostas: 1 E 2 C 3 D 4 D 5 E 6 A 7 C 8 B 9 B 10 A 11 B 12 E 13 B 14 C 15 C 16 A 17 A 18 A 19 A 20 C 21 C 22 A 23 C 24 B 25 E 26 E 27 C 28 A 29 C 30 C 31 C 32 C 33 D 34 D 35 B 36 B 37 C 38 D 39 C 40 E 41 E 42 C 43 E 44 B 45 E 46 A 47 A 48 D 49 C 50 E 51 B 52 D 53 E 54 A 55 B 56 A 57 E 58 C 59 B 60 A 61 C 62 A 63 D 64 D 65 E 66 D 67 A 68 D 69 E 70 C 71 C 72 73 C 74 B 75 C 76 D 77 E 78 C 79 B 80 D 81 D 82 D 83 A"
+      }
+    ],
+    "resposta_correta": "A"
+  }
+]

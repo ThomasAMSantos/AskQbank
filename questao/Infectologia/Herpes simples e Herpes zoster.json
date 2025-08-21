@@ -1,0 +1,3922 @@
+[
+  {
+    "id": 61046,
+    "tags": [],
+    "enunciado": "Leia o relato do caso clínico a seguir. Paciente J.C.M., masculino, 63 anos de idade, casado, pedreiro, sedentário, nega comorbidades, nega alergia a medicamentos, nega etilismo, nega tabagismo e nega consumo de outras drogas. S1. Paciente relata há 3 dias (menos de 72 horas de evolução) dor moderada e ardor no lado direito do tórax, seguido de eritema e posterior alteração de relevo na pele da região dolorosa, acompanhado de cefaleia e mal-estar. Refere ainda, na localização afetada, prurido ora leve ora moderado. Não teve episódios parecidos na vida. O1. Observa-se eritema e múltiplas vesículas agrupadas sobre uma base eritematosa, com distribuição dermatomal em topogra(cid:54)a torácica direita, sem cruzar a linha média. Algumas lesões com evolução para pústulas, não se observam crostas. Com base nas informações apresentadas, qual é o complemento do registro do \"A\" e \"P\" neste modelo?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A1. Herpes simples. P1. Início aciclovir 200 mg 1 comprimido cinco vezes ao dia por 7 dias, lidocaína tópica gel (2%) para aplicar na área afetada de quatro a seis vezes ao dia objetivando alívio da dor e paracetamol 750 mg 1 comprimido quatro vezes ao dia."
+      },
+      {
+        "letra": "B",
+        "texto": "A1. Herpes-zoster. P1. Início aciclovir tópico (5%) para aplicar na área afetada cinco vezes ao dia, betametasona creme (0,1%) para aplicar de duas a três vezes ao dia por 7 dias ou até obter melhora e ibuprofeno 400 mg 1 cápsula quatro vezes ao dia."
+      },
+      {
+        "letra": "C",
+        "texto": "A1. Herpes-zoster. P1. Início valaciclovir 500 mg 2 comprimidos três vezes ao dia por 7 dias, lidocaína tópica gel (2%) para aplicar na área afetada de quatro a seis vezes ao dia objetivando alívio da dor e paracetamol 750 mg 1 comprimido quatro vezes ao dia."
+      },
+      {
+        "letra": "D",
+        "texto": "A1. Herpes simples. P1. Início aciclovir tópico (5%) para aplicar na área afetada cinco vezes ao dia, betametosona creme (0,1%) para aplicar de duas a três vezes ao dia por 7 dias ou até obter melhora e ibuprofeno 400mg 1 cápsula quatro vezes ao dia."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 61047,
+    "tags": [],
+    "enunciado": "Homem de 42 anos apresenta lesões cutâneas (conforme (cid:54)gura a seguir) que se iniciaram há dois dias, com muita dor na região torácica à esquerda. AP: transplantado renal há 6 anos em uso de drogas imunossupressoras.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "conduta correta envolve"
+      },
+      {
+        "letra": "A",
+        "texto": "o uso de aciclovir endovenoso, na dose de 10 mg/kg a cada 8 horas, até melhora clínica."
+      },
+      {
+        "letra": "B",
+        "texto": "apenas aguardar evolução do quadro, uma vez que se trata de doença autolimitada."
+      },
+      {
+        "letra": "C",
+        "texto": "o uso de aciclovir tópico por 14 dias."
+      },
+      {
+        "letra": "D",
+        "texto": "o uso de aciclovir oral na dose 200 mg cinco vezes ao dia por sete dias e analgesia."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 61048,
+    "tags": [],
+    "enunciado": "Homem de 28 anos apresenta úlcera genital dolorosa há 5 dias. Relata febre e mal-estar geral antes do aparecimento da lesão. Exame físico: imagem. AP: múltiplas parcerias sexuais nos últimos meses sem uso de preservativos. Em face do exposto, a hipótese diagnóstica é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "sífilis."
+      },
+      {
+        "letra": "B",
+        "texto": "herpes genital."
+      },
+      {
+        "letra": "C",
+        "texto": "cancroide."
+      },
+      {
+        "letra": "D",
+        "texto": "linfogranuloma venéreo."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 61049,
+    "tags": [],
+    "enunciado": "Homem, 25 anos de idade, procura o ambulatório. Ele conta que há 4 dias começou a ter queimação na nádega direita e há 3 dias, evoluiu com lesões na mesma região. Nega sintomas sistêmicos. Refere que isso já ocorreu outras vezes na mesma região. Ao exame clínico, os sinais vitais são normais, tem bom estado geral e possui as lesões de pele apresentadas na imagem a seguir: Não há outras anormalidades. O raspado da lesão identificou as seguintes células: Em relação ao caso apresentado, assinale o tratamento indicado.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aciclovir."
+      },
+      {
+        "letra": "B",
+        "texto": "Cefalexina."
+      },
+      {
+        "letra": "C",
+        "texto": "Cetoconazol."
+      },
+      {
+        "letra": "D",
+        "texto": "Betametasona."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 61050,
+    "tags": [],
+    "enunciado": "Paciente masculino, de 24 anos, veio à consulta dermatológica queixando-se de leve ardência na região lateral esquerda do lábio superior. Referiu que, logo após o início dos sintomas, constatou a presença de erupção com vesículas agrupadas formando um “cacho”. Já havia apresentado episódio semelhante no mesmo local há 1 ano. Assinale a assertiva correta sobre o caso.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O eritema multiforme pode ser uma complicação desta infecção."
+      },
+      {
+        "letra": "B",
+        "texto": "O tratamento mais efetivo é feito com aciclovir tópico por 7 dias."
+      },
+      {
+        "letra": "C",
+        "texto": "É raro o paciente apresentar recorrências."
+      },
+      {
+        "letra": "D",
+        "texto": "Não há exames diagnósticos complementares que possam confirmar o diagnóstico, que é sempre clínico."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 61051,
+    "tags": [],
+    "enunciado": "Assinale a correta relacionada às ISTs de acordo com o Protocolo Clínico e Diretrizes Terapêuticas para Atenção Integral às Pessoas com Infecções Sexualmente Transmissíveis do Ministério da Saúde, 2022:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O período de incubação da sífilis primária é de 10 a 90 dias, com média de 21 dias e a ulcerado cancro duro pode durar 2 a 6 semanas e desaparecer mesmo com tratamento incorreto."
+      },
+      {
+        "letra": "B",
+        "texto": "O período de incubação do cancroide é em geral de 3 a 5 dias, podendo chegar a 2 semanas, tendo lesões únicas e indolores, com risco de infecção em uma relação sexual de 80%."
+      },
+      {
+        "letra": "C",
+        "texto": "O HPV tem período de incubação geralmente curto, permitindo a identificação do momento da infecção, inclusive da parceria sexual."
+      },
+      {
+        "letra": "D",
+        "texto": "A primo-infecção herpética tem período de incubação médio de 3 semanas, se manifestando como vesículas, às vezes corrimento. 4000230120"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 61052,
+    "tags": [],
+    "enunciado": "Um rapaz de 18 anos foi atendido no ambulatório de clínica médica para acompanhamento de lúpus eritematoso sistêmico com nefrite e cardite. Estava em bom estado geral após 3 pulsoterapias com corticoide e ciclofosfamida, mas deveria fazer nova dose de corticoide sistêmico naquele mês. No entanto, apresentava lesões hiperemiadas com vesículas e algumas pústulas em dermátomos oftálmico e maxilar da hemiface direita. A impressão do médico foi de herpes-zóster.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "conduta adequada para esse caso é:"
+      },
+      {
+        "letra": "A",
+        "texto": "prescrição de aciclovir oral 800 mg, 5 vezes ao dia, por 14 dias, e encaminhar o paciente para casa;"
+      },
+      {
+        "letra": "B",
+        "texto": "profilaxia dos contactantes domiciliares e hospitalares com a vacina contra varicela-zóster, independentemente do estado de imunização, do estado imunológico e do tempo de exposição;"
+      },
+      {
+        "letra": "C",
+        "texto": "internação hospitalar para isolamento respiratório e de contato, prescrição de aciclovir parenteral e acompanhamento de complicações pelo herpes-zóster disseminado;"
+      },
+      {
+        "letra": "D",
+        "texto": "prescrição de aciclovir parenteral apenas se o rash e as vesículas tiverem iniciado há menos de 72 horas. Caso contrário, fazer apenas a profilaxia dos contactantes com vacina e do paciente com antibiótico devido à alta prevalência de infecção bacteriana secundária;"
+      },
+      {
+        "letra": "E",
+        "texto": "internação hospitalar em quarto com pressão negativa e precauções de contato como máscara cirúrgica, capote, luva, gorro e óculos para toda a equipe assistencial. O aciclovir de 800 mg pode ser feito de forma oral, 5 vezes ao dia, por 7 a 10 dias ou até a alta hospitalar."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 61053,
+    "tags": [],
+    "enunciado": "Menino de 3 anos de idade apresenta desvio da rima labial e dor na orelha esquerda ha 2 dias. Exame otológico a seguir: Assinale o diagnóstico associado ao caso clinico e achado de exame otológico.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Miringite bolhosa."
+      },
+      {
+        "letra": "B",
+        "texto": "Herpes-zoster otológico."
+      },
+      {
+        "letra": "C",
+        "texto": "Otite média aguda perfurada."
+      },
+      {
+        "letra": "D",
+        "texto": "Otite externa eczematosa."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 61054,
+    "tags": [],
+    "enunciado": "Mulher de 40 anos, que vive com HIV, transplantada renal, compareceu para consulta ginecológica de rotina. Refere ter tido catapora na infância. Foi orientada em relação a vacinas. Com vistas à prevenção do herpes zoster, a conduta é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "tranquilizar a paciente, informando que ela já tem anticorpos."
+      },
+      {
+        "letra": "B",
+        "texto": "informar que a vacina está indicada a partir de 50 anos de idade."
+      },
+      {
+        "letra": "C",
+        "texto": "indicar a vacina recombinante contra herpes zoster."
+      },
+      {
+        "letra": "D",
+        "texto": "contraindicar a vacina, pois é feita com vírus vivo."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 61055,
+    "tags": [],
+    "enunciado": "Um homem procurou o consultório de urologia com queixa de aparecimento de úlceras dolorosas em região de glande peniana há um dia. Refere que dois dias antes do aparecimento das lesões apresentou quadro de formigamento e aumento da sensibilidade. Atualmente, refere dor importante à palpação. No exame físico, apresenta vesículas dolorosas com conteúdo citrino,além de algumas ulcerações. apresenta à direita linfadenopatia inguinal dolorosa. Sobre esse tema, julgue a afirmação a seguir: O agente etiológico mais frequente é o vírus varicela zoster.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Certo."
+      },
+      {
+        "letra": "B",
+        "texto": "Errado."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 61056,
+    "tags": [],
+    "enunciado": "Um homem procurou o consultório de urologia com queixa de aparecimento de úlceras dolorosas em região de glande peniana há um dia. Refere que dois dias antes do aparecimento das lesões apresentou quadro de formigamento e aumento da sensibilidade. Atualmente, refere dor importante à palpação. No exame físico, apresenta vesículas dolorosas com conteúdo citrino,além de algumas ulcerações. apresenta à direita linfadenopatia inguinal dolorosa. Sobre esse tema, julgue a afirmação a seguir: Após a infecção primária, uma parte dos pacientes desenvolverá novos episódios por reativação do vírus.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Certo."
+      },
+      {
+        "letra": "B",
+        "texto": "Errado."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 61057,
+    "tags": [],
+    "enunciado": "Um homem procurou o consultório de urologia com queixa de aparecimento de úlceras dolorosas em região de glande peniana há um dia. Refere que dois dias antes do aparecimento das lesões apresentou quadro de formigamento e aumento da sensibilidade. Atualmente, refere dor importante à palpação. No exame físico, apresenta vesículas dolorosas com conteúdo citrino, além de algumas ulcerações. apresenta à direita linfadenopatia inguinal dolorosa. Sobre esse tema, julgue a afirmação a seguir: Essa é a principal de úlceras genitais, tanto em países desenvolvidos como em desenvolvimento.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Certo."
+      },
+      {
+        "letra": "B",
+        "texto": "Errado."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 61058,
+    "tags": [],
+    "enunciado": "Paciente do sexo feminino, com trinta anos de idade, sem comprometimento imunológico, chegou ao atendimento hospitalar apresentando erupções cutâneas com bolhas do lado direito do tórax. Ela relatou dor intensa no local, com sensação de ardor, formigamento e agulhadas. Acerca do quadro clínico hipotético precedente, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A nevralgia pós-herpética pode surgir como uma complicação do quadro em apreço."
+      },
+      {
+        "letra": "B",
+        "texto": "Como os sintomas apresentados são inespecíficos, é necessária a realização de teste diagnóstico antes da prescrição medicamentosa."
+      },
+      {
+        "letra": "C",
+        "texto": "A paciente em questão deve ser orientada quanto ao uso de preservativos, visto que os sintomas indicam doença sexualmente transmissível."
+      },
+      {
+        "letra": "D",
+        "texto": "O quadro clínico em apreço corresponde a um caso de reativação viral de doença precedente não transmissível."
+      },
+      {
+        "letra": "E",
+        "texto": "No quadro clínico em questão, devem ser prescritos 10 mg a 15 mg de aciclovir endovenoso, duas vezes ao dia, por, no mínimo, três dias."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 61059,
+    "tags": [],
+    "enunciado": "Lactente de 8 meses apresenta, desde os 5 meses, eczema acometendo bochechas e couro cabeludo, sendo feito diagnóstico de dermatite atópica e prescrito hidratante tópico e orientado sabonete neutro e evitar banho quente, com melhora parcial. Retorna na consulta devido piora do quadro nos últimos dias, com muito prurido, além de febre (38,5 °C). Ao exame físico, está em regular estado geral, febril, com placas eritematosas em face, couro cabeludo e região superior do tórax, com crostas hemáticas e diversas vesículas. Frente a esse quadro, há indicação de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Prescrever fórmula extensamente hidrolisada, por suspeita de alergia ao leite de vaca."
+      },
+      {
+        "letra": "B",
+        "texto": "Internar devido suspeita de infecção secundária por herpes simples."
+      },
+      {
+        "letra": "C",
+        "texto": "Associar bacitracina tópica, devido infecção bacteriana secundária."
+      },
+      {
+        "letra": "D",
+        "texto": "Prescrever corticoide tópico, devido agudização do quadro de atopia."
+      },
+      {
+        "letra": "E",
+        "texto": "Encaminhar para o dermatologista, para reavaliar o diagnóstico de dermatite atópica."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 61060,
+    "tags": [],
+    "enunciado": "Uma paciente de 72 anos, do sexo feminino, portadora de Leucemia Linfoide Crônica (LLC), em tratamento há 3 anos, apresenta quadro de dor em região torácica e surgimento de lesões vesiculares com base eritematosa em região de dermátomo a nível T10. A respeito do Herpes Zoster, analise as proposições abaixo e assinale (V) para Verdadeiro ou (F) para Falso. ( ) Herpes Zoster é causado pela reativação do Vírus Varicela-Zoster (VZV), que (cid:54)ca latente nos gânglios sensitivos. ( ) Qualquer dermátomo pode ser afetado na infecção pelo Vírus Varícela-Zoster, sendo os dermátomos lombares e torácicos mais frequentemente acometidos. ( ) A neuralgia pós-herpética é uma complicação possível, sendo caracterizada por dor persistente por mais de 3 meses após a resolução das lesões. ( ) A síndrome de Ramsay-Hunt é causada pelo acometimento oftálmico do Vírus Varicela-Zoster, sendo uma urgência oftalmológica com necessidade de internação e tratamento com Aciclovir endovenoso. Assinale a alternativa que apresenta a sequência correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "V / F / V / V"
+      },
+      {
+        "letra": "B",
+        "texto": "F / V / F / V"
+      },
+      {
+        "letra": "C",
+        "texto": "V / V / V / V"
+      },
+      {
+        "letra": "D",
+        "texto": "V / F / F / F"
+      },
+      {
+        "letra": "E",
+        "texto": "V / V / V / F"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 61061,
+    "tags": [],
+    "enunciado": "Considere a situação a seguir: J.M.F, sexo masculino, 32 anos, procura o serviço de saúde com quadro de dor intensa e ardor em região lateral e posterior de tórax a direita. Negava tosse, febre, sintomas respiratórios e demais queixas. Ao exame físico, o médico notou vesículas sobre uma base eritematosa em faixa, no local da dor, sem demais alterações clínicas. Nesse contexto, é CORRETO afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O exame laboratorial sempre deve ser solicitado ao paciente para confirmação do diagnóstico, sendo o mais indicado a imunofluorescência indireta (IFI)."
+      },
+      {
+        "letra": "B",
+        "texto": "O tratamento indicado no caso acima é corticoide tópico para redução das lesões cutâneas e analgesia para o quadro de dor."
+      },
+      {
+        "letra": "C",
+        "texto": "As doenças como hanseníase, sífilis primária e leishmaniose cutânea são importantes de se considerar no diagnóstico diferencial deste paciente."
+      },
+      {
+        "letra": "D",
+        "texto": "Uma possível complicação neste quadro pode ser a nevralgia pós-herpética, apesar de ser mais frequente em mulheres."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 61062,
+    "tags": [],
+    "enunciado": "Juan, 78 anos de idade, institucionalizado há cerca de oito meses em decorrência de um quadro de doença de Alzheimer em fase avançada. Iniciou com quadro de agitação psicomotora hácerca de três dias, evoluindo conforme a imagem a seguir, com lesões hiperemiadas e com vesículas, bem localizadas. Considerando esse caso, assinale a alternativa correta",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A lesão ésugestiva de parasitose por Sarcoptes scabiei, devendo ser instituıdá precaução de contato e isolamento do paciente em decorrência do seu alto grau de transmissibilidade."
+      },
+      {
+        "letra": "B",
+        "texto": "A lesão é sugestiva de herpes zoster, devendo ser iniciado corticoide e analgésico para prevenção da neuropatia pós-herpética, além de antiviral tópico devido ao acometimento de um dermátomo."
+      },
+      {
+        "letra": "C",
+        "texto": "A lesão ésugestiva de reativação de vıruś da varicela, devendo ser iniciado o tratamento antiviral sistêmico, visto que o benefıció ocorre se iniciado nas primeiras 72 horas do surgimento das lesões."
+      },
+      {
+        "letra": "D",
+        "texto": "A lesão ésugestiva de reação de hipersensibilidade por fármaco, devendo ser revisadas as medicações em uso, incluindo medicações que possam ter sido adicionadas recentemente."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 61063,
+    "tags": [],
+    "enunciado": "Homem, 30 anos de idade, apresenta erupção cutânea dolorosa e pruriginosa que piorou desde que ele a notou pela primeira vez, 1 dia atrás. Exame físico: erupção macular eritematosa com várias vesículas que não cruzam a linha média sobre a região frontal esquerda e área periorbital. A terapia com aciclovir é iniciada. Qual dos seguintes passos é o mais apropriado?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Solicitar sorologia para HIV."
+      },
+      {
+        "letra": "B",
+        "texto": "Associar corticoide oral."
+      },
+      {
+        "letra": "C",
+        "texto": "Realizar biópsia de pele."
+      },
+      {
+        "letra": "D",
+        "texto": "Solicitar teste de Tzanck."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 61064,
+    "tags": [],
+    "enunciado": "Mulher, 62 anos, com hipertensão arterial sistémica, diabetes mellitus tipo 2 e doença renal crónica estágio IV, vem à consulta na unidade de saúde referindo dor abaixo da mama esquerda. Há 6 meses, teve lesões vesiculares e posteriormente ulceradas na região, com dor intensa. Mesmo com o desaparecimento das lesões, a dor permaneceu. Vem em uso de: losartana, insulina NPH, dipirona e paracetamol. Exame físico sem particularidades. Considerando a principal hipótese diagnóstica, a prescrição de _______________é a melhor escolha terapêutica __________________ necessidade de ajuste para função renal. As informações que completam corretamente as lacunas, na ordem em que se encontram, estão contidas na alternativa:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "duloxetina - sem"
+      },
+      {
+        "letra": "B",
+        "texto": "fluoxetina - sem"
+      },
+      {
+        "letra": "C",
+        "texto": "amitriptilina - com"
+      },
+      {
+        "letra": "D",
+        "texto": "gabapentina - com"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 61065,
+    "tags": [],
+    "enunciado": "O quadro clínico do herpes-zóster é, quase sempre, típico. A maioria dos doentes refere, antecedendo às lesões cutâneas, dores nevrálgicas, além de parestesias, ardor e prurido locais. Em relação ao quadro clínico do herpes-zóster e a sua descrição, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O quadro clínico é alomórfico manifestando-se como doença maligna, podendo manifestar-se com outras formas graves, não evolui com êxito letal e as regiões mais comprometidas são a face, o couro cabeludo e a lombossacra."
+      },
+      {
+        "letra": "B",
+        "texto": "Não ocorre disseminação hematogênica, o vírus atinge a pele, progride de forma centrípeta pelos nervos periféricos até os gânglios nervosos, onde poderá permanecer, em latência, por toda a vida."
+      },
+      {
+        "letra": "C",
+        "texto": "Infecção viral primária, aguda, altamente contagiosa, caracterizada por surgimento de exantema de aspecto maculopapular e distribuição centrípeta, que, após algumas horas, torna-se vesicular, evolui rapidamente para pústulas."
+      },
+      {
+        "letra": "D",
+        "texto": "Decorre da reativação do vírus da varicela, que permanece em latência. A reativação ocorre na idade adulta ou em pessoas com comprometimento imunológico, portadores de doenças crônicas, neoplasias, aids e outras."
+      },
+      {
+        "letra": "E",
+        "texto": "A erupção é geralmente é bilateral, com frequência ultrapassa a linha mediana e segue o trajeto de um nervo. Surge de modo gradual e leva de 2 a 4 dias para se estabelecer."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 61066,
+    "tags": [],
+    "enunciado": "Considere a situação a seguir: J.M.F, sexo masculino, 32 anos, procura o serviço de saúde com quadro de dor intensa e ardor em região lateral e posterior de tórax a direita. Negava tosse, febre, sintomas respiratórios e demais queixas. Ao exame físico, o médico notou vesículas sobre uma base eritematosa em faixa, no local da dor, sem demais alterações clínicas. Nesse contexto, é CORRETO afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O exame laboratorial sempre deve ser solicitado ao paciente para confirmação do diagnóstico, sendo o mais indicado a imunofluorescência indireta (IFI)."
+      },
+      {
+        "letra": "B",
+        "texto": "O tratamento indicado no caso acima é corticoide tópico para redução das lesões cutâneas e analgesia para o quadro de dor."
+      },
+      {
+        "letra": "C",
+        "texto": "As doenças como hanseníase, sífilis primária e leishmaniose cutânea são importantes de se considerar no diagnóstico diferencial deste paciente."
+      },
+      {
+        "letra": "D",
+        "texto": "Uma possível complicação neste quadro pode ser a nevralgia pós-herpética, apesar de ser mais frequente em mulheres"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 61067,
+    "tags": [],
+    "enunciado": "Lesões cutâneas “em alvo” são mais encontradas em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Eritema polimorfo."
+      },
+      {
+        "letra": "B",
+        "texto": "Eritema indurado."
+      },
+      {
+        "letra": "C",
+        "texto": "Dermatofitoses."
+      },
+      {
+        "letra": "D",
+        "texto": "Eczemas."
+      },
+      {
+        "letra": "E",
+        "texto": "Sífilis recente."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 61068,
+    "tags": [],
+    "enunciado": "Assinale a opção que indica o tratamento padrão de lesões localizadas de herpes simples em imunossuprimidos.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "200 mg de aciclovir, 5 vezes ao dia."
+      },
+      {
+        "letra": "B",
+        "texto": "300 mg de aciclovir, 5 vezes ao dia."
+      },
+      {
+        "letra": "C",
+        "texto": "800 mg de aciclovir, 5 vezes ao dia."
+      },
+      {
+        "letra": "D",
+        "texto": "500 mg de valaciclovir, de 8 em 8 horas."
+      },
+      {
+        "letra": "E",
+        "texto": "400 mg de aciclovir, 5 vezes ao dia."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 61069,
+    "tags": [],
+    "enunciado": "Indivíduo previamente saudável, de 61 anos de idade, procurou a emergência com queixa de febre baixa, dor do tipo pontadas, com intensidade de 7/10, e parestesia em hemitórax esquerdo com irradiação até apêndice xifoide havia cinco dias. Ele relatou que, havia dois dias, notou algumas lesões, conforme mostrado na figura a seguir. Com base no caso clínico hipotético descrito, julgue os itens seguintes. O valaciclovir deverá ser prescrito após o atendimento, para reduzir a duração das lesões, da dor e da taxa de neuralgia crônica.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Certo."
+      },
+      {
+        "letra": "B",
+        "texto": "Errado."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 61070,
+    "tags": [],
+    "enunciado": "Indivíduo previamente saudável, de 61 anos de idade, procurou a emergência com queixa de febre baixa, dor do tipo pontadas, com intensidade de 7/10, e parestesia em hemitórax esquerdo com irradiação até apêndice xifoide havia cinco dias. Ele relatou que, havia dois dias, notou algumas lesões, conforme mostrado na figura a seguir. Com base no caso clínico hipotético descrito, julgue os itens seguintes.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "aplicação de vacina viva atenuada é recomendada no caso, em razão de sua e(cid:54)cácia superior a 90% na prevenção de novo episódio da doença e na redução de neuralgia crônica."
+      },
+      {
+        "letra": "A",
+        "texto": "Certo."
+      },
+      {
+        "letra": "B",
+        "texto": "Errado."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 61071,
+    "tags": [],
+    "enunciado": "Indivíduo previamente saudável, de 61 anos de idade, procurou a emergência com queixa de febre baixa, dor do tipo pontadas, com intensidade de 7/10, e parestesia em hemitórax esquerdo com irradiação até apêndice xifoide havia cinco dias. Ele relatou que, havia dois dias, notou algumas lesões, conforme mostrado na figura a seguir. Com base no caso clínico hipotético descrito, julgue os itens seguintes. O diagnóstico de certeza é dado pela cultura viral, com especificidade e sensibilidade elevadas.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Certo."
+      },
+      {
+        "letra": "B",
+        "texto": "Errado."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 61072,
+    "tags": [],
+    "enunciado": "Indivíduo previamente saudável, de 61 anos de idade, procurou a emergência com queixa de febre baixa, dor do tipo pontadas, com intensidade de 7/10, e parestesia em hemitórax esquerdo com irradiação até apêndice xifoide havia cinco dias. Ele relatou que, havia dois dias, notou algumas lesões, conforme mostrado na figura a seguir. Com base no caso clínico hipotético descrito, julgue os itens seguintes.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "patogênese mais aceita para esse quadro é que, após a infecção primária, o vírus permanece latente no gânglio da raiz dorsal e, uma vez reativado, ele se replicará."
+      },
+      {
+        "letra": "A",
+        "texto": "Certo."
+      },
+      {
+        "letra": "B",
+        "texto": "Errado."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 61073,
+    "tags": [],
+    "enunciado": "No cuidado ofertado ao paciente com diagnóstico de Herpes Zoster, pode ser considerado o uso de antivirais sistémicos como parte do tratamento. Está indicado o uso de antivirais sistémicos em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "pacientes com dor moderada a grave associada às le¬sões cutâneas"
+      },
+      {
+        "letra": "B",
+        "texto": "pacientes com cometimento da região do tronco"
+      },
+      {
+        "letra": "C",
+        "texto": "pacientes portadores de diabetes meltitus tipo 2"
+      },
+      {
+        "letra": "D",
+        "texto": "pacientes entre 30 e 50 anos de idade"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 61074,
+    "tags": [],
+    "enunciado": "Paciente de 44 anos procura pronto atendimento com queixa de dor em região toracoabdominal esquerda, associado com lesões eritematosas e vesiculo-bolhosas, como demonstrado na imagem abaixo: Diante da suspeita de Herpes Zoster em paciente imunocompetente, qual a terapia adequada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aciclovir 200 mg cinco vezes ao dia por 7 dias."
+      },
+      {
+        "letra": "B",
+        "texto": "Valaciclovir 1000mg em dose única diária por 7 dias."
+      },
+      {
+        "letra": "C",
+        "texto": "Valaciclovir 500mg duas vezes ao dia por 7 dias."
+      },
+      {
+        "letra": "D",
+        "texto": "Aciclovir 800mg cinco vezes ao dia por 7 dias. 4000183787"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 61075,
+    "tags": [],
+    "enunciado": "Homem de 39 anos, motorista de táxi, solteiro, refere dor do tipo queimação há 3 dias no glúteo direito com surgimento local de lesões cutâneas há 1 dia. Nega febre, linfadenopatia ou prostração. EF: múltiplas vesículas de conteúdo hialino e base eritematosa agrupadas apenas na região glútea à direita (imagem).",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "principal hipótese diagnóstica e o exame para a sua confirmação são, respectivamente:"
+      },
+      {
+        "letra": "A",
+        "texto": "herpes simples; citodiagnóstico de Tzanck."
+      },
+      {
+        "letra": "B",
+        "texto": "varíola do macaco; pesquisa viral pelo PCR da lesão."
+      },
+      {
+        "letra": "C",
+        "texto": "sífilis primária; pesquisa do treponema em campo escuro."
+      },
+      {
+        "letra": "D",
+        "texto": "molusco contagioso; exame histopatológico do material curetado."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 61076,
+    "tags": [],
+    "enunciado": "São características da infecção pelo Epstein-Barr Vírus todas as abaixo, exceto:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Estabelecimento de latência."
+      },
+      {
+        "letra": "B",
+        "texto": "Infecção de linfócitos T."
+      },
+      {
+        "letra": "C",
+        "texto": "Lesão hepatocelular, o principal componente das manifestações hepáticas."
+      },
+      {
+        "letra": "D",
+        "texto": "Resposta imune celular, o principal mecanismo de defesa do hospedeiro contra a infecção. 4000192059"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 61077,
+    "tags": [],
+    "enunciado": "Um paciente queixa de dor intensa no local da lesão dermatológica, conforme indicado na imagem. Disponível em: <https://www.drauziovarella.uol.com.br>. Acesso em: 29 set. 2022. Com base nessa imagem e em conhecimentos correlatos, assinale a alternativa que melhor apresenta essa lesão.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Celulite"
+      },
+      {
+        "letra": "B",
+        "texto": "Herpes zóster"
+      },
+      {
+        "letra": "C",
+        "texto": "Intertrigo"
+      },
+      {
+        "letra": "D",
+        "texto": "Furúnculo"
+      },
+      {
+        "letra": "E",
+        "texto": "Erisipela"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 61078,
+    "tags": [],
+    "enunciado": "Uma paciente de 33 anos de idade, apresentando lesões vesicobolhosas e hiperemia no lado esquerdo da face. Relata também prurido no local, dor intensa e “formigamento na região”. No momento, apresenta 37,5º",
+    "alternativas": [
+      {
+        "letra": "C",
+        "texto": "de temperatura. Acerca desse caso, assinale a alternativa que corresponde à hipótese diagnóstica."
+      },
+      {
+        "letra": "A",
+        "texto": "Impetigo"
+      },
+      {
+        "letra": "B",
+        "texto": "Furúnculo"
+      },
+      {
+        "letra": "C",
+        "texto": "Varicela"
+      },
+      {
+        "letra": "D",
+        "texto": "Varíola do macaco"
+      },
+      {
+        "letra": "E",
+        "texto": "Herpes zóster"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 61079,
+    "tags": [],
+    "enunciado": "Um paciente do sexo masculino, 45 anos, procura atendimento médico no Pronto Socorro apresentando queixa de cefaleia holocraniana, vertigem, dor retroauricular a direta, otalgia direita, paralisia facial a direita há 1 dia. Nega doenças crônicas e uso contínuo de medicamentos. Quando questionado sobre seus sintomas, a(cid:54)rma que há 10 dias teve quadro de resfriado leve que melhorou espontaneamente. No exame físico apresentava paralisia facial envolvendo toda hemiface direita, pressão arterial de 140x90mmHg, eudiadococinesia equilíbrio estático e dinâmico sem alterações, otoscopia direita: leve hiperemia de conduto auditivo externo e presença de vesículas no pavilhão auditivo, força preservada nos 4 membros. Sobre a história clínica aponte a principal hipótese diagnóstica:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Acidente vascular encefálico."
+      },
+      {
+        "letra": "B",
+        "texto": "Paralisia de Bell."
+      },
+      {
+        "letra": "C",
+        "texto": "Síndrome de Ramsay Hunt."
+      },
+      {
+        "letra": "D",
+        "texto": "Doença de Lyme. 4000175766"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 61080,
+    "tags": [],
+    "enunciado": "Mariângela, 60 anos, apresentou quadro de herpes zoster em região torácica há 2 semanas e desde então vem apresentando quadro de intensa dor em “queimação” e “choques” na região acometida (neuralgia pós- herpética). A alternativa que apresenta o tratamento que pode ser prescrito para manejo crônico da dor neuropática e quando, preferencialmente, você encaminharia esta paciente para vacinação contra herpes-zoster é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Amitriptilina; vacinar imediatamente."
+      },
+      {
+        "letra": "B",
+        "texto": "Codeína; vacinar imediatamente."
+      },
+      {
+        "letra": "C",
+        "texto": "Dexametasona; um ano após o quadro agudo."
+      },
+      {
+        "letra": "D",
+        "texto": "Gabapentina; um ano após o quadro agudo."
+      },
+      {
+        "letra": "E",
+        "texto": "Duloxetina; não existe mais indicação de vacinação contra herpes-zoster. 4000175686"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 61081,
+    "tags": [],
+    "enunciado": "Os vírus podem ter seu material genético constituido de RNA ou DNA. Todos os tipos abaixo são vírus de RNA, exceto um. Assinale o vírus que apresenta DNA em sua constituição.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Enterovirus."
+      },
+      {
+        "letra": "B",
+        "texto": "Rhinovirus."
+      },
+      {
+        "letra": "C",
+        "texto": "Rubivirus."
+      },
+      {
+        "letra": "D",
+        "texto": "Coronárias."
+      },
+      {
+        "letra": "E",
+        "texto": "Vírus Varicella- zoster. 4000175447"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 61082,
+    "tags": [],
+    "enunciado": "Sobre a varicela, assinale a alternativa CORRETA: I - Herpes Zoster e varicela são infecções causadas pelo mesmo vírus. II - O Herpes Zoster ocorre somente em indivíduos imunodeprimidos. III - O período de incubação da varicela é de 7 dias.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Todas as alternativas estão corretas."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente a alternativa I está correta."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente as alternativas I e III estão corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "Todas as alternativas estão erradas."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 61083,
+    "tags": [],
+    "enunciado": "Menino, 4 anos de idade, queixou-se de dor em braços e pernas há 3 dias. Há 1 dia, esfregava a pele sem conseguir de(cid:54)nir se sentia prurido ou ardor. Recebeu anti-histamínico à noite e hoje acordou com máculas, pápulas e placas eritematosas com dupla borda e aspecto em tiro ao alvo, em pernas e braços. O diagnóstico provável e o agente mais associado ao quadro apresentado são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "urticaria; Ascaris lumbricoides."
+      },
+      {
+        "letra": "B",
+        "texto": "eritema tóxico; Malassezia sp."
+      },
+      {
+        "letra": "C",
+        "texto": "eritema nodoso; tuberculose."
+      },
+      {
+        "letra": "D",
+        "texto": "eritema multiforme; herpes simples."
+      },
+      {
+        "letra": "E",
+        "texto": "escarlatina; Streptococcus pyogenes."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 61084,
+    "tags": [],
+    "enunciado": "Homem, 68a, queixa-se de dor de ouvido esquerdo, de forte intensidade, irradiada para pavilhão auricular. Relata aparecimento de lesões pruriginosas em orelha, região periauricular, além de vesículas em cavidade oral esquerda, há um dia. Refere embaçamento visual ipisilateral.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "HIPÓTESE DIAGNÓSTICA É:"
+      }
+    ],
+    "resposta_correta": null
+  },
+  {
+    "id": 61085,
+    "tags": [],
+    "enunciado": "Paciente do sexo feminino, com 72 anos de idade relata 5 dias de evolução de dor lombar. Procurou atendimento no início dos sintomas, em que um diagnóstico de dor muscular foi feito e foi prescrito paracetamol se dor. Evoluiu com lesões vesiculares com base eritematosa na região da dor, que acomete o dermátomo de L1 à direita. Histórico de diabetes, em uso de metformina 1g a cada 12 horas e insulina glargina 10 unidades ao dia. Nega outras comorbidades. Considerando o diagnóstico mais provável, assinale a assertiva correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Utilizar compressas de acetato de alumínio pode promover limpeza da lesão e alívio dos sintomas."
+      },
+      {
+        "letra": "B",
+        "texto": "O fanciclovir apresenta desvantagens em relação ao aciclovir em se tratando de farmacocinética e farmacodinâmica"
+      },
+      {
+        "letra": "C",
+        "texto": "Quando indicados, o valaciclovir e o aciclovir devem ser usados, não havendo diferença na resposta entre eles."
+      },
+      {
+        "letra": "D",
+        "texto": "O uso de corticosteróides está indicado, tendo em vista a evidência de resolução acelerada das lesões com o seu uso."
+      },
+      {
+        "letra": "E",
+        "texto": "O uso do antiviral intravenoso tem benefícios na cicatrização das lesões e na redução da dor em relação ao tratamento oral."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 61086,
+    "tags": [],
+    "enunciado": "Paciente 27 anos, masculino, apresenta-se ao pronto-socorro com lesões dolorosas, bolhosas de fundo avermelhado localizadas em região abdominal. Entre as hipóteses diagnósticas abaixo, a mais provável para este caso é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Varicela."
+      },
+      {
+        "letra": "B",
+        "texto": "Sarampo."
+      },
+      {
+        "letra": "C",
+        "texto": "Reação alérgica de contato."
+      },
+      {
+        "letra": "D",
+        "texto": "Herpes zoster."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 61087,
+    "tags": [],
+    "enunciado": "Pré-escolar de 1 ano e 8 meses é levado à emergência devido a tremores e incapacidade de deambular. Os responsáveis referem quadro febril baixo e diarreia semilíquida, sem sangue ou pus, há uma semana. Há 24 horas, iniciou sintomatologia de dismetria e ataxia. Ao exame físico, o paciente encontra-se em regular estado geral, algo irritado, anictérico, acianótico, hidratado, corado, com boa perfusão. Apresenta rash micropapular principalmente em face e tronco. Exame neurológico evidencia dismetria e ataxia, com discreta rigidez nucal. Restante do exame físico normal. Ressonância nuclear magnética de crânio revela discretas alterações em lobos temporais. Punção lombar apresenta moderado número de mononucleares e polimorfonucleares, além de número moderado de eritrócitos, proteína discretamente aumentada e glicose normal. O diagnóstico mais provável para o caso é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "síndrome de Guillain-Barré"
+      },
+      {
+        "letra": "B",
+        "texto": "meningoencefalite herpética"
+      },
+      {
+        "letra": "C",
+        "texto": "meningoencefalite por Haemophilus"
+      },
+      {
+        "letra": "D",
+        "texto": "síndrome miastênica de Lambert-Eaton"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 61088,
+    "tags": [],
+    "enunciado": "Em relação à infecção por varicela-zoster na gestação, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O raio x de tórax não deve ser indicado nas gestantes com suspeita de pneumonia pelo vírus da varicela-zoster, pelo risco potencial de malformações fetais."
+      },
+      {
+        "letra": "B",
+        "texto": "Recomenda-se terapia com antiviral intravenoso para gestantes com varicela-zoster aguda que requerem hospitalização, mesmo na ausência de pneumonia."
+      },
+      {
+        "letra": "C",
+        "texto": "A maioria das gestantes com varicela necessita de hospitalização, devido à gravidade da doença, tanto para mãe quanto para o feto."
+      },
+      {
+        "letra": "D",
+        "texto": "Diante de um quadro de pneumonia por varicela-zoster na gestação, está indicado como medicação de primeira escolha, o uso do antiviral fanciclovir."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 61089,
+    "tags": [],
+    "enunciado": "Sobre o herpes zoster, assinale a alternativa incorreta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não há descrição de casos de pacientes que desenvolveram herpes-zoster após contato com doentes de varicela"
+      },
+      {
+        "letra": "B",
+        "texto": "É possível uma criança adquirir varicela por contato com doente com herpes zoster"
+      },
+      {
+        "letra": "C",
+        "texto": "A erupção cutânea é unilateral, raramente ultrapassa a linha mediana e segue o trajeto de um nervo"
+      },
+      {
+        "letra": "D",
+        "texto": "Pode haver acometimento do nervo facial com paralisia de Bell"
+      },
+      {
+        "letra": "E",
+        "texto": "A terapia antiviral específica, iniciada em até 72 horas após o surgimento do rash, reduz a ocorrência da neurite pós-herpética, que é a complicação mais frequente do herpes-zoster"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 61090,
+    "tags": [],
+    "enunciado": "A foto abaixo é de José, 52 anos. Ele procurou um dermatologista, porque as lesões vesiculosas estão aumentando do lado direito de suas costas e ele sente dor de forte intensidade em queimação. Baseado na sua hipótese diagnóstica você prescreveria:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aciclovir tópico e via oral, além de analgésicos opióides para controle da dor."
+      },
+      {
+        "letra": "B",
+        "texto": "Cefalosporina de segunda geração, pré-gabalina ou gabapentina e corticoide, todos por via oral."
+      },
+      {
+        "letra": "C",
+        "texto": "Cefalosporina de primeira geração via oral, antibiótico tópico, analgésicos opióides e corticoides."
+      },
+      {
+        "letra": "D",
+        "texto": "Aciclovir via oral e anticonvulsivante ou antidepressivo tricíclico. 4000173892"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 61091,
+    "tags": [],
+    "enunciado": "Senhor Nicolau tem 80 anos e está internado para tratamento de linfoma de Hodgkin. Ele recebeu quimioterapia na internação e hoje surgiram vesículas sobre base eritematosa, associadas a dor intensa em faixa, no hemitórax direito, na altura do mamilo, sem cruzar a linha média. Diante da hipótese de herpes zoster, qual alternativa contém condutas essenciais ao caso neste momento?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Notificação imediata, administração de valaciclovir e gabapentina."
+      },
+      {
+        "letra": "B",
+        "texto": "Vacinação dos contactantes, administração de aciclovir e prednisona."
+      },
+      {
+        "letra": "C",
+        "texto": "Coleta de sorologia, administração de valaciclovir e prednisona."
+      },
+      {
+        "letra": "D",
+        "texto": "Isolamento do paciente, administração de aciclovir e gabapentina. 4000173303"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 61092,
+    "tags": [],
+    "enunciado": "Mulher de 40 anos, homossexual de parceira única, busca atendimento queixando de vesícula em pavilhão auricular e conduto auditivo direito, associado a otalgia e paralisia facial periférica. Qual o diagnóstico mais provável e tratamento?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Herpes Zoster. Tratamento ambulatorial com sintomáticos."
+      },
+      {
+        "letra": "B",
+        "texto": "Herpes Zoster. Tratamento ambulatorial com corticóide via oral."
+      },
+      {
+        "letra": "C",
+        "texto": "Síndrome de Ramsay Hunt. Tratamento ambulatorial com Aciclovir e corticoide via oral."
+      },
+      {
+        "letra": "D",
+        "texto": "Sífilis secundária. Penicilina G Benzatina 2,4 milhões de unidades dose única intramuscular. 4000172327"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 61093,
+    "tags": [],
+    "enunciado": "Uma paciente de 40 anos procura o pronto-socorro com queixa de dor torácica e lesões na pele ((cid:54)gura ao lado). Ela refere que a dor começou há 2 dias e, há 1 dia, surgiram as manchas cutâneas. Ela informa ainda que é transplantada renal e está em uso de tacrolimus. Diante do quadro clínico, assinale a alternativa correta",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O tratamento deve ser com aciclovir 200 mg, administrado a cada 8 horas por 7 dias."
+      },
+      {
+        "letra": "B",
+        "texto": "Essa doença é causada pela reativação do vírus do sarampo."
+      },
+      {
+        "letra": "C",
+        "texto": "A única forma dessa paciente transmitir essa doença é pelo contato com o conteúdo das vesículas."
+      },
+      {
+        "letra": "D",
+        "texto": "Essa paciente tem maior risco de evoluir com dor crônica."
+      },
+      {
+        "letra": "E",
+        "texto": "Não há, até hoje, nenhuma forma de reduzir a chance de um indivíduo adulto desenvolver essa condição."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 61094,
+    "tags": [],
+    "enunciado": "A respeito da infecção pelo vírus herpes simples 1 e 2 (HSV-1 e HSV-2), assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A infecção pelo vírus pode ser assintomática ou sintomática. Os casos sintomáticos ocorrem com maior frequência e podem ser divididos em primoinfecção herpética e surtos recorrentes."
+      },
+      {
+        "letra": "B",
+        "texto": "A primoinfecção herpética apresenta, em geral, uma sintomatologia mais branda que a recorrente."
+      },
+      {
+        "letra": "C",
+        "texto": "Após a infecção genital, o HSV ascende pelos vasos linfáticos, penetra nos linfonodos e entra em um estado de latência."
+      },
+      {
+        "letra": "D",
+        "texto": "Devido à disseminação do vírus pelo sistema linfático na primoinfecção, a forma clínica recorrente tende a estar distante da localização da lesão inicial."
+      },
+      {
+        "letra": "E",
+        "texto": "Os diagnósticos diferenciais incluem outras infecções sexualmente transmissíveis, como, por exemplo, o cancroide, a sif́ ilis, o linfogranuloma venéreo, a donovanose e as úlceras traumáticas."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 61095,
+    "tags": [],
+    "enunciado": "Em relação aos cuidados com os contactantes do vírus da varicela-zóster, a imunoglobulina humana antivírus varicelazóster (VZIG) deve ser indicada em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "gestantes imunes."
+      },
+      {
+        "letra": "B",
+        "texto": "recém-nascidos cuja mãe tenha tido varicela no primeiro trimestre da gestação."
+      },
+      {
+        "letra": "C",
+        "texto": "crianças imunocompetentes sem história prévia de varicela."
+      },
+      {
+        "letra": "D",
+        "texto": "prematuros (28 semanas) cuja mãe não tenha tido varicela."
+      },
+      {
+        "letra": "E",
+        "texto": "recém-nascidos a termo cuja mãe não tenha tido varicela."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 61096,
+    "tags": [],
+    "enunciado": "Mulher de 74 anos, sem comorbidades, procura atendimento com quadro de dor torácica em queimação, intensa, de 4 dias de duração, refratária a analgesia com dipirona e anti-in(cid:95)amatório. A dor se localiza em região dorsal esquerda, na altura da vértebra T1 O, e se irradia para região anterior do tórax, ipsilateralmente. Ao exame, paciente apresenta no local da dor vesículas de conteúdo claro agrupadas, de base eritematosa, em trajeto que parte da linha medial do dorso até borda esternal esquerda. Diante do quadro clínico, o tratamento MAIS ADEQUADO neste momento é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aciclovir e hidrocortisona em creme, tópicos, 3 vezes ao dia por 7 dias"
+      },
+      {
+        "letra": "B",
+        "texto": "Aciclovir parenteral 1 0mg/kg a cada 8 horas, por 7 a 14 dias"
+      },
+      {
+        "letra": "C",
+        "texto": "Famciclovir via oral 500mg a cada 8 horas, por 7 dias"
+      },
+      {
+        "letra": "D",
+        "texto": "Ganciclovir parenteral Smg/kg a cada 12 horas, por 14 dias"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 61097,
+    "tags": [],
+    "enunciado": "0 panarício herpético ( herpes simplex ) acomete mais comumente os dedos:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Polegar e indicador."
+      },
+      {
+        "letra": "B",
+        "texto": "Indicador e médio."
+      },
+      {
+        "letra": "C",
+        "texto": "Media e anular."
+      },
+      {
+        "letra": "D",
+        "texto": "Anular e minima."
+      },
+      {
+        "letra": "E",
+        "texto": "Minima e polegar."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 61098,
+    "tags": [],
+    "enunciado": "Assinale a alternativa correta em relação ao Herpes Zoster.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A dor é o sintoma mais comum."
+      },
+      {
+        "letra": "B",
+        "texto": "A transmissão ocorre apenas por meio do contato direto com qualquer lesão de pele."
+      },
+      {
+        "letra": "C",
+        "texto": "Decorre da reativação do vírus do sarampo que permanece em latência."
+      },
+      {
+        "letra": "D",
+        "texto": "A incidência é duas vezes maior entre indivíduos HIV positivos do que entre os soronegativos para HIV."
+      },
+      {
+        "letra": "E",
+        "texto": "Caracteriza-se por lesões cutâneas que antecedem o aparecimento de febre e dor de padrão neuropático."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 61099,
+    "tags": [],
+    "enunciado": "Menino, 8 anos, previamente hígido, evolui com lesões vesiculares com base eritematosa em dorso, em área delimitada, seguindo trajeto do nervo. Lesões foram precedidas por dor moderada. Sem sinais de infecção secundária ou necrose. Nega episódios prévios semelhantes. Diante do quadro apresentado, assinale a terapêutica mais adequada.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Anestésico tópico / curetagem."
+      },
+      {
+        "letra": "B",
+        "texto": "Analgesia/compressas calmantes."
+      },
+      {
+        "letra": "C",
+        "texto": "Solução a base de ácido salicílico."
+      },
+      {
+        "letra": "D",
+        "texto": "Aciclovir 30 mg/kg /dia dividido em 5 doses."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 61100,
+    "tags": [],
+    "enunciado": "Paciente, 24 anos, feminina, procura atendimento no pronto-socorro com queixa de lesões hiperemiadas e dolorosas inframamárias, sensação de queimação, algo dolorosas, que seguem até o dorso, apenas do lado direito. O diagnóstico e a conduta mais adequados, respectivamente, são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Herpes simples, aciclovir 400 mg, 8/8 h, por 7 dias."
+      },
+      {
+        "letra": "B",
+        "texto": "Herpes-zóster, aciclovir 400 mg, 5×d, por 7 dias."
+      },
+      {
+        "letra": "C",
+        "texto": "Herpes-zóster, aciclovir 800 mg, 8/8 h, + prednisona 40 mg, por 7 dias."
+      },
+      {
+        "letra": "D",
+        "texto": "Herpes simples, hidratação e orientações."
+      },
+      {
+        "letra": "E",
+        "texto": "Herpes-zóster, aciclovir 800 mg, 5×d, por 7 dias."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 61101,
+    "tags": [],
+    "enunciado": "Mulher, 54 anos de idade, dá entrada na UPA por queixas de dor em região lombar à direita, há 2 dias. É portadora de hipertensão arterial sistêmica, em uso de losartana, e psoríase, em uso de ciclosporina. Não possui outras morbidades. Ao exame físico, apresenta-se em bom estado geral, com ausculta cardiorrespiratória e exame abdominal sem alterações. Giordano negativo. Presença de lesões vesiculares dispostas linearmente em região lombar à direita, obedecendo a linha mediana. Indique a orientação mais adequada em relação à precaução de transmissão nesse caso.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É necessária apenas a precaução de contato, visto que o contágio se dá através das lesões de pele na doença localizada."
+      },
+      {
+        "letra": "B",
+        "texto": "É necessário o uso de máscara do tipo N-95 pelos contactantes porque, apesar de doença localizada, a paciente está imunossuprimida."
+      },
+      {
+        "letra": "C",
+        "texto": "É necessária a precaução de contato, associada à utilização de máscara cirúrgica pelos contactantes, devido ao risco de transmissão por gotículas."
+      },
+      {
+        "letra": "D",
+        "texto": "É necessária apenas a utilização de máscara cirúrgica pela paciente, já que a transmissão é menor por pacientes imunossuprimidos."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 61102,
+    "tags": [],
+    "enunciado": "Mulher, 54 anos de idade, dá entrada na UPA por queixas de dor em região lombar à direita, há 2 dias. É portadora de hipertensão arterial sistêmica, em uso de losartana, e psoríase, em uso de ciclosporina. Não possui outras morbidades. Ao exame físico, apresenta-se em bom estado geral, com ausculta cardiorrespiratória e exame abdominal sem alterações. Giordano negativo. Presença de lesões vesiculares dispostas linearmente em região lombar à direita, obedecendo a linha mediana. Identi(cid:54)que as complicações mais frequentemente associadas ao quadro clínico atual da paciente.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Paralisia de Bell e nevralgia."
+      },
+      {
+        "letra": "B",
+        "texto": "Nevralgia e infecção bacteriana"
+      },
+      {
+        "letra": "C",
+        "texto": "Infecção bacteriana e trombocitopenia."
+      },
+      {
+        "letra": "D",
+        "texto": "Trombocitopenia e paralisia de Bell."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 61103,
+    "tags": [],
+    "enunciado": "Mulher, 54 anos de idade, dá entrada na UPA por queixas de dor em região lombar à direita, há 2 dias. É portadora de hipertensão arterial sistêmica, em uso de losartana, e psoríase, em uso de ciclosporina. Não possui outras morbidades. Ao exame físico, apresenta-se em bom estado geral, com ausculta cardiorrespiratória e exame abdominal sem alterações. Giordano negativo. Presença de lesões vesiculares dispostas linearmente em região lombar à direita, obedecendo a linha mediana. Diante do quadro apresentado, indique a conduta terapêutica mais adequada no momento.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Suspensão temporária da ciclosporina e conduta expectante em relação às lesões de pele atuais."
+      },
+      {
+        "letra": "B",
+        "texto": "Suspensão temporária da ciclosporina e introdução de valaciclovir."
+      },
+      {
+        "letra": "C",
+        "texto": "Manutenção da ciclosporina e introdução de ganciclovir."
+      },
+      {
+        "letra": "D",
+        "texto": "Manutenção da ciclosporina e introdução de metilprednisolona."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 61104,
+    "tags": [],
+    "enunciado": "Assinale a alternativa que preenche, correta e respectivamente, as lacunas do parágrafo abaixo. Paciente de 65 anos, transplantado renal há 10 anos, veio à consulta por erupção cutânea formada por vesículas agrupadas, distribuídas em faixa sobre base eritematosa na região occipital esquerda até a região retroauricular ipsilateral. Referiu dor e parestesias no local. Não apresentava lesões em outras áreas do tegumento ou em mucosas. O quadro foi precedido por cansaço, mal-estar e febrículas 2 dias antes da erupção cutânea. Utilizou dipirona (3 vezes/dia) para controle da febre naquele momento. À avaliação, encontrava-se em bom estado geral, lúcido, orientado e com sinais vitais normais. Frente ao provável quadro de _________, o manejo mais adequado é prescrever __________.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "eritema multiforme - corticoterapia sistêmica"
+      },
+      {
+        "letra": "B",
+        "texto": "síndrome de Stevens-Johnson - corticoterapia sistêmica"
+      },
+      {
+        "letra": "C",
+        "texto": "síndrome de Stevens-Johnson - imunoglobulina intravenosa"
+      },
+      {
+        "letra": "D",
+        "texto": "herpes-zóster - aciclovir tópico"
+      },
+      {
+        "letra": "E",
+        "texto": "herpes-zóster - aciclovir sistêmico"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 61105,
+    "tags": [],
+    "enunciado": "Adolescente de 17 anos refere surgimento há quatro semanas de lesões assintomáticas na base do pênis, com extensão para raiz de coxas e hipogástrio (imagem a seguir). Tem história de contato sexual desprotegido há seis semanas. O diagnóstico e a proposta terapêutica são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "molusco contagioso; curetagem."
+      },
+      {
+        "letra": "B",
+        "texto": "verruga genital (HPV); cauterização com ácido tricloroa-cético 90%."
+      },
+      {
+        "letra": "C",
+        "texto": "sífilis primária (cancro duro); penicilina benzatina 2400000 UI intramuscular dose única."
+      },
+      {
+        "letra": "D",
+        "texto": "herpes genital; aciclovir 400 mg cinco vezes por dia por 7 dias."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 61106,
+    "tags": [],
+    "enunciado": "Em escolar de três anos apresenta pele seca e áspera, pruriginosas nas pregas ante cubitais e poplíteas com espessamento da pele. Sua mãe refere início por volta de um ano de idade, havendo piora no calor. A principal hipótese diagnóstica, nesse caso é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "herpes zoster."
+      },
+      {
+        "letra": "B",
+        "texto": "dermatite atópica."
+      },
+      {
+        "letra": "C",
+        "texto": "impetigo crostoso."
+      },
+      {
+        "letra": "D",
+        "texto": "prurigo estrófulo."
+      },
+      {
+        "letra": "E",
+        "texto": "síndrome mão-pé-boca."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 61107,
+    "tags": [],
+    "enunciado": "Criança de 7 anos é levada para atendimento com quadro de lesões ulceradas em membro superior direito há dois meses. A mãe refere que já fez diversos tratamentos com antialérgicos prescritos, sem melhora do quadro. Nega febre e refere que as lesões começam com pequenas pápulas indolores que crescem e ulceram. Ao exame físico, a criança apresenta quatro lesões ulceradas em região de antebraço direito, com nódulos subcutâneos de consistência amolecida, em trajeto linear, que seguem anatomicamente a drenagem linfática do membro. O diagnóstico mais provável é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "linfoma"
+      },
+      {
+        "letra": "B",
+        "texto": "esporotricose"
+      },
+      {
+        "letra": "C",
+        "texto": "herpes zoster"
+      },
+      {
+        "letra": "D",
+        "texto": "herpes simples"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 61108,
+    "tags": [],
+    "enunciado": "Adolescente de 13 anos é atendida na Unidade de Pronto Atendimento com quadro de erupções cutâneas presentes há 3 dias, com piora progressiva, sem história de trauma ou febre. As lesões iniciaram-se em tronco e dorso, mas há 24 horas também estão presentes nos quatro membros, poupando mãos e pés. As lesões apareceram em placas eritematosa com dupla borda e aspecto em \"\"tiro ao alvo\"\", com anel pálido interno e centro necrótico escuro, violáceo. Na história patológica pregressa, nega cirurgias, hemotransfusões ou doenças crônicas. Refere herpes labial recorrente desde os 11 anos de idade, sendo último episódio ocorrido há 2 semanas. Nega uso de medicações sintomáticas ou antibióticos na última semana. Qual é o diagnóstico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Eritema multiforme."
+      },
+      {
+        "letra": "B",
+        "texto": "Dermatite herpetiforme."
+      },
+      {
+        "letra": "C",
+        "texto": "Herpes-zoster disseminado."
+      },
+      {
+        "letra": "D",
+        "texto": "Sífilis secundária."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 61109,
+    "tags": [],
+    "enunciado": "Paciente 82 anos, portador de diabetes e hipertensão iniciou há um dia com disestesia em (cid:95)anco a direita, posteriormente apareceram pequenas vesículas em região restrita a dermatomo. A lesão evolui com importante quadro álgico. Qual o provável diagnostico e conduta a ser realizada",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Herpes Zoster, iniciar fanciclovir"
+      },
+      {
+        "letra": "B",
+        "texto": "Herpes Zoster, iniciar Zidovudina"
+      },
+      {
+        "letra": "C",
+        "texto": "Herpes Simples, Iniciar Aciclovir"
+      },
+      {
+        "letra": "D",
+        "texto": "Herpes Simples, Iniciar Tenofovir"
+      },
+      {
+        "letra": "E",
+        "texto": "Herpes Zoster, iniciar cefalexina"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 61110,
+    "tags": [],
+    "enunciado": "Escolar de 9 anos em acompanhamento por dermatite atópica há vários anos, iniciou há 3 dias com lesões cutâneas novas sobre as áreas da dermatite atópica. Estas lesões são vesicopustulares múltiplas e pruriginosas. As lesões vesiculares são umbilicadas, tendem a se unir e formam crostas. Em relação ao caso, analise as assertivas abaixo. I - O diagnóstico mais provável é eczema variceliforme de Kaposi. PORQUE; II - É uma infecção viral causada pelo vírus herpes simples sobre uma pele acometida por lesão primária.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As asserções I e II são proposições verdadeiras, e a segunda é uma justificativa daprimeira."
+      },
+      {
+        "letra": "B",
+        "texto": "As asserções I e II são proposições verdadeiras, mas a segunda não é uma justificativada primeira."
+      },
+      {
+        "letra": "C",
+        "texto": "A asserção I é uma proposição verdadeira e a asserção II é uma proposição falsa."
+      },
+      {
+        "letra": "D",
+        "texto": "A asserção I é uma proposição falsa e a asserção II é uma proposição verdadeira."
+      },
+      {
+        "letra": "E",
+        "texto": "As asserções I e II são proposições falsas."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 61111,
+    "tags": [],
+    "enunciado": "Paciente masculino, 39 anos, com diagnóstico de síndrome da imunode(cid:54)ciência humana (CD 4+=110/microlitro) vai à consulta médica com queixas dermatológicas. Ao exame clínico, o médico observa exantema descamativo, de cor amarelada, crostoso, pruriginoso no nariz e em região circular ao mesmo, sem outras lesões dérmicas em quaisquer regiões do corpo. O diagnóstico mais provável desse paciente é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sarcoma de Kaposi"
+      },
+      {
+        "letra": "B",
+        "texto": "Psoríase"
+      },
+      {
+        "letra": "C",
+        "texto": "Herpes zoster"
+      },
+      {
+        "letra": "D",
+        "texto": "Molusco contagioso"
+      },
+      {
+        "letra": "E",
+        "texto": "Dermatite seborreica"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 61112,
+    "tags": [],
+    "enunciado": "O panarício herpético",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "é causado especificamente pelo herpes vírus do tipo 1 (HSV-1)."
+      },
+      {
+        "letra": "B",
+        "texto": "caracteriza-se por vesícuIas e, algumas vezes, por pústulas, agrupadas sob fundo eritematoso e não são dolorosas."
+      },
+      {
+        "letra": "C",
+        "texto": "pode ocorrer em médicos, enfermeiros e dentistas, considerados população de risco para essa doença."
+      },
+      {
+        "letra": "D",
+        "texto": "cursa com sintomas sistêmicos como febre, prostração e adenite satélite, em 90% dos casos."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 61113,
+    "tags": [],
+    "enunciado": "Criança de 10 anos de idade, com lesões vesicobolhosas percorrendo um dimídio corporal em região toracodorsal, com prurido, ardor e dor, foi levada ao pronto-socorro. Após examiná-la e conversar com os pais, o pediatra concluiu que a referida criança está com herpes-zóster. Para ter esta doença, é necessário que a criança tenha apresentado anteriormente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "herpes simples."
+      },
+      {
+        "letra": "B",
+        "texto": "citomegalovirose."
+      },
+      {
+        "letra": "C",
+        "texto": "sífilis."
+      },
+      {
+        "letra": "D",
+        "texto": "varicela."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 61114,
+    "tags": [],
+    "enunciado": "Mulher de 72 anos comparece à Unidade Básica de Saúde queixando-se de dor moderada, em queimação, em faces dorsal, lateral e anterior do hemitórax esquerdo há dois dias. Nega comorbidades ou outros sintomas. Ao exame: Peso = 70 kg; Estado geral regular; à inspeção, são vistas as lesões a seguir (foto). Restante do exame físico normal. Está em uso de dipirona e anti-in(cid:95)amatório não hormonal com controle parcial da dor. Qual das opções define corretamente o tratamento recomendado para este caso?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aciclovir 800 mg via oral cinco vezes ao dia por uma semana."
+      },
+      {
+        "letra": "B",
+        "texto": "Valaciclovir 500 mg via oral duas vezes ao dia por uma semana."
+      },
+      {
+        "letra": "C",
+        "texto": "Ganciclovir 350 mg intravenoso duas vezes ao dia por três semanas."
+      },
+      {
+        "letra": "D",
+        "texto": "Fanciclovir 500 mg via oral três vezes ao dia até a cicatrização das lesões."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 61115,
+    "tags": [],
+    "enunciado": "O herpes-zóster decorre da reativação do vírus da varicela, que permanece em latência. A reativação ocorre na idade adulta ou em pessoas com comprometimento imunológico, portadores de doenças crônicas, neoplasias, AIDS e outras. Podemos apenas concordar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O quadro clínico é pleomófico, manifestando-se nunca de forma benigna e sim sempre de formas graves, com êxito letal."
+      },
+      {
+        "letra": "B",
+        "texto": "Após a fase de disseminação hematogênica, em que o vírus atinge a pele, ele progride centripetamente pelos nervos periféricos até os gânglios nervosos, onde poderá permanecer, em latência, por curto período de tempo."
+      },
+      {
+        "letra": "C",
+        "texto": "É também impossível uma criança adquirir varicela por contato com doente de zóster."
+      },
+      {
+        "letra": "D",
+        "texto": "Causas diversas podem levar à reativação do vírus que, progredindo centrifugamente pelo nervo periférico, atinge a pele e causa a característica erupção do herpes-zóster."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 61116,
+    "tags": [],
+    "enunciado": "Jovem de 19 anos comparece à consulta apresentando pápulas eritematosas e pruriginosas nas regiões interdigitais, púbis e linhas axilares, e piora de prurido noturno. O diagnóstico mais provável é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tinea corporis"
+      },
+      {
+        "letra": "B",
+        "texto": "molusco contagioso"
+      },
+      {
+        "letra": "C",
+        "texto": "Herpes"
+      },
+      {
+        "letra": "D",
+        "texto": "escabiose"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 61117,
+    "tags": [],
+    "enunciado": "Uma adolescente com 13 anos de idade apresenta extensas lesões vesiculares em antebraço, com base hiperemiada, há 2 dias. Refere febre baixa e dor local e que as lesões estão aumentando em número. Está em bom estado e sem qualquer outra alteração à história ou ao exame clínico. O diagnóstico é de Herpes zoster.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "paciente auxilia nos cuidados de sua irmã, que está com 12 dias de vida. Responda: a) Qual é a droga e via de administração para o tratamento desta paciente? b) Qual o esquema vacinal para varicela recomendado pelo Ministério da Saúde (PNI-Programa Nacional de Imunizações)? c) Qual o intervalo de tempo preconizado entre a vacina de varicela e a vacina do sarampo, caxumba e rubéola, caso não tenham sido administradas no mesmo dia? d) Qual a conduta para a recém-nascida, irmã da paciente?"
+      }
+    ],
+    "resposta_correta": null
+  },
+  {
+    "id": 61118,
+    "tags": [],
+    "enunciado": "Pré-escolar de dois anos apresenta lesões eritematoescamosas recidivantes, exsudativas e muito pruriginosas, localizadas em fossa cubital e poplíteas. Estas lesões são agravadas com o banho quente e calor. O diagnóstico mais provável é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Dermatite atópica."
+      },
+      {
+        "letra": "B",
+        "texto": "Escabiose."
+      },
+      {
+        "letra": "C",
+        "texto": "Herpes simples."
+      },
+      {
+        "letra": "D",
+        "texto": "Estrófulo."
+      },
+      {
+        "letra": "E",
+        "texto": "Micose."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 61119,
+    "tags": [],
+    "enunciado": "Um homem de 72 anos de idade, sofre uma laceração no dedo indicador esquerdo, enquanto cozinhava. Ele imediatamente lava a área, aplica neomicina e faz um curativo oclusivo. Ele muda o curativo e reaplica a medicação duas vezes ao dia. Dois dias mais tarde, ele desenvolve prurido e vermelhidão no local da ferida. Nega febre ou outros sintomas sistêmicos. Possui história de diabetes mellitus tipo 2. Sua única medicação é metformina. Ao exame físico, sinais vitais estão normais. O dedo indicador esquerdo mostra uma ferida super(cid:54)cial de 1 cm com margens bem aproximadas sem drenagem de pus ou dor à palpação. Há pápulas pontuais e vesículas em uma área que se estende de 0,5 cm em torno do local laceração em um padrão retangular de uma aproximação da bandagem. O restante do exame físico é normal. Qual dos seguintes diagnósticos é o mais provável?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Dermatite alérgica de contato"
+      },
+      {
+        "letra": "B",
+        "texto": "Infecção por estreptococo do grupo A"
+      },
+      {
+        "letra": "C",
+        "texto": "Infecção pelo vírus Herpes simplex"
+      },
+      {
+        "letra": "D",
+        "texto": "Infecção por Staphylococcus aureus"
+      },
+      {
+        "letra": "E",
+        "texto": "Infecção por bactéria anaeróbia."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 61120,
+    "tags": [],
+    "enunciado": "Você é medico em uma Unidade de Saúde da Família e uma mãe traz seu (cid:54)lho de 7 anos para a consulta, pois o menino iniciou com lesões no tronco, ombros e face (imagem abaixo) há alguns dias. As lesões não são pruriginosas, não doem, mas estão espalhando e a mãe está preocupada, pois tem outros (cid:54)lhos e a criança frequenta a escola. O diagnóstico mais provável é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "molusco contagioso."
+      },
+      {
+        "letra": "B",
+        "texto": "varicela."
+      },
+      {
+        "letra": "C",
+        "texto": "penfigoide bolhoso."
+      },
+      {
+        "letra": "D",
+        "texto": "herpes zoster."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 61121,
+    "tags": [],
+    "enunciado": "Menino, 7 anos de idade, é levado ao pronto-socorro por quadro de febre de até 39°C há 2 dias, associado a queda do estado geral. Mãe refere ter notado surgimento de lesões orais há 2 dias, que ontem evoluíram para o restante da pele. Sem outras queixas. Tem por antecendente o diagnóstico de epilepsia, tendo iniciado uso de carbamazepina há 3 semanas. Ao exame clínico, criança regular estado geral, com presença de erosões e crostas hemáticas nos lábios, com vesículas e bolhas rotas, com erosões na mucosa gengival, palato mole e palato duro, mucosa jugal e base da língua. Apresenta também vesículas e bolhas de conteúdo sero-hemático, erosões e áreas de descolamento epidérmico com comprometimento de 40% de superfície corpórea. O diagnóstico mais provável para o quadro clínico atual é :",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Eritema pigmentar fixo."
+      },
+      {
+        "letra": "B",
+        "texto": "Pênfigo bolhoso."
+      },
+      {
+        "letra": "C",
+        "texto": "Erupção Variceliforme de Kaposi."
+      },
+      {
+        "letra": "D",
+        "texto": "Necrólise epidérmica tóxica."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 61122,
+    "tags": [],
+    "enunciado": "Homem de 70 anos apresentou-se com história de edema facial, rash com vesículas, pústulas e crostas ao longo da mandíbula esquerda, e placas que haviam coberto os 2/3 anteriores da hemilíngua esquerda há 2 dias. Ele reportava dor na metade inferior da hemiface esquerda, otalgia e glossodinia por 3 dias antes do surgimento do rash. Ao exame, não apresentava dé(cid:54)cit neurológico, sinais meníngeos ou adenopatia. Qual o provável diagnóstico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Herpes zóster."
+      },
+      {
+        "letra": "B",
+        "texto": "Dermatite de contato."
+      },
+      {
+        "letra": "C",
+        "texto": "Penfigoide bolhoso."
+      },
+      {
+        "letra": "D",
+        "texto": "Síndrome de Melkersson-Rosenthal."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 61123,
+    "tags": [],
+    "enunciado": "Algumas neoplasias estão associadas a agentes infecciosos. Correlacione os agentes oncogênicos a seguir e as neoplasias que podem resultar dos mesmos: I. Vírus da hepatite B. II. Papiloimavírus humano. III. Helicobacter pylori. IV. Vírus de Epstein-Barr. V. Herpesvírus humano tipo 8. 1. Câncer de nasofaringe. 2. Carcinoma hepatocelular. 3. Sarcoma de Kaposi. 4. Câncer de cérvix. 5. Linfoma gástrico associado à mucosa.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "associação correta é:"
+      },
+      {
+        "letra": "A",
+        "texto": "I2, II5, III4, IV1, V3."
+      },
+      {
+        "letra": "B",
+        "texto": "I2, II4, III5, IV1, V3."
+      },
+      {
+        "letra": "C",
+        "texto": "I2, II4, III5, IV3, V1."
+      },
+      {
+        "letra": "D",
+        "texto": "I2, II3, III5, IV3, V1."
+      },
+      {
+        "letra": "E",
+        "texto": "I2, II4, III1, IV5, V3."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 61124,
+    "tags": [],
+    "enunciado": "Mulher, 32 anos, em uso de terapia antirretroviral por aids, vem à consulta com quadro de prurido e lesões vesiculares em região vulvar, com quatro dias de evolução. Relata episódio prévio similar, com quatro semanas de duração e sintomas mais intensos, tendo apresentado dor naquela ocasião e realizado tratamento com aciclovir 400 mg a cada 8 horas por 10 dias, com resolução clínica. Em relação ao quadro clínico atual, assinale a alternativa CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Esse episódio deve ser manejado com a mesma medicação do primeiro, incluindo dose e duração do tratamento."
+      },
+      {
+        "letra": "B",
+        "texto": "O tratamento recomendado é com aciclovir 400 mg a cada 8 horas por 5 dias."
+      },
+      {
+        "letra": "C",
+        "texto": "Por se tratar de uma recidiva sem dor, é recomendada a terapia tópica com fármacos antivirais."
+      },
+      {
+        "letra": "D",
+        "texto": "A coinfecção pelo HIV indica tratamento por 14 dias."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 61125,
+    "tags": [],
+    "enunciado": "Um menino de seis anos, com dermatite atópica de difícil controle há uma semana, queixa-se de febre, adinamia e piora das lesões das pregas antecubitais, pescoço e face. Ao exame, apresenta adenomegalia generalizada e sobre as placas de eczema, grande número de exulcerações pequenas e algumas vesículas umbilicadas. Neste caso, o diagnóstico é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "escabiose."
+      },
+      {
+        "letra": "B",
+        "texto": "impetiginização."
+      },
+      {
+        "letra": "C",
+        "texto": "dermatite de contato."
+      },
+      {
+        "letra": "D",
+        "texto": "erupção variceliforme de Kaposi."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 61126,
+    "tags": [],
+    "enunciado": "Homem, 71 anos, em situação de rua, procura unidade de saúde com queixa de dor constante em queimação na região dorsal esquerda há 6 meses. Relata que no início do quadro apresentou febre baixa, mal-estar e astenia, associado a dor, hipersensibilidade ao contato com a roupa e dormência na mesma localização da dor atual, uma faixa na região dorsal esquerda. Relata que após 1 dia do início do quadro surgiram lesões na pele nesta mesma localização. Descreveu as lesões como pequenas bolhas que evoluíram para crostas e desapareceram após 3 semanas. Ao exame físico, apresenta alodínia em território de T4 sem lesões atuais. Para o manejo da dor, qual deve ser a terapêutica medicamentosa de primeira escolha?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tramadol."
+      },
+      {
+        "letra": "B",
+        "texto": "Fluoxetina."
+      },
+      {
+        "letra": "C",
+        "texto": "Prednisona."
+      },
+      {
+        "letra": "D",
+        "texto": "Amitriptilina."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 61127,
+    "tags": [],
+    "enunciado": "Paciente chega ao consultório médico e relata que tem herpes genital. Faz algumas perguntas ao seu Médico de Família e Comunidade e obtém respostas aos seus questionamentos. Assinale a alternativa que apresenta a CORRETA explicação ao questionamento feito pela paciente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Paciente: Posso passar herpes para meu namorado sem ter lesões aparentes? MFC: Não, pois herpes somente pode ser transmitida quando existem lesões."
+      },
+      {
+        "letra": "B",
+        "texto": "Paciente: Existe algum exame que pode confirmar o diagnóstico? MFC: Infelizmente não, mas existe tecnologia para confirmação diagnóstica do herpes vírus."
+      },
+      {
+        "letra": "C",
+        "texto": "Paciente: Os sintomas são só no local acometido ou posso ter sintomas piores? MFC: O herpes é uma doença de manifestação local."
+      },
+      {
+        "letra": "D",
+        "texto": "Paciente: Herpes tem cura? MFC: Não, após a primo-infecção, o vírus fica latente em gânglios nervosos sensoriais e periodicamente pode ser reativado e migrar até a superfície da pele ou mucosa."
+      },
+      {
+        "letra": "E",
+        "texto": "Paciente: As lesões do herpes formam úlceras crônicas? MFC: Sim. Por isso os episódios vesiculares devem ser tratados com antibacterianos associados para evitar infecção."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 61128,
+    "tags": [],
+    "enunciado": "Herpes-zóster tem relação direta com",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "infecção prévia por sarampo."
+      },
+      {
+        "letra": "B",
+        "texto": "meningite viral."
+      },
+      {
+        "letra": "C",
+        "texto": "ocorrência prévia de catapora."
+      },
+      {
+        "letra": "D",
+        "texto": "vacina de varicela."
+      },
+      {
+        "letra": "E",
+        "texto": "imunodepressão."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 61129,
+    "tags": [],
+    "enunciado": "Uma paciente de 21 anos de idade, branca, sem comorbidades, há três meses apresenta, de maneira recorrente, aftas dolorosas na boca e, nas duas últimas semanas, ulceração na vulva, bem mais dolorosa que as da boca. Acompanhando o quadro, notou perda da acuidade visual à direita. Em recente consulta com oftalmologista, foi diagnosticada uveíte anterior. Com base nessa situação hipotética, assinale a alternativa que apresenta a melhor hipótese diagnóstica para a paciente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Doença de Behçet"
+      },
+      {
+        "letra": "B",
+        "texto": "Tuberculose ocular."
+      },
+      {
+        "letra": "C",
+        "texto": "Uveíte herpética."
+      },
+      {
+        "letra": "D",
+        "texto": "Citomegalovirose."
+      },
+      {
+        "letra": "E",
+        "texto": "Paracoccidioidomicose"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 61130,
+    "tags": [],
+    "enunciado": "Uma paciente de três anos de idade apresenta episódios recorrentes de febre de 39 a 40°C, com duração de três a cinco dias, a cada quatro semanas, acompanhados de faringite, aftas, linfonodomegalia cervical, vômitos, artralgia e dor abdominal. Os exames laboratoriais durante as crises revelaram leucocitose e proteína C-reativa elevada. O pediatra prescreveu prednisolona em dose única no início da última crise e a febre cedeu abruptamente. Considerando essa situação hipotética, assinale a alternativa que apresenta o diagnóstico mais provável",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Estomatite herpética."
+      },
+      {
+        "letra": "B",
+        "texto": "Neutropenia cíclica."
+      },
+      {
+        "letra": "C",
+        "texto": "Tonsilite bacteriana recorrente."
+      },
+      {
+        "letra": "D",
+        "texto": "Deficiência de IgA."
+      },
+      {
+        "letra": "E",
+        "texto": "Síndrome PFAPA."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 61131,
+    "tags": [],
+    "enunciado": "Homem de 72 anos, sem comorbidades, há 2 dias começou a apresentar dor em queimação em hemitórax esquerdo e hoje iniciou quadro cutâneo nesse mesmo local, caracterizado pela presença de várias vesículas agrupadas unilaterais. A hipótese diagnóstica é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "doença de Bowen."
+      },
+      {
+        "letra": "B",
+        "texto": "herpes zoster."
+      },
+      {
+        "letra": "C",
+        "texto": "herpes simples."
+      },
+      {
+        "letra": "D",
+        "texto": "ponfólix."
+      },
+      {
+        "letra": "E",
+        "texto": "dermatite herpetiforme."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 61132,
+    "tags": [],
+    "enunciado": "Mulher de 40 anos de idade vem para consulta na unidade básica de saúde por dor na região genital há dois dias. É solteira, não tem parceiro (cid:54)xo, mas tem vida sexual ativa. Nega outros antecedentes mórbidos relevantes. No exame clínico é feito o diagnóstico de primoinfecção herpética. Além do tratamento medicamentoso para a paciente, qual é a conduta para o caso?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Esclarecer as formas de transmissão e orientar a comunicação aos seus parceiros sexuais para diagnóstico e tratamento."
+      },
+      {
+        "letra": "B",
+        "texto": "Evitar revelar aos parceiros a transmissão sexual da doença, pela incerteza do contágio sexual."
+      },
+      {
+        "letra": "C",
+        "texto": "Evitar revelar aos parceiros a transmissão sexual da doença pelo risco de violência contra a paciente."
+      },
+      {
+        "letra": "D",
+        "texto": "Prescrever o mesmo tratamento medicamentoso para o seu parceiro atual."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 61133,
+    "tags": [],
+    "enunciado": "Criança de 9 anos, com diagnóstico de asma grave em uso de corticoide oral nas intercrises, evoluindo com lesões de pele microbolhosas com base eritematosa, aglutinadas e com ardência em todo dermátomo T5. Qual o diagnóstico mais provável e o tratamento a ser instituído?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Impetigo/cefalexina"
+      },
+      {
+        "letra": "B",
+        "texto": "Impetigo/Oxacilina"
+      },
+      {
+        "letra": "C",
+        "texto": "Escabiose/ivermectina"
+      },
+      {
+        "letra": "D",
+        "texto": "Herpes zoster/ aciclovir"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 61134,
+    "tags": [],
+    "enunciado": "Homem, 65 anos, há cinco dias com dor intensa nas regiões escapular e precordial esquerda, com períodos de acalmia, piorando no período noturno e sem relação com os esforços. Ao exame objetivo apresenta taquicardia, palidez cutânea, placas eritematosas encimadas por vesículas isoladas e agrupadas, algumas com discreta umbilicação, que se distribuem desde a região escapular até a região esternal esquerda. O agente etiológico mais provável para o caso é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Staphyilococus aureus"
+      },
+      {
+        "letra": "B",
+        "texto": "Clostrídium pefrigens"
+      },
+      {
+        "letra": "C",
+        "texto": "Varicella zoster"
+      },
+      {
+        "letra": "D",
+        "texto": "Herpes simples"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 61135,
+    "tags": [],
+    "enunciado": "Uma criança com 6 anos apresenta lesões papulares semiesféricas, cor da pele, umbilicadas, com medidas que variam entre 2 e 5cm de diâmetros, localizadas em face, tronco e regiões axilares. As lesões são assintomáticas. A principal hipótese diagnóstica para essa criança corresponde a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "primoinfecção pelo virus varicelar-zoster, ou herpes zoster tipo II."
+      },
+      {
+        "letra": "B",
+        "texto": "molusco contagioso, uma virose benigna e autolimitada."
+      },
+      {
+        "letra": "C",
+        "texto": "erupção cutânea causada pelo virus coxsackie a 16."
+      },
+      {
+        "letra": "D",
+        "texto": "síndrome de Gianotti-Crosti, dermatose de origem bacteriana."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 61136,
+    "tags": [],
+    "enunciado": "Paciente de 27 anos , previamente hígida, deu entrada no Pronto Socorro com história de dor, seguida de aparecimento de lesões vesiculosas em região anterior do tórax. Após avaliação clínica, recebeu diagnóstico de infecção por varicela-zoster. Sobre a infecção por varicela-zoster é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "No curso de investigação, é mandatória a solicitação de glicemia. além das sorologias para HIV, hepatite C e herpes zoster."
+      },
+      {
+        "letra": "B",
+        "texto": "Deve-se iniciar tratamento com aciclovir oral (400 mg 5 vezes ao dia), para encurtar o tempo de tratamento e diminuir o risco de neuralgia pós-herpética."
+      },
+      {
+        "letra": "C",
+        "texto": "Caso a paciente fosse imunossuprimida, o risco de neuralgia pós herpética seria aumentado."
+      },
+      {
+        "letra": "D",
+        "texto": "Nos casos de herpes zoster, as indicações para uso de aciclovir injetável se resumem aos casos de pneumonia ou encefalite pelo vírus varicela zoster."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 61137,
+    "tags": [],
+    "enunciado": "Uma mulher com 60 anos de idade, previamente hígida, relata, em atendimento médico, lesões cutâneas muito dolorosas no dorso, surgidas há menos de 24 horas. Ao exame físico, evidencia-se a presença de erupção vesiculosa sobre base eritematosa de localização unilateral no trajeto do dermátomo T3. Com base nessas informações e na principal hipótese diagnosticada para o caso, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o tratamento antiviral oral previne a dor crônica por neuralgia."
+      },
+      {
+        "letra": "B",
+        "texto": "a dor crônica por neuralgia é uma complicação frequente e debilitante."
+      },
+      {
+        "letra": "C",
+        "texto": "a amitriptilina não deve ser indicada no controle da dor crônica por neuralgia."
+      },
+      {
+        "letra": "D",
+        "texto": "a dor intensa provocada por neurite aguda é característica raramente presente na apresentação clínica."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 61138,
+    "tags": [],
+    "enunciado": "Jovem de 25 anos, sem história mórbida pregressa, apresenta quadro de lesão eritematoso dolorosa com algumas vesículas, pústulas e erosões, em região de gradil costal direito há 4 dias. O paciente refere dor local persistente e que a lesão apareceu apenas naquela região, não progredindo para o outro lado do tórax. Considerando o diagnóstico mais provável, qual a conduta mais adequada a ser tomada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O paciente deve ser tranquilizado, orientado a manter higiene local e evitar contato íntimo com outras pessoas até a lesão apresentar apenas crostas."
+      },
+      {
+        "letra": "B",
+        "texto": "Deve ser prescrito ACICOLVIR na dose de 400 mg de 4/4h por 7-10 dias."
+      },
+      {
+        "letra": "C",
+        "texto": "Deve ser prescrito ACICLOVIR na dose de 800 mg de 4/4h por 7-10 dias."
+      },
+      {
+        "letra": "D",
+        "texto": "Por trata-se de um quadro viral com infecção bacteriana secundária, devem ser prescritos antiviral a antibiótico."
+      },
+      {
+        "letra": "E",
+        "texto": "O paciente deve ser tratado com antiviral, corticesteroide e todos seus contactantes devem ser vacinados."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 61139,
+    "tags": [],
+    "enunciado": "Mulher de 55 anos, 60 kg, usuária crônica de corticoide por doença reumatológica, procura atendimento no pronto-socorro após aparecimento de lesões vesicobolhosas dolorosas distribuídas em faixa na região dorsal esquerda. Considerando a hipótese mais provável, assinale a alternativa que apresenta o tratamento correto.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Gabapentina, 300 mg, 3 vezes ao dia."
+      },
+      {
+        "letra": "B",
+        "texto": "Aumentar a dose de corticoide para 60 mg de prednisona, por 7 dias."
+      },
+      {
+        "letra": "C",
+        "texto": "Aciclovir, 800 mg, 5 vezes ao dia."
+      },
+      {
+        "letra": "D",
+        "texto": "Oseltamivir, 75 mg, 1 vez ao dia."
+      },
+      {
+        "letra": "E",
+        "texto": "Valiciclovir, 1g, 2 vezes ao dia."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 61140,
+    "tags": [],
+    "enunciado": "O tratamento da neuralgia herpética consiste em todos exceto:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "compressa fria com soro fisiológico ou soluçnao de betadina ou de Burow"
+      },
+      {
+        "letra": "B",
+        "texto": "analgesia com morfina, antiinflamatórios não hormonais, antidepressivos como amitriptilina"
+      },
+      {
+        "letra": "C",
+        "texto": "fanciclovir, valaciclovir, ou aciclovir por 7 dias, inciado em até 72 horas"
+      },
+      {
+        "letra": "D",
+        "texto": "gabapentina 300 a 600 mg por dia quando já instalada a neuralgia"
+      },
+      {
+        "letra": "E",
+        "texto": "antibióticos profiláticos para se evitar infecção secundária associados a cortisona"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 61141,
+    "tags": [],
+    "enunciado": "Em relação às patologias dermatológicas da infância é correto afirmar: ( ) O molusco contagioso é uma infecção viral aguda, comum em crianças, causado por um poxvírus, que pode estar relacionado a imunodeficiências na idade adulta.; ( ) A larva migrans cutânea é uma erupção cutânea decorrente da introdução de larvas através da pele, podendo evoluir para larva migrans visceral.; ( ) O herper-zóster é causado pelo vírus varicella zoster e em crianças não é frequente o pródromo doloroso, sendo geralmente benigno e autolimitado.; ( ) A dermatite de fraldas tem como conduta terapêutica principal a orientação quanto as trocas mais frequentes de fraldas, limpeza suave e utilização de pastas à base de óxido de zinco associada à corticoide de baixa potência.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "V, F, F, V"
+      },
+      {
+        "letra": "B",
+        "texto": "F, V, F, F"
+      },
+      {
+        "letra": "C",
+        "texto": "V, F, V, F"
+      },
+      {
+        "letra": "D",
+        "texto": "F, V, V, F"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 61142,
+    "tags": [],
+    "enunciado": "Considere as assertivas abaixo sobre infecções virais cutâneas. I - O eritema multiforme pode ser desencadeado por infecções causadas por herpes simples.; II - O eczema herpético resulta de disseminação do herpes-vírus em portadores de outras dermatoses, como, por exemplo, dermatite atópica.; III - A neuralgia pós-herpética é mais frequente em pacientes idosos. Quais são corretas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas I."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas II."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas III."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas I e II."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II e III."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 61143,
+    "tags": [],
+    "enunciado": "A varicela é uma doença altamente contagiosa. Os pacientes imunodeprimidos apresentam um risco aumentado de disseminação visceral, portanto, devem receber imediatamente após o contato:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aciclovir venoso."
+      },
+      {
+        "letra": "B",
+        "texto": "Aciclovir oral."
+      },
+      {
+        "letra": "C",
+        "texto": "Imunoglobulina anti-varicela-zoster."
+      },
+      {
+        "letra": "D",
+        "texto": "Vacina contra varicela-zoster."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 61144,
+    "tags": [],
+    "enunciado": "Qual é a doença da mucosa oral mais comum?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pênfigo vulgar"
+      },
+      {
+        "letra": "B",
+        "texto": "Estomatite vésico-bolhosa por Herpes Simples"
+      },
+      {
+        "letra": "C",
+        "texto": "Leucoplasia por hiperqueratose"
+      },
+      {
+        "letra": "D",
+        "texto": "Estomatite aftóide recorrente"
+      },
+      {
+        "letra": "E",
+        "texto": "Líquen plano"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 61145,
+    "tags": [],
+    "enunciado": "Homem de 36 anos de idade, com HIV/Aids (contagem de linfócito T CD4+ = 112/ µL), desenvolve um exantema amarelado, pruriginoso, irritável, descamativo, de bordas não uniformes, com aparência cerosa ao redor e no nariz. Qual dos diagnósticos é o mais provável?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Molusco contagioso."
+      },
+      {
+        "letra": "B",
+        "texto": "Psoríase."
+      },
+      {
+        "letra": "C",
+        "texto": "Herpes-zóster reativado."
+      },
+      {
+        "letra": "D",
+        "texto": "Dermatite seborreica."
+      },
+      {
+        "letra": "E",
+        "texto": "Nenhuma das alternativas acima."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 61146,
+    "tags": [],
+    "enunciado": "A Herpes Zoster decorre da reativação do vírus da varicela, que permanece em latência. A reativação ocorre na idade adulta ou em pessoas com comprometimento imunológico, portadores de doenças crônicas, neoplasias, AIDS e outras. Sobre Herpes Zoster, avalie as afirmativas abaixo: I - A maioria dos doentes relata, antecedendo às lesões cutâneas, dores nevrálgicas, além de parestesias, ardor e prurido locais, acompanhados de febre, cefaleia e mal-estar II - As erupções afetam todo o corpo e seguem o trajeto dos nervos periféricos. III - As regiões mais comprometidas são a torácica (53% dos casos), cervical (20% dos casos). IV - O envolvimento do VII par craniano leva à combinação de paralisia facial periférica. Estão CORRETAS as afirmativas.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II e III apenas"
+      },
+      {
+        "letra": "B",
+        "texto": "I, II e IV apenas"
+      },
+      {
+        "letra": "C",
+        "texto": "II, III e IV apenas"
+      },
+      {
+        "letra": "D",
+        "texto": "I, III e IV apenas"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 61147,
+    "tags": [],
+    "enunciado": "Podemos afirmar que é CORRETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Administrar penicilina cristalina endovenosa como primeira opção na difteria, doença meningocócica e endocardite bacteriana por estreptococo viridans."
+      },
+      {
+        "letra": "B",
+        "texto": "Considerar diagnóstico de tuberculose pulmonar ativa quando há imagem pulmonar duvidosa, mas com 1 teste cutâneo turberculinico positivo e 1 baciloscopia direta positiva e outra negativa."
+      },
+      {
+        "letra": "C",
+        "texto": "Considerar benigna a evolução de um caso de dengue com plaquetopenia, elevação do hematócrito, hipoalbuminemia e aumento do ácido lático."
+      },
+      {
+        "letra": "D",
+        "texto": "Tratar a neurite pós-herpética com aciclovir."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 61148,
+    "tags": [],
+    "enunciado": "São medicamentos eficazes no tratamento da dor neuropatia pós-herpética, exceto:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pre-gabalina."
+      },
+      {
+        "letra": "B",
+        "texto": "Amitriptilina."
+      },
+      {
+        "letra": "C",
+        "texto": "Gabapentina."
+      },
+      {
+        "letra": "D",
+        "texto": "Imipramina."
+      },
+      {
+        "letra": "E",
+        "texto": "Sertralina."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 61149,
+    "tags": [],
+    "enunciado": "Uma mulher com 32 anos de idade fazia uma viagem de ônibus, quando subitamente começou a proferir frases desconexas e, aos gritos, acusou outro passageiro de ter roubado seus pertences. O motorista do ônibus precisou interromper a viagem para tentar controlar a situação. No decorrer da viagem, os passageiros perceberam que se tratava de um comportamento anormal e a mulher foi levada para um hospital geral. Detectou-se, como antecedentes, que a paciente vinha com quadro de tosse improdutiva há cerca de 3 meses, astenia e perda de cerca de 3 kg nesse período. Foi então realizada radiogra(cid:54)a de tórax, que mostrou in(cid:54)ltrado bilateral em ambas as bases pulmonares. A paciente já havia feito uso de dois esquemas de antibióticos e realizado pesquisa BAAR, que foi negativa, tendo-se optado por iniciar esquema de rifampicina + isoniazida + pirazinamida + etambutol há cerca de 30 dias. Após avaliação, o psiquiatra iniciou risperidona e clorpromazina sem melhora do quadro neuropsiquiátrico nas primeiras 48 horas de internação. Há um dia, a paciente apresentou convulsão tônico-clônico generalizada. Hoje, no 3° dia de internação, a paciente se encontra afebril, desorientada espaçotemporalmente, apresentado delírios e alucinações. As pupilas estão simétricas e reagentes. A força está preservada e não há rigidez nucal. Existem úlceras indolores em cavidade oral. Há presença de sinovite nas articulações das mãos, punhos e joelhos e notou-se eritema violáceo em região malar bilateral e na base do nariz. A tomogra(cid:54)a de crânio foi considerada normal. Os exames laboratoriais revelaram: hemoglobina = 8.5 g/dL (valor de referência: 12,0 a 15,8 g/dL); hematócrito = 26% (valor de referência: 33,0 a 47,8%); leucócitos = 2.400/mm³ (valor de referência: 3.600 a 11.000/mm³); bastonetes = 1% (Valor de referência: 0 a 5%); segmentados = 84% (valor de referência: 40 a 70%); eosinó(cid:54)los = 2% (valor de referência: 0 a 7%); linfócitos = 8% (valores de referência: 20 a 50%); plaquetas = 98.000/mm³ (valor de referência: 130.000 a 450.000/mm³); ureia = 80 mg/dL (valor de referência: 19 a 49 mg/dL); creatinina = 1,7 mg/dL (valor de referência: 0,53 a 1,00 mg/dL); sumário de Urina (Urina I) com hematúria ++ e proteinúria ++. De acordo com o quadro descrito e as informações apresentadas, a hipótese diagnóstica mais provável é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "encefalite herpética."
+      },
+      {
+        "letra": "B",
+        "texto": "infecção pelo vírus zika."
+      },
+      {
+        "letra": "C",
+        "texto": "lúpus eritematoso sistêmico."
+      },
+      {
+        "letra": "D",
+        "texto": "tuberculose de sistema nervoso central."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 61150,
+    "tags": [],
+    "enunciado": "Menino, 3 anos, com história de lesões em nádega, como mostra a imagem 4 do anexo I deste caderno de prova. Lesões são extremamente pruriginosas. Nega qualquer outro sintoma acompanhando o quadro. Qual a principal hipótese diagnóstica e tratamento a ser instituído? (VER IMAGEM)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Larva migrans cutânea/tiabendazol tópico."
+      },
+      {
+        "letra": "B",
+        "texto": "Herpes zoster/aciclovir tópico."
+      },
+      {
+        "letra": "C",
+        "texto": "Prurigo por insetos/anti-histamínico."
+      },
+      {
+        "letra": "D",
+        "texto": "Eczema/corticóide tópico."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 61151,
+    "tags": [],
+    "enunciado": "Escolar, com 6 anos de idade, é trazido pela mãe com lesões em face, pescoço, axilas e coxas, individualizadas, na cor da pele, em forma de cúpula, com umbilicação central. Mãe relata que espremeu uma lesão com saída de uma substância clara de dentro da lesão e que o primo apresenta mesmo quadro clínico. Trata-se de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Molusco contagioso."
+      },
+      {
+        "letra": "B",
+        "texto": "Glândulas sebáceas ectópicas."
+      },
+      {
+        "letra": "C",
+        "texto": "Ceratoacantoma."
+      },
+      {
+        "letra": "D",
+        "texto": "Varicela-zóster."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 61152,
+    "tags": [],
+    "enunciado": "Uma paciente de 65 anos, portadora de mieloma múltiplo, em tratamento com bortezumib passou a apresentar dor intercostal intensa, com surgimento de vesículas após dois dias que ocupavam mais de três dermátomos. Sobre o caso, é CORRETO afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Deve receber tratamento com aciclovir oral, na dose de 800 mg, cinco vezes ao dia, por sete dias."
+      },
+      {
+        "letra": "B",
+        "texto": "Seu risco de neuralgia pós-herpética é baixo, e não existe necessidade de terapia específica com a finalidade de prevenir a ocorrência dessa complicação."
+      },
+      {
+        "letra": "C",
+        "texto": "O início precoce da terapia antiviral reduz a intensidade e a duração da neuralgia pós- herpética."
+      },
+      {
+        "letra": "D",
+        "texto": "O uso de corticoide associado ao antiviral é essencial para a prevenção da neuralgia pós-herpética."
+      },
+      {
+        "letra": "E",
+        "texto": "Não haverá necessidade de se realizar vacinação contra Herpes zoster após a resolução desse episódio, já que a infecção desencadeia imunidade que impede a recorrência."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 61153,
+    "tags": [],
+    "enunciado": "Antônio, 64 anos, tem feito consultas para manutenção de saúde anualmente e tem seguido todas as recomendações de seu médico, que o aconselha a fazer a vacina contra varicela-zóster. Em relação à utilização dessa vacina, assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A vacina está recomendada para pacientes com 65 anos ou mais."
+      },
+      {
+        "letra": "B",
+        "texto": "A vacina não está recomendada se o paciente já teve herpes-zóster."
+      },
+      {
+        "letra": "C",
+        "texto": "A vacina é feita com vírus vivo atenuado."
+      },
+      {
+        "letra": "D",
+        "texto": "A vacina tem possibilidade de reação cruzada com o vírus herpes simples e oferece alguma proteção contra ele."
+      },
+      {
+        "letra": "E",
+        "texto": "A vacina reduz a incidência de herpes-zóster, mas não diminui a gravidade da neuralgia pós- herpética."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 61154,
+    "tags": [],
+    "enunciado": "Paciente com leucose aguda apresenta herpes-zóster e precisa ser internado. Para evitar transmissão intra- hospitalar da infecção, qual das medidas abaixo não é necessária?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Quarto privativo para o paciente."
+      },
+      {
+        "letra": "B",
+        "texto": "Uso de máscara N95 pelos profissionais de saúde."
+      },
+      {
+        "letra": "C",
+        "texto": "Preferir profissionais com história prévia de varicela para assistência ao paciente."
+      },
+      {
+        "letra": "D",
+        "texto": "Uso de máscara N95 pelo paciente."
+      },
+      {
+        "letra": "E",
+        "texto": "Instituição de precaução para aerossol."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 61155,
+    "tags": [],
+    "enunciado": "Qual das doenças abaixo é um fator de risco reconhecido para herpes zoster?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hipertensão arterial."
+      },
+      {
+        "letra": "B",
+        "texto": "Síndrome de Budd-Chiari."
+      },
+      {
+        "letra": "C",
+        "texto": "Bulimia."
+      },
+      {
+        "letra": "D",
+        "texto": "Artrite reumatóide."
+      },
+      {
+        "letra": "E",
+        "texto": "Insuficiência cardíaca congestiva."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 61156,
+    "tags": [],
+    "enunciado": "Associe as doenças dermatológicas (numeradas de 1 a 5) às imagens dos quadros clínicos mais prováveis. (VER IMAGEM) 1 - Ectima; 2 - Impetigo; 3 - Celulite; 4 - Herpes simples; 5 - Herpes-zóster.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "sequência numérica CORRETA, da esquerda para a direita, é:"
+      },
+      {
+        "letra": "A",
+        "texto": "3 - 4 - 2"
+      },
+      {
+        "letra": "B",
+        "texto": "3 - 2 - 1"
+      },
+      {
+        "letra": "C",
+        "texto": "2 - 5 - 3"
+      },
+      {
+        "letra": "D",
+        "texto": "2 - 4 - 1"
+      },
+      {
+        "letra": "E",
+        "texto": "1- 5 - 2"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 61157,
+    "tags": [],
+    "enunciado": "Qual das seguintes opções é a manifestação mais comum da infecção inicial (primária) do vírus herpes simplex (HSV) 1?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Infecção assintomática."
+      },
+      {
+        "letra": "B",
+        "texto": "Gengivoestomatite e faringite."
+      },
+      {
+        "letra": "C",
+        "texto": "Úlceras genitais."
+      },
+      {
+        "letra": "D",
+        "texto": "Úlceras orolabiais."
+      },
+      {
+        "letra": "E",
+        "texto": "Nevralgia do trigêmeo."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 61158,
+    "tags": [],
+    "enunciado": "Em relação ao diagnóstico e manejo de doenças sexualmente transmissíveis (DSTs), assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "DSTs que cursam com corrimentos genitais: infecção pelo gonococo e pela clamídia, donovanose e vaginose bacteriana."
+      },
+      {
+        "letra": "B",
+        "texto": "A infecção pelo herpesvírus estabelece latência clínica, embora a transmissão pela via sexual só ocorra no momento em que o indivíduo apresenta úlceras genitais em atividade."
+      },
+      {
+        "letra": "C",
+        "texto": "O cancro mole tem como etiologia o Haemophilus ducreyi e caracteriza-se pelo aparecimento de úlcera genital geralmente única e indolor."
+      },
+      {
+        "letra": "D",
+        "texto": "São complicações potenciais da uretrite por gonococo: prostatite, faringite, perihepatite e pericardite."
+      },
+      {
+        "letra": "E",
+        "texto": "O tratamento da sífilis em gestante pode ser realizado com penicilina, doxiciclina ou eritromicina."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 61159,
+    "tags": [],
+    "enunciado": "Milena tem 25 anos e refere lesão dolorosa em região genital há 4 dias, associada à febre e disúria. Observam-se ao exame físico pequenas lesões ulceradas na vulva, coalescentes, com base hiperemiada e dolorosas ao toque. O tratamento deverá ser feito com:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Eritromicina 500mg de 6/6h por 7 dias."
+      },
+      {
+        "letra": "B",
+        "texto": "Penicilina benzatina 2.400.000 UI IM dose única."
+      },
+      {
+        "letra": "C",
+        "texto": "Aciclovir 400mg de 8/8h por 7 a 10 dias."
+      },
+      {
+        "letra": "D",
+        "texto": "Doxiciclina 100mg de 12/12 por 7 dias."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 61160,
+    "tags": [],
+    "enunciado": "Qual a manifestação inicial (primária) mais comum da infecção por vírus herpes simplex tipo I?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Infecção assintomática."
+      },
+      {
+        "letra": "B",
+        "texto": "Úlceras genitais."
+      },
+      {
+        "letra": "C",
+        "texto": "Faringite e gengivoestomatite."
+      },
+      {
+        "letra": "D",
+        "texto": "Úlceras orolabiais."
+      },
+      {
+        "letra": "E",
+        "texto": "Neuralgia do trigêmeo."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 61161,
+    "tags": [],
+    "enunciado": "O vírus do herpes simples determina quadros clínicos variáveis, benignos ou graves. Qual é o exame laboratorial eletivo para realizar o diagnóstico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Histopatológico."
+      },
+      {
+        "letra": "B",
+        "texto": "Cultura."
+      },
+      {
+        "letra": "C",
+        "texto": "Citológico."
+      },
+      {
+        "letra": "D",
+        "texto": "Sorológico."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 61162,
+    "tags": [],
+    "enunciado": "Qual assertiva está correta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Na urticária papular, comum em dermatoses por insetos, o trajeto da lesão é irregular e descontínuo."
+      },
+      {
+        "letra": "B",
+        "texto": "Na urticária aguda, as pápulas são de longa duração (maior que 72 horas)."
+      },
+      {
+        "letra": "C",
+        "texto": "No molusco contagioso, as pápulas são menores de 0,5 cm, com umbilicação central."
+      },
+      {
+        "letra": "D",
+        "texto": "Na herpes-zoster as lesões são vesiculares e ao longo de um dermátomo, bilateralmente."
+      },
+      {
+        "letra": "E",
+        "texto": "Na larva migrans, o trajeto é contínuo e serpiginoso e há importante histórico de contato com animais domésticos."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 61163,
+    "tags": [],
+    "enunciado": "Paciente do sexo masculino, 26 anos, atendido no ambulatório de Clínica Médica, encaminhado pelo oftalmologista por apresentar panuveíte bilateral. Queixava-se também de ulcerações aftosas recorrentes, apresentando no momento do exame lesões orais dolorosas, rasas e pequenas de base necrótica central amarelada, além de lesão genital única, indolor, em escroto. Apresentava também lesões cutâneas sugestivas de pioderma gangrenoso. O teste de patergia foi positivo em 48h. Dentre as opções listadas abaixo, a que mais se relaciona às manifestações apresentadas por este paciente é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sífilis primária;"
+      },
+      {
+        "letra": "B",
+        "texto": "Cancro mole;"
+      },
+      {
+        "letra": "C",
+        "texto": "Lesão herpética;"
+      },
+      {
+        "letra": "D",
+        "texto": "Sarcoidose;"
+      },
+      {
+        "letra": "E",
+        "texto": "Síndrome de Behçet."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 61164,
+    "tags": [],
+    "enunciado": "Mulher, 56 anos, procura atendimento médico por dor torácica à esquerda, irradiada para o dorso. Hipertensa, fumante e em período de stress no trabalho. Automedicação com Omeprazol e Nitrato sublingual há 1 semana, sem melhora do quadro. Afebril e normotensa, sem alteração em ausculta pulmonar e cardíaca; rash cutâneo em trajeto de arcos costais à esquerda, doloroso. Nega traumatismo. Qual a hipótese diagnóstica mais provável?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Infarto do miocárdio."
+      },
+      {
+        "letra": "B",
+        "texto": "Abdome agudo."
+      },
+      {
+        "letra": "C",
+        "texto": "Úlcera péptica."
+      },
+      {
+        "letra": "D",
+        "texto": "Herpes-zóster."
+      },
+      {
+        "letra": "E",
+        "texto": "Pneumonia."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 61165,
+    "tags": [],
+    "enunciado": "São sequelas da reativação do vírus Varicela-Zóster: I. Neuralgia; II. Síndrome de Guillain-Barré; III. Síndrome de Ramsey-Hunt; IV. Mielite segmentar.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas a I."
+      },
+      {
+        "letra": "B",
+        "texto": "I e IV."
+      },
+      {
+        "letra": "C",
+        "texto": "I, II e III."
+      },
+      {
+        "letra": "D",
+        "texto": "Todas as alternativas."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 61166,
+    "tags": [],
+    "enunciado": "A respeito da varicela-zóster, qual afirmativa é verdadeira?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Possui 2 tipos antigênicos."
+      },
+      {
+        "letra": "B",
+        "texto": "Pertence à mesma família do Roseolovirus."
+      },
+      {
+        "letra": "C",
+        "texto": "Após a infecção primária o vírus permanece na raiz ventral do gânglio."
+      },
+      {
+        "letra": "D",
+        "texto": "A vacina para o VZV está indicada somente para idosos."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 61167,
+    "tags": [],
+    "enunciado": "São doenças causadas por vírus de DNA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "hepatite A, febre amarela e dengue."
+      },
+      {
+        "letra": "B",
+        "texto": "hepatite B, varicela e herpes."
+      },
+      {
+        "letra": "C",
+        "texto": "raiva, rubéola e hepatite C."
+      },
+      {
+        "letra": "D",
+        "texto": "caxumba, sarampo e molusco contagioso."
+      },
+      {
+        "letra": "E",
+        "texto": "citomegalovírus, rotavírus e hepatite E."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 61168,
+    "tags": [],
+    "enunciado": "A pele é frequentemente comprometida no curso de infecções virais. Algumas viroses causam lesões típicas, sendo possível o diagnóstico clínico. Assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O Poxvírus é o agente etiológico responsável pelo aparecimento de verrugas e tumores anogenitais."
+      },
+      {
+        "letra": "B",
+        "texto": "O Herpes-simples vírus tipo 1, conhecido pela sigla HSV-1, causa mais comumente herpes genital."
+      },
+      {
+        "letra": "C",
+        "texto": "Herpes-simples vírus tipo 1 induz maior número de recorrências que o Herpes-simples vírus tipo 2."
+      },
+      {
+        "letra": "D",
+        "texto": "O herpes-zóster acomete predominantemente indivíduos acima de 50 anos e não é transmissível."
+      },
+      {
+        "letra": "E",
+        "texto": "Na pneumonia primária por varicela, o comprometimento pulmonar é proporcional ao cutâneo."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 61169,
+    "tags": [],
+    "enunciado": "Menina de 5 anos apresenta pústulas na região central da face, que rompem e formam crostas amareladas após 3 dias. O estado geral é bom, não há febre ou outros sinais sistêmicos. Com base no quadro clínico descrito, assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O diagnóstico é de impetigo crostoso e, atualmente, o agente etiológico mais frequente é o Staphylococcus aureus."
+      },
+      {
+        "letra": "B",
+        "texto": "O diagnóstico é de impetigo bolhoso e, atualmente, o agente etiológico mais frequente é o Streptococcus ß-hemolítico do grupo A."
+      },
+      {
+        "letra": "C",
+        "texto": "O diagnóstico é de impetigo crostoso e, atualmente, os agentes causais mais frequentes são as bactérias anaeróbias."
+      },
+      {
+        "letra": "D",
+        "texto": "O diagnóstico é de herpes-simples e o tratamento adequado consiste em administrar aciclovir por via sistêmica."
+      },
+      {
+        "letra": "E",
+        "texto": "O diagnóstico é de herpes-simples e o tratamento adequado consiste em aplicar aciclovir tópico."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 61170,
+    "tags": [],
+    "enunciado": "Mulher, 62 anos, sem antecedentes mórbidos, procura atendimento por quadro de dor torácica há dois dias sem fatores associados. No exame físico apresenta lesões vesicobolhosas restritas a dois dermatomos. Qual das medicações abaixo é a mais indicada para evitar a principal complicação da doença acima?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Morfina."
+      },
+      {
+        "letra": "B",
+        "texto": "Amitriptilina."
+      },
+      {
+        "letra": "C",
+        "texto": "Gabapentina."
+      },
+      {
+        "letra": "D",
+        "texto": "Valaciclovir."
+      },
+      {
+        "letra": "E",
+        "texto": "Prednisona."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 61171,
+    "tags": [],
+    "enunciado": "Lactente com 6 meses de idade, chega ao pronto-socorro com história de irritabilidade e febre de 38°C há dois dias. A mãe refere que hoje notou lesões avermelhadas e vesiculares em toda a região de cabeça e orofaringe. Ao investigar a história familiar, a mãe conta que a avó, que mora com a família, estava com lesões em região de face esquerda iguais às que são mostradas na figura: Pela avaliação das lesões da avó, o diagnóstico e o tratamento para esse lactente são, respectivamente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Herpes-zóster; internação para administração de analgésicos e corticoide endovenosos e lidocaína tópica."
+      },
+      {
+        "letra": "B",
+        "texto": "Herpes-simples; internação para administração de medicação antiviral e corticoide endovenosos."
+      },
+      {
+        "letra": "C",
+        "texto": "Coxsackiose; tratamento domiciliar com antibiótico e embrocação oral com anestésico."
+      },
+      {
+        "letra": "D",
+        "texto": "Varicela; acompanhamento ambulatorial e prescrição de sintomáticos."
+      },
+      {
+        "letra": "E",
+        "texto": "Exantema súbito; prescrição de sintomáticos e observação de sinais de piora."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 61172,
+    "tags": [],
+    "enunciado": "Pré-escolar de 3 anos apresenta com frequência lesões eritematosas, algumas com descamação, exsudativas, pruriginosas,e localizadas principalmente em regiões de dobras. Estas lesões se exacerbam após banhos muito quentes e dias de calor. O diagnóstico provável é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Escabiose."
+      },
+      {
+        "letra": "B",
+        "texto": "Herpes simples."
+      },
+      {
+        "letra": "C",
+        "texto": "Dermatite atópica."
+      },
+      {
+        "letra": "D",
+        "texto": "Dermatite de contato."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 61173,
+    "tags": [],
+    "enunciado": "O herpes-zóster é uma doença causada pela reativação do vírus varicela-zóster nos nervos cranianos e nos gânglios das raízes espinhais dorsais. Sua complicação mais comum é a neuralgia pós-herpética, que pode se manisfestar durante ou após um quadro de herpes-zóster. O tratamento de escolha para a dor parestésica, relacionada a esta complicação é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Paracetamol."
+      },
+      {
+        "letra": "B",
+        "texto": "Carbamazepina."
+      },
+      {
+        "letra": "C",
+        "texto": "Fenitoína"
+      },
+      {
+        "letra": "D",
+        "texto": "Amitriptilina"
+      },
+      {
+        "letra": "E",
+        "texto": "Codeína."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 61174,
+    "tags": [],
+    "enunciado": "Mulher, 76 anos, queixa-se de dor no meato acústico externo esquerdo e perda de paladar. O exame neurológico mostra paralisia facial. Observa-se pequenas vesículas no meato acústico mencionado. O quadro sugere:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "mastoidite infecciosa."
+      },
+      {
+        "letra": "B",
+        "texto": "otite externa maligna."
+      },
+      {
+        "letra": "C",
+        "texto": "herpes-zóster."
+      },
+      {
+        "letra": "D",
+        "texto": "nevralgia viral do trigêmeo."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 61175,
+    "tags": [],
+    "enunciado": "Na infecção pelo Herpes-zóster é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a presença de dor leve e discreta precede o surgimento das lesões vesiculares."
+      },
+      {
+        "letra": "B",
+        "texto": "as lesões seguem a distribuição do dermátomo bilateralmente, acometendo usualmente face e tronco."
+      },
+      {
+        "letra": "C",
+        "texto": "corticosteroides são utilizados para reduzir a ocorrência de neuralgia pós-herpética, porém não devem ser indicados para pacientes imunodeprimidos, por aumentarem o risco de disseminação da doença nesses pacientes."
+      },
+      {
+        "letra": "D",
+        "texto": "o tempo de tratamento com terapia antiviral é o mesmo para indivíduos imunocompetentes e imunodeprimidos."
+      },
+      {
+        "letra": "E",
+        "texto": "a neuralgia pós-herpética é a complicação mais comum em indivíduos jovens."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 61176,
+    "tags": [],
+    "enunciado": "Pacientes com herpes-zóster podem transmitir o vírus a seus contatos. Essa transmissão se dá por:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "contato direto, dispersão aérea de secreções respiratórias ou aerolização viral daslesões cutâneas"
+      },
+      {
+        "letra": "B",
+        "texto": "contato direto, apenas"
+      },
+      {
+        "letra": "C",
+        "texto": "contato direto e dispersão aérea de secreções respiratórias, apenas"
+      },
+      {
+        "letra": "D",
+        "texto": "contato direto e dispersão aérea viral das lesões cutâneas, apenas"
+      },
+      {
+        "letra": "E",
+        "texto": "dispersão aérea viral das lesões cutâneas, apenas"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 61177,
+    "tags": [],
+    "enunciado": "Dermatite vesicular de região palmar e plantar é compatível com:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "sífilis."
+      },
+      {
+        "letra": "B",
+        "texto": "desidrose."
+      },
+      {
+        "letra": "C",
+        "texto": "herpes simples."
+      },
+      {
+        "letra": "D",
+        "texto": "doença celíaca."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 61178,
+    "tags": [],
+    "enunciado": "Qual a assertativa errada em relação ao herpes zoster?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É uma doença viral autolimitada."
+      },
+      {
+        "letra": "B",
+        "texto": "Antes do surgimento das lesões cutâneas os pacientes referem parestesias, ardor e prurido no local onde surgirá o quadro cutâneo."
+      },
+      {
+        "letra": "C",
+        "texto": "O seu aparecimento pode indicar baixa da resposta imunológica."
+      },
+      {
+        "letra": "D",
+        "texto": "O herpes zoster é decorrente da reativação do vírus Epstein-Barr em latência, em adultos e pacientes imunocomprometidos."
+      },
+      {
+        "letra": "E",
+        "texto": "A neuralgia pós-herpética melhora gradativamente, mas nos idosos pode permanecer por meses ou anos após o final do quadro cutâneo."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 61179,
+    "tags": [],
+    "enunciado": "Uma criança de 6 anos apresenta há 3 meses lesões assintomáticas caracterizadas por pápulas umbilicadas, cor da pele esbranquiçada, no tronco e nos membros superiores. Com base nesses dados, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O diagnóstico é herpes simples, e nesse caso está indicado o uso de aciclovir."
+      },
+      {
+        "letra": "B",
+        "texto": "A presença de pápulas não pruriginosas sugere o diagnóstico de prurigo estrófulo."
+      },
+      {
+        "letra": "C",
+        "texto": "O agente etiológico é um poxvírus, e nesse caso pode ser tratado por curetagem."
+      },
+      {
+        "letra": "D",
+        "texto": "Lesões semelhantes nos familiares são características de escabiose."
+      },
+      {
+        "letra": "E",
+        "texto": "A descrição das lesões sugere o diagnóstico de verruga vulgar, que na infância tende a desaparecer espontaneamente."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 61180,
+    "tags": [],
+    "enunciado": "As dermatoviroses são de distribuição universal e ocorrem em qualquer idade, despertando preocupações mais especí(cid:54)cas em jovens, adultos e idosos. Acerca desse assunto, correlacione a coluna da direita com a da esquerda. 1. Verruga plana. 2. Verruga genital. 3. Molusco contagioso. 4. Herpes simples. 5. Herpes zoster. ( ) Eritema multiforme de repetição. ( ) Diagnóstico diferencial com lesões de acne. ( ) Cursa com desconforto, dor e risco de complicações. ( ) Requer prevenção de DST e carcinogênese. ( ) Pode cursar com HIV/AIDS. Assinale a alternativa que apresenta a numeração correta na coluna da direita, de cima para baixo.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "3 – 2 – 1 – 5 – 4."
+      },
+      {
+        "letra": "B",
+        "texto": "4 – 1 – 5 – 2 – 3."
+      },
+      {
+        "letra": "C",
+        "texto": "1 – 2 – 4 – 5 – 3."
+      },
+      {
+        "letra": "D",
+        "texto": "4 – 1 – 2 – 3 – 5."
+      },
+      {
+        "letra": "E",
+        "texto": "3 – 2 – 5 – 1 – 4."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 61181,
+    "tags": [],
+    "enunciado": "Em relação às lesões de pele, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A coloração das lesões, a localização, seu arranjo e número são fundamentais para o estabelecimento da etiologia. Na dermatite atópica as lesões são eritematosas, enquanto que a foliculite aparece como pequenas pápulas em áreas cobertas (glúteos e abdome)."
+      },
+      {
+        "letra": "B",
+        "texto": "A aparência morfológica das lesões, sua localização, seu arranjo e número são fundamentais para o estabelecimento da etiologia. Na dermatite de contato aparecem vesículas maiores de 1 cm com conteúdo seroso, enquanto que na urticária as lesões são lineares."
+      },
+      {
+        "letra": "C",
+        "texto": "A aparência morfológica das lesões, sua localização, seu arranjo e número são fundamentais para o estabelecimento da etiologia. Na psoríase as lesões são coalescentes e localizadas nos membros, enquanto que a ceratose actínica aparece nas áreas expostas ao sol."
+      },
+      {
+        "letra": "D",
+        "texto": "A coloração das lesões, a localização, seu arranjo e número são fundamentais para o estabelecimento da etiologia. Nos xantomas as lesões são bolhas com conteúdo branco, enquanto que o Herpes-zóster se manifesta por pústulas coalescentes."
+      },
+      {
+        "letra": "E",
+        "texto": "A aparência morfológica das lesões, sua localização, seu arranjo e número são fundamentais para o estabelecimento da etiologia. O carcinoma basocelular aparece como lesão papuloescamosa, enquanto que o vitiligo apresenta placas hipocrômicas."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 61182,
+    "tags": [],
+    "enunciado": "Mulher de 56 anos procura atendimento por lesões cutâneas dolorosas no tórax. Há 72 horas passou a apresentar dor em queimação na região torácica inferior esquerda. Desde então vem fazendo uso regular de comprimidos de cetoprofeno com melhora parcial. Há cerca de 24 horas passou a apresentar lesões na zona inframamária esquerda, impedindo-a de usar sutiã. Ao exame físico apresenta vesículas tensas e agrupadas em região inferior à aréola esquerda e superior ao rebordo costal esquerdo, desde o esterno até a região dorsal posterior esquerda; sem outros achados. Qual o tratamento isoladamente mais apropriado para este caso?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aciclovir 200mg VO 8/8h."
+      },
+      {
+        "letra": "B",
+        "texto": "Prednisona 20mg VO 1x/dia."
+      },
+      {
+        "letra": "C",
+        "texto": "Hidrocortisona creme tópico 2x/dia."
+      },
+      {
+        "letra": "D",
+        "texto": "Valaciclovir 1g VO 3x/dia."
+      },
+      {
+        "letra": "E",
+        "texto": "Suspender uso de cetoprofeno."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 61183,
+    "tags": [],
+    "enunciado": "Criança de 2 anos com febre, anorexia, apresentando vesículas nas mãos e nos pés e estomatite na cavidade oral. O agente etiológico mais provável é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Herpes tipo I."
+      },
+      {
+        "letra": "B",
+        "texto": "Herpes tipo II."
+      },
+      {
+        "letra": "C",
+        "texto": "Vírus da Varicela-Zóster."
+      },
+      {
+        "letra": "D",
+        "texto": "Coxsackievírus."
+      },
+      {
+        "letra": "E",
+        "texto": "Parvovírus B19."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 61184,
+    "tags": [],
+    "enunciado": "Podemos afirmar que é correto:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Administrar penicilina cristalina endovenosa como primeira opção na difteria, doença meningocócica endocardite bacteriana por estreptococo viridans."
+      },
+      {
+        "letra": "B",
+        "texto": "Considerar diagnóstico de tuberculose pulmonar ativa quando há imagem pulmonar duvidosa, mas com 1 teste cutâneo tuberculínico positivo e 1 baciloscopia direta positiva e outra negativa."
+      },
+      {
+        "letra": "C",
+        "texto": "Considerar benigna a evolução de um caso de dengue com plaquetopenia, e elevação do hematócrito, hipoalbuminemia e aumento do ácido lático."
+      },
+      {
+        "letra": "D",
+        "texto": "Tratar a neurite pós-herpética com aciclovir."
+      },
+      {
+        "letra": "E",
+        "texto": "Realizar investigação diagnóstica de malária com coleta de hemocultura."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 61185,
+    "tags": [],
+    "enunciado": "Homem, 82 anos com herpes zoster. A complicação neurológica mais frequente é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "paralisia facial"
+      },
+      {
+        "letra": "B",
+        "texto": "angeíte granulomatosa com hemiplegia"
+      },
+      {
+        "letra": "C",
+        "texto": "mielite segmentar"
+      },
+      {
+        "letra": "D",
+        "texto": "encefalite focal"
+      },
+      {
+        "letra": "E",
+        "texto": "neuralgia pós-herpética"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 61186,
+    "tags": [],
+    "enunciado": "Homem, 45 anos, com alteração do paladar, desvio da comissura labial para a direita e vesículas no conduto auditivo externo esquerdo. O diagnóstico mais provável é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "herpes-zóster."
+      },
+      {
+        "letra": "B",
+        "texto": "criptococose."
+      },
+      {
+        "letra": "C",
+        "texto": "doença de Lyme."
+      },
+      {
+        "letra": "D",
+        "texto": "hanseníase virchowiana."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 61187,
+    "tags": [],
+    "enunciado": "De acordo com as dermatoses causadas por vírus, marque a alternativa incorreta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A erupção variceliforme de Kaposi é um quadro de disseminação viral causado pelo vírus herpético ou da vacínia em algumas doenças cutâneas."
+      },
+      {
+        "letra": "B",
+        "texto": "A localização mais frequente do herpes recidivante é nos lábios."
+      },
+      {
+        "letra": "C",
+        "texto": "É possível uma criança adquirir varicela por contato com doente portador de herpes zoster."
+      },
+      {
+        "letra": "D",
+        "texto": "Uma característica importante da varicela é a evolução por surtos com o encontro das lesões em vários estádios evolutivos."
+      },
+      {
+        "letra": "E",
+        "texto": "A neuralgia pós herpética é uma complicação rara do herpes zoster."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 61188,
+    "tags": [],
+    "enunciado": "Pré-escolar de 3 anos apresenta lesões eritematoescamosa recidivante, pruriginosa, e localizada em regiões antecubitais e poplíteas que se exacerbam com o calor. O diagnóstico mais provável é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Escabiose"
+      },
+      {
+        "letra": "B",
+        "texto": "herpes simples"
+      },
+      {
+        "letra": "C",
+        "texto": "dermatite de contato"
+      },
+      {
+        "letra": "D",
+        "texto": "dermatite atópica"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 61189,
+    "tags": [],
+    "enunciado": "Criança de 4 anos de idade apresenta lesões vesicopustulosas e erosões crostosas há 5 dias, comprometendo região perinasal bilateral, mento e frontal. Não há sintomatologia geral, porém, relato de coriza há uma semana. Os achados clínicos são compatíveis com:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "foliculite."
+      },
+      {
+        "letra": "B",
+        "texto": "impetigo."
+      },
+      {
+        "letra": "C",
+        "texto": "sicose."
+      },
+      {
+        "letra": "D",
+        "texto": "primoinfecção herpética."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 61190,
+    "tags": [],
+    "enunciado": "O diagnóstico diferencial do herpes-zóster se faz com:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Herpes simples vírus e Coxsakie vírus;"
+      },
+      {
+        "letra": "B",
+        "texto": "Varicela e herpes simples;"
+      },
+      {
+        "letra": "C",
+        "texto": "Herpes simples vírus e estafilococcia;"
+      },
+      {
+        "letra": "D",
+        "texto": "Meningococcemia e neisséria gonorreia;"
+      },
+      {
+        "letra": "E",
+        "texto": "Coxsackie vírus e varicela."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 61191,
+    "tags": [],
+    "enunciado": "Com relação às dermatoviroses, assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O agente causal da varicela é um herpes-vírus do tipo I."
+      },
+      {
+        "letra": "B",
+        "texto": "A varicela e o herpes-zóster são causados pelo mesmo vírus."
+      },
+      {
+        "letra": "C",
+        "texto": "O molusco contagioso é causado por um poxvírus."
+      },
+      {
+        "letra": "D",
+        "texto": "Na verruga vulgar, as lesões são pápulas ceratósicas e o agente causal é o papiloma vírus humano."
+      },
+      {
+        "letra": "E",
+        "texto": "O condiloma acuminado é caracterizado por lesões vegetantes e é causado pelo papiloma vírus humano."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 61192,
+    "tags": [],
+    "enunciado": "Sobre afecções dermatológicas na infância, é INCORRETO afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Paciente com síndrome mão-pé-boca tem como sintomas gerais febre e mal-estar e é causado pelo coxsackievirus."
+      },
+      {
+        "letra": "B",
+        "texto": "No impetigo nasal, o agente mais comumente relacionado é o estafilococos."
+      },
+      {
+        "letra": "C",
+        "texto": "A tungíase pode ser causa secundária de tétano."
+      },
+      {
+        "letra": "D",
+        "texto": "Na gengivoestomatite herpética, após a fase inicial de febre alta, hiperemia de laringe e mucosa oral, surgem a partir do segundo ou terceiro dia, vesículas que se rompem precocemente."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 61193,
+    "tags": [],
+    "enunciado": "Como se caracteriza uma erupção vesiculosa: VARICELA",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Vesícula ou bolha que se rompe logo, formando crosta amarelada."
+      },
+      {
+        "letra": "B",
+        "texto": "Grupo de vesículas sobre uma base eritematosa."
+      },
+      {
+        "letra": "C",
+        "texto": "Placas vesico-escamosa avermelhadas, circinadas e pruriginosas."
+      },
+      {
+        "letra": "D",
+        "texto": "Quadro poliformio em céu estrelado, com máculas, vesículas, pústulas e crostas."
+      },
+      {
+        "letra": "E",
+        "texto": "Vesículas com ou sem eritema."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 61194,
+    "tags": [],
+    "enunciado": "Com relação às dermatoviroses, é INCORRETO afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O agente causal da varicela é um herpes vírus do tipo I"
+      },
+      {
+        "letra": "B",
+        "texto": "A varicela e o herpes zoster são causados pelo mesmo vírus"
+      },
+      {
+        "letra": "C",
+        "texto": "O molusco contagioso é causado por um poxvírus"
+      },
+      {
+        "letra": "D",
+        "texto": "Na verruga vulgar, as lesões são pápulas ceratósicas, e o agente causal é o papiloma vírus humano"
+      },
+      {
+        "letra": "E",
+        "texto": "O condiloma acuminado é caracterizado por lesões vegetantes e é causado pelo papiloma vírus humano"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 61195,
+    "tags": [],
+    "enunciado": "A mãe de Beatriz está muito ansiosa, pois sua (cid:54)lha de 2 anos apresenta, no corpo, várias pápulas individualizadas, peroladas, cupuliformes, com tamanhos variados de 1 a 5 mm, acometendo face, pálpebras, pescoço, axila e coxas. As pápulas possuem uma umbilicação central, da qual um tampão de “material caseoso” pode ser removido. Não há prurido. O diagnóstico mais provável, neste caso, é de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "varicela."
+      },
+      {
+        "letra": "B",
+        "texto": "herpes-zóster."
+      },
+      {
+        "letra": "C",
+        "texto": "impetigo crostoso."
+      },
+      {
+        "letra": "D",
+        "texto": "molusco contagioso."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 61196,
+    "tags": [],
+    "enunciado": "Correlacione as colunas, associando o princípio ativo às situações para as quais é indicado (VER IMAGEM!). A sequência numérica correta, na coluna da direita, de cima para baixo, é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1 - 2 - 4 - 3 - 5"
+      },
+      {
+        "letra": "B",
+        "texto": "2 - 3 - 1 - 4 - 5"
+      },
+      {
+        "letra": "C",
+        "texto": "3 - 4 - 2 - 5 - 1"
+      },
+      {
+        "letra": "D",
+        "texto": "5 - 2 - 1 - 3 - 4"
+      },
+      {
+        "letra": "E",
+        "texto": "5 - 3 - 2 - 4 -1"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 61197,
+    "tags": [],
+    "enunciado": "Assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A escabiose no lactente se caracteriza por lesões mais disseminadas, com lesões frequentes nas palmas e plantas"
+      },
+      {
+        "letra": "B",
+        "texto": "O uso de escabicidas pode levar à eczematização, principalmente nas crianças menores"
+      },
+      {
+        "letra": "C",
+        "texto": "A larva migrans cutânea é causada por nematódios de cães e gatos e causa lesão serpiginosa com prurido intenso"
+      },
+      {
+        "letra": "D",
+        "texto": "O herpes zoster na criança é relativamente benigno, geralmente não curse com pródromo doloroso e raramente evolui para nevralgia pós-herpética"
+      },
+      {
+        "letra": "E",
+        "texto": "O molusco contagioso é causado por um vírus do grupo herpes e é considerado doença sexualmente transmissível na criança"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 61198,
+    "tags": [],
+    "enunciado": "Em todo paciente que se apresenta com eritema multiforme, deve ser fortemente considerada a possibilidade de infecção pelo seguinte agente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "coxsackievírus."
+      },
+      {
+        "letra": "B",
+        "texto": "citomegalovírus."
+      },
+      {
+        "letra": "C",
+        "texto": "Vírus Epstein-Barr."
+      },
+      {
+        "letra": "D",
+        "texto": "Vírus herpes simples.  Respostas: 1 C 2 A 3 B 4 A 5 A 6 A 7 C 8 B 9 C 10 B 11 A 12 A 13 A 14 B 15 E 16 D 17 C 18 A 19 D 20 D 21 D 22 A 23 E 24 A 25 B 26 B 27 A 28 A 29 D 30 A 31 B 32 B 33 E 34 C 35 D 36 E 37 B 38 D 39 40 A 41 D 42 B 43 B 44 A 45 D 46 D 47 C 48 D 49 E 50 D 51 C 52 A 53 A 54 B 55 E 56 B 57 B 58 B 59 E 60 A 61 B 62 B 63 A 64 A 65 A 66 E 67 C 68 D 69 A 70 D 71 D 72 73 A 74 A 75 A 76 D 77 A 78 B 79 B 80 D 81 D 82 D 83 C 84 A 85 E 86 B 87 A 88 D 89 C 90 B 91 C 92 B 93 A 94 C 95 E 96 A 97 E 98 C 99 D 100 D 101 D 102 A 103 E 104 C 105 A 106 A 107 C 108 C 109 D 110 D 111 A 112 A 113 E 114 C 115 D 116 C 117 C 118 E 119 D 120 D 121 B 122 B 123 E 124 A 125 D 126 D 127 C 128 D 129 C 130 E 131 A 132 B 133 D 134 C 135 B 136 C 137 D 138 D 139 A 140 E 141 A 142 E 143 D 144 B 145 B 146 A 147 B 148 D 149 A 150 D 151 B 152 E 153 D"
+      }
+    ],
+    "resposta_correta": "D"
+  }
+]

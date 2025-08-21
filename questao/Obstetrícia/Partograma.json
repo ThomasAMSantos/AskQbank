@@ -1,0 +1,3491 @@
+[
+  {
+    "id": 5601,
+    "tags": [],
+    "enunciado": "O partograma abaixo evidencia:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Trabalho de parto eutócico."
+      },
+      {
+        "letra": "B",
+        "texto": "Parada secundária da dilatação."
+      },
+      {
+        "letra": "C",
+        "texto": "Parada secundária da descida."
+      },
+      {
+        "letra": "D",
+        "texto": "Apresentação cefálica defletida de 20 grau."
+      },
+      {
+        "letra": "E",
+        "texto": "Fase de latência prolongada. 4000234836"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 5602,
+    "tags": [],
+    "enunciado": "Durante o parto, a avaliação dos planos de De Lee é uma ferramenta importante na construção do partograma. Desse modo, a apresentação fetal cefálica em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "+3 indica que o parto está próximo."
+      },
+      {
+        "letra": "B",
+        "texto": "+4 persistente indica cesárea."
+      },
+      {
+        "letra": "C",
+        "texto": "-3 indica possibilidade de locar forcipe de alivio se for necessário."
+      },
+      {
+        "letra": "D",
+        "texto": "0 é a posição ideal para os förcipes de rotação."
+      },
+      {
+        "letra": "E",
+        "texto": "-1 persistente indica utilização de ocitocina. 4000234684"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 5603,
+    "tags": [],
+    "enunciado": "Uma secundigesta, que teve um aborto anterior, apresentava idade gestacional de 38 semanas, e estava internada em trabalho de parto espontâneo, com bolsa íntegra e vitalidade fetal preservada. O exame físico apresentou dinâmica uterina com 4 contrações fortes de duração de 40 segundos em 10 minutos. O partograma da paciente está demonstrado logo a seguir. Com base nessa situação hipotética, assinale a alternativa que apresenta o diagnóstico representado no partograma e a conduta adequada.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "fase ativa prolongada; movimentação da parturiente"
+      },
+      {
+        "letra": "B",
+        "texto": "parto taquitócico; hidratação materna"
+      },
+      {
+        "letra": "C",
+        "texto": "evolução fisiológica do trabalho de parto"
+      },
+      {
+        "letra": "D",
+        "texto": "período expulsivo prolongado; fórcipe de Simpson Braun"
+      },
+      {
+        "letra": "E",
+        "texto": "parada secundária da dilatação; rotura artificial das membranas 4000233965"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 5604,
+    "tags": [],
+    "enunciado": "Paciente de 42 anos, grávida de 38 semanas e quatro dias, foi admitida na maternidade com queixa de contrações. Foi internada e acompanhada segundo partograma abaixo: Trata-se de gestação única, o feto encontra-se cefálico e o peso fetal estimado pela ultrassonogra(cid:62)a há dois dias foi 3.705g. É hipertensa e diabética, e a gravidez se deu após tratamento de FIV (fertilização in vitro). As comorbidades estão bem controladas e não houve intercorrências durante o pré-natal. O exame físico e os exames laboratoriais não tinham alterações dignas de nota, Assinale a alternativa CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A evolução do trabalho de parto está dentro da normalidade e na hora de registro 8 a dilatação do colo uterino está completa tendo sido evidenciado que a variedade de posição do polo cefálico foi de ODT (occipito direita transversa) para OP (occipitopúbica), após a rotação interna."
+      },
+      {
+        "letra": "B",
+        "texto": "A evolução do trabalho de parto está dentro da normalidade e na hora de registro 8 o polo cefálico ainda não alcançou o plano zero de De Lee porque ainda não realizou a rotação interna e a variedade de posição está indo de OET (occipito esquerda transversa) para OS (occipitossacra)."
+      },
+      {
+        "letra": "C",
+        "texto": "A evolução do trabalho de parto não está dentro da normalidade porque, embora a paciente esteja com dilatação de 10cm na hora de registro 8, a variedade de posição não está adequada para o nascimento."
+      },
+      {
+        "letra": "D",
+        "texto": "A evolução do trabalho de parto não está dentro da normalidade, pois não houve mudança da dilatação nas primeiras horas de registro e o polo cefálico insinuou na pelve materna transverso. 4000233860"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 5605,
+    "tags": [],
+    "enunciado": "Parturiente de risco habitual, 26 anos de idade, 38 semanas de gestação, primigesta, encontra-se em trabalho de parto espontâneo, sem bloqueio neuraxial. Exame obstétrico: frequência cardíaca fetal basal de 136 batimentos por minuto e com desacelerações precoces repetitivas à cardiotocogra(cid:62)a, apresentação cefálica em OP e plano +3 de DeLee. Após 4 horas na fase ativa do período expulsivo, refere estar exausta e não consegue mais realizar puxos. Qual é a conduta mais adequada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hiperoxigenação materna e continuação do período expulsivo."
+      },
+      {
+        "letra": "B",
+        "texto": "Realizar operação cesariana."
+      },
+      {
+        "letra": "C",
+        "texto": "Aplicação de vácuo-extrator ou fórcipe."
+      },
+      {
+        "letra": "D",
+        "texto": "Hidratação materna e tocólise com terbutalina. 4000233011"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 5606,
+    "tags": [],
+    "enunciado": "Mulher, 32 anos de idade, primigesta com 38 semanas de gravidez, sem doenças, foi admitida na maternidade em trabalho de parto espontâneo. Apresentou amniorrexe espontânea no momento da admissão, com saída de líquido claro com grumos. Ao exame físico, apresentou bom estado geral, corada, normotensa e normocárdica. Abdome gravídico, altura uterina de 33 cm, dinâmica presente, batimento cardíaco fetal presente de 146 bpm. O acompanhamento do trabalho de parto está demonstrado no partograma a seguir: Ao avaliar a evolução do trabalho de parto representado, assinale o provável tipo de pelve da parturiente.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "B"
+      },
+      {
+        "letra": "C",
+        "texto": "D"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 5607,
+    "tags": [],
+    "enunciado": "Avalie o partograma a seguir. Esse partograma é sugestivo de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "desproporção"
+      },
+      {
+        "letra": "B",
+        "texto": "evolução normal"
+      },
+      {
+        "letra": "C",
+        "texto": "hipersistolia uterina"
+      },
+      {
+        "letra": "D",
+        "texto": "hipoatividade uterina 4000231976"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 5608,
+    "tags": [],
+    "enunciado": "Pode-se afirmar, ao analisar o partograma a seguir, que ele indica:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "fase ativa prolongada"
+      },
+      {
+        "letra": "B",
+        "texto": "parada secundária de dilatação"
+      },
+      {
+        "letra": "C",
+        "texto": "parada secundária de descida"
+      },
+      {
+        "letra": "D",
+        "texto": "período pélvico prolongado 4000231353"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 5609,
+    "tags": [],
+    "enunciado": "Observe o partograma a seguir. Primigesta, 40 semanas de idade gestacional, deu entrada na Maternidade com queixa de dores pélvicas em cólicas. Ao exame obstétrico, apresenta a altura uterina de 36cm, dinâmica uterina presente, tônus uterino normal. Ao toque vaginal, o colo uterino encontra-se com dilatação de 3cm, diante do caso, optou-se pela internação. Com base no caso clínico e na leitura do partograma, a hipótese diagnóstica é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Parto taquitócito, associado a descolamento abrupto de placenta."
+      },
+      {
+        "letra": "B",
+        "texto": "Parada secundária da descida, associada à desproporção cefalopélvica."
+      },
+      {
+        "letra": "C",
+        "texto": "Período pélvico prolongado, associado a hipocinesias."
+      },
+      {
+        "letra": "D",
+        "texto": "Parada secundária da descida, associada à distocia funcional."
+      },
+      {
+        "letra": "E",
+        "texto": "Parto eutócico. 4000230907"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 5610,
+    "tags": [],
+    "enunciado": "Multípara de 40 anos, com diabetes gestacional mal controlado, encontra-se em trabalho de parto a termo. De acordo com a cardiotocogra(cid:62)a e o partograma realizados na ocasião, mostrados abaixo, qual é a conduta a ser adotada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Mudança de posição da parturiente."
+      },
+      {
+        "letra": "B",
+        "texto": "Emprego de fórceps para conclusão do parto."
+      },
+      {
+        "letra": "C",
+        "texto": "Administração de ocitocina."
+      },
+      {
+        "letra": "D",
+        "texto": "Cesárea. 4000228649"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 5611,
+    "tags": [],
+    "enunciado": "Uma paciente de 30 anos, primigesta, com 40 semanas de idade gestacional, sem cirurgias prévias nem antecedentes mórbidos relevantes, é internada em trabalho de parto espontâneo às 5h da manhã com contrações. Os movimentos fetais estão presentes e ativos, não ocorreu perda de líquido ou sangue na internação. A paciente está lidando bem com a dor, com movimentação, massagem e banhos de aspersão. Seu acompanhante é participativo e acolhedor. Os batimentos cardíacos fetais estão sendo auscultados a cada 15 minutos e mantêm um padrão tranquilizador. Às 9h, a parturiente está mais cansada e queixosa e apresenta discreto sangramento vaginal. Diante disso, é feita nova avaliação por toque vaginal. A evolução do trabalho de parto pode ser vista no partograma a seguir. Fundamentado nas recomendações da Organização Mundial da Saúde (2018) e considerando o caso clínico e o partograma apresentados, faça o que se pede nos itens a seguir. a) Qual é o diagnóstico correto do caso clínico? (valor: 2,0 pontos) b) É possível constatar sinais de progressão, ou de não progressão, do trabalho de parto? Forneça duas justificativas completas para a sua resposta. (valor: 4,0 pontos) c) Qual conduta deve ser seguida? (valor: 4,0 pontos) Essa questão possui comentário do professor no site 4000223873",
+    "alternativas": [],
+    "resposta_correta": null
+  },
+  {
+    "id": 5612,
+    "tags": [],
+    "enunciado": "Gestante de 39 semanas de gestação, secundigesta com 1 parto normal há 2 anos, apresenta a evolução do trabalho de parto de acordo com o partograma em anexo (Fonte: ZUGAIB, 2023). No último registro do partograma, foram registradas 4 contrações uterinas fortes a cada 10 minutos, bolsa rota com líquido claro com grumos, com batimento cardíaco fetal em 100bpm, com quedas recorrentes de até 30bpm durante as contrações. Diante do exposto, o diagnóstico do partograma e a conduta mais adequada para o caso são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "parada secundária da dilatação, está indicada a aplicação de vácuo extrator."
+      },
+      {
+        "letra": "B",
+        "texto": "parto taquitócito, portanto deve-se aguardar a evolução do parto corrigindo as contrações com ocitocina ."
+      },
+      {
+        "letra": "C",
+        "texto": "parada secundária da descida, logo está indicada cesariana por parto obstruído ."
+      },
+      {
+        "letra": "D",
+        "texto": "parada secundária da dilatação, realizar amniotomia para aumentar as contrações."
+      },
+      {
+        "letra": "E",
+        "texto": "período expulsivo prolongado, indicar fórceps de Simpson. 4000215132"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 5613,
+    "tags": [],
+    "enunciado": "Primigesta, 25 anos, 40 semanas de idade gestacional, internada em trabalho de parto, com evolução registrada no partograma a seguir: Nesse caso, a principal causa da distocia representada e a melhor conduta é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Exaustão materna; cesariana."
+      },
+      {
+        "letra": "B",
+        "texto": "Desproporção céfalo-pélvica; cesariana."
+      },
+      {
+        "letra": "C",
+        "texto": "Desproporção céfalo-pélvica; parto fórceps."
+      },
+      {
+        "letra": "D",
+        "texto": "Distocia de rotação; parto fórceps."
+      },
+      {
+        "letra": "E",
+        "texto": "Distocia de rotação; parto por vácuo. 4000215036"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 5614,
+    "tags": [],
+    "enunciado": "Qual é o principal objetivo do uso do partograma na assistência ao Trabalho de Parto (TP)?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Diminuir o uso de ocitocina."
+      },
+      {
+        "letra": "B",
+        "texto": "Diminuir o tempo do TP."
+      },
+      {
+        "letra": "C",
+        "texto": "Identificar TP disfuncional."
+      },
+      {
+        "letra": "D",
+        "texto": "Diminuir os índices de cesariana."
+      },
+      {
+        "letra": "E",
+        "texto": "Reduzir as taxas de endometrite puerperal."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 5615,
+    "tags": [],
+    "enunciado": "O partograma é importante ferramenta obstétrica para a boa condução dos trabalhos de parto, visando diminuir complicações ao binômio materno-fetal. Ao iniciar o controle com o partograma é importante lembrar das linhas de alerta e de ação que tem entre elas um lapso temporal de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "30 minutos."
+      },
+      {
+        "letra": "B",
+        "texto": "2 horas."
+      },
+      {
+        "letra": "C",
+        "texto": "4 horas."
+      },
+      {
+        "letra": "D",
+        "texto": "6 horas. 4000214870"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 5616,
+    "tags": [],
+    "enunciado": "Uma paciente, 32 anos, primeira gestação, com 38 semanas, admitida em trabalho de parto, teve seu registro de evolução de parto conforme o seguinte partograma. Qual o diagnóstico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Parada secundária de descida."
+      },
+      {
+        "letra": "B",
+        "texto": "Fase ativa prolongada."
+      },
+      {
+        "letra": "C",
+        "texto": "Parada secundária de dilatação."
+      },
+      {
+        "letra": "D",
+        "texto": "Período pélvico prolongado. 4000214467"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 5617,
+    "tags": [],
+    "enunciado": "O partograma é um instrumento proposto pela OMS que auxilia a evolução do trabalho de parto, com dados evolutivos da apresentação fetal, altura da apresentação, dilatação do colo uterino, bef, dinâmica uterina, se a bolsa rompeu, entre outros, cuja interpretação correta se faz necessária para segurança do bibômio mãe- (cid:62)lho durante o trabalho de parto. Analise o partograma a seguir: De acordo com o partograma, assinale a alternativa que apresenta CORRETAMENTE o diagnóstico.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Contrações ineficazes."
+      },
+      {
+        "letra": "B",
+        "texto": "Erro na construção do partograma."
+      },
+      {
+        "letra": "C",
+        "texto": "Parada secundária de dilatação."
+      },
+      {
+        "letra": "D",
+        "texto": "Fase ativa prolongada."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 5618,
+    "tags": [],
+    "enunciado": "Primigesta de 24 anos, com 39 semanas, está em trabalho de parto, conforme o partograma da imagem a seguir. As possíveis complicações decorrentes dessa evolução são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "hipotonia uterina e infecção puerperal."
+      },
+      {
+        "letra": "B",
+        "texto": "infecção puerperal e laceração de trajeto."
+      },
+      {
+        "letra": "C",
+        "texto": "hipotonia uterina e laceração de trajeto."
+      },
+      {
+        "letra": "D",
+        "texto": "infecção puerperal e trombose venosa profunda."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 5619,
+    "tags": [],
+    "enunciado": "Mulher, 32a, G3P1C1A1, idade gestacional de 41 semanas, dá entrada em trabalho de parto espontâneo, com evolução conforme partograma abaixo. Está deambulando, com dieta geral e com métodos não farmacológicos no alívio da dor. Antecedentes pessoais: sem comorbidades, último parto há três anos, por apresentação pélvica.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "CONDUTA OBSTÉTRICA É:"
+      }
+    ],
+    "resposta_correta": null
+  },
+  {
+    "id": 5620,
+    "tags": [],
+    "enunciado": "Pode-se a(cid:62)rmar que, para a construção do partograma, o registro grá(cid:62)co deve ser iniciado quando a parturiente estiver na fase ativa do trabalho de parto (duas a três contrações generalizadas em 10 minutos) e dilatação cervical mínima, em centímetros, de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "4"
+      },
+      {
+        "letra": "B",
+        "texto": "2"
+      },
+      {
+        "letra": "C",
+        "texto": "3"
+      },
+      {
+        "letra": "D",
+        "texto": "5"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 5621,
+    "tags": [],
+    "enunciado": "A pelvimetria era a prática comum em obstetrícia que há anos atrás se realizava para estimar o tamanho da bacia materna, entretanto nota-se que as estimativas de tamanho de pelve adequados não correspondem aos parto bem sucedidos, portanto, hoje em dia a pelvimetria caiu em desuso e realiza-se prova de trabalho de parto e o partograma é um importante instrumento para avaliação da progressão do trabalho de parto. Avalie o partograma abaixo e assinale o diagnóstico CORRETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Parto taquitócico"
+      },
+      {
+        "letra": "B",
+        "texto": "Desproporção céfalo-pélvica"
+      },
+      {
+        "letra": "C",
+        "texto": "Parada secundária de progressão por falta de motor"
+      },
+      {
+        "letra": "D",
+        "texto": "Distócia de ombros"
+      },
+      {
+        "letra": "E",
+        "texto": "Assinclitismo"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 5622,
+    "tags": [],
+    "enunciado": "Observe o partograma a seguir. O diagnóstico correto é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "parada secundária da descida."
+      },
+      {
+        "letra": "B",
+        "texto": "parto eutócico fisiológico."
+      },
+      {
+        "letra": "C",
+        "texto": "parto taquitócico."
+      },
+      {
+        "letra": "D",
+        "texto": "fase ativa prolongada."
+      },
+      {
+        "letra": "E",
+        "texto": "período expulsivo prolongado. 4000193589"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 5623,
+    "tags": [],
+    "enunciado": "Primigesta com 35 anos de idade e 38 semanas de idade gestacional con(cid:62)rmada pela DUM, diabética gestacional controlada com dieta. É admitida no PS com exame obstétrico: altura uterina 37 cm; dinâmica uterina = 4 contrações de mais de 40 segundos em 10 minutos; BCF:144 bpm, com aceleração transitória presente. Ao toque vaginal o colo uterino estava dilatado para 3 cm, esvaecido 80% e anteriorizado; apresentação cefálica, bolsa rota, líquido claro e grumos presentes. A evolução do trabalho de parto é apresentada no partograma ilustrado abaixo: De acordo com o quadro clínico e evolução, assinale a alternativa com a conduta mais adequada, baseada nos princípios da OMS de 2018.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Indicar parto cesáreo devido à hipótese de desproporção céfalo-pélvica."
+      },
+      {
+        "letra": "B",
+        "texto": "Administrar ocitocina e guardar o desprendimento do polo cefálico."
+      },
+      {
+        "letra": "C",
+        "texto": "Solicitar que a paciente deambule e aguardar a descida do feto."
+      },
+      {
+        "letra": "D",
+        "texto": "Realizar episiotomia e aguardar o desprendimento do polo cefálico. 4000190536"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 5624,
+    "tags": [],
+    "enunciado": "Uma paciente de 31 anos de idade, G2P0A1, no decorrer de 40 semanas de gestação, encontra- se em fase ativa do trabalho de parto. O desenvolvimento do trabalho de parto está caracterizado no partograma abaixo. O diagnóstico do partograma abaixo é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "parada secundária da descida, que foi diagnosticada por dois toques sucessivos, com intervalo de 1 hora ou mais, após atingir dilatação do colo uterino completa"
+      },
+      {
+        "letra": "B",
+        "texto": "período pélvico prolongado manifesta-se no partograma com a descida progressiva da apresentação, mas excessivamente lenta. Nota-se dilatação completa do colo uterino e demora na descida e expulsão do feto."
+      },
+      {
+        "letra": "C",
+        "texto": "parada secundária da dilatação, que foi diagnosticada por dois toques sucessivos após a sétima hora de trabalho de parto."
+      },
+      {
+        "letra": "D",
+        "texto": "parto taquitócico, que foi diagnosticado após a rápida evolução do trabalho de parto ao atingir a linha de ação."
+      },
+      {
+        "letra": "E",
+        "texto": "fase ativa prolongada, resultante da abertura do partograma em variedade de posição Occipício Direita Posterior (ODP). 4000189032"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 5625,
+    "tags": [],
+    "enunciado": "Avalie o partograma abaixo e assinale o diagnóstico correto.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Paradasecundária da descida"
+      },
+      {
+        "letra": "B",
+        "texto": "Período pélvico prolongado"
+      },
+      {
+        "letra": "C",
+        "texto": "Parto taquitócico"
+      },
+      {
+        "letra": "D",
+        "texto": "Distócia funcional"
+      },
+      {
+        "letra": "E",
+        "texto": "Parada secundária da dilatação 4000187636"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 5626,
+    "tags": [],
+    "enunciado": "Uma gestante dá entrada na maternidade em trabalho de parto. Ao toque colo dilatado 4 cm, bolsa rota, apresentação cefálica. Aberto o partograma de Friedmann, o Obstetra deve traçar a linha de ação:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "2 horas após a linha de alerta."
+      },
+      {
+        "letra": "B",
+        "texto": "2 horas antes da linha de alerta."
+      },
+      {
+        "letra": "C",
+        "texto": "4 horas após a linha de alerta."
+      },
+      {
+        "letra": "D",
+        "texto": "4 horas antes da linha de alerta."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 5627,
+    "tags": [],
+    "enunciado": "Primigesta, gestação de risco usual, com a evolução do trabalho de parto demonstrada no partograma abaixo. Assinale a alternativa que contém o tipo de distócia apresentada e a conduta obstétrica:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Parada secundária da descida e fórceps de rotação"
+      },
+      {
+        "letra": "B",
+        "texto": "Parada secundária da descida e operação cesariana"
+      },
+      {
+        "letra": "C",
+        "texto": "Fase ativa protraída e infusão intravenosa de ocitocina"
+      },
+      {
+        "letra": "D",
+        "texto": "Desproporção cefalopélvica relativa e infusão intravenosa de ocitocina"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 5628,
+    "tags": [],
+    "enunciado": "Mulher, 30a, G4P3C0A0, sem comorbidades e com último parto há três anos, apresenta trabalho de parto espontâneo às 39 semanas e 4 dias de gestação, representado pelo seguinte partograma:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "CONDUTA OBSTÉTRICA APÓS EXAME DAS 19:00 É:"
+      }
+    ],
+    "resposta_correta": null
+  },
+  {
+    "id": 5629,
+    "tags": [],
+    "enunciado": "O Ministério da Saúde do Brasil recomenda que se preencha o partograma em todos acompanhamentos dos trabalhos de parto. Sobre esse instrumento, é correto a(cid:62)rmar que ele é um registro grá(cid:62)co da evolução do trabalho de parto, sendo preenchido",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "no seguimento do trabalho de parto somente pelo médico e anotando os parâmetros de dinâmica uterina, dilatação, apresentação com variedade de posição e batimentos cardíacos fetais, de hora em hora."
+      },
+      {
+        "letra": "B",
+        "texto": "no seguimento do trabalho de parto, podendo ser preenchido pela equipe, sejam médicos(as) ou enfermeiros(as) obstétricas(as) e os toque devem ser realizados e registrados no mínimo a cada hora."
+      },
+      {
+        "letra": "C",
+        "texto": "desde que a gestante esteja em trabalho de parto, sendo que somente se deve traçar a linha de alerta e a de ação quando estiver na fase ativa."
+      },
+      {
+        "letra": "D",
+        "texto": "a cada exame clínico, e caso a linha de alerta seja ultrapassada, a parturiente deverá ser submetida a cesárea."
+      },
+      {
+        "letra": "E",
+        "texto": "somente nos dados da dinâmica uterina, dilatação, apresentação e batimentos cardio-fetais, sendo que o uso de ocitocina e analgesia devem ser anotados na folha de evolução da gestante, com horário e assinatura."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 5630,
+    "tags": [],
+    "enunciado": "Primigesta, 32 anos, 41 semanas de gestação de risco habitual. Interna na fase ativa da dilatação para assistência ao parto. Na admissão apresentava sinais vitais e exame físico geral normal, altura uterina=38 cm, vitalidade fetal normal. A evolução grá(cid:62)ca de seu trabalho de parto está representada abaixo (Figura). Qual é a conduta para após a avaliação das 20h?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aguardar mais uma hora de período expulsivo."
+      },
+      {
+        "letra": "B",
+        "texto": "Realizar parto instrumentalizado."
+      },
+      {
+        "letra": "C",
+        "texto": "Realizar amniotomia artificial."
+      },
+      {
+        "letra": "D",
+        "texto": "Estimular a paciente a realizar puxos dirigidos."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 5631,
+    "tags": [],
+    "enunciado": "Uma primigesta, cardiopata por doença reumática, classe funcional NYHA I, com boa evolução do trabalho de parto, apresenta parada na progressão. A apresentação é occipito direita transversa e com assinclitismo anterior, plano +2 de DeLee. Os batimentos cardíacos fetais estão em 128bpm. Considerando o quadro clínico apresentado, a melhor conduta no momento seria:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cesariana de emergência."
+      },
+      {
+        "letra": "B",
+        "texto": "Fórcipe de Simpson."
+      },
+      {
+        "letra": "C",
+        "texto": "Fórcipe de Kielland."
+      },
+      {
+        "letra": "D",
+        "texto": "Fórcipe de Piper."
+      },
+      {
+        "letra": "E",
+        "texto": "Aguardar a evolução do parto."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 5632,
+    "tags": [],
+    "enunciado": "Gestante, 28 anos, secundigesta, com parto vaginal prévio, 39 semanas e 5 dias de gestação, encontra-se em seguimento na sala de parto de hospital secundário, com bolsa amniótica rota há 6 horas. Na última avaliação, apresenta 4 contrações uterinas rítmicas, com duração de 60 segundos a cada 10 minutos. O registro da evolução do trabalho de parto está registrado no partograma abaixo. Qual a conduta mais adequada para essa parturiente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Administrar ocitocina IV."
+      },
+      {
+        "letra": "B",
+        "texto": "Orientar repouso em decúbito lateral esquerdo e iniciar hidratação venosa."
+      },
+      {
+        "letra": "C",
+        "texto": "Reavaliar vitalidade fetal periodicamente e necessidade de ocitocina na próxima avaliação."
+      },
+      {
+        "letra": "D",
+        "texto": "Verticalizar rapidamente a parturiente e tentar rotação manual do polo cefálico ou indicar cesárea."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 5633,
+    "tags": [],
+    "enunciado": "G3PN2, 40 semanas, dá entrada no hospital. É aberto o partograma e, após 10 horas de evolução, o plantonista leva a paciente para cesária. Considerando o partograma a seguir, qual é o motivo?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Parto precipitado."
+      },
+      {
+        "letra": "B",
+        "texto": "Fase ativa prolongada."
+      },
+      {
+        "letra": "C",
+        "texto": "Parada secundária da dilatação."
+      },
+      {
+        "letra": "D",
+        "texto": "Feto pélvico."
+      },
+      {
+        "letra": "E",
+        "texto": "Sofrimento fetal. 4000198050"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 5634,
+    "tags": [],
+    "enunciado": "G3PN2, 39 semanas, dá entrada no hospital. É aberto o partograma e, após 3 horas de evolução, o bebê nasce. Qual é o diagnóstico, conforme o partograma a seguir?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Distócia de progressão."
+      },
+      {
+        "letra": "B",
+        "texto": "Sofrimento fetal."
+      },
+      {
+        "letra": "C",
+        "texto": "Fase ativa prolongada."
+      },
+      {
+        "letra": "D",
+        "texto": "Parada secundária da dilatação."
+      },
+      {
+        "letra": "E",
+        "texto": "Parto taquitócico. 4000198049"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 5635,
+    "tags": [],
+    "enunciado": "Primigesta, 39 semanas, em trabalho de parto. Foi elaborado o seguinte partograma (seta=analgesia). É correto afirmar que, nesse momento, deve-se:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "realizar a amniotomia."
+      },
+      {
+        "letra": "B",
+        "texto": "ministrar ocitocina."
+      },
+      {
+        "letra": "C",
+        "texto": "indicar cesárea."
+      },
+      {
+        "letra": "D",
+        "texto": "aplicar vácuo-extrator. 4000193748"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 5636,
+    "tags": [],
+    "enunciado": "A.L.L.M., 30 anos, G1P0A0, com idade gestacional de 39 semanas e 3 dias está sendo acompanhada na maternidade do Hospital Público de Macaé (HPM) após ter sido admitida com diagnóstico de trabalho de parto em seu 1º período, por apresentar contrações uterinas com frequência de uma contração a cada 5 minutos com duração de 50 segundos, colo 70% apagado e dilatado em 3 cm, apresentação cefálica alta e bolsa amniótica íntegra. Durante a internação apresenta evolução do trabalho de parto segundo o partograma abaixo. Das opções abaixo, escolha a que representa o diagnóstico na nona hora e a melhor conduta a ser adotada.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Parada secundária da descida por distocia de colo; indicar cesariana imediatamente, pois já ultrapassou a linha de alerta."
+      },
+      {
+        "letra": "B",
+        "texto": "Parada secundária da dilatação por distocia funcional; colocar a paciente em posição de quatro apoios."
+      },
+      {
+        "letra": "C",
+        "texto": "Fase ativa prolongada por contratilidade uterina insuficiente; usar misoprostol para acelerar o trabalho de parto."
+      },
+      {
+        "letra": "D",
+        "texto": "Parto taquitócico por distocia funcional; colocar oxigênio em cateter nasal com fluxode 5 L/min."
+      },
+      {
+        "letra": "E",
+        "texto": "Parada secundária da descida por desproporção céfalo-pélvica; indicar cesariana quando atingir a linha de ação. 4000192758"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 5637,
+    "tags": [],
+    "enunciado": "A contratilidade uterina indolor que tem início em torno de 30 semanas de gestação leva o nome de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Bandeamento."
+      },
+      {
+        "letra": "B",
+        "texto": "Braxton-Hicks."
+      },
+      {
+        "letra": "C",
+        "texto": "Puxos vaginais."
+      },
+      {
+        "letra": "D",
+        "texto": "Hipercinesia. 4000192016"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 5638,
+    "tags": [],
+    "enunciado": "De acordo com a FEBRASCO, o tamanho do feto pode prejudicar uma boa evolução do trabalho de parto quando este for estimado em mais de 4000g ou quando, mesmo não tendo um peso aumentado, a bacia materna não apresenta diâmetros que permitam a sua passagem, ao que se denomina desproporção cefalopélvica. Deve-se tentar identi(cid:62)car uma distocia pelo tamanho fetal preferencialmente antes do trabalho de parto efetivamente, o que pode ser evidenciado de diversas maneiras como: I- Altura uterina abaixo do percentil 95 para idade gestacional. II- Presença de edema suprapúbico e membros inferiores com insinuação do polo cefálico no estreito superior da bacia. III- Estimativa do peso fetal por meio de ultrassonografia obstétrica. IV- Prova de trabalho de parto: caracteriza-se a parada secundária de dilatação pelo partograma. Estão CORRETAS as maneiras previstas em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e II apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "II e III apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "I e IV apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "III e IV apenas. 4000189799"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 5639,
+    "tags": [],
+    "enunciado": "Secundigesta, com parto normal anterior há 2 anos, sem comorbidades e com 38 semanas de gestação, encontra-se em trabalho de parto há 5 horas, conforme registrado no partograma a seguir. Analisando a evolução clínica desse parto, faça o que se pede nos itens a seguir. Responda qual é o diagnóstico da discinesia registrada no partograma. Descreva 4 medidas terapêuticas adequadas que podem ser oferecidas à paciente nesse cenário. Essa questão possui comentário do professor no site 4000178523",
+    "alternativas": [],
+    "resposta_correta": null
+  },
+  {
+    "id": 5640,
+    "tags": [],
+    "enunciado": "Partograma é um grá(cid:62)co no qual são anotadas a progressão do trabalho de parto e as condições da mãe e as do feto. Quando bem utilizado, ele permite diminuição de intervenções desnecessárias e contribui para melhores desfechos obstétricos. Dessa forma, pode-se avaliar, com o auxílio dessa ferramenta, que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o parto precipitado é diagnosticado quando a dilatação cervical bem como a descida e expulsão fetal ocorrem num período de até 4 horas."
+      },
+      {
+        "letra": "B",
+        "texto": "a dilatação do colo, na fase ativa prolongada, ocorre numa velocidade menor que 1 cm/hora e é indicativo de cesárea quando ultrapassa a linha de alerta."
+      },
+      {
+        "letra": "C",
+        "texto": "o registro do uso da ocitocina não é necessário, porém se deve anotar a intensidade das contrações uterinas."
+      },
+      {
+        "letra": "D",
+        "texto": "a parada secundária de dilatação é diagnosticada por 2 toques sucessivos, com intervalo de 1 hora no trabalho de parto ativo."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 5641,
+    "tags": [],
+    "enunciado": "Uma gestante em trabalho de parto espontâneo se encontra com dilatação cervical de 6cm, feto em apresentação cefálica e dinâmica uterina de 6 contrações em um intervalo de 10 minutos. Qual dos termos a seguir adequadamente descreve essa situação?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Contratilidade normal"
+      },
+      {
+        "letra": "B",
+        "texto": "Hipersistolia"
+      },
+      {
+        "letra": "C",
+        "texto": "Taquissistolia"
+      },
+      {
+        "letra": "D",
+        "texto": "Hiperestímulo uterino"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 5642,
+    "tags": [],
+    "enunciado": "O partograma esquematizado mostra a evolução de um parto por via vaginal, no qual ocorreu uma distócia da dilatação (fase ativa prolongada). Uma das causas envolvidas para essa ocorrência é: Imagens anexas:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Contrações uterinas ineficazes"
+      },
+      {
+        "letra": "B",
+        "texto": "Desproporção cefalopélvica absoluta"
+      },
+      {
+        "letra": "C",
+        "texto": "Desproporção cefalopélvica relativa"
+      },
+      {
+        "letra": "D",
+        "texto": "Distócia de trajeto mole"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 5643,
+    "tags": [],
+    "enunciado": "Considere que uma paciente de 28 anos de idade, G1 PV0 A0, com 40 semanas e seis dias de gestação, chega à maternidade relatando contrações uterinas dolorosas. Nega perda de líquido ou sangramento genital. Ao ser examinada, sua PA é de 120 x 80 mmHg e a FC é de 86 bpm. As contrações uterinas estão ocorrendo a cada cinco minutos e o BCF é 140 bpm. Ao toque vaginal, o colo está com 3 cm de dilatação e 50% apagado, a bolsa está íntegra e o polo cefálico está alto. Não desejou analgesia durante o acompanhamento do trabalho de parto. Analise o padrão de dilatação do colo uterino e da descida do polo cefálico a seguir e assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Trata-se de um caso de parada secundária da descida."
+      },
+      {
+        "letra": "B",
+        "texto": "Essa distócia é diagnosticada por dois toques sucessivos, com intervalo de duas horas ou mais, estando a paciente em trabalho de parto ativo."
+      },
+      {
+        "letra": "C",
+        "texto": "É frequente nesse tipo de distocia a contratilidade uterina deficiente."
+      },
+      {
+        "letra": "D",
+        "texto": "Estava indicado uso de fórceps na sexta hora de avaliação. 4000168171"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 5644,
+    "tags": [],
+    "enunciado": "Observe o partograma. De acordo com o partograma, o diagnóstico é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "parto taquitócito."
+      },
+      {
+        "letra": "B",
+        "texto": "fase ativa prolongada."
+      },
+      {
+        "letra": "C",
+        "texto": "parada secundária da descida."
+      },
+      {
+        "letra": "D",
+        "texto": "parto eutócico."
+      },
+      {
+        "letra": "E",
+        "texto": "período pélvico prolongado. 4000167541"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 5645,
+    "tags": [],
+    "enunciado": "Mulher, 27a, com gestação de 39 semanas, interna em trabalho de parto espontâneo. Antecedentes obstétricos: primigesta, com pré-natal realizado em Unidade Básica de Saúde e sem intercorrências gestacionais, em uso de sulfato ferroso em dose pro(cid:62)lática. Antecedentes pessoais: sem comorbidades, alergias ou cirurgias prévias, nega tabagismo ou uso de outras substâncias. Partograma: O DIAGNÓSTICO DA EVOLUÇÃO DO TRABALHO DE PARTO É: Essa questão possui comentário do professor no site 4000167462",
+    "alternativas": [],
+    "resposta_correta": null
+  },
+  {
+    "id": 5646,
+    "tags": [],
+    "enunciado": "O partograma é um grá(cid:62)co no qual são anotadas a progressão do trabalho de parto e as condições materno- fetais. Analise o seguinte partograma e assinale a alternativa correspondente com o padrão encontrado.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fase ativa prolongada."
+      },
+      {
+        "letra": "B",
+        "texto": "Parada secundária da descida."
+      },
+      {
+        "letra": "C",
+        "texto": "Desproporção cefálo-pélvica."
+      },
+      {
+        "letra": "D",
+        "texto": "Distócia funcional."
+      },
+      {
+        "letra": "E",
+        "texto": "Trabalho de parto fisiológico."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 5647,
+    "tags": [],
+    "enunciado": "Mulher de 22 anos de idade, secundigesta com um parto cesáreo anterior com recém-nascido de 2632g há 4 anos. Chega ao pronto atendimento com dor em hipogástrio. Hoje está com 38 semanas e 2 dias de gestação e o pré-natal transcorreu sem intercorrências. Ao exame: PA 110x72 mmHg, FC 88 bpm, dinâmica uterina presente de 3 contrações em 10 minutos, BCF 144 bpm, altura uterina de 35 cm, toque com colo (cid:62)no pérvio para 6 cm, apresentação cefálica, alta e (cid:62)xa, bolsa integra, amnioscopia líquido claro com grumos grossos. Após análise do partograma, qual o diâmetro que estaria impedindo a descida da apresentação?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A."
+      },
+      {
+        "letra": "B",
+        "texto": "B."
+      },
+      {
+        "letra": "C",
+        "texto": "C."
+      },
+      {
+        "letra": "D",
+        "texto": "D."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 5648,
+    "tags": [],
+    "enunciado": "Em acompanhamento de trabalho de parto a termo, uma parturiente encontra-se com três contrações uterinas a cada 10 minutos. A vitalidade fetal está boa e a dilatação cervical é de 5cm. Após algum tempo, constata-se colo completamente dilatado, bolsa rota, 5 contrações uterinas a cada 10 minutos, batimentos cardiofetais em 80bpm. A apresentação fetal encontra-se em –3, variedade de posição Occipto púbica. Considerando os dados do caso, indique a melhor conduta obstétrica.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Parto cesariano de urgência."
+      },
+      {
+        "letra": "B",
+        "texto": "Fórceps ou vácuo-extrator."
+      },
+      {
+        "letra": "C",
+        "texto": "Manobra de Kristeler."
+      },
+      {
+        "letra": "D",
+        "texto": "Estimular o puxo e realizar episiotomia."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 5649,
+    "tags": [],
+    "enunciado": "Em acompanhamento de trabalho de parto a termo, uma parturiente encontra-se com três contrações uterinas a cada 10 minutos. A vitalidade fetal está boa e a dilatação cervical é de 5cm. Após algum tempo, constata-se colo completamente dilatado, bolsa rota, 5 contrações uterinas a cada 10 minutos, batimentos cardiofetais em 80bpm. A apresentação fetal encontra-se em –3, variedade de posição Occipto púbica. Indique o momento no qual o partograma deve ser aberto.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "No início do período de dilatação."
+      },
+      {
+        "letra": "B",
+        "texto": "No início do período expulsivo."
+      },
+      {
+        "letra": "C",
+        "texto": "Na fase ativa do trabalho de parto."
+      },
+      {
+        "letra": "D",
+        "texto": "Na admissão da parturiente no centro obstétrico."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 5650,
+    "tags": [],
+    "enunciado": "Primigesta, 25 anos de idade, 41 semanas de gestação, evolução do trabalho de parto conforme o partograma da imagem a seguir. Nesse caso, a provável causa e a conduta para correção, são, respectivamente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Desproporção feto pélvica; cesárea."
+      },
+      {
+        "letra": "B",
+        "texto": "Desproporção feto pélvica; parto com uso do fórcipe."
+      },
+      {
+        "letra": "C",
+        "texto": "Distocia de rotação; parto com uso do Kielland."
+      },
+      {
+        "letra": "D",
+        "texto": "Exaustão materna; parto com uso do vácuo extrator."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 5651,
+    "tags": [],
+    "enunciado": "No preenchimento do partograma, além dos batimentos cardíacos fetais e das contrações uterinas, deve-se estar atento a:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Dilatação do colo uterino, plano de De Lee da apresentação, variedade de posição, estado da membrana amniótica."
+      },
+      {
+        "letra": "B",
+        "texto": "Pressão arterial materna, dilatação do colo uterino, plano de De Lee da apresentação, estado da membrana amniótica."
+      },
+      {
+        "letra": "C",
+        "texto": "Dilatação do colo uterino, variedade de posição, plano de De Lee da apresentação, esvaecimento do colo uterino."
+      },
+      {
+        "letra": "D",
+        "texto": "Esvaecimento do colo uterino, estado da membrana amniótica, variedade de posição, pressão arterial materna. 4000173762"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 5652,
+    "tags": [],
+    "enunciado": "Parturiente com 6 cm de dilatação em 2 toques consecutivos, bolsa íntegra, liquido claro com grumos, dinâmica uterina de 3 contrações em 10 minutos com duração de 35 segundos cada, feto em plano -1 de De Lee. Avaliando o partograma, observa-se ter ultrapassado a linha de alerta. Nesse caso, as melhores opções de imediato são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "analgesia peridural e misoprostol."
+      },
+      {
+        "letra": "B",
+        "texto": "amniotomia e ocitocina."
+      },
+      {
+        "letra": "C",
+        "texto": "amniotomia e misoprostol."
+      },
+      {
+        "letra": "D",
+        "texto": "misoprostol e deambulação. 4000173417"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 5653,
+    "tags": [],
+    "enunciado": "Primigesta, 22 anos, em fase ativa do trabalho de parto há 6 horas, bolsa rota há 2 horas, apresenta-se com dilatação completa, plano +3 de Delee, feto cefálico em occipto púbica. A frequência cardíaca fetal encontra-se em 80 bpm de forma sustentada, caracterizando sofrimento fetal. A conduta correta, neste momento, após orientar a paciente, é realizar",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "cesariana de urgência, sem sondagem vesical de alívio, e anestesia peridural."
+      },
+      {
+        "letra": "B",
+        "texto": "episiotomia médio-lateral, sondagem vesical de alívio e aplicar fórcipe de Simpson."
+      },
+      {
+        "letra": "C",
+        "texto": "episiotomia médio-lateral, sondagem vesical de alívio e aplicar fórcipe de Piper."
+      },
+      {
+        "letra": "D",
+        "texto": "cesariana de urgência, com sondagem vesical de demora e anestesia raquidiana. 4000172875"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 5654,
+    "tags": [],
+    "enunciado": "O partograma é uma ferramenta muito útil para acompanhar o desenvolvimento do trabalho de parto. Sobre o seu uso assinale a correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O partograma auxilia a definir momentos para intervenção médica no decorrer do trabalho de parto."
+      },
+      {
+        "letra": "B",
+        "texto": "Uma das falhas do partograma é estar desatualizado quanto ao início do trabalho de parto, que atualmente é 5 cm."
+      },
+      {
+        "letra": "C",
+        "texto": "O uso do partograma inibe a realização de processos contra obstetras."
+      },
+      {
+        "letra": "D",
+        "texto": "O partograma utiliza como principal parâmetro o tamanho do conceito em relação a bacia materna. 4000172375"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 5655,
+    "tags": [],
+    "enunciado": "Quando bem utilizado, o partograma permite diminuição de intervenções desnecessárias e contribui para melhores desfechos obstétricos. Sobre o partograma assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Definição de partograma: gráfico no qual são anotadas a progressão do trabalho de parto e as condições exclusivamente da mãe."
+      },
+      {
+        "letra": "B",
+        "texto": "Trata-se de um sistema tardio de aviso de anormalidades na evolução da dilatação cervical e da descida da apresentação fetal na pelve, ou seja, de preenchimento retrospectivo."
+      },
+      {
+        "letra": "C",
+        "texto": "Indica a tomada de condutas apropriadas."
+      },
+      {
+        "letra": "D",
+        "texto": "Ao cruzar a \"\"linha de ação\"\" está indicada a cesariana. 4000170690"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 5656,
+    "tags": [],
+    "enunciado": "Primigesta, 23 anos de idade, 39 semanas de gestação, partograma conforme a (cid:62)gura. Exame físico: altura uterina 34 cm; cardiotocogra(cid:62)a categoria I. Os diagnósticos segundo o partograma, e a conduta adequada, são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "período pélvico prolongado e parada secundária da descida; realizar a cesárea."
+      },
+      {
+        "letra": "B",
+        "texto": "fase ativa prolongada e distócia de rotação; aplicar o fórcipe."
+      },
+      {
+        "letra": "C",
+        "texto": "parada secundária da dilatação e parada secundária da descida; aplicar o fórcipe."
+      },
+      {
+        "letra": "D",
+        "texto": "parada secundária da dilatação e período pélvico prolongado; realizar a cesárea."
+      },
+      {
+        "letra": "E",
+        "texto": "distócia funcional e período pélvico prolongado; aplicar o fórcipe. 4000170239"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 5657,
+    "tags": [],
+    "enunciado": "Primigesta de 21 anos de idade está com 38 semanas de gestação e iniciou trabalho de parto espontâneo. O partograma e a cardiotocografia estão apresentados a seguir: Qual é o método indicado para ultimação do parto?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Abreviação com vácuo extrator."
+      },
+      {
+        "letra": "B",
+        "texto": "Cesárea segmentar transversa."
+      },
+      {
+        "letra": "C",
+        "texto": "Aguardar parto espontâneo."
+      },
+      {
+        "letra": "D",
+        "texto": "Rotação com fórcipe Kielland"
+      },
+      {
+        "letra": "E",
+        "texto": "Abreviação com fórcipe Simpson-Braun."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 5658,
+    "tags": [],
+    "enunciado": "Primigesta internada há 8 horas em trabalho de parto. A evolução do trabalho de parto está demonstrada no partograma abaixo. Foi diagnosticada a presença de desproporção cefalopélvica relativa. De acordo com estes dados, responda, respectivamente, em qual período clínico do parto está ocorrendo esta distócia e a conduta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Período de dilatação e ocitocina endovenosa."
+      },
+      {
+        "letra": "B",
+        "texto": "Período de expulsão e ocitocina endovenosa."
+      },
+      {
+        "letra": "C",
+        "texto": "Período de expulsão e posição materna verticalizada."
+      },
+      {
+        "letra": "D",
+        "texto": "Período de dilatação e posição materna verticalizada."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 5659,
+    "tags": [],
+    "enunciado": "Entre os partogramas a seguir, qual deles tem relação com o aumento do risco de hipotonia uterina, trauma do canal de parto e hemorragia ventricular no recém-nascido?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "B"
+      },
+      {
+        "letra": "C",
+        "texto": "D"
+      },
+      {
+        "letra": "E",
+        "texto": ""
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 5660,
+    "tags": [],
+    "enunciado": "Observe o partograma abaixo referente a evolução do trabalho de parto e parto de uma mulher de 28 anos, primigesta e idade gestacional de 40 semanas. Considerando as possíveis complicações associadas a essa evolução, indique a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Há maior chance do uso do balão de Bakri em partos que evoluem assim."
+      },
+      {
+        "letra": "B",
+        "texto": "Após a dequitação, recomenda-se a inspeção apenas do períneo para avaliação de possíveis lacerações."
+      },
+      {
+        "letra": "C",
+        "texto": "Uma vez que não se trata de parto fórcipe, a evolução do parto não interfere nos cuidados neonatais recomendados ao recémnascido."
+      },
+      {
+        "letra": "D",
+        "texto": "A amniotomia deveria ter sido realizada na segunda hora de avaliação, uma vez que a dilatação já era de sete centímetros."
+      },
+      {
+        "letra": "E",
+        "texto": "Não há indicação de analgesia nesses casos, apenas se a parturiente solicitar."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 5661,
+    "tags": [],
+    "enunciado": "Considere a assistência ao parto de uma primigesta, de termo, com AU de 34 cm, dinâmica de 5 contrações em 10 minutos com 40 segundos de duração, colo totalmente dilatado, bolsa rota sem líquido, feto em apresentação cefálica em OET no plano zero de De Lee, com di(cid:62)culdade de se identi(cid:62)carem as fontanelas pela presença de bossa e acavalgamento de sutura. Está nessas condições há 2 horas. A frequência cardíaca fetal está normal. Diante desses achados, é correto",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "fazer fórcipe de Kjelland para abreviação do período expulsivo."
+      },
+      {
+        "letra": "B",
+        "texto": "fazer fórcipe de Kjelland por distócia de rotação."
+      },
+      {
+        "letra": "C",
+        "texto": "fazer cesárea por desproporção céfalo-pélvica."
+      },
+      {
+        "letra": "D",
+        "texto": "aguardar o final do período expulsivo, pois o feto está com boa vitalidade."
+      },
+      {
+        "letra": "E",
+        "texto": "introduzir ocitocina em bomba de infusão para coordenar as contrações e corrigir a distócia funcional."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 5662,
+    "tags": [],
+    "enunciado": "Analise o partograma reproduzido a seguir e aponte o diagnóstico:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Período pélvico prolongado"
+      },
+      {
+        "letra": "B",
+        "texto": "Parada secundária da dilatação"
+      },
+      {
+        "letra": "C",
+        "texto": "Parada secundária da descida"
+      },
+      {
+        "letra": "D",
+        "texto": "Fase ativa prolongada"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 5663,
+    "tags": [],
+    "enunciado": "Gestante é admitida na maternidade e a condução do seu parto, segue o seguinte partograma. Considerando que o parto ocorreu em 2 horas e 40 minutos, assinale a alternativa gue NÃO ESTÁ ASSOCIADA a este tipo de parto.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hemorragia puerperal materna"
+      },
+      {
+        "letra": "B",
+        "texto": "Infecção"
+      },
+      {
+        "letra": "C",
+        "texto": "Laceração de trajeto de parto materna"
+      },
+      {
+        "letra": "D",
+        "texto": "Lesão de plexo braquial no RN"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 5664,
+    "tags": [],
+    "enunciado": "Uma mulher de 26 anos, G2G1, com 41 semanas de gestação, está fazendo força há 3 horas sem progresso. Nesse tempo, pelo exame vaginal, permaneceu com o colo completamente dilatado, completamente apagado, no plano O, com a cabeça persistentemente na variedade no occipício posterior (OP). Qual das assertivas a seguir descreve acuradamente a situação?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A variedade de occipício posterior frequentemente está associada a uma pelve ginecoide."
+      },
+      {
+        "letra": "B",
+        "texto": "O progresso do trabalho de parto é normal se a paciente não tiver um cateter epidural para analgesia, mas é anormal se estiver sendo utilizado analgesia epridural."
+      },
+      {
+        "letra": "C",
+        "texto": "Está contraindicada a cesariana."
+      },
+      {
+        "letra": "D",
+        "texto": "A parte óssea da cabeça fetal provavelmente está no plano de estrieto superior da pelve."
+      },
+      {
+        "letra": "E",
+        "texto": "A melhor descrição é que a paciente teve uma parada da descida. 4000145375"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 5665,
+    "tags": [],
+    "enunciado": "Em relação à contratilidade uterina, assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Só está presente quando se inicia o trabalho de parto."
+      },
+      {
+        "letra": "B",
+        "texto": "São necessárias 4 contrações em um intervalo de 10 minutos para que se caracterize um trabalho de parto."
+      },
+      {
+        "letra": "C",
+        "texto": "O chamado triplo gradiente descendente é importante para que as contrações sejam efetivas para a dilatação do colo e para a descida da apresentação."
+      },
+      {
+        "letra": "D",
+        "texto": "O período de repouso fisiológico das contrações é o quarto período do parto, quando estas cessam."
+      },
+      {
+        "letra": "E",
+        "texto": "A contração uterina é responsável pelo trombotamponamento que ocorre no 4º período do parto. 4000143698"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 5666,
+    "tags": [],
+    "enunciado": "Observe o partograma abaixo e assinale a resposta INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ocorreu parada secundária da dilatação."
+      },
+      {
+        "letra": "B",
+        "texto": "Este quadro pode ser compatível com desproporção céfalo-pélvica."
+      },
+      {
+        "letra": "C",
+        "texto": "Não observamos sinais de sofrimento fetal."
+      },
+      {
+        "letra": "D",
+        "texto": "Há indicação de cesariana após horas de trabalho de parto."
+      },
+      {
+        "letra": "E",
+        "texto": "Este retrato da evolução do parto pode ser encontrado em casos de diabetes gestacional descompensado com fetos grandes para a idade gestacional. 4000143520"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 5667,
+    "tags": [],
+    "enunciado": "Observe o partograma seguinte. O diagnóstico desse partograma é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "parada secundária da descida."
+      },
+      {
+        "letra": "B",
+        "texto": "parto eutócico fisiológico."
+      },
+      {
+        "letra": "C",
+        "texto": "parto taquitócito."
+      },
+      {
+        "letra": "D",
+        "texto": "divisão pélvica prolongada."
+      },
+      {
+        "letra": "E",
+        "texto": "fase ativa prolongada."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 5668,
+    "tags": [],
+    "enunciado": "FERNANDES, Cesar Eduardo; SILVA DE SÁ, Marcos Felipe. Tratado de Obstetrícia Febrasgo. 1. ed. Rio de Janeiro: ELSEVIER, 2019. No que se refere aos partogramas apresentados, é correto afirmar que o partograma de número",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1 representa uma distocia de descida chamada fase ativa prolongada. A causa dessa distocia é a desproporção cefalopélvica que, na maioria dos casos, é secundária a apresentações fetais defletidas ou em variedades de posição transversas ou posteriores."
+      },
+      {
+        "letra": "B",
+        "texto": "2 representa uma distocia de dilatação chamada parada secundária da dilatação. A principal causa dessa anormalidade é a presença de contrações em número ou qualidade insuficiente para promover a dilatação do colo uterino."
+      },
+      {
+        "letra": "C",
+        "texto": "3 representa uma distocia de descida chamada parada secundária da descida. A verticalização da parturiente, a rotura de bolsa amniótica e a rotação manual do polo cefálico podem auxiliar em sua correção."
+      },
+      {
+        "letra": "D",
+        "texto": "4 representa uma distocia de descida chamada período expulsivo prolongado. A principal causa dessa anormalidade é a desproporção cefalopélvica."
+      },
+      {
+        "letra": "E",
+        "texto": "4 representa uma distocia de dilatação chamada parto taquitócico. Essa distocia está associada a maiores riscos de hemorragia puerperal, tanto por atonia uterina quanto por lacerações de trajeto."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 5669,
+    "tags": [],
+    "enunciado": "Mulher, 39a, G3P2C0A0, idade gestacional de 40 semanas e 2 dias e sem comorbidades, interna para assistência ao parto. Apresenta evolução de seu trabalho de parto representada no seguinte partograma:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "CONDUTA MEDICAMENTOSA É:"
+      }
+    ],
+    "resposta_correta": null
+  },
+  {
+    "id": 5670,
+    "tags": [],
+    "enunciado": "Primigesta de 21 anos de idade, está com 38 semanas de gestação e iniciou trabalho de parto espontâneo. O partograma e a cardiotocografia estão apresentados a seguir. Qual é o método indicado para ultimação do parto?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Abreviação com vácuo extrator."
+      },
+      {
+        "letra": "B",
+        "texto": "Cesárea segmentar transversa."
+      },
+      {
+        "letra": "C",
+        "texto": "Aguardar parto espontâneo."
+      },
+      {
+        "letra": "D",
+        "texto": "Rotação com fórcipe Kielland."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 5671,
+    "tags": [],
+    "enunciado": "Paciente hígida foi submetida a maturação de colo com misoprostol e posterior indução de parto por pós- datismo, conforme partograma apresentado. Paciente evoluiu com dor e di(cid:62)culdade de deambulação no pós-parto, necessitando analgésico de resgate. No 2º dia pós-parto, apresenta temperatura oral aferida de 38,6\u0000C. No exame clínico, está em bom estado geral e eupneica. O abdome é doloroso à palpação, com sinal de descompressão brusca negativo e ruídos hidroaéreos presentes. A ferida cirúrgica tem bom aspecto. A loquiação é fétida.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "conduta inicial indicada para essa paciente é:"
+      },
+      {
+        "letra": "A",
+        "texto": "Administrar antibiótico."
+      },
+      {
+        "letra": "B",
+        "texto": "Aspirar restos ovulares."
+      },
+      {
+        "letra": "C",
+        "texto": "Anticoagulação plena."
+      },
+      {
+        "letra": "D",
+        "texto": "Histerectomia subtotal."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 5672,
+    "tags": [],
+    "enunciado": "Paciente hígida foi submetida a maturação de colo com misoprostol e posterior indução de parto por pós- datismo, conforme partograma apresentado. Qual das figuras a seguir representa a insinuação do feto nesse caso?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "B"
+      },
+      {
+        "letra": "C",
+        "texto": "D"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 5673,
+    "tags": [],
+    "enunciado": "Considere o traçado de partograma mostrado na imagem abaixo. Nesse caso,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a linha de batimento cardíaco fetal mostra que o feto não está bem oxigenado."
+      },
+      {
+        "letra": "B",
+        "texto": "a linha de alerta é a segunda linha oblíqua, que se encontra mais à direita."
+      },
+      {
+        "letra": "C",
+        "texto": "observa-se desproporção céfalo-pélvica com possível formação de bossa no recém-nascido."
+      },
+      {
+        "letra": "D",
+        "texto": "os triângulos representam a dilatação cervical, que ocorreu de forma progressiva e fisiológica."
+      },
+      {
+        "letra": "E",
+        "texto": "o partograma mostra contrações uterinas fracas e irregulares."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 5674,
+    "tags": [],
+    "enunciado": "Com base nos conhecimentos médicos, julgue o item a seguir. O diagnóstico do partograma a seguir é de desproporção cefalopélvica clássica.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Certo."
+      },
+      {
+        "letra": "B",
+        "texto": "Errado."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 5675,
+    "tags": [],
+    "enunciado": "Paciente de 32 anos de idade, G4PN3A0, está com 39 semanas e 5 dias de gestação e chega à maternidade relatando contrações uterinas dolorosas. Nega perda de líquido ou sangramento genital. Ao ser examinada, sua PA é de 100/60 mmHg e FC 80 bpm. As contrações uterinas estão ocorrendo a cada três minutos e o BCF é 136 bpm. Ao toque vaginal, o colo está com 3 cm de dilatação e 90 % apagado, a bolsa está íntegra, e o polo cefálico está alto. Não desejou analgesia durante o acompanhamento do trabalho de parto. Analise, na figura a seguir, o padrão de dilatação do colo uterino e da descida do polo cefálico. Com base nessas informações, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Trata-se de um caso de parada secundária da descida."
+      },
+      {
+        "letra": "B",
+        "texto": "Não há evidência de desproporção cefalopélvica por que houve descida do polo cefálico."
+      },
+      {
+        "letra": "C",
+        "texto": "É indicada cesariana ou uso de fórceps na sexta hora de avaliação."
+      },
+      {
+        "letra": "D",
+        "texto": "Se os batimentos cardíacos fetais estiverem normais, pode-se continuar acompanhando a evolução do trabalho de parto, de forma expectante."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 5676,
+    "tags": [],
+    "enunciado": "Primigesta de 39 semanas fez apenas uma consulta pré-natal de primeiro trimestre, que evidenciava glicemia de jejum 95 mg/dl. Foi admitida em trabalho de parto espontâneo e a evolução está descrita no partograma em anexo. Diante da interpretação adequada do partograma, assinale o diagnóstico e conduta para o caso:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Período expulsivo prolongado. Indicar fórcipe de alívio."
+      },
+      {
+        "letra": "B",
+        "texto": "Distocia funcional por hipoatividade. Prescrever ocitocina endovenosa."
+      },
+      {
+        "letra": "C",
+        "texto": "Desproporção. Cefalopélvíca. Indicar cesárea."
+      },
+      {
+        "letra": "D",
+        "texto": "Parada secundária da dilatação. Indicar fórcipe de Simpson. 4000133156"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 5677,
+    "tags": [],
+    "enunciado": "Parturiente, 38 anos de idade, 40 semanas, primi- gesta, apresenta evolução do trabalho de parto conforme partograma da figura. Exame físico: sinais vitais preservados, altura uterina 35cm, feto único. Avaliação da bacia: conjugado diagonal medindo 13 cm, espinhas ciáticas médias, ângulo subpúbico de 90° e medida do diâmetro bituberoso de 11 cm.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "distocia diagnosticada pelo partograma e a provável causa, respectivamente, são:"
+      },
+      {
+        "letra": "A",
+        "texto": "Fase ativa prolongada, desproporção cefalopélvica absoluta."
+      },
+      {
+        "letra": "B",
+        "texto": "Parada secundária da dilatação, desproporção cefalopélvica relativa."
+      },
+      {
+        "letra": "C",
+        "texto": "Parada secundária da descida, defletida de primeiro grau."
+      },
+      {
+        "letra": "D",
+        "texto": "Parada prolongada da dilatação, vício pélvico relativo."
+      },
+      {
+        "letra": "E",
+        "texto": "Fase ativa prolongada, defletida de primeiro grau."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 5678,
+    "tags": [],
+    "enunciado": "A.L.S., 33 anos, primigesta, idade gestacional 39 semanas, em trabalho de parto, dinâmica uterina 4 contrações fortes a cada 10 minutos e cardiotocogra(cid:62)a categoria 1. Avalie o partograma abaixo e determine o diagnóstico e conduta nesse caso.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Desproporção cefalopélvica; parto cesáreo."
+      },
+      {
+        "letra": "B",
+        "texto": "Período pélvico prolongado, fórcipe de Kielland"
+      },
+      {
+        "letra": "C",
+        "texto": "Parto eutócico, monitorização da vitalidade fetal."
+      },
+      {
+        "letra": "D",
+        "texto": "Parada secundária da descida, vácuo extrator."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 5679,
+    "tags": [],
+    "enunciado": "Mulher. 25a, G2P1C0A0, com idade gestacional de 39 semanas procura o pronto atendimento com queixa de contrações. Exame obstétrico à admissão: altura uterina de 39cm, batimentos cardíacos fetais= 144bpm e dinâmica uterina: 3 contrações de moderada intensidade e duração média de 45 segundos em 10 minutos. A evolução do trabalho de parto está representada no partograma: O DIAGNÓSTICO É:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Desproporção cefalopélvica."
+      },
+      {
+        "letra": "B",
+        "texto": "Distócia de rotação."
+      },
+      {
+        "letra": "C",
+        "texto": "Parto eutócico."
+      },
+      {
+        "letra": "D",
+        "texto": "Período expulsivo prolongado."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 5680,
+    "tags": [],
+    "enunciado": "Parturiente de 32 anos, G3P2A0C0, está sob assistência ao trabalho de parto e com evolução apresentada no partograma a seguir. O diagnóstico identificado na evolução do trabalho de parto e a conduta são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "parada secundária da dilatação e descida; cesárea."
+      },
+      {
+        "letra": "B",
+        "texto": "parada secundária da dilatação e descida; fórcipe de Kjelland."
+      },
+      {
+        "letra": "C",
+        "texto": "parada secundária da dilatação; fórcipe de Kjelland."
+      },
+      {
+        "letra": "D",
+        "texto": "parada secundária da dilatação; cesárea."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 5681,
+    "tags": [],
+    "enunciado": "Primigesta, 30 anos, com 40 semanas, é internada na fase ativa do trabalho de parto, com boa vitalidade fetal na admissão. Pré-natal sem intercorrências. Ela traz um plano de parto no qual rejeita o uso de ocitócicos, analgesia farmacológica e episiotomia. A parturiente se mantém bastante ativa, com alternância de posturas. As 21 horas, ela é reavaliada, apresentando sinais vitais normais, altura uterina de 37 cm, atividade uterina de 4 contrações de 50 segundos/10 minutos e batimentos cardíacos fetais sem desacelerações. O registro grá(cid:62)co do trabalho de parto está representado na (cid:62)gura. Escolha a alternativa com a melhor conduta nesse caso.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Indicar resolução de gestação por parto cesárea."
+      },
+      {
+        "letra": "B",
+        "texto": "Promover corioamniorrexe artificial imediatamente."
+      },
+      {
+        "letra": "C",
+        "texto": "Convencer a paciente a aceitar analgesia farmacológica."
+      },
+      {
+        "letra": "D",
+        "texto": "Explicar sobre a necessidade de ocitocina endovenosa."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 5682,
+    "tags": [],
+    "enunciado": "O partograma abaixo caracteriza:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fase de latência."
+      },
+      {
+        "letra": "B",
+        "texto": "Vício pélvico."
+      },
+      {
+        "letra": "C",
+        "texto": "Distocia funcional."
+      },
+      {
+        "letra": "D",
+        "texto": "Expulsivo prolongado."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 5683,
+    "tags": [],
+    "enunciado": "Qual a melhor classificação desse partograma?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Descida lenta da apresentação"
+      },
+      {
+        "letra": "B",
+        "texto": "Parada secundária da dilatação"
+      },
+      {
+        "letra": "C",
+        "texto": "Parada secundária da descida"
+      },
+      {
+        "letra": "D",
+        "texto": "Parto taquitócico"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 5684,
+    "tags": [],
+    "enunciado": "Paciente, 36 anos, secundigesta com parto normal há 16 anos, idade gestacional 39 6/7 semanas. Pré-natal sem intercorrências. Encontra-se no centro obstétrico em trabalho de parto espontâneo. Exame clínico: bom estado geral, normotensa, normocárdica, afebril. Exame obstétrico: altura uterina 39 cm. Partograma e cardiotocografia abaixo: Neste momento, qual é a conduta obstétrica? Essa questão possui comentário do professor no site 4000100120",
+    "alternativas": [],
+    "resposta_correta": null
+  },
+  {
+    "id": 5685,
+    "tags": [],
+    "enunciado": "Em relação ao partograma, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A fase latente do trabalho de parto tem duração menor que a fase ativa, geralmente até 12 horas, e a conduta deve ser expectante."
+      },
+      {
+        "letra": "B",
+        "texto": "Se a linha de alerta for ultrapassada, existe o risco iminente de sofrimento fetal."
+      },
+      {
+        "letra": "C",
+        "texto": "A parada secundária de descida é uma distocia do período de dilatação, e a fase ativa prolongada é uma distocia do período pélvico."
+      },
+      {
+        "letra": "D",
+        "texto": "Na parada secundária de dilatação, a dilatação permanece a mesma em dois ou mais toques consecutivos, realizados em intervalo de duas ou mais horas entre eles, e a causa principal é a desproporção cefalopélvica relativa ou absoluta."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 5686,
+    "tags": [],
+    "enunciado": "Gestante, 22 anos, G2P0A1, idade gestacional 39 semanas é admitida para assistência ao trabalho de parto. Na hora de registro 8 do partograma a equipe assistencial reavalia a gestante e faz o seguinte registro conforme figura abaixo. Assinale a alternativa que apresenta a conduta MAIS ADEQUADA e sua justificativa CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Acompanhamento habitual, pois o diagnóstico é de trabalho de parto eutócico"
+      },
+      {
+        "letra": "B",
+        "texto": "Deambulação materna, pois o diagnóstico é de parada secundária de descida"
+      },
+      {
+        "letra": "C",
+        "texto": "Operação cesariana, pois o diagnóstico é de desproporção cefalopélvica"
+      },
+      {
+        "letra": "D",
+        "texto": "Prescrição de ocitocina, pois o diagnóstico é de parada secundária de dilatação"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 5687,
+    "tags": [],
+    "enunciado": "Uma mulher de 28 anos de idade, gesta 2, para 1, aborto 0, com 39 semanas de gestação, encontra-se em trabalho de parto em uma maternidade de baixo risco. Seu primeiro parto foi vaginal espontâneo sem intercorrência. Ao exame obstétrico da internação veri(cid:62)cou-se altura uterina de 33 cm; avaliação da bacia normal; bolsa das águas rota; líquido amniótico claro com grumos. As informações sobre a evolução do trabalho de parto estão registradas no partograma a seguir. Disponível em: <https://www.arca.fiocruz.br>. Acesso em: 19 ago. 2019 (adaptado). Considerando as informações apresentadas, faça o que se pede nos itens a seguir. a) Descreva a evolução de cada um dos parâmetros que compõem o partograma. b) Caracterize o trabalho de parto do caso apresentado e identifique a fase/período em que se encontra. c) Avalie a viabilidade do parto vaginal e justifique sua resposta. Essa questão possui comentário do professor no site 4000152915",
+    "alternativas": [],
+    "resposta_correta": null
+  },
+  {
+    "id": 5688,
+    "tags": [],
+    "enunciado": "Primigesta de termo, apresenta o seguinte partograma: É correto afirmar que há:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Evolução adequada da descida devendo-se aguardar mais de 1 ou 2 horas para o parto."
+      },
+      {
+        "letra": "B",
+        "texto": "Desproporção cefálico-pélvica, com grande chance de necessidade de cesárea."
+      },
+      {
+        "letra": "C",
+        "texto": "Distocia de rotação devendo-se aplicar fórceps de rotação (Kielland)."
+      },
+      {
+        "letra": "D",
+        "texto": "Parada secundária da descida devendo-se aplicar fórceps de alívio."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 5689,
+    "tags": [],
+    "enunciado": "Considere o partograma abaixo: A imagem é compatível com",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "parada secundária da dilatação."
+      },
+      {
+        "letra": "B",
+        "texto": "parto fisiológico."
+      },
+      {
+        "letra": "C",
+        "texto": "parada secundária da descida."
+      },
+      {
+        "letra": "D",
+        "texto": "distocia funcional."
+      },
+      {
+        "letra": "E",
+        "texto": "distocia de bisacromial."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 5690,
+    "tags": [],
+    "enunciado": "Em relação ao partograma abaixo, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Caracteriza-se por um parto eutócico;"
+      },
+      {
+        "letra": "B",
+        "texto": "Não permite identificar risco apra o feto;"
+      },
+      {
+        "letra": "C",
+        "texto": "É típico de amniorrexe prematura;"
+      },
+      {
+        "letra": "D",
+        "texto": "Identificar-se uma parada de progressão"
+      },
+      {
+        "letra": "E",
+        "texto": "Nenhuma das anteriores"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 5691,
+    "tags": [],
+    "enunciado": "Primigesta, 21 anos, sem doenças, pré-natal sem intercorrências, interna para assistência obstétrica após início espontâneo do trabalho de parto com 40 semanas. Em uso apenas de polivitamínicos. Exame: sinais vitais e exame físico geral normais. Altura uterina 36 cm. A evolução de seu trabalho de parto está demonstrada no partograma abaixo (Figura1). no momento, a paciente está em posição verticalizada, deambula com frequência e tem aceito métodos de alívio não farmacológicos da dor. Às 15 horas, na ausculta fetal intermitente, surgiram dúvidas sobre a presença de desacelerações, motivo pelo qual foi realizado o traçado contínuo da frequência cardíaca fetal mostrado como Figura 2. Após análise de ambas as (cid:62)guras, escolha a melhor conduta na condução deste trabalho de parto.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Conduta expectante."
+      },
+      {
+        "letra": "B",
+        "texto": "Resolução da gestação por cesárea."
+      },
+      {
+        "letra": "C",
+        "texto": "Prescrição de ocitocina endovenosa."
+      },
+      {
+        "letra": "D",
+        "texto": "Instituição de manobras de reanimação fetal."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 5692,
+    "tags": [],
+    "enunciado": "Mulher de 23 anos, primigesta, com gestação tópica de 39s e 3 dias, encontra-se em trabalho de parto. Considerando o partograma abaixo sua evolução indica:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fase ativa prolongada."
+      },
+      {
+        "letra": "B",
+        "texto": "Parada secundária da dilatação."
+      },
+      {
+        "letra": "C",
+        "texto": "Desproporção cefálo-pélvica."
+      },
+      {
+        "letra": "D",
+        "texto": "Trabalho de parto fisiológico."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 5693,
+    "tags": [],
+    "enunciado": "Mulher, 25a, primigesta, idade gestacional de 39 semanas, apresentou evolução do trabalho de parto e parto de acordo com o partograma: AS COMPLICAÇÕES ASSOCIADAS A ESSA EVOLUÇÃO SÃO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Lesão de trajeto, hipotonia uterina e hemorragia ventricular no recém-nascido."
+      },
+      {
+        "letra": "B",
+        "texto": "Rotura uterina, sofrimento fetal agudo e distócia de ombro."
+      },
+      {
+        "letra": "C",
+        "texto": "Tocotraumatismo, sofrimento fetal agudo e distócia funcional."
+      },
+      {
+        "letra": "D",
+        "texto": "Atonia uterina, hemorragia ventricular no recém-nascido e distócia de ombro."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 5694,
+    "tags": [],
+    "enunciado": "Analisando o partograma abaixo, qual o diagnóstico e conduta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Partorama normal. Seguir com assitência ao parto"
+      },
+      {
+        "letra": "B",
+        "texto": "Desproporção céfalo-pélvica. Fazer ocitocina"
+      },
+      {
+        "letra": "C",
+        "texto": "Parada de dilatação. Realizar cesariana"
+      },
+      {
+        "letra": "D",
+        "texto": "Distócia de rotação. Fazer uso de fórceps"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 5695,
+    "tags": [],
+    "enunciado": "Considere o registro partograma abaixo. A impressão diagnóstica e conduta mais adequada são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Período pélvico prolongado, estimular deambulação."
+      },
+      {
+        "letra": "B",
+        "texto": "Parto taquitócico, realizar revisão do canal de parto."
+      },
+      {
+        "letra": "C",
+        "texto": "Parada secundária da dilatação, administrar ocitócitos."
+      },
+      {
+        "letra": "D",
+        "texto": "Parada secundária da descida, indicar parto cesariano."
+      },
+      {
+        "letra": "E",
+        "texto": "Parto eutócico, orientar sobre os eventos fisiológicos do trabalho de parto. 4000057268"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 5696,
+    "tags": [],
+    "enunciado": "Você assume o plantão no centro obstétrico e se depara com o partograma abaixo. Qual a principal causa desse tipo de distócia?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Assinclitismo."
+      },
+      {
+        "letra": "B",
+        "texto": "Taquissistolia."
+      },
+      {
+        "letra": "C",
+        "texto": "Hipocontratilidade uterina."
+      },
+      {
+        "letra": "D",
+        "texto": "Desproporção cefalopélvica."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 5697,
+    "tags": [],
+    "enunciado": "Primigesta, 41 semanas, foi submetida a preparo de colo e indução do parto. Analise o partograma apresentado na (cid:62)gura. Nesse caso, as características importantes do partograma, para o prognóstico de sucesso do parto por via vaginal, são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Variedade de posição OEP e batimentos cardíacos fetais normais."
+      },
+      {
+        "letra": "B",
+        "texto": "Dilatação do colo uterino de 7 cm e 4 contrações uterinas em 10 minutos."
+      },
+      {
+        "letra": "C",
+        "texto": "Descida da apresentação em +1 e bolsa das águas rota."
+      },
+      {
+        "letra": "D",
+        "texto": "Bolsa das águas íntegra e ter completado a rotação interna para OP."
+      },
+      {
+        "letra": "E",
+        "texto": "Dilatação do colo uterino de 7 cm e bolsa das águas íntegra."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 5698,
+    "tags": [],
+    "enunciado": "Mulher de 27 anos de idade, primigesta, com idade gestacional de 41 semanas e 2 dias de gestação, procura pronto atendimento com queixa de dor em baixo ventre, de forte intensidade, há 3 horas. Não tem outras queixas. Não teve intercorrências no pré-natal. Não tem antecedentes mórbidos relevantes. No exame clínico, bom estado geral, peso: 72 kg; pressão arterial: 120 x 80 mmHg. O abdome é gravídico, com altura uterina: 36 cm; dinâmica uterina 2 contrações moderadas em 10 minutos, tônus uterino normal, BCF presente. O toque vaginal representado no partograma a seguir (PARTOGRAMA 01). O restante do exame clínico é normal. Nas quatro horas que se seguiram a conduta de que trata o trabalho de parto dessa paciente evoluiu de acordo com o partograma indicado a seguir (PARTOGRAMA 02). Qual a conduta para o caso nesse momento? Essa questão possui comentário do professor no site 4000151897",
+    "alternativas": [],
+    "resposta_correta": null
+  },
+  {
+    "id": 5699,
+    "tags": [],
+    "enunciado": "Mulher de 27 anos de idade, primigesta, com idade gestacional de 41 semanas e 2 dias de gestação, procura pronto atendimento com queixa de dor em baixo ventre, de forte intensidade, há 3 horas. Não tem outras queixas. Não teve intercorrências no pré-natal. Não tem antecedentes mórbidos relevantes. No exame clínico, bom estado geral, peso: 72 kg; pressão arterial: 120 x 80 mmHg. O abdome é gravídico, com altura uterina: 36 cm; dinâmica uterina 2 contrações moderadas em 10 minutos, tônus uterino normal, BCF presente. O toque vaginal representado no partograma a seguir (PARTOGRAMA 01). O restante do exame clínico é normal. Qual a conduta para o caso nesse momento? Essa questão possui comentário do professor no site 4000151896",
+    "alternativas": [],
+    "resposta_correta": null
+  },
+  {
+    "id": 5700,
+    "tags": [],
+    "enunciado": "Em relação ao partograma, é CORRETO afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A parada secundária de dilatação é diagnosticada por 2 toques sucessivos e com intervalo de 1 hora no trabalho de parto ativo."
+      },
+      {
+        "letra": "B",
+        "texto": "O parto precipitado é diagnosticado quando a dilatação cervical e a descida e expulsão fetal ocorrem num período de até 4 horas."
+      },
+      {
+        "letra": "C",
+        "texto": "Não há necessidade de se registrar o uso da analgesia, porém deve-se anotar aintensidade das contrações uterinas, a infusão de drogas, os batimentos cardíacos fetais, a dilatação cervical e a posição e descida do polo cefálico."
+      },
+      {
+        "letra": "D",
+        "texto": "Por convenção, registra-se a dilatação cervical com um quadrado e a variedade deposição fetal com uma circunferência."
+      },
+      {
+        "letra": "E",
+        "texto": "Na fase ativa prolongada, a dilatação do colo ocorre numa velocidade < 1 cm/hora e éindicativo de cesárea quando ultrapassa a linha de alerta."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 5701,
+    "tags": [],
+    "enunciado": "Primigesta com 38 semanas de gestação chegou ao centro obstétrico em trabalho de parto. A altura uterina era de 36 cm, e o peso fetal estimado de 3.600 g. A evolução do trabalho de parto pode ser visualizada no partograma abaixo. Qual a próxima conduta obstétrica indicada às 6 horas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Infundir ocitocina."
+      },
+      {
+        "letra": "B",
+        "texto": "Aplicar fórceps de Kielland."
+      },
+      {
+        "letra": "C",
+        "texto": "Indicar apalgesia peridural."
+      },
+      {
+        "letra": "D",
+        "texto": "Indicar cesariana."
+      },
+      {
+        "letra": "E",
+        "texto": "Iniciar os esforços expulsivos."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 5702,
+    "tags": [],
+    "enunciado": "Observe o partograma abaixo, referente à primigesta, 38 semanas, BCF 160 bpm, dinâmica uterina 4/10min, fortes. Qual deve ser sua conduta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aguardar o parto normal que deve ocorrer em pouco tempo."
+      },
+      {
+        "letra": "B",
+        "texto": "Aumentar a infusão de ocitocina pois a descida da cabeça não está ocorrendo na velocidade desejada."
+      },
+      {
+        "letra": "C",
+        "texto": "Indicar cesária, já que a progressão do parto não está adequada."
+      },
+      {
+        "letra": "D",
+        "texto": "Indicar um fórceps de alívio, já que há início de sofrimento fetal e o parto ainda vai demorar."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 5703,
+    "tags": [],
+    "enunciado": "O partograma abaixo sugere: .",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fase ativa prolongada."
+      },
+      {
+        "letra": "B",
+        "texto": "Parada secundária da dilatação."
+      },
+      {
+        "letra": "C",
+        "texto": "Desproporção cefalopélvica."
+      },
+      {
+        "letra": "D",
+        "texto": "Distocia funcional."
+      },
+      {
+        "letra": "E",
+        "texto": "Trabalho de parto fisiológico"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 5704,
+    "tags": [],
+    "enunciado": "No acompanhamento de um trabalho de parto, o partograma descreve na última hora, dilatação total e feto em altura de apresentação +3 de De Lee, em apresentação cefálica em OP.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "conduta mais adequada em relação ao parto é:"
+      },
+      {
+        "letra": "A",
+        "texto": "Aguardar parto espontâneo e se necessário aplicar fórcipe de alívio."
+      },
+      {
+        "letra": "B",
+        "texto": "Condução do caso com ocitocina por se tratar de distócia de rotação."
+      },
+      {
+        "letra": "C",
+        "texto": "Cesárea por distócia de apresentação."
+      },
+      {
+        "letra": "D",
+        "texto": "Fórcipe de kielland por se tratar de distócia de rotação."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 5705,
+    "tags": [],
+    "enunciado": "Primigesta de 27 anos de idade, com idade gestacional de 38 semanas, sem antecedentes mórbidos relevantes, está no centro obstétrico em trabalho de parto. O partograma está mostrado a seguir. Qual das imagens a seguir apresenta a morfologia de bacia mais comumente associada ao quadro clínico representado no partograma?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "B"
+      },
+      {
+        "letra": "C",
+        "texto": "D"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 5706,
+    "tags": [],
+    "enunciado": "Primigesta de 40 semanas de idade gestacional é admitida em trabalho de parto com toque vaginal de 4 cm, 100% esvaecido, apresentação cefálica em plano -2 de DeLee. A frequência cardíaca fetal está em 150 bpm; rítmica e a dinâmica uterina se apresenta com 4 contrações fortes de 45 segundos em 10 minutos. Duas horas após evolui para parto vaginal sem analgesia. As complicações associadas a essa evolução são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Inversão uterina, hipotonia uterina e hemorragia cerebral no recém-nascido."
+      },
+      {
+        "letra": "B",
+        "texto": "Hipotonia/atonia uterina, laceração de trajeto e hemorragia cerebral no recém-nascido."
+      },
+      {
+        "letra": "C",
+        "texto": "Acretismo placentário, hemorragia do quarto período, hemorragia retiniana no recémnascido."
+      },
+      {
+        "letra": "D",
+        "texto": "Laceração de trajeto, sofrimento fetal agudo e retenção placentária."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 5707,
+    "tags": [],
+    "enunciado": "Primigesta de 40 semanas de idade gestacional, admitida em trabalho de parto, submetida a analgesia com 6 cm de dilatação, quando já apresentava bolsa rota. A partir desse momento foi conduzida com ocitocina mantendo 4 contrações fortes, em média, em 10 minutos. A evolução do parto está representada no partograma abaixo. A conduta é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fórcipe de Kielland por distocia de rotação."
+      },
+      {
+        "letra": "B",
+        "texto": "Cesárea por distocia funcional."
+      },
+      {
+        "letra": "C",
+        "texto": "Fórcipe de Simpson para abreviação do período expulsivo."
+      },
+      {
+        "letra": "D",
+        "texto": "Cesárea por desproporção cefalopélvica."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 5708,
+    "tags": [],
+    "enunciado": "Paciente de 20 anos, GIIP0AI, dá entrada na emergência na 40ª semana de gestação em trabalho de parto. Relata perda de líquido há, aproximadamente, 40 minutos. Nega comorbidades ou qualquer outra queixa. Ao exame, veri(cid:62)ca-se PA = 100 x 60 mmHg; AFU = 37 cm; BCF = 152 bpm; tônus uterino normal; metrossístoles 2/10’/40’’; colo em centralização, 100% apagado, cefálico, com 3 cm de dilatação e líquido claro com grumos. Com base no partograma do acompanhamento do trabalho de parto, mostrado a seguir, o diagnóstico é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fase ativa prolongada."
+      },
+      {
+        "letra": "B",
+        "texto": "Período pélvico prolongado."
+      },
+      {
+        "letra": "C",
+        "texto": "Parada secundária da descida."
+      },
+      {
+        "letra": "D",
+        "texto": "Parada secundária da dilatação."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 5709,
+    "tags": [],
+    "enunciado": "Primigesta, com 39 semanas de gestação, foi internada e iniciado o acompanhamento com o partograma. Com base na figura abaixo, assinale a alternativa que corresponde ao período clínico e à variedade de posição fetal na última hora anotada.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Primeiro período – occipito-direita-transversa."
+      },
+      {
+        "letra": "B",
+        "texto": "Primeiro período – occipito-esquerda-transversa."
+      },
+      {
+        "letra": "C",
+        "texto": "Segundo período – occipito-direita-transversa."
+      },
+      {
+        "letra": "D",
+        "texto": "Segundo período – occipito-esquerda-transversa."
+      },
+      {
+        "letra": "E",
+        "texto": "Terceiro período – occipito-direita-transversa. 4000050971"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 5710,
+    "tags": [],
+    "enunciado": "Parturiente, 40 semanas e 2 dias, primigesta, pré-natal sem intercorrências. Ao exame físico: bom estado geral, afebril, normotensa, altura uterina = 34 cm; FCF = 140 bpm; rítmicos, sem desacelerações, na avaliação da bacia constata-se promontório inatingível, espinhas ciáticas médias, ângulo subpúbico de 90°. Apresenta evolução do trabalho de parto conforme o partograma: os diagnósticos constatados no partograma e a conduta nesse caso, respectivamente, são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fase ativa prolongada e período expulsivo precipitado; ocitocina endovenosa e massagem perineal."
+      },
+      {
+        "letra": "B",
+        "texto": "Fase ativa protraída e período expulsivo prolongado; cesárea por desproporção feto pélvica relativa."
+      },
+      {
+        "letra": "C",
+        "texto": "Fase ativa prolongada e período pélvico prolongado; ocitocina endovenosa e posições verticalizadas."
+      },
+      {
+        "letra": "D",
+        "texto": "Fase ativa prolongada e período pélvico prolongado; aplicação do fórcipe de alívio."
+      },
+      {
+        "letra": "E",
+        "texto": "Parada secundária da dilatação e período expulsivo prolongado; ocitocina endovenosa."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 5711,
+    "tags": [],
+    "enunciado": "Uma mulher com 32 anos de idade, primigesta, na 38ª semana de gestação, deu entrada na maternidade com queixa de dores em baixo ventre e perda de líquido pela vagina, em grande quantidade, há cerca de uma hora. Ao exame físico, apresentava temperatura de 36,5° C, dinâmica uterina de uma contração de 30 segundos em 10 minutos, saída de líquido claro pelo orifício cervical externo do colo uterino, batimentos cardíacos fetais de 148 bpm, colo uterino pérvio para 3 cm e com esvaecimento de 40%. O resultado da cardiotocogra(cid:62)a apresentou padrão tranquilizador. O exame de ultrassonogra(cid:62)a realizado na sua admissão evidenciou feto único, com apresentação cefálica, índice de líquido amniótico = 7 cm, tônus fetal preservado, com movimentos respiratótios e corpóreos presentes. A imagem a seguir apresenta partograma com a evolução do quadro da parturiente nas primeiras 5 horas de internamento. As informações apresentadas indicam a ocorrência de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "fase latente do trabalho de parto."
+      },
+      {
+        "letra": "B",
+        "texto": "parada secundária da dilatação."
+      },
+      {
+        "letra": "C",
+        "texto": "parada secundária da descida."
+      },
+      {
+        "letra": "D",
+        "texto": "parto taquitócico."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 5712,
+    "tags": [],
+    "enunciado": "Primigesta com 40 semanas está internada na maternidade em trabalho de parto e há 3 horas permanece com 7 cm de dilatação cervical. A altura uterina mede 40 cm e o feto encontra-se em apresentação cefálica, na posição occipto-ilíaca esquerda anterior e a altura da apresentação no plano menos 2 de De Lee. As contrações uterinas são de forte intensidade e na frequência de três em 10 minutos. Os batimentos cardíacos fetais mantêm-se na frequência de 140 por minuto antes, durante as contrações e depois delas. A ruptura espontânea das membranas ocorreu há 4 horas, quando se constatou líquido amniótico claro com grumos. Com base nessas informações, o que pode estar ocorrendo?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Discinesia uterina."
+      },
+      {
+        "letra": "B",
+        "texto": "Desproporção cefalopélvica."
+      },
+      {
+        "letra": "C",
+        "texto": "Fase ativa prolongada."
+      },
+      {
+        "letra": "D",
+        "texto": "Fase latente prolongada."
+      },
+      {
+        "letra": "E",
+        "texto": "Distocia de posição."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 5713,
+    "tags": [],
+    "enunciado": "Observe o partograma: De acordo com os dados, pode-se concluir que se realizou:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Indução do trabalho de parto."
+      },
+      {
+        "letra": "B",
+        "texto": "Prova de trabalho de parto."
+      },
+      {
+        "letra": "C",
+        "texto": "Estimulação do trabalho de parto."
+      },
+      {
+        "letra": "D",
+        "texto": "Inibição do trabalho de parto."
+      },
+      {
+        "letra": "E",
+        "texto": "Analgesia do trabalho de parto."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 5714,
+    "tags": [],
+    "enunciado": "Observe o partograma. De acordo com os dados, sabendo-se que o trabalho de parto evoluiu para parto normal, pode-se afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A expulsão ocorreu na zona 1 do partograma."
+      },
+      {
+        "letra": "B",
+        "texto": "A expulsão ocorreu na zona 2 do partograma."
+      },
+      {
+        "letra": "C",
+        "texto": "A expulsão ocorreu na zona 3 do partograma."
+      },
+      {
+        "letra": "D",
+        "texto": "A expulsão ocorreu na zona 4 do partograma."
+      },
+      {
+        "letra": "E",
+        "texto": "É impossível definir a zona de expulsão."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 5715,
+    "tags": [],
+    "enunciado": "Pela análise do partograma, podemos afirmar que a posição do feto no trabalho de parto é :",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Anterior."
+      },
+      {
+        "letra": "B",
+        "texto": "Posterior."
+      },
+      {
+        "letra": "C",
+        "texto": "Direita."
+      },
+      {
+        "letra": "D",
+        "texto": "Esquerda."
+      },
+      {
+        "letra": "E",
+        "texto": "Oblíqua"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 5716,
+    "tags": [],
+    "enunciado": "B.T.E., 25 anos, G2 P1, no seu último parto, realizado há 15 dias, apresentou o partograma a seguir. Com base nos dados, é possível afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Rotura da bolsa que reverteu uma possível distocia do estreito médio."
+      },
+      {
+        "letra": "B",
+        "texto": "Introdução de ocitocina dilatação que reverteu uma possível distocia do estreito médio."
+      },
+      {
+        "letra": "C",
+        "texto": "Uma analgesia de parto que reverteu uma possível distocia do estreito médio."
+      },
+      {
+        "letra": "D",
+        "texto": "Ocorreu uma parada secundária de descida."
+      },
+      {
+        "letra": "E",
+        "texto": "Rotura da bolsa, mas que não interferiu na evolução do trabalho de parto."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 5717,
+    "tags": [],
+    "enunciado": "Observando-se o partograma, pode-se afirmar que (CONFORME IMAGEM DO CADERNO DE QUESTÕES):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Foi iniciado na fase latente do trabalho de parto, sendo inadequado."
+      },
+      {
+        "letra": "B",
+        "texto": "Se trata de um período expulsivo prolongado."
+      },
+      {
+        "letra": "C",
+        "texto": "Se trata de um parto taquitócico"
+      },
+      {
+        "letra": "D",
+        "texto": "há evolução normal do parto."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 5718,
+    "tags": [],
+    "enunciado": "Primigesta, em trabalho de parto, construiu-se o seguinte partograma. Pode-se afirmar que há",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fase ativa prolongada."
+      },
+      {
+        "letra": "B",
+        "texto": "Trabalho de parto fisiológico."
+      },
+      {
+        "letra": "C",
+        "texto": "Parada secundária da descida."
+      },
+      {
+        "letra": "D",
+        "texto": "Parada secundária da dilatação."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 5719,
+    "tags": [],
+    "enunciado": "Parturiente de 38 semanas, 2G 1P normal há 3 anos, em trabalho de parto com 4 contrações em 10 minutos de forte intensidade, conforme evolução assinalada no parto grama abaixo. Qual deve ser a atitude do obstetra? (Conforme imagem do caderno de questões).",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aguardar o parto normal, já que se trata de uma evolução fisiológica do trabalho de parto."
+      },
+      {
+        "letra": "B",
+        "texto": "Indicar cesária, já que a evolução não está adequada."
+      },
+      {
+        "letra": "C",
+        "texto": "Aplicar fórcipe de rotação, pois a apresentação está transversa."
+      },
+      {
+        "letra": "D",
+        "texto": "Aplicar fórcipe de Simpson, pois trata-se de parto com fase ativa prolongada."
+      },
+      {
+        "letra": "E",
+        "texto": "Realizar episiotomia médio lateral direita para aliviar o período expulsivo."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 5720,
+    "tags": [],
+    "enunciado": "Secundigesta, 38 semanas, BCF 160 bpm, dinâmica uterina 4/10min, fortes. Baseado no partograma, o obstetra que acompanha o trabalho de parto deve. (Conforme imagem ).",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aguardar o parto normal que deve ocorrer em pouco tempo."
+      },
+      {
+        "letra": "B",
+        "texto": "Aumentar a infusão de ocitocina, pois a descida da cabeça está lenta."
+      },
+      {
+        "letra": "C",
+        "texto": "Indicar cesária, já que a progressão do parto não está adequada."
+      },
+      {
+        "letra": "D",
+        "texto": "Indicar um fórceps de alívio para abreviar o período expulsivo."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 5721,
+    "tags": [],
+    "enunciado": "Tercigesta (G3P2A0, 2 partos vaginais), 34 anos, 39 semanas de idade gestacional, apresentou diabetes gestacional na gravidez em curso, controlada com terapia nutricional. É admitida em trabalho de parto com 3 contrações uterinas moderadas em 10 minutos, ausculta fetal de 130 bpm, sem desacelerações e toque vaginal com colo uterino centrado, curto, dilatado 4 cm, feto cefálico, OET, -3. A paciente solicitou analgesia, que foi realizada com 7 cm de dilatação. A evolução do trabalho de parto está representada no partograma.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "análise do partograma permite afirmar que:"
+      },
+      {
+        "letra": "A",
+        "texto": "A evolução da fase de dilatação deve ser considerada eutócica."
+      },
+      {
+        "letra": "B",
+        "texto": "A episiotomia deve ser realizada para abreviar o período expulsivo."
+      },
+      {
+        "letra": "C",
+        "texto": "O período expulsivo está prolongado, devendo ser indicado parto instrumentalizado."
+      },
+      {
+        "letra": "D",
+        "texto": "A ausculta fetal intermitente diagnosticou sofrimento fetal no período expulsivo."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 5722,
+    "tags": [],
+    "enunciado": "Primigesta de 40 semanas apresenta evolução do trabalho de parto de acordo com o partograma abaixo: (VER IMAGEM) O diagnóstico e a conduta são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Distocia de rotação; fórcipe de Kielland."
+      },
+      {
+        "letra": "B",
+        "texto": "Distocia funcional; fórcipe de Simpson."
+      },
+      {
+        "letra": "C",
+        "texto": "Evolução fisiológica; vigilância da vitalidade fetal."
+      },
+      {
+        "letra": "D",
+        "texto": "Parada secundária da descida; indicação de cesariana."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 5723,
+    "tags": [],
+    "enunciado": "Avalie o partograma abaixo. O diagnóstico verificado é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "fase ativa prolongada"
+      },
+      {
+        "letra": "B",
+        "texto": "período pélvico prolongado"
+      },
+      {
+        "letra": "C",
+        "texto": "parada secundária da descida"
+      },
+      {
+        "letra": "D",
+        "texto": "parada secundária da dilatação"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 5724,
+    "tags": [],
+    "enunciado": "SMST, 25 anos, gesta 1, com gestação de 40 semanas, apresentou o partograma a seguir. A parturiente estava deambulando livremente até então. Ante o exposto, e pela interpretação do partograma, qual a melhor conduta? (VER IMAGEM)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Realizar cirurgia cesariana."
+      },
+      {
+        "letra": "B",
+        "texto": "Aumentar a dose de ocitocina."
+      },
+      {
+        "letra": "C",
+        "texto": "Aguardar a evolução para parto vaginal."
+      },
+      {
+        "letra": "D",
+        "texto": "Orientar repouso em decúbito lateral esquerdo."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 5725,
+    "tags": [],
+    "enunciado": "Primigesta, 19 anos, 39 semanas, evolução do trabalho de parto conforme partograma apresentado a seguir: (VER IMAGEM). Após a expulsão fetal, nota-se laceração de mucosa vaginal, feixes da musculatura perineal, inclusive do esfíncter anal externo. A distocia diagnosticada, segundo o partograma, o tipo de laceração perineal descrita, e uma sequela esperada em longo prazo para essa mulher, RESPECTIVAMENTE, são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Período pélvico precipitado; laceração perineal de terceiro grau; constipação."
+      },
+      {
+        "letra": "B",
+        "texto": "Parto precipitado; laceração perineal de terceiro grau; incontinência a flatos."
+      },
+      {
+        "letra": "C",
+        "texto": "Parto precipitado; laceração perineal de quarto grau; incontinência fecal."
+      },
+      {
+        "letra": "D",
+        "texto": "Período expulsivo precipitado; laceração perineal de segundo grau; disfunção sexual."
+      },
+      {
+        "letra": "E",
+        "texto": "Parto precipitado; laceração perineal de segundo grau; incontinência fecal."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 5726,
+    "tags": [],
+    "enunciado": "Primigesta, 20 anos, 41 semanas, apresenta evolução do trabalho de parto segundo partograma apresentado a seguir. Ao exame obstétrico de admissão: altura uterina 39 cm, avaliação da bacia: conjugado diagonal: 11,0 cm; espinhas ciáticas salientes, bituberoso: 10 cm e ângulo subpúbico < 90°. À meia-noite, foi instalada a nalgesia peridural contínua. Considerando-se a avaliação às 3h00, o diagnóstico pelo partograma e a conduta, RESPECTIVAMENTE, são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "parada secundária da descida / aplicação do fórcipe de Kielland."
+      },
+      {
+        "letra": "B",
+        "texto": "parada secundária da rotação / realização da cesárea."
+      },
+      {
+        "letra": "C",
+        "texto": "período pélvico prolongado / ultimação do parto com o vácuo-extrator."
+      },
+      {
+        "letra": "D",
+        "texto": "parada secundária da descida / realização da cesárea."
+      },
+      {
+        "letra": "E",
+        "texto": "parada secundária da rotação / aplicação do fórcipe de Kielland."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 5727,
+    "tags": [],
+    "enunciado": "Observe o partograma para uma multípara e responda a questão. (VER IMAGEM) Qual é o tratamento mais indicado?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Parto fórceps de Simpson-Braun."
+      },
+      {
+        "letra": "B",
+        "texto": "Expectante."
+      },
+      {
+        "letra": "C",
+        "texto": "Parto cesárea."
+      },
+      {
+        "letra": "D",
+        "texto": "Parto fórceps de Kielland."
+      },
+      {
+        "letra": "E",
+        "texto": "Uso do vácuo-extrator."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 5728,
+    "tags": [],
+    "enunciado": "Uma mulher, primigesta, com 21 anos de idade e 38 semanas de idade gestacional, entra em trabalho de parto. O exame realizado quando a paciente foi admitida no hospital, mostrou que não há alterações sistêmicas; altura uterina = 34 cm; dinâmica uterina = 4 contrações de 45 segundos em 10 minutos; apresentação cefálica; frequência cardíaca fetal = 144 bpm, com aceleração transitória presente. Ao toque vaginal, detectou-se colo uterino dilatado para 4 cm, (cid:62)no e anteriorizado. A evolução é apresentada no partograma ilustrado abaixo.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "situação descrita e a análise do partograma acima, indicam a ocorrência de"
+      },
+      {
+        "letra": "A",
+        "texto": "período pélvico prolongado."
+      },
+      {
+        "letra": "B",
+        "texto": "parada secundária da dilatação."
+      },
+      {
+        "letra": "C",
+        "texto": "parada secundária da descida."
+      },
+      {
+        "letra": "D",
+        "texto": "evolução normal do trabalho de parto."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 5729,
+    "tags": [],
+    "enunciado": "Observe o partograma para uma multípara e responda a questão. (VER IMAGEM) Qual é o tratamento mais indicado?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Expectante."
+      },
+      {
+        "letra": "B",
+        "texto": "Parto cesárea."
+      },
+      {
+        "letra": "C",
+        "texto": "Parto fórceps de Kielland."
+      },
+      {
+        "letra": "D",
+        "texto": "Uso do vácuo-extrator."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 5730,
+    "tags": [],
+    "enunciado": "Observe o partograma para uma multípara e responda a questão. (VER IMAGEM) Qual é o diagnóstico mais provável?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Parada secundária da descida."
+      },
+      {
+        "letra": "B",
+        "texto": "Parada secundária da dilatação."
+      },
+      {
+        "letra": "C",
+        "texto": "Sofrimento fetal agudo."
+      },
+      {
+        "letra": "D",
+        "texto": "Distócia funcional."
+      },
+      {
+        "letra": "E",
+        "texto": "Dístócia de rotação."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 5731,
+    "tags": [],
+    "enunciado": "Paciente de 29 anos, 4G3Pn, 39 3/7 semanas, internada em centro obstétrico em trabalho de parto, evolui com o partograma a seguir: Sobre a evolução deste tipo de parto, é CORRETO afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Há um aumento de risco de laceração de canal de parto e hemorragias intracranianas no recém- nascido."
+      },
+      {
+        "letra": "B",
+        "texto": "Trata-se de um período expulsivo prolongado e a conduta a ser realizada é um fórcipe de alívio."
+      },
+      {
+        "letra": "C",
+        "texto": "Há um aumento de risco de infecção puerperal, rotura uterina e hipoglicemia neonatal."
+      },
+      {
+        "letra": "D",
+        "texto": "Há um aumento da necessidade de uso de fórcipe neste tipo de parto."
+      },
+      {
+        "letra": "E",
+        "texto": "Parto de evolução normal, eutócico."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 5732,
+    "tags": [],
+    "enunciado": "O partograma a seguir ilustra a evolução do Trabalho de Parto (TP) de uma nulípara que, submetida a preparo de colo com misoprostol, entrou em TP espontâneo na 41ª semana. (VER IMAGEM) A partir do partograma, é CORRETO afirmar que a:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Parada da dilatação cervical foi diagnosticada na hora 3."
+      },
+      {
+        "letra": "B",
+        "texto": "Evolução normal do TP foi confirmada na hora 7."
+      },
+      {
+        "letra": "C",
+        "texto": "Rotura artificial de membranas está indicada na hora 8."
+      },
+      {
+        "letra": "D",
+        "texto": "Infusão de ocitocina tem indicação a partir da hora 3."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 5733,
+    "tags": [],
+    "enunciado": "O diagnóstico de prolongamento da fase de latência do trabalho de parto, segundo o partograma de Friedman, é comumente devido a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "inércia hipotônica primária."
+      },
+      {
+        "letra": "B",
+        "texto": "inércia hipotônica secundária."
+      },
+      {
+        "letra": "C",
+        "texto": "desproporção feto-pélvica."
+      },
+      {
+        "letra": "D",
+        "texto": "parto taquitócico."
+      },
+      {
+        "letra": "E",
+        "texto": "prematuridade"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 5734,
+    "tags": [],
+    "enunciado": "Primigesta, 25 anos de idade, 39 semanas de gestação, partograma conforme a (cid:62)gura. Exame físico: Altura uterina 33 cm. Cardiotocogra(cid:62)a categoria I. Quais os diagnósticos segundo o partograma e qual a conduta adequada? (VER IMAGEM)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Parada secundária da dilatação e período pélvico prolongado, realizar a cesárea"
+      },
+      {
+        "letra": "B",
+        "texto": "Fase ativa prolongada e período pélvico prolongado, aplicar o fórcipe"
+      },
+      {
+        "letra": "C",
+        "texto": "Parada secundária da dilatação e parada secundária da descida, aplicar o fórcipe"
+      },
+      {
+        "letra": "D",
+        "texto": "Fase ativa prolongada e parada secundária da descida, realizar a cesárea"
+      },
+      {
+        "letra": "E",
+        "texto": "Parada secundária da descida e período pélvico prolongado, aplicar o fórcipe"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 5735,
+    "tags": [],
+    "enunciado": "Primigesta de 18 anos, idade gestacional compatível com 38 semanas, está em trabalho de parto e a evolução está representada no partograma a seguir: Qual o diagnóstico e a conduta mais adequada para esta paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Parada secundária da descida fetal e cesárea."
+      },
+      {
+        "letra": "B",
+        "texto": "Período expulsivo prolongado e parto assistido."
+      },
+      {
+        "letra": "C",
+        "texto": "Fase ativa prolongada e aguardar evolução espontânea."
+      },
+      {
+        "letra": "D",
+        "texto": "Desproporção cefalo-pélvica e fórceps."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 5736,
+    "tags": [],
+    "enunciado": "No preenchimento do partograma, além dos batimentos cardíacos fetais e das contrações uterinas, devemos estar atentos à (ao):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Dilatação do colo uterino, variedade de posição, plano de De Lee da apresentação,esvaecimento do colo uterino."
+      },
+      {
+        "letra": "B",
+        "texto": "Pressão arterial materna, dilatação do colo uterino, plano de De Lee da apresentação,estado da membrana amniótica."
+      },
+      {
+        "letra": "C",
+        "texto": "Dilatação do colo uterino, plano de De Lee da apresentação, variedade de posição,estado da membrana amniótica."
+      },
+      {
+        "letra": "D",
+        "texto": "Esvaecimento do colo uterino, estado da membrana amniótica, variedade de posição,pressão arterial materna."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 5737,
+    "tags": [],
+    "enunciado": "Gestante, 22 anos, G3P1(C1)A1, idade gestacional = 40 semanas, em trabalho de parto, sob analgesia peridural. Dinâmica uterina: 5 contrações fortes com duração de 45 segundos cada em 10 minutos e boa vitalidade fetal pela cardiotocografia. Partograma: (VER IMAGEM) O diagnóstico e a conduta são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Período expulsivo > 1h, por desproporção cefalopélvica; cesárea imediata."
+      },
+      {
+        "letra": "B",
+        "texto": "Parada secundária da descida, com linha de ação ultrapassada; fórcipe de alívio."
+      },
+      {
+        "letra": "C",
+        "texto": "Período pélvico prolongado, com progressão da descida; manter acompanhamento."
+      },
+      {
+        "letra": "D",
+        "texto": "Período pélvico prolongado por desproporção cefalopélvica; cesárea imediata."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 5738,
+    "tags": [],
+    "enunciado": "Uma gestante com 27 anos de idade, tercigesta, com antecedentes de um parto cesáreo há sete anos e um parto normal há três anos, realizou pré-natal na gestação atual, com sete consultas, sem intercorrências. Internou-se em trabalho de parto e apresenta evolução de acordo com o partograma abaixo: (VER IMAGEM).",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "análise do partograma, indica que o diagnóstico e a conduta obstétrica indicados são:"
+      },
+      {
+        "letra": "A",
+        "texto": "parada secundária da dilatação; parto fórceps."
+      },
+      {
+        "letra": "B",
+        "texto": "parada secundária da descida; parto cesáreo."
+      },
+      {
+        "letra": "C",
+        "texto": "desproporção céfalo-pélvica; parto fórceps."
+      },
+      {
+        "letra": "D",
+        "texto": "fase ativa prolongada; parto cesáreo."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 5739,
+    "tags": [],
+    "enunciado": "G5P3A1, com 40 semanas de gestação, no pré-parto. HMA: queixa-se de contrações dolorosas há 6 horas e perda de tampão mucoso. EG: altura uterina: 37 cm; feto longitudinal, cefálico, dorso à esquerda. A evolução espontânea de seu trabalho de parto está descrita no partograma abaixo. (VER IMAGEM). A melhor conduta na assistência dessa parturiente é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Indicar resolução da gestação por parto cesárea devida à parada secundária da descida."
+      },
+      {
+        "letra": "B",
+        "texto": "Aguardar evolução espontânea do trabalho de parto até a dilatação cervical cruzar a linha de ação."
+      },
+      {
+        "letra": "C",
+        "texto": "Prescrever ocitocina endovenosa para aumentar a intensidade e frequência das contrações uterinas."
+      },
+      {
+        "letra": "D",
+        "texto": "Realizar analgesia peridural para coordenação das contrações e, assim aumentar a velocidade da dilatação cervical."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 5740,
+    "tags": [],
+    "enunciado": "Paciente com 35 anos de idade, G3P2A0, com idade gestacional de 41 semanas, altura uterina de 34 cm, tem evolução de trabalho de parto segundo o partograma acima, no qual se veri(cid:62)ca que a distocia apresentada",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "indica uso de ocitocina."
+      },
+      {
+        "letra": "B",
+        "texto": "indica uso de tocolítico."
+      },
+      {
+        "letra": "C",
+        "texto": "é indicativa de parada secundária de descida."
+      },
+      {
+        "letra": "D",
+        "texto": "caracteriza-se como a do terceiro período de parto."
+      },
+      {
+        "letra": "E",
+        "texto": "caracteriza-se como a do primeiro período de parto."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 5741,
+    "tags": [],
+    "enunciado": "Primigesta com 30 anos de idade, 38 semanas de gestação e pré-natal sem intercorrências, é admitida na Maternidade em trabalho de parto. Ao exame físico na admissão, pressão arterial = 100 x 60 mmHg, altura uterina = 35 cm, dinâmica uterina - 2 contrações em 10 minutos, frequência cardíaca fetal = 140 bpm. Ao toque vaginal, colo fino, 3 cm de dilatação, apresentação cefálica, bolsa íntegra. Fonte: Ministério da Saúde Analisando a evolução do trabalho de parto, conforme o partograma mostrado acima, a hipótese diagnóstica e a conduta correta, após 10 horas de observação, são, respectivamente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fase ativa prolongada; administrar ocitocina."
+      },
+      {
+        "letra": "B",
+        "texto": "Parada secundária da descida; realizar cesariana."
+      },
+      {
+        "letra": "C",
+        "texto": "Parada secundária da dilatação; realizar cesariana."
+      },
+      {
+        "letra": "D",
+        "texto": "Parada secundária da dilatação; administrar ocitocina."
+      },
+      {
+        "letra": "E",
+        "texto": "Parada secundária da descida; realizar analgesia (bloqueio combinado)."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 5742,
+    "tags": [],
+    "enunciado": "Primigesta de 25 anos de idade procura a Maternidade pelo início do trabalho de parto às 13 horas e sua evolução está registrada no partograma abaixo.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "paciente completa o primeiro período do parto às 18h30min. O segundo período já durava 45 minutos, quando o feto começou a apresentar desacelerações tipo II. Qual o diagnóstico desse caso e a conduta obstétrica mais apropriada?"
+      },
+      {
+        "letra": "A",
+        "texto": "Período pélvico prolongado; fórcipe para distocia de rotação."
+      },
+      {
+        "letra": "B",
+        "texto": "Parto taquitócico; tocólise aguda com terbutalina subcutânea."
+      },
+      {
+        "letra": "C",
+        "texto": "Parada secundária da descida; operação cesariana por desproporção cefalopélvica."
+      },
+      {
+        "letra": "D",
+        "texto": "Fase ativa prolongada; administração de ocitocina para aumentar as metrossístoles."
+      },
+      {
+        "letra": "E",
+        "texto": "Parada secundária da dilatação; orientação para a paciente ficar em decúbito lateral esquerdo para coordenar as metrossístoles."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 5743,
+    "tags": [],
+    "enunciado": "Paciente, com 25 anos de idade, secundigesta, com parto cesáreo anterior (G2P1C1), pré-natal sem intercorrências, foi internada em trabalho de parto e apresenta evolução de acordo com partograma, apresentado abaixo. Na décima hora de evolução, apresenta atividade uterina regular de 5 contrações/45 segundos/10 minutos/fortes e batimentos cardiofetais de 150 bpm. Analisando o partograma, qual é o diagnóstico e a conduta para o caso?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Parada secundária da descida e fórceps."
+      },
+      {
+        "letra": "B",
+        "texto": "Parada secundária da dilatação e ocitocina."
+      },
+      {
+        "letra": "C",
+        "texto": "Parada secundária da dilatação e fórceps."
+      },
+      {
+        "letra": "D",
+        "texto": "Parada secundária da descida e cesárea."
+      },
+      {
+        "letra": "E",
+        "texto": "Período expulsivo prolongado e cesárea.  Respostas: 1 C 2 A 3 E 4 A 5 C 6 D 7 B 8 B 9 B 10 D 11 12 E 13 B 14 C 15 C 16 D 17 C 18 C 19 20 D 21 B 22 B 23 A 24 B 25 A 26 C 27 D 28 29 C 30 A 31 C 32 D 33 C 34 E 35 C 36 E 37 B 38 D 39 40 A 41 C 42 A 43 A 44 A 45 46 E 47 C 48 A 49 C 50 A 51 A 52 B 53 B 54 A 55 C 56 A 57 D 58 D 59 B 60 A 61 C 62 C 63 B 64 E 65 C 66 C 67 B 68 C 69 70 D 71 A 72 B 73 D 74 A 75 A 76 C 77 B 78 C 79 A 80 D 81 B 82 C 83 B 84 85 D 86 A 87 88 B 89 C 90 D 91 C 92 D 93 A 94 C 95 E 96 D 97 B 98 99 100 B 101 E 102 A 103 E 104 A 105 C 106 B 107 D 108 A 109 D 110 C 111 A 112 B 113 C 114 A 115 C 116 E 117 C 118 D 119 A 120 A 121 C 122 C 123 C 124 A 125 B 126 D 127 C 128 D 129 B 130 A 131 A 132 B 133 A 134 D 135 C 136 C 137 C 138 B 139 C 140 E 141 C 142 A 143 D"
+      }
+    ],
+    "resposta_correta": "D"
+  }
+]

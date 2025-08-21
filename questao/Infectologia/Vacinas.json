@@ -1,0 +1,4062 @@
+[
+  {
+    "id": 66274,
+    "tags": [],
+    "enunciado": "Marque a alternativa correta sobre a vacinação em adolescentes.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Reforço da vacina dTP: dose única entre 11 e 18 anos de idade."
+      },
+      {
+        "letra": "B",
+        "texto": "Vacina contra papilomavírus humano (dose única, idade de 9 a 26 anos)."
+      },
+      {
+        "letra": "C",
+        "texto": "Vacina contra influenza indicada para mulheres acima de 60 anos."
+      },
+      {
+        "letra": "D",
+        "texto": "Vacina contra hepatite B indicada para adultos e profissionais de saúde. 4000228473"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66275,
+    "tags": [],
+    "enunciado": "Uma paciente de 27 anos vai à consulta ginecológica de rotina, sem apresentar queixas. Ela refere que terminou sua pós-graduação e passará um ano viajando pelo mundo. Diante disso, foi orientada quanto à importância da atualização do calendário vacinal para saúde da mulher. Nessa mesma consulta, o(a) ginecologista explica corretamente à paciente que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a vacinação precisa ser planejada com antecedência para ser finalizada pelo menos 60 dias antes da viagem. Geralmente, os destinos de alto risco são países em desenvolvimento, destinos tropicais e zonas rurais. O risco é maior nos casos em que o viajante permanecerá por mais de 4 semanas;"
+      },
+      {
+        "letra": "B",
+        "texto": "vacina tomada é vacina contabilizada. A paciente deve tomar a(s) dose(s) que falta(m), não sendo necessário recomeçar um esquema. O esquema é completado, nunca reiniciado. Isso é válido para qualquer vacina;"
+      },
+      {
+        "letra": "C",
+        "texto": "o intervalo entre doses de vacinas pode ser abreviado sem prejuízo à obtenção de uma resposta imune adequada. Isso é relevante no caso de gerenciamento de tempo para administração das vacinas, considerando-se a data da viagem;"
+      },
+      {
+        "letra": "D",
+        "texto": "há limites para vacinas concomitantes mesmo quando aplicadas em locais diferentes. Imunossuprimidos geralmente têm esquemas de utilização específicos;"
+      },
+      {
+        "letra": "E",
+        "texto": "deve ser realizada contracepção após vacinação para sarampo, caxumba, rubéola, varicela, febre amarela e influenza. O prazo ideal mínimo é de 4 semanas de contracepção."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66276,
+    "tags": [],
+    "enunciado": "Uma mulher com 64 anos, sabidamente hipertensa e diabética tipo 2, em acompanhamento regular, comparece à consulta médica para atualização vacinal, pois deseja se proteger contra doenças comuns na comunidade. Ao ser indagada sobre seus antecedentes patológicos, ela informa que já teve sarampo, caxumba, rubéola e varicela antes dos 5 anos de idade e que teve hepatite A aos 10 anos. Considerando a história clínica descrita, qual vacina está indicada para essa paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Caxumba."
+      },
+      {
+        "letra": "B",
+        "texto": "Hepatite A."
+      },
+      {
+        "letra": "C",
+        "texto": "Tríplice viral."
+      },
+      {
+        "letra": "D",
+        "texto": "Varicela-zóster."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 66277,
+    "tags": [],
+    "enunciado": "Roberto Carlos, 36 anos, comparece à UBS Vila Nova Aliança, no dia 30/10/2023, para atualização vacinal após histórico de ferimento grave com material pérfuro-cortante em sítio da família no (cid:72)nal de semana. Traz carteira vacinal, contendo os seguintes registros: Quais as vacinas o paciente deverá receber no dia 30/10/2023, e qual deverá ser o aprazamento para a próxima vacinação?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "No dia 30/10/2023 o paciente deverá receber as seguintes vacinas: Dupla Adulto, Hepatite B, SCR e Febre Amarela. Deverá ser realizado o aprazamento de reforço da vacina Dupla Adulto para 30/10/2028."
+      },
+      {
+        "letra": "B",
+        "texto": "No dia 30/10/2023 o paciente deverá receber as seguintes vacinas: Dupla Adulto, Hepatite B e Febre Amarela. Deverá ser realizado o aprazamento de reforço da vacina Dupla Adulto para 30/10/2033."
+      },
+      {
+        "letra": "C",
+        "texto": "No dia 30/10/2023 o paciente deverá receber as seguintes vacinas: Hepatite B, SCR e Febre Amarela. Deverá ser realizado o aprazamento de reforço da vacina Dupla Adulto para 30/10/2033."
+      },
+      {
+        "letra": "D",
+        "texto": "No dia 30/10/2023 o paciente deverá receber as seguintes vacinas: Hepatite B e SCR. Deverá ser realizado o aprazamento de reforço da vacina Dupla Adulto para 30/10/2033 e Febre Amarela para 30/11/2023."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66278,
+    "tags": [],
+    "enunciado": "Em um Tribunal Regional do Trabalho, uma campanha de vacinação para adultos e idosos está sendo organizada. As recomendações ditadas pelo Ministério da Saúde, atualizadas em julho/2022, serão seguidas. O cartaz de divulgação do evento é o seguinte: Em relação ao cartaz de divulgação desse evento, pode-se concluir, quanto ao quesito composição, que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "todas as informações no quesito composição foram adequadamente apresentadas."
+      },
+      {
+        "letra": "B",
+        "texto": "o cartaz apresenta erro na composição da vacina contra o vírus da hepatite B."
+      },
+      {
+        "letra": "C",
+        "texto": "o cartaz apresenta erro na composição da vacina contra a difteria e o tétano."
+      },
+      {
+        "letra": "D",
+        "texto": "o cartaz apresenta erro na composição da vacina contra a febre amarela."
+      },
+      {
+        "letra": "E",
+        "texto": "o cartaz apresenta erro na composição da vacina contra Sarampo, Caxumba e Rubéola."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66279,
+    "tags": [],
+    "enunciado": "Homem de 66 anos de idade, previamente hígido, sem antecedentes patológicos, refere que, há mais de 20 anos, não tem tomado nenhuma vacina. Nesse momento, deve-se recomendar a vacinação com:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "DTP (difteria, tétano e pertussis), gripe, pneumonia, hepatite B e sarampo."
+      },
+      {
+        "letra": "B",
+        "texto": "para o vírus influenza e dT (difteria e tétano adulto)."
+      },
+      {
+        "letra": "C",
+        "texto": "para pneumonia, vírus influenza, sarampo e antitetânica adulto."
+      },
+      {
+        "letra": "D",
+        "texto": "pentavalente (difteria, tétano, pertussis, hepatite B e H. influenzae), sarampo e gripe."
+      },
+      {
+        "letra": "E",
+        "texto": "pneumocócica, tetraviral (sarampo, caxumba, rubéola e varicela) e dTpa (difteria, tétano e pertussis do tipo adulto)."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66280,
+    "tags": [],
+    "enunciado": "É relativamente recente a oferta de imunização ativa para hepatite A no calendário nacional de vacinação, que a prescreve:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "em dose única, para crianças aos 15 meses de idade."
+      },
+      {
+        "letra": "B",
+        "texto": "em três doses, para adolescentes a partir dos 12 anos."
+      },
+      {
+        "letra": "C",
+        "texto": "em dose dupla, para jovens a partir dos 21 anos."
+      },
+      {
+        "letra": "D",
+        "texto": "apenas para gestantes, após o segundo trimestre de gestação."
+      },
+      {
+        "letra": "E",
+        "texto": "em dose única, para idosos a partir dos 65 anos."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66281,
+    "tags": [],
+    "enunciado": "Um servente de pedreiro com 24 anos de idade sofre um acidente de trabalho com ferimento corto- contuso de cerca de 15 cm de extensão no braço esquerdo, atingindo o plano muscular. Atendido num pronto-socorro, lá foi feita a limpeza e a sutura do local atingido, e veri(cid:72)cou-se que, quando criança, ele recebeu todas as doses previstas para a vacina antitetânica e uma dose de reforço há quase cinco anos. Nesse caso, no tocante à vacina antitetânica, ele",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não deve recebê-la novamente."
+      },
+      {
+        "letra": "B",
+        "texto": "deve receber soro antitetânico humano."
+      },
+      {
+        "letra": "C",
+        "texto": "deve receber mais um reforço da vacina."
+      },
+      {
+        "letra": "D",
+        "texto": "deve receber de imediato uma dose de reforço da vacina, e outra no prazo de seis meses."
+      },
+      {
+        "letra": "E",
+        "texto": "deve receber uma dose de reforço da vacina tríplice bacteriana (DTP)."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66282,
+    "tags": [],
+    "enunciado": "A partir das recomendações atuais do Programa Nacional de Imunização (PNI) e considerando a informação de um paciente masculino de 30 anos, sem ferimentos, sem patologia em curso, que a(cid:72)rma ter perdido a sua carteira de vacinas, a recomendação para atualização de vacinação é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "uma dose de reforço da vacina dupla tipo adulto, a cada 10 anos."
+      },
+      {
+        "letra": "B",
+        "texto": "três doses de vacina dupla tipo adulto, duas doses de vacina tríplice viral, três doses de vacina contra hepatite B, uma dose de vacina para febre amarela."
+      },
+      {
+        "letra": "C",
+        "texto": "uma dose de vacina dupla tipo adulto, uma dose de vacina tríplice viral, uma dose de vacina contra hepatite B, uma dose de vacina para febre amarela."
+      },
+      {
+        "letra": "D",
+        "texto": "uma dose de reforço com a vacina dupla tipo adulto, duas doses da vacina tríplice viral, três doses de vacina contra a hepatite B. 4000188932"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 66283,
+    "tags": [],
+    "enunciado": "Sobre o calendário vacinal do Adulto, assinale a alternativa CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A vacinação para Difteria e Tétano só é recomendada até os 45 anos, sendo indicado um reforço a cada 5 anos."
+      },
+      {
+        "letra": "B",
+        "texto": "A vacina antipneumocócica 23-valente é recomendada para pacientes com 60 anos ou mais que estejam acamados ou institucionalizados."
+      },
+      {
+        "letra": "C",
+        "texto": "A vacina contra a febre amarela é indicada para pessoas de até 59 anos de idade, sendo recomendada uma dose de reforço a cada 10 anos."
+      },
+      {
+        "letra": "D",
+        "texto": "A vacina contra Sarampo, Caxumba e Rubéola é indicada para pacientes com mais de 60 anos, sendo aplicada em 2 doses com intervalo mínimo de 30 dias entre elas."
+      },
+      {
+        "letra": "E",
+        "texto": "A vacina contra a hepatite B é recomendada até os 49 anos, devendo ser aplicada com 4 doses, com intervalo de 2 meses entre elas. 4000186131"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66284,
+    "tags": [],
+    "enunciado": "É inegável o impacto da vacinação em massa na saúde e na expectativa de vida em todo mundo, no entanto, o surgimento de grupos antivacina, usando pseudo-argumentos cientí(cid:72)cos que se disseminam pela internet é fonte de preocupação para as autoridades sanitárias. Cabe ao médico orientar os pacientes de maneira adequada sobre as diferentes vacinas e seus usos. Qual dessas opções pode corretamente ser repassada aos pacientes?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A vacina contra influenza é um exemplo de vacina de vírus atenuado e, portanto, tem uso restrito em pacientes submetidos aos regimes intensivos de quimioterapia para leucemia mielóide aguda."
+      },
+      {
+        "letra": "B",
+        "texto": "A presença de comorbidades não imunossupressoras, como cardiopatias, pode contra-indicar a aplicação de vacinas de vírus atenuado."
+      },
+      {
+        "letra": "C",
+        "texto": "O profissional de saúde deve receber algumas vacinas para reduzir o risco de adoecimento e óbito entre seus pacientes; preenchem esses critérios as vacinas contra hepatite B, tríplice viral (MMR - sarampo/caxumba/rubéola) e influenza."
+      },
+      {
+        "letra": "D",
+        "texto": "São vacinas contra-indicadas em pacientes espenectomizados: BCG, rotavírus, febre amarela, varicela, dengue, HPV e tríplice viral (MMR)."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66285,
+    "tags": [],
+    "enunciado": "Um jovem de 18 anos de idade, está no quarto dia de pós-operatório, de uma esplenectomia após acidente de trânsito. Encontra-se assintomático e não houve intercorrência no pós-operatório. O cirurgião responsável pelo caso, resolve dar alta hospitalar e fazer as orientações. Dentre as diversas orientações pós-operatórias, neste caso deve constar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Vacina tríplice viral; Vacina Pentavalente"
+      },
+      {
+        "letra": "B",
+        "texto": "Antibioticoterapia para cobertura de Bactérias Gram-positivas"
+      },
+      {
+        "letra": "C",
+        "texto": "Vacina pneumocócica; Vacina meningocócica; Vacina conjugada anti-Hib"
+      },
+      {
+        "letra": "D",
+        "texto": "Antibioticoterapia para cobrir Bactéria Gram-negativas e anaeróbios"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66286,
+    "tags": [],
+    "enunciado": "Homem, 32a, vítima de queda de moto em dia de chuva. Apresentou abdome agudo hemorrágico com choque refratário, sendo submetido à laparotomia exploradora com esplenectomia total. ALÉM DAS VACINAS DE ROTINA, CONTRA QUAIS AGENTES INFECCIOSOS ESTE PACIENTE DEVE SER IMUNIZADO?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pneumococo, Haemophilus influenzae tipo B, meningococo."
+      },
+      {
+        "letra": "B",
+        "texto": "Pneumococo, HPV e Haemophilus influenzae tipo B."
+      },
+      {
+        "letra": "C",
+        "texto": "Meningococo, Clostridium tetani e HPV."
+      },
+      {
+        "letra": "D",
+        "texto": "Meningococo, pneumococo e rotavírus."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66287,
+    "tags": [],
+    "enunciado": "Você atua como Médico de Família e Comunidade em uma Unidade Básica de Saúde e faz seguimento de uma paciente do sexo feminino de 75 anos, que trata hipertensão arterial com enalapril há aproximadamente 10 anos e está com a carteira de vacinação em dia. Ela comparece para consulta de rotina, assintomática, quando você detecta a presença de esplenomegalia no exame abdominal e a encaminha a um hematologista para investigação diagnóstica. Um mês depois, a hematologista lhe devolve a paciente com o diagnóstico de linfoma de células B (zona marginal) esplênico. Ela propõe como tratamento esplenectomia + 4 sessões de rituximabe, um anticorpo monoclonal anti células B, e lhe pergunta quais os cuidados necessários para a prevenção de complicações infecciosas potencialmente associadas ao mesmo. Diante dessa situação, assinale dentre as alternativas abaixo aquela que contém a conduta apropriada para essa paciente.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Realização de teste tuberculínico e indicação de rifapentina + Isoniazida se resultado do teste maior ou igual a 5mm."
+      },
+      {
+        "letra": "B",
+        "texto": "Vacinação contra pneumococo e meningococo e Haemophilus influenzae tipo B, no mínimo 4 semanas após a cirurgia."
+      },
+      {
+        "letra": "C",
+        "texto": "Realização de teste tuberculínico e indicação de rifapentina + Isoniazida se resultado do teste maior ou igual a 10mm."
+      },
+      {
+        "letra": "D",
+        "texto": "Vacinação contra pneumococo, meningococo e Haemophilus influenzae tipo B, no mínimo 2 semanas antes da cirurgia."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 66288,
+    "tags": [],
+    "enunciado": "Assinale a alternativa correta sobre vacinação.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O Sistema Nacional de Vigilância Epidemiológica dos Eventos Adversos Pós-Vacinação foi instalado no Brasil com o advento da covid-19."
+      },
+      {
+        "letra": "B",
+        "texto": "Os protocolos e definições sobre os eventos adversos são definidos em cada país, o que dificulta comparações."
+      },
+      {
+        "letra": "C",
+        "texto": "Os efeitos adversos de uma vacina devem ser sempre relatados a hospitais e não em unidades básicas de saúde."
+      },
+      {
+        "letra": "D",
+        "texto": "Evento adverso pós-vacinação (EAPV) é qualquer ocorrência médica indesejada após a vacinação e que tenha relação causal com o uso de uma vacina."
+      },
+      {
+        "letra": "E",
+        "texto": "As vacinas pertencem a um dos grupos de produtos biológicos com excelente perfil de segurança."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 66289,
+    "tags": [],
+    "enunciado": "Sr. José, de 63 anos de idade, com antecedente de hipertensão arterial sistêmica, está acamado por sequela de um acidente vascular encefálico (AVE) ocorrido em abril deste ano. Durante visita médica domiciliar, foi avaliado o cartão vacinal do Sr. José, que apresentava os seguintes registros: Quais vacinas devem ser indicadas nesse momento?:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Antipneumocócica, reforço de dT e febre amarela."
+      },
+      {
+        "letra": "B",
+        "texto": "Influenza, antipneumocócica e reforço de dT."
+      },
+      {
+        "letra": "C",
+        "texto": "Influenza, antipneumocócica e reforço de hepatite B."
+      },
+      {
+        "letra": "D",
+        "texto": "Reforço de dT, febre amarela e hepatite B. 4000190816"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66290,
+    "tags": [],
+    "enunciado": "Sobre as esplenectomias, todas as afirmativas estão corretas, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Laparoscópica é a via de acesso preferencial nos pacientes de origem não traumática."
+      },
+      {
+        "letra": "B",
+        "texto": "No caso de cirurgias eletivas, deve ser realizada imunização para pneumococo, haemophilus e meningocócica, no mínimo, duas semanas antes das cirurgias."
+      },
+      {
+        "letra": "C",
+        "texto": "Podem ser indicadas nos casos de púrpura trombocitopênica idiopática."
+      },
+      {
+        "letra": "D",
+        "texto": "Traumas esplênicos grau I podem necessitar de esplenectomia. 4000170370"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66291,
+    "tags": [],
+    "enunciado": "Homem de 70 anos chega ao pronto atendimento com quadro de pneumonia comunitária. Realizou o tratamento inicialmente internado e completou antibioticoterapia em esquema residencial. Volta ao ambulatório da unidade básica de saúde assintomático, 2 meses após o episódio de internação. Ele quer saber qual vacina deve tomar após o episódio de pneumonia. Qual alternativa contém a melhor orientação?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Influenza e herpes zoster."
+      },
+      {
+        "letra": "B",
+        "texto": "Pneumocócica e hepatite A e B."
+      },
+      {
+        "letra": "C",
+        "texto": "Tríplice viral e tríplice bacteriana."
+      },
+      {
+        "letra": "D",
+        "texto": "Febre amarela e meningocócica conjugada."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66292,
+    "tags": [],
+    "enunciado": "Em 2021, foi iniciado o plano nacional de Imunização da COVID-19. Sobre as vacinas contidas nesse plano, assinale a alternativa CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A vacina CoronaVac (SinoVac) utiliza a tecnologia de vetores virais e demonstrou ser altamente eficaz na prevenção de casos graves da Covid-19."
+      },
+      {
+        "letra": "B",
+        "texto": "A vacina BNT162b2(Pfizer-BioNTech) foi estudada em adolescentes de 12 a 15 anos demonstrando ser segura e altamente eficaz contra a Covid-19."
+      },
+      {
+        "letra": "C",
+        "texto": "A vacina ChAdOx1 nCoV-19 (AstraZeneca) está relacionada a mais eventos trombóticos venosos, estando indicado o uso de AAS profilático por 14 dias após a sua aplicação."
+      },
+      {
+        "letra": "D",
+        "texto": "A vacina Ad26.COV2.S (Jansen) utiliza vírus vivos atenuados e foi eficaz em prevenir doenças graves incluindo hospitalização e morte 21 dias após a aplicação da sua segunda dose."
+      },
+      {
+        "letra": "E",
+        "texto": "A vacina mRNA-1273 (Moderna) é a mais eficaz de todas e por essa razão é a de escolha no Plano Nacional de Imunização para profissionais de saúde e idosos."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66293,
+    "tags": [],
+    "enunciado": "Em um estudo publicado em 9 de abril de 2021, no The New England Journal of Medicine, foram avaliadas as características clínicas e laboratoriais de 11 pacientes na Alemanha e na Áustria, nos quais a trombose ou trombocitopenia se desenvolveu após a vacinação com o imunizante Vaxzevria (previamente chamada de AstraZeneca). Quanto ao pronunciamento o(cid:72)cial da European Medicines Agency (EMA) sobre a segurança da vacinação com esse imunizante, analise as proposições abaixo e, em seguida, assinale a alternativa CORRETA: I. Os efeitos secundários mais frequentes associados ao Vaxzevria foram geralmente ligeiros ou moderados e melhoraram alguns dias após a vacinação. II. No caso da trombocitopenia, vômitos, diarreia, inchaço e vermelhidão no local da injeção ocorreram em menos de 1 em 10 pessoas, enquanto a trombose em combinação com trombocitopenia ocorreu em menos de 1 em 10.000 pessoas. III. Uma vez que o Vaxzevria recebeu autorização condicional, a empresa que comercializa a vacina está dispensada de fornecer os resultados dos ensaios clínicos em curso.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas I está correta."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas I e II estão corretas."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas II e III estão corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "I, II e III estão corretas."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66294,
+    "tags": [],
+    "enunciado": "De acordo com a nota técnica 36/2021, de 02 de setembro de 2021, o Ministério da Saúde (MS) do Brasil autorizou a vacinação de adolescentes de 12 a 17 anos contra a Covid-19. Qual a única vacina que até a referida data está autorizada a ser aplicada nessa faixa etária?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Coronavac."
+      },
+      {
+        "letra": "B",
+        "texto": "Jansen."
+      },
+      {
+        "letra": "C",
+        "texto": "Astrazeneca."
+      },
+      {
+        "letra": "D",
+        "texto": "Pfizer."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 66295,
+    "tags": [],
+    "enunciado": "Um usuário idoso do Sistema Único de Saúde recebeu no mesmo dia, por opção pessoal e di(cid:72)culdade de locomoção até a Unidade Básica de Saúde (UBS), a vacina anual de vírus atenuado contra in(cid:86)uenza e a segunda dose da vacina AstraZeneca contra covid-19. Segundo a Organização Mundial da Saúde, essa coadministração é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "desaconselhável pelo risco de reduzir a formação de anticorpos contra os dois vírus."
+      },
+      {
+        "letra": "B",
+        "texto": "desaconselhável pela forte evidência de redução de eficácia de ambas as vacinas."
+      },
+      {
+        "letra": "C",
+        "texto": "aceitável, mas com forte evidência de aumento de eventos adversos."
+      },
+      {
+        "letra": "D",
+        "texto": "aceitável e sem forte evidência de gerar aumento de eventos adversos"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 66296,
+    "tags": [],
+    "enunciado": "Uma paciente com púrpura trombocitopênica idiopática irá ser submetida a esplenectomia videoparoscópica. O médico orienta a aplicação de uma vacina 20 dias antes da retirada do baço. Qual doença deve ser prevenida através dessa vacina?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tétano."
+      },
+      {
+        "letra": "B",
+        "texto": "Hepatite."
+      },
+      {
+        "letra": "C",
+        "texto": "Pneumonia"
+      },
+      {
+        "letra": "D",
+        "texto": "Coronavirus."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66297,
+    "tags": [],
+    "enunciado": "Considerando a situação vacinai, não faz parte do calendário vacinai do adulto:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tríplice virai (SCR)."
+      },
+      {
+        "letra": "B",
+        "texto": "Dupla bacteriana (dT )."
+      },
+      {
+        "letra": "C",
+        "texto": "Febre Amarela."
+      },
+      {
+        "letra": "D",
+        "texto": "Meningocócica ACWY. 4000144675"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 66298,
+    "tags": [],
+    "enunciado": "Em 1999, considerado o Ano Internacional do Idoso, o Programa Nacional de Imunização (PNI) em busca de uma maior universalização do atendimento, estendeu suas ações à população idosa. Inicialmente com a implantação da vacina in(cid:86)uenza no Brasil para os idosos a partir dos 65 anos de idade, em campanha anual, além de oferecer as vacinas dT (contra difteria e tétano) e pneumocócica 23-valente (para idosos institucionalizados e doentes crônicos). Em 2000, o benefício da vacina in(cid:86)uenza foi estendido para pessoas a partir de 60 anos de idade. Houve algumas alterações no decorrer dos anos, mas algumas das vacinas ainda continuam não sendo disponibilizadas na rotina dos postos públicos de vacinação, embora sejam recomendadas pelas entidades médicas e organizações de saúde e oferecidas pelas clínicas privadas de vacinação. (BALLALAI, Isabella. Imunização. In: FREITAS, Elizabete Viana et al.– Manual Prático de Geriatria. 2. ed. Rio de Janeiro: Guanabara Koogan, 2017. cap. 32, p. 352-363) Sobre questões de imunização dos idosos, é CORRETO afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A vacina contra a influenza não apresenta contraindicações conhecidas, podendo ser administrada em qualquer indivíduo."
+      },
+      {
+        "letra": "B",
+        "texto": "Os toxóides diftérico e tetânico são pouco imunogênicos, por isso existe a necessidade de reaplicações da vacina a cada 3 anos."
+      },
+      {
+        "letra": "C",
+        "texto": "Para todos os idosos, a recomendação para imunização completa é uma dose da VPC13 e pelo menos duas doses da vacina VPP23."
+      },
+      {
+        "letra": "D",
+        "texto": "Para idosos com episódio de Herpes-zoster prévio, recomenda-se a aplicação da vacina contra o herpes-zoster após 12 meses desse evento."
+      },
+      {
+        "letra": "E",
+        "texto": "A indicação da vacina contra hepatite B é feita apenas para idosos sexualmente ativos."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 66299,
+    "tags": [],
+    "enunciado": "Considerando que um paciente, de 56 anos, que viajará por 20 dias para o interior do Amazonas, que é imunocompetente e sua carteira de vacinação está em dia. A análise do histórico das últimas doses que ele tomou, tem registrado Antitetânica – 2016, Antirrábica – 2010 (pós acidente antirrábico), Febre amarela – 2014. Com base nessas informações, assinale a alternativa que apresenta as recomendações corretas nesse caso:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Vacinação para tétano, sarampo e hepatite A."
+      },
+      {
+        "letra": "B",
+        "texto": "Vacinação para raiva e Haemophilusinfluenzae."
+      },
+      {
+        "letra": "C",
+        "texto": "Vacinação para febre amarela, pelo menos, 10 dias antes da viagem."
+      },
+      {
+        "letra": "D",
+        "texto": "Quimioprofilaxia para malária, se a viagem for para região de alto risco de transmissão de P.falciparum."
+      },
+      {
+        "letra": "E",
+        "texto": "Vacinação para pneumococo."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 66300,
+    "tags": [],
+    "enunciado": "A Instrução Normativa, referente ao Calendário Nacional de Vacinação de 2020, traz a seguinte alteração:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ampliação da faixa etária, de pessoas que não receberam vacina tríplice viral, de 30 a 49 anos, para intervalo de 30 a 59 anos."
+      },
+      {
+        "letra": "B",
+        "texto": "Ampliação da faixa etária preferencial a ser vacinada contra influenza, com inclusão de adultos acima de 50 anos."
+      },
+      {
+        "letra": "C",
+        "texto": "Inclusão de nova vacina meningocócica ABCD, com reforço em adolescentes de 11 a 14 anos."
+      },
+      {
+        "letra": "D",
+        "texto": "Inclusão de vacina meningocócica ACWY aos 3 meses, com reforço aos 19 anos de idade."
+      },
+      {
+        "letra": "E",
+        "texto": "Inclusão de meninos, aos 9 anos de idade, na vacinação contra HPV."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66301,
+    "tags": [],
+    "enunciado": "A partir das recomendações atuais do Programa Nacional de Imunizações (PNI) e considerando a informação de um paciente de 29 anos, saudável, que a(cid:72)rma ter perdido a sua carteira de vacinas, a recomendação para atualização de vacinação é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "uma dose de reforço com a vacina dupla tipo adulto."
+      },
+      {
+        "letra": "B",
+        "texto": "três doses de vacina dupla tipo adulto, duas doses de vacina tríplice viral, três doses de vacina contra a hepatite B, uma dose de vacina para febre amarela."
+      },
+      {
+        "letra": "C",
+        "texto": "três doses de vacina dupla tipo adulto, uma dose de vacina tríplice viral, três doses de vacina contra a hepatite B, uma dose de vacina para febre amarela."
+      },
+      {
+        "letra": "D",
+        "texto": "uma dose de reforço com a vacina dupla tipo adulto, duas doses da vacina tríplice viral, três doses de vacina contra a hepatite B."
+      },
+      {
+        "letra": "E",
+        "texto": "três doses da vacina dupla tipo adulto, uma dose da vacina tríplice viral."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66302,
+    "tags": [],
+    "enunciado": "Adolescente saudável, 12 anos, residente no Rio de Janeiro, com relato de nunca ter saído do Estado, é levado por sua mãe à Unidade de Saúde para avaliação da adequação da sua caderneta vacinal. Considerando que a última dose de vacina recebida por ele foi aos seis anos de idade e que, na ocasião, estava em dia com a vacinação rotineira para sua faixa etária, as vacinas a serem recomendadas para atualização da sua caderneta, de acordo com o preconizado pelo Ministério da Saúde para sua idade atual, são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "HPV (1 dose), Vacina Meningocócica C Conjugada (1 dose) e vacina dTpa (1 dose)."
+      },
+      {
+        "letra": "B",
+        "texto": "HPV (2 doses), Vacina Meningocócica C Conjugada (1 dose) e Vacina Febre Amarela (1dose)."
+      },
+      {
+        "letra": "C",
+        "texto": "HPV (1 dose), Vacina Meningocócica C Conjugada (2 doses) e Vacina Febre Amarela (1dose)."
+      },
+      {
+        "letra": "D",
+        "texto": "HPV (2 doses), Vacina Meningocócica C Conjugada (1 dose) e vacina dTpa (1 dose)."
+      },
+      {
+        "letra": "E",
+        "texto": "HPV (2 doses), Vacina dTpa (1 dose) e Vacina Febre Amarela (1 dose)."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66303,
+    "tags": [],
+    "enunciado": "Lactente, 15 meses, comparece à Unidade Básica de Saúde para vacinação rotineira, com calendário atualizado até 12 meses. A mãe informa que o seu pai foi transferido para país da América do Sul que exige vacinação para febre amarela. Em 20 dias viajarão para lá, onde vão morar, em região que exige esta vacina. Das vacinas abaixo qual NÃO pode ser aplicada simultaneamente com a da febre amarela?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tetra viral."
+      },
+      {
+        "letra": "B",
+        "texto": "Poliomielite."
+      },
+      {
+        "letra": "C",
+        "texto": "Meningocócica C ou ACWY."
+      },
+      {
+        "letra": "D",
+        "texto": "Tríplice bacteriana (DPT)."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66304,
+    "tags": [],
+    "enunciado": "Paciente é atendido na unidade de saúde devido a cefaleia frequente. Durante a consulta, o médico checou o cartão de vacinação e viu que ele deveria ter tomado a vacina meningocócica. A condição ou patologia que justifica a necessidade dessa vacina é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "doença falciforme."
+      },
+      {
+        "letra": "B",
+        "texto": "deficiência de alfa1-antitripsina."
+      },
+      {
+        "letra": "C",
+        "texto": "insuficiência cardíaca e hipoproteinemia."
+      },
+      {
+        "letra": "D",
+        "texto": "retocolite ulcerativa."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66305,
+    "tags": [],
+    "enunciado": "Um lactente de 16 meses, masculino, é levado por sua mãe à Unidade Básica de Saúde para atualização vacinal de acordo com o Programa Nacional de Imunização. O médico veri(cid:72)ca que todas as vacinas foram realizadas, exceto as recomendadas para os 15 meses. As vacinas a serem realizadas neste momento são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Vacina inativada poliomielite, Difteria, Tétano, Coqueluche, Hepatite A, Haemophilus influenzae, Meningocócica C."
+      },
+      {
+        "letra": "B",
+        "texto": "Vacina oral poliomielite, Difteria, Tétano, Coqueluche, Hepatite B, Sarampo, Caxumba, Rubéola, Varicela."
+      },
+      {
+        "letra": "C",
+        "texto": "Vacina oral poliomielite, Difteria, Tétano, Coqueluche, Hepatite A, Sarampo, Caxumba, Rubéola, Varicela."
+      },
+      {
+        "letra": "D",
+        "texto": "Vacina inativada poliomielite, Difteria, Tétano, Coqueluche, Hepatite B, Haemophilus influenzae, Pneumocócica 10 valente."
+      },
+      {
+        "letra": "E",
+        "texto": "Vacina oral poliomielite, Difteria, Tétano, Coqueluche, Hepatite C, Sarampo, Caxumba, Rubéola, Meningocócica C."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66306,
+    "tags": [],
+    "enunciado": "C.L, mulher, 20 anos, procura consulta médica para exame de rotina. Não apresenta queixas e nem alterações de exame físico. Pelo calendário o(cid:72)cial de vacinas no Brasil, qual das vacinas abaixo seria a mais indicada para essa faixa etária?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tríplice viral."
+      },
+      {
+        "letra": "B",
+        "texto": "Vacina heptavalente contra o pneumococo."
+      },
+      {
+        "letra": "C",
+        "texto": "Vacinal oral para rotavírus."
+      },
+      {
+        "letra": "D",
+        "texto": "Tetra bacteriana."
+      },
+      {
+        "letra": "E",
+        "texto": "Hepatite C."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66307,
+    "tags": [],
+    "enunciado": "Mulher jovem de 20 anos deu à luz, em casa de parto, um recém-nascido do sexo feminino em boas condições de vitalidade. No terceiro dia de vida, o interno de plantão veri(cid:72)ca que o teste rápido anti - HIV materno foi positivo e a equipe ainda não tinha ciência. Nenhuma vacina ou medida de prevenção de transmissão vertical do HIV tinham sido implementadas até então. Sendo assim, qual seria a conduta adequada, neste momento, em relação ao recém-nascido?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Iniciar zidovudina e nevirapina, aplicar BCG e vacina contra hepatite."
+      },
+      {
+        "letra": "B",
+        "texto": "Iniciar zidovudina e nevirapina, aplicar BCG e solicitar pesquisa de HbSAg."
+      },
+      {
+        "letra": "C",
+        "texto": "Não indicar uso de antirretrovirais e aplicar BCG e vacina contra hepatite B."
+      },
+      {
+        "letra": "D",
+        "texto": "Iniciar nevirapina isoladamente, aplicar BCG e vacina para Hepatite."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66308,
+    "tags": [],
+    "enunciado": "Lactente com diagnóstico de síndrome nefrótica por lesões mínimas, em uso de prednisolona (2 mg/kg/dia) há mais de 4 semanas. Cartão vacinal encontra-se desatualizado. Nesse momento, NÃO há contraindicações absolutas em realizar as vacinas listadas abaixo:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Vacina pentavalente/pneumocócica 10-valente."
+      },
+      {
+        "letra": "B",
+        "texto": "Vacina meningocócica conjugada quadrivalente/vacina tetra viral."
+      },
+      {
+        "letra": "C",
+        "texto": "Vacina contra a hepatite A/vacina contra a varicela."
+      },
+      {
+        "letra": "D",
+        "texto": "Vacina contra a febre amarela/vacina meningocócica B."
+      },
+      {
+        "letra": "E",
+        "texto": "Vacina meningocócica B/ tríplice viral."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66309,
+    "tags": [],
+    "enunciado": "Casal se consulta na Unidade Básica de Saúde procurando aconselhamento vacinal em relação ao sarampo. João tem 32 anos e Maria 28. Ambos são sadios e Maria não está grávida. A(cid:72)rmam terem recebido todas as vacinas da infância, porém não possuem mais seus cartões vacinais. De acordo com o Programa Nacional de Imunizações, que recomendação deve ser feita em relação à indicação de tríplice viral?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Uma dose para Maria e duas para João."
+      },
+      {
+        "letra": "B",
+        "texto": "Uma dose para João e duas para Maria."
+      },
+      {
+        "letra": "C",
+        "texto": "Duas doses para ambos."
+      },
+      {
+        "letra": "D",
+        "texto": "Não vacinar nenhum dos dois."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66310,
+    "tags": [],
+    "enunciado": "Lactente de 9 meses é levado à unidade de saúde para consulta de puericultura. Que vacinas devem constar em seu cartão de vacinação, segundo o calendário oficial de vacinação do Ministério da Saúde de 2018?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "BCG (1 dose); Hepatite B (4 doses); Contra Difteria, Tétano, Coqueluche, Haemophilus influenzae tio B (3 doses); anti-pólio (3 doses); anti-rotavírus (3 doses); anti-pneumocócica (3 doses); anti- meningocócica C (3 doses)."
+      },
+      {
+        "letra": "B",
+        "texto": "BCG (1 dose); Contra Hepatite B (4 doses); Contra Difteria, Tétano, Coqueluche, Haemophilus influenzae tio B (4 doses); anti-pólio (3 doses); anti-rotavírus (2 doses); anti- pneumocócica (4 doses); anti-meningocócica C (2 doses)."
+      },
+      {
+        "letra": "C",
+        "texto": "BCG (1 dose); Contra Hepatite B (4 doses); Contra Difteria, Tétano, Coqueluche, Haemophilus influenzae tio B (3 doses); anti-pólio (3 doses); anti-rotavírus (3 doses); anti- pneumocócica (4 doses); anti-meningocócica C (3 doses)."
+      },
+      {
+        "letra": "D",
+        "texto": "BCG (1 dose); Contra Hepatite B (4 doses); Contra Difteria, Tétano, Coqueluche, Haemophilus influenzae tio B (4 doses); anti-pólio (3 doses); anti-rotavírus (2 doses); anti- pneumocócica (3 doses); anti-meningocócica C (2 doses)."
+      },
+      {
+        "letra": "E",
+        "texto": "BCG (1 dose); Contra Hepatite B (4 doses); Contra Difteria, Tétano, Coqueluche, Haemophilus influenzae tio B (3 doses); anti-pólio (3 doses); anti-rotavírus (2 doses); anti- pneumocócica (2 doses); anti-meningocócica C (2 doses)."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 66311,
+    "tags": [],
+    "enunciado": "Um paciente de 54 anos de idade, com diagnóstico de Aids, sem outras comorbidades, está em tratamento com o seguinte esquema antirretroviral: tenofovir; lamivudina; dolutegravir; darunavir; e ritonavir. Ele possui última carga viral indetectável e dosagem de linfócitos T CD4 de 188 células por mm³ (19,1%), realizados recentemente, há menos de trinta dias. Procurou atendimento ambulatorial, pois tem dúvidas em relação às vacinas que poderia ou não receber. Perguntou sobre três vacinas, as quais refere nunca ter tomado: contra varicela; contra gripe (anual); e contra pneumococo (23valente). Com base nesse caso hipotético, assinale a alternativa que apresenta a(s) vacina(s) que o paciente pode receber.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "contra gripe e contra varicela"
+      },
+      {
+        "letra": "B",
+        "texto": "contra pneumococo e contra varicela"
+      },
+      {
+        "letra": "C",
+        "texto": "somente contra gripe"
+      },
+      {
+        "letra": "D",
+        "texto": "contra gripe e contra pneumococo"
+      },
+      {
+        "letra": "E",
+        "texto": "somente contra varicela"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 66312,
+    "tags": [],
+    "enunciado": "Durante atendimento em Unidade Básica de Saúde, foram admitidas três pessoas, as quais procuraram o serviço de saúde para receber a vacina contra a febre amarela. A primeira era uma gestante com catorze semanas de gestação, que recebera uma dose da vacina contra a febre amarela em 2007; a segunda era uma idosa de 66 anos de idade, em uso de imunobiológicos para o tratamento de artrite reumatoide; e a terceira era um paciente com diagnóstico de Aids, com exames recentes de carga viral do HIV indetectável e última dosagem de linfócitos T CD4 de 422 células por mm³ (24,6%). A respeito da conduta quanto à realização ou não da vacinação contra a febre amarela nesse caso hipotético, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Deve-se vacinar somente a paciente gestante, por ter recebido a última dose da vacina há mais de dez anos e ser recomendada a dose de reforço."
+      },
+      {
+        "letra": "B",
+        "texto": "Deve-se vacinar somente o paciente com diagnóstico de Aids, por apresentar dosagem de linfócitos T CD4 recente acima de 350 células por mm³."
+      },
+      {
+        "letra": "C",
+        "texto": "Deve-se vacinar somente a paciente idosa com artrite reumatoide que está em uso de imunobiológicos, de forma a promover anticorpos protetores em imunossuprimidos."
+      },
+      {
+        "letra": "D",
+        "texto": "Devem ser vacinadas a paciente idosa e a gestante, sendo contraindicada a vacinação em pacientes com Aids."
+      },
+      {
+        "letra": "E",
+        "texto": "Os três pacientes deverão ser vacinados, uma vez que nenhum apresenta contraindicações à vacina."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66313,
+    "tags": [],
+    "enunciado": "A coqueluche é uma doença caracterizada por um quadro potencialmente grave em lactentes, especialmente entre os que têm menos de três meses de vida. Considerando essa informação, assinale a alternativa que apresenta a estratégia atualmente adotada no Brasil que se mostrou efetiva e segura para reduzir a morbidade e a mortalidade por essa doença em lactentes nos primeiros meses de vida.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "vacinação de todos os contactantes do recém nascido com a vacina tríplice acelular"
+      },
+      {
+        "letra": "B",
+        "texto": "vacinação do recém-nascido com vacina tríplice acelular (DTPa) nas primeiras doze horas de vida, antes da alta da maternidade"
+      },
+      {
+        "letra": "C",
+        "texto": "vacinação do lactente, a partir dos dois meses de vida, com a vacina tríplice acelular (DTPa)"
+      },
+      {
+        "letra": "D",
+        "texto": "vacinação da gestante com a vacina tríplice acelular (dTpa) a partir da 20.ª semana de gestação"
+      },
+      {
+        "letra": "E",
+        "texto": "vacinação da gestante com a vacina tríplice de células inteiras (DTP), entre a 32.ª e a 36.ª semana da gestação"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 66314,
+    "tags": [],
+    "enunciado": "São vacinas indicadas para todas as pessoas infectadas pelo HIV:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "hepatites A, B e C, pneumococo, HPV e influenza."
+      },
+      {
+        "letra": "B",
+        "texto": "influenza, febre amarela, HPV e dupla adulto (DT)."
+      },
+      {
+        "letra": "C",
+        "texto": "hepatites A e B, pneumococo, influenza e meningococo."
+      },
+      {
+        "letra": "D",
+        "texto": "HPV, hepatites B e C, pneumococo e meningococo."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66315,
+    "tags": [],
+    "enunciado": "Mãe chega à Unidade Básica de Saúde e informa que irá viajar para região endêmica de febre amarela e que, por esse motivo, quer vacinar seu (cid:72)lho de 5 anos, que faz tratamento para HIV/aids, com contagem atual de linfócitos T CD4 de 180 células/mm₃. A conduta é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não vacinar."
+      },
+      {
+        "letra": "B",
+        "texto": "vacinar, com dose fracionada a 1/5."
+      },
+      {
+        "letra": "C",
+        "texto": "vacinar, com dose inteira."
+      },
+      {
+        "letra": "D",
+        "texto": "vacinar, com dose fracionada à metade."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66316,
+    "tags": [],
+    "enunciado": "Segundo o atual calendário vacinal do Ministério da Saúde do Brasil (2018), a Vacina Pneumocócica 10V (conjugada) deve ser administrada:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Em três doses, aos 2, 4 e 6 meses de idade."
+      },
+      {
+        "letra": "B",
+        "texto": "Em três doses, aos 2, 4 e 12 meses de idade."
+      },
+      {
+        "letra": "C",
+        "texto": "Entre 1 e 4 anos de idade, em apenas uma dose."
+      },
+      {
+        "letra": "D",
+        "texto": "Entre 1 e 4 anos de idade, em duas doses com intervalo de 2 meses."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66317,
+    "tags": [],
+    "enunciado": "Lucas tem 5 meses e é levado para consulta pediátrica após receber alta de uma internação de 5 dias por desidratação em consequência de uma diarreia por rotavírus. A pediatra checa a carteira de vacinas e constata que ele não recebeu nenhuma dose da vacina contra o rotavírus. A conduta, para esse paciente, é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Orientar a mãe que a vacina não é mais necessária, uma vez que ele já teve a doença."
+      },
+      {
+        "letra": "B",
+        "texto": "Contraindicar as duas doses da vacina, uma vez que ele já tem 5 meses."
+      },
+      {
+        "letra": "C",
+        "texto": "Aplicar apenas a segunda dose, já que passou a idade da primeira dose."
+      },
+      {
+        "letra": "D",
+        "texto": "aplicar as duas doses da vacina, uma vez que a doença não confere imunidade para todos os sorotipos."
+      },
+      {
+        "letra": "E",
+        "texto": "Solicitar sorologia e aplicar a vacina apenas se ele tiver anticorpos tipo IgG negativos para o rotavírus."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66318,
+    "tags": [],
+    "enunciado": "Vanessa completou 15 meses de idade e é levada à UBS para ser vacinada. Considerando que sua carteira vacinal está completa e atualizada, de acordo com o Programa Nacional de Imunizações, as vacinas que ela deve receber neste momento são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "DPT, poliomielite oral (Sabin), tetravalente viral e hepatite A."
+      },
+      {
+        "letra": "B",
+        "texto": "pentavalente, pneumocócica 10-valente e meningocócica C."
+      },
+      {
+        "letra": "C",
+        "texto": "DPT, hemófilos B, varicela e hepatite A."
+      },
+      {
+        "letra": "D",
+        "texto": "pneumocócica, 10-valente, meningocócica C e tetravalente viral."
+      },
+      {
+        "letra": "E",
+        "texto": "DPT, hemófilos B e tetravalente viral."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66319,
+    "tags": [],
+    "enunciado": "Mulher, 24 anos de idade, com diagnóstico de Lúpus Eritematoso Sistêmico, em tratamento. Comparece a consulta referindo que foi à unidade básica de saúde para realizar a vacinação contra Febre Amarela e lhe foi solicitado um relatório médico, autorizando a vacinação. Está em uso de prednisona 30mg ao dia, hidroxicloroquina 400mg ao dia e azatioprina 150mg ao dia. A orientação com relação à vacinação deve ser:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Autorizar a realização da vacinação contra febre amarela, pelo risco da doença."
+      },
+      {
+        "letra": "B",
+        "texto": "Suspender azatioprina, diminuir prednisona para 5 mg/dia e vacinar após."
+      },
+      {
+        "letra": "C",
+        "texto": "Suspender azatioprina por 30 dias e realizar vacinação após."
+      },
+      {
+        "letra": "D",
+        "texto": "Aguardar a redução de prednisona para 20mg e então autorizar a vacinação."
+      },
+      {
+        "letra": "E",
+        "texto": "Contraindicar definitivamente a vacinação dada à doença de base."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66320,
+    "tags": [],
+    "enunciado": "Lactente de 5 meses de vida, recentemente adotado, comparece ao ambulatório de pediatria para consulta de puericultura. Sua mãe está bastante preocupada, pois não tem a carteira de vacinação e não sabe quais vacinas seu (cid:72)lho já recebeu. Ao exame físico a criança apresenta cicatriz em região deltoidea de braço direito. Para atualizar a situação vacinal desta criança, de acordo com as normas do Programa Nacional de Imunizações, nesse momento você indicaria as seguintes vacinas:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "BCG, pentavalente (hepatite B, DPT, Hib), pólio oral (OPV), pneumocócica 10 valente e meningocócica C"
+      },
+      {
+        "letra": "B",
+        "texto": "Pólio inativada (IPV), pentavalente (hepatite B, DPT eHib), pneumocócica 10 valente e meningocócica C"
+      },
+      {
+        "letra": "C",
+        "texto": "Pólio inativada (IPV), pentavalente (Hepatite B, DPT + Hib), rotavírus monovalente, pneumocócica 10 valente, meningocócica C"
+      },
+      {
+        "letra": "D",
+        "texto": "BCG, Hepatite B, pólio inativada (IPV), tríplice bacteriana (DPT), pneumocócica 10 valente e meningocócica C"
+      },
+      {
+        "letra": "E",
+        "texto": "Hepatite B, pólio oral (IPV), tetravalente (DPT + Hib), rotavírus, pneumocócica 10 valente, meningocócica C"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66321,
+    "tags": [],
+    "enunciado": "\"Adaptada\" Sobre a vacina BCG, assinale a alternativa errada:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Reduz a incidência de formas graves de tuberculose em crianças, como a tuberculose meníngea e a miliar"
+      },
+      {
+        "letra": "B",
+        "texto": "Não deve ser usada em pacientes severamente imunodeprimidos, como os em uso de quimioterapia e os portadores de SIDA"
+      },
+      {
+        "letra": "C",
+        "texto": "Não deve-se realizar a revacinação em crianças sem cicatriz vacinal"
+      },
+      {
+        "letra": "D",
+        "texto": "A evolução da lesão após a vacina segue a sequência: pústula que se torna úlcera e cicatriz, perfazendo 5 a 6 semanas de evolução"
+      },
+      {
+        "letra": "E",
+        "texto": "Os eventos adversos podem ser locais como abscessos e linfadenopatia como disseminação sistêmica do bacilo"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 66322,
+    "tags": [],
+    "enunciado": "ADAPTADA - Criança recebeu a vacina BCGid na maternidade. Na consulta de rotina realizada aos 3 meses de idade, veri(cid:72)ca-se que não há cicatriz vacinal. Nesse caso, a conduta preconizada pelo Ministério da Saúde é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "aguardar os 6 meses de idade e, caso a cicatriz não tenha aparecido até lá, revacinar."
+      },
+      {
+        "letra": "B",
+        "texto": "solicitar o teste tuberculínico (PPD) e repetir a dose se o resultado for negativo."
+      },
+      {
+        "letra": "C",
+        "texto": "solicitar o teste tuberculínico (PPD) e repetir a dose se o resultado for positivo."
+      },
+      {
+        "letra": "D",
+        "texto": "repetir a dose se a criança tiver epidemiologia de contato com tuberculose."
+      },
+      {
+        "letra": "E",
+        "texto": "considerar a criança vacinada, sem necessidade de revacinação."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 66323,
+    "tags": [],
+    "enunciado": "Lactente de 2 meses apresentou crise convulsiva 24 horas após receber as vacinas preconizadas para a idade: pentavalente (DPT + HiB + Hepatite B), vacina inativada contra a poliomielite, vacina contra rotavírus e vacina pneumocócica 10-valente. Para essa criança, na vacinação aos 4 meses,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "deve ser mantido o esquema preconizado pelo programa nacional de imunizações."
+      },
+      {
+        "letra": "B",
+        "texto": "indica-se manter o esquema preconizado pelo programa nacional de imunizações, desde que feito o uso de paracetamol profilático meia hora antes da vacinação."
+      },
+      {
+        "letra": "C",
+        "texto": "a segunda dose do rotavírus deve ser contraindicada e mantido o restante das vacinas preconizadas."
+      },
+      {
+        "letra": "D",
+        "texto": "a vacina DPT de células inteiras deve ser substituída pela DPT acelular e o restante, mantido."
+      },
+      {
+        "letra": "E",
+        "texto": "deve ser contraindicado o componente pertussis, e a criança deve receber a forma D T, com o restante mantido."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 66324,
+    "tags": [],
+    "enunciado": "Menina, 3 anos de idade, com diagnósticos recentes de síndrome nefrótica, está na terceira semana de tratamento com prednisolona 2 mg/kg/dia. Está evoluindo com boa resposta, com redução do edema e não apresenta alterações urinárias neste momento. Sua mãe resolve procurar a UBS, devido a atraso vacinal. Segundo a recomendação do Ministério da Saúde é uma contraindicação absoluta neste momento vacinar com:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Vacina tríplice bacteriana (DTP)."
+      },
+      {
+        "letra": "B",
+        "texto": "Vacina tríplice viral (SCR)."
+      },
+      {
+        "letra": "C",
+        "texto": "Vacina contra influenza."
+      },
+      {
+        "letra": "D",
+        "texto": "Vacina contra hepatite A."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66325,
+    "tags": [],
+    "enunciado": "Homem, 22 anos de idade, tem infecção por HIV diagnosticada há 4 anos (exames recentes com CD4 550 cels/mm³ carga viral < 40 copias/ml). Está em uso de terapia antirretroviral com tenofovir/lamivudina/efavirenz e procura atendimento no centro de imunizações porque (cid:72)cou preocupado com as notícias de casos de febre amarela em sua cidade. Qual é o esquema vacinal contra febre amarela a ser proposto para este paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Dose fracionada e sem dose de reforço."
+      },
+      {
+        "letra": "B",
+        "texto": "Contraindicar vacinação."
+      },
+      {
+        "letra": "C",
+        "texto": "Dose plena (padrão) única."
+      },
+      {
+        "letra": "D",
+        "texto": "Dose fracionada com dose de reforço em 8 anos."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66326,
+    "tags": [],
+    "enunciado": "Segundo o calendário de vacinação para o estado de São Paulo – 2018, do CVE – Centro de Vigilância Epidemiológica “Prof. Alexandre Vranjac”, a vacina hepatite B deve ser administrada preferencialmente nas primeiras 12 horas de vida, ainda na maternidade. Caso não tenha sido administrada na maternidade,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ela deve ser administrada em dose dobrada."
+      },
+      {
+        "letra": "B",
+        "texto": "ela deve ser administrada na primeira visita ao serviço de saúde, não importando quando isso ocorra."
+      },
+      {
+        "letra": "C",
+        "texto": "deve ser administrada a vacina pentavalente (DTP-Hib-Hna primeira visita ao serviço de saúde, não importando quando isso ocorra."
+      },
+      {
+        "letra": "D",
+        "texto": "deve ser administrada a vacina pentavalente (DTP-Hib-H, caso a primeira visita ocorra após a 6ª semana de vida."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66327,
+    "tags": [],
+    "enunciado": "Adolescente, 13 anos, masculino, procura unidade pública de saúde para atualizar sua situação vacinal. A carteira vacinal demonstra já ter recebido duas doses da vacina hepatite B, duas doses da vacina tríplice viral e última dose da tríplice bacteriana aos seis anos de idade. Diante do exposto, deve-se indicar as seguintes vacinas:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hepatite B, HPV e meningocócica C."
+      },
+      {
+        "letra": "B",
+        "texto": "Dupla tipo adulto, hepatite B e HPV."
+      },
+      {
+        "letra": "C",
+        "texto": "HPV, meningocócica C e dupla tipo adulto."
+      },
+      {
+        "letra": "D",
+        "texto": "Hepatite B, meningocócica C e dupla tipo adulto."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66328,
+    "tags": [],
+    "enunciado": "O Brasil conviveu recentemente com um aumento de casos de febre amarela, o que gerou uma corrida das pessoas para imunização. Qual das afirmações abaixo sobre a febre amarela é FALSA?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A dose não-fracionada da vacina quando aplicada não necessita de segunda dose."
+      },
+      {
+        "letra": "B",
+        "texto": "Criteriosa avaliação clínica do médico assistente é necessária para avaliar a aplicação da vacina em gestantes, lactantes e idosos."
+      },
+      {
+        "letra": "C",
+        "texto": "Epizootia é um evento sentinela que é monitorado para indicação de ampliar a vacinação em uma região."
+      },
+      {
+        "letra": "D",
+        "texto": "Deve-se aproveitar a presença de uma pessoa em busca de vacinação para Febre Amarela e atualizar seu calendário de vacinação, aplicando a vacina tríplice viral ou tetravalente nesta mesma oportunidade."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 66329,
+    "tags": [],
+    "enunciado": "São vacinas indicadas para crianças infectadas por HIV, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hepatite B."
+      },
+      {
+        "letra": "B",
+        "texto": "Pneumocócica."
+      },
+      {
+        "letra": "C",
+        "texto": "Hepatite."
+      },
+      {
+        "letra": "D",
+        "texto": "Dupla adulto (dTpa)."
+      },
+      {
+        "letra": "E",
+        "texto": "BCG."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 66330,
+    "tags": [],
+    "enunciado": "Em relação ao programa de imunização de adultos e crianças, ao indicar-se as vacinas contendo vírus ou bactérias em sua forma atenuada, é correto afirmar que está CONTRAINDICADO SEU USO em: I. Pacientes em uso de corticoterapia prolongada, em dose alta. II. Pacientes com imunodeficiência congênita ou adquirida. III. Pacientes convivendo com HIV, em uso de antirretroviral, ainda que com tratamento regular e CD4 acima de 350 células. IV. Pacientes com doença febril aguda grave.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente I e II estão corretas."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente I, II e IV estão corretas."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente I, II e III estão corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "Todas as Alternativas estão corretas."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66331,
+    "tags": [],
+    "enunciado": "Em relação às situações especiais em imunizações, afirma-se: I - Lactente amamentando seu filho de 4 meses não deve receber a vacina da febre amarela. II - Os contatos de imunodeprimidos devem receber as vacinas da varicela e a oral da poliomielite. III - Os prematuros com peso superior a 2 kg recebem vacinas nas doses usuais conforme a idade cronológica. Estão CORRETAS as afirmativas:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e II, apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "I e III, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "II e III apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "I, II e III."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66332,
+    "tags": [],
+    "enunciado": "Um homem de 63 anos de idade vai ao médico em busca de informações sobre vacinação para pessoas da sua idade. Em relação ao calendário vacinal de 2018 /2019 da Sociedade Brasileira de Imunização (SBIM), esse paciente",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "poderá receber a vacina para herpes-zoster no período de trinta a sessenta dias após a conclusão do quadro agudo da doença."
+      },
+      {
+        "letra": "B",
+        "texto": "poderá receber a vacina pneumocócica VPC13 (dose única) seguida de uma dose da VPP23, de seis a doze meses depois, com um reforço em cinco anos."
+      },
+      {
+        "letra": "C",
+        "texto": "deverá receber a vacina 4V para influenza, anualmente, na rede pública, nos meses de fevereiro a abril."
+      },
+      {
+        "letra": "D",
+        "texto": "deverá receber a dTpa em uma única dose de reforço se o seu calendário vacinal for desconhecido ou incompleto."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66333,
+    "tags": [],
+    "enunciado": "Médica recém-formada, 25 anos, iniciará programa de Residência Médica em março de 2019. Em sua caderneta vacinal constam duas doses da vacina tríplice viral: aos nove meses e aos 17 anos de idade. De acordo com as recomendações do Ministério da Saúde, para ser considerada protegida, ela deverá completar seu esquema vacinal contra sarampo com pelo menos:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "duas doses da vacina tríplice viral no esquema 0-1 mês"
+      },
+      {
+        "letra": "B",
+        "texto": "uma dose da vacina tetra viral em qualquer momento"
+      },
+      {
+        "letra": "C",
+        "texto": "duas doses da vacina tetra viral no esquemo 0-1 mês"
+      },
+      {
+        "letra": "D",
+        "texto": "uma dose da vacina tríplice viral em qualquer momento"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 66334,
+    "tags": [],
+    "enunciado": "Não constituem contraindicação à vacinação:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Prematuridade, neoplasia."
+      },
+      {
+        "letra": "B",
+        "texto": "Desnutrição, prematuridade."
+      },
+      {
+        "letra": "C",
+        "texto": "Imunodeficiência; desnutrição."
+      },
+      {
+        "letra": "D",
+        "texto": "Tratamento com corticóides."
+      },
+      {
+        "letra": "E",
+        "texto": "Doença infecciosa."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66335,
+    "tags": [],
+    "enunciado": "Uma paciente de 27 anos de idade comparece à consulta de 12 meses de acompanhamento após ter recebido um transplante alogênico de medula óssea como parte do tratamento de leucemia mielóide aguda.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "paciente apresentou manifestações de doença do enxerto versus hospedeiro crônica. Qual das vacinas abaixo NÃO será administrada neste caso?"
+      },
+      {
+        "letra": "A",
+        "texto": "Tétano e difteria"
+      },
+      {
+        "letra": "B",
+        "texto": "Influenza"
+      },
+      {
+        "letra": "C",
+        "texto": "Tríplice viral"
+      },
+      {
+        "letra": "D",
+        "texto": "Poliomielite"
+      },
+      {
+        "letra": "E",
+        "texto": "Pneumococcus (polissacarídeo 23-valente)"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66336,
+    "tags": [],
+    "enunciado": "Você e o médico da unidade básica de saúde de uma cidade que está enfrentando um surto de febre amarela. Qual das pessoas abaixo NÃO deverá receber a vacina?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Idoso de 70 anos que não apresenta comorbidades significativas."
+      },
+      {
+        "letra": "B",
+        "texto": "Paciente soropositivo para o HIV, em uso de terapia antirretroviral, com última contagem de CD4 de 350 células/mm³."
+      },
+      {
+        "letra": "C",
+        "texto": "Mulher que está amamentando seu filho de sete meses."
+      },
+      {
+        "letra": "D",
+        "texto": "Mulher no curso da 25ª semana de gestação."
+      },
+      {
+        "letra": "E",
+        "texto": "Paciente portador de artrite psoriática em uso de infliximab."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 66337,
+    "tags": [],
+    "enunciado": "Uma senhora de 67 anos comparece ao consultório solicitando orientação quanto a vacinação. É portadora de hepatite autoimune, em uso de azatioprina 100mg ao dia e prednisona 10mg ao dia. Traz os seguintes resultados de exames: anti-HBc total positivo, anti-HBs positivo, HBsAg negativo, anti-HCV IgG negativo, anti-HAV IgG e IgM negativo. Sobre a orientação para vacinação dessa paciente, assinale a alternativa CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Está contraindicada a vacina dupla adulto (difteria e tétano)."
+      },
+      {
+        "letra": "B",
+        "texto": "Estão indicadas as vacinas para hepatite A e a tríplice viral (MMR) para imunização contra sarampo."
+      },
+      {
+        "letra": "C",
+        "texto": "Estão indicadas as vacinas para hepatite A, influenza, pneumococo 13-valente e 23- valente."
+      },
+      {
+        "letra": "D",
+        "texto": "Estão indicadas as vacinas para hepatite B e influenza."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66338,
+    "tags": [],
+    "enunciado": "Durante atendimento em Unidade Básica de Saúde, foram admitidas três pessoas, as quais procuraram o serviço de saúde para receber a vacina contra a febre amarela. A primeira era uma gestante com catorze semanas de gestação, que recebera uma dose da vacina contra a febre amarela em 2007; a segunda era uma idosa de 66 anos de idade, em uso de imunobiológicos para o tratamento de artrite reumatoide; a terceira era um paciente com diagnóstico de HIV, com exames recentes de carga viral do HIV indetectável e última dosagem de linfócitos T CD4+ de 422 células/mm3 (24,6%). A respeito da conduta quanto à realização ou não da vacinação contra a febre amarela nesse caso hipotético, assinale a alternativa CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Deve-se vacinar somente a paciente gestante, por ter recebido a última dose da vacina há mais de dez anos e ser recomendada a dose de reforço;"
+      },
+      {
+        "letra": "B",
+        "texto": "Deve-se vacinar somente o paciente com diagnóstico de HIV, por apresentar dosagem de linfócitos T CD4+ recente acima de 350 células/mm3;"
+      },
+      {
+        "letra": "C",
+        "texto": "Deve-se vacinar somente a paciente idosa com artrite reumatoide que está em uso de imunobiológicos, de forma a promover anticorpos protetores em imunossuprimidos;"
+      },
+      {
+        "letra": "D",
+        "texto": "Devem ser vacinadas a paciente idosa e a gestante, sendo contraindicada a vacinação em pacientes com HIV;"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66339,
+    "tags": [],
+    "enunciado": "Um paciente portador de púrpura trombocitopênica idiopática QUE é submetido à esplenectomia, deve ser submetido à imunização contra:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Streptococcus pneumoniae, Haemophilus influenzae, Mycobacterium bovis."
+      },
+      {
+        "letra": "B",
+        "texto": "Streptococcus pneumoniae, Neisseria meningitidis, Mycobacterium bovis."
+      },
+      {
+        "letra": "C",
+        "texto": "Haemophilus influenzae, Neisseria meningitidis, Mycobacterium bovis."
+      },
+      {
+        "letra": "D",
+        "texto": "Streptococcus pneumoniae, vírus da hepatite B, Neisseria meningitidis."
+      },
+      {
+        "letra": "E",
+        "texto": "Streptococcus pneumoniae, Haemophilus influenzae, Neisseria meningitidis."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 66340,
+    "tags": [],
+    "enunciado": "A aplicação de vacina meningocócica C conjugada é recomendada de acordo com o Programa Nacional de Imunizações (PNI) do MS/Brasil, com:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1 mês e 3 meses de idade, com dose de reforço aos 9 meses de idade."
+      },
+      {
+        "letra": "B",
+        "texto": "2 e 4 meses de idade, com dose de reforço aos 15 meses de idade."
+      },
+      {
+        "letra": "C",
+        "texto": "2 e 5 meses de idade, com dose de reforço aos 24 meses de idade."
+      },
+      {
+        "letra": "D",
+        "texto": "3 e 5 meses de idade com dose de reforço aos 12 meses de idade."
+      },
+      {
+        "letra": "E",
+        "texto": "4 e 6 meses de idade, com dose de reforço aos 18 meses de idade."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 66341,
+    "tags": [],
+    "enunciado": "Sociedade Brasileira de Imunizações Assinale a alternativa que apresenta uma das vacinas recomendadas para todos os profissionais de saúde.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tríplice viral."
+      },
+      {
+        "letra": "B",
+        "texto": "Pneumocócica 23v."
+      },
+      {
+        "letra": "C",
+        "texto": "Dupla tipo adulto."
+      },
+      {
+        "letra": "D",
+        "texto": "Varicela."
+      },
+      {
+        "letra": "E",
+        "texto": "Hepatite A."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66342,
+    "tags": [],
+    "enunciado": "Homem de 34 anos, carcereiro de penitenciária, antecedentes de epilepsia e depressão com tentativa prévia de suicídio, comparece para consulta de rotina. Assintomático, é tabagista de 1,5 maço por dia e tem desejo de cessar tabagismo e iniciar caminhada no parque com sua mãe. Não se lembra de vacinação prévia. PA: 125 x 90 mmHg; FC: 90 bpm; glicemia capilar: 102 mg/dl, sem outras alterações ao exame clínico. Face ao exposto, assinale a alternativa CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Deve-se prescrever vareniclina por 24 semanas."
+      },
+      {
+        "letra": "B",
+        "texto": "Está indicado uso de bupropiona por 12 semanas."
+      },
+      {
+        "letra": "C",
+        "texto": "Está indicada vacinação contra hepatite B, dupla adulto e tríplice viral."
+      },
+      {
+        "letra": "D",
+        "texto": "O eletrocardiograma é fundamental para liberar o paciente para prática de atividade física."
+      },
+      {
+        "letra": "E",
+        "texto": "Paciente tem diagnóstico de hipertensão arterial sistêmica, e está indicado tratamento com diurético tiazídico."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66343,
+    "tags": [],
+    "enunciado": "Qual dos subgrupos abaixo pode ser vacinado para febre amarela?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Diabéticos."
+      },
+      {
+        "letra": "B",
+        "texto": "Gestantes."
+      },
+      {
+        "letra": "C",
+        "texto": "Paciente alérgicos a ovo."
+      },
+      {
+        "letra": "D",
+        "texto": "Pacientes com SIDA."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66344,
+    "tags": [],
+    "enunciado": "Assinale V (verdadeiro) ou F (falso) as a(cid:72)rmações sobre o Diabetes mellitus. A ordem correta de preenchimento dos parênteses, de cima para baixo, é: ( ) Os portadores de Diabetes mellitus devem ser imunizados com a vacina pneumocócica. ( ) A glicemia de jejum menos que 100 mg/dL, desde que o paciente esteja assintomático, descarta a necessidade da realização de teste de tolerância à glicose, independente da situação clínica considerada. ( ) São considerados fatores de risco para o Diabetes mellitus: obesidade, hipertensão arterial sistêmica, doença vascular periférica, anemia perniciosa, e lúpus eritematoso sistêmico. ( ) Após aberto, o frasco de insulina, pode ser mantido em temperatura ambiente entre 15°C e 30°C, ou também em refrigeração, entre 2°C a 8°C.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "V-F-F-V"
+      },
+      {
+        "letra": "B",
+        "texto": "V-V-F-F"
+      },
+      {
+        "letra": "C",
+        "texto": "F-V-V-F"
+      },
+      {
+        "letra": "D",
+        "texto": "F-F-V-V"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66345,
+    "tags": [],
+    "enunciado": "Em relação às vacinas é CORRETO afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A vacina DPT (Difteria, Pertussis e Tétano) pode levar à síndrome hipotônica- hiporresponsiva."
+      },
+      {
+        "letra": "B",
+        "texto": "A vacina de febre amarela é liberada em gestantes, pois é vacina de vírus mortos."
+      },
+      {
+        "letra": "C",
+        "texto": "Após a vacinação de BCG, se houver aparecimento de linfonodo axilar isolado, indica- se o uso de isoniazida."
+      },
+      {
+        "letra": "D",
+        "texto": "A vacina de febre amarela necessita de reforço a cada 10 anos."
+      },
+      {
+        "letra": "E",
+        "texto": "A Vacina de Pólio Oral (VPO) está sendo substituída pela Vacina de Pólio Injetável (VPI) devido ao risco de convulsão."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66346,
+    "tags": [],
+    "enunciado": "A meningite menigocócica é uma doença extremamente grave em crianças. Recentemente a U.S. Frug Administration concedeu licença para uma vacina que é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tetravalente (A, C, Y, W135) conjugada"
+      },
+      {
+        "letra": "B",
+        "texto": "Trivalente (A, C, B) conjugada"
+      },
+      {
+        "letra": "C",
+        "texto": "Bivalente (B, C) polissacarídica"
+      },
+      {
+        "letra": "D",
+        "texto": "Monovalente (B) polissacarídica - cepa brasileira"
+      },
+      {
+        "letra": "E",
+        "texto": "Pentavalente (A, C, B, Y, W135) conjugada"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66347,
+    "tags": [],
+    "enunciado": "Vacinas que não contém micro-organismos vivos são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Febre amarela, febre tifoide e raiva."
+      },
+      {
+        "letra": "B",
+        "texto": "Pólio oral, sarampo, tuberculose."
+      },
+      {
+        "letra": "C",
+        "texto": "Rubéola, coqueluche, tuberculose."
+      },
+      {
+        "letra": "D",
+        "texto": "Coqueluche, difteria, tétano."
+      },
+      {
+        "letra": "E",
+        "texto": "Rotavirus, influenza, difteria."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 66348,
+    "tags": [],
+    "enunciado": "(ADAPTADA) Escolar de sete anos, morador de área de risco potencial para febre amarela desde o nascimento, é levado a consulta pediátrica devido a quadro de tosse e coriza. Exame físico: sem anormalidades. Seu cartão de imunizações registra aplicação de todas as vacinas indicadas pelo Programa Nacional de Imunizações do Ministério da Saúde até os 15 meses. Desde então, nenhuma vacina foi aplicada.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "conduta indicada nesse momento, considerando a atualização do cartão vacinal deste paciente, é:"
+      },
+      {
+        "letra": "A",
+        "texto": "Aplicar a vacina dupla do tipo adulto."
+      },
+      {
+        "letra": "B",
+        "texto": "Aplicar as vacinas contra a febre amarela e tríplice bacteriana."
+      },
+      {
+        "letra": "C",
+        "texto": "Aplicar as vacinas contra a febre amarela, dupla do tipo infantil e tríplice viral."
+      },
+      {
+        "letra": "D",
+        "texto": "Aplicar a vacina tríplice bacteriana e reagendar consulta para aplicação da tríplice viral em 15 dias."
+      },
+      {
+        "letra": "E",
+        "texto": "Não aplicar nenhuma vacina e reagendar consulta para atualização vacinal em 15 dias."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66349,
+    "tags": [],
+    "enunciado": "De acordo com o Calendário Nacional de Vacinação 2017, do Ministério da Saúde, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a vacina contra HPV é destinada exclusivamente à população feminina, devendo ser aplicada, preferencialmente, em meninas de 9 a 14 anos de idade."
+      },
+      {
+        "letra": "B",
+        "texto": "a vacina contra a hepatite A deve ser ministrada aos 15 meses de idade e, como reforço, no final da adolescência."
+      },
+      {
+        "letra": "C",
+        "texto": "a vacina contra febre amarela deve ser ministrada a cada dez anos em populações de áreas de risco."
+      },
+      {
+        "letra": "D",
+        "texto": "a vacina BCG deve ser ministrada em 3 doses, trimestrais, sendo a primeira logo ao nascer."
+      },
+      {
+        "letra": "E",
+        "texto": "a primeira dose da vacina contra hepatite B deve ser aplicada ao nascer."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 66350,
+    "tags": [],
+    "enunciado": "Assinale a alternativa que indica o prazo mínimo - em dias - para reintrodução de medicamentos imunossupressores após a administração de vacina para imunização de febre amarela, segundo o Guia para Profissionais da Sáude - 2017 do Ministério da Saúde.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "30."
+      },
+      {
+        "letra": "B",
+        "texto": "21."
+      },
+      {
+        "letra": "C",
+        "texto": "14."
+      },
+      {
+        "letra": "D",
+        "texto": "07."
+      },
+      {
+        "letra": "E",
+        "texto": "03."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66351,
+    "tags": [],
+    "enunciado": "De acordo com o Programa Nacional de Imunizações (PNI), a vacinação contra o pneumococo, em uma criança imunocompetente e sem doença de base, deve ser realizada com o seguinte esquema:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pneumocócica conjugada 13-valente – 3 doses (aos 2, 4 e 6 meses); e 2 reforços com pneumocócica 10-valente (15 meses e 5 anos)."
+      },
+      {
+        "letra": "B",
+        "texto": "Pneumocócica conjugada 10-valente – 3 doses (aos 2, 4 e 6 meses); e 1 reforço com pneumocócica 10-valente (aos 15 meses)."
+      },
+      {
+        "letra": "C",
+        "texto": "Pneumocócica conjugada 10-valente – 3 doses (aos 2, 4 e 6 meses); e 1º reforço com pneumocócica 10-valente (12 meses) e 2º reforço com pneumocócica 23-valente (aos 5 anos)."
+      },
+      {
+        "letra": "D",
+        "texto": "Pneumocócica conjugada 10-valente – 2 doses (aos 2 e 4 meses); e 1 reforço com pneumocócica 10-valente (aos 12 meses)."
+      },
+      {
+        "letra": "E",
+        "texto": "Pneumocócica conjugada 10-valente – 2 doses (aos 2 e 4 meses); e 1 reforço com pneumocócica 23-valente (aos 15 meses)."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 66352,
+    "tags": [],
+    "enunciado": "Quais vacinas e número de doses a Associação Brasileira de Imunizações recomenda a uma adolescente de 15 anos e 4 meses, hígida, que recebeu as vacinas relacionadas a seguir? Ao Nascimento: BCG.; Aos 2 meses: DTP +Hib, vacina oral contra poliomielite.; Aos 4 meses: DTP+Hib, vacina oral contra poliomielite.; Aos 6 meses: DTP+Hib, vacina oral contra poliomielite.; Aos 9 meses: contra sarampo.; Aos 12 meses: contra varicela.; Aos 15 meses: DTP+Hib, vacina oral contra poliomielite, Sarampo + Caxumba + Rubéola (SCR).; Aos 5 Anos: DTP + Hib, vacina oral contra poliomielite, SCR, varicela.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "3 doses da vacina contra hepatite B, 3 doses da vacina contra papilomavírus humano (HPV), 2 doses da vacina contra hepatite A, reforço da dupla adulto (dT) ou tríplice bacteriana do adulto (dTpa), 1 dose da vacina contra influenza, 1 dose da vacina antimeningocócica C conjugada."
+      },
+      {
+        "letra": "B",
+        "texto": "1 dose da vacina contra hepatite B, 2 doses da vacina contra influenza, reforço da vacina dupla adulto (dT) ou tríplice bacteriana do adulto (dTpa), 2 doses da vacina contra papilomavírus humano, 2 doses da vacina antimeningocócica C conjugada."
+      },
+      {
+        "letra": "C",
+        "texto": "3 doses da vacina contra hepatite B, 3 doses da vacina contra papilomavírus humano (HPV), 2 doses da vacina contra influenza, 2 doses da vacina antimeningocócica C conjugada."
+      },
+      {
+        "letra": "D",
+        "texto": "3 doses da vacina contra hepatite B, 2 doses da vacina contra papilomavírus humano (HPV), 2 doses da vacina contra hepatite A, reforço da dupla adulto (dT), 2 doses da vacina contra influenza, 2 doses da vacina antimeningocócica C conjugada."
+      },
+      {
+        "letra": "E",
+        "texto": "3 doses da vacina contra hepatite B, reforço da vacina oral contra poliomielite, 2 doses da vacina contra papilomavírus humano (HPV), 2 doses da vacina contra hepatite A, reforço da dupla adulto (dT), 2 doses da vacina contra influenza, 2 doses da vacina antimeningocócica C conjugada."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66353,
+    "tags": [],
+    "enunciado": "Homem de 48 anos comparece em consultório para retorno médico. O mesmo possui diabetes, hipertensão e dislipidemia, todos com bom controle. Está em uso dos seguintes medicamentos: gliclazida, metformina, enalapril, hidroclorotiazida e sinvastatina. Seu cartão de vacinas possui os seguintes registros: dT (Dupla Adulto) = 5 anos do último reforço; Febre Amarela = 1 dose há 11 anos; SCR (sarampo, caxumba e rubéola) = 1 dose. Assinale a alternativa abaixo que melhor contempla as vacinas que deveriam ser indicadas para esse paciente, segundo o calendário vacinal do Ministério da Saúde:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "dT, hepatite B e febre amarela"
+      },
+      {
+        "letra": "B",
+        "texto": "Reforço da SCR, influenza e antipneumocócia"
+      },
+      {
+        "letra": "C",
+        "texto": "Herpes zoster, febre amarela e dT"
+      },
+      {
+        "letra": "D",
+        "texto": "Influenza, antipneumocócica e hepatite B"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 66354,
+    "tags": [],
+    "enunciado": "Considera-se imunidade passiva homóloga, a administração de anticorpos obtidos de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Um irmão, ou pai e mãe."
+      },
+      {
+        "letra": "B",
+        "texto": "Um doador da comunidade."
+      },
+      {
+        "letra": "C",
+        "texto": "Um ou mais irmãos, ou pai e mãe."
+      },
+      {
+        "letra": "D",
+        "texto": "Um ou mais doadores da comunidade."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 66355,
+    "tags": [],
+    "enunciado": "Mulher de 28 anos de idade, realizou quatro consultas durante o pré-natal cujo cartão está mostrado a seguir. O (cid:72)lho nasceu em parto cesariano, a termo, sem intercorrências e com peso ao nascer de 3.250 g. O exame clínico do recém-nascido é normal. Em relação à imunização, qual conduta está indicada para este recém- nascido durante sua estadia na maternidade?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas vacina para Hepatite B."
+      },
+      {
+        "letra": "B",
+        "texto": "Vacina BCG-ID e imunoglobulina anti-hepatite B."
+      },
+      {
+        "letra": "C",
+        "texto": "Vacina BCG-ID e para hepatite B."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas vacina BCG-ID."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66356,
+    "tags": [],
+    "enunciado": "A prática da cirurgia requer cuidados para a saúde dos cirurgiões. Assim, devem receber imunização para:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Vírus da imunodeficiência humana (AIDS)."
+      },
+      {
+        "letra": "B",
+        "texto": "Hepatite A."
+      },
+      {
+        "letra": "C",
+        "texto": "Hepatite B."
+      },
+      {
+        "letra": "D",
+        "texto": "Hepatite C."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66357,
+    "tags": [],
+    "enunciado": "Paciente de 32 anos recém contratado de uma empresa de contabilidade de São Paulo (SP) precisa apresentar a carteira de vacinação. Seus pais sempre foram contra qualquer tipo de imunização. O paciente chegou ao posto de saúde para tomar as vacinas necessárias. Imaginando que você é o médico do posto, assinale a alternativa CORRETA de acordo com o Programa Nacional de Imunizações:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As vacinas necessárias que o posto deve aplicar são: dupla adulta, SCR, Hepatite B eHPV."
+      },
+      {
+        "letra": "B",
+        "texto": "A vacina de febre amarela é essencial, pois estamos enfrentando um aumento donúmero de casos."
+      },
+      {
+        "letra": "C",
+        "texto": "As vacinas recomendadas para essa faixa etária e cobertas pelo PNI são: dupla adulto,SCR (Sarampo, Caxumba e Rubéola), hepatite B e febre amarela, se o paciente for para áreas de risco."
+      },
+      {
+        "letra": "D",
+        "texto": "O posto de saúde vai aplicar dupla adulta, meningite meningocócica B e C, hepatite B,hepatite A, varicela, influenza, HPV e SCR."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66358,
+    "tags": [],
+    "enunciado": "Paciente de 1 ano de idade, sexo feminino, é levada para ser atendida na Unidade Básica de Saúde da Família por sua avó para avaliação do seu desenvolvimento, orientação sobre medidas de prevenção, alimentação e outras. A avó refere que são refugiados sírios e que chegaram recentemente em São José do Rio Preto. A criança (cid:72)cou nos últimos quatro meses com a avó materna, em Damasco, pois seus pais morreram. A avó informa estar apreensiva, pois não sabe quais as vacinas que a menina recebeu até aquela data, pois os seus documentos, da neta e dos familiares foram perdidos nos ataques, inclusive o cartão vacinal. Refere que a criança recebeu leite materno até 8 meses e não (cid:72)cou doente. Exame físico: bom estado geral, eutró(cid:72)ca, afebril, exame físico sem alterações e presença de cicatriz vacinal em braço direito. No momento do atendimento o médico orienta atualizar a situação vacinal da menina aplicando todas as vacinas para o primeiro ano de vida, com exceção de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "BCG e vacina contra rotavírus"
+      },
+      {
+        "letra": "B",
+        "texto": "Tríplice viral e vacina contra rotavirus"
+      },
+      {
+        "letra": "C",
+        "texto": "BCG e tríplice viral"
+      },
+      {
+        "letra": "D",
+        "texto": "Tríplice viral"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66359,
+    "tags": [],
+    "enunciado": "Vitória foi um recém-nascido prematuro de 32 semanas de idade gestacional, de muito baixo peso que teve alta hospitalar com 1 mês de vida, sem apresentar intercorrências neonatais relevantes. Hoje está com 6 meses e meio de idade cronológica e 4 meses e meio de idade corrigida. A mãe refere que a criança está com esquema vacinal em dia. Isso significa que Vitória já recebeu:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Uma dose de vacina BCG, quatro doses da vacina para hepatite B, três doses da vacina de rotavírus, três doses da vacina tríplice bacteriana, três doses da vacina para Haemophillus influenzae B, três doses da vacina para poliomielite, três doses da vacina pneumocócica conjugada, duas doses da vacina meningocócica."
+      },
+      {
+        "letra": "B",
+        "texto": "Três doses da vacina para hepatite B, três doses da vacina tríplice bacteriana, três dosesda vacina para Haemophillus influenzae B, três doses da vacina para poliomielite, três doses da vacina pneumocócica conjugada, duas doses da vacina meningocócica."
+      },
+      {
+        "letra": "C",
+        "texto": "Uma dose da vacina BCG, duas doses da vacina para hepatite B, duas doses da vacinade rotavírus, duas doses da vacina tríplice bacteriana, duas doses da vacina para Haemophilus influenzae B, duas doses da vacina para poliomielite, duas doses da vacina pneumocócica conjugada, uma dose da vacina meningocócica."
+      },
+      {
+        "letra": "D",
+        "texto": "Três doses da vacina para hepatite B, três doses da vacina tríplice bacteriana, trêsdoses da vacina para Haemophilus influenzae B, três doses da vacina para poliomielite, três doses da vacina pneumocócica conjugada, uma dose da vacina meningocócica."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66360,
+    "tags": [],
+    "enunciado": "Lactente de 4 meses de idade apresentou há 1 hora quadro de febre, palidez, cianose, acompanhado de hipotonia de início súbito e alteração de consciência. Chega ao pronto socorro acompanhado de seus pais. A mãe refere que fez pré-natal regularmente, nascido a termo, sem intercorrências ao nascimento, em aleitamento materno exclusivo, ganhando peso com diurese normal. Refere vacinação dos 4 meses ontem. No momento da consulta lactente estava melhor, com os dados vitais normais. Qual alternativa abaixo apresenta hipótese diagnóstica mais provável?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Episódio de crise convulsiva febril benigna."
+      },
+      {
+        "letra": "B",
+        "texto": "Epilepsia do tipo crise de ausência."
+      },
+      {
+        "letra": "C",
+        "texto": "Coarctação da Aorta por descompensação secundária ao fechamento do canal arterial."
+      },
+      {
+        "letra": "D",
+        "texto": "Episódio hipotônico-hiporresponsivo, que pode ocorrer nas primeiras 48 horas após a administração da vacina pertussis."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 66361,
+    "tags": [],
+    "enunciado": "Em relação à transmissão do HIV, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O aleitamento cruzado, o aleitamento misto e o uso de leite humano com pasteurização domiciliar são alternativas para nutrição do recém-nascido exposto ao HIV."
+      },
+      {
+        "letra": "B",
+        "texto": "A partir do nascimento até a definição do diagnóstico da infecção pelo HIV, a criança deve receber quimioprofilaxia para penumonia pelo Pneumocystis jirovecii, com sulfametoxazol (SMX) + trimetoprima (TMP), na dosagem de 20 mg/kg/dia de SMX e 5 mg/kg/dia de TMP, divididos em três doses diárias."
+      },
+      {
+        "letra": "C",
+        "texto": "Não existem evidências do benefício quando a administração do antirretroviral ao neonato é iniciada após 48 horas de vida. A indicação da quimioprofilaxia após esse período ficará a critério do médico."
+      },
+      {
+        "letra": "D",
+        "texto": "A criança exposta ao HIV não deverá ser vacinada, na maternidade, para vírus da hepatite B e tuberculose (vacina BCG-ID) devido ao risco de imunodepressão. Recomenda-se que, durante o acompanhamento, a criança assintomática receba somente as vacinas que não sejam de vírus vivos atenuados."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66362,
+    "tags": [],
+    "enunciado": "Os pacientes que são submetidos a esplenectomia (cid:72)cam mais suscetíveis a adquirir infecções por germes encapsulados e por alguns microorganismos entéricos Gram negativos. As opções abaixo correspondem a imunizações que devem ser prescritas para este grupo de pacientes, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "N. meningitidis"
+      },
+      {
+        "letra": "B",
+        "texto": "H. Influenzae"
+      },
+      {
+        "letra": "C",
+        "texto": "K. pneumoniae"
+      },
+      {
+        "letra": "D",
+        "texto": "S. pneumoniae"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66363,
+    "tags": [],
+    "enunciado": "Homem residente em Goiânia, de 50 anos, hígido. Programou uma pescaria na região norte de Goiás com os amigos. Buscou a rede básica de saúde para veri(cid:72)car a situação vacinal antes do passeio. Qual é a orientação adequada para a vacinação contra febre amarela, de acordo com as diretrizes vigentes do Ministério da Saúde do Brasil?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fazer dose de reforço da vacina antiamarílica, caso tenha dose anterior comprovada há mais de 10 anos."
+      },
+      {
+        "letra": "B",
+        "texto": "Verificar se há imunização prévia. Caso não tenha, vacinar contra a febre amarela no mínimo dez dias antes da viagem."
+      },
+      {
+        "letra": "C",
+        "texto": "Contraindicar a vacina, independente do histórico vacinal, devido ao risco de efeitos adversos graves, mais frequentes nessa faixa etária."
+      },
+      {
+        "letra": "D",
+        "texto": "Informar que a região norte de Goiás não é área endêmica de febre amarela, sendo dispensável a imunização."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66364,
+    "tags": [],
+    "enunciado": "Recém-nascido (RN) a termo de parto cesáreo, (cid:72)lho de mãe HIV+ e com VDRL de 1/16 na ocasião do parto, apresenta boas condições de vitalidade e, após receber a primeira dose de zidovudina (AZT) é encaminhado ao alojamento conjunto. A conduta adequada em relação ao RN consiste em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Solicitar o VDRL do RN, e se positivo, tratar com Penicilina G cristalina, além de prescrever AZT 4mg/kg/dose, de 12/12hs."
+      },
+      {
+        "letra": "B",
+        "texto": "Manter o aleitamento materno desde que a carga viral da mãe seja indetectável."
+      },
+      {
+        "letra": "C",
+        "texto": "Iniciar profilaxia com sulfametoxazoltrimetropim contra pneumocistose a partir de 2 meses de vida, independente da contagem de linfócitos T-CD4+."
+      },
+      {
+        "letra": "D",
+        "texto": "Adiar a aplicação da BCG até que a infecção do RN seja descartada."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66365,
+    "tags": [],
+    "enunciado": "Pacientes com Diabetes Mellitus (DM) apresentam maior risco presumido de infecção pneumocócica grave e complicações decorrentes de Infuenza, recomendando-se atenção especial a essas vacinas em pacientes diabéticos. Sobre isso, somente NÃO podemos concordar com o item:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As duas medidas mais efetivas para prevenir doenças infecciosas são as higiênicas e a imunização."
+      },
+      {
+        "letra": "B",
+        "texto": "A decisão para recomendar uma vacina envolve a avaliação dos riscos da doença, os benefícios da vacinação, sem considerar os riscos associados à sua realização."
+      },
+      {
+        "letra": "C",
+        "texto": "Os níveis glicêmicos são importantes para o manejo e acompanhamento dos pacientes diabéticos, porém não existem relatos na literatura que contra-indiquem vacinação por alteração dos níveis glicêmicos, bem como pontos de corte glicêmicos que contra- indiquem as vacinas."
+      },
+      {
+        "letra": "D",
+        "texto": "Não se considera o DM desaconselhável a nenhuma vacina, respeitando suas indicações de acordo com cada faixa etária."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66366,
+    "tags": [],
+    "enunciado": "Paciente de 50 anos, hipertenso, portador de glomerulonefrite membranosa idiopática, com doença renal crônica estágio 3b, tem indicação de realizar 4 doses duplas de vacina para hepatite B. Com relação a esse procedimento, assinale a opção CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O quadro deve evoluir para diálise imediatamente."
+      },
+      {
+        "letra": "B",
+        "texto": "O paciente tem imunidade celular comprometida."
+      },
+      {
+        "letra": "C",
+        "texto": "A imunidade humoral do paciente será progressivamente prejudicada."
+      },
+      {
+        "letra": "D",
+        "texto": "Não existe tal esquema de vacinação."
+      },
+      {
+        "letra": "E",
+        "texto": "O paciente tem risco aumentado de desenvolver hepatite fulminante"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66367,
+    "tags": [],
+    "enunciado": "Quando o adolescente refere nunca ter recebido vacina DPT (Difteria, Pertussis, Tétano), DT (Difteria e Tétano) ou dT (Difteria e tétano) ou essa informação é impossível de ser obtida, a conduta mais adequada é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Administrar três doses da vacina dT com intervalo de 60 dias ou intervalo mínimo de 30 dias. Reforço a cada 10 anos com a mesma vacina (dT) ou com a dTpa (difteria, tétano e pertussis acelular)."
+      },
+      {
+        "letra": "B",
+        "texto": "Administrar três doses da vacina DPT com intervalo de 60 dias ou intervalo mínimo de 30 dias. Reforço a cada 10 anos com a vacina dT ou com a dTpa."
+      },
+      {
+        "letra": "C",
+        "texto": "Administrar uma dose da vacina dT. Reforço a cada 10 anos com a mesma vacina."
+      },
+      {
+        "letra": "D",
+        "texto": "Administrar uma dose da DPT e duas doses de dT com intervalo de 60 dias entre elas. Reforço a cada 10 anos com a vacina dT."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66368,
+    "tags": [],
+    "enunciado": "A Nota Informativa n° 311, de 2016, da Coordenação Geral do Programa Nacional de Imunizações do Ministério da Saúde do Brasil, informou que o reforço da vacina meningocócica C (conjugada) estará disponível no Calendário Nacional de Vacinação ano de 2017, para a faixa etária de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1 a 3 anos."
+      },
+      {
+        "letra": "B",
+        "texto": "15 a 17 anos."
+      },
+      {
+        "letra": "C",
+        "texto": "12 a 13 anos."
+      },
+      {
+        "letra": "D",
+        "texto": "9 a 10 anos."
+      },
+      {
+        "letra": "E",
+        "texto": "5 a 7 anos."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66369,
+    "tags": [],
+    "enunciado": "Criança de 8 anos de idade vem a UBS para receber vacina contra a gripe. Não trouxe a carteira vacinal, mas a mãe informa que acha que ele recebeu alguma dose da vacina há dois anos. Segundo as normas do Programa Nacional de Imunização 2016, a conduta adequada é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não indicar a vacina, pois como não se tem certeza do esquema, deve-se pedir para a mãe voltar com a carteira vacinal."
+      },
+      {
+        "letra": "B",
+        "texto": "Indicar uma dose da vacina de gripe."
+      },
+      {
+        "letra": "C",
+        "texto": "Não tem indicação da vacina de gripe pela idade somente crianças menores de cinco anos."
+      },
+      {
+        "letra": "D",
+        "texto": "Deve-se iniciar a vacinação contra a gripe com uma dose e pedir para a mãe trazer a carteira vacinal para indicar a segunda dose."
+      },
+      {
+        "letra": "E",
+        "texto": "Deve-se vacinar a criança com a primeira dose e agendar a segunda dose."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 66370,
+    "tags": [],
+    "enunciado": "Você recebe uma senhora de 70 anos, moradora de casa de repouso, previamente hígida, apesar de nunca ter passado por avaliação médica durante a vida na UBS. Que vacinas são recomendadas amplamente a idosos pela Sociedade Brasileira de Imunizações e pela literatura e NÃO são gratuitamente disponibilizadas conforme calendário do MS?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pneumocócica conjugada 13-valente e herpes zoster."
+      },
+      {
+        "letra": "B",
+        "texto": "Meningocócica conjugada ACWY e pneumocócica polisacarídea 23-valente."
+      },
+      {
+        "letra": "C",
+        "texto": "Hepatite A e influenza tetravalente."
+      },
+      {
+        "letra": "D",
+        "texto": "Tríplice viral e tetravalente bacteriana (dtpa- Hib)."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66371,
+    "tags": [],
+    "enunciado": "Paciente de 1 ano e seis meses, com história de vacinação com BCG nas primeiras doze horas de vida. Aos 9 meses, devido a não apresentar cicatriz vacinal, recebeu uma segunda dose da BCG. Atualmente, ainda sem cicatriz vacinal. Assinale a conduta nesse caso, com base no calendário nacional de vacinação do Programa Nacional de Imunização (PNI) 2016.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Realizar teste de Mantoux e, se negativo, administrar outra dose de BCG."
+      },
+      {
+        "letra": "B",
+        "texto": "Realizar radiografia de tórax e, se normal, administrar outra dose de BCG."
+      },
+      {
+        "letra": "C",
+        "texto": "Realizar teste de Mantoux e radiografia de tórax e, se afastar tuberculose, administrar outra dose de BCG."
+      },
+      {
+        "letra": "D",
+        "texto": "Administrar outra dose de BCG sem realizar exames."
+      },
+      {
+        "letra": "E",
+        "texto": "Não administrar outra dose de BCG."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 66372,
+    "tags": [],
+    "enunciado": "Segundo o calendário vacinal do Ministério da Saúde de 2016, qual(is) vacinas são feitas aos 12 meses e suas respectivas vias de administração? * SC (subcutânea), IM (intramuscular), ID (intradêrmica).",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Reforço da vacina pneumo 10 (IM), reforço da vacina meningo C (IM), primeira dose da vacina tríplica viral (SC)."
+      },
+      {
+        "letra": "B",
+        "texto": "Reforço da vacina pneumo 10 (IM), reforço da vacina meningo C (IM), vacina Hepatite A (IM)."
+      },
+      {
+        "letra": "C",
+        "texto": "Reforço da vacina pneumo 10 (IM), reforço da vacina meningo C (IM), primeira dose da vacina tríplice viral (SC), vacina hepatite A (IM)."
+      },
+      {
+        "letra": "D",
+        "texto": "Reforço da vacina pneumo 10 (IM), reforço da vacina meningo C (IM), primeira dose da vacina tríplice viral (IM), vacina hepatite A (IM)."
+      },
+      {
+        "letra": "E",
+        "texto": "Reforço da vacina pneumo 10 (SC), reforço da vacina meningo C (SC), primeira dose da vacina tríplice viral (IM)."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66373,
+    "tags": [],
+    "enunciado": "Levando em consideração as recomendações do Programa Nacional de Imunização, assinale a alternativa que corresponde às vacinas que uma criança deve receber aos 12 meses e aos 15 meses. A carteira de vacinação da criança está atualizada até então:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "12 meses: SRC ( sarampo-caxumba e rubéola) - 1ª dose; vacina pneumocócica 10valente - reforço; vacina meningocócica C conjugada - reforço. 15 meses: VOP ( Vacina Oral Poliomielite) - 1º reforço; vacina contra hepatite A - dose única; DPT ( tríplice bacteriana) - 1º reforço; SCRV ( tetraviral - sarampo, caxumba, rubéola e varicela) - dose única."
+      },
+      {
+        "letra": "B",
+        "texto": "12 meses: SCRV ( sarampo, caxumba, rubéola e varicela) - 1ª dose; vacina meningocócica C conjugada - reforço. 15 meses: vacina contra hepatite A - 1ª dose; DPT ( trípice bacteriana) - 1º reforço; SCRV (teraviral - sarampo, caxumba, rubéola e varicela) 2ª dose."
+      },
+      {
+        "letra": "C",
+        "texto": "12 meses: SCRV ( sarampo, caxumba, rubéola e varicela) - 1ª dose; vacinapneumocócica 10 valente - reforço; 15 meses: vacina contra hepatite A - 1ª dose; vacina meningocócica C conjugada - reforço; SCRV (tetraviral - sarampo, caxumba, rubéola e varicela) - 2ª dose."
+      },
+      {
+        "letra": "D",
+        "texto": "12 meses: SCR ( sarampo, caxumba e rubéola) - 1ª dose; vacina pneumocócica 10valente - reforço; 15 meses: vacina contra hepatite A - dose única; vacina meningocócica C conjugada - reforço; SCRV (tetraviral - sarampo, caxumba, rubéola e varicela) - 2ª dose; VIP ( Vacina Inativada Poliomelite) - 1º reforço."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66374,
+    "tags": [],
+    "enunciado": "Uma constatação nos Hospitais Pediátricos no Sul do Brasil no inverno de 2012 foi o número de casos de coqueluche em lactentes, pois estes não tiveram tempo hábil para realização completa da imunização conforme calendário vacinal do Ministério da Saúde. Qual das afirmativas abaixo não é uma complicação pós- vacinal do componente Pertussis da DPT?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Síndrome de Guillain-Barré;"
+      },
+      {
+        "letra": "B",
+        "texto": "Episódio hipotônico hipo-responsivo em até 48 horas após a vacina;"
+      },
+      {
+        "letra": "C",
+        "texto": "Convulsão;"
+      },
+      {
+        "letra": "D",
+        "texto": "Choro inconsolável por cerca de 3 horas após a administração da vacina;"
+      },
+      {
+        "letra": "E",
+        "texto": "NDA."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66375,
+    "tags": [],
+    "enunciado": "O Ministério da Saúde alterou doses de reforço para vacinas contra meningite e pneumonia, além do esquema vacinal da poliomielite e de vacina para HPV no ano de 2016. Consta no novo calendário:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Poliomielite: três doses injetáveis (2, 4 e 6 meses); reforço aos 15 meses e aos 6 anos com gotinha; anualmente durante a campanha nacional, para crianças de 1 a 5 anos incompletos."
+      },
+      {
+        "letra": "B",
+        "texto": "Pneumonia: duas doses (2 e 4 meses de vida); reforço aos 12 meses."
+      },
+      {
+        "letra": "C",
+        "texto": "Meningite: duas doses (3 e 6 meses de vida); reforço aos 12 meses."
+      },
+      {
+        "letra": "D",
+        "texto": "HPV: duas doses em meninas de 9 a 13 anos, com a segunda um ano após a primeira."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66376,
+    "tags": [],
+    "enunciado": "Qual das vacinas abaixo está contraindicada para um paciente em quimioterapia?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Rubéola."
+      },
+      {
+        "letra": "B",
+        "texto": "Hepatite B."
+      },
+      {
+        "letra": "C",
+        "texto": "Tétano."
+      },
+      {
+        "letra": "D",
+        "texto": "Influenza."
+      },
+      {
+        "letra": "E",
+        "texto": "Pneumococo."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66377,
+    "tags": [],
+    "enunciado": "Em relação à imunização da criança infectada pelo HIV, é CORRETO afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O esquema de vacinação com a vacina pentavalente(DTP /Hib/Hep B) para a criança infectada pelo HIV é igual ao recomendado para a criança saudável."
+      },
+      {
+        "letra": "B",
+        "texto": "A vacina contra varicela, contendo vírus atenuado, está contraindicada para crianças infectadas pelo HIV."
+      },
+      {
+        "letra": "C",
+        "texto": "A criança infectada pelo HIV deve receber a vacina oral contra a poliomieliteaos 15 meses e 4 anos de idade."
+      },
+      {
+        "letra": "D",
+        "texto": "Para adolescentes infectados pelo HIV são recomendadas três doses da vacina"
+      },
+      {
+        "letra": "E",
+        "texto": "Quadrivalente contra o papilomavírus humano (HPV). a vacina contra febre amarela não está contraindicada para crianças infectadas pelo HIV que moram em áreas com recomendação da vacina."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66378,
+    "tags": [],
+    "enunciado": "Em indivíduos adultos no Brasil, a vacinação contra a febre amarela deve ser feita:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nunca, pois há recomendação de vacinação."
+      },
+      {
+        "letra": "B",
+        "texto": "Anualmente."
+      },
+      {
+        "letra": "C",
+        "texto": "A cada 3 anos."
+      },
+      {
+        "letra": "D",
+        "texto": "A cada 5 anos."
+      },
+      {
+        "letra": "E",
+        "texto": "A cada 10 anos."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 66379,
+    "tags": [],
+    "enunciado": "Sobre a prevenção de doenças oportunistas em pacientes portadores de HIV, segundo a recomendação do Ministério da Saúde do esquema vacinal para pacientes maiores que 13 anos, assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Febre Amarela - individualizar o risco/benefício conforme a situação imunológica do paciente e a situação epidemiológica da região e, em caso de exposição, vacinar quando LT-CD4+ > 200 células/mm³."
+      },
+      {
+        "letra": "B",
+        "texto": "Hepatite B - dose dobrada recomendada pelo fabricante, administrada em quatro doses (0,1,2 e 6 ou 12 meses) em todos os indivíduos suscetíveis à hepatite B (anti-HBc negativo, anti-HBs negativo)."
+      },
+      {
+        "letra": "C",
+        "texto": "Streptococcus pneumoniae (23-valente) - uma dose para indivíduos com contagem de LT-CD4+ > 200 células/mm³. Apenas reforço após cinco anos."
+      },
+      {
+        "letra": "D",
+        "texto": "Dupla do tipo adulto (dT) - três doses (0,2,4 meses) e reforço a cada 5 anos."
+      },
+      {
+        "letra": "E",
+        "texto": "Tríplice viral - uma ou duas doses nos suscetíveis com LT-CD4+ > 200 células/mm³."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 66380,
+    "tags": [],
+    "enunciado": "Paciente de 35 anos, sem comorbidades, procura o posto de saúde para atualizar suas vacinas. Em seu cartão de vacinação há registro das seguintes doses: Considerando as recomendações do Ministério da Saúde, qual é a conduta adequada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Prescrever 3 doses de hepatite B, 1 dose de dT e orientar vacinação anual anti-influenza."
+      },
+      {
+        "letra": "B",
+        "texto": "Prescrever 1 dose de hepatite B, 1 dose de T T, 1 dose de tríplice viral e orientar vacinação anual anti-influenza."
+      },
+      {
+        "letra": "C",
+        "texto": "Prescrever 1 dose de hepatite B, 1 dose de DTP e orientar vacinação anual anti-influenza."
+      },
+      {
+        "letra": "D",
+        "texto": "Solicitar anti-HBs para avaliar imunidade contra hepatite B, orientar 1 dose de T T e vacinação anual anti-influenza."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66381,
+    "tags": [],
+    "enunciado": "Paciente de 27 anos de idade inicia acompanhamento médico após o diagnóstico de HIV, já devidamente con(cid:72)rmado. Encontra-se assintomático e já leva exames demonstrando CD4 - 422 células/mm³. Na abordagem, mostra bom entendimento da doença e demonstra ansiedade em iniciar prontamente a terapia antirretroviral (TARV). Após as explicações necessárias acerca da TARV, o paciente conta que pesquisou muito as doenças oportunistas que poderia ter em razão do HIV, questionando acerca da necessidade de iniciar as pro(cid:72)laxias para essas infecções. Considerando o caso clínico apresentado, o microrganismo contra o qual se deve realizar a profilaxia nesse paciente é o:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "P. jirovecii."
+      },
+      {
+        "letra": "B",
+        "texto": "T. gondii."
+      },
+      {
+        "letra": "C",
+        "texto": "S. pneumoniae."
+      },
+      {
+        "letra": "D",
+        "texto": "CMV."
+      },
+      {
+        "letra": "E",
+        "texto": "M. avium."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66382,
+    "tags": [],
+    "enunciado": "Um lactante de 7 meses, hígido, na 1ª consulta de puericultura apresenta, em seu cartão, somente as 2 vacinas recebidas na maternidade no 1º dia de vida e as 4 vacinas recebidas com 2 meses de vida na Unidade de Saúde. Que vacinas esse lactente deve receber no momento, segundo o atual Calendário Vacinal do Ministério da Saúde?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Vacina pentavalente (DTP/Hib/HB) + Vacina Inativada Poliomelite (VIP) + Vacina Oral Rotavírus Humano (VORH) + Vacina pneumocócica 10-valente (conjugada) + Vacina meningocócica C (conjugada)."
+      },
+      {
+        "letra": "B",
+        "texto": "DTP/Hib/HB + Vacina Oral Poliomelite (VOP) + VORH + Vacina pneumocócica 10- valente (conjugada) + Vacina meningocócica C (conjugada)."
+      },
+      {
+        "letra": "C",
+        "texto": "DTP/Hib/HB + Vacina Inativada Poliomelite (VIP) + vacina pneumocócica 10-valente (conjugada) + vacina meningocócica C (conjugada)"
+      },
+      {
+        "letra": "D",
+        "texto": "DTP/Hib/HB + VOP + Vacina pneumocócica 10-valente (conjugada) + Vacina meningocócica C (conjugada)."
+      },
+      {
+        "letra": "E",
+        "texto": "Nenhuma das anteriores."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66383,
+    "tags": [],
+    "enunciado": "Criança de 2 anos de idade, procedente de São Paulo, foi internada devido à doença meningocócica. Os pais apresentaram carteira vacinal em dia, incluindo as vacinas meningocócicas atualmente distribuídas pelo Sistema Único de Saúde. O resultado do sorotipo que causou a doença mostrou que a vacina teve efeito protetor, sendo causada por outro sorotipo. O sorotipo mais provável de ter sido a causa da doença do caso relatado é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Y."
+      },
+      {
+        "letra": "B",
+        "texto": "W135."
+      },
+      {
+        "letra": "C",
+        "texto": "C."
+      },
+      {
+        "letra": "D",
+        "texto": "B."
+      },
+      {
+        "letra": "E",
+        "texto": "A."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 66384,
+    "tags": [],
+    "enunciado": "Um menino, (cid:72)lho de pais que (cid:72)zeram a opção por não vaciná-lo, apresentou quadro de difteria, com exsudato amigdaliano e complicações cardíacas e neurológicas. A imunidade da vacina contra difteria é conferida por e a primeira dose deve ser administrada com a idade de, respectivamente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Toxóide diftérico - 2 meses."
+      },
+      {
+        "letra": "B",
+        "texto": "Fragmentos protéicos da membrana do Corynebacterim diphtheriae - 2 meses."
+      },
+      {
+        "letra": "C",
+        "texto": "Polissacarídeos do Corynebacterim diphtheriae - 1 mês."
+      },
+      {
+        "letra": "D",
+        "texto": "Sequenciamento de proteína da parede do Corynebacterim diphtheriae - 1 mês."
+      },
+      {
+        "letra": "E",
+        "texto": "Polissacarídeos do Corynebacterim diphtheriae conjugados à proteína - 2 meses."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66385,
+    "tags": [],
+    "enunciado": "Analisando as afirmações abaixo, assinale a alternativa incorreta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "De maneira geral, as vacinas de vírus vivos atenuados deverão ser aplicadas pela via subcutânea."
+      },
+      {
+        "letra": "B",
+        "texto": "Pacientes alérgicos ao ovo deverão evitar receber vacinas contra febre amarela e tríplice viral."
+      },
+      {
+        "letra": "C",
+        "texto": "A vacina contra pertússis utilizada pelo Programa Nacional de Imunizações pode provocar reação do tipo síndrome hipotônica-hiporresponsiva."
+      },
+      {
+        "letra": "D",
+        "texto": "A vacina antipneumocócica conjugada é mais eficaz que a antipneumocócica de polissacarídeo."
+      },
+      {
+        "letra": "E",
+        "texto": "A diferença entre vacinas dupla bacteriana infantil e dupla bacteriana adulto relaciona-se com a quantidade de toxoide diftérico presente."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66386,
+    "tags": [],
+    "enunciado": "Assinale a alternativa que apresenta uma vacina que é contraindicada para uma criança imunodeprimida:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Rotavírus."
+      },
+      {
+        "letra": "B",
+        "texto": "Vírus influenza."
+      },
+      {
+        "letra": "C",
+        "texto": "HPV."
+      },
+      {
+        "letra": "D",
+        "texto": "VIP."
+      },
+      {
+        "letra": "E",
+        "texto": "Hepatite B."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66387,
+    "tags": [],
+    "enunciado": "Qual, dentre as seguintes afirmações, é CORRETA, no que se refere à vacina contra o sarampo?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A primeira dose da vacina contra o sarampo deve ser administrada em crianças entre 6 a 12 meses de idade."
+      },
+      {
+        "letra": "B",
+        "texto": "A despeito de substanciais dados em contrário, alguns membros da população acreditam existir associação entre vacinação contra o sarampo e o autismo."
+      },
+      {
+        "letra": "C",
+        "texto": "A vacina contra o sarampo não mais deve ser combinada às vacinas contra a rubéola e a caxumba."
+      },
+      {
+        "letra": "D",
+        "texto": "O uso associado de imunoglobulina humana não interfere na eficácia da vacina contra o sarampo."
+      },
+      {
+        "letra": "E",
+        "texto": "A vacina contra o sarampo pode ser utilizada sem restrições em pessoas infectadas pelo HIV."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66388,
+    "tags": [],
+    "enunciado": "Um lactente hígido de 6 meses de idade comparece à unidade básica de saúde para o retorno de puericultura. Não há queixas e o exame físico está sem anormalidades. O crescimento e o desenvolvimento neuropsicomotor da criança são adequados. A mãe do lactente é portadora do Vírus da Imunode(cid:72)ciência Humana (HIV), mas a criança não. De acordo com o calendário de imunizações do Estado de São Paulo de 2015, a alternativa CORRETA sobre as vacinas que devem ser administradas ao lactente nesta visita ao posto é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Vacina pentavalente (difteria - tétano - coqueluche - Haemophilus influenzae tipo B hepatite B) + vacina conjugada pneumocócica 10-valente + vacina de vírus inativados contra a poliomielite."
+      },
+      {
+        "letra": "B",
+        "texto": "Vacina pentavalente (difteria - tétano - coqueluche - Haemophilus influenzae tipo B - hepatite B) + vacina conjugada pneumocócica 10-valente + vacina de vírus atenuados contra a poliomielite."
+      },
+      {
+        "letra": "C",
+        "texto": "Vacina pentavalente (difteria - tétano - coqueluche - Haemophilus influenzae tipo B hepatite B) + vacina conjugada pneumocócica 10-valente + vacina de vírus atenuados contra poliomielite + vacina oral contra o rotavírus"
+      },
+      {
+        "letra": "D",
+        "texto": "Vacina pentavalente (difteria - tétano - coqueluche - Haemophilus influenzae tipo B hepatite B) + vacina conjugada pneumocócica 10-valente + vacina de vírus inativados contra a poliomielite + vacina oral contra o rotavírus."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66389,
+    "tags": [],
+    "enunciado": "Você atende adolescente de 16 anos que desconhece sua situação vacinal e perdeu sua carteira de vacinação. Levando em consideração o Calendário de Vacinação do Adolescente do Ministério da Saúde, qual a melhor conduta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Administrar três doses da vacina contra hepatite B, duas doses da vacina contra sarampo, caxumba e rubéola e três doses da vacina contra Difteria e Tétano (dT), respeitando os intervalos mínimos entre as doses."
+      },
+      {
+        "letra": "B",
+        "texto": "Esse adolescente deverá apenas fazer o reforço da vacina dupla do adulto, dt, visto que ele deve ter recebido o esquema básico de vacinação na infância."
+      },
+      {
+        "letra": "C",
+        "texto": "Deverá receber uma dose da vacina BCG, uma dose da vacina contra sarampo,caxumba e rubéola, reforço da vacina contra hepatite B e reforço da dt."
+      },
+      {
+        "letra": "D",
+        "texto": "Este adolescente deverá receber reforço da vacina contra hepatite B e reforço da vacina tríplice bacteriana do adulto (dTpa)."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66390,
+    "tags": [],
+    "enunciado": "Criança com 4 meses de idade procura UBS para receber vacinas atrasadas. Ela (cid:72)cou internada por 15 dias devido a quadro de bronquiolite. Mãe está preocupada porque a criança só recebeu vacinas até 2 meses de idade. Assinale a alternativa contendo as vacinas que deverá receber hoje.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Meningo C e pneumo 10."
+      },
+      {
+        "letra": "B",
+        "texto": "Meningo C, penta, VOP, pneumo 10."
+      },
+      {
+        "letra": "C",
+        "texto": "Meningo C e retorno em 1 mês para as outras vacinas."
+      },
+      {
+        "letra": "D",
+        "texto": "Meningo C, penta (DPT, Hib, Hep. B), VIP, rotavírus, pneumo 10."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 66391,
+    "tags": [],
+    "enunciado": "O plano nacional de imunização brasileiro é um dos que oferece maior cobertura no mundo. Sobre as vacinas no Brasil, é CORRETO afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Crianças portadoras do vírus HIV não podem receber vacinas com vírus vivo atenuados."
+      },
+      {
+        "letra": "B",
+        "texto": "A BCG deverá ser administrada ao nascer e no 6° mês de vida para todas as crianças."
+      },
+      {
+        "letra": "C",
+        "texto": "É contraindicado vacinar crianças em uso de corticoide em qualquer dosagem."
+      },
+      {
+        "letra": "D",
+        "texto": "A Sabin, para poliomielite, é uma vacina com vírus vivo atenuados."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 66392,
+    "tags": [],
+    "enunciado": "Um estudo realizado em 2013 revelou que a 2ª principal causa de mortalidade no Brasil é a decorrente de acidentes de trânsito. Não é raro que vítimas de acidentes automobilísticos apresentem trauma esplênico com consequente necessidade de esplenectomia. Considerando a participação do baço no combate às infecções, pacientes esplenectomizados deverão receber vacinação contra quais microorganismos?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Streptococcus pneumoniae, Haemophilus influenzae"
+      },
+      {
+        "letra": "B",
+        "texto": "Streptococcus viridans, Streptococcus pneumoniae"
+      },
+      {
+        "letra": "C",
+        "texto": "Staphylococcus aureus, Haemophilus influenzae"
+      },
+      {
+        "letra": "D",
+        "texto": "Varicela zoster, Epstein bar"
+      },
+      {
+        "letra": "E",
+        "texto": "Hameophilus influenzae, Epstein Bar"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66393,
+    "tags": [],
+    "enunciado": "Lactente de 2 meses, nascido de parto domiciliar e nunca vacinado, com quadro provável de imunode(cid:72)ciência congênita, em boas condições clínicas, é levado à UBS para receber orientações quanto à vacinação. A conduta adequada é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aplicar somente vacinas com agentes inativados."
+      },
+      {
+        "letra": "B",
+        "texto": "Aplicar somente vacinas com agentes atenuados."
+      },
+      {
+        "letra": "C",
+        "texto": "Aplicar todas as vacinas indicadas para idade."
+      },
+      {
+        "letra": "D",
+        "texto": "Não aplicar nenhuma vacina."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66394,
+    "tags": [],
+    "enunciado": "Um paciente de 18 anos, transplantado de rim na infância, vai fazer um intercâmbio no exterior e procura o médico para atualizar seu calendáriol, por exigência da instituição de ensino internacional. Qual das vacinas abaixo relacionadas ele NÃO deverá receber?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "dT (Difteria e tétano)"
+      },
+      {
+        "letra": "B",
+        "texto": "Hepatite B"
+      },
+      {
+        "letra": "C",
+        "texto": "Febre amarela"
+      },
+      {
+        "letra": "D",
+        "texto": "Meningocócica"
+      },
+      {
+        "letra": "E",
+        "texto": "Influenza"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66395,
+    "tags": [],
+    "enunciado": "Imunização São consideradas categorias de risco clínico com indicação de vacina anti-influenza sazonal, exceto,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fibrose cística, doença cardíaca isquêmica, Síndrome da Imunodeficiência Adquirida (SIDA)."
+      },
+      {
+        "letra": "B",
+        "texto": "Diabetes, hepatites crônica, esclerose múltipla."
+      },
+      {
+        "letra": "C",
+        "texto": "Doença renal cônica estágio 3, síndrome de Down, atresia biliar."
+      },
+      {
+        "letra": "D",
+        "texto": "Asma, insuficiência cardíaca, pós-transplantados."
+      },
+      {
+        "letra": "E",
+        "texto": "Hipertensão arterial, obesidade, DPOC."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 66396,
+    "tags": [],
+    "enunciado": "Paciente do sexo masculino, 58 anos, vem ao ambulatório da Unidade Básica de Saúde do seu bairro, solicitando exame físico de rotina. Não apresenta nenhuma história clínica signi(cid:72)cativa e não faz uso regular de medicação. Refere pai falecido aos 82 anos por morte súbita. Mãe ainda viva e portadora de hipertensão arterial sistêmica. Possui uma irmã sem nenhuma condição clínica crônica conhecida. Nega etilismo, tabagismo e uso de drogas. Não praticava atividade física. Ao exame, sua pressão arterial é de 127/82 mmhg, pulso de 80 batimentos por minuto (bpm), frequência respiratória de 18 movimentos por minuto (mpm), altura de 1,70 m e peso de 86,5 kg. Ao exame físico cuidadoso, não revela nenhuma anormalidade. Que imunizações devem ser recomendadas a esse paciente segundo o Ministério da Saúde no Brasil?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Toxoide tetânico, hepatite b, febre amarela e dupla tipo adulto."
+      },
+      {
+        "letra": "B",
+        "texto": "Hepatite B, hepatite A, febre amarela e dupla adulto."
+      },
+      {
+        "letra": "C",
+        "texto": "Tríplice viral, hepatite A, febre amarela e toxoide tetânico."
+      },
+      {
+        "letra": "D",
+        "texto": "Febre amarela, hepatite B, dupla adulto e toxoide tetânico."
+      },
+      {
+        "letra": "E",
+        "texto": "Toxoide tetânico, hepatite A, dupla adulto e antipneumocócica."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66397,
+    "tags": [],
+    "enunciado": "Assinale a assertiva correta sobre a vacinação contra o papilomavírus humano (HPV).",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Dentre os principais eventos adversos atribuíveis à vacina, a síndrome de Guillan-Barré é o mais prevalente."
+      },
+      {
+        "letra": "B",
+        "texto": "O objetivo da vacina é prevenção de câncer de endométrio, cujo desenvolvimento está relacionado à infecção pelo HPV."
+      },
+      {
+        "letra": "C",
+        "texto": "No Brasil, a Sociedade Brasileira de Pediatria recomenda a vacinação a partir dos 14 anos de idade, para ambos os sexos."
+      },
+      {
+        "letra": "D",
+        "texto": "Há duas vacinas disponíveis, bivalente e quadrivalente; ambas protegem contra os tipos 16 e 18 do vírus."
+      },
+      {
+        "letra": "E",
+        "texto": "Imunossupressão e amamentação são contraindicações ao uso da vacina."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 66398,
+    "tags": [],
+    "enunciado": "A vacina contra hepatite A foi introduzida no Calendário Nacional de Vacinação do SUS. Essa vacina está indicada para crianças de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "3 a 5 anos."
+      },
+      {
+        "letra": "B",
+        "texto": "6 a 7 anos."
+      },
+      {
+        "letra": "C",
+        "texto": "12 a 23 meses."
+      },
+      {
+        "letra": "D",
+        "texto": "6 a 11 meses."
+      },
+      {
+        "letra": "E",
+        "texto": "24 a 36 meses."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66399,
+    "tags": [],
+    "enunciado": "ADAPTADA - De acordo com o Calendário de Vacinação recomendado pela Sociedade Brasileira de Pediatria (2014), uma criança de três meses de idade deve estar vacinada com as seguintes vacinas:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "BCG, Hepatite B, Pentavalente, VIP, Rotavírus, Pneumocócica-10."
+      },
+      {
+        "letra": "B",
+        "texto": "BCG, Hepatite B, Pentavalente, VOP, Rotavírus, Pneumocócica -10."
+      },
+      {
+        "letra": "C",
+        "texto": "BCG, Hepatite B, Pentavalente, VIP, Rotavírus, Pneumocócica -10, Meningocócica-C."
+      },
+      {
+        "letra": "D",
+        "texto": "BCG, Hepatite B, Pentavalente, VOP, Rotavírus, Pneumocócica -10, Meningocócica -C."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66400,
+    "tags": [],
+    "enunciado": "Segundo as recomendações do Ministério da Saúde, em relação aos procedimentos de vacinação, pode-se afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A vacina contra influenza é composta por vírus atenuados e não é indicada a menores de 9 meses de idade."
+      },
+      {
+        "letra": "B",
+        "texto": "A ocorrência de febre acima de 38,5ºC após a administração de uma vacina constitui contraindicação à dose subsequente desta vacina."
+      },
+      {
+        "letra": "C",
+        "texto": "A vacina contra varicela pode ser administrada a partir dos 9 meses de idade em casos de contactantes hospitalares de varicela."
+      },
+      {
+        "letra": "D",
+        "texto": "O uso de corticóides por via inalatória constitui contraindicação à administração de vacinas de vírus vivos atenuados."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66401,
+    "tags": [],
+    "enunciado": "Quanto às vacinas que utilizam vírus vivo atenuado, assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Influenza"
+      },
+      {
+        "letra": "B",
+        "texto": "Antipólio VIP"
+      },
+      {
+        "letra": "C",
+        "texto": "HPV"
+      },
+      {
+        "letra": "D",
+        "texto": "Antirrotavírus"
+      },
+      {
+        "letra": "E",
+        "texto": "Hepatite B"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 66402,
+    "tags": [],
+    "enunciado": "Uma criança com 22 meses de idade recebeu regularmente todas as vacinas indicadas pelo calendário brasileiro de imunizações setembro/2014 (SUS – Ministério da Saúde). Para quantos agentes de doenças infecciosas essa criança de 22 meses já foi vacinada, excluindo- se as vacinas da gripe e da febre amarela?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "11."
+      },
+      {
+        "letra": "B",
+        "texto": "16."
+      },
+      {
+        "letra": "C",
+        "texto": "12."
+      },
+      {
+        "letra": "D",
+        "texto": "15."
+      },
+      {
+        "letra": "E",
+        "texto": "13."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 66403,
+    "tags": [],
+    "enunciado": "Você atende em seu consultório um adolescente, sexo masculino, 14 anos, natural Bahia, procedente de São Paulo há 4 meses, que perdeu seu cartão de vacinação. Sua mãe refere que todas as suas vacinas estão em dia, mas não se recorda quando recebeu a última. Das alternativas abaixo, qual a conduta mais apropriada, levando em consideração as recomendações do Centro de Vigilância Epidemiológica de São Paulo?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O adolescente deverá receber uma dose de BCG (caso não possua cicatriz vacinal naregião do deltoide direito), três doses da vacina contra hepatite B, três doses da vacina contra poliomielite, duas doses da vacina contra sarampo-caxumba e rubéola (SCR) e três doses da vacina contra difteria e tétano (DT), respeitando os intervalos mínimos entre as doses."
+      },
+      {
+        "letra": "B",
+        "texto": "Como a mãe refere que o adolescente recebeu todas as vacinas preconizadas, apenasdar continuidade ao esquema vacinal, ou seja, orientar para que com 15 anos ele receba a vacina DT."
+      },
+      {
+        "letra": "C",
+        "texto": "O adolescente deverá receber uma dose da vacina contra hepatite B, uma dose davacina contra poliomielite, uma dose da vacina BCG, uma dose da vacina contra SCR. Quando completar 15 anos deverá receber uma dose da vacina DT que será repetida a cada 10 anos."
+      },
+      {
+        "letra": "D",
+        "texto": "O adolescente deverá receber todas as vacinas do calendário básico, respeitando ointervalo mínimo entre as doses. São elas: BCG (uma dose); hepatite B (três doses); poliomielite inativada (vip - três doses); pneumocócica-10 valente (três doses); meningocócica c (três doses); DPT (difteria/coqueluche/tétano) + HIB (três doses); SCR (duas doses); hepatite A (uma dose); varicela (uma dose) e influenza (uma dose)."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66404,
+    "tags": [],
+    "enunciado": "Entre as vacinas abaixo, as que previnem câncer e forma grave da doença (nesta sequência) são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hepatite A, Rubéola."
+      },
+      {
+        "letra": "B",
+        "texto": "Varicela, Febre amarela."
+      },
+      {
+        "letra": "C",
+        "texto": "Hepatite B e BCG."
+      },
+      {
+        "letra": "D",
+        "texto": "HPV, Raiva."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66405,
+    "tags": [],
+    "enunciado": "Em relação às imunizações, são corretas as afirmações abaixo, EXCETO a da alternativa:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Vacinas de vírus vivos, quando não administradas simultaneamente, devem ser aplicadas com intervalo mínimo de quatro semanas."
+      },
+      {
+        "letra": "B",
+        "texto": "Em caso de esquecimento de doses, não é necessário reiniciar o esquema vacinal, apenas completá-lo."
+      },
+      {
+        "letra": "C",
+        "texto": "Em paciente com estado vacinal desconhecido ou duvidoso, a recomendação é somente vacinar após exames laboratoriais."
+      },
+      {
+        "letra": "D",
+        "texto": "O uso de imunoglobulinas e hemoderivados pode interferir na resposta às vacinas de vírus vivos."
+      },
+      {
+        "letra": "E",
+        "texto": "As reações adversas mais comuns às vacinas são: dor local, edema, eritema, enduração e febre."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66406,
+    "tags": [],
+    "enunciado": "Paciente 65 anos, morador do Caimbé, internado por úlcera em membro inferior. Recebe alta após antibioticoterapia. Você questiona o mesmo sobre o seu cartão vacinal, e o mesmo diz não ter. Você então prescreve as seguintes vacinas visando prevenção de doenças futuras:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Dupla adulto a cada 5 anos. Influenza anual. Anti-pneumocócica a cada 10 anos, Febre Amarela a cada 10 anos, Hepatite B."
+      },
+      {
+        "letra": "B",
+        "texto": "Dupla adulto a cada 10 anos, Influenza anual, Anti-pneumocócica a cada 10 anos, Febre Amarela a cada 10 anos, Hepatite B."
+      },
+      {
+        "letra": "C",
+        "texto": "Dupla adulto a cada 10 anos, Influenza anual, Anti-pneumocócica a cada 5 anos, Hepatite A B."
+      },
+      {
+        "letra": "D",
+        "texto": "Dupla adulto a cada 10 anos, Influenza anual, Meningocóccica, Febre Amarela a cada 10 anos, Hepatite B."
+      },
+      {
+        "letra": "E",
+        "texto": "Dupla adulto a cada 10 anos, Influenza anual, Anti-pneumocócica a cada 5 anos, Febre Amarela a cada 10 anos, Hepatite B."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 66407,
+    "tags": [],
+    "enunciado": "Paciente masculino de 40 anos de idade, portador de doença de Hodgkin. As vacinas recomendadas são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sarampo/caxumba/rubéola; difteria/tétano; hepatite B."
+      },
+      {
+        "letra": "B",
+        "texto": "Varicela/zoster, pneumocócica 23 valente; hepatite B."
+      },
+      {
+        "letra": "C",
+        "texto": "Haemophillus influenzae tipo b conjugado; pneumocócia 23 valente em condições especiais; meningocócica tetravalente."
+      },
+      {
+        "letra": "D",
+        "texto": "Sarampo/caxumba/ rubéola;Haemophillus influenzae, meningocócica tetravalente."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66408,
+    "tags": [],
+    "enunciado": "Em relação à vacinação de idosos, julgue o item seguinte.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "vacina contra a pneumonia causada pelo pneumococo deve ser feita anualmente, principalmente nos indivíduos que convivem em instituições fechadas, tais como casas geriátricas, hospitais, asilos e casas de repouso."
+      },
+      {
+        "letra": "A",
+        "texto": "Certo."
+      },
+      {
+        "letra": "B",
+        "texto": "Errado."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66409,
+    "tags": [],
+    "enunciado": "Assinale a alternativa que responde CORRETAMENTE à pergunta abaixo. Dos componentes da vacina pentavalente (DPT + Hib + Hep B), utilizada rotineiramente pela Secretaria Municipal de Saúde de Florianópolis em 2013, qual provoca efeitos colaterais significativos, mais frequentemente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Diftérico"
+      },
+      {
+        "letra": "B",
+        "texto": "Tétano"
+      },
+      {
+        "letra": "C",
+        "texto": "Pertusis"
+      },
+      {
+        "letra": "D",
+        "texto": "Hemófilos"
+      },
+      {
+        "letra": "E",
+        "texto": "Hepatite B"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66410,
+    "tags": [],
+    "enunciado": "Assinale a alternativa que responde CORRETAMENTE a pergunta a seguir. Uma criança saudável recebeu esquema de vacinação completo no primeiro ano de vida, de acordo com o Calendário Nacional de Vacinação vigente no Brasil em 2013. Com que idade, de acordo com este calendário, a criança deve receber o primeiro reforço da vacina DTP e em qual apresentação é recomendada a vacina para este reforço?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aos 15 meses – vacina tetravalente (DTP + Hib)."
+      },
+      {
+        "letra": "B",
+        "texto": "Aos 15 meses – vacina pentavalente (DTP + Hib + Hepatite B)."
+      },
+      {
+        "letra": "C",
+        "texto": "Aos 18 meses – vacina DTP."
+      },
+      {
+        "letra": "D",
+        "texto": "Aos 15 meses – vacina DTP."
+      },
+      {
+        "letra": "E",
+        "texto": "Aos 24 meses – vacina DTP."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 66411,
+    "tags": [],
+    "enunciado": "Segundo o Calendário Nacional de Vacinação do Ministério de Saúde do Brasil, a vacina contra rotavírus deve ser aplicada aos:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "2 e 4 meses."
+      },
+      {
+        "letra": "B",
+        "texto": "3 e 5 meses."
+      },
+      {
+        "letra": "C",
+        "texto": "2, 4 e 6 meses."
+      },
+      {
+        "letra": "D",
+        "texto": "9 meses."
+      },
+      {
+        "letra": "E",
+        "texto": "12 meses."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66412,
+    "tags": [],
+    "enunciado": "O Ministério da Saúde iniciará a vacinação contra o vírus do papiloma humano em 2014. A faixa etária das meninas que receberão as primeiras doses dessa vacina é de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "7 a 9 anos."
+      },
+      {
+        "letra": "B",
+        "texto": "9 a 11 anos."
+      },
+      {
+        "letra": "C",
+        "texto": "9 a 13 anos."
+      },
+      {
+        "letra": "D",
+        "texto": "11 a 13 anos."
+      },
+      {
+        "letra": "E",
+        "texto": "13 a 15 anos."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 66413,
+    "tags": [],
+    "enunciado": "Pedro tem 12 anos de idade e vem à sua primeira consulta na UBS de um bairro do município de São Paulo onde irá morar a partir de agora. Em relação à vacinação, Matilda, sua mãe, relata que falta uma dose contra hepatite B, mas perdeu a carteira de vacinação em uma enchente. Pedro apresenta cicatriz de BCG. Qual é a conduta adequada para regularizar a situação vacinal de Pedro?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Como o cartão de vacina foi perdido, deve-se revacinar Pedro apenas com 3 doses contra hepatite B; 3 doses de difteria e tétano (dupla adulto) e duas doses de sarampo, caxumba e rubéola que são vacinas importantes nessa faixa etária."
+      },
+      {
+        "letra": "B",
+        "texto": "Como a mãe lembra qual vacina está faltando, deve-se abrir novo cartão e atualizar o esquema vacinal, administrando a última dose contra hepatite B e administrando 3 doses da difteria e tétano que são vacinas importantes nessa faixa etária."
+      },
+      {
+        "letra": "C",
+        "texto": "Como o cartão de vacina foi perdido, deve-se revacinar Pedro com 3 doses de anti-hepatite B; 3 doses da difteria e tétano (dupla adulto); 3 doses de antipólio oral e duas doses de sarampo, caxumba e rubéola."
+      },
+      {
+        "letra": "D",
+        "texto": "Como a mãe lembra qual vacina está faltando, deve-se abrir novo cartão e revacinar apenas com 1 dose contra hepatite B; 1 dose de BCG e duas doses de sarampo, caxumba e rubéola que são vacinas importantes nessa faixa etária."
+      },
+      {
+        "letra": "E",
+        "texto": "Como o cartão de vacina foi perdido, deve-se revacinar Pedro com 1 dose de BCG; 3doses de anti- hepatite B; 3 doses da difteria e tétano (dupla adulto); 3 doses de antipólio oral e duas doses contra meningite e 1 dose contra pneumococo."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66414,
+    "tags": [],
+    "enunciado": "Martina acaba de nascer e o pediatra é informado que sua mãe, Ana, tem HbsAg positivo. Neste caso deve- se:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "colher sorologia para o vírus da hepatite B e bilirrubinas da recém-nascida e suspendera amamentação até receber o resultado dos exames."
+      },
+      {
+        "letra": "B",
+        "texto": "administrar a vacina contra hepatite B e a imunoglobulina específica para hepatite B narecém- nascida nas primeiras 12 horas e manter a amamentação."
+      },
+      {
+        "letra": "C",
+        "texto": "administrar na recém-nascida a imunoglobulina específica para hepatite B nasprimeiras 12 horas de vida e a vacina contra hepatite B até 30 dias."
+      },
+      {
+        "letra": "D",
+        "texto": "administrar a vacina contra hepatite B e prescrever aciclovir para a recém-nascidaainda no berçário e suspender amamentação por 24 horas."
+      },
+      {
+        "letra": "E",
+        "texto": "manter observação rigorosa durante 24 horas, buscando identificar sintomas dehepatite neonatal e colher sorologia para hepatite B e bilirrubinas."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66415,
+    "tags": [],
+    "enunciado": "Desde o segundo semestre de 2012, o Estado de São Paulo introduziu para a primeira e a segunda doses de vacina contra poliomielite a Vacina Inativada contra Poliomielite (VIP) no calendário estadual das crianças. Em 2013, a Campanha Nacional de Vacinação contra Poliomielite foi realizada em única fase, utilizando a Vacina Oral contra Poliomielite (VOP) no mês de junho. A explicação para estas alterações considera que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "as duas estratégias foram realizadas para diminuir os custos operacionais com a vacinação contra poliomielite, considerando que o último caso da doença no Brasil aconteceu em 1989."
+      },
+      {
+        "letra": "B",
+        "texto": "a mudança da vacina oral para a vacina inativada foi para diminuir os custos, e a estratégia de campanha em fase única aconteceu devido à diminuição de casos no mundo, portanto reduziu-se o risco de reintrodução do vírus selvagem."
+      },
+      {
+        "letra": "C",
+        "texto": "a primeira mudança ocorreu pela preocupação com a paralisia pós-vacinal enquanto evento adverso da VOP, que, embora seja evento raro, é grave, e a segunda mudança ocorreu para diminuir custos operacionais com campanhas."
+      },
+      {
+        "letra": "D",
+        "texto": "a primeira estratégia foi realizada por causa da preocupação com a paralisia pós- vacinal enquanto evento adverso da VOP, e a segunda, devido à ausência de risco de reintrodução do vírus selvagem no Brasil."
+      },
+      {
+        "letra": "E",
+        "texto": "a mudança da VOP para a VIP ocorreu para diminuir os riscos da paralisia pós-vacinal, ainda que rara, e a segunda ocorreu porque, devido à heterogeneidade da cobertura no país, é necessário manter uma etapa de campanha."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 66416,
+    "tags": [],
+    "enunciado": "ADAPTADA - Você trabalha em uma Unidade Básica de Saúde na Grande São Paulo e atende em consulta puericultura um menino de 11 meses de idade. A carteira de vacinação está completa de acordo com as recomendações do Programa Nacional de Imunização 2013 do Ministério da Saúde. Quais as próximas vacinas que essa criança deverá receber até completar 05 anos?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aos 12 meses - tríplice viral (sarampo-caxumba-rubéola) / reforço pneumococo 10valente/ reforço da meningo C; Aos 15 meses - reforço da DPT (difteria-pertussis-tétano) / reforço da VOP (vacina contra poliomielite oral) / tetra viral (sarampo-caxumbarubéola-varicela); Aos 04 anos - 2º . reforço da DPT/ reforço VOP/ varicela."
+      },
+      {
+        "letra": "B",
+        "texto": "Aos 12 meses - tetra viral / reforço pneumococo 10 valente; Aos 15 meses - reforço daDPT/ reforço da VIP (vacina contra poliomielite inativada) / reforço da meningo C; Aos 04 anos - 2º. reforço da DPT/ reforço VIP."
+      },
+      {
+        "letra": "C",
+        "texto": "Aos 12 meses - tríplice viral / reforço pneumococo 10 valente; / reforço da meningo CAos 15 meses - reforço da DPT / reforço da VOP; aos 04 anos - 2º. reforço da DPT/ reforço VOP/ tríplice viral."
+      },
+      {
+        "letra": "D",
+        "texto": "Aos 12 meses - tetra viral / reforço da meningo C; Aos 15 meses - reforço da DPT/reforço da VIP/ reforço da pneumococo 10 valente; Aos 04 anos - reforço da dT/ reforço VIP/ tetral viral."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66417,
+    "tags": [],
+    "enunciado": "Em relação à conduta frente aos atrasos vacinais nas salas de vacina de Unidade Básicas de Saúde do Estado de São Paulo, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A vacina contra o rotavírus humano deve ter a segunda dose aplicada até os cinco meses de vida pois a aplicação fora deste período está relacionada à maior ocorrência de intussuscepção intestinal na população vacinada."
+      },
+      {
+        "letra": "B",
+        "texto": "Para criança com três anos de vida que recebeu somente uma dose da vacina penta aos dois meses de vida deve-se aplicar uma dose da vacina Hib e duas doses da vacina DTP."
+      },
+      {
+        "letra": "C",
+        "texto": "A vacina Pneumo10V deve ser realizada em três doses com intervalo de dois meses e um reforço nas crianças que começarem o esquema vacinal no segundo semestre de vida."
+      },
+      {
+        "letra": "D",
+        "texto": "Para criança com 8 anos de vida que não recebeu as vacinas do segundo reforço deve-se realizar uma dose de DTP e uma dose de VOP."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66418,
+    "tags": [],
+    "enunciado": "Quais vacinas e número de doses a Sociedade Brasileira de Pediatria recomenda a uma adolescente de 17 anos, hígida, que recebeu as vacinas relacionadas a seguir? Ao nascimento – BCG; 2 meses – DTP (difteria, tétano e coqueluche), vacina oral contra poliomielite (VOP); 4 meses – DTP+Hib, VOP; 6 meses – DTP+Hib, VOP; 9 meses – contra sarampo; 15 meses – DTP, vacina oral contra poliomielite, vacina contra Sarampo + Caxumba + Rubéola (SCR); 5 anos – DTP, VOP, Hib (hemófilos influenza tipo B), Hepatite B.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "três doses da vacina contra hepatite B, uma dose de vacina contra SCR, três doses da vacina contra papilomavírus humano (HPV), duas doses da vacina contra hepatite A, reforço da dupla adulto (dT) ou tríplice bacteriana do adulto (dTpa), uma dose da vacina antimeningocócica conjugada."
+      },
+      {
+        "letra": "B",
+        "texto": "duas doses da vacina contra hepatite B, uma dose de vacina contra SCR, três doses da vacina contra HPV, duas doses da vacina contra hepatite A, reforço da dT ou dTpa, uma dose da vacina antimeningocócica conjugada."
+      },
+      {
+        "letra": "C",
+        "texto": "três doses da vacina contra hepatite B, duas doses da vacina contra HPV, duas doses da vacina contra hepatite A, reforço da dT ou dTpa, duas doses da vacina antimeningocócica conjugada."
+      },
+      {
+        "letra": "D",
+        "texto": "duas doses da vacina contra hepatite B, reforço da dT ou dTpa, duas doses da vacina contra HPV, duas doses da vacina antimeningocócica conjugada."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66419,
+    "tags": [],
+    "enunciado": "*adaptada* Em relação à vacinação na infância e adolescência, considerando as atuais orientações do Ministério da Saúde, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "aplicação de uma segunda dose de vacina BCG é recomendada nos casos em que não se observa a cicatriz vacinal."
+      },
+      {
+        "letra": "B",
+        "texto": "reforço da vacina contra difteria e tétano deve ser aplicada no adolescente a cada 10 anos, sendo que preferencialmente o primeiro reforço deve ser realizado com a vacina dTpa, que inclui o reforço contra coqueluche."
+      },
+      {
+        "letra": "C",
+        "texto": "vacina contra hepatite B deve ser aplicada em três doses, aos dois, quatro e seis meses de idade."
+      },
+      {
+        "letra": "D",
+        "texto": "vacina contra o vírus da poliomielite deve ser aplicada com a vacina oral nas duas primeiras doses e vacina inativada nas doses seguintes."
+      },
+      {
+        "letra": "E",
+        "texto": "vacina contra varicela deve ser aplicada a partir do 6º mês de vida."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66420,
+    "tags": [],
+    "enunciado": "A mãe traz seu (cid:72)lho com um mês de vida para consulta de puericultura e esse se apresenta com febre de 39ºC, que iniciou nessa manhã. Ao exame físico, encontra-se bem. Ela questiona sobre as vacinas a serem feitas. Qual a sua conduta, conforme o calendário vacinal de 2013?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Contraindica as vacinas nesta consulta, porque a criança está com febre."
+      },
+      {
+        "letra": "B",
+        "texto": "Orienta que as próximas vacinas serão, aos 2 meses, PENTA, VIP, PNEUMO-10, Rotavírus."
+      },
+      {
+        "letra": "C",
+        "texto": "Orienta que faça a segunda dose da hepatite B somente."
+      },
+      {
+        "letra": "D",
+        "texto": "Orienta fazer, somente aos 2 meses, pólio oral + TETRAVALENTE e PNEUMO-10."
+      },
+      {
+        "letra": "E",
+        "texto": "Orienta fazer apenas uma dose da pólio oral."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66421,
+    "tags": [],
+    "enunciado": "Assinale a alternativa que corresponde à sequência correta de VERDADEIRO (V) ou FALSO (F) com relação a imunizações na infância: ( ) Reação anafilática em aplicação prévia de alguma vacina contraindica seu uso posterior. ( ) Prematuros só devem iniciar esquema vacinal após os 6 meses de idade cronológica. ( ) Pacientes imunodeprimidos não devem receber vacinas com componentes vivos atenuados. ( ) Vacinas de vírus vivos atenuados, quando não administradas no mesmo dia, devem ser aplicadas após intervalo mínimo de quatro semanas.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "V - F - V - V"
+      },
+      {
+        "letra": "B",
+        "texto": "V - F - V - F"
+      },
+      {
+        "letra": "C",
+        "texto": "V - V - F – F"
+      },
+      {
+        "letra": "D",
+        "texto": "F - F - V - V"
+      },
+      {
+        "letra": "E",
+        "texto": "F - V - F - V"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66422,
+    "tags": [],
+    "enunciado": "Mãe leva seu (cid:72)lho, lactente de 2 meses, do sexo masculino, à Unidade Básica de Saúde referindo que após algumas horas da vacinação de rotina para a idade, a criança iniciou com crise de choro incontrolável que já perdurava por 3 horas. Diante do quadro o médico, deve noti(cid:72)car o caso como sendo uma provável reação devido à vacina contra:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tétano"
+      },
+      {
+        "letra": "B",
+        "texto": "Poliomielite"
+      },
+      {
+        "letra": "C",
+        "texto": "Difteria"
+      },
+      {
+        "letra": "D",
+        "texto": "Coqueluche"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66423,
+    "tags": [],
+    "enunciado": "Quais vacinas são indicadas para o Recém-Nascido (RN)?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pólio e hepatite B."
+      },
+      {
+        "letra": "B",
+        "texto": "Pólio e rotavírus."
+      },
+      {
+        "letra": "C",
+        "texto": "BCG e rotavírus."
+      },
+      {
+        "letra": "D",
+        "texto": "Meningocócica e Pneumocócica."
+      },
+      {
+        "letra": "E",
+        "texto": "BCG e Hepatite B."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 66424,
+    "tags": [],
+    "enunciado": "Um homem de 78 anos de idade procurou a Unidade Básica de Saúde (UBS) por ter acordado com febre e mal-estar. A médica que o atendeu indagou se ele estava gripado e ele informou que não. O paciente ressaltou ainda que tinha recebido a vacina contra a gripe no dia anterior. Ao exame físico foi observado que o paciente estava com bom estado geral, eupneico, acianótico, anictérico, hidratado, com FR = 18 irpm, FC = 98 bpm, PA = 130 x 90 mmHg, temperatura axilar = 39ºC, sem ruídos respiratórios adventícios e sem linfonodos palpáveis. Qual é a conduta mais adequada nesse momento?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Prescrever dipirona injetável e orientar repouso e hidratação em domicílio."
+      },
+      {
+        "letra": "B",
+        "texto": "Solicitar hemograma completo e Raio-X de tórax, por se tratar de idoso."
+      },
+      {
+        "letra": "C",
+        "texto": "Internar em unidade hospitalar para elucidação diagnóstica e tratamento."
+      },
+      {
+        "letra": "D",
+        "texto": "Prescrever paracetamol, orientar repouso e hidratação em domicílio e fazer a notificação compulsória."
+      },
+      {
+        "letra": "E",
+        "texto": "Encaminhar o paciente para o ambulatório de Geriatria e fazer a notificação compulsória."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 66425,
+    "tags": [],
+    "enunciado": "Um homem de 62 anos recém diagnosticado com En(cid:72)sema Pulmonar vem para consulta de rotina. Refere não ter tomado nenhuma vacina nos últimos 10 anos. Qual das seguintes vacinas seria o mais apropriado para este paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente tétano e difteria"
+      },
+      {
+        "letra": "B",
+        "texto": "Tétano, difteria, pneumocócica e influenza"
+      },
+      {
+        "letra": "C",
+        "texto": "Pneumocóccica e influenza"
+      },
+      {
+        "letra": "D",
+        "texto": "Tétano, difteria, pneumocócica, influenza e meningogóccica"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66426,
+    "tags": [],
+    "enunciado": "Segundo o calendário vacinal quais as vacinas a serem aplicadas no recém-nascido?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "BCG e pólio"
+      },
+      {
+        "letra": "B",
+        "texto": "Hepatite B e pólio"
+      },
+      {
+        "letra": "C",
+        "texto": "Pneumocóccica e pólio"
+      },
+      {
+        "letra": "D",
+        "texto": "BCG e Hepatite B"
+      },
+      {
+        "letra": "E",
+        "texto": "Vacina oral de rotavírus"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 66427,
+    "tags": [],
+    "enunciado": "Na questão a seguir, encontram-se a(cid:72)rmações sobre o tema proposto. Teste seu conhecimento escolhendo a alternativa que contenha 3 afirmações verdadeiras. Tema: Com relação à vacinação na infância. I - a vacina BCG protege contra as formas graves de infecções causadas pelo bacilo da tuberculose. II - infecções pelo rotavírus devem ser prevenidas com três doses da vacina monovalente humana. III - ao completar cinco anos de idade a criança deverá ter recebido cinco doses de vacina tríplice bacteriana. IV - a vacina pneumocócica 7-valente é preconizada para crianças maiores de 5 anos. V - em crianças com mais de cinco anos de idade deve-se aplicar a vacina contra o Haemophilus in(cid:86)uenzae apenas nos casos em que existam fatores de risco conhecidos para a doença invasiva. VI - em crianças menores de 2 anos é recomendada a aplicação de 2 doses da vacina contra a febre amarela, com reforço a cada 10 anos. VII - a vacina dupla tipo infantil contem menores quantidades de toxóide diftérico que a dupla tipo adulto. VIII - crianças em tratamento com corticosteróides em doses elevados e por tempo prolongado não podem receber vacinas de vírus vivo.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "alternativa que contém três afirmações corretas é:"
+      },
+      {
+        "letra": "A",
+        "texto": "III, V, VII"
+      },
+      {
+        "letra": "B",
+        "texto": "I, III, VI"
+      },
+      {
+        "letra": "C",
+        "texto": "IV, VII, VIII"
+      },
+      {
+        "letra": "D",
+        "texto": "II, IV, V"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66428,
+    "tags": [],
+    "enunciado": "Uma lactente de 13 meses de idade é acompanhada no ambulatório por ter sido exposta ao HIV durante a gestação. Sua mãe descobriu que era portadora do vírus HIV durante o pré-natal, tendo realizado corretamente todas as medidas pro(cid:72)láticas para evitar a contaminação de sua (cid:72)lha. A criança, até o momento, apresenta crescimento e desenvolvimento normais sem nenhuma intercorrência infecciosa. Já foram realizados dois exames de carga viral, aos dois e aos quatro meses de idade, ambos com resultado indetectável. Com 12 meses, foi realizado um anti-HIV (ELISA) , que foi positivo. Baseado no caso acima responda a questão. Com relação à vacina do BCG para a lactente, a conduta mais apropriada seria:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "vacinar após o resultado dos exames de CD4 e CD8."
+      },
+      {
+        "letra": "B",
+        "texto": "não vacinar já quer não haverá formação de cicatriz vacinal."
+      },
+      {
+        "letra": "C",
+        "texto": "não vacinar devido ao risco de infecção disseminada pelo BCG."
+      },
+      {
+        "letra": "D",
+        "texto": "vacinar já que o risco da criança nascer imunodeprimida é mínimo  Respostas: 1 A 2 B 3 D 4 B 5 A 6 B 7 A 8 A 9 D 10 B 11 C 12 C 13 A 14 D 15 E 16 B 17 A 18 A 19 B 20 B 21 D 22 D 23 C 24 D 25 D 26 D 27 A 28 B 29 B 30 A 31 A 32 C 33 A 34 C 35 A 36 B 37 E 38 D 39 B 40 D 41 C 42 A 43 B 44 B 45 A 46 B 47 B 48 D 49 E 50 D 51 B 52 C 53 A 54 A 55 D 56 E 57 B 58 B 59 B 60 D 61 B 62 C 63 E 64 C 65 B 66 E 67 D 68 A 69 C 70 A 71 A 72 A 73 A 74 D 75 A 76 E 77 B 78 D 79 A 80 D 81 D 82 C 83 C 84 C 85 A 86 A 87 D 88 C 89 C 90 B 91 A 92 B 93 C 94 A 95 C 96 E 97 A 98 E 99 A 100 A 101 A 102 B 103 A 104 A 105 E 106 D 107 B 108 C 109 A 110 D 111 A 112 B 113 A 114 B 115 A 116 A 117 D 118 D 119 A 120 A 121 C 122 E 123 A 124 D 125 C 126 C 127 C 128 D 129 D 130 A 131 C 132 C 133 E 134 C 135 B 136 C 137 D 138 A 139 D 140 C 141 B 142 E 143 A 144 B 145 B 146 B 147 B 148 A 149 C 150 E 151 D 152 B 153 D 154 A 155 D"
+      }
+    ],
+    "resposta_correta": "D"
+  }
+]

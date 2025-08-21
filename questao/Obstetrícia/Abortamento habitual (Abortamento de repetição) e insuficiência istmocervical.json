@@ -1,0 +1,3574 @@
+[
+  {
+    "id": 4538,
+    "tags": [],
+    "enunciado": "Secundigesta de 5 semanas, 32 anos de idade, em consulta pré-natal de rotina, informa ao obstetra que teve óbito fetal com 37 semanas na gestação anterior. Nega antecedentes clínicos importantes. O exame físico atual é compatível com o tempo gestacional, a PA: 90 x 60 mmHg e o IMC: 28 kg/m². Está indicado:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Heparina subcutânea e aspirina 100 mg ao dia a partir de 14 semanas, cesárea eletiva com 37 semanas."
+      },
+      {
+        "letra": "B",
+        "texto": "Dieta rica em cálcio, aspirina 50 mg dia, aguardar parto espontâneo até 39 semanas."
+      },
+      {
+        "letra": "C",
+        "texto": "Heparina de baixo peso molecular a partir de agora, monitoração de vitalidade fetal desde 24 semanas e antecipação do parto com 37 semanas."
+      },
+      {
+        "letra": "D",
+        "texto": "Ácido fólico, monitorar vitalidade fetal de modo rigoroso após 32 semanas e discutir indução de parto com 39 semanas."
+      },
+      {
+        "letra": "E",
+        "texto": "Pesquisar trombofilias adquiridas, aspirina 50 mg ao dia e cardiotocografia semanal após 28 semanas. 4000234463"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 4539,
+    "tags": [],
+    "enunciado": "Mulher 40 anos de idade, IIIG, IP, IIA com o mesmo parceiro. Os abortamentos ocorreram entre 7 e 8 semanas de gestação. Os cariótipos do casal são normais. Exames laboratoriais: anticorpo anticardiolipina IgA = 22 mg/dL que se manteve positivo após 12 semanas de intervalo, mutação em heterozigose G20210 A da protrombina, reação para Citomegalovírus com IgG positivo e IgM negativo. Chega ao pré-natal com 6 semanas de atraso menstrual. Qual é a conduta mais adequada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Medicar com aspirina e enoxaparina."
+      },
+      {
+        "letra": "B",
+        "texto": "Orientar seguimento pré-natal rotineiro."
+      },
+      {
+        "letra": "C",
+        "texto": "Medicar com heparina até 42 dias após resolução da gestação."
+      },
+      {
+        "letra": "D",
+        "texto": "Orientar pesquisa de aneuploidia durante a gravidez. 4000233013"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 4540,
+    "tags": [],
+    "enunciado": "Paciente, 30 anos de idade, assintomática, faz uso de contraceptivo hormonal oral combinado com (cid:66)uxo menstrual regular e deseja engravidar. Realiza exame ultrassonográ(cid:69)co para avaliação do trato genital e, devido ao resultado deste exame, solicita-se o exame de imagem apresentado a seguir: Considerando a imagem apresentada, qual é a conduta inicial mais adequada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fertilização in vitro."
+      },
+      {
+        "letra": "B",
+        "texto": "Ressecção histeroscópica."
+      },
+      {
+        "letra": "C",
+        "texto": "Ressecção laparoscópica."
+      },
+      {
+        "letra": "D",
+        "texto": "Orientar gravidez espontânea."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 4541,
+    "tags": [],
+    "enunciado": "Qual malformação uterina está menos relacionada com a interrupção da gestação?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Arqueado."
+      },
+      {
+        "letra": "B",
+        "texto": "Didelfos."
+      },
+      {
+        "letra": "C",
+        "texto": "Unicornuado."
+      },
+      {
+        "letra": "D",
+        "texto": "Bicornuado."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 4542,
+    "tags": [],
+    "enunciado": "Mulher, 32a, G3P1A1, com idade gestacional de 12 semanas, é encaminhada ao pré-natal de alto risco para avaliação. Antecedentes pessoais: nega histórico de doenças crônicas, tabagismo ou uso de drogas; relata uso de bebida alcoólica ocasional. Medicações: ácido fólico e polivitamínico desde o início desta gravidez. Antecedentes obstétricos: G1=parto prematuro com 26 semanas, bebê com complicações respiratórias graves, mas sobrevivente; G2=aborto espontâneo com 18 semanas, associado à dilatação cervical completa. Exame físico: PA=112/70mmHg; FC=82bpm; T=36,6°C. Ultrassonogra(cid:69)a transvaginal=saco gestacional em cavidade uterina, com embrião único, compatível com 12 semanas de gestação, com morfologia normal para a idade gestacional, BCF=162bpm. Comprimento cervical=35mm, sem sinais de afunilamento ou sludge.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "CONDUTA OBSTÉTRICA É:"
+      }
+    ],
+    "resposta_correta": null
+  },
+  {
+    "id": 4543,
+    "tags": [],
+    "enunciado": "Assinale a assertiva correta sobre condutas preventivas em Obstetrícia.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "No diabetes melito, o controle metabólico préconcepcional mais adequado está associado a redução de malformações congênitas, parto prematuro e mortalidade perinatal."
+      },
+      {
+        "letra": "B",
+        "texto": "Na prevenção de defeitos de fechamento do tubo neural, a suplementação com ácido fólico deve ser iniciada no primeiro trimestre, pois o tubo neural fecha com 12 semanas."
+      },
+      {
+        "letra": "C",
+        "texto": "Na prevenção de nova perda gestacional em gestante com 12 semanas e história clássica de incompetência istmocervical, uso de progesterona (200-400 mg/dia) por via oral é a conduta mais adequada."
+      },
+      {
+        "letra": "D",
+        "texto": "Na prevenção da pré-eclâmpsia, a suplementação com carbonato de cálcio e o uso do AAS devem ser realizados em jejum, a partir da 16a semana. 4000230289"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 4544,
+    "tags": [],
+    "enunciado": "O abortamento é um evento que afeta muitas gestantes e pode ser classi(cid:69)cado de diversas maneiras, sendo fundamental compreender essas de(cid:69)nições para direcionar as condutas clínicas adequadas. Sobre o abortamento, é CORRETO afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As espículas ósseas do feto aparecem apenas antes da 12a semana de gestação."
+      },
+      {
+        "letra": "B",
+        "texto": "A definição clássica de abortamento habitual é de três ou mais perdas gestacionais antes de 20 semanas de gestação."
+      },
+      {
+        "letra": "C",
+        "texto": "O abortamento espontâneo é aquele que ocorre sem intervenção externa e não pode ser causado por condições maternas."
+      },
+      {
+        "letra": "D",
+        "texto": "O abortamento tardio é mais frequentemente causado por anomalias cromossômicas do que o abortamento precoce. 4000229858"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 4545,
+    "tags": [],
+    "enunciado": "Abortamento habitual Abortamento de repetição e insuficiência istmocervical Insuficiência istmocervical Secundigesta no curso de 19 semanas de gestação, assintomática, apresenta, numa consulta pré-natal de rotina, um colo uterino dilatado para 2 cm, 80% apagado. Desse modo, qual a melhor conduta a ser tomada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nifedipina oral."
+      },
+      {
+        "letra": "B",
+        "texto": "Progesterona oral."
+      },
+      {
+        "letra": "C",
+        "texto": "Pessário de Arabin."
+      },
+      {
+        "letra": "D",
+        "texto": "Cerclagem cervical transvaginal. 4000228438"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 4546,
+    "tags": [],
+    "enunciado": "Abortamento habitual Abortamento de repetição e insuficiência istmocervical Insuficiência istmocervical Uma mulher de 44 anos, com história de duas perdas gestacionais anteriores no 2o trimestre, por volta de 16- 17 semanas de gestação, sempre na ausência de trabalho de parto ou descolamento prematuro de placenta, encontra-se novamente grávida, atualmente na 15ª semana de gestação, de acordo com ultrassom morfológico de primeiro trimestre realizado na 12ª semana. Realizou biópsia de vilo corial com 13 semanas. No entanto, a equipe médica não realizou a cerclagem cervical preventiva devido ao fato de a gestante apresentar como contraindicação:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "placenta baixa;"
+      },
+      {
+        "letra": "B",
+        "texto": "história de cirurgia cervical;"
+      },
+      {
+        "letra": "C",
+        "texto": "feto atual com trissomia do 21;"
+      },
+      {
+        "letra": "D",
+        "texto": "sangramento vaginal residual;"
+      },
+      {
+        "letra": "E",
+        "texto": "comprimento cervical de 35 mm."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 4547,
+    "tags": [],
+    "enunciado": "Uma paciente de 34 anos de idade, sem histórico de doenças crônicas, apresenta três episódios consecutivos de perda gestacional antes das 10 semanas de gestação, sem nascidos vivos.Com relação ao quadro clínico descrito acima e com base nas evidências e diretrizes atuais para a investigação e manejo da perda gestacional recorrente, assinale a alternativa CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O uso de progesterona e gonadotrofina coriônica humana são recomendados rotineiramente como tratamento empírico em casos de perda gestacional recorrente, devido à alta evidência de eficácia."
+      },
+      {
+        "letra": "B",
+        "texto": "A investigação de trombofilias hereditárias é recomendada rotineiramente em casos de perda gestacional recorrente, mesmo na ausência de história pessoal ou familiar de trombose, e deve ser instituído o uso profilático de progesterona e AAS."
+      },
+      {
+        "letra": "C",
+        "texto": "A pesquisa de anticorpos antifosfolípides deve ser realizada em casos de perda gestacional recorrente, independentemente da presença de outros fatores de risco, e seu tratamento deve ser iniciado com AAS e heparina ao confirmar a gestação."
+      },
+      {
+        "letra": "D",
+        "texto": "A avaliação anatômica uterina deve ser realizada rotineiramente em casos de perda gestacional recorrente, preferencialmente utilizando ultrassonografia 3D, que é considerada uma técnica sensível e específica para identificar anomalias uterinas."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 4548,
+    "tags": [],
+    "enunciado": "Etiologia do abortamento habitual Intercorrências obstétricas obstetrícia patológica Paciente de 32 anos, G3C1A2. Na primeira gestação, aos 24 anos, teve uma cesárea com 33 semanas, por pré-eclâmpsia, RN pesou 900 g. Aos 28 anos, apresentou abortamento com nove semanas de gestação. Há seis meses, novo abortamento com 12 semanas. Há um mês, realizou exames: Ac anticardiolipina positivo, anticoagulante lúpico e anti-beta2globulina negativos. Relata que a anticardiolipina já havia sido positiva, quando investigou o motivo da prematuridade, aos 24 anos. Está com ciclos regulares e deseja gestar. Tem medo de nova perda. Qual é a conduta mais adequada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Solicitar fator V de Leiden, mutação G20210A do gene da protrombina, proteína S, proteína C."
+      },
+      {
+        "letra": "B",
+        "texto": "Iniciar AAS (100 mg) imediatamente e, quando engravidar, associar heparina profilática e cálcio."
+      },
+      {
+        "letra": "C",
+        "texto": "Iniciar heparina em dose profilática, quando engravidar."
+      },
+      {
+        "letra": "D",
+        "texto": "Iniciar AAS (100 mg) imediatamente e, quando engravidar, associar cálcio."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 4549,
+    "tags": [],
+    "enunciado": "Fatores de risco para abortamento habitual Abortamento Nulípara, 33 anos de idade, vem à consulta com histórico de três abortamentos precoces, espontâneos e consecutivos, nos últimos dois anos. Na avaliação inicial, o casal realizou exames de cariótipo e de imagem, que mostraram resultado normal. Nesse caso, o que deve ser solicitado a seguir, para dar continuidade na investigação?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Dosagem de progesterona sérica na fase lútea."
+      },
+      {
+        "letra": "B",
+        "texto": "Pesquisa de anticardiolipina e de anticoagulante lúpico."
+      },
+      {
+        "letra": "C",
+        "texto": "Biópsia de endométrio."
+      },
+      {
+        "letra": "D",
+        "texto": "Pesquisa da metil-tetra-hidrofolato-redutase."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 4550,
+    "tags": [],
+    "enunciado": "Etiologia do abortamento habitual Tercigesta com gestação de 15 semanas, é submetida a exame de ultrassonogra(cid:69)a que revela a imagem abaixo. Relata partos vaginais anteriores com 23 e 22 semanas. Qual diagnóstico e conduta para melhor cuidado com essa paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Colo curto; repouso relativo e progesterona vaginal, até 36 semanas."
+      },
+      {
+        "letra": "B",
+        "texto": "Colo normal; ultrassonografia a cada 15 dias, até 22 semanas."
+      },
+      {
+        "letra": "C",
+        "texto": "Incompetência istmocervical; conduta expectante."
+      },
+      {
+        "letra": "D",
+        "texto": "Incompetência istmocervical; cerclagem do colo uterino."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 4551,
+    "tags": [],
+    "enunciado": "Gestante de 14 semanas comparece à emergência com queixa de sangramento via vaginal. Ao exame especular é observado sangramento do colo, discreto. Realizado ultrassom, o laudo refere imagem próxima do colo em formato de “ampulheta”. O mais provável diagnóstico nesse caso é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Colo curto."
+      },
+      {
+        "letra": "B",
+        "texto": "Incontinência cervical."
+      },
+      {
+        "letra": "C",
+        "texto": "Amnionite."
+      },
+      {
+        "letra": "D",
+        "texto": "Gestação gemelar. 4000216532"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 4552,
+    "tags": [],
+    "enunciado": "Gestante de 27 anos de idade, secundigesta com parto vaginal espontâneo anterior. Encontra-se com 17 semanas de idade gestacional e veio encaminhada para o pré-natal de alto risco pois o parto vaginal anterior foi com 30 semanas. Foi submetida à ultrassonogra(cid:69)a transvaginal com 16 semanas e apresentou medida do colo uterino de 19 mm. Diante dessas informações, qual a melhor conduta para esse caso?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Prescrever progesterona via vaginal."
+      },
+      {
+        "letra": "B",
+        "texto": "Reencaminhar ao pré-natal de risco habitual."
+      },
+      {
+        "letra": "C",
+        "texto": "Indicar uso de progesterona e pessário."
+      },
+      {
+        "letra": "D",
+        "texto": "Indicar uso de progesterona e cerclagem."
+      },
+      {
+        "letra": "E",
+        "texto": "Repetir ultrassom em 1 semana. 4000215039"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 4553,
+    "tags": [],
+    "enunciado": "O aborto recorrente é uma condição ginecológica de origem multifatorial, podendo ser decorrente de fatores masculinos e/ou femininos. Assinale a alternativa que apresenta as condições que exclui o risco elevado para abortos de repetição.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Obesidade materna."
+      },
+      {
+        "letra": "B",
+        "texto": "Mutação hetorozigota 677C → T da enzima metilenotetrahidrofolato redutase (MTHFR)."
+      },
+      {
+        "letra": "C",
+        "texto": "Paciente com a presença de fator antinuclear (FAN) positivo."
+      },
+      {
+        "letra": "D",
+        "texto": "Parceiro com fragmentação de DNA espermático aumentada."
+      },
+      {
+        "letra": "E",
+        "texto": "Parceiro com cariótipo banda G em sangue apresentando translocação balanceada."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 4554,
+    "tags": [],
+    "enunciado": "Intercorrências obstétricas obstetrícia patológica Obstetrícia Paciente de 35 anos, G2A2, procura ajuda médica para planejar uma próxima gestação. Apresentou o segundo quadro de aborto há quatro meses com nove semanas, e o primeiro quadro de aborto foi há um ano com aproximadamente oito semanas. Qual é a recomendação correta nesse caso?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Quando engravidar novamente, solicitar pesquisa de trombofilias hereditárias."
+      },
+      {
+        "letra": "B",
+        "texto": "Iniciar heparina de baixo peso molecular imediatamente como profilaxia para perda gestacional recorrente."
+      },
+      {
+        "letra": "C",
+        "texto": "A investigação das trombofilias adquiridas deve ser durante a gestação."
+      },
+      {
+        "letra": "D",
+        "texto": "Para diagnóstico de trombofilia adquirida, é necessário apenas um anticorpo com dosagem positiva, sem necessidade de repetição."
+      },
+      {
+        "letra": "E",
+        "texto": "Se houver diagnóstico de síndrome do anticorpo antifosfolípides, a paciente deve ser medicada com ácido acetilsalicílico 100 mg/dia assim que programada a gestação."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 4555,
+    "tags": [],
+    "enunciado": "Intercorrências obstétricas obstetrícia patológica Obstetrícia Em relação à insu(cid:69)ciência istmocervical, informe se é verdadeiro (V) ou falso (F) o que se a(cid:69)rma a seguir e assinale a alternativa com a sequência correta. ( ) A história clássica compreende abortos tardios ou prematuros extremos, geralmente antes da 24ª semana de gravidez. ( ) A dilatação nesses casos ocorre após horas de contrações dolorosas e frequentes. ( ) Defeitos do colágeno, como síndrome de Marfan e síndrome de Ehlers-Danlos, são fatores de risco. ( ) Pode-se indicar a prova da vela 8, fora da gestação, para diagnóstico",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "V – V – V – V."
+      },
+      {
+        "letra": "B",
+        "texto": "V – F – V – V."
+      },
+      {
+        "letra": "C",
+        "texto": "V – F – F – V."
+      },
+      {
+        "letra": "D",
+        "texto": "F – F – V – V."
+      },
+      {
+        "letra": "E",
+        "texto": "F – F – V – F."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 4556,
+    "tags": [],
+    "enunciado": "Etiologia do abortamento habitual Fatores de risco para abortamento habitual Assinale a alternativa que apresenta uma causa de abortamento tardio com tendência a repetição.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sífilis."
+      },
+      {
+        "letra": "B",
+        "texto": "Diabetes gestacional."
+      },
+      {
+        "letra": "C",
+        "texto": "Síndrome HELLP."
+      },
+      {
+        "letra": "D",
+        "texto": "Incompetência istmocervical."
+      },
+      {
+        "letra": "E",
+        "texto": "Anomalia cromossômica."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 4557,
+    "tags": [],
+    "enunciado": "Quanto às causas de abortamento habitual, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "São causas de abortamento habitual os fatores anatômicos, como os miomas, as sinéquias e as malformações uterinas, os fatores genéticos, incluindo anomalias cromossômicas; e os fatores endócrinos, como, por exemplo, a insuficiência lútea e diabetes."
+      },
+      {
+        "letra": "B",
+        "texto": "A presença de fatores infecciosos é a principal causa de abortamento habitual."
+      },
+      {
+        "letra": "C",
+        "texto": "São causas de abortamento habitual o uso de medicamentos para fertilidade e os procedimentos de reprodução assistida."
+      },
+      {
+        "letra": "D",
+        "texto": "São causas de abortamento habitual os fatores endócrinos, como a insuficiência lútea e a diabetes, as alterações dietéticas e a deficiência de vitamina."
+      },
+      {
+        "letra": "E",
+        "texto": "São causas de abortamento habitual os fatores anatômicos, como os miomas, as sinéquias e as malformações uterinas, os fatores psicológicos e estresse."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 4558,
+    "tags": [],
+    "enunciado": "Mulher de 28 anos de idade, nuligesta, vem para consulta ginecológica de rotina. Não tem queixas no momento. Ao realizar o exame especular para coleta de citologia, são identi(cid:69)cados dois colos uterinos. A ultrassonogra(cid:69)a transvaginal solicitada posteriormente indica que há duas cavidades uterinas. Considerando as malformações Mullerianas, a principal hipótese diagnóstica corresponde à ausência de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Desenvolvimento do ducto paramesonéfrico"
+      },
+      {
+        "letra": "B",
+        "texto": "Canalização do seio útero-genital"
+      },
+      {
+        "letra": "C",
+        "texto": "Fusão dos ductos paramesonéfricos"
+      },
+      {
+        "letra": "D",
+        "texto": "Fusão dos ductos de Wolf"
+      },
+      {
+        "letra": "E",
+        "texto": "Desenvolvimento dos ductos de Wolf 4000213033"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 4559,
+    "tags": [],
+    "enunciado": "Secundigesta, 24 semanas, com relato de parto prematuro anteriormente, foi a consulta de prénatal levando ultrassonogra(cid:69)a transvaginal realizada com 20 semanas que referia cervicometria de 22 mm. Assinale a alternativa CORRETA referente ao colo e a conduta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "colo de tamanho normal. Realizar acompanhamento pré-natal."
+      },
+      {
+        "letra": "B",
+        "texto": "colo curto. Iniciar gluconato de cálcio."
+      },
+      {
+        "letra": "C",
+        "texto": "colo de tamanho normal. Reavaliar em 2 semanas."
+      },
+      {
+        "letra": "D",
+        "texto": "colo curto. Iniciar progesterona vaginal. 4000212663"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 4560,
+    "tags": [],
+    "enunciado": "G.E.S., 35 anos, sem comorbidades, comparece à consulta de aconselhamento pré-gestacional. Ela refere antecedente de 2 abortamentos espontâneos. • 1º abortamento: Há 5 anos, primeiro parceiro, com idade gestacional de 8 semanas, realizada curetagem uterina. • 2º abortamento: Há 6 meses, segundo parceiro, com idade gestacional de 17 semanas, realizada curetagem uterina. Ela relata que, na ocasião do segundo abortamento, estava em seguimento pré-natal normal, quando iniciou quadro de mal-estar e foi internada por alteração das enzimas hepáticas (sic). No segundo dia de internação foi constatado óbito do feto, sendo então realizado o esvaziamento da cavidade uterina. Assinale quais exames estão indicados para a investigação do caso apresentado.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Antifosfatidilsserina, fator V Leiden, anticoagulante lúpico."
+      },
+      {
+        "letra": "B",
+        "texto": "Protrombina mutante, anticardiolipinas, cariótipo do casal."
+      },
+      {
+        "letra": "C",
+        "texto": "Cariótipo do casal, ultrassom transvaginal, fator V Leiden."
+      },
+      {
+        "letra": "D",
+        "texto": "Anticardiolipinas, histerossalpingografia, ultrassom transvaginal."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 4561,
+    "tags": [],
+    "enunciado": "Carolina, de 32 anos de idade, é uma professora de ensino fundamental que vive em uma cidade do interior. Ela é casada com Rafael, um engenheiro agrônomo, há cinco anos. Eles sempre sonharam em ter uma família grande e, assim que se casaram, decidiram tentar engravidar. No entanto, a jornada de Carolina na maternidade tem sido marcada por desa(cid:69)os. Nos últimos dois anos, ela sofreu três abortos espontâneos, todos no primeiro trimestre de gestação. Além das perdas gestacionais, Carolina menciona que, ocasionalmente, tem ciclos menstruais irregulares e que, no último ano, percebeu um ganho de peso, apesar de manter uma dieta equilibrada e praticar exercícios regularmente. Ela também relata que sua mãe teve di(cid:69)culdade em manter gestações na juventude. Muito preocupada, Carolina busca entender as possíveis causas das perdas gestacionais recorrentes. Ela teme que algum fator subjacente possa estar interferindo em sua capacidade de manter uma gravidez. O ginecologista, ao avaliar seu histórico e seus sintomas, considera diversas causas comuns de perdas gestacionais recorrentes. Com base nessa situação hipotética, assinale a alternativa que não é comumente associada a perdas gestacionais recorrentes.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "condições genéticas, como alterações cromossômicas no casal"
+      },
+      {
+        "letra": "B",
+        "texto": "infecções, como toxoplasmose e rubéola"
+      },
+      {
+        "letra": "C",
+        "texto": "exposição a substâncias tóxicas no ambiente de trabalho, como a solventes e a metais"
+      },
+      {
+        "letra": "D",
+        "texto": "doenças autoimunes, como lúpus e síndrome de Sjögren"
+      },
+      {
+        "letra": "E",
+        "texto": "presença de pólipo uterino 4000211508"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 4562,
+    "tags": [],
+    "enunciado": "O avanço na capacidade de documentar e diagnosticar uma gravidez inicial mostrou que o aborto espontâneo é complicação mais comum da gravidez. Sobre os abortamentos, é CORRETO afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As anormalidades cromossômicas dos pais e complicações trombóticas da síndrome do anticorpo antifosfolípide (SAF) são causas de abortamento recorrentes, representando 10ª 15% dos casos."
+      },
+      {
+        "letra": "B",
+        "texto": "As trobofilias hereditárias podem ser causa de abortamentos de repetição, contudo sem alterações no desenvolvimento e nas funções placentárias."
+      },
+      {
+        "letra": "C",
+        "texto": "As anormalidades anatômicas Millerianas não estão ligadas ao aborto espontâneo ou aos abortamentos de repetição."
+      },
+      {
+        "letra": "D",
+        "texto": "Alterações endócrinas das tireoideopatias ou da síndrome do ovário policísticos podem causar dificuldades para engravidar, mas não foram associadas aos abortamentos espontâneos."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 4563,
+    "tags": [],
+    "enunciado": "Em relação à incontinência ou insu(cid:69)ciência cervical, pode-se a(cid:69)rmar que a cerclagem está indicada nos casos a seguir, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Após uma perda fetal, com o quadro clínico de insuficiência cervical; o exame transvaginal do colo uterino está indicado a partir de 16 a 24 semanas da gravidez."
+      },
+      {
+        "letra": "B",
+        "texto": "Até 24 semanas da gestação, em pacientes com dilatação cervical <4 cm e herniação das membranas, sem contração e/ou parto, afastada a infecção intramniótica."
+      },
+      {
+        "letra": "C",
+        "texto": "Quando a técnica transabdominal puder ser realizada como alternativa à técnica transvaginal e tiver como principal indicação o prolapso do saco amniótico."
+      },
+      {
+        "letra": "D",
+        "texto": "Com história de uma ou mais perdas gestacionais, com quadro clínico de insuficiência cervical, compõe o grupo de mulheres que se beneficiarão com a cirurgia, devendo ser realizada entre 12 e 14 semanas de gravidez, após a ultrassonografia revelar feto vivo e sem anomalias."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 4564,
+    "tags": [],
+    "enunciado": "Abortamento de repetição é um dos maiores desa(cid:69)os da medicina reprodutiva, cuja di(cid:69)culdade de identi(cid:69)cação da causa pode levar a tratamentos ine(cid:69)cazes e sem comprovação cientí(cid:69)ca, que não alteram o prognóstico. Entre as causas de abortamento de repetição, encontra-se:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "mioma subseroso"
+      },
+      {
+        "letra": "B",
+        "texto": "translocação robertsoniana materna"
+      },
+      {
+        "letra": "C",
+        "texto": "aloimunização por antígenos paternos"
+      },
+      {
+        "letra": "D",
+        "texto": "mutação da metilenotetrahidrofolato redutase"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 4565,
+    "tags": [],
+    "enunciado": "Considerando as alternativas a seguir, qual apresenta uma indicação de investigação para trombo(cid:69)lias adquiridas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Quadro de trombose venosa profunda após trauma."
+      },
+      {
+        "letra": "B",
+        "texto": "Investigação recomendada após o 1° quadro de aborto."
+      },
+      {
+        "letra": "C",
+        "texto": "História familiar positiva para tromboembolismo venoso."
+      },
+      {
+        "letra": "D",
+        "texto": "Se houver necrose de pele associada ao uso de antagonistas da vitamina K."
+      },
+      {
+        "letra": "E",
+        "texto": "Perda fetal tardia."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 4566,
+    "tags": [],
+    "enunciado": "Em relação às anomalias uterinas congênitas, atribua V (verdadeiro) ou F (falso) às afirmativas a seguir. ( ) A fertilização in vitro com óvulo de doadora jovem é a melhor opção reprodutiva para pacientes com síndrome de Mayer-Rokitansky-Kuster-Hauser. ( ) A metroplastia é recomendada nos casos de útero didelfo e útero bicorno. ( ) Mulheres com anomalia uterina congênita têm risco aumentado de insuficiência istmocervical. ( ) Para uma paciente com útero bicorno, recomenda-se a transferência de um único embrião. ( ) A associação entre anomalias uterinas e renais é comum. Assinale a alternativa que contém, de cima para baixo, a sequência correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "V, V, F, V, F."
+      },
+      {
+        "letra": "B",
+        "texto": "V, V, F, F, V."
+      },
+      {
+        "letra": "C",
+        "texto": "F, V, V, F, F."
+      },
+      {
+        "letra": "D",
+        "texto": "F, F, V, V, V."
+      },
+      {
+        "letra": "E",
+        "texto": "F, F, V, F, V."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 4567,
+    "tags": [],
+    "enunciado": "A Organização Mundial de Saúde de(cid:69)ne abortamento como o término da gestação antes de 20 semanas ou com o nascimento de um feto de peso inferior a 500g. Sobre tal evento, assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A incompetência istmo-cervical é causa importante de abortamentos recorrentes de primeiro trimestre."
+      },
+      {
+        "letra": "B",
+        "texto": "Define-se ameaça de aborto como a ocorrência de sangramento uterino na primeira metade da gravidez, sem modificações simultâneas do colo uterino."
+      },
+      {
+        "letra": "C",
+        "texto": "Dentre os diagnósticos diferenciais de abortamento, ou ameaça de aborto, está gestação ectópica, já que o quadro clínico inicial costuma ser bastante semelhante."
+      },
+      {
+        "letra": "D",
+        "texto": "Mais de 80% dos casos de abortamento ocorrem nas primeiras 12 semanas, sendo as causas genéticas responsáveis pela maioria desses casos. 4000188404"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 4568,
+    "tags": [],
+    "enunciado": "São características da incontinência cervical, exceto:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a cerclagem deve ser feita com fio inabsorvível."
+      },
+      {
+        "letra": "B",
+        "texto": "o diagnóstico de infecção amniótica não contraindica a cerclagem."
+      },
+      {
+        "letra": "C",
+        "texto": "a malformação fetal incompatível com a vida é contraindicação à cerclagem."
+      },
+      {
+        "letra": "D",
+        "texto": "a melhor época para a cerclagem é em torno de 14 a 16 semanas de gestação. 4000187507"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 4569,
+    "tags": [],
+    "enunciado": "Abortamento habitual Abortamento de repetição e insuficiência istmocervical Gestante com antecedente de 3 perdas gestacionais entre 10 e 14 semanas, encontra-se atualmente com idade gestacional de 8 semanas. Além dos exames de rotina, o que mais deve ser investigado no momento nesse caso é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Insuficiência de Corpo Lúteo."
+      },
+      {
+        "letra": "B",
+        "texto": "Síndrome Antifosfolípide."
+      },
+      {
+        "letra": "C",
+        "texto": "Placentação Anômala."
+      },
+      {
+        "letra": "D",
+        "texto": "Endometriose. 4000186841"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 4570,
+    "tags": [],
+    "enunciado": "Gestante de 27 anos, g-2 p-1 (01 parto a fórceps), cursando a 24ª semana comparece à maternidade com queixa de perda de secreção gelatinosa e desconforto no baixo ventre. Ao exame, ausência de contrações em 10 minutos, colo pérvio para 4,0 centímetros, apresentação cefálica, (cid:66)utuante. Qual o diagnóstico provável?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Amniorrexe prematura"
+      },
+      {
+        "letra": "B",
+        "texto": "Abortamento evitável"
+      },
+      {
+        "letra": "C",
+        "texto": "Insuficiência cervical"
+      },
+      {
+        "letra": "D",
+        "texto": "Abortamento incompleto 4000186432"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 4571,
+    "tags": [],
+    "enunciado": "Diagnóstico da insuficiência istmocervical Paciente com histórico de algumas perdas fetais praticamente indolores com evolução rápida para trabalho de parto avançado, inicialmente na transição do segundo para o terceiro trimestre mas, recentemente, tem apresentado perdas mais precoces, logo no início do segundo trimestre de gestação. Nesses episódios os fetos encontravam-se vivos durante o processo e com peso compatível com a idade gestacional. Paciente encontra-se atualmente com 6 semanas de gestação. Qual é a conduta mais adequada para esta paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pesquisa de trombofilias adquiridas visto o agravamento sequencial dos casos."
+      },
+      {
+        "letra": "B",
+        "texto": "Cerclagem de emergência com 10 semanas de gravidez para correção cervical."
+      },
+      {
+        "letra": "C",
+        "texto": "Pesquisa de tamanho de colo uterino com 20 semanas e progesterona vaginal."
+      },
+      {
+        "letra": "D",
+        "texto": "Pesquisa sequencial de tamanho de colo uterino à ultrassonografia abdominal."
+      },
+      {
+        "letra": "E",
+        "texto": "Cerclagem profilática com 12 semanas após avaliação morfológica de 1° trimestre. 4000185956"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 4572,
+    "tags": [],
+    "enunciado": "Paciente secundigesta, com antecedente de parto normal prematuro, idade gestacional de 22 semanas, por ocasião do exame ultrassonográ(cid:69)co transvaginal realizado na mesma oportunidade da avaliação morfológica do segundo trimestre, apresentou colo medindo 18 mm de comprimento. Ao exame de toque vaginal, o colo apresentava 1,5 cm de dilatação e estava 80% esvaecido. Assinale a alternativa que apresenta a conduta apropriada nesse caso clínico hipotético.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "iniciar tocólise com betamiméticos."
+      },
+      {
+        "letra": "B",
+        "texto": "prescrever corticoide intramuscular, progesterona natural via oral, em altas doses e orientar repouso."
+      },
+      {
+        "letra": "C",
+        "texto": "realizar cerclagem abdominal laparoscópica."
+      },
+      {
+        "letra": "D",
+        "texto": "realizar cerclagem via vaginal em caráter de urgência."
+      },
+      {
+        "letra": "E",
+        "texto": "iniciar tocólise com bloqueadores dos canais de cálcio."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 4573,
+    "tags": [],
+    "enunciado": "Analise as assertivas abaixo sobre a insuficiência istmocervical: I. Ocorre dilatação indolor e recorrente do colo uterino, levando a perdas no primeiro trimestre. II. É idiopática, decorrente da fraqueza estrutural do colo. III. É secundária a procedimentos cirúrgicos como dilatação e curetagem. Quais estão corretas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas I e II."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas I e III."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas II e III."
+      },
+      {
+        "letra": "D",
+        "texto": "I, II e III."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 4574,
+    "tags": [],
+    "enunciado": "Gestante, primigesta, realizou exame morfológico cuja cervicometria foi 18mm. Qual conduta deve ser adotada conforme evidências cientificas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Acompanhamento pré-natal"
+      },
+      {
+        "letra": "B",
+        "texto": "Colocação de Pesário"
+      },
+      {
+        "letra": "C",
+        "texto": "Progesterona vaginal"
+      },
+      {
+        "letra": "D",
+        "texto": "Reavaliar em uma semana 4000183043"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 4575,
+    "tags": [],
+    "enunciado": "Abortamento habitual Abortamento de repetição e insuficiência istmocervical Etiologia do abortamento habitual Em caso de paciente com quadro de aborto recorrente (3 ou mais perdas espontâneas sucessivas), deve-se solicitar, para a investigação, EXCETO",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "avaliação da função tiroidiana."
+      },
+      {
+        "letra": "B",
+        "texto": "fator V de Leiden e proteína C."
+      },
+      {
+        "letra": "C",
+        "texto": "anticoagulante lúpico."
+      },
+      {
+        "letra": "D",
+        "texto": "anticorpo anticardiolipina e anti-ß2-glicoproteína I IgG e IgM."
+      },
+      {
+        "letra": "E",
+        "texto": "ultrassonografia / histerossonografia que podem fazer parte da investigação. 4000197989"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 4576,
+    "tags": [],
+    "enunciado": "Abortamento habitual Abortamento de repetição e insuficiência istmocervical Intercorrências obstétricas obstetrícia patológica Uma gestante com dez semanas refere três partos anteriores e prematuros, com óbito dos recém-nascidos. O primeiro nasceu com 24 semanas de gestação, o segundo, com vinte e duas semanas e o terceiro, com vinte semanas. Refere, também, que, todas as vezes, no momento em que sentiu dor, procurou o hospital, mas os nascimentos ocorreram em seguida. Com base nesse caso hipotético, assinale a alternativa que apresenta a conduta mais indicada para a paciente.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "realização de cerclagem imediata."
+      },
+      {
+        "letra": "B",
+        "texto": "realização de cerclagem entre catorze e dezesseis semanas, após o morfológico de 1º trimestre."
+      },
+      {
+        "letra": "C",
+        "texto": "prescrição de isoxsuprina 10 mg, VO, de 6/6 h."
+      },
+      {
+        "letra": "D",
+        "texto": "repouso absoluto no leito."
+      },
+      {
+        "letra": "E",
+        "texto": "seguimento do pré-natal de rotina."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 4577,
+    "tags": [],
+    "enunciado": "Intercorrências obstétricas obstetrícia patológica Mulher de 31 anos, G3P0A3, realiza investigação para abortamento de repetição. Exames de trombo(cid:69)lia normais; cariótipo dela 46XX, cariótipo do parceiro 46XY; histeroscopia evidencia septo uterino estendendo- se à região ístmica. Ressonância magnética sem sinais de endometriose ou adenomiose. Com base nesse caso, defina a conduta adequada e justifique. Essa questão possui comentário do professor no site 4000197059",
+    "alternativas": [],
+    "resposta_correta": null
+  },
+  {
+    "id": 4578,
+    "tags": [],
+    "enunciado": "Qual é o exame mais indicado para a avaliação das malformações mullerianas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ultrassonografia transvaginal morfológica 2D."
+      },
+      {
+        "letra": "B",
+        "texto": "Ultrassonografia transvaginal 3D com reformatação coronal."
+      },
+      {
+        "letra": "C",
+        "texto": "Ultrassonografia transvaginal 3D com reformatação sagital."
+      },
+      {
+        "letra": "D",
+        "texto": "Ultrassonografia transvaginal 3D com reformatação axial."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 4579,
+    "tags": [],
+    "enunciado": "J.M.L possui 35 anos, Gesta 3 Para 2 (dois partos normais com 33 e 31 semanas). Em sua gestação atual encontra-se na 14° semana, sem intercorrências e procurou médico para consulta pré-natal. Considerando o histórico da paciente, o médico deve recomendar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Progesterona via vaginal com início imediato;"
+      },
+      {
+        "letra": "B",
+        "texto": "Repouso absoluto a partir de 30 semanas;"
+      },
+      {
+        "letra": "C",
+        "texto": "Análise do comprimento do colo via vaginal a cada 2 semanas;"
+      },
+      {
+        "letra": "D",
+        "texto": "Cerclagem de colo uterino até 16 semanas. 4000191781"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 4580,
+    "tags": [],
+    "enunciado": "Um parto pré-termo é aquele que ocorre após a 20a semana e antes de completar 37 semanas de amenorreia (259 dias), independentemente do peso ao nascer. O parto prematuro pode ser espontâneo ou indicado.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "respeito da prematuridade e da avaliação do colo uterino, assinale a alternativa correta."
+      },
+      {
+        "letra": "A",
+        "texto": "A medida do colo uterino é indicada de forma universal entre 18-22 semanas de IG."
+      },
+      {
+        "letra": "B",
+        "texto": "O colo é considerado curto se seu comprimento for < 30 mm."
+      },
+      {
+        "letra": "C",
+        "texto": "A medida do colo uterino é melhor avaliada pelo ultrassom transabdominal e com a bexiga cheia."
+      },
+      {
+        "letra": "D",
+        "texto": "A presença de eco glandular endocervical está associado à diminuição das taxas de trabalho de parto prematuro. 4000191615"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 4581,
+    "tags": [],
+    "enunciado": "Paciente de 27 anos em acompanhamento no pré-natal de alto risco por histórico de 4 perdas gestacionais consecutivas em torno de 10 -11 semanas de gestação. A causa MAIS provável das perdas nesse caso é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "diabetes tipo I não diagnosticado."
+      },
+      {
+        "letra": "B",
+        "texto": "malformação fetal."
+      },
+      {
+        "letra": "C",
+        "texto": "insuficiência de corpo lúteo."
+      },
+      {
+        "letra": "D",
+        "texto": "síndrome anti-fosfolípide. 4000191524"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 4582,
+    "tags": [],
+    "enunciado": "Abortamento habitual Abortamento de repetição e insuficiência istmocervical Em caso de gestante com diagnóstico de Incontinência Cervical, caso a opção seja a cirurgia, a técnica mais utilizada é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Shirodkar."
+      },
+      {
+        "letra": "B",
+        "texto": "Lash."
+      },
+      {
+        "letra": "C",
+        "texto": "Mac Donald"
+      },
+      {
+        "letra": "D",
+        "texto": "Salles. 4000191183"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 4583,
+    "tags": [],
+    "enunciado": "Gestante com 23 semanas, sem queixa, apresentando herniação de saco gestacional observado ao exame especular durante coleta de exame de papanicolaou. O diagnóstico mais provável é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Incontinência cervical."
+      },
+      {
+        "letra": "B",
+        "texto": "Ameaça de aborto."
+      },
+      {
+        "letra": "C",
+        "texto": "Malformação uterina."
+      },
+      {
+        "letra": "D",
+        "texto": "Trabalho de parto prematuro. 4000191182"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 4584,
+    "tags": [],
+    "enunciado": "Primigesta com 21 semanas, assintomática, apresenta, na consulta de rotina pré-natal, toque vaginal com colo 80% apagado com 3 cm de dilatação. Nesse caso, qual é a conduta mais adequada a ser adotada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cerclagem cervical transvaginal de resgate."
+      },
+      {
+        "letra": "B",
+        "texto": "Progesterona vaginal."
+      },
+      {
+        "letra": "C",
+        "texto": "Ultrassonografia seriada para medida do colo uterino."
+      },
+      {
+        "letra": "D",
+        "texto": "Pessário cervical."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 4585,
+    "tags": [],
+    "enunciado": "Qual exame apresenta evidência cientí(cid:69)ca que justi(cid:69)que uma solicitação na investigação da causa de abortamento habitual?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cariotipagem do casal."
+      },
+      {
+        "letra": "B",
+        "texto": "Pesquisa de antígenos paternos."
+      },
+      {
+        "letra": "C",
+        "texto": "Pesquisa de trombofilias hereditárias."
+      },
+      {
+        "letra": "D",
+        "texto": "Testes de reserva ovariana."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 4586,
+    "tags": [],
+    "enunciado": "Julia, 34 anos, está com 28 semanas de idade gestacional e comparece na emergência com queixa de saída de secreção mucoide pela vagina. Pré natal de baixo risco sem nenhuma intercorrência. Ao exame: PA 120x70 mmHg, atividade uterina ausente, tônus uterino normal, fundo de útero com 26 cm. Toque vaginal com colo 6 cm dilatado, bolsa íntegra herniada, apresentação pélvica (cid:66)utuando. São fatores de risco para essa situação clínica, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "antecedente de conização;"
+      },
+      {
+        "letra": "B",
+        "texto": "presença de translocação balanceada em um dos pais;"
+      },
+      {
+        "letra": "C",
+        "texto": "malformação uterina;"
+      },
+      {
+        "letra": "D",
+        "texto": "abortamento provocado anterior;"
+      },
+      {
+        "letra": "E",
+        "texto": "laceração cervical em parto anterior. 4000175881"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 4587,
+    "tags": [],
+    "enunciado": "Trombofilias adquiridas Casal jovem, procura o ambulatório com relato de três perdas gestacionais desde que interromperam os métodos contraceptivos há 4 anos, a primeira com 10 semanas, a segunda com 18 semanas e a terceira com 15 semanas. Negam comorbidades e história familiar. Exames: cariótipo do casal normal, ultrassonogra(cid:69)a endovaginal normal, anticardiolipina IgG e IgM positivos, anticoagulante lúpico negativo, beta2 glicoproteína 1 reagente, TSH = 2,8 mUI/L (normal045 a 4,5 UI/L). A conduta na próxima gestação é prescrever:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Progesterona."
+      },
+      {
+        "letra": "B",
+        "texto": "Enoxaparina."
+      },
+      {
+        "letra": "C",
+        "texto": "Levotiroxina."
+      },
+      {
+        "letra": "D",
+        "texto": "Varfarina."
+      },
+      {
+        "letra": "E",
+        "texto": "nenhuma das respostas acima"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 4588,
+    "tags": [],
+    "enunciado": "Uma gestante de 31 anos, G3P2, foi encaminhada ao pré-natal de alto risco com 19 semanas. Antecedente pessoal: 2 partos pré-termo com 24 e 27 semanas de gestação. Ultrassonogra(cid:69)a obstétrica: colo uterino de 15mm. O diagnóstico e a conduta são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "insuficiência istmocervical; cerclagem"
+      },
+      {
+        "letra": "B",
+        "texto": "insuficiência istmocervical; pessário"
+      },
+      {
+        "letra": "C",
+        "texto": "trabalho de parto prematuro; cerclagem de urgência"
+      },
+      {
+        "letra": "D",
+        "texto": "trabalho de parto prematuro; pessário 4000175525"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 4589,
+    "tags": [],
+    "enunciado": "Qual é a alteração uterina, quando presente, mais associada a abortamento habitual precoce?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Útero septado."
+      },
+      {
+        "letra": "B",
+        "texto": "Útero bicorno."
+      },
+      {
+        "letra": "C",
+        "texto": "Útero didelfo"
+      },
+      {
+        "letra": "D",
+        "texto": "Mioma uterino."
+      },
+      {
+        "letra": "E",
+        "texto": "Incompetência istmocervical. 4000168228"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 4590,
+    "tags": [],
+    "enunciado": "As más-formações uterinas, ou anomalias Müllerianas congênitas, correspondem a um espectro d e anormalidades causadas por fusão embriológica defeituosa ou falhas na recanalização dos ductos Müllerianos na formação de uma cavidade uterina normal. Tais anomalias são frequentemente assintomáticas, mas podem apresentar -se com graus variados de alterações na saúde ginecológica e obstétrica das pacientes. Com relação as complicações obstétricas relacionadas as anomalias Müllerianas, assinale a alternativa correta: I. Aumento no risco de abortamento de 1º trimestre, mais evidente em pacientes com útero septado ou bicorno, ao passo que mulheres com útero arqueado, didelfo ou unicorno possuem risco relativo menor. II. No segundo trimestre, aumenta o risco de parto prematuro e de abortamento de 2º trimestre independentemente do tipo de malformação. III. O risco aumentado de apresentações anômalas, assim como a possibilidade de associação com más- formações vaginais, aumenta a possibilidade de parto cesariano nestas pacientes. IV. A cerclagem cervical é um procedimento que deve ser realizado em todas as gestantes com diagnóstico de anomalias Müllerianas, visto que todas evoluem com incompetência istmo-cervical. Estão corretas:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Todas as alternativas são verdadeiras."
+      },
+      {
+        "letra": "B",
+        "texto": "Todas as alternativas são falsas."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente as alternativas I, II e III são verdadeiras."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente as alternativas II e III são verdadeiras."
+      },
+      {
+        "letra": "E",
+        "texto": "Somente as alternativas I e III são verdadeiras 4000167999"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 4591,
+    "tags": [],
+    "enunciado": "Mulher, 25a, G2P1A0, Idade Gestacional= 22 semanas, com parto espontâneo às 28 semanas em gestação anterior, deu entrada na maternidade com queixa de dor em baixo ventre e secreção vaginal. Exame obstétrico: altura uterina 21 cm, dinâmica uterina ausente, batimentos cardíacos fetais: 140 bpm; especular: ausência de sangramento, presença de muco (cid:69)siológico em colo uterino e ausência de leucorreia; toque vaginal: colo medianizado, amolecido, 50% esvaecido, orifício externo entreaberto. Ultrassonogra(cid:69)a: colo uterino medindo 20mm, com abertura de orifício interno e herniação de membrana amniótica pelo canal cervical, com aspecto de funil. A CONDUTA É: Essa questão possui comentário do professor no site 4000167452",
+    "alternativas": [],
+    "resposta_correta": null
+  },
+  {
+    "id": 4592,
+    "tags": [],
+    "enunciado": "Com relação ao abortamento, assinale a opção correta. I - A Organização Mundial da Saúde (OMS) de(cid:69)ne como abortamento, a expulsão ou extração do feto, antes de 19 semanas de gestação ou pesando menos de 450g. II - Se ocorrer até 16 semanas de gestação é denominado como precoce; se for entre 16 e 19 semanas de gestação é denominado como tardio. III - A taxa de abortamento em pacientes portadoras de Diabetes Mellitus tipo I, encontra-se aumentada, independentemente de estarem controladas clinicamente.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As afirmativas I e II são verdadeiras. A afirmativa III é falsa."
+      },
+      {
+        "letra": "B",
+        "texto": "As afirmativas I e III são verdadeiras. A afirmativa II é falsa."
+      },
+      {
+        "letra": "C",
+        "texto": "As afirmativas II e III são verdadeiras. A afirmativa I é falsa."
+      },
+      {
+        "letra": "D",
+        "texto": "As afirmativas I, II e III são verdadeiras."
+      },
+      {
+        "letra": "E",
+        "texto": "As afirmativas I, II e III são falsas."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 4593,
+    "tags": [],
+    "enunciado": "Mulher, 36 anos de idade, sem (cid:69)lhos vivos, com 2 abortos espontâneos, entre 8 e 10 semanas. Paciente hígida e sem antecedente de trombose. Exames laboratoriais: anticorpo anticardiolipina IgG =18 GPL, IgM negativo, IgA positivo e anticoagulante lúpico negativo. Qual é a causa mais provável dos abortos e a conduta na próxima gestação?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sindrome do anticorpo Antifosfolípide; ácido acetilsalicílico em baixa dose"
+      },
+      {
+        "letra": "B",
+        "texto": "Idade materna; reprodução assistida com seleção embrionária"
+      },
+      {
+        "letra": "C",
+        "texto": "Sindrome do Anticorpo Antifosfolípide; ácido acetilsalicílico e heparina"
+      },
+      {
+        "letra": "D",
+        "texto": "Não há diagnóstico definido; não há indicação de tratamento medicamentoso"
+      },
+      {
+        "letra": "E",
+        "texto": "Lupus erimatoso sistêmico; prednisona 4000198933"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 4594,
+    "tags": [],
+    "enunciado": "Sangramento primeira metade Gestante de 32 anos, primigesta, com antecedente de conização do colo uterino por doença pré-neoplásica há 2 anos, sem outras co-morbidades. Comparece à primeira consulta de pré-natal com idade gestacional menstrual de 8 semanas, sem queixas. Ao exame físico observa-se colo uterino aparentemente curto, com textura (cid:69)rme, impérvio e sem lesões evidentes. O restante do exame físico está normal. Traz ultrassonogra(cid:69)a realizada 3 dias antes, mostrando gestação evolutiva, com idade gestacional compatível com a DUM. Dentre as alternativas abaixo, qual a conduta mais adequada para prevenção da prematuridade?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Coleta de colpocitologia oncótica, ultrassonografia morfológica com 12 semanas e, se ambos normais, realização de cerclagem uterina profilática até 16 semanas."
+      },
+      {
+        "letra": "B",
+        "texto": "Medida seriada do colo uterino pela ultrassonografia transvaginal entre 16 e 24 semanas e cerclagem uterina se o comprimento do colo for menor que 25 mm."
+      },
+      {
+        "letra": "C",
+        "texto": "Medida do colo durante a ultrassonografia morfológica do primeiro trimestre e cerclagem até 16 semanas, caso o comprimento cervical seja menor do que 30 mm."
+      },
+      {
+        "letra": "D",
+        "texto": "Medida transvaginal do colo durante a ultrassonografia morfológica entre 20 e 24 semanas e cerclagem caso o comprimento do colo seja menor do que 25 mm. 4000198773"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 4595,
+    "tags": [],
+    "enunciado": "Gestante com 12 semanas relata histórico de dois partos prematuros: o primeiro foi com 27 semanas e o segundo com 22 semanas; ambos os partos foram rápidos, sem possibilidade de inibição. No momento assintomática, foi submetida a ultrassonografia transvaginal, que revelou a imagem apresentada. Para promover melhor resultado nessa gestação, qual é a conduta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Realizar a cerclagem do colo uterino nas próximas duas semanas."
+      },
+      {
+        "letra": "B",
+        "texto": "Adotar conduta expectante e controlar o comprimento do colo a cada duas semanas."
+      },
+      {
+        "letra": "C",
+        "texto": "Adotar conduta expectante e repetir o exame transvaginal do colo com 22 a 24 semanas."
+      },
+      {
+        "letra": "D",
+        "texto": "Realizar a pesquisa de (cid:69)bronectina em secreção vaginal."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 4596,
+    "tags": [],
+    "enunciado": "MSN foi admitida no pré-natal com a seguinte história obstétrica: Gesta 3 Para 2 (1° parto transpélvico operatório à fórcipe) com 38 semanas, 2° partos com 23 semanas e óbito neonatal) Aborto 0. Baseado nos desfechos obstétricos pregressos foi feito o diagnóstico de incompetência istmo cervical. A conduta a ser adotada é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Realizar circlagem entre 5 a 10 semanas de gestação."
+      },
+      {
+        "letra": "B",
+        "texto": "Acompanhar com ultrassonografia transvaginal e indicar circlagem caso haja encurtamento do colo."
+      },
+      {
+        "letra": "C",
+        "texto": "Orientar quanto ao repouso absoluto, encaminhar ao pré-natal de alto risco e iniciar progesterona via vaginal."
+      },
+      {
+        "letra": "D",
+        "texto": "Realizar circlagem eletiva entre 12 a 14 semanas de gestação."
+      },
+      {
+        "letra": "E",
+        "texto": "Tratar clinicamente apenas com progesterona; 4000172521"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 4597,
+    "tags": [],
+    "enunciado": "Quanto às complicações das anomalias uterinas congênitas na gestação, considere os itens a seguir. I. Gestação prolongada. II. Abortamento espontâneo. III. Restrição de crescimento fetal. IV. Insuficiência istmocervical. Assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente os itens I e II são corretos."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente os itens I e IV são corretos."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente os itens III e IV são corretos."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente os itens I, II e III são corretos."
+      },
+      {
+        "letra": "E",
+        "texto": "Somente os itens II, III e IV são corretos. 4000153360"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 4598,
+    "tags": [],
+    "enunciado": "Na abordagem multifatorial da paciente com perdas fetais ou abortamentos recorrentes, o médico obstetra deve atentar para vários fatores. Assinale a CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A Síndrome Antifosfolípide é clinicamente definida por tromboses recorrentes, arteriais ou venosas, perdas fetais de repetição e; laboratorialmente pela presença de anticorpos antifosfolipídeos (aPL, a saber: anticardiolipina (aCL, anti-beta2 glicoproteína1 (B2GP1 e o Lúpus Anticoagulante (LAC."
+      },
+      {
+        "letra": "B",
+        "texto": "O tratamento de pacientes com síndrome antifosfolipídeo e antecedentes de abortamentos precoces ou perdas fetais tardias, e em nova gestação, pode ser realizado com aspirina em baixas doses e dicumarínicos."
+      },
+      {
+        "letra": "C",
+        "texto": "Todas as mulheres portadoras de hipotireoidismo, especialmente aquelas com pretensão de engravidar, devem ser estimuladas a obter um bom controle da sua doença antes da concepção. O tratamento de escolha deve iniciar com metimazol ou tapazol."
+      },
+      {
+        "letra": "D",
+        "texto": "A incompetência istmo-cervical caracteriza-se por abortamentos recorrentes até 12 semanas de gestação e deve ser tratada com procedimento cirúrgico eletivo (cerclagem do colo uterino ou pessário cervical."
+      },
+      {
+        "letra": "E",
+        "texto": "As infecções feto-placentárias são causas raras de perdas fetais, tendo o seu custo não justificável na propedêutica investigativa."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 4599,
+    "tags": [],
+    "enunciado": "Malformações uterinas são importantes causas de abortamento habitual. Elas deformam a cavidade uterina e prejudicam o desempenho reprodutivo, aumentando o risco de abortamento, parto prematuro, restrição de crescimento fetal, ruptura prematura das membranas e apresentação anômala. Marque a opção abaixo que configura o tipo de malformação com pior prognóstico obstétrico:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "útero didelfo;"
+      },
+      {
+        "letra": "B",
+        "texto": "útero arqueado;"
+      },
+      {
+        "letra": "C",
+        "texto": "útero bicorno;"
+      },
+      {
+        "letra": "D",
+        "texto": "útero septado;"
+      },
+      {
+        "letra": "E",
+        "texto": "útero unicorno."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 4600,
+    "tags": [],
+    "enunciado": "Insuficiência istmocervical Obstetrícia Gestante internada com quadro de incompetência istmo cervical. Foi submetida à cerclagem uterina na 16ª semana de gestação. Após 6 dias da alta, retorna à maternidade com história de febre e perda de líquido há cerca de 12 horas. Ao exame admissional apresentava-se febril, taquicardia, desidratada. Feito exame especular e visualizada saída de líquido espesso e com odor fétido do canal cervical. Gestante evoluiu com hemorragia e óbito por sepse cerca de 15 dias após reinternação. Este relato ilustra um caso de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Morte materna obstétrica direta."
+      },
+      {
+        "letra": "B",
+        "texto": "Morte materna obstétrica indireta."
+      },
+      {
+        "letra": "C",
+        "texto": "Morte materna tardia direta."
+      },
+      {
+        "letra": "D",
+        "texto": "Morte materna incidental."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 4601,
+    "tags": [],
+    "enunciado": "Mulher, 36 anos de idade, refere duas perdas gestacionais, ambas do mesmo parceiro, a primeira com 10 semanas e a segunda com 18 semanas. Nega eventos de trombose na família. Exames: cariótipo do casal normal, ultrassonogra(cid:69)a endovaginal normal, anticardiolipina IgG e IgM positivos, anticoagulante lúpico negativo, beta? glicoproteína 1 reagente, TSH = 2,8 mUI/L (normal 045 a 4,5 UI/L). A conduta na próxima gestação é prescrever:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "progesterona."
+      },
+      {
+        "letra": "B",
+        "texto": "enoxaparina."
+      },
+      {
+        "letra": "C",
+        "texto": "levotiroxina."
+      },
+      {
+        "letra": "D",
+        "texto": "varfarina."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 4602,
+    "tags": [],
+    "enunciado": "O tratamento da gestante abortadora habitual, cujo exame sorológico mostra presença de anticoagulante lúpico, inclui:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cápsulas de progesterona."
+      },
+      {
+        "letra": "B",
+        "texto": "Aspirina e corticoide."
+      },
+      {
+        "letra": "C",
+        "texto": "AZT e aspirina."
+      },
+      {
+        "letra": "D",
+        "texto": "Estrógeno e progesterona. 4000144398"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 4603,
+    "tags": [],
+    "enunciado": "Etiologia do abortamento habitual Abortamento Os anticorpos antifosfolípides podem estar envolvidos em quadros de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Incompetência istmocervical."
+      },
+      {
+        "letra": "B",
+        "texto": "Abortamento."
+      },
+      {
+        "letra": "C",
+        "texto": "Amniorrexe prematura."
+      },
+      {
+        "letra": "D",
+        "texto": "Placenta prévia."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 4604,
+    "tags": [],
+    "enunciado": "É de suma importância atentar durante o pré-natal sobre o correto manejo com uso de medicações e procedimentos que porventura possibilitem prevenção das complicações obstétricas e/ou fetais. Assinale alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os inibidores da enzima de conversão da Angiotensina e os antagonistas dos receptores da Angiotensina II são contraindicados na gravidez devido à sua associação com restrição do crescimento fetal, oligohidrâmnio, insuficiência renal neonatal e morte neonatal."
+      },
+      {
+        "letra": "B",
+        "texto": "Em gestantes com insuficiência istmo cervical, com história de duas ou mais perdas no 2º trimestre, sem sangramento, com dilatação cervical e sem dor, recomenda-se a cerclagem eletiva, que deve ser realizada entre 12–14 semanas da gravidez, após a ultrassonografia mostrar feto vivo e sem anomalias."
+      },
+      {
+        "letra": "C",
+        "texto": "Em gestantes Rh-negativo e coombs indireto negativo sempre deve ser feita a prescrição de imunoglobulina anti-D quando ela apresentar sangramento em qualquer período gestacional a fim de evitar isoimunização ABO - RH."
+      },
+      {
+        "letra": "D",
+        "texto": "Nem toda gestante que for submetida a uma ultrassonografia obstétrica entre 20 e 24 semanas deve ter uma avaliação do comprimento cervical por via transvaginal visto que os estudos atuais mostram não haver correlação desta medida com risco de parto pré termo. 4000143805"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 4605,
+    "tags": [],
+    "enunciado": "Gestante, 30 anos, G4 P0, foi encaminhada para o pré-natal de alto risco com diagnóstico de incompetência istmocervical. Foi programada a realização da cerclagem uterina com 14 semanas, que ocorreu sem intercorrências. Durante a evolução da gestação, a remoção dos pontos da cerclagem está indicada nas seguintes situações, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Idade gestacional de 37 semanas."
+      },
+      {
+        "letra": "B",
+        "texto": "Colo menor que 2cm após 28 semanas."
+      },
+      {
+        "letra": "C",
+        "texto": "Trabalho de parto prematuro que não responde ao uso de tocolíticos."
+      },
+      {
+        "letra": "D",
+        "texto": "Amniorrexe prematura acima de 34 semanas."
+      },
+      {
+        "letra": "E",
+        "texto": "Presença de sinais de infecção ovular."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 4606,
+    "tags": [],
+    "enunciado": "Mulher, 37 anos, apresenta histórico de 3 perdas gestacionais de primeiro trimestre. Após cada aborto, houve necessidade de 3 aspirações manuais intrauterinas. Para a investigação dessas perdas de repetição, o exame obrigatoriamente solicitado é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "mutação do gene da protrombina"
+      },
+      {
+        "letra": "B",
+        "texto": "fator V Leiden"
+      },
+      {
+        "letra": "C",
+        "texto": "pesquisa de cross-match"
+      },
+      {
+        "letra": "D",
+        "texto": "histeroscopia 4000142676"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 4607,
+    "tags": [],
+    "enunciado": "Paciente sexo feminino, 32 anos, com antecedente de 3 abortos espontâneos, deu entrada no pronto- socorro com quadro de edema e vermelhidão no membro inferior direito, tendo sido realizado USG doppler do membro, constatando-se a presença de trombose venosa profunda.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "alteração mais provável de ser encontrada nessa paciente, dentre as abaixo, é a presença do"
+      },
+      {
+        "letra": "A",
+        "texto": "anticorpo anti-endomísio."
+      },
+      {
+        "letra": "B",
+        "texto": "anticorpo anti-beta2 glicoproteína 1."
+      },
+      {
+        "letra": "C",
+        "texto": "anticorpo anti-LKM1."
+      },
+      {
+        "letra": "D",
+        "texto": "fator reumatoide."
+      },
+      {
+        "letra": "E",
+        "texto": "anticorpo anti-mitocôndria."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 4608,
+    "tags": [],
+    "enunciado": "Intercorrências obstétricas obstetrícia patológica Obstetrícia Mulher, 37 anos, apresenta histórico de 3 perdas gestacionais de primeiro trimestre. Após cada aborto, houve necessidade de 3 aspirações manuais intrauterinas. Para a investigação dessas perdas de repetição, o exame obrigatoriamente solicitado é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "mutação do gene da protrombina."
+      },
+      {
+        "letra": "B",
+        "texto": "fator V Leiden."
+      },
+      {
+        "letra": "C",
+        "texto": "pesquisa de cross-match."
+      },
+      {
+        "letra": "D",
+        "texto": "histeroscopia."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 4609,
+    "tags": [],
+    "enunciado": "Qual das seguintes anormalidades cromossômicas é mais frequentemente identi(cid:69)cada em abortamentos do primeiro trimestre?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Triploidia."
+      },
+      {
+        "letra": "B",
+        "texto": "Monossomia X (45,X)."
+      },
+      {
+        "letra": "C",
+        "texto": "Trissomia autossômica."
+      },
+      {
+        "letra": "D",
+        "texto": "Translocação Robertsoniana."
+      },
+      {
+        "letra": "E",
+        "texto": "Mosaicismo. 4000134673"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 4610,
+    "tags": [],
+    "enunciado": "Mais de 80% dos abortamentos ocorre nas primeiras 12 semanas de gestação. Qual o percentual corresponde àqueles causados por anormalidades cromossômicas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "25."
+      },
+      {
+        "letra": "B",
+        "texto": "35."
+      },
+      {
+        "letra": "C",
+        "texto": "50."
+      },
+      {
+        "letra": "D",
+        "texto": "75."
+      },
+      {
+        "letra": "E",
+        "texto": "100. 4000134670"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 4611,
+    "tags": [],
+    "enunciado": "Intercorrências obstétricas obstetrícia patológica Insuficiência istmocervical Gestante com 14 semanas é encaminhada para avaliação, por antecedente de partos pré-termo (refere um parto às 26 semanas e outro às 22 semanas de gestação), sem nenhum (cid:69)lho vivo. Ao toque, colo impérvio e aparentemente longo.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "conduta nesse momento é:"
+      },
+      {
+        "letra": "A",
+        "texto": "Indicar cerclagem do colo uterino."
+      },
+      {
+        "letra": "B",
+        "texto": "Indicar uso do pessário obstétrico cervical."
+      },
+      {
+        "letra": "C",
+        "texto": "Iniciar progesterona via vaginal e não indicar cerclagem."
+      },
+      {
+        "letra": "D",
+        "texto": "Solicitar medida de colo por ultrassonografia transvaginal."
+      },
+      {
+        "letra": "E",
+        "texto": "Solicitar fibronectina para auxiliar na definição da conduta."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 4612,
+    "tags": [],
+    "enunciado": "Paciente encontra-se na 14ª semana de sua 5ª gestação, até o momento sem intercorrências. Em seu histórico, constavam dois abortamentos, com 17 e 19 semanas. Em duas outras gestações, havia apresentado modi(cid:69)cação do colo uterino sem dor associada, chegando ao hospital com dilatação avançada (7-8 cm), o que ocasionou partos prematuros, com 22 e 23 semanas. Não tem (cid:69)lhos vivos. Os exames de pré-natal estavam normais. Com relação à prevenção da prematuridade, que conduta, dentre as abaixo, é a mais adequada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Realizar medida do colo uterino"
+      },
+      {
+        "letra": "B",
+        "texto": "Realizar cerclagem cervical"
+      },
+      {
+        "letra": "C",
+        "texto": "Indicar inserção de pessário cervical"
+      },
+      {
+        "letra": "D",
+        "texto": "Recomendar manutenção de repouso domiciliar"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 4613,
+    "tags": [],
+    "enunciado": "São consideradas causas de abortamento, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Alterações cromossômicas"
+      },
+      {
+        "letra": "B",
+        "texto": "Defeitos da fase lútea"
+      },
+      {
+        "letra": "C",
+        "texto": "Infecções maternas"
+      },
+      {
+        "letra": "D",
+        "texto": "Sinéquias intrauterinas"
+      },
+      {
+        "letra": "E",
+        "texto": "Miomas de localização subserosa 4000217385"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 4614,
+    "tags": [],
+    "enunciado": "\"\"A incompetência istmo-cervical (IIC) caracteriza-se por fraqueza congênita ou adquirida na junção do orifício interno cervical e o segmento inferior”. Tendo em vista as possibilidades diagnósticas e terapêuticas, a melhor assertiva é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O tratamento padrão para a IIC é clínico, tendo a progesterona micronizada como principal indicação."
+      },
+      {
+        "letra": "B",
+        "texto": "O tratamento da IIC de escolha é a cerclagem por via vaginal, a ser realizada preferencialmente ao redor da 14ª semana da gravidez, ocasião em que ainda não aconteceram modificações cervicais."
+      },
+      {
+        "letra": "C",
+        "texto": "O diagnóstico da IIC contém vários aspectos polêmicos, sendo obrigatório a modificação cervical visível à ultrassonografia."
+      },
+      {
+        "letra": "D",
+        "texto": "O pessário, como método terapêutico, possui maiores complicações obstétricas maternas e perinatais."
+      },
+      {
+        "letra": "E",
+        "texto": "O diagnóstico clínico caracteriza-se por achados de modificação cervical atual, na qual se desconsidera o passado obstétrico da gestante e classifica-se em tipo primário ou secundário."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 4615,
+    "tags": [],
+    "enunciado": "Em relação à Insuficiência Cervical assinale a alternativa incorreta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A herniação das membranas visualizada ao exame especular leva o nome de Insuficiência Cervical Aguda."
+      },
+      {
+        "letra": "B",
+        "texto": "A circlagem deve ser realizada até 24 semanas, antes da viabilidade fetal."
+      },
+      {
+        "letra": "C",
+        "texto": "Nem antibióticos, nem tocolíticos profiláticos melhoram a eficácia da circlagem."
+      },
+      {
+        "letra": "D",
+        "texto": "Como método alternativo, restrição da atividade física e repouso no leito são tão eficazes para o tratamento quanto à circlagem."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 4616,
+    "tags": [],
+    "enunciado": "A suspeita de insuficiência istmo cervical deve ser feita quando a paciente tem antecedente de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "infertilidade secundária."
+      },
+      {
+        "letra": "B",
+        "texto": "miomectomia histeroscópica."
+      },
+      {
+        "letra": "C",
+        "texto": "óbito fetal no 3º trimestre."
+      },
+      {
+        "letra": "D",
+        "texto": "abortamento de repetição."
+      },
+      {
+        "letra": "E",
+        "texto": "partos prematuros no 2º trimestre."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 4617,
+    "tags": [],
+    "enunciado": "Mulher, 36a, G4P1A2C0, idade gestacional de 14 semanas. Antecedentes Obstétricos: parto prematuro às 26 semanas e abortos com 18 e 15 semanas. Ultrassonogra(cid:69)a com 12 semanas: avaliação morfológica fetal normal e colo uterino medindo 35 mm, sem sinais de afunilamento ou sludge. A CONDUTA É:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Amoxicilina clavulanato por 7 dias e repetir ecografia com 20 semanas."
+      },
+      {
+        "letra": "B",
+        "texto": "Amoxicilina clavulanato por 7 dias e pré-natal de rotina."
+      },
+      {
+        "letra": "C",
+        "texto": "Progesterona vaginal e pré-natal de rotina."
+      },
+      {
+        "letra": "D",
+        "texto": "Progesterona vaginal e cerclagem de colo uterino."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 4618,
+    "tags": [],
+    "enunciado": "Secundigesta, com útero bicorno, encontra-se com 12 semanas de gestação e apresenta sangramento vaginal há 4 dias. O parto anterior teve duração de 3 horas e ocorreu na 32a semana. Qual a conduta a ser estabelecida no momento?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pessário e progesterona natural."
+      },
+      {
+        "letra": "B",
+        "texto": "Cerclagem por via vaginal imediata."
+      },
+      {
+        "letra": "C",
+        "texto": "Cerclagem por via abdominal imediata."
+      },
+      {
+        "letra": "D",
+        "texto": "Pessário se comprimento cervical <2,5 cm."
+      },
+      {
+        "letra": "E",
+        "texto": "Cerclagem quando sangramento cessar."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 4619,
+    "tags": [],
+    "enunciado": "O abortamento habitual ou recorrente afeta cerca de 1% dos casais que tentam conceber. São causas de abortamento habitual, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Incompetência istmocervical."
+      },
+      {
+        "letra": "B",
+        "texto": "Insuficiência lútea."
+      },
+      {
+        "letra": "C",
+        "texto": "Malformações congênitas ovarianas."
+      },
+      {
+        "letra": "D",
+        "texto": "Transtornos cromossômicos."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 4620,
+    "tags": [],
+    "enunciado": "Em um casal com antecedentes de 4 abortamentos consecutivos, o exame que NÃO tem (cid:69)nalidade na investigação é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "hiterossalpingografia."
+      },
+      {
+        "letra": "B",
+        "texto": "teste pós-coito."
+      },
+      {
+        "letra": "C",
+        "texto": "pesquisa de SAAF."
+      },
+      {
+        "letra": "D",
+        "texto": "pesquisa de anomalias cromossômicas dos pais."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 4621,
+    "tags": [],
+    "enunciado": "Diagnóstico da insuficiência istmocervical Paciente de 26 anos, referindo atraso menstrual de 2 meses, é encaminhada ao pré-natal de referência. Antecedentes Gineco-Obstétricos: terceira gestação, nenhum parto, dois abortos espontâneos (primeiro aborto com 18 semanas e segundo aborto com 16 semanas, nascidos vivos, evoluindo com óbito logo após os nascimentos) e conização a frio por NIC 3 aos 20 anos de idade. O exame físico realizado evidenciou colo uterino impérvio. O ultrassom mostrou gestação inicial de 7 semanas e comprimento do colo uterino de 29 mm. O tratamento correto a ser orientado é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Realizar cerclagem emergencial do colo uterino."
+      },
+      {
+        "letra": "B",
+        "texto": "Realizar restrição de atividade física, repouso no leito e uso de progesterona."
+      },
+      {
+        "letra": "C",
+        "texto": "Realizar cerclagem do colo uterino baseada nos antecedentes obstétricos, entre 12 e14 semanas, após a ultrassonografia revelar boa vitalidade e ausência de anomalias fetais."
+      },
+      {
+        "letra": "D",
+        "texto": "Realizar cerclagem do colo uterino baseada nos dados ultrassonográficos entre 16 e24 semanas de gravidez, após a ultrassonografia revelar boa vitalidade e ausência de anomalias fetais."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 4622,
+    "tags": [],
+    "enunciado": "Uma paciente de 35 anos de idade, com diagnóstico de gestação estabelecido há duas semanas, apresenta idade gestacional atual de doze semanas. Compareceu ao serviço de emergência, queixando-se de cólicas e sangramento vaginal intermitente e abundante iniciado há duas horas. Está ansiosa e chorosa, pois já sofreu dois abortos consecutivos previamente. O exame físico mostra colo entreaberto. A ultrassonogra(cid:69)a descreve massa focal ecogênica sugestiva de restos ovulares. Com base nesse caso hipotético, julgue o item a seguir. As malformações uterinas são a causa mais comum de abortamento habitual.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Certo."
+      },
+      {
+        "letra": "B",
+        "texto": "Errado."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 4623,
+    "tags": [],
+    "enunciado": "Uma paciente de 35 anos de idade, com diagnóstico de gestação estabelecido há duas semanas, apresenta idade gestacional atual de doze semanas. Compareceu ao serviço de emergência, queixando-se de cólicas e sangramento vaginal intermitente e abundante iniciado há duas horas. Está ansiosa e chorosa, pois já sofreu dois abortos consecutivos previamente. O exame físico mostra colo entreaberto. A ultrassonogra(cid:69)a descreve massa focal ecogênica sugestiva de restos ovulares. Com base nesse caso hipotético, julgue o item a seguir. Para o caso da paciente, deve ser aventada a possibilidade de a síndrome antifosfolipídeo ser a causa dos abortamentos.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Certo."
+      },
+      {
+        "letra": "B",
+        "texto": "Errado."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 4624,
+    "tags": [],
+    "enunciado": "Primigesta, 22 semanas, refere desconforto abdominal e saída de secreção gelatinosa há uma hora. Nega dor, perda de líquido ou sangramento. Ao exame observa-se colo pérvio para 6 cm, cefálico, em OP. O diagnóstico é de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "abortamento evitável."
+      },
+      {
+        "letra": "B",
+        "texto": "insuficiência istmocervical."
+      },
+      {
+        "letra": "C",
+        "texto": "amniorexe prematura."
+      },
+      {
+        "letra": "D",
+        "texto": "abortamento incompleto."
+      },
+      {
+        "letra": "E",
+        "texto": "trabalho de parto taquitócico."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 4625,
+    "tags": [],
+    "enunciado": "Mulher, 31 anos, G3P2, é encaminhada ao pré-natal de alto risco com 19 semanas. Antecedente pessoal: 2 partos pré-termo com 24 e 27 semanas de gestação. Ultrassom obstétrico revela colo uterino de 15 mm. O diagnóstico e a conduta são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Insuficiência istmocervical / Cerclagem."
+      },
+      {
+        "letra": "B",
+        "texto": "Insuficiência istmocervical / Pessário."
+      },
+      {
+        "letra": "C",
+        "texto": "Trabalho de parto prematuro / Cerclagem de urgência."
+      },
+      {
+        "letra": "D",
+        "texto": "Trabalho de parto prematuro / Pessário."
+      },
+      {
+        "letra": "E",
+        "texto": "Nenhuma das alternativas acima."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 4626,
+    "tags": [],
+    "enunciado": "Gestante de 40 anos, G6 P1 A4, apresenta história de 4 abortamentos tardios com feto vivo e bolsa íntegra em torno de 20 semanas de gestação. O diagnóstico mais provável é abortamento de repetição causado por:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Insuficiência lútea"
+      },
+      {
+        "letra": "B",
+        "texto": "Insuficiência cervical"
+      },
+      {
+        "letra": "C",
+        "texto": "Infecção"
+      },
+      {
+        "letra": "D",
+        "texto": "Condição auto-imune"
+      },
+      {
+        "letra": "E",
+        "texto": "Condição genética"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 4627,
+    "tags": [],
+    "enunciado": "Diagnóstico da insuficiência istmocervical Gestante com 12 (doze) semanas, Gesta 3 para 0 e com história pregressa de 2 (dois) abortamentos espontâneos no 2° trimestre, chega ao ambulatório para inicar o pré-natal. O diagnóstico e a conduta nesse caso serão, respectivamente,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ameaça de abortamento e progesterona vaginal."
+      },
+      {
+        "letra": "B",
+        "texto": "incompetência istmo-cervical e circlagem de colo até a 14ª semana."
+      },
+      {
+        "letra": "C",
+        "texto": "incompetência istmo-cervical e progesterona vaginal."
+      },
+      {
+        "letra": "D",
+        "texto": "ameaça de abortamento e circlagem de colo até a 24ª semana."
+      },
+      {
+        "letra": "E",
+        "texto": "risco de parto prematuro e acompanhamento com ultrassonografia de colo."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 4628,
+    "tags": [],
+    "enunciado": "Qual a hipótese de diagnóstico mais provável para os casos de perdas sucessivas de conceptos vivos cada vez em idades gestacionais mais precoces e em trabalho de abortamento ou parto relativamente indolores?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Síndrome de anticorpos fosfolípides"
+      },
+      {
+        "letra": "B",
+        "texto": "Infecção urinária crônica"
+      },
+      {
+        "letra": "C",
+        "texto": "Diabetes descompensada"
+      },
+      {
+        "letra": "D",
+        "texto": "Insuficiência cervical"
+      },
+      {
+        "letra": "E",
+        "texto": "Sinéquias uterinas"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 4629,
+    "tags": [],
+    "enunciado": "Etiologia do abortamento habitual Síndrome do anticorpo antifosfolipídeo SAAF",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Síndrome do Anticorpo Antifosfolipídeo (SAF) deve ser suspeitado em:"
+      },
+      {
+        "letra": "A",
+        "texto": "paciente jovem com fenômeno de Raynaud."
+      },
+      {
+        "letra": "B",
+        "texto": "idosos com tromboflebites superficiais."
+      },
+      {
+        "letra": "C",
+        "texto": "homem jovem com eritema nodoso."
+      },
+      {
+        "letra": "D",
+        "texto": "presença de aticorpo de fotossensibilidade."
+      },
+      {
+        "letra": "E",
+        "texto": "perdas fetais recorrentes no segundo trimestre da gestação."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 4630,
+    "tags": [],
+    "enunciado": "Em relação a um casal com três abortamentos consecutivos, assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Histerossalpingografia pode ser utilizada para excluir alterações estruturais das trompas que provocam o aborto."
+      },
+      {
+        "letra": "B",
+        "texto": "No primeiro trimestre as causas mais comuns são as cromossômicas."
+      },
+      {
+        "letra": "C",
+        "texto": "Existe forte relação entre fator anticoagulante lúpico e abortamento de repetição."
+      },
+      {
+        "letra": "D",
+        "texto": "As causas estruturais ou ambientais geralmente respondem pelas perdas no segundo trimestre."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 4631,
+    "tags": [],
+    "enunciado": "Síndrome do anticorpo antifosfolipídeo SAAF Síndrome antifosfolípide SAF Uma jovem com história de perda fetal por três vezes com menos de 10 semanas, com trombocitopenia, artralgia e enxaqueca, vai ao consultório médico com quadro de trombose venosa profunda e livedo reticular. Tem anticorpo anticardiolipina (aCL) e anticorpos anti ß2GPI em títulos elevados. Nesse caso clínico, o quadro apresentado pela paciente chama a atenção para a síndrome",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "de West."
+      },
+      {
+        "letra": "B",
+        "texto": "de Budd Chiari."
+      },
+      {
+        "letra": "C",
+        "texto": "oncológica trombótica."
+      },
+      {
+        "letra": "D",
+        "texto": "do anticorpo antifosfolipídeo."
+      },
+      {
+        "letra": "E",
+        "texto": "hemolítico-urêmica."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 4632,
+    "tags": [],
+    "enunciado": "Paciente quartigesta e nulipara, com 3 perdas gestacionais prévias, uma com 20 semanas e outras duas com 17 semanas. Refere que as três perdas aconteceram sem muito sangramento; apenas sentia um pouco de contração e quando chegava na maternidade os bebês ja estavam nascendo. Os fetos estavam vivos no momento do parto, evoluindo, logo após o nascimento, para óbito. No momento, encontra-se com 14 semanas e 4 dias, assintomática, e vem para a consulta de pré-natal mostrar o resultado de ultrassonogra(cid:69)a transvaginal obstétrica morfológica de 1º trimestre: sem alterações. Ao exame físico, colo fechado, conteúdo vaginal (cid:69)siológico. Frente ao relato, indique o diagnóstico patológico obstétrico da paciente e a provável causa das perdas. Essa questão possui comentário do professor no site 4000008616",
+    "alternativas": [],
+    "resposta_correta": null
+  },
+  {
+    "id": 4633,
+    "tags": [],
+    "enunciado": "Paciente quartigesta e nulipara, com 3 perdas gestacionais prévias, uma com 20 semanas e outras duas com 17 semanas. Refere que as três perdas aconteceram sem muito sangramento; apenas sentia um pouco de contração e quando chegava na maternidade os bebês ja estavam nascendo. Os fetos estavam vivos no momento do parto, evoluindo, logo após o nascimento, para óbito. No momento, encontra-se com 14 semanas e 4 dias, assintomática, e vem para a consulta de pré-natal mostrar o resultado de ultrassonogra(cid:69)a transvaginal obstétrica morfológica de 1º trimestre: sem alterações. Ao exame físico, colo fechado, conteúdo vaginal (cid:69)siológico. Frente ao relato, indique a conduta obstétrica que, no momento, poderia modi(cid:69)car prognóstico dessa gestação. Essa questão possui comentário do professor no site 4000008614",
+    "alternativas": [],
+    "resposta_correta": null
+  },
+  {
+    "id": 4634,
+    "tags": [],
+    "enunciado": "Quartigesta, nulípara, 35 anos de idade, 12 semanas de gestação, refere antecedente de perdas gestacionais com 20, 18 e 16 semanas, que foram rápidas, indolores e sem sangramento importante. A ultrassonogra(cid:69)a constatou feto único, vivo, sem anomalias e biometria compatível com a idade gestacional menstrual. O próximo passo no cuidado dessa gestante é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cerclagem via vaginal entre 12 e 16 semanas"
+      },
+      {
+        "letra": "B",
+        "texto": "Progesterona vaginal e medidas seriadas do colo uterino."
+      },
+      {
+        "letra": "C",
+        "texto": "Pessário vaginal e cerclagem entre 16 e 20 semanas."
+      },
+      {
+        "letra": "D",
+        "texto": "Abstinência sexual e progesterona vaginal."
+      },
+      {
+        "letra": "E",
+        "texto": "Repouso no leito e progesterona vaginal."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 4635,
+    "tags": [],
+    "enunciado": "A melhor idade gestacional para realizar a circlagem pro(cid:69)lática do colo do útero, nos casos de insu(cid:69)ciência istmocervical, é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Até 10 semanas."
+      },
+      {
+        "letra": "B",
+        "texto": "Entre 12 e 16 semanas."
+      },
+      {
+        "letra": "C",
+        "texto": "Entre 18 e 22 semanas."
+      },
+      {
+        "letra": "D",
+        "texto": "Entre 22 e 24 semanas."
+      },
+      {
+        "letra": "E",
+        "texto": "Após 24 semanas."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 4636,
+    "tags": [],
+    "enunciado": "Gestante de 24 anos, G3P1A1 (parto normal com 22 semanas, feto nasceu vivo com 560g e foi a óbito após 12h de vida e aborto espontâneo com 17semanas, chegando na maternidade com protrusão de bolsa e evoluindo para amniorrexe e abortamento espontâneo), encontra-se com 14 semanas de gestação e chega à UBSF com queixa de desconforto pélvico, ansiosa, temendo pela evolução da sua gestação. O médico da unidade tem uma hipótese:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tranquilizar a gestante quanto a benignidade do quadro."
+      },
+      {
+        "letra": "B",
+        "texto": "Incompetência istmo cervical."
+      },
+      {
+        "letra": "C",
+        "texto": "Uso de drogas ilícitas."
+      },
+      {
+        "letra": "D",
+        "texto": "Anormalidades cromossômicas nos fetos."
+      },
+      {
+        "letra": "E",
+        "texto": "Abortamento de repetição idiopático."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 4637,
+    "tags": [],
+    "enunciado": "É imprescindível pesquisar insuficiência istmocervical em pacientes com antecedente de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Abortamento de repetição."
+      },
+      {
+        "letra": "B",
+        "texto": "Partos prematuros no 2º trimestre."
+      },
+      {
+        "letra": "C",
+        "texto": "Infertilidade por mais de 3 anos."
+      },
+      {
+        "letra": "D",
+        "texto": "Sangramento do primeiro trimestre."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 4638,
+    "tags": [],
+    "enunciado": "Com idade gestacional de 15 semanas Alaíde apresentou eliminação de líquido pela vagina, seguido de sangramento vaginal progressivo, culminando com a eliminação de concepto vivo que faleceu alguns minutos após o processo. Ela já havia apresentado perda fetal anterior com 20 semanas e outra com idade gestacional de 21 semanas; todas estas situações clínicas foram parecidas. Dessa forma, ela não tem nenhum (cid:69)lho vivo. Como antecedentes relevantes a paciente relata ter hipotireoidismo, controlado com levotiroxina 25mcg (último TSH=1,28um/L, padrão normal de 0,3 a 4,0um/L) e ter apresentado Lesão Intraepitelial de Alto Grau, tratada cirurgicamente há 5 anos. Assinale a alternativa CORRETA frente a essa situação clínica:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Provavelmente existe uma incompatibilidade ABO-Rh entre Alaíde e seu parceiro. Será necessária a imunoproflaxia com vacina anti-Rh"
+      },
+      {
+        "letra": "B",
+        "texto": "Aparentemente o diagnóstico sugere quadro de incompetência istmo-cervical uterina. Será importante avaliar o comprimento do colo uterino"
+      },
+      {
+        "letra": "C",
+        "texto": "Perdas fetais progressivas, do tipo que Alaíde apresenta são características de provável trissomia do cromossoma 21. Será necessário solicitar o cariótipo dos pais"
+      },
+      {
+        "letra": "D",
+        "texto": "O hipotireoidismo se associa a perdas fetais com as características descritas acima, independentemente de estar compensado"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 4639,
+    "tags": [],
+    "enunciado": "Tercigesta, 29 anos, com 13 semanas de gestação, comparece para iniciar seguimento pré-natal. Nega queixas. Não tem doenças ou vícios. Relata dois partos vaginais prévios, com 20 e 23 semanas, após curto período de atividade uterina, com expulsão dos fetos logo após corioamniorrexe espontânea. Ambos recém- nascidos morreram antes de 24 horas de vida. O exame físico geral e obstétrico realizados hoje estão normais. Trouxe resultado de ultrassonogra(cid:69)a realizada com 12 semanas: feto único, com CCN de 63 mm, com anatomia normal, placenta anterior e líquido amniótico normal. Qual é a conduta mais adequada para essa paciente nesse momento?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Realizar cerclagem de colo uterino materno."
+      },
+      {
+        "letra": "B",
+        "texto": "Avaliar marcadores ecográficos de aneuploidia fetal."
+      },
+      {
+        "letra": "C",
+        "texto": "Medir quinzenalmente o comprimento do colo uterino."
+      },
+      {
+        "letra": "D",
+        "texto": "Prescrever progesterona micronizada via vaginal."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 4640,
+    "tags": [],
+    "enunciado": "Em casos de incompetência istmo-cervical a época ideal para a realização da circlagem é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Entre 9 e 12 semanas de gestação."
+      },
+      {
+        "letra": "B",
+        "texto": "Entre 20 e 24 semanas de gestação."
+      },
+      {
+        "letra": "C",
+        "texto": "Entre 5 e 9 semanas de gestação."
+      },
+      {
+        "letra": "D",
+        "texto": "Entre 14 e 16 semanas de gestação."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 4641,
+    "tags": [],
+    "enunciado": "Mulher, 31a, G3P2, encaminhada ao pré-natal de alto risco com 19 semanas. Antecedente pessoal: 2 partos pré-termo com 24 e 27 semanas de gestação. Ultrassonogra(cid:69)a obstétrica: colo uterino de 15 mm. O diagnóstico e conduta são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Insuficiência istmo cervical, cerclagem."
+      },
+      {
+        "letra": "B",
+        "texto": "Insuficiência istmo cervical, pessário."
+      },
+      {
+        "letra": "C",
+        "texto": "Trabalho de parto prematuro, cerclagem de urgência."
+      },
+      {
+        "letra": "D",
+        "texto": "Trabalho de parto prematuro, pessário."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 4642,
+    "tags": [],
+    "enunciado": "A etiologia mais frequente do aborto habitual é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fator genético."
+      },
+      {
+        "letra": "B",
+        "texto": "Fator endócrino."
+      },
+      {
+        "letra": "C",
+        "texto": "Endometrite."
+      },
+      {
+        "letra": "D",
+        "texto": "Fator imunológico."
+      },
+      {
+        "letra": "E",
+        "texto": "Desconhecida."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 4643,
+    "tags": [],
+    "enunciado": "Gestante de 42 anos, GVIII P0 AVII, apresenta história de repetidos abortos tardios em torno do 5° mês da gestação. No momento, encontra-se grávida com 9 semanas de gestação. A opção abaixo que indica a conduta adequada para esse caso é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "progesterona vaginal."
+      },
+      {
+        "letra": "B",
+        "texto": "pessário vaginal."
+      },
+      {
+        "letra": "C",
+        "texto": "circlagem cervical."
+      },
+      {
+        "letra": "D",
+        "texto": "biópsia de vilo corial."
+      },
+      {
+        "letra": "E",
+        "texto": "enoxaparina."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 4644,
+    "tags": [],
+    "enunciado": "Paciente, 26 anos, com 14 semanas de gravidez, refere antecedentes obstétricos de duas perdas gestacionais, sendo a primeira com 23 e a segunda com 19 semanas. Refere partos rápidos, de fetos vivos e com pouca dor. A conduta mais adequada é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "indicar uso de uterolíticos e repouso."
+      },
+      {
+        "letra": "B",
+        "texto": "solicitar sorologia para afastar sífilis."
+      },
+      {
+        "letra": "C",
+        "texto": "indicar circlagem preventiva."
+      },
+      {
+        "letra": "D",
+        "texto": "realizar exame para avaliar dilatação cervical."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 4645,
+    "tags": [],
+    "enunciado": "Etiologia da insuficiencia istmocervical Na incompetência istmo-cervical ocorre falência do sistema oclusivo do útero grávido. Considerando o exposto, analise as afirmações e assinale a alternativa CORRETA: 1) Está relacionada com antecedente obstétrico de abortamento no segundo trimestre; 2) Apresenta ultrasom com apagamento do orifício interno (afunilamento); 3) Tratamento com metildopa por ocasião do diagnóstico; 4) Tratamento com cerclagem do colo uterino; 5) Indicação de cesariana eletiva com 34 semanas.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "2 e 3 estão corretas."
+      },
+      {
+        "letra": "B",
+        "texto": "1, 3 e 4 estão corretas."
+      },
+      {
+        "letra": "C",
+        "texto": "1, 2 e 4 estão corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "2 e 5 estão corretas."
+      },
+      {
+        "letra": "E",
+        "texto": "Todas estão corretas."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 4646,
+    "tags": [],
+    "enunciado": "Qual é a alteração uterina, quando presente, mais associada a abortamento habitual precoce?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Útero septado"
+      },
+      {
+        "letra": "B",
+        "texto": "Útero bicorno"
+      },
+      {
+        "letra": "C",
+        "texto": "Útero didelfo"
+      },
+      {
+        "letra": "D",
+        "texto": "Mioma uterino"
+      },
+      {
+        "letra": "E",
+        "texto": "Incompetência istmo-cervical"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 4647,
+    "tags": [],
+    "enunciado": "Diagnóstico da insuficiência istmocervical Paciente com 32 anos de idade, G IV P I A II, comparece para iniciar pré-natal com 8 semanas de gestação (7 semanas pela última menstruação e pela ultrassonogra(cid:69)a). Na coleta da história obstétrica pregressa, refere parto prematuro extremo (no 6o mês), neomorto no 2o dia pós–nascimento decorrente da prematuridade extrema e dois abortos tardios, um com 18 e outro com 16 semanas. Relata que na ocasião do parto iniciou quadro de sangramento indolor discreto e, ao chegar na maternidade o feto já estava com dilatação de 9cm, sem sentir nenhuma dor. Diante da história pregressa obstétrica, qual orientação deve ser fornecida à paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Informar que a mesma tem história obstétrica compatível com incompetência istmo cervical e deve realizar cerclagem do colo uterino entre 14 e 16 semanas, preferencialmente."
+      },
+      {
+        "letra": "B",
+        "texto": "Orientar sobre a possibilidade de colo uterino curto e iniciar progesterona vaginal imediatamente e manter até 38 semanas de gestação."
+      },
+      {
+        "letra": "C",
+        "texto": "Orientar sobre a possibilidade de incompetência istmo cervical e encaminhar para cerclagem uterina após a 14 semana se, à medida do colo uterino, a ultrassonografia morfológica de primeiro trimestre for menor que 3cm."
+      },
+      {
+        "letra": "D",
+        "texto": "Informar sobre quadro compatível com incompetência istmo cervical e iniciar progesterona oral imediatamente."
+      },
+      {
+        "letra": "E",
+        "texto": "Nenhuma orientação deve ser dada visto que a história obstétrica pregressa em nada pode interferir a gestação atual."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 4648,
+    "tags": [],
+    "enunciado": "Diagnóstico da insuficiência istmocervical Gestante, 28 anos de idade, com história de três partos prematuros com óbitos fetais imediatamente após o nascimento nas 22ª semana, 23ª semana e 18ª de gestação. No pré-natal atual, a ultrassonogra(cid:69)a obstétrica apresentou o seguinte laudo: gestação tópica única de 17 semanas e 1 dia, batimento cardíaco fetal de 143 bpm, Índice de Líquido Amniótico (ILA) de 10cm, cordão umbilical com 2 artérias e 1 veia e colo do uterino medindo 15 mm. Diante desse caso é indicado realizar",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "como próximo passo para a investigação diagnóstica, a dosagem de proteína S e proteína C, pois todos os parâmetros do ultrassom obstétrico estão normais."
+      },
+      {
+        "letra": "B",
+        "texto": "cerclagem com técnica cirúrgica de McDonald, pois a principal hipótese diagóstica é incompetência istmo cervical."
+      },
+      {
+        "letra": "C",
+        "texto": "como próximo passo para a investigação diagnóstica, a pesquisa de mutação no Fator V de Leiden, pois todos os parâmetros do ultrassom obstétrico estão normais."
+      },
+      {
+        "letra": "D",
+        "texto": "cerclagem com a técnica cirúgica de Manchester, pois a principal hipótese diangnóstica é incompetência istmo cervical."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 4649,
+    "tags": [],
+    "enunciado": "Uma gestante manifesta sua preocupação por ter apresentado duas perdas gestacionais, com 16 e 26 semanas. Ambas com fetos vivos e bem formados. Qual a principal hipótese diagnóstica nesse caso?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Amniorrexe prematura."
+      },
+      {
+        "letra": "B",
+        "texto": "Abortamento de repetição."
+      },
+      {
+        "letra": "C",
+        "texto": "Incompetência ístmo-cervical."
+      },
+      {
+        "letra": "D",
+        "texto": "Deslocamento prematuro de placenta."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 4650,
+    "tags": [],
+    "enunciado": "Dentre as diversas causas de abortamento abaixo qual apresenta maior taxa de ocorrência nos abortamentos recorrentes ou de repetição?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Anormalidades cromossômicas."
+      },
+      {
+        "letra": "B",
+        "texto": "Anormalidades müllerianas."
+      },
+      {
+        "letra": "C",
+        "texto": "Hipotireoidismo."
+      },
+      {
+        "letra": "D",
+        "texto": "Trombofilias."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 4651,
+    "tags": [],
+    "enunciado": "Abortamento habitual Abortamento de repetição e insuficiência istmocervical Uma paciente G3P1A1, encontra-se na 14ª semana de gestação. Apresenta antecedente obstétrico de 2 perdas gestacionais, a primeira com 25 semanas e a segunda com 22 semanas. Refere que ambos nasceram vivos, rapidamente, com poucas dores. Realizou exame morfológico do primeiro trimestre normal na atual gestação, momento no qual a cervicometria indicou um colo de 14 mm de comprimento. O obstetra deve:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Avaliar colo uterino por ultrassonografia seriada."
+      },
+      {
+        "letra": "B",
+        "texto": "Investigar sífilis e diabetes."
+      },
+      {
+        "letra": "C",
+        "texto": "Indicar cerclagem."
+      },
+      {
+        "letra": "D",
+        "texto": "Orientar repouso e uterolítico."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 4652,
+    "tags": [],
+    "enunciado": "Sabe-se, hoje, que em cerca de 20% a 60% dos casos de TEV, uma mutação no fator V devido à substituição de aminoácidos (arginina por glutamina), leva a que esse fator, torne-se resistente a que proteína:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Proteína S ativada."
+      },
+      {
+        "letra": "B",
+        "texto": "Proteína C ativada."
+      },
+      {
+        "letra": "C",
+        "texto": "Antitrombina,"
+      },
+      {
+        "letra": "D",
+        "texto": "Plasminogênio."
+      },
+      {
+        "letra": "E",
+        "texto": "Heparina."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 4653,
+    "tags": [],
+    "enunciado": "Mulher de 28 anos, branca, refere que, há cerca de três anos, teve (cid:66)ebotrombose de membro inferior direito sem causa aparente. Depois disso, engravidou duas vezes e teve dois abortamentos espontâneos abaixo de 12 semanas de gravidez. Atualmente, não apresenta sintoma de qualquer afecção, mas está preocupada porque quer engravidar novamente e teme repetição dos insucessos. É muito provável, com base nos dados referidos, que ela seja portadora de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Incompetência istmocervical."
+      },
+      {
+        "letra": "B",
+        "texto": "Síndrome do colo curto (na gravidez)."
+      },
+      {
+        "letra": "C",
+        "texto": "Trombofilia."
+      },
+      {
+        "letra": "D",
+        "texto": "Malformação uterina (útero didelfo ou bicorno)."
+      },
+      {
+        "letra": "E",
+        "texto": "Insuficiência do corpo lúteo."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 4654,
+    "tags": [],
+    "enunciado": "Mulher de 32 anos de idade está na sua terceira gestação, na 22ª semana. O histórico obstétrico é de um abortamento na 14ª semana e um parto normal com 31 semanas. Na consulta pré-natal refere boa movimentação fetal. Queixa-se de secreção vaginal aumentada, porém sem odor ou prurido. No exame, o colo está pérvio para 2 cm e é possível perceber a bolsa íntegra, protusa pelo colo. A principal hipótese diagnóstica deve ser",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Abortamento inevitável."
+      },
+      {
+        "letra": "B",
+        "texto": "Abortamento recorrente."
+      },
+      {
+        "letra": "C",
+        "texto": "Incompetência istmocervical."
+      },
+      {
+        "letra": "D",
+        "texto": "Trabalho de parto prematuro."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 4655,
+    "tags": [],
+    "enunciado": "Tercigesta, com 14 semanas, refere antecedente obstétrico de duas perdas gestacionais, sendo a primeira com 23 e a segunda com 19 semanas. Refere partos rápidos, de fetos vivos e com pouca dor. O obstetra deve:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pedir sorologia para afastar sífilis."
+      },
+      {
+        "letra": "B",
+        "texto": "Indicar uso de uterolíticos e repouso."
+      },
+      {
+        "letra": "C",
+        "texto": "Indicar circlagem preventiva."
+      },
+      {
+        "letra": "D",
+        "texto": "Acompanhar o comprimento do colo uterino pela ultra-sonografia."
+      },
+      {
+        "letra": "E",
+        "texto": "Pedir sorologia para brucelose."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 4656,
+    "tags": [],
+    "enunciado": "Criança, quatro anos, feminina, comparece à consulta de rotina de puericultura sem queixa. Ao exame: pequenos lábios aderidos até o terço superior da vulva com linha central semitransparente, restante do exame sem alterações. É CORRETO afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O tratamento tópico tem de ser prescrito em casos como este."
+      },
+      {
+        "letra": "B",
+        "texto": "Nos casos assintomáticos, a conduta a tomar será expectante."
+      },
+      {
+        "letra": "C",
+        "texto": "A resolução demora mais de seis meses, apesar do tratamento."
+      },
+      {
+        "letra": "D",
+        "texto": "O procedimento mecânico de separação está indicado."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 4657,
+    "tags": [],
+    "enunciado": "Paciente de 39 anos, GVI P0 AV, apresenta história de repetidos abortos tardios em torno do 5° mês de gestação. No momento, encontra-se grávida com 9 semanas de gestação. A opção abaixo que indica a conduta adequada para este caso é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Investigar malformações uterinas."
+      },
+      {
+        "letra": "B",
+        "texto": "Rastrear trombofilias."
+      },
+      {
+        "letra": "C",
+        "texto": "Iniciar progesterona vaginal."
+      },
+      {
+        "letra": "D",
+        "texto": "Circlagem cervical entre 12-14 semanas."
+      },
+      {
+        "letra": "E",
+        "texto": "Iniciar enoxaparina e AAS."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 4658,
+    "tags": [],
+    "enunciado": "Representa uma causa de abortamento com tendência a repetição após 12 semanas.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Toxoplasmose."
+      },
+      {
+        "letra": "B",
+        "texto": "Rubéola."
+      },
+      {
+        "letra": "C",
+        "texto": "AIDS."
+      },
+      {
+        "letra": "D",
+        "texto": "Incompetência istmo-cervical."
+      },
+      {
+        "letra": "E",
+        "texto": "Anomalia cromossômica."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 4659,
+    "tags": [],
+    "enunciado": "Mulher de 32 anos com 17 semanas de gestação chega à urgência obstétrica queixando-se de “sensação de peso na vagina”. Nega dor ou perdas vaginais. Relata que esta é a terceira gestação e que na primeira gestação evoluiu com parto prematuro com 6 meses e na segunda gestação o mesmo ocorreu com 5 meses. Refere ainda que quando ainda era nuligesta foi submetida à conização. Ao exame físico observa-se bolsa amniótica íntegra no canal cervical e colo (cid:69)no pérvio 3 cm. Dentre as opções abaixo o diagnóstico mais provável é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "síndrome de Asherman."
+      },
+      {
+        "letra": "B",
+        "texto": "hipogonadismo hipogonadotrófico."
+      },
+      {
+        "letra": "C",
+        "texto": "síndrome de Sheeran."
+      },
+      {
+        "letra": "D",
+        "texto": "insuficiência ovariana."
+      },
+      {
+        "letra": "E",
+        "texto": "incompetência istmo-cervical."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 4660,
+    "tags": [],
+    "enunciado": "Uma mulher de 36 anos de idade, Gesta 4 Para 0, Aborto 3 (todos espontâneos com 18, 17 e 15 semanas), na 14ª semana gestacional, é encaminhada à maternidade após realizar ultrassonogra(cid:69)a transvaginal que revelou comprimento do colo uterino de 15 mm. A biometria fetal é compatível com a idade gestacional clínica, a vitalidade fetal é boa e não há alterações morfológicas. Considerando essa situação, a conduta indicada é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Prescrever nifedipina por via oral."
+      },
+      {
+        "letra": "B",
+        "texto": "Realizar cerclagem do colo uterino."
+      },
+      {
+        "letra": "C",
+        "texto": "Prescrever progesterona por via vaginal até 34ª semana gestacional."
+      },
+      {
+        "letra": "D",
+        "texto": "Reavaliar o comprimento do colo uterino por ultrassonografia transvaginal entre 20 e 24 semanas de gestação."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 4661,
+    "tags": [],
+    "enunciado": "Paciente de 26 anos, G3 P0 A2 C0, abortos espontâneos com 16 semanas, vem ao pronto-socorro com 18 semanas de gestação referindo dores em baixo ventre, tipo cólica, nega perdas. Ao toque vaginal, apresenta colo amolecido, centralizado e orifício interno pérvio para 2 cm. O diagnóstico do caso apresentado é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aborto incompleto."
+      },
+      {
+        "letra": "B",
+        "texto": "Incompetência istmocervical."
+      },
+      {
+        "letra": "C",
+        "texto": "Trabalho de parto prematuro"
+      },
+      {
+        "letra": "D",
+        "texto": "Mola hidatiforme completa."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 4662,
+    "tags": [],
+    "enunciado": "Mulher, 28a, G3P2A0FV0, idade gestacional de 13 semanas; traz ultrassonogra(cid:69)a gestacional realizada há um mês: colo com 3,0 cm de comprimento. Antecedente gestacional: perdas anteriores com 25 e 29 semanas de gestação. A CONDUTA É:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cerclagem."
+      },
+      {
+        "letra": "B",
+        "texto": "Repouso e progesterona vaginal."
+      },
+      {
+        "letra": "C",
+        "texto": "Repetir Ultrassonografia."
+      },
+      {
+        "letra": "D",
+        "texto": "Observar evolução clínica do colo."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 4663,
+    "tags": [],
+    "enunciado": "Gestante, G2 P1, história de parto normal anterior com recém-nascido prematuro, apresentando 22 semanas de gravidez, submetida à ultrassonogra(cid:69)a transvaginal, que revelou comprimento cervical de 1,8 cm. Qual a melhor conduta preventiva durante a gestação?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Atividade física sem restrição."
+      },
+      {
+        "letra": "B",
+        "texto": "Beta-adrenérgico oral contínuo."
+      },
+      {
+        "letra": "C",
+        "texto": "Progesterona vaginal diariamente."
+      },
+      {
+        "letra": "D",
+        "texto": "Cerclagem cervical de emergência."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 4664,
+    "tags": [],
+    "enunciado": "Paciente de 30 (trinta) anos, GIII P0 AII, com história de 2 (dois) abortos espontâneos no 2º trimestre. Segundo relato da paciente, os abortamentos cursaram sem dor e sem sangramento. No momento, encontra-se com 13 (treze) semanas e assintomática. A conduta correta é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Realizar circlagem eletiva."
+      },
+      {
+        "letra": "B",
+        "texto": "Aguardar 20 (vinte) semanas para realizar circlagem eletiva."
+      },
+      {
+        "letra": "C",
+        "texto": "Manter acompanhamento pré-natal e orientar repouso, com proibição do coito até o termo da gestação."
+      },
+      {
+        "letra": "D",
+        "texto": "Solicitar ultrassonografia para detectar comprimento do colo; se > 4 cm, manter acompanhamento pré-natal normal."
+      },
+      {
+        "letra": "E",
+        "texto": "Prescrever progesterona natural até o termo da gestação."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 4665,
+    "tags": [],
+    "enunciado": "Paciente de 22 anos, G3P0A3C0, todos os abortos com 20 semanas de gestação, sem patologias, chega a consulta de pré-natal com exame de US obstétrico com 17 semanas, e apresentando colo com 2,5 cm de comprimento, com exames de pré-natal dentro da normalidade. Diante de tal caso, qual é o diagnóstico e a melhor conduta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aborto habitual / Misoprostol."
+      },
+      {
+        "letra": "B",
+        "texto": "Aborto precoce / Prostaglandina."
+      },
+      {
+        "letra": "C",
+        "texto": "Aborto habitual / Cerclagem."
+      },
+      {
+        "letra": "D",
+        "texto": "Aborto precoce / Cerclegem."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 4666,
+    "tags": [],
+    "enunciado": "Paciente de 22 anos, G3P0A3C0, todos os abortos com 20 semanas de gestação, sem patologias, chega a consulta de pré-natal com exame de US obstétrico com 17 semanas e apresentando colo com 2,5 cm de comprimento, com exames de pré-natal dentro da normalidade. Diante de tal caso, qual é o diagnóstico e a MELHOR conduta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aborto habitual / Misoprostol."
+      },
+      {
+        "letra": "B",
+        "texto": "Aborto precoce / Prostaglandina."
+      },
+      {
+        "letra": "C",
+        "texto": "Aborto habitual / Cerclagem."
+      },
+      {
+        "letra": "D",
+        "texto": "Aborto precoce / Cerclagem."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 4667,
+    "tags": [],
+    "enunciado": "Secundigesta, com útero bicorno, encontra-se com 12 semanas de gestação e apresenta sangramento vaginal há 4 dias. O parto anterior teve duração de 3 horas e ocorreu na 32ª semana. Qual a conduta a ser estabelecida no momento?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "pessário e progesterona natural"
+      },
+      {
+        "letra": "B",
+        "texto": "cerclagem por via vaginal imediata"
+      },
+      {
+        "letra": "C",
+        "texto": "cerclagem por via abdominal imediata"
+      },
+      {
+        "letra": "D",
+        "texto": "pessário se comprimento cervical < 2,5 cm"
+      },
+      {
+        "letra": "E",
+        "texto": "Cerclagem quando sangramento cessar"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 4668,
+    "tags": [],
+    "enunciado": "Insuficiência istmocervical Estão relacionados à insuficiência istmo-cervical adquirida, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Laceração cervical em parto operatório."
+      },
+      {
+        "letra": "B",
+        "texto": "Preparo e dilatação cervical com métodos farmacológicos."
+      },
+      {
+        "letra": "C",
+        "texto": "Conização."
+      },
+      {
+        "letra": "D",
+        "texto": "Dilatação cervical para curetagem."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 4669,
+    "tags": [],
+    "enunciado": "Tercigesta, 24 semanas de gestação, vem para consulta pré-natal de rotina. Sua primeira gestação terminou em abortamento de 13 semanas. A segunda gestação evoluiu para o parto normal com 32 semanas de gestação. O médico detecta ao toque vaginal, bolsa protusa e colo pérvio para 3 cm. O diagnóstico dessa paciente é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Abortamento de repetição."
+      },
+      {
+        "letra": "B",
+        "texto": "Abortamento inevitável."
+      },
+      {
+        "letra": "C",
+        "texto": "Insuficiência istmocervical."
+      },
+      {
+        "letra": "D",
+        "texto": "Trabalho de parto prematuro."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 4670,
+    "tags": [],
+    "enunciado": "Tercigesta, com 15 semanas de gestação, refere antecedente obstétrico de duas perdas gestacionais, sendo a primeira com 23 semanas e a segunda com 18 semanas. Relata partos rápidos, de fetos vivos e com pouca dor. O obstetra deve:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Indicar circlagem de emergência."
+      },
+      {
+        "letra": "B",
+        "texto": "Solicitar sorologia para afastar HIV."
+      },
+      {
+        "letra": "C",
+        "texto": "Realizar avaliação cervical clínica e ultrassonográfica."
+      },
+      {
+        "letra": "D",
+        "texto": "Indicar uso de uterolíticos e repouso."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 4671,
+    "tags": [],
+    "enunciado": "Gestante com diagnóstico de incompetência istmo-cervical deve ter seu tratamento cirúrgico efetuado em que época da gestação?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Na 10ª semana."
+      },
+      {
+        "letra": "B",
+        "texto": "Na 14ª semana."
+      },
+      {
+        "letra": "C",
+        "texto": "Na 18ª semana."
+      },
+      {
+        "letra": "D",
+        "texto": "Na 22ª semana."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 4672,
+    "tags": [],
+    "enunciado": "O abortamento habitual ou recorrente afeta cerca de 1% dos casais que tentam conceber. São causas de abortamento habitual, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "incompetência istmocervical."
+      },
+      {
+        "letra": "B",
+        "texto": "insuficiência lútea."
+      },
+      {
+        "letra": "C",
+        "texto": "malformações congênitas ovarianas."
+      },
+      {
+        "letra": "D",
+        "texto": "transtornos cromossômicos."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 4673,
+    "tags": [],
+    "enunciado": "Paciente de 26 anos, G3P0A3C0, sendo realizada curetagem uterina nos abortos de repetição com 17 semanas, nega patologias e uso de medicações. Qual é a PRINCIPAL hipótese diagnóstica?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Abortamento precoce por cromossomopatias."
+      },
+      {
+        "letra": "B",
+        "texto": "Abortamento habitual por incompetência istmo cervical."
+      },
+      {
+        "letra": "C",
+        "texto": "Abortamento tardio por deficiência hormonal."
+      },
+      {
+        "letra": "D",
+        "texto": "Abortamento precoce por deficiência hormonal."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 4674,
+    "tags": [],
+    "enunciado": "Síndrome do anticorpo antifosfolipídeo SAAF Laboratório Mulher de 25 anos procura atendimento médico por quadro de plaquetopenia e livedo reticular. Refere antecedente de três abortos espontâneos, consecutivos. Apresenta EAS normal, FAN e Fator Reumatoide negativos. Considerando-se a principal hipótese diagnóstica, quais exames laboratoriais deverão ser solicitados a esta paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Anti-DNA e C4."
+      },
+      {
+        "letra": "B",
+        "texto": "Anti-Ro e anti-La."
+      },
+      {
+        "letra": "C",
+        "texto": "Anti-CCP e ANCA."
+      },
+      {
+        "letra": "D",
+        "texto": "Anticoagulante lúpico e anticardiolipina."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 4675,
+    "tags": [],
+    "enunciado": "Sabemos que a incidência de aborto chega a quase 18%, sendo que pode ser dividido em aborto precoce e tardio. Qual seria a principal causa de aborto tardio?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Anomalias cromossômicas."
+      },
+      {
+        "letra": "B",
+        "texto": "Incompetência istmocervical."
+      },
+      {
+        "letra": "C",
+        "texto": "Deficiência hormonal."
+      },
+      {
+        "letra": "D",
+        "texto": "Traumatismo abdominal."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 4676,
+    "tags": [],
+    "enunciado": "Abortamento habitual Abortamento de repetição e insuficiência istmocervical Laboratório Mulher de 25 anos procura atendimento médico por quadro de plaquetopenia e livedo reticular. Refere antecedente de três abortos espontâneos, consecutivos. Apresenta EAS normal, FAN e Fator Reumatoide negativos. Considerando-se a principal hipótese diagnóstica, quais exames laboratoriais deverão ser solicitados a esta paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Anti-DNA e C4."
+      },
+      {
+        "letra": "B",
+        "texto": "Anti-Ro e anti-La."
+      },
+      {
+        "letra": "C",
+        "texto": "Anti-CCP e ANCA."
+      },
+      {
+        "letra": "D",
+        "texto": "Anticoagulante lúpico e anticardiolipina."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 4677,
+    "tags": [],
+    "enunciado": "Quanto ao fator imunológico no determinismo do abortamento:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Se for aloimune o diagnóstico é firmado pela presença de anticorpos anticardiolipina e anticoagulante lúpico."
+      },
+      {
+        "letra": "B",
+        "texto": "Se for autoimune, o diagnóstico é firmado pela presença de anticorpo anticardiolipina por ensaios tipo ELISA."
+      },
+      {
+        "letra": "C",
+        "texto": "Se for autoimune, está indicada a transfusão de linfócitos paternos para a mãe."
+      },
+      {
+        "letra": "D",
+        "texto": "Está indicada a transfusão de linfócitos paternos para a mãe quando o tempo de tromboplastina parcial ativada estiver alterado."
+      },
+      {
+        "letra": "E",
+        "texto": "O uso de aspirina em baixas doses e heparina de baixo peso molecular depende do resultado do teste de \"cross-match\"."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 4678,
+    "tags": [],
+    "enunciado": "Quintigesta, na 14ª semana de gestação, refere história de dois abortamentos precoces e duas perdas gestacionais ao redor da 18ª semana de gestação, iniciadas por perda de líquido, sem dor ou sangramento. Os conceptos nasceram vivos e foram a óbito a seguir. Refere ter sido diagnosticada cervicodilatação em consulta rotineira nessas duas ocasiões. A conduta deverá ser:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Repouso e heparina subcutânea."
+      },
+      {
+        "letra": "B",
+        "texto": "Cerclagem do colo uterino agora."
+      },
+      {
+        "letra": "C",
+        "texto": "Uterolíticos antagonistas de ocitocina."
+      },
+      {
+        "letra": "D",
+        "texto": "Medida ultrassonográfica seriada do comprimento do colo uterino."
+      },
+      {
+        "letra": "E",
+        "texto": "Progesterona natural por via vaginal."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 4679,
+    "tags": [],
+    "enunciado": "Síndrome do anticorpo antifosfolipídeo SAAF Síndrome antifosfolípide SAF Mulher de 33 anos, apresentando trombose do membro inferior esquerdo, tem história de três abortos espontâneos. O diagnóstico mais provável é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "distúrbio mieloproliferativo."
+      },
+      {
+        "letra": "B",
+        "texto": "lúpus eritematoso sistêmico."
+      },
+      {
+        "letra": "C",
+        "texto": "hemoglobinúria paroxística noturna."
+      },
+      {
+        "letra": "D",
+        "texto": "síndrome antifosfolipídica."
+      },
+      {
+        "letra": "E",
+        "texto": "púrpura trombocitopênica trombótica.  Respostas: 1 D 2 D 3 D 4 A 5 6 A 7 B 8 D 9 B 10 D 11 B 12 B 13 D 14 B 15 D 16 B 17 E 18 B 19 D 20 A 21 C 22 D 23 D 24 E 25 A 26 C 27 B 28 E 29 D 30 A 31 B 32 B 33 C 34 E 35 D 36 C 37 C 38 B 39 B 40 41 B 42 A 43 D 44 D 45 C 46 A 47 A 48 A 49 B 50 B 51 A 52 C 53 C 54 55 E 56 D 57 B 58 A 59 D 60 E 61 A 62 D 63 A 64 B 65 D 66 B 67 D 68 B 69 D 70 B 71 D 72 C 73 D 74 A 75 B 76 E 77 B 78 D 79 E 80 D 81 E 82 C 83 B 84 C 85 B 86 A 87 B 88 A 89 B 90 B 91 D 92 E 93 A 94 D 95 96 97 A 98 B 99 B 100 B 101 B 102 A 103 D 104 A 105 E 106 C 107 C 108 C 109 C 110 A 111 B 112 C 113 D 114 C 115 B 116 C 117 C 118 C 119 B 120 D 121 D 122 E 123 B 124 B 125 C 126 C 127 A 128 C 129 C 130 E 131 B 132 C 133 C 134 B 135 C 136 B 137 D 138 B 139 D 140 B 141 B 142 D"
+      }
+    ],
+    "resposta_correta": "D"
+  }
+]

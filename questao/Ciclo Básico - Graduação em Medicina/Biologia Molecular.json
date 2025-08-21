@@ -1,0 +1,758 @@
+[
+  {
+    "id": 104597,
+    "tags": [],
+    "enunciado": "Qual das seguintes a(cid:29)rmações é verdadeira sobre o processamento pós-transcricional do RNA mensageiro (RNAm) em células eucariontes?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O processamento pós-transcricional ocorre antes da transcrição do RNAm."
+      },
+      {
+        "letra": "B",
+        "texto": "O processamento pós-transcricional envolve a remoção dos éxons do RNAm primário."
+      },
+      {
+        "letra": "C",
+        "texto": "A adição da capa 3&#39; é um evento essencial no processamento pós-transcricional do RNAm."
+      },
+      {
+        "letra": "D",
+        "texto": "O processamento pós-transcricional não tem impacto na estabilidade e transporte do RNAm."
+      },
+      {
+        "letra": "E",
+        "texto": "O splicing é o processo pelo qual os éxons são unidos para formar o RNAm maduro."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 104598,
+    "tags": [],
+    "enunciado": "No dogma central da biologia molecular é explicado como ocorre o (cid:55)uxo de informações do código genético. De acordo com ele, primeiro a molécula de DNA serve como molde para formação de uma molécula de RNA mensageiro (RNAm), processo chamado transcrição, seguido da sua leitura pelos ribossomos e assim produção de uma proteína, processo chamado tradução. Qual das seguintes a(cid:29)rmações descreve uma diferença na transcrição entre células procariontes e eucariontes?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A transcrição ocorre no citoplasma em células procariontes e no núcleo em células eucariontes."
+      },
+      {
+        "letra": "B",
+        "texto": "Em células procariontes, a síntese de RNA é realizada por múltiplas RNA polimerases, enquanto em células eucariontes apenas uma RNA polimerase é responsável pela transcrição."
+      },
+      {
+        "letra": "C",
+        "texto": "Em células procariontes, a transcrição não requer a presença de promotores específicos, enquanto em células eucariontes a transcrição é iniciada por fatores de transcrição ligados a sequências promotoras."
+      },
+      {
+        "letra": "D",
+        "texto": "A transcrição de RNAm em células procariontes não requer o processamento pós-transcricional, enquanto em células eucariontes ocorre o processamento do RNAm recém-sintetizado."
+      },
+      {
+        "letra": "E",
+        "texto": "A transcrição em células eucariontes ocorre sem a formação de um complexo de pré-iniciação, enquanto em células procariontes a formação desse complexo envolve um grande número de fatores de transcrição."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104599,
+    "tags": [],
+    "enunciado": "A grande parte dos métodos atualmente utilizados para manipulação do DNA, RNA e proteínas depende do conhecimento prévio da sequência de nucleotídeos presente no genoma de interesse. Além do mais, o desenvolvimento de técnicas de sequenciamento do DNA tornou as análises da estrutura do DNA e sua in(cid:55)uência na expressão gênica muito mais acessíveis e simpli(cid:29)cadas. Sabendo disso, qual das seguintes opções descreve corretamente o sequenciamento gênico e sua importância?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O sequenciamento gênico é uma técnica utilizada para determinar a sequência de aminoácidos em uma proteína, sendo essencial para a compreensão da estrutura tridimensional das proteínas e suas interações."
+      },
+      {
+        "letra": "B",
+        "texto": "O sequenciamento gênico é um método que não permite a identificação de mutações genéticas específicas em um indivíduo, sendo crucial para o diagnóstico de doenças genéticas."
+      },
+      {
+        "letra": "C",
+        "texto": "O sequenciamento gênico é uma técnica que envolve a clonagem de genes em plasmídeos bacterianos para produção de proteínas recombinantes em larga escala, sendo essencial para a produção de medicamentos biotecnológicos."
+      },
+      {
+        "letra": "D",
+        "texto": "O sequenciamento gênico é uma abordagem que permite determinar a sequência de nucleotídeos no DNA ou RNA de um organismo, sendo fundamental para a compreensão da estrutura e função dos genes, além de fornecer informações sobre a variabilidade genética e doenças."
+      },
+      {
+        "letra": "E",
+        "texto": "O sequenciamento gênico é uma técnica que envolve a manipulação de genes em laboratório para criar organismos geneticamente modificados, sendo crucial para a agricultura moderna."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104600,
+    "tags": [],
+    "enunciado": "As proteínas são moléculas poliméricas de extrema importância para a homeostasia (cid:29)siológica das células. A suas múltiplas funções e estruturas no interior das células estimulou o desenvolvimento de um grande número de técnicas para estudá-las. Uma dessas técnicas, amplamente utilizada é a eletroforese em gel de poliacrilamida (SDS-PAGE). Sabendo disso, qual das seguintes opções descreve corretamente a importância e aplicação da SDS-PAGE?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A eletroforese em gel de poliacrilamida é usada para separar proteínas com base no seu pH isoelétrico."
+      },
+      {
+        "letra": "B",
+        "texto": "A eletroforese em gel de poliacrilamida é utilizada para analisar a estrutura secundária das proteínas."
+      },
+      {
+        "letra": "C",
+        "texto": "A eletroforese em gel de poliacrilamida permite a separação de proteínas com base no seu tamanho e é importante para determinar o peso molecular das proteínas."
+      },
+      {
+        "letra": "D",
+        "texto": "A eletroforese em gel de poliacrilamida é usada para separar ácidos nucleicos, como DNA e RNA."
+      },
+      {
+        "letra": "E",
+        "texto": "A eletroforese em gel de poliacrilamida é empregada para medir a atividade enzimática das proteínas."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104601,
+    "tags": [],
+    "enunciado": "Durante o reparo do DNA, diferentes mecanismos são empregados para corrigir os danos causados por mutações. Um desses mecanismos envolve a detecção de regiões anormais na hélice dupla do DNA e a remoção seletiva dessas regiões danificadas. Esse processo é conhecido como:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Reparo por recombinação homóloga."
+      },
+      {
+        "letra": "B",
+        "texto": "Reparo por excisão de base."
+      },
+      {
+        "letra": "C",
+        "texto": "Reparo por excisão de nucleotídeo."
+      },
+      {
+        "letra": "D",
+        "texto": "Reparo por ligação direta."
+      },
+      {
+        "letra": "E",
+        "texto": "Reparo por recuperação de ponto de verificação."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104602,
+    "tags": [],
+    "enunciado": "Os ácidos nucleicos são polímeros constituídos por unidades de nucleotídeos, cuja estrutura é composta por uma base nitrogenada, um açúcar de cinco carbonos e um grupo fosfato. Com base em seus conhecimentos sobre a estrutura de um nucleotídeo, é corretor afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "nucleosídeo corresponde ao conjunto formado pela pentose e o grupo fosfato."
+      },
+      {
+        "letra": "B",
+        "texto": "a base nitrogenada está ligada ao carbono 5’ do açúcar pentose."
+      },
+      {
+        "letra": "C",
+        "texto": "a pentose presente nos nucleotídeos de DNA é do tipo ribose."
+      },
+      {
+        "letra": "D",
+        "texto": "são bases púricas dos nucleotídeos de DNA a citosina e a timina."
+      },
+      {
+        "letra": "E",
+        "texto": "bases pirimídicas são formadas por um único anel de carbono e nitrogênio."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 104603,
+    "tags": [],
+    "enunciado": "A molécula de DNA é constituída por duas (cid:29)tas de ácidos nucleicos, e corresponde ao material genético das células. Acerca de sua estrutura, analise as afirmações a seguir e assinale a alternativa correta. I. As duas (cid:29)tas de ácidos nucleicos se unem por ligações de hidrogênio entre as bases nitrogenadas complementares. II. A dupla-hélice de DNA é constituída por duas fitas antiparalelas de ácidos nucleicos. III. Um segmento de DNA com 150 nucleotídeos, 45 deles contendo timina, contém 75 bases púricas. IV. Citocina e guanina se unem, para a formação da dupla-(cid:29)ta de DNA, por meio de duas ligações de hidrogênio.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As afirmações II e III estão certas."
+      },
+      {
+        "letra": "B",
+        "texto": "As afirmações II e IV estão certas."
+      },
+      {
+        "letra": "C",
+        "texto": "As afirmações I, II e III estão certas."
+      },
+      {
+        "letra": "D",
+        "texto": "As afirmações II, III e IV estão certas."
+      },
+      {
+        "letra": "E",
+        "texto": "As afirmações I, II, III e IV estão certas."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104604,
+    "tags": [],
+    "enunciado": "Dentre os testes para o diagnóstico de covid-19, está o teste genético por PCR, que utiliza a enzima DNA polimerase e permite a identificação do material genético do vírus SARS-Cov- 2. Para comprovação da infecção por esse coronavírus, amostras de secreções do indivíduo são coletadas. Entretanto, por tratar-se de um vírus de RNA, uma etapa prévia ao PCR precisa ser realizada. Essa etapa visa:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a obtenção de uma molécula de RNAm viral, para que o material genético do vírus possa ser amplificado."
+      },
+      {
+        "letra": "B",
+        "texto": "a concentração do material genético viral, por meio da proliferação do vírus, facilitando a atuação da enzima e que o gene de interesse possa ser amplificado."
+      },
+      {
+        "letra": "C",
+        "texto": "a realização da transcrição do RNA do vírus, para que ocorra a tradução e a proteína de interesse possa ser amplificada."
+      },
+      {
+        "letra": "D",
+        "texto": "a obtenção de uma molécula de cDNA viral, para que o material genético do vírus possa ser amplificado."
+      },
+      {
+        "letra": "E",
+        "texto": "o isolamento de uma proteína do envelope viral, envolvida com a infecção celular, para que possa ser amplificada."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104605,
+    "tags": [],
+    "enunciado": "A terapia celular é uma forma de tratamento médico que utiliza células vivas para tratar doenças. Um exemplo de tratamento que utiliza terapia celular é o transplante de medula óssea, que é usado para tratar certos tipos de câncer, como leucemia e linfoma. Nesse procedimento, as células da medula óssea do paciente são substituídas por células saudáveis de um doador. Qual é o objetivo do transplante de medula óssea como tratamento para leucemia?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Reduzir a inflamação no tecido ósseo do paciente."
+      },
+      {
+        "letra": "B",
+        "texto": "Melhorar a resposta imunológica do paciente contra o câncer."
+      },
+      {
+        "letra": "C",
+        "texto": "Substituir as células cancerosas por células saudáveis de um doador."
+      },
+      {
+        "letra": "D",
+        "texto": "Eliminar os tumores cancerígenos no sangue."
+      },
+      {
+        "letra": "E",
+        "texto": "Prevenir a ocorrência de metástases em outros órgãos."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104606,
+    "tags": [],
+    "enunciado": "A sequência de uma cadeia de DNA é 5’-GCTTTAG-3’. Usando esta cadeia como molde, a sequência do RNA transcrito, seria:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "5’-GCTTTAG-3’."
+      },
+      {
+        "letra": "B",
+        "texto": "5’-CTAAAGC-3’."
+      },
+      {
+        "letra": "C",
+        "texto": "5’-CTUUUGC-3’."
+      },
+      {
+        "letra": "D",
+        "texto": "5’-CUAAAGC-3’."
+      },
+      {
+        "letra": "E",
+        "texto": "5’-GCUUUAG-3’."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104607,
+    "tags": [],
+    "enunciado": "Na respiração celular aeróbica, o gás oxigênio atua como agente oxidante e aceptor (cid:29)nal de elétrons. Sobre o funcionamento deste processo metabólico, considere as afirmações feitas abaixo. I. A degradação total da glicose ocorre em três etapas metabólicas (glicólise, ciclo de Krebs e a fosforilação oxidativa, respectivamente). II. O saldo energético da primeira etapa da respiração celular equivale a quatro ATPs por moléculas de glicose. III. O oxigênio atua em todas as etapas da respiração celular. São corretas as afirmativas:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "II e III."
+      },
+      {
+        "letra": "C",
+        "texto": "I, II."
+      },
+      {
+        "letra": "D",
+        "texto": "I e III."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II e III."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104608,
+    "tags": [],
+    "enunciado": "Em uma espécie animal, o número diploide é de 24 cromossomos. Espera-se encontrar nas células da epiderme deste animal",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "24 moléculas de DNA em G2."
+      },
+      {
+        "letra": "B",
+        "texto": "12 moléculas de DNA após a citocinese."
+      },
+      {
+        "letra": "C",
+        "texto": "24 moléculas de DNA na metáfase."
+      },
+      {
+        "letra": "D",
+        "texto": "24 moléculas em metáfase II."
+      },
+      {
+        "letra": "E",
+        "texto": "48 moléculas de DNA em G2."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 104609,
+    "tags": [],
+    "enunciado": "A cromatina presente no núcleo interfásico das células eucarióticas reorganiza-se quando a célula vai se dividir. Estima-se que cada molécula de DNA esteja empacotada tornando-se cerca de 10.000 vezes menor do que a versão estendida no cromossomo mitótico. Considerando as conformações assumidas pelo DNA, a formação do cromossomo favorece o processo de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "transcrição dos genes."
+      },
+      {
+        "letra": "B",
+        "texto": "distribuição do DNA para células-filhas."
+      },
+      {
+        "letra": "C",
+        "texto": "síntese de proteínas."
+      },
+      {
+        "letra": "D",
+        "texto": "replicação."
+      },
+      {
+        "letra": "E",
+        "texto": "recombinação genética."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104610,
+    "tags": [],
+    "enunciado": "Considere que um gene que será expresso resultou em um transcrito de RNA mensageiro com 75 nucleotídeos. A esse respeito foram feitas as seguintes afirmações: I. O RNA mensageiro apresenta 25 códons, que podem codificar 25 aminoácidos diferentes. II. A transcrição acontece no citoplasma e por ação da enzima RNA polimerase. III. O códon de iniciação da tradução desse RNA mensageiro é o AUG, que codifica o aminoácido metionina. IV. A tradução acontece no citoplasma e depende da ação de enzimas específicas e de ATP. Estão corretas as afirmações:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e II."
+      },
+      {
+        "letra": "B",
+        "texto": "II e IV."
+      },
+      {
+        "letra": "C",
+        "texto": "III e IV."
+      },
+      {
+        "letra": "D",
+        "texto": "II, III e IV."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II, III e IV."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104611,
+    "tags": [],
+    "enunciado": "Para investigar os efeitos de dois agentes mutagênicos, culturas de E. coli foram tratadas com cada um deles e amostras dessas células tiveram seus genes modi(cid:29)cados isolados e sequenciados. Os resultados sobre a estrutura primária das proteínas codificadas foram estudados e registrados na tabela abaixo. Sabendo-se que o gene em questão codi(cid:29)ca uma proteína da cadeia respiratória, é possível a(cid:29)rmar que, nas células tratadas com o agente mutagênico",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, houve alteração no rendimento energético celular."
+      },
+      {
+        "letra": "B",
+        "texto": "I, não houve alteração no rendimento energético celular."
+      },
+      {
+        "letra": "C",
+        "texto": "II, a mutação incorreu no término precoce da proteína."
+      },
+      {
+        "letra": "D",
+        "texto": "II, a mutação foi silenciosa."
+      },
+      {
+        "letra": "E",
+        "texto": "II, a mutação foi pontual do tipo transversão."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104612,
+    "tags": [],
+    "enunciado": "As vacinas de RNA contêm informações genéticas selecionadas do vírus na forma de mRNA, que são traduzidos em proteínas virais (peptídeo sinal), como, por exemplo, a proteína spike do coronavírus. A localização esperada da proteína traduzida a partir desse RNAm é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o núcleo."
+      },
+      {
+        "letra": "B",
+        "texto": "a membrana celular."
+      },
+      {
+        "letra": "C",
+        "texto": "o meio extracelular."
+      },
+      {
+        "letra": "D",
+        "texto": "o aparelho de Golgi."
+      },
+      {
+        "letra": "E",
+        "texto": "o citosol."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 104613,
+    "tags": [],
+    "enunciado": "Duas das vacinas utilizadas contra a COVID-19 usam, como princípio ativo, moléculas de RNA mensageiro (RNAm) que codi(cid:29)cam uma das proteínas do coronavírus SARS-CoV-2, a glicoproteína S. O RNA da vacina contém elementos também presentes em RNAm endógenos. Uma vez dentro das células, o RNAm é traduzido, a glicoproteína S é localizada na superfície celular e a resposta do sistema imunológico é deflagrada. Assinale a alternativa que apresenta um elemento necessário para que a tradução ocorra de maneira eficiente.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nucleotídeo de 7-metilguanosina na extremidade 5’."
+      },
+      {
+        "letra": "B",
+        "texto": "Sinal de exportação nuclear."
+      },
+      {
+        "letra": "C",
+        "texto": "Sequência consenso do splicing."
+      },
+      {
+        "letra": "D",
+        "texto": "Códon de início da tradução na extremidade 3’."
+      },
+      {
+        "letra": "E",
+        "texto": "Poliadenilação na extremidade 5’."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104614,
+    "tags": [],
+    "enunciado": "Um dos fatores de risco para o desenvolvimento da cirrose é a infecção crônica pelo vírus da hepatite B, que possui um genoma de DNA de dupla hélice. Para diagnosticar a quantidade de cópias virais, deve-se solicitar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "PCR."
+      },
+      {
+        "letra": "B",
+        "texto": "PCR em tempo real."
+      },
+      {
+        "letra": "C",
+        "texto": "Retrotranscrição."
+      },
+      {
+        "letra": "D",
+        "texto": "Eletroforese de DNA."
+      },
+      {
+        "letra": "E",
+        "texto": "Eletroforese de proteínas."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104615,
+    "tags": [],
+    "enunciado": "A técnica CRISPR-Cas9 permite modi(cid:29)car o genoma das células mediante a introdução de uma endonuclease exógena (Cas9), baseando-se no mecanismo endógeno de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "pontos de controle do ciclo celular."
+      },
+      {
+        "letra": "B",
+        "texto": "reparação de danos que afetam as fitas do DNA."
+      },
+      {
+        "letra": "C",
+        "texto": "formação descontínua de fragmentos de Okazaki."
+      },
+      {
+        "letra": "D",
+        "texto": "DNA recombinante a partir de enzimas de restrição."
+      },
+      {
+        "letra": "E",
+        "texto": "modificação pós-traducional."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104616,
+    "tags": [],
+    "enunciado": "Na replicação das células somáticas, ocorre um encurtamento dos telômeros, evento que se associa ao fato de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a telomerase possuir intensa atividade nos cromossomos."
+      },
+      {
+        "letra": "B",
+        "texto": "os telômeros serem compostos por DNA não codificante."
+      },
+      {
+        "letra": "C",
+        "texto": "as extremidades 3' das fitas dos cromossomos não poderem ser replicadas pelas DNA polimerases."
+      },
+      {
+        "letra": "D",
+        "texto": "a heterocromatina, geneticamente ativa, começa a replicar desde o início da fase S, enquanto a eucromatina, inativa, só inicia a replicação no final do período S."
+      },
+      {
+        "letra": "E",
+        "texto": "não ser possível a ligação de sequências iniciadoras nas extremidades dos cromossomos."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104617,
+    "tags": [],
+    "enunciado": "O processo de splicing alternativo é caracterizado por:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "reduzir a taxa de erros durante o processo de transcrição."
+      },
+      {
+        "letra": "B",
+        "texto": "remover os íntrons de transcritos maduros."
+      },
+      {
+        "letra": "C",
+        "texto": "utilizar códons sinônimos para gerar a mesma proteína a partir de RNAs mensageiros distintos."
+      },
+      {
+        "letra": "D",
+        "texto": "aumentar a capacidade codificante do genoma."
+      },
+      {
+        "letra": "E",
+        "texto": "remover os íntrons de um gene, unindo seus éxons em diferentes combinações."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104618,
+    "tags": [],
+    "enunciado": "Qual dos seguintes mecanismos moleculares participa durante a fase M do ciclo celular?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A ativação do complexo promotor da anáfase promovida pelo fator promotor da fase M."
+      },
+      {
+        "letra": "B",
+        "texto": "A restauração do envoltório nuclear promovida pela fosforilação das lâminas nucleares."
+      },
+      {
+        "letra": "C",
+        "texto": "A desorganização do envoltório nuclear promovida pelo complexo promotor da anáfase."
+      },
+      {
+        "letra": "D",
+        "texto": "O movimento das cromátides em direção aos polos, durante a anáfase, pelos microtúbulos polares."
+      },
+      {
+        "letra": "E",
+        "texto": "A produção de proteínas inibidoras de Cdk no ponto de checagem do fuso, promovida pela proteína p53."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104619,
+    "tags": [],
+    "enunciado": "A cirrose é caracterizada por gerar um aumento da pressão venosa do fígado, o que causa dilatação e ruptura dos vasos devido à dissociação das junções aderentes, entre outros processos. As seguintes proteínas estão envolvidas nessas junções:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Actina e caderinas."
+      },
+      {
+        "letra": "B",
+        "texto": "Actina e dineínas."
+      },
+      {
+        "letra": "C",
+        "texto": "Filamentos intermediários e conexinas."
+      },
+      {
+        "letra": "D",
+        "texto": "Filamentos intermediários e cinesinas."
+      },
+      {
+        "letra": "E",
+        "texto": "Actina e cinesinas."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104620,
+    "tags": [],
+    "enunciado": "A (cid:29)brose hepática é caracterizada pela contínua deposição de (cid:29)bras de colágeno nos espaços entre as células do fígado, uma tentativa do organismo de reparar lesões que acontecem de maneira recorrente. O consumo de álcool em excesso, hepatites virais, colestase biliar, entre outros fatores, causam in(cid:55)amação no fígado e (cid:29)brose que, se não tratada adequadamente, pode evoluir para cirrose. A cirrose con(cid:29)gura o estágio (cid:29)nal comum às doenças hepáticas crônicas e é a décima quarta maior causa de mortalidade em todo o mundo. Na fibrose hepática, espera-se encontrar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "maior glicosilação proteica no retículo endoplasmático liso."
+      },
+      {
+        "letra": "B",
+        "texto": "elevada expressão de RNAs de interferência complementares aos RNAs mensageiros de colágeno."
+      },
+      {
+        "letra": "C",
+        "texto": "intensa tradução de RNAs mensageiros de colágeno em polirribossomos livres."
+      },
+      {
+        "letra": "D",
+        "texto": "maior acetilação de histonas nas regiões regulatórias de genes de colágeno."
+      },
+      {
+        "letra": "E",
+        "texto": "aumento da síntese de inibidores da quinase dependente de ciclina."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104621,
+    "tags": [],
+    "enunciado": "A replicação do DNA é o processo pelo qual novas moléculas de DNA são sintetizadas. Esse processo é denominado semiconservativo, pois cada molécula formada é constituída por uma (cid:29)ta antiga, que serviu de molde, e uma fita nova complementar. Várias são as enzimas que participam da replicação do DNA, cujas funções são fundamentais para que esse processo complexo seja permitido. Assinale a alternativa que apresenta a enzima e a função por ela desempenhada.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Topoisomerase: relaxa o superenrolamento da molécula de DNA devido à ação da helicase."
+      },
+      {
+        "letra": "B",
+        "texto": "DNA-polimerase: adiciona nucleotídeos complementares à fita molde no sentido 3’→5’."
+      },
+      {
+        "letra": "C",
+        "texto": "Helicase: separa as duas fitas da molécula de DNA pela quebra das ligações fosfodiéster."
+      },
+      {
+        "letra": "D",
+        "texto": "DNA-ligase: une os fragmentos de Okazaki gerados para a formação da fita líder."
+      },
+      {
+        "letra": "E",
+        "texto": "RNA-polimerase: adiciona nucleotídeos de RNA complementares à fita molde para formação de primers."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104622,
+    "tags": [],
+    "enunciado": "Mutações gênicas ocorrem quando os mecanismos de reparo da célula falham. Uma mutação gênica, mesmo que aconteça em uma região codi(cid:29)cante de um gene ativo, pode não resultar em alteração da proteína produzida. Isso é explicado pelo fato de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o código genético ser universal."
+      },
+      {
+        "letra": "B",
+        "texto": "a tradução ser interrompida."
+      },
+      {
+        "letra": "C",
+        "texto": "a duplicação do DNA ser semiconservativa."
+      },
+      {
+        "letra": "D",
+        "texto": "o código genético ser redundante."
+      },
+      {
+        "letra": "E",
+        "texto": "a transcrição usar apenas uma fita do DNA como molde."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104623,
+    "tags": [],
+    "enunciado": "A anemia falciforme é uma doença genética causada pela anormalidade das proteínas hemoglobinas, presentes nos glóbulos vermelhos do sangue. Nos portadores da doença, é produzida uma hemoglobina mutante, chamada de hemoglobina S, que forma agregados e confere à célula a forma de foice – por isso o nome falciforme. Nesse formato, os glóbulos vermelhos não têm (cid:55)exibilidade, são frágeis e têm vida curta. Além disso, tornam o sangue mais viscoso, prejudicando o (cid:55)uxo sanguíneo e a oxigenação de tecidos, e podem causar lesão capilar e coagulação sanguínea. A mutação genética que causa a anemia falciforme é dada pela substituição de uma base nitrogenada T (timina) por uma base nitrogenada A (adenina). O resultado é a determinação do aminoácido valina ao invés do ácido glutâmico, o que altera a con(cid:29)guração da proteína formada na tradução. Considerando a mutação gênica descrita, é correto dizer que ela é do tipo:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "silenciosa."
+      },
+      {
+        "letra": "B",
+        "texto": "sem sentido."
+      },
+      {
+        "letra": "C",
+        "texto": "com perda de sentido."
+      },
+      {
+        "letra": "D",
+        "texto": "neutra."
+      },
+      {
+        "letra": "E",
+        "texto": "sinônima.  Respostas: 1 E 2 D 3 D 4 C 5 C 6 E 7 C 8 D 9 C 10 D 11 A 12 E 13 B 14 C 15 B 16 E 17 A 18 B 19 B 20 C 21 D 22 A 23 A 24 D 25 A 26 D 27 C"
+      }
+    ],
+    "resposta_correta": "C"
+  }
+]

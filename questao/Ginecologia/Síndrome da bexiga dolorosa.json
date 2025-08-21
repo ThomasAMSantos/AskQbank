@@ -1,0 +1,330 @@
+[
+  {
+    "id": 94337,
+    "tags": [],
+    "enunciado": "Mulher, 35a, comparece ao ambulatório com quadro de dor em hipogastro, que piora quando a bexiga está repleta, há dois anos. Refere ainda aumento da frequência miccional (12 vezes durante o dia) e melhora da dor com o esvaziamento vesical. Exame físico e ginecológico normais. Exame de urina, urocultura, ultrassonografia transvaginal, ressonância pélvica e cistoscopia sem alterações. QUAL O DIAGNÓSTICO?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Síndrome dolorosa vesical."
+      },
+      {
+        "letra": "B",
+        "texto": "Síndrome da bexiga hiperativa."
+      },
+      {
+        "letra": "C",
+        "texto": "ITU de repetição."
+      },
+      {
+        "letra": "D",
+        "texto": "Tumor de bexiga. 4000196236"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 94338,
+    "tags": [],
+    "enunciado": "Paciente de 30 anos de idade referindo dor no baixo ventre e desconforto miccional. O exame de EAS foi normal e a urocultura, cujo resultado anatomopatológico foi de úlceras de Hunner. O diagnóstico é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cistite crônica intersticial"
+      },
+      {
+        "letra": "B",
+        "texto": "Tuberculose"
+      },
+      {
+        "letra": "C",
+        "texto": "Endometriose"
+      },
+      {
+        "letra": "D",
+        "texto": "Neoplasia maligna"
+      },
+      {
+        "letra": "E",
+        "texto": "Doença inflamatória pélvica 4000175839"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 94339,
+    "tags": [],
+    "enunciado": "Mulher de 35 anos, nuligesta, apresentando há 8 meses dor suprapúbica associada a enchimento vesical, acompanhada de dispareunia, disúria, urgência miccional, aumento da frequência miccional, tenesmo e noctúria. Nega outros sintomas. Sem achados no exame físico geral, no exame abdominal, no toque vaginal e no exame especular. Exame de sedimento urinário está normal. O diagnóstico mais provável é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Síndrome do intestino irritável."
+      },
+      {
+        "letra": "B",
+        "texto": "Síndrome da bexiga dolorosa."
+      },
+      {
+        "letra": "C",
+        "texto": "Doença inflamatória pélvica."
+      },
+      {
+        "letra": "D",
+        "texto": "Neuralgia e síndrome miofascial."
+      },
+      {
+        "letra": "E",
+        "texto": "Fibromialgia. 4000175715"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 94340,
+    "tags": [],
+    "enunciado": "As úlceras de Hunner estão presentes em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Síndrome da Bexiga Dolorosa / Cistite Intersticial."
+      },
+      {
+        "letra": "B",
+        "texto": "Sífilis primária."
+      },
+      {
+        "letra": "C",
+        "texto": "Linfogranuloma venéreo."
+      },
+      {
+        "letra": "D",
+        "texto": "Herpes genital. 4000173168"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 94341,
+    "tags": [],
+    "enunciado": "Considere as seguintes alterações. I. Aumento da frequência miccional. lI. Disúria. IlI. Incontinência urinária de esforço. IV. Dor pélvica. São elementos presentes em pacientes com diagnóstico de Síndrome da Bexiga Dolorosa/ Cistite Intersticial os presentes em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e IV"
+      },
+      {
+        "letra": "B",
+        "texto": "I e lI"
+      },
+      {
+        "letra": "C",
+        "texto": "I e IlI"
+      },
+      {
+        "letra": "D",
+        "texto": "lI e IlI 4000145651"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 94342,
+    "tags": [],
+    "enunciado": "Em relação à prevenção, à epidemiologia e à história natural das doenças, julgue o item. Na prevenção da cistite intersticial, utiliza-se macrodantina, alternando-a com sulfadiazina, para evitar a resistência bacteriana.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Certo."
+      },
+      {
+        "letra": "B",
+        "texto": "Errado."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 94343,
+    "tags": [],
+    "enunciado": "Os sintomas clássicos da síndrome da bexiga dolorosa/ cistite intersticial são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "hematúria, Giordano positivo, calafrios e disúria."
+      },
+      {
+        "letra": "B",
+        "texto": "pressão subpúbica, retenção urinária noturna, piora da dor após micção e urgeincontinência."
+      },
+      {
+        "letra": "C",
+        "texto": "dor uretral, polaciúria, incontinência urinária aos pequenos esforços e resíduo elevado pós-miccional."
+      },
+      {
+        "letra": "D",
+        "texto": "urina escura, diminuição da frequência miccional, dor pélvica crônica e febre."
+      },
+      {
+        "letra": "E",
+        "texto": "dor ou desconforto pélvico, aumento da frequência miccional, noctúria e urgência miccional."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 94344,
+    "tags": [],
+    "enunciado": "Mulher de 47 anos, procura atendimento com queixa de dor suprapúbica ao enchimento vesical há uns quatro meses, sem melhora. A dor às vezes piora na semana anterior à menstruação e alivia com a micção. Relata que vem urinando mais de 10 vezes ao dia. Nega perda de urina ou queixas vaginais. Ao exame físico, não apresenta anormalidades, exceto leve dor à palpação da parede vaginal anterior no toque vaginal. Após sumário de urina normal e urinocultura negativa, qual o exame complementar mais indicado a seguir?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cistoscopia."
+      },
+      {
+        "letra": "B",
+        "texto": "Biópsia de bexiga."
+      },
+      {
+        "letra": "C",
+        "texto": "Urografia excretora."
+      },
+      {
+        "letra": "D",
+        "texto": "Estudo urodinâmico."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 94345,
+    "tags": [],
+    "enunciado": "A Síndrome da Bexiga Dolorosa (SBD) ou Cistite Intersticial (CI) é uma condição crônica que pode levar a uma redução importante da qualidade de vida das pacientes. Sabemos que até 90% das pessoas acometidas por essa patologia são do sexo feminino, principalmente brancas com média de idade de 40 anos. Qual das características abaixo NÃO faz parte do quadro:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Noctúria"
+      },
+      {
+        "letra": "B",
+        "texto": "Infecção urinária"
+      },
+      {
+        "letra": "C",
+        "texto": "Urgência e frequência urinárias"
+      },
+      {
+        "letra": "D",
+        "texto": "Dor supra-pública"
+      },
+      {
+        "letra": "E",
+        "texto": "Dispareunia"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 94346,
+    "tags": [],
+    "enunciado": "Mulher, 35a, retorna para atendimento médico referindo urgência miccional e aumento da frequência urinária há um ano. Queixa-se de dor pélvica há mais de seis meses, relacionada ao enchimento vesical. Exame sumário de urina: bactérias numerosas; urinocultura negativa; hemograma e ultrassonogra(cid:79)a transvaginal normais. O diagnóstico é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Endometriose."
+      },
+      {
+        "letra": "B",
+        "texto": "Infecção do trato urinário."
+      },
+      {
+        "letra": "C",
+        "texto": "Síndrome da bexiga dolorosa."
+      },
+      {
+        "letra": "D",
+        "texto": "Incontinência urinária de esforço."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 94347,
+    "tags": [],
+    "enunciado": "Sobre a cistite intersticial é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É um distúrbio inflamatório crônico da bexiga caracterizado pela presença de aumento da frequência e urgência urinária e dor pélvica."
+      },
+      {
+        "letra": "B",
+        "texto": "À cistoscopia, as úlceras de Hunner são lesões de mucosa de cor vermelho- amarronzada com pequenos vasos irradiando na direção da cicatriz central, encontradas em aproximadamente 50% dos casos."
+      },
+      {
+        "letra": "C",
+        "texto": "À cistoscopia, são achados raros as glomerulações, que são petéquias pequenas ou hemorragias na submucosa vesical."
+      },
+      {
+        "letra": "D",
+        "texto": "A dor costuma ser amenizada por alimentos condimentados; bebidas alcoólicas, ácidas, gaseificadas e contendo cafeína."
+      },
+      {
+        "letra": "E",
+        "texto": "Durante a micção, a queixa se acentua devido ao esvaziamento vesical."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 94348,
+    "tags": [],
+    "enunciado": "Paciente LS, 30 anos, apresentando dor em hipogástrio tipo peso há 2 anos, contínua, com polaciúria e noctúria porém com EAS e urocultura normais, USG endovaginal sem alterações. Entre as suspeitas diagnósticas e exame complementar a ser realizado cita-se:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cálculo renal - US vias urinárias."
+      },
+      {
+        "letra": "B",
+        "texto": "Síndrome da bexiga dolorosa (Cistite intersticial) - Cistoscopia + biópsia."
+      },
+      {
+        "letra": "C",
+        "texto": "Síndrome colo irritável - Colonoscopia."
+      },
+      {
+        "letra": "D",
+        "texto": "Endometriose - Ressonância magnética/ Laparoscopia."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 94349,
+    "tags": [],
+    "enunciado": "Mulher de 45 anos de idade, queixa-se de dor importante na pelve que melhora quando esvazia a bexiga. Refere também dor ao urinar, e algumas vezes tem urgência miccional. Esse quadro apareceu há 3 anos e está piorando progressivamente. A frequência urinária diurna é de 16 vezes, a noturna de 5 vezes. Exame físico geral e ginecológico normais, exceto por desconforto à palpação da bexiga. Urina I: leucócitos 8.000/ml, eritrócitos 7.500/ml. Urocultura negativa. Capacidade vesical no primeiro desejo miccional de 50 ml; capacidade vesical máxima de 180 ml. Infusão interrompida por dor. Teste do potássio positivo. Diagnóstico mais provável:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Síndrome da bexiga hiperativa."
+      },
+      {
+        "letra": "B",
+        "texto": "Síndrome da bexiga dolorosa."
+      },
+      {
+        "letra": "C",
+        "texto": "Incontinência urinária por hipermobilidade do colo vesical."
+      },
+      {
+        "letra": "D",
+        "texto": "Infecção urinária recorrente."
+      },
+      {
+        "letra": "E",
+        "texto": "Cálculo do trato urinário.  Respostas: 1 A 2 A 3 B 4 A 5 A 6 B 7 E 8 A 9 B 10 C 11 A 12 B 13 B"
+      }
+    ],
+    "resposta_correta": "B"
+  }
+]

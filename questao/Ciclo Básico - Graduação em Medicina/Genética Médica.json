@@ -1,0 +1,818 @@
+[
+  {
+    "id": 104482,
+    "tags": [],
+    "enunciado": "O dogma central da biologia molecular descreve o (cid:32)uxo de informação genética dentro de uma célula. Qual das seguintes afirmativas descreve corretamente este fluxo?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A informação genética é transcrita do RNA para o DNA e, em seguida, traduzida em proteínas."
+      },
+      {
+        "letra": "B",
+        "texto": "A informação genética é replicada diretamente do DNA para produzir proteínas sem a participação do RNA."
+      },
+      {
+        "letra": "C",
+        "texto": "A informação genética é transcrita do DNA para o RNA e, em seguida, traduzida em proteínas."
+      },
+      {
+        "letra": "D",
+        "texto": "A informação genética é traduzida diretamente do DNA para o RNA e, em seguida, transcrita em proteínas."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104483,
+    "tags": [],
+    "enunciado": "A epigenética refere-se a mudanças na expressão gênica que não envolvem alterações na sequência de DNA. Qual dos seguintes mecanismos está envolvido na regulação epigenética?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Mutação pontual na sequência de DNA."
+      },
+      {
+        "letra": "B",
+        "texto": "Modificação pós-traducional de proteínas."
+      },
+      {
+        "letra": "C",
+        "texto": "Metilação do DNA e modificações nas histonas."
+      },
+      {
+        "letra": "D",
+        "texto": "Recombinação genética durante a meiose."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104484,
+    "tags": [],
+    "enunciado": "Na herança ligada ao cromossomo X, qual das seguintes a(cid:57)rmativas é verdadeira para uma doença recessiva ligada ao X?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Afeta mais frequentemente as mulheres do que os homens."
+      },
+      {
+        "letra": "B",
+        "texto": "Os homens precisam herdar duas cópias do alelo mutante para expressar a doença."
+      },
+      {
+        "letra": "C",
+        "texto": "As mulheres podem ser portadoras sem expressar a doença."
+      },
+      {
+        "letra": "D",
+        "texto": "A herança não depende do sexo dos indivíduos."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104485,
+    "tags": [],
+    "enunciado": "As Leis de Mendel são princípios fundamentais da genética que explicam como as características são herdadas. Qual das seguintes a(cid:57)rmativas descreve corretamente a Primeira Lei de Mendel, também conhecida como Lei da Segregação?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Durante a formação dos gametas, os alelos de um gene se separam, de modo que cada gameta carrega um único alelo de cada gene."
+      },
+      {
+        "letra": "B",
+        "texto": "Características diferentes são herdadas de forma independente umas das outras."
+      },
+      {
+        "letra": "C",
+        "texto": "A expressão de um gene é influenciada pela interação entre múltiplos genes."
+      },
+      {
+        "letra": "D",
+        "texto": "Os genes que estão localizados próximos uns dos outros no mesmo cromossomo tendem a ser herdados juntos."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104486,
+    "tags": [],
+    "enunciado": "Os conceitos de genótipo e fenótipo são fundamentais para a compreensão da genética e da herança biológica. Qual das seguintes afirmativas descreve corretamente a relação entre genótipo e fenótipo?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O fenótipo de um organismo é determinado exclusivamente pelo seu genótipo, sem influência de fatores ambientais."
+      },
+      {
+        "letra": "B",
+        "texto": "O genótipo refere-se à expressão física e observável de uma característica, enquanto o fenótipo refere-se à composição genética de um organismo."
+      },
+      {
+        "letra": "C",
+        "texto": "O fenótipo é a expressão física e observável de uma característica, determinada pelo genótipo em interação com o ambiente."
+      },
+      {
+        "letra": "D",
+        "texto": "O genótipo e o fenótipo são sempre idênticos em todos os organismos."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104487,
+    "tags": [],
+    "enunciado": "A estrutura do DNA é complexa e envolve várias componentes importantes. Qual das seguintes a(cid:57)rmativas descreve corretamente a organização e função dessas componentes no DNA?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os cromossomos são compostos por DNA de fita simples e contêm telômeros apenas nas extremidades."
+      },
+      {
+        "letra": "B",
+        "texto": "As histonas são proteínas que ajudam a compactar o DNA em cromossomos, formando nucleossomos."
+      },
+      {
+        "letra": "C",
+        "texto": "Os pares de base no DNA de dupla fita são mantidos juntos por ligações covalentes fortes."
+      },
+      {
+        "letra": "D",
+        "texto": "O centrômero está localizado nas extremidades dos cromossomos e protege o DNA durante a replicação."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104488,
+    "tags": [],
+    "enunciado": "A estrutura de um gene inclui várias regiões distintas que desempenham funções especí(cid:57)cas na expressão gênica. Qual das seguintes a(cid:57)rmativas descreve corretamente a organização e função dessas regiões em um gene eucariótico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os exons são regiões não codificantes que são removidas durante o processamento do RNA, enquanto os introns são as sequências que codificam proteínas."
+      },
+      {
+        "letra": "B",
+        "texto": "O promoter é uma sequência de DNA onde a transcrição termina e o RNA é liberado."
+      },
+      {
+        "letra": "C",
+        "texto": "Os introns são sequências de DNA que são removidas do RNA transcrito, enquanto os exons são as regiões codificantes que permanecem no RNA maduro."
+      },
+      {
+        "letra": "D",
+        "texto": "Os exons são sequências reguladoras localizadas a montante do gene, enquanto os introns são sequências que ajudam na ligação do RNA polimerase."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104489,
+    "tags": [],
+    "enunciado": "João e Maria, um casal saudável, têm três (cid:57)lhos. Dois de seus (cid:57)lhos, Carlos e Clara, são saudáveis, enquanto sua (cid:57)lha, Beatriz, foi diagnosticada com (cid:57)brose cística, uma doença genética. Nenhum outro membro da família conhecida apresenta essa condição. Com base nessas informações, qual das seguintes a(cid:57)rmativas descreve o padrão de herança mais provável da fibrose cística na família de João e Maria?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A fibrose cística é uma doença dominante ligada ao cromossomo Y."
+      },
+      {
+        "letra": "B",
+        "texto": "A fibrose cística é uma doença dominante autossômica."
+      },
+      {
+        "letra": "C",
+        "texto": "A fibrose cística é uma doença recessiva ligada ao cromossomo X."
+      },
+      {
+        "letra": "D",
+        "texto": "A fibrose cística é uma doença recessiva autossômica."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104490,
+    "tags": [],
+    "enunciado": "O processo de splicing é essencial para a maturação do RNA mensageiro (mRNA) em células eucarióticas. Qual das seguintes afirmativas descreve corretamente o processo de splicing e suas componentes?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Durante o splicing, os introns são removidos e os exons são unidos para formar o mRNA maduro."
+      },
+      {
+        "letra": "B",
+        "texto": "O splicing ocorre no citoplasma e envolve a remoção de sequências de RNA chamadas de introns."
+      },
+      {
+        "letra": "C",
+        "texto": "O splicing alternativo permite que um único gene codifique múltiplas proteínas diferentes ao combinar exons de várias maneiras."
+      },
+      {
+        "letra": "D",
+        "texto": "As proteínas ribossomais desempenham um papel direto no splicing ao unir os exons após a remoção dos introns."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104491,
+    "tags": [],
+    "enunciado": "O código genético é fundamental para a tradução da informação genética em proteínas. Qual das seguintes afirmativas descreve corretamente o que é o código genético e por que ele é considerado universal?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O código genético é a sequência de aminoácidos em uma proteína e é universal porque todos os organismos utilizam exatamente os mesmos aminoácidos em suas proteínas."
+      },
+      {
+        "letra": "B",
+        "texto": "O código genético é o conjunto de regras que define como a sequência de nucleotídeos no mRNA é traduzida em uma sequência de aminoácidos, sendo universal porque quase todos os organismos utilizam o mesmo código para traduzir o mRNA em proteínas."
+      },
+      {
+        "letra": "C",
+        "texto": "O código genético refere-se às diferentes formas de splicing alternativo que ocorrem em eucariotos, e é universal porque todas as células eucarióticas possuem o mesmo mecanismo de splicing."
+      },
+      {
+        "letra": "D",
+        "texto": "O código genético é a sequência de nucleotídeos no DNA e é universal porque todos os organismos possuem exatamente a mesma sequência de DNA."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104492,
+    "tags": [],
+    "enunciado": "O equilíbrio de Hardy-Weinberg é um princípio fundamental na genética de populações. Qual das seguintes condições deve ser atendida para que uma população esteja em equilíbrio de Hardy-Weinberg?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A população deve ser pequena e isolada."
+      },
+      {
+        "letra": "B",
+        "texto": "Deve haver mutações frequentes nos alelos."
+      },
+      {
+        "letra": "C",
+        "texto": "O acasalamento deve ser aleatório."
+      },
+      {
+        "letra": "D",
+        "texto": "A seleção natural deve favorecer um alelo sobre os outros."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104493,
+    "tags": [],
+    "enunciado": "Em uma população em equilíbrio de Hardy-Weinberg, a frequência do alelo dominante (A) é 0,7 e a frequência do alelo recessivo (a) é 0,3. Qual é a frequência esperada dos genótipos AA, Aa e aa na próxima geração?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Frequência de AA = 0,49, Aa = 0,21, aa = 0,09"
+      },
+      {
+        "letra": "B",
+        "texto": "Frequência de AA = 0,09, Aa = 0,21, aa = 0,49"
+      },
+      {
+        "letra": "C",
+        "texto": "Frequência de AA = 0,49, Aa = 0,42, aa = 0,09"
+      },
+      {
+        "letra": "D",
+        "texto": "Frequência de AA = 0,7, Aa = 0,25, aa = 0,05"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104494,
+    "tags": [],
+    "enunciado": "Mutações no DNA podem ter diferentes impactos na função proteica. Qual das seguintes a(cid:57)rmativas descreve corretamente os tipos de mutações de ponto, missense e nonsense?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Uma mutação de ponto altera um único nucleotídeo no DNA, enquanto uma mutação missense substitui um aminoácido por outro, e uma mutação nonsense resulta na inserção de um aminoácido extra na proteína."
+      },
+      {
+        "letra": "B",
+        "texto": "Uma mutação de ponto altera um único nucleotídeo no DNA, uma mutação missense substitui um aminoácido por outro, e uma mutação nonsense resulta na introdução de um códon de parada prematuro."
+      },
+      {
+        "letra": "C",
+        "texto": "Uma mutação de ponto altera vários nucleotídeos no DNA, uma mutação missense não altera a sequência de aminoácidos, e uma mutação nonsense duplica uma região do gene."
+      },
+      {
+        "letra": "D",
+        "texto": "Uma mutação de ponto remove um segmento de DNA, uma mutação missense insere um códon de parada, e uma mutação nonsense troca dois aminoácidos na proteína."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104495,
+    "tags": [],
+    "enunciado": "Maria, uma mulher saudável, tem um pai que foi diagnosticado com a doença de Huntington, uma condição genética neurodegenerativa que segue um padrão de herança autossômica dominante. Seu marido, João, também é saudável e não tem histórico familiar da doença. Maria está preocupada com a possibilidade de seus (cid:57)lhos herdarem a doença de Huntington. Qual das seguintes a(cid:57)rmativas descreve corretamente a probabilidade de seus filhos herdarem a condição?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cada filho tem 0% de chance de herdar a doença, já que Maria é saudável."
+      },
+      {
+        "letra": "B",
+        "texto": "Cada filho tem 25% de chance de herdar a doença."
+      },
+      {
+        "letra": "C",
+        "texto": "Cada filho tem 50% de chance de herdar a doença."
+      },
+      {
+        "letra": "D",
+        "texto": "Cada filho tem 75% de chance de herdar a doença."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104496,
+    "tags": [],
+    "enunciado": "Clara é uma mulher saudável cujo irmão mais novo, Pedro, foi diagnosticado com hemo(cid:57)lia A, uma doença hereditária que afeta a coagulação do sangue e segue um padrão de herança ligada ao cromossomo X. Clara está preocupada com a possibilidade de transmitir a doença para seus futuros (cid:57)lhos. Qual das seguintes afirmativas descreve corretamente a probabilidade de seus filhos herdarem a condição?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cada filho homem tem 50% de chance de herdar a hemofilia A se Clara for portadora."
+      },
+      {
+        "letra": "B",
+        "texto": "Cada filha tem 50% de chance de herdar a hemofilia A se Clara for portadora."
+      },
+      {
+        "letra": "C",
+        "texto": "Cada filho homem tem 25% de chance de herdar a hemofilia A se Clara for portadora."
+      },
+      {
+        "letra": "D",
+        "texto": "Cada filho tem 50% de chance de herdar a hemofilia A se Clara for portadora."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104497,
+    "tags": [],
+    "enunciado": "João e Ana, um casal saudável, têm um (cid:57)lho chamado Lucas que foi diagnosticado com (cid:57)brose cística, uma doença genética que segue um padrão de herança autossômica recessiva. Nenhum dos pais apresenta sintomas da doença. Qual das seguintes a(cid:57)rmativas descreve corretamente o padrão de herança da (cid:57)brose cística e a probabilidade de seus futuros filhos herdarem a condição?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A fibrose cística é uma doença recessiva, e a probabilidade de cada futuro filho ser um portador assintomático é de 25%."
+      },
+      {
+        "letra": "B",
+        "texto": "A fibrose cística é uma doença recessiva, e a probabilidade de cada futuro filho manifestar a doença é de 75%."
+      },
+      {
+        "letra": "C",
+        "texto": "A fibrose cística é uma doença recessiva, e a probabilidade de cada futuro filho manifestar a doença é de 50%."
+      },
+      {
+        "letra": "D",
+        "texto": "A fibrose cística é uma doença recessiva, e a probabilidade de cada futuro filho manifestar a doença é de 25%."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104498,
+    "tags": [],
+    "enunciado": "Ligação genética é um conceito importante na genética que se refere à tendência de certos genes serem herdados juntos porque estão localizados próximos no mesmo cromossomo. Qual das seguintes a(cid:57)rmativas descreve corretamente a ligação genética e como ela pode ser observada em experimentos de cruzamento?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ligação genética ocorre quando dois genes estão em cromossomos diferentes, resultando na segregação independente desses genes."
+      },
+      {
+        "letra": "B",
+        "texto": "Ligação genética pode ser detectada quando a frequência de recombinação entre dois genes é muito alta, indicando que os genes estão localizados próximos no mesmo cromossomo."
+      },
+      {
+        "letra": "C",
+        "texto": "Ligação genética pode ser detectada quando a frequência de recombinação entre dois genes é menor que 50%, indicando que os genes estão localizados próximos no mesmo cromossomo."
+      },
+      {
+        "letra": "D",
+        "texto": "Ligação genética ocorre quando dois genes estão no mesmo cromossomo e segregam de forma independente, com frequência de recombinação de 50%."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104499,
+    "tags": [],
+    "enunciado": "A terapia gênica envolve várias técnicas para corrigir genes defeituosos responsáveis por doenças. Uma dessas técnicas utiliza RNA interferente (RNAi). Qual das seguintes a(cid:57)rmativas descreve corretamente o RNAi e sua aplicação na terapia gênica?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O RNAi é um método de edição de genes que utiliza endonucleases para cortar o DNA em locais específicos."
+      },
+      {
+        "letra": "B",
+        "texto": "O RNAi envolve o uso de pequenas moléculas de RNA que se ligam ao DNA, impedindo a transcrição dos genes alvo."
+      },
+      {
+        "letra": "C",
+        "texto": "O RNAi utiliza pequenas moléculas de RNA que se ligam ao mRNA, promovendo sua degradação ou impedindo sua tradução em proteínas."
+      },
+      {
+        "letra": "D",
+        "texto": "O RNAi é uma técnica de terapia gênica que substitui genes defeituosos por cópias normais usando vetores virais."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104500,
+    "tags": [],
+    "enunciado": "A tecnologia CRISPR-Cas9 revolucionou a terapia gênica ao permitir a edição precisa de genes. Qual das seguintes a(cid:57)rmativas descreve corretamente o mecanismo de ação de CRISPR-Cas9 e sua aplicação na terapia gênica?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "CRISPR-Cas9 utiliza moléculas de RNA para se ligar ao DNA alvo e impedir sua transcrição em proteínas."
+      },
+      {
+        "letra": "B",
+        "texto": "CRISPR-Cas9 é uma técnica de edição de genes que utiliza uma proteína nucleolítica guiada por RNA para introduzir quebras específicas na sequência de DNA."
+      },
+      {
+        "letra": "C",
+        "texto": "CRISPR-Cas9 envolve a inserção de genes normais em células usando vetores virais para substituir genes defeituosos."
+      },
+      {
+        "letra": "D",
+        "texto": "CRISPR-Cas9 utiliza pequenas moléculas de RNA para se ligar ao mRNA, promovendo sua degradação."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104501,
+    "tags": [],
+    "enunciado": "O Projeto Genoma Humano foi um marco na biologia e na medicina, culminando na publicação de um rascunho do genoma humano em 2001. Qual das seguintes a(cid:57)rmativas descreve corretamente os objetivos e as realizações do Projeto Genoma Humano?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O principal objetivo do Projeto Genoma Humano era criar terapias gênicas para todas as doenças genéticas conhecidas."
+      },
+      {
+        "letra": "B",
+        "texto": "O Projeto Genoma Humano visava sequenciar todo o DNA humano, identificar e mapear todos os genes do genoma humano, e disponibilizar esses dados para a comunidade científica."
+      },
+      {
+        "letra": "C",
+        "texto": "O Projeto Genoma Humano focou exclusivamente na identificação de genes responsáveis por doenças hereditárias raras."
+      },
+      {
+        "letra": "D",
+        "texto": "O Projeto Genoma Humano terminou em 2001 com a publicação de um genoma completo e perfeito, sem necessidade de revisões futuras."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104502,
+    "tags": [],
+    "enunciado": "As modi(cid:57)cações epigenéticas são mudanças na expressão gênica que não envolvem alterações na sequência de DNA. Qual das seguintes a(cid:57)rmativas descreve corretamente as principais formas de modi(cid:57)cações epigenéticas, incluindo metilação do DNA, modificação de histonas e RNAs não codificantes?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A metilação do DNA adiciona grupos metil às histonas, enquanto a modificação de histonas envolve a acetilação de DNA, e os RNAs não codificantes atuam apenas na tradução de proteínas."
+      },
+      {
+        "letra": "B",
+        "texto": "A metilação do DNA adiciona grupos metil às bases de citosina no DNA, a modificação de histonas altera a estrutura da cromatina através de adição ou remoção de grupos químicos, e os RNAs não codificantes regulam a expressão gênica pós-transcricionalmente."
+      },
+      {
+        "letra": "C",
+        "texto": "A metilação do DNA adiciona grupos fosfato às bases de adenina no DNA, enquanto a modificação de histonas remove grupos acetil das histonas, e os RNAs não codificantes codificam pequenas proteínas."
+      },
+      {
+        "letra": "D",
+        "texto": "A metilação do DNA ocorre exclusivamente em procariontes, enquanto a modificação de histonas e os RNAs não codificantes ocorrem apenas em eucariontes."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104503,
+    "tags": [],
+    "enunciado": "A herança poligênica refere-se à in(cid:32)uência de múltiplos genes na determinação de uma característica. Qual das seguintes a(cid:57)rmativas descreve corretamente a herança poligênica e um exemplo de uma característica determinada por esse tipo de herança?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A herança poligênica ocorre quando uma característica é determinada por um único gene com múltiplos alelos, como no caso da cor dos olhos."
+      },
+      {
+        "letra": "B",
+        "texto": "A herança poligênica ocorre quando uma característica é influenciada por múltiplos genes, cada um contribuindo de maneira aditiva para a variação fenotípica, como no caso da altura humana."
+      },
+      {
+        "letra": "C",
+        "texto": "A herança poligênica é um tipo de herança onde um único gene determina múltiplas características diferentes, como no caso da pleiotropia."
+      },
+      {
+        "letra": "D",
+        "texto": "A herança poligênica refere-se à influência de genes mitocondriais na determinação de características fenotípicas."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104504,
+    "tags": [],
+    "enunciado": "O imprinting genético é um fenômeno epigenético que resulta na expressão diferencial de um gene dependendo de sua origem parental. Qual das seguintes a(cid:57)rmativas descreve corretamente o imprinting genético e um exemplo de uma condição associada a este fenômeno?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O imprinting genético ocorre quando ambos os alelos de um gene são sempre expressos igualmente, independentemente de sua origem parental."
+      },
+      {
+        "letra": "B",
+        "texto": "O imprinting genético ocorre quando um gene é expressado apenas se herdado do pai, enquanto o alelo materno é sempre silenciado."
+      },
+      {
+        "letra": "C",
+        "texto": "O imprinting genético resulta na expressão de apenas um alelo de um gene, dependendo de sua origem parental, e pode estar associado a condições como a síndrome de Prader-Willi e a síndrome de Angelman."
+      },
+      {
+        "letra": "D",
+        "texto": "O imprinting genético envolve a modificação de histonas que resulta na expressão igual de ambos os alelos parentais."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104505,
+    "tags": [],
+    "enunciado": "Haploinsu(cid:57)ciência é um fenômeno genético onde uma única cópia funcional de um gene não é su(cid:57)ciente para manter a função normal do organismo. Qual das seguintes a(cid:57)rmativas descreve corretamente a haploinsuficiência e um exemplo de uma condição associada a este fenômeno?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Haploinsuficiência ocorre quando ambos os alelos de um gene são necessários para evitar uma condição dominante negativa, como observado na fibrose cística."
+      },
+      {
+        "letra": "B",
+        "texto": "Haploinsuficiência é o resultado de mutações em genes mitocondriais que afetam a função celular, como ocorre na síndrome de Turner."
+      },
+      {
+        "letra": "C",
+        "texto": "Haploinsuficiência ocorre quando a perda de uma cópia de um gene causa uma condição patológica, como observado na síndrome de Turner."
+      },
+      {
+        "letra": "D",
+        "texto": "Haploinsuficiência é o fenômeno pelo qual a presença de duas cópias normais de um gene leva a uma superexpressão da proteína associada, como ocorre na fibrose cística."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104506,
+    "tags": [],
+    "enunciado": "O mapeamento genético pode levar a descobertas importantes na medicina, mas também levanta questões éticas signi(cid:57)cativas. Qual das seguintes a(cid:57)rmativas descreve corretamente uma preocupação ética associada ao mapeamento genético?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O mapeamento genético garante que todos os dados genéticos coletados sejam sempre mantidos em sigilo absoluto."
+      },
+      {
+        "letra": "B",
+        "texto": "O mapeamento genético não tem implicações éticas significativas, pois é uma técnica puramente científica."
+      },
+      {
+        "letra": "C",
+        "texto": "O mapeamento genético pode levar a preocupações sobre privacidade e discriminação genética, especialmente se os dados genéticos forem acessados por empregadores ou seguradoras."
+      },
+      {
+        "letra": "D",
+        "texto": "O mapeamento genético elimina completamente o risco de doenças genéticas, tornando obsoletas as discussões éticas."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104507,
+    "tags": [],
+    "enunciado": "A deriva genética é um mecanismo evolutivo que pode in(cid:32)uenciar signi(cid:57)cativamente as frequências alélicas em uma população. Qual das seguintes a(cid:57)rmativas descreve corretamente a deriva genética e suas implicações para a diversidade genética?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A deriva genética aumenta a variabilidade genética em grandes populações ao introduzir novos alelos."
+      },
+      {
+        "letra": "B",
+        "texto": "A deriva genética é mais significativa em pequenas populações, onde pode levar à fixação ou perda de alelos de forma aleatória."
+      },
+      {
+        "letra": "C",
+        "texto": "A deriva genética é um processo que ocorre exclusivamente em populações de plantas, não afetando populações animais."
+      },
+      {
+        "letra": "D",
+        "texto": "A deriva genética atua de maneira semelhante à seleção natural, favorecendo alelos que conferem vantagens adaptativas."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104508,
+    "tags": [],
+    "enunciado": "Os testes genéticos são ferramentas valiosas na medicina personalizada. Qual das seguintes a(cid:57)rmativas descreve corretamente como os testes genéticos podem bene(cid:57)ciar os pacientes em termos de sensibilidade a fármacos e aconselhamento familiar?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Testes genéticos são usados apenas para confirmar diagnósticos de doenças raras e não têm utilidade na determinação da sensibilidade a fármacos."
+      },
+      {
+        "letra": "B",
+        "texto": "Testes genéticos podem identificar variações genéticas que afetam a resposta a medicamentos, permitindo tratamentos mais eficazes e personalizados, e também fornecer informações importantes para o aconselhamento familiar sobre o risco de doenças hereditárias."
+      },
+      {
+        "letra": "C",
+        "texto": "Testes genéticos são exclusivamente utilizados para prever o risco de desenvolver câncer e não têm relevância para a sensibilidade a fármacos."
+      },
+      {
+        "letra": "D",
+        "texto": "Testes genéticos só são aplicáveis em recém-nascidos para triagem de doenças congênitas e não têm impacto em adultos."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104509,
+    "tags": [],
+    "enunciado": "O sequenciamento do exoma é uma técnica valiosa na identi(cid:57)cação de mutações genéticas associadas a doenças. No entanto, ele tem suas limitações. Qual das seguintes a(cid:57)rmativas descreve corretamente o sequenciamento do exoma e quais tipos de doenças podem não ser detectadas por esta técnica?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O sequenciamento do exoma sequencia todas as regiões codificantes e não codificantes do genoma, detectando todas as mutações possíveis."
+      },
+      {
+        "letra": "B",
+        "texto": "O sequenciamento do exoma é limitado às regiões codificantes do genoma e pode não detectar doenças causadas por mutações em regiões reguladoras, introns, ou por alterações estruturais grandes como deleções e duplicações."
+      },
+      {
+        "letra": "C",
+        "texto": "O sequenciamento do exoma não é capaz de detectar mutações em genes conhecidos por causar doenças monogênicas."
+      },
+      {
+        "letra": "D",
+        "texto": "O sequenciamento do exoma identifica todas as variantes genéticas, incluindo aquelas em DNA mitocondrial e em regiões intergênicas."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104510,
+    "tags": [],
+    "enunciado": "Os cromossomos humanos são fundamentais para a organização e transmissão da informação genética. Qual das seguintes afirmativas descreve corretamente o número e os tipos de cromossomos humanos?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os humanos possuem 22 pares de cromossomos autossômicos e 2 pares de cromossomos sexuais, totalizando 48 cromossomos."
+      },
+      {
+        "letra": "B",
+        "texto": "Os humanos possuem 23 pares de cromossomos, sendo 22 pares de cromossomos autossômicos e 1 par de cromossomos sexuais, totalizando 46 cromossomos."
+      },
+      {
+        "letra": "C",
+        "texto": "Os humanos possuem 24 pares de cromossomos autossômicos e 1 par de cromossomos sexuais, totalizando 50 cromossomos."
+      },
+      {
+        "letra": "D",
+        "texto": "Os humanos possuem 22 pares de cromossomos sexuais e 1 par de cromossomos autossômicos, totalizando 46 cromossomos."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104511,
+    "tags": [],
+    "enunciado": "As doenças monogênicas são causadas por mutações em um único gene e seguem padrões de herança clássica. Qual das seguintes combinações de doença e padrão de herança está correta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fibrose cística - herança autossômica dominante, Distrofia muscular de Duchenne - herança autossômica recessiva, Doença de Huntington - herança ligada ao X recessiva"
+      },
+      {
+        "letra": "B",
+        "texto": "Anemia falciforme - herança autossômica recessiva, Hemofilia A - herança ligada ao X recessiva, Doença de Huntington - herança autossômica dominante"
+      },
+      {
+        "letra": "C",
+        "texto": "Doença de Tay-Sachs - herança ligada ao X dominante, Fibrose cística - herança autossômica recessiva, Síndrome do X Frágil - herança autossômica recessiva"
+      },
+      {
+        "letra": "D",
+        "texto": "Hemofilia A - herança autossômica dominante, Anemia falciforme - herança ligada ao X recessiva, Doença de Huntington - herança autossômica recessiva"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104512,
+    "tags": [],
+    "enunciado": "A incorporação do sequenciamento de última geração têm aumentado a sensibilidade dos testes genéticos, possibilitando o diagnóstico precoce com perspectiva de intervenção. Sendo correto que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Consequentemente, a avaliação molecular passa a fazer parte da rotina de avaliação de pacientes com miocardiopatias não hereditárias."
+      },
+      {
+        "letra": "B",
+        "texto": "Consequentemente, a avaliação molecular não passa a fazer parte da rotina de avaliação de pacientes com miocardiopatias hereditárias, tais como: miocardiopatias hipertróficas, arritmogênica dilatada."
+      },
+      {
+        "letra": "C",
+        "texto": "Consequentemente, a avaliação molecular passa a fazer parte da rotina de avaliação de pacientes com miocardiopatias hereditárias, tais como: miocardiopatias hipertróficas, arritmogênica dilatada e/ou restritiva e miocárdio não compactado, em função do seu potencial de fornecer aconselhamento mais individualizado e preciso aos pacientes e familiares com estas doenças."
+      },
+      {
+        "letra": "D",
+        "texto": "Consequentemente, a avaliação molecular passa a fazer parte da rotina de avaliação de pacientes com miocardiopatias hereditárias, tais como: miocardiopatias hipertróficas, arritmogênica dilatada e/ou restritiva e miocárdio não compactado, em função de nunca fornecer aconselhamento mais individualizado e preciso aos pacientes e familiares com estas doenças. 4000186984"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104513,
+    "tags": [],
+    "enunciado": "Existem ainda efeitos genéticos que ocorrem intraútero e que podem persistir por gerações. Sendo correto que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "2Algumas influências sobre a obesidade podem ocorrer no útero ou até mesmo duas gerações passadas quando os oócitos são formados na avó."
+      },
+      {
+        "letra": "B",
+        "texto": "Nenhuma influência sobre a obesidade podem ocorrer no útero ou até mesmo duas gerações passadas quando os oócitos são formados na avó."
+      },
+      {
+        "letra": "C",
+        "texto": "Algumas influências sobre a obesidade podem ocorrer no útero, mas não de gerações passadas quando os oócitos são formados na avó."
+      },
+      {
+        "letra": "D",
+        "texto": "Algumas influências sobre a obesidade nunca podem ocorrer no útero ou até mesmo de duas gerações passadas quando os oócitos são formados na avó. 4000186910"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104514,
+    "tags": [],
+    "enunciado": "Ao longo século, a evolução das pesquisas em biologia molecular possibilitou muitas aplicações a beira leito com considerável impacto clinico no tratamento em oncologia. Neste contexto, conhecimento sobre a genética do câncer demonstrou que a base (cid:57)siopatológica tem forte associação com consecutivas alterações somáticas no DNA resultando em proliferações celulares irrestritas. Este conceito hoje muito claro, foi uma das bases ou ponto de partida das pesquisas que resultaram nos desfechos clínicos atuais. Entretanto, ainda há muito o que descobrir e avançar no tratamento do câncer. Considerando a temática da genética oncológica e sua importância na prática clínica em oncologia, resposta as questões abaixo. Sobre as classes de genes ligados ao câncer podemos afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "São duas classes; uma ligada diretamente ao crescimento celular e uma conhecida como \"\"caretaker\"\" que afeta a capacidade da célula em manter a integridade do genoma."
+      },
+      {
+        "letra": "B",
+        "texto": "Uma classe: Ligada ao crescimento celular onde se subdivide em mecanismo bax apoptótico e bcl2 antiapoptótico."
+      },
+      {
+        "letra": "C",
+        "texto": "Uma classe: Atua diretamente na capacidade da célula em manter a integridade do genoma."
+      },
+      {
+        "letra": "D",
+        "texto": "Nenhuma das alternativas é correta. 4000192139"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104515,
+    "tags": [],
+    "enunciado": "Ao longo século, a evolução das pesquisas em biologia molecular possibilitou muitas aplicações a beira leito com considerável impacto clinico no tratamento em oncologia. Neste contexto, conhecimento sobre a genética do câncer demonstrou que a base (cid:57)siopatológica tem forte associação com consecutivas alterações somáticas no DNA resultando em proliferações celulares irrestritas. Este conceito hoje muito claro, foi uma das bases ou ponto de partida das pesquisas que resultaram nos desfechos clínicos atuais. Entretanto, ainda há muito o que descobrir e avançar no tratamento do câncer. Considerando a temática da genética oncológica e sua importância na prática clínica em oncologia, resposta as questões abaixo. Sobre a epigenética e os mecanismos de manifestação de doenças podemos afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Uma modificação epigenética se refere a uma mudança no genoma, herdada pela progênie celular, que não envolve mudança na sequência de DNA."
+      },
+      {
+        "letra": "B",
+        "texto": "Uma modificação epigenética se refere a uma mudança no genoma, herdada pela progênie celular, que envolve mudança na sequência de DNA."
+      },
+      {
+        "letra": "C",
+        "texto": "Uma modificação epigenética se refere a uma mudança no genoma, herdada pela progênie celular, que geralmente envolve mudança na sequência de DNA."
+      },
+      {
+        "letra": "D",
+        "texto": "Uma modificação epigenética se refere a uma mudança no genoma, herdada pela progênie celular, que geralmente não envolve mudança na sequência de DNA. 4000192138 Respostas: 1 C 2 C 3 C 4 A 5 C 6 B 7 C 8 D 9 A 10 B 11 C 12 C 13 B 14 A 15 A 16 D 17 C 18 C 19 B 20 B 21 B 22 B 23 C 24 C 25 C 26 B 27 D 28 B 29 B 30 B 31 C 32 A 33 A 34 A"
+      }
+    ],
+    "resposta_correta": "A"
+  }
+]

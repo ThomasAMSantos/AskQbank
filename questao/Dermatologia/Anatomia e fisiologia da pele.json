@@ -1,0 +1,202 @@
+[
+  {
+    "id": 80428,
+    "tags": [],
+    "enunciado": "Um paciente com 25 anos de idade procura a Unidade de Saúde da Família devido a unha encravada no hálux esquerdo. Refere que, desde que começou a trabalhar em um frigorí(cid:44)co e passou a usar botas, tem apresentado quadro recorrente de unha encravada. Ao examinar a região, o médico identi(cid:44)ca que a margem ungueal medial do hálux esquerdo penetra a margem córnea vizinha, com a presença de tecido de granulação no local, sem sinais flogísticos ou saída de secreção. Considerando o caso apresentado e as orientações do Caderno de Atenção Básica n. 30, sobre o procedimento de cantoplastia, publicado pelo Ministério da Saúde, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a ressecção da margem lateral da unha deve ser realizada com tesoura reta, preservando-se a matriz ungueal."
+      },
+      {
+        "letra": "B",
+        "texto": "o bloqueio digital deve ser realizado com lidocaína com vasoconstritor, por ser um procedimento muito doloroso."
+      },
+      {
+        "letra": "C",
+        "texto": "a introdução da tentacânula deve ser realizada a cerca de 3 mm da margem lateral, longitudinalmente até a matriz."
+      },
+      {
+        "letra": "D",
+        "texto": "o tecido de granulação pode ser preservado, não havendo necessidade de ressecá-lo, pois não há sinais de infecção."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 80429,
+    "tags": [],
+    "enunciado": "É composta por duas camadas: papilar e reticular. Proporciona a capacidade de contração e distensão da pele por conter em abundância fibras de colágeno e elásticas. Trata-se de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Camada córnea."
+      },
+      {
+        "letra": "B",
+        "texto": "Derme."
+      },
+      {
+        "letra": "C",
+        "texto": "Epiderme."
+      },
+      {
+        "letra": "D",
+        "texto": "Hipoderme."
+      },
+      {
+        "letra": "E",
+        "texto": "Mesoderme. 4000146872"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 80430,
+    "tags": [],
+    "enunciado": "Um homem com 21 anos de idade comparece à Unidade de Saúde da Família para ser submetido a tratamento cirúrgico de onicocriptose em hálux direito. Com relação à técnica a ser adotada para esse procedimento cirúrgico, após anestesia local, é correto",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "realizar exérese completa da unha encravada."
+      },
+      {
+        "letra": "B",
+        "texto": "descolar o leito ungueal, fazendo-se uma avulsão parcial do segmento encravado."
+      },
+      {
+        "letra": "C",
+        "texto": "preservar a matriz ungueal e fazer a exérese em cunha do tecido de granulação."
+      },
+      {
+        "letra": "D",
+        "texto": "retirar uma elipse de pele e tecido subcutâneo da borda com tecido de granulação e sinais de infecção local."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 80431,
+    "tags": [],
+    "enunciado": "Assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A contração dos músculos eretores dos pelos causa ereção dos pelos deixando a pele arrepiada."
+      },
+      {
+        "letra": "B",
+        "texto": "A pele é o maior órgão do corpo - é formada pela epiderme, uma camada celular superficial, e pela derme, uma camada profunda de tecido conjuntivo."
+      },
+      {
+        "letra": "C",
+        "texto": "A epiderme é uma camada densa de fibras colágenas e elásticas entrelaçadas, que proporcionam o tônus cutâneo e são responsáveis pela resistência pela firmeza da pele."
+      },
+      {
+        "letra": "D",
+        "texto": "A tela subcutânea está situada entre a derme e a fáscia muscular; é formada por tecido conjuntivo frouxo e depósito de gordura; contém vasos sanguíneos, linfáticos e nervos cutâneos."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 80432,
+    "tags": [],
+    "enunciado": "Assinale a alternativa INCORETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A epiderme é uma camada densa de fibras colágenas e elásticas entrelaçadas que proporcionam o tônus cutâneo e são responsáveis pela resistência e firmeza da pele."
+      },
+      {
+        "letra": "B",
+        "texto": "A contração dos músculos eretores dos pelos causa ereção dos pelos, deixando a pele arrepiada."
+      },
+      {
+        "letra": "C",
+        "texto": "A pele é o maior órgão do corpo, formada pela epiderme, derme e uma camada profunda de tecido conjuntivo."
+      },
+      {
+        "letra": "D",
+        "texto": "A tela subcutânea está situada entre a derme e a fáscia muscular, e é formada por tecido conjuntivo frouxo e depósito de gordura, contém glândulas sudoríferas, vasos sanguíneos, linfáticos e nervos cutâneos."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 80433,
+    "tags": [],
+    "enunciado": "Assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A epiderme é um tecido composto que consiste principalmente em epitélio escamoso estratificado, ceratinizado, que se renova continuamente."
+      },
+      {
+        "letra": "B",
+        "texto": "Os melanócitos são células derivadas da crista neural formadoras de pigmento melanina e estão presentes na epiderme e seus apêndices."
+      },
+      {
+        "letra": "C",
+        "texto": "A epiderme pode ser dividida em duas zonas, uma camada papilar superficial estreita e uma camada reticular mais profunda; o limite entre elas é indistinto."
+      },
+      {
+        "letra": "D",
+        "texto": "O bulbo piloso forma a porção mais inferior do epitélio folicular e encerra a papila pilosa dérmica de células de tecido conjuntivo."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 80434,
+    "tags": [],
+    "enunciado": "Retirada cirúrgica da chamada hiperplasia, que muitas vezes se dobra sobre o canto e a unha, causando sangramento e inflamação e a reparação do canto ungueal. Trata-se de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Onicociptose."
+      },
+      {
+        "letra": "B",
+        "texto": "Fenilização."
+      },
+      {
+        "letra": "C",
+        "texto": "Cantoplastia."
+      },
+      {
+        "letra": "D",
+        "texto": "Matricectomia."
+      },
+      {
+        "letra": "E",
+        "texto": "Onicoplastia."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 80435,
+    "tags": [],
+    "enunciado": "O albinismo é causado por defeito na biossíntese e distribuição da melanina e pode estar associado à deficiência de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sulfito oxidase."
+      },
+      {
+        "letra": "B",
+        "texto": "Tirosinase."
+      },
+      {
+        "letra": "C",
+        "texto": "Cistationina sintase."
+      },
+      {
+        "letra": "D",
+        "texto": "Diidrolipoil desidrogenase.  Respostas: 1 C 2 B 3 B 4 C 5 A 6 C 7 C 8 B"
+      }
+    ],
+    "resposta_correta": "B"
+  }
+]

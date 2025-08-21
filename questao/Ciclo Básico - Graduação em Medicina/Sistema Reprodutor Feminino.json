@@ -1,0 +1,938 @@
+[
+  {
+    "id": 106282,
+    "tags": [],
+    "enunciado": "Na realização do toque vaginal, uma das etapas é a palpação do fórnice posterior, qual a estrutura localizada no lado oposto da parede vaginal dessa região?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Escavação vesicouterina"
+      },
+      {
+        "letra": "B",
+        "texto": "Escavação retouterina"
+      },
+      {
+        "letra": "C",
+        "texto": "Vesícula seminal"
+      },
+      {
+        "letra": "D",
+        "texto": "Trompas uterinas"
+      },
+      {
+        "letra": "E",
+        "texto": "Ovário"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106283,
+    "tags": [],
+    "enunciado": "Onde é encontrada a junção escamocolunar no trato genital feminino?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fórnice vaginal"
+      },
+      {
+        "letra": "B",
+        "texto": "Óstio interno do colo do útero"
+      },
+      {
+        "letra": "C",
+        "texto": "Óstio externo do colo do útero"
+      },
+      {
+        "letra": "D",
+        "texto": "Trompas uterinas"
+      },
+      {
+        "letra": "E",
+        "texto": "Vestíbulo da vagina"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106284,
+    "tags": [],
+    "enunciado": "A transição de epitélio que ocorre no fim do colo uterino realiza a troca de quais tipos de epitélio?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Epitélio colunar pseudoestratificado e epitélio escamoso queratinizado estratificado."
+      },
+      {
+        "letra": "B",
+        "texto": "Epitélio colunar simples e epitélio escamoso não queratinizado estratificado."
+      },
+      {
+        "letra": "C",
+        "texto": "Epitélio cuboide pseudoestratificado e epitélio colunar simples"
+      },
+      {
+        "letra": "D",
+        "texto": "Epitélio cuboide simples e epitélio colunar estratificado"
+      },
+      {
+        "letra": "E",
+        "texto": "Epitélio colunar simples e epitélio escamoso queratinizado estratificado"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106285,
+    "tags": [],
+    "enunciado": "Qual é a camada uterina mais interna que é responsável pela sustentação da implantação do embrião?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Camada funcional do endométrio"
+      },
+      {
+        "letra": "B",
+        "texto": "Camada basal do endométrio"
+      },
+      {
+        "letra": "C",
+        "texto": "Camada funcional do miométrio"
+      },
+      {
+        "letra": "D",
+        "texto": "Camada basal do miométrio."
+      },
+      {
+        "letra": "E",
+        "texto": "Camada gravídica do endométrio."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106286,
+    "tags": [],
+    "enunciado": "Qual é o ligamento de (cid:58)xação do útero limitadora da rotação uterina que é a junção do peritônio visceral das faces anterior e posterior e que apresenta vários ligamentos no seu tecido conjuntivo subperitoneal?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ligamento cardinal"
+      },
+      {
+        "letra": "B",
+        "texto": "Ligamento largo do útero"
+      },
+      {
+        "letra": "C",
+        "texto": "Ligamento redondo do útero"
+      },
+      {
+        "letra": "D",
+        "texto": "Ligamento uterossacral"
+      },
+      {
+        "letra": "E",
+        "texto": "Ligamento pubouterino"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106287,
+    "tags": [],
+    "enunciado": "Qual é o ligamento uterino de formato achatado com inserções no ângulo superolateral do útero e nos lábios maiores da vulva que é responsável pela limitação do deslocamento posterior do útero?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ligamento cardinal"
+      },
+      {
+        "letra": "B",
+        "texto": "Ligamento largo do útero"
+      },
+      {
+        "letra": "C",
+        "texto": "Ligamento redondo do útero"
+      },
+      {
+        "letra": "D",
+        "texto": "Ligamento uterossacral"
+      },
+      {
+        "letra": "E",
+        "texto": "Ligamento pubouterino"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106288,
+    "tags": [],
+    "enunciado": "Qual é a estrutura responsável pela separação dos espaços profundo e superficial do períneo?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Assoalho pélvico"
+      },
+      {
+        "letra": "B",
+        "texto": "Fáscia do m. levantador do ânus"
+      },
+      {
+        "letra": "C",
+        "texto": "Corpo perineal"
+      },
+      {
+        "letra": "D",
+        "texto": "Membrana perineal"
+      },
+      {
+        "letra": "E",
+        "texto": "M. transverso profundo do períneo"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 106289,
+    "tags": [],
+    "enunciado": "Qual dos seguintes músculos não está na região profunda do períneo?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "M. esfíncter externo da uretra"
+      },
+      {
+        "letra": "B",
+        "texto": "M. esfíncter uretrovaginal"
+      },
+      {
+        "letra": "C",
+        "texto": "M. transverso profundo do períneo"
+      },
+      {
+        "letra": "D",
+        "texto": "M. compressor da uretra"
+      },
+      {
+        "letra": "E",
+        "texto": "M. bulboesponjoso"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 106290,
+    "tags": [],
+    "enunciado": "Qual nervo é responsável pela inervação somática da vagina e qual é a parte que a recebe?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Plexo nervoso uterovaginal. Inerva os três quartos proximais da vagina."
+      },
+      {
+        "letra": "B",
+        "texto": "Plexo nervoso uterovaginal. Inerva o quarto distal da vagina."
+      },
+      {
+        "letra": "C",
+        "texto": "Ramos profundos do n. perineal. Inerva os três quartos proximais da vagina."
+      },
+      {
+        "letra": "D",
+        "texto": "Ramos superficiais do n. perineal. Inerva o quarto distal da vagina."
+      },
+      {
+        "letra": "E",
+        "texto": "Ramos profundos do n. perineal. Inerva o quarto distal da vagina."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 106291,
+    "tags": [],
+    "enunciado": "Qual é a estrutura venosa responsável pela drenagem dos ovários e para onde elas drenam?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Plexo pampiniforme – v. cava inferior e v. renal esquerda."
+      },
+      {
+        "letra": "B",
+        "texto": "Plexo pudendo – v. cava inferior e v. renal direita."
+      },
+      {
+        "letra": "C",
+        "texto": "Plexo pudendo – v. cava inferior e v. renal esquerda."
+      },
+      {
+        "letra": "D",
+        "texto": "Plexo hipogástrico inferior – v. porta e v. renal direita."
+      },
+      {
+        "letra": "E",
+        "texto": "Plexo hipogástrico superior – v. porta e v. renal esquerda."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106292,
+    "tags": [],
+    "enunciado": "Qual é a região da vagina que apresenta uma relação com a escavação retouterina?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Óstio da vagina"
+      },
+      {
+        "letra": "B",
+        "texto": "Porção vaginal do colo uterino"
+      },
+      {
+        "letra": "C",
+        "texto": "Região posterior do fórnice vaginal"
+      },
+      {
+        "letra": "D",
+        "texto": "Região anterior do fórnice vaginal"
+      },
+      {
+        "letra": "E",
+        "texto": "Vestíbulo vaginal"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106293,
+    "tags": [],
+    "enunciado": "O útero é um órgão oco muscular com uma cavidade interna de formato piriforme. Com relação à musculatura desse órgão, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A musculatura uterina compõe o endométrio e, no corpo uterino, é formada por feixes espiralizados que desencadeiam uma contração generalizada do órgão."
+      },
+      {
+        "letra": "B",
+        "texto": "A musculatura uterina compõe o miométrio e, no corpo uterino, é formada por feixes de orientação transversal e circular que desencadeiam uma contração de diâmetro da luz."
+      },
+      {
+        "letra": "C",
+        "texto": "A musculatura uterina compõe o endométrio e, no colo uterino, é formada por feixes de orientação transversal e circular."
+      },
+      {
+        "letra": "D",
+        "texto": "A musculatura uterina compõe o miométrio e, no colo uterino, é formada por feixes de orientação transversal e circular."
+      },
+      {
+        "letra": "E",
+        "texto": "A musculatura uterina compõe o miométrio e, no colo uterino, é formada por feixes de orientação espiralada."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 106294,
+    "tags": [],
+    "enunciado": "Você é um patologista que percebe um material com procedência não identi(cid:58)cada no laboratório. A única informação do frasco é que se trata de uma retirada de ovário, mas não estão presentes o nome e a idade da paciente. Você percebe que o ovário apresenta uma superfície lisa, fosca e acinzentada. Assinale a afirmativa correta que corresponde à faixa etária da paciente.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Mulheres em menstruação nulíparas."
+      },
+      {
+        "letra": "B",
+        "texto": "Pré-púberes."
+      },
+      {
+        "letra": "C",
+        "texto": "Mulheres pós-menopausa."
+      },
+      {
+        "letra": "D",
+        "texto": "Mulheres em menstruação multíparas."
+      },
+      {
+        "letra": "E",
+        "texto": "Idosas."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106295,
+    "tags": [],
+    "enunciado": "Qual(is) estrutura(s) seria(m) comprometida(s) em uma lesão do ligamento suspensor do ovário?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Lesão das artéria e veia uterinas, que enviam para o ovário seus ramos ováricos para a irrigação da parte lateral do ovário e da tuba uterina."
+      },
+      {
+        "letra": "B",
+        "texto": "Lesão das artéria e veia ováricas, que se projetam, a partir da parede lateral, para o ovário pelo ligamento suspensor do ovário, inserido dentro do ligamento largo do útero."
+      },
+      {
+        "letra": "C",
+        "texto": "Lesão das artéria e veia uterinas, que se projetam, a partir da parede lateral, para o útero e o ovário pelo ligamento suspensor do ovário, inserido dentro do ligamento largo do útero."
+      },
+      {
+        "letra": "D",
+        "texto": "Instabilidade da posição ovariana com relação à parede lateral, porque o ligamento é composto de tecido conjuntivo fibroso e sua função primordial é a sustentação."
+      },
+      {
+        "letra": "E",
+        "texto": "Isquemia ovariana grave em decorrência da lesão das artérias e veias ováricas e uterinas, ambas projetadas da parede lateral para os órgãos pélvicos pelo ligamento suspensor do ovário."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106296,
+    "tags": [],
+    "enunciado": "Assinale qual é a posição de um útero normal com a bexiga vazia em relação ao eixo da vagina e ao eixo do colo uterino respectivamente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Antevertido e antefletido"
+      },
+      {
+        "letra": "B",
+        "texto": "Antefletido e antevertido"
+      },
+      {
+        "letra": "C",
+        "texto": "Retrovertido e antefletido"
+      },
+      {
+        "letra": "D",
+        "texto": "Retrofletido e retrovertido"
+      },
+      {
+        "letra": "E",
+        "texto": "Antevertido e Retrofletido"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106297,
+    "tags": [],
+    "enunciado": "Que tipo de órgão são os ovários e quais ligamentos os mantém nessa posição?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Órgão intraperitoneal. Ligamento suspensor do ovário e ligamento útero-ovárico."
+      },
+      {
+        "letra": "B",
+        "texto": "Peritonizado. Ligamento suspensor do ovário e ligamento vesico-ovárico."
+      },
+      {
+        "letra": "C",
+        "texto": "Órgão intraperitoneal. Ligamento suspensor salpíngico e ligamento útero-ovárico."
+      },
+      {
+        "letra": "D",
+        "texto": "Órgão retroperitoneal. Ligamento suspensor salpíngico e ligamento vesico-ovárico."
+      },
+      {
+        "letra": "E",
+        "texto": "Órgão peritonizado. Ligamento suspensor do ovário e ligamento útero-ovárico."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106298,
+    "tags": [],
+    "enunciado": "Assinale na imagem o número correspondente à sín(cid:58)se púbica, tuberosidade isquiática, cóccix e músculo levantador do ânus respectivamente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "15, 2, 7 e 3."
+      },
+      {
+        "letra": "B",
+        "texto": "2, 15, 7 e 3."
+      },
+      {
+        "letra": "C",
+        "texto": "2, 7, 15 e 13."
+      },
+      {
+        "letra": "D",
+        "texto": "15, 2, 7 e 13."
+      },
+      {
+        "letra": "E",
+        "texto": "7, 2, 15 e 6."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106299,
+    "tags": [],
+    "enunciado": "Identi(cid:58)que quais são os ligamentos que foram seccionados marcados por X e Y e o acidente ósseo em Z em ordem.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "X: Ligamento púbico superior – Y: Ligamento púbico inferior – Z: Espinha isquiática"
+      },
+      {
+        "letra": "B",
+        "texto": "X: Ligamento sacrotuberal – Y: Ligamento sacroespinal – Z: Tuberosidade ilíaca"
+      },
+      {
+        "letra": "C",
+        "texto": "X: Ligamento sacroespinal – Y: Ligamento sacrotuberal – Z: Espinha isquiática"
+      },
+      {
+        "letra": "D",
+        "texto": "X: Ligamento sacroespinal – Y: Ligamento sacrotuberal – Z: Tuberosidade isquiática"
+      },
+      {
+        "letra": "E",
+        "texto": "X: Ligamento sacrotuberal – Y: Ligamento púbico inferior – Z: Eminência iliopúbica"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 106300,
+    "tags": [],
+    "enunciado": "Qual é a estrutura vascular que dá origem a maior parte da irrigação arterial das vísceras pélvicas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tronco anterior da a. ilíaca interna"
+      },
+      {
+        "letra": "B",
+        "texto": "Tronco posterior da a. ilíaca interna"
+      },
+      {
+        "letra": "C",
+        "texto": "a. ilíaca externa"
+      },
+      {
+        "letra": "D",
+        "texto": "a. mesentérica inferior"
+      },
+      {
+        "letra": "E",
+        "texto": "a. aorta"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106301,
+    "tags": [],
+    "enunciado": "O osso do quadril forma um vazamento inferior entre o púbis e o ísquio e o sacro. Um dos componentes importantes que traciona os dois ossos e cria os forames isquiáticos maior e menor são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ligamentos sacroespinal e sacrotuberal"
+      },
+      {
+        "letra": "B",
+        "texto": "Ligamentos púbico superior e púbico inferior"
+      },
+      {
+        "letra": "C",
+        "texto": "Sínfise púbica e músculo levantador do ânus"
+      },
+      {
+        "letra": "D",
+        "texto": "Músculo obturador e músculo piriforme"
+      },
+      {
+        "letra": "E",
+        "texto": "Ligamento sacroilíaco anterior e ligamento longitudinal anterior"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106302,
+    "tags": [],
+    "enunciado": "Qual das seguintes estruturas nervosas não inerva estruturas pélvicas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "n. obturatório"
+      },
+      {
+        "letra": "B",
+        "texto": "n. para o m. piriforme"
+      },
+      {
+        "letra": "C",
+        "texto": "n. para os mm. levantador do ânus e isquiococcígeo"
+      },
+      {
+        "letra": "D",
+        "texto": "nn. esplâncnicos pélvicos"
+      },
+      {
+        "letra": "E",
+        "texto": "plexo hipogástrico inferior"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106303,
+    "tags": [],
+    "enunciado": "A artéria ilíaca interna é a principal responsável pela irrigação dos órgãos pélvicos, do períneo e do sacro e dos ossos do quadril. Considerando a importância desse órgão, assinale a alternativa que contenha o que aconteceria caso houvesse uma oclusão de sua luz.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os órgãos pélvicos sofreriam de isquemia, sendo necessário uma intervenção cirúrgica de emergência para evitar necrose em larga escala."
+      },
+      {
+        "letra": "B",
+        "texto": "Há anastomoses que são capazes de manter a circulação sanguínea sob uma pressão mais baixa, mas que impede a isquemia das vísceras pélvicas e sua musculatura."
+      },
+      {
+        "letra": "C",
+        "texto": "Há anastomoses que são capazes de manter a circulação apenas em alguns órgãos, como no reto, em que há a anastomose com a a. retal superior originada da a. mesentérica superior. Contudo, a irrigação mais comprometida é a dos glúteos, que não apresentam anastomose."
+      },
+      {
+        "letra": "D",
+        "texto": "Há anastomoses que são capazes de manter a circulação na musculatura, mas não nas vísceras pélvicas, como a a. glútea superior com a inferior."
+      },
+      {
+        "letra": "E",
+        "texto": "Os órgãos pélvicos sofreriam de isquemia grave, mas apenas as vísceras e a musculatura sofreriam de necrose, porque os ossos são capazes de sobreviver a baixas pressões de oxigênio."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106304,
+    "tags": [],
+    "enunciado": "Qual das seguintes artérias que suprem a pelve não apresenta origem na a.ilíaca interna?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a. uterina"
+      },
+      {
+        "letra": "B",
+        "texto": "a. vesical superior"
+      },
+      {
+        "letra": "C",
+        "texto": "a. vaginal"
+      },
+      {
+        "letra": "D",
+        "texto": "a. pudenda interna"
+      },
+      {
+        "letra": "E",
+        "texto": "a. ovárica"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 106305,
+    "tags": [],
+    "enunciado": "Os prolapsos são umas das patologias ginecológicas mais importantes e estão associados a fragilidades ligamentares e de sustentação dos órgãos genitais. Assinale a alternativa que represente o termo utilizado para o prolapso da bexiga e qual parede é afetada.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Retocele e parede anterior."
+      },
+      {
+        "letra": "B",
+        "texto": "Cistocele e parede posterior."
+      },
+      {
+        "letra": "C",
+        "texto": "Coledococele e parede anterior."
+      },
+      {
+        "letra": "D",
+        "texto": "Coledococele e parede posterior."
+      },
+      {
+        "letra": "E",
+        "texto": "Cistocele e parede anterior."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 106306,
+    "tags": [],
+    "enunciado": "O peritônio apresenta re(cid:79)exões importantes na pelve. Assinale a alternativa que contenha a ordem das reflexões anteroposteriormente.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fossa supravesical – Escavação vesicouterina – Escavação retouterina"
+      },
+      {
+        "letra": "B",
+        "texto": "Escavação vesicouterina – Fossa supravesical – Escavação retouterina"
+      },
+      {
+        "letra": "C",
+        "texto": "Escavação retouterina – Escavação vesicouterina – Fossa supravesical"
+      },
+      {
+        "letra": "D",
+        "texto": "Escavação retovesical – Fossa supravesical – Escavação vesicouterina"
+      },
+      {
+        "letra": "E",
+        "texto": "Escavação vesicouterina – Fossa supravesical – Escavação retovesical"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106307,
+    "tags": [],
+    "enunciado": "O peritônio parietal é uma (cid:58)na membrana serosa que recobre as cavidades internas. Assinale a alternativa correta quanto à sua interação com a pelve.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O peritônio projeta-se para recobrir todo o assoalho pélvico, atuando como interface entre os órgãos urogenitais e as fáscias musculares."
+      },
+      {
+        "letra": "B",
+        "texto": "O peritônio não chega a contactar o assoalho pélvico, pois se rebate como peritônio visceral nas faces superiores dos órgãos pélvicos."
+      },
+      {
+        "letra": "C",
+        "texto": "O peritônio projeta-se para recobrir todo o assoalho pélvico, o que faz com que a cavidade pélvica esteja dentro da cavidade peritoneal."
+      },
+      {
+        "letra": "D",
+        "texto": "O peritônio não chega a contactar o assoalho pélvico, porque se limita apenas à cavidade abdominal, o que faz com que os órgãos urogenitais estejam cercados por gordura pélvica e fáscias."
+      },
+      {
+        "letra": "E",
+        "texto": "O peritônio não chega a contactar o assoalho pélvico, pois se rebate como peritônio parietal nas faces superiores dos órgãos pélvicos."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106308,
+    "tags": [],
+    "enunciado": "Identifique a estrutura marcada por um X na imagem:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "m. isquiococcígeo"
+      },
+      {
+        "letra": "B",
+        "texto": "m. transverso profundo do períneo"
+      },
+      {
+        "letra": "C",
+        "texto": "m. transverso superficial do períneo"
+      },
+      {
+        "letra": "D",
+        "texto": "m. levantador do ânus"
+      },
+      {
+        "letra": "E",
+        "texto": "m. obturador interno"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106309,
+    "tags": [],
+    "enunciado": "Identifique a estrutura da musculatura pélvica marcada por X:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "m. isquiococcígeo"
+      },
+      {
+        "letra": "B",
+        "texto": "m. transverso profundo do períneo"
+      },
+      {
+        "letra": "C",
+        "texto": "m. transverso superficial do períneo"
+      },
+      {
+        "letra": "D",
+        "texto": "m. levantador do ânus"
+      },
+      {
+        "letra": "E",
+        "texto": "m. obturador interno"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106310,
+    "tags": [],
+    "enunciado": "Identifique a estrutura da musculatura pélvica marcada com X.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "m. isquiococcígeo"
+      },
+      {
+        "letra": "B",
+        "texto": "m. transverso profundo do períneo"
+      },
+      {
+        "letra": "C",
+        "texto": "m. transverso superficial do períneo"
+      },
+      {
+        "letra": "D",
+        "texto": "m. levantador do ânus"
+      },
+      {
+        "letra": "E",
+        "texto": "m. obturador interno"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 106311,
+    "tags": [],
+    "enunciado": "A pelve serve como uma base sólida no corpo humano, protegendo e acomodando os órgãos internos. Sua construção na parte inferior é especialmente reforçada para aguentar o peso das estruturas que estão acima dela. Escolha a alternativa que descreve os principais componentes deste limite inferior.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sacro e o íleo, em conjunto com os ligamentos sacroespinal e sacrotuberal, formam o limite inferior da pelve."
+      },
+      {
+        "letra": "B",
+        "texto": "O cóccix é o principal componente do limite inferior, responsável pela sustentação de quase todo o peso."
+      },
+      {
+        "letra": "C",
+        "texto": "O diafragma pélvico, composto pelos músculos levantador do ânus e isquiococcígeo e suas respectivas fáscias, forma o limite inferior da pelve."
+      },
+      {
+        "letra": "D",
+        "texto": "O diafragma pélvico, composto pelos músculos levantador do ânus e piriforme e suas respectivas fáscias, forma o limite o limite inferior da pelve."
+      },
+      {
+        "letra": "E",
+        "texto": "Sacro e o períneo, em conjunto com os ligamentos sacroespinal e sacrotuberal, formam o limite inferior da pelve."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106312,
+    "tags": [],
+    "enunciado": "Em paciente na pós-menopausa, a principal fonte de estrógenos é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ovários."
+      },
+      {
+        "letra": "B",
+        "texto": "supra-renal."
+      },
+      {
+        "letra": "C",
+        "texto": "tecido adiposo."
+      },
+      {
+        "letra": "D",
+        "texto": "fígado. 4000187043"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106313,
+    "tags": [],
+    "enunciado": "A conversão de androstenediona em estrona, no tecido adiposo, é a principal via de produção estrogênica:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "na menopausa."
+      },
+      {
+        "letra": "B",
+        "texto": "na puberdade."
+      },
+      {
+        "letra": "C",
+        "texto": "no menacme."
+      },
+      {
+        "letra": "D",
+        "texto": "durante a gravidez."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106314,
+    "tags": [],
+    "enunciado": "Com a posição ereta do ser humano, desenvolveu-se o assoalho pélvico como estrutura de sustentação para evitar o prolapso dos órgão pélvicos. O equilíbrio entre arcabouço ósseo e tecido (cid:58)bromuscular permite a manutenção das funções orgânicas. Em relação à anatomia e (cid:58)siologia pélvicas na mulher, assinale a alternativa ERRADA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A função de suspensão do complexo uterovaginal, bexiga e reto é formada pelo tecido endopélvico e pela fáscia endopélvica"
+      },
+      {
+        "letra": "B",
+        "texto": "As espinhas isquiáticas são estruturas exclusivas do ser humano"
+      },
+      {
+        "letra": "C",
+        "texto": "O hiato urogenital é uma abertura central do assoalho pélvico que permite ocorrer funções fisiológicas como, coito, esvaziamento vesical e o parto"
+      },
+      {
+        "letra": "D",
+        "texto": "O ligamento uterossacral é responsável pela suspensão lateral do colo uterino, surgindo na parede lateral pélvica e se inserindo lateralmente ao colo do útero"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106315,
+    "tags": [],
+    "enunciado": "São efeitos colaterais do uso do análogo de hormônio liberador de gonadotro(cid:58)na (aGnRH) todos os abaixo, exceto:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Dor de cabeça."
+      },
+      {
+        "letra": "B",
+        "texto": "Abscesso frio no local da aplicação."
+      },
+      {
+        "letra": "C",
+        "texto": "Escoliose."
+      },
+      {
+        "letra": "D",
+        "texto": "Ondas de calor. 4000191237 Respostas: 1 B 2 C 3 B 4 A 5 B 6 C 7 D 8 E 9 E 10 A 11 C 12 D 13 B 14 B 15 A 16 A 17 A 18 D 19 A 20 A 21 A 22 B 23 E 24 E 25 A 26 B 27 B 28 A 29 D 30 C 31 C 32 A 33 B 34 C"
+      }
+    ],
+    "resposta_correta": "C"
+  }
+]

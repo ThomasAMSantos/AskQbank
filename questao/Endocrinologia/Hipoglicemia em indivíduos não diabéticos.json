@@ -1,0 +1,690 @@
+[
+  {
+    "id": 100863,
+    "tags": [],
+    "enunciado": "Uma paciente de 34 anos procura o atendimento clínico devido a repetidos episódios de hipoglicemia sintomática. Nega história de diabetes, hipertensão arterial, uso de hipoglicemiantes e etilismo. Relata que os episódios ocorrem em qualquer momento do dia, incluindo a madrugada. Por orientação de um estudante de medicina, paciente instalou um sensor de glicemia cutâneo para monitorar a glicemia e durante a presença de sintomas (tontura, cefaleia, mal-estar e palpitações) conseguiu identi(cid:48)car diferentes valores de glicemia capilar em diferentes momentos do dia: 45, 42, 33 e 38 mg/dL. Ginecologista solicitou os seguintes exames após 12 horas de jejum: Glicose = 38 mg/dL; Insulina = 12µUI/L (3 a 25 µUI/mL). Sobre o caso qual é a afirmação incorreta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Inibidores da enzima conversora de angiotensina, antagonistas dos receptores da angiotensina, antibióticos quinolonas e indometacina são medicações que podem estar associados à hipoglicemia."
+      },
+      {
+        "letra": "B",
+        "texto": "Pacientes hospitalizados com doenças graves como insuficiência renal, hepática ou cardíaca; sepse; e inanição podem apresentar hipoglicemias."
+      },
+      {
+        "letra": "C",
+        "texto": "Insuficiência adrenal por Doença de Addison e hipopituitarismo podem apresentar hipoglicemia na sua evolução."
+      },
+      {
+        "letra": "D",
+        "texto": "Paciente do caso clínico apresenta níveis normais de insulina, descartando dessa forma, o diagnóstico de insulinoma."
+      },
+      {
+        "letra": "E",
+        "texto": "Pacientes com grandes tumores mesenquimias ou epiteliais podem apresentar hipoglicemias devido a superprodução de uma forma incompletamente processada do fator de crescimento semelhante à insulina II (IGF-II). 4000188817"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 100864,
+    "tags": [],
+    "enunciado": "Homem etilista de 70 anos vem trazido por amigos por crise convulsiva tônicoclônica generalizada. Ao entrar na sala de emergência, encontra-se em estado pós-ictal, sonolento, pouco responsivo, mantendo estabilidade hemodinâmica e glicemia capilar 45 mg/dL. Amigos negam história de traumatismo cranioencefálico. Nesse caso, a conduta imediata deve ser prescrever",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "tiamina seguida de glicose a 50% endovenosas. Solicitar eletrólitos e coletar líquido cefalorraquidiano."
+      },
+      {
+        "letra": "B",
+        "texto": "glicose a 50% endovenosa. Solicitar eletrólitos e tomografia de crânio."
+      },
+      {
+        "letra": "C",
+        "texto": "glicose a 50% seguida de tiamina e diazepam endovenosos, coletar líquido cefalorraquidiano após tomografia de crânio."
+      },
+      {
+        "letra": "D",
+        "texto": "glicose a 50% seguida de diazepam endovenosos. Vigilância neurológica, e alta após 6 horas, caso não apresente nova crise."
+      },
+      {
+        "letra": "E",
+        "texto": "tiamina seguida de glicose a 50% endovenosas. Solicitar eletrólitos. 4000192863"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 100865,
+    "tags": [],
+    "enunciado": "São sintomas associados a intoxicações por teofilina:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Bradipneia e depressão respiratória."
+      },
+      {
+        "letra": "B",
+        "texto": "Hipoglicemia refratária."
+      },
+      {
+        "letra": "C",
+        "texto": "Convulsões refratárias ao tratamento com anticonvulsivantes."
+      },
+      {
+        "letra": "D",
+        "texto": "Alcalose metabólica, hipercalemia e hipercalcemia. 4000170329"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 100866,
+    "tags": [],
+    "enunciado": "Sintomas como anorexia, náusea, vômito e dispepsia são inespecí(cid:48)cos e assemelham se a muitas outras condições e podem estar associados apenas à presença do diabetes. Podemos assim indicar como correto que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É importante ressaltar que hiperglicemia, hipoglicemia e alterações agudas da glicemia não estão documentadas na alteração do esvaziamento gástrico, assim como alguns medicamentos, especialmente opioides e outros agentes para o manejo da dor."
+      },
+      {
+        "letra": "B",
+        "texto": "É importante ressaltar que hiperglicemia, hipoglicemia e alterações agudas da glicemia estão bem documentadas na alteração do esvaziamento gástrico, e não os medicamentos, especialmente opioides e outros agentes para o manejo da dor."
+      },
+      {
+        "letra": "C",
+        "texto": "É importante ressaltar que hiperglicemia, hipoglicemia e alterações agudas da glicemia estão bem documentadas na alteração do esvaziamento gástrico, assim como alguns medicamentos, exceto os opioides e outros agentes para o manejo da dor."
+      },
+      {
+        "letra": "D",
+        "texto": "É importante ressaltar que hiperglicemia, hipoglicemia e alterações agudas da glicemia estão bem documentadas na alteração do esvaziamento gástrico, assim como alguns medicamentos, especialmente opioides e outros agentes para o manejo da dor. 4000174232"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 100867,
+    "tags": [],
+    "enunciado": "Mulher, 28 anos de idade, no pronto-socorro trazida pelo SAMU, torporosa, descorada, com sudorese fria, sem exteriorização de sangramento, agitada, tornando-se em seguida sonolenta. Familiares contam que há 3 anos, aproximadamente, apresenta sintomas semelhantes e às vezes desmaio. Habitualmente socorrida em pronto atendimento, com hidratação, reposição de glicose, com melhora. Os exames gerais colhidos nestas ocasiões não apresentam alterações signi(cid:48)cativas. A mãe da paciente informa que a (cid:48)lha está ansiosa nestes últimos três anos, tem irritabilidade fácil e crises de pânico e hiperfagia. Algumas vezes faz crises de hipoglicemia. Diante deste relato o médico solicita dosagem de glicemia, que se revela igual a 40 g/dL.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "próxima conduta a ser tomada deverá ser:"
+      },
+      {
+        "letra": "A",
+        "texto": "Hidratação, glicose intravenosa; internação para investigação diagnóstica."
+      },
+      {
+        "letra": "B",
+        "texto": "Pesquisar gravidez ectópica; dosagem de Beta HCG e ultrassonografia de pelve."
+      },
+      {
+        "letra": "C",
+        "texto": "Encaminhar para UTI, enquanto investiga tumor cerebral ou acidente vascular."
+      },
+      {
+        "letra": "D",
+        "texto": "Manter na emergência em observação; quando estiver compensada, dar alta. 4000173715"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 100868,
+    "tags": [],
+    "enunciado": "Paciente, feminina 52 anos, submetida a gastrectomia distal devido a neoplasia gástrica há poucas semanas, retorna à consulta na UBS com queixa de tremores, taquicardia, tontura e sudorese algumas horas após as principais refeições. Os sintomas referidos pela paciente são diretamente decorrentes de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Dumping precoce"
+      },
+      {
+        "letra": "B",
+        "texto": "Síndrome da alça aferente"
+      },
+      {
+        "letra": "C",
+        "texto": "Gastrite alcalina"
+      },
+      {
+        "letra": "D",
+        "texto": "Hipoglicemia 4000151677"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 100869,
+    "tags": [],
+    "enunciado": "Mulher de 28 anos em investigação de hipoglicemia. Nega medicação de uso crônico. AF: mãe portadora de DM em uso de medicação oral e insulina. Considere os exames laboratoriais: Diante desses resultados, a hipótese diagnóstica é hipoglicemia",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "reacional reativa."
+      },
+      {
+        "letra": "B",
+        "texto": "por insulinoma."
+      },
+      {
+        "letra": "C",
+        "texto": "pelo uso de insulina."
+      },
+      {
+        "letra": "D",
+        "texto": "pelo uso de sulfonilureias."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 100870,
+    "tags": [],
+    "enunciado": "Você recebe um paciente com suspeita de crises de hipoglicemia. Qual a(cid:48)rmação NÃO está correta com relação ao diagnóstico diferencial destes casos?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os insulinomas são tumores neuroendócrinos pequenos, que tem origem nas células beta pancreáticas."
+      },
+      {
+        "letra": "B",
+        "texto": "A tríade de Whipple é crítica para confirmar hipoglicemia de jejum e pós-prandial, idealmente com os sintomas observados pelo médico e a glicemia medida em laboratório."
+      },
+      {
+        "letra": "C",
+        "texto": "Hiperinsulinemia com níveis altos de peptídeo C e pró-insulina ocorre nos casos de insulinoma."
+      },
+      {
+        "letra": "D",
+        "texto": "A tríade de Whipple consiste em taquicardia, baixa glicemia plasmática e hipotensão arterial."
+      },
+      {
+        "letra": "E",
+        "texto": "Ausência de hipoglicemia após 48 horas de jejum é suficiente para excluir o diagnóstico de insulinoma."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 100871,
+    "tags": [],
+    "enunciado": "Um paciente de 32 anos foi internado em um hospital geral devido a desmaios frequentes, durante um dos episódios foi realizado uma glicemia capilar com resultado de 40g/dl. Apresentou outros 3 episódios semelhantes com melhora dos sintomas após a administração de glicose hipertônica intravenosa. Durante a investigação realizou TC de abdome e pelve que mostrou lesão nodular de 3cm em corpo pancreático. O provável diagnóstico é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Vipoma."
+      },
+      {
+        "letra": "B",
+        "texto": "Adenocarcinoma pancreático."
+      },
+      {
+        "letra": "C",
+        "texto": "Insulinoma."
+      },
+      {
+        "letra": "D",
+        "texto": "Glucanoma."
+      },
+      {
+        "letra": "E",
+        "texto": "Gastrinoma."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 100872,
+    "tags": [],
+    "enunciado": "Uma paciente de 5 anos de idade, do sexo feminino, sabidamente portadora de craniofaringioma é levada ao pronto atendimento com queixa de dor abdominal, prostração, náusea e vômitos. Ao exame físico estava com estado geral regular, prostrada, hipocorada, acianótica, anictérica, pele pegajosa. Eupneica com sons pulmonares normais. Frequência cardíaca=180bpm, pressão arterial=60x30mmHg. Ritmo cardíaco regular, pulsos periféricos (cid:48)nos, perfusão capilar lenti(cid:48)cada. Sem alterações à palpação abdominal. Realizado glicemia capilar=27mg/dL. Em relação ao quadro clínico descrito acima, assinale a afirmativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Deve-se iniciar infusão com solução glicosada isotônica a 5% para reverter os sinais de choque."
+      },
+      {
+        "letra": "B",
+        "texto": "Deve-se administrar hidrocortisona endovenosa na dose de 50 a 100mg/m²/dose."
+      },
+      {
+        "letra": "C",
+        "texto": "O tratamento deve ser postergado até a coleta de exames confirmatórios."
+      },
+      {
+        "letra": "D",
+        "texto": "A correção da hipoglicemia é desnecessária."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 100873,
+    "tags": [],
+    "enunciado": "O insulinoma é o tumor funcionante mais comum do pâncreas endócrino. Sobre esse tumor, assinale a alternativa CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "97% dos insulinomas são localizados no duodeno, hilo esplênico ou ligamento gastrocólico, e os outros 3% no pâncreas."
+      },
+      {
+        "letra": "B",
+        "texto": "São hipoatenuantes quando comparados ao tecido pancreático circundante em tomografia computadorizada com contraste."
+      },
+      {
+        "letra": "C",
+        "texto": "Um nível inapropriadamente alto de insulina sérica (> 5µU/mL), na presença de hipoglicemia, é patognomônico de insulinoma."
+      },
+      {
+        "letra": "D",
+        "texto": "Após a localização, a ressecção cirúrgica do insulinoma é geralmente curativa porque a maior parte dos tumores tende a ser pequena, benigna e solitária."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 100874,
+    "tags": [],
+    "enunciado": "Insulinoma é um tumor neuroendócrino do pâncreas. As condições da tríade de Whipple que precisam ser encontradas para o diagnóstico de \"hipoglicemia verdadeira\" ser realizado são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sinais e sintomas de hipoglicemia, glicemia < 50 mg/dl, alívio dos sintomas após administração de glucagon."
+      },
+      {
+        "letra": "B",
+        "texto": "Sinais e sintomas de hipoglicemia, glicemia < 50 mg/dl, alívio dos sintomas após administração de glicose."
+      },
+      {
+        "letra": "C",
+        "texto": "Sinais e sintomas de hiperglicemia, glicemia > 50 mg/dl, alívio dos sintomas após administração de insulina."
+      },
+      {
+        "letra": "D",
+        "texto": "Sinais e sintomas de hipoglicemia, glicemia < 50 mg/dl, alívio dos sintomas após administração de insulina."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 100875,
+    "tags": [],
+    "enunciado": "A glicose é um combustível metabólico obrigatório para o cérebro em condições (cid:48)siológicas. Entretanto o cérebro é incapaz de sintetizar glicose ou armazenar glicogênio por mais de alguns minutos. Por conseguinte, necessita de um suprimento contínuo de glicose a partir do sangue arterial. São sintomas neuroglicopênicos da hipoglicemia, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tremor."
+      },
+      {
+        "letra": "B",
+        "texto": "Fadiga."
+      },
+      {
+        "letra": "C",
+        "texto": "Crise convulsiva."
+      },
+      {
+        "letra": "D",
+        "texto": "Confusão mental."
+      },
+      {
+        "letra": "E",
+        "texto": "Alterações do comportamento."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 100876,
+    "tags": [],
+    "enunciado": "A dosagem sérica do peptídeo C pode ser útil no diagnóstico de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "vipoma"
+      },
+      {
+        "letra": "B",
+        "texto": "insulinoma"
+      },
+      {
+        "letra": "C",
+        "texto": "feocromocitoma"
+      },
+      {
+        "letra": "D",
+        "texto": "hipernefroma"
+      },
+      {
+        "letra": "E",
+        "texto": "somatostinoma"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 100877,
+    "tags": [],
+    "enunciado": "Mulher de 48 anos é trazida inconsciente ao Pronto-Socorro. Marido relata que paciente estava fazendo atividades domésticas de rotina, quando se queixou de mal estar geral inespecí(cid:48)co e visão turva, seguida de perda súbita da consciência. Familiar relata que paciente sempre teve boa saúde, porém nos últimos meses queixava-se de fraqueza e fadiga excessivas que relacionava com excesso de trabalho. Realizada monitorização cardíaca, veiasalinizada e oxigenioterapia, paciente encontra-se torporosa, Glasgow = 9 (AO = 2; RV = 3; RM = 4), pupilas mióticas e isofotorreagentes, sem sinais localizatórios, estável hemodinamicamente e com glicemia capilar de 40 mg/dl. Exames laboratoriais gerais e toxicológicos foram coletados. Após correção com glicose hipertônica, nova glicemia capilar é igual a 70 mg/dl, com melhora do nível de consciência (Glasgow =12; AO = 3; RV = 4; RM = 5). Familiar nega histórico de Diabetes Mellitus e/ou uso de medicamentos. Após checagem dos exames e da plena recuperação da paciente, a melhor conduta é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Liberar paciente para casa com orientações para evitar tempo prolongado de jejum, visto que paciente não faz uso de medicações hipoglicemiantes."
+      },
+      {
+        "letra": "B",
+        "texto": "Solicitar internação hospitalar para investigação de hipoglicemia e iniciar o Teste de Jejum Prolongado, considerando a hipótese de insulinoma, cujo diagnóstico é essencialmente tomográfico."
+      },
+      {
+        "letra": "C",
+        "texto": "Liberar paciente para casa com orientações dietéticas e investigação ambulatorial da causa da fadiga crônica, visto que não faz uso de medicações hipoglicemiantes."
+      },
+      {
+        "letra": "D",
+        "texto": "Solicitar internação hospitalar para investigação de hipoglicemia e iniciar o Teste de Jejum Prolongado, considerando a hipótese de insulinoma, cujo diagnóstico são níveis séricos elevados de insulina, pró-insulina e de Peptídeo C associados a glicemia baixa (< 45 mg/dl)."
+      },
+      {
+        "letra": "E",
+        "texto": "Solicitar internação hospitalar para investigação de hipoglicemia e iniciar o Teste de Jejum Prolongado, considerando a hipótese de insulinoma, cujo diagnóstico são níveis séricos elevados de insulina e pró-insulina, porém baixos níveis de Peptídeo C associados a glicemia baixa (<45 mg/dl). 4000057721"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 100878,
+    "tags": [],
+    "enunciado": "Mulher de 25 anos, IMC 30 kg/m2, chega ao seu consultório referindo episódios de sudorese, agitação com obnubilação e desmaios quando foram constatados baixos níveis glicêmicos. Refere esses sintomas há bastante tempo, mas eram atribuídos à \"crise nervosa\". Nos episódios de desmaios, houve necessidade da administração de glicose EV que reverteu a sintomatologia. Ao exame: obesidade grau 1, certo grau de dé(cid:48)cit cognitivo. Nega uso de medicações. Quais os resultados prováveis dos exames dessa paciente em jejum prolongado?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Glicose sérica inferior a 60 mg/dL e níveis elevados de sulfonilureia na urina."
+      },
+      {
+        "letra": "B",
+        "texto": "Glicose sérica inferior a 50 mg/dL, com baixo nível de proinsulina sérica e alta dosagem de peptídeo"
+      },
+      {
+        "letra": "C",
+        "texto": ""
+      },
+      {
+        "letra": "C",
+        "texto": "Glicose sérica superior a 120 mg/dL, com alto nível de insulina sérica e baixa dosagem de peptídeo"
+      },
+      {
+        "letra": "C",
+        "texto": ""
+      },
+      {
+        "letra": "D",
+        "texto": "Glicose sérica inferior a 50 mg/dL, com alto nível de insulina sérica e relação insulina/ glicose maior que 0,4."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 100879,
+    "tags": [],
+    "enunciado": "Paciente do sexo feminino, 25 anos, é internada por episódios de Hipoglicemia. Não é diabética e não faz uso de hipoglicemiantes orais ou insulina. Apresenta índice de massa corporal de 25 kg/m². Nega regimes dietéticos ou uso de outras medicações. Qual é o diagnóstico MAIS provável para o caso?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tumor pancreático produtor de insulina (insulinoma)."
+      },
+      {
+        "letra": "B",
+        "texto": "Jejum prolongado por não fracionamento da dieta (paciente somente toma café da manhã e janta, em decorrência do trabalho)."
+      },
+      {
+        "letra": "C",
+        "texto": "Gliconeogênese insuficiente por substituição do parênquima hepático por metástases."
+      },
+      {
+        "letra": "D",
+        "texto": "Síndrome de Cushing."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 100880,
+    "tags": [],
+    "enunciado": "Níveis séricos elevados de peptídeo C podem ser encontrados na presença de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "insulinoma"
+      },
+      {
+        "letra": "B",
+        "texto": "vipoma"
+      },
+      {
+        "letra": "C",
+        "texto": "gastrinoma"
+      },
+      {
+        "letra": "D",
+        "texto": "glucagonoma"
+      },
+      {
+        "letra": "E",
+        "texto": "somatostinoma"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 100881,
+    "tags": [],
+    "enunciado": "Mulher, 26 anos, queixa-se de sintomas compatíveis com hipoglicemia e diz não fazer uso de qualquer medicação. Na avaliação laboratorial constataram-se: glicemias de jejum = 40 e 42 mg/dl (v.r. 75-99 mg/dl); insulinas basais dosadas juntamente com as glicemias = 24 e 26 mU/ml (v.r. 2-19); peptídeo C = 0,2 ng/ml (v.r. 0,36-3,59). Assim, qual a hipótese diagnóstica mais plausível?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Insulinoma."
+      },
+      {
+        "letra": "B",
+        "texto": "Hipoglicemia autoinduzida por insulina."
+      },
+      {
+        "letra": "C",
+        "texto": "Nesidioblastose."
+      },
+      {
+        "letra": "D",
+        "texto": "Hipoglicemia autoinduzida por sulfoniluréias."
+      },
+      {
+        "letra": "E",
+        "texto": "Hepatopatia crônica. 4000056026"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 100882,
+    "tags": [],
+    "enunciado": "Paciente 30 anos, sexo feminino, com tendência ao isolamento social, já foi levada várias vezes ao Pronto Socorro com quadro de hipoglicemia no último mês. Mora só com a sua avó que é diabética e usa insulina. Na última vez, (cid:48)cou internada para investigação. Realizou o teste do jejum de 72 horas: Glicemia = < 40 mg/dl; Insulinemia = > 6µU/ml (elevado); Peptídeo C = > 0,6 ng/ml (elevado); Dosagem de sulfonilureias = negativa. O diagnóstico mais provável é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hipoglicemia factícia induzida por insulina."
+      },
+      {
+        "letra": "B",
+        "texto": "Insulinoma."
+      },
+      {
+        "letra": "C",
+        "texto": "Síndrome de Cushing."
+      },
+      {
+        "letra": "D",
+        "texto": "Hipoglicemia factícia induzida por Glibenclamida."
+      },
+      {
+        "letra": "E",
+        "texto": "Síndrome da Hipoglicemia Pancreatogênica não-insulinoma."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 100883,
+    "tags": [],
+    "enunciado": "Os insulinomas são os mais frequentes tumores de ilhotas do pâncreas sendo responsáveis por cerca de 60% destes casos, caracterizadas como lesões hipervascularizadas geralmente solitárias e de pequenas dimensões. Referente aos insulinomas pode-se afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aproximadamente 10% são de natureza maligna e 10% estão associados à síndrome de NEM 2."
+      },
+      {
+        "letra": "B",
+        "texto": "O diagnóstico pode apresentar a tríade de Whipple (hipoglicemia, glicemia < 90 mg/dl e alívio dos sintomas com administração de açúcar)."
+      },
+      {
+        "letra": "C",
+        "texto": "Os sintomas neurológicos são os mais comuns, podendo ocorrer paralisias, convulsões e coma."
+      },
+      {
+        "letra": "D",
+        "texto": "A localização pré-operatória é obtida facilmente com uso de métodos diagnósticos por imagem, auxiliando na ressecção cirúrgica."
+      },
+      {
+        "letra": "E",
+        "texto": "Os tumores benignos, pequenos e superficialmente palpáveis são tratados preferencialmente através da pancreatectomia parcial."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 100884,
+    "tags": [],
+    "enunciado": "Responda a sequência correta de respostas na abordagem da hipoglicemia. Os sintomas neuroglicopênicos podem ser considerados de fato, quando a glicemia, independente do horário realizado, com valores no sangue, respectivamente, no homem e na mulher, abaixo de quanto? E quais são os sintomas neuroglicopênicos?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "60 mg/dl e 50 mg/dl, com taquicardia, sudorese e turvação visual;"
+      },
+      {
+        "letra": "B",
+        "texto": "65 mg/dl e 45 mg/dl, com fraqueza muscular, anorexia e sudorese;"
+      },
+      {
+        "letra": "C",
+        "texto": "50 mg/dl e 40 md/dl com tremores, sialorreia e taquicardia;"
+      },
+      {
+        "letra": "D",
+        "texto": "55 mg/dl e 45 mg/dl com visão turva, sonolência e crises convulsivas. 4000003664"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 100885,
+    "tags": [],
+    "enunciado": "Uma paciente de 91 anos, moradora de instituição de longa permanência, acamada por doença de Alzheimer em fase avançada e portadora de marca-passo, de doença renal crônica dialítica e de hipertensão arterial sistêmica, é internada por apresentar hipoglicemia refratária. É realizada uma investigação da causa da hipoglicemia, e os exames apresentam os seguintes resultados: glicemia em jejum = 22 mg/dl; glicemia pós- prandial = 34 mg/dl; dosagem de insulina após jejum de 24h = 25 mcgU/ml (referência < 6 mcgU/ml em jejum) e dosagem de peptídeo C elevada. O diagnóstico e a terapêutica proposta para essa paciente são, respectivamente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Uma provável neoplasia maligna com baixa nutrição crônica; deve-se proceder à investigação de tumores do trato digestivo e tratar com dexametasona, enquanto são realizados outros exames."
+      },
+      {
+        "letra": "B",
+        "texto": "Um provável insulinoma; deve-se proceder ao tratamento cirúrgico definitivo (pancreatectomia parcial) tendo em vista a real chance de cura da paciente, mesmo em lesões não encontradas nos exames de imagem."
+      },
+      {
+        "letra": "C",
+        "texto": "Uma provável hipoglicemia por uso iatrogênico de hipoglicemiantes pelos cuidadores; deve-se aguardar um período não inferior a sete dias para a realização de novos exames."
+      },
+      {
+        "letra": "D",
+        "texto": "Um provável insulinoma; deve-se tentar terapias menos agressivas, como o uso do octreotide subcutâneo, tendo em vista a falta de condições da paciente para o tratamento cirúrgico. 4000088497"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 100886,
+    "tags": [],
+    "enunciado": "Homem de 32 anos vem apresentando sintomas compatíveis com hipoglicemia há cerca de 30 dias. Nega uso de qualquer medicação. Os exames realizados revelaram os seguintes resultados: glicemia de jejum = 28, 33 e 36 mg/dl; insulinas basais = 24, 45 e 43 U/ml (VR: 2-19); peptídeo C = 8,2 mg/dl (VR: 0,36-3,59). A hipótese diagnóstica mais plausível é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "insulinoma."
+      },
+      {
+        "letra": "B",
+        "texto": "hipoglicemia autoinduzida por insulina."
+      },
+      {
+        "letra": "C",
+        "texto": "hipoglicemia autoinduzida por sulfonilureia."
+      },
+      {
+        "letra": "D",
+        "texto": "nesidioblastose."
+      },
+      {
+        "letra": "E",
+        "texto": "hipoglicemia autoimune. 4000073998"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 100887,
+    "tags": [],
+    "enunciado": "A hipoglicemia em indivíduos com doença coexistente pode estar relacionada à:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Insuficiência renal e uso de sulfametoxazol-trimetoprima; doença de Addison;"
+      },
+      {
+        "letra": "B",
+        "texto": "Pneumonia por Pneumocystis e uso de pentamidina; pancreatite;"
+      },
+      {
+        "letra": "C",
+        "texto": "Malária cerebral e uso de quinina; feocromocitoma;"
+      },
+      {
+        "letra": "D",
+        "texto": "Subnutrição e uso de tiazídicos; hemocromatose."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 100888,
+    "tags": [],
+    "enunciado": "Um paciente de 40 anos de idade vem apresentando confusão mental ocasional, sudorese profusa e palpitações nas últimas oito semanas. Avaliado pelo seu médico que solicitou glicose plasmática de jejum (resultado 45 mg/dL - VN 70 a 99 mg/dL) e peptídeo C (elevado). Em relação a essa situação hipotética, assinale a alternativa que contém o diagnóstico mais provável.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Insuficiência hepática."
+      },
+      {
+        "letra": "B",
+        "texto": "Baixa ingestão alimentar."
+      },
+      {
+        "letra": "C",
+        "texto": "Etilismo crônico."
+      },
+      {
+        "letra": "D",
+        "texto": "Insulinoma."
+      },
+      {
+        "letra": "E",
+        "texto": "Sintomas autônomos sem hipoglicemia verdadeira. 4000010496 Respostas: 1 D 2 E 3 B 4 D 5 A 6 D 7 C 8 D 9 C 10 B 11 D 12 B 13 A 14 B 15 D 16 D 17 A 18 A 19 B 20 B 21 C 22 D 23 D 24 A 25 A 26 D"
+      }
+    ],
+    "resposta_correta": "D"
+  }
+]

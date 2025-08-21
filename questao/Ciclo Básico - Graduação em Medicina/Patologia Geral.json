@@ -1,0 +1,2110 @@
+[
+  {
+    "id": 104797,
+    "tags": [],
+    "enunciado": "Cristina tem 64 anos. Procura atendimento médico com queixa de dor lombar crônica com piora progressiva, além de perda de peso e sensação de “formigamento” na perna esquerda. Em investigação, foi evidenciada uma metástase óssea na altura da coluna toracolombar. Posteriormente, foi descoberto que o sítio primário do tumor era a mama. Dentre as alternativas a seguir, aponte aquela que não contém um aspecto importante deste processo de metastatização:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Trata-se de uma metástase óssea de caráter osteoblástico."
+      },
+      {
+        "letra": "B",
+        "texto": "Os tumores de mama podem produzir a proteína relacionada ao hormônio da paratireoide (PTHRP), que, em última análise, estimula atividade osteoclástica e destrói o osso."
+      },
+      {
+        "letra": "C",
+        "texto": "O local em que as células tumorais circulantes deixam os capilares para formar as metástases está relacionado à localização anatômica e à drenagem vascular do tumor primário."
+      },
+      {
+        "letra": "D",
+        "texto": "Além dos ossos, o câncer de mama comumente resulta em metástases linfonodais, hepáticas, pulmonares e cerebrais."
+      },
+      {
+        "letra": "E",
+        "texto": "É possível que o sítio metastático desta paciente seja bastante antigo, e só teve pleno desenvolvimento recentemente."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104798,
+    "tags": [],
+    "enunciado": "A metástase de um tumor invasivo é um evento frequentemente observado em pacientes com tumores sólidos em estágios terminais. Nota-se que cada tipo de câncer costuma resultar em metástases em sítios especí(cid:65)cos, como por exemplo o tumor primário de próstata ter um maior tropismo pelo tecido ósseo. Assim sendo, subentende-se que o processo de metástase é bastante complexo e multifatorial. Dentre as alternativas a seguir, aponte aquela que não contém um aspecto importante do processo de metastatização:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Células tumorais podem ter moléculas de adesão que só encontram seus respectivos ligantes em células específicas."
+      },
+      {
+        "letra": "B",
+        "texto": "O local em que as células tumorais circulantes deixam os capilares para formar as metástases está relacionado à localização anatômica e à drenagem vascular do tumor primário."
+      },
+      {
+        "letra": "C",
+        "texto": "Alguns tecidos, por natureza, não fornecem as condições adequadas para a instalação de metástases, e raramente são afetados pelos implantes."
+      },
+      {
+        "letra": "D",
+        "texto": "Na circulação, as células tumorais tendem a circular de maneira isolada até o sítio de implantação, dificultando sua identificação pelo sistema imunológico."
+      },
+      {
+        "letra": "E",
+        "texto": "Células tumorais são capazes de expressar moléculas de adesão como a CD44, o que dificulta seu reconhecimento por linfócitos e facilita sua circulação por órgãos linfoides."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104799,
+    "tags": [],
+    "enunciado": "Assinale a alternativa que traz a associação correta do termos relacionados a patologia do processo de invasão tumoral:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A E-caderina é uma glicoproteína produzida pela célula tumoral que auxilia na degradação da membrana basal."
+      },
+      {
+        "letra": "B",
+        "texto": "A perda da adesividade celular entre a célula tumoral e as saudáveis é o primeiro passo para que haja invasão tumoral. A redução na produção das metaloproteinases garante que isso ocorra."
+      },
+      {
+        "letra": "C",
+        "texto": "A clivagem das proteínas de membrana basal, colágeno IV e laminina, por ação das metaloproteinases, gera novos sítios que estimulam a migração do tumor para a matriz extracelular."
+      },
+      {
+        "letra": "D",
+        "texto": "A sinalização que estimula as células tumorais a migrarem para a matriz extracelular é majoritariamente endócrina."
+      },
+      {
+        "letra": "E",
+        "texto": "A perda da integridade da membrana basal é a última etapa antes da disseminação vascular da célula tumoral."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104800,
+    "tags": [],
+    "enunciado": "Sheila tem 34 anos. Depois de 4 meses sentindo uma dispepsia bastante inespecí(cid:65)ca e apresentando perda de peso progressivo, passou a notar um aumento do volume abdominal, o que a motivou a buscar atendimento médico. Em investigação com uma tomogra(cid:65)a de abdome com contraste, foi evidenciado um tumor ovariano de aspecto metastático. Dessa forma, solicitaram uma endoscopia digestiva alta, que apresentou lesão gástrica totalmente infiltrada e mal delimitada. O endoscopista realizou uma biópsia, que evidenciou o achado de adenocarcinoma gástrico do subtipo difuso, com células em “anel de sinete”: Assim, (cid:65)cou evidente que o tumor ovariano era uma metástase de um câncer gástrico primário, achado conhecido como “Tumor de Krukenberg”. O adenocarcinoma gástrico do subtipo difuso é extremamente agressivo e de mau prognóstico, sendo a mutação no gene CDH1 responsável pela redução da produção da glicoproteína E-caderina. Pensando na biologia dos cânceres, em qual das etapas a de(cid:65)ciência da E-caderina é crucial para a invasão tumoral?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "\"Afrouxamento\" na ligação entre as células saudáveis e as tumorais."
+      },
+      {
+        "letra": "B",
+        "texto": "Degradação da membrana basal."
+      },
+      {
+        "letra": "C",
+        "texto": "Migração das células tumorais."
+      },
+      {
+        "letra": "D",
+        "texto": "Disseminação vascular."
+      },
+      {
+        "letra": "E",
+        "texto": "Instalação das células tumorais em novos sítios."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104801,
+    "tags": [],
+    "enunciado": "Seu Expedito tem 69 anos. Depois de uma vida com muito consumo de álcool, tabagismo e carne vermelha, recebeu o diagnóstico de um adenocarcinoma colorretal após uma biópsia em uma colonoscopia de rastreamento, aparentemente restrito à camada submucosa. Depois de realizar um estudo de imagem para avaliar se havia metástases no fígado, (cid:65)cou aliviado em saber que não havia implantes tumorais no órgão. Considerando seu conhecimento sobre a biologia de tumores malignos, qual das marcas registradas fenotípicas de um câncer este provavelmente ainda não desenvolveu de forma eficaz?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Instabilidade genômica."
+      },
+      {
+        "letra": "B",
+        "texto": "Escape de destruição imune."
+      },
+      {
+        "letra": "C",
+        "texto": "Indução à angiogênese."
+      },
+      {
+        "letra": "D",
+        "texto": "Desregulagem energética celular."
+      },
+      {
+        "letra": "E",
+        "texto": "Resistência à morte celular programada."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104802,
+    "tags": [],
+    "enunciado": "É sabido que o câncer é resultado do acúmulo de dano genético não letal nas células. Apesar de cada tumor ter o seu próprio comportamento e gênese, existem algumas “marcas registradas” que estão presentes no fenótipo de todos os cânceres. Dentre as alternativas a seguir, qual delas não corresponde à uma capacidade observável nos tumores malignos?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Resistência à morte celular."
+      },
+      {
+        "letra": "B",
+        "texto": "Escape da destruição imune."
+      },
+      {
+        "letra": "C",
+        "texto": "Desregulagem no consumo energético celular."
+      },
+      {
+        "letra": "D",
+        "texto": "Bloqueio da angiogênese."
+      },
+      {
+        "letra": "E",
+        "texto": "Imortalidade replicativa."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104803,
+    "tags": [],
+    "enunciado": "A fosfoetanolamina deu o que falar em 2016 no Brasil. Depois que a informação de que a substância poderia ser “a cura do câncer” chegou aos ouvidos de uma população fragilizada, uma forte pressão popular fez com que a então presidente sancionasse uma lei que permitia a distribuição da fosfoetanolamina para quem estivesse em tratamento oncológico. No entanto, infelizmente, logo no mês seguinte a lei foi suspensa devido à falta de evidências científicas sobre seu efeito para esta finalidade. Até hoje, muitos leigos acreditam que a substância é sim a “cura para o câncer”, contrariando tudo o que é divulgado pelas autoridades de saúde. De que forma você, com seus conhecimentos sobre a biologia dos tumores malignos, poderia justi(cid:65)car o porquê de não haver uma medicação capaz de curar todos os tipos de cânceres?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Porque a natureza da gênese de cada tumor é única. Não há como uma mesma substância atuar em todas as vias de oncogênese de forma simultânea a efetiva."
+      },
+      {
+        "letra": "B",
+        "texto": "Porque o tratamento curativo de doenças oncológicas sempre é cirúrgico."
+      },
+      {
+        "letra": "C",
+        "texto": "Porque o tratamento curativo de doenças oncológicas é sempre baseado em quimio e radioterapia."
+      },
+      {
+        "letra": "D",
+        "texto": "Porque o câncer é uma doença sem proposta de cura quando é diagnosticado em estágio sintomático. Por isso, a chave é a prevenção e rastreamento populacional da doença enquanto o portador ainda é assintomático."
+      },
+      {
+        "letra": "E",
+        "texto": "Porque essas medicações tomadas por via oral não são capazes de controlar um câncer. O tratamento é feito numa associação de cirurgia, quimio e radioterapia, sendo que os quimioterápicos sempre são administrados por via endovenosa para assegurar uma melhor biodisponibilidade da substância."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104804,
+    "tags": [],
+    "enunciado": "Eduardo tem 61 anos, e está em consulta ambulatorial de retorno com seu cardiologista por conta de uma queixa de dor precordial aos esforços. Conta que essa dor surgiu nos últimos 8 meses, e tem como características: em aperto, moderada intensidade, surgimento durante os esforços moderados, e melhora com repouso dentro de 5 minutos. A dor nunca mudou de padrão ao longo desses meses, mas está refratária às medidas clínicas já instituídas. Como seu Eduardo é hipertenso e portador de dislipidemia, optou-se por realizar um cateterismo de coronárias ambulatorial para avaliar se havia uma obstrução que justificasse os sintomas: Na imagem, observou-se obstrução na artéria coronária direita de 70% do (cid:78)uxo. O paciente foi encaminhado para realização de angioplastia percutânea. Considerando que a etiologia foi doença aterosclerótica, qual é o achado mais provável na coronária afetada de Eduardo?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Formação de estria gordurosa na coronária direita, que poderá evoluir para uma oclusão significativa da artéria coronária direita."
+      },
+      {
+        "letra": "B",
+        "texto": "Estenose crítica da coronária direita, ocasionando um quadro de angina estável."
+      },
+      {
+        "letra": "C",
+        "texto": "Formação e rompimento de aneurisma em coronária direita."
+      },
+      {
+        "letra": "D",
+        "texto": "Oclusão total da coronária direita por trombo e infarto miocárdico."
+      },
+      {
+        "letra": "E",
+        "texto": "Formação de uma placa aterosclerótica instável, ocasionando um quadro de angina instável."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104805,
+    "tags": [],
+    "enunciado": "Gilberto tem 59 anos. Deu entrada no Pronto Socorro queixando-se de sudorese, dor precordial com irradiação para membro superior esquerdo e náuseas há 3 horas. Diante da suspeita de uma síndrome coronariana aguda, em menos de 10 minutos o paciente já tinha o laudo do seu eletrocardiograma: infarto agudo do miocárdio com supradesnivelamento do segmento ST na parede anterior do coração. O paciente tem histórico de tabagismo de longa data e hipertensão não controlada. Considerando que a etiologia foi doença aterosclerótica, qual é a complicação que provavelmente ocorreu em Gilberto?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Formação de estria gordurosa na coronária esquerda e isquemia do miocárdio."
+      },
+      {
+        "letra": "B",
+        "texto": "Estenose crítica da coronária esquerda, ocasionando suboclusão da coronária esquerda."
+      },
+      {
+        "letra": "C",
+        "texto": "Formação e rompimento de aneurisma em coronária."
+      },
+      {
+        "letra": "D",
+        "texto": "Oclusão total da coronária esquerda por trombo e isquemia miocárdica."
+      },
+      {
+        "letra": "E",
+        "texto": "Formação de uma placa aterosclerótica instável com suboclusão da coronária esquerda."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104806,
+    "tags": [],
+    "enunciado": "Fernando tem 79 anos e é tabagista desde os 12 anos, fumando cerca de 2 maços de cigarro por dia. Deu entrada no Pronto Socorro após apresentar um episódio súbito de dor abdominal intensa e desmaio. Na avaliação inicial, apresenta-se torporoso, pálido, com pressão arterial de 60 x 40 mmHg, frequência cardíaca de 109 batimentos por minuto e tempo de enchimento capilar prolongado. Na palpação do abdome, nota-se a presença de uma massa pulsátil. Considerando o horizonte clínico da doença aterosclerótica, qual evento ocorreu neste paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Formação de estria gordurosa na aorta abdominal e isquemia mesentérica."
+      },
+      {
+        "letra": "B",
+        "texto": "Estenose crítica da aorta abdominal e isquemia mesentérica."
+      },
+      {
+        "letra": "C",
+        "texto": "Formação de aneurisma e ruptura da aorta abdominal."
+      },
+      {
+        "letra": "D",
+        "texto": "Oclusão da aorta abdominal por trombo e isquemia mesentérica."
+      },
+      {
+        "letra": "E",
+        "texto": "Formação de uma placa aterosclerótica instável e isquemia mesentérica."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104807,
+    "tags": [],
+    "enunciado": "Num dia como qualquer outro, dona Joana, 68 anos, percebeu que estava com di(cid:65)culdade para levantar o braço direito e segurar a maçaneta para abrir a porta de casa e ir à feira. Incomodada, chamou seu marido para ajudá-la, e ele levou um baita susto ao olhar o rosto de sua esposa: - Sua boca está torta, mulher! Rapidamente, acionaram a ambulância, e durante o atendimento inicial já no hospital, dona Joana contou que é portadora de Diabetes Mellitus, hipertensão e dislipidemia. Foi diagnosticada com um acidente vascular isquêmico em território de artéria cerebral média à direita. Caso fosse realizado um estudo histológico da túnica íntima da artéria cerebral média desta paciente, quais células esperaríamos encontrar em abundância?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Linfócitos do tipo B."
+      },
+      {
+        "letra": "B",
+        "texto": "Monócitos."
+      },
+      {
+        "letra": "C",
+        "texto": "Neutrófilos."
+      },
+      {
+        "letra": "D",
+        "texto": "Células espumosas."
+      },
+      {
+        "letra": "E",
+        "texto": "Células musculares estriadas."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104808,
+    "tags": [],
+    "enunciado": "Albert Einstein, brilhante físico teórico que viveu no século passado, faleceu aos 76 anos em decorrência do rompimento de um aneurisma de aorta abdominal. Conta-se que o gênio não quis que nenhuma abordagem cirúrgica fosse realizada, pois não achava elegante o prolongamento da vida de forma artificial. Imagine que você, num belo plantão no Hospital de Princeton em 1955, tem a oportunidade de contar para Einstein qual é a principal causa do aneurisma de aorta abdominal:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Doenças inflamatórias autoimunes."
+      },
+      {
+        "letra": "B",
+        "texto": "Infecção fúngica."
+      },
+      {
+        "letra": "C",
+        "texto": "Infecção bacteriana."
+      },
+      {
+        "letra": "D",
+        "texto": "Aterosclerose."
+      },
+      {
+        "letra": "E",
+        "texto": "Trauma abdominal fechado."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104809,
+    "tags": [],
+    "enunciado": "Carlos, um mecânico de 67 anos, portador de hipertensão arterial sistêmica, dislipidemia, obesidade e tabagismo, dá entrada no Pronto Socorro com queixa de “dor no peito” há 3 horas. Conta que ao longo dos últimos meses vem sentindo uma dor precordial que irradia para a mandíbula quando sobe as escadas de sua o(cid:65)cina, que melhora com repouso; mas que, desta vez, a dor está mais forte e não melhorou com repouso. Pensando na principal hipótese diagnóstica e sua etiologia, em qual estrutura das artérias coronárias se originou este problema de seu Carlos que vem se arrastando ao longo dos últimos meses?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Túnica íntima."
+      },
+      {
+        "letra": "B",
+        "texto": "Túnica média."
+      },
+      {
+        "letra": "C",
+        "texto": "Túnica externa."
+      },
+      {
+        "letra": "D",
+        "texto": "Lúmen do vaso."
+      },
+      {
+        "letra": "E",
+        "texto": "O problema não está nas coronárias, mas sim no miocárdio."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104810,
+    "tags": [],
+    "enunciado": "Homem de 44 anos foi admitido em CTI com choque séptico que teve como foco lesão traumática infectada extensa em membro inferior direito. Algumas horas após a admissão, foram observadas petéquias, equimoses, sangramento no sítio de inserção de cateter venoso central e gengivorragia. O plantonista solicitou hemograma e coagulograma para avaliação inicial. À hematoscopia, foram observados numerosos esquizócitos. Dentre as opções abaixo, qual é o diagnóstico MAIS PROVÁVEL e como devem estar o tempo de protrombina (TP), o tempo parcial de tromboplastina ativado (PTTa) e contagem de plaquetas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Coagulação intravascular disseminada, tempo de protrombina (TP) e tempo de tromboplastina parcial ativada (TTPa) prolongados e trombocitopenia."
+      },
+      {
+        "letra": "B",
+        "texto": "Deficiência prévia de fator de coagulação e infecção aguda, TP e TTPa prolongados e trombocitose."
+      },
+      {
+        "letra": "C",
+        "texto": "Deficiência congênita de ativação plaquetária e infecção aguda, TP normal, TTPa normal e trombocitopenia."
+      },
+      {
+        "letra": "D",
+        "texto": "Uso prévio de inibidor de vitamina K e infecção aguda, TP prolongado, TTPa normal e trombocitopenia."
+      },
+      {
+        "letra": "E",
+        "texto": "Coagulação intravascular disseminada, TP e TTPa prolongados e trombocitose."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104811,
+    "tags": [],
+    "enunciado": "Jade tem 32 anos, previamente hígida e primigesta, atualmente com idade gestacional de 34 semanas. Na última consulta de pré-natal, há 3 semanas, notou-se que estava com os níveis pressóricos acima do esperado; no entanto, nada foi feito a respeito. Hoje, compareceu ao centro de urgência obstétrica com queixa de forte dor em baixo ventre, sangramento vaginal e redução da movimentação fetal há cerca de 3 horas. Ao exame físico, apresentou-se em mau estado geral, confusa, PA 180x110 mmHg, taquicárdica, taquipneica e com edema de face e membros inferiores. Os batimentos cardíacos fetais não estavam audíveis e o útero estava hipertônico. Foi realizada cesárea de emergência e constatou-se que o feto não estava mais vivo. A paciente foi encaminhada para a UTI e, lá, apresentou um quadro sugestivo de trombose venosa profunda em membro inferior direito, além de evoluir com sangramento profuso de difícil controle pela ferida operatória da cesárea. Evoluiu para óbito cerca de 2 dias depois. Do ponto de vista (cid:65)siopatológico, qual alternativa que melhor descreve o evento que levou a paciente a óbito?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Coagulação intravascular disseminada (CIVD)."
+      },
+      {
+        "letra": "B",
+        "texto": "Falha da hemostasia secundária."
+      },
+      {
+        "letra": "C",
+        "texto": "Embolia de líquido amniótico."
+      },
+      {
+        "letra": "D",
+        "texto": "Falha da hemostasia primária."
+      },
+      {
+        "letra": "E",
+        "texto": "Choque séptico."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104812,
+    "tags": [],
+    "enunciado": "Homem, 42a, procura pronto atendimento com queixa de cansaço há 1 dia, acompanhado de tosse seca e dor em hemitórax esquerdo. Evoluiu com piora nas últimas 2 horas, com intensa falta de ar. Antecedentes pessoais: artroscopia do joelho direito há 7 dias. Exame físico: mau estado geral, cianótico, dispneico, com batimento de asas do nariz, sudorese fria profusa; PA = 82 x 44 mmHg; FC = 136 bpm; FR = 32 irpm; T = 37,4 °C; oximetria de pulso = 85% (ar ambiente); coração: bulhas normofonéticas, taquicárdicas, sem sopros; pulmões: murmúrio vesicular presente, simétrico, com estertores crepitantes em base direita. Radiograma do tórax: proeminência dos hilos pulmonares. Na fisiopatogenia do tipo de choque apresentado, quais fatores estão envolvidos?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Elevação da pós-carga do ventrículo direito (VD) secundária à extensão da área arterial comprometida e reatividade vascular pulmonar aos mediadores liberados."
+      },
+      {
+        "letra": "B",
+        "texto": "Elevação da pré-carga do ventrículo esquerdo (VE) e vasoconstrição sistêmica secundária à ativação dos receptores alfa."
+      },
+      {
+        "letra": "C",
+        "texto": "Queda da resistência vascular sistêmica e elevação do débito cardíaco pela liberação de mediadores inflamatórios."
+      },
+      {
+        "letra": "D",
+        "texto": "Vasodilatação sistêmica e queda do débito cardíaco pela liberação de citocinas."
+      },
+      {
+        "letra": "E",
+        "texto": "Redução da pós-carga imposta ao ventrículo direito e redução da resistência vascular sistêmica."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104813,
+    "tags": [],
+    "enunciado": "Choque circulatório é de(cid:65)nido como uma condição clínica na qual o sistema circulatório não é capaz de fornecer oxigênio aos tecidos. Do ponto de vista (cid:65)siopatológico, qual alternativa traz os choques que são considerados distributivos?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hipovolêmico, obstrutivo e séptico."
+      },
+      {
+        "letra": "B",
+        "texto": "Séptico, anafilático e neurogênico."
+      },
+      {
+        "letra": "C",
+        "texto": "Anafilático, séptico e hipovolêmico."
+      },
+      {
+        "letra": "D",
+        "texto": "Anafilático, séptico e cardiogênico."
+      },
+      {
+        "letra": "E",
+        "texto": "Hipovolêmico, séptico e cardiogênico."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104814,
+    "tags": [],
+    "enunciado": "Paciente de 56 anos, masculino, tabagista, comparece ao hospital devido a quadro de adinamia associado à tosse produtiva há 03 dias. Ao exame, encontra-se sonolento, desidratado, normocorado, acianótico, taquidispneico em ar ambiente. Sinais vitais: PA: 70 x 50 mmHg; FC: 135 bpm; FR: 28 irpm; SatO2 90%; Tax 38,5° C. Ausculta pulmonar com estertores crepitantes em base esquerda e sibilos difusos. Exame cardiovascular com ritmo cardíaco regular, bulhas normofonéticas, pulsos periféricos cheios e enchimento capilar em (cid:78)ush. Foi instalado um cateter de monitorização hemodinâmica invasiva (Swan-Ganz) para melhor avaliação e acompanhamento do quadro. Quais são os parâmetros que esperamos observar neste momento?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Resistência vascular sistêmica alta, débito cardíaco normal ou alto."
+      },
+      {
+        "letra": "B",
+        "texto": "Resistência vascular sistêmica alta, débito cardíaco baixo."
+      },
+      {
+        "letra": "C",
+        "texto": "Resistência vascular sistêmica baixa, débito cardíaco normal ou alto."
+      },
+      {
+        "letra": "D",
+        "texto": "Resistência vascular sistêmica baixa, débito cardíaco baixo."
+      },
+      {
+        "letra": "E",
+        "texto": "Resistência vascular sistêmica normal, débito cardíaco alto."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104815,
+    "tags": [],
+    "enunciado": "Benício tem 53 anos e é sabidamente portador de cálculos renais. As crises de cólica nefrética ocorriam com certa frequência e eram resolvidas com anti-in(cid:78)amatórios e analgésicos comuns. No entanto, há 96 horas, o paciente apresentou uma crise de início que não cedeu com as medicações de uso habitual. Além da dor em flanco direito, náuseas e vômitos, abriu quadro de febre alta no terceiro dia de sintomas. Sua esposa trouxe-o ao pronto-socorro e o paciente apresentou os seguintes sinais vitais na admissão: sonolento e confuso, PA 70x40 mmHg, FC 123 bpm, FR 29 irpm, saturação de O2 91% em ar ambiente, pulsos radiais (cid:65)liformes, tempo de enchimento capilar prolongado, palidez e cianose mucocutânea. A ausculta cardíaca e respiratória não apresentava alterações dignas de nota. Recebeu a expansão volêmica adequada na primeira hora de atendimento; no entanto, não houve melhora dos parâmetros hemodinâmicos. Qual a classificação de choque mais provável para esse paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Choque séptico."
+      },
+      {
+        "letra": "B",
+        "texto": "Choque obstrutivo."
+      },
+      {
+        "letra": "C",
+        "texto": "Choque hipovolêmico."
+      },
+      {
+        "letra": "D",
+        "texto": "Choque cardiogênico."
+      },
+      {
+        "letra": "E",
+        "texto": "Choque anafilático."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104816,
+    "tags": [],
+    "enunciado": "Elena tem 7 anos, e estava na festa de aniversário de sua melhor amiga. Chegou na festa bem, sem apresentar sintomatologia alguma. No entanto, precisou ser socorrida quando foi encontrada tossindo muito, com um estridor inspiratório importante, vomitando e confusa. Foi resgatada pelo SAMU, e ainda na ambulância notaram os seguintes sinais vitais: torporosa, PA 60x40 mmHg, FC 178 bpm, FR 39 irpm, saturação de O2 81% em ar ambiente, pulsos radiais cheios e simétricos, enchimento capilar em “(cid:78)ush”, extremidades hiperemiadas e exantema em placas pruriginosas pelo corpo. A respiração se apresentava muito ruidosa, com estridor inspiratório e sibilância difusa. Qual a classificação de choque mais provável para este paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Choque séptico."
+      },
+      {
+        "letra": "B",
+        "texto": "Choque obstrutivo."
+      },
+      {
+        "letra": "C",
+        "texto": "Choque hipovolêmico."
+      },
+      {
+        "letra": "D",
+        "texto": "Choque cardiogênico."
+      },
+      {
+        "letra": "E",
+        "texto": "Choque anafilático."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 104817,
+    "tags": [],
+    "enunciado": "Marcelo tem 37 anos, e é etilista crônico. Toma cerca de 1,0L de pinga por dia desde os 18 anos. Nas últimas semanas, notou que sua barriga estava aumentando, e que seus olhos estavam amarelos – mas não procurou atendimento médico. Hoje, não teve muita escolha: pouco depois de tomar o café da manhã, se sentiu nauseado e abriu um quadro de hematêmese profusa. Foi encontrado inconsciente no chão do banheiro por sua esposa e a mesma descreveu que havia muito sangue vivo no local. Foi resgatado pelo SAMU, e ainda na ambulância notaram os seguintes sinais vitais: torporoso, PA 70x40 mmHg, FC 156 bpm, FR 23 irpm, saturação de O2 89% em ar ambiente, pulsos radiais (cid:65)liformes, tempo de enchimento capilar prolongado, palidez, icterícia e cianose mucocutânea. Ao exame físico, apresentava aumento do volume abdominal e sinal de piparote positivo, além de notável circulação colateral em terço superior do abdome. Precisou ser entubado, pois estava apresentando episódios incessantes de vômitos com sangue na ambulância. Qual a classificação de choque mais provável para este paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Choque séptico."
+      },
+      {
+        "letra": "B",
+        "texto": "Choque obstrutivo."
+      },
+      {
+        "letra": "C",
+        "texto": "Choque hipovolêmico."
+      },
+      {
+        "letra": "D",
+        "texto": "Choque cardiogênico."
+      },
+      {
+        "letra": "E",
+        "texto": "Choque anafilático."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104818,
+    "tags": [],
+    "enunciado": "Charles tem 23 anos e trabalha como motoboy. Enquanto entregava pizzas, teve a brilhante ideia de empinar sua moto para impressionar algumas garotas que estavam na calçada – o famoso “grau”. Acabou impressionando mesmo, mas não da forma que imaginava: durante a manobra, perdeu o equilíbrio e caiu da motocicleta, chocando o hemitórax esquerdo contra o meio-(cid:65)o. Foi resgatado pelo SAMU e, ainda na ambulância, estava com os seguintes sinais vitais: PA 90x60 mmHg, FC 128 bpm, FR 32 irpm, saturação de O2 83% em ar ambiente, pulsos radiais filiformes, tempo de enchimento capilar prolongado, palidez e cianose mucocutânea. Ao exame físico, apresentava uma notável turgência jugular e o murmúrio vesicular estava abolido em todo o hemitórax esquerdo, com a percussão revelando hipertimpanismo difuso no local. Qual a classificação de choque mais provável para esse paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Choque séptico."
+      },
+      {
+        "letra": "B",
+        "texto": "Choque obstrutivo."
+      },
+      {
+        "letra": "C",
+        "texto": "Choque hipovolêmico."
+      },
+      {
+        "letra": "D",
+        "texto": "Choque cardiogênico."
+      },
+      {
+        "letra": "E",
+        "texto": "Choque anafilático."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104819,
+    "tags": [],
+    "enunciado": "Marilda tem 72 anos e é portadora de diabetes mellitus do tipo 2 insulino-dependente e hipertensão arterial sistêmica. Resolveu não se vacinar contra a COVID-19 após se informar sobre os efeitos colaterais da vacina em redes sociais. Há cerca de 6 dias, iniciou quadro de tosse seca, dor de garganta e coriza. Estava evoluindo bem, até que iniciou quadro de dispneia em ar ambiente e agitação psicomotora (cid:78)utuante. Buscou atendimento médico, que evidenciou os sinais vitais: PA 90x50 mmHg, FC 132 bpm, FR 28 irpm, saturação de O2 83% em ar ambiente, pulsos radiais (cid:65)liformes, tempo de enchimento capilar prolongado, palidez e cianose mucocutânea, edema simétrico de membros inferiores 2+/4+. A ausculta pulmonar revelava estertoração (cid:65)na e simétrica em ambos os hemitórax, até o terço superior. A ausculta cardíaca continha presença de B3. Após estabilização inicial, foi solicitada uma radiografia de tórax, com os seguintes achados: Fonte: Arquivos Estratégia Med. Qual a classificação de choque mais provável para esse paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Choque séptico."
+      },
+      {
+        "letra": "B",
+        "texto": "Choque obstrutivo."
+      },
+      {
+        "letra": "C",
+        "texto": "Choque hipovolêmico."
+      },
+      {
+        "letra": "D",
+        "texto": "Choque cardiogênico."
+      },
+      {
+        "letra": "E",
+        "texto": "Choque anafilático."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104820,
+    "tags": [],
+    "enunciado": "Lucas tem 32 anos e se considera uma pessoa saudável. Ao acordar esta manhã, notou que não estava conseguindo articular bem as palavras, tampouco movimentar seu membro superior direito. Foi levado ao pronto-socorro e a tomogra(cid:65)a computadorizada sem contraste de crânio evidenciou área de isquemia em território de artéria cerebral média. Durante a avaliação do paciente, que se encontrava hemodinamicamente estável, o eletrocardiograma demonstrou o seguinte ritmo na derivação V2: Ao analisar o eletrocardiograma, o médico plantonista notou que o ritmo estava bastante irregular pelos intervalos RR, além de ausência de onda P e complexo QRS normal – assim, fechou o diagnóstico de fibrilação atrial. Qual evento patológico que mais provavelmente explica o quadro clínico atual do paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Baixo débito cardíaco por conta da arritmia."
+      },
+      {
+        "letra": "B",
+        "texto": "Tromboembolismo arterial sistêmico."
+      },
+      {
+        "letra": "C",
+        "texto": "Tromboembolismo venoso profundo."
+      },
+      {
+        "letra": "D",
+        "texto": "Cor pulmonale."
+      },
+      {
+        "letra": "E",
+        "texto": "Infarto agudo de ventrículo esquerdo."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104821,
+    "tags": [],
+    "enunciado": "Wilson tem 48 anos. Depois de apresentar um quadro progressivo de perda de peso, dor abdominal inespecí(cid:65)ca, vômitos e icterícia, foi diagnosticado com câncer de pâncreas. Iniciou o tratamento quimioterápico, pois não havia mais proposta cirúrgica curativa para seu caso. Na segunda semana de quimioterapia, iniciou quadro de dor em membro inferior esquerdo e edema local. Pouco antes de chegar no pronto socorro, subitamente começou a sentir uma intensa sensação de falta de ar e (cid:65)cou bastante agitado. Enquanto estava sendo monitorizado, teve um episódio de síncope. Os sinais vitais estavam sugerindo instabilidade hemodinâmica: pressão arterial de 80 x 60 mmHg, frequência cardíaca de 143 batimentos por minuto, tempo de enchimento capilar prolongado, saturação periférica de oxigênio em 79%. Qual evento patológico que, mais provavelmente, explica o quadro clínico atual do paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pneumonia bacteriana e choque séptico."
+      },
+      {
+        "letra": "B",
+        "texto": "Celulite em membro inferior esquerdo e choque séptico."
+      },
+      {
+        "letra": "C",
+        "texto": "Tromboembolismo pulmonar de vasos segmentares distais."
+      },
+      {
+        "letra": "D",
+        "texto": "Cor pulmonale."
+      },
+      {
+        "letra": "E",
+        "texto": "Infarto agudo de ventrículo esquerdo."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104822,
+    "tags": [],
+    "enunciado": "Wilson tem 48 anos. Depois de apresentar um quadro progressivo de perda de peso, dor abdominal inespecí(cid:65)ca, vômitos e icterícia, foi diagnosticado com câncer de pâncreas. Iniciou o tratamento quimioterápico, pois não havia mais proposta cirúrgica curativa para seu caso. Na segunda semana de quimioterapia, iniciou quadro de dor em membro inferior esquerdo e edema local. Pouco antes de chegar no pronto-socorro, começou a sentir uma intensa sensação de falta de ar. Qual evento patológico que mais provavelmente explica o quadro clínico atual do paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tromboembolia pulmonar."
+      },
+      {
+        "letra": "B",
+        "texto": "Embolia gasosa."
+      },
+      {
+        "letra": "C",
+        "texto": "Embolia gordurosa."
+      },
+      {
+        "letra": "D",
+        "texto": "Embolia arterial em membro inferior esquerdo."
+      },
+      {
+        "letra": "E",
+        "texto": "Celulite em membro inferior esquerdo e sepse."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104823,
+    "tags": [],
+    "enunciado": "Paula tem 27 anos e está em sua terceira gestação. Atualmente, está com idade gestacional de 38 semanas e não teve intercorrências durante esta gravidez. Compareceu ao serviço de urgência obstétrica com queixa de redução da movimentação fetal. Em cardiotocogra(cid:65)a, foi evidenciado possível sofrimento fetal agudo e a equipe da maternidade optou por interromper a gestação por meio de uma cesárea de emergência. Durante a dequitação, houve fragmentação da placenta. Paula estava bem, mas cerca de 12 minutos depois, começou a apresentar, de forma abrupta, uma taquidispneia importante, cianose, dessaturação na oximetria de pulso e rebaixamento do nível de consciência. Em cerca de 2 horas, passou a apresentar equimoses e sangramento profuso pela ferida operatória. Apesar das medidas de suporte, evoluiu para óbito. Qual evento patológico que mais provavelmente explica o trágico desfecho desta paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tromboembolia pulmonar."
+      },
+      {
+        "letra": "B",
+        "texto": "Embolia gasosa."
+      },
+      {
+        "letra": "C",
+        "texto": "Embolia gordurosa."
+      },
+      {
+        "letra": "D",
+        "texto": "Embolia de fragmento placentário."
+      },
+      {
+        "letra": "E",
+        "texto": "Embolia de líquido amniótico."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 104824,
+    "tags": [],
+    "enunciado": "Carlos tem 23 anos e trabalha como motoboy. Durante um dia de serviço, foi atropelado em um cruzamento e fraturou tíbia, fíbula e fêmur direitos, além do fêmur esquerdo. Foi levado ao pronto-socorro da cidade e prontamente encaminhado para a sala de cirurgia. Manteve-se hemodinamicamente estável durante dois dias. No entanto, no 2º dia de pós-operatório, passou a apresentar um quadro de taquipneia, agitação psicomotora e confusão mental. Ao exame físico, foi observada a seguinte alteração no tórax do paciente: Qual evento patológico que mais provavelmente explicaria o quadro atual do paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tromboembolia pulmonar."
+      },
+      {
+        "letra": "B",
+        "texto": "Embolia gasosa."
+      },
+      {
+        "letra": "C",
+        "texto": "Embolia gordurosa."
+      },
+      {
+        "letra": "D",
+        "texto": "Embolia em artéria cerebral média."
+      },
+      {
+        "letra": "E",
+        "texto": "Infarto pulmonar."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104825,
+    "tags": [],
+    "enunciado": "Quando há a formação de um trombo, sabe-se que existem diferentes destinos para essa estrutura:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Propagação."
+      },
+      {
+        "letra": "B",
+        "texto": "Embolização."
+      },
+      {
+        "letra": "C",
+        "texto": "Dissolução."
+      },
+      {
+        "letra": "D",
+        "texto": "Organização e recanalização. Agora imagine os cenários clínicos a seguir: 1.Paciente com fibrilação atrial que desenvolveu um acidente vascular encefálico isquêmico (AVEi). 2.Paciente vítima de infarto agudo do miocárdio transmural com início há 4 horas, submetido à trombólise química. 3.Paciente que apresentou episódio de trombose venosa profunda em membro inferior sem tratamento adequado há dois meses, apresentando edema crônico no membro afetado. 4.Paciente vítima de trombo(cid:78)ebite na altura da crossa da safena magna, que evoluiu com quadro de trombose venosa profunda. Correlacione os possíveis destinos para os trombos aos casos clínicos:"
+      },
+      {
+        "letra": "A",
+        "texto": "1B - 2C - 3D - 4A."
+      },
+      {
+        "letra": "B",
+        "texto": "1B - 2D - 3C - 4A."
+      },
+      {
+        "letra": "C",
+        "texto": "1A - 2C - 3D - 4B."
+      },
+      {
+        "letra": "D",
+        "texto": "1A - 2D - 3C - 4B."
+      },
+      {
+        "letra": "E",
+        "texto": "1D - 2C - 3B - 4A."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104826,
+    "tags": [],
+    "enunciado": "Guilherme tem 25 anos. Vem ao pronto-socorro referindo febre há cerca de 7 dias, além de mal-estar inespecí(cid:65)co. No exame físico, estava febril, taquicárdico, com um sopro diastólico em ru(cid:78)ar em foco mitral 4+/6+, além da seguinte alteração observada nos pés: Conta que teve febre reumática quando era criança, mas só fez a profilaxia com penicilina até os 13 anos. Em coleta de hemoculturas, foi (cid:65)rmado o diagnóstico de endocardite bacteriana aguda. O ecocardiograma solicitado apresentou, além de sinais de calci(cid:65)cação patológica da valva mitral, uma estrutura aderida à válvula cardíaca. Qual o termo adequado para descrever essa estrutura?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Trombo intramural."
+      },
+      {
+        "letra": "B",
+        "texto": "Trombo arterial."
+      },
+      {
+        "letra": "C",
+        "texto": "Trombo venoso."
+      },
+      {
+        "letra": "D",
+        "texto": "Vegetação."
+      },
+      {
+        "letra": "E",
+        "texto": "Hemorragia valvar."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104827,
+    "tags": [],
+    "enunciado": "Alfredo tem 82 anos. Fumou a vida toda e é hipertenso há mais de 3 décadas, além do histórico de 2 infartos agudos do miocárdio prévios. Vem ao pronto-socorro porque está com muita dor na perna esquerda, com início há cerca de 2 horas. Conta que, nos últimos anos, vem apresentando di(cid:65)culdade de caminhar, pois, sempre que anda cerca de um quarteirão, sente uma queimação forte na panturrilha e pés e necessita parar para a dor passar. No entanto, mesmo em repouso, a dor está muito forte nessas últimas horas. Ao exame físico, apresenta frialdade e palidez em todo o território infrapoplíteo da perna esquerda, os pulsos distais não estão palpáveis e não é notado edema em nenhuma das pernas. Além disso, há notável hipotro(cid:65)a muscular, onicodistrofia e ausência de pelos em ambas as pernas. Qual evento patológico que mais provavelmente explica o quadro atual do paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Trombose venosa profunda em membro inferior esquerdo."
+      },
+      {
+        "letra": "B",
+        "texto": "Trombose arterial em membro inferior esquerdo."
+      },
+      {
+        "letra": "C",
+        "texto": "Embolia arterial em membro inferior esquerdo."
+      },
+      {
+        "letra": "D",
+        "texto": "Celulite em membro inferior esquerdo."
+      },
+      {
+        "letra": "E",
+        "texto": "Erisipela em membro inferior esquerdo."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104828,
+    "tags": [],
+    "enunciado": "Flávio tem 53 anos, é portador de diabetes mellitus do tipo 2 e de hipertensão arterial sistêmica. Resolveu não tomar as vacinas contra a COVID-19 após se informar sobre o assunto em redes sociais. De um dia para o outro, acordou com dores no corpo, tosse, coriza e febre. Buscou atendimento médico e, por meio de um teste de RT-PCR, recebeu o diagnóstico de COVID-19. Em cerca de 48 horas de evolução, já estava internado e utilizando suporte ventilatório não invasivo. Com 96 horas de evolução, precisou ser entubado devido ao desconforto respiratório. Foi melhorando progressivamente, até que, sem explicação evidente, apresentou uma piora importante e abrupta no quadro de dessaturação de oxigênio e acidose respiratória. Ao exame físico, foi observado uma assimetria importante entre as duas pernas e, à palpação, a panturrilha direita estava com aspecto empastado. Qual evento patológico que mais provavelmente explica o quadro atual do paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fenômeno tromboembólico arterial."
+      },
+      {
+        "letra": "B",
+        "texto": "Fenômeno tromboembólico venoso."
+      },
+      {
+        "letra": "C",
+        "texto": "Infarto pulmonar."
+      },
+      {
+        "letra": "D",
+        "texto": "Hemorragia alveolar maciça."
+      },
+      {
+        "letra": "E",
+        "texto": "Pneumonia bacteriana secundária."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104829,
+    "tags": [],
+    "enunciado": "Durante a aula de Patologia, o professor dirige-se a você e faz uma pergunta bastante elementar: pensando em fenômenos tromboembólicos, quais são os componentes da tríade de Virchow?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Lesão endotelial, estase sanguínea, hipercoagulabilidade."
+      },
+      {
+        "letra": "B",
+        "texto": "Hipotermia, coagulopatia e acidose metabólica."
+      },
+      {
+        "letra": "C",
+        "texto": "Acidose metabólica, lesão endotelial e hipercoagulabilidade."
+      },
+      {
+        "letra": "D",
+        "texto": "Plaquetose, estase sanguínea e hipercoagulabilidade."
+      },
+      {
+        "letra": "E",
+        "texto": "Hipotermia, estase sanguínea e lesão endotelial."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104830,
+    "tags": [],
+    "enunciado": "Qual combinação de exames abaixo melhor avalia a hemostasia primária?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tempo de protrombina, avaliação da função plaquetária, dosagem de fator VIII."
+      },
+      {
+        "letra": "B",
+        "texto": "Contagem de plaquetas, tempo de tromboplastina parcial ativada, avaliação da função plaquetária."
+      },
+      {
+        "letra": "C",
+        "texto": "Tempo de protrombina, tempo de sangramento, contagem de plaquetas."
+      },
+      {
+        "letra": "D",
+        "texto": "Contagem de plaquetas, tempo de sangramento, avaliação da função plaquetária."
+      },
+      {
+        "letra": "E",
+        "texto": "Contagem de plaquetas, tempo de tromboplastina parcial ativada, tempo de protrombina."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104831,
+    "tags": [],
+    "enunciado": "Um jovem de 20 anos procura atendimento na emergência devido à hemartrose de joelhos. Realizados exames laboratoriais, revelaram os seguintes resultados: Tempo de ativação da protrombina (TAP) e INR sem alterações. Tempo de Tromboplastina Parcial Ativado (TPPa): 60 segundos; controle: 30 segundos. Contagem de plaquetas: 300.000/mm³. Assinale a alternativa que descreve qual etapa da hemostasia se encontra mais alterada e um possível causador do problema:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hemostasia primária por redução da atividade plaquetária."
+      },
+      {
+        "letra": "B",
+        "texto": "Hemostasia primária por redução absoluta na quantidade de plaquetas."
+      },
+      {
+        "letra": "C",
+        "texto": "Hemostasia secundária por deficiência de fator VII."
+      },
+      {
+        "letra": "D",
+        "texto": "Hemostasia secundária por deficiência de fator VIII."
+      },
+      {
+        "letra": "E",
+        "texto": "Hemostasia secundária por deficiência de fator X."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104832,
+    "tags": [],
+    "enunciado": "Observe a imagem a seguir e assinale a alternativa que faz de forma correta as correlações entre letras em preto e fatores de coagulação nas vias da hemostasia secundária:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A - Fator VII; B - Fator IX; C - Fator Xa; D - Fibrina."
+      },
+      {
+        "letra": "B",
+        "texto": "A - Fator IX; B - Fator Xa; C - Fibrina; D - Fator VII."
+      },
+      {
+        "letra": "C",
+        "texto": "A - Fator VII; B - Fator Xa; C - Fator IX; D - Fibrina."
+      },
+      {
+        "letra": "D",
+        "texto": "A - Fibrina; B - Fator IX; C - Fator VII; D - Fator Xa."
+      },
+      {
+        "letra": "E",
+        "texto": "A - Fibrina; B - Fator VII; C - Fator Xa; D - Fator IX."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104833,
+    "tags": [],
+    "enunciado": "Seu Alberto tem 67 anos. Certo dia, apresentou um episódio de acidente vascular encefálico isquêmico (AVEi). Durante a investigação etiológica, um eletrocardiograma evidenciou ritmo de (cid:65)brilação atrial, presumidamente crônica e causadora da embolia que ocasionou o AVEi. A equipe médica responsável pelo atendimento chegou à conclusão de que não seria prudente reverter o ritmo cardíaco do paciente, e que compensaria mais submetê-lo à terapia anticoagulante para evitar formação de novos trombos e episódios de embolia. A medicação de escolha foi a varfarina, um antagonista da vitamina K. Qual dos exames laboratoriais e etapas da hemostasia a seguir provavelmente apresentarão alteração durante o tratamento de Alberto com essa medicação?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Contagem de plaquetas e hemostasia primária."
+      },
+      {
+        "letra": "B",
+        "texto": "Tempo de protrombina e hemostasia secundária."
+      },
+      {
+        "letra": "C",
+        "texto": "Tempo de protrombina e hemostasia primária."
+      },
+      {
+        "letra": "D",
+        "texto": "Tempo de tromboplastina parcial ativada e hemostasia primária."
+      },
+      {
+        "letra": "E",
+        "texto": "Tempo de tromboplastina parcial ativada e hemostasia secundária."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104834,
+    "tags": [],
+    "enunciado": "Arthur tem 9 anos, e vem ao pronto-socorro apresentando um aumento importante do joelho esquerdo. Seu pai conta que o paciente bateu o joelho contra o chão ao tropeçar enquanto corria, há cerca de um dia. Também refere que, tanto ele quanto seu (cid:65)lho, sempre tiveram problemas com sangramentos, de forma que “qualquer coisinha vira uma catástrofe”. A punção da articulação do joelho de Arthur revelou grande quantidade de sangue no local. Além disso, um exame de análise de urina revelou hematúria microscópica. Considerando seus conhecimentos sobre hemostasia, qual dos exames laboratoriais a seguir provavelmente apresentará alteração e qual capacidade de hemostasia de Arthur se encontra mais alterada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Contagem de plaquetas e hemostasia primária."
+      },
+      {
+        "letra": "B",
+        "texto": "Contagem de plaquetas e hemostasia secundária."
+      },
+      {
+        "letra": "C",
+        "texto": "Tempo de protrombina e hemostasia primária."
+      },
+      {
+        "letra": "D",
+        "texto": "Tempo de tromboplastina parcial ativada e hemostasia primária."
+      },
+      {
+        "letra": "E",
+        "texto": "Tempo de tromboplastina parcial ativada e hemostasia secundária."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 104835,
+    "tags": [],
+    "enunciado": "Melissa tem 32 anos e procura atendimento no pronto-socorro preocupada com o surgimento espontâneo de múltiplas petéquias pelo corpo há cerca de 1 semana. Além disso, refere que notou aumento importante no (cid:78)uxo menstrual este mês. Não apresentou febre, dores ou quaisquer outros sintomas. O exame físico não revela alterações além de petéquias distribuídas por todo o corpo, especialmente em membros inferiores. No entanto, ao examinar a cavidade oral da paciente, notou-se focos de sangramento gengival. Considerando seus conhecimentos sobre hemostasia, qual dos exames laboratoriais a seguir provavelmente apresentará alteração e qual capacidade de hemostasia de Melissa se encontra mais alterada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Contagem de plaquetas e hemostasia primária."
+      },
+      {
+        "letra": "B",
+        "texto": "Contagem de plaquetas e hemostasia secundária."
+      },
+      {
+        "letra": "C",
+        "texto": "Tempo de protrombina e hemostasia primária."
+      },
+      {
+        "letra": "D",
+        "texto": "Tempo de protrombina e hemostasia secundária."
+      },
+      {
+        "letra": "E",
+        "texto": "Tempo de tromboplastina parcial ativada e hemostasia secundária."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104836,
+    "tags": [],
+    "enunciado": "Cássio, um paciente de 43 anos, é etilista crônico e consome cerca de 60 g de álcool por dia em destilados. Há cerca de 2 meses, notou que está (cid:65)cando “amarelado”, além de sentir que sua barriga aumentou bastante. Ao exame físico, apresenta edema tibial de 3+/4+, bilateral e depressível, macicez móvel de decúbito presente, ginecomastia e presença de múltiplas telangiectasias em tronco. Considerando seus conhecimentos sobre patologia, qual(is) é(são) o(s) principal(is) mecanismo(s) envolvido(s) na gênese do edema no abdome deste paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Redução da pressão coloidosmótica, somente."
+      },
+      {
+        "letra": "B",
+        "texto": "Aumento da pressão hidrostática, somente."
+      },
+      {
+        "letra": "C",
+        "texto": "Obstrução linfática, somente."
+      },
+      {
+        "letra": "D",
+        "texto": "Redução da pressão coloidosmótica + obstrução linfática."
+      },
+      {
+        "letra": "E",
+        "texto": "Redução da pressão coloidosmótica + aumento da pressão hidrostática."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 104837,
+    "tags": [],
+    "enunciado": "Sheila tem 37 anos e foi submetida a uma gastroplastia em Y de Roux para tratamento de uma síndrome metabólica e obesidade grau II. No 2º dia de pós-operatório, começou a queixar-se de dor no membro inferior esquerdo. Ao exame físico, havia evidente assimetria entre as panturrilhas, com a do lado esquerdo visivelmente edemaciada 2+/4+, com hiperemia na pele sobrejacente e dor à palpação local. Membro inferior direito sem alterações dignas de nota. Qual alternativa traz a combinação correta dos principais mecanismos envolvidos no edema apresentado pela paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aumento da pressão hidrostática e redução da pressão coloidosmótica."
+      },
+      {
+        "letra": "B",
+        "texto": "Aumento da pressão hidrostática e inflamação local."
+      },
+      {
+        "letra": "C",
+        "texto": "Inflamação local e redução da pressão coloidosmótica."
+      },
+      {
+        "letra": "D",
+        "texto": "Obstrução linfática e redução da pressão coloidosmótica."
+      },
+      {
+        "letra": "E",
+        "texto": "Inflamação local e obstrução linfática."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104838,
+    "tags": [],
+    "enunciado": "Miguel tem 6 anos, e vem ao pronto-socorro devido a quadro de edema generalizado. A mãe conta que ele acordou esta manhã com a “cara toda inchada”, e que o xixi está bem escuro e em pouquíssima quantidade. Você nota que o paciente está bastante apreensivo perguntando se “vai tomar vacina”, e a mãe refere que na última vez que veio ao médico (há 14 dias), Miguel foi tratado com penicilina G benzatina após receber o diagnóstico de faringite estreptocócica. Ao exame físico, apresenta pressão arterial acima do p95, pulsos cheios e simétricos, edema bipalpebral e de membros inferiores de 3+/4+. Considerando seus conhecimentos sobre patologia, qual é o principal mecanismo envolvido na gênese do edema deste paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Redução da pressão coloidosmótica."
+      },
+      {
+        "letra": "B",
+        "texto": "Aumento da pressão hidrostática."
+      },
+      {
+        "letra": "C",
+        "texto": "Obstrução linfática."
+      },
+      {
+        "letra": "D",
+        "texto": "Eliminação de sódio e água."
+      },
+      {
+        "letra": "E",
+        "texto": "Processo inflamatório generalizado."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104839,
+    "tags": [],
+    "enunciado": "Simone tem 53 anos. Ao realizar a mamogra(cid:65)a para rastreio de câncer de mama, foi evidenciado um nódulo espiculado de 3 cm no quadrante superolateral do seio esquerdo. Foi submetida à biópsia com agulha grossa, que con(cid:65)rmou o diagnóstico de carcinoma ductal. Na pesquisa de linfonodos sentinelas, houve acometimento de toda a cadeia linfonodal da axila esquerda, e indicado o esvaziamento axilar. Cerca de 2 meses após o procedimento de esvaziamento axilar, passou em consulta de retorno com o seu mastologista, queixando-se de inchaço no braço esquerdo. Ao exame físico, havia evidente assimetria entre os membros superiores, sendo que o braço esquerdo apresentava um edema duro generalizado, e o direito não tinha alterações clínicas signi(cid:65)cativas. Considerando seus conhecimentos sobre patologia, qual é o principal mecanismo envolvido na gênese do edema dessa paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Redução da pressão coloidosmótica."
+      },
+      {
+        "letra": "B",
+        "texto": "Aumento da pressão hidrostática."
+      },
+      {
+        "letra": "C",
+        "texto": "Obstrução linfática."
+      },
+      {
+        "letra": "D",
+        "texto": "Retenção de sódio e água."
+      },
+      {
+        "letra": "E",
+        "texto": "Processo inflamatório generalizado."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104840,
+    "tags": [],
+    "enunciado": "Enzo Gabriel tem 4 anos. Vem ao pronto-socorro apresentando quadro de edema generalizado. A mãe refere que o paciente teve um resfriado há cerca de 10 dias, e que o inchaço surgiu nos últimos 3 dias. Ao exame físico, o paciente encontra-se em bom estado geral, hidratado, pulsos radiais cheios, pressão arterial entre p10 e p50, edema 4+/4+ generalizado (face, extremidades, bolsa escrotal e ascite). Ao ser questionada sobre a urina do paciente, a mãe refere que a cor e volume estão normais, porém notou grande quantidade de espuma no vaso sanitário após as micções do paciente. O exame em (cid:65)ta de proteinúria revelou resultado de 3+/4+. Considerando seus conhecimentos sobre patologia, qual é o principal mecanismo envolvido na gênese do edema deste paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Redução da pressão coloidosmótica."
+      },
+      {
+        "letra": "B",
+        "texto": "Aumento da pressão hidrostática."
+      },
+      {
+        "letra": "C",
+        "texto": "Obstrução linfática."
+      },
+      {
+        "letra": "D",
+        "texto": "Eliminação de sódio e água."
+      },
+      {
+        "letra": "E",
+        "texto": "Processo inflamatório generalizado."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104841,
+    "tags": [],
+    "enunciado": "Ernesto tem 64 anos, e é portador de hipertensão arterial sistêmica. Hoje, procurou atendimento em unidade básica de saúde pois percebeu que seus sapatos não estão mais servindo. Ao conversar com o paciente, o médico descobriu que, nos últimos meses, seu Ernesto vem evoluindo com sensação de falta de ar aos esforços moderados, apresentando alguns episódios de despertar noturno com sensação de sufocamento, além de estar precisando de 3 travesseiros para conseguir dormir melhor. Ao exame físico, apresenta edema simétrico de membros inferiores 2+/4+ até altura dos joelhos, sem hiperemia da pele sobrejacente, e presença de B3 à ausculta cardíaca. Considerando seus conhecimentos sobre patologia, qual é a principal causa do edema do paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Redução da pressão coloidosmótica."
+      },
+      {
+        "letra": "B",
+        "texto": "Aumento da pressão hidrostática."
+      },
+      {
+        "letra": "C",
+        "texto": "Obstrução linfática."
+      },
+      {
+        "letra": "D",
+        "texto": "Eliminação de sódio e água."
+      },
+      {
+        "letra": "E",
+        "texto": "Processo inflamatório em pés."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104842,
+    "tags": [],
+    "enunciado": "Uma mulher de 73 anos, índice de massa corporal (IMC) de 16,5 kg/m², portadora de diabetes mellitus do tipo 2 insulinodependente e doença arterial obstrutiva crônica, precisou ser submetida a uma colecistectomia aberta de urgência devido a um quadro de colecistite aguda. Na recuperação pós-operatória, evoluiu com infecção de sítio cirúrgico. Foi observada dificuldade na cicatrização da ferida operatória. Dentre os fatores a seguir, qual deles não dificultou o processo cicatricial?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Diabetes mellitus."
+      },
+      {
+        "letra": "B",
+        "texto": "Doença arterial obstrutiva crônica."
+      },
+      {
+        "letra": "C",
+        "texto": "Infecção de sítio cirúrgico."
+      },
+      {
+        "letra": "D",
+        "texto": "IMC."
+      },
+      {
+        "letra": "E",
+        "texto": "Produção endógena de glicocorticoides em resposta ao trauma."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 104843,
+    "tags": [],
+    "enunciado": "Um homem de 33 anos foi vítima de queimadura com álcool ao tentar acender uma churrasqueira. Chegou ao pronto-socorro apresentando queimaduras de 2º grau em toda a face anterior do antebraço direito. Foi realizado desbridamento da ferida, de forma que a derme profunda conseguiu ser preservada. Cerca de 4 dias após a lesão, qual achado no ferimento indica presença de boa evolução do processo cicatricial?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Presença de tecido de granulação."
+      },
+      {
+        "letra": "B",
+        "texto": "Remodelamento das fibras de colágeno."
+      },
+      {
+        "letra": "C",
+        "texto": "Processo inflamatório significativo."
+      },
+      {
+        "letra": "D",
+        "texto": "Surgimento de focos de necrose devido à ação macrofágica."
+      },
+      {
+        "letra": "E",
+        "texto": "Presença abundante de exsudação."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104844,
+    "tags": [],
+    "enunciado": "Dentre os casos a seguir, em qual deles não será possível observar a regeneração do tecido acometido?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Paciente de 13 anos que, durante tarde ensolarada na praia, apresentou queimaduras de 1º grau."
+      },
+      {
+        "letra": "B",
+        "texto": "Paciente de 43 anos que apresentou crise de hemólise autoimune por atividade de lúpus eritematoso sistêmico."
+      },
+      {
+        "letra": "C",
+        "texto": "Paciente de 2 anos que apresentou quadro de gastroenterocolite por infecção pelo rotavírus."
+      },
+      {
+        "letra": "D",
+        "texto": "Paciente de 35 anos que, durante terapia imunossupressora para tratamento de artrite reumatoide, apresentou um abscesso hepático."
+      },
+      {
+        "letra": "E",
+        "texto": "Paciente de 18 anos que, após inalar fumaça em um ambiente incendiado, apresentou queimaduras restritas à mucosa das vias aéreas."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104845,
+    "tags": [],
+    "enunciado": "Homem de 56 anos, obeso e tabagista, procurou atendimento em pronto-socorro devido à queixa de dor torácica com irradiação para mandíbula, sudorese e náuseas, com início há 8 horas. Foi diagnosticado com infarto agudo transmural do miocárdio e, mesmo sendo submetido à trombólise química, evoluiu com área extensa de (cid:65)brose na parede anterior do ventrículo esquerdo. Em consulta de seguimento, assustado e determinado a mudar o estilo de vida, pergunta se caso comece a “se cuidar mais”, o coração voltará a ser como antes. Qual das afirmativas traz uma resposta adequada para o paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ao retirar o fator agressor (aterosclerose e obstrução de coronária), o miocárdio conseguirá passar por processo de regeneração e recuperar parte de sua função prévia."
+      },
+      {
+        "letra": "B",
+        "texto": "Ao retirar o fator agressor (aterosclerose e obstrução de coronária), o miocárdio conseguirá passar por processo de cicatrização e recuperar parte de sua função prévia."
+      },
+      {
+        "letra": "C",
+        "texto": "Infelizmente, uma vez instalado o processo de fibrose no coração, não há nada que possa ser feito além de evitar o desenvolvimento de novos focos de lesão."
+      },
+      {
+        "letra": "D",
+        "texto": "A presença de fibrose no miocárdio não afeta a função cardíaca. O problema é a perda das fibras de condução elétrica, de forma que o uso de um marca-passo está indicado."
+      },
+      {
+        "letra": "E",
+        "texto": "Além de controlar os fatores de risco, é possível utilizar medicações que aceleram o processo de regeneração miocárdica, a fim de recuperar a função do segmento afetado."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104846,
+    "tags": [],
+    "enunciado": "Uma criança de 6 anos estava brincando com um gato e, ao apertar a cauda do bichano, levou uma bela de uma unhada no rosto. Foi prontamente levada à UBS do bairro para que o ferimento fosse avaliado. O médico, ao examinar, constatou que se tratava de um ferimento bastante super(cid:65)cial, com rompimento parcial da epiderme, apenas. Preocupada, a mãe perguntou se a cicatriz (cid:65)caria muito “feia”. Considerando que você é o médico nessa situação, qual seria a resposta mais adequada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O ferimento foi superficial, de forma que a regeneração plena é possível, processo que não deixa cicatriz caso não ocorra nenhuma complicação."
+      },
+      {
+        "letra": "B",
+        "texto": "Caso seja realizada sutura do ferimento, o risco de cicatriz diminui consideravelmente."
+      },
+      {
+        "letra": "C",
+        "texto": "A cicatriz nessa situação é inevitável, tendo em vista o grau de contaminação da lesão."
+      },
+      {
+        "letra": "D",
+        "texto": "Deve ser estudada a possibilidade de um retalho de pele no local desse ferimento, dado o grau de contaminação do ferimento."
+      },
+      {
+        "letra": "E",
+        "texto": "Se o ferimento for mantido limpo com álcool 70% ou outra solução degermante nos próximos 7 a 10 dias, a cicatrização ocorrerá sem problemas."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104847,
+    "tags": [],
+    "enunciado": "Paciente de 17 anos, sexo feminino, há 4 dias apresenta quadro de dor abdominal, inapetência, febre baixa intermitente e vômitos. Conta que a dor iniciou ao redor do umbigo, mas aponta que agora está localizada na fossa ilíaca direita. Ao exame físico, apresenta dor à descompressão brusca em fossa ilíaca direita. Em dúvida, o médico resolveu solicitar um hemograma com diferencial de leucócitos para melhor avaliação do caso, além da dosagem sérica de proteína C-reativa. Qual alternativa traz as alterações sistêmicas causadas pelo processo inflamatório em questão?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aumento do número total de leucócitos, com predomínio linfomonocitário."
+      },
+      {
+        "letra": "B",
+        "texto": "Redução da proteína C-reativa devido consumo dessa substância pelas células envolvidas no processo inflamatório."
+      },
+      {
+        "letra": "C",
+        "texto": "Presença significativa de formas mais imaturas de neutrófilos."
+      },
+      {
+        "letra": "D",
+        "texto": "Febre baixa e dor em fossa ilíaca direita."
+      },
+      {
+        "letra": "E",
+        "texto": "Redução da frequência cardíaca e pressão arterial."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104848,
+    "tags": [],
+    "enunciado": "Paciente de 34 anos, morador de área livre e etilista, procura atendimento médico referindo perda de peso, tosse produtiva e febre vespertina nos últimos 2 meses. Considerando seus conhecimentos acerca de patologia e o processo de inflamação, identifique a alternativa incorreta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nessa situação, é esperado que o padrão de inflamação seja granulomatoso."
+      },
+      {
+        "letra": "B",
+        "texto": "O infiltrado celular no local da inflamação deve contar, principalmente, com células linfomonocitárias."
+      },
+      {
+        "letra": "C",
+        "texto": "A presença de corpos estranhos pode ocasionar uma resposta inflamatória com características em comum."
+      },
+      {
+        "letra": "D",
+        "texto": "Linfócitos T são células que, no geral, não são observadas na fase aguda da inflamação; porém, são cruciais em processos inflamatórios crônicos."
+      },
+      {
+        "letra": "E",
+        "texto": "O achado histopatológico de granulomas é patognomônico para infecção por tuberculose."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 104849,
+    "tags": [],
+    "enunciado": "Num belo dia de folga, você prepara-se para revisar a matéria de Patologia Geral. Eis que, ao aproximar-se de sua velha mesa de estudos, um passo desatento faz com que você chute a quina da mesa com o dedinho do pé esquerdo (ou 5º pododáctilo, caso seja mais técnico). Depois de proferir algumas palavras de indignação, você olha para o seu pelo dedinho e nota que ele está inchado e vermelho, e com uma pequena farpa de madeira cravada sob sua unha. Na força da prática, seu conhecimento sobre processos inflamatórios agudos vem à sua mente. Qual das informações a seguir está incorreta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A lesão celular provocada pelo trauma local liberou sinalizadores que deram início ao processo inflamatório."
+      },
+      {
+        "letra": "B",
+        "texto": "A resposta inflamatória iniciou-se com a dilatação de pequenos vasos, o que reduziu a velocidade do fluxo sanguíneo e tornou o local do trauma hiperemiado (i.e., avermelhado)."
+      },
+      {
+        "letra": "C",
+        "texto": "Para que os leucócitos e as proteínas de defesa chegassem no tecido lesado, ocorreu uma redução da permeabilidade vascular no 5º pododáctilo."
+      },
+      {
+        "letra": "D",
+        "texto": "O edema local deve-se ao acúmulo de líquido, células de defesa e proteínas no interstício. O composto, nesse caso, recebe o nome de exsudato."
+      },
+      {
+        "letra": "E",
+        "texto": "Os leucócitos, principalmente os neutrófilos, são as primeiras células de defesa a emigrar em grande número dos vasos sanguíneos para o 5º pododáctilo."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104850,
+    "tags": [],
+    "enunciado": "Você está de plantão no pronto-socorro e recebe os seguintes pacientes: Paciente A: jovem de 23 anos que está com tosse produtiva, febre persistente de 39,2oC, dor ventilatório- dependente em base de hemitórax esquerdo e abolição da ausculta dos murmúrios vesiculares no local. Refere início dos sintomas há pouco mais de dois dias. Paciente B: homem de 43 anos que está com tosse produtiva, febre vespertina de cerca de 38oC, discreta dor ventilatório-dependente em base de hemitórax esquerdo e abolição da ausculta dos murmúrios vesiculares no local. Refere início dos sintomas há 5 semanas. Apesar de o conjunto de sintomas ser bastante semelhantes, a diferença na duração das queixas faz você pensar em problemas distintos para os pacientes. Imagine que você, através de uma supervisão microscópica, consiga olhar de perto o processo in(cid:78)amatório que está ocorrendo nos pulmões de ambos os pacientes. Qual alternativa traz a descrição incorreta para o caso?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O paciente A apresenta uma reação inflamatória aguda, e o infiltrado celular será predominantemente neutrofílico."
+      },
+      {
+        "letra": "B",
+        "texto": "Caso o sistema imunológico do paciente A não seja capaz de eliminar totalmente o agente agressor, há possibilidade de cronificação da inflamação."
+      },
+      {
+        "letra": "C",
+        "texto": "O paciente B apresenta uma reação inflamatória cronificada, e o infiltrado celular será composto predominantemente por monócitos e linfócitos."
+      },
+      {
+        "letra": "D",
+        "texto": "O paciente B tende a apresentar sintomas sistêmicos mais intensos, porém, a destruição tecidual tende a ser mais contida."
+      },
+      {
+        "letra": "E",
+        "texto": "O processo inflamatório observado no paciente B iniciou com infiltrado neutrofílico."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104851,
+    "tags": [],
+    "enunciado": "O envelhecimento celular é resultado do declínio progressivo da função e viabilidade celulares causado por anormalidades genéticas e acúmulo de danos moleculares e celulares, devido aos efeitos da exposição a in(cid:78)uências exógenas e intrínsecas das células. São três os principais mecanismos envolvidos no envelhecimento celular: mutações, perda celular e redução de função celular. Assinale a alternativa que melhor relaciona o mecanismo com a sua causa: 1- Mutações. 2- Perda celular. 3- Redução da função celular. A-Redução de quantidade e qualidade de proteínas. B- Dano ao DNA. C- Encurtamento de telômeros.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1A - 2B - 3C."
+      },
+      {
+        "letra": "B",
+        "texto": "1B - 2C - 3A."
+      },
+      {
+        "letra": "C",
+        "texto": "1A- 2C - 3B."
+      },
+      {
+        "letra": "D",
+        "texto": "1B - 2A - 3C."
+      },
+      {
+        "letra": "E",
+        "texto": "1C - 2A - 3B."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104852,
+    "tags": [],
+    "enunciado": "Um paciente de 32 anos, usuário de drogas injetáveis, procura atendimento no pronto-socorro devido à sensação de falta de ar e tosse há 15 dias, com piora progressiva. Notou que, nos últimos meses, vem perdendo peso. Ao exame físico, apresenta-se dispneico, com saturação de oxigênio de 88% em ar ambiente, porém, com ausculta respiratória sem alterações; além disso, a cavidade oral apresenta achados sugestivos de candidíase. A radiografia e a tomografia pulmonares revelaram as seguintes imagens: Fonte: Arquivos Estratégia Med. Diante da suspeita de imunossupressão, o médico plantonista solicitou um teste rápido de HIV (vírus da imunode(cid:65)ciência humana), que apresentou resultado positivo. Após estabilização inicial e con(cid:65)rmação da infecção pelo HIV, a contagem de linfócitos CD4+ do paciente foi de 250 células/mm³ (sendo o valor de referência do laboratório 500 células/mm³). Com base nos seus conhecimentos sobre patologia, qual é o principal mecanismo de morte celular desencadeado pelo vírus do HIV nos linfócitos T CD4?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Necrose coagulativa."
+      },
+      {
+        "letra": "B",
+        "texto": "Apoptose por via intrínseca."
+      },
+      {
+        "letra": "C",
+        "texto": "Necrose caseosa."
+      },
+      {
+        "letra": "D",
+        "texto": "Apoptose por via extrínseca."
+      },
+      {
+        "letra": "E",
+        "texto": "Necrose fibrinoide."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104853,
+    "tags": [],
+    "enunciado": "A apoptose é conhecida como a morte celular programada. Trata-se de uma morte celular muito planejada, caracterizada pela dissolução nuclear, fragmentação da célula sem perda completa da integridade da membrana, e rápida remoção dos restos celulares por fagócitos, impedindo, assim, o despertar de uma reação in(cid:78)amatória. Apesar de planejada e geralmente ocorrer em situações (cid:65)siológicas, existem condições patológicas que podem induzir apoptose em uma célula. Dentre as alternativas a seguir, qual delas aponta uma situação estritamente patológica?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Involução de tecidos hormônio-dependentes sob privação de hormônios."
+      },
+      {
+        "letra": "B",
+        "texto": "Eliminação de linfócitos autorreativos potencialmente nocivos."
+      },
+      {
+        "letra": "C",
+        "texto": "Eliminação de células específicas durante a embriogênese."
+      },
+      {
+        "letra": "D",
+        "texto": "Eliminação de células que já cumpriram sua atividade funcional."
+      },
+      {
+        "letra": "E",
+        "texto": "Eliminação de células infectadas por certos tipos de vírus."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 104854,
+    "tags": [],
+    "enunciado": "A necrose é o processo desordenado de morte celular, e costuma ocorrer quando a célula sofre alguma agressão intensa e/ou persistente o su(cid:65)ciente para vencer os mecanismos de adaptação celular. Existem vários agentes que podem ocasionar a necrose de uma célula: agentes físicos, químicos, hipóxia, de(cid:65)ciência nutricional, agentes biológicos etc. Mas, independentemente da causa, existem alterações na morfo(cid:65)siologia da célula que passou pelo processo de necrose que são comuns. Dentre as alternativas a seguir, qual não apresenta um mecanismo envolvido no processo de necrose?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Alteração na produção de adenosina-trifosfato (ATP)."
+      },
+      {
+        "letra": "B",
+        "texto": "Alterações mitocondriais."
+      },
+      {
+        "letra": "C",
+        "texto": "Efluxo do cálcio intracelular."
+      },
+      {
+        "letra": "D",
+        "texto": "Formação de radicais livres."
+      },
+      {
+        "letra": "E",
+        "texto": "Alterações na permeabilidade da membrana celular."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104855,
+    "tags": [],
+    "enunciado": "Joaquim tem 72 anos, é sabidamente portador de hipertensão arterial sistêmica, mas nega-se a tomar as medicações pois “não sente nada”. Certo dia, ao acordar, notou que estava com uma ligeira di(cid:65)culdade para mexer o braço esquerdo e, ao tentar tomar seu café, notou que o líquido escorreu pelo canto da boca. Estranhou a situação e foi até o banheiro para se limpar. Ao olhar-se no espelho, percebeu que, segundo suas próprias palavras, “sua cara estava torta”. Buscou atendimento no pronto-socorro, e foi submetido à uma tomografia de crânio sem contraste devido a suspeita de acidente vascular encefálico: Fonte: Arquivos Estratégia Med. Ao analisar a imagem, o médico (cid:65)cou surpreso com a preservação do nível de consciência de seu Joaquim, que estava apenas um pouco confuso e com di(cid:65)culdade de obedecer a comandos. Foi concluído que o paciente foi vítima de um acidente vascular encefálico isquêmico em território de artéria cerebral média. Considerando o caso clínico, qual seria o padrão de necrose tecidual esperado caso a área acometida do cérebro de Joaquim fosse submetida a um estudo anatomopatológico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Necrose caseosa."
+      },
+      {
+        "letra": "B",
+        "texto": "Necrose liquefativa."
+      },
+      {
+        "letra": "C",
+        "texto": "Necrose gordurosa."
+      },
+      {
+        "letra": "D",
+        "texto": "Necrose coagulativa."
+      },
+      {
+        "letra": "E",
+        "texto": "Necrose fibrinoide."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104856,
+    "tags": [],
+    "enunciado": "Miguel, paciente de 8 anos, deu entrada no pronto-socorro com desconforto respiratório, febre e tosse com catarro. A mãe refere que o quadro iniciou há 5 dias, mas que hoje piorou muito, sendo que o paciente recusa qualquer tipo de alimento e tem a respiração bastante rápida e ofegante. Rapidamente, o médico plantonista pensou na possibilidade de uma pneumonia bacteriana, e solicitou uma radiografia de tórax: Fonte: Arquivos Estratégia Med. Diante do quadro clínico e dos achados radiológicos, o médico solicitou a internação do paciente para tratamento de uma pneumonia bacteriana adquirida em comunidade com sinais de gravidade. Considerando o caso clínico, qual seria o padrão de necrose tecidual esperado caso o pulmão do Miguel fosse submetido a um estudo anatomopatológico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Necrose caseosa."
+      },
+      {
+        "letra": "B",
+        "texto": "Necrose liquefativa."
+      },
+      {
+        "letra": "C",
+        "texto": "Necrose gordurosa."
+      },
+      {
+        "letra": "D",
+        "texto": "Necrose coagulativa."
+      },
+      {
+        "letra": "E",
+        "texto": "Necrose fibrinoide."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104857,
+    "tags": [],
+    "enunciado": "Paciente de 38 anos, sexo feminino, obesa, evoluiu com quadro de dor em hipocôndrio direito, náuseas e vômitos, além de icterícia de caráter (cid:78)utuante. Com cerca de 24 horas de evolução, a dor assumiu localização em todo andar superior do abdome, com irradiação para as costas, e as náuseas e vômitos tornaram-se mais intensos. Em análise laboratorial, observou-se grande aumento de lipase e amilase sérica, o que fechou o diagnóstico de pancreatite aguda. Com cerca de 36 horas de evolução, a paciente apresentou piora importante do estado geral, e houve surgimento de equimoses em (cid:78)ancos e em região periumbilical, além de sinais clínicos sugestivos de peritonite difusa. Considerando o caso clínico, qual seria o padrão de necrose tecidual esperado caso o peritônio da paciente fosse submetido a um estudo anatomopatológico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Necrose caseosa."
+      },
+      {
+        "letra": "B",
+        "texto": "Necrose liquefativa."
+      },
+      {
+        "letra": "C",
+        "texto": "Necrose gordurosa."
+      },
+      {
+        "letra": "D",
+        "texto": "Necrose coagulativa."
+      },
+      {
+        "letra": "E",
+        "texto": "Necrose fibrinoide."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104858,
+    "tags": [],
+    "enunciado": "Paciente do sexo masculino, 43 anos, tabagista e morador de área livre, comparece a consulta de pronto atendimento referindo que há 3 semanas iniciou quadro de tosse produtiva, febre baixa no (cid:65)nal da tarde e sudorese noturna. Além disso, notou que perdeu alguns quilos. Realizou-se radiogra(cid:65)a de tórax, que evidenciou o seguinte aspecto: Fonte: Arquivos Estratégia Med. Considerando o caso clínico, qual seria o padrão de necrose tecidual esperado caso o pulmão do paciente fosse submetido a um estudo anatomopatológico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Necrose caseosa."
+      },
+      {
+        "letra": "B",
+        "texto": "Necrose liquefativa."
+      },
+      {
+        "letra": "C",
+        "texto": "Necrose gordurosa."
+      },
+      {
+        "letra": "D",
+        "texto": "Necrose coagulativa."
+      },
+      {
+        "letra": "E",
+        "texto": "Necrose fibrinoide."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104859,
+    "tags": [],
+    "enunciado": "Paciente do sexo masculino, 61 anos, tabagista de longa data e obeso, dá entrada no pronto-socorro com queixa de dor no peito, sudorese, parestesia em membros superiores e náuseas iniciados há cerca de 90 minutos. Foi diagnosticado com infarto agudo do miocárdio e submetido a terapia de reperfusão. Cerca de uma semana após o episódio, realizou um estudo eletrocardiográ(cid:65)co que evidenciou áreas de inatividade miocárdica. Caso a área acometida do coração do paciente fosse submetida a um estudo anatomopatológico, qual padrão de necrose tecidual esperaríamos encontrar?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Necrose caseosa."
+      },
+      {
+        "letra": "B",
+        "texto": "Necrose liquefativa."
+      },
+      {
+        "letra": "C",
+        "texto": "Necrose gordurosa."
+      },
+      {
+        "letra": "D",
+        "texto": "Necrose coagulativa."
+      },
+      {
+        "letra": "E",
+        "texto": "Necrose fibrinoide."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104860,
+    "tags": [],
+    "enunciado": "É sabido que, diante de um quadro de lesão celular por qualquer agente que seja, uma série de alterações bioquímicas e morfológicas instala-se na célula. Quando a lesão se torna irreversível, há evolução para morte celular. Dentre os itens estruturais e funcionais a seguir, qual é o primeiro a ser alterado num quadro de lesão celular?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Morfologia macroscópica."
+      },
+      {
+        "letra": "B",
+        "texto": "Equilíbrio bioquímico celular."
+      },
+      {
+        "letra": "C",
+        "texto": "Ultraestrutura celular."
+      },
+      {
+        "letra": "D",
+        "texto": "Morfologia microscópica."
+      },
+      {
+        "letra": "E",
+        "texto": "Função celular."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 104861,
+    "tags": [],
+    "enunciado": "Ao sair da aula de patologia na faculdade, Leonardo e João Paulo perceberam que se distraíram no celular durante a explicação do processo de morte celular. Então, começaram a discutir: Leonardo: ̶ Cara, a apoptose acontece quando a célula sofre uma lesão irreversível e acaba morrendo, liberando seu conteúdo intracelular para o meio extracelular e deixando a bagunça para o sistema imunológico limpar através de um processo inflamatório. E necrose não tem inflamação, tenho certeza! João Paulo: ̶ Não viaja, mano! As duas coisas são sinônimos, “tava” até no mesmo slide! Nesse momento, os dois se viram para você e perguntam quem está certo. Você, que estava sem bateria no celular e foi obrigado a prestar atenção na aula inteira, responde que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "João está certo, pois necrose e apoptose tem o mesmo significado teórico e prático."
+      },
+      {
+        "letra": "B",
+        "texto": "Leonardo está certo, pois trouxe a definição de apoptose. João está errado, pois necrose e apoptose são processos distintos de morte celular."
+      },
+      {
+        "letra": "C",
+        "texto": "Leonardo está errado, pois descreveu a apoptose citando as características da necrose. João também está errado, pois necrose e apoptose são processos distintos."
+      },
+      {
+        "letra": "D",
+        "texto": "Ambos estão certos, pois a definição de apoptose trazida por Leonardo também pode ser usada para descrever a necrose, que são sinônimos na prática."
+      },
+      {
+        "letra": "E",
+        "texto": "Leonardo está errado somente ao afirmar que há um processo inflamatório na apoptose. João também está errado, pois necrose e apoptose são processos distintos."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104862,
+    "tags": [],
+    "enunciado": "Paciente do sexo masculino, 61 anos, tabagista de longa data e obeso, dá entrada no pronto-socorro com queixa de dor no peito, sudorese, parestesia em membros superiores e náuseas iniciados há cerca de 50 minutos. A dor iniciou após o almoço com a família, em uma festa. Rapidamente, a equipe de atendimento realizou um eletrocardiograma e, ao interpretá-lo, deu o diagnóstico de um infarto agudo do miocárdio transmural ̶ condição em que há interrupção do (cid:78)uxo de sangue para as células do coração. Das causas de lesão celular citadas a seguir, qual é que mais se relaciona com o quadro atual do paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Lesão por privação de oxigênio, por isquemia."
+      },
+      {
+        "letra": "B",
+        "texto": "Lesão por agente físico, por obstrução mecânica da artéria coronária."
+      },
+      {
+        "letra": "C",
+        "texto": "Lesão por agente químico, devido ao tabagismo."
+      },
+      {
+        "letra": "D",
+        "texto": "Lesão por reação imunológica, devido à inflamação intensa e descoordenada no coração."
+      },
+      {
+        "letra": "E",
+        "texto": "Lesão por desequilíbrio nutricional, devido à refeição em excesso e à obesidade."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104863,
+    "tags": [],
+    "enunciado": "A metaplasia é uma alteração reversível na qual uma célula já diferenciada assume outro fenótipo. Geralmente, ocorre em situações em que há um estresse crônico imposto sobre determinado tipo celular, que se vê obrigada a se tornar mais resistente através de modi(cid:65)cações fenotípicas. Um exemplo clássico de metaplasia ocorre nas vias respiratórias (traqueia e brônquios) de pacientes tabagistas, em que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O epitélio escamoso estratificado nativo é substituído por um epitélio colunar ciliado, que é mais eficiente na depuração da fuligem inalada durante o ato de fumar, facilitando a higiene das vias aéreas."
+      },
+      {
+        "letra": "B",
+        "texto": "O epitélio escamoso estratificado nativo é substituído por um epitélio cúbico, que é mais eficiente na depuração da fuligem inalada durante o ato de fumar, facilitando a higiene das vias aéreas."
+      },
+      {
+        "letra": "C",
+        "texto": "O epitélio colunar ciliado nativo é substituído por um epitélio escamoso estratificado que, apesar de ser mais resistente à agressão da fumaça do cigarro, tem menor capacidade de depuração mucociliar."
+      },
+      {
+        "letra": "D",
+        "texto": "O epitélio colunar ciliado nativo é substituído por um epitélio cilíndrico simples, no intuito de aumentar a produção de muco e facilitar a higiene das vias aéreas."
+      },
+      {
+        "letra": "E",
+        "texto": "O epitélio cúbico nativo é substituído por um epitélio colunar ciliado, que é o mais resistente contra a agressão direta promovida pela fumaça do cigarro."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104864,
+    "tags": [],
+    "enunciado": "Aos 56 anos, um paciente buscou atendimento médico com queixa de perda de peso progressiva, dor abdominal e náuseas intermitentes há cerca de 3 meses. Em investigação, foi diagnosticado com um carcinoma hepatocelular no lobo hepático esquerdo devido a uma infecção pelo vírus da hepatite B. Por preencher os critérios de indicação para o tratamento, foi submetido a uma hepatectomia esquerda, e considerado curado da neoplasia. Preocupado com a “perda” de boa porção de seu fígado, o paciente questiona se ele terá algum problema com o funcionamento do órgão devido à redução do tamanho. O médico responde que, a longo prazo:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O paciente terá sintomas sugestivos de insuficiência hepática, devido ao processo de atrofia que ocorrerá no tecido remanescente do fígado."
+      },
+      {
+        "letra": "B",
+        "texto": "O paciente terá sintomas sugestivos de insuficiência hepática, devido ao processo de metaplasia que ocorrerá no tecido remanescente do fígado."
+      },
+      {
+        "letra": "C",
+        "texto": "O paciente não deve se preocupar, pois o tecido hepático remanescente é capaz de passar por um processo de hiperplasia e hipertrofia, compensando a função do segmento ressecado."
+      },
+      {
+        "letra": "D",
+        "texto": "O paciente não deve se preocupar, pois o tecido hepático remanescente é capaz de passar por um processo de displasia, compensando a função do segmento ressecado."
+      },
+      {
+        "letra": "E",
+        "texto": "O paciente terá sintomas sugestivos de insuficiência hepática, devido ao processo de hipertrofia que ocorrerá no tecido remanescente do fígado."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104865,
+    "tags": [],
+    "enunciado": "Uma paciente de 23 anos busca atendimento na Unidade Básica de Saúde com queixa de “verrugas” na região genital. Refere que as lesões surgiram há cerca de 3 semanas e estão aumentando progressivamente. Ao exame físico, observamos o seguinte achado: Fonte da imagem: apostila de doenças da vulva e vagina da prof.ª Monalisa (Estratégia MED). Em investigação, evidenciou-se que a paciente era portadora do HPV (papilomavírus humano). Considerando seus conhecimentos sobre mecanismos de adaptação celular, qual processo ocorreu no epitélio da vulva desta paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hiperplasia patológica."
+      },
+      {
+        "letra": "B",
+        "texto": "Atrofia fisiológica."
+      },
+      {
+        "letra": "C",
+        "texto": "Atrofia patológica."
+      },
+      {
+        "letra": "D",
+        "texto": "Metaplasia."
+      },
+      {
+        "letra": "E",
+        "texto": "Hiperplasia fisiológica."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104866,
+    "tags": [],
+    "enunciado": "Uma paciente de 56 anos comparece a consulta de rotina na Unidade Básica de Saúde referindo que está com di(cid:65)culdades durante as relações sexuais com o seu novo parceiro, pois sente que sua vagina está “muito seca” e sente dor durante a penetração. Alega que sua última menstruação aconteceu há 3 anos. Correlacionando esse caso clínico e seus conhecimentos sobre adaptação celular, o que provavelmente ocorreu no epitélio vaginal dessa paciente pode ser considerado uma:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hipertrofia."
+      },
+      {
+        "letra": "B",
+        "texto": "Atrofia fisiológica."
+      },
+      {
+        "letra": "C",
+        "texto": "Atrofia patológica."
+      },
+      {
+        "letra": "D",
+        "texto": "Metaplasia."
+      },
+      {
+        "letra": "E",
+        "texto": "Hiperplasia."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104867,
+    "tags": [],
+    "enunciado": "Uma paciente de 64 anos, diabética e hipertensa não controlada, foi infectada pela Covid-19 e desenvolveu um quadro bastante grave, sendo necessária ventilação mecânica e internação em UTI, onde permaneceu intubada por 22 dias. Quando a equipe da UTI percebeu que a paciente estava melhorando, foi realizado o teste da respiração espontânea. No entanto, ao ser extubada, rapidamente a paciente evoluiu com di(cid:65)culdade para respirar, e acabou tendo que ser intubada novamente. Qual foi o principal mecanismo de adaptação celular na musculatura respiratória da paciente que ocasionou essa di(cid:65)culdade em respirar sem ajuda do ventilador mecânico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hipertrofia."
+      },
+      {
+        "letra": "B",
+        "texto": "Atrofia fisiológica."
+      },
+      {
+        "letra": "C",
+        "texto": "Hiperplasia."
+      },
+      {
+        "letra": "D",
+        "texto": "Metaplasia."
+      },
+      {
+        "letra": "E",
+        "texto": "Atrofia patológica."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 104868,
+    "tags": [],
+    "enunciado": "Um homem de 46 anos, obeso e tabagista, procura atendimento na Unidade Básica de Saúde referindo sensação de queimação na “boca do estômago” e gosto amargo na boca há alguns meses. O médico, então, solicitou uma endoscopia digestiva alta para avaliar como estava o esôfago e o estômago do paciente. Durante a realização do exame, foi constatada a seguinte visão na transição entre o estômago e o esôfago: Fonte da imagem: apostila de DRGE do Prof. Elio Castro (Estratégia MED). O endoscopista, notando a alteração, realizou uma biópsia do tecido do esôfago e constatou que a peça apresentava, em vez do clássico epitélio escamoso esofágico, características de epitélio colunar com células caliciformes muito parecidas com a do intestino. Qual adaptação celular ocorreu neste cenário?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hipertrofia."
+      },
+      {
+        "letra": "B",
+        "texto": "Atrofia fisiológica."
+      },
+      {
+        "letra": "C",
+        "texto": "Hiperplasia."
+      },
+      {
+        "letra": "D",
+        "texto": "Metaplasia."
+      },
+      {
+        "letra": "E",
+        "texto": "Atrofia patológica."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104869,
+    "tags": [],
+    "enunciado": "Paciente do sexo masculino, 50 anos de idade, assintomático e previamente hígido, buscou atendimento de rotina na Unidade Básica de Saúde para “cuidar da saúde”. Durante a triagem do paciente, a equipe de enfermagem notou que o valor da pressão arterial do paciente estava em 180x110 mmHg. Assustada, a técnica de enfermagem perguntou se aquele era o valor normal da pressão do paciente e se ele tomava algum remédio para controlá-la. Ele respondeu que fazia alguns anos que a pressão sempre (cid:65)cava naquele valor, mas que nunca havia tomado nenhuma medicação, pois não sentia nada. Considerando os grandes níveis de pressão arterial com os quais o coração do paciente tem que lidar, qual adaptação celular é esperada caso seja feito um estudo anatomopatológico deste miocárdio?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hipertrofia."
+      },
+      {
+        "letra": "B",
+        "texto": "Atrofia."
+      },
+      {
+        "letra": "C",
+        "texto": "Hiperplasia."
+      },
+      {
+        "letra": "D",
+        "texto": "Metaplasia."
+      },
+      {
+        "letra": "E",
+        "texto": "Necrose."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104870,
+    "tags": [],
+    "enunciado": "Sobre o edema localizado, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pode ter origem infecciosa, neoplásica, genética e inflamatória."
+      },
+      {
+        "letra": "B",
+        "texto": "Todo o edema localizado, se não tratado, pode evoluir para generalizado."
+      },
+      {
+        "letra": "C",
+        "texto": "Nas obstruções vasculares, o edema se desenvolve próximo ao local do comprometimento."
+      },
+      {
+        "letra": "D",
+        "texto": "Imobilização prolongada em fraturas é fator de proteção à formação de trombose, portanto, o repouso às atividades escolares é sempre orientado. 4000146238"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104871,
+    "tags": [],
+    "enunciado": "Entre os mecanismos moleculares do envelhecimento vascular dos hipertensos, citamse as alterações corretas do item:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Alterações genéticas de segmentos não envolvidos na proteção e reparação do DNA e na atividade metabólica mitocondrial."
+      },
+      {
+        "letra": "B",
+        "texto": "Alterações genéticas de segmentos envolvidos na proteção e reparação do DNA e na atividade metabólica mitocondrial."
+      },
+      {
+        "letra": "C",
+        "texto": "Alterações genéticas de segmentos envolvidos na proteção e reparação do DNA e na inatividade metabólica mitocondrial."
+      },
+      {
+        "letra": "D",
+        "texto": "Alterações não genéticas de segmentos envolvidos na proteção e reparação do DNA e na atividade metabólica mitocondrial. 4000145603 Respostas: 1 A 2 D 3 C 4 A 5 C 6 D 7 A 8 B 9 D 10 C 11 D 12 D 13 A 14 A 15 A 16 A 17 B 18 C 19 A 20 E 21 C 22 B 23 D 24 B 25 D 26 A 27 E 28 C 29 A 30 D 31 B 32 B 33 A 34 D 35 D 36 A 37 B 38 E 39 A 40 E 41 B 42 B 43 C 44 A 45 B 46 E 47 A 48 D 49 C 50 A 51 C 52 E 53 C 54 D 55 B 56 D 57 E 58 C 59 B 60 B 61 C 62 A 63 D 64 E 65 C 66 A 67 C 68 C 69 A 70 B 71 E 72 D 73 A 74 A 75 B"
+      }
+    ],
+    "resposta_correta": "B"
+  }
+]

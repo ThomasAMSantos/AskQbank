@@ -1,0 +1,2506 @@
+[
+  {
+    "id": 105046,
+    "tags": [],
+    "enunciado": "S.F., um homem de 65 anos, vem ao seu consultório reclamando de incontinência urinária. Após uma avaliação inicial, você suspeita de um problema na bexiga. Antes de encaminhá-lo para um exame de imagem, você decide revisar a anatomia da bexiga para melhor interpretar os resultados. Considerando a anatomia da bexiga, qual das seguintes afirmações é a mais correta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A bexiga é um órgão completamente muscular."
+      },
+      {
+        "letra": "B",
+        "texto": "A bexiga é drenada por dois ureteres e uma única uretra."
+      },
+      {
+        "letra": "C",
+        "texto": "A bexiga é um órgão fixo e não muda de posição conforme enche ou esvazia."
+      },
+      {
+        "letra": "D",
+        "texto": "A bexiga é suprida principalmente pela artéria renal."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105047,
+    "tags": [],
+    "enunciado": "C.P., uma mulher de 50 anos, está se recuperando de uma histerectomia (remoção cirúrgica do útero) devido a um (cid:56)broma uterino (tumor sólido formado por tecido muscular). Ela começou a experimentar incontinência urinária após a cirurgia, o que ela nunca teve antes. Enquanto revisa as possíveis complicações da histerectomia e a relação da uretra com os órgãos circundantes, qual das seguintes a(cid:56)rmações é a mais correta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A uretra feminina está localizada anteriormente ao útero e posteriormente à bexiga."
+      },
+      {
+        "letra": "B",
+        "texto": "A uretra feminina está localizada posteriormente ao útero e anteriormente à bexiga."
+      },
+      {
+        "letra": "C",
+        "texto": "A uretra feminina está localizada posteriormente ao reto e anteriormente à bexiga."
+      },
+      {
+        "letra": "D",
+        "texto": "A uretra feminina está localizada anteriormente ao reto e posteriormente à bexiga."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105048,
+    "tags": [],
+    "enunciado": "J.R., um homem de 40 anos, apresenta dor intensa na região lombar que irradia para a região da virilha. Uma tomogra(cid:56)a computadorizada sugere a presença de um cálculo(pedra) no ureter. Antes de discutir o plano de tratamento com J.R., você revisa as relações anatômicas do ureter. Qual das seguintes a(cid:56)rmações é a mais correta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O ureter está localizado medialmente aos grandes vasos ilíacos."
+      },
+      {
+        "letra": "B",
+        "texto": "O ureter passa anteriormente à artéria renal."
+      },
+      {
+        "letra": "C",
+        "texto": "O ureter passa posteriormente ao ducto deferente nos homens."
+      },
+      {
+        "letra": "D",
+        "texto": "O ureter está localizado medialmente à coluna vertebral."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105049,
+    "tags": [],
+    "enunciado": "M.G., 72 anos, sexo feminino, foi diagnosticada recentemente com insu(cid:56)ciência renal crônica. Seu médico decidiu iniciar o tratamento com um diurético de alça para ajudar a controlar a pressão arterial e o edema. M.G. está interessada em entender como esse medicamento funciona. Ela pergunta como o medicamento age sobre os rins para aumentar a produção de urina e reduzir o edema. Sobre a ação do diurético de alça e a fisiologia da alça de Henle, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ambos os segmentos finos da alça de Henle são impermeáveis a água."
+      },
+      {
+        "letra": "B",
+        "texto": "O local de nefro que reabsorve a maior parte da H2O filtrada é o segmento fino descendente."
+      },
+      {
+        "letra": "C",
+        "texto": "Segmento ascendente fino é muito permeável à água."
+      },
+      {
+        "letra": "D",
+        "texto": "Algumas formas de claudinas conferem seletividade a cátions à via intercelular do segmento espesso ascendente."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105050,
+    "tags": [],
+    "enunciado": "C.M., um paciente de 72 anos de idade, foi recentemente diagnosticado com insu(cid:56)ciência cardíaca e prescrito um diurético de alça como parte do tratamento. Este medicamento atua principalmente na alça de Henle no rim. O paciente apresentou melhora signi(cid:56)cativa dos sintomas de retenção de (cid:71)uidos, no entanto, relata maior frequência urinária. Durante uma consulta de acompanhamento, C.M. pergunta como o medicamento realmente funciona para aliviar seus sintomas e por que aumenta a frequência urinária. Ele está particularmente interessado em entender como o medicamento age nos rins. Levando em consideração a ação do diurético de alça, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O medicamento impede a reabsorção de sódio e cloro na alça de Henle, mas não tem efeito no mecanismo de contracorrente."
+      },
+      {
+        "letra": "B",
+        "texto": "O medicamento impede a reabsorção de sódio e cloro na alça de Henle, interferindo no mecanismo de contracorrente, o que aumenta a excreção urinária de água."
+      },
+      {
+        "letra": "C",
+        "texto": "O medicamento aumenta a reabsorção de sódio e cloro na alça de Henle, interferindo no mecanismo de contracorrente, o que diminui a excreção urinária de água."
+      },
+      {
+        "letra": "D",
+        "texto": "O medicamento não tem efeito na reabsorção de sódio e cloro na alça de Henle, nem no mecanismo de contracorrente."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105051,
+    "tags": [],
+    "enunciado": "V.M.B, um paciente de 50 anos com diabetes tipo 2, foi admitido na unidade de emergência com náuseas, vômitos e fraqueza generalizada. Exames laboratoriais revelaram hiperglicemia e presença de glicose na urina. V.M.B estava desidratado e os exames de sangue mostraram distúrbios eletrolíticos. A equipe médica suspeitou que as complicações do diabetes estavam afetando a função renal de V.M.B e decidiram investigar mais a fundo. Com base em seu conhecimento da (cid:56)siologia renal, qual das seguintes a(cid:56)rmações sobre o túbulo proximal é verdadeira?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A reabsorção de glicose na primeira metade do túbulo proximal ocorre de modo passivo."
+      },
+      {
+        "letra": "B",
+        "texto": "No túbulo proximal, a permeabilidade à água é baixa."
+      },
+      {
+        "letra": "C",
+        "texto": "Apresenta um epitélio leaky, com grande capacidade de transporte intra e paracelular, mas que não estabelece grandes diferenças de concentração"
+      },
+      {
+        "letra": "D",
+        "texto": "Os túbulos proximais transportam muito Na+, mas a concentração luminal de sódio sofre grandes alterações."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105052,
+    "tags": [],
+    "enunciado": "J.T.M, um homem de 52 anos, foi admitido no hospital com sintomas de edema (inchaço), fadiga e um apetite diminuído. Após realizar alguns exames, os médicos diagnosticaram J.T.M com doença renal crônica (DRC), uma condição na qual a função renal está comprometida e a (cid:56)ltração glomerular é reduzida. Um dos aspectos-chave da DRC é que a habilidade dos rins para regular várias substâncias no corpo é prejudicada, o que pode afetar a homeostase de elementos como sódio, bicarbonato e creatinina. Com base na condição de J.T.M, é fundamental entender o papel da função renal na regulação dessas substâncias e como a recuperação da função renal pode impactar o equilíbrio dessas substâncias no corpo. Considerando o caso de J.T.M e os seus conhecimentos em fisiologia, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os rins não têm função sobre o balanço de bicarbonato."
+      },
+      {
+        "letra": "B",
+        "texto": "Quando há redução na filtração glomerular, há progressiva redução na fração de reabsorção de creatinina até que o balanço de creatinina seja restabelecido."
+      },
+      {
+        "letra": "C",
+        "texto": "Se um indivíduo se recupera de uma queda de função renal, ou seja, tem sua filtração glomerular aumentada após uma queda, ele passa por um período de balanço positivo de creatinina."
+      },
+      {
+        "letra": "D",
+        "texto": "Quando há balanço positivo de sódio, a concentração plasmática continua a mesma, já que ocorre retenção de água."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105053,
+    "tags": [],
+    "enunciado": "J.K., uma professora de biologia de 42 anos, foi ao seu médico geral após experimentar inchaço nos tornozelos e fadiga. Durante a consulta, J.K mencionou que estava bebendo mais água do que o normal, mas que sua urina parecia mais concentrada. O médico sugeriu que ela pudesse estar com um problema renal e encaminhou J.K para exames de sangue e urina. Os resultados dos exames mostraram níveis elevados de creatinina e ureia no sangue, indicando uma possível disfunção renal. Durante a consulta de seguimento, o médico explicou que o (cid:71)uxo sanguíneo para os rins e a taxa de (cid:56)ltração glomerular (TFG) poderiam ser in(cid:71)uenciados por uma série de fatores, incluindo o coeficiente de filtração (kf) e a pressão efetiva de ultrafiltração (PUF). Qual das seguintes afirmações sobre a fisiologia renal está correta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Variar o fluxo plasmático glomerular é um mecanismo mais eficiente de modular a filtração do que variar o kf."
+      },
+      {
+        "letra": "B",
+        "texto": "Redução no kf é acompanhada de redução da pressão efetiva de ultrafiltração."
+      },
+      {
+        "letra": "C",
+        "texto": "A redução no kf sempre altera a composição do ultrafiltrado glomerular."
+      },
+      {
+        "letra": "D",
+        "texto": "Quando o fluxo plasmático glomerular diminui, a pressão efetiva de ultrafiltração (PUF) aumenta."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105054,
+    "tags": [],
+    "enunciado": "P.L.C, uma mulher de 55 anos, compareceu ao consultório com queixas de edema persistente nos membros inferiores e fadiga. Durante o exame, a paciente também apresentou pressão arterial elevada. Patrícia tem um histórico médico signi(cid:56)cativo de doença renal crônica em estágio III, que tem sido monitorada regularmente. Em seu último exame, os níveis de creatinina no sangue estavam elevados, sugerindo uma possível diminuição na (cid:56)ltração glomerular. Diante desses achados, o médico decidiu ajustar o regime de medicação de P.L.C, que inclui um inibidor da ECA para controle da hipertensão. Neste contexto, com base na (cid:56)siologia renal e o (cid:71)uxo sanguíneo renal, qual das seguintes a(cid:56)rmações está incorreta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aumento da resistência da arteríola eferente gera aumento da fração de filtração."
+      },
+      {
+        "letra": "B",
+        "texto": "Drogas que levam à dilatação da arteríola eferente podem ocasionar queda significativa na filtração glomerular."
+      },
+      {
+        "letra": "C",
+        "texto": "A arteríola eferente é o alvo principal de regulação da filtração glomerular por néfron."
+      },
+      {
+        "letra": "D",
+        "texto": "Quanto maior a resistência da arteríola aferente maior é a diferença entre a pressão arterial sistêmica e a pressão em capilar glomerular (estando a eferente inalterada)"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105055,
+    "tags": [],
+    "enunciado": "L.P.B, uma mulher de 38 anos, apresenta-se no consultório com inchaço nos tornozelos e fadiga. Ela menciona que tem tido uma necessidade frequente de urinar, principalmente à noite. L.P.B tem histórico de lúpus, uma doença autoimune que pode afetar vários órgãos, incluindo os rins. Seus sintomas, juntamente com seu histórico médico, levam o médico a suspeitar de nefrite lúpica, uma in(cid:71)amação dos rins causada pelo lúpus. O médico decide solicitar uma série de exames, incluindo análise de urina, para investigar a função renal de L.P.B. Enquanto aguarda os resultados, o médico decide explicar a L.P.B sobre os princípios básicos da fisiologia urinária. Qual das seguintes afirmações é correta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Quanto maior é o soluto, maior sua taxa de filtração."
+      },
+      {
+        "letra": "B",
+        "texto": "O cálculo da fração de excreção é: Fração de excreção (FE) = massa excretada/massa filtrada."
+      },
+      {
+        "letra": "C",
+        "texto": "Grandes moléculas carregadas negativamente são filtradas mais facilmente que moléculas carregadas positivamente com tamanho molecular igual."
+      },
+      {
+        "letra": "D",
+        "texto": "O filtrado glomerular tem concentrações muito diferentes do plasma sanguíneo."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105056,
+    "tags": [],
+    "enunciado": "M.P.T, um homem de 45 anos, apresentou-se ao seu médico de família com queixas de fadiga crônica e perda de apetite. M.P.T tem um histórico de má alimentação e obesidade. Ainda assim, não apresenta histórico conhecido de hipertensão, diabetes ou qualquer outra condição médica crônica. Durante a consulta, o médico pediu exames de sangue e urina para obter uma visão mais clara do estado de saúde de M.P.T. Os exames de sangue mostraram níveis elevados de creatinina e ureia, sugerindo possível disfunção renal. Os resultados dos testes de urina ainda estão pendentes. Enquanto aguarda os resultados, o médico decide conversar com M.P.T sobre a (cid:56)siologia renal e a formação da urina para ajudá-lo a entender o motivo dos testes. Qual das seguintes afirmações é correta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As substâncias eliminadas na urina podem ser introduzidas nos túbulos renais através de dois processos: filtração e secreção."
+      },
+      {
+        "letra": "B",
+        "texto": "Para a creatinina, a massa excretada é menor que a massa filtrada na unidade de tempo."
+      },
+      {
+        "letra": "C",
+        "texto": "Assim como o plasma, a composição da urina mantém-se relativamente constante, permitindo apenas variações mínimas."
+      },
+      {
+        "letra": "D",
+        "texto": "A medida de clearance de uma substância só pode ser usada para calcular a taxa de filtração glomerular (TFG) se essa substância for completamente filtrada pelos rins, independente dos níveis de reabsorção."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105057,
+    "tags": [],
+    "enunciado": "J.P.R, um homem de 65 anos, chega à clínica para uma consulta de rotina. Ele tem um histórico de diabetes tipo 2 e hipertensão arterial, bem controlados com medicação. Como parte de seu controle anual, ele fez exames de sangue e urina. J.P.R menciona que tem notado um aumento na frequência de idas ao banheiro, especialmente à noite. Os exames laboratoriais mostram níveis normais de glicose e pressão arterial. Entretanto, seu exame de urina revelou uma taxa de (cid:56)ltração glomerular (TFG) levemente reduzida e níveis elevados de creatinina. Além disso, a excreção urinária de sódio estava alta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "partir desses resultados, você decide explicar para Júlio algumas características da fisiologia urinária. Qual das seguintes afirmações está correta?"
+      },
+      {
+        "letra": "A",
+        "texto": "Todas as substâncias que passam pelo processo de filtração renal são expelidas na urina."
+      },
+      {
+        "letra": "B",
+        "texto": "Uma substância que é não apenas filtrada, mas também reabsorvida pelo rim, terá um clearance renal mais alto do que uma substância que é somente filtrada."
+      },
+      {
+        "letra": "C",
+        "texto": "Se um indivíduo tem fluxo urinário médio de 1 mL/min nas 24 horas, significa que ele filtra 1 mL/min."
+      },
+      {
+        "letra": "D",
+        "texto": "Se a massa filtrada de uma substância é igual à massa excretada, então o clearance dessa substância pode ser utilizado como um bom indicador para avaliar a filtração glomerular."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105058,
+    "tags": [],
+    "enunciado": "S.L., 46 anos, sexo feminino, foi recentemente diagnosticada com cálculos renais. Ela recebeu uma cópia do seu relatório de ultrassonogra(cid:56)a, mas está com di(cid:56)culdade para entender os termos técnicos usados para descrever a localização das pedras nos seus rins. Ela sabe que as pedras estão localizadas no córtex renal, na medula renal e na pelve renal, mas não entende como essas partes do rim estão organizadas. Para ajudar S.L. a entender a localização de suas pedras renais, assinale a alternativa que corretamente descreve a anatomia interna do rim:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A pelve renal está localizada na periferia do rim, enquanto o córtex renal e a medula renal estão localizados mais internamente."
+      },
+      {
+        "letra": "B",
+        "texto": "O córtex renal é a parte mais interna do rim, seguido pela medula renal e, por fim, pela pelve renal."
+      },
+      {
+        "letra": "C",
+        "texto": "O córtex renal está localizado na periferia do rim, enquanto a medula renal e a pelve renal estão localizadas mais internamente."
+      },
+      {
+        "letra": "D",
+        "texto": "A medula renal está localizada na periferia do rim, enquanto o córtex renal e a pelve renal estão localizados mais internamente."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105059,
+    "tags": [],
+    "enunciado": "P.R., uma mulher de 38 anos, foi encaminhada ao nefrologista após a descoberta de uma função renal ligeiramente diminuída em um exame de sangue de rotina. Ela tem um histórico de hipertensão mal controlada e foi recentemente diagnosticada com diabetes tipo 2. P.R. está preocupada e faz várias perguntas ao nefrologista sobre como os rins funcionam e o que pode estar causando a diminuição da função renal. O nefrologista explica a P.R. sobre os néfrons, as unidades funcionais dos rins, e descreve como diferentes partes do néfron têm funções e estruturas distintas que permitem a (cid:56)ltragem do sangue, a remoção de resíduos e a manutenção do equilíbrio de fluidos e eletrólitos. Em relação à estrutura e função das diferentes partes do néfron, assinale a opção correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O túbulo contorcido proximal, a alça de Henle e o túbulo contorcido distal são estruturalmente e funcionalmente idênticos."
+      },
+      {
+        "letra": "B",
+        "texto": "O túbulo contorcido proximal tem células com muitas mitocôndrias e microvilosidades, enquanto a alça de Henle tem células mais finas e menos mitocôndrias."
+      },
+      {
+        "letra": "C",
+        "texto": "O túbulo contorcido proximal e o túbulo contorcido distal têm células com muitas mitocôndrias e microvilosidades, enquanto a alça de Henle é estruturalmente semelhante, mas não possui microvilosidades."
+      },
+      {
+        "letra": "D",
+        "texto": "O túbulo contorcido proximal, a alça de Henle e o túbulo contorcido distal têm células mais finas e menos mitocôndrias."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105060,
+    "tags": [],
+    "enunciado": "M.S., uma mulher de 38 anos, está sendo tratada por uma infecção do trato urinário (ITU). Após um curso de antibióticos, ela retorna ao seu consultório com relatos de aumento da frequência urinária e desconforto. Você explica que a ITU pode ter irritado sua bexiga e afetado a sinalização neural que controla a micção. M.S. pergunta sobre os nervos que poderiam estar envolvidos. No contexto do sistema nervoso que inerva o glomérulo renal, qual das seguintes opções é correta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O glomérulo é inervado principalmente por fibras nervosas simpáticas do plexo renal."
+      },
+      {
+        "letra": "B",
+        "texto": "O glomérulo é inervado principalmente por fibras nervosas parassimpáticas do plexo renal."
+      },
+      {
+        "letra": "C",
+        "texto": "O glomérulo é inervado diretamente pelo nervo vago."
+      },
+      {
+        "letra": "D",
+        "texto": "O glomérulo não tem inervação e depende apenas de sinais químicos para a filtração."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105061,
+    "tags": [],
+    "enunciado": "R.T., um homem de 55 anos, vem ao seu consultório com um diagnóstico recente de diabetes tipo 2. Ele está preocupado com as possíveis complicações renais associadas à diabetes. Você explica que a hiperglicemia crônica pode levar a danos aos pequenos vasos sanguíneos nos rins, especi(cid:56)camente aqueles que fornecem sangue ao néfron, a unidade funcional do rim. R.T. pergunta sobre os vasos sanguíneos especí(cid:56)cos que você está mencionando. Com base na anatomia do néfron, qual das seguintes alternativas apresenta a sequência correta de vasos sanguíneos que fornecem sangue ao néfron?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Artéria renal -> Artéria interlobar -> Artéria arciforme -> Artéria interlobular -> Arteríola aferente -> Glomérulo -> Arteríola eferente."
+      },
+      {
+        "letra": "B",
+        "texto": "Artéria renal -> Artéria arciforme -> Artéria interlobar -> Artéria interlobular -> Arteríola aferente -> Glomérulo -> Arteríola eferente."
+      },
+      {
+        "letra": "C",
+        "texto": "Artéria renal -> Artéria interlobar -> Artéria arciforme -> Arteríola aferente -> Artéria interlobular -> Glomérulo -> Arteríola eferente."
+      },
+      {
+        "letra": "D",
+        "texto": "Artéria renal -> Artéria interlobular -> Artéria interlobar -> Artéria arciforme -> Arteríola aferente -> Glomérulo -> Arteríola eferente."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105062,
+    "tags": [],
+    "enunciado": "L.S., uma mulher de 38 anos, foi recentemente diagnosticada com nefropatia por IgA (Doença de Berger), uma doença renal que pode afetar a capacidade dos rins de (cid:56)ltrar o sangue adequadamente. Ela vem ao seu consultório com o relatório da biópsia renal em mãos e pede para você explicar o que o relatório está dizendo. No relatório, o patologista menciona que há depósitos de IgA observados na cápsula de Bowman e no túbulo contorcido proximal. L.S. quer entender melhor o que isso signi(cid:56)ca e qual é a função dessas partes do néfron. Você explica que a cápsula de Bowman e o túbulo contorcido proximal são partes do néfron, a unidade funcional do rim, e estão envolvidos na (cid:56)ltração do sangue e na formação da urina. Considerando o processo de (cid:56)ltração e formação da urina, qual das seguintes alternativas apresenta a sequência correta das estruturas do néfron após a filtração inicial na cápsula de Bowman?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cápsula de Bowman -> Túbulo contorcido distal -> Alça de Henle -> Túbulo contorcido proximal -> Ducto coletor."
+      },
+      {
+        "letra": "B",
+        "texto": "Cápsula de Bowman -> Túbulo contorcido proximal -> Túbulo contorcido distal -> Alça de Henle -> Ducto coletor."
+      },
+      {
+        "letra": "C",
+        "texto": "Cápsula de Bowman -> Túbulo contorcido proximal -> Alça de Henle -> Túbulo contorcido distal -> Ducto coletor."
+      },
+      {
+        "letra": "D",
+        "texto": "Cápsula de Bowman -> Alça de Henle -> Túbulo contorcido proximal -> Túbulo contorcido distal -> Ducto coletor."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105063,
+    "tags": [],
+    "enunciado": "D.P., 49 anos, sexo feminino, foi diagnosticada recentemente com uma doença renal crônica e está aprendendo sobre a estrutura e a função dos rins. Durante uma consulta, ela pergunta sobre os néfrons, as unidades funcionais dos rins. Ela quer entender mais sobre o papel de cada parte do néfron na (cid:56)ltração do sangue e na formação da urina. Sobre a anatomia e a função do néfron, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O glomérulo é a primeira parte do néfron e é onde a reabsorção de água e sais minerais ocorre."
+      },
+      {
+        "letra": "B",
+        "texto": "O túbulo contorcido proximal é a terceira estrutura do néfron, onde ocorre a filtragem do sangue, e é aqui que substâncias úteis como a glicose são filtradas de volta para a corrente sanguínea."
+      },
+      {
+        "letra": "C",
+        "texto": "A alça de Henle é uma longa estrutura em forma de U que se estende a partir do túbulo contorcido proximal ao túbulo contorcido distal, e é principalmente onde ocorre a concentração da urina."
+      },
+      {
+        "letra": "D",
+        "texto": "O túbulo contorcido distal é o local onde ocorre a filtração primária do sangue, onde as substâncias indesejadas são filtradas para formar a urina, essa estrutura está anatomicamente localizada logo depois do túbulo contorcido proximal."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105064,
+    "tags": [],
+    "enunciado": "Você é um nefrologista pediátrico e recebeu uma referência de um recém-nascido, Luísa, que foi diagnosticada com uma malformação renal complexa durante um ultrassom pré-natal de rotina. Após o nascimento, um ultrassom con(cid:56)rmou a ausência de um dos rins e o outro com estrutura irregular e um tamanho maior do que o normal. Os exames de sangue também indicaram níveis elevados de creatinina, sugerindo que a função renal poderia estar comprometida. Durante a consulta, a mãe de Luísa parecia muito preocupada e com muitas dúvidas. Para ajudá-la a entender melhor o quadro, você decide explicar os princípios básicos da embriologia renal.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "respeito da embriologia renal, assinale a alternativa correta:"
+      },
+      {
+        "letra": "A",
+        "texto": "Cada um dos rins primitivos desenvolve-se em períodos bem delimitados, de forma que o mesonefro só se desenvolve após completa involução do pronefro."
+      },
+      {
+        "letra": "B",
+        "texto": "Embriologicamente, o pronefro, o mesonefro e o metanefro desenvolvem-se do mesoderma intermediário."
+      },
+      {
+        "letra": "C",
+        "texto": "O sistema coletor renal (ductos coletores, cálices, pelve renal e ureteres) é derivado do mesênquima metanéfrico."
+      },
+      {
+        "letra": "D",
+        "texto": "As células do mesonefro dão origem ao rim definitivo."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105065,
+    "tags": [],
+    "enunciado": "R.A., uma menina de 6 anos, vem ao seu consultório apresentando incontinência urinária diurna e noturna. Seus pais mencionam que ela nunca foi completamente treinada para o uso do banheiro. Você suspeita de uma possível malformação congênita e decide encaminhá-la para uma avaliação urológica. Sabendo que a bexiga urinária se origina a partir da estrutura embrionária denominada seio urogenital, que se divide em duas partes ao longo do desenvolvimento embrionário, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A porção cranial do seio urogenital dará origem à bexiga urinária e à parte distal da uretra."
+      },
+      {
+        "letra": "B",
+        "texto": "A porção caudal do seio urogenital dará origem à bexiga urinária e à parte distal da uretra."
+      },
+      {
+        "letra": "C",
+        "texto": "A porção cranial do seio urogenital dará origem à bexiga urinária e à parte proximal da uretra."
+      },
+      {
+        "letra": "D",
+        "texto": "A porção caudal do seio urogenital dará origem à bexiga urinária e à parte proximal da uretra."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105066,
+    "tags": [],
+    "enunciado": "A pequena M.L., 2 anos, é levada ao pediatra por seus pais que estão preocupados com sua di(cid:56)culdade em urinar e com a presença de uma única abertura para a passagem de urina e fezes. Após uma série de exames, a menina é diagnosticada com cloaca persistente, uma anormalidade congênita rara na qual o reto, a vagina e a uretra convergem para um único canal comum. Normalmente, a cloaca embrionária se divide em duas estruturas distintas. Com base nesse processo de divisão, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A cloaca embrionária se divide no ducto anal e na bexiga urinária, separados por uma membrana chamada septo urorretal."
+      },
+      {
+        "letra": "B",
+        "texto": "A cloaca embrionária se divide no reto e no canal urogenital, separados por uma membrana chamada septo urogenital."
+      },
+      {
+        "letra": "C",
+        "texto": "A cloaca embrionária se divide na uretra e no canal anal, separados por uma membrana chamada septo urorretal."
+      },
+      {
+        "letra": "D",
+        "texto": "A cloaca embrionária se divide no reto e no canal urogenital, separados por uma membrana chamada septo urorretal."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105067,
+    "tags": [],
+    "enunciado": "V.G., 28 anos, sexo feminino, é uma maratonista pro(cid:56)ssional que treina seis vezes por semana. Durante uma ultrassonogra(cid:56)a abdominal de rotina, descobre-se que V.G. tem uma artéria renal adicional. Este achado não causa nenhuma complicação ou sintoma e é considerado uma variação anatômica normal. Ao discutir o resultado da ultrassonogra(cid:56)a com seu médico, V.G., sempre interessada em (cid:56)siologia e anatomia devido à sua carreira no esporte, questiona sobre a origem desta artéria renal adicional. Em relação ao desenvolvimento do suprimento sanguíneo renal durante a embriologia, qual das seguintes afirmações é correta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Durante o desenvolvimento embrionário, o suprimento sanguíneo dos rins é proveniente apenas das artérias renais definitivas, que se originam da aorta abdominal."
+      },
+      {
+        "letra": "B",
+        "texto": "A mudança no suprimento sanguíneo renal durante a embriogênese é um processo estático, com as artérias renais se formando na posição final dos rins."
+      },
+      {
+        "letra": "C",
+        "texto": "O suprimento sanguíneo renal durante a embriogênese muda com a ascensão dos rins, com várias artérias temporárias fornecendo sangue aos rins em diferentes momentos e locais."
+      },
+      {
+        "letra": "D",
+        "texto": "Durante o desenvolvimento embrionário, os rins recebem sangue diretamente das artérias ilíacas internas, não da aorta."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105068,
+    "tags": [],
+    "enunciado": "S.F., um menino de 6 anos, é levado à consulta pediátrica por sua mãe devido a dores recorrentes no abdômen. Durante o exame físico, o pediatra percebe que os rins do menino parecem estar mais baixos do que o normal. Ele encaminha S.F. para fazer uma ultrassonogra(cid:56)a renal, que con(cid:56)rma a localização anormal dos rins. A mãe de S.F. está preocupada e pergunta ao pediatra por que os rins de seu (cid:56)lho estão mais baixos. Sobre a migração da posição renal durante a embriogênese, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os rins desenvolvem-se na região sacral e migram para cima para a sua posição final na região lombar"
+      },
+      {
+        "letra": "B",
+        "texto": "Os rins desenvolvem-se na região lombar e migram para baixo até a região sacral, retornando posteriormente à posição lombar."
+      },
+      {
+        "letra": "C",
+        "texto": "Os rins desenvolvem-se na região lombar e migram para cima para a sua posição final na região torácica."
+      },
+      {
+        "letra": "D",
+        "texto": "Os rins permanecem na mesma posição durante toda a embriogênese, sem migração."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105069,
+    "tags": [],
+    "enunciado": "R.S., um menino de 5 anos, é trazido à clínica por sua mãe, que está preocupada com o fato de ele urinar com mais frequência do que os irmãos mais velhos. O exame de urina não revela anormalidades. R.S. pergunta por que precisa urinar tão frequentemente e a mãe dele está curiosa para saber como os rins são formados e funcionam para produzir a urina. Sobre a formação do metanefro, que dá origem aos rins de(cid:56)nitivos, e sua função na produção de urina, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O metanefro se forma a partir da mesoderme intermediária e não tem papel na produção de urina durante o desenvolvimento embrionário."
+      },
+      {
+        "letra": "B",
+        "texto": "O metanefro se forma a partir do endoderma e inicia a produção de urina apenas após o nascimento."
+      },
+      {
+        "letra": "C",
+        "texto": "O metanefro se forma a partir do mesonefro, que posteriormente degenera, e inicia a produção de urina durante o desenvolvimento fetal."
+      },
+      {
+        "letra": "D",
+        "texto": "O metanefro se forma a partir da mesoderme intermediária e inicia a produção de urina durante o desenvolvimento fetal."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105070,
+    "tags": [],
+    "enunciado": "A.C., um menino de 5 anos, foi levado à consulta pediátrica por sua mãe devido a episódios frequentes de infecções do trato urinário. A.C. tem um histórico de re(cid:71)uxo vesicoureteral, condição na qual a urina (cid:71)ui retrogradamente do trato urinário inferior para o trato urinário superior. Na conversa com a mãe de A.C., você, como médico pediatra, explica sobre a embriologia do sistema urinário humano. A mãe de A.C. pergunta sobre o papel do mesonefro durante o desenvolvimento embrionário. Assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O mesonefro é a estrutura que dá origem diretamente aos rins definitivos em seres humanos."
+      },
+      {
+        "letra": "B",
+        "texto": "O mesonefro não tem função durante o desenvolvimento embrionário e degenera completamente antes do nascimento."
+      },
+      {
+        "letra": "C",
+        "texto": "O mesonefro é uma estrutura transitória que começa a surgir por volta da 4a semana e que forma os túbulos mesonéfricos (ductos de Wolff)."
+      },
+      {
+        "letra": "D",
+        "texto": "O mesonefro contribui para o desenvolvimento do trato urinário superior, mas não tem função renal em qualquer fase do desenvolvimento."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105071,
+    "tags": [],
+    "enunciado": "M.S., uma jovem grávida de 10 semanas, faz sua primeira consulta pré-natal. Durante a consulta, ela expressa preocupação sobre a saúde do seu bebê e o desenvolvimento adequado dos seus órgãos. Especi(cid:56)camente, M.S. se interessa pelo desenvolvimento do sistema urinário e pergunta ao médico sobre o pronefro, que ela leu ser a primeira forma de rim a se desenvolver no embrião. Com relação ao pronefro e sua função, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O pronefro é a última estrutura renal a se formar no desenvolvimento embrionário e é responsável pela filtração do sangue e produção de urina durante a vida adulta."
+      },
+      {
+        "letra": "B",
+        "texto": "O pronefro é uma estrutura temporária que se forma durante o desenvolvimento embrionário e desempenha uma função limitada na filtração do sangue e excreção de resíduos antes de ser substituído pelo mesonefro."
+      },
+      {
+        "letra": "C",
+        "texto": "O pronefro é uma estrutura permanente que se forma durante o desenvolvimento embrionário e é responsável pela produção de células sanguíneas e imunológicas."
+      },
+      {
+        "letra": "D",
+        "texto": "O pronefro é uma estrutura temporária que se forma durante o desenvolvimento embrionário, mas não tem função prática e é substituído pelo mesonefro por volta da 20a semana."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105072,
+    "tags": [],
+    "enunciado": "P.C., 28 anos, sexo feminino, é uma corredora pro(cid:56)ssional e sempre se manteve bem hidratada durante os treinos. Ela se mantém curiosa sobre como o corpo lida com a água e outras substâncias que ela ingere, principalmente como os rins funcionam nesse processo. Ela sabe que os glomérulos desempenham um papel crucial na filtração do sangue, mas não tem certeza sobre os detalhes específicos desse processo. Em relação à função dos glomérulos, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A filtração glomerular ocorre principalmente devido a diferenças de pressão hidrostática, resultando na formação de ultrafiltrado isento de proteínas e células sanguíneas."
+      },
+      {
+        "letra": "B",
+        "texto": "Os glomérulos filtram todas as substâncias do sangue, independentemente do tamanho ou da carga elétrica."
+      },
+      {
+        "letra": "C",
+        "texto": "Os glomérulos filtram o sangue removendo apenas as células sanguíneas e as proteínas, permitindo que todas as outras substâncias passem."
+      },
+      {
+        "letra": "D",
+        "texto": "Os glomérulos não filtram nenhuma substância do sangue, apenas atuam na reabsorção de água e eletrólitos."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105073,
+    "tags": [],
+    "enunciado": "L.C., uma mulher de 60 anos, está passando por um exame físico de rotina. Durante o exame, você realiza a palpação abdominal para avaliar os rins. Enquanto revisa a posição dos rins no abdome, qual das seguintes afirmações é a mais correta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os rins estão localizados na região lombar, com o rim esquerdo tipicamente situado mais inferiormente que o direito."
+      },
+      {
+        "letra": "B",
+        "texto": "Os rins estão localizados na região lombar, com o rim direito tipicamente situado mais inferiormente que o esquerdo."
+      },
+      {
+        "letra": "C",
+        "texto": "Os rins estão localizados na região hipogástrica, com o rim esquerdo tipicamente situado mais inferiormente que o direito."
+      },
+      {
+        "letra": "D",
+        "texto": "Os rins estão localizados na região hipogástrica, com o rim direito tipicamente situado mais inferiormente que o esquerdo."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105074,
+    "tags": [],
+    "enunciado": "G.H., um homem de 72 anos, chega ao seu consultório com queixas de di(cid:56)culdade para urinar e um jato urinário fraco. Você suspeita de hiperplasia prostática benigna (HPB), uma condição comum em homens mais velhos que pode causar obstrução da uretra. Enquanto considera a anatomia da uretra em homens, qual das seguintes afirmações é a mais correta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A uretra masculina é uniformemente cilíndrica ao longo de toda a sua extensão."
+      },
+      {
+        "letra": "B",
+        "texto": "A uretra masculina é dividida em três partes: a uretra prostática, a uretra membranosa e a uretra esponjosa."
+      },
+      {
+        "letra": "C",
+        "texto": "A uretra feminina é mais longa do que a uretra masculina."
+      },
+      {
+        "letra": "D",
+        "texto": "A uretra masculina passa diretamente através do centro da próstata."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105075,
+    "tags": [],
+    "enunciado": "P.A., um homem de 55 anos, vem ao seu consultório com queixas de dor lombar intermitente e sangue na urina. Os sintomas indicam a possibilidade de um cálculo renal. Durante a conversa com P.A., ele demonstra interesse em entender o caminho que a urina faz desde sua formação até sua eliminação do corpo. Qual das seguintes opções apresenta a sequência correta dessas estruturas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Rim, bexiga, ureter, uretra."
+      },
+      {
+        "letra": "B",
+        "texto": "Ureter, rim, bexiga, uretra."
+      },
+      {
+        "letra": "C",
+        "texto": "Rim, ureter, bexiga, uretra."
+      },
+      {
+        "letra": "D",
+        "texto": "Bexiga, ureter, rim, uretra."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105076,
+    "tags": [],
+    "enunciado": "J.P., uma mulher de 40 anos, vem ao seu consultório com queixas de micção frequente e dor suprapúbica. Você suspeita de cistite (in(cid:71)amação da bexiga) e decide revisar a anatomia da bexiga e suas relações anatômicas para melhor interpretar os exames complementares. Considerando as relações anatômicas da bexiga, qual das seguintes afirmações é a mais correta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Em mulheres, a bexiga está anteriormente relacionada com o útero."
+      },
+      {
+        "letra": "B",
+        "texto": "Em homens, a bexiga está anteriormente relacionada com o reto."
+      },
+      {
+        "letra": "C",
+        "texto": "Em ambos os sexos, a bexiga é diretamente superior ao diafragma."
+      },
+      {
+        "letra": "D",
+        "texto": "Em mulheres, a bexiga está posteriormente relacionada com a vagina."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105077,
+    "tags": [],
+    "enunciado": "R.B., um homem de 59 anos, chega ao seu consultório com histórico de dor no (cid:71)anco e hematúria (sangue na urina). Com base em sua avaliação inicial, você suspeita de obstrução ureteral. Antes de encaminhá-lo para um exame de imagem, você revisa a anatomia do ureter para melhor interpretar os resultados. Considerando a estrutura anatômica do ureter, qual das seguintes afirmações é a mais correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O ureter possui três porções: abdominal, pélvica e intramural."
+      },
+      {
+        "letra": "B",
+        "texto": "O ureter é uma estrutura de paredes grossas com uma única camada de músculo liso."
+      },
+      {
+        "letra": "C",
+        "texto": "O ureter atravessa a bexiga e drena diretamente na uretra."
+      },
+      {
+        "letra": "D",
+        "texto": "Os ureteres têm o mesmo comprimento em homens e mulheres."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105078,
+    "tags": [],
+    "enunciado": "A.C., uma mulher de 43 anos, chega ao consultório queixando-se de dor abdominal intensa e episódios de hematúria. Após uma avaliação inicial, você suspeita de um cálculo no ureter. Antes de encaminhá-la para um exame de imagem, você decide revisar as áreas de constrição no ureter onde os cálculos são mais propensos a se alojar. Considerando essas áreas, qual das seguintes afirmações é a mais correta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O ureter possui uma única área de constrição, localizada onde ele se junta à bexiga."
+      },
+      {
+        "letra": "B",
+        "texto": "O ureter possui duas áreas de constrição: onde ele se origina no rim e onde ele se junta à bexiga."
+      },
+      {
+        "letra": "C",
+        "texto": "O ureter possui três áreas de constrição: onde ele se origina no rim, onde ele cruza a pelve e onde ele se junta à bexiga."
+      },
+      {
+        "letra": "D",
+        "texto": "O ureter não possui áreas de constrição significativas."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105079,
+    "tags": [],
+    "enunciado": "C.M., uma mulher de 55 anos, tem sido tratada para insu(cid:56)ciência cardíaca crônica. Ela foi encaminhada para você, seu médico, com queixas de inchaço nas pernas e fadiga aumentada. A paciente tem um histórico de hipertensão arterial e está sob terapia com diuréticos e inibidores da ECA. Na consulta, você explica que seu coração está secretando uma substância chamada peptídeo natriurético atrial (ANP) em resposta ao aumento da pressão e volume sanguíneo. Com base no conhecimento sobre a (cid:56)siologia do ANP, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O ANP é produzido principalmente no miocárdio ventricular em resposta ao aumento da pressão arterial."
+      },
+      {
+        "letra": "B",
+        "texto": "O ANP age nos rins para aumentar a reabsorção de sódio, o que contribui para a diminuição do volume sanguíneo."
+      },
+      {
+        "letra": "C",
+        "texto": "O ANP é produzido principalmente no átrio cardíaco em resposta ao estiramento atrial devido ao aumento do volume sanguíneo."
+      },
+      {
+        "letra": "D",
+        "texto": "O ANP age nos rins para reduzir a filtração glomerular e, assim, diminuir a excreção urinária."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105080,
+    "tags": [],
+    "enunciado": "M.F., uma mulher de 50 anos, compareceu à sua consulta com queixas de boca seca e sede excessiva. Ela a(cid:56)rma estar urinando muito mais do que o normal, até mesmo acordando várias vezes durante a noite para ir ao banheiro. Após uma série de testes laboratoriais, M.F. é diagnosticada com diabetes insipidus central, uma condição que envolve a produção insuficiente de hormônio antidiurético (ADH) ou vasopressina. Com base na fisiologia do ADH, assinale a alternativa correta sobre o ADH:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O ADH é produzido principalmente na hipófise posterior e age sobre o rim para aumentar a excreção de água, resultando em urina diluída."
+      },
+      {
+        "letra": "B",
+        "texto": "O ADH é produzido principalmente na hipotálamo e age sobre o rim para aumentar a reabsorção de água, resultando em urina concentrada."
+      },
+      {
+        "letra": "C",
+        "texto": "O ADH é produzido principalmente no córtex adrenal e age sobre o rim para diminuir a reabsorção de água, resultando em urina diluída."
+      },
+      {
+        "letra": "D",
+        "texto": "O ADH é produzido principalmente na hipófise anterior e age sobre o rim para aumentar a excreção de sódio, resultando em urina diluída."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105081,
+    "tags": [],
+    "enunciado": "O.R.G., uma mulher de 65 anos, procurou o consultório médico com queixas de tontura, sensação de desmaio e fadiga. Ela informou que, recentemente, havia percebido um aumento nos níveis de pressão arterial durante suas visitas periódicas à enfermeira. Com essas informações, o médico solicitou exames de sangue, que revelaram níveis elevados de sódio e um eletrocardiograma indicou que o coração estava funcionando abaixo da capacidade normal. O médico começou a explicar sobre a regulação renal e o impacto do sistema nervoso simpático no controle da pressão arterial, tentando avaliar a compreensão de O.R.G. sobre seu estado de saúde. Levando em conta o caso clínico acima, assinale que apresenta as sentenças corretas: I. Aumento da massa de Na+ que chega à mácula densa induz aumento na produção de renina. II. Aumento agudo da pressão arterial leva a maior reabsorção renal de sal e água. III. Ativação do sistema nervoso simpático aumenta a reabsorção de Na+ em túbulos proximais e em ductos coletores. IV. Baixo débito cardíaco é uma das situações em que o volume extracelular é interpretado pelos rins como diminuído.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e II"
+      },
+      {
+        "letra": "B",
+        "texto": "II e III"
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas III"
+      },
+      {
+        "letra": "D",
+        "texto": "III e IV"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105082,
+    "tags": [],
+    "enunciado": "Paciente S.M., 45 anos, do sexo masculino, comparece à clínica relatando fadiga crônica, perda de apetite e perda de peso inexplicada de aproximadamente 5 kg nos últimos dois meses. Em uma recente consulta ao cardiologista, S.M. teve a pressão arterial aferida como 90/60 mmHg, o que foi signi(cid:56)cativamente mais baixo que seus registros anteriores de pressão arterial em torno de 120/80 mmHg. Exames laboratoriais revelam hiponatremia (baixo nível de sódio no sangue) e hipercalemia (alto nível de potássio no sangue). A análise de urina mostra uma baixa concentração de sódio e uma alta concentração de potássio. A dosagem de renina plasmática está elevada, e a dosagem de aldosterona está abaixo do normal. Com base nos sintomas clínicos e nos resultados dos exames laboratoriais, S.M. é diagnosticado com hipoaldosteronismo, uma condição caracterizada por baixos níveis de aldosterona. Em situações não patológicas a produção de aldosterona é regulada por alterações de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "eletrólitos e volemia."
+      },
+      {
+        "letra": "B",
+        "texto": "barorreceptores e volemia."
+      },
+      {
+        "letra": "C",
+        "texto": "eletrólitos e barorreceptores."
+      },
+      {
+        "letra": "D",
+        "texto": "quimiorreceptores e eletrólitos."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105083,
+    "tags": [],
+    "enunciado": "T.R., 58 anos, sexo masculino, apresenta-se à consulta queixando-se de fraqueza muscular. Os exames laboratoriais indicam uma concentração elevada de potássio no sangue, um quadro conhecido como hipocalemia. T.R. tem um histórico de alimentação saudável e não faz uso de medicamentos que possam alterar os níveis de potássio. Considerando a regulação do potássio no rim, assinale a alternativa que contêm as sentenças corretas. I. Angiotensina II, assim como a aldosterona, induzem perda de Na+. II. O segmento do nefro onde ocorre a maior parte da reabsorção do K+ filtrado é o ducto coletor. III. Quanto maior for o conteúdo de K+ na dieta maior será a fração de excreção do K+. IV. São indutores da secreção de aldosterona a angiotensina II e o aumento do K+ plasmático.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e III"
+      },
+      {
+        "letra": "B",
+        "texto": "II, III e IV"
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas IV"
+      },
+      {
+        "letra": "D",
+        "texto": "III e IV"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105084,
+    "tags": [],
+    "enunciado": "C.R., 55 anos, sexo feminino, com história de hipertensão arterial resistente, foi encaminhada para uma avaliação de hiperaldosteronismo primário devido à suspeita clínica de aldosteronismo. Os testes con(cid:56)rmaram a suspeita e C.R. foi diagnosticada com hiperaldosteronismo primário, um distúrbio no qual as glândulas adrenais produzem excesso de aldosterona. Em uma consulta de seguimento, C.R. perguntou sobre o papel da aldosterona na regulação dos níveis de potássio no corpo. Com base no papel da aldosterona na fisiologia da regulação do potássio, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A aldosterona aumenta a atividade do canal ENAC, aumentando a reabsorção de sódio e promovendo a secreção de potássio no ducto coletor."
+      },
+      {
+        "letra": "B",
+        "texto": "A aldosterona inibe a atividade do canal ENAC, reduzindo a reabsorção de sódio e promovendo a excreção de potássio."
+      },
+      {
+        "letra": "C",
+        "texto": "A aldosterona aumenta a reabsorção de potássio no ducto coletor, o que leva a níveis mais elevados de potássio no sangue."
+      },
+      {
+        "letra": "D",
+        "texto": "A aldosterona não tem nenhum efeito significativo na regulação do potássio no rim, seu principal efeito é regular a pressão arterial."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105085,
+    "tags": [],
+    "enunciado": "M.P., 75 anos, sexo masculino, foi hospitalizado por fraqueza muscular progressiva e palpitações cardíacas. Os exames laboratoriais revelam uma concentração sérica de potássio de 2.5 mEq/L, indicando hipocalemia. Para corrigir o desequilíbrio eletrolítico, o médico administra potássio por via intravenosa. Em relação ao potássio e seu papel no organismo de M.P., assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O potássio é um cátion extracelular e sua concentração é mantida pela bomba K+/Cl- ATPase."
+      },
+      {
+        "letra": "B",
+        "texto": "O potássio é um cátion intracelular, e sua distribuição é mantida pela bomba Na+/K+ ATPase."
+      },
+      {
+        "letra": "C",
+        "texto": "O potássio é um cátion intracelular, e sua distribuição é mantida pela bomba Cl-/K+ ATPase."
+      },
+      {
+        "letra": "D",
+        "texto": "O potássio é uniformemente distribuído em todo o corpo, tanto dentro quanto fora das células."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105086,
+    "tags": [],
+    "enunciado": "S.P., uma mulher de 54 anos, recentemente foi diagnosticada com um pequeno tumor pulmonar maligno. Ela tem se queixado de fadiga, perda de apetite e cefaleia persistente. Durante a investigação clínica, foi constatada hiponatremia dilucional. Suspeita-se de Síndrome de Secreção Inapropriada de Hormônio Antidiurético (SIADH) induzida por neoplasia.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "respeito das alterações (cid:56)siopatológicas que ocorrem no rim de S.P. e como o aumento de ADH in(cid:71)uencia a excreção de água, assinale a alternativa correta:"
+      },
+      {
+        "letra": "A",
+        "texto": "O aumento do ADH causa uma diminuição na permeabilidade à água do túbulo coletor renal, levando à excreção de um grande volume de urina diluída."
+      },
+      {
+        "letra": "B",
+        "texto": "O aumento do ADH promove a reabsorção de sódio nos túbulos renais, o que leva à retenção de água e excreção de urina concentrada."
+      },
+      {
+        "letra": "C",
+        "texto": "O aumento do ADH aumenta a permeabilidade à água do túbulo coletor renal, levando à reabsorção de água e excreção de urina concentrada."
+      },
+      {
+        "letra": "D",
+        "texto": "O aumento do ADH inibe a secreção de aldosterona, o que leva à retenção de sódio e água nos rins e à excreção de urina diluída."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105087,
+    "tags": [],
+    "enunciado": "T.S., 45 anos, sexo feminino, vem à sua clínica com queixas de poliúria e sede intensa há alguns meses. Ela a(cid:56)rma que tem se levantado várias vezes à noite para urinar e tem sentido uma sede insaciável. T.S. não tem histórico de diabetes mellitus e seu exame físico é normal, exceto por sinais leves de desidratação. Após exames complementares é confirmado o diagnóstico de diabetes insipidus. Sobre a condição de T.S. e as possíveis alterações (cid:56)siopatológicas que podem ocorrer nos rins devido à redução do ADH, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O diabetes insipidus é caracterizado por um aumento na produção de ADH, resultando em poliúria e desidratação devido à retenção excessiva de água pelos rins."
+      },
+      {
+        "letra": "B",
+        "texto": "No diabetes insipidus, a diminuição do ADH resulta em uma redução da permeabilidade dos ductos coletores para a água, o que leva a um aumento na excreção de água e a urina diluída."
+      },
+      {
+        "letra": "C",
+        "texto": "A falta de ADH no diabetes insipidus leva a um aumento da reabsorção de água nos túbulos renais, resultando em urina concentrada e redução da poliúria."
+      },
+      {
+        "letra": "D",
+        "texto": "No diabetes insipidus, a deficiência de ADH resulta em uma redução da excreção de água, levando a uma urina mais concentrada e desidratação devido à menor ingestão de líquidos."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105088,
+    "tags": [],
+    "enunciado": "Paciente M.F., 53 anos, sexo feminino, foi diagnosticada recentemente com hiperaldosteronismo primário após apresentar hipertensão resistente a múltiplos medicamentos anti-hipertensivos. Além disso, M.F. vem se queixando de fraqueza muscular, fadiga e poliúria. Em exames laboratoriais, foi observada hipocalemia e alcalose metabólica. M.F. pergunta ao médico sobre como o excesso de aldosterona poderia levar a essas alterações.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "respeito das alterações fisiopatológicas que ocorrem no hiperaldosteronismo, assinale a alternativa correta:"
+      },
+      {
+        "letra": "A",
+        "texto": "O excesso de aldosterona resulta em excreção excessiva de sódio e retenção de potássio, o que leva à hipercalemia e hipertensão, e a retenção excessiva de íons hidrogênio pelos rins causa acidose metabólica."
+      },
+      {
+        "letra": "B",
+        "texto": "O excesso de aldosterona resulta em retenção de sódio e excreção de potássio, o que leva à hipocalemia e hipertensão, e a excreção excessiva de íons hidrogênio pelos rins causa alcalose metabólica."
+      },
+      {
+        "letra": "C",
+        "texto": "O excesso de aldosterona resulta em retenção de sódio e excreção de potássio, o que leva à hipocalemia e hipotensão, e a retenção excessiva de íons hidrogênio pelos rins causa acidose metabólica."
+      },
+      {
+        "letra": "D",
+        "texto": "O excesso de aldosterona resulta em excreção excessiva de sódio e retenção de potássio, o que leva à hipercalemia e hipotensão, e a excreção excessiva de íons hidrogênio pelos rins causa alcalose metabólica."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105089,
+    "tags": [],
+    "enunciado": "O.L.S., 55 anos, sexo feminino, tem histórico de doença renal crônica e foi recentemente diagnosticada com hipercalemia. Durante a consulta, ela expressa confusão sobre por que seus rins não estão excretando potássio suficiente. Sobre a regulação renal do potássio no corpo de M.S., assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os rins da paciente estão falhando completamente, e ela não está excretando nenhum potássio."
+      },
+      {
+        "letra": "B",
+        "texto": "Os rins da paciente estão excretando potássio corretamente, mas o excesso na dieta está causando hipercalemia."
+      },
+      {
+        "letra": "C",
+        "texto": "O potássio é normalmente reabsorvido em grandes quantidades no túbulo proximal e na alça de Henle, e a quantidade final de potássio excretada é regulada principalmente na porção distal do néfron, que pode estar afetada na doença renal crônica."
+      },
+      {
+        "letra": "D",
+        "texto": "O potássio é excretado nos túbulos proximais dos rins, e a doença renal crônica está impedindo este processo."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105090,
+    "tags": [],
+    "enunciado": "C.P., 72 anos, sexo masculino, foi diagnosticado com hipertensão há 15 anos e recentemente começou a apresentar edema nas pernas. Além disso, exames laboratoriais revelaram níveis elevados de creatinina sérica e uma taxa de (cid:56)ltração glomerular reduzida. C.P. foi diagnosticado com doença renal crônica (DRC) e está curioso sobre como sua hipertensão poderia ter contribuído para a doença renal. Considerando a fisiopatologia da DRC, qual alternativa está correta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A hipertensão de C.P. não tem relação com a doença renal. A DRC é causada apenas pela idade avançada do paciente."
+      },
+      {
+        "letra": "B",
+        "texto": "A hipertensão de C.P. causou a doença renal por meio da hipotensão glomerular."
+      },
+      {
+        "letra": "C",
+        "texto": "A hipertensão de C.P. pode ter contribuído para a DRC, pois gera, ao longo do tempo, aumento da massa total de néfrons."
+      },
+      {
+        "letra": "D",
+        "texto": "A hipertensão de C.P. pode ter contribuído para a DRC, pois pode gerar alterações vasculares que culminam em isquemia renal."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105091,
+    "tags": [],
+    "enunciado": "S.G., 54 anos, sexo feminino, diabética tipo 2, apresenta-se na clínica com edema nas pernas e pressão arterial elevada. Exames laboratoriais revelam níveis elevados de creatinina sérica e baixa taxa de (cid:56)ltração glomerular. A paciente foi diagnosticada com doença renal crônica (DRC). Ela está confusa sobre o diagnóstico e pergunta como a diabetes poderia ter causado a doença renal. Com base na (cid:56)siopatologia da DRC, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A diabetes causou a doença renal de S.G. através da destruição direta dos glomérulos nos rins, resultando em níveis mais altos de creatinina sérica."
+      },
+      {
+        "letra": "B",
+        "texto": "A diabetes de S.G. não tem relação com a doença renal. A doença renal é causada por infecções recorrentes nos rins, o que levou ao aumento dos níveis de creatinina sérica."
+      },
+      {
+        "letra": "C",
+        "texto": "A diabetes de S.G. pode ter contribuído para a doença renal crônica, pois o excesso de glicose no sangue pode danificar os vasos sanguíneos nos rins, diminuindo a taxa de filtração glomerular e aumentando os níveis de creatinina sérica."
+      },
+      {
+        "letra": "D",
+        "texto": "A diabetes de S.G. causou um aumento no volume de urina, levando a uma desidratação crônica que danifica os rins e levou à doença renal crônica."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105092,
+    "tags": [],
+    "enunciado": "M.S.P., 57 anos, sexo feminino, foi diagnosticada com doença renal crônica (DRC) estágio 3. Ela apresenta histórico de diabetes tipo 2 e hipertensão, bem controlados com medicamentos. Sua médica prescreveu um inibidor da enzima conversora de angiotensina (IECA) para retardar a progressão da DRC. Durante a consulta, M.S. expressa preocupação sobre o prognóstico da doença. Considerando a fisiopatologia da DRC, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A DRC é uma doença reversível, e o tecido renal danificado pode se regenerar com o tratamento adequado."
+      },
+      {
+        "letra": "B",
+        "texto": "A DRC é uma doença irreversível, pois a perda de néfrons, as unidades funcionais do rim, é um processo contínuo e não pode ser revertido."
+      },
+      {
+        "letra": "C",
+        "texto": "A DRC não afeta a função renal e é uma condição assintomática que não precisa de tratamento."
+      },
+      {
+        "letra": "D",
+        "texto": "A DRC é uma doença de progressão rápida que leva à falência renal total em poucas semanas após o diagnóstico."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105093,
+    "tags": [],
+    "enunciado": "M.V., uma mulher de 65 anos, foi encaminhada para uma consulta de nefrologia devido à doença renal crônica em estágio 3. Para ajudar a explicar a condição dela, você decide revisar a anatomia básica do rim com ela. Qual das seguintes afirmações sobre a anatomia renal é a mais correta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O hilo renal está localizado na parte superior de cada rim, onde a artéria renal entra e a veia renal e o ureter saem."
+      },
+      {
+        "letra": "B",
+        "texto": "As pirâmides renais, que são estruturas em forma de cone, estão localizadas na parte externa do rim e apontam para a cápsula fibrosa."
+      },
+      {
+        "letra": "C",
+        "texto": "A cápsula fibrosa é a camada mais interna de cada rim, fornecendo uma barreira protetora para as estruturas mais internas."
+      },
+      {
+        "letra": "D",
+        "texto": "Os rins estão localizados no espaço retroperitoneal, que fica atrás do peritônio."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105094,
+    "tags": [],
+    "enunciado": "G.H., um homem de 55 anos, é encaminhado para uma tomogra(cid:56)a computadorizada após um acidente de carro. O radiologista identi(cid:56)ca um hematoma no rim direito, o qual está em contato com uma estrutura posterior, levando à suspeita de uma lesão associada. Dadas as relações anatômicas do rim direito, qual das seguintes estruturas está mais provavelmente envolvida?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Duodeno"
+      },
+      {
+        "letra": "B",
+        "texto": "Fígado"
+      },
+      {
+        "letra": "C",
+        "texto": "Músculo diafragma"
+      },
+      {
+        "letra": "D",
+        "texto": "Baço"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105095,
+    "tags": [],
+    "enunciado": "F.G., um homem de 60 anos, apresenta dor no (cid:71)anco esquerdo que irradia para a região inguinal. Uma tomogra(cid:56)a computadorizada é solicitada para investigar a causa da dor. Considerando as relações anatômicas do rim esquerdo, você espera que, caso haja um tumor renal esquerdo causando a dor, ele pode também afetar qual das seguintes estruturas, se tornar suficientemente grande?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fígado"
+      },
+      {
+        "letra": "B",
+        "texto": "Pâncreas"
+      },
+      {
+        "letra": "C",
+        "texto": "Vesícula biliar"
+      },
+      {
+        "letra": "D",
+        "texto": "Apêndice"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105096,
+    "tags": [],
+    "enunciado": "J.L., um homem de 67 anos, apresenta-se ao consultório com histórico de dor na região lombar que parece irradiar para a região anterior do abdome. Ao avaliar J.L., você suspeita de um possível problema relacionado aos rins. Sabendo que a posição dos rins em relação a outros órgãos pode ajudar a identi(cid:56)car a causa dos sintomas de J.L., qual das seguintes afirmações sobre a anatomia renal é a mais correta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os rins estão localizados anteriormente ao fígado e ao baço."
+      },
+      {
+        "letra": "B",
+        "texto": "O rim direito geralmente está posicionado mais alto no abdome que o rim esquerdo."
+      },
+      {
+        "letra": "C",
+        "texto": "O rim esquerdo está em contato direto com a vesícula biliar."
+      },
+      {
+        "letra": "D",
+        "texto": "O rim esquerdo está diretamente posterior ao pâncreas, e o rim direito está diretamente posterior ao duodeno."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105097,
+    "tags": [],
+    "enunciado": "M.R., um homem de 68 anos, chega ao consultório com histórico de disúria (dor ao urinar) e estrangúria (micção em gotas). Uma avaliação inicial sugere que M.R. pode ter uma obstrução na uretra. Antes de encaminhá-lo para um exame de imagem, você decide revisar a anatomia vascular da uretra para auxiliar na sua interpretação dos resultados. Considerando a vascularização da uretra, qual das seguintes a(cid:56)rmações é a mais correta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A principal fonte de suprimento sanguíneo para a uretra vem da artéria renal."
+      },
+      {
+        "letra": "B",
+        "texto": "A uretra é principalmente suprida pela artéria pudenda interna."
+      },
+      {
+        "letra": "C",
+        "texto": "A artéria vesical inferior é a principal fonte de suprimento sanguíneo para a uretra."
+      },
+      {
+        "letra": "D",
+        "texto": "A artéria uretral, um ramo da artéria pudenda interna, fornece a maior parte do suprimento sanguíneo para a uretra."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105098,
+    "tags": [],
+    "enunciado": "P.L.R., mulher de 45 anos, apresenta-se no consultório com queixas de inchaço progressivo na face e nos tornozelos há um mês. Ela também relata ganho de peso, fadiga e urina espumosa. Os exames laboratoriais mostram proteinúria de 4,5 g/dia, hipoalbuminemia e hiperlipidemia. A biópsia renal con(cid:56)rma o diagnóstico de glomerulonefrite membranosa, uma das causas da síndrome nefrótica. Com base no caso clínico apresentado e em seus conhecimentos, qual das seguintes opções melhor explica a (cid:56)siopatologia da síndrome nefrótica nesta paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Obstrução das arteríolas aferentes do rim"
+      },
+      {
+        "letra": "B",
+        "texto": "Dano tubular renal extenso"
+      },
+      {
+        "letra": "C",
+        "texto": "Disfunção das células mesangiais"
+      },
+      {
+        "letra": "D",
+        "texto": "Dano aos podócitos glomerulares"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105099,
+    "tags": [],
+    "enunciado": "M.F.S., uma menina de 7 anos, chega ao consultório pediátrico acompanhada de sua mãe, que relata que sua (cid:56)lha tem apresentado inchaço no rosto, especialmente ao redor dos olhos, nos últimos três dias. A mãe também observou que a urina de sua (cid:56)lha parece mais escura do que o normal. Duas semanas atrás, a menina apresentou faringite estreptocócica, que foi tratada com antibióticos. O exame físico revela pressão arterial elevada e edema periorbitário. O exame de urina mostra hematúria e proteinúria. A biópsia renal é realizada e revela proliferação de células glomerulares e in(cid:56)ltrados de leucócitos. Foi feito o diagnóstico de glomerulonefrite pós-estreptocócica. Com base no caso clínico apresentado e em seus conhecimentos, qual das seguintes opções é o mecanismo mais provável para a patogênese da condição renal nesta paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Deposição de imunocomplexos nos glomérulos"
+      },
+      {
+        "letra": "B",
+        "texto": "Formação de anticorpos contra o antígeno da membrana basal glomerular"
+      },
+      {
+        "letra": "C",
+        "texto": "Formação de anticorpos contra o antígeno tubular renal"
+      },
+      {
+        "letra": "D",
+        "texto": "Deposição de proteínas anormais nos túbulos renais"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105100,
+    "tags": [],
+    "enunciado": "M.V.L., uma menina de 9 anos, foi trazida ao consultório médico pelos pais que relataram que ela tem se queixado de dor abdominal e falta de apetite nos últimos dias. Durante a avaliação inicial, é observado que a paciente está com edema em pernas e pálpebras. A urinálise demonstra hematúria e proteinúria. A paciente também apresenta pressão arterial elevada para a sua idade e sexo. Os pais relatam que a (cid:56)lha teve uma faringite há aproximadamente duas semanas. O quadro é sugestivo de síndrome nefrítica. Considerando as informações apresentadas e seus conhecimentos, qual das seguintes opções indica corretamente a localização do rim mais afetada na síndrome nefrítica?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cálices renais"
+      },
+      {
+        "letra": "B",
+        "texto": "Túbulos renais"
+      },
+      {
+        "letra": "C",
+        "texto": "Glomérulos renais"
+      },
+      {
+        "letra": "D",
+        "texto": "Ureteres"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105101,
+    "tags": [],
+    "enunciado": "T.P.L., mulher de 76 anos, com histórico de hipertensão, diabetes e insu(cid:56)ciência cardíaca, comparece ao pronto-socorro com edema progressivo nos membros inferiores, falta de ar e fadiga, que pioraram signi(cid:56)cativamente nos últimos 7 dias. Seus medicamentos incluem metformina, enalapril e furosemida, que ela relata tomar conforme prescrito. Exames laboratoriais revelam aumento dos níveis de creatinina sérica e redução na taxa de (cid:56)ltração glomerular. O ecocardiograma mostra diminuição na fração de ejeção, indicando agravamento da insuficiência cardíaca. Com base no caso clínico apresentado e em seus conhecimentos, qual a cauda mais provável para a insuficiência renal desta paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Necrose tubular aguda"
+      },
+      {
+        "letra": "B",
+        "texto": "Glomerulonefrite"
+      },
+      {
+        "letra": "C",
+        "texto": "Hipoperfusão renal"
+      },
+      {
+        "letra": "D",
+        "texto": "Obstrução do trato urinário"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105102,
+    "tags": [],
+    "enunciado": "O.G.R., homem de 68 anos, com histórico de diabetes mellitus tipo 2 e hipertensão, é admitido no pronto- socorro com edema periférico, fadiga e uma diminuição acentuada na produção de urina. Além disso, ele menciona uma recente infecção do trato urinário que foi tratada com antibióticos. Exames laboratoriais mostram aumento da creatinina sérica, ureia e uma concentração anormalmente alta de proteínas na urina. Uma biópsia renal é realizada, revelando inflamação intersticial e danos tubulares. Com base no caso clínico apresentado e em seus conhecimentos, qual das seguintes opções é a causa mais provável da insuficiência renal aguda neste paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pré-renal devido à desidratação."
+      },
+      {
+        "letra": "B",
+        "texto": "Renal devido à nefrite intersticial."
+      },
+      {
+        "letra": "C",
+        "texto": "Pós-renal devido à obstrução do trato urinário."
+      },
+      {
+        "letra": "D",
+        "texto": "Pré-renal devido à insuficiência cardíaca congestiva."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105103,
+    "tags": [],
+    "enunciado": "L.F.K., homem de 72 anos, com histórico de hipertensão, é admitida no pronto-socorro com queixas de dor lombar intensa e um episódio de hematúria. A paciente também relata diminuição do volume de urina nas últimas 72 horas. Ao exame, a paciente parece desconfortável e tem pressão arterial de 150/90 mmHg. Exames laboratoriais mostram creatinina sérica elevada e baixo débito urinário. O ultrassom mostra hidronefrose bilateral, sugestiva de obstrução do trato urinário. Com base no caso clínico apresentado e em seus conhecimentos, qual das seguintes opções é a causa mais provável da insuficiência renal aguda neste paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pré-renal devido a hipovolemia."
+      },
+      {
+        "letra": "B",
+        "texto": "Renal devido a nefrite intersticial."
+      },
+      {
+        "letra": "C",
+        "texto": "Pós-renal devido a obstrução do trato urinário."
+      },
+      {
+        "letra": "D",
+        "texto": "Renal devido a obstrução do trato urinário."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105104,
+    "tags": [],
+    "enunciado": "J.R.L., homem de 72 anos, com histórico de doença de Parkinson, é levado ao pronto-socorro por seu cuidador, que relata que o paciente tem estado confuso nos últimos dois dias e produzindo menos urina do que o normal. J.R.L. também tem tido vômitos e diarreia severa nos últimos 3 dias. No exame físico, J.R.L. apresenta-se desorientado, com a pele seca e mucosas pegajosas. Seus sinais vitais revelam pressão arterial de 90/60 mmHg e frequência cardíaca de 105 batimentos por minuto. Exames laboratoriais mostram creatinina sérica de 2,8 mg/dL (valor de referência: 0,7 a 1,3 mg/dL) e ureia de 68 mg/dL (valor de referência: 7 a 20 mg/dL). A relação ureia/creatinina é maior que 20. A ultrassonogra(cid:56)a renal não mostra evidência de obstrução do trato urinário. Foi confirmado o diagnóstico de insuficiência renal aguda (IRA) Com base no caso clínico apresentado e em seus conhecimentos, qual a principal causa de insu(cid:56)ciência renal aguda (IRA) neste paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Renal por necrose tubular aguda"
+      },
+      {
+        "letra": "B",
+        "texto": "Renal por glomerulonefrite"
+      },
+      {
+        "letra": "C",
+        "texto": "Pré-renal por hipoperfusão renal"
+      },
+      {
+        "letra": "D",
+        "texto": "Pós-renal por obstrução do trato urinário"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105105,
+    "tags": [],
+    "enunciado": "J.F.S, mulher de 27 anos, chega ao consultório médico com queixa de ardência ao urinar, aumento da frequência urinária e urgência miccional, iniciada há dois dias. Ela relata também um desconforto na região inferior do abdômen e na região lombar. A paciente está sexualmente ativa e não tem histórico de doenças crônicas ou uso de medicação regular. Ela nunca teve uma infecção urinária antes. Exame de urina de rotina revela bacteriúria e piúria. Uma cultura de urina é coletada e os resultados mostram crescimento signi(cid:56)cativo de Escherichia coli. A paciente é diagnosticada com cistite não complicada e é iniciado o tratamento com antibióticos. Com base no caso clínico apresentado e em seus conhecimentos, qual das seguintes opções é a principal via de entrada das bactérias que causam infecção do trato urinário?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Via hematogênica"
+      },
+      {
+        "letra": "B",
+        "texto": "Via ascendente"
+      },
+      {
+        "letra": "C",
+        "texto": "Via linfática"
+      },
+      {
+        "letra": "D",
+        "texto": "Via descendente"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105106,
+    "tags": [],
+    "enunciado": "P.J.B., mulher de 24 anos, chega à emergência se queixando de dor ao urinar, necessidade frequente de urinar e dor pélvica. Ela diz que os sintomas começaram há 2 dias e têm piorado progressivamente. M.S. não tem histórico médico signi(cid:56)cativo, não está grávida e não usa contraceptivos. Seus sinais vitais estão estáveis. O exame físico é normal, exceto por dor suprapúbica à palpação. Uma análise de urina revela leucocitúria e bacteriúria. Com base no caso clínico apresentado e em seus conhecimentos, qual é o agente causador mais provável da infecção do trato urinário nesta paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Klebsiella pneumoniae"
+      },
+      {
+        "letra": "B",
+        "texto": "Staphylococcus saprophyticus"
+      },
+      {
+        "letra": "C",
+        "texto": "Escherichia coli"
+      },
+      {
+        "letra": "D",
+        "texto": "Proteus mirabilis"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105107,
+    "tags": [],
+    "enunciado": "M.S., mulher de 25 anos, chega ao consultório médico queixando-se de ardência ao urinar e de uma necessidade frequente de urinar, embora as quantidades de urina sejam pequenas. Ela também relata um desconforto suprapúbico persistente. A paciente tem uma vida sexual ativa e não utiliza métodos contraceptivos de barreira, como o preservativo. Não tem histórico de infecções do trato urinário. O médico suspeita de uma infecção do trato urinário e coleta uma amostra de urina para exame. O teste de urina revela a presença de leucócitos e bactérias, confirmando o diagnóstico de infecção do trato urinário. Com base no caso clínico apresentado e em seus conhecimentos, qual dos seguintes fatores contribui mais signi(cid:56)cativamente para a prevalência mais alta de infecções do trato urinário em mulheres em comparação aos homens?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A menor distância entre a abertura da uretra e o ânus nas mulheres."
+      },
+      {
+        "letra": "B",
+        "texto": "A maior suscetibilidade das mulheres à infecção por bactérias."
+      },
+      {
+        "letra": "C",
+        "texto": "A ausência de método contraceptivo de barreira durante a relação sexual."
+      },
+      {
+        "letra": "D",
+        "texto": "A presença de sintomas mais graves de infecção do trato urinário nas mulheres."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105108,
+    "tags": [],
+    "enunciado": "C.A.S., mulher de 26 anos, chega à emergência com queixas de dor pélvica, disúria (di(cid:56)culdade para urinar) e polaciúria (aumento da frequência urinária), iniciadas há dois dias. A paciente relata que a urina está mais escura do que o normal e com odor forte. Uma urinálise é realizada e revela a presença de leucócitos, nitritos e bactérias na urina, sugerindo uma infecção do trato urinário. Com base no caso clínico apresentado e em seus conhecimentos, qual das seguintes opções é a mais provável localização da infecção do trato urinário nesta paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Rins (Pielonefrite)"
+      },
+      {
+        "letra": "B",
+        "texto": "Uretra (Uretrite)"
+      },
+      {
+        "letra": "C",
+        "texto": "Ureteres (Ureterite)"
+      },
+      {
+        "letra": "D",
+        "texto": "Bexiga (Cistite)"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105109,
+    "tags": [],
+    "enunciado": "D.R.F., homem de 40 anos, apresenta-se ao pronto-socorro com dor abdominal intensa e cólica, irradiando para a região lombar direita. A dor começou há algumas horas e tem se intensi(cid:56)cado progressivamente. Ele também relata náuseas, vômitos e a presença de sangue na urina. Um exame de imagem do trato urinário é realizado e revela uma pedra de 5 mm no ureter direito, na altura do cruzamento com o vaso ilíaco. O paciente é hidratado e administrada medicação analgésica, com monitoramento da progressão da pedra. Com base no caso clínico apresentado e em seus conhecimentos, qual das seguintes opções é a principal razão para a localização anatômica específica da pedra neste paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A presença de válvulas no ureter que impedem a passagem da pedra"
+      },
+      {
+        "letra": "B",
+        "texto": "O diâmetro do ureter neste local é menor que o da pedra"
+      },
+      {
+        "letra": "C",
+        "texto": "A peristalse ureteral é menos efetiva nesta área"
+      },
+      {
+        "letra": "D",
+        "texto": "A gravidade facilita a retenção da pedra neste local"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105110,
+    "tags": [],
+    "enunciado": "J.C.S., mulher de 45 anos, apresenta-se ao pronto-socorro com forte dor abdominal que irradia para a região lombar direita, associada à presença de sangue na urina e náuseas. A paciente menciona que a dor é aguda, vem e vai, e parece \"mover-se\" mais para baixo com o tempo. Um ultrassom renal é realizado e revela a presença de uma pedra no ureter direito. Com base no caso clínico apresentado e em seus conhecimentos, qual dos seguintes fatores é a principal causa de nefrolitíase neste paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Alta ingestão de vitamina D"
+      },
+      {
+        "letra": "B",
+        "texto": "Baixa ingestão de líquidos"
+      },
+      {
+        "letra": "C",
+        "texto": "Infecção urinária por Proteus mirabilis"
+      },
+      {
+        "letra": "D",
+        "texto": "Hiperparatireoidismo"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105111,
+    "tags": [],
+    "enunciado": "R.L.P, mulher de 35 anos, procura o pronto-socorro com queixas de dor lombar intensa, náuseas e vômitos, iniciados há cerca de três horas. A dor é descrita como cólica, migrando da região lombar para a região inguinal. Ao exame físico, a paciente apresenta dor à percussão renal. A análise de urina revela hematúria e a tomogra(cid:56)a computadorizada de abdômen con(cid:56)rma a presença de uma pedra de 5 mm no ureter esquerdo.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "paciente é diagnosticada com nefrolitíase. Levando em consideração o caso clínico apresentado e seus conhecimentos, qual das seguintes opções é a principal causa de nefrolitíase neste paciente?"
+      },
+      {
+        "letra": "A",
+        "texto": "Hipercalciúria idiopática"
+      },
+      {
+        "letra": "B",
+        "texto": "Hiperuricosúria"
+      },
+      {
+        "letra": "C",
+        "texto": "Infecção do trato urinário"
+      },
+      {
+        "letra": "D",
+        "texto": "Uropatia obstrutiva"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105112,
+    "tags": [],
+    "enunciado": "L.C.F., um homem de 45 anos, chega ao consultório médico com queixas de fadiga e ganho de peso recente. Ele relata que sua dieta não mudou nos últimos meses, mas ele notou um inchaço signi(cid:56)cativo em seus tornozelos e pés. Exames laboratoriais mostram níveis normais de sódio e potássio, mas um exame de urina revela uma diminuição da excreção de sódio. Durante a consulta, o médico explica a L.C.F. o papel dos rins na regulação do volume extracelular do corpo. Dadas as informações acima e seu conhecimento sobre o papel dos rins na regulação do volume extracelular, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O hormônio antidiurético (ADH) é liberado em resposta à diminuição do volume extracelular e promove a reabsorção de sódio."
+      },
+      {
+        "letra": "B",
+        "texto": "A aldosterona é liberada em resposta ao aumento do volume extracelular e promove a reabsorção de sódio."
+      },
+      {
+        "letra": "C",
+        "texto": "O sistema renina-angiotensina-aldosterona é ativado em resposta à diminuição do volume extracelular e promove a reabsorção de sódio."
+      },
+      {
+        "letra": "D",
+        "texto": "A natriurese por pressão ocorre quando o volume extracelular diminui, promovendo a excreção de sódio."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105113,
+    "tags": [],
+    "enunciado": "M.A.P, um homem de 45 anos, foi levado às pressas para o pronto-socorro com queixa de tontura, fraqueza e di(cid:56)culdade para respirar. Exames de sangue revelaram baixo nível de bicarbonato e um pH sanguíneo inferior a 7,35, indicando um estado de acidose metabólica. Para compensar essa condição, o médico explicou a M.A.P que os rins aumentam a excreção de íons de hidrogênio e a reabsorção de bicarbonato. Durante a consulta, o médico explicou que o túbulo proximal é um local importante para o controle do balanço ácido-base, pois é onde a maior parte do bicarbonato filtrado é reabsorvida. Com base no cenário acima e em seu conhecimento sobre a (cid:56)siologia renal e o controle do balanço ácido- base, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A reabsorção de bicarbonato no túbulo proximal ocorre independentemente da secreção de íons de hidrogênio."
+      },
+      {
+        "letra": "B",
+        "texto": "A acidose metabólica resulta em uma diminuição da atividade da anidrase carbônica nas células tubulares proximais."
+      },
+      {
+        "letra": "C",
+        "texto": "A reabsorção de bicarbonato é acompanhada pela secreção de íons de hidrogênio pelas células do túbulo proximal."
+      },
+      {
+        "letra": "D",
+        "texto": "O principal transportador responsável pela secreção de íons de hidrogênio no túbulo proximal é o canal de potássio."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105114,
+    "tags": [],
+    "enunciado": "Em qual porção do néfron o Na+ entra nas células tubulares pelo canal ENaC?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Segmento fino ascendente da alça de Henle"
+      },
+      {
+        "letra": "B",
+        "texto": "Túbulos coletores"
+      },
+      {
+        "letra": "C",
+        "texto": "Segmento espesso ascendente da alça de Henle"
+      },
+      {
+        "letra": "D",
+        "texto": "Segmento S1 dos túbulos proximais"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105115,
+    "tags": [],
+    "enunciado": "Qual das seguintes substâncias não tem sua excreção aumentada pelo uso de furosemida?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sódio"
+      },
+      {
+        "letra": "B",
+        "texto": "Bicarbonato"
+      },
+      {
+        "letra": "C",
+        "texto": "Potássio"
+      },
+      {
+        "letra": "D",
+        "texto": "Cloreto"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105116,
+    "tags": [],
+    "enunciado": "F.D., um homem de 54 anos, foi admitido no departamento de emergência após sofrer um acidente de carro grave. Ele está inconsciente, com uma pressão intracraniana elevada. A equipe médica decide administrar manitol para diminuir a pressão intracraniana. Durante a administração, um estudante de medicina pergunta ao médico responsável sobre o mecanismo de ação do manitol nos rins. Considerando o cenário acima e seu conhecimento sobre o manitol, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O manitol, um diurético osmolar, atua aumentando a osmolaridade do filtrado glomerular, inibindo a reabsorção de água."
+      },
+      {
+        "letra": "B",
+        "texto": "O manitol aumenta a excreção de potássio, colocando o paciente em risco de hipocalemia."
+      },
+      {
+        "letra": "C",
+        "texto": "O manitol atua inibindo a anidrase carbônica, diminuindo a reabsorção de bicarbonato."
+      },
+      {
+        "letra": "D",
+        "texto": "O manitol é um diurético poupador de potássio que atua antagonizando a aldosterona."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105117,
+    "tags": [],
+    "enunciado": "T.F.S, um homem de 50 anos, foi encaminhado ao consultório de seu médico com sintomas de fadiga crônica e inchaço nos membros inferiores. Ele tem um histórico de insuficiência cardíaca congestiva. Durante a consulta, o médico decide iniciar o tratamento com espironolactona, um diurético poupador de potássio, para ajudar a controlar seus sintomas. O médico explica ao paciente como a espironolactona funciona no rim. Com base no cenário acima e no seu conhecimento sobre a farmacologia da espironolactona, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A espironolactona aumenta a excreção de potássio pela urina."
+      },
+      {
+        "letra": "B",
+        "texto": "A espironolactona bloqueia o efeito do hormônio antidiurético no ducto coletor."
+      },
+      {
+        "letra": "C",
+        "texto": "A espironolactona é um antagonista do receptor de aldosterona."
+      },
+      {
+        "letra": "D",
+        "texto": "A espironolactona age principalmente no segmento espesso ascendente da alça de Henle."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105118,
+    "tags": [],
+    "enunciado": "V.M.S., um homem de 65 anos, compareceu a um cardiologista após um diagnóstico de insuficiência cardíaca congestiva. Ele foi recentemente hospitalizado por falta de ar e ganho de peso, e o seu médico achou por bem prescrever furosemida, um diurético de alça, para controlar a retenção de (cid:71)uidos. Durante a consulta, o médico explicou a V.M.S. como a furosemida ajuda a reduzir a retenção de fluidos. Dado o cenário acima e o seu conhecimento sobre a ação dos diuréticos de alça, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A furosemida inibe o co-transportador Na+/K+/2Cl- no segmento espesso ascendente da alça de Henle, aumentando a reabsorção de água."
+      },
+      {
+        "letra": "B",
+        "texto": "A furosemida age no túbulo proximal, aumentando a excreção de sódio e água."
+      },
+      {
+        "letra": "C",
+        "texto": "A furosemida aumenta a concentração de íons de sódio e cloreto no filtrado glomerular, aumentando a osmolalidade da urina."
+      },
+      {
+        "letra": "D",
+        "texto": "A furosemida inibe o co-transportador Na+/K+/2Cl- no segmento espesso ascendente da alça de Henle, aumentando a excreção de sódio, cloreto e água na urina."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105119,
+    "tags": [],
+    "enunciado": "R.L.S., um homem de 56 anos, procurou o consultório médico se queixando de dores de cabeça persistentes e ocasionais tonturas. Ele tem um histórico familiar de hipertensão e um exame de pressão arterial con(cid:56)rmou um diagnóstico de hipertensão de estágio 1. R.L.S. foi aconselhado a fazer mudanças no estilo de vida e prescreveram-lhe um diurético tiazídico para gerenciar sua condição. Durante a consulta, o médico explicou a J.P.S. a ação deste tipo de diurético, especialmente enfatizando o seu papel no néfron. Com base no cenário acima e em seu conhecimento sobre os diuréticos tiazídicos, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Diuréticos tiazídicos atuam na alça de Henle, aumentando a excreção de água e sódio."
+      },
+      {
+        "letra": "B",
+        "texto": "Diuréticos tiazídicos atuam no túbulo proximal, inibindo a reabsorção de sódio."
+      },
+      {
+        "letra": "C",
+        "texto": "Diuréticos tiazídicos atuam no túbulo coletor, promovendo a secreção de potássio."
+      },
+      {
+        "letra": "D",
+        "texto": "Diuréticos tiazídicos atuam no túbulo contorcido distal, inibindo a reabsorção de sódio e cloreto."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105120,
+    "tags": [],
+    "enunciado": "J.P.S., um homem de 65 anos, procurou seu médico queixando-se de fadiga crônica e di(cid:56)culdade em realizar atividades diárias. Durante a consulta, o médico descobriu que o paciente tinha histórico de hipertensão e glaucoma de ângulo aberto. Recentemente, J.P.S. também foi diagnosticado com insu(cid:56)ciência cardíaca congestiva. Dado o quadro clínico e a necessidade de manejo da pressão arterial e dos sintomas de retenção de líquidos, o médico decidiu prescrever um diurético como parte do plano de tratamento. Foi optado por prescrever um inibidor da anidrase carbônica devido sua ação diurética e também no tratamento de glaucoma. Qual dos seguintes diuréticos foi prescrito para J.P.S?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tiazídicos"
+      },
+      {
+        "letra": "B",
+        "texto": "Espironolactona"
+      },
+      {
+        "letra": "C",
+        "texto": "Amilorida"
+      },
+      {
+        "letra": "D",
+        "texto": "Acetazolamida"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105121,
+    "tags": [],
+    "enunciado": "J.R.S., um homem de 64 anos, foi encaminhado pelo seu médico para um cardiologista após um episódio de tontura e desmaio. O paciente tem um histórico médico signi(cid:56)cativo de insu(cid:56)ciência cardíaca congestiva e hipertensão. A medicação atual inclui um betabloqueador, um inibidor da ECA e um diurético de alça. O médico solicita exames laboratoriais que revelam níveis baixos de potássio no sangue, um sinal de hipocalemia. O cardiologista decide substituir o diurético de alça do paciente por um diurético poupador de potássio para evitar mais perda de potássio. Qual dos seguintes diuréticos é uma opção de poupador de potássio?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Furosemida"
+      },
+      {
+        "letra": "B",
+        "texto": "Tiazídico"
+      },
+      {
+        "letra": "C",
+        "texto": "Amilorida"
+      },
+      {
+        "letra": "D",
+        "texto": "Acetazolamida"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105122,
+    "tags": [],
+    "enunciado": "J.A.S., um homem de 48 anos, visitou seu médico relatando um histórico recente de sede intensa, micção frequente, boca seca e perda de peso. Exames laboratoriais de sangue e urina revelaram níveis elevados de glicose, o que sugere um possível diagnóstico de diabetes tipo 2. O médico de J.A.S. encaminhou-o para um endocrinologista, que decidiu iniciar o tratamento com insulina e orientou o paciente sobre as mudanças no estilo de vida que precisam ser feitas. Durante a consulta, o endocrinologista explicou a J.A.S. sobre a importância da insulina na regulação da glicose no sangue e também mencionou o papel dos rins na regulação dos níveis de glicose no corpo, destacando a função do ducto coletor do néfron. Com base no cenário acima e em seu conhecimento sobre a função e estrutura do ducto coletor do néfron, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O ducto coletor é altamente permeável a solutos, incluindo glicose."
+      },
+      {
+        "letra": "B",
+        "texto": "O ducto coletor é responsável pela reabsorção ativa de glicose do filtrado glomerular."
+      },
+      {
+        "letra": "C",
+        "texto": "No ducto coletor, a permeabilidade à água é regulada pela presença do hormônio antidiurético (ADH ou vasopressina)."
+      },
+      {
+        "letra": "D",
+        "texto": "A secreção de íons hidrogênio (H+) não ocorre no ducto coletor."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105123,
+    "tags": [],
+    "enunciado": "P.R.S., um homem de 52 anos, foi ao consultório médico devido a um histórico recente de hipertensão arterial. Seu médico decidiu investigar mais a fundo a causa da condição e solicitou exames de sangue e urina para avaliar a função renal do paciente. Durante a consulta de retorno, o médico explicou a P.R.S. sobre o processo de formação da urina e destacou a importância do transporte de substâncias no túbulo distal, uma estrutura-chave no sistema de néfrons dos rins. Considerando o cenário acima e seu conhecimento sobre a função e as estruturas do túbulo distal, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O túbulo distal não tem um papel importante na regulação do pH do sangue."
+      },
+      {
+        "letra": "B",
+        "texto": "A reabsorção de sódio no túbulo distal ocorre independentemente da presença do hormônio aldosterona."
+      },
+      {
+        "letra": "C",
+        "texto": "O túbulo distal é impermeável à água, independente da presença do hormônio antidiurético (ADH)."
+      },
+      {
+        "letra": "D",
+        "texto": "A secreção de potássio para o filtrado glomerular é um dos processos que ocorrem no túbulo distal."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105124,
+    "tags": [],
+    "enunciado": "C.P.H, uma mulher de 36 anos, procurou seu médico relatando um histórico recente de sede intensa, poliúria e fraqueza generalizada. Exames laboratoriais de sangue e urina revelaram níveis elevados de sódio e potássio, sugerindo uma possível disfunção renal. A paciente foi encaminhada para um nefrologista para um diagnóstico mais preciso. Durante a consulta, o médico explicou à paciente o processo de formação da urina, destacando a importância do transporte de substâncias na alça de Henle, especi(cid:56)camente no segmento espesso ascendente. Considerando o cenário acima e seu conhecimento sobre o transporte de substâncias no segmento espesso ascendente da alça de Henle, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A reabsorção de sódio é significativa por via transcelular e ocorre também por via intercelular."
+      },
+      {
+        "letra": "B",
+        "texto": "Há secreção de bicarbonato."
+      },
+      {
+        "letra": "C",
+        "texto": "A diferença de potencial elétrico transepitelial favorece a reabsorção de cloreto por via intercelular."
+      },
+      {
+        "letra": "D",
+        "texto": "Há reabsorção osmótica de fluido."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105125,
+    "tags": [],
+    "enunciado": "R.J., um homem de 75 anos, apresenta-se na clínica com sintomas de micção frequente, noctúria(intensa necessidade de se levantar para urinar durante a noite) e disúria(dor ao urinar). Uma avaliação inicial sugere que R.J. possa ter um problema vascular envolvendo a bexiga. Sabendo que a bexiga recebe seu suprimento sanguíneo de várias fontes, qual das seguintes afirmações é a mais correta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A artéria vesical superior, um ramo da artéria ilíaca interna, é a principal fonte de suprimento sanguíneo para a bexiga."
+      },
+      {
+        "letra": "B",
+        "texto": "A artéria renal, um ramo da aorta abdominal, fornece a maior parte do suprimento sanguíneo para a bexiga."
+      },
+      {
+        "letra": "C",
+        "texto": "A artéria pudenda interna, um ramo da artéria ilíaca interna, é a principal fonte de suprimento sanguíneo para a bexiga."
+      },
+      {
+        "letra": "D",
+        "texto": "A artéria uterina, em mulheres, ou a artéria vesical inferior, em homens, fornece a maior parte do suprimento sanguíneo para a bexiga."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105126,
+    "tags": [],
+    "enunciado": "R.L., um homem de 57 anos, apresenta-se ao consultório com di(cid:56)culdade em iniciar a micção e sente que não esvazia completamente a bexiga. Você suspeita de uma condição que envolva a inervação da bexiga. Sabendo que a bexiga é inervada tanto pelo sistema nervoso autônomo como pelo sistema nervoso somático, qual das seguintes afirmações é a mais correta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Uma lesão no nervo pudendo pode afetar a capacidade de R.L. de iniciar a micção, pois esse nervo fornece a inervação simpática responsável pelo relaxamento do esfíncter interno da uretra e contração da bexiga."
+      },
+      {
+        "letra": "B",
+        "texto": "Uma lesão nos nervos esplâncnicos sacrais (S2-S4) pode afetar a capacidade de R.L. de reter a urina, pois esses nervos fornecem a inervação somática responsável pelo controle voluntário do esfíncter externo da uretra."
+      },
+      {
+        "letra": "C",
+        "texto": "Uma lesão nos nervos lombares (L1-L2) pode afetar a capacidade de R.L. de iniciar a micção, pois esses nervos fornecem a inervação parassimpática responsável pelo relaxamento do esfíncter interno da uretra e contração da bexiga."
+      },
+      {
+        "letra": "D",
+        "texto": "Uma lesão no nervo pudendo pode afetar a capacidade de R.L. de controlar voluntariamente a micção, pois esse nervo fornece a inervação somática responsável pelo controle do esfíncter externo da uretra."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105127,
+    "tags": [],
+    "enunciado": "M.J., um homem de 50 anos, chega ao consultório reclamando de di(cid:56)culdade para urinar. Após a consulta inicial e exames, é diagnosticado com uma lesão do nervo pélvico. Sabendo que a uretra recebe inervação do sistema nervoso autônomo e somático, qual das seguintes afirmações é a mais correta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Uma lesão no nervo pélvico não afetará a capacidade de M.J. de iniciar a micção, pois a inervação simpática da uretra é responsável pela iniciação da micção."
+      },
+      {
+        "letra": "B",
+        "texto": "Uma lesão no nervo pélvico pode interferir na capacidade de M.J. de iniciar a micção, pois a inervação parassimpática da uretra é responsável pela contração do músculo detrusor da bexiga, o que permite a expulsão da urina armazenada na bexiga."
+      },
+      {
+        "letra": "C",
+        "texto": "Uma lesão no nervo pélvico não afetará a capacidade de M.J. de controlar voluntariamente a micção, pois a inervação somática da uretra é responsável pelo controle voluntário da micção."
+      },
+      {
+        "letra": "D",
+        "texto": "Uma lesão no nervo pélvico pode interferir na capacidade de M.J. de controlar voluntariamente a micção, pois a inervação parassimpática da uretra é responsável pelo controle voluntário da micção."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105128,
+    "tags": [],
+    "enunciado": "L.R., um homem de 55 anos, chega ao seu consultório queixando-se de dor lombar intermitente que irradia para a região inguinal. Após a avaliação, você suspeita de cólica renal, possivelmente devido a um cálculo no ureter. Sabendo que a dor ureteral é frequentemente causada pela distensão do ureter e que esta é percebida devido à sua inervação, qual das seguintes a(cid:56)rmações sobre a inervação do ureter é a mais correta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A inervação do ureter é exclusivamente parassimpática, com a maior parte da inervação vindo dos nervos esplâncnicos sacrais."
+      },
+      {
+        "letra": "B",
+        "texto": "A inervação do ureter é exclusivamente simpática, com a maior parte da inervação vindo dos nervos esplâncnicos lombares."
+      },
+      {
+        "letra": "C",
+        "texto": "A inervação do ureter é tanto simpática quanto parassimpática, com a inervação simpática vindo principalmente dos nervos esplâncnicos lombares e a inervação parassimpática vindo principalmente dos nervos esplâncnicos sacrais."
+      },
+      {
+        "letra": "D",
+        "texto": "O ureter não tem inervação direta e a dor é percebida somente quando a distensão ureteral causa dor referida nos órgãos adjacentes."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105129,
+    "tags": [],
+    "enunciado": "J.F., um homem de 58 anos, chega ao consultório reclamando de dor na região lombar e nas costas, irradiando para a parte inferior do abdômen. Um exame de ultrassom revela a presença de uma pedra no ureter, causando obstrução e hidronefrose (dilatação da pélvis e dos cálices do rim). Com base em seu conhecimento da vascularização do ureter, qual das seguintes afirmações é a mais correta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A principal fonte de suprimento sanguíneo para o ureter é a artéria ilíaca interna, portanto, a dor pode estar relacionada à pressão da pedra sobre essa artéria."
+      },
+      {
+        "letra": "B",
+        "texto": "A principal fonte de suprimento sanguíneo para o ureter é a artéria renal, portanto, a dor pode estar relacionada à pressão da pedra sobre essa artéria."
+      },
+      {
+        "letra": "C",
+        "texto": "A vascularização do ureter é segmentar, originada de várias fontes, incluindo as artérias renal, gonadal (testicular em homens e ovariana em mulheres) e as artérias ilíacas internas e externas, portanto, a dor pode ser causada pela obstrução da drenagem venosa em qualquer um desses segmentos."
+      },
+      {
+        "letra": "D",
+        "texto": "O ureter não possui suprimento sanguíneo próprio e, em vez disso, depende exclusivamente da drenagem venosa para nutrir suas paredes, portanto, a dor pode ser causada pela obstrução dessa drenagem."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105130,
+    "tags": [],
+    "enunciado": "M.G., um homem de 52 anos, chega ao consultório queixando-se de dor no (cid:71)anco esquerdo que se irradia para a região inguinal. Você suspeita de uma condição renal e sabe que os rins recebem inervação de diferentes fontes. Sabendo que o sistema nervoso desempenha um papel crucial na regulação das funções renais, qual das seguintes afirmações é a mais correta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os rins recebem inervação exclusivamente do nervo vago, portanto uma lesão neste nervo poderia ser responsável pelos sintomas de M.G."
+      },
+      {
+        "letra": "B",
+        "texto": "Os rins recebem inervação predominantemente do sistema nervoso parassimpático através do plexo renal, portanto uma disfunção neste sistema poderia ser responsável pelos sintomas de M.G."
+      },
+      {
+        "letra": "C",
+        "texto": "Os rins recebem inervação predominantemente do sistema nervoso simpático através do plexo renal, portanto uma disfunção neste sistema poderia ser responsável pelos sintomas de M.G."
+      },
+      {
+        "letra": "D",
+        "texto": "Os rins recebem inervação exclusivamente do sistema nervoso entérico, portanto uma lesão neste sistema poderia ser responsável pelos sintomas de M.G."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105131,
+    "tags": [],
+    "enunciado": "P.S., uma mulher de 45 anos, chega ao consultório com histórico de hipertensão mal controlada. Após uma avaliação minuciosa, você suspeita que uma possível causa para a hipertensão de P.S. seja uma estenose (estreitamento) da artéria renal. Você decide então encaminhá-la para uma angiogra(cid:56)a renal para con(cid:56)rmar seu diagnóstico. Antes do procedimento, você decide revisar a anatomia vascular renal para orientar sua interpretação dos resultados. Considerando as diferenças estruturais entre as artérias renais e as veias renais, qual das seguintes afirmações é a mais correta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A artéria renal esquerda é mais curta que a artéria renal direita, enquanto a veia renal esquerda é mais curta que a veia renal direita."
+      },
+      {
+        "letra": "B",
+        "texto": "A artéria renal esquerda é mais longa que a artéria renal direita, enquanto a veia renal esquerda é mais longa que a veia renal direita."
+      },
+      {
+        "letra": "C",
+        "texto": "A artéria renal esquerda é mais longa que a artéria renal direita, enquanto a veia renal esquerda é mais curta que a veia renal direita."
+      },
+      {
+        "letra": "D",
+        "texto": "A artéria renal esquerda é mais curta que a artéria renal direita, enquanto a veia renal esquerda é mais longa que a veia renal direita."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105132,
+    "tags": [],
+    "enunciado": "Sobre a reabsorção que ocorre no túbulo proximal do néfron, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "No túbulo proximal a água acompanha a reabsorção de potássio."
+      },
+      {
+        "letra": "B",
+        "texto": "A enzima anidrase carbônica II é essencial para a quebra de bicarbonato em dióxido de carbono e hidroxila, permitindo, assim, a reabsorção do ânion."
+      },
+      {
+        "letra": "C",
+        "texto": "No túbulo proximal do néfron o sódio é reabsorvido por meio do transportador NKCC2."
+      },
+      {
+        "letra": "D",
+        "texto": "A maior reabsorção de todo o sódio, de toda a água e de todo o bicarbonato acontece no túbulo proximal."
+      },
+      {
+        "letra": "E",
+        "texto": "A reabsorção de potássio ocorre majoritariamente pela via transcelular."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105133,
+    "tags": [],
+    "enunciado": "Sobre os diferentes componentes do néfron, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os néfrons corticais apresentam alças de Henle mais longas, em comparação aos néfrons medulares."
+      },
+      {
+        "letra": "B",
+        "texto": "O ramo descendente fino da alça de Henle apresenta baixa permeabilidade à água."
+      },
+      {
+        "letra": "C",
+        "texto": "As células que compõem o túbulo convoluto distal são colunares."
+      },
+      {
+        "letra": "D",
+        "texto": "O segmento espesso ascendente do néfron é permeável à água."
+      },
+      {
+        "letra": "E",
+        "texto": "É no ducto coletor que o hormônio anti-diurético age."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 105134,
+    "tags": [],
+    "enunciado": "Sobre os corpúsculos renais, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As fendas de filtração são espaços que ocorrem entre os prolongamentos primários dos podócitos."
+      },
+      {
+        "letra": "B",
+        "texto": "A barreira de filtração glomerular é constituída pelos podócitos e pelo endotélio fenestrado, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "O espaço capsular é o espaço virtual entre o folheto interno e o folheto externo da cápsula de Bowman."
+      },
+      {
+        "letra": "D",
+        "texto": "Os prolongamentos secundários dos podócitos se fixam à membrana basal por meio de desmossomos."
+      },
+      {
+        "letra": "E",
+        "texto": "Os podócitos são as células que apresentam receptores que, quando estimulados, induzem a contração ou o relaxamento da arteríola aferente."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105135,
+    "tags": [],
+    "enunciado": "Sobre a formação da bexiga e da uretra no embrião, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os ureteres se desenvolvem conjuntamente com a bexiga urinária."
+      },
+      {
+        "letra": "B",
+        "texto": "A bexiga urinária está inicialmente ligada ao alantoide, mas depois que ocorre a obliteração deste, apenas um cordão fibroso permanece."
+      },
+      {
+        "letra": "C",
+        "texto": "Ao nascimento, o úraco dá origem ao ligamento umbilical medial."
+      },
+      {
+        "letra": "D",
+        "texto": "A cloaca, que originará a bexiga urinária, é formada a partir do intestino médio."
+      },
+      {
+        "letra": "E",
+        "texto": "A bexiga urinária começa a se desenvolver apenas quando o rim definitivo já se desenvolveu."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105136,
+    "tags": [],
+    "enunciado": "Sobre os sistemas renais que aparecem durante o desenvolvimento embrionário, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O pronefro é originado a partir dos nefrótomos."
+      },
+      {
+        "letra": "B",
+        "texto": "Os três sistemas renais que se desenvolvem no embrião, são, em ordem cronológica: o pronefro, o metanefro e o mesonefro."
+      },
+      {
+        "letra": "C",
+        "texto": "O mesonefro se origina a partir da região cervical."
+      },
+      {
+        "letra": "D",
+        "texto": "A excreção de urina acontece já a partir do pronefro."
+      },
+      {
+        "letra": "E",
+        "texto": "A partir do surgimento do broto uretérico a urina começa a ser excretada."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105137,
+    "tags": [],
+    "enunciado": "Sobre a inervação da bexiga urinária, assinale a correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os troncos vagal anterior e posterior participam da inervação parassimpática da bexiga urinária."
+      },
+      {
+        "letra": "B",
+        "texto": "As fibras simpáticas se originam a partir da região lombar da medula espinhal, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "As sinapses que as fibras simpáticas pré-ganglionares realizam com os neurônios pós-ganglionares podem ocorrer na parede da bexiga urinária."
+      },
+      {
+        "letra": "D",
+        "texto": "As fibras parassimpáticas estimulam relaxamento do músculo esfíncter interno da uretra e contração da parede da bexiga urinária."
+      },
+      {
+        "letra": "E",
+        "texto": "As sinapses que as fibras parassimpáticas pré-ganglionares realizam ocorrem, necessariamente, na parede da bexiga urinária."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105138,
+    "tags": [],
+    "enunciado": "Sobre a irrigação e a drenagem venosa da bexiga urinária, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A irrigação da bexiga urinária é promovida por ramos da artéria ilíaca externa"
+      },
+      {
+        "letra": "B",
+        "texto": "Parte da irrigação da bexiga urinária é promovida pelas artérias vesicais superiores, ramos da divisão anterior da artéria ilíaca interna."
+      },
+      {
+        "letra": "C",
+        "texto": "Nas mulheres há participação das artérias vaginais na irrigação da bexiga."
+      },
+      {
+        "letra": "D",
+        "texto": "As veias vesicais superiores são tributárias das veias umbilicais."
+      },
+      {
+        "letra": "E",
+        "texto": "Os plexos venoso e vesical apresentam a característica de não serem contínuos entre si; eles estão relacionados à drenagem não só da bexiga, mas também da próstata, das glândulas seminais e dos ductos deferentes."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105139,
+    "tags": [],
+    "enunciado": "Ao se estudar as vias urinárias é possível perceber a diferença estrutural da uretra masculina em relação à uretra feminina. Sobre a anatomia da uretra feminina, sua irrigação e sua vascularização, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Assim como na uretra masculina, a uretra feminina apresenta seu óstio interno envolvido por um esfíncter interno."
+      },
+      {
+        "letra": "B",
+        "texto": "Um dos fatores que predispõem uma ocorrência maior de infecção urinária nas mulheres em relação aos homens é o tamanho da uretra."
+      },
+      {
+        "letra": "C",
+        "texto": "A artéria vaginal é um ramo direto da artéria aorta."
+      },
+      {
+        "letra": "D",
+        "texto": "A veia pudenda interna é tributária da veia ilíaca interna."
+      },
+      {
+        "letra": "E",
+        "texto": "A artéria pudenda externa ajuda a irrigar a uretra feminina."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105140,
+    "tags": [],
+    "enunciado": "Ao se estudar as vias urinárias é possível perceber a diferença estrutural da uretra masculina em relação à uretra feminina. Sobre a anatomia da uretra masculina, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A parte prostática da uretra está envolvida pelo esfíncter uretral interno."
+      },
+      {
+        "letra": "B",
+        "texto": "A parte esponjosa da uretra é a mais larga e a mais dilatável."
+      },
+      {
+        "letra": "C",
+        "texto": "Há apenas duas constrições presentes na uretra masculina: o óstio interno da uretra e o óstio externo da uretra."
+      },
+      {
+        "letra": "D",
+        "texto": "As glândulas bulbouretrais se localizam na altura das partes intramural e prostática."
+      },
+      {
+        "letra": "E",
+        "texto": "A fossa navicular da uretra está localizada na parte membranácea."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105141,
+    "tags": [],
+    "enunciado": "Sobre a anatomia da bexiga urinária, assinale a correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A bexiga urinária é um órgão retroperitoneal."
+      },
+      {
+        "letra": "B",
+        "texto": "A bexiga urinária localiza-se, primariamente, no abdômen, e, apenas depois da puberdade ela se encontra quase que inteiramente na pelve menor."
+      },
+      {
+        "letra": "C",
+        "texto": "Não há mecanismos que impeçam o refluxo urinário da bexiga para os ureteres pois o componente gravitacional é suficiente para que a urina tenha um fluxo unidirecional."
+      },
+      {
+        "letra": "D",
+        "texto": "A morfologia da bexiga urinária é constante."
+      },
+      {
+        "letra": "E",
+        "texto": "Na parte interna da bexiga urinária observa-se uma túnica serosa."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105142,
+    "tags": [],
+    "enunciado": "Sobre os ureteres, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As camadas de músculo encontradas nos ureteres é igual a encontrada no TGI: uma camada longitudinal externa e uma camada circular interna."
+      },
+      {
+        "letra": "B",
+        "texto": "O estreitamento mais apertado que ocorre nos ureteres é aquele que passa pelo cruzamento da artéria ilíaca comum."
+      },
+      {
+        "letra": "C",
+        "texto": "Na parte abdominal os ureteres passam sobre as artérias e veias testiculares/ováricas."
+      },
+      {
+        "letra": "D",
+        "texto": "Na transição para a parte pélvica, os ureteres passam logo abaixo das artérias e veias ilíacas externas."
+      },
+      {
+        "letra": "E",
+        "texto": "No homem, o ureter passa por baixo do ducto deferente."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 105143,
+    "tags": [],
+    "enunciado": "Sobre a inervação dos rins e das glândulas suprarrenais, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A ação do simpático nas glândulas suprarrenais culmina com a liberação de catecolaminas."
+      },
+      {
+        "letra": "B",
+        "texto": "As ações do sistema parassimpático predominam nos rins e nas glândulas suprarrenais."
+      },
+      {
+        "letra": "C",
+        "texto": "As glândulas suprarrenais e os rins são inervados por ramos do plexo renal."
+      },
+      {
+        "letra": "D",
+        "texto": "O plexo celíaco emite ramos que inervam as partes superiores dos rins."
+      },
+      {
+        "letra": "E",
+        "texto": "Os troncos vagal anterior e posterior participam da inervação dos rins."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105144,
+    "tags": [],
+    "enunciado": "Sobre a irrigação e as drenagens venosa e linfática das glândulas suprarrenais, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A veia suprarrenal esquerda é uma tributária da veia cava inferior."
+      },
+      {
+        "letra": "B",
+        "texto": "Assim como há geralmente três artérias que suprem as elevadas demandas metabólicas das glândulas suprarrenais, há três veias que realizam a drenagem desse órgão."
+      },
+      {
+        "letra": "C",
+        "texto": "A artéria suprarrenal média pode não estar presente em algumas pessoas."
+      },
+      {
+        "letra": "D",
+        "texto": "A linfa das glândulas suprarrenais vão diretamente para os linfonodos celíacos."
+      },
+      {
+        "letra": "E",
+        "texto": "As artérias suprarrenais superiores são provenientes de ramos provenientes diretamente da aorta."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105145,
+    "tags": [],
+    "enunciado": "Sobre as artérias e veias renais, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As artérias renais encontram-se numa posição anterior em relação às veias renais."
+      },
+      {
+        "letra": "B",
+        "texto": "Cada artéria renal dá origem a cinco artérias que irrigam cinco partes diferentes do rim."
+      },
+      {
+        "letra": "C",
+        "texto": "Na região da coluna renal, as artérias interlobares são ramos das artérias arqueadas."
+      },
+      {
+        "letra": "D",
+        "texto": "As veias renais se projetam anteriormente em relação à veia cava inferior."
+      },
+      {
+        "letra": "E",
+        "texto": "As artérias suprarrenais superiores são provenientes de ramos das artérias renais."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105146,
+    "tags": [],
+    "enunciado": "Sobre a anatomia dos rins, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Na face superior dos rins estão localizadas as glândulas suprarrenais, órgãos endócrinos circundados apenas por tecido conjuntivo."
+      },
+      {
+        "letra": "B",
+        "texto": "A pirâmide e a coluna renais estão localizadas no córtex do rim."
+      },
+      {
+        "letra": "C",
+        "texto": "Os ureteres são tubos formados por tecido conjuntivo. Eles conduzem a urina formada nos rins para a bexiga."
+      },
+      {
+        "letra": "D",
+        "texto": "Cada cálice maior do rim forma dois ou três cálices menores."
+      },
+      {
+        "letra": "E",
+        "texto": "O rim esquerdo apresenta seu ápice próximo da linha da vértebra T XII, enquanto o rim direito apresenta seu ápice próximo da linha da vértebra T XI.  Respostas: 1 B 2 D 3 C 4 D 5 B 6 C 7 D 8 A 9 C 10 B 11 A 12 D 13 C 14 B 15 A 16 A 17 C 18 C 19 B 20 C 21 D 22 C 23 A 24 D 25 C 26 B 27 A 28 B 29 B 30 C 31 A 32 A 33 C 34 C 35 B 36 D 37 A 38 D 39 A 40 B 41 C 42 B 43 B 44 C 45 D 46 C 47 B 48 D 49 C 50 B 51 D 52 D 53 D 54 A 55 C 56 C 57 B 58 C 59 C 60 B 61 C 62 A 63 D 64 B 65 B 66 A 67 C 68 C 69 B 70 B 71 A 72 C 73 D 74 D 75 D 76 C 77 C 78 D 79 A 80 A 81 D 82 B 83 C 84 C 85 C 86 D 87 D 88 E 89 C 90 B 91 A 92 D 93 C 94 B 95 A 96 B 97 E 98 A 99 C 100 B 101 D"
+      }
+    ],
+    "resposta_correta": "D"
+  }
+]

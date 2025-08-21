@@ -1,0 +1,2098 @@
+[
+  {
+    "id": 106016,
+    "tags": [],
+    "enunciado": "Assinale a alternativa que melhor descreve o mecanismo de surgimento da quarta bulha (B4) na ausculta cardíaca:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A quarta bulha é um sopro audível na estenose aórtica, que decorre da tentativa de ejetar o sangue forçosamente contra a valva aórtica enrijecida durante a sístole ventricular."
+      },
+      {
+        "letra": "B",
+        "texto": "A quarta bulha é o som fisiológico produzido pelo desdobramento da primeira bulha em dois sons quando ela é auscultada durante a inspiração."
+      },
+      {
+        "letra": "C",
+        "texto": "A quarta bulha tem origem no choque do sangue ejetado pela contração atrial contra a massa de sangue represada no ventrículo no fim da diástole."
+      },
+      {
+        "letra": "D",
+        "texto": "A quarta bulha é um sopro bastante característico que ocorre durante a diástole, também chamada de sopro em ruflar, é decorrente do enrijecimento da valva mitral nos casos de estenose mitral."
+      },
+      {
+        "letra": "E",
+        "texto": "A quarta bulha é o som decorrente do fechamento da valva pulmonar no início da diástole ventricular."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106017,
+    "tags": [],
+    "enunciado": "Assinale a alternativa que melhor descreve o mecanismo de surgimento da terceira bulha (B3) na ausculta cardíaca:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A terceira bulha representa o fechamento das valvas atrioventriculares do coração no início da sístole ventricular."
+      },
+      {
+        "letra": "B",
+        "texto": "A terceira bulha é causada pela desaceleração brusca do sangue que se choca contra a parede ventricular durante a fase de enchimento rápido do ciclo cardíaco."
+      },
+      {
+        "letra": "C",
+        "texto": "A terceira bulha representa o fechamento das valvas semilunares do coração no início da diástole ventricular."
+      },
+      {
+        "letra": "D",
+        "texto": "A terceira bulha é um sopro audível em casos de insuficiência mitral, nos quais a valva mitral não é capaz de se fechar adequadamente e deixa refluir sangue para os átrios durante a sístole ventricular."
+      },
+      {
+        "letra": "E",
+        "texto": "A terceira bulha tem origem no choque da ponta do ápice cardíaco contra a parede torácica durante a contração ventricular."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106018,
+    "tags": [],
+    "enunciado": "Marque a alternativa que associa corretamente os fenômenos (cid:56)siológicos que dão origem aos sons auscultáveis durante o exame cardíaco normal, chamados primeira bulha (B1) e segunda bulha (B2):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "B1 – Fechamento da valva mitral. B2 – Fechamento da valva tricúspide."
+      },
+      {
+        "letra": "B",
+        "texto": "B1 – Fechamento da valva pulmonar. B2 – Fechamento da valva aórtica."
+      },
+      {
+        "letra": "C",
+        "texto": "B1 – Fechamento das valvas aórtica e pulmonar. B2 – Fechamento das valvas mitral e tricúspide."
+      },
+      {
+        "letra": "D",
+        "texto": "B1 – Fechamento das valvas mitral e tricúspide. B2 – Fechamento das valvas aórtica e pulmonar."
+      },
+      {
+        "letra": "E",
+        "texto": "B1 – Fechamento da valva aórtica. B2 – Fechamento da valva mitral."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 106019,
+    "tags": [],
+    "enunciado": "Durante o exame cardíaco, a pesquisa do ictus cordis deve fazer parte da inspeção e da palpação. Em qual das seguintes regiões você esperaria encontrar o ictus cordis em um paciente saudável?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "No 4º ou 5º espaço intercostal, próximo à linha hemiclavicular esquerda."
+      },
+      {
+        "letra": "B",
+        "texto": "Na fossa supraclavicular esquerda."
+      },
+      {
+        "letra": "C",
+        "texto": "No 4º ou 5º espaço intercostal, junto à borda esquerda do osso esterno."
+      },
+      {
+        "letra": "D",
+        "texto": "Na fúrcula esternal."
+      },
+      {
+        "letra": "E",
+        "texto": "No 4º ou 5º espaço intercostal, na região da linha hemiclavicular direita."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106020,
+    "tags": [],
+    "enunciado": "A frequência respiratória é um importante parâmetro a ser avaliado durante o exame físico, sendo um indicador de descompensação quando está muito alterada. Qual das seguintes patologias pode levar a um aumento da frequência respiratória?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hipotireoidismo."
+      },
+      {
+        "letra": "B",
+        "texto": "Bronquite crônica."
+      },
+      {
+        "letra": "C",
+        "texto": "Intoxicação por opioides."
+      },
+      {
+        "letra": "D",
+        "texto": "Pneumonia."
+      },
+      {
+        "letra": "E",
+        "texto": "Rebaixamento do nível de consciência."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 106021,
+    "tags": [],
+    "enunciado": "Durante o exame físico dos pacientes, é importante que se avalie a frequência cardíaca e suas alterações. Qual é a faixa de frequência cardíaca considerada normal em adultos sadios?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "60 a 100 batimentos por minuto."
+      },
+      {
+        "letra": "B",
+        "texto": "60 a 80 batimentos por minuto."
+      },
+      {
+        "letra": "C",
+        "texto": "80 a 100 batimentos por minuto."
+      },
+      {
+        "letra": "D",
+        "texto": "Acima de 100 batimentos por minuto."
+      },
+      {
+        "letra": "E",
+        "texto": "Abaixo de 60 batimentos por minuto."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106022,
+    "tags": [],
+    "enunciado": "A medida da temperatura dos pacientes pode ser utilizada para diagnosticar febre, que sugere a instalação de determinadas doenças. Quais das seguintes situações clínicas podem cursar com a presença de febre?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Infecções."
+      },
+      {
+        "letra": "B",
+        "texto": "Doenças inflamatórias."
+      },
+      {
+        "letra": "C",
+        "texto": "Doenças autoimunes."
+      },
+      {
+        "letra": "D",
+        "texto": "Neoplasias."
+      },
+      {
+        "letra": "E",
+        "texto": "Todas as alternativas."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 106023,
+    "tags": [],
+    "enunciado": "Assinale a alternativa que constitui um erro de técnica durante a palpação dos pulsos arteriais periféricos:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Palpar simultaneamente os pulsos equivalentes contralaterais."
+      },
+      {
+        "letra": "B",
+        "texto": "Palpar o pulso utilizando o dedo polegar."
+      },
+      {
+        "letra": "C",
+        "texto": "Calcular a frequência de pulso contando o número de pulsos por 30 segundos e multiplicando o valor obtido por 2."
+      },
+      {
+        "letra": "D",
+        "texto": "Palpar os pulsos do membros no sentido de distal para proximal."
+      },
+      {
+        "letra": "E",
+        "texto": "Analisar a ritmicidade e a intensidade dos pulsos."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106024,
+    "tags": [],
+    "enunciado": "Qual a importância de realizar, sobretudo em pacientes idosos, a aferição da pressão arterial em decúbito dorsal seguida por uma medida da mesma pressão em pé?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Prover maior conforto ao paciente durante o exame."
+      },
+      {
+        "letra": "B",
+        "texto": "Testar a funcionalidade do esfigmomanômetro contra a gravidade."
+      },
+      {
+        "letra": "C",
+        "texto": "Verificar o equilíbrio do paciente."
+      },
+      {
+        "letra": "D",
+        "texto": "Aumentar a fidelidade do exame ao realizar duas medidas."
+      },
+      {
+        "letra": "E",
+        "texto": "Realizar o diagnóstico de hipotensão postural."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 106025,
+    "tags": [],
+    "enunciado": "A medida da pressão arterial é parte fundamental do exame físico geral, devendo ser realizada para a grande maioria dos pacientes. Quais valores de pressão arterial são utilizados como corte para o diagnóstico de hipertensão arterial sistêmica?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pressão sistólica maior do que 120 mmHg e diastólica maior do que 80 mmHg."
+      },
+      {
+        "letra": "B",
+        "texto": "Pressão diastólica maior do que 120 mmHg e sistólica maior do que 80 mmHg."
+      },
+      {
+        "letra": "C",
+        "texto": "Pressão sistólica maior do que 140 mmHg e diastólica maior do que 90 mmHg."
+      },
+      {
+        "letra": "D",
+        "texto": "Pressão diastólica maior do que 140 mmHg e sistólica maior do que 90 mmHg."
+      },
+      {
+        "letra": "E",
+        "texto": "Pressão sistólica maior do que 180 mmHg e diastólica maior do que 120 mmHg."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106026,
+    "tags": [],
+    "enunciado": "Como é realizado o cálculo do índice de massa corpórea (IMC)?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "IMC = Peso (Kg) / Altura² (m)."
+      },
+      {
+        "letra": "B",
+        "texto": "IMC = Circunferência Abdominal / Circunferência do Quadril."
+      },
+      {
+        "letra": "C",
+        "texto": "IMC = Peso (Kg) / Altura (cm)."
+      },
+      {
+        "letra": "D",
+        "texto": "IMC = Peso (g) / Área de superfície corpórea (m²)."
+      },
+      {
+        "letra": "E",
+        "texto": "IMC = Circunferência do Quadril / Circunferência Abdominal."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106027,
+    "tags": [],
+    "enunciado": "O estado de hidratação do paciente pode ser percebido ao exame clínico, mas existem diversas situações que di(cid:56)cultam essa análise. Assinale a alternativa que contém uma situação que pode falsear o diagnóstico de desidratação:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hemorragia."
+      },
+      {
+        "letra": "B",
+        "texto": "Alterações senis."
+      },
+      {
+        "letra": "C",
+        "texto": "Diarreias e vômitos."
+      },
+      {
+        "letra": "D",
+        "texto": "Redução da ingesta hídrica no paciente acamado."
+      },
+      {
+        "letra": "E",
+        "texto": "Febre persistente."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106028,
+    "tags": [],
+    "enunciado": "Durante o exame físico geral, é importante classi(cid:56)car o paciente quanto à presença de dispneia no momento da consulta. Qual o conceito que melhor define dispneia?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Número aumentado de incursões respiratórias por minuto."
+      },
+      {
+        "letra": "B",
+        "texto": "Número reduzido de incursões respiratórias por minuto."
+      },
+      {
+        "letra": "C",
+        "texto": "Presença de líquido nos alvéolos do pulmão."
+      },
+      {
+        "letra": "D",
+        "texto": "Redução da amplitude dos movimentos respiratórios."
+      },
+      {
+        "letra": "E",
+        "texto": "Relato subjetivo de “falta de ar” por parte do paciente ou alteração visível do padrão respiratório."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 106029,
+    "tags": [],
+    "enunciado": "Qual dos seguintes parâmetros se traduz na coloração azulada clinicamente observável na pele e nas mucosas, denominada cianose?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aumento do nível sérico de cálcio."
+      },
+      {
+        "letra": "B",
+        "texto": "Redução da filtração glomerular."
+      },
+      {
+        "letra": "C",
+        "texto": "Queda na concentração de hemoglobina."
+      },
+      {
+        "letra": "D",
+        "texto": "Elevação da proteína C reativa."
+      },
+      {
+        "letra": "E",
+        "texto": "Queda na saturação de oxigênio da hemoglobina."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 106030,
+    "tags": [],
+    "enunciado": "Marque a alternativa que contém o parâmetro laboratorial responsável pela coloração amarelada presente na pele e nos olhos de alguns doentes, chamada icterícia:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hiperbilirrubinemia."
+      },
+      {
+        "letra": "B",
+        "texto": "Elevação do hematócrito."
+      },
+      {
+        "letra": "C",
+        "texto": "Creatinina elevada."
+      },
+      {
+        "letra": "D",
+        "texto": "Hiperglicemia."
+      },
+      {
+        "letra": "E",
+        "texto": "Hipercalemia."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106031,
+    "tags": [],
+    "enunciado": "Em qual região deve ser preferencialmente realizada a inspeção do estado de palidez dos pacientes?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pele do dorso."
+      },
+      {
+        "letra": "B",
+        "texto": "Esclera ocular."
+      },
+      {
+        "letra": "C",
+        "texto": "Palma das mãos."
+      },
+      {
+        "letra": "D",
+        "texto": "Dobras cutâneas."
+      },
+      {
+        "letra": "E",
+        "texto": "Pele sobre o olécrano."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106032,
+    "tags": [],
+    "enunciado": "A avaliação do estado geral do paciente é normalmente a primeira parte do exame físico, e consiste em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Medir o peso e a altura do paciente."
+      },
+      {
+        "letra": "B",
+        "texto": "Realizar o interrogatório sobre diversos aparelhos (ISDA)."
+      },
+      {
+        "letra": "C",
+        "texto": "Registrar a impressão inicial que o médico tem do paciente."
+      },
+      {
+        "letra": "D",
+        "texto": "Avaliar o estado neurológico do paciente, graduando-o na escala de coma de Glasgow e na escala RASS."
+      },
+      {
+        "letra": "E",
+        "texto": "Examinar a pele, mucosas e pulsos arteriais."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106033,
+    "tags": [],
+    "enunciado": "Em que consiste a investigação sobre os diversos aparelhos (ISDA)?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Investigação direcionada e objetiva guiada pelos sistemas do paciente, de forma a rastrear queixas não trazidas pelo doente que possam ser úteis no diagnóstico atual ou sirvam para orientá-lo em outro processo patológico."
+      },
+      {
+        "letra": "B",
+        "texto": "Questionamento exaustivo acerca de todos os órgãos e sistemas, que deve ser realizada para todos os pacientes."
+      },
+      {
+        "letra": "C",
+        "texto": "Exame físico minucioso, geralmente realizado no sentido da cabeça aos pés, e contendo inspeção, palpação, percussão e ausculta de todos os órgãos relevantes nesse caminho."
+      },
+      {
+        "letra": "D",
+        "texto": "Exame clínico e solicitação de exames complementares sobre os diversos sistemas que compõem o organismo do paciente, de forma a compreender o panorama geral da situação de saúde do doente."
+      },
+      {
+        "letra": "E",
+        "texto": "Questionamento geral a respeito dos sistemas do paciente, sem buscar ativamente algum sintoma."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106034,
+    "tags": [],
+    "enunciado": "Qual das informações a seguir deve ser perguntada durante a investigação de hábitos e vícios da anamnese?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tabagismo."
+      },
+      {
+        "letra": "B",
+        "texto": "Presença de Hipertensão Arterial na família."
+      },
+      {
+        "letra": "C",
+        "texto": "Cirurgias prévias."
+      },
+      {
+        "letra": "D",
+        "texto": "Imunizações."
+      },
+      {
+        "letra": "E",
+        "texto": "Antecedentes obstétricos."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106035,
+    "tags": [],
+    "enunciado": "Na seção de antecedentes familiares da anamnese, o médico questiona acerca do estado de saúde dos integrantes da família imediata do paciente. Qual das seguintes doenças chama mais atenção, pelo seu componente genético, quando mencionada em um parente de 1º grau do paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Diabetes Mellitus."
+      },
+      {
+        "letra": "B",
+        "texto": "Doença renal crônica."
+      },
+      {
+        "letra": "C",
+        "texto": "Insuficiência cardíaca congestiva."
+      },
+      {
+        "letra": "D",
+        "texto": "Traumatismo cranioencefálico."
+      },
+      {
+        "letra": "E",
+        "texto": "Infecções bacterianas."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106036,
+    "tags": [],
+    "enunciado": "Os antecedentes pessoais do paciente são importante parte da anamnese, fornecendo ao médico informações valiosas. Considerando a divisão clássica da anamnese, assinale a alternativa que contém um aspecto que deve ser perguntado durante a investigação dos antecedentes pessoais:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Naturalidade do paciente."
+      },
+      {
+        "letra": "B",
+        "texto": "Histórico de câncer na família."
+      },
+      {
+        "letra": "C",
+        "texto": "Motivo principal da consulta médica."
+      },
+      {
+        "letra": "D",
+        "texto": "Medicamentos em uso."
+      },
+      {
+        "letra": "E",
+        "texto": "Idade do paciente."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 106037,
+    "tags": [],
+    "enunciado": "Durante a descrição de um sintoma trazido pelo paciente, é importante que o médico caracterize adequadamente diversos aspectos relevantes da queixa. Qual das alternativas abaixo contém aspectos que devem ser interrogados na investigação de um sintoma?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Duração."
+      },
+      {
+        "letra": "B",
+        "texto": "Localização."
+      },
+      {
+        "letra": "C",
+        "texto": "Quantidade."
+      },
+      {
+        "letra": "D",
+        "texto": "Qualidade."
+      },
+      {
+        "letra": "E",
+        "texto": "Todas as alternativas."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 106038,
+    "tags": [],
+    "enunciado": "A identi(cid:56)cação é a primeira parte de uma anamnese médica, permitindo que o pro(cid:56)ssional de saúde conheça o paciente que está sendo cuidado. Pertencem à identi(cid:56)cação do paciente os seguintes dados abaixo, exceto:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Idade."
+      },
+      {
+        "letra": "B",
+        "texto": "Sexo."
+      },
+      {
+        "letra": "C",
+        "texto": "Ocupação."
+      },
+      {
+        "letra": "D",
+        "texto": "Peso e altura."
+      },
+      {
+        "letra": "E",
+        "texto": "Naturalidade."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 106039,
+    "tags": [],
+    "enunciado": "Na prática médica, como se diferenciam os conceitos de sintoma e de sinal?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os sintomas são alterações de menor relevância para a doença atual, enquanto que os sinais são as alterações consideradas mais relevantes."
+      },
+      {
+        "letra": "B",
+        "texto": "Sintomas são queixas de causa psíquica (como tristeza, ansiedade etc.) e sinais são queixas físicas (como cefaleia e síncope, por exemplo)."
+      },
+      {
+        "letra": "C",
+        "texto": "Os sintomas são alterações pregressas, fazendo parte do histórico do paciente, e os sinais são alterações atuais do organismo."
+      },
+      {
+        "letra": "D",
+        "texto": "Os sintomas são as queixas referidas pelo paciente (dor, náuseas, astenia) e os sinais são as alterações percebidas pelo médico (hipertensão, febre)."
+      },
+      {
+        "letra": "E",
+        "texto": "Sintomas são queixas que fazem parte de um conjunto (síndrome), e sinais são alterações isoladas percebidas pelo médico."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 106040,
+    "tags": [],
+    "enunciado": "A articulação do tornozelo ocorre entre tíbia, fíbula e tálus, sendo este último pertencente aos ossos do tarso. Classifique a articulação do tornozelo de acordo com a sua morfologia:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Articulação sinovial do tipo plana."
+      },
+      {
+        "letra": "B",
+        "texto": "Articulação sinovial do tipo gínglimo."
+      },
+      {
+        "letra": "C",
+        "texto": "Articulação sinovial do tipo selar."
+      },
+      {
+        "letra": "D",
+        "texto": "Articulação sinovial do tipo elipsoidea."
+      },
+      {
+        "letra": "E",
+        "texto": "Articulação sinovial do tipo esferoidea."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106041,
+    "tags": [],
+    "enunciado": "Além da ação dos músculos adjacentes, a articulação do joelho também é fortalecida por poderosos ligamentos, localizados tanto no interior quanto no exterior da cápsula articular. Qual das alternativas abaixo cita corretamente os ligamentos externos do joelho?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ligamento da patela, ligamento colateral tibial, ligamento colateral fibular, ligamento poplíteo oblíquo e ligamento poplíteo arqueado."
+      },
+      {
+        "letra": "B",
+        "texto": "Ligamento talofibular anterior, ligamento da patela, ligamento poplíteo anterior, ligamento poplíteo posterior e ligamento poplíteo lateral."
+      },
+      {
+        "letra": "C",
+        "texto": "Ligamento cruzado anterior e ligamento cruzado posterior."
+      },
+      {
+        "letra": "D",
+        "texto": "Menisco medial e menisco lateral."
+      },
+      {
+        "letra": "E",
+        "texto": "Ligamento da patela, ligamento tibiofemoral, ligamento colateral tibial, ligamento colateral fibular e ligamento colateral posterior."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106042,
+    "tags": [],
+    "enunciado": "A articulação do joelho é uma das mais importantes do membro inferior, sendo um frequente alvo de lesões traumáticas ou degenerativas. Classifique a articulação do joelho de acordo com a sua morfologia:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Articulação sinovial do tipo esferoidea."
+      },
+      {
+        "letra": "B",
+        "texto": "Articulação sinovial do tipo gínglimo."
+      },
+      {
+        "letra": "C",
+        "texto": "Articulação sinovial do tipo selar."
+      },
+      {
+        "letra": "D",
+        "texto": "Articulação sinovial do tipo elipsoidea."
+      },
+      {
+        "letra": "E",
+        "texto": "Articulação sinovial do tipo plana."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106043,
+    "tags": [],
+    "enunciado": "A articulação do quadril é fundamental para a sustentação do peso do corpo e para a mobilidade do membro inferior. Assinale a alternativa que classifica corretamente a articulação do quadril:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Articulação sinovial do tipo gínglimo."
+      },
+      {
+        "letra": "B",
+        "texto": "Articulação sinovial do tipo esferoidea."
+      },
+      {
+        "letra": "C",
+        "texto": "Articulação fibrosa do tipo sindesmose."
+      },
+      {
+        "letra": "D",
+        "texto": "Articulação cartilaginosa do tipo sínfise."
+      },
+      {
+        "letra": "E",
+        "texto": "Articulação sinovial do tipo selar."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106044,
+    "tags": [],
+    "enunciado": "Qual músculo do compartimento posterior da perna é o mais forte efetor da flexão plantar do tornozelo?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Músculo sóleo."
+      },
+      {
+        "letra": "B",
+        "texto": "Músculo gastrocnêmio medial."
+      },
+      {
+        "letra": "C",
+        "texto": "Músculo gastrocnêmio lateral."
+      },
+      {
+        "letra": "D",
+        "texto": "Músculo plantar."
+      },
+      {
+        "letra": "E",
+        "texto": "Músculo poplíteo."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106045,
+    "tags": [],
+    "enunciado": "O nervo isquiático se rami(cid:56)ca na altura da fossa poplítea, dando origem a ramos que inervam a perna e o pé. Assinale a alternativa que correlaciona corretamente os nervos derivados do isquiático e o compartimento da perna que eles suprem:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nervo tibial anterior– Compartimento anterior da perna. Nervo fibular profundo – Compartimento lateral da perna. Nervo tibial posterior– Compartimento posterior da perna."
+      },
+      {
+        "letra": "B",
+        "texto": "Nervo tibial anterior – Compartimento anterior da perna. Nervo fibular – Compartimento lateral da perna. Nervo tibial posterior – Compartimento posterior da perna."
+      },
+      {
+        "letra": "C",
+        "texto": "Nervo tibial superficial – Compartimento anterior da perna. Nervo fibular – Compartimento lateral da perna. Nervo tibial profundo – Compartimento posterior da perna."
+      },
+      {
+        "letra": "D",
+        "texto": "Nervo fibular superficial – Compartimento anterior da perna. Nervo fibular profundo – Compartimento lateral da perna. Nervo tibial – Compartimento posterior da perna."
+      },
+      {
+        "letra": "E",
+        "texto": "Nervo fibular profundo – Compartimento anterior da perna. Nervo fibular superficial – Compartimento lateral da perna. Nervo tibial – Compartimento posterior da perna."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 106046,
+    "tags": [],
+    "enunciado": "Assinale a alternativa que descreve corretamente os principais músculos da região posterior da coxa e suas ações em conjunto:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Músculo bíceps femoral, músculo semitendíneo e músculo semimembranáceo. Realizam extensão do quadril e flexão do joelho."
+      },
+      {
+        "letra": "B",
+        "texto": "Músculo tríceps femoral e músculo semitendíneo. Realizam extensão do quadril e flexão do joelho."
+      },
+      {
+        "letra": "C",
+        "texto": "Músculo bíceps femoral, músculo grácil e músculo adutor magno. Realizam flexão do quadril e extensão do joelho."
+      },
+      {
+        "letra": "D",
+        "texto": "Músculo bíceps femoral, músculo semitendíneo e músculo semimembranáceo. Realizam flexão do quadril e extensão do joelho."
+      },
+      {
+        "letra": "E",
+        "texto": "Músculo tríceps femoral e músculo semitendíneo. Realizam flexão do quadril e extensão do joelho."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106047,
+    "tags": [],
+    "enunciado": "O músculo glúteo máximo forma a maior parte do volume da região glútea, recobrindo quase todos os músculos ali presentes. Cite as duas principais funções do glúteo máximo:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Extensão do quadril e rotação lateral da coxa."
+      },
+      {
+        "letra": "B",
+        "texto": "Abdução da coxa e rotação medial da coxa."
+      },
+      {
+        "letra": "C",
+        "texto": "Abdução da coxa e rotação lateral da coxa."
+      },
+      {
+        "letra": "D",
+        "texto": "Flexão do quadril e flexão do tronco."
+      },
+      {
+        "letra": "E",
+        "texto": "Flexão do quadril, abdução da coxa e estabilização do joelho."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106048,
+    "tags": [],
+    "enunciado": "Marque a alternativa que descreve a principal artéria da região ântero-medial da coxa, sua origem proximal e continuação distal no membro inferior:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Artéria femoral, origina-se da artéria ilíaca externa e continua distalmente a partir da região do joelho como artéria poplítea."
+      },
+      {
+        "letra": "B",
+        "texto": "Artéria obturatória, origina-se a partir da artéria ilíaca interna e continua distalmente a partir da região do joelho como artéria tibial anterior."
+      },
+      {
+        "letra": "C",
+        "texto": "Artéria femoral, origina-se da artéria ilíaca interna e continua distalmente a partir da região do joelho como artéria poplítea."
+      },
+      {
+        "letra": "D",
+        "texto": "Artéria obturatória, origina-se a partir da artéria ilíaca externa a continua distalmente a partir da região do joelho como artéria poplítea."
+      },
+      {
+        "letra": "E",
+        "texto": "Artéria femoral, origina-se a partir da artéria ilíaca externa e continua distalmente a partir da região do joelho como artéria femoral profunda."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106049,
+    "tags": [],
+    "enunciado": "Qual a função geral dos músculos do compartimento medial da coxa e o principal nervo que confere motricidade a eles?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Adução da coxa e nervo femoral."
+      },
+      {
+        "letra": "B",
+        "texto": "Abdução da coxa e nervo isquiático."
+      },
+      {
+        "letra": "C",
+        "texto": "Flexão do quadril e nervo isquiático."
+      },
+      {
+        "letra": "D",
+        "texto": "Extensão do quadril e nervo obturatório."
+      },
+      {
+        "letra": "E",
+        "texto": "Adução da coxa e nervo obturatório."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 106050,
+    "tags": [],
+    "enunciado": "Qual músculo do compartimento anterior da coxa é o principal flexor do quadril?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Músculo quadríceps femoral."
+      },
+      {
+        "letra": "B",
+        "texto": "Músculo sartório."
+      },
+      {
+        "letra": "C",
+        "texto": "Músculo pectíneo."
+      },
+      {
+        "letra": "D",
+        "texto": "Músculo vasto intermédio."
+      },
+      {
+        "letra": "E",
+        "texto": "Músculo iliopsoas."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 106051,
+    "tags": [],
+    "enunciado": "O nervo femoral é o maior ramo do plexo lombar, atuando na motricidade e sensibilidade do membro inferior. Assinale a alternativa que descreve duas das funções do nervo femoral:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Inervação sensitiva da pele da região lateral da perna e do pé, por meio dos ramos cutâneos laterais, e inervação motora de músculos do compartimento anterior da coxa."
+      },
+      {
+        "letra": "B",
+        "texto": "Inervação sensitiva da pele da região posterior da coxa, por meio do ramo denominado nervo cutâneo femoral posterior, e inervação motora de músculos do compartimento anterior da coxa."
+      },
+      {
+        "letra": "C",
+        "texto": "Inervação sensitiva da pele da região anterior da coxa, por meio dos ramos cutâneos anteriores, e inervação motora dos músculos do compartimento medial da coxa."
+      },
+      {
+        "letra": "D",
+        "texto": "Inervação sensitiva da pele da região lateral da perna e do pé, por meio do nervo safeno, e inervação motora dos músculos do compartimento medial da coxa."
+      },
+      {
+        "letra": "E",
+        "texto": "Inervação sensitiva da pele da região anterior da coxa, por meio dos ramos cutâneos anteriores, e inervação motora de músculos do compartimento anterior da coxa."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 106052,
+    "tags": [],
+    "enunciado": "Os ossos da perna, tíbia e fíbula, estão unidos por uma membrana interóssea forte, análoga à encontrada no antebraço unindo rádio e ulna. Classifique esse tipo de articulação de acordo com a sua morfologia:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Articulação cartilaginosa do tipo sínfise."
+      },
+      {
+        "letra": "B",
+        "texto": "Articulação sinovial do tipo plana."
+      },
+      {
+        "letra": "C",
+        "texto": "Articulação fibrosa do tipo sutura."
+      },
+      {
+        "letra": "D",
+        "texto": "Articulação fibrosa do tipo sindesmose."
+      },
+      {
+        "letra": "E",
+        "texto": "Articulação sinovial do tipo trocoidea."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 106053,
+    "tags": [],
+    "enunciado": "A tíbia é o maior osso da perna, formando a estrutura rígida popularmente conhecida como “canela”. Assinale a alternativa que descreve corretamente três dos principais acidentes ósseos da tíbia:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Côndilos na região inferior, tuberosidade da tíbia na região anterior e maléolo medial na região inferior."
+      },
+      {
+        "letra": "B",
+        "texto": "Côndilos na região inferior, tuberosidade da tíbia na região posterior e maléolo lateral na região inferior."
+      },
+      {
+        "letra": "C",
+        "texto": "Côndilos na região superior, tuberosidade da tíbia na região anterior e maléolo medial na região inferior."
+      },
+      {
+        "letra": "D",
+        "texto": "Côndilos na região superior, incisura fibular na região superior e maléolo lateral na região inferior."
+      },
+      {
+        "letra": "E",
+        "texto": "Côndilos na região superior, incisura fibular na região superior e maléolo medial na região inferior."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106054,
+    "tags": [],
+    "enunciado": "O fêmur é o osso mais longo que possuímos, e está localizado na região da coxa, unindo o osso do quadril à tíbia. A respeito do fêmur, marque a alternativa que descreve corretamente três dos principais acidentes ósseos presentes nele:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cabeça do fêmur na região superior, côndilos na região inferior e trocânter menor na região lateral."
+      },
+      {
+        "letra": "B",
+        "texto": "Cabeça do fêmur na região superior, trocânter maior na região lateral e trocânter menor na região medial."
+      },
+      {
+        "letra": "C",
+        "texto": "Cabeça do fêmur na região inferior, trocânter maior na região medial e trocânter menor na região lateral."
+      },
+      {
+        "letra": "D",
+        "texto": "Trocânter maior na região lateral, côndilos na região superior e colo do fêmur na região superior."
+      },
+      {
+        "letra": "E",
+        "texto": "Trocânter maior na região medial, trocânter menor na região lateral e côndilos na região inferior."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106055,
+    "tags": [],
+    "enunciado": "O púbis é o osso da região do quadril responsável por compor o limite anterior da pelve óssea, articulando-se com o seu par contralateral bem na linha mediana. Como é denominada a articulação entre o púbis esquerdo e o direito?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sínfise púbica."
+      },
+      {
+        "letra": "B",
+        "texto": "Articulação púbica posterior."
+      },
+      {
+        "letra": "C",
+        "texto": "Sinostose púbica."
+      },
+      {
+        "letra": "D",
+        "texto": "Articulação púbica anterior."
+      },
+      {
+        "letra": "E",
+        "texto": "Sutura pubiana."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106056,
+    "tags": [],
+    "enunciado": "O ísquio é uma das porções do osso do quadril, que ao longo da vida se funde ao ílio e ao púbis para formar uma estrutura única. O ísquio possui uma protuberância posterior que recebe o peso do corpo na posição sentada, assinale-a:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Forame obturado."
+      },
+      {
+        "letra": "B",
+        "texto": "Túber isquiático."
+      },
+      {
+        "letra": "C",
+        "texto": "Espinha isquiática."
+      },
+      {
+        "letra": "D",
+        "texto": "Acetábulo."
+      },
+      {
+        "letra": "E",
+        "texto": "Linha glútea posterior."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106057,
+    "tags": [],
+    "enunciado": "Em adultos, o osso do quadril normalmente é uma estrutura única com os seus componentes, ílio, ísquio e púbis, fundidos entre si. Entretanto, o nome dos ossos originais é utilizado para designar as partes do osso do quadril. Nesse contexto, assinale a alternativa que descreve três dos principais acidentes ósseos do ílio:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Espinha ilíaca anterossuperior na região anterior, face auricular na região lateral e porção superior do acetábulo na face medial."
+      },
+      {
+        "letra": "B",
+        "texto": "Crista ilíaca na região superior, túber isquiático na face posterior e porção superior do acetábulo na face lateral."
+      },
+      {
+        "letra": "C",
+        "texto": "Espinha ilíaca anterossuperior na região anterior, face auricular na região medial e porção superior do acetábulo na face lateral."
+      },
+      {
+        "letra": "D",
+        "texto": "Crista ilíaca na região inferior, túber isquiático na face anterior e porção inferior do acetábulo na face medial."
+      },
+      {
+        "letra": "E",
+        "texto": "Espinha ilíaca anteroinferior na região anterior, face auricular na região lateral e porção inferior do acetábulo na face medial."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106058,
+    "tags": [],
+    "enunciado": "Devido à ação da gravidade, as veias super(cid:56)ciais do membro inferior são importante local de formação de varizes. Assinale a alternativa que descreve as principais veias super(cid:56)ciais do membro inferior, seu trajeto usual e local de desembocadura:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A veia safena magna é mais lateral, e desemboca na veia femoral na região anterior da coxa. A veia safena parva é mais medial, e desemboca na veia poplítea na região posterior do joelho."
+      },
+      {
+        "letra": "B",
+        "texto": "A veia safena magna é mais medial, e desemboca na veia poplítea na região posterior da coxa. A veia safena parva é mais lateral, e desemboca na veia femoral na região anterior da coxa."
+      },
+      {
+        "letra": "C",
+        "texto": "A veia basílica é mais medial, e desemboca na veia femoral na região anterior da coxa. A veia safena magna é mais lateral e desemboca na veia poplítea na região posterior do joelho."
+      },
+      {
+        "letra": "D",
+        "texto": "A veia safena magna é mais medial, e desemboca na veia femoral na região anterior da coxa. A veia safena parva é mais medial e desemboca na veia poplítea na região posterior do joelho."
+      },
+      {
+        "letra": "E",
+        "texto": "A veia basílica é mais lateral, e desemboca na veia poplítea na região posterior da coxa. A veia safena magna é mais medial e desemboca na veia femoral na região anterior da coxa."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 106059,
+    "tags": [],
+    "enunciado": "Os ossos do tarso compõem a região posterior do pé, participando da sustentação do peso do corpo e da mobilidade. Cite os ossos integrantes do tarso:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tíbia, fíbula, tálus e calcâneo."
+      },
+      {
+        "letra": "B",
+        "texto": "Fíbula, tálus, calcâneo, cuboide e falanges proximais."
+      },
+      {
+        "letra": "C",
+        "texto": "Tálus, calcâneo, falanges (proximais, médias e distais)"
+      },
+      {
+        "letra": "D",
+        "texto": "Tálus, calcâneo, cuneiformes (lateral, intermédio e medial), escafoide e semilunar."
+      },
+      {
+        "letra": "E",
+        "texto": "Tálus, calcâneo, navicular, cuboide e cuneiformes (lateral, intermédio e medial)."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 106060,
+    "tags": [],
+    "enunciado": "Quais são os ossos que compõem a parte livre do membro inferior?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fêmur, tíbia, fíbula, ossos tarsais, ossos metatarsais e falanges."
+      },
+      {
+        "letra": "B",
+        "texto": "Ílio, ísquio, fêmur, tíbia, fíbula, ossos carpais e falanges."
+      },
+      {
+        "letra": "C",
+        "texto": "Sacro, ílio, fêmur, tíbia, fíbula, ossos tarsais, ossos metatarsais e falanges."
+      },
+      {
+        "letra": "D",
+        "texto": "Fêmur, tíbia, fíbula, ossos metacarpais e falanges."
+      },
+      {
+        "letra": "E",
+        "texto": "Sacro, fêmur, tíbia, fíbula, ossos carpais, ossos metacarpais e falanges."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106061,
+    "tags": [],
+    "enunciado": "A camada profunda dos músculos intrínsecos do dorso é composta por uma musculatura diversa que se adere intimamente à coluna vertebral e às costelas, protegendo as vértebras e realizando movimentos. Assinale a alternativa que contém três músculos que pertencem à camada profunda da musculatura intrínseca do dorso:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "M. levantador da escápula, m. levantador das costelas e m. multífido."
+      },
+      {
+        "letra": "B",
+        "texto": "M. esplênio do pescoço, m. multífido e m. longuíssimo do dorso."
+      },
+      {
+        "letra": "C",
+        "texto": "Mm. romboides, m. grande dorsal e m. longuíssimo do dorso."
+      },
+      {
+        "letra": "D",
+        "texto": "M. multífido, m. semiespinal e mm. rotadores."
+      },
+      {
+        "letra": "E",
+        "texto": "M. semiespinal, mm. romboides e mm. rotadores."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 106062,
+    "tags": [],
+    "enunciado": "Todos os músculos intrínsecos do dorso possuem uma origem comum da sua inervação, sendo inervados principalmente por:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ramos derivados do plexo braquial."
+      },
+      {
+        "letra": "B",
+        "texto": "Ramos derivados do plexo lombossacral."
+      },
+      {
+        "letra": "C",
+        "texto": "Ramos anteriores dos nervos espinhais."
+      },
+      {
+        "letra": "D",
+        "texto": "Ramos dos nervos intercostais."
+      },
+      {
+        "letra": "E",
+        "texto": "Ramos posteriores dos nervos espinhais."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 106063,
+    "tags": [],
+    "enunciado": "Os integrantes da camada intermédia da musculatura intrínseca do dorso possuem um tendão comum que se (cid:56)xa inferiormente, e formam em conjunto o músculo eretor da espinha. Cite as três colunas musculares que compõem o eretor da espinha:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "M. iliocostal, m. longuíssimo do dorso e m. espinal."
+      },
+      {
+        "letra": "B",
+        "texto": "M. trapézio, m. escaleno posterior e m. espinal."
+      },
+      {
+        "letra": "C",
+        "texto": "M. longuíssimo do dorso, m. esplênio da cabeça e mm. romboides."
+      },
+      {
+        "letra": "D",
+        "texto": "M. trapézio, mm. romboides e m. escaleno posterior."
+      },
+      {
+        "letra": "E",
+        "texto": "M. longuíssimo do dorso, m. serrátil posterior inferior e m. esplênio do pescoço."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106064,
+    "tags": [],
+    "enunciado": "Os músculos intrínsecos do dorso formam a camada mais profunda da musculatura dorsal, e estão divididos em três camadas: super(cid:56)cial, intermédia e profunda. Assinale a alternativa que contém os músculos da camada superficial dos músculos intrínsecos do dorso:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "M. trapézio, mm. romboides, m. levantador da escápula e m. latíssimo do dorso."
+      },
+      {
+        "letra": "B",
+        "texto": "M. esplênio do pescoço e m. esplênio da cabeça."
+      },
+      {
+        "letra": "C",
+        "texto": "M. redondo menor, m. infraespinhal, m. supraespinhal, m. subescapular."
+      },
+      {
+        "letra": "D",
+        "texto": "M. redondo maior e m. latíssimo do dorso."
+      },
+      {
+        "letra": "E",
+        "texto": "M. esternocleidomastoideo, m. longo do pescoço e mm. escalenos."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106065,
+    "tags": [],
+    "enunciado": "A articulação do tornozelo é protegida por fortes ligamentos, que resguardam a cápsula articular. Assinale a alternativa que contém os principais ligamentos da articulação do tornozelo:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ligamento colateral anterior e ligamento colateral posterior."
+      },
+      {
+        "letra": "B",
+        "texto": "Ligamento deltoideo e ligamento triangular."
+      },
+      {
+        "letra": "C",
+        "texto": "Ligamento colateral medial e ligamento colateral lateral."
+      },
+      {
+        "letra": "D",
+        "texto": "Ligamento arqueado do tornozelo e ligamento oblíquo do tornozelo."
+      },
+      {
+        "letra": "E",
+        "texto": "Menisco medial e menisco lateral."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106066,
+    "tags": [],
+    "enunciado": "A articulação do quadril é reforçada por fortes ligamentos que mantêm a sua estabilidade. Marque a alternativa que descreve os três ligamentos intrínsecos que fortalecem a articulação do quadril:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ligamento sacrotuberal, ligamento sacrofemoral, ligamento acetabular."
+      },
+      {
+        "letra": "B",
+        "texto": "Ligamento iliofemoral, ligamento pubofemoral, ligamento isquiofemoral."
+      },
+      {
+        "letra": "C",
+        "texto": "Ligamento iliofemoral, ligamento acetabular, ligamento pubofemoral."
+      },
+      {
+        "letra": "D",
+        "texto": "Ligamento sacrotuberal, ligamento iliofemoral e ligamento pubofemoral."
+      },
+      {
+        "letra": "E",
+        "texto": "Ligamento iliofemoral, ligamento isquiofemoral, ligamento intertrocanteriano."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106067,
+    "tags": [],
+    "enunciado": "A drenagem venosa do membro superior recebe grande contribuição das veias super(cid:56)ciais, que se localizam no subcutâneo. Assinale a alternativa que descreve as duas principais veias superficiais do membro superior e o local para onde elas drenam:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "V. ázigos e v. hemiázigos, drenam para as veias braquiais."
+      },
+      {
+        "letra": "B",
+        "texto": "V. safena magna e v. safena parva, drenam para a veia axilar."
+      },
+      {
+        "letra": "C",
+        "texto": "V. braquial e v. axilar, drenam para a veia subclávia."
+      },
+      {
+        "letra": "D",
+        "texto": "V. cefálica e v. antebraquial, drenam para as veias braquiais."
+      },
+      {
+        "letra": "E",
+        "texto": "V. cefálica e v. basílica, drenam para a veia axilar."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 106068,
+    "tags": [],
+    "enunciado": "Os ossos do carpo formam a estrutura do punho, e permitem um aumento da amplitude de movimento da mão ao deslizarem entre si. Assinale a alternativa que descreve corretamente a disposição dos ossos carpais na mão:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Duas fileiras, proximal e distal, com 4 ossos em cada."
+      },
+      {
+        "letra": "B",
+        "texto": "Três fileiras, proximal, média e distal, com 3 ossos em cada."
+      },
+      {
+        "letra": "C",
+        "texto": "Fileira única, com 4 ossos."
+      },
+      {
+        "letra": "D",
+        "texto": "Duas fileiras, medial e lateral, com 3 ossos em cada."
+      },
+      {
+        "letra": "E",
+        "texto": "Três fileiras, proximal, média e distal, com 2 ossos em cada."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106069,
+    "tags": [],
+    "enunciado": "Marque a alternativa que cita três dos principais acidentes ósseos da escápula:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Colo cirúrgico, espinha da escápula, sulco do músculo subclávio."
+      },
+      {
+        "letra": "B",
+        "texto": "Espinha da escápula, processo coracoide, cavidade glenoide."
+      },
+      {
+        "letra": "C",
+        "texto": "Acrômio, olécrano, processo coronoide."
+      },
+      {
+        "letra": "D",
+        "texto": "Tubérculo conoide, cavidade glenoide, incisura troclear."
+      },
+      {
+        "letra": "E",
+        "texto": "Processo estiloide, acrômio, processo coronoide."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106070,
+    "tags": [],
+    "enunciado": "A articulação do ombro, ou glenoumeral, é uma juntura extremamente móvel, capaz de realizar movimentos nos três eixos do corpo. Sabendo disso, assinale a alternativa que classi(cid:56)ca corretamente a articulação glenoumeral:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Articulação sinovial do tipo plana."
+      },
+      {
+        "letra": "B",
+        "texto": "Articulação fibrosa do tipo sutura."
+      },
+      {
+        "letra": "C",
+        "texto": "Articulação sinovial do tipo gínglimo."
+      },
+      {
+        "letra": "D",
+        "texto": "Articulação sinovial do tipo esferoidea."
+      },
+      {
+        "letra": "E",
+        "texto": "Articulação cartilaginosa do tipo sínfise."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 106071,
+    "tags": [],
+    "enunciado": "O principal vaso que inicia a irrigação do membro superior é a artéria subclávia. Originária da aorta (à esquerda) ou do tronco braquicefálico (à direita), a artéria subclávia dá origem a ramos que contribuem para a vascularização do pescoço, tórax e cintura escapular. Sabendo disso, assinale a alternativa que contém os principais ramos da artéria subclávia:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Artéria torácica interna, tronco tireocervical e artéria axilar."
+      },
+      {
+        "letra": "B",
+        "texto": "Artéria axilar, artéria toracoacromial e artéria torácica lateral."
+      },
+      {
+        "letra": "C",
+        "texto": "Artéria braquial profunda, artéria nutrícia do úmero."
+      },
+      {
+        "letra": "D",
+        "texto": "Artéria toracodorsal e artéria circunflexa da escápula."
+      },
+      {
+        "letra": "E",
+        "texto": "Artéria subescapular, artéria circunflexa do úmero posterior, artéria circunflexa do úmero anterior e artéria braquial."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106072,
+    "tags": [],
+    "enunciado": "A respeito da inervação da região glútea, assinale a alternativa que contém o nervo responsável pela inervação do músculo glúteo máximo e o maior nervo que transita pela região, sem emitir ramos:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nervo glúteo superior e nervo cutâneo femoral posterior."
+      },
+      {
+        "letra": "B",
+        "texto": "Nervo glúteo inferior e nervo pudendo."
+      },
+      {
+        "letra": "C",
+        "texto": "Nervo glúteo inferior e nervo isquiático."
+      },
+      {
+        "letra": "D",
+        "texto": "Nervo isquiático e nervo pudendo."
+      },
+      {
+        "letra": "E",
+        "texto": "Nervo glúteo inferior e nervo cutâneo femoral posterior."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106073,
+    "tags": [],
+    "enunciado": "Originam-se a partir dos fascículos do plexo braquial uma série de nervos importantes para a função do membro superior. Marque a alternativa que contém respectivamente um nervo que se origina a partir do fascículo lateral, um do fascículo medial e um do fascículo posterior do plexo braquial:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "N. musculocutâneo, n. ulnar e n. radial."
+      },
+      {
+        "letra": "B",
+        "texto": "N. ulnar, n. axilar e n. mediano."
+      },
+      {
+        "letra": "C",
+        "texto": "N. toracodorsal, n. musculocutâneo e n. radial."
+      },
+      {
+        "letra": "D",
+        "texto": "N. radial, n. ulnar e n. axilar."
+      },
+      {
+        "letra": "E",
+        "texto": "N. axilar, n. peitoral medial e n. mediano."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106074,
+    "tags": [],
+    "enunciado": "As artérias glútea superior, glútea inferior e pudenda interna são os principais vasos sanguíneos presentes na região glútea. A partir de qual artéria se originam esses vasos?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aorta abdominal."
+      },
+      {
+        "letra": "B",
+        "texto": "Artéria ilíaca externa."
+      },
+      {
+        "letra": "C",
+        "texto": "Artéria ilíaca interna."
+      },
+      {
+        "letra": "D",
+        "texto": "Artéria glútea comum."
+      },
+      {
+        "letra": "E",
+        "texto": "Artéria obturatória."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106075,
+    "tags": [],
+    "enunciado": "O plexo braquial é um grande conjunto de (cid:56)bras nervosas que se dirigem para o membro superior e para a cintura escapular. Sobre a organização do plexo braquial, assinale a alternativa que enumera corretamente os segmentos que compõem essa estrutura:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cinco raízes (C1, C2, C3, C4 e C5), três troncos (superior, médio e inferior), duas divisões (anterior e posterior) em cada tronco e três fascículos (lateral, medial e posterior)."
+      },
+      {
+        "letra": "B",
+        "texto": "Três raízes (C5, C6 e C7), três troncos (lateral, medial e posterior), duas divisões (anterior e posterior) em cada tronco e três fascículos (superior, médio e inferior)."
+      },
+      {
+        "letra": "C",
+        "texto": "Cinco raízes (C5, C6, C7, C8 e T1), três troncos (superior, médio e inferior), duas divisões (anterior e posterior) em cada tronco e três fascículos (lateral, medial e posterior)."
+      },
+      {
+        "letra": "D",
+        "texto": "Três raízes (C7, C8 e T1), três troncos (lateral, medial e posterior), duas divisões (anterior e posterior) em cada tronco e três fascículos (superior, médio e inferior)."
+      },
+      {
+        "letra": "E",
+        "texto": "Cinco raízes (C5, C6, C7, C8 e T1), três troncos (lateral, medial e posterior), duas divisões (anterior e posterior) em cada tronco e três fascículos (superior, médio e inferior)."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106076,
+    "tags": [],
+    "enunciado": "O compartimento anterior da perna situa-se medial à tíbia, lateral à fíbula e anterior à membrana interóssea, sendo composto por importantes grupamentos musculares. Qual a ação que produzem em conjunto os músculos do compartimento anterior da perna quando se contraem?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Extensão do joelho."
+      },
+      {
+        "letra": "B",
+        "texto": "Flexão plantar do tornozelo."
+      },
+      {
+        "letra": "C",
+        "texto": "Dorsiflexão do tornozelo."
+      },
+      {
+        "letra": "D",
+        "texto": "Flexão do joelho."
+      },
+      {
+        "letra": "E",
+        "texto": "Flexão das falanges proximais."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106077,
+    "tags": [],
+    "enunciado": "Entre as alternativas a seguir, qual descreve os principais ligamentos da coluna vertebral?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ligamento colateral lateral, ligamento colateral medial, ligamento cruzado e ligamento supraespinhal."
+      },
+      {
+        "letra": "B",
+        "texto": "Ligamento longitudinal anterior e posterior, ligamento flavo, ligamentos intertransversários, ligamentos interespinhais, ligamento supraespinhal e ligamento nucal."
+      },
+      {
+        "letra": "C",
+        "texto": "Ligamento colateral lateral, ligamento colateral medial, ligamento cruzado anterior e ligamento cruzado posterior."
+      },
+      {
+        "letra": "D",
+        "texto": "Ligamento intervertebral, ligamento transversal medial e ligamento transversal lateral."
+      },
+      {
+        "letra": "E",
+        "texto": "Ligamento cruzado anterior, ligamento cruzado posterior, ligamento arqueado e ligamentos intertransversários."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106078,
+    "tags": [],
+    "enunciado": "Os músculos da região do braço são de grande importância para os movimentos do antebraço, realizando ações na articulação do cotovelo e na articulação radioulnar proximal. Nesse contexto, assinale a alternativa que enumera respectivamente os principais músculos do braço responsáveis pelas seguintes ações: (cid:85)exão do cotovelo, supinação do antebraço e extensão do cotovelo.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "M. braquial, m. bíceps braquial e m. tríceps braquial."
+      },
+      {
+        "letra": "B",
+        "texto": "M. tríceps braquial, m. bíceps braquial e m. coracobraquial."
+      },
+      {
+        "letra": "C",
+        "texto": "M. braquiorradial, m. supinador e m. tríceps braquial."
+      },
+      {
+        "letra": "D",
+        "texto": "M. bíceps braquial, m. supinador e m. tríceps braquial."
+      },
+      {
+        "letra": "E",
+        "texto": "M. coracobraquial, m. braquial e m. bíceps braquial."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106079,
+    "tags": [],
+    "enunciado": "As vértebras de cada região da coluna vertebral possuem características que as diferenciam dos demais segmentos. Nesse sentido, marque a alternativa que descreve uma característica que permite diferenciar uma vértebra cervical:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Uma vértebra cervical possui forame transverso."
+      },
+      {
+        "letra": "B",
+        "texto": "Uma vértebra cervical normalmente é maior que as vértebras de outros segmentos."
+      },
+      {
+        "letra": "C",
+        "texto": "Uma vértebra cervical possui fóvea costal."
+      },
+      {
+        "letra": "D",
+        "texto": "Uma vértebra cervical possui processo espinhoso."
+      },
+      {
+        "letra": "E",
+        "texto": "As vértebras cervicais normalmente estão fundidas entre si."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106080,
+    "tags": [],
+    "enunciado": "Como ocorre o surgimento das artérias da perna a partir da artéria poplítea?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A artéria poplítea se ramifica em artéria tibial anterior, que vai para o compartimento anterior da perna, artéria tibial posterior e artéria fibular, sendo que as duas últimas permanecem no compartimento posterior da perna."
+      },
+      {
+        "letra": "B",
+        "texto": "A artéria poplítea se ramifica em artéria tibial anterior, que vai para o compartimento anterior da perna, e artéria tibial posterior, que permanece no compartimento posterior da perna. A artéria tibial posterior então origina a artéria fibular."
+      },
+      {
+        "letra": "C",
+        "texto": "A artéria poplítea se ramifica em artéria tibial, que vai para o compartimento anterior da perna, e artéria fibular comum, que permanece no compartimento posterior da perna. A artéria fibular comum então origina as artérias fibular superficial e fibular profunda."
+      },
+      {
+        "letra": "D",
+        "texto": "A artéria poplítea se ramifica em artéria tibial, que vai para o compartimento anterior da perna, artéria fibular superficial e artéria fibular profunda. A artéria fibular superficial vai para o compartimento lateral da perna, e a artéria fibular profunda permanece no compartimento posterior."
+      },
+      {
+        "letra": "E",
+        "texto": "A artéria poplítea se ramifica em artéria fibular anterior e posterior, sendo que a artéria fibular anterior supre o compartimento anterior e a artéria fibular posterior supre o compartimento posterior. Ambas auxiliam na irrigação do compartimento lateral."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106081,
+    "tags": [],
+    "enunciado": "Conhecer a inervação sensitiva da mão é uma habilidade fundamental para realizar um bom exame clínico dos pacientes e fazer diagnósticos corretos. Imagine que você, futuro médico, suspeita que seu paciente possua uma lesão do nervo radial, e deseja fazer a pesquisa de sensibilidade na mão no território deste nervo. Em qual das regiões assinaladas na figura abaixo é mais indicado fazer essa pesquisa? Figura: Mãos. Fonte: adaptada de https://commons.wikimedia.org/wiki/File:Human-Hands-Front-Back.jpg.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A"
+      },
+      {
+        "letra": "B",
+        "texto": "B"
+      },
+      {
+        "letra": "C",
+        "texto": "C"
+      },
+      {
+        "letra": "D",
+        "texto": "D"
+      },
+      {
+        "letra": "E",
+        "texto": "E"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 106082,
+    "tags": [],
+    "enunciado": "A respeito da inervação do membro superior, marque a alternativa que contém o nervo responsável por inervar a maioria dos músculos intrínsecos da mão e a parte medial do compartimento flexor do antebraço:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nervo radial"
+      },
+      {
+        "letra": "B",
+        "texto": "Nervo ulnar"
+      },
+      {
+        "letra": "C",
+        "texto": "Nervo mediano"
+      },
+      {
+        "letra": "D",
+        "texto": "Nervo musculocutâneo"
+      },
+      {
+        "letra": "E",
+        "texto": "Nervo toracodorsal"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106083,
+    "tags": [],
+    "enunciado": "O nervo musculocutâneo possui um nome curioso, que auxilia na memorização de suas funções: após inervar uma série de músculos, esse nervo torna-se cutâneo e realiza inervação sensitiva do antebraço. Com base nisso, assinale a alternativa que contém os músculos inervados pelo n. musculocutâneo, e o nervo cutâneo que tem origem a partir dele:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Músculos: deltoide e redondo menor; nervo cutâneo medial do braço."
+      },
+      {
+        "letra": "B",
+        "texto": "Músculos: trapézio e escaleno; nervo cutâneo medial do antebraço."
+      },
+      {
+        "letra": "C",
+        "texto": "Músculos: braquiorradial, extensor dos dedos e supinador; nervo sural."
+      },
+      {
+        "letra": "D",
+        "texto": "Músculos: interósseos e lumbricais, ramo cutâneo palmar."
+      },
+      {
+        "letra": "E",
+        "texto": "Músculos: braquial, coracobraquial e bíceps braquial; nervo cutâneo lateral do antebraço."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 106084,
+    "tags": [],
+    "enunciado": "O nervo mediano é um dos principais responsáveis pela inervação sensitiva e motora do membro superior. Entretanto, devido ao seu trajeto anatômico este nervo se encontra sujeito a sofrer compressão pelas estruturas adjacentes. Marque a alternativa que contém a região na qual ocorre com maior frequência a compressão do nervo mediano:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fossa axilar."
+      },
+      {
+        "letra": "B",
+        "texto": "Posterior ao epicôndilo medial do úmero."
+      },
+      {
+        "letra": "C",
+        "texto": "Fossa cubital."
+      },
+      {
+        "letra": "D",
+        "texto": "Túnel do carpo."
+      },
+      {
+        "letra": "E",
+        "texto": "Entre os músculos escalenos anterior e médio."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 106085,
+    "tags": [],
+    "enunciado": "O cíngulo do membro inferior, ou cintura pélvica, é um conjunto de ossos que articulam o esqueleto axial com a parte livre dos membros inferiores, transferindo o peso do restante do corpo para estes últimos. Marque a alternativa que cita os ossos integrantes do cíngulo do membro inferior:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Osso do quadril e fêmur."
+      },
+      {
+        "letra": "B",
+        "texto": "Sacro e osso do quadril."
+      },
+      {
+        "letra": "C",
+        "texto": "Coluna vertebral, osso do quadril e fêmur."
+      },
+      {
+        "letra": "D",
+        "texto": "Sacro, osso do quadril, fêmur, tíbia e calcâneo."
+      },
+      {
+        "letra": "E",
+        "texto": "Tíbia e fíbula"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106086,
+    "tags": [],
+    "enunciado": "A coluna vertebral normal possui curvaturas que conferem a ela um formato típico, e auxiliam nas funções que ela exerce. Marque a alternativa que descreve corretamente as curvaturas normais da coluna vertebral:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cifose cervical, lordose torácica, cifose lombar e lordose sacral."
+      },
+      {
+        "letra": "B",
+        "texto": "Cifose cervical, cifose torácica, lordose lombar e lordose sacral."
+      },
+      {
+        "letra": "C",
+        "texto": "Lordose cervical, cifose torácica, lordose lombar e cifose sacral."
+      },
+      {
+        "letra": "D",
+        "texto": "Lordose cervical, lordose torácica, cifose lombar e cifose sacral."
+      },
+      {
+        "letra": "E",
+        "texto": "Lordose cervical, cifose torácica, cifose lombar e lordose sacral."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106087,
+    "tags": [],
+    "enunciado": "O sacro é um osso grande e triangular localizado na base da coluna vertebral, sendo formado, na maioria dos adultos, por cinco vértebras sacrais fundidas entre si. Marque a alternativa que descreve duas das principais funções do sacro:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sustentação de peso e rotação da coluna vertebral sobre o próprio eixo."
+      },
+      {
+        "letra": "B",
+        "texto": "Proteção mecânica da pelve e alojamento da medula espinhal."
+      },
+      {
+        "letra": "C",
+        "texto": "Articulação com o cíngulo do membro inferior e proteção de nervos espinhais."
+      },
+      {
+        "letra": "D",
+        "texto": "Alojamento da medula espinhal e fixação de músculos."
+      },
+      {
+        "letra": "E",
+        "texto": "Rotação da coluna vertebral sobre o próprio eixo e fixação de ligamentos da pelve."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106088,
+    "tags": [],
+    "enunciado": "Cite duas características das vértebras do segmento lombar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "São pequenas e pouco móveis."
+      },
+      {
+        "letra": "B",
+        "texto": "São móveis e, no adulto, estão fundidas entre si."
+      },
+      {
+        "letra": "C",
+        "texto": "Possuem capacidade de rotação em torno do próprio eixo e grandes corpos vertebrais."
+      },
+      {
+        "letra": "D",
+        "texto": "Possuem grandes corpos vertebrais e processos transversos longos."
+      },
+      {
+        "letra": "E",
+        "texto": "Não se movimentam e possuem processos espinhosos curtos."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 106089,
+    "tags": [],
+    "enunciado": "Assinale a alternativa que contém uma característica própria das vértebras torácicas, que as diferencie das vértebras dos demais segmentos da coluna:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Presença de processo espinhoso."
+      },
+      {
+        "letra": "B",
+        "texto": "Capacidade de realizar movimentos de flexão e extensão."
+      },
+      {
+        "letra": "C",
+        "texto": "Atuam como ponto de fixação de músculos."
+      },
+      {
+        "letra": "D",
+        "texto": "Possuem os maiores corpos vertebrais."
+      },
+      {
+        "letra": "E",
+        "texto": "Presença de fóvea costal no processo transverso."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 106090,
+    "tags": [],
+    "enunciado": "O músculo glúteo é formado por 03 camadas. Marque a alternativa que possui a nomenclatura correta destes músculos.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Médio, mínimo e máximo."
+      },
+      {
+        "letra": "B",
+        "texto": "Externo, interno e médio."
+      },
+      {
+        "letra": "C",
+        "texto": "Menor, intermédio e maior."
+      },
+      {
+        "letra": "D",
+        "texto": "Pequeno, médio e grande.  Respostas: 1 C 2 B 3 D 4 A 5 D 6 A 7 E 8 B 9 E 10 C 11 A 12 B 13 E 14 E 15 A 16 C 17 C 18 A 19 A 20 A 21 D 22 E 23 D 24 D 25 B 26 A 27 B 28 B 29 A 30 E 31 A 32 A 33 A 34 E 35 E 36 E 37 D 38 C 39 B 40 A 41 B 42 C 43 D 44 E 45 A 46 D 47 E 48 A 49 B 50 C 51 B 52 E 53 A 54 B 55 D 56 A 57 C 58 A 59 C 60 C 61 C 62 B 63 A 64 A 65 B 66 E 67 B 68 E 69 D 70 B 71 C 72 C 73 D 74 E 75 A"
+      }
+    ],
+    "resposta_correta": "A"
+  }
+]

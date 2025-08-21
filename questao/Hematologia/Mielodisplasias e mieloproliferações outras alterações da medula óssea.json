@@ -1,0 +1,2582 @@
+[
+  {
+    "id": 117170,
+    "tags": [],
+    "enunciado": "Homem, 51 anos, retorna à consulta ambulatorial para resultado de exames após acidente vascular cerebral isquêmico há 1 mês, com boa evolução da fase aguda. Antecedente pessoal: cirurgia por úlcera gástrica hemorrágica há 2 anos. Hemoglobina = 13 g/dL, VCM = 73 fL, leucócitos = 9.000/µL (segmentados 76%, linfócitos 15%, monócitos 5%; eosinó(cid:57)los 4%), plaquetas = 850.000/µL. Ferritina = 4 ng/mL. Exame físico: baço palpável a 2 cm do rebordo costal esquerdo. Qual o diagnóstico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Traço talassêmico."
+      },
+      {
+        "letra": "B",
+        "texto": "Anemia ferropriva."
+      },
+      {
+        "letra": "C",
+        "texto": "Trombofilia hereditária."
+      },
+      {
+        "letra": "D",
+        "texto": "Trombocitemia essencial. 4000232483"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 117171,
+    "tags": [],
+    "enunciado": "Paciente do sexo masculino, com 64 anos, apresenta enterorragia, petéquias e equimoses, além de epistaxe. Ao exame físico, apresenta baço palpável a 4 cm do RCE. Pesa 80 Kg. Hemograma mostra Hb: 12,1 g/dl, leucócitos: 7.800/mm³ com diferencial normal e plaquetas: 1.450.000/mm³. TP com INR de 1,3 e TTPa de 26”. Relata ser portador de trombocitemia essencial. Qual o tratamento indicado para a hemorragia?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "8 unidades de concentrados de plaquetas;"
+      },
+      {
+        "letra": "B",
+        "texto": "4 unidades (800 ml) de plasma fresco congelado;"
+      },
+      {
+        "letra": "C",
+        "texto": "1 unidade de crioprecipitado;"
+      },
+      {
+        "letra": "D",
+        "texto": "3.200 UI de fator de Von Willebrand. 4000231140"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 117172,
+    "tags": [],
+    "enunciado": "A maioria dos pacientes com mielodisplasia de baixo risco devem ser tratados:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Com transplantes de medula óssea de intensidade reduzida."
+      },
+      {
+        "letra": "B",
+        "texto": "Com medicamentos como fatores de crescimento, talidomida, lenalidomida, transfusões e quelantes de ferro, se necessário, ou somente observados."
+      },
+      {
+        "letra": "C",
+        "texto": "Com agentes hipometilantes ou agonistas da trombopoietina, preferencialmente."
+      },
+      {
+        "letra": "D",
+        "texto": "Com quimioterapia. 4000231040"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 117173,
+    "tags": [],
+    "enunciado": "Um homem de 50 anos procura atendimento médico com queixas de fadiga, petéquias e infecções recorrentes. Os exames laboratoriais revelam pancitopenia signi(cid:57)cativa, com hemácias, leucócitos e plaquetas abaixo dos valores normais. O esfregaço de sangue periférico mostra células precursoras anormais. Qual é o diagnóstico mais provável para esse paciente e qual seria a conduta inicial apropriada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Anemia aplasica e TMO."
+      },
+      {
+        "letra": "B",
+        "texto": "Leucemia mieloide aguda e quimioterapia."
+      },
+      {
+        "letra": "C",
+        "texto": "Mielodisplasia e reposição de hemoderivados conforme necessidade."
+      },
+      {
+        "letra": "D",
+        "texto": "Mielofibrose primária e TMO."
+      },
+      {
+        "letra": "E",
+        "texto": "Leucemia linfocítica crônica e quimioterapia. 4000215566"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 117174,
+    "tags": [],
+    "enunciado": "A neutropenia congênita grave é composta por um grupo raro de doenças hematológicas:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Caracterizada por defeito na maturação do setor granulocítico. A prevalência de neutropenia congênita é de 3 a 8 casos para cada 1.000.000 de habitantes e a sobrevida destes pacientes é desconhecida."
+      },
+      {
+        "letra": "B",
+        "texto": "Nunca caracterizada por defeito na maturação do setor granulocítico. A prevalência de neutropenia congênita é de 3 a 8 casos para cada 1.000.000 de habitantes e a sobrevida destes pacientes é desconhecida."
+      },
+      {
+        "letra": "C",
+        "texto": "Caracterizada por defeito na maturação do setor não granulocítico. A prevalência de neutropenia congênita é de 3 a 8 casos para cada 1.000.000 de habitantes e a sobrevida destes pacientes é desconhecida."
+      },
+      {
+        "letra": "D",
+        "texto": "Caracterizada por defeito na desnaturação do setor granulocítico. A prevalência de neutropenia congênita é de 3 a 8 casos para cada 1.000.000 de habitantes e a sobrevida destes pacientes é desconhecida. 4000214928"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 117175,
+    "tags": [],
+    "enunciado": "Homem de 60 anos com hemoglobina de 20 g/dL e Ht 66%. Leucócitos 14.000/mm³ (Neutró(cid:57)los 9.000/mmS, Bastonetes 1.200/mm³), Plaquetas 820.000/mm³. Trombose arterial com amputação do halux direito há 6 meses e agora com perda da visão bilateral por trombose retiniana. Qual a alternativa que apresenta a hipótese mais provável e a conduta correspondente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Leucemia Mieloide Crônica, BCR/ABL qualitativo e Imatinibe;"
+      },
+      {
+        "letra": "B",
+        "texto": "Policitemia Vera, Mutação da JAK2, Dosagem de eritropoetina, AAS e Sangria terapêutica;"
+      },
+      {
+        "letra": "C",
+        "texto": "Trombocitemia Essencial, Mielograma, AAS e Trombocitaferese;"
+      },
+      {
+        "letra": "D",
+        "texto": "Leucemia Mieloide Crônica, Cromossoma Philadelphia, Hydroxiuréia."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 117176,
+    "tags": [],
+    "enunciado": "Homem de 45 anos, com antecedente de obesidade e apneia obstrutiva do sono, em uso de CPAP, ex- tabagista (30 anos-maço), é encaminhado para avaliação de policitemia. Hemograma: Hb 18 g/dL, Ht 58 %, leucócitos = 12.000/mm³, diferencial normal, plaquetas 500.000/mm³, eritropoetina 2 mIU/mL (Normal 2– 18).",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "conduta mais adequada é:"
+      },
+      {
+        "letra": "A",
+        "texto": "solicitar mielograma."
+      },
+      {
+        "letra": "B",
+        "texto": "adequar os ajustes do CPAP."
+      },
+      {
+        "letra": "C",
+        "texto": "investigar neoplasia renal."
+      },
+      {
+        "letra": "D",
+        "texto": "pesquisar mutação do JAK2."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 117177,
+    "tags": [],
+    "enunciado": "A(s) constitui(em) um grupo de doenças clonais adquiridas da célula primordial hematopoética. São caracterizadas por citopenia, medula hipercelular e anormalidades morfológicas variadas. Apesar da presença de número adequado de células primordiais hematopoéticas, ocorre hematopoese inefetiva, resultando em várias citopenias. São entidades de curso crônico, duração variável e podem preceder o aparecimento de leucemia mielógena aguda, que pode ocorrer em 10 a 40% dos casos. Assinale corretamente a alternativa que preencha a lacuna acima:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Agranulocitose."
+      },
+      {
+        "letra": "B",
+        "texto": "Púrpura."
+      },
+      {
+        "letra": "C",
+        "texto": "Leucocitose."
+      },
+      {
+        "letra": "D",
+        "texto": "Anemia Hemolítica Adquirida."
+      },
+      {
+        "letra": "E",
+        "texto": "Síndrome Mielodisplásica"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 117178,
+    "tags": [],
+    "enunciado": "Julgue os próximos itens a respeito de doenças hematológicas e infecciosas. Sugere-se o diagnóstico de trombocitemia essencial caso sejam observados valores normais de hematócrito, contagem de leucócitos, volume corpuscular médio (VCM) e valores de ferro, bem como ausência da translocação BCR-ABL.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Certo."
+      },
+      {
+        "letra": "B",
+        "texto": "Errado."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 117179,
+    "tags": [],
+    "enunciado": "Recém Nascido de 8 dias de vida com fenótipo de Síndrome de Down interna para investigação de taquipnéia e hepatoesplenomegalia. Exame físico: BEG, corado, hidratado, evidenciando desconforto respiratório discreto, fígado palpável a 5 cm de RCD e baço há 3 cm de RCE. Exames admissionais com Hemograma Hb 17,5/ HT 52% Leucócitos 105.000 (blastos 20%, Segmentados 20%, linfócitos 58% e Monócitos 3%) Plaquetas: 50.000. TGO 102 TGP80 LDH 8900. Paciente manteve observação clínica. Após 40 dias da admissão repetido hemograma: Hb 15,0 Ht 45% Leucócitos 13.000 (blastos 3%, segmentados 27%, linfócitos 70%) Plaquetas 155.000. A principal hipótese diagnóstica é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aplasia de Medula"
+      },
+      {
+        "letra": "B",
+        "texto": "Leucemia Linfóide Aguda"
+      },
+      {
+        "letra": "C",
+        "texto": "Leucemia Mielóide Aguda"
+      },
+      {
+        "letra": "D",
+        "texto": "Síndrome Mieloproliferativa Transitória"
+      },
+      {
+        "letra": "E",
+        "texto": "Infecção Congênita por toxoplasmose 4000188745"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 117180,
+    "tags": [],
+    "enunciado": "Diante de uma paciente do sexo feminino com suspeita de POLICITEMIA VERA por achado de hemograma anormal com dosagem de hemoglobina=16,7 g/d, para con(cid:57)rmação diagnóstica, devem ser realizados os seguintes exames:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "biópsia de medula óssea, coagulograma, dosagem de níveis séricos totais de antígeno do fator de von Willebrand (FVW)."
+      },
+      {
+        "letra": "B",
+        "texto": "biópsia de medula óssea, dosagem dos níveis séricos de eritropoietina, testar as mutações JAK2, CALR ou LNK."
+      },
+      {
+        "letra": "C",
+        "texto": "biópsia de medula óssea, níveis de anticorpos e atividade da ADAMTS 13, teste de antiglobulina direto."
+      },
+      {
+        "letra": "D",
+        "texto": "dosagem dos níveis séricos de eritropoietina, teste de Coombs direto, níveis de anticorpos e atividade da ADAMTS 13. 4000187831"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 117181,
+    "tags": [],
+    "enunciado": "Homem, 46 anos, retorna à consulta ambulatorial para resultado de exames após acidente vascular cerebral isquêmico há 5 semanas, com boa evolução da fase aguda. Antecedente pessoal: cirurgia bariátrica há 6 anos, sem acompanhamento ou medicações regulares. Hemoglobina = 14g/dL, VCM = 63fL, hemácias = 7.000.000/µL; leucócitos = 18.000/µL (segmentados 76%, linfócitos 10%, monócitos 5%; eosinó(cid:57)los 6%, basó(cid:57)los 3%), plaquetas = 1.450.000/µL. Ferritina: 4ng/mL. Exame físico: baço palpável a 2 cm do rebordo costal esquerdo. Qual é o diagnóstico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Trombofilia hereditária"
+      },
+      {
+        "letra": "B",
+        "texto": "Traço talassêmico"
+      },
+      {
+        "letra": "C",
+        "texto": "Anemia ferropriva"
+      },
+      {
+        "letra": "D",
+        "texto": "Policitemia Vera 4000183096"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 117182,
+    "tags": [],
+    "enunciado": "Homem, 65 anos, tabagista, com histórico de cardiopatia isquêmica, apresentou, em exames de rotina, os seguintes resultados: eritrócitos 7,6x10¹²/L, hemoglobina 18,9 g/dL, hematócrito 61%, VCM 76 (cid:89), HCM 24 pg, leucócitos 13,2x10⁹/L com diferencial normal, plaquetas 220x10⁹ e eritropoietina sérica reduzida. A principal hipótese diagnóstica é de um caso de policitemia",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "secundária por doença pulmonar ou cardiopatia hipoxemica, com indicação de realização de gasometria arterial e testes de função cardíaca e pulmonar para comprovação diagnóstica."
+      },
+      {
+        "letra": "B",
+        "texto": "secundária à presença de hemoglobina de alta afinidade pelo oxigênio, com indicação de realização de eletroforese de hemoglobina e gasometria arterial."
+      },
+      {
+        "letra": "C",
+        "texto": "paraneoplásica, com indicação de avaliação para tumores do trato urinário e fígado."
+      },
+      {
+        "letra": "D",
+        "texto": "vera, com indicação de biopsia de medula óssea ou pesquisa da mutação JAK2 para comprovação diagnóstica. 4000192393"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 117183,
+    "tags": [],
+    "enunciado": "Paciente de 64 anos de idade procura atendimento médico na Unidade Básica de Saúde, com queixa de astenia progressiva há quatro meses e episódios eventuais de sangramento nasal. Nega comorbidades e uso de medicações. PA 110 x 75 mmHg, FC 102 bpm, FR 20 ipm, palidez com mucosas hipocoradas (++/4+). Hemoglobina 8,9 g/dL (12 a 14 g/dL), hematócrito 27% (36 a 42%), VCM 64 fL (80 a 100 fL), HCM 21 pg (27 a 32 pg), RDW 18% (11,5 a 15%); leucograma normal e plaquetas em 75.600/µL (150 – 400 mil/µL). Neste momento, recomenda-se a realização de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "colonoscopia e endoscopia."
+      },
+      {
+        "letra": "B",
+        "texto": "mielograma."
+      },
+      {
+        "letra": "C",
+        "texto": "dosagem de ácido fólico."
+      },
+      {
+        "letra": "D",
+        "texto": "dosagem de vitamina B12."
+      },
+      {
+        "letra": "E",
+        "texto": "pesquisa de sangue oculto nas fezes."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 117184,
+    "tags": [],
+    "enunciado": "Homem de 64 anos, previamente hígido, vem ao ambulatório relatando astenia há 1 ano, perda de peso (10 kg em 6 meses) e dor em hipocôndrio esquerdo. Ao exame físico, apresenta esplenomegalia. Hemograma apresenta série vermelha com anemia e presença de hemácias em lágrimas; série branca com leucocitose, desvio até mielócitos e plaquetopenia. Observe o hemograma abaixo. Qual é a conduta a ser seguida?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Iniciar antibioticoterapia."
+      },
+      {
+        "letra": "B",
+        "texto": "Investigar lúpus eritematoso sistêmico."
+      },
+      {
+        "letra": "C",
+        "texto": "Solicitar eletroforese de proteínas."
+      },
+      {
+        "letra": "D",
+        "texto": "Biópsia de medula óssea."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 117185,
+    "tags": [],
+    "enunciado": "Mulher, 67 anos, assintomática, com hipertensão arterial sistêmica. Baço palpável no rebordo costal esquerdo. Hemoglobina: 12,3 g/dL; leucócitos: 4.500/uL; neutrófilos: 3.300 u/L; linfócitos: 900/uL; monócitos: 300/uL; plaquetas: 800.000/uL. Pesquisa da mutação da JAK2 V617F positiva. Biópsia de medula óssea (imagem abaixo). Qual é o tratamento mais adequado para esta paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hidroxiureia + AAS"
+      },
+      {
+        "letra": "B",
+        "texto": "Ruxolitinibe + AAS"
+      },
+      {
+        "letra": "C",
+        "texto": "Observação"
+      },
+      {
+        "letra": "D",
+        "texto": "Anagrelide"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 117186,
+    "tags": [],
+    "enunciado": "Homem, 65 anos, com diagnóstico de policitemia vera há 10 anos, com mutação V617F do gene JAK2, evoluindo com fraqueza há 3 meses, desconforto abdominal e esplenomegalia. Hemoglobina: 8,2 g/dL; leucócitos: 3.000/μL; plaquetas: 59.000/μL. A biópsia de medula óssea mostra reticulogênese grau 3. Qual a alternativa mais correta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ausência da mutação V617F do JAK2 exclui o diagnóstico de policitemia vera"
+      },
+      {
+        "letra": "B",
+        "texto": "Presença da mutação V617F do JAK2 é suficiente para estabelecer o diagnóstico de uma neoplasia mieloproliferativa crônica"
+      },
+      {
+        "letra": "C",
+        "texto": "Tratamento com inibidores de JAK2 é capaz de reduzir o tamanho do baço, melhorar sintomas e eliminar a mutação do JAK2."
+      },
+      {
+        "letra": "D",
+        "texto": "Cerca de 15-20% dos casos de PV podem evoluir para mielofibrose e menos que 10% para leucemia aguda"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 117187,
+    "tags": [],
+    "enunciado": "Mulher, 72 anos, apresenta-se com queixa de fadiga progressiva nos últimos 6 meses. Exame físico: palidez cutâneo-mucosa e petéquias em membros inferiores, sem icterícia, ausência de adeno e de esplenomegalia. O hemograma revelou: hemoglobina: 9,1 g/dL, VCM: 105 fL; reticulócitos: 26.000/μL; leucócitos: 4.700/μL; neutró(cid:57)los: 1.200/μL; plaquetas: 40.000/μL. Dosagens de vitamina B12 e ácido fólico: normais. Mielograma: celularidade de 20%, com frequentes eritroblastos binucleados, 5% de blastos e megacariócitos hipolobulados. Coloração para ferro do mielograma: Considerando o diagnóstico mais provável, o gene mais provavelmente mutado na medula óssea dessa paciente é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "TERT"
+      },
+      {
+        "letra": "B",
+        "texto": "SF3B1"
+      },
+      {
+        "letra": "C",
+        "texto": "JAK2"
+      },
+      {
+        "letra": "D",
+        "texto": "TET2"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 117188,
+    "tags": [],
+    "enunciado": "Homem de 69 anos, realizou hemograma que revelou anormalidade, con(cid:57)rmada após repetição do exame. Está assintomático. É portador de diabetes mellitus, artrite reumatoide e obesidade grau 3. Faz uso de metformina e prednisona 20mg. É tabagista e fuma 2 maços de cigarros ao dia, desde os 20 anos. Exames de laboratório: Hemoglobina: 14,3g/dL; Leucócitos: 15.630/mm³; Neutró(cid:57)los Segmentados: 10.200/mm³; Neutró(cid:57)los Bastonetes: 980/mm³; Linfócitos: 3.340/mm³; Eosinó(cid:57)los: 340/mm³; Monócitos: 670/mm³; Basó(cid:57)los: 30/mm³; Plaquetas: 268.000/mm³; Hemoglobina Glicada: 9,3%; Proteína C reativa: 5mg/L. Assinale a alternativa que NÃO apresenta uma causa provável para a anormalidade hematológica apresentada por esse paciente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Diabetes mellitus."
+      },
+      {
+        "letra": "B",
+        "texto": "Obesidade."
+      },
+      {
+        "letra": "C",
+        "texto": "Prednisona."
+      },
+      {
+        "letra": "D",
+        "texto": "Tabagismo. 4000129929"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 117189,
+    "tags": [],
+    "enunciado": "Leia o caso clínico a seguir. Mulher de 43 anos se apresenta ao pronto-socorro com história de desconforto abdominal progressivo e ganho de peso há três semanas. Ela relata não possuir doenças pregressas e não faz uso de medicamentos. No exame físico, nota-se uma face pletórica. O abdômen está tenso, sensível e moderadamente distendido. Os achados laboratoriais demonstram hemoglobina de 18,7 g/dL, contagem de leucócitos de 9000/µL, contagem de plaquetas de 401.000/ µL, nível de alanina aminotransferase (ALT) de 84 U/L, aspartato aminotransferase (AST) de 107 U/L e nível de bilirrubina total de 0,9 mg/dL. O teste sérico de gravidez é negativo. A ultrassonografia abdominal com doppler demonstra trombose da veia hepática. Qual dos seguintes testes de diagnóstico tem mais probabilidade de estabelecer a causa da apresentação clínica da paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pesquisa da mutação JAK2V617F."
+      },
+      {
+        "letra": "B",
+        "texto": "Pesquisa de trombofilias hereditárias."
+      },
+      {
+        "letra": "C",
+        "texto": "Tomografia computadorizada (TC) helicoidal do abdômen."
+      },
+      {
+        "letra": "D",
+        "texto": "Citometria de fluxo para expressão de CD55 e CD59."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 117190,
+    "tags": [],
+    "enunciado": "Homem, 48a, retorna a consulta ambulatorial para resultado de exames após acidente vascular cerebral isquêmico há 4 semanas, com boa evolução da fase aguda. Antecedente pessoal: cirurgia bariátrica há 5 anos, sem acompanhamento ou mediações regulares. Hemoglobina= 19,g/dL, VCM= 63fL, hemácias= 7.000.000/µL; leucócitos= 18.000/µL (segmentados 76%, linfócitos 10%, monócitos 5%; eosinó(cid:57)los 6%, basó(cid:57)los 3%), plaquetas= 550.000/µL. Ferritina: 4ng/mL. Exame físico: baço palpável a 2 cm do rebordo costal esquerdo. O DIAGNÓSTICO É:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Traço talassêmico."
+      },
+      {
+        "letra": "B",
+        "texto": "Anemia ferropriva."
+      },
+      {
+        "letra": "C",
+        "texto": "Policitemia Vera"
+      },
+      {
+        "letra": "D",
+        "texto": "Trombofilia hereditária."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 117191,
+    "tags": [],
+    "enunciado": "Vanda, 66 anos, foi encaminhada ao ambulatório de Hematologia do Hospital Universitário para investigação diagnóstica de pancitopenia. Em consulta, a paciente refere astenia progressiva nos últimos 3 meses e relata também que passou a apresentar, há 2 semanas, petéquias e gengivorragia. Diante disso, procurou atendimento médico, quando foi realizado hemograma completo que revelou anemia normocítica normocrômica, com baixa contagem de reticulócitos, leucopenia com diferencial normal e plaquetopenia. Um exame hematoscópico revelou presença de elevada porcentagem de dacriócitos (hemácias “em lágrima”). Nessa situação, o diagnóstico mais provável da paciente e o exame complementar a ser solicitado para sua confirmação devem ser, respectivamente,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "mielofibrose e biópsia de medula óssea."
+      },
+      {
+        "letra": "B",
+        "texto": "leucemia mieloide aguda e aspirado de medula óssea."
+      },
+      {
+        "letra": "C",
+        "texto": "mielodisplasia e citometria de fluxo de sangue periférico."
+      },
+      {
+        "letra": "D",
+        "texto": "aplasia de medula óssea e sorologia para parvovírus B19."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 117192,
+    "tags": [],
+    "enunciado": "Um paciente de 60 anos, não tabagista, apresenta hemoglobina de 20g/dL, microcitose, níveis baixos de eritropoietina, prurido cutâneo intenso após banhos quentes e cefaleia diária. O diagnóstico é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "policitemia do DPOC."
+      },
+      {
+        "letra": "B",
+        "texto": "mieloma múltiplo."
+      },
+      {
+        "letra": "C",
+        "texto": "uso de anabolizantes esteroides."
+      },
+      {
+        "letra": "D",
+        "texto": "policitemia vera."
+      },
+      {
+        "letra": "E",
+        "texto": "mielodisplasia."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 117193,
+    "tags": [],
+    "enunciado": "Monitorização de Complicações Cardiovasculares Perioperatórias Uma jovem com policitemia vera foi submetida à esplenectomia por videolaparoscopia. No pós-operatório, evoluiu com infarto agudo do miocárdio. A provável causa dessa complicação consiste em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "trombocitose"
+      },
+      {
+        "letra": "B",
+        "texto": "mastocitose"
+      },
+      {
+        "letra": "C",
+        "texto": "leucocitose"
+      },
+      {
+        "letra": "D",
+        "texto": "linfocitose"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 117194,
+    "tags": [],
+    "enunciado": "Diagnóstico das síndromes mielodisplásicas SMD",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "partir dos achados laboratoriais na primeira coluna, numere as patologias da segunda coluna. 1. Bilirrubina indireta 1,8 mg/dL. 2. Hemoglobina corpuscular média (HCM) 20 pg. 3. Concentração hemoglobinica corpuscular média (CHCM) 37 g/dL. 4. RDW 16,5%. 5. Contagem de plaquetas 85.000 /μL. ( ) Anemia ferropriva. ( ) Anemia por deficiência de vitamina B12. ( ) Talassemia. ( ) Mielodisplasia. ( ) Esferocitose. Assinale a alternativa que apresenta a numeração correta na coluna, de cima para baixo."
+      },
+      {
+        "letra": "A",
+        "texto": "4 – 1 – 2 – 5 – 3."
+      },
+      {
+        "letra": "B",
+        "texto": "4 – 2 – 1 – 5 – 3."
+      },
+      {
+        "letra": "C",
+        "texto": "1 – 2 – 3 – 4 – 5."
+      },
+      {
+        "letra": "D",
+        "texto": "1 – 3 – 2 – 4 – 5."
+      },
+      {
+        "letra": "E",
+        "texto": "5 – 1 – 3 – 2 – 4."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 117195,
+    "tags": [],
+    "enunciado": "Mulher de 35 anos, vigilante, previamente hígida, comparece ao ambulatório de clínica médica referindo parestesia em membros inferiores de evolução há cerca de um ano. Há 2 meses sua mãe faleceu de câncer gástrico e, desde então, está apresentando di(cid:57)culdade de concentração e dé(cid:57)cit de memória recente. Após o falecimento de sua mãe a paciente foi submetida a endoscopia digestiva alta, que evidenciou gastrite atró(cid:57)ca con(cid:57)rmada por biópsia, com pesquisa negativa para Helicobacter pylori. Além disso, também traz exames realizados de rotina há 1 semana que foram solicitados por sua ginecologista: Hemoglobina: 10,4 g/dL, hematócrito 30%, VCM: 110 fL, HCM 28 pg, CHCM 32g/dL, RDW 10%, Leucócitos totais 3,5 x 10³/mm³ (basó(cid:57)los 0,5%/ eosinó(cid:57)los 2,5%/ mielócitos 0%/ metamielócitos 0%/ bastões 1%/ segmentados 55%/ linfócitos 35%/ monócitos 6%) com hiperssegmentação de neutró(cid:57)los, plaquetas 87.000, TSH 4,0 mUI/L (VR: 0,45 - 4,5 mUI/L). Diante do caso, qual a hipótese diagnóstica mais provável?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Síndrome mielodisplásica."
+      },
+      {
+        "letra": "B",
+        "texto": "Leucemia mieloide aguda."
+      },
+      {
+        "letra": "C",
+        "texto": "Anemia perniciosa."
+      },
+      {
+        "letra": "D",
+        "texto": "Anemia aplásica."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 117196,
+    "tags": [],
+    "enunciado": "Um paciente de 38 anos apresenta queixas de indisposição e fraqueza há 5 meses. O exame físico revela mucosas levemente hipocoradas, sem demais achados relevantes. Um hemograma é, então, solicitado: Hb 9,6g/dl; VCM 88 fL; Leucócitos 4300/mm³ ; Neutró(cid:57)los 55%; Linfócitos 40%; Eosinó(cid:57)los 2%; Monócitos 3%; Plaquetas 160.000/mm³. Diante desse quadro de anemia, foram solicitados os seguintes exames: Ferritina 180ng/ml; Creatinina 1,0 mg/dl; Bilirrubinas direta 0,5 mg/dl; Bilirrubinas indiretas 0,3mg/dl; Bilirrubinas totais 0,8mg/dl; Coombs Direto negativo. Eletroforese de hemoglobina: Hb AA 97% com Hb A2 de 2,5%. Diante dos exames acima, um mielograma foi realizado: Medula óssea hipercelular com 55% de diseritropoiese 20% de disgranulopoiese. Podemos afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Trata-se de Síndrome Mielodisplástica pois há mais de 10% de displasia;"
+      },
+      {
+        "letra": "B",
+        "texto": "Não se trata de Síndrome Mielodisplástica pois não há evidências de que a displasia seja monoclonal e o paciente é jovem."
+      },
+      {
+        "letra": "C",
+        "texto": "O próximo passo seria a realização de colonoscopia"
+      },
+      {
+        "letra": "D",
+        "texto": "As 3 alternativas acima estão erradas"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 117197,
+    "tags": [],
+    "enunciado": "Uma paciente do sexo feminino, 39 anos, previamente hígida, se queixa de astenia intensa há dois dias. Está no sétimo e último dia de tratamento para infecção respiratória da qual vinha se recuperando bem até o início da astenia. Está em uso de amoxicilina + clavulanato. Apresenta hemoglobina de 6,2/dl, volume corpuscular médio de 87 (cid:89), leucometria de 6.100/μL, contagem de plaquetas de 145.000/μL e contagem de reticulócitos de 22%. A pressão arterial média é de 86 mmHg, a frequência cardíaca é de 105 bpm e a temperatura é 36,7°C. Assinale a alternativa correta em relação ao diagnóstico mais provável.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Anemia hemolítica."
+      },
+      {
+        "letra": "B",
+        "texto": "Anemia transinfecciosa."
+      },
+      {
+        "letra": "C",
+        "texto": "Anemia de hipersensibilidade às cefalosporinas."
+      },
+      {
+        "letra": "D",
+        "texto": "Síndrome mielodisplásica."
+      },
+      {
+        "letra": "E",
+        "texto": "Leucemia linfoide aguda."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 117198,
+    "tags": [],
+    "enunciado": "Paciente de 78 anos, masculino, com queixa de astenia e dispneia aos médios esforços, iniciadas a cerca de 8 meses e progressiva. HAS controlada, nega outros problemas de saúde. Nega uso de álcool ou tabagismo. Ao exame físico, apresenta palidez muco-cutânea, FC=98 bpm e FR=20 mpm. Hemograma apresenta Hg=9,0; VCM=120; Leucócitos=3.000 e plaquetas = 90.000, vitamina B12= 320. Qual o diagnóstico mais provável para este caso?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Síndrome mielodisplásica."
+      },
+      {
+        "letra": "B",
+        "texto": "Anemia por deficiência de vitamina B12."
+      },
+      {
+        "letra": "C",
+        "texto": "Mieloma múltiplo."
+      },
+      {
+        "letra": "D",
+        "texto": "Anemia ferropriva."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 117199,
+    "tags": [],
+    "enunciado": "Mulher, 69 anos, queixa-se de indisposição, dispneia aos grandes esforços, perda de equilibrio, fraqueza e dormência nas pernas e nos pés. Exame (cid:57)sico: afebril, discretamente ictérica, hipocorada ++/4+, RCR 2T, ausculta pulmonar normal, adbome indolor, sem vísceras palpáveis. Exame neurológico: marcha atáxica, hipoestesia simétrica e paresia distal de MMII com arre(cid:89)exia profunda. Exames laboratoriais: hematócrito = 28%; hemoglobina = 9,6%; VGM = 112; plaquetas = 98.000/mm³; leucócitos = 4.000/mm³; bilirrubina total = 3,2 mg/L; bilirrubina indireta = 2,6 mg/L. A hipótese diagnóstica mais provável para esta paciente é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Síndrome POEMS."
+      },
+      {
+        "letra": "B",
+        "texto": "Leucemia línfocitica crônica."
+      },
+      {
+        "letra": "C",
+        "texto": "Mielofibrose."
+      },
+      {
+        "letra": "D",
+        "texto": "Deficiência de vitamina B12."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 117200,
+    "tags": [],
+    "enunciado": "Em paciente com policitemia vera, podem ser consideradas manifestações clínicas decorrentes da hiperviscosidade sanguínea:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Desidratação; perda de peso; ascite; linfadenomegalia."
+      },
+      {
+        "letra": "B",
+        "texto": "Anemia; cálculo renal; icterícia; petéquias."
+      },
+      {
+        "letra": "C",
+        "texto": "Eritromelalgia; hiperpotassemia; febre; hipóxia."
+      },
+      {
+        "letra": "D",
+        "texto": "Vertigem; cefaleia, zumbido; hipertensão sistólica."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 117201,
+    "tags": [],
+    "enunciado": "São causas de anemias macrocíticas:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Anemias hemolíticas congênitas e anemia megaloblástica."
+      },
+      {
+        "letra": "B",
+        "texto": "Anemia sideroblástica e deficiência de ferro."
+      },
+      {
+        "letra": "C",
+        "texto": "Envenenamento por chumbo e síndromes talassêmicas."
+      },
+      {
+        "letra": "D",
+        "texto": "Anemia por deficiência de tiamina e síndrome mielodisplásica."
+      },
+      {
+        "letra": "E",
+        "texto": "Síndromes talassêmicas e anemia hemolítica adquirida."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 117202,
+    "tags": [],
+    "enunciado": "São causas de esplenomegalia maciça (gigante):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tricoleucemia, talassemia menor, leucemia mieloide crônica."
+      },
+      {
+        "letra": "B",
+        "texto": "Talassemia maior, mielofibrose primária, leucemia mieloide crônica."
+      },
+      {
+        "letra": "C",
+        "texto": "Mielofibrose primária, trombocitopenia imunológica primária, leucemia linfocítica crônica."
+      },
+      {
+        "letra": "D",
+        "texto": "Anemia hemolítica autoimune, policitemia vera, anemia falciforme."
+      },
+      {
+        "letra": "E",
+        "texto": "Leucemia mieloide crônica, doença de Gaucher, púrpura trombocitopênica trombótica."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 117203,
+    "tags": [],
+    "enunciado": "Assinale a doença em que os esquizócitos são geralmente encontrados:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Intoxicação por chumbo."
+      },
+      {
+        "letra": "B",
+        "texto": "Doenças hemolíticas."
+      },
+      {
+        "letra": "C",
+        "texto": "Hiperesplenismo."
+      },
+      {
+        "letra": "D",
+        "texto": "Mielofibrose."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 117204,
+    "tags": [],
+    "enunciado": "Sobre o diagnóstico diferencial das anemias, assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A talassemia menor cursa, mais comumente, com anemia hemolítica normocítica e normocrômica."
+      },
+      {
+        "letra": "B",
+        "texto": "A anemia microcítica e hipocrômica, com ferro sérico e transferrina reduzidos, índice de saturação de transferrina normal e ferritina aumentada, é compatível com causa ferropriva."
+      },
+      {
+        "letra": "C",
+        "texto": "As anemias macrocíticas podem ser encontradas na mielodisplasia, na doença de Crohn ileal, no hipotireoidismo e em pacientes etilistas."
+      },
+      {
+        "letra": "D",
+        "texto": "As anemias hemolíticas por anormalidades intrínsecas dos eritrócitos possuem em comum o aumento da bilirrubina indireta e da desidrogenase láctica, a redução da haptoglobina e o teste de Coombs direto positivo."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 117205,
+    "tags": [],
+    "enunciado": "Paciente de 43 anos submetida à gastroplastia há 8 anos referindo palidez, astenia e parestesia progressiva em membros inferiores. Esses sinais e sintomas se iniciaram aproximadamente há 6 meses. O hemograma demonstrou anemia macrocítica, hipersegmentação de neutró(cid:57)los, leucopenia discreta com diferencial normal e leve plaquetopenia (90.000/mm³). Considerando as informações do quadro clínico e os resultados obtidos no hemograma, assinale a opção que indica o diagnóstico mais provável da paciente é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aplasia de medula óssea."
+      },
+      {
+        "letra": "B",
+        "texto": "Síndrome mielodisplásica."
+      },
+      {
+        "letra": "C",
+        "texto": "Deficiência de folato."
+      },
+      {
+        "letra": "D",
+        "texto": "Deficiência de vitamina B12."
+      },
+      {
+        "letra": "E",
+        "texto": "Hepatite B ou C crônica."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 117206,
+    "tags": [],
+    "enunciado": "Considere quatro situações clínicas. I. Hemorragia aguda severa. II. Crise hemolítica. III. Alcoolismo intenso. IV. Intoxicação por anticonvulsivantes. Reação leucoeritroblástica será encontrada com maior probabilidade em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e III."
+      },
+      {
+        "letra": "B",
+        "texto": "III e IV."
+      },
+      {
+        "letra": "C",
+        "texto": "I e II."
+      },
+      {
+        "letra": "D",
+        "texto": "II e IV."
+      },
+      {
+        "letra": "E",
+        "texto": "I e IV."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 117207,
+    "tags": [],
+    "enunciado": "Um paciente de 72 anos de idade foi internado na enfermaria de um hospital devido a quadro de astenia intensa, palpitação e dispneia aos esforços nos últimos sete dias. Ao exame físico, apresentou-se hipocorado 3+/4+, com espaço de Traube ocupado, hemoglobina de 6,1 g/dl, VCM e CHCM dentro da normalidade e leucócitos de 20.700/mm³, com desvio escalonado até mielócitos. A análise do esfregaço mostrou hemácias em lágrimas e macroplaquetas. Com base nessa situação hipotética, assinale a alternativa que apresenta o provável diagnóstico do paciente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Leucemia mieloide crônica."
+      },
+      {
+        "letra": "B",
+        "texto": "Enterobacteriose prolongada."
+      },
+      {
+        "letra": "C",
+        "texto": "Calazar."
+      },
+      {
+        "letra": "D",
+        "texto": "Mielofibrose."
+      },
+      {
+        "letra": "E",
+        "texto": "Anemia da insuficiência hepática."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 117208,
+    "tags": [],
+    "enunciado": "Anemia do hipotireoidismo Analise as situações abaixo: I. Deficiência de vitamina B12. II. Deficiência de ácido fólico. III. Inibidores da síntese de DNA. IV. Mielodisplasia. V. Hipotireoidismo. Quais causam anemia macrocítica megaloblástica?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas I e V."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas III e IV."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas I, II e III."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas I, II, III e IV."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II, III, IV, e V."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 117209,
+    "tags": [],
+    "enunciado": "São causas de microcitose e hipocromia no exame de esfregaço sanguíneo:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "deficiência de ferro, mieloma múltiplo, uso de fenitoína"
+      },
+      {
+        "letra": "B",
+        "texto": "hemólise intravascular, mielodisplasia, hipertireoidismo"
+      },
+      {
+        "letra": "C",
+        "texto": "anemia da inflamação, talassemia, anemia sideroblástica"
+      },
+      {
+        "letra": "D",
+        "texto": "insuficiência renal, leucemia mieloide crônica, hepatite crônica"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 117210,
+    "tags": [],
+    "enunciado": "Mulher, 72 anos, em investigação de anemia. Hemoglobina = 8,0 g/dl; volume corpuscular médio = 68 fL; Leucócitos = 5.500 (segmentados = 73%; Linfócitos = 23%; Monócitos = 3%; Eosinó(cid:57)los = 1%); Plaquetas = 600 mil; Ferritina = 2,5; EFHb: A1 = 97% A2 = 2,5%; F = 0,5%. Em relação ao presente caso, assinale a CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A paciente tem betatalassemia intermediária."
+      },
+      {
+        "letra": "B",
+        "texto": "A paciente tem Trombocitemia Essencial."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas com os dados acima não é possível afirmar que o diagnóstico é de anemia ferropriva, sendo obrigatória a avaliação dos estoques de ferro da medula óssea através da coloração pelo corante de Perls."
+      },
+      {
+        "letra": "D",
+        "texto": "O tratamento indicado é a reposição de ferro oral na dose de 180 mg -200 mg de ferro elementar/dia, que deve ser mantida até a normalização dos níveis de hemoglobina."
+      },
+      {
+        "letra": "E",
+        "texto": "Está indicada a investigação de perda de sangue pelo trato gastrintestinal, sítio mais frequente de perda crônica de sangue em mulheres na pós menopausa."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 117211,
+    "tags": [],
+    "enunciado": "Ao avaliar um paciente de 52 anos pancitopênico com eritroblastos na periferia, dentre as possibilidades diagnósticas apresentadas abaixo, devemos pensar preferencialmente em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Mielodisplasia"
+      },
+      {
+        "letra": "B",
+        "texto": "Deficiência de vitamina B12"
+      },
+      {
+        "letra": "C",
+        "texto": "Anemia aplásica"
+      },
+      {
+        "letra": "D",
+        "texto": "Esferocitose hereditária"
+      },
+      {
+        "letra": "E",
+        "texto": "Ocupação medular por doença maligna"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 117212,
+    "tags": [],
+    "enunciado": "Paciente do sexo feminino, 20 anos de idade, é transferida de Hospital de Naviraí - MS para o HU-UFGD com história de fraqueza progressiva há 15 dias, evoluindo com palpitações e dispneia aos esforços e olhos amarelados e urina escura há 3 dias. O exame físico revela palidez cutâneo-mucosa +++ / 4+, icterícia + / 4+, Taquicardia (FC 120 bpm); FR 24 irpm. SS panfocal. Abdome: (cid:89)ácido, indolor, ponta de baço palpável. Ausência de edemas ou púrpuras. Seu hemograma de entrada mostra: Hb 5,4g-dl; VCM 105 (cid:89); leucócitos 11.000 (80% neutró(cid:57)los, 18% linfócitos, 2% monócitos); Plaquetas 350.000/mm³. Assinale a alternativa que se relaciona corretamente ao caso da análise.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os achados de reticulocitose e elevação de LDH sugerem anemia perniciosa."
+      },
+      {
+        "letra": "B",
+        "texto": "Hiperbilirrubinemia indireta e reticulocitopenia fazem pensar em anemia aplástica."
+      },
+      {
+        "letra": "C",
+        "texto": "O aspirado de medula óssea está indicado para pesquisa de síndrome mielodisplásica."
+      },
+      {
+        "letra": "D",
+        "texto": "Reticulocitose, elevação de LDH e teste de Coombs direto positivo são esperados."
+      },
+      {
+        "letra": "E",
+        "texto": "Devem ser solicitados exames de avaliação hepática e marcadores de hepatites virais."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 117213,
+    "tags": [],
+    "enunciado": "Uma mulher com 66 anos de idade foi encaminhada ao ambulatório de hematologia de um hospital geral para investigação diagnóstica de pancitopenia. Em consulta, a paciente refere astenia progressiva nos últimos 3 meses e relata também que passou a apresentar, há 2 semanas, petéquias e gengivorragia. Diante disso, procurou atendimento médico, quando foi realizado hemograma completo que revelou anemia normocítica normocrômica, com baixa contagem de reticulócitos, leucopenia com diferencial normal e plaquetopenia. Um exame hematoscópico revelou a presença de elevada porcentagem de dacriócitos (\"hemácias em lágrima\"). Nessa situação, qual é o diagnóstico mais provável da paciente e que exame complementar deve ser solicitado para sua confirmação?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Mielofibrose; biópsia de medula óssea."
+      },
+      {
+        "letra": "B",
+        "texto": "Leucemia mieloide aguda; aspirado de medula óssea."
+      },
+      {
+        "letra": "C",
+        "texto": "Mielodisplasia; citometria de fluxo de sangue periférico."
+      },
+      {
+        "letra": "D",
+        "texto": "Aplasia de medula óssea; sorologia para parvovírus B19."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 117214,
+    "tags": [],
+    "enunciado": "Paciente do sexo feminino, 38 anos, tem queixa de fraqueza há dois meses. Relata sangramento menstrual excessivo por causa de um mioma. O resultado do hemograma demonstra anemia hipocrômica e microcítica com leucócitos normais e plaquetose. Qual a principal hipótese diagnóstica?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Trombocitemia essencial."
+      },
+      {
+        "letra": "B",
+        "texto": "Anemia por deficiência de ferro."
+      },
+      {
+        "letra": "C",
+        "texto": "Anemia por deficiência de folato."
+      },
+      {
+        "letra": "D",
+        "texto": "Síndrome mieloproliferativa crônica."
+      },
+      {
+        "letra": "E",
+        "texto": "Anemia hiper-regenerativa."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 117215,
+    "tags": [],
+    "enunciado": "Homem, 68 anos de idade, foi avaliado devido à dispneia aos esforços. Ao exame físico, apresenta palidez da conjuntiva, ausculta cardíaca e pulmonar normais, ausência de linfonodomegalias, hepatomegalia ou esplenomegalia. Sem sinais de sangramento cutâneo-mucoso. Exames laboratoriais: Hb = 8 g/dl; hematócrito = 24%; volume corpuscular médio = 112 (normal de 80 a 100); leucócitos = 2.100/ml; plaquetas de 64.000/ml. Reticulócitos = 0,3% (normal de 0,5 a 1,5%); desidrogenase lática = 150 U/L (normal de 140 a 280). O paciente traz consigo um hemograma de dois anos antes com Hb de 10 g/dl, hematócrito de 30% e leucócitos e plaquetas normais. Qual é a principal hipótese diagnóstica?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Leucemia mieloide aguda."
+      },
+      {
+        "letra": "B",
+        "texto": "Anemia hemolítica."
+      },
+      {
+        "letra": "C",
+        "texto": "Mielofibrose."
+      },
+      {
+        "letra": "D",
+        "texto": "Insuficiência hepática – Child C."
+      },
+      {
+        "letra": "E",
+        "texto": "Síndrome mielodisplásica."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 117216,
+    "tags": [],
+    "enunciado": "A coreia pode ser de(cid:57)nida como um movimento involuntário, irregular, sem (cid:57)nalidade, não rítmico, abrupto, rápido, não constante, caracterizada por um (cid:89)uxo de movimentos de uma parte do corpo para a outra, que ocorre de forma randômica. Qual distúrbio sistêmico abaixo é o mais comumente implicado como causa de coreia?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Endocardite bacteriana."
+      },
+      {
+        "letra": "B",
+        "texto": "Lúpus eritematoso sistêmico."
+      },
+      {
+        "letra": "C",
+        "texto": "Síndrome paraneoplásica."
+      },
+      {
+        "letra": "D",
+        "texto": "Hiperglicemia não cetótica."
+      },
+      {
+        "letra": "E",
+        "texto": "Policitemia rubra vera."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 117217,
+    "tags": [],
+    "enunciado": "Mulher com 40 anos de idade que evolui com prurido generalizado e cujos exames complementares revelam fosfatase alcalina elevada e anticorpo antimitocondrial positivo.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "complicação evolutiva mais esperada seria:"
+      },
+      {
+        "letra": "A",
+        "texto": "Insuficiência cardíaca congestiva."
+      },
+      {
+        "letra": "B",
+        "texto": "Tromboembolismo venoso."
+      },
+      {
+        "letra": "C",
+        "texto": "Síndrome mielodisplásica."
+      },
+      {
+        "letra": "D",
+        "texto": "Nefrite túbulo intersticial."
+      },
+      {
+        "letra": "E",
+        "texto": "Osteopenia."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 117218,
+    "tags": [],
+    "enunciado": "Hiperuricemia é uma das complicações frequentemente encontradas em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tricoleucemia."
+      },
+      {
+        "letra": "B",
+        "texto": "Síndromes mieloproliferativas."
+      },
+      {
+        "letra": "C",
+        "texto": "Linfomas."
+      },
+      {
+        "letra": "D",
+        "texto": "Mieloma."
+      },
+      {
+        "letra": "E",
+        "texto": "Leucemia linfoicítica crônica."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 117219,
+    "tags": [],
+    "enunciado": "Paciente sexo feminino, 35 anos de idade, com diagnóstico de hepatopatia crônica consequente à Síndrome de Budd-Chiari. Na investigação etiológica, a paciente pode ser portadora de uma das seguintes doenças subjacentes, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hemoglobinúria paroxística noturna."
+      },
+      {
+        "letra": "B",
+        "texto": "Deficiência de homocisteína."
+      },
+      {
+        "letra": "C",
+        "texto": "Policitemia vera."
+      },
+      {
+        "letra": "D",
+        "texto": "Mutação do fator V de Leiden."
+      },
+      {
+        "letra": "E",
+        "texto": "Neoplasia."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 117220,
+    "tags": [],
+    "enunciado": "Determinado paciente, 72 anos de idade, comparece ao pronto-socorro queixando- se de que, há vários meses, evolui com cefaleia holocraniana, turvação visual, face e olhos avermelhados e prurido generalizado após o banho. Começou também a apresentar pressão alta, sendo que realiza consultas médicas anuais sem detecção de nenhuma patologia. Ao exame físico, notam-se hepatomegalia e PA = 180 mmHg x 100 mmHg, eritema conjuntival e face eritematosa. Foi realizado hemograma que revelou hemoglobina = 19 mg/dL, leucócitos = 15.700 e plaquetas = 500 mil. Acerca desse caso clínico, assinale a alternativa CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O tratamento envolve fludarabina e rituximab."
+      },
+      {
+        "letra": "B",
+        "texto": "O transplante de medula óssea é o tratamento de escolha para a maioria dos pacientes."
+      },
+      {
+        "letra": "C",
+        "texto": "O uso de sangrias terapêuticas é indicado."
+      },
+      {
+        "letra": "D",
+        "texto": "A anticoagulação é indicada em razão da hiperviscosidade sanguínea."
+      },
+      {
+        "letra": "E",
+        "texto": "A mutação JAK 2 confirma o diagnóstico e é exigida para ele."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 117221,
+    "tags": [],
+    "enunciado": "Um paciente com palidez e icterícia, que tem ao exame laboratorial: Hb = 9%, reticulócitos > 2, aumento sérico de bilirrubina indireta e bilirrubina direta normal e DHL aumentada, deve ser classificado com anemia:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Falciforme."
+      },
+      {
+        "letra": "B",
+        "texto": "Hemolítica."
+      },
+      {
+        "letra": "C",
+        "texto": "Sideroblástica."
+      },
+      {
+        "letra": "D",
+        "texto": "Mielodisplásica."
+      },
+      {
+        "letra": "E",
+        "texto": "Megaloblástica."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 117222,
+    "tags": [],
+    "enunciado": "A Policitemia Vera é uma síndrome mieloproliferativa originada de um clone neoplásico de célula tronco eritróide, que prolifera mesmo na ausência de eritropoietina. O diagnóstico baseia-se na exclusão de outras causas de policitemia e, no sangue periférico, é esperado a evidência de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Eritrocitose com saturação de O2 > 70%."
+      },
+      {
+        "letra": "B",
+        "texto": "Eritrocitose com saturação de O2 > 78%."
+      },
+      {
+        "letra": "C",
+        "texto": "Eritrocitose com saturação de O2 > 84%."
+      },
+      {
+        "letra": "D",
+        "texto": "Eritrocitose com saturação de O2 > 92%."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 117223,
+    "tags": [],
+    "enunciado": "Homem, 62 anos, é diagnosticado com plaquetopenia em exames laboratoriais de rotina. Ao exame físico, observa-se baço palpável há 10 cm do rebordo costal esquerdo. Nesse caso, a melhor hipótese diagnóstica é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hepatite C crônica."
+      },
+      {
+        "letra": "B",
+        "texto": "Síndrome de Budd-Chiari."
+      },
+      {
+        "letra": "C",
+        "texto": "Pericardite constritiva."
+      },
+      {
+        "letra": "D",
+        "texto": "Mielofibrose."
+      },
+      {
+        "letra": "E",
+        "texto": "Doença de Still."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 117224,
+    "tags": [],
+    "enunciado": "Qual das condições abaixo é causa de anemia microcítica?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Síndrome mielodisplásica."
+      },
+      {
+        "letra": "B",
+        "texto": "Anemia microangiopática."
+      },
+      {
+        "letra": "C",
+        "texto": "Anemia perniciosa."
+      },
+      {
+        "letra": "D",
+        "texto": "Beta-talassemia minor."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 117225,
+    "tags": [],
+    "enunciado": "Considerando a mielo(cid:57)brose primária, qual situação está relacionada a um melhor comportamento clínico e prognóstico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Mutação JAK2."
+      },
+      {
+        "letra": "B",
+        "texto": "Mutação na região CARL."
+      },
+      {
+        "letra": "C",
+        "texto": "Mutação MPL."
+      },
+      {
+        "letra": "D",
+        "texto": "Presença da proteína de fusão BCR-ABL."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 117226,
+    "tags": [],
+    "enunciado": "Mulher com 76 anos foi admitida na enfermaria com história de um ano de parestesias em membros inferiores. A um mês da internação parou de deambular. No laboratório, apresentava Hb: 8,4 g/dL, VCM: 110 (cid:89), hipersegmentação de neutró(cid:57)los e presença de anticorpos anticélulas parietais, o diagnóstico aponta para:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Anemia perniciosa."
+      },
+      {
+        "letra": "B",
+        "texto": "Anemia por deficiência de ácido fólico."
+      },
+      {
+        "letra": "C",
+        "texto": "Síndrome mielodisplásica."
+      },
+      {
+        "letra": "D",
+        "texto": "Anemia hemolítica autoimune."
+      },
+      {
+        "letra": "E",
+        "texto": "Hemoglobinúria paroxística noturna."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 117227,
+    "tags": [],
+    "enunciado": "Deficiência de Vitamina B12 e Ácido Fólico Qual das condições abaixo pode congregar anemia, trombocitopenia, parestesias e ataxia?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Síndrome mielodisplásica;"
+      },
+      {
+        "letra": "B",
+        "texto": "Síndrome de Evans;"
+      },
+      {
+        "letra": "C",
+        "texto": "Anemia perniciosa;"
+      },
+      {
+        "letra": "D",
+        "texto": "Anemia sideroblástica."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 117228,
+    "tags": [],
+    "enunciado": "Homem sob suspeita de doença mieloproliferativa relata dor em queimação e eritema dos membros, com maior comprometimento dos pés, referindo melhora com a elevação dos membros inferiores e após imersão em água fria. É normal, bilateralmente, a amplitude dos pulsos periféricos. A principal hipótese diagnóstica é de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Livedo reticular."
+      },
+      {
+        "letra": "B",
+        "texto": "Acrocianose."
+      },
+      {
+        "letra": "C",
+        "texto": "Eritema pérnio."
+      },
+      {
+        "letra": "D",
+        "texto": "Doença de Raynaud."
+      },
+      {
+        "letra": "E",
+        "texto": "Eritromelalgia."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 117229,
+    "tags": [],
+    "enunciado": "Mielodisplasiassíndromes mielodisplásicas SMD Paciente com síndrome mielodisplásica vem sendo transfundido com concentrados de hemácias para manter o nível de hemoglobina. Nas últimas transfusões, apresentou quadro febril com calafrios. As culturas para rastreamento de infecções foram negativas. Esses episódios de reações transfusionais estão relacionados aos (às):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Leucócitos."
+      },
+      {
+        "letra": "B",
+        "texto": "Plaquetas."
+      },
+      {
+        "letra": "C",
+        "texto": "Hemácias."
+      },
+      {
+        "letra": "D",
+        "texto": "Resíduos de bactérias."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 117230,
+    "tags": [],
+    "enunciado": "O residente avalia o hemograma de paciente de 72 anos no ambulatório, cujos dados mais importantes são: hemoglobina = 8,2 g/dl; reticulócitos = 0,6%; leucócitos = 8.500/dl; plaquetas = 180.000/dl. As doenças que melhor se enquadrariam, nesses dados, são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Deficiência de ferro e anemia hemolítica por anticorpos a frio."
+      },
+      {
+        "letra": "B",
+        "texto": "Aplasia de medula óssea e anemia microangiopática."
+      },
+      {
+        "letra": "C",
+        "texto": "Deficiência de vitamina B12 e mielofibrose."
+      },
+      {
+        "letra": "D",
+        "texto": "Esferocitose e insuficiência renal crônica."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 117231,
+    "tags": [],
+    "enunciado": "Qual dos achados é mais provável em um paciente cuja biópsia de medula veio \"seca\"?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Leucemiamielóide crônica."
+      },
+      {
+        "letra": "B",
+        "texto": "Pilomatricoma."
+      },
+      {
+        "letra": "C",
+        "texto": "Infiltração por carcinoma metastático."
+      },
+      {
+        "letra": "D",
+        "texto": "Mielofibrose."
+      },
+      {
+        "letra": "E",
+        "texto": "Medula óssea normal."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 117232,
+    "tags": [],
+    "enunciado": "São causas de anemia com reticulocitopenia, exceto:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Mielodisplasia."
+      },
+      {
+        "letra": "B",
+        "texto": "Deficiência de vitamina B12."
+      },
+      {
+        "letra": "C",
+        "texto": "Anemia ferropriva."
+      },
+      {
+        "letra": "D",
+        "texto": "Anemia sideroblastica."
+      },
+      {
+        "letra": "E",
+        "texto": "Esferocitose hereditária."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 117233,
+    "tags": [],
+    "enunciado": "Qual das alternativas não está associada com anemia macrocítica?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Anemia hemolítica."
+      },
+      {
+        "letra": "B",
+        "texto": "Síndrome mielodisplásica."
+      },
+      {
+        "letra": "C",
+        "texto": "Uso de álcool em excesso, sem óbvia doença hepática."
+      },
+      {
+        "letra": "D",
+        "texto": "Anemia de doença crônica."
+      },
+      {
+        "letra": "E",
+        "texto": "Tratamento com hidroxiureia."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 117234,
+    "tags": [],
+    "enunciado": "Sobre a investigação das anemias, é INCORRETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Dacriócitos podem ser visualizados no sangue periférico de pacientes com mielofibrose."
+      },
+      {
+        "letra": "B",
+        "texto": "Se o volume corpuscular médio estiver superior a 100 fl, o diagnóstico é de anemia megaloblástica."
+      },
+      {
+        "letra": "C",
+        "texto": "Na anemia ferropriva, a capacidade total de ligação de ferro estará elevada."
+      },
+      {
+        "letra": "D",
+        "texto": "Os níveis de haptoglobina se reduzem na anemia hemolítica."
+      },
+      {
+        "letra": "E",
+        "texto": "A síndrome mielodisplásica promove anemia hipoproliferativa."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 117235,
+    "tags": [],
+    "enunciado": "Introdução às síndromes mielodisplásicas SMD Um paciente de 65 anos evolui há 2 meses com astenia, cansaço, tontura, cefaleia, epistaxe. E no último mês necessitou de internação por uma pneumonia. Nos exames laboratoriais apresenta pancitopenia com uma hemoglobina 6,0 g/dl e VCM 110, neutró(cid:57)los 450 mm³ e plaquetas 40.000/mm³ e ainda escórias nitrogenadas; ácido úrico; vitamina B12; ácido fólico e sorologias normais. A LDH de 540 U/L. O aspirado de medula revelou uma medula óssea hipercelular para a idade, com 10% de displasia nas séries eritroide e granulocítica e 5% de blastos. A citogenética foi 46, XX [20]. O diagnóstico mais provável é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Leucemia aguda."
+      },
+      {
+        "letra": "B",
+        "texto": "Aplasia de medula."
+      },
+      {
+        "letra": "C",
+        "texto": "Pancitopenia a esclarecer."
+      },
+      {
+        "letra": "D",
+        "texto": "Síndrome mielodisplásica."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 117236,
+    "tags": [],
+    "enunciado": "Um homem de 27 anos, previamente hígido, é admitido na emergência de um hospital terciário com queixa de dor abdominal de forte intensidade, iniciada há 05 horas. Ao exame, é completamente normal, exceto pelo baço palpável a 10 cm do RCE. O hemograma mostra Hb = 13,0 g/dl; leucócitos = 8.200/mm³ e 800.000 plaquetas/mm³. A tomogra(cid:57)a de abdome mostra sinais de trombose em veia hepática. É estabelecido, então, o diagnóstico de síndrome de Budd-Chiari e iniciada a anticoagulação plena. O diagnóstico etiológico mais provável é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Policitemia vera."
+      },
+      {
+        "letra": "B",
+        "texto": "Deficiência de proteína C."
+      },
+      {
+        "letra": "C",
+        "texto": "Deficiência de proteína S."
+      },
+      {
+        "letra": "D",
+        "texto": "Síndrome do anticorpo antifosfolipídeo."
+      },
+      {
+        "letra": "E",
+        "texto": "Trombocitemia essencial."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 117237,
+    "tags": [],
+    "enunciado": "Deficiência de Vitamina B12 e Ácido Fólico Mulher de 62 anos de idade apresenta astenia e dispneia com piora progressiva nos últimos meses. Relata humor depressivo, parestesias de membros inferiores e, nos últimos dias, di(cid:57)culdade para deambular. Nega febre ou emagrecimento. Ao exame clínico: mucosas hipocoradas +++/4+, anictérica, bulhas rítmicas normofonéticas com sopro sistólico em foco mitral ++/6+, pulmões com murmúrio vesicular presente bilateralmente e estertores (cid:57)nos nas bases, membros inferiores: edema com +/4+ e força muscular grau 3. Exames laboratoriais iniciais: creatinina = 0,8 mg/dl, Na+ = 137 mEq/L, K+ = 4,6 mEq/L, Hb = 6,0 g/L, Ht = 16%, VCM = 129 (cid:89), CHCM = 32 g/dl, leucócitos = 3000/mm³ com diferencial normal, plaquetas = 120.000/mm³, AST = 96 U/L (valor normal 10-31 U/L). ALT = 29 U/L (valor normal: 9 a 36 U/L), BT = 1,4 mg/dl, BD = 0,6 mg/dl, B1 = 0,8 mg/dl, DHL = 1889 U/L (valor normal: 208 a 370 U/L). Qual a hipótese diagnóstica?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Anemia perniciosa"
+      },
+      {
+        "letra": "B",
+        "texto": "Endocardite bacteriana subaguda"
+      },
+      {
+        "letra": "C",
+        "texto": "Lúpus eritematoso sistêmico"
+      },
+      {
+        "letra": "D",
+        "texto": "Anemia aplásica"
+      },
+      {
+        "letra": "E",
+        "texto": "Mielodisplasia"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 117238,
+    "tags": [],
+    "enunciado": "Em relação ao papel do hemograma com hematoscopia na avaliação de distúrbios hematológicos e do baço, é INCORRETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Reticulocitose e esplenomegalia de tamanho médio são possíveis nas anemias hemolíticas."
+      },
+      {
+        "letra": "B",
+        "texto": "Pancitopenia e esplenomegalia maciça podem estar presente na mielofibrose."
+      },
+      {
+        "letra": "C",
+        "texto": "Esquizócitos e esplenomegalia afastam o diagnóstico de anemia hemolítica autoimune."
+      },
+      {
+        "letra": "D",
+        "texto": "Na leucemia de células cabeludas (tricoleucemia) a esplenomegalia é comum e os linfócitos têm aspecto hematoscópico característico."
+      },
+      {
+        "letra": "E",
+        "texto": "Tanto a reação leucemoide como a leucemia mieloide crônica podem ter desvio à esquerda."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 117239,
+    "tags": [],
+    "enunciado": "Na classi(cid:57)cação de anemias, podemos de(cid:57)nir como diminuição na produção de hemácias, as seguintes situações, com EXCEÇÃO de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Anemia aplásica."
+      },
+      {
+        "letra": "B",
+        "texto": "Deficiência de vitamina B12."
+      },
+      {
+        "letra": "C",
+        "texto": "Deficiência de ferro."
+      },
+      {
+        "letra": "D",
+        "texto": "Anemia hemolítica autoimune."
+      },
+      {
+        "letra": "E",
+        "texto": "Síndrome mielodisplásica."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 117240,
+    "tags": [],
+    "enunciado": "Anemia é uma manifestação comum de distúrbios primários da medula óssea, anomalias primárias de eritrócitos, distúrbios imunológicos, de(cid:57)ciências nutricionais e um amplo espectro de doenças sistêmicas. A respeito da classi(cid:57)cação das anemias de acordo com a (cid:57)siopatologia causada pela diminuição da produção de eritrócitos pela medula, analise: ( ) Talassemias; ( ) Insuficiência renal; ( ) Mielofibrose; ( ) Deficiência de folato.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Deficiência de eritropoetina;"
+      },
+      {
+        "letra": "B",
+        "texto": "Deficiência quantitativa de células progenitoras;"
+      },
+      {
+        "letra": "C",
+        "texto": "Deficiência na síntese de DNA e na divisão de precursores eritroides;"
+      },
+      {
+        "letra": "D",
+        "texto": "Deficiência na síntese de globina. Assinale a coluna de acordo com sua correspondência:"
+      },
+      {
+        "letra": "A",
+        "texto": "D - A - B - C."
+      },
+      {
+        "letra": "B",
+        "texto": "A - B - C - D."
+      },
+      {
+        "letra": "C",
+        "texto": "B - C - D - A."
+      },
+      {
+        "letra": "D",
+        "texto": "C - D - A - B."
+      },
+      {
+        "letra": "E",
+        "texto": "D - B - C - A."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 117241,
+    "tags": [],
+    "enunciado": "Em mulher com 40 anos de idade que evolui com prurido generalizado, e cujos exames complementares revelam fosfatase alcalina elevada e anticorpo antimitocondrial positivo, a complicação evolutiva mais esperada seria:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Insuficiência cardíaca congestiva."
+      },
+      {
+        "letra": "B",
+        "texto": "Tromboembolismo venoso."
+      },
+      {
+        "letra": "C",
+        "texto": "Síndrome mielodisplásica."
+      },
+      {
+        "letra": "D",
+        "texto": "Nefrite tubulointersticial."
+      },
+      {
+        "letra": "E",
+        "texto": "Osteopenia."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 117242,
+    "tags": [],
+    "enunciado": "Em qual das hipóteses abaixo a dosagem da eritropoetina encontra-se baixa?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Desidratação."
+      },
+      {
+        "letra": "B",
+        "texto": "Policitemia secundária."
+      },
+      {
+        "letra": "C",
+        "texto": "Policitemia vera."
+      },
+      {
+        "letra": "D",
+        "texto": "Altitude."
+      },
+      {
+        "letra": "E",
+        "texto": "Hemangioma cerebelar."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 117243,
+    "tags": [],
+    "enunciado": "J.P.S., servente de obra, 62 anos, apresenta anemia +++/4 com plaquetopenia há 12 meses. O hemograma atual demonstra: Hb = 4 g/d; leucócitos = 3.200/mm3; plaquetas = 25.000/mm3. O exame de medula óssea (aspirado) demonstra medula hipercelular com hipoplasia eritroide, com granulócitos apresentando hipogranulação, fenômeno de Pelger-Huet presença de 15% de blastos mieloides. Qual é o diagnóstico mais provável segundo a classificação da Organização Mundial de Saúde (OMS)?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Mielodisplasia 5q."
+      },
+      {
+        "letra": "B",
+        "texto": "Leucemia aguda secundária à mielodisplasia."
+      },
+      {
+        "letra": "C",
+        "texto": "Leucemia Mielomonocítica Crônica."
+      },
+      {
+        "letra": "D",
+        "texto": "Pancitopenia displásica."
+      },
+      {
+        "letra": "E",
+        "texto": "AREB-T (Anemia Refratária com Excesso de Blastos em Transformação)."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 117244,
+    "tags": [],
+    "enunciado": "São causas de anemia microcítica:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "deficiência de ferro, carência de ácido fólico e mielodisplasia."
+      },
+      {
+        "letra": "B",
+        "texto": "talassemia, deficiência de ferro e mielodisplasia."
+      },
+      {
+        "letra": "C",
+        "texto": "talassemia, anemia da doença crônica e deficiência de vitamina B12."
+      },
+      {
+        "letra": "D",
+        "texto": "deficiência de ferro, mielodisplasia e deficiência de cobalamina."
+      },
+      {
+        "letra": "E",
+        "texto": "carência de ácido fólico, talassemia e hiperesplenismo."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 117245,
+    "tags": [],
+    "enunciado": "Em um paciente portador de anemia macrocítica com VCM de 110 u3, com hipersegmentação de neutró(cid:57)los e com presença de anticorpos anticélulas parietais, o diagnóstico aponta para:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Anemia perniciosa."
+      },
+      {
+        "letra": "B",
+        "texto": "Anemia por deficiência de ácido fólico."
+      },
+      {
+        "letra": "C",
+        "texto": "Síndrome mielodisplásica."
+      },
+      {
+        "letra": "D",
+        "texto": "Anemia hemolítica autoimune."
+      },
+      {
+        "letra": "E",
+        "texto": "Hemoglobinúria paroxística noturna."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 117246,
+    "tags": [],
+    "enunciado": "São doenças mieloproliferativas, exceto:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Policitemia vera."
+      },
+      {
+        "letra": "B",
+        "texto": "Mieloma múltiplo."
+      },
+      {
+        "letra": "C",
+        "texto": "Mielofibrose primária."
+      },
+      {
+        "letra": "D",
+        "texto": "Trombocitemia essencial."
+      },
+      {
+        "letra": "E",
+        "texto": "Leucemia mieloide crônica."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 117247,
+    "tags": [],
+    "enunciado": "Dentre as opções oferecidas, identifique a que contém achado INCOMUM na síndrome mielodisplásica.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Plaquetopenia."
+      },
+      {
+        "letra": "B",
+        "texto": "Leucopenia."
+      },
+      {
+        "letra": "C",
+        "texto": "Anemia."
+      },
+      {
+        "letra": "D",
+        "texto": "Esplenomegalia."
+      },
+      {
+        "letra": "E",
+        "texto": "Macrocitose"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 117248,
+    "tags": [],
+    "enunciado": "Deficiência de Vitamina B12 e Ácido Fólico Mulher de 62 anos de idade apresenta astenia e dispneia com piora progressiva nos últimos meses. Relata humor depressivo, parestesias de membros inferiores e, nos últimos dias, di(cid:57)culdade para deambular. Nega febre ou emagrecimento. Ao exame clínico: mucosas hipocoradas +++/4+, anictérica, bulhas rítmicas normofonéticas com sopro sistólico em foco mitral ++/6+, pulmões com murmúrios vesiculares presentes bilateralmente e estertores (cid:57)nos nas bases; membros inferiores: edema com +/4+ e força muscular grau 3. Exames laboratoriais iniciais: creatinina = 0,8 mg/dl, Na+ = 137 mEq/L, K+ = 4,6 mEq/L, Hb = 6.0 g/l, Ht = 16%, VCM = 129 (cid:89), CHCM = 32 g/dl, leucócitos = 3000/mm³ com diferencial normal, plaquetas = 120.000/mm³, AST = 96 U/L (valor normal 10-31 U/L), ALT = 29 U/L (valor normal: 9 a 36 U/L), BT = 1,4 mg/dl, BD = 0,6 mg/dl, BI = 0,8 mg/dl, DHL = 1889 U/L (valor normal: 208 a 370 U/L). Qual a hipótese diagnóstica?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Anemia perniciosa;"
+      },
+      {
+        "letra": "B",
+        "texto": "Endocardite bacteriana subaguda;"
+      },
+      {
+        "letra": "C",
+        "texto": "Lúpus eritematoso sistêmico;"
+      },
+      {
+        "letra": "D",
+        "texto": "Anemia aplásica;"
+      },
+      {
+        "letra": "E",
+        "texto": "Mielodisplasia."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 117249,
+    "tags": [],
+    "enunciado": "Paciente de 67 anos, sexo masculino, branco. Há 6 meses com história de emagrecimento, astenia progressiva e dor em hipocôndrio esquerdo. Ao exame clínico: palidez cutâneo-mucosa e baço palpável a 8 cm do rebordo costal esquerdo. Trouxe um hemograma com os seguintes dados: hemoglobina de 11 g/dl; VG = 33%; Leucócitos = 11.000, com diferencial dentro do normal; Plaquetas = 78.000/mm³. Descrição no hemograma com presença de dacriócitos e 3 eritroblastos. Dentre as hipóteses diagnósticas abaixo, qual é a mais provável?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Leucemia mieloide crônica."
+      },
+      {
+        "letra": "B",
+        "texto": "Leucemia linfoide crônica."
+      },
+      {
+        "letra": "C",
+        "texto": "Mielodisplasia."
+      },
+      {
+        "letra": "D",
+        "texto": "Anemia aplástica."
+      },
+      {
+        "letra": "E",
+        "texto": "Mielofibrose primária."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 117250,
+    "tags": [],
+    "enunciado": "Mielodisplasiassíndromes mielodisplásicas SMD Um estudante de medicina, em seu plantão supervisionado curricular, presencia uma transfusão de concentrado de plaquetas em uma senhora de 76 anos, portadora de síndrome mielodisplásica. Durante a transfusão, ela refere mal-estar precordial, febre, hipertensão, dispneia leve, taquicardia, seguida de vômitos. Como estudante atento, deve-se pensar que se trata de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Um infarto agudo do miocárdio, e a paciente deve terminar a transfusão e ser encaminhada ao cardiologista para avaliação e cuidados."
+      },
+      {
+        "letra": "B",
+        "texto": "Uma reação transfusional aguda e deve-se prosseguir a transfusão e posteriormente reavaliar o quadro clínico para cuidados médicos adequados."
+      },
+      {
+        "letra": "C",
+        "texto": "Um quadro típico de TRALI, inclusive por ocorrer durante a transfusão."
+      },
+      {
+        "letra": "D",
+        "texto": "Reação transfusional aguda e deve-se interromper imediatamente a transfusão, e soro fisiológico deve ser administrado com urgência."
+      },
+      {
+        "letra": "E",
+        "texto": "Reação transfusional aguda, a interrupção da transfusão é mandatória, e o sangue deve ser coletado do paciente e enviado para análise em conjunto com a bolsa transfusional."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 117251,
+    "tags": [],
+    "enunciado": "Mielodisplasias e mieloproliferações outras alterações da medula óssea Paciente de 50 anos vai ao ambulatório de clínica médica por uma história recente de prurido quando toma banho. Ele tem história prévia de saúde excelente, fumante ocasional, não faz uso de medicamentos e ingere dieta saudável. No exame físico, tem face pletórica, baço palpável e satura em ar ambiente 99%. Apresenta hematócrito de 61% (sendo que há 5 anos era de 44,5%); VCM = 79 (cid:89); leucócitos = 11.000/ml; plaquetas = 650.000/ml; sangue oculto nas fezes negativo. Os estudos bioquímicos eram normais, exceto pela concentração de ferritina baixa. O diagnóstico mais provável é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Eritrocitose relativa."
+      },
+      {
+        "letra": "B",
+        "texto": "Síndrome mielodisplásica."
+      },
+      {
+        "letra": "C",
+        "texto": "Síndrome de Clastelman."
+      },
+      {
+        "letra": "D",
+        "texto": "Policitemia vera."
+      },
+      {
+        "letra": "E",
+        "texto": "Eritrocitose secundária ao tabagismo."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 117252,
+    "tags": [],
+    "enunciado": "Homem de 70 anos comparece para que seja avaliada a anemia. Seus exames revelam Hb: 8,5 g/dl, VCM: 112 fL, LDH: 2.650 U/L. No esfregaço do sangue periférico, há macro-ovalócitos e neutró(cid:57)los hipersegmentados. Há história de cirurgia de “retirada do estômago” por úlcera há oito anos. Ele não faz uso de medicações habitualmente. Qual o diagnóstico mais provável?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Anemia Hemolítica autoimune."
+      },
+      {
+        "letra": "B",
+        "texto": "Deficiência de ácido fólico."
+      },
+      {
+        "letra": "C",
+        "texto": "Síndrome mielodisplásica."
+      },
+      {
+        "letra": "D",
+        "texto": "Deficiência de vitamina B12."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 117253,
+    "tags": [],
+    "enunciado": "Em um paciente portador de anemia com VCM = 114 fL a presença de neutró(cid:57)los hipersegmentados aponta para o diagnóstico de anemia",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "da doença crônica."
+      },
+      {
+        "letra": "B",
+        "texto": "por deficiência de vitamina B12 e/ou de folato."
+      },
+      {
+        "letra": "C",
+        "texto": "por deficiência de vitamina B12 apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "por deficiência de folato apenas."
+      },
+      {
+        "letra": "E",
+        "texto": "por mielodisplasia."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 117254,
+    "tags": [],
+    "enunciado": "Na avaliação da policitemia, é INCORRETO afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a dosagem sérica de eritropoetina auxilia no diagnóstico diferencial entre policitemia induzida por hipóxia e policitemia não induzida por hipóxia."
+      },
+      {
+        "letra": "B",
+        "texto": "o carcinoma hepatocelular e o carcinoma de células claras renais podem cursar com policitemia mediada por eritropoetina."
+      },
+      {
+        "letra": "C",
+        "texto": "a doença pulmonar obstrutiva crônica é a causa mais frequente de policitemia."
+      },
+      {
+        "letra": "D",
+        "texto": "os inibidores da enzima de conversão podem ser úteis no tratamento da policitemia secundária."
+      },
+      {
+        "letra": "E",
+        "texto": "estenose da artéria renal não é uma causa de policitemia."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 117255,
+    "tags": [],
+    "enunciado": "Em qual das situações abaixo podemos encontrar aumento dos níveis séricos de vitamina B12?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Policitemia vera"
+      },
+      {
+        "letra": "B",
+        "texto": "Insuficiência pancreática;"
+      },
+      {
+        "letra": "C",
+        "texto": "Síndrome de Zollinger-Ellison;"
+      },
+      {
+        "letra": "D",
+        "texto": "Diphyllobothrium latum (infestação maciça)"
+      },
+      {
+        "letra": "E",
+        "texto": "Metformina (uso prolongado)"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 117256,
+    "tags": [],
+    "enunciado": "Dentre as condições abaixo, o distúrbio mieloproliferativo mais comumente associado à leucopenia é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Mielofibrose."
+      },
+      {
+        "letra": "B",
+        "texto": "Leucemia mieloide crônica."
+      },
+      {
+        "letra": "C",
+        "texto": "Policitemia vera."
+      },
+      {
+        "letra": "D",
+        "texto": "Trombocitemia essencial."
+      },
+      {
+        "letra": "E",
+        "texto": "Hiperesplenismo."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 117257,
+    "tags": [],
+    "enunciado": "Paciente de 75 anos, sexo masculino, procurou serviço médico por estar apresentando uma discreta fraqueza há 6 meses, sem outras queixas. No exame físico, apresentava-se descorado +/4+, fígado palpável a 3 cm do RCD e baço palpável a 13 cm do RCE sem outros achados. Exames laboratoriais: Hemograma com Hb 10,0 g/dl HT=30% VCM=87 u³. Leucócitos de 3.000-0-0-3-60-2-0-33-2, Plaquetas 550.000/mm³. Função Renal e Hepática normal. Ácido Úrico=11,0. Endoscopia Digestiva Alta dentro da normalidade. USG de Abdômem presença de esplenomegalia maciça. Mielograma com medula hipocelular com di(cid:57)culdade na punção. Biópsia de medula óssea: hipercelular, com proliferação megacariocítica, com (cid:57)bras reticulínicas. Estudo citogenético-ausência de translocação 9;22. O quadro clínico acima sugere Mielofibrose Idiopática. Qual das assertivas abaixo auxiliaria no diagnóstico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Presença da mutação da JAK 2."
+      },
+      {
+        "letra": "B",
+        "texto": "Presença do rearranjo BCR/ABL."
+      },
+      {
+        "letra": "C",
+        "texto": "CD55 e CD 59 diminuidos."
+      },
+      {
+        "letra": "D",
+        "texto": "Translocação (15;17)."
+      },
+      {
+        "letra": "E",
+        "texto": "Inversão do cromossomo 16."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 117258,
+    "tags": [],
+    "enunciado": "Síndrome do anticorpo antifosfolipídeo SAAF Síndrome antifosfolípide SAF Mulher de 33 anos, apresentando trombose do membro inferior esquerdo, tem história de três abortos espontâneos. O diagnóstico mais provável é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "distúrbio mieloproliferativo."
+      },
+      {
+        "letra": "B",
+        "texto": "lúpus eritematoso sistêmico."
+      },
+      {
+        "letra": "C",
+        "texto": "hemoglobinúria paroxística noturna."
+      },
+      {
+        "letra": "D",
+        "texto": "síndrome antifosfolipídica."
+      },
+      {
+        "letra": "E",
+        "texto": "púrpura trombocitopênica trombótica."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 117259,
+    "tags": [],
+    "enunciado": "Paciente, 68 anos, apresenta dor no hipocôndrio esquerdo, seguida de aumento do baço. No esfregaço do sangue periférico, são encontradas hemácias \"em lágrima\" (dacriócitos). A conduta a ser seguida é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "considerar que o achado de dacriócitos sela o diagnóstico de mielofibrose."
+      },
+      {
+        "letra": "B",
+        "texto": "manter somente analgesia."
+      },
+      {
+        "letra": "C",
+        "texto": "investigar lúpus eritematoso sistêmico."
+      },
+      {
+        "letra": "D",
+        "texto": "fazer biópsia de medula óssea."
+      },
+      {
+        "letra": "E",
+        "texto": "pesquisar doença de HODGKIN."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 117260,
+    "tags": [],
+    "enunciado": "Paciente procura atendimento com queixas sugestivas de anemia. Eritrograma mostra Hb = 6,0 e VCM = 121. Com base nestes dados, qual das hipóteses abaixo deve ser excluída do diagnóstico diferencial?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Anemia megaloblástica."
+      },
+      {
+        "letra": "B",
+        "texto": "Anemia da insuficiência hepática."
+      },
+      {
+        "letra": "C",
+        "texto": "Anemia do hipotireoidismo."
+      },
+      {
+        "letra": "D",
+        "texto": "Talassemia."
+      },
+      {
+        "letra": "E",
+        "texto": "Síndrome mielodisplásica."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 117261,
+    "tags": [],
+    "enunciado": "As anemias são classificadas pela sua causa e pelo tamanho da célula vermelha. Sobre esse assunto, responda o correto.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A anemia por deficiência de ferro é a mais comum, geralmente é microcítica e sua principal causa é a doença crônica."
+      },
+      {
+        "letra": "B",
+        "texto": "São características das talassemias - espectro de anemias adquiridas - o seguinte: hipocromia, normocitose e células em alvo."
+      },
+      {
+        "letra": "C",
+        "texto": "A síndrome mielodisplásica, caracterizada por hiperplasia eritroide decorrente da eritopoiese ineficaz, é macrocítica e há aumento nos depósitos de ferro na medula."
+      },
+      {
+        "letra": "D",
+        "texto": "A anemia megaloblástica por deficiência de vitamina B12 raramente é grave, precede os sintomas neurológicos e não causa hiperbilirrubinemia."
+      },
+      {
+        "letra": "E",
+        "texto": "A anemia falciforme é uma doença autossômica dominante e está relacionada à produção de uma hemoglobina defeituosa fruto da troca de tirosina por valina na cadeia dessa proteína."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 117262,
+    "tags": [],
+    "enunciado": "Sr. Antonio, 55 anos, procura o ambulatório com fadiga e prurido sistêmico. Tem hipertensão arterial e faz uso de diurético tiazídico. Ao exame está pletórico, apresenta escoriações lineares por coçadura e tem baço palpável a 8 cm do rebordo costal esquerdo. Foram solicitados alguns exames e o médico suspeitou de Policitemia Vera. O exame que poderia reforçar o diagnóstico é a:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "tomografia computadorizada de abdômen."
+      },
+      {
+        "letra": "B",
+        "texto": "biópsia esplênica."
+      },
+      {
+        "letra": "C",
+        "texto": "gasometria arterial."
+      },
+      {
+        "letra": "D",
+        "texto": "pesquisa da translocação t(8;14)."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 117263,
+    "tags": [],
+    "enunciado": "São causas de anemia macrocítica não-megaloblástica, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "hipotiroidismo."
+      },
+      {
+        "letra": "B",
+        "texto": "insuficiência renal crônica."
+      },
+      {
+        "letra": "C",
+        "texto": "hepatopatia crônica."
+      },
+      {
+        "letra": "D",
+        "texto": "mielodisplasia."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 117264,
+    "tags": [],
+    "enunciado": "Paciente, com 50 anos, do sexo masculino, nascido e criado na região do Jequitinhonha, apresenta hepatoesplenomegalia acompanhada de anemia e presença de dacrócitos no sangue periférico. É CORRETO afirmar que esse quadro clínico sugere :",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "cirrose biliar primária."
+      },
+      {
+        "letra": "B",
+        "texto": "esquistossomose mansônica."
+      },
+      {
+        "letra": "C",
+        "texto": "hepatite viral crônica."
+      },
+      {
+        "letra": "D",
+        "texto": "mielofribose."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 117265,
+    "tags": [],
+    "enunciado": "Introdução às síndromes mielodisplásicas SMD Anemia refratária com sideroblastos em anel que se instala em idosos é uma:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "doença mielodisplásica com sinais de hemocromatose."
+      },
+      {
+        "letra": "B",
+        "texto": "doença herdada em que o paciente apresenta sinais de hemocromatose."
+      },
+      {
+        "letra": "C",
+        "texto": "síndrome mielodisplásica sem sintomas relacionados ao excesso de ferro."
+      },
+      {
+        "letra": "D",
+        "texto": "doença adquirida em que o paciente apresenta sinais de hemossiderose."
+      },
+      {
+        "letra": "E",
+        "texto": "síndrome mieloproliferativa com sintomas relacionados à hemossiderose."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 117266,
+    "tags": [],
+    "enunciado": "A síndrome mielodisplásica caracteriza-se por apresentar medula óssea:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "com displasia das três séries medulares com pancitopenia."
+      },
+      {
+        "letra": "B",
+        "texto": "fibrosada com displasia dos elementos celulares mieloides, esplenomegalia volumosa e pancitopenia."
+      },
+      {
+        "letra": "C",
+        "texto": "com displasia dos elementos celulares mieloides e esplenomegalia volumosa, leucocitose e trombocitose."
+      },
+      {
+        "letra": "D",
+        "texto": "com displasia dos elementos celulares, podendo ou não haver esplenomegalia, leucocitose e trombocitose."
+      },
+      {
+        "letra": "E",
+        "texto": "fibrosada sem displasia dos elementos celulares mieloides, podendo ou não haver esplenomegalia e pancitopenia.  Respostas: 1 D 2 A 3 B 4 C 5 A 6 B 7 D 8 E 9 A 10 D 11 B 12 D 13 D 14 B 15 D 16 A 17 D 18 B 19 A 20 A 21 C 22 A 23 D 24 A 25 A 26 C 27 D 28 A 29 A 30 D 31 D 32 A 33 B 34 B 35 C 36 D 37 C 38 D 39 C 40 C 41 E 42 E 43 D 44 A 45 B 46 E 47 B 48 E 49 B 50 B 51 C 52 B 53 D 54 D 55 D 56 B 57 A 58 C 59 E 60 A 61 C 62 E 63 E 64 D 65 B 66 D 67 E 68 A 69 C 70 D 71 A 72 E 73 C 74 E 75 B 76 A 77 B 78 D 79 A 80 E 81 E 82 D 83 D 84 B 85 E 86 A 87 A 88 A 89 D 90 D 91 D 92 C 93 C 94 B 95 D 96 C 97 A"
+      }
+    ],
+    "resposta_correta": "A"
+  }
+]

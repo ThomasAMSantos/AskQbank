@@ -1,0 +1,552 @@
+[
+  {
+    "id": 5922,
+    "tags": [],
+    "enunciado": "Durante a consulta de pré-natal de uma paciente, foi detectado hemograma com macrocitose, reticulopenia e hemoglobina de 10 mg/dl. A suspeita inicial é de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "traço falciforme."
+      },
+      {
+        "letra": "B",
+        "texto": "hemossiderose."
+      },
+      {
+        "letra": "C",
+        "texto": "anemia megaloblástica."
+      },
+      {
+        "letra": "D",
+        "texto": "anemia ferropriva."
+      },
+      {
+        "letra": "E",
+        "texto": "talassemia"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 5923,
+    "tags": [],
+    "enunciado": "Uma gestante primigesta de 32 anos de idade está com 8 semanas de gestação. Ela realizou exames cujos resultados foram Hb = 9.9g/dL (hemácias hipocrômicas e microcíticas), ferritina = 5mg/mL e índice de saturação de transferrina = 10%. Assinale a alternativa que corresponde à conduta mais adequada para esse caso clínico.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Prescrever ferro endovenoso após o cálculo de deficit de ferro."
+      },
+      {
+        "letra": "B",
+        "texto": "Prescrever sulfato ferroso, via oral, na dose de 120 mg a 240 mg por dia."
+      },
+      {
+        "letra": "C",
+        "texto": "Solicitar vitamina B12 e ácido folato."
+      },
+      {
+        "letra": "D",
+        "texto": "Prescrever sulfato ferroso de 40 mg ao dia e ácido fólico de 400 mcg ao dia."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 5924,
+    "tags": [],
+    "enunciado": "A anemia é uma condição onde há redução da massa ou quantidade total de glóbulos vermelhos na corrente sanguínea. As gestantes apresentam maior vulnerabilidade para anormalidades hematológicas, devido às modi(cid:60)cações especí(cid:60)cas do ciclo gravídico-puerperal. Em relação às anemias na gestação, assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A anemia contribui com 10% das mortes maternas nos países em desenvolvimento, segundo a OMS."
+      },
+      {
+        "letra": "B",
+        "texto": "A anemia materna, independentemente de sua intensidade, interfere no desfecho do pré-natal, elevando significativamente as taxas de ruptura prematura de membranas."
+      },
+      {
+        "letra": "C",
+        "texto": "Anemia durante o ciclo gravídico-puerperal está associada a maior morbimortalidade fetal e materna, bem como a maior risco de parto prematuro e baixo peso ao nascer."
+      },
+      {
+        "letra": "D",
+        "texto": "Os tipos mais comuns de anemias durante o ciclo gravídico-puerperal são decorrentes do excesso de destruição das hemácias, associado a reticulócitos aumentados."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 5925,
+    "tags": [],
+    "enunciado": "O Ferro elementar pode aumentar o estresse oxidativo placentário e, portanto, deve ter seu uso limitado na gravidez:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "no segundo trimestre."
+      },
+      {
+        "letra": "B",
+        "texto": "no primeiro trimestre."
+      },
+      {
+        "letra": "C",
+        "texto": "no terceiro trimestre."
+      },
+      {
+        "letra": "D",
+        "texto": "durante toda a gestação. 4000186832"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 5926,
+    "tags": [],
+    "enunciado": "Mulher, 34 anos de idade, gestante de 23 semanas, realizou exames laboratoriais de rotina pré-natal e vem para consulta médica após ultrassonogra(cid:60)a morfológica de 2º trimestre, sem nenhuma alteração. Fez exames laboratoriais: Hb: 10,0g/dL e Hematócrito: 30%; VCM: 76(cid:72) (VR: 80 – 100(cid:72)) e HCM < 25pg (VR: 28 – 34pg). Eletroforese de hemoglobina evidencia traço falciforme e a paciente refere que seu parceiro também possui traço falciforme. Indique o tratamento para essa gestante (droga e via de administração) considerando a principal suspeita diagnóstica. Essa questão possui comentário do professor no site 4000182452",
+    "alternativas": [],
+    "resposta_correta": null
+  },
+  {
+    "id": 5927,
+    "tags": [],
+    "enunciado": "Mulher, 34 anos de idade, gestante de 23 semanas, realizou exames laboratoriais de rotina pré-natal e vem para consulta médica após ultrassonogra(cid:60)a morfológica de 2º trimestre, sem nenhuma alteração. Fez exames laboratoriais: Hb: 10,0g/dL e Hematócrito: 30%; VCM: 76(cid:72) (VR: 80 – 100(cid:72)) e HCM < 25pg (VR: 28 – 34pg). Eletroforese de hemoglobina evidencia traço falciforme e a paciente refere que seu parceiro também possui traço falciforme. Indique o nível de hemoglobina normal esperado para o diagnóstico de anemia em uma gestação de 2º trimestre. Essa questão possui comentário do professor no site 4000182451",
+    "alternativas": [],
+    "resposta_correta": null
+  },
+  {
+    "id": 5928,
+    "tags": [],
+    "enunciado": "Gestante, com idade gestacional de 14 semanas, em acompanhamento pré-natal referindo astenia. A hemoglobina sérica está em 10mg/mL. Qual é o diagnóstico e a conduta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Anemia moderada. Suplementar sulfato ferroso via oral."
+      },
+      {
+        "letra": "B",
+        "texto": "Exame dentro da normalidade. Manter conduta expectante."
+      },
+      {
+        "letra": "C",
+        "texto": "Anemia grave. Encaminhar para hemotransfusão em serviço de referência."
+      },
+      {
+        "letra": "D",
+        "texto": "Hemodiluição fisiológica da gravidez. Manter conduta expectante. 4000190786"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 5929,
+    "tags": [],
+    "enunciado": "O objetivo primordial do Programa de Humanização no Pré-natal e Nascimento (PHPN), instituído pelo Ministério da Saúde através da Portaria/GM No 569, de 1/6/2000, é assegurar a melhoria do acesso, da cobertura e da qualidade do acompanhamento prénatal, da assistência ao parto e puerpério às gestantes e ao recém-nascido, na perspectiva dos direitos de cidadania. Nesse contexto, assinale a alternativa que apresenta CORRETAMENTE intervenção pré-natal com impacto positivo no prognóstico fetal:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Suplementação dietética com sulfato ferroso desde o início do primeiro trimestre gestacional."
+      },
+      {
+        "letra": "B",
+        "texto": "Suplementação da dieta com polivitamínicos orais após o segundo trimestre da gravidez."
+      },
+      {
+        "letra": "C",
+        "texto": "Rastreamento de infecção por citomegalovírus, coqueluche, sífilis e tétano."
+      },
+      {
+        "letra": "D",
+        "texto": "Suplementação dietética com ácido fólico no período pré-concepcional e durante todo o período de embriogênese. 4000189824"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 5930,
+    "tags": [],
+    "enunciado": "Gestante portadora de anemia falciforme relata que na gestação anterior teve múltiplas internações por crises álgicas, piora da anemia e síndrome torácica aguda com 33 semanas e necessidade d e eritrocitaférese. Atualmente está com oito semanas de gestação não programada, faz uso de hidroxiureia, com bom controle clínico. Qual é a orientação para o melhor cuidado pré-natal dessa paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Garantir a suplementação de ácido fólico e sulfato ferroso, a partir de 20 semanas de gestação."
+      },
+      {
+        "letra": "B",
+        "texto": "Descontinuar a hidroxiureia e atualizar o esquema vacinal incluindo vacina para Pneumococo."
+      },
+      {
+        "letra": "C",
+        "texto": "Avaliar risco de aloimunização materna inicialmente entre 24 e 28 semanas de gestação."
+      },
+      {
+        "letra": "D",
+        "texto": "Descontinuar a hidroxiureia após avaliação do percentual de HbS materna."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 5931,
+    "tags": [],
+    "enunciado": "Gestante, 30 semanas, relata adinamia e fraqueza. Em uso de 40 mg de ferro elementar ao dia. Exames laboratoriais: Hb = 9,0 g/dL, Htc = 29,0 %; HCM = 28 g/dL, VCM = 70 fL, ferritina = 15 ng/mL, ferro sérico = 35 mcg/dL. Nesse caso, qual é o provável diagnóstico e conduta a ser adotada, respectivamente, frente aos exames apresentados?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Anemia ferropriva; ferro elementar 120 a 180 mg por dia via oral."
+      },
+      {
+        "letra": "B",
+        "texto": "Anemia megaloblástica; vitamina B12 1.000 mcg via intramuscular."
+      },
+      {
+        "letra": "C",
+        "texto": "Talassemia; eletroforese de proteínas e ácido fólico 1 mg por dia."
+      },
+      {
+        "letra": "D",
+        "texto": "Anemia falciforme; transfusão concentrado de hemácias se hb < 7 ng/mL."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 5932,
+    "tags": [],
+    "enunciado": "A principal causa de anemia na gestação é a decorrente",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "da carência de ferro."
+      },
+      {
+        "letra": "B",
+        "texto": "da carência de ácido fólico."
+      },
+      {
+        "letra": "C",
+        "texto": "da carência de vitamina B12."
+      },
+      {
+        "letra": "D",
+        "texto": "de hemoglobinopatia genética."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 5933,
+    "tags": [],
+    "enunciado": "A.B.S., 16 anos, G1P0A0, moradora de rua, usuária de álcool, tabaco, maconha e crack é trazida ao pré-natal de adolescente pelo serviço social, para acompanhamento. Identi(cid:60)que a melhor opção acerca dos efeitos do uso de drogas durante a gestação e melhor maneira de abordagem dos sintomas de abstinência.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O uso de álcool durante a gestação está associado à maior ocorrência de parto prematuro, abortamento e natimortos. Uma abordagem multidisciplinar, com enfoque no tratamento psicossocial e comportamental, está indicada no intuito de cessar o uso durante o pré-natal, não sendo necessária a introdução de tratamento medicamentoso."
+      },
+      {
+        "letra": "B",
+        "texto": "O uso de crack durante a gestação está associado à maior ocorrência de parto prematuro, abortamento e fetos grandes para a idade gestacional. Uma abordagem multidisciplinar, com enfoque no tratamento psicossocial e comportamental, está indicada, sendo necessário o início de tratamento medicamentoso no intuito de cessar o uso durante a gravidez."
+      },
+      {
+        "letra": "C",
+        "texto": "O uso de tabaco durante a gestação está associado à maior ocorrência de baixo peso ao nascimento, parto prematuro, descolamento prematuro de placenta, abortamento, natimortos e malformações congênitas. Uma abordagem multidisciplinar, com enfoque no tratamento psicossocial e comportamental, está indicada no intuito de diminuir ou cessar o uso durante o pré- natal."
+      },
+      {
+        "letra": "D",
+        "texto": "O uso de maconha durante a gestação está associado à maior ocorrência de anemia durante a gestação, porém não demonstra interferência na prematuridade e no peso fetal, ao nascimento. Uma abordagem multidisciplinar, com enfoque no tratamento psicossocial e comportamental está indicada no intuito de cessar o uso durante o pré-natal, não sendo necessária a introdução de tratamento medicamentoso."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 5934,
+    "tags": [],
+    "enunciado": "A gravidez é um momento único para cada um e pode in(cid:72)uenciar diretamente nos aspectos sociais, físicos, emocionais e sociais da vida da mulher. Considerando-se uma gravidez de baixo risco, gestante hígida sem anemia, assinale qual item corresponde as vitaminas que devem ser suplementadas em algum momento na gravidez segundo Ministério da Saúde",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sulfato ferroso e ácido fólico"
+      },
+      {
+        "letra": "B",
+        "texto": "Magnésio e vitamina D"
+      },
+      {
+        "letra": "C",
+        "texto": "Ácido fólico e magnésio"
+      },
+      {
+        "letra": "D",
+        "texto": "Sulfato ferroso e magnésio 4000174509"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 5935,
+    "tags": [],
+    "enunciado": "Gestante de primeiro trimestre com anemia microcítica, que apresenta Hb = 9,5 g/dL e ferritina = 10 mcg/L, deve ser tratada, inicialmente, com",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "sulfato ferroso, 60 a 80 mg/dia e ácido fólico 0,4 mg/ dia, via oral."
+      },
+      {
+        "letra": "B",
+        "texto": "sulfato ferroso, 120 a 160 mg/dia e ácido fólico 5 mg/ dia, via oral."
+      },
+      {
+        "letra": "C",
+        "texto": "glicinato férrico, 150 mg/dia e ácido fólico 0,4 mg/dia, via oral."
+      },
+      {
+        "letra": "D",
+        "texto": "sacarato férrico, 200 mg/dia, endovenoso, em dias alternados. 4000142605"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 5936,
+    "tags": [],
+    "enunciado": "Paciente com 22 semanas de sua 3ª gestação, até o momento sem intercorrências, procurou o Centro Obstétrico com queixa de desconforto abdominal. Em seu histórico, contavam partos com 32 e 28 semanas de gestação. Já havia realizado 4 consultas no pré-natal. Exames laboratoriais recentes mostrara, urocultura negativa, anti-HIV negativo e hemoglobina de 10g/dl. Ao exame, os batimentos cardiofetais estavam presentes. O toque vaginal revelou colo com orifício interno fechado. Considerando o quadro, qual, dentre as abaixo, é a prescrição mais adequada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sulfato ferroso oral"
+      },
+      {
+        "letra": "B",
+        "texto": "Sulfato ferroso oral e progesterona oral"
+      },
+      {
+        "letra": "C",
+        "texto": "Sulfato ferroso oral e progesterona vaginal"
+      },
+      {
+        "letra": "D",
+        "texto": "Sulfato ferroso intravenoso e progesterona vaginal"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 5937,
+    "tags": [],
+    "enunciado": "Mulher, 30 anos, 30 semanas de idade gestacional, não estava fazendo pré-natal, foi à primeira consulta de pré-natal assintomática. Trouxe exame laboratorial recente com hemoglobina de 7,0 g/dL, com hemácias com VCM e CHCM normais. Qual a melhor conduta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tratamento com sulfato ferroso oral 3 a 6 drágeas/dia e acompanhar com dosagem de ferritina."
+      },
+      {
+        "letra": "B",
+        "texto": "Nenhuma, pois trata-se de hemodiluição própria da gestação."
+      },
+      {
+        "letra": "C",
+        "texto": "Encaminhar ao hematologista e solicitar estudo do ferro, ácido fólico e vitamina B12 e eletroforese de hemoglobina."
+      },
+      {
+        "letra": "D",
+        "texto": "Iniciar vitamina B por provável caso de anemia perniciosa."
+      },
+      {
+        "letra": "E",
+        "texto": "Transfusão sanguínea imediata pelo risco fetal."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 5938,
+    "tags": [],
+    "enunciado": "Gestante com taxa de hemoglobina = 11g/dL, assintomática, encontra-se em consulta pré-natal de risco habitual. Apresenta histórico familiar de anemia não especi(cid:60)cada. Segundo o Ministério da Saúde, qual deve ser a conduta na presente consulta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Recomenda-se 5 (cinco) drágeas/dia de sulfato ferroso, de 40mg cada, via oral (podem ser 2 pela manhã, 2 à tarde e 1 à noite), uma hora antes das refeições."
+      },
+      {
+        "letra": "B",
+        "texto": "Encaminhar a gestante para seguimento em ambulatório de pré-natal de alto risco para pesquisar hemoglobinopatias."
+      },
+      {
+        "letra": "C",
+        "texto": "A conduta deve ser expectante, com orientação de alimentação equilibrada, exercícios físicos e descanso de pelo menos 8 horas/noite."
+      },
+      {
+        "letra": "D",
+        "texto": "Encaminhar a gestante para seguimento em ambulatório de pré-natal de alto risco para pesquisar causas de sangramento + reposição de ferro oral."
+      },
+      {
+        "letra": "E",
+        "texto": "Suplementação de ferro durante toda a gestação até o puerpério: 1 drágea de sulfato ferroso/dia (200mg), que corresponde a 40mg de ferro elementar."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 5939,
+    "tags": [],
+    "enunciado": "Em relação aos aspectos nutricionais durante a gestação, pode-se afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A gestante de baixo risco necessita, em média, de um aporte calórico de 2000 a 2500 kcal/ dia"
+      },
+      {
+        "letra": "B",
+        "texto": "O cálcio e a vitamina D devem ser suplementados para todas as gestantes,desde o início da gestação"
+      },
+      {
+        "letra": "C",
+        "texto": "O ganho de peso ideal durante uma gestação de baixo risco em mulher com peso adequado previamente é de 20 kg"
+      },
+      {
+        "letra": "D",
+        "texto": "O suplemento de ácido fólico está indicado à partir da 2. metade da gestação paratodas as gestantes"
+      },
+      {
+        "letra": "E",
+        "texto": "Nenhuma das anteriores"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 5940,
+    "tags": [],
+    "enunciado": "Na prevenção da anemia ferropriva na gestação, a dose recomendada de ferro a ser preconizada para as gestantes a partir do 2. Trimestre de gestação é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "200 mg de ferro elementar"
+      },
+      {
+        "letra": "B",
+        "texto": "120 a 160 mg de ferro elementar"
+      },
+      {
+        "letra": "C",
+        "texto": "40 a 60 mg de ferro elementar"
+      },
+      {
+        "letra": "D",
+        "texto": "240 a 600 mg de ferro elementar"
+      },
+      {
+        "letra": "E",
+        "texto": "Nenhuma das anteriores"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 5941,
+    "tags": [],
+    "enunciado": "Primigesta, 17 anos, 30 semanas de idade gestacional, foi à consulta de pré-natal sem nenhuma queixa. Trouxe exame laboratorial recente com hemoglobina de 9,0 g/dl, além de hemácias hipocrômicas e microcíticas. Qual a melhor conduta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ferroterapia endovenosa até hemoglobina de 12 g/dl."
+      },
+      {
+        "letra": "B",
+        "texto": "Tratamento com sulfato ferroso oral 3 a 6 drágeas/dia."
+      },
+      {
+        "letra": "C",
+        "texto": "Nenhuma, pois trata-se de hemodiluição própria da gestação."
+      },
+      {
+        "letra": "D",
+        "texto": "Transfusão sanguínea, pois a gestante encontra-se no terceiro trimestre."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 5942,
+    "tags": [],
+    "enunciado": "Mulher, 25a, primigesta inicia atendimento pré-natal com 12 semanas. Antecedente pessoal: traço falciforme, litíase renal e dois episódios de infecção urinária nos últimos dois meses.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "CONDUTA É:"
+      },
+      {
+        "letra": "A",
+        "texto": "Urinocultura neste momento e no terceiro trimestre e antibioticoprofilaxia durante agravidez."
+      },
+      {
+        "letra": "B",
+        "texto": "Urinocultura neste momento e antibioticoprofilaxia até o fim do período puerperal."
+      },
+      {
+        "letra": "C",
+        "texto": "Urinocultura neste momento; se negativa, urinoculturas periódicas."
+      },
+      {
+        "letra": "D",
+        "texto": "Urinocultura periódicas e antibioticoprofilaxia até o fim do período puerperal."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 5943,
+    "tags": [],
+    "enunciado": "Conceito de anemia na gestação, segundo a OMS (Organização Mundial de Saúde):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hemoglobina igual ou abaixo de 11 g/dL."
+      },
+      {
+        "letra": "B",
+        "texto": "Hemoglobina igual ou abaixo de 12 g/dL."
+      },
+      {
+        "letra": "C",
+        "texto": "Hemoglobina igual ou abaixo de 10 g/dL."
+      },
+      {
+        "letra": "D",
+        "texto": "Hemoglobina igual ou abaixo de 9,5 g/dL."
+      },
+      {
+        "letra": "E",
+        "texto": "Hemoglobina igual ou abaixo de 10,5 g/dL."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 5944,
+    "tags": [],
+    "enunciado": "Segundo a Organização Mundial de Saúde, o ponto de corte na concentração de hemoglobina para de(cid:60)nir anemia em mulheres grávidas que moram ao nível do mar é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "12 g/dL."
+      },
+      {
+        "letra": "B",
+        "texto": "11 g/dL."
+      },
+      {
+        "letra": "C",
+        "texto": "10 g/dL."
+      },
+      {
+        "letra": "D",
+        "texto": "9,5 g/dL."
+      },
+      {
+        "letra": "E",
+        "texto": "9 g/dL.  Respostas: 1 C 2 B 3 C 4 B 5 6 7 A 8 D 9 B 10 A 11 A 12 C 13 A 14 C 15 C 16 C 17 E 18 A 19 C 20 B 21 D 22 A 23 B"
+      }
+    ],
+    "resposta_correta": "B"
+  }
+]

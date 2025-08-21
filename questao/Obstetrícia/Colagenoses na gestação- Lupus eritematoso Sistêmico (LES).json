@@ -1,0 +1,766 @@
+[
+  {
+    "id": 5460,
+    "tags": [],
+    "enunciado": "Em uma gravidez a presença de anticorpos anti-SSA (RO) e anti-SSB (LA) pode acarretar no feto",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "lesão renal."
+      },
+      {
+        "letra": "B",
+        "texto": "gastrosquise."
+      },
+      {
+        "letra": "C",
+        "texto": "defeito no tubo neural."
+      },
+      {
+        "letra": "D",
+        "texto": "bloqueio cardíaco congênito. 4000228038"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 5461,
+    "tags": [],
+    "enunciado": "Primigesta, 31 anos, portadora de lúpus eritematoso sistêmico, vem ao pré-natal trazendo exames de rotina obstétrica e a ultrassonogra(cid:52)a morfológica de primeiro trimestre com rastreio bioquímico. Nos exames o ácido úrico apresenta resultado aumentado, a urina 1 mostra proteinúria de 500 mg/24h e o anticorpo Anti Ro apresenta resultado positivo. Já o laudo relacionado ao ultrassom mostra o seguinte resultado de análise de risco gestacional: Risco basal de Trissomia do 21 nesta idade (31 anos): 1 em 536. Risco corrigido de Trissomia do 21 nesta idade gestacional: 1 em 1.100. Risco basal de Trissomia do 18 nesta idade (31 anos): 1 em 1.244. Risco corrigido de Trissomia do 18 nesta idade gestacional: menor que 1 em 20.000. Risco basal de Trissomia do 13 nesta idade (31 anos): 1 em 3.920. Risco corrigido de Trissomia do 13 nesta idade gestacional: menor que 1 em 20.000. O risco de pré-eclâmpsia com menos de 34 semanas foi de 1 em 101. O risco de restrição de crescimento antes de 37 semanas seria de 1 em 140. Em relação ao caso clínico acima qual afirmação é verdadeira?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O risco para síndrome de Down nesse caso justifica a realização de NIPT ou a discussão de biópsia de vilo corial."
+      },
+      {
+        "letra": "B",
+        "texto": "O risco para pré-eclâmpsia indica o uso de ácido acetilsalicílico 500 mg/dia até 36 semanas de gestação."
+      },
+      {
+        "letra": "C",
+        "texto": "Para essa paciente o rastreio bioquímico de primeiro trimestre fortalece a indicação de prednisona durante o pré-natal."
+      },
+      {
+        "letra": "D",
+        "texto": "Deve ser utilizado ácido acetilsalicílico (AAS) e enoxaparina para prevenção de síndrome antifosfolipede."
+      },
+      {
+        "letra": "E",
+        "texto": "PAPP-A, Beta HCG livre e PlGF são marcadores utilizados para estimativa desses riscos. 4000214835"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 5462,
+    "tags": [],
+    "enunciado": "Primigesta, 31 anos, portadora de lúpus eritematoso sistêmico, vem ao pré-natal trazendo exames de rotina obstétrica e a ultrassonogra(cid:52)a morfológica de primeiro trimestre com rastreio bioquímico. Nos exames o ácido úrico apresenta resultado aumentado, a urina 1 mostra proteinúria de 500 mg/24h e o anticorpo Anti Ro apresenta resultado positivo. Já o laudo relacionado ao ultrassom mostra o seguinte resultado de análise de risco gestacional: Risco basal de Trissomia do 21 nesta idade (31 anos): 1 em 536. Risco corrigido de Trissomia do 21 nesta idade gestacional: 1 em 1.100. Risco basal de Trissomia do 18 nesta idade (31 anos): 1 em 1.244. Risco corrigido de Trissomia do 18 nesta idade gestacional: menor que 1 em 20.000. Risco basal de Trissomia do 13 nesta idade (31 anos): 1 em 3.920. Risco corrigido de Trissomia do 13 nesta idade gestacional: menor que 1 em 20.000. O risco de pré-eclâmpsia com menos de 34 semanas foi de 1 em 101. O risco de restrição de crescimento antes de 37 semanas seria de 1 em 140. Ainda em relação ao caso clínico descrito, é possível afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nesse caso as dosagens iniciais de ácido úrico e proteinúria podem, no futuro, auxiliar na diferenciação diagnostica de edema."
+      },
+      {
+        "letra": "B",
+        "texto": "A ecocardiografia fetal pode ser dispensada já que a paciente tem menos de 35 anos."
+      },
+      {
+        "letra": "C",
+        "texto": "Deve-se atentar para o desenvolvimento de mola hidatiforme já que paciente apresenta proteinúria já no primeiro trimestre."
+      },
+      {
+        "letra": "D",
+        "texto": "A enoxaparina pode substituir o ácido acetilsalicílico em casos em que o Anti Ro e Anti La são negativos."
+      },
+      {
+        "letra": "E",
+        "texto": "O uso da relação S-Flt/PlGF no primeiro trimestre ajudaria a realizar o diagnóstico de pré-eclâmpsia precoce. 4000214834"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 5463,
+    "tags": [],
+    "enunciado": "GSO, 26 anos, primigesta. Tem diagnóstico de lúpus eritematoso sistêmico há 5 anos. Já apresentou quadro de dor articular, anemia, leucopenia, derrame pleural e proteinúria. Já fez uso de mofetil e enalapril antes da gestação, os quais já foram suspensos. Tem resultado de exame de proteinúria/24horas de 800 mg. Vem para primeira consulta de pré-natal com idade gestacional de 8 semanas e está em uso de hidroxicloroquina, metildopa 1,0 g/dia e ácido fólico. Em relação aos medicamentos, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Suspender a hidroxicloroquina e manter ácido fólico, iniciar AAS."
+      },
+      {
+        "letra": "B",
+        "texto": "Manter a hidroxicloroquina e ácido fólico, iniciar AAS."
+      },
+      {
+        "letra": "C",
+        "texto": "Manter a hidroxicloroquina e ácido fólico."
+      },
+      {
+        "letra": "D",
+        "texto": "Iniciar azatioprina e suspender a hidroxicloroquina."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 5464,
+    "tags": [],
+    "enunciado": "Gestante na 15ª semana de gravidez, com diagnóstico de lúpus eritematoso sistêmico há oito anos, procura atendimento na emergência devido a edema generalizado e à elevação da pressão arterial. Relata uso prévio de azatioprina e hidroxicloroquina, ambos suspensos quando descobriu a gestação. Ao exame físico, apresenta: PA = 170 x 110mmHg, AFU = 14cm, BCF = 144bpm, edema de mãos, dos membros inferiores e da face. O exame laboratorial colhido há uma semana pelo pré-natal demonstra redução dos níveis séricos de complemento e anti-DNA de dupla hélice elevado. Os exames colhidos na emergência evidenciam spot urinário de 4,3mg/dL com sedimentoscopia mostrando hematúria dismór(cid:52)ca. Nesse caso, a medicação que deve ser iniciada para resolução do quadro agudo é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "sulfato de magnésio"
+      },
+      {
+        "letra": "B",
+        "texto": "hidroxicloroquina"
+      },
+      {
+        "letra": "C",
+        "texto": "prednisolona"
+      },
+      {
+        "letra": "D",
+        "texto": "metildopa"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 5465,
+    "tags": [],
+    "enunciado": "Paciente de 26 anos portadora de lúpus comparece no consultório para otimização de imunossupressor. Em relação aos cuidados relacionados à gestação, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Orientação de planejamento familiar e de contraceptivo não fazem parte das orientações necessárias"
+      },
+      {
+        "letra": "B",
+        "texto": "Nenhuma terapia imunussupressora pode ser mantida durante a gestação"
+      },
+      {
+        "letra": "C",
+        "texto": "Orientação de planejamento familiar e de contraceptivo fazem parte das orientações necessárias"
+      },
+      {
+        "letra": "D",
+        "texto": "Toda teapia imunussupressora pode ser mantida durante a gestação"
+      },
+      {
+        "letra": "E",
+        "texto": "A paciente não poderá engravidar em tempo algum após o início de imunosupressores"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 5466,
+    "tags": [],
+    "enunciado": "Durante visita na Unidade de Alojamento Conjunto, você avalia um recém-nascido de 2 dias de vida, nascido a termo, de parto vaginal e sem intercorrências. Sabe-se que a mãe é portadora de Lúpus Eritematoso Sistêmico, em uso de hidroxicloroquina e com atividade de doença controlada no pré-natal. Ao examinar a criança, você observa palidez cutânea, com extremidades frias e tempo de enchimento capilar de 4 segundos. À ausculta cardíaca, o ritmo é irregular, bulhas normofonéticas, sem sopros. A frequência cardíaca é de 65bpm. O restante do exame físico está normal. Diante do achado, foi realizado o eletrocardiograma a seguir e foram solicitadas pesquisas de autoanticorpos no sangue materno e da criança. Assinale a alternativa que contém o ritmo identi(cid:52)cado no eletrocardiograma e o autoanticorpo mais frequentemente encontrado no caso em questão:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Bloqueio atrioventricular de primeiro grau - Anti-La/SSB."
+      },
+      {
+        "letra": "B",
+        "texto": "Bloqueio atrioventricular de segundo grau tipo Mobitz I - Anti-La/SSB."
+      },
+      {
+        "letra": "C",
+        "texto": "Bloqueio atrioventricular total - Anti-Ro/SSA."
+      },
+      {
+        "letra": "D",
+        "texto": "Bloqueio atrioventricular de segundo grau tipo Mobitz II - Anti-U1RNP. 4000187297"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 5467,
+    "tags": [],
+    "enunciado": "Paciente jovem de 19 anos com LES, com plano de engravidar. Quais autoanticorpos podem interferir diretamente na gravidez?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Anti SM, anti Beta 2 glicoproteína 1, anticoagulante lúpico."
+      },
+      {
+        "letra": "B",
+        "texto": "Anti Beta 2 glicoproteína 1, anti SSA/RO, anticoagulante lúpico."
+      },
+      {
+        "letra": "C",
+        "texto": "Anticoagulante lúpico, anti RNP, anti SSA/RO."
+      },
+      {
+        "letra": "D",
+        "texto": "Anti SM, anti RNP, anti SSA/RO. 4000186255"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 5468,
+    "tags": [],
+    "enunciado": "Pode-se a(cid:52)rmar que durante a gestação de uma mulher com lúpus eritematoso sistêmico (LES) está contraindicado o uso de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "hidrocloroquina"
+      },
+      {
+        "letra": "B",
+        "texto": "azatioprina"
+      },
+      {
+        "letra": "C",
+        "texto": "leflunomida"
+      },
+      {
+        "letra": "D",
+        "texto": "sulfassalazina"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 5469,
+    "tags": [],
+    "enunciado": "Paciente ANN, 28 anos, secundigesta, com lúpus eritematoso sistêmico, inicia seu pré-natal na 8ª semana de gestação. Quais os principais aspectos que devem ser considerados no momento da orientação sobre os riscos durante a gravidez?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O tempo de duração da doença, o intervalo de tempo entre a última crise e a concepção e presença de nefropatia."
+      },
+      {
+        "letra": "B",
+        "texto": "O tempo de duração da doença, o intervalo de tempo entre a última crise e a concepção e a presença de fenômeno de Raynaud."
+      },
+      {
+        "letra": "C",
+        "texto": "O intervalo de tempo entre a última crise e a concepção, a presença de nefropatia e a associação com síndrome antifosfolípide."
+      },
+      {
+        "letra": "D",
+        "texto": "O intervalo de tempo entre a última crise e a concepção, o uso de micofenolato de mofetila e parto prematuro na gestação anterior."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 5470,
+    "tags": [],
+    "enunciado": "Em pacientes com diagnóstico de doença reumática autoimune como o lupus eritematoso sistêmico, com desejo de engravidar, quais os autoanticorpos que podem interferir diretamente na gravidez? Assinale a alternativa com as opções CORRETAS:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Anticoagulante lúpico, antibeta 2 glicoproteína 1, anti SSA RO."
+      },
+      {
+        "letra": "B",
+        "texto": "Anti SM, antibeta 2 glicoproteínas 1 e Anticoagulante lúpico."
+      },
+      {
+        "letra": "C",
+        "texto": "Anticoagulante lúpico, anti RNP e Anti SSA RO."
+      },
+      {
+        "letra": "D",
+        "texto": "Anti SM, anticoagulante lúpico e anti RNP."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 5471,
+    "tags": [],
+    "enunciado": "MAS, vem ao consultório para iniciar o pré-natal. 30 anos. G2P0A1. Tem lúpus eritematoso sistêmico há 5 anos, com última crise há 2 anos, que necessitou (cid:52)car internada, com acometimento cutâneo, articular, renal e hematológico. IG de 8 semanas. Está em uso de azatioprina 100 mg/dia, prednisona 20 mg/dia, hidroxicloroquina 400 mg/dia, ácido fólico, AAS 100 mg/dia, metildopa 1 gr/dia. Como proceder?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Suspender a azatioprina e iniciar enoxaparina."
+      },
+      {
+        "letra": "B",
+        "texto": "Suspender a azatioprina e cloroquina."
+      },
+      {
+        "letra": "C",
+        "texto": "Suspender a cloroquina e avaliar a atividade da doença pesquisando o complemento sérico e anti- DNAs."
+      },
+      {
+        "letra": "D",
+        "texto": "Manter todas as medicações. Solicitar todos os exames de pré-natal, incluindo avaliação da função hepática, renal, dosagem de complemento e proteinúria de 24h. 4000198777"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 5472,
+    "tags": [],
+    "enunciado": "Gestante com lúpus eritematoso sistêmico (LES):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Podem manter o tratamento habitual com ciclosporina ou hidroxicloroquina"
+      },
+      {
+        "letra": "B",
+        "texto": "Não podem usar corticoides em dose imunossupressora se tiverem fatores de risco para diabetes gestacional"
+      },
+      {
+        "letra": "C",
+        "texto": "Têm indicação de resolução de gestação por cesariana com suplementação de corticoide intraparto"
+      },
+      {
+        "letra": "D",
+        "texto": "Anti-inflamatórios não hormonais (AINH) podem ser usados para tratamento dos sintomas articulares"
+      },
+      {
+        "letra": "E",
+        "texto": "Deve-se suspender todas as medicações em uso e somente retomar tratamento em caso de início de sintomas sugestivos de atividade da doença 4000174434"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 5473,
+    "tags": [],
+    "enunciado": "Em relação ao lúpus eritematoso neonatal, assinale a alternativa que apresenta corretamente os anticorpos capazes de atravessar a barreira placentária:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "anti-Ro-ssA, anti-La-ssB."
+      },
+      {
+        "letra": "B",
+        "texto": "anti-scl70, anti-centrômero."
+      },
+      {
+        "letra": "C",
+        "texto": "anti-Sm, anti-La-ssB."
+      },
+      {
+        "letra": "D",
+        "texto": "anti-Jo1, anti-RNP. 4000172238"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 5474,
+    "tags": [],
+    "enunciado": "Maria de 29 anos de idade, secundigesta e primipara, vem para a consulta de pré natal com 8 semanas e 2 dias de gestação. Está preocupada pois tem lúpus eritematoso sistêmico com acometimento cutâneo, articular e hematológico. Refere última crise há 7 meses e está em uso de hidroxicloroquina 400 mg e prednisona 10 mg por dia. Qual é a orientação com relação ao uso de hidroxicloroquina e prednisona na fase inicial da gestação?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Deve suspender Hidroxicloroquina."
+      },
+      {
+        "letra": "B",
+        "texto": "Deve manter ambas as medicações."
+      },
+      {
+        "letra": "C",
+        "texto": "Deve suspender os dois medicamentos."
+      },
+      {
+        "letra": "D",
+        "texto": "Deve suspender a Prednisona."
+      },
+      {
+        "letra": "E",
+        "texto": "Deve aumentar prednisona e suspender a prednisona. 4000172154"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 5475,
+    "tags": [],
+    "enunciado": "A situação onde o metotrexate tem maior probabilidade de sucesso é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ausência de atividade cardíaca fetal."
+      },
+      {
+        "letra": "B",
+        "texto": "Massa anexial menor que 7 cm."
+      },
+      {
+        "letra": "C",
+        "texto": "Hemoperitôneo."
+      },
+      {
+        "letra": "D",
+        "texto": "BetaHCG acima de 10.000 mUI/ml. 4000170932"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 5476,
+    "tags": [],
+    "enunciado": "Pode-se a(cid:52)rmar, em relação ao Lúpus Eritematoso Sistêmico na gestação, que na maioria dos casos as exacerbações com manifestações leves da doença (predominantemente cutâneo articulares) ocorrem no:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "puerpério"
+      },
+      {
+        "letra": "B",
+        "texto": "3º trimestre"
+      },
+      {
+        "letra": "C",
+        "texto": "2º trimestre"
+      },
+      {
+        "letra": "D",
+        "texto": "1º trimestre 4000142685"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 5477,
+    "tags": [],
+    "enunciado": "Paciente 26 anos, portadora de Lúpus Eritomatoso Sistêmico (LES) há 6 anos, estando de momento controlado com medicação, encontra-se gestante de 09 semanas. A paciente e familiares estão preocupados com os possíveis efeitos da doença sobre a gravidez e vice-versa. Quanto às informações do médico, analise as apresentadas abaixo. I - Durante a gravidez, o Lúpus pode melhorar, piorar ou permanecer inalterado em igual proporção. II - A interrupção da gravidez deve ser antecipada para 34 semanas após medidas de aceleramento da maturidade pulmonar. III - A nefrite ativa é condição de pior prognóstico para a gravidez, com aumento da incidência de hipertensão, pré-eclâmpsia e trabalho de parto prematuro. IV - Qualquer tratamento medicamentoso é proscrito durante a gravidez. São verdadeiras as informações:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e III, apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "I, II e III, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "II, III e IV, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "II e IV, apenas."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 5478,
+    "tags": [],
+    "enunciado": "Fertilidade gravidez e anticoncepção Gestante de 32 anos de idade, secundigesta e primípara, vem para a primeira consulta de pré-natal com 8 semanas e 2 dias de gestação. Está preocupada pois tem lúpus eritematoso sistêmico com acometimento cutâneo, articular e hematológico. Refere última crise há 7 meses e está em uso de hidroxicloroquina 400 mg e prednisona 10 mg por dia. Qual é a orientação com relação ao uso de hidroxicloroquina e prednisona na fase inicial da gestação?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Deve suspender Hidroxicloroquina."
+      },
+      {
+        "letra": "B",
+        "texto": "Deve manter ambas as medicações."
+      },
+      {
+        "letra": "C",
+        "texto": "Deve suspender os dois medicamentos."
+      },
+      {
+        "letra": "D",
+        "texto": "Deve suspender a Prednisona."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 5479,
+    "tags": [],
+    "enunciado": "Pode-se a(cid:52)rmar, em relação ao Lúpus Eritematoso Sistêmico na gestação, que na maioria dos casos as exacerbações com manifestações leves da doença (predominantemente cutâneo articulares) ocorrem no:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "puerpério."
+      },
+      {
+        "letra": "B",
+        "texto": "3º trimestre."
+      },
+      {
+        "letra": "C",
+        "texto": "2º trimestre."
+      },
+      {
+        "letra": "D",
+        "texto": "1º trimestre."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 5480,
+    "tags": [],
+    "enunciado": "Paciente, 31 anos, sexo masculino com queixa de cefaleia intensa, artralgia migratória, rash malar e edema de membros inferiores. Relata lesões maculares de pele, de formato anular, associado com febre, astenia e perda de peso há aproximadamente 4 semanas. Ao exame: PA = 110x70mmHg, FR = 26 irpm, FC = 110 bpm (pulso rítmico e cheio). Ausculta cardiopulmonar: Murmúrio vesicular reduzido em bases com creptos bibasais, hipofenese de bulhas com presença de B4. Ausência de deformidades articulares. VDRL não reagente, ASLO 198 UI/ml, VHS: 20 mm/h, Proteina C reativa: 34 mg/dl. O provável diagnóstico:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Lupus Eritematoso Sistêmico"
+      },
+      {
+        "letra": "B",
+        "texto": "Sífilis"
+      },
+      {
+        "letra": "C",
+        "texto": "Síndrome de Lyme."
+      },
+      {
+        "letra": "D",
+        "texto": "Febre reumática"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 5481,
+    "tags": [],
+    "enunciado": "Fertilidade gravidez e anticoncepção Em relação ao lúpus eritematoso sistêmico, deve-se considerar que é pior a ativação da doença durante a gestação do que a ação das drogas utilizadas no tratamento. Entretanto, algumas drogas devem ser evitadas nesse período, por serem muito tóxicas para o feto, como",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a prednisona."
+      },
+      {
+        "letra": "B",
+        "texto": "o tracolimus."
+      },
+      {
+        "letra": "C",
+        "texto": "o micofenolato."
+      },
+      {
+        "letra": "D",
+        "texto": "a cloroquina."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 5482,
+    "tags": [],
+    "enunciado": "Fertilidade gravidez e anticoncepção Primigesta com 6 semanas de gestação realiza consulta para iniciar o pré-natal. Refere ter lúpus eritematoso sistêmico (LES) e que está em uso de hidroxicloroquina e com a doença inativa há 1 ano. Considerando essa situação e os conhecimentos médicos a ela relacionados, julgue o item a seguir. Existe maior risco de reativação do lúpus durante a gestação e o período pós-parto, o que requer um pré- natal regular e a interação entre obstetra e reumatologista.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Certo."
+      },
+      {
+        "letra": "B",
+        "texto": "Errado."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 5483,
+    "tags": [],
+    "enunciado": "Gestante, com vinte e seis anos de idade, G2P1, idade gestacional de vinte e duas semanas, exibiu, em sua primeira consulta pré-natal, havia quatro semanas, resultados laboratoriais normais, inclusive nível de hemoglobina normal e nenhum antecedente patológico digno de nota. No retorno para a segunda consulta, queixou-se de fadiga e astenia persistentes por uma semana. Nessa ocasião, apresentou nível de hemoglobina de 7,0 g/dL. Relatou ter observado urina escura depois de ter feito uso de um antibiótico, prescrito em atendimento emergencial, para infecção do trato urinário. Os resultados do exame físico foram: PA = 110 mmHg x 70 mmHg, FC = 80 bpm, afebril, ictérica +/4+, ausculta cardíaca e pulmonar sem alteração e glândula tireoide normal à palpação. O fundo uterino encontrava-se ao nível da cicatriz umbilical e os batimentos cardíacos fetais estavam na faixa de 140 bpm a 150 bpm. Constatou-se nos membros inferiores ausência de edema e pulsos preservados. Considerando esse caso clínico, julgue o item que se segue. Nenhum sintoma apresentado pela paciente condiz com sintoma de lúpus eritematoso sistêmico ou de outra doença autoimune.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Certo."
+      },
+      {
+        "letra": "B",
+        "texto": "Errado."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 5484,
+    "tags": [],
+    "enunciado": "Fertilidade gravidez e anticoncepção Julgue o próximo item, relativo às anemias hemolíticas autoimunes, ao lúpus eritematoso sistêmico e à insuficiência renal crônica. O tratamento do lúpus eritematoso sistêmico em grávida pode ser realizado com a prescrição de prednisona.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Certo."
+      },
+      {
+        "letra": "B",
+        "texto": "Errado."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 5485,
+    "tags": [],
+    "enunciado": "Fertilidade gravidez e anticoncepção Lúpus na gestação - marque a afirmativa FALSA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Mulheres lúpicas geralmente têm fertilidade preservada."
+      },
+      {
+        "letra": "B",
+        "texto": "A gravidez está contraindicada."
+      },
+      {
+        "letra": "C",
+        "texto": "Durante a gestação as complicações obstétricas são maiores."
+      },
+      {
+        "letra": "D",
+        "texto": "Tem maior risco de exacerbação da doença, especialmente no puerpério."
+      },
+      {
+        "letra": "E",
+        "texto": "O prognóstico é melhor para ambos, mãe e feto, quando a doença está em remissão há pelo menos 6 meses antes da concepção."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 5486,
+    "tags": [],
+    "enunciado": "Fertilidade gravidez e anticoncepção O lúpus eritematoso sistêmico provoca a:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Macrossomia fetal."
+      },
+      {
+        "letra": "B",
+        "texto": "Amniorrexe prematura."
+      },
+      {
+        "letra": "C",
+        "texto": "Polidrâmnio."
+      },
+      {
+        "letra": "D",
+        "texto": "Placenta prévia."
+      },
+      {
+        "letra": "E",
+        "texto": "Abortamento habitual."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 5487,
+    "tags": [],
+    "enunciado": "Fertilidade gravidez e anticoncepção Qual das afirmativas a seguir é falsa?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A gravidez não altera o prognóstico a longo prazo de pacientes com lúpuseritematoso sistêmico (LES)."
+      },
+      {
+        "letra": "B",
+        "texto": "Os surtos de lúpus durante a gravidez geralmente são graves e envolvem sintomas cutâneos e articulares."
+      },
+      {
+        "letra": "C",
+        "texto": "Os surtos transitórios de lúpus são mais prováveis durante a gravidez do que emoutros tempos"
+      },
+      {
+        "letra": "D",
+        "texto": "As pacientes com LES têm um maior risco de aborto espontâneo, CIUR, parto cesáreoe morte fetal."
+      },
+      {
+        "letra": "E",
+        "texto": "Gravidez em mulheres com LES deve ser considerada de alto risco."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 5488,
+    "tags": [],
+    "enunciado": "Correlacione as colunas. I) Granulomatose de Wegener; II) Poliangeíte microscópica; III) Lúpus eritematoso sistêmico; IV) Artrite reumatoide; V) Espondilite anquilosante. ( ) HLA B27; ( ) Anti-CCP; ( ) Anti-DNA; ( ) p-ANCA; ( ) c-ANCA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "sequência CORRETA é encontrada em:"
+      },
+      {
+        "letra": "A",
+        "texto": "V – IV – III – I - II."
+      },
+      {
+        "letra": "B",
+        "texto": "IV – III – V – I - II."
+      },
+      {
+        "letra": "C",
+        "texto": "I – III – IV – II - V."
+      },
+      {
+        "letra": "D",
+        "texto": "V – IV – III – II - I."
+      },
+      {
+        "letra": "E",
+        "texto": "V – II – III – I - IV."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 5489,
+    "tags": [],
+    "enunciado": "Uma paciente do sexo feminino, com 22 anos, relata aparecimento de manchas avermelhadas em região malar há cinco meses, associadas à fotossensibilidade e poliartrite. Essa paciente encontra-se gestante de doze semanas. Nesse caso, qual o exame a ser solicitado para descarte de bloqueio cardíaco fetal?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Anticardiolipina."
+      },
+      {
+        "letra": "B",
+        "texto": "Anti-DNA."
+      },
+      {
+        "letra": "C",
+        "texto": "Anti-Ro."
+      },
+      {
+        "letra": "D",
+        "texto": "FAN"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 5490,
+    "tags": [],
+    "enunciado": "Colagenoses na gestação Lupus eritematoso Sistêmico LES Entre os anticorpos antifosfolípides abaixo mencionados, qual é o de maior valor preditivo para perda fetal ou pré-eclâmpsia em uma paciente com lúpus eritematoso sistêmico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Anticardiolipina IgG."
+      },
+      {
+        "letra": "B",
+        "texto": "Anticardiolipina IgM."
+      },
+      {
+        "letra": "C",
+        "texto": "Antibeta2 - glicoproteína I IgG."
+      },
+      {
+        "letra": "D",
+        "texto": "Antiprotrombina IgG."
+      },
+      {
+        "letra": "E",
+        "texto": "Anticoagulante lúpico.  Respostas: 1 D 2 E 3 A 4 B 5 C 6 C 7 C 8 B 9 C 10 C 11 A 12 D 13 A 14 A 15 B 16 A 17 B 18 A 19 B 20 B 21 A 22 C 23 A 24 B 25 A 26 B 27 E 28 B 29 D 30 C 31 E"
+      }
+    ],
+    "resposta_correta": "E"
+  }
+]

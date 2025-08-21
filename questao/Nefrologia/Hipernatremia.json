@@ -1,0 +1,1260 @@
+[
+  {
+    "id": 111905,
+    "tags": [],
+    "enunciado": "Um escolar de 10 anos, com histórico de traumatismo craniano, encontra-se internado em Unidade de terapia intensiva para monitorização neurológica. Há cerca de 8 horas, iniciou quadro de irritabilidade que progrediu para espasmos e convulsão. Ao exame mostra sinais de desidratação e o nível de sódio sérico é de 163 mEq/L.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "intervenção imediata que deve ser priorizada para esse paciente é:"
+      },
+      {
+        "letra": "A",
+        "texto": "Infusão de grande volume de água por via oral."
+      },
+      {
+        "letra": "B",
+        "texto": "Prescrição rápida de solução glicosada a 5%."
+      },
+      {
+        "letra": "C",
+        "texto": "Administração de desmopressina."
+      },
+      {
+        "letra": "D",
+        "texto": "Suspensão imediata de todos os fluidos IV."
+      },
+      {
+        "letra": "E",
+        "texto": "Intervenção neurocirúrgica. 4000234738"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 111906,
+    "tags": [],
+    "enunciado": "Amaral, 74 anos, está internado há três dias devido a um quadro febril secundário à pneumonia. Mesmo sendo o terceiro dia da antibioticoterapia, o paciente encontra-se prostrado, em mau estado geral, e suas mucosas estão secas. Seus exames laboratoriais mostram valores de sódio de 166, 153 e 165 mEq/L (VR 135 a 145 mEq/L), respectivamente no primeiro, segundo e terceiro dia de internação. Para corrigir esse sódio plasmático, você irá hidratar esse paciente e para isso, há a necessidade de se guiar por alguns preceitos básicos sobre a velocidade de correção do valor do sódio plasmático. Sobre isso, qual das alternativas abaixo está CORRETA?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O valor de sódio no sangue pode ser reduzido em, no máximo, 10 a 12 mEq/L ao dia;"
+      },
+      {
+        "letra": "B",
+        "texto": "O valor de sódio no sangue pode ser reduzido em, no máximo, 15 a 17mEq/L ao dia;"
+      },
+      {
+        "letra": "C",
+        "texto": "O valor de sódio no sangue pode ser diminuído em 20 mEq/L nas 12 primeiras horas e o restante, nas próximas 24 horas;"
+      },
+      {
+        "letra": "D",
+        "texto": "O valor de sódio no sangue deverá atingir os valores normais em, no máximo, 24 horas. 4000231139"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 111907,
+    "tags": [],
+    "enunciado": "Osmolaridade na hipernatremia Menino, 1a, é trazido ao Pronto Socorro com história de irritabilidade há dois dias. Nega febre, vômitos, diarreia ou outras queixas. Refere diurese abundante e frequente. Nega uso de medicamentos. Antecedente pessoal: malformação de sistema nervoso central. Exame físico: irritado, com mucosas secas, choro sem lágrimas, turgor normal e boa perfusão periférica. Exames: sódio sérico=156mEq/L. PARA ATINGIR O EQUILÍBRIO OSMÓTICO, O COMPARTIMENTO QUE SOFRE MAIOR CONTRAÇÃO COM O DESVIO DE LÍQUIDOS É: 4000230353",
+    "alternativas": [],
+    "resposta_correta": null
+  },
+  {
+    "id": 111908,
+    "tags": [],
+    "enunciado": "Sobre desidratação com hipernatremia, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sintomas incluem letargia, fraqueza muscular e, em casos graves, convulsões e coma."
+      },
+      {
+        "letra": "B",
+        "texto": "Hipernatremia refere-se a uma baixa concentração de sódio no sangue."
+      },
+      {
+        "letra": "C",
+        "texto": "Hipernatremia resultante de desidratação geralmente ocorre devido a uma ingestão aumentada de água."
+      },
+      {
+        "letra": "D",
+        "texto": "É mais comum em pacientes jovens devido à sua alta capacidade de reter água. 4000214123"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 111909,
+    "tags": [],
+    "enunciado": "Paciente feminina, 37 anos, encontra-se há 12 horas internada na UTI, em pósoperatório imediato de ressecção transesfenoidal de macroadenoma de hipó(cid:81)se não funcionante. Encontra-se sob sedação com midazolam e fentanil, em ventilação mecânica. Parâmetros hemodinâmicos atuais: PA=90/60mmHg; FC= 110bpm; Diurese = 4300mL em 12h, com balanço hídrico no período negativo em 2400mL. A prescrição atual contém a sedação vigente, soro (cid:81)siológico 0,9% 500mL 6/6 horas e água por sonda nasoenteral 300mL 4/4 horas. O controle laboratorial colhido há uma hora revelou Na=154mEq/L (ref: 135-145mEq/L); K=5,3mEq/L (ref: 3,5-5,5mEq/L). A conduta adequada para estabilizar o quadro desta paciente é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Associar Desmopressina."
+      },
+      {
+        "letra": "B",
+        "texto": "Expansão com Soro glicosado 5% 1000mL, mantendo os demais."
+      },
+      {
+        "letra": "C",
+        "texto": "Expansão e manutenção com Soro glicofisiológico a 0,45% 8/8h."
+      },
+      {
+        "letra": "D",
+        "texto": "Indicar Restrição hídrica."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 111910,
+    "tags": [],
+    "enunciado": "Mulher, 85 anos, com demência senil, é internada com quadro de prostração, desidratada, hipotensa (PA = 70x 50 mmHg) e náuseas. Apresentou um episódio de hematúria no dia anterior, mas mantém diurese normal, com urina clara. Os exames na emergência revelam Na = 170 mEq/L, K = 4,2 mEqg/L, Creatinina = 2,1 mg/dL. Urinálise: pH = 6,0, densidade = 1.003, ausência de glicose, cetonas, proteínas e nitritos. Sedimento: Hemácias = 25000/mL, Leucócitos= 5.000/mL. Glicemia (jejum) = 162mg/dL. Hemograma: ndn. Exames de imagem: discreta hidronefrose bilateral, presença de pequenos cálculos em ambas as pelves renais. O diagnóstico mais provável é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "diabetes mellitus tipo 2 e Estado Hiperosmolar Hiperglicêmico não Cetótico;"
+      },
+      {
+        "letra": "B",
+        "texto": "diabetes mellitus tipo 2 e diabetes insipidus nefrogênico;"
+      },
+      {
+        "letra": "C",
+        "texto": "diabetes mellitus tipo 2 e nefrolitíase bilateral;"
+      },
+      {
+        "letra": "D",
+        "texto": "hiperglicemia e desidratação por baixa ingesta de líquidos."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 111911,
+    "tags": [],
+    "enunciado": "Mulher, 20a, terceiro dia de pós operatório de craniectomia descompressiva por hematoma subdural, encontra-se na Unidade de Terapia Intensiva, sedada, PA=124/78mmHg, FC=88bpm, T=36,2ºC. Diurese 24h=6.200mL, urina clara, creatinina=0,7mg/dL, ureia=32mg/dL, sódio=167mEq/L, potássio=4,1mEq/L. A ETIOLOGIA DO DISTÚRBIO HIDROELETROLÍTICO É: Essa questão possui comentário do professor no site 4000209525",
+    "alternativas": [],
+    "resposta_correta": null
+  },
+  {
+    "id": 111912,
+    "tags": [],
+    "enunciado": "Analise a (cid:81)gura abaixo, na qual a imagem da esquerda representa o ambiente intracelular e a da direita representa o ambiente extracelular. Considerando que os itens “A” e “C” tenham maiores concentrações intracelulares e que o item “B” tenha maior concentração extracelular, as letras A, B e C correspondem, respectivamente, aos eletrólitos:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cloro, potássio e sódio."
+      },
+      {
+        "letra": "B",
+        "texto": "Potássio, sódio e magnésio."
+      },
+      {
+        "letra": "C",
+        "texto": "Fosfato, cloro e sódio."
+      },
+      {
+        "letra": "D",
+        "texto": "Potássio, sódio e cloro."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 111913,
+    "tags": [],
+    "enunciado": "Com relação aos distúrbios eletrolíticos, assinale a alternativa falsa:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A correção da hipernatremia deve ser lenta, pois sua variação rápida pode causar mielinólise pontinha."
+      },
+      {
+        "letra": "B",
+        "texto": "A hiponatremia pode ser causada por aumento do aporte de água ou redução da excreção renal de água, com volume extracelular reduzido, normal ou elevado."
+      },
+      {
+        "letra": "C",
+        "texto": "A hipocalemia pode resultar em íleo metabólico, arritmias cardíacas, alterações eletrocardiográficas e paralisia muscular flácida."
+      },
+      {
+        "letra": "D",
+        "texto": "O uso do gluconato de cálcio na hipercalemia tem função de estabilizar membrana no tecido de condução cardíaco, tendo um efeito protetor contra arritmia cardíaca."
+      },
+      {
+        "letra": "E",
+        "texto": "Hipercalcemia leve geralmente nao provoca sintomas, principalmente se for crônica."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 111914,
+    "tags": [],
+    "enunciado": "Lactente de 11 meses previamente hígido é levado ao pronto socorro com história de diarreia há 3 dias (fezes líquidas e volumosas, cerca de 8 episódios por dia), associada a febre, vômitos e anorexia. Nas últimas 24 horas estava aceitando apenas soro caseiro. Ao exame observa-se: mucosas secas, olhos encovados, turgor cutâneo normal, ávido por beber líquidos. ACV: BRNF em 2T, sem sopros, FC: 128 bpm AR: MV presentes em AHT sem RA, FR: 48 irpm Abdome: plano, flácido, indolor SNC: fontanela anterior deprimida, irritabilidade, hipertonia muscular e hiperreflexia. Qual o distúrbio eletrolítico mais provável para o caso?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hiponatremia."
+      },
+      {
+        "letra": "B",
+        "texto": "Hipernatremia."
+      },
+      {
+        "letra": "C",
+        "texto": "Hipocalemia."
+      },
+      {
+        "letra": "D",
+        "texto": "Hipercalemia."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 111915,
+    "tags": [],
+    "enunciado": "Escolar de 8 anos de idade, vítima de acidente automobilístico há 24 horas, apresenta edema cerebral por provável lesão axonal difusa. Está internado em unidade de terapia intensiva sob ventilação mecânica. Apresentava estabilidade hemodinâmica até o momento, quando passou a apresentar diurese de 10 mL/kg/h, com densidade urinária de 1000 a 1005, PA: 85 × 45 mmHg, FC: 120 bpm, TC: 36 °C, desenvolvendo a mesma FR: 20 ipm do ventilador, saturação de oxigênio ao oxímetro: 90%. Ausculta cardiopulmonar normal. Abdome (cid:91)ácido sem visceromegalias. Ele recebeu então expansão volêmica com 40 mL/kg de soro (cid:81)siológico e iniciada norepinefrina 0,1 mcg/kg/min apresentando nova PA: 100 × 55 mmHg. Realizada glicemia capilar: 140 mg/dL e dosagem sérica de Na: 172 mEq/L e K: 4 mEq/L. Entre as opções abaixo, a melhor neste momento para este paciente é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Desmopressina."
+      },
+      {
+        "letra": "B",
+        "texto": "Dexametasona."
+      },
+      {
+        "letra": "C",
+        "texto": "Furosemida."
+      },
+      {
+        "letra": "D",
+        "texto": "Dobutamina."
+      },
+      {
+        "letra": "E",
+        "texto": "Vancomicina."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 111916,
+    "tags": [],
+    "enunciado": "Homem, 19 anos, iniciou quadro de poliúria e polidipsia após bater a cabeça durante uma partida de futebol. Exame físico: bom estado geral, mucosas hidratadas, eupneico, estável hemodinamicamente. Diurese das 8h às 20h: 3000 mL; das 20h às 8h: 2600 mL. Exames laboratoriais: glicemia: 80 mg/dL (VR: 70 a ); Na: 146 mEq/L (VR: 136 a 145); osmolalidade urinária: 75 mOsm/kg (VR: 300 a 900); osmolalidade plasmática: 304 mOsm/kg (VR: 280 a 295); TSH: 5,6 mUI/L (VR: 0,5 a 5), T4 livre: 1.1 ng/dL (VR: 0,8 a 1,8); creatinina e cortisol normais. Considerando a doença mais provável, qual tratamento é indicado?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Desmopressina."
+      },
+      {
+        "letra": "B",
+        "texto": "Restrição hidrica."
+      },
+      {
+        "letra": "C",
+        "texto": "Diurético."
+      },
+      {
+        "letra": "D",
+        "texto": "Levotiroxina."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 111917,
+    "tags": [],
+    "enunciado": "Paciente de 2 anos, sexo masculino, portador de encefalopatia crônica não progressiva e epilepsia, foi trazido ao departamento de emergência devido sonolência há 5 dias e piora na frequência das crises convulsivas, tendo apresentado 3 episódios hoje. Habitualmente, apresentava crises convulsivas cerca de uma vez por semana. Antes do início do quadro atual, teve um quadro de febre por 4 dias já resolvido. O paciente tem traqueostomia e gastrostomia com fundoplicatura e recebe dieta exclusivamente por essa via. Coletados exames séricos que mostraram sódio sérico de 151 mEq/L. Feito cálculo de dé(cid:81)cit de agua livre de 300ml para uma correção de 6 mEq/L, considerando que o peso do paciente é de 14kg. Considerando as condições clínicas do paciente, qual a melhor forma de corrigir a hipernatremia?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Adicionar 300 ml de água livre à dieta habitual do paciente em 24 horas."
+      },
+      {
+        "letra": "B",
+        "texto": "Expandir com SF 300ml e Soro glicosado 10% 300ml em 1 hora."
+      },
+      {
+        "letra": "C",
+        "texto": "Infundir por gavagem 300 ml de água em 1 hora."
+      },
+      {
+        "letra": "D",
+        "texto": "Iniciar jejum com soro de manutenção 1200ml/dia com Ringer Lactato/Soro Glicosado 3:1 em 24 horas"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 111918,
+    "tags": [],
+    "enunciado": "Mulher, 66 anos, foi submetida à ressecção transesfenoidal de massa pituitária. Evolui no pós-operatório com sede intensa e poliúria. Após coleta de exames laboratoriais, constata-se sódio sérico = 152 mEq/L. Familiares relatam que a paciente apresentou leve confusão mental na última noite. Assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Para compensação clínica mais rápida, o tratamento inicial deve ser com solução salina a 3%."
+      },
+      {
+        "letra": "B",
+        "texto": "A osmolaridade urinária dessa paciente certamente encontra-se elevada."
+      },
+      {
+        "letra": "C",
+        "texto": "Com a administração de desmopressina, a osmoloridade urinária irá aumentar."
+      },
+      {
+        "letra": "D",
+        "texto": "O tratamento de escolha é a restrição hídrica."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 111919,
+    "tags": [],
+    "enunciado": "Sobre os cuidados na manutenção do potencial doador de múltiplos órgãos e tecidos é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Devemos realizar controle glicêmico agressivo com metas de HGT entre 100-120 para potenciais doadores"
+      },
+      {
+        "letra": "B",
+        "texto": "Em caso de bradiarritmias a atropina é uma opção segura e eficaz para potenciais doadores"
+      },
+      {
+        "letra": "C",
+        "texto": "Diabetes insipidus é uma complicação frequente e deve ser tratada com reposição volêmica e vasopressina e/ou DDAVP"
+      },
+      {
+        "letra": "D",
+        "texto": "A reposição de hormônios tireoidianos é contraindicada devido a incidência aumentada de taquiarritmias"
+      },
+      {
+        "letra": "E",
+        "texto": "Nenhuma das respostas acima 4000175824"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 111920,
+    "tags": [],
+    "enunciado": "Paciente do sexo masculino, 56 anos, realizou cirurgia para exérese de craniofaringioma. Após a cirurgia, evoluiu com poliúria de sete litros por dia. Exames laboratoriais: hemograma dentro da normalidade, glicemia de jejum 80mg%, potássio de 4,2mmol/L, sódio de 151mmol/L, cálcio 9,0mg/dL, hormônios produzidos pela adenohipó(cid:81)se dentro da normalidade, bem como ureia e creatinina. Qual hipótese diagnóstica e que exames devem ser solicitados para confirmá-la?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Diabetes insipidus, osmolalidades urinária e sérica"
+      },
+      {
+        "letra": "B",
+        "texto": "Síndrome da secreção inapropriada de hormônio antidiurético, osmolalidades urinária e sérica"
+      },
+      {
+        "letra": "C",
+        "texto": "Diabetes insipidus, teste oral de tolerância à glicose"
+      },
+      {
+        "letra": "D",
+        "texto": "Diabetes mellitus, HbA1c e teste oral de tolerância à glicose"
+      },
+      {
+        "letra": "E",
+        "texto": "Síndrome da secreção inapropriada de hormônio antidiurético, hormônio antidiurético 4000175261"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 111921,
+    "tags": [],
+    "enunciado": "Considere que uma paciente de 88 anos de idade foi admitida na enfermaria com diarreia e sódio de 158 mEq/L. Analise as seguintes medidas e(cid:81)cazes no controle da hipernatremia dessa paciente e assinale com V as verdadeiras e com F as falsas. ( ) Hidratar com soro glicosado a 5%. ( ) Usar bicarbonato de sódio a 8,4%. ( ) Ofertar água filtrada via oral. ( ) Hidratar com solução salina a 0,45%. Assinale a sequência correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "F F V V"
+      },
+      {
+        "letra": "B",
+        "texto": "V F V V"
+      },
+      {
+        "letra": "C",
+        "texto": "F V F F"
+      },
+      {
+        "letra": "D",
+        "texto": "V V F F"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 111922,
+    "tags": [],
+    "enunciado": "Mulher, 63 anos, foi submetida a ressecção transesfenoidal de massa pituitária. Apresenta, no pós- operatório, sede excessiva e poliuria. Sódio sérico = 161 mmol/L (normal = 135 a 146 mmol/L). Assinale a afirmativa correta em relação à provável causa da hipernatremia.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O tratamento de escolha é com solução salina hipertônica."
+      },
+      {
+        "letra": "B",
+        "texto": "Está indicada a restrição de ingesta hídrica."
+      },
+      {
+        "letra": "C",
+        "texto": "Se a paciente receber desmopressina, a osmolaridade urinária irá aumentar."
+      },
+      {
+        "letra": "D",
+        "texto": "A osmolaridade urinária nesse momento está muito provavelmente elevada."
+      },
+      {
+        "letra": "E",
+        "texto": "Trata-se de secreção inapropriada do hormônio antidiurético. 4000165220"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 111923,
+    "tags": [],
+    "enunciado": "Em relação aos distúrbios hidroeletrolíticos, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Na hiponatremia, geralmente, existe um déficit do sódio corporal total e, por isso, deve ser tratada com solução salina hipertônica a 3%."
+      },
+      {
+        "letra": "B",
+        "texto": "A Hipernatremia é rara em pacientes conscientes que têm acesso livre à água por causa da extrema sensibilidade do mecanismo de sede."
+      },
+      {
+        "letra": "C",
+        "texto": "A correção da hipocalemia deve ser feita sempre com cloreto de potássio (KCl), independentemente da presença de acidose."
+      },
+      {
+        "letra": "D",
+        "texto": "A diminuição da excreção renal de potássio (K +), gerando uma hipercalemia, pode ocorrer devido a um aumento dos níveis de mineralocorticoides como no hiperaldosteronismo"
+      },
+      {
+        "letra": "E",
+        "texto": "A inalação de Beta-2 agonistas (Ex.: fenoterol) é um dos tratamentos da hipercalemia, reduzindo o potássio corporal total."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 111924,
+    "tags": [],
+    "enunciado": "Sobre os distúrbios eletrolíticas, assinale a alternativa verdadeira.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hipernatremia é a concentração sérica de sódio > 145 mEq/L. Implica deficit do total de água corporal em relação ao total de sódio corporal porque a ingestão de água fica abaixo da perda. O principal sintoma é sede; outras manifestações clínicas são primariamente neurológicas (em decorrência de desvio osmótico de água para fora das células), incluindo confusão, excitabilidade neuromuscular, convulsões e coma. O diagnóstico se faz pela medida do sódio plasmático e, às vezes, outros exames laboratoriais."
+      },
+      {
+        "letra": "B",
+        "texto": "A hipopotassemia é a redução da concentração plasmática de sódio para < 136 mEq/L por excesso de água em relação ao soluto. As causas comuns incluem uso de diuréticos, diarreia, insuficiência cardíaca, doença hepática, doença renal e síndrome de secreção inapropriada de ADH (SIADH). As manifestações clínicas são primariamente neurológicas (em razão do desvio osmótico de água para dentro das células cerebrais, causando edema), em especial na hiponatremia aguda, e incluem cefaleia, confusão e estupor; podem ocorrer convulsões e coma. O diagnóstico é por medição do sódio sérico."
+      },
+      {
+        "letra": "C",
+        "texto": "A hipocalcemia consiste na concentração total de cálcio > 10,4 mg/dl (> 2,60 mmol/L) ou cálcio iônico plasmático > 5,2 mg/dl (> 1,3 mmol/L). As principais causas incluem hiperparatireoidismo, intoxicação por vitamina D e câncer. As características clínicas incluem poliúria, constipação, fraqueza muscular, confusão e coma. O diagnóstico se faz pela mensuração das concentrações plasmáticas de cálcio iônico e PTH. O tratamento para aumentar a excreção de cálcio e reduzir a reabsorção óssea de cálcio envolve solução fisiológica, diurese de sódio e fármacos como zoledronato."
+      },
+      {
+        "letra": "D",
+        "texto": "A hipercalcemia é a concentração total de cálcio < 8,8 mg/dl ( < 2,20 mmol/L) na presença de concentrações normais de proteínas plasmáticas ou concentração plasmática de cálcio iônico < 4,7 mg/dl ( < 1, 17 mmol/L). As causas incluem hipoparatireoidismo, deficiência de vitamina D e doenças renais. As manifestações incluem parestesias, tetania e, se for grave, convulsões, encefalopatia e insuficiência cardíaca. O diagnóstico envolve medida do cálcio plasmático ajustada pela concentração de albumina plasmática. O tratamento consiste na administração de cálcio e, às vezes, de vitamina D."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 111925,
+    "tags": [],
+    "enunciado": "Homem de 56 anos, submetido à cirurgia de ressecção de adenoma hipo(cid:81)sário, está em seu 1 ° pós- operatório na UTI. Exames laboratoriais revelam sódio sérico = 164 mEq/L. Qual a causa mais provável e qual o valor alvo do sódio esperado em 24h?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Diabetes insipidus; 144 mEq/L"
+      },
+      {
+        "letra": "B",
+        "texto": "Diabetes insipidus; 154 mEq/L"
+      },
+      {
+        "letra": "C",
+        "texto": "SIADH; 144 mEq/L"
+      },
+      {
+        "letra": "D",
+        "texto": "SIADH; 154 mEq/L"
+      },
+      {
+        "letra": "E",
+        "texto": "Síndrome cerebral perdedora de sal; 144 mEq/L 4000144825"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 111926,
+    "tags": [],
+    "enunciado": "Hipernatremia por perda de água para dentro das células, ocorre em casos de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Anemia das células falciformes."
+      },
+      {
+        "letra": "B",
+        "texto": "Infecções respiratórias e Queimaduras."
+      },
+      {
+        "letra": "C",
+        "texto": "Exercício intenso, convulsões, rabdomiólise."
+      },
+      {
+        "letra": "D",
+        "texto": "Alimentação entérica hipertônica, enemas ou eméticos hipertônicos. 4000144596"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 111927,
+    "tags": [],
+    "enunciado": "O sódio é o principal íon extracelular, sendo que o seu metabolismo está correlacionado com o metabolismo de água no organismo. Acerca desse assunto, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Em casos de hiponatremia assintomática, o tratamento de escolha é a reposição de solução salina a 3%."
+      },
+      {
+        "letra": "B",
+        "texto": "Pacientes com hipernatremia e instabilidade hemodinâmica devem receber hidratação vigorosa com solução fisiológica a 0,45%."
+      },
+      {
+        "letra": "C",
+        "texto": "Uso prolongado de diurético."
+      },
+      {
+        "letra": "D",
+        "texto": "Correção rápida da hipernatremia pode causar mielinólise pontina."
+      },
+      {
+        "letra": "E",
+        "texto": "Hiponatremia hipotônica euvolêmica pode ser causada por hipotireoidismo descompensado."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 111928,
+    "tags": [],
+    "enunciado": "As tubulopatias hereditárias geralmente são doenças graves que podem levar à doença renal crônica terminal ou até mesmo à morte. Sobre elas, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A acidose tubular renal proximal (tipo II) é causada por um defeito na reabsorção deH+ no túbulo proximal, levando a um quadro de alcalose metabólica."
+      },
+      {
+        "letra": "B",
+        "texto": "A síndrome de Bartter acomete o túbulo distal, cursando com hipocalemiahiporreninêmica, alcalose metabólica e pressão arterial normal ou baixa."
+      },
+      {
+        "letra": "C",
+        "texto": "A síndrome de Gitelman acomete o túbulo distal, sendo caracterizada por alcalosemetabólica, hipocalemia, hipomagnesemia e hipocalciúria."
+      },
+      {
+        "letra": "D",
+        "texto": "A síndrome de Liddle caracteriza-se por hipertensão grave, acidose metabólica,hipocalemia e baixas concentrações plasmáticas de renina e aldosterona."
+      },
+      {
+        "letra": "E",
+        "texto": "Crianças com diabetes insipidus nefrogênico cursam com polidipsia, poliúria,desidratação, isostenúria, hipernatremia e déficit de crescimento."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 111929,
+    "tags": [],
+    "enunciado": "São alterações de sódio (Na) e potássio (K) séricos, em mEq/L, decorrentes de efeito adverso dos seguintes medicamentos:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "K:1,9 gentamicina; K:6,1 losartana; Na:115 clorpropamida; Na:160 desmopressina"
+      },
+      {
+        "letra": "B",
+        "texto": "K:1,9 valsartana; K:6,1 gentamicina; Na:115 lítio; Na:160 carbamazepina"
+      },
+      {
+        "letra": "C",
+        "texto": "K:1,9 enalapril; K:6,1 sulfametoxazol; Na:115 clortalidona; Na:160 fenitoína"
+      },
+      {
+        "letra": "D",
+        "texto": "K:1,9 anfotericina B; K:6,1 espironolactona; Na:115 carbamazepina; Na:160 lítio"
+      },
+      {
+        "letra": "E",
+        "texto": "K:1,9 fenoterol; K:6,1 furosemida; Na:115 fenitoína; Na:160 amilorida"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 111930,
+    "tags": [],
+    "enunciado": "Mulher, 69a, foi trazida em Unidade de Pronto Atendimento por prostração e confusão há 3 dias. O quadro é acompanhado por evacuações líquidas (14 episódios/dia). Antecedentes Pessoais: câncer de cólon ascendente com múltiplas metástases em fígado e pulmões em quimioterapia. Exame físico: FC= 108bpm, FR=24ipm, PA= 100X60 mmHg, Peso= 50 kg Exames laboratoriais: Ureia= 82 mg/dL; Creatinina= 2,8 mg/dL; Sódio= 164 mEq/L; Potássio= 4,1 mEq/L. PARA REDUZIR A CONCENTRAÇÃO SÉRICA DO SÓDIO EM 10 mEq/L A SOLUÇÃO E O VOLUME NECESSÁRIOS SÃO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Soro fisiológico, 3 litros em 24 horas."
+      },
+      {
+        "letra": "B",
+        "texto": "Ringer lactato, 6 litros em 24 horas."
+      },
+      {
+        "letra": "C",
+        "texto": "Soro glicosado 5%, 6 litros em 24 horas."
+      },
+      {
+        "letra": "D",
+        "texto": "Soro fisiológico e água destilada em partes iguais, 5 litros em 24 horas."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 111931,
+    "tags": [],
+    "enunciado": "A correção da hipernatremia deve ser lenta e gradual, visando evitar a ocorrência de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "edema cerebral."
+      },
+      {
+        "letra": "B",
+        "texto": "arritmia cardíaca."
+      },
+      {
+        "letra": "C",
+        "texto": "acidose metabólica."
+      },
+      {
+        "letra": "D",
+        "texto": "sangramento em sistema nervoso central."
+      },
+      {
+        "letra": "E",
+        "texto": "hipoglicemia."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 111932,
+    "tags": [],
+    "enunciado": "Um paciente de 16 anos de idade, do sexo masculino, sabidamente portador de tumor em sistema nervoso central, procura atendimento médico com queixa de poliúria e enurese noturna. No momento não está fazendo uso de medicações e aguarda realização de neurocirurgia para retirada do tumor. Ao exame físico: estado geral regular, sonolento, mucosas secas e hipocoradas. Eupneico, sons pulmonares normais. Ritmo cardíaco regular. Frequência cardíaca=110bpm, pressão arterial=90x50mmHg, pulsos (cid:81)nos, perfusão capilar lenti(cid:81)cada. Sem alterações a palpação abdominal. Realizados exames laboratoriais: glicemia sérica=88mg/dL; sódio=161mEq/L; potássio=3,5mEq/L; cloro=100mEq/L; cálcio iônico=1,2mmol/L; creatinina=0,7mg/dL; ureia=20mg/dL. Densidade urinária 1005. Em relação ao quadro clínico descrito acima, a hipernatremia pode ser atribuída a:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Perda de água livre secundária a secreção inapropriada do hormônio antidiurético."
+      },
+      {
+        "letra": "B",
+        "texto": "Perda de água livre secundária a síndrome perdedora de sal cerebral."
+      },
+      {
+        "letra": "C",
+        "texto": "Perda de água livre secundária a diabete insípido central."
+      },
+      {
+        "letra": "D",
+        "texto": "Perda de água livre secundária a diurese osmótica."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 111933,
+    "tags": [],
+    "enunciado": "Mulher de 92 anos, há meses numa casa de repouso, é levada para avaliação. Chama atenção uma dosagem de sódio sérico de 172 mEq/L. A partir desse dado laboratorial, das abaixo, a informação mais provável é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "glicemia capilar superior a 350 mg/dL."
+      },
+      {
+        "letra": "B",
+        "texto": "história de disfagia e baixa ingesta de líquidos."
+      },
+      {
+        "letra": "C",
+        "texto": "presença de anasarca e oligúria."
+      },
+      {
+        "letra": "D",
+        "texto": "presença de síndrome de secreção inapropriada do hormônio antidiurético."
+      },
+      {
+        "letra": "E",
+        "texto": "presença de distúrbio neurológico causador de diabetes insipidus central."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 111934,
+    "tags": [],
+    "enunciado": "Qual paciente apresenta maior risco de hipernatremia?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Homem, 45 anos, com neoplasia de pulmão."
+      },
+      {
+        "letra": "B",
+        "texto": "Mulher, 23 anos, com esquizofrenia em uso de anti-psicóticos."
+      },
+      {
+        "letra": "C",
+        "texto": "Mulher, 94 anos, vítima de maus tratos."
+      },
+      {
+        "letra": "D",
+        "texto": "Homem, 65 anos, com insuficiência cardíaca descompensada."
+      },
+      {
+        "letra": "E",
+        "texto": "Homem, 65 anos, com cirrose hepática, em anasarca."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 111935,
+    "tags": [],
+    "enunciado": "Quanto a etiologia e mecanismos (cid:81)siopatológicos da Hipernatremia em pacientes pediátricos em ambiente de terapia intensiva, assinale a correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Síndrome Inapropriada do Hormônio Anti-diurético (SIHAD), alteração nometabolismo da vasopressina."
+      },
+      {
+        "letra": "B",
+        "texto": "Gastroenterite aguda, perda extra renal de sódio."
+      },
+      {
+        "letra": "C",
+        "texto": "Correção de acidose por bicarbonato de sódio, ganho de soluto."
+      },
+      {
+        "letra": "D",
+        "texto": "Diabete insipidus central, alteração do mecanismo de concentração urinária de sódiopor alteração de receptores tubulares."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 111936,
+    "tags": [],
+    "enunciado": "Paciente 70 anos, 70 Kg, sequela de AVC isquêmico há aproximadamente 03 meses, trazida por familiares à unidade de emergência, encontra-se comatosa, bastante deisdratada (++++/4+), ECG (AO=2, RM= 4, RV= 3). Exames laboratoriais evidenciaram ITU com hipernatremia (Na= 165 mEq/L). Sobre a hipernatremia e seu tratamento assinale a afirmativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A reposição rápida de agua livre deve ser lenta não devendo ultrapassar uma queda superior de 10 mEq/dia de Na(+ elevado a potência) para evitar mielinólise pontina."
+      },
+      {
+        "letra": "B",
+        "texto": "O déficit de água livre corporal deve ser calculado através da formula Deficit de H2O= Agua corporal (%) x (1- 140/Na(+ elevado a potência)."
+      },
+      {
+        "letra": "C",
+        "texto": "Soluções hipotônicas são as melhores formas de correção, podendo ser usado Solução de glicose a 5% ou Solução fisiológica a 0,45%."
+      },
+      {
+        "letra": "D",
+        "texto": "As alterações do SNC são causadas pela desidratação celular, com contração das células cerebrais, o que pode levar à laceração, hemorragia subaracnóide e subcortical, e trombose dos seios venosos."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 111937,
+    "tags": [],
+    "enunciado": "O tratamento de escolha para diabetes insipidus central é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Desmopressina."
+      },
+      {
+        "letra": "B",
+        "texto": "Restrição de água."
+      },
+      {
+        "letra": "C",
+        "texto": "Insulina."
+      },
+      {
+        "letra": "D",
+        "texto": "Dieta hipersódica."
+      },
+      {
+        "letra": "E",
+        "texto": "Vasopressina."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 111938,
+    "tags": [],
+    "enunciado": "Homem de 37 anos, sofre queda da laje, admitido no PA com quadro de Traumatismo Crânio-Encefálico (TCE). Encaminhado ao CTI, evolui com poliúria (6,5L/24h); exames laboratoriais: creatinina = 0,9 mg/dl; glicemia = 79 mg/dl; sódio = 159 mEq/L. Diante do exposto o diagnóstico mais provável é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Secreção inapropriada de ADH."
+      },
+      {
+        "letra": "B",
+        "texto": "Diabetes insipidus."
+      },
+      {
+        "letra": "C",
+        "texto": "Diurese osmótica."
+      },
+      {
+        "letra": "D",
+        "texto": "Síndrome perdedora de sal."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 111939,
+    "tags": [],
+    "enunciado": "Juliana, 9 anos, 20 Kg, retirou tumor de Sistema Nervoso Central e há um dia apresenta diurese abundante, transparente, com densidade urinária de 1003. Está sonolenta, muito desidratada, com cefaléia, vômitos e apresentou um episódio de crise convulsiva. Nunca havia convulsionado antes. Ao ser dosado o sódio sérico, ele era de 185 mEq/l. O diagnóstico da patologia surgida com a ressecção do tumor e o tratamento são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Diabetes Insipidus, deve-se oferecer hormônio antidiurético e água livre para a paciente."
+      },
+      {
+        "letra": "B",
+        "texto": "Síndrome da Secreção Inapropriada de ADH, deixar o paciente euvolêmica."
+      },
+      {
+        "letra": "C",
+        "texto": "Diabetes Insípidus, deve-se oferecer NaCl3% e hormônio antidiurético para a paciente."
+      },
+      {
+        "letra": "D",
+        "texto": "Excreção aumentada de sódio urinário, manter a paciente euvolêmica com expansões."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 111940,
+    "tags": [],
+    "enunciado": "Mulher, 60 anos, portadora de doença psiquiátrica e hipotireoidismo, foi encaminhada por rebaixamento do nível de consciência. Há 1 semana apresenta diarreia aquosa, sem sangue ou muco e sem febre. Há 3 dias apresenta sonolência e aumento do volume de diurese. Faz uso crônico de lítio, carbamazepina, haloperidol e levotiroxina. Exame físico: desidratada +++, confusa, Escala de coma de Glasgow = 12, sem rigidez muscular, fasciculações discretas em membros, re(cid:91)exos tendíneos normais, pupilas isofotorreagentes e sem sinais meníngeos. Exames laboratoriais: glicemia 98 mg/dL; Na: 160 mEq/L; K: 4,0 mEq/L; pH; 7, 35; HCO3: 25 mEq/L; Creatinina: 1,5 mg/dL; ureia 80 mg/dL. ECG sem alterações. Qual é a conduta mais adequada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Amilorida."
+      },
+      {
+        "letra": "B",
+        "texto": "Bromocriptina."
+      },
+      {
+        "letra": "C",
+        "texto": "Carvão ativado."
+      },
+      {
+        "letra": "D",
+        "texto": "Fisostigmina."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 111941,
+    "tags": [],
+    "enunciado": "Um paciente com diurese de 5000 ml/24h e Na plasmático 142, k 3,5 pode ter o seguinte diagnóstico:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Diabetes insipidus."
+      },
+      {
+        "letra": "B",
+        "texto": "Secreção inapropriada de ADH."
+      },
+      {
+        "letra": "C",
+        "texto": "Insuficiência de suprarrenal."
+      },
+      {
+        "letra": "D",
+        "texto": "Hiper-hidratação."
+      },
+      {
+        "letra": "E",
+        "texto": "Síndrome nefrótica."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 111942,
+    "tags": [],
+    "enunciado": "CGT, 68 anos, gênero feminino, feirante, foi submetida à gastrectomia e evoluiu com fístula duodenal de alto débito. O exame clínico mostrou paciente desidratada (3+/4+); hipocorada (+/4+); acianótica e afebril, com fraqueza muscular importante e confusão mental. A dosagem de sódio sérico foi de 154 mEq/L. Sobre essa paciente, assinale a alternativa ERRADA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A correção dos níveis de sódio deve ser rápida e vigorosa para evitar refratariedade."
+      },
+      {
+        "letra": "B",
+        "texto": "Ela tem risco elevado de apresentar acidente vascular cerebral."
+      },
+      {
+        "letra": "C",
+        "texto": "Há risco de evoluir com convulsão e coma."
+      },
+      {
+        "letra": "D",
+        "texto": "O tratamento consiste basicamente em expansão da volemia."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 111943,
+    "tags": [],
+    "enunciado": "Mulher de 27 anos sofreu acidente automobilístico com colisão frontal, sofrendo traumatismo crânio- encefálico. À admissão no Pronto Atendimento, queixava-se apenas de tonteira. Ao exame, os dados vitais estavam dentro da normalidade assim como o exame físico incluindo-se o exame neurológico. A paciente foi internada, sendo-lhe prescrito soro (cid:81)siológico 0,9% a 60mL/hora para manutenção de acesso venoso. Algumas horas depois, a paciente desenvolveu sede intensa, polidipsia e poliúria. Ao exame a PA era 110/70mmHg em posição supina e 80/65mmHg em ortostatismo. Quanto aos exames complementares, observou-se elevação do sódio sérico, que estava normal à admissão, para 159mEq/L; a glicemia manteve-se dentro da normalidade. Qual é o diagnóstico MAIS PROVÁVEL?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Diabetes insipidus central"
+      },
+      {
+        "letra": "B",
+        "texto": "Diabetes insipidus nefrogênico"
+      },
+      {
+        "letra": "C",
+        "texto": "Infusão excessiva de salina"
+      },
+      {
+        "letra": "D",
+        "texto": "Síndrome de secreção inapropriada de hormônio anti-diurético"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 111944,
+    "tags": [],
+    "enunciado": "Marque a afirmativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Na acromegalia existe deficiência do hormônio GH."
+      },
+      {
+        "letra": "B",
+        "texto": "No Diabetes Insipido existe secreção aumentada do hormônio antidiurético (ADH)."
+      },
+      {
+        "letra": "C",
+        "texto": "Puberdade precoce é definida como surgimento dos caracteres sexuais secundários em idade inferior a 12 anos."
+      },
+      {
+        "letra": "D",
+        "texto": "No hipopituitarismo com deficiência de gonadotrofinas pode levar a oligomenorreia e infertilidade."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 111945,
+    "tags": [],
+    "enunciado": "Paciente, 36 anos, internado na Unidade de Terapia Intensiva após traumatismo craniano (queda de laje), evoluiu com poliúria (7 litros/24 horas) de causa indeterminada. Apresentava função renal preservada, glicemia de 76 mg/dl, sódio sérico de 156 mEq/L (normal – 136 a 145), e osmolalidade urinária de 180 mOsm/kg/H2O (normal - 250 a 900). O diagnóstico para este paciente é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Diurese osmótica."
+      },
+      {
+        "letra": "B",
+        "texto": "Síndrome perdedora de sal central."
+      },
+      {
+        "letra": "C",
+        "texto": "Diabetes insipidus."
+      },
+      {
+        "letra": "D",
+        "texto": "Síndrome da secreção inapropriada de ADH."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 111946,
+    "tags": [],
+    "enunciado": "Uma criança de 1 ano é atendida na unidade de emergência por recusa alimentar, febre, vômitos e diarreia há 3 dias. O paciente não urina há 24 horas. Ao exame físico, está normotenso, mas com irritabilidade, hiper- re(cid:91)exia, palidez, má perfusão periférica, pulsos (cid:81)nos, taquicardia e taquipneia. Os exames complementares con(cid:81)rmam acidose metabólica, leucocitose com desvio à esquerda, anemia, potássio de 5,8 mEq/L e sódio de 160 mEq/L. O tratamento intensivo dessa situação clínica deve considerar que a correção rápida da desidratação pode ter como complicação:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Desidratação intracelular."
+      },
+      {
+        "letra": "B",
+        "texto": "Diabetes insipidus."
+      },
+      {
+        "letra": "C",
+        "texto": "Hipercalemia."
+      },
+      {
+        "letra": "D",
+        "texto": "Secreção inapropriada de hormônio antidiurético."
+      },
+      {
+        "letra": "E",
+        "texto": "Edema cerebral."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 111947,
+    "tags": [],
+    "enunciado": "Assinale a alternativa que apresenta uma característica de desidratação hipernatrêmica na infância:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Choque hipovolêmico."
+      },
+      {
+        "letra": "B",
+        "texto": "Hiperpotassemia."
+      },
+      {
+        "letra": "C",
+        "texto": "Acidose metabólica."
+      },
+      {
+        "letra": "D",
+        "texto": "Depleção da água intracelular."
+      },
+      {
+        "letra": "E",
+        "texto": "Insuficiência renal."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 111948,
+    "tags": [],
+    "enunciado": "Criança de 6 meses de idade, que apresenta desidratação grave por diarreia aguda, com sinais muito acentuados de desidratação e que continua com diurese. Neste caso, o distúrbio metabólico mais comum é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hiponatremia."
+      },
+      {
+        "letra": "B",
+        "texto": "Hipernatremia."
+      },
+      {
+        "letra": "C",
+        "texto": "Hipopotassemia."
+      },
+      {
+        "letra": "D",
+        "texto": "Hipoglicemia. 4000105367"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 111949,
+    "tags": [],
+    "enunciado": "Homem de 70 anos, acamado há três anos após Acidente Vascular Isquêmico, dependendo de terceiros para alimentar-se e realizar a própria higiene, é trazido para o setor de emergência do Hospital Universitário Alcides Carneiro com quadro há dois dias de mudança do estado mental, caracterizado por surtos de agressividade, agitação psicomotora e discurso desconexo, com alheamento ao ambiente e ao examinador. Exames realizados no setor de emergência evidenciaram sódio sérico de 160 mEq/L. Conforme a fórmula de Adrogué, considerando o índice de água corporal de 0,50 e peso corporal de 78 kg a quantidade de SG 5% que deverá ser infundida em 24 horas, com o objetivo de diminuir o sódio sérico em 10 mEq/L, é de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "2.500 ml."
+      },
+      {
+        "letra": "B",
+        "texto": "2.400 ml."
+      },
+      {
+        "letra": "C",
+        "texto": "2.300 ml."
+      },
+      {
+        "letra": "D",
+        "texto": "2.200 ml."
+      },
+      {
+        "letra": "E",
+        "texto": "2.100 ml."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 111950,
+    "tags": [],
+    "enunciado": "Paciente masculino, adulto jovem, peso corporal de 70 Kg recebeu alta 24 horas, após ter sido submetido à colecistectomia videolaparoscópica. Retorna ao hospital no terceiro dia de pós-operatório com história de vômito e diarreia. Neste momento, os exames realizados mostraram que a concentração do sódio sérico era de 158 mEq/L. A conduta a ser adotada especificamente para correção deste distúrbio é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "reposição hídrica de 2,7 L de água nas primeiras 24 horas e o restante nas próximas 48 horas."
+      },
+      {
+        "letra": "B",
+        "texto": "reposição hídrica, conforme resposta clínica sem restrição de sódio sérico."
+      },
+      {
+        "letra": "C",
+        "texto": "reposição hídrica de 2,7 L/dia de água nas primeiras 72 horas."
+      },
+      {
+        "letra": "D",
+        "texto": "restrição da oferta de sódio (oferta <0,5 mEq/h/hora)."
+      },
+      {
+        "letra": "E",
+        "texto": "reposição hídrica de 2,7 L nas primeiras 12 horas."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 111951,
+    "tags": [],
+    "enunciado": "Criança de cinco anos de idade está em pós-operatório de exérese de tumor de sistema nervoso central e apresenta poliúria acentuada. Os primeiros resultados de exames revelam sódio sérico de 165 mEq/L e urina tipo I com densidade urinária de 1.005. A medida imediata mais adequada nesse caso é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hidratar e iniciar desmopressina."
+      },
+      {
+        "letra": "B",
+        "texto": "Expandir com soro a 0,45% e coloide."
+      },
+      {
+        "letra": "C",
+        "texto": "Expandir em uma hora com soro glicosado ou água destilada."
+      },
+      {
+        "letra": "D",
+        "texto": "Iniciar restrição hídrica."
+      },
+      {
+        "letra": "E",
+        "texto": "Iniciar dexametasona."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 111952,
+    "tags": [],
+    "enunciado": "Estão corretas as duas associações entre o distúrbio hidroeletrolítico ou do equilíbrio acidobásico e a sua causa clínica mais comum: Considere: SSIHAD = Síndrome da secreção inapropriada de hormônio antidiurético.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hiponatremia e diabetes insipidus; hiperpotassemia e grandes queimaduras"
+      },
+      {
+        "letra": "B",
+        "texto": "Hipocalcemia (cálcio ionizado) e rabdomiólise; hipernatremia e diabetes insipidus"
+      },
+      {
+        "letra": "C",
+        "texto": "Hiponatremia e SSIHAD; hipocalcemia (cálcio ionizado) e hemotransfusão maciça"
+      },
+      {
+        "letra": "D",
+        "texto": "Hipernatremia e diabetes insipidus; acidose metabólica e SSIHAD"
+      },
+      {
+        "letra": "E",
+        "texto": "Hiperpotassemia e grandes queimaduras; hiponatremia e rabdomiólise"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 111953,
+    "tags": [],
+    "enunciado": "Suspeita-se de hipernatremia quando se observam:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "hipoventilação e inversão da onda T no eletrocardiograma"
+      },
+      {
+        "letra": "B",
+        "texto": "fraqueza e alterações neurológicas focais"
+      },
+      {
+        "letra": "C",
+        "texto": "parestesia de extremidades e sinal de Trousseau"
+      },
+      {
+        "letra": "D",
+        "texto": "tremores, dores ósseas e miofasciculação"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 111954,
+    "tags": [],
+    "enunciado": "Criança, 5 anos de idade, com traumatismo cranioencefálico há 2 horas, chega à emergência desidratada, um pouco confusa, normotensa e com eletrólitos séricos normais. Foi hidratada por via parenteral, mantendo-se bem, porém, ainda confusa. Doze horas após iniciou quadro súbito de poliúria. Colhidos novos exames que evidenciaram: Sódio = 158 mEq/L; glicemia = 185 mg%; ureia = 60 mg%; densidade urinária = 1005. O diagnóstico é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "secreção inapropriada do hormônio antidiurético."
+      },
+      {
+        "letra": "B",
+        "texto": "diabetes insipidus nefrogênico."
+      },
+      {
+        "letra": "C",
+        "texto": "diabetes insipidus hipofisário."
+      },
+      {
+        "letra": "D",
+        "texto": "fase poliúrica da insuficiência renal.  Respostas: 1 C 2 A 3 4 A 5 A 6 B 7 8 B 9 A 10 B 11 A 12 A 13 A 14 C 15 C 16 A 17 B 18 C 19 B 20 A 21 B 22 C 23 E 24 C 25 D 26 D 27 A 28 C 29 B 30 C 31 C 32 A 33 A 34 B 35 A 36 A 37 D 38 A 39 A 40 D 41 C 42 E 43 D 44 A 45 A 46 A 47 A 48 E 49 B 50 C"
+      }
+    ],
+    "resposta_correta": "C"
+  }
+]

@@ -1,0 +1,2238 @@
+[
+  {
+    "id": 64556,
+    "tags": [],
+    "enunciado": "Tratamento Você está de plantão na enfermaria de pediatria e há disponibilidade de 3 leitos para internação. Há um quarto compartilhado de enfermaria que comporta dois leitos com distância de 2 metros entre eles e um quarto de isolamento respiratório com um leito. No pronto-socorro infantil, três crianças com bronquiolite aguardam internação: Enzo com vírus sincicial respiratório; Miguel com parain(cid:49)uenza 3 e Caio com In(cid:49)uenza",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Além de precaução padrão, assinale a alternativa que apresenta a melhor opção de alocação dessas crianças."
+      },
+      {
+        "letra": "A",
+        "texto": "Quarto de isolamento com precaução de gotícula para Miguel e quarto compartilhado com precauções de contato para Enzo e Caio."
+      },
+      {
+        "letra": "B",
+        "texto": "Quarto de isolamento com precaução de gotícula para Enzo e quarto compartilhado com precauções de contato para Miguel e Caio."
+      },
+      {
+        "letra": "C",
+        "texto": "Quarto de isolamento com precaução de gotícula para Caio e quarto compartilhado com precauções de contato para Enzo e Miguel."
+      },
+      {
+        "letra": "D",
+        "texto": "Não é possível colocar dois destes pacientes em um mesmo quarto, deve-se optar por internar apenas os dois de maior gravidade em quartos diferentes."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 64557,
+    "tags": [],
+    "enunciado": "A in(cid:49)uenza sazonal é uma infecção viral aguda do sistema respiratório, de elevada transmissibilidade e distribuição global. Um indivíduo pode contraí-la várias vezes ao longo da vida. Em geral, tem evolução autolimitada, podendo, contudo, apresentar-se de forma grave. Em relação a esse agravo, marque a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O vírus tipo B é mais suscetível às variações antigênicas, e periodicamente sofre alterações em sua estrutura genômica, o que contribui para a existência de diversos subtipos."
+      },
+      {
+        "letra": "B",
+        "texto": "Indivíduos adultos saudáveis infectados transmitem o vírus entre 12 e 24 horas após o início de sintomas, porém em quantidades mais baixas do que após as 24h."
+      },
+      {
+        "letra": "C",
+        "texto": "O tratamento com o antiviral de maneira precoce é recomendado pelo Ministério da Saúde para todos os casos e faixas etárias, buscando reduzir a duração dos sintomas, principalmente em pacientes com imunossupressão."
+      },
+      {
+        "letra": "D",
+        "texto": "O homem, suínos, equinos, focas e aves são os principais reservatórios. As aves migratórias, principalmente as aquáticas e as silvestres, desempenham importante papel na disseminação natural da doença entre distintos pontos do globo terrestre."
+      },
+      {
+        "letra": "E",
+        "texto": "Para pacientes que vomitam o antiviral oral até uma hora após a ingestão do medicamento, não deve ser administrada uma dose adicional devido a rápida absorção do medicamento. 4000229994"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 64558,
+    "tags": [],
+    "enunciado": "Letícia está na 10a semana de gestação. Diante do aumento de casos de gripe entre familiares e conhecidos, ela foi à unidade básica de saúde para saber se precisava tomar a vacina contra in(cid:49)uenza. Na análise em seu prontuário, verificou-se que sua última vacina havia sido no ano anterior. Em relação a esse caso, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não se recomenda a vacina nesse estágio da gestação;"
+      },
+      {
+        "letra": "B",
+        "texto": "não é necessário o reforço da vacina, pois ela confere imunidade por 10 anos;"
+      },
+      {
+        "letra": "C",
+        "texto": "deve-se evitar a vacina na gestação;"
+      },
+      {
+        "letra": "D",
+        "texto": "a paciente deve ser revacinada;"
+      },
+      {
+        "letra": "E",
+        "texto": "a vacina deve ser tomada, por segurança, após 12 semanas de gestação."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 64559,
+    "tags": [],
+    "enunciado": "Mulher de 67 anos comparece ao consultório para sua primeira vacina contra in(cid:49)uenza. Ela tem história de hipertensão não tratada. PA= 160/100mmHg e FC = 100bpm. Logo após a administração da vacina, ela desenvolve dispnéia, calafrios e angioedema. Qual dos seguintes mais provavelmente poderia prevenir este evento?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Perguntar sobre alergia a ovo"
+      },
+      {
+        "letra": "B",
+        "texto": "Teste de aglutinação heterófilo"
+      },
+      {
+        "letra": "C",
+        "texto": "Teste cutâneo com reagente histaminico"
+      },
+      {
+        "letra": "D",
+        "texto": "Terapia com beta agonista"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 64560,
+    "tags": [],
+    "enunciado": "Assinale a alternativa correta sobre as pandemias da gripe espanhola, da Síndrome da Imunode(cid:73)ciência Adquirida (AIDS) e da Covid-19.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "No início, a AIDS era conhecida como a doença dos homossexuais, dos usuários de drogas injetáveis e dos hemofílicos."
+      },
+      {
+        "letra": "B",
+        "texto": "A gripe espanhola começou na Espanha."
+      },
+      {
+        "letra": "C",
+        "texto": "A AIDS é transmitida da mesma forma que a Covid-19."
+      },
+      {
+        "letra": "D",
+        "texto": "Os tempos de disseminação das referidas pandemias foram semelhantes."
+      },
+      {
+        "letra": "E",
+        "texto": "As desigualdades sociais pouco influenciaram no comportamento e evolução da AIDS nas populações."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 64561,
+    "tags": [],
+    "enunciado": "Considerando as alternativas abaixo, assinale aquela que corresponde a um modo de transmissão do vírus influenza:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Através do sangue."
+      },
+      {
+        "letra": "B",
+        "texto": "Contato com as fezes."
+      },
+      {
+        "letra": "C",
+        "texto": "Contato direto."
+      },
+      {
+        "letra": "D",
+        "texto": "Secreção conjuntival."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 64562,
+    "tags": [],
+    "enunciado": "Sobre a influenza sazonal, analise as afirmativas abaixo e assinale a alternativa correta. I. Otite é uma complicação incomum, mesmo em crianças com menos de 2 anos de idade. II. Geralmente, tem resolução espontânea em aproximadamente 7 dias, embora a tosse, o mal-estar e a fadiga possam permanecer por algumas semanas. III. Imunidade aos vírus in(cid:10)uenza é adquirida a partir da infecção natural ou pela vacinação, sendo que esta garante imunidade apenas em relação aos vírus homólogos da sua composição. Estão corretas as afirmativas.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II e III"
+      },
+      {
+        "letra": "B",
+        "texto": "I e II, apenas"
+      },
+      {
+        "letra": "C",
+        "texto": "II, apenas"
+      },
+      {
+        "letra": "D",
+        "texto": "III, apenas"
+      },
+      {
+        "letra": "E",
+        "texto": "II e III, apenas"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 64563,
+    "tags": [],
+    "enunciado": "Imagine que você está trabalhando em um Pronto Atendimento de saúde pública em meio a uma epidemia de in(cid:49)uenza pelo H1N1. O coordenador do serviço emite uma nota sobre o uso da medicação antiviral oseltamivir em pacientes com suspeita de in(cid:49)uenza, usando como referência o \"PROTOCOLO DE TRATAMENTO DE INFLUENZA DO MINISTÉRIO DA SAÚDE\", e recomenda que a prescrição deste medicamento aos pacientes da unidade seja feita de acordo com estas indicações. Frente a essas orientações, determine a conduta quanto à indicação ou não do referido medicamento diante de um caso de síndrome gripal em uma gestante de 14 semanas, com sintomas gripais há 3 dias e sem sinais de gravidade.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Indicado apenas e tão somente se puder ser iniciado antes das 48 horas do início dos sintomas."
+      },
+      {
+        "letra": "B",
+        "texto": "Indicado, ainda que com mais de 48 horas do início dos sintomas."
+      },
+      {
+        "letra": "C",
+        "texto": "Contraindicado, independentemente do tempo de início dos sintomas, pois gestante não se encaixa em categorias de risco para a forma grave de influenza."
+      },
+      {
+        "letra": "D",
+        "texto": "Contraindicado, pois o medicamento tem risco de uso em gestantes. 4000217259"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 64564,
+    "tags": [],
+    "enunciado": "Paciente de 10 anos, feminino, previamente hígida, apresenta tosse e coriza há 7 dias e febre há 5 dias, prostração e dor abdominal há 2 dias. Nega trauma ou qualquer lesão ou infecção prévia ao quadro atual. Ao exame físico está em regular estado geral, pálida, com FC: 120 bpm, FR: 31 ipm, discreta tiragem de fúrcula sem outros sinais de desconforto respiratório. Ausculta cardíaca sem alterações, ausculta pulmonar com crepitações, diminuição de murmúrio vesicular e da ausculta da voz em base esquerda. Abdome (cid:49)ácido, levemente doloroso à palpação profunda. Oximetria de 95% em ar ambiente. Solicitado teste rápido para in(cid:49)uenza A positivo. Hemograma e proteína C reativa (abaixo) e hemocultura (em andamento) e Raio X de tórax em pé e decúbito lateral esquerdo (abaixo). Considerando o quadro descrito e questões epidemiológicas, assinale a alternativa que descreve o diagnóstico e agente(s) etiológico(s) mais provável.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pneumonia com derrame parapneumônico, infecção por influenza A e pneumonia bacteriana associada por Streptococcus pneumoniae."
+      },
+      {
+        "letra": "B",
+        "texto": "Pneumonia com derrame parapneumônico, infecção por influenza A e pneumonia bacteriana associada por Staphylococcus aureus."
+      },
+      {
+        "letra": "C",
+        "texto": "Síndrome respiratória aguda grave por influenza A com derrame parapneumônico extenso a esquerda."
+      },
+      {
+        "letra": "D",
+        "texto": "Pneumonia com abcesso pulmonar, infecção por influenza A, pneumonia bacteriana associada por Staphylococcus aureus. 4000190565"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 64565,
+    "tags": [],
+    "enunciado": "Menino pré-escolar, 3 anos, com diagnóstico recente de síndrome nefrótica (em desmame de prednisona) apresenta há 2 dias febre de 38,9ºC, cefaleia, dor de garganta, coriza, tosse e mialgia. Ao exame físico apresenta-se com estado geral entre regular e bom, corado, mucosas úmidas, sem uso de musculatura acessória. Edema palpebral bilateral discreto; sem sinais clínicos de ascite ou edema em MMII ou edema genital. Ausculta pulmonar com murmúrio vesicular bilateralmente com roncos difusos. Temperatura 37,7ºC, frequência respiratória 30 ipm, frequência cardíaca 110 bpm SatO₂ 95% em ar ambiente. Em relação ao caso acima é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A melhor hipótese diagnóstica é uma pneumonia de comunidade e deve-se internar o paciente com ceftriaxone e claritromicina, independente da radiografia do tórax."
+      },
+      {
+        "letra": "B",
+        "texto": "A melhor hipótese diagnóstica é uma síndrome nefrótica descompensada e deve-se prescrever imediatamente albumina humana com furosemida endovenosos."
+      },
+      {
+        "letra": "C",
+        "texto": "A melhor hipótese diagnóstica é síndrome gripal e deve-se solicitar teste rápido de Influenza e COVID-19 e introduzir empiricamente o oseltamivir por ser paciente de grupo de risco."
+      },
+      {
+        "letra": "D",
+        "texto": "A melhor hipótese diagnóstica é síndrome gripal e deve-se solicitar teste rápido para Influenza e COVID-19, aguardando-se o resultado dos exames para decisão terapêutica. 4000187643"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 64566,
+    "tags": [],
+    "enunciado": "Menina de 1 ano de idade, sem doenças de base, com vacinação em dia de acordo com o programa nacional de imunizações, é levada ao pronto-socorro com história de 12 horas de febre de 39,5 ºC de início súbito, acompanhada de queda do estado geral, tosse, rinorreia, rouquidão e choro ao deglutir. Teve contato com adulto com gripe. Ao exame físico, está em regular estado geral, febril, com hiperemia de orofaringe, com ausculta pulmonar com roncos de transmissão, saturando 95% em ar ambiente. Radiogra(cid:73)a de tórax sem alterações. Teste rápido para COVID-19 negativo. A conduta indicada é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "orientar sintomáticos e retorno se necessário."
+      },
+      {
+        "letra": "B",
+        "texto": "prescrever antitérmico e amoxicilina."
+      },
+      {
+        "letra": "C",
+        "texto": "prescrever antitérmico e osetalmivir."
+      },
+      {
+        "letra": "D",
+        "texto": "colher hemograma, hemocultura e proteína C reativa para definir a conduta."
+      },
+      {
+        "letra": "E",
+        "texto": "prescrever hidratação parenteral, antitérmico, oxigenioterapia e deixar em observação hospitalar. 4000185407"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 64567,
+    "tags": [],
+    "enunciado": "Escolar de 8 anos, com paralisia cerebral por hipóxia neonatal, traqueostomizado, foi trazido à consulta por episódio único de febre de 38° C, aumento da frequência de aspiração da traqueostomia e mudança no padrão da secreção aspirada (mais viscosa e mais amarelada). Foram solicitadas radiogra(cid:73)a de tórax (sem alterações no parênquima pulmonar) e cultura de escarro e iniciado o uso de amoxicilina-clavulanato. Na reavaliação em 72 horas, a mãe informou que os sintomas melhoraram signi(cid:73)cativamente em 24 horas e que sua (cid:73)lha de 3 anos precisou ser afastada temporariamente da escola devido à infecção de vias aéreas superiores por influenza A. O resultado da cultura revelou Pseudomonas aeruginosa sensível a cipro(cid:49)oxacino e meropenem. Que conduta, dentre as abaixo, deve ser adotada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Encaminhar o paciente para internação a fim de receber antibioticoterapia por via intravenosa."
+      },
+      {
+        "letra": "B",
+        "texto": "Manter amoxicilina-clavulanato até que se completem 10 dias de tratamento."
+      },
+      {
+        "letra": "C",
+        "texto": "Suspender amoxicilina-clavulanato e reavaliar o paciente se constatados sinais de gravidade."
+      },
+      {
+        "letra": "D",
+        "texto": "Substituir o antibiótico por ciprofloxacino e reavaliar o paciente se constatados sinais de gravidade."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 64568,
+    "tags": [],
+    "enunciado": "Gestante, 30 anos de idade, com idade gestacional de 14 semanas, primigesta, sem comorbidades, iniciou, há 40 horas, tosse esporádica, dor de garganta, coriza e ageusia. Nega febre ou dispneia. Com base nesse quadro clínico, indique a prescrição farmacológica adequada para essa paciente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Oseltamivir 75mg, 12/12h por 5 dias."
+      },
+      {
+        "letra": "B",
+        "texto": "Ibuprofeno, 400mg de 12/12h por 5 dias."
+      },
+      {
+        "letra": "C",
+        "texto": "Ivermectina, 6mg ao dia em dose única."
+      },
+      {
+        "letra": "D",
+        "texto": "Hidroxicloroquina, 200mg, via oral, 1x ao dia."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 64569,
+    "tags": [],
+    "enunciado": "Mulher de 40 anos, G2P1C1A0, 36 semanas de gestação, índice de massa corpórea de 39 kg/m², pré-natal sem intercorrências. Há dois dias iniciou com mialgia, coriza, odinofagia e tosse produtiva, e hoje teve febre de 39ºC e dispneia aguda. Ao exame está com pressão arterial de 140 x 90 mmHg, pulso de 110 bpm, frequência respiratória de 35 irpm, saturação O2 em ar ambiente de 90%, ausculta pulmonar: diminuição do murmúrio vesicular em bases pulmonares. Exame obstétrico: altura uterina de 30 cm, dinâmica uterina ausente, frequência cardíaca fetal de 146 bpm. Após a internação, coleta de exames e cateter nasal com O2, esta gestante deve ser tratada com:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Corticoide via oral, heparina terapêutica e antibiótico via oral."
+      },
+      {
+        "letra": "B",
+        "texto": "Anticoagulante via oral, heparina profilática e corticoide endovenoso."
+      },
+      {
+        "letra": "C",
+        "texto": "Oseltamivir, heparina profilática e antibiótico endovenoso."
+      },
+      {
+        "letra": "D",
+        "texto": "Antibiótico via oral, heparina terapêutica e oseltamivir."
+      },
+      {
+        "letra": "E",
+        "texto": "Anticoagulante endovenoso, corticoide intramuscular, O² sob máscara 4000192762"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 64570,
+    "tags": [],
+    "enunciado": "Em dezembro de 2021 ocorreu um surto de In(cid:49)uenza A na cidade do Rio de Janeiro, deixando em alerta autoridades sanitárias próximo às festas de (cid:73)m do ano. Qual das alternativas abaixo é correta sobre o vírus Influenza?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O período de incubação é de 01 a 04 dias e indivíduos adultos saudáveis infectados podem transmitir o vírus entre 24 e 48 horas do início dos sintomas;"
+      },
+      {
+        "letra": "B",
+        "texto": "O zanamivir é o antiviral de escolha para crianças menores de 05 anos e para paciente com doença respiratória crônica;"
+      },
+      {
+        "letra": "C",
+        "texto": "A quimioprofilaxia é recomendada mesmo se o período após a última exposição com infecção pelo vírus for maior que 48h;"
+      },
+      {
+        "letra": "D",
+        "texto": "Em pacientes com suspeita ou confirmação de infecção por influenza recomenda-se uso de máscara tipo N95, N99, PFF2 ou PFF3. 4000192502"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 64571,
+    "tags": [],
+    "enunciado": "Você recebe na enfermaria de pediatria uma criança com diagnóstico de infecção por in(cid:49)uenza. Considerando-se o vírus influenza e as condutas relacionadas a ele, assinale a alternativa incorreta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "No Brasil, a vacinação contra influenza é administrada na rede pública, em campanhas anuais para indivíduos que pertençam a grupos de risco e profissionais de saúde."
+      },
+      {
+        "letra": "B",
+        "texto": "O oseltamivir é a medicação de escolha no Brasil para tratamento de influenza e deve ser iniciado nas primeiras 48 horas de sintomas, quando indicado."
+      },
+      {
+        "letra": "C",
+        "texto": "A síndrome respiratória aguda grave é a síndrome gripal associada a sinais de gravidade, como desconforto respiratório e hipotensão."
+      },
+      {
+        "letra": "D",
+        "texto": "A síndrome respiratória aguda grave é a febre de inicio súbito associada a sintomas respiratórios."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 64572,
+    "tags": [],
+    "enunciado": "Adicionalmente a prednisona e broncodilatadores, qual dos seguintes tratamentos é mais apropriado para um homem de 51 anos com doença pulmonar obstrutiva crônica que desenvolve uma exacerbação aguda por influenza e cuja radiografia de tórax apresenta sem opacidade focal?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Oseltamivir."
+      },
+      {
+        "letra": "B",
+        "texto": "Amantadina."
+      },
+      {
+        "letra": "C",
+        "texto": "Zanamivir."
+      },
+      {
+        "letra": "D",
+        "texto": "Ribavarina."
+      },
+      {
+        "letra": "E",
+        "texto": "Amoxacilina-clavulanato. 4000175637"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 64573,
+    "tags": [],
+    "enunciado": "A aplicação da vacina contra a In(cid:49)uenza foi ampliada pelo Governo Federal a toda população em 2021. Esta medida beneficiou",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "os maiores de 60 anos de idade."
+      },
+      {
+        "letra": "B",
+        "texto": "as crianças com mais de 6 meses e menos de 6 anos de idade."
+      },
+      {
+        "letra": "C",
+        "texto": "os povos indígenas."
+      },
+      {
+        "letra": "D",
+        "texto": "os indivíduos maiores de 6 anos e menores de 60 anos de idade."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 64574,
+    "tags": [],
+    "enunciado": "Assinale a alternativa correta sobre a infecção pelo vírus influenza.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Predispõe a complicação bacteriana, sendo meningite, amigdalite e pneumonia as mais comuns."
+      },
+      {
+        "letra": "B",
+        "texto": "A pneumonia é sempre viral primária, que se apresenta como um quadro agudo, evoluindo, muitas vezes, para síndrome da angústia respiratória aguda."
+      },
+      {
+        "letra": "C",
+        "texto": "A miocardite é uma complicação comum da influenza, podendo ocorrer lesão muscular, arritmias e aumento das enzimas cardíacas."
+      },
+      {
+        "letra": "D",
+        "texto": "Pacientes com doença pulmonar crônica com influenza podem sofrer uma exacerbação do quadro de base, com perda permanente da função pulmonar."
+      },
+      {
+        "letra": "E",
+        "texto": "A infecção por influenza não cursa com complicações neurológicas."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 64575,
+    "tags": [],
+    "enunciado": "Rodrigo, 18 meses, sexo masculino, é levado à emergência por apresentar febre elevada de início súbito há 24 horas (39⁰C). Mãe refere que estava com discreta coriza, obstrução nasal e tosse há dois dias, mas que de repente, (cid:73)cou mais prostrado com febre a cada quatro horas. Nega outras pessoas com mesmos sintomas. Exame físico: febril (398C), hidratado, acianótico, prostrado, FR: 48irpm, FC:110bpm, enchimento capilar: 2”, sat O2: 96%, MV presente, som claro pulmonar sem ruídos adventícios. Abdome: sem alterações. Laboratório: Hm: 4.500.000mm3, Hb: 13,5g/dL, Ht: 38%. Leucócitos: 6.200/mm3, bastões: 1%, segmentados: 35%, linfócitos: 42%, monócitos: 4%, VHS: 5mm/1a h. RX de tórax: normal. Nesse caso está indicado:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ampicilina."
+      },
+      {
+        "letra": "B",
+        "texto": "Oseltamivir."
+      },
+      {
+        "letra": "C",
+        "texto": "Aciclovir."
+      },
+      {
+        "letra": "D",
+        "texto": "Sulfametoxazol+trimetropim. 4000173934"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 64576,
+    "tags": [],
+    "enunciado": "Mulher, 45 anos de idade, previamente hígida, no pronto atendimento com história de febre, mialgia, mal- estar, coriza e tosse persistente, de início súbito há 36 horas. Foi diagnosticada com In(cid:49)uenza H3N2. Considerando-se as melhores evidências cientí(cid:73)cas atuais, qual é a conduta terapêutica mais adequada para a paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sintomáticos e Fanciclovir"
+      },
+      {
+        "letra": "B",
+        "texto": "Sintomáticos e Oseltamivir"
+      },
+      {
+        "letra": "C",
+        "texto": "Sintomáticos e Ritonavir"
+      },
+      {
+        "letra": "D",
+        "texto": "Sintomáticos e Ozamamivir 4000173737"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 64577,
+    "tags": [],
+    "enunciado": "Considerando-se a transmissão do vírus influenza, assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O vírus pode permanecer alguns segundos em partículas suspensas no ar até ser inalado e se ligar ao trato respiratório do indivíduo"
+      },
+      {
+        "letra": "B",
+        "texto": "O período de transmissibilidade tem pico de 48 a 72 horas de doença, seguido de declínio gradual, que dura cerca de 7 a 10 dias nos adultos e 14 dias nas crianças."
+      },
+      {
+        "letra": "C",
+        "texto": "O vírus pode permanecer viável por até 48 horas em superfícies não porosas, por isso a transmissão por fômites é significativa."
+      },
+      {
+        "letra": "D",
+        "texto": "O período de incubação é de 4 a 7 dias (com média de 5 dias). 4000173130"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 64578,
+    "tags": [],
+    "enunciado": "Das alternativas apresentadas abaixo assinale a CORRETA levando-se em consideração a infecção pelo vírus influenza:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As crianças, de modo geral, são o primeiro alvo do vírus e, portanto, indicam o início de um surto ao aumentar a frequência de busca por atendimentos por quadros respiratórios febris."
+      },
+      {
+        "letra": "B",
+        "texto": "O vírus H1N1 esta associado à maior mortalidade do que o vírus H3N2."
+      },
+      {
+        "letra": "C",
+        "texto": "O drift antigênico é um processo de acúmulo de mutações pontuais nos genes da hemaglutinina e da neuraminidase que ocorre com os vírus A e B permite que o vírus se esquive da imunidade, resultando em epidemias sazonais."
+      },
+      {
+        "letra": "D",
+        "texto": "O shift antigênico é um processo no qual ocorre a introdução entre seres humanos de uma nova cepa viral, com novas hemaglutininas e neuraminidases. 4000173118"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 64579,
+    "tags": [],
+    "enunciado": "Segundo a Organização Mundial da Saúde (OMS), a in(cid:49)uenza é uma infecção viral aguda que acomete, especialmente, o sistema respiratório. É de transmissibilidade elevada e distribuição global, podendo causar pandemias. A maioria dos casos graves, complicações, hospitalizações e óbitos se dá em indivíduos pertencentes aos grupos de risco. Em relação ao vírus influenza, podemos afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os mecanismos de diversificação e transformação gênica dos vírus influenza são responsáveis por sua perpetuação ao longo das décadas. Os principais mecanismos envolvidos nesse processo são os de mutação e o rearranjo gênico."
+      },
+      {
+        "letra": "B",
+        "texto": "Assim como na infecção por Covid-19, as crianças abaixo de 2 anos não pertencem ao grupo de risco para as complicações graves."
+      },
+      {
+        "letra": "C",
+        "texto": "A saturação de SpO2 <90% em ar ambiente é um dos sinais da Síndrome respiratória aguda grave (SRAG)."
+      },
+      {
+        "letra": "D",
+        "texto": "Diversas medidas podem ser tomadas para tentar evitar ou minimizar os riscos de infecção pelo vírus influenza. A vacinação anual é uma medida de proteção, no entanto é contra indicada em gestantes e em crianças menores de 2 anos. 4000171383"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 64580,
+    "tags": [],
+    "enunciado": "Sobre o vírus Influenza e as condutas relacionadas a ele, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A Síndrome Respiratória Aguda Grave é a febre de início súbito associada a sintomas respiratórios."
+      },
+      {
+        "letra": "B",
+        "texto": "O oseltamivir não é a medicação de escolha no Brasil para o tratamento de influenza e deve ser iniciado nas primeiras 48 horas de sintomas, quando indicado."
+      },
+      {
+        "letra": "C",
+        "texto": "No Brasil, a vacinação contra influenza é administrada na rede pública, em campanhas anuais para indivíduos que pertençam aos grupos de risco e para profissionais de saúde."
+      },
+      {
+        "letra": "D",
+        "texto": "O vírus Influenza pode causar pneumonia, que se caracteriza por deterioração respiratória lenta."
+      },
+      {
+        "letra": "E",
+        "texto": "A quimioprofilaxia com oseltamivir deve ter duração de 3 dias e ser iniciada até 96 horas após a exposição. 4000151807"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 64581,
+    "tags": [],
+    "enunciado": "A in(cid:49)uenza ocorre durante todo o ano, porém é mais frequente no outono e no inverno, quando as temperaturas caem, principalmente no sul e sudeste do país. Algumas pessoas, como idosos, crianças, gestantes e pessoas com alguma comorbidade, possuem um risco maior de desenvolver complicações devido à in(cid:49)uenza. A melhor maneira de se prevenir contra a doença é vacinar-se anualmente. O tratamento antiviral com medicamentos inibidores de neuraminidase iniciado até 48 horas do início dos sintomas pode reduzir a duração dos sintomas e, principalmente, a redução dos sintomas e, principalmente, a redução da ocorrência de complicações da infecção pelo vírus. Os antivirais utilizados para o tratamento de in(cid:49)uenza são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "remdesivir;"
+      },
+      {
+        "letra": "B",
+        "texto": "azitromicina;"
+      },
+      {
+        "letra": "C",
+        "texto": "ritonavir;"
+      },
+      {
+        "letra": "D",
+        "texto": "ganciclovir;"
+      },
+      {
+        "letra": "E",
+        "texto": "fosfato de oseltamivir;"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 64582,
+    "tags": [],
+    "enunciado": "Sobre o vírus Influenza e as condutas relacionadas a ele, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A Síndrome Respiratória Aguda Grave é a febre de início súbito associada a sintomas respiratórios."
+      },
+      {
+        "letra": "B",
+        "texto": "O oseltamivir não é a medicação de escolha no Brasil para o tratamento de influenza e deve ser iniciado nas primeiras 48 horas de sintomas, quando indicado."
+      },
+      {
+        "letra": "C",
+        "texto": "No Brasil, a vacinação contra a influenza é administrada na rede pública, em campanhas anuais para indivíduos que pertençam aos grupos de risco e para profissionais de saúde."
+      },
+      {
+        "letra": "D",
+        "texto": "O vírus Influenza pode causar pneumonia, que se caracteriza por deterioração respiratória Lenta."
+      },
+      {
+        "letra": "E",
+        "texto": "A quimioprofilaxia com oseltamivir deve ter duração de 3 dias e ser iniciada até 96 horas após a exposição. 4000145398"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 64583,
+    "tags": [],
+    "enunciado": "A in(cid:49)uenza ocorre durante todo o ano, mas é mais frequente no outono e no inverno, quando as temperaturas caem. O período de incubação da in(cid:49)uenza dura de um a quatro dias. A transmissibilidade em adultos ocorre principalmente 24 horas antes do início dos sintomas e dura até três dias após o final da febre. Nas crianças pode durar em média dez dias, podendo se prolongar por mais tempo em pacientes imunossuprimidos. Sobre o tema, é incorreto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "são sinais e sintomas: Infecção aguda das vias aéreas que cursa com quadro febril (temperatura ;:: 37,8º (), com a curva térmica usualmente declinando após dois ou três dias e normalizando em torno do sexto dia de evolução. A febre geralmente é mais acentuada em crianças."
+      },
+      {
+        "letra": "B",
+        "texto": "existem, ainda, outros sinais e sintomas que são habitualmente de aparecimento súbito, como: Calafrios; Mal-estar; Cefaleia; Mialgia; Dor de garganta; Artralgia; Prostração; Rinorreia; Tosse seca."
+      },
+      {
+        "letra": "C",
+        "texto": "a evolução da gripe (influenza) geralmente tem resolução espontânea em sete dias, embora a tosse, o mal-estar e a fadiga possam permanecer por algumas semanas. Alguns casos podem evoluir com complicações. As complicações mais comuns são: Pneumonia bacteriana; Sinusite; Otite; Desidratação; Piora de doenças crônicas como insuficiência cardíaca, asma ou diabetes."
+      },
+      {
+        "letra": "D",
+        "texto": "no quadro de sinais e sintomas da influenza não estão presentes: Diarreia; Vômito; Fadiga; Rouquidão e Hiperemia conjuntiva!. 4000145264"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 64584,
+    "tags": [],
+    "enunciado": "Pode-se afirmar sobre a influenza sazonal:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Um indivíduo pode contraí-la apenas uma vez ao longo da vida"
+      },
+      {
+        "letra": "B",
+        "texto": "O vírus tipo A é mais suscetível às variações antigénicas, e periodicamente sofre alterações em sua estrutura genômica, o que contribui para a existência de diversos subtipos"
+      },
+      {
+        "letra": "C",
+        "texto": "A transmissão pelo modo indireto é a mais comum, por meio do contato com as secreções de outros doentes. Nesse caso, as mãos são o principal veículo, ao propiciarem a introdução de partículas"
+      },
+      {
+        "letra": "D",
+        "texto": "O vírus influenza tipo B infecta o homem, suínos, cavalos, mamíferos marinhos e aves"
+      },
+      {
+        "letra": "E",
+        "texto": "Indivíduos adultos saudáveis infectados são capazes de transmitir somente 24 e 48 horas depois do início de sintomas 4000144973"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 64585,
+    "tags": [],
+    "enunciado": "Em relação ao vírus da influenza sazonal e o SARS-CoV-2, é INCORRETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O vírus da influenza sazonal apresenta menor período de incubação."
+      },
+      {
+        "letra": "B",
+        "texto": "O SARS-CoV-2 é mais contagioso."
+      },
+      {
+        "letra": "C",
+        "texto": "O SARS-CoV-2 pode ser transmitido antes do início dos sintomas."
+      },
+      {
+        "letra": "D",
+        "texto": "Em ambas as infecções, indivíduos do gênero masculino apresentam maior risco de doença grave."
+      },
+      {
+        "letra": "E",
+        "texto": "Os sintomas da infecção pelo vírus da influenza sazonal atingem o pico, usualmente, na primeira semana de manifestações."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 64586,
+    "tags": [],
+    "enunciado": "Paciente sexo feminino, 76 anos, está internada na UTI por quadro de influenza. Encontra-se sob sedação em ventilação mecânica. A paciente tem 160 cm, com peso predito de 52 kg. Os parâmetros do ventilador mecânico são: modo controlado a pressão, FR: 15, PEEP: 8, FiO₂: 40%, tempo inspiratório de 1,0, pressão inspiratória de 15, volume corrente: 340 mL. A gasometria arterial: pH: 7,30, PO₂: 75, PCO₂: 52, SatO₂: 92%, BIC: 26.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "melhor opção com ajustes no ventilador mecânico para diminuir a PCO₂ e aumentar a PO₂, respectivamente,"
+      },
+      {
+        "letra": "A",
+        "texto": "aumentar a pressão inspiratória − diminuir FiO2."
+      },
+      {
+        "letra": "B",
+        "texto": "aumentar a frequência respiratória − aumentar a PEEP."
+      },
+      {
+        "letra": "C",
+        "texto": "diminuir o tempo inspiratório − aumentar FiO2."
+      },
+      {
+        "letra": "D",
+        "texto": "aumentar pressão inspiratória − diminuir a frequência respiratória."
+      },
+      {
+        "letra": "E",
+        "texto": "diminuir a pressão inspiratória − aumentar a PEEP."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 64587,
+    "tags": [],
+    "enunciado": "Qual a forma que melhor explica a transmissão do vírus da in(cid:49)uenza A e B, considerando os vários subtipos que sofrem contínuas mutações com surgimento de novas cepas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Por meio de pequenas gotículas de aerossol (>5 milimicras de diâmetro) expelidas pelo indivíduo infectado com o vírus (ao falar, tossir e espirrar) às pessoas suscetíveis."
+      },
+      {
+        "letra": "B",
+        "texto": "Ingesta de alimentos contaminados com saliva durante o período prodrômico por suscetíveis saudáveis."
+      },
+      {
+        "letra": "C",
+        "texto": "Pelo contato com tecidos, sangue, urina, secreções vaginais, fetos abortados, placenta (grande fonte de infecção)."
+      },
+      {
+        "letra": "D",
+        "texto": "Pelo contato sexual, com penetração do vírus por meio da pele ou mucosa, com solução de continuidade e respiração."
+      },
+      {
+        "letra": "E",
+        "texto": "Pelo contato por mais de 20 dias nos casos dos indivíduos imunocompetentes, e 2 dias nos imunocomprometidos. 4000133265"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 64588,
+    "tags": [],
+    "enunciado": "Leia o texto a seguir. Indivíduo com quadro respiratório agudo, caracterizado por, pelo menos, dois dos seguintes sinais e sintomas: febre (mesmo que referida), calafrios, dor de garganta, dor de cabeça, tosse, coriza, distúrbios olfativos ou distúrbios gustativos. De acordo com o Ministério da Saúde do Brasil, trata-se de um caso",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "suspeito de síndrome gripal."
+      },
+      {
+        "letra": "B",
+        "texto": "suspeito de síndrome respiratória aguda grave."
+      },
+      {
+        "letra": "C",
+        "texto": "confirmado de Covid-19 leve."
+      },
+      {
+        "letra": "D",
+        "texto": "confirmado de influenza leve."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 64589,
+    "tags": [],
+    "enunciado": "No tratamento do H1N1, o oseltamivir está indicado para:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "todos os pacientes com diagnóstico confirmado."
+      },
+      {
+        "letra": "B",
+        "texto": "gestantes, apenas com diagnóstico confirmado."
+      },
+      {
+        "letra": "C",
+        "texto": "pacientes hipertensos, a qualquer tempo, mesmo que já em melhora do quadro."
+      },
+      {
+        "letra": "D",
+        "texto": "pacientes com suspeita clínica que façam parte do grupo de risco nos primeiros dias de sintomas, mesmo que o diagnóstico ainda não esteja confirmado."
+      },
+      {
+        "letra": "E",
+        "texto": "todas as crianças com quadro suspeito, independentemente da idade."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 64590,
+    "tags": [],
+    "enunciado": "Para um caso de paciente com Síndrome Respiratória Aguda Grave (SRAG), internado em Unidade de Terapia Intensiva (UTI) de unidade de saúde sentinela decorrente de influenza sazonal,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a notificação no Sistema de Informação da Vigilância Epidemiológica da Gripe (SIVEP-Gripe) não deve ser realizada, mas apenas na ocorrência de surto."
+      },
+      {
+        "letra": "B",
+        "texto": "os tratamentos com antivirais, não conseguem reduzir a duração dos sintomas, principalmente, em pacientes com imunossupressão."
+      },
+      {
+        "letra": "C",
+        "texto": "a notificação como caso confirmado só pode ocorrer se houver confirmação laboratorial."
+      },
+      {
+        "letra": "D",
+        "texto": "o diagnóstico laboratorial, pela pesquisa de vírus da influenza, é um dos componentes da vigilância sentinela de SRAG em UTI e vigilância universal da SRAG em pacientes hospitalizados."
+      },
+      {
+        "letra": "E",
+        "texto": "a identificação do vírus em laboratório não é importante para a vigilância, uma vez que é sempre o vírus C, antigeni- camente estável, o agente etiológico da SRAG."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 64591,
+    "tags": [],
+    "enunciado": "Sobre a influenza sazonal, analise as assertivas abaixo: I - Infecção viral aguda do sistema respiratório, de elevada transmissibilidade e distribuição global. um indivíduo pode contraí-la várias vezes ao longo da vida. II - A transmissão direta (pessoa a pessoa) é mais comum e ocorre por meio de gotículas expelidas pelo indivíduo, infectado com o vírus influenza, ao falar, espirrar e tossir. III - Classicamente, o quadro clínico da in(cid:49)uenza sazonal tem início abrupto, com sintomas de síndrome gripal (SG), como febre, tosse seca, dor de garganta, mialgia, cefaleia e prostração. Geralmente, tem resolução espontânea em aproximadamente 7 dias, embora a tosse, o mal-estar e a fadiga possam permanecer por algumas semanas. Quais estão corretas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas I e II."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas I e III."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas II e III."
+      },
+      {
+        "letra": "D",
+        "texto": "I, II e III."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 64592,
+    "tags": [],
+    "enunciado": "Assinale a assertiva correta na síndrome respiratória aguda grave, de acordo com o manual do Ministério da Saúde:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O oseltamivir está indicado somente para os pacientes internados em unidades de tratamento intensivo."
+      },
+      {
+        "letra": "B",
+        "texto": "O desconforto respiratório é um sinal de gravidade."
+      },
+      {
+        "letra": "C",
+        "texto": "A hidratação venosa deve ser evitada devido ao risco de edema agudo de pulmão."
+      },
+      {
+        "letra": "D",
+        "texto": "A oxigenoterapia se restringe aos casos em que haja cianose."
+      },
+      {
+        "letra": "E",
+        "texto": "A radiografia de tórax não deve ser solicitada em menores de 1 ano, devido inespecificidade e confundimento nessa faixa etária."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 64593,
+    "tags": [],
+    "enunciado": "Lactente de 8 meses, há 2 dias com rinorréia aquosa e febre, picos febris de 39ºC 2 vezes ao dia, há 12 horas com tosse seca e di(cid:73)culdade para respirar, passando a aceitar só dieta liquida e leite materno. É bem nutrido, com as vacinas em dia. É a primeira doença desde que entrou na creche, há 2 meses. Ao exame físico: febre (37,9ºC); FR: 55 rpm; FC: 110 bpm; Saturação O₂: 90%. Enchimento capilar menor que 3 segundos, sonolento, com batimento de aleta nasal e tosse. Apresenta rinorréia mucoide e boca com pouca saliva. Toráx: retrações subcostais e intercostais, com murmúrio vesicular abafado, sibilos e roncos de transmissão bilaterais. Abdome globoso, fígado há 3 cm do rebordo costal e baço não palpável. Sem sinais meníngeos. Raio X de tórax com in(cid:73)ltrado difuso. O médico que está o atendendo indica lavagem nasal com solução (cid:73)siológica e aspiração das narinas cuidadosamente, com posterior melhora da saturação para 93%. Com base no provável diagnóstico, qual a conduta terapêutica mais adequada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hidratação e nebulização com solução fisiológica"
+      },
+      {
+        "letra": "B",
+        "texto": "Ceftriaxona endovenosa"
+      },
+      {
+        "letra": "C",
+        "texto": "Inalação com broncodilatador"
+      },
+      {
+        "letra": "D",
+        "texto": "Oseltamivir via oral"
+      },
+      {
+        "letra": "E",
+        "texto": "Aerolin"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 64594,
+    "tags": [],
+    "enunciado": "O manejo racional de pacientes portadores de in(cid:49)uenza dentro do ambiente hospitalar é fundamental para minimizar riscos de transmissão e otimizar leitos de internação. Portanto, a Comissão de Controle de Infecção Hospitalar deve reforçar as seguintes medidas, de acordo com orientações fornecidas pelo Ministério da Saúde:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Coleta de swab nasal para realização de PCR (Polymerase Chain Reaction) em todos os pacientes internados, independente dos critérios de gravidade."
+      },
+      {
+        "letra": "B",
+        "texto": "Manter precaução por aerosol até o momento da alta hospitalar."
+      },
+      {
+        "letra": "C",
+        "texto": "Manter precaução respiratória até 72 horas após desaparecimento da febre."
+      },
+      {
+        "letra": "D",
+        "texto": "Notificar à Vigilância Epidemiológica todos os pacientes que se encaixem na definição de caso: febre, de início súbito, acompanhada de tosse ou odinofagia, associada a pelo menos um dos seguintes sintomas: mialgia, cefaleia ou artralgia."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 64595,
+    "tags": [],
+    "enunciado": "Mulher de 33 anos, previamente saudável, há dois dias, após viagem de avião, apresenta quadro de febre de 39,5ºC, astenia, mialgia e artralgia difusa, evoluindo com dispneia intensa e tosse nas últimas 6 horas. É atendida na sala de emergência consciente, com saturação periférica de oxigênio de 81% em ar ambiente, esforço respiratório, roncos e estertores crepitantes difusos. A radiogra(cid:73)a de tórax evidenciou opacidades em vidro fosco difusas e consolidações em ambas bases pulmonares. Hemograma apresenta 12530 leucócitos/mm³, 624 bastonetes/mm³, 5012 segmentados/mm³ e 5763 linfócitos/mm³. Foi instituída ventilação não invasiva. Assinale a alternativa que representa o tratamento melhor indicado para esta paciente.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Oseltamivir."
+      },
+      {
+        "letra": "B",
+        "texto": "Levofloxacino."
+      },
+      {
+        "letra": "C",
+        "texto": "Amoxicilina+ácido clavulânico."
+      },
+      {
+        "letra": "D",
+        "texto": "Ceftriaxona+claritromicina."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 64596,
+    "tags": [],
+    "enunciado": "Assinale a alternativa CORRETA sobre a transmissão do vírus influenza:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O vírus pode permanecer alguns segundos em partículas suspensas no ar até ser inalado e se ligar ao trato respiratório do indivíduo."
+      },
+      {
+        "letra": "B",
+        "texto": "O período de transmissibilidade tem pico de 48 a 72 horas de doença, seguido de declínio gradual, que dura cerca de 7 a 10 dias nos adultos e 14 dias nas crianças."
+      },
+      {
+        "letra": "C",
+        "texto": "O vírus pode permanecer viável por até 48 horas em superfícies não porosas, por isso a transmissão por fômites é significativa."
+      },
+      {
+        "letra": "D",
+        "texto": "O período de incubação é de 4 a 7 dias (com média de 5 dias)."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 64597,
+    "tags": [],
+    "enunciado": "Assinale a alternativa INCORRETA sobre o vírus influenza:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O drift antigênico é um processo de acúmulo de mutações pontuais nos genes da hemaglutinina e da neuraminidase que ocorre com os vírus A e B permite que o vírus se esquive da imunidade, resultando em epidemias sazonais."
+      },
+      {
+        "letra": "B",
+        "texto": "O shift antigênico é um processo no qual ocorre a introdução entre seres humanos de uma nova cepa viral, com novas hemaglutininas e neuraminidases."
+      },
+      {
+        "letra": "C",
+        "texto": "As crianças, de modo geral, são o primeiro alvo do vírus e, portanto, indicam o início de um surto ao aumentar a frequência de busca por atendimentos por quadros respiratórios febris."
+      },
+      {
+        "letra": "D",
+        "texto": "O vírus H1N1 esta associado à maior mortalidade do que o vírus H3N2."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 64598,
+    "tags": [],
+    "enunciado": "Assinale a alternativa INCORRETA sobre o vírus influenza e as condutas relacionadas a ele:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A síndrome respiratória aguda grave é a febre de início súbito associada a sintomas respiratórios."
+      },
+      {
+        "letra": "B",
+        "texto": "A síndrome respiratória aguda grave é a síndrome gripal associada a sinais de gravidade, como desconforto respiratório e hipotensão."
+      },
+      {
+        "letra": "C",
+        "texto": "No Brasil, a vacinação contra influenza é administrada na rede pública, em campanhas anuais para indivíduos que pertençam a grupos de risco e profissionais de saúde."
+      },
+      {
+        "letra": "D",
+        "texto": "O oseltamivir é a medicação de escolha no Brasil para tratamento de influenza e deve ser iniciado nas primeiras 48 horas de sintomas, quando indicado."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 64599,
+    "tags": [],
+    "enunciado": "Gustavo, 1 ano e 9 meses, foi diagnosticado com Síndrome Gripal Aguda (SGA) e iniciada tratamento com oseltamivir. A tia de Gustavo, Ana, está grávida e mora com eles, bem como sua irmãzinha, Joana, de 6 meses e seu avô Rogério de 65 anos. Quanto a pro(cid:73)laxia dos contactantes, o Ministério da Saúde recomenda que Gustavo fique em casa até que todos os seus sintomas desapareçam e que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ana, Joana e Rogério tomem Oseltamivir por pertencerem ao grupo de risco para SGA."
+      },
+      {
+        "letra": "B",
+        "texto": "se faça vacinação contra influenza para todos os contactuantes de Gustavo em casa e escola."
+      },
+      {
+        "letra": "C",
+        "texto": "Joana tome Oseltamivir por pertencer ao grupo de risco para SGA."
+      },
+      {
+        "letra": "D",
+        "texto": "Ana tome Oseltamivir por pertencer ao grupo de risco para SGA."
+      },
+      {
+        "letra": "E",
+        "texto": "se faça apenas seguimento clínico dos contactuantes, sem necessidade de medicação."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 64600,
+    "tags": [],
+    "enunciado": "A quimiopro(cid:73)laxia indiscriminada não é recomendável, pois pode promover a resistência viral, sendo que os antivirais apresentam de 70 a 90% de e(cid:73)cácia na prevenção da in(cid:49)uenza e constituem ferramenta adjuvante da vacinação. Sendo assim, é CORRETO afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A quimioprofilaxia com antiviral geralmente é recomendada se o período após a última exposição a uma pessoa com infecção pelo vírus for maior que 48 horas (considera-se exposta a pessoa que teve contato com caso suspeito ou confirmado para influenza)."
+      },
+      {
+        "letra": "B",
+        "texto": "A quimioprofilaxia com antiviral geralmente não é recomendada se o período após a última exposição a uma pessoa com infecção pelo vírus for maior que 2 horas (considera- se exposta a pessoa que teve contato com caso suspeito ou confirmado para influenza)."
+      },
+      {
+        "letra": "C",
+        "texto": "A quimioprofilaxia com antiviral geralmente não é recomendada se o período após a última exposição a uma pessoa com infecção pelo vírus for maior que 48 horas (considera-se exposta a pessoa que teve contato com caso suspeito ou confirmado para influenza)."
+      },
+      {
+        "letra": "D",
+        "texto": "A quimioprofilaxia com antiviral geralmente não é recomendada se o período após a última exposição a uma pessoa com infecção pelo vírus for maior que 12 horas (considera-se exposta a pessoa que teve contato com caso suspeito ou confirmado para influenza)."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 64601,
+    "tags": [],
+    "enunciado": "O vírus In(cid:49)uenza apresenta notória capacidade de disseminação interpessoal, levando-o a causar epidemias sazonais anualmente e, de tempos em tempos, pandemias, que culminam com a morte de milhares de pessoas, em todo o mundo. Assinale a alternativa abaixo que apresenta apenas medidas recomendadas pelo Ministério da Saúde do Brasil e/ou pela Organização Mundial da Saúde (OMS) para a prevenção de epidemias e pandemias de gripe.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Imunização anual de professores, higienização frequente das mãos com água e sabão, uso de máscara em aglomerações durante o inverno."
+      },
+      {
+        "letra": "B",
+        "texto": "Imunização anual de crianças entre 6 meses e 5 anos, higienização frequente das mãos com solução alcóolica, etiqueta da tosse."
+      },
+      {
+        "letra": "C",
+        "texto": "Imunização anual de imunosuprimidos, higienização frequente das mãos com solução alcóolica, qumioprofilaxia com oseltamivir para idosos durante o inverno."
+      },
+      {
+        "letra": "D",
+        "texto": "Imunização anual de idosos acima de 60 anos, uso de máscara em aglomerações durante o inverno, etiqueta da tosse."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 64602,
+    "tags": [],
+    "enunciado": "Lactente de 7 meses de idade, sem queixas, acompanhado de seu pai, com a carteira de vacinação em dia, sendo a última vacina, para in(cid:49)uenza, primeira dose realizada há 13 dias. O pai refere que a mãe não compareceu a consulta pois está com gripe con(cid:73)rmada por PCR por H1N1. Em relação ao lactente qual a melhor conduta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não prescrever medicação e indicar a segunda dose da vacina após 30 dias da primeira dose e indicar oseltamivir se apresentar sintomas e adotar medidas preventivas"
+      },
+      {
+        "letra": "B",
+        "texto": "Iniciar fosfato de oseltamivir 3 mg/kg/dia durante 10 dias e adotar medidas preventivas"
+      },
+      {
+        "letra": "C",
+        "texto": "Fazer a segunda dose da vacina com 15 dias após a primeira dose, além de iniciar o oseltamivir e adotar medidas preventivas"
+      },
+      {
+        "letra": "D",
+        "texto": "Não fazer a segunda dose da vacina e iniciar oseltamivir 3,5 mg/kg /dia por 5 dias e adotar medidas preventivas"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 64603,
+    "tags": [],
+    "enunciado": "Os antivirais apresentam e(cid:73)cácia na prevenção da in(cid:49)uenza e constituem ferramenta adjuvante da vacinação. Apenas, NÃO podemos concordar que,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "os antivirais apresentam de 70 a 90% de eficácia na prevenção da influenza e constituem ferramenta adjuvante da vacinação."
+      },
+      {
+        "letra": "B",
+        "texto": "a quimioprofilaxia indiscriminada não é recomendável, pois pode promover a resistência viral."
+      },
+      {
+        "letra": "C",
+        "texto": "a quimioprofilaxia com antiviral geralmente não é recomendada se o período após a última exposição a uma pessoa com infecção pelo vírus for maior que 6 horas (considera- se exposta a pessoa que teve contato com caso suspeito ou confirmado para influenza)."
+      },
+      {
+        "letra": "D",
+        "texto": "para ampliar a efetividade da quimioprofilaxia, o antiviral deve ser administrado durante a potencial exposição à pessoa com influenza e continuar por mais 07 dias após a última exposição conhecida."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 64604,
+    "tags": [],
+    "enunciado": "Idealmente, o uso de oseltamivir, para o tratamento ambulatorial da gripe, em paciente sem comorbidades, deve ser feito no período de até:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "72 horas após o início dos sintomas e durante sete dias"
+      },
+      {
+        "letra": "B",
+        "texto": "72 horas após o início dos sintomas e durante cinco dias"
+      },
+      {
+        "letra": "C",
+        "texto": "48 horas após o início dos sintomas e durante cinco dias"
+      },
+      {
+        "letra": "D",
+        "texto": "48 horas após o início dos sintomas e durante sete dias"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 64605,
+    "tags": [],
+    "enunciado": "A infecção pelo vírus In(cid:49)uenza tem distribuição global e elevada transmissibilidade. Segundo o Ministério da Saúde do Brasil, no primeiro semestre de 2018 foram registrados mais de 4000 novos casos de In(cid:49)uenza com mais de 800 mortes em decorrência desta infecção. Considerando a Síndrome Gripal e a Síndrome Respiratória Aguda Grave (SRAG), é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Persistência da febre por mais de 24h é considerado Sinal de piora do estado clínico."
+      },
+      {
+        "letra": "B",
+        "texto": "Define-se SRAG por Síndrome Gripal associada a sinais de gravidade como dispneia, desconforto respiratório, saturação de O₂ menor que 95% ou exacerbação de doença de base preexistente."
+      },
+      {
+        "letra": "C",
+        "texto": "Define-se como síndrome gripal em adultos, na ausência de outro diagnóstico específico: febre de início súbito + dor de garganta ou tosse + coriza ou presença de espirros."
+      },
+      {
+        "letra": "D",
+        "texto": "A gestação contra-indica radiografia de tórax nos casos de SRA G."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 64606,
+    "tags": [],
+    "enunciado": "O Ministério da Saúde (MS) disponibiliza estes medicamentos no Sistema Único de Saúde (SUS); para isso, é recomendado o uso de receituário simples para a prescrição do medicamento. Recomenda-se seguir o Protocolo para a classi(cid:73)cação de atendimento e manejo clínico do paciente suspeito de infecção por influenza. Sendo INADEQUADO, apenas que,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o zanamivir pode ser administrado para paciente em ventilação mecânica, porque essa medicação pode fluir os circuitos do ventilador."
+      },
+      {
+        "letra": "B",
+        "texto": "a indicação de zanamivir somente está autorizada em casos de intolerância gastrointestinal grave, alergia e resistência ao oseltamivir."
+      },
+      {
+        "letra": "C",
+        "texto": "o zanamivir é contraindicado em menores de 05 anos para tratamento ou quimioprofilaxia e para todo paciente com doença respiratória crônica pelo risco de broncoespasmos severo."
+      },
+      {
+        "letra": "D",
+        "texto": "o tratamento com o antiviral, de maneira precoce, pode reduzir a duração dos sintomas, principalmente em pacientes com imunossupressão."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 64607,
+    "tags": [],
+    "enunciado": "Sobre a situação epidemiológica de doenças emergentes, pode-se afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a transmissão da febre chicungunya não ocorre por contato pessoa a pessoa"
+      },
+      {
+        "letra": "B",
+        "texto": "a febre hemorrágica pelo vírus ebola é transmitida pelo ar ou pela água"
+      },
+      {
+        "letra": "C",
+        "texto": "todos os anos ocorrem epidemias de influenza nas estações frias nos países do hemisfério norte e do hemisfério sul"
+      },
+      {
+        "letra": "D",
+        "texto": "a vacina contra influenza tem a mesma composição desde sua síntese, na década de 1960"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 64608,
+    "tags": [],
+    "enunciado": "Paciente viajou para o Amazonas durante as férias e, após retorno, iniciou quadro de febre, tosse seca e coriza. Fez uso de dipirona intermitente devido aos episódios febris. Após 3 dias do início dos sintomas, associou-se um quadro de rash cutâneo. Esta paciente foi atendida no pronto-socorro do Hospital Universitário Cassiano Antônio Moares (HUCAM). Quais as hipóteses diagnósticas prováveis nesse caso?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Rubéola, varicela."
+      },
+      {
+        "letra": "B",
+        "texto": "Sarampo, toxoplasmose aguda."
+      },
+      {
+        "letra": "C",
+        "texto": "Febre amarela, influenza complicando com farmacodermia."
+      },
+      {
+        "letra": "D",
+        "texto": "Sarampo, influenza complicando com farmacodermia."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 64609,
+    "tags": [],
+    "enunciado": "Chamamos de síndrome respiratória aguda grave, a síndrome respiratória caracterizada pelos critérios de síndrome gripal, associada a dispneia ou aos seguintes sinais de gravidade, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Saturação de O2 < 95% em ar ambiente."
+      },
+      {
+        "letra": "B",
+        "texto": "Sinais de desconforto respiratório ou aumento da frequência respiratória avaliada de acordo com a idade."
+      },
+      {
+        "letra": "C",
+        "texto": "Piora nas condições clínicas de doença de base."
+      },
+      {
+        "letra": "D",
+        "texto": "Hipotensão em relação a pressão arterial habitual do paciente."
+      },
+      {
+        "letra": "E",
+        "texto": "Hipotermia reativa."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 64610,
+    "tags": [],
+    "enunciado": "Uma mulher vem a Unidade de Pronto Atendimento com seu (cid:73)lho de 7 anos que está enfermo. Havia iniciado, há 48 horas, quadro de febre, tosse, coriza, obstrução nasal e dor de garganta. No exame físico, encontra-se afebril, hidratado, corado, acianótico, leve hiperemia de orofaringe, leve hiperemia timpânica (bilateral), tórax limpo, FR= 20 irpm, FC= 90 bpm, PA= 95/60 mmHg, Peso 23kg. Considerando uma suspeita de síndrome gripal, deve-se:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Iniciar terapêutica de suporte, incluindo hidratação oral, sem notificar"
+      },
+      {
+        "letra": "B",
+        "texto": "Considerar o tratamento com oseltamivir após a confirmação diagnóstica"
+      },
+      {
+        "letra": "C",
+        "texto": "Notificar e iniciar tratamento adjunto de antibiótico com o antiviral"
+      },
+      {
+        "letra": "D",
+        "texto": "Solicitar radiografia do tórax e iniciar o tratamento com zanamivir"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 64611,
+    "tags": [],
+    "enunciado": "O vírus tipo A sofre alterações em sua estrutura genômica, o que contribui para a existência de subtipos. Podemos CONCORDAR que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "são responsáveis pela ocorrência da minoria das epidemias de influenza e classificados de acordo com os tipos de proteínas que se localizam em sua superfície, chamadas de hemaglutinina (H) e neuraminidase (N)."
+      },
+      {
+        "letra": "B",
+        "texto": "são responsáveis pela ocorrência da maioria das epidemias de influenza e classificados de acordo com os tipos de proteínas que se localizam em seu interior, chamadas de hemaglutinina (H) e neuraminidase (N)."
+      },
+      {
+        "letra": "C",
+        "texto": "são responsáveis pela ocorrência da maioria das epidemias de influenza e classificados de acordo com os tipos de proteínas que se localizam em seu DNA, chamadas de hemaglutinina (H) e neuraminidase (N)."
+      },
+      {
+        "letra": "D",
+        "texto": "são responsáveis pela ocorrência da maioria das epidemias de influenza e classificados de acordo com os tipos de proteínas que se localizam em sua superfície, chamadas de hemaglutinina (H) e neuraminidase (N)."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 64612,
+    "tags": [],
+    "enunciado": "O vírus in(cid:49)uenza, pertencente à família Ortomixiviridae, possui RNA de hélice única e se subdivide em três tipos antigenicamente distintos: A, B e C. Podemos, apenas, ACEITAR que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o vírus tipo A é menos suscetível às variações antigênicas, e periodicamente sofre alterações em sua estrutura genômica, o que contribui para a existência de diversos subtipos."
+      },
+      {
+        "letra": "B",
+        "texto": "o vírus tipo A é mais suscetível às variações antigênicas, e periodicamente sofre alterações em sua estrutura genômica, o que contribui para a existência de diversos subtipos."
+      },
+      {
+        "letra": "C",
+        "texto": "o vírus tipo A é mais suscetível às variações antigênicas, e nunca sofre alterações em sua estrutura genômica, o que contribui para a existência vde diversos subtipos."
+      },
+      {
+        "letra": "D",
+        "texto": "o vírus tipo A é mais suscetível às variações antigênicas, e periodicamente sofre alterações em sua estrutura genômica, o que não contribui para a existência de diversos subtipos."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 64613,
+    "tags": [],
+    "enunciado": "O vírus in(cid:49)uenza, pertencente à família Ortomixiviridae, mais suscetível às variações antigênicas, sofre alterações em sua estrutura genômica. São responsáveis pela ocorrência das epidemias de in(cid:49)uenza e, podemos ACEITAR a seu respeito que, a proteína H:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não está associada à infecção das células do trato respiratório superior, onde o vírus se multiplica, enquanto a proteína N facilita a saída das partículas virais do interior das células infectadas."
+      },
+      {
+        "letra": "B",
+        "texto": "Está associada à infecção das células do trato respiratório superior, onde o vírus se multiplica, enquanto a proteína N facilita a saída das partículas virais do interior das células infectadas."
+      },
+      {
+        "letra": "C",
+        "texto": "Está associada à infecção das células do trato respiratório superior, onde o vírus se multiplica, enquanto a proteína N facilita a entrada das partículas virais do interior das células infectadas."
+      },
+      {
+        "letra": "D",
+        "texto": "Está associada à infecção das células do trato respiratório superior, onde o vírus se multiplica, enquanto a proteína N facilita a saída das partículas virais do exterior das células infectadas."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 64614,
+    "tags": [],
+    "enunciado": "O homem, suínos, equinos, focas e aves são os principais reservatórios. As aves migratórias, principalmente as aquáticas e as silvestres, desempenham importante papel na disseminação natural da doença entre distintos pontos do globo terrestre. Podemos ACEITAR que, o vírus influenza tipo A:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Infecta o homem, suínos, cavalos, mamíferos marinhos e aves; o tipo B infecta, exclusivamente humanos; e o tipo C, humanos e suínos."
+      },
+      {
+        "letra": "B",
+        "texto": "Não infecta o homem, suínos, cavalos, mamíferos marinhos e aves; o tipo B não infecta humanos; e o tipo C, humanos e suínos."
+      },
+      {
+        "letra": "C",
+        "texto": "Infecta o homem, suínos, cavalos, mamíferos marinhos e aves; o tipo B infecta, exclusivamente humanos; e o tipo C, apenas suínos."
+      },
+      {
+        "letra": "D",
+        "texto": "Infecta o homem, suínos, cavalos, mamíferos marinhos e aves; o tipo B infecta, exclusivamente humanos; e o tipo C, humanos, apenas."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 64615,
+    "tags": [],
+    "enunciado": "Dentro dos achados clínicos compatíveis com a Influenza, somente seria inadequado considerar o seguinte:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As queixas respiratórias, com exceção da tosse, tornam-se mais brandas com a progressão da doença e mantêm-se, em geral, por três a quatro semanas após o desaparecimento da febre."
+      },
+      {
+        "letra": "B",
+        "texto": "A rouquidão é mais comum em crianças."
+      },
+      {
+        "letra": "C",
+        "texto": "A tosse, a fadiga e o mal-estar frequentemente persistem pelo período de uma a duas semanas e raramente podem perdurar por mais de seis semanas."
+      },
+      {
+        "letra": "D",
+        "texto": "A linfadenopatia cervical é mais comum em crianças."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 64616,
+    "tags": [],
+    "enunciado": "Dentro dos aspectos clínicos epidemiológicos atuais, a respeito da In(cid:49)uenza, apenas não podemos concordar com o seguinte item:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O período de incubação da influenza dura de um a quatro dias."
+      },
+      {
+        "letra": "B",
+        "texto": "A transmissibilidade em adultos ocorre principalmente 24 horas antes do início dos sintomas e dura até três dias após o final da febre."
+      },
+      {
+        "letra": "C",
+        "texto": "Nas crianças pode durar média dez dias, podendo se prolongar por mais tempo em pacientes Imunossuprimidos."
+      },
+      {
+        "letra": "D",
+        "texto": "A febre geralmente é menos acentuada em crianças."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 64617,
+    "tags": [],
+    "enunciado": "Apenas não podemos considerar como adequado o seguinte item referente à Epidemiologia da Influenza.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A influenza ocorre durante todo o ano, mas é mais frequente no outono e no inverno, quando as temperaturas caem, principalmente no Sul e Sudeste do País."
+      },
+      {
+        "letra": "B",
+        "texto": "A melhor maneira de se prevenir contra a doença, é vacinar-se anualmente."
+      },
+      {
+        "letra": "C",
+        "texto": "A estratégia de vacinação na Rede Pública De Saúde foi sendo ampliada e, atualmente, a vacinação é indicada para indivíduos com 60 anos ou mais de idade, população privada de liberdade e funcionários do sistema prisional, povos indígenas, crianças com idade de 6 meses a menor de 5 anos, profissionais de saúde, pessoas portadoras de doenças crônicas não transmissíveis e outras condições clínicas especiais (conforme listagem definida pelo Ministério da Saúde com sociedades científicas), gestantes e puérperas."
+      },
+      {
+        "letra": "D",
+        "texto": "A vacina é capaz de promover imunidade durante o período de maior circulação dos vírus influenza, mas sem reduzir o agravamento da doença."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 64618,
+    "tags": [],
+    "enunciado": "Dentro das condutas com medicamentos sintomáticos e da hidratação, está indicado o uso de Fosfato de Oseltamivir para os casos que tenham condições e fatores de risco para complicações, mesmo em atendimento ambulatorial, sendo apenas inadequado, dentro do uso da medicação, que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Para a prescrição deste medicamento é usado o receituário simples."
+      },
+      {
+        "letra": "B",
+        "texto": "É de grande a importância da administração, preferencialmente, nas primeiras 6 horas após o início dos sintomas."
+      },
+      {
+        "letra": "C",
+        "texto": "Caso o medicamento fosfato de oseltamivir na apresentação de suspensão oral não estiver disponível, a cápsula pode ser aberta e o seu conteúdo misturado à pequena quantidade de água com açúcar, logo antes da administração."
+      },
+      {
+        "letra": "D",
+        "texto": "Esta indicação fundamenta-se no benefício que a terapêutica precoce proporciona, tanto na redução da duração dos sintomas quanto na ocorrência de complicações da infecção pelos vírus da influenza, em pacientes com condições e fatores de risco para complicações."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 64619,
+    "tags": [],
+    "enunciado": "Dentre as alternativas abaixo, qual está CORRETA sobre epidemiologia e controle da influenza?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A maioria das epidemias que ocorreram no Brasil foi causada pelos vírus B."
+      },
+      {
+        "letra": "B",
+        "texto": "O Programa Nacional de Imunizações utiliza vacinas contendo dois subtipos do vírus A e um do vírus"
+      },
+      {
+        "letra": "B",
+        "texto": ""
+      },
+      {
+        "letra": "C",
+        "texto": "A doença pelo vírus B em crianças é mais grave que a causada pelo vírus A."
+      },
+      {
+        "letra": "D",
+        "texto": "É frequente a transmissão de vírus influenza de outras espécies animais aos humanos."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 64620,
+    "tags": [],
+    "enunciado": "Qual dos marcadores abaixo determina pior gravidade nos pacientes com pneumonia por H1N1?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Procalcitonina."
+      },
+      {
+        "letra": "B",
+        "texto": "PCR ultrassensível."
+      },
+      {
+        "letra": "C",
+        "texto": "NT pro BNP."
+      },
+      {
+        "letra": "D",
+        "texto": "DHL."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 64621,
+    "tags": [],
+    "enunciado": "Em relação à gripe por influenzavírus, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O zanamivir é indicado principalmente a menores de 5 anos para tratamento ou para quimioprofilaxia, pois, além do tratamento, ainda reduz o risco de broncoespasmo."
+      },
+      {
+        "letra": "B",
+        "texto": "Trata-se de uma infecção aguda das vias aéreas que cursa com quadro febril, com a curva térmica usualmente declinando após dois ou três dias e normalizando em torno do sexto dia de evolução."
+      },
+      {
+        "letra": "C",
+        "texto": "O período de incubação da influenza dura de 10 a 14 dias."
+      },
+      {
+        "letra": "D",
+        "texto": "Indivíduos maiores de 19 anos de idade em uso prolongado de ácido acetilsalicílico apresentam risco de síndrome de Reye."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 64622,
+    "tags": [],
+    "enunciado": "Podemos considerar como acometido por Síndrome Respiratória Aguda Grave (SRAG), um indivíduo de qualquer idade, com síndrome gripal conforme de(cid:73)nição, e que apresente dispneia ou os seguintes sinais de gravidade, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Saturação de SpO2 < 95% em ar ambiente."
+      },
+      {
+        "letra": "B",
+        "texto": "Sinais de desconforto respiratório ou aumento da frequência respiratória avaliada independente da idade."
+      },
+      {
+        "letra": "C",
+        "texto": "Piora nas condições clínicas de doença de base."
+      },
+      {
+        "letra": "D",
+        "texto": "Hipotensão em relação à pressão arterial habitual do paciente."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 64623,
+    "tags": [],
+    "enunciado": "A (cid:73)gura abaixo representa as fases da In(cid:49)uenza Pandêmica de 2009 estabelecidas pela Organização Mundial da Saúde (OMS). Atualmente, a fase de alerta pandêmico para H1N1 é a de pós-pandemia. Considerando a (cid:73)gura e as informações apresentadas, assinale a alternativa correta sobre o estado de preparação e resposta à pandemia de H1N1.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Na fase 3, a transmissão direta de pessoa a pessoa do vírus recombinante já é suficiente, segundo a OMS, para sustentar surtos em comunidades."
+      },
+      {
+        "letra": "B",
+        "texto": "Na fase 4, a OMS realiza o desenvolvimento e a distribuição de insumos voltados para a produção de vacinas específicas para controle da pandemia."
+      },
+      {
+        "letra": "C",
+        "texto": "Na fase 5, a maioria dos países está sob risco de ocorrência dessa doença e, por essa razão, ela é considerada como pandêmica pela OMS."
+      },
+      {
+        "letra": "D",
+        "texto": "Na fase 6, a OMS agiliza todo o processo de revisão da disseminação do vírus, por meio de transmissão direta, para controle de pandemia."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 64624,
+    "tags": [],
+    "enunciado": "A síndrome respiratória auda grave (SARS, do inglês Severe Acute Respiratory Syndrome), uma pneumonia atípica grave, transmissível para contactantes próximos. Doença de noti(cid:73)cação compulsória imediata. Deve ser considerado caso suspeito o paciente que apresentar di(cid:73)culdade respiratória (taquipneia, dispneia) e uma ou mais das seguintes condições, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Febre (>38°C) e história de viagem há 10 dias ou menos a uma área afetada."
+      },
+      {
+        "letra": "B",
+        "texto": "Residência em áreas afetadas e radiografia de tórax com infiltrado compatível com pneumonia."
+      },
+      {
+        "letra": "C",
+        "texto": "Residência em áreas afetadas e rouquidão há mais de 10 dias."
+      },
+      {
+        "letra": "D",
+        "texto": "Residência em áreas afetadas e febre (>38°C) e tosse."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 64625,
+    "tags": [],
+    "enunciado": "Em uma Unidade Básica de Saúde foram atendidos: CASO 1: Menino, 8a, portador de síndrome nefrótica em uso de predinisona 10 mg/dia, refere febre, tosse coriza, mialgia e cafaleia há 36 horas; CASO 2: Menina, 6a, portadora de síndrome de Down e hipotireoidismo, e a mãe conta tosse, febre, obstrução nasal e coriza, há 24 horas; CASO 3: Menina, 9a, febre, tosse, cefaleia, coriza e artralgia há 24 horas; CASO 4: Menino, 4a, portador de anemia falciforme, referindo tosse, cefaleia, artralgia e febre há 36 horas; CASO 5: Menino 7a, com tosse, coriza, artralgia, exantema e febre há 30 horas.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "prescrição de oseltamivir é para os casos:"
+      },
+      {
+        "letra": "A",
+        "texto": "1, 3 e 5."
+      },
+      {
+        "letra": "B",
+        "texto": "2, 3 e 5."
+      },
+      {
+        "letra": "C",
+        "texto": "1, 2 e 4."
+      },
+      {
+        "letra": "D",
+        "texto": "3, 4 e 5."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 64626,
+    "tags": [],
+    "enunciado": "Em relação ao uso de Oseltamivir no tratamento da influenza, analise as seguintes assertivas: I. A droga deve ser prescrita na dose de 75 mg 2x/dia por 5 dias. II. Náuseas e vômitos podem ser minimizados se a droga for ingerida com a alimentação. III. Reduz a duração dos sintomas nos casos de In(cid:49)uenza não complicada e, se iniciado dentro de 2 dias, do início dos sintomas. IV. Tem sido associado a alterações psiquiátricas em pacientes com mais de 70 anos. Quais estão CORRETAS?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas I e II."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas I e III."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas II e IV."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas I, II e III."
+      },
+      {
+        "letra": "E",
+        "texto": "Apenas I, III e IV."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 64627,
+    "tags": [],
+    "enunciado": "Paciente de 35 anos, sem comorbidades, procura o posto de saúde para atualizar suas vacinas. Em seu cartão de vacinação há registro das seguintes doses: Considerando as recomendações do Ministério da Saúde, qual é a conduta adequada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Prescrever 3 doses de hepatite B, 1 dose de dT e orientar vacinação anual anti-influenza."
+      },
+      {
+        "letra": "B",
+        "texto": "Prescrever 1 dose de hepatite B, 1 dose de T T, 1 dose de tríplice viral e orientar vacinação anual anti-influenza."
+      },
+      {
+        "letra": "C",
+        "texto": "Prescrever 1 dose de hepatite B, 1 dose de DTP e orientar vacinação anual anti-influenza."
+      },
+      {
+        "letra": "D",
+        "texto": "Solicitar anti-HBs para avaliar imunidade contra hepatite B, orientar 1 dose de T T e vacinação anual anti-influenza."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 64628,
+    "tags": [],
+    "enunciado": "Em casos de suspeita clínica de infecção por influenza, o uso do oseltamivir é indicado para pacientes que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Se apresentam sem vacinação contra gripe sazonal prévia."
+      },
+      {
+        "letra": "B",
+        "texto": "Pertencem ao grupo de risco, tais como gestantes e idosos."
+      },
+      {
+        "letra": "C",
+        "texto": "Tiveram confirmação laboratorial, mas estão fora do grupo de risco."
+      },
+      {
+        "letra": "D",
+        "texto": "Desenvolvem sintomas durante a internação a que foram submetidos, independente do motivo da internação."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 64629,
+    "tags": [],
+    "enunciado": "Para gestantes com suspeita ou con(cid:73)rmação de infecção por in(cid:49)uenza sazonal (H1N1) qual é o tratamento antiviral recomendado?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aciclovir."
+      },
+      {
+        "letra": "B",
+        "texto": "Fanciclovir."
+      },
+      {
+        "letra": "C",
+        "texto": "Ganciclovir."
+      },
+      {
+        "letra": "D",
+        "texto": "Oseltamivir."
+      },
+      {
+        "letra": "E",
+        "texto": "Zidovudina."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 64630,
+    "tags": [],
+    "enunciado": "São doenças contra as quais pode estar indicada quimioprofilaxia em comunicantes:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Difteria, hanseníase, coqueluche, doença meningocócica, meningite por hemófilo."
+      },
+      {
+        "letra": "B",
+        "texto": "Meningite por hemófilo, difteria, sarampo, coqueluche, doença meningocócica."
+      },
+      {
+        "letra": "C",
+        "texto": "Difteria, tuberculose, coqueluche, doença meningocócica, meningite por hemófilo."
+      },
+      {
+        "letra": "D",
+        "texto": "Doença meningocócica, meningite por hemófilo, difteria, febre maculosa, coqueluche."
+      },
+      {
+        "letra": "E",
+        "texto": "Coqueluche, doença meningocócica, meningite por hemófilo, difteria, febre tifoide."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 64631,
+    "tags": [],
+    "enunciado": "Paciente do sexo masculino, 57 anos, chega à emergência com história de dispneia de início súbito há aproximadamente 8 horas, com piora progressiva. Refere ainda sensação de tontura e uma descrição de “quase desmaio” relatada por familiares. Nega febre, tosse ou sintomas gripais precedendo o quadro. Nega história pregressa de outros problemas de saúde e faz exames periódicos de controle de saúde recomendados pelo seu clínico. Ao exame físico, apresenta taquidispneia com uso de musculatura acessória à ventilação, sudorese, cianose, FR= 36 rpm, PA= 80/40 mmHg, saturação de O₂= 79% em ar ambiente, FC= 140 bpm, ausculta pulmonar sem ruídos adventícios, com murmúrio vesicular presente bilateral simétrico, ausculta cardíaca com ritmo regular, sem sopros. Abdome não examinado por impossibilidade de manter decúbito. Considerando o caso clínico acima, assinale a alternativa CORRETA, que apresenta o diagnóstico clínico inicial mais provável.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pneumonia grave com choque séptico."
+      },
+      {
+        "letra": "B",
+        "texto": "Tamponamento cardíaco."
+      },
+      {
+        "letra": "C",
+        "texto": "Embolia pulmonar."
+      },
+      {
+        "letra": "D",
+        "texto": "DPOC exacerbado."
+      },
+      {
+        "letra": "E",
+        "texto": "Síndrome respiratória aguda grave por H1N1."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 64632,
+    "tags": [],
+    "enunciado": "Imunização São consideradas categorias de risco clínico com indicação de vacina anti-influenza sazonal, exceto,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fibrose cística, doença cardíaca isquêmica, Síndrome da Imunodeficiência Adquirida (SIDA)."
+      },
+      {
+        "letra": "B",
+        "texto": "Diabetes, hepatites crônica, esclerose múltipla."
+      },
+      {
+        "letra": "C",
+        "texto": "Doença renal cônica estágio 3, síndrome de Down, atresia biliar."
+      },
+      {
+        "letra": "D",
+        "texto": "Asma, insuficiência cardíaca, pós-transplantados."
+      },
+      {
+        "letra": "E",
+        "texto": "Hipertensão arterial, obesidade, DPOC."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 64633,
+    "tags": [],
+    "enunciado": "Paciente com 40 anos de idade, chega ao pronto socorro com quadro de dispneia importante, sendo optado por intubação orotraqueal na sala de emergência. Acompanhante relata história de coriza há três dias, evoluindo com expectoração amarelada há um dia da admissão. O Rx de tórax é mostrado na (cid:73)gura. (VER IMAGEM) Qual a melhor conduta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Oseltamivir+Sulfametoxazol+trimetoprim"
+      },
+      {
+        "letra": "B",
+        "texto": "Ciprofloxacina+azitromicina"
+      },
+      {
+        "letra": "C",
+        "texto": "Cefuroxima+oseltamivir"
+      },
+      {
+        "letra": "D",
+        "texto": "Oseltamivir"
+      },
+      {
+        "letra": "E",
+        "texto": "Ceftriaxona+azitromicina+oseltamivir"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 64634,
+    "tags": [],
+    "enunciado": "Segundo o Protocolo de Tratamento de In(cid:49)uenza estabelecido pelo Ministério da Saúde em 2013, considera- se caso suspeito de síndrome respiratória aguda grave indivíduo de qualquer idade com síndrome gripal, na ausência de outro diagnóstico específico, e qualquer um dos seguintes sinais de gravidade, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Saturação de SpO2 < 95% em ar ambiente."
+      },
+      {
+        "letra": "B",
+        "texto": "Febre elevada de início súbito."
+      },
+      {
+        "letra": "C",
+        "texto": "Piora nas condições clínicas de doença de base."
+      },
+      {
+        "letra": "D",
+        "texto": "Sinais de desconforto respiratório ou aumento da frequência respiratória avaliada de acordo com idade."
+      },
+      {
+        "letra": "E",
+        "texto": "Hipotensão em relação à pressão arterial habitual dos pacientes."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 64635,
+    "tags": [],
+    "enunciado": "Gestante de 26 anos, com 20 semanas de idade gestacional, procura unidade básica de saúde com queixa de febre alta, dor de garganta e tosse seca há 24 horas. Não foi vacinada para in(cid:49)uenza. Ao exame físico, encontra-se em bom estado geral, eupneica, acianótica; com T: 38°C; PA: 105 x 80 mmHg; FR: 20 irpm. Hiperemia de orofaringe e ausculta pulmonar normal. A melhor conduta médica é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Prescrever antitérmico, hidratação e orientá-la a retornar em 24 horas se houver piorado quadro."
+      },
+      {
+        "letra": "B",
+        "texto": "Prescrever sintomáticos, aplicar a vacina para influenza e orientá-la a retornar em 24horas se houver piora do quadro."
+      },
+      {
+        "letra": "C",
+        "texto": "Prescrever antitérmico, oseltamivir, hidratação e orientá-la a retornar em 24 horas se houver piora do quadro."
+      },
+      {
+        "letra": "D",
+        "texto": "Orientar hidratação, banho morno e compressas frias para reduzir a temperatura e retorno em 24 horas."
+      },
+      {
+        "letra": "E",
+        "texto": "Orientar hidratação, prescrever oseltamivir, antitérmico, aplicar a vacina para influenza e orientá-la a retornar em 24 horas se houver piora do quadro."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 64636,
+    "tags": [],
+    "enunciado": "Mulher com 68 anos de idade foi trazida à Emergência por apresentar quadro de febre de até 39°C, mialgias, cefaleia, tosse seca, dispneia e piora do estado geral há três dias, com piora nas últimas seis horas. Ao exame encontra-se acordada, orientada, com frequência respiratória = 30 irpm, pressão arterial = 100 x 60 mmHg, frequência cardíaca = 115 bpm, oximetria digital = 86%, em ar ambiente. Sem outras alterações ao exame físico. A radiogra(cid:73)a de tórax mostra in(cid:73)ltrado intersticial bilateral. A paciente foi transferida para a Unidade de Terapia Intensiva em quarto privativo e foi iniciada reposição volêmica. Qual a conduta inicial indicada para esta paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Iniciar oxigenoterapia, colher três amostras de hemocultura aeróbia e iniciar azitromicina."
+      },
+      {
+        "letra": "B",
+        "texto": "Colher secreção respiratória para PCR viral, prescrever oxigenoterapia e oseltamivir."
+      },
+      {
+        "letra": "C",
+        "texto": "Iniciar ventilação mecânica não invasiva, colher material para exame bacteriológico e iniciar oseltamivir."
+      },
+      {
+        "letra": "D",
+        "texto": "Iniciar ventilação mecânica invasiva com circuito fechado como medida de isolamento respiratório e prescrever zanamivir."
+      },
+      {
+        "letra": "E",
+        "texto": "Colher material para PCR para H1N1 e prescrever medidas de suporte, já que a paciente apresenta sintomas há mais de 48 horas."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 64637,
+    "tags": [],
+    "enunciado": "Pneumonia pelo vírus influenza deve ser preferencialmente tratada com o uso de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ribavirin."
+      },
+      {
+        "letra": "B",
+        "texto": "aciclovir."
+      },
+      {
+        "letra": "C",
+        "texto": "oseltamivir."
+      },
+      {
+        "letra": "D",
+        "texto": "interferon."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 64638,
+    "tags": [],
+    "enunciado": "As infecções por influenza (A e B) têm terapêutica antiviral específica com a seguinte droga:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ganciclovir."
+      },
+      {
+        "letra": "B",
+        "texto": "Oseltamivir."
+      },
+      {
+        "letra": "C",
+        "texto": "Ritonavir."
+      },
+      {
+        "letra": "D",
+        "texto": "Aciclovir."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 64639,
+    "tags": [],
+    "enunciado": "Uma paciente de 25 anos de idade, com história obstétrica gesta = 1, para = 0, aborto = 0, com 28 semanas de idade gestacional, foi atendida na Unidade Básica de Saúde (UBS) referindo que há 2 dias está gripada e fez uso de medicação sintomática. Resolveu vir ao posto de saúde porque está tossindo muito. Ao ser realizado o exame físico, constatou-se: temperatura axilar = 38,1oC, frequência respiratória = 30 irpm, pressão arterial = 80 x 60 mmHg, normohidratada. Qual é a abordagem adequada para o caso?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Encaminhar a paciente para internação hospitalar."
+      },
+      {
+        "letra": "B",
+        "texto": "Solicitar hemograma completo e radiografia de tórax com urgência."
+      },
+      {
+        "letra": "C",
+        "texto": "Orientar hidratação, prescrever paracetamol e solicitar retorno se piorar."
+      },
+      {
+        "letra": "D",
+        "texto": "Solicitar hemograma completo, prescrever vitamina C, dipirona e nebulização."
+      },
+      {
+        "letra": "E",
+        "texto": "Prescrever dipirona, nebulização sem uso de broncodilatador e reavaliar a paciente em 48 horas."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 64640,
+    "tags": [],
+    "enunciado": "A pandemia de In(cid:49)uenza ocorrida em 2009 foi causada por um novo subtipo viral derivado de uma linhagem suína, o In(cid:49)uenza A H1N1. Uma das diferenças entre as infecções causadas por esse novo agente e as causadas pelo vírus sazonal que circulava anteriormente é o (a):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Transmissão respiratória e por contato."
+      },
+      {
+        "letra": "B",
+        "texto": "Maior risco de óbito em portadores de doença pulmonar prévia."
+      },
+      {
+        "letra": "C",
+        "texto": "Possibilidade de tratamento com antivirais."
+      },
+      {
+        "letra": "D",
+        "texto": "Alta incidência de formas graves em adultos jovens saudáveis."
+      },
+      {
+        "letra": "E",
+        "texto": "Predomínio de manifestações respiratórias."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 64641,
+    "tags": [],
+    "enunciado": "Em relação a quimioprofilaxia das infecções por Influenza, pode-se afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A quimioprofilaxia é mais utilizada pelos indivíduos de baixo risco que não receberam a vacina contra influenza;"
+      },
+      {
+        "letra": "B",
+        "texto": "A administração simultânea da quimioprofilaxia e da vacina de vírus vivo atenuados não interfere com a resposta vacinal;"
+      },
+      {
+        "letra": "C",
+        "texto": "Agentes virais devem ser administrados até no mínimo duas semanas depois da aplicação da vacina de vírus vivos;"
+      },
+      {
+        "letra": "D",
+        "texto": "A administração de vacina de vírus vivo não deve ser iniciada antes de no mínimo 48h depois da suspensão do tratamento antiviral."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 64642,
+    "tags": [],
+    "enunciado": "Em relação à circulação do vírus da influenza, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os antivirais não interferem na evolução clínica da infecção pelo vírus da influenza."
+      },
+      {
+        "letra": "B",
+        "texto": "A vacinação de profissionais de saúde é a única medida eficaz para evitar o contágio em serviços de saúde."
+      },
+      {
+        "letra": "C",
+        "texto": "A susceptibilidade imunológica da população do vírus influenza aviária A/HSN1 deve-se à maior circulação dos sorotipos B e C nas últimas décadas em humanos."
+      },
+      {
+        "letra": "D",
+        "texto": "A vigilância epidemiológica das cepas do vírus da influenza circulantes no Brasil é realizada por laboratórios nacionais de referência indicados pelo Ministério da Saúde."
+      },
+      {
+        "letra": "E",
+        "texto": "A transmissão do vírus da influenza de espécies animais para humanos é frequente, ocasionando surtos anuais ou bianuais. 4000100301 Respostas: 1 C 2 A 3 D 4 A 5 A 6 C 7 E 8 B 9 A 10 C 11 C 12 C 13 A 14 C 15 A 16 D 17 A 18 D 19 D 20 B 21 B 22 C 23 B 24 A 25 C 26 E 27 C 28 D 29 B 30 D 31 B 32 A 33 A 34 D 35 D 36 D 37 B 38 D 39 D 40 A 41 C 42 D 43 A 44 E 45 C 46 B 47 B 48 C 49 C 50 B 51 A 52 A 53 D 54 E 55 A 56 D 57 B 58 B 59 A 60 A 61 D 62 D 63 B 64 B 65 D 66 B 67 B 68 B 69 C 70 C 71 D 72 B 73 B 74 D 75 A 76 C 77 E 78 E 79 B 80 C 81 B 82 C 83 B 84 A 85 D 86 D 87 D"
+      }
+    ],
+    "resposta_correta": "D"
+  }
+]

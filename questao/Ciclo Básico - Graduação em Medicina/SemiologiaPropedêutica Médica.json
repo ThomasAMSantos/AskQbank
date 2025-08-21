@@ -1,0 +1,2742 @@
+[
+  {
+    "id": 104872,
+    "tags": [],
+    "enunciado": "Quais estruturas costumam se localizar na fossa ilíaca direita?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fígado e baço."
+      },
+      {
+        "letra": "B",
+        "texto": "Baço e apêndice vermiforme."
+      },
+      {
+        "letra": "C",
+        "texto": "Cólon transverso e bexiga."
+      },
+      {
+        "letra": "D",
+        "texto": "Ceco e apêndice vermiforme."
+      },
+      {
+        "letra": "E",
+        "texto": "Bexiga e ceco."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104873,
+    "tags": [],
+    "enunciado": "Assinale a alternativa que melhor define o conceito de descompressão brusca positiva (DB+):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "DB+ é a queda da pressão arterial em mais de 20 mmHg quando o paciente assume a posição ortostática."
+      },
+      {
+        "letra": "B",
+        "texto": "DB+ é a presença de dor à palpação da região abdominal."
+      },
+      {
+        "letra": "C",
+        "texto": "DB+ é a queda da saturação arterial de oxigênio, experienciada de maneira rápida pelo paciente."
+      },
+      {
+        "letra": "D",
+        "texto": "DB+ é a presença de dor após a liberação de uma pressão realizada pelo examinador sobre o abdome do examinado."
+      },
+      {
+        "letra": "E",
+        "texto": "DB+ é ausência de movimentos respiratórios."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104874,
+    "tags": [],
+    "enunciado": "Qual das estruturas abaixo é frequentemente palpável na fossa ilíaca esquerda?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cólon ascendente."
+      },
+      {
+        "letra": "B",
+        "texto": "Fígado."
+      },
+      {
+        "letra": "C",
+        "texto": "Baço."
+      },
+      {
+        "letra": "D",
+        "texto": "Cólon sigmoide."
+      },
+      {
+        "letra": "E",
+        "texto": "Rim esquerdo."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104875,
+    "tags": [],
+    "enunciado": "Ao examinar um paciente do sexo masculino de 60 anos, tabagista e portador de hipertensão arterial sistêmica, você identi(cid:60)ca uma massa palpável e pulsátil na região hipogástrica, que emite um sopro sistólico mediante ausculta com estetoscópio. Marque a alternativa que contém a hipótese diagnóstica mais provável para esse caso:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hepatomegalia."
+      },
+      {
+        "letra": "B",
+        "texto": "Esplenomegalia."
+      },
+      {
+        "letra": "C",
+        "texto": "Neoplasia de cólon."
+      },
+      {
+        "letra": "D",
+        "texto": "Aneurisma de aorta abdominal."
+      },
+      {
+        "letra": "E",
+        "texto": "Abdome agudo obstrutivo."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104876,
+    "tags": [],
+    "enunciado": "Você é chamado à enfermaria para examinar um paciente que possui o diagnóstico de neoplasia do trato gastrintestinal com metástase peritoneal próxima à região da cicatriz umbilical. Como é esperado que estejam a percussão e a palpação da área acometida pelo tumor?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Espera-se que a região de implantação tumoral emita som maciço à percussão e apresente massa palpável aderida à parede abdominal."
+      },
+      {
+        "letra": "B",
+        "texto": "É esperado que a região de implantação tumoral seja timpânica à percussão e não apresente massa palpável."
+      },
+      {
+        "letra": "C",
+        "texto": "Espera-se que a região de implantação apresente macicez móvel à percussão, que muda de localização conforme o paciente altera seu decúbito, e ausência de massa palpável."
+      },
+      {
+        "letra": "D",
+        "texto": "É esperado que a região de implantação tumoral seja timpânica à percussão e apresente massa palpável aderida à parede abdominal."
+      },
+      {
+        "letra": "E",
+        "texto": "Espera-se que a região de implantação tumoral seja maciça à percussão e apresente coleção líquida palpável na região da cicatriz umbilical."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104877,
+    "tags": [],
+    "enunciado": "Em qual setor do abdome é possível palpar o baço de tamanho normal?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hipocôndrio esquerdo."
+      },
+      {
+        "letra": "B",
+        "texto": "Fossa ilíaca esquerda."
+      },
+      {
+        "letra": "C",
+        "texto": "Epigástrio."
+      },
+      {
+        "letra": "D",
+        "texto": "Flanco esquerdo."
+      },
+      {
+        "letra": "E",
+        "texto": "O baço de tamanho normal não é palpável."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 104878,
+    "tags": [],
+    "enunciado": "Em qual setor do abdome é realizada a palpação do fígado?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hipocôndrio esquerdo."
+      },
+      {
+        "letra": "B",
+        "texto": "Hipocôndrio direito."
+      },
+      {
+        "letra": "C",
+        "texto": "Epigástrio."
+      },
+      {
+        "letra": "D",
+        "texto": "Hipogástrio."
+      },
+      {
+        "letra": "E",
+        "texto": "Flanco esquerdo."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104879,
+    "tags": [],
+    "enunciado": "Em que consiste o sinal de Giordano e o que ele indica ao examinador?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O sinal de Giordano é a percussão dolorosa da região lombar do paciente, utilizando a borda hipotenar da mão para aplicar um estímulo moderado que normalmente não seria doloroso. Indica a presença de inflamação da cápsula renal."
+      },
+      {
+        "letra": "B",
+        "texto": "O sinal de Giordano é a presença de dor e interrupção respiratória mediante pressão do examinador sobre o ponto vesicular. Indica a presença de colecistite."
+      },
+      {
+        "letra": "C",
+        "texto": "O sinal de Giordano é a percussão maciça do espaço de Traube, que normalmente encontra-se desocupado. Na maioria dos casos, indica a presença de esplenomegalia."
+      },
+      {
+        "letra": "D",
+        "texto": "O sinal de Giordano é a palpação do fígado com a borda distando mais de 2 cm do rebordo costal direito. É indicativo de hepatomegalia."
+      },
+      {
+        "letra": "E",
+        "texto": "O sinal de Giordano consiste em uma área percussão maciça disposta em um semicírculo ao redor de uma área central de percussão timpânica. É indicativo de ascite."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104880,
+    "tags": [],
+    "enunciado": "Você recebe no ambulatório um paciente com queixa de aumento de volume abdominal e deseja esclarecer se esse aumento é decorrente de ascite. Assinale a alternativa que contém três técnicas semiológicas que revelam a presença de ascite:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sinal de Giordano, semicírculo de Skoda e ausculta das alças intestinais."
+      },
+      {
+        "letra": "B",
+        "texto": "Sinal do piparote, percussão do espaço de Traube e palpação do cólon sigmoide."
+      },
+      {
+        "letra": "C",
+        "texto": "Sinal de Murphy, ausculta das alças intestinas e pesquisa de sopros vasculares."
+      },
+      {
+        "letra": "D",
+        "texto": "Sinal de Giordano, percussão do espaço de Traube e pesquisa de macicez móvel."
+      },
+      {
+        "letra": "E",
+        "texto": "Sinal do piparote, semicírculo de Skoda e pesquisa de macicez móvel."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 104881,
+    "tags": [],
+    "enunciado": "Quais são os limites anatômicos do espaço de Traube, utilizado para a pesquisa de esplenomegalia?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Limite superior: diafragma. Limite inferior: rebordo costal direito. Limite lateral: linha axilar anterior. Limite medial: linha mediana."
+      },
+      {
+        "letra": "B",
+        "texto": "Limite superior: epigástrio. Limite inferior: hipogástrio. Limites laterais: flanco esquerdo e flanco direito."
+      },
+      {
+        "letra": "C",
+        "texto": "Limite superior: linha horizontal no nível mais alto da crista ilíaca. Limite inferior: ligamento inguinal esquerdo. Limite lateral: osso do quadril. Limite medial: hipogástrio."
+      },
+      {
+        "letra": "D",
+        "texto": "Limite superior: diafragma. Limite inferior: rebordo costal esquerdo. Limite lateral: linha axilar anterior. Limite medial: lobo esquerdo do fígado."
+      },
+      {
+        "letra": "E",
+        "texto": "Limite superior: linha horizontal no nível mais alto da crista ilíaca. Limite inferior: ligamento inguinal direito. Limite lateral: osso do quadril. Limite medial: hipogástrio."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104882,
+    "tags": [],
+    "enunciado": "Em qual área da região abdominal é esperado que se encontre som maciço à percussão, sem que isso represente alteração patológica?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hipocôndrio esquerdo."
+      },
+      {
+        "letra": "B",
+        "texto": "Epigástrio"
+      },
+      {
+        "letra": "C",
+        "texto": "Hipocôndrio direito."
+      },
+      {
+        "letra": "D",
+        "texto": "Flancos."
+      },
+      {
+        "letra": "E",
+        "texto": "Fossa ilíaca."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104883,
+    "tags": [],
+    "enunciado": "Assinale a alternativa que contém os dois principais sons pesquisados durante a ausculta da região abdominal:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Murmúrios vesiculares e ruídos hidroaéreos."
+      },
+      {
+        "letra": "B",
+        "texto": "Ruídos hidroaéreos e bulhas."
+      },
+      {
+        "letra": "C",
+        "texto": "Ruídos hidroaéreos e sopros vasculares."
+      },
+      {
+        "letra": "D",
+        "texto": "Sons de Korotkoff e sopros vasculares."
+      },
+      {
+        "letra": "E",
+        "texto": "Murmúrios vesiculares e sopros vasculares."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104884,
+    "tags": [],
+    "enunciado": "Quais dos seguintes achados devem ser valorizados durante a inspeção do abdome?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Alterações da pele ou da pilificação."
+      },
+      {
+        "letra": "B",
+        "texto": "Presença de lesões ou cicatrizes."
+      },
+      {
+        "letra": "C",
+        "texto": "Circulação colateral venosa."
+      },
+      {
+        "letra": "D",
+        "texto": "Descrição do formato do abdome."
+      },
+      {
+        "letra": "E",
+        "texto": "Todas as alternativas."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 104885,
+    "tags": [],
+    "enunciado": "Qual o motivo para a inversão da ordem habitual de exame físico (inspeção, palpação, percussão e ausculta) para inspeção seguida de ausculta, quando se realiza o exame do abdome?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É apenas uma convenção para facilitar a comunicação entre os observadores, sem significado fisiológico."
+      },
+      {
+        "letra": "B",
+        "texto": "O motivo para essa inversão da ordem habitual é que a palpação ou a percussão do abdome são fatores que interferem na ausculta, podendo alterar o padrão dos ruídos hidroaéreos."
+      },
+      {
+        "letra": "C",
+        "texto": "A razão para que a ordem habitual do exame físico seja invertida no exame abdominal é que os dados da ausculta dessa região são sempre mais relevantes na descrição dos quadros, devendo ser colocados em evidência."
+      },
+      {
+        "letra": "D",
+        "texto": "A ausculta é realizada antes da palpação e da percussão porque ela é o dado que demonstra a localização dos órgãos abdominais e orienta a palpação e percussão do examinador."
+      },
+      {
+        "letra": "E",
+        "texto": "Realiza-se a ausculta do abdome primeiro porque os dados obtidos com esse exame são de menor relevância para os quadros, e devem ser logo eliminados do “checklist” do examinador."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104886,
+    "tags": [],
+    "enunciado": "Em um paciente com doença pulmonar obstrutiva crônica com padrão de en(cid:60)sema pulmonar, como é esperado que estejam o frêmito toracovocal (FTV), a percussão e a ausculta da região acometida pela doença, respectivamente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "FTV aumentado, som timpânico à percussão e murmúrios vesiculares presentes."
+      },
+      {
+        "letra": "B",
+        "texto": "FTV diminuído, som submaciço à percussão e murmúrios vesiculares presentes."
+      },
+      {
+        "letra": "C",
+        "texto": "FTV aumentado, som submaciço à percussão e murmúrios vesiculares diminuídos."
+      },
+      {
+        "letra": "D",
+        "texto": "FTV diminuído, som submaciço à percussão e murmúrios vesiculares diminuídos."
+      },
+      {
+        "letra": "E",
+        "texto": "FTV diminuído, som timpânico à percussão e murmúrios vesiculares diminuídos."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 104887,
+    "tags": [],
+    "enunciado": "Em um paciente com condensação pulmonar decorrente de pneumonia, como é mais provável que estejam o frêmito toracovocal (FTV), a percussão e a ausculta da região condensada, respectivamente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "FTV aumentado, som submaciço à percussão e murmúrios vesiculares ausentes com estertores finos na expiração."
+      },
+      {
+        "letra": "B",
+        "texto": "FTV reduzido, som timpânico à percussão e murmúrios vesiculares ausentes sem ruídos adventícios."
+      },
+      {
+        "letra": "C",
+        "texto": "FTV aumentado, som timpânico à percussão e murmúrios vesiculares presentes sem ruídos adventícios."
+      },
+      {
+        "letra": "D",
+        "texto": "FTV reduzido, som submaciço à percussão e murmúrios vesiculares presentes com estertores finos na expiração."
+      },
+      {
+        "letra": "E",
+        "texto": "FTV reduzido, som claro pulmonar à percussão e murmúrios vesiculares presentes com estertores finos na expiração."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104888,
+    "tags": [],
+    "enunciado": "Qual dos seguintes achados é considerado eminentemente patológico na ausculta pulmonar?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Murmúrios vesiculares."
+      },
+      {
+        "letra": "B",
+        "texto": "Som laringotraqueal."
+      },
+      {
+        "letra": "C",
+        "texto": "Respiração brônquica."
+      },
+      {
+        "letra": "D",
+        "texto": "Atrito pleural."
+      },
+      {
+        "letra": "E",
+        "texto": "Ausculta da voz abafada."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104889,
+    "tags": [],
+    "enunciado": "Marque a alternativa que contém um exemplo de ausculta pulmonar normal:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Murmúrios vesiculares presentes, ausculta da voz normal, sem ruídos adventícios."
+      },
+      {
+        "letra": "B",
+        "texto": "Murmúrios vesiculares abolidos, ausculta da voz claramente distinguível, sem ruídos adventícios."
+      },
+      {
+        "letra": "C",
+        "texto": "Murmúrios vesiculares presentes, ausculta da voz normal, presença de atrito pleural."
+      },
+      {
+        "letra": "D",
+        "texto": "Murmúrios vesiculares diminuídos, ausculta da voz normal, estertores finos em bases pulmonares bilateralmente."
+      },
+      {
+        "letra": "E",
+        "texto": "Murmúrios vesiculares presentes, ausculta da voz claramente distinguível, roncos altos durante a inspiração em base esquerda."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104890,
+    "tags": [],
+    "enunciado": "Considere o seguinte achado de exame físico pulmonar: “Som timpânico à percussão em ápices e bases pulmonares bilateralmente”.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "qual dos pacientes a seguir é mais provável que pertença o exame supracitado:"
+      },
+      {
+        "letra": "A",
+        "texto": "GFA, 12 anos, sexo masculino. Internado no Pronto Socorro há 1 dia por pneumonia lobar à direita."
+      },
+      {
+        "letra": "B",
+        "texto": "HBF, 70 anos, sexo masculino. Tabagismo 50 anos-maço. Internado na enfermaria há 7 dias por doença pulmonar obstrutiva crônica descompensada."
+      },
+      {
+        "letra": "C",
+        "texto": "VAS, 20 anos, sexo masculino. Internado na enfermaria da cirurgia geral no 3º dia pós-operatório de apendicectomia. Sem queixas."
+      },
+      {
+        "letra": "D",
+        "texto": "HD, 29 dias de idade, sexo masculino. Admitido ao Pronto Socorro com sinais de dispneia e diagnosticado com bronquiolite."
+      },
+      {
+        "letra": "E",
+        "texto": "BNT, 20 anos, sexo feminino. Admitida ao Pronto Socorro por crise asmática aguda, controlada com broncodilatadores. Estável e com alta programada."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104891,
+    "tags": [],
+    "enunciado": "Você, estudante de Medicina, está na aula de Semiologia treinando a percussão do tórax em seus colegas de turma, preparando-se para ir ao ambulatório examinar pacientes. Ao percutir a região do quinto espaço intercostal direito de seu parceiro de exame (um estudante jovem, hígido e sem comorbidades), você observa um som maciço advindo daquela área. Qual a mais provável origem desse som?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Área cardíaca."
+      },
+      {
+        "letra": "B",
+        "texto": "Bolha aérea gástrica."
+      },
+      {
+        "letra": "C",
+        "texto": "Derrame pleural."
+      },
+      {
+        "letra": "D",
+        "texto": "Parênquima hepático."
+      },
+      {
+        "letra": "E",
+        "texto": "Cavitação aérea decorrente de tuberculose pulmonar ativa."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104892,
+    "tags": [],
+    "enunciado": "Durante a percussão do tórax de um paciente internado na enfermaria, você, estudante de Medicina, escuta um som submaciço localizado na base pulmonar esquerda. O restante do pulmão apresenta som claro pulmonar à percussão. Qual dos seguintes diagnósticos é mais provável de estar acometendo a base pulmonar esquerda desse paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Enfisema pulmonar."
+      },
+      {
+        "letra": "B",
+        "texto": "Pneumonia."
+      },
+      {
+        "letra": "C",
+        "texto": "Derrame pleural."
+      },
+      {
+        "letra": "D",
+        "texto": "Pneumotórax."
+      },
+      {
+        "letra": "E",
+        "texto": "Cavitações aéreas."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104893,
+    "tags": [],
+    "enunciado": "Como é denominada a vibração palpável decorrente da transmissão da voz ao longo do parênquima pulmonar, e em qual situação você esperaria que ela estivesse aumentada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Murmúrio vesicular, aumentado em casos de derrame pleural."
+      },
+      {
+        "letra": "B",
+        "texto": "Frêmito toracovocal, aumentado em casos de enfisema pulmonar."
+      },
+      {
+        "letra": "C",
+        "texto": "Frêmito toracovocal, aumentado em casos de consolidação pulmonar."
+      },
+      {
+        "letra": "D",
+        "texto": "Ausculta da voz, aumentada em casos de derrame pleural."
+      },
+      {
+        "letra": "E",
+        "texto": "Murmúrio vesicular, aumentado em casos de enfisema pulmonar."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104894,
+    "tags": [],
+    "enunciado": "Assinale a alternativa que descreve a técnica correta de pesquisa da expansibilidade torácica:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A expansibilidade torácica é adequadamente avaliada apenas pela inspeção do movimentos respiratórios, não sendo necessário rotineiramente pôr as mãos no paciente."
+      },
+      {
+        "letra": "B",
+        "texto": "A expansibilidade torácica é avaliada com maior sensibilidade colocando as mãos sobre o dorso do paciente e observando o afastamento rítmico dos dedos. Devido às estruturas interpostas, não é possível avaliar a expansibilidade na região anterior do tórax."
+      },
+      {
+        "letra": "C",
+        "texto": "A expansibilidade torácica pode ser avaliada tanto na região anterior quanto na região posterior do tórax, e consiste em posicionar as mãos do examinador ao redor do paciente e observar o afastamento rítmico dos dedos conforme o examinado respira."
+      },
+      {
+        "letra": "D",
+        "texto": "A expansibilidade torácica é avaliada mediante as características fonéticas da respiração auscultada, que muda seu padrão sonoro conforme o tórax expande mais ou menos."
+      },
+      {
+        "letra": "E",
+        "texto": "A expansibilidade torácica é avaliada por meio da percussão do tórax, que se torna mais timpânico conforme a magnitude dos movimentos respiratórios se intensifica."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104895,
+    "tags": [],
+    "enunciado": "Qual a primeira etapa do exame físico pulmonar?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ausculta."
+      },
+      {
+        "letra": "B",
+        "texto": "Percussão."
+      },
+      {
+        "letra": "C",
+        "texto": "Expansibilidade torácica."
+      },
+      {
+        "letra": "D",
+        "texto": "Palpação do frêmito toracovocal."
+      },
+      {
+        "letra": "E",
+        "texto": "Inspeção estática e dinâmica."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 104896,
+    "tags": [],
+    "enunciado": "Qual a referência utilizada na prática para localizar o segundo espaço intercostal durante o exame físico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O segundo espaço intercostal se localiza na região superior à fúrcula esternal."
+      },
+      {
+        "letra": "B",
+        "texto": "O segundo espaço intercostal é o espaço no qual é possível palpar o ictus cordis."
+      },
+      {
+        "letra": "C",
+        "texto": "Abaixo do apêndice xifoide do esterno podemos localizar o segundo espaço intercostal."
+      },
+      {
+        "letra": "D",
+        "texto": "Considera-se que o espaço intercostal na mesma altura dos mamilos é o segundo espaço."
+      },
+      {
+        "letra": "E",
+        "texto": "O segundo espaço intercostal se localiza lateral à junção do corpo do esterno com o manúbrio esternal."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 104897,
+    "tags": [],
+    "enunciado": "A pesquisa de frêmitos faz parte do exame cardíaco, constituindo parte da etapa de palpação. Entre as alternativas abaixo, qual a melhor definição de frêmito no contexto do exame do coração?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Frêmitos são o aspecto palpável de um sopro cardíaco."
+      },
+      {
+        "letra": "B",
+        "texto": "Frêmito é o som do choque da ponta do ápice do coração contra a parede torácica, representando a contração cardíaca."
+      },
+      {
+        "letra": "C",
+        "texto": "Frêmitos são ruídos aéreos que indicam a presença de ar dentro da cavidade pericárdica."
+      },
+      {
+        "letra": "D",
+        "texto": "Frêmito é o som decorrente do atrito pericárdico."
+      },
+      {
+        "letra": "E",
+        "texto": "Frêmitos são ruídos decorrentes da atividade cardíaca que indicam o funcionamento normal do coração."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104898,
+    "tags": [],
+    "enunciado": "Em qual das áreas de ausculta é mais indicado pesquisar um sopro que tem origem em uma das valvas semilunares do coração?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Foco mitral."
+      },
+      {
+        "letra": "B",
+        "texto": "Foco aórtico."
+      },
+      {
+        "letra": "C",
+        "texto": "Foco tricúspide."
+      },
+      {
+        "letra": "D",
+        "texto": "Ausculta do abdome."
+      },
+      {
+        "letra": "E",
+        "texto": "Ausculta do dorso."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104899,
+    "tags": [],
+    "enunciado": "O tempo de enchimento capilar (TEC) é um sinal que pode indicar má perfusão periférica nos pacientes, fazendo parte do exame físico geral. Em qual dos locais abaixo é mais indicado fazer a pesquisa do TEC?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Face."
+      },
+      {
+        "letra": "B",
+        "texto": "Dorso da mão."
+      },
+      {
+        "letra": "C",
+        "texto": "Abdome."
+      },
+      {
+        "letra": "D",
+        "texto": "Leito ungueal."
+      },
+      {
+        "letra": "E",
+        "texto": "Antebraço."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104900,
+    "tags": [],
+    "enunciado": "A ausculta cardíaca é uma etapa fundamental do exame do coração, capaz de oferecer muitas informações valiosas para o diagnóstico. Imagine que você, estudante de Medicina, ausculta um paciente e não encontra nenhuma alteração no exame. Entre as alternativas abaixo, qual seria a maneira mais correta de registrar essa informação no prontuário?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Bulhas rítmicas, normofonéticas, em dois tempos (B1 e B2), sem sopros."
+      },
+      {
+        "letra": "B",
+        "texto": "Bulhas rítmicas taquicárdicas (FC=110 bpm), em dois tempos (B1 e B2), sem sopros."
+      },
+      {
+        "letra": "C",
+        "texto": "Bulhas rítmicas taquicárdicas (FC=115 bpm), em três tempos (B1, B2 e B3), ritmo de galope, sem sopros."
+      },
+      {
+        "letra": "D",
+        "texto": "Bulhas rítmicas hipofonéticas, em três tempos (B1, B2 e B3), ritmo de galope, sem sopros."
+      },
+      {
+        "letra": "E",
+        "texto": "Bulhas rítmicas, normofonéticas, em dois tempos (B1 e B2), com presença de sopro sistólico (++/4+) em foco mitral."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104901,
+    "tags": [],
+    "enunciado": "Uma parte fundamental do exame cardíaco é a inspeção das veias jugulares. Uma distensão das veias jugulares, quando o paciente está deitado a 45º, pode indicar qual dos processos abaixo:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hipotensão sistêmica."
+      },
+      {
+        "letra": "B",
+        "texto": "Hipertensão venosa."
+      },
+      {
+        "letra": "C",
+        "texto": "Perfusão de extremidades adequada."
+      },
+      {
+        "letra": "D",
+        "texto": "Hipotensão venosa."
+      },
+      {
+        "letra": "E",
+        "texto": "Redução da volemia."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104902,
+    "tags": [],
+    "enunciado": "Assinale a alternativa que melhor descreve o mecanismo de surgimento da quarta bulha (B4) na ausculta cardíaca:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A quarta bulha é um sopro audível na estenose aórtica, que decorre da tentativa de ejetar o sangue forçosamente contra a valva aórtica enrijecida durante a sístole ventricular."
+      },
+      {
+        "letra": "B",
+        "texto": "A quarta bulha é o som fisiológico produzido pelo desdobramento da primeira bulha em dois sons quando ela é auscultada durante a inspiração."
+      },
+      {
+        "letra": "C",
+        "texto": "A quarta bulha tem origem no choque do sangue ejetado pela contração atrial contra a massa de sangue represada no ventrículo no fim da diástole."
+      },
+      {
+        "letra": "D",
+        "texto": "A quarta bulha é um sopro bastante característico que ocorre durante a diástole, também chamada de sopro em ruflar, é decorrente do enrijecimento da valva mitral nos casos de estenose mitral."
+      },
+      {
+        "letra": "E",
+        "texto": "A quarta bulha é o som decorrente do fechamento da valva pulmonar no início da diástole ventricular."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104903,
+    "tags": [],
+    "enunciado": "Assinale a alternativa que melhor descreve o mecanismo de surgimento da terceira bulha (B3) na ausculta cardíaca:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A terceira bulha representa o fechamento das valvas atrioventriculares do coração no início da sístole ventricular."
+      },
+      {
+        "letra": "B",
+        "texto": "A terceira bulha é causada pela desaceleração brusca do sangue que se choca contra a parede ventricular durante a fase de enchimento rápido do ciclo cardíaco."
+      },
+      {
+        "letra": "C",
+        "texto": "A terceira bulha representa o fechamento das valvas semilunares do coração no início da diástole ventricular."
+      },
+      {
+        "letra": "D",
+        "texto": "A terceira bulha é um sopro audível em casos de insuficiência mitral, nos quais a valva mitral não é capaz de se fechar adequadamente e deixa refluir sangue para os átrios durante a sístole ventricular."
+      },
+      {
+        "letra": "E",
+        "texto": "A terceira bulha tem origem no choque da ponta do ápice cardíaco contra a parede torácica durante a contração ventricular."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104904,
+    "tags": [],
+    "enunciado": "Marque a alternativa que associa corretamente os fenômenos (cid:60)siológicos que dão origem aos sons auscultáveis durante o exame cardíaco normal, chamados primeira bulha (B1) e segunda bulha (B2):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "B1 – Fechamento da valva mitral. B2 – Fechamento da valva tricúspide."
+      },
+      {
+        "letra": "B",
+        "texto": "B1 – Fechamento da valva pulmonar. B2 – Fechamento da valva aórtica."
+      },
+      {
+        "letra": "C",
+        "texto": "B1 – Fechamento das valvas aórtica e pulmonar. B2 – Fechamento das valvas mitral e tricúspide."
+      },
+      {
+        "letra": "D",
+        "texto": "B1 – Fechamento das valvas mitral e tricúspide. B2 – Fechamento das valvas aórtica e pulmonar."
+      },
+      {
+        "letra": "E",
+        "texto": "B1 – Fechamento da valva aórtica. B2 – Fechamento da valva mitral."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104905,
+    "tags": [],
+    "enunciado": "Durante o exame cardíaco, a pesquisa do ictus cordis deve fazer parte da inspeção e da palpação. Em qual das seguintes regiões você esperaria encontrar o ictus cordis em um paciente saudável?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "No 4º ou 5º espaço intercostal, próximo à linha hemiclavicular esquerda."
+      },
+      {
+        "letra": "B",
+        "texto": "Na fossa supraclavicular esquerda."
+      },
+      {
+        "letra": "C",
+        "texto": "No 4º ou 5º espaço intercostal, junto à borda esquerda do osso esterno."
+      },
+      {
+        "letra": "D",
+        "texto": "Na fúrcula esternal."
+      },
+      {
+        "letra": "E",
+        "texto": "No 4º ou 5º espaço intercostal, na região da linha hemiclavicular direita."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104906,
+    "tags": [],
+    "enunciado": "A frequência respiratória é um importante parâmetro a ser avaliado durante o exame físico, sendo um indicador de descompensação quando está muito alterada. Qual das seguintes patologias pode levar a um aumento da frequência respiratória?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hipotireoidismo."
+      },
+      {
+        "letra": "B",
+        "texto": "Bronquite crônica."
+      },
+      {
+        "letra": "C",
+        "texto": "Intoxicação por opioides."
+      },
+      {
+        "letra": "D",
+        "texto": "Pneumonia."
+      },
+      {
+        "letra": "E",
+        "texto": "Rebaixamento do nível de consciência."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104907,
+    "tags": [],
+    "enunciado": "Durante o exame físico dos pacientes, é importante que se avalie a frequência cardíaca e suas alterações. Qual é a faixa de frequência cardíaca considerada normal em adultos sadios?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "60 a 100 batimentos por minuto."
+      },
+      {
+        "letra": "B",
+        "texto": "60 a 80 batimentos por minuto."
+      },
+      {
+        "letra": "C",
+        "texto": "80 a 100 batimentos por minuto."
+      },
+      {
+        "letra": "D",
+        "texto": "Acima de 100 batimentos por minuto."
+      },
+      {
+        "letra": "E",
+        "texto": "Abaixo de 60 batimentos por minuto."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104908,
+    "tags": [],
+    "enunciado": "A medida da temperatura dos pacientes pode ser utilizada para diagnosticar febre, que sugere a instalação de determinadas doenças. Quais das seguintes situações clínicas podem cursar com a presença de febre?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Infecções."
+      },
+      {
+        "letra": "B",
+        "texto": "Doenças inflamatórias."
+      },
+      {
+        "letra": "C",
+        "texto": "Doenças autoimunes."
+      },
+      {
+        "letra": "D",
+        "texto": "Neoplasias."
+      },
+      {
+        "letra": "E",
+        "texto": "Todas as alternativas."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 104909,
+    "tags": [],
+    "enunciado": "Assinale a alternativa que constitui um erro de técnica durante a palpação dos pulsos arteriais periféricos:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Palpar simultaneamente os pulsos equivalentes contralaterais."
+      },
+      {
+        "letra": "B",
+        "texto": "Palpar o pulso utilizando o dedo polegar."
+      },
+      {
+        "letra": "C",
+        "texto": "Calcular a frequência de pulso contando o número de pulsos por 30 segundos e multiplicando o valor obtido por 2."
+      },
+      {
+        "letra": "D",
+        "texto": "Palpar os pulsos do membros no sentido de distal para proximal."
+      },
+      {
+        "letra": "E",
+        "texto": "Analisar a ritmicidade e a intensidade dos pulsos."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104910,
+    "tags": [],
+    "enunciado": "Qual a importância de realizar, sobretudo em pacientes idosos, a aferição da pressão arterial em decúbito dorsal seguida por uma medida da mesma pressão em pé?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Prover maior conforto ao paciente durante o exame."
+      },
+      {
+        "letra": "B",
+        "texto": "Testar a funcionalidade do esfigmomanômetro contra a gravidade."
+      },
+      {
+        "letra": "C",
+        "texto": "Verificar o equilíbrio do paciente."
+      },
+      {
+        "letra": "D",
+        "texto": "Aumentar a fidelidade do exame ao realizar duas medidas."
+      },
+      {
+        "letra": "E",
+        "texto": "Realizar o diagnóstico de hipotensão postural."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 104911,
+    "tags": [],
+    "enunciado": "A medida da pressão arterial é parte fundamental do exame físico geral, devendo ser realizada para a grande maioria dos pacientes. Quais valores de pressão arterial são utilizados como corte para o diagnóstico de hipertensão arterial sistêmica?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pressão sistólica maior do que 120 mmHg e diastólica maior do que 80 mmHg."
+      },
+      {
+        "letra": "B",
+        "texto": "Pressão diastólica maior do que 120 mmHg e sistólica maior do que 80 mmHg."
+      },
+      {
+        "letra": "C",
+        "texto": "Pressão sistólica maior do que 140 mmHg e diastólica maior do que 90 mmHg."
+      },
+      {
+        "letra": "D",
+        "texto": "Pressão diastólica maior do que 140 mmHg e sistólica maior do que 90 mmHg."
+      },
+      {
+        "letra": "E",
+        "texto": "Pressão sistólica maior do que 180 mmHg e diastólica maior do que 120 mmHg."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104912,
+    "tags": [],
+    "enunciado": "Como é realizado o cálculo do índice de massa corpórea (IMC)?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "IMC = Peso (Kg) / Altura² (m)."
+      },
+      {
+        "letra": "B",
+        "texto": "IMC = Circunferência Abdominal / Circunferência do Quadril."
+      },
+      {
+        "letra": "C",
+        "texto": "IMC = Peso (Kg) / Altura (cm)."
+      },
+      {
+        "letra": "D",
+        "texto": "IMC = Peso (g) / Área de superfície corpórea (m²)."
+      },
+      {
+        "letra": "E",
+        "texto": "IMC = Circunferência do Quadril / Circunferência Abdominal."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104913,
+    "tags": [],
+    "enunciado": "O estado de hidratação do paciente pode ser percebido ao exame clínico, mas existem diversas situações que di(cid:60)cultam essa análise. Assinale a alternativa que contém uma situação que pode falsear o diagnóstico de desidratação:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hemorragia."
+      },
+      {
+        "letra": "B",
+        "texto": "Alterações senis."
+      },
+      {
+        "letra": "C",
+        "texto": "Diarreias e vômitos."
+      },
+      {
+        "letra": "D",
+        "texto": "Redução da ingesta hídrica no paciente acamado."
+      },
+      {
+        "letra": "E",
+        "texto": "Febre persistente."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104914,
+    "tags": [],
+    "enunciado": "Durante o exame físico geral, é importante classi(cid:60)car o paciente quanto à presença de dispneia no momento da consulta. Qual o conceito que melhor define dispneia?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Número aumentado de incursões respiratórias por minuto."
+      },
+      {
+        "letra": "B",
+        "texto": "Número reduzido de incursões respiratórias por minuto."
+      },
+      {
+        "letra": "C",
+        "texto": "Presença de líquido nos alvéolos do pulmão."
+      },
+      {
+        "letra": "D",
+        "texto": "Redução da amplitude dos movimentos respiratórios."
+      },
+      {
+        "letra": "E",
+        "texto": "Relato subjetivo de “falta de ar” por parte do paciente ou alteração visível do padrão respiratório."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 104915,
+    "tags": [],
+    "enunciado": "Qual dos seguintes parâmetros se traduz na coloração azulada clinicamente observável na pele e nas mucosas, denominada cianose?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aumento do nível sérico de cálcio."
+      },
+      {
+        "letra": "B",
+        "texto": "Redução da filtração glomerular."
+      },
+      {
+        "letra": "C",
+        "texto": "Queda na concentração de hemoglobina."
+      },
+      {
+        "letra": "D",
+        "texto": "Elevação da proteína C reativa."
+      },
+      {
+        "letra": "E",
+        "texto": "Queda na saturação de oxigênio da hemoglobina."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 104916,
+    "tags": [],
+    "enunciado": "Marque a alternativa que contém o parâmetro laboratorial responsável pela coloração amarelada presente na pele e nos olhos de alguns doentes, chamada icterícia:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hiperbilirrubinemia."
+      },
+      {
+        "letra": "B",
+        "texto": "Elevação do hematócrito."
+      },
+      {
+        "letra": "C",
+        "texto": "Creatinina elevada."
+      },
+      {
+        "letra": "D",
+        "texto": "Hiperglicemia."
+      },
+      {
+        "letra": "E",
+        "texto": "Hipercalemia."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104917,
+    "tags": [],
+    "enunciado": "Em qual região deve ser preferencialmente realizada a inspeção do estado de palidez dos pacientes?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pele do dorso."
+      },
+      {
+        "letra": "B",
+        "texto": "Esclera ocular."
+      },
+      {
+        "letra": "C",
+        "texto": "Palma das mãos."
+      },
+      {
+        "letra": "D",
+        "texto": "Dobras cutâneas."
+      },
+      {
+        "letra": "E",
+        "texto": "Pele sobre o olécrano."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104918,
+    "tags": [],
+    "enunciado": "A avaliação do estado geral do paciente é normalmente a primeira parte do exame físico, e consiste em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Medir o peso e a altura do paciente."
+      },
+      {
+        "letra": "B",
+        "texto": "Realizar o interrogatório sobre diversos aparelhos (ISDA)."
+      },
+      {
+        "letra": "C",
+        "texto": "Registrar a impressão inicial que o médico tem do paciente."
+      },
+      {
+        "letra": "D",
+        "texto": "Avaliar o estado neurológico do paciente, graduando-o na escala de coma de Glasgow e na escala RASS."
+      },
+      {
+        "letra": "E",
+        "texto": "Examinar a pele, mucosas e pulsos arteriais."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104919,
+    "tags": [],
+    "enunciado": "Em que consiste a investigação sobre os diversos aparelhos (ISDA)?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Investigação direcionada e objetiva guiada pelos sistemas do paciente, de forma a rastrear queixas não trazidas pelo doente que possam ser úteis no diagnóstico atual ou sirvam para orientá-lo em outro processo patológico."
+      },
+      {
+        "letra": "B",
+        "texto": "Questionamento exaustivo acerca de todos os órgãos e sistemas, que deve ser realizada para todos os pacientes."
+      },
+      {
+        "letra": "C",
+        "texto": "Exame físico minucioso, geralmente realizado no sentido da cabeça aos pés, e contendo inspeção, palpação, percussão e ausculta de todos os órgãos relevantes nesse caminho."
+      },
+      {
+        "letra": "D",
+        "texto": "Exame clínico e solicitação de exames complementares sobre os diversos sistemas que compõem o organismo do paciente, de forma a compreender o panorama geral da situação de saúde do doente."
+      },
+      {
+        "letra": "E",
+        "texto": "Questionamento geral a respeito dos sistemas do paciente, sem buscar ativamente algum sintoma."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104920,
+    "tags": [],
+    "enunciado": "Qual das informações a seguir deve ser perguntada durante a investigação de hábitos e vícios da anamnese?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tabagismo."
+      },
+      {
+        "letra": "B",
+        "texto": "Presença de Hipertensão Arterial na família."
+      },
+      {
+        "letra": "C",
+        "texto": "Cirurgias prévias."
+      },
+      {
+        "letra": "D",
+        "texto": "Imunizações."
+      },
+      {
+        "letra": "E",
+        "texto": "Antecedentes obstétricos."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104921,
+    "tags": [],
+    "enunciado": "Na seção de antecedentes familiares da anamnese, o médico questiona acerca do estado de saúde dos integrantes da família imediata do paciente. Qual das seguintes doenças chama mais atenção, pelo seu componente genético, quando mencionada em um parente de 1º grau do paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Diabetes Mellitus."
+      },
+      {
+        "letra": "B",
+        "texto": "Doença renal crônica."
+      },
+      {
+        "letra": "C",
+        "texto": "Insuficiência cardíaca congestiva."
+      },
+      {
+        "letra": "D",
+        "texto": "Traumatismo cranioencefálico."
+      },
+      {
+        "letra": "E",
+        "texto": "Infecções bacterianas."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104922,
+    "tags": [],
+    "enunciado": "Os antecedentes pessoais do paciente são importante parte da anamnese, fornecendo ao médico informações valiosas. Considerando a divisão clássica da anamnese, assinale a alternativa que contém um aspecto que deve ser perguntado durante a investigação dos antecedentes pessoais:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Naturalidade do paciente."
+      },
+      {
+        "letra": "B",
+        "texto": "Histórico de câncer na família."
+      },
+      {
+        "letra": "C",
+        "texto": "Motivo principal da consulta médica."
+      },
+      {
+        "letra": "D",
+        "texto": "Medicamentos em uso."
+      },
+      {
+        "letra": "E",
+        "texto": "Idade do paciente."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104923,
+    "tags": [],
+    "enunciado": "Durante a descrição de um sintoma trazido pelo paciente, é importante que o médico caracterize adequadamente diversos aspectos relevantes da queixa. Qual das alternativas abaixo contém aspectos que devem ser interrogados na investigação de um sintoma?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Duração."
+      },
+      {
+        "letra": "B",
+        "texto": "Localização."
+      },
+      {
+        "letra": "C",
+        "texto": "Quantidade."
+      },
+      {
+        "letra": "D",
+        "texto": "Qualidade."
+      },
+      {
+        "letra": "E",
+        "texto": "Todas as alternativas."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 104924,
+    "tags": [],
+    "enunciado": "A identi(cid:60)cação é a primeira parte de uma anamnese médica, permitindo que o pro(cid:60)ssional de saúde conheça o paciente que está sendo cuidado. Pertencem à identi(cid:60)cação do paciente os seguintes dados abaixo, exceto:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Idade."
+      },
+      {
+        "letra": "B",
+        "texto": "Sexo."
+      },
+      {
+        "letra": "C",
+        "texto": "Ocupação."
+      },
+      {
+        "letra": "D",
+        "texto": "Peso e altura."
+      },
+      {
+        "letra": "E",
+        "texto": "Naturalidade."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104925,
+    "tags": [],
+    "enunciado": "Na prática médica, como se diferenciam os conceitos de sintoma e de sinal?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os sintomas são alterações de menor relevância para a doença atual, enquanto que os sinais são as alterações consideradas mais relevantes."
+      },
+      {
+        "letra": "B",
+        "texto": "Sintomas são queixas de causa psíquica (como tristeza, ansiedade etc.) e sinais são queixas físicas (como cefaleia e síncope, por exemplo)."
+      },
+      {
+        "letra": "C",
+        "texto": "Os sintomas são alterações pregressas, fazendo parte do histórico do paciente, e os sinais são alterações atuais do organismo."
+      },
+      {
+        "letra": "D",
+        "texto": "Os sintomas são as queixas referidas pelo paciente (dor, náuseas, astenia) e os sinais são as alterações percebidas pelo médico (hipertensão, febre)."
+      },
+      {
+        "letra": "E",
+        "texto": "Sintomas são queixas que fazem parte de um conjunto (síndrome), e sinais são alterações isoladas percebidas pelo médico."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104926,
+    "tags": [],
+    "enunciado": "A articulação do tornozelo ocorre entre tíbia, fíbula e tálus, sendo este último pertencente aos ossos do tarso. Classifique a articulação do tornozelo de acordo com a sua morfologia:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Articulação sinovial do tipo plana."
+      },
+      {
+        "letra": "B",
+        "texto": "Articulação sinovial do tipo gínglimo."
+      },
+      {
+        "letra": "C",
+        "texto": "Articulação sinovial do tipo selar."
+      },
+      {
+        "letra": "D",
+        "texto": "Articulação sinovial do tipo elipsoidea."
+      },
+      {
+        "letra": "E",
+        "texto": "Articulação sinovial do tipo esferoidea."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104927,
+    "tags": [],
+    "enunciado": "Além da ação dos músculos adjacentes, a articulação do joelho também é fortalecida por poderosos ligamentos, localizados tanto no interior quanto no exterior da cápsula articular. Qual das alternativas abaixo cita corretamente os ligamentos externos do joelho?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ligamento da patela, ligamento colateral tibial, ligamento colateral fibular, ligamento poplíteo oblíquo e ligamento poplíteo arqueado."
+      },
+      {
+        "letra": "B",
+        "texto": "Ligamento talofibular anterior, ligamento da patela, ligamento poplíteo anterior, ligamento poplíteo posterior e ligamento poplíteo lateral."
+      },
+      {
+        "letra": "C",
+        "texto": "Ligamento cruzado anterior e ligamento cruzado posterior."
+      },
+      {
+        "letra": "D",
+        "texto": "Menisco medial e menisco lateral."
+      },
+      {
+        "letra": "E",
+        "texto": "Ligamento da patela, ligamento tibiofemoral, ligamento colateral tibial, ligamento colateral fibular e ligamento colateral posterior."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104928,
+    "tags": [],
+    "enunciado": "A articulação do joelho é uma das mais importantes do membro inferior, sendo um frequente alvo de lesões traumáticas ou degenerativas. Classifique a articulação do joelho de acordo com a sua morfologia:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Articulação sinovial do tipo esferoidea."
+      },
+      {
+        "letra": "B",
+        "texto": "Articulação sinovial do tipo gínglimo."
+      },
+      {
+        "letra": "C",
+        "texto": "Articulação sinovial do tipo selar."
+      },
+      {
+        "letra": "D",
+        "texto": "Articulação sinovial do tipo elipsoidea."
+      },
+      {
+        "letra": "E",
+        "texto": "Articulação sinovial do tipo plana."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104929,
+    "tags": [],
+    "enunciado": "A articulação do quadril é fundamental para a sustentação do peso do corpo e para a mobilidade do membro inferior. Assinale a alternativa que classifica corretamente a articulação do quadril:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Articulação sinovial do tipo gínglimo."
+      },
+      {
+        "letra": "B",
+        "texto": "Articulação sinovial do tipo esferoidea."
+      },
+      {
+        "letra": "C",
+        "texto": "Articulação fibrosa do tipo sindesmose."
+      },
+      {
+        "letra": "D",
+        "texto": "Articulação cartilaginosa do tipo sínfise."
+      },
+      {
+        "letra": "E",
+        "texto": "Articulação sinovial do tipo selar."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104930,
+    "tags": [],
+    "enunciado": "Você é chamado para examinar um paciente vítima de transecção completa de medula espinhal a nível de C3, internado em unidade de terapia intensiva. Seu professor informa que o paciente evoluiu com tetraplegia e está respirando com o auxílio de ventilação mecânica. Como se espera que estejam, nesse paciente, os reflexos cutâneo-plantar e cutâneo abdominal?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cutâneo-plantar em extensão, cutâneo abdominal aumentado de intensidade."
+      },
+      {
+        "letra": "B",
+        "texto": "Cutâneo-plantar em extensão, cutâneo abdominal abolido."
+      },
+      {
+        "letra": "C",
+        "texto": "Cutâneo-plantar em flexão, cutâneo abdominal aumentado de intensidade."
+      },
+      {
+        "letra": "D",
+        "texto": "Cutâneo-plantar em flexão, cutâneo abdominal abolido."
+      },
+      {
+        "letra": "E",
+        "texto": "Provavelmente ambos os reflexos estão preservados."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104931,
+    "tags": [],
+    "enunciado": "O tônus muscular é uma característica que pode estar alterada em determinados quadros neurológicos, fazendo parte do exame clínico. Qual a mais provável alteração do tônus de um paciente vítima de acidente vascular cerebral extenso do lado esquerdo do córtex?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hipotonia no membro superior direito."
+      },
+      {
+        "letra": "B",
+        "texto": "Hipertonia no membro superior direito."
+      },
+      {
+        "letra": "C",
+        "texto": "Hipotonia no membro superior esquerdo."
+      },
+      {
+        "letra": "D",
+        "texto": "Hipertonia no membro superior esquerdo."
+      },
+      {
+        "letra": "E",
+        "texto": "O tônus não sofre influência do córtex."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104932,
+    "tags": [],
+    "enunciado": "Em qual das seguintes situações a pesquisa dos re(cid:89)exos miotáticos pode auxiliar no diagnóstico diferencial entre duas doenças?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Diferenciar paresia por lesão medular do corno anterior de lesão da raiz anterior do nervo espinhal."
+      },
+      {
+        "letra": "B",
+        "texto": "Diferenciar paresia por lesão do neurônio motor superior de lesão do neurônio motor superior."
+      },
+      {
+        "letra": "C",
+        "texto": "Diferenciar paresia por lesão de nervo periférico de lesão muscular."
+      },
+      {
+        "letra": "D",
+        "texto": "Diferenciar paresia por lesão de nervo periférico de lesão de plexo nervoso."
+      },
+      {
+        "letra": "E",
+        "texto": "Diferenciar paresia por lesão medular do corno anterior de lesão do nervo periférico."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104933,
+    "tags": [],
+    "enunciado": "Qual das seguintes manobras não é utilizada para diagnosticar ataxia em pacientes com queixas compatíveis?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Teste do índex-nariz."
+      },
+      {
+        "letra": "B",
+        "texto": "Avaliação da marcha."
+      },
+      {
+        "letra": "C",
+        "texto": "Teste de diadococinesia."
+      },
+      {
+        "letra": "D",
+        "texto": "Sinal de Romberg."
+      },
+      {
+        "letra": "E",
+        "texto": "Prova de Brudzinski."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 104934,
+    "tags": [],
+    "enunciado": "A pesquisa de sensibilidade geral é parte do exame neurológico, e tem como objetivo investigar as vias neurais envolvidas nas transdução dos sentidos. Nesse contexto, assinale a alternativa que correlaciona corretamente o exame de sensibilidade e uma via medular que está sendo testada por ele:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pesquisa de sensibilidade térmica – Fascículos grácil e cuneiforme."
+      },
+      {
+        "letra": "B",
+        "texto": "Pesquisa de sensibilidade tátil – Trato vestibuloespinhal."
+      },
+      {
+        "letra": "C",
+        "texto": "Pesquisa de propriocepção consciente – Trato espinotalâmico anterior."
+      },
+      {
+        "letra": "D",
+        "texto": "Pesquisa de sensibilidade vibratória – Trato corticoespinhal lateral."
+      },
+      {
+        "letra": "E",
+        "texto": "Pesquisa de sensibilidade dolorosa – Trato espinotalâmico lateral."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 104935,
+    "tags": [],
+    "enunciado": "Imagine que você está acompanhando o ambulatório de Neurologia e o seu preceptor pede para que você avalie a força de (cid:89)exão do cotovelo de um paciente em recuperação pós acidente vascular cerebral. Você observa que o paciente não é capaz de realizar o movimento contra a gravidade, mas consegue (cid:89)exionar o membro quando é colocado deitado sobre uma maca, eliminando a ação da gravidade. Qual é a classi(cid:60)cação correta do grau de força muscular desse paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Grau 0"
+      },
+      {
+        "letra": "B",
+        "texto": "Grau 1"
+      },
+      {
+        "letra": "C",
+        "texto": "Grau 2"
+      },
+      {
+        "letra": "D",
+        "texto": "Grau 3"
+      },
+      {
+        "letra": "E",
+        "texto": "Grau 4"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104936,
+    "tags": [],
+    "enunciado": "Marque a alternativa que contém duas escalas médicas utilizadas para avaliar o nível de consciência dos pacientes:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Escala de coma de Glasgow e escala RASS."
+      },
+      {
+        "letra": "B",
+        "texto": "Prova de Laségue e prova de Brudzinski."
+      },
+      {
+        "letra": "C",
+        "texto": "Exame MEEM e exame MoCA."
+      },
+      {
+        "letra": "D",
+        "texto": "Escala RASS e exame MEEM."
+      },
+      {
+        "letra": "E",
+        "texto": "Escala de coma de Glasgow e prova de Brudzinski."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104937,
+    "tags": [],
+    "enunciado": "Quais são os três elementos avaliados pela escala de coma de Glasgow?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Reflexo fotomotor direto, reflexo fotomotor consensual e resposta motora."
+      },
+      {
+        "letra": "B",
+        "texto": "Atenção, memória e linguagem."
+      },
+      {
+        "letra": "C",
+        "texto": "Cooperatividade, resposta verbal e perfusão periférica."
+      },
+      {
+        "letra": "D",
+        "texto": "Abertura ocular, resposta verbal e resposta motora."
+      },
+      {
+        "letra": "E",
+        "texto": "Reflexo fotomotor direto, memória e perfusão periférica."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104938,
+    "tags": [],
+    "enunciado": "Ao avaliar a integridade do nervo hipoglosso, qual dos seguintes resultados indica lesão do feixe nervoso à direita?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Protrusão da língua com desvio para a esquerda."
+      },
+      {
+        "letra": "B",
+        "texto": "Protrusão da língua com desvio para a direita."
+      },
+      {
+        "letra": "C",
+        "texto": "Queda do véu palatino à direita."
+      },
+      {
+        "letra": "D",
+        "texto": "Atrofia da língua à esquerda."
+      },
+      {
+        "letra": "E",
+        "texto": "Perda de sensibilidade no lado direito da língua."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104939,
+    "tags": [],
+    "enunciado": "Assinale a alternativa que contém um teste adequado para avaliar a função do nervo acessório, 11º nervo craniano:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Teste de força do músculo esternocleidomastoideo."
+      },
+      {
+        "letra": "B",
+        "texto": "Protrusão da língua."
+      },
+      {
+        "letra": "C",
+        "texto": "Pesquisa de motricidade ocular."
+      },
+      {
+        "letra": "D",
+        "texto": "Sensibilidade gustativa nos 2/3 anteriores da língua."
+      },
+      {
+        "letra": "E",
+        "texto": "Teste de sensibilidade geral na região da face."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104940,
+    "tags": [],
+    "enunciado": "Qual dos seguintes reflexos integrados do tronco encefálico é ideal para testar a função do nervo vago?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Reflexo fotomotor direto."
+      },
+      {
+        "letra": "B",
+        "texto": "Reflexo oculocefálico."
+      },
+      {
+        "letra": "C",
+        "texto": "Reflexo mentoniano."
+      },
+      {
+        "letra": "D",
+        "texto": "Reflexo corneopalpebral."
+      },
+      {
+        "letra": "E",
+        "texto": "Reflexo do vômito."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 104941,
+    "tags": [],
+    "enunciado": "O nervo glossofaríngeo é o 9º nervo craniano, e está envolvido com o sentido da gustação. Em qual região é mais indicado pesquisar a gustação do paciente com o intuito de avaliar a integridade do nervo glossofaríngeo?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1/3 anterior da língua."
+      },
+      {
+        "letra": "B",
+        "texto": "1/3 médio da língua."
+      },
+      {
+        "letra": "C",
+        "texto": "1/3 posterior da língua."
+      },
+      {
+        "letra": "D",
+        "texto": "Região da epiglote."
+      },
+      {
+        "letra": "E",
+        "texto": "Qualquer região da língua."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104942,
+    "tags": [],
+    "enunciado": "Qual das seguintes combinações de resultados de testes de audição indica uma surdez de origem neurossensorial no lado esquerdo do paciente avaliado?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Teste de Rinne: condução aérea dura menos que condução óssea no lado esquerdo, e condução aérea dura mais que condução aérea no lado direito. Teste de Weber: desvio do som para o lado esquerdo. Teste de Schwabach: o examinado continua ouvindo o som por mais tempo que o examinador quando se avalia a orelha esquerda."
+      },
+      {
+        "letra": "B",
+        "texto": "Teste de Rinne: condução aérea dura mais que condução óssea no lado esquerdo, e condução aérea dura menos que condução óssea do lado direito. Teste de Weber: desvio do som para o lado direito. Teste de Schwabach: o examinado continua ouvindo o som por mais tempo que o examinador quando se avalia a orelha direita."
+      },
+      {
+        "letra": "C",
+        "texto": "Teste de Rinne: condução aérea dura mais que condução óssea no lado esquerdo, e condução aérea dura mais que condução óssea do lado direito. Teste de Weber: desvio do som para o lado direito. Teste de Schwabach: o examinado ouve o som por menos tempo que o examinador quando se avalia a orelha esquerda."
+      },
+      {
+        "letra": "D",
+        "texto": "Teste de Rinne: condução aérea dura mais que condução óssea no lado esquerdo, e condução aérea dura mais que condução óssea no lado direito. Teste de Weber: desvio do som para o lado esquerdo. Teste de Schwabach: o examinado ouve o som por menos tempo que o examinador quando se avalia a orelha direita."
+      },
+      {
+        "letra": "E",
+        "texto": "Teste de Rinne: condução aérea dura menos que condução óssea do lado esquerdo, e condução aérea dura menos que condução óssea do lado direito. Teste de Weber: sem desvio do som. Teste de Schwabach: o examinado ouve o som por mais tempo que o examinador bilateralmente."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104943,
+    "tags": [],
+    "enunciado": "Assinale a alternativa que descreve adequadamente o sinal de paralisia do nervo facial:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sinal de Bell, paralisia dos músculos da mímica, tanto no andar superior quanto no andar inferior da face."
+      },
+      {
+        "letra": "B",
+        "texto": "Sinal de Bell, paralisia dos músculos da mímica, restrita ao andar inferior da face."
+      },
+      {
+        "letra": "C",
+        "texto": "Sinal de Bell, queda espontânea da mandíbula."
+      },
+      {
+        "letra": "D",
+        "texto": "Sinal de Bell, desvio ipsilateral da protrusão da língua."
+      },
+      {
+        "letra": "E",
+        "texto": "Sinal de Bell, ptose palpebral."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104944,
+    "tags": [],
+    "enunciado": "Qual é o único grupamento muscular da musculatura extrínseca do olho inervado pelo 4º nervo craniano, o nervo troclear?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Reto medial."
+      },
+      {
+        "letra": "B",
+        "texto": "Reto lateral."
+      },
+      {
+        "letra": "C",
+        "texto": "Reto superior."
+      },
+      {
+        "letra": "D",
+        "texto": "Reto inferior."
+      },
+      {
+        "letra": "E",
+        "texto": "Oblíquo superior."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 104945,
+    "tags": [],
+    "enunciado": "Marque a alternativa que contém a principal função do nervo trigêmeo, que é utilizada para avaliar a integridade desse nervo:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O nervo trigêmeo é o principal responsável pelo sentido da visão. Portanto, utiliza-se os exames de acuidade visual, campo visual e fundoscopia para avaliar esse nervo."
+      },
+      {
+        "letra": "B",
+        "texto": "O nervo trigêmeo é responsável pela audição e equilíbrio, portanto, as avaliações de surdez neurossensorial são utilizadas para testá-lo"
+      },
+      {
+        "letra": "C",
+        "texto": "O nervo trigêmeo é o feixe que realiza a inervação parassimpática das vísceras abdominais, contribuindo para função do trato gastrointestinal."
+      },
+      {
+        "letra": "D",
+        "texto": "O nervo trigêmeo é responsável pela sensibilidade geral da cabeça. Portanto, utiliza-se testes de sensibilidade tátil, térmica e dolorosa para avaliar a função desse nervo."
+      },
+      {
+        "letra": "E",
+        "texto": "O nervo trigêmeo é o feixe que realiza a inervação motora da musculatura da mímica, portanto, utiliza-se testes de força muscular desses grupamentos para avaliar o trigêmeo."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104946,
+    "tags": [],
+    "enunciado": "Você é chamado para avaliar um paciente do ambulatório de Neurologia que se apresenta com o seguinte quadro: Qual o nervo craniano que provavelmente está comprometido nesse caso?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nervo oculomotor."
+      },
+      {
+        "letra": "B",
+        "texto": "Nervo troclear."
+      },
+      {
+        "letra": "C",
+        "texto": "Nervo trigêmeo."
+      },
+      {
+        "letra": "D",
+        "texto": "Nervo abducente."
+      },
+      {
+        "letra": "E",
+        "texto": "Nervo facial."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104947,
+    "tags": [],
+    "enunciado": "Qual seria o quadro clínico mais provável para uma lesão completa do 3º nervo craniano, o nervo oculomotor?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Midríase, desvio lateral do olho e ptose palpebral no lado afetado."
+      },
+      {
+        "letra": "B",
+        "texto": "Miose, desvio medial do olho e impossibilidade de fechar a pálpebra no lado afetado."
+      },
+      {
+        "letra": "C",
+        "texto": "Midríase, desvio lateral do olho e impossibilidade de fechar a pálpebra no lado afetado."
+      },
+      {
+        "letra": "D",
+        "texto": "Miose, desvio medial do olho e ptose palpebral no lado afetado."
+      },
+      {
+        "letra": "E",
+        "texto": "Midríase, desvio medial do olho e ptose palpebral no lado afetado."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104948,
+    "tags": [],
+    "enunciado": "Imagine que você está atendendo um paciente, na atenção primária, que chega com queixas relacionadas ao escurecimento da visão. Qual exame pode ser utilizado, naquele momento, para avaliar clinicamente o campo visual desse paciente e identificar escotomas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Teste de Jaeger."
+      },
+      {
+        "letra": "B",
+        "texto": "Campimetria de confrontação."
+      },
+      {
+        "letra": "C",
+        "texto": "Teste de Snellen."
+      },
+      {
+        "letra": "D",
+        "texto": "Campimetria computadorizada."
+      },
+      {
+        "letra": "E",
+        "texto": "Fundoscopia."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104949,
+    "tags": [],
+    "enunciado": "Para avaliar o estado do 1º nervo craniano, qual dos sentidos abaixo deve ser testado?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Gustação."
+      },
+      {
+        "letra": "B",
+        "texto": "Visão."
+      },
+      {
+        "letra": "C",
+        "texto": "Olfato."
+      },
+      {
+        "letra": "D",
+        "texto": "Tato e propriocepção."
+      },
+      {
+        "letra": "E",
+        "texto": "Audição."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104950,
+    "tags": [],
+    "enunciado": "A palpação da glândula tireoide é parte importante do exame físico de cabeça e pescoço. Qual a referência anatômica utilizada para localizar a tireoide?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Abaixo da cartilagem tireoidea, na linha mediana do pescoço."
+      },
+      {
+        "letra": "B",
+        "texto": "Inferior à cartilagem cricoide, na linha mediana do pescoço."
+      },
+      {
+        "letra": "C",
+        "texto": "Lateral ao músculo esternocleidomastoideo, na região cervical lateral."
+      },
+      {
+        "letra": "D",
+        "texto": "Superior à fúrcula esternal, na linha mediana do pescoço."
+      },
+      {
+        "letra": "E",
+        "texto": "Acima da cartilagem tireoidea, na linha mediana do pescoço."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104951,
+    "tags": [],
+    "enunciado": "Assinale a alternativa que descreve as características de um linfonodo de aspecto normal:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tamanho menor que 2 cm, consistência fibroelástica, doloroso à palpação, móvel."
+      },
+      {
+        "letra": "B",
+        "texto": "Tamanho maior que 3 cm, consistência fibroelástica, indolor à palpação, móvel."
+      },
+      {
+        "letra": "C",
+        "texto": "Tamanho menor que 2 cm, consistência pétrea, indolor à palpação, fixo a planos profundos."
+      },
+      {
+        "letra": "D",
+        "texto": "Tamanho maior que 3 cm, consistência pétrea, doloroso à palpação, fixo a planos profundos."
+      },
+      {
+        "letra": "E",
+        "texto": "Tamanho menor que 2 cm, consistência fibroelástica, indolor à palpação, móvel."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 104952,
+    "tags": [],
+    "enunciado": "A cavidade oral é cercada por várias glândulas salivares, dispostas ao redor da região. Como é denominada a glândula salivar palpável no ângulo da mandíbula?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Glândula parótida."
+      },
+      {
+        "letra": "B",
+        "texto": "Glândula sublingual."
+      },
+      {
+        "letra": "C",
+        "texto": "Glândula submandibular."
+      },
+      {
+        "letra": "D",
+        "texto": "Glândula salivar maior."
+      },
+      {
+        "letra": "E",
+        "texto": "Glândula retromandibular."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104953,
+    "tags": [],
+    "enunciado": "Qual das seguintes cadeias linfonodais não é palpável na região de cabeça e pescoço?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Linfonodos inguinais."
+      },
+      {
+        "letra": "B",
+        "texto": "Linfonodos occipitais."
+      },
+      {
+        "letra": "C",
+        "texto": "Linfonodos retroauriculares."
+      },
+      {
+        "letra": "D",
+        "texto": "Linfonodos submandibulares."
+      },
+      {
+        "letra": "E",
+        "texto": "Linfonodos cervicais anteriores."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104954,
+    "tags": [],
+    "enunciado": "Marque a alternativa que cita corretamente a referência anatômica utilizada para localizar as cadeias ganglionares submentonianas:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Mandíbula."
+      },
+      {
+        "letra": "B",
+        "texto": "Maxila."
+      },
+      {
+        "letra": "C",
+        "texto": "Orelha."
+      },
+      {
+        "letra": "D",
+        "texto": "Osso frontal."
+      },
+      {
+        "letra": "E",
+        "texto": "Osso zigomático."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104955,
+    "tags": [],
+    "enunciado": "Marque a alternativa que cita corretamente a referência anatômica utilizada para localizar as cadeias ganglionares cervicais:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Osso hioide."
+      },
+      {
+        "letra": "B",
+        "texto": "Músculos escalenos."
+      },
+      {
+        "letra": "C",
+        "texto": "Artérias carótidas."
+      },
+      {
+        "letra": "D",
+        "texto": "Músculo esternocleidomastoideo."
+      },
+      {
+        "letra": "E",
+        "texto": "Cartilagem cricoide."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104956,
+    "tags": [],
+    "enunciado": "Ao examinar um paciente no Pronto Socorro, você observa a presença de hiperemia de orofaringe, associada a exsudato purulento na região das tonsilas palatinas e febre há 3 dias. Esse quadro é mais sugestivo de qual das patologias abaixo?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Neoplasia de garganta."
+      },
+      {
+        "letra": "B",
+        "texto": "Quadro alérgico."
+      },
+      {
+        "letra": "C",
+        "texto": "Processo infeccioso."
+      },
+      {
+        "letra": "D",
+        "texto": "Irritação por agentes químicos."
+      },
+      {
+        "letra": "E",
+        "texto": "Morfologia normal, sem doenças."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104957,
+    "tags": [],
+    "enunciado": "A presença de palpação e de percussão dolorosas dos seios maxilares e frontais sugere qual das seguintes doenças:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Rinite."
+      },
+      {
+        "letra": "B",
+        "texto": "Sinusite."
+      },
+      {
+        "letra": "C",
+        "texto": "Faringite."
+      },
+      {
+        "letra": "D",
+        "texto": "Tireoidite."
+      },
+      {
+        "letra": "E",
+        "texto": "Estomatite aftosa."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104958,
+    "tags": [],
+    "enunciado": "Em qual região da cabeça é mais indicado pesquisar edema decorrente de condições sistêmicas (ex.: hipervolemia, hipoalbuminemia) em pacientes adultos?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Lábios."
+      },
+      {
+        "letra": "B",
+        "texto": "Região malar."
+      },
+      {
+        "letra": "C",
+        "texto": "Asa do nariz."
+      },
+      {
+        "letra": "D",
+        "texto": "Região palpebral."
+      },
+      {
+        "letra": "E",
+        "texto": "Couro cabeludo"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 104959,
+    "tags": [],
+    "enunciado": "Assinale a alternativa que melhor descreve o conceito de “fácies” no contexto do exame clínico:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fácies são conjuntos de alterações da estrutura ou da expressão facial dos pacientes que caracterizam uma determinada situação patológica."
+      },
+      {
+        "letra": "B",
+        "texto": "Fácies são alterações da pigmentação da pele na região do rosto."
+      },
+      {
+        "letra": "C",
+        "texto": "Fácies são erupções de origem alérgica na face ou no tronco dos pacientes, indicativas da quadros de hipersensibilidade."
+      },
+      {
+        "letra": "D",
+        "texto": "Fácies são características que indicam para o médico o nível de consciência e cooperatividade do paciente. Devem ser anotadas por extenso no prontuário para facilitar a comunicação entre os cuidadores."
+      },
+      {
+        "letra": "E",
+        "texto": "Fácies são um tipo de lesão elementar dermatológica."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104960,
+    "tags": [],
+    "enunciado": "Na propedêutica das doenças do aparelho digestivo, o sinal de Courvoisier é melhor descrito em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Dor no ponto de McBurney quando comprimindo o abdômen inferior esquerdo."
+      },
+      {
+        "letra": "B",
+        "texto": "Dor causada pela inspiração e aplicando pressão ao abdome superior direito."
+      },
+      {
+        "letra": "C",
+        "texto": "Vesícula biliar palpável na presença de icterícia."
+      },
+      {
+        "letra": "D",
+        "texto": "Dor causada pela tração delicada do testículo direito. 4000187051"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104961,
+    "tags": [],
+    "enunciado": "Paciente de 64 anos é admitido em serviço de urgência com quadro de dor abdominal. Refere que essa dor já dura meses, sempre após se alimentar, localizada na região do hipocôndrio direito e epigástrio. No entanto, hoje ela iniciou e já dura 18 horas, sem alívio com medicamentos analgésicos que fez uso em casa. Ao exame físico, o paciente apresenta-se com fascies de dor, sem icterícia, febril e com sinal de Murphy presente. Qual das alternativas melhor descreve o sinal de Murphy apresentado pelo paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Interrupção abrupta da inspiração forçada enquanto o examinador palpa o ponto cístico."
+      },
+      {
+        "letra": "B",
+        "texto": "Dor a palpação da região do hipocôndrio direito."
+      },
+      {
+        "letra": "C",
+        "texto": "Dor a percussão da região subcostal direita em decúbito dorsal."
+      },
+      {
+        "letra": "D",
+        "texto": "Dor a palpação da região delimitada no terço inferior da linha entre a espinha ilíaca anterossuperior e a cicatriz umbilical."
+      },
+      {
+        "letra": "E",
+        "texto": "Dor a palpação profunda da região localizada a 3 centímetros do rebordo costal direito em direção à cicatriz umbilical. 4000186066"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104962,
+    "tags": [],
+    "enunciado": "No exame físico o sinal semiológico, quando presente, auxilia no raciocínio da hipótese diagnóstica. OS SINAIS DE CULLEN, LENANDER E DE JOBERT, ESTÃO RELACIONADOS, RESPECTIVAMENTE, COM:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pancreatite aguda, apendicite aguda e úlcera duodenal perfurada."
+      },
+      {
+        "letra": "B",
+        "texto": "Neoplasia gástrica, pancreatite aguda e diverticulose."
+      },
+      {
+        "letra": "C",
+        "texto": "Ulcera duodenal perfurada, apendicite aguda, diverticulose."
+      },
+      {
+        "letra": "D",
+        "texto": "Pancreatite aguda, neoplasia gástrica e apendicite aguda."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 104963,
+    "tags": [],
+    "enunciado": "Leia com atenção: “O padrão respiratório do tipo ____________consiste na oscilação lenta entre a hiperventilação e hipoventilação, intercalados por períodos de apneia. Após um período de apneia, ocorre um aumento gradual da amplitude do movimento respiratório e hiperventilação (em crescendo) até atingir um pico, seguido por um período de diminuição da amplitude respiratória e hipoventilação (em decrescendo).” Assinale a alternativa que preenche, corretamente, a lacuna do texto:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Biott."
+      },
+      {
+        "letra": "B",
+        "texto": "Apnêustico."
+      },
+      {
+        "letra": "C",
+        "texto": "Cheyne-Stokes."
+      },
+      {
+        "letra": "D",
+        "texto": "Atáxico."
+      },
+      {
+        "letra": "E",
+        "texto": "Em salvas. 4000192250"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104964,
+    "tags": [],
+    "enunciado": "Mulher, 40 anos de idade, procura pronto-atendimento queixando-se de dispneia, tosse com expectoração amarelada e febre, há 48 horas. Nega comorbidades ou tabagismo. Ao exame físico, apresenta-se em regular estado geral, com FR: 28irpm, PA: 120x70mmHg, FC: 90bpm, Temperatura axilar: 38,0°C, SatO₂: 94%. Ao exame torácico, macicez à percussão e murmúrios vesiculares abolidos nos dois terços inferiores de hemitórax direito, sem ruídos adventícios à ausculta. Radiogra(cid:60)a de tórax evidenciou derrame pleural à direita. Com base nos dados do caso clínico, Pode-se afirmar que, em relação à propedêutica torácica,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "os dados de exame físico, já fornecidos, permitiriam fechar o diagnóstico de derrame pleural."
+      },
+      {
+        "letra": "B",
+        "texto": "o frêmito toracovocal reduzido auxiliaria na diferenciação entre derrame pleural e pneumonia."
+      },
+      {
+        "letra": "C",
+        "texto": "o atrito pleural é auscultado na maior parte dos pacientes com quadro semelhante."
+      },
+      {
+        "letra": "D",
+        "texto": "a presença de pectorilóquia afônica permitiria fechar o diagnóstico de derrame pleural."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104965,
+    "tags": [],
+    "enunciado": "Qual o teste onde se investiga dor no quadrante inferior direito ao se fazer (cid:89)exão passiva da perna sobre a coxa e da coxa sobre a pelve com rotação interna da coxa?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Teste de Gersuny."
+      },
+      {
+        "letra": "B",
+        "texto": "Teste de Jobert."
+      },
+      {
+        "letra": "C",
+        "texto": "Teste do obturador."
+      },
+      {
+        "letra": "D",
+        "texto": "Teste do psoas. 4000174253"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104966,
+    "tags": [],
+    "enunciado": "Sempre é reforçado ao médico, desde os tempos de faculdade, a importância de uma anamnese bem feita para que possamos fazer um diagnóstico preciso. Das alternativas citadas abaixo assinale aquela que NÃO apresenta um dado que deve estar presente em todas as anamneses:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nome completo e data de nascimento."
+      },
+      {
+        "letra": "B",
+        "texto": "História da gestação e parto."
+      },
+      {
+        "letra": "C",
+        "texto": "História de nascimento dos pais."
+      },
+      {
+        "letra": "D",
+        "texto": "História alimentar e de vacinas. 4000173119"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104967,
+    "tags": [],
+    "enunciado": "Preferencialmente, utilizar materiais descartáveis para realização de Teste Esforço, em especial, quanto aos eletrodos de monitoramento. Sendo correto o item:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nunca descartar todos os materiais de maneira adequada e em local apropriado."
+      },
+      {
+        "letra": "B",
+        "texto": "Descartar todos os materiais de maneira adequada e fora de local apropriado."
+      },
+      {
+        "letra": "C",
+        "texto": "Descartar todos os materiais de maneira adequada e em local apropriado."
+      },
+      {
+        "letra": "D",
+        "texto": "Descartar todos os materiais de maneira adequada e em local inapropriado. 4000172047"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104968,
+    "tags": [],
+    "enunciado": "Sobre a técnica correta de avaliação do Tempo de Enchimento Capilar (TEC), assinale a alternativa incorreta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O membro superior no qual o parâmetro será avaliado deve ser mantido no nível do coração."
+      },
+      {
+        "letra": "B",
+        "texto": "Deve-se aplicar uma pressão firme na falange distal do dedo polegar por cerca de 3 segundos."
+      },
+      {
+        "letra": "C",
+        "texto": "O tempo de retorno da coloração normal da pele deve ser registrado preferencialmente com um cronômetro."
+      },
+      {
+        "letra": "D",
+        "texto": "Um TEC maior que 3 segundos é considerado anormal. 4000172008"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 104969,
+    "tags": [],
+    "enunciado": "Paciente 35 anos, é admitido no PS com quadro de dor abdominal importante. O cirurgião muito experiente foi chamado e logo descartou patologia intra-abdominal. No exame físico bem detalhado do abdome, afirmou que se tratava de um hematoma da bainha do músculo reto abdominal, e que o mesmo não cruzava a linha média. Esse achado semiológico é chamado de sinal de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fox-Ransohoff"
+      },
+      {
+        "letra": "B",
+        "texto": "Chaussier"
+      },
+      {
+        "letra": "C",
+        "texto": "Forthergill"
+      },
+      {
+        "letra": "D",
+        "texto": "Courvoisier Terrier 4000170649"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 104970,
+    "tags": [],
+    "enunciado": "Sobre o edema localizado, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pode ter origem infecciosa, neoplásica, genética e inflamatória."
+      },
+      {
+        "letra": "B",
+        "texto": "Todo o edema localizado, se não tratado, pode evoluir para generalizado."
+      },
+      {
+        "letra": "C",
+        "texto": "Nas obstruções vasculares, o edema se desenvolve próximo ao local do comprometimento."
+      },
+      {
+        "letra": "D",
+        "texto": "Imobilização prolongada em fraturas é fator de proteção à formação de trombose, portanto, o repouso às atividades escolares é sempre orientado. 4000146238 Respostas: 1 D 2 D 3 D 4 D 5 A 6 E 7 B 8 A 9 E 10 D 11 C 12 C 13 E 14 B 15 E 16 A 17 D 18 A 19 B 20 D 21 B 22 C 23 C 24 E 25 E 26 A 27 B 28 D 29 A 30 B 31 C 32 B 33 D 34 A 35 D 36 A 37 E 38 B 39 E 40 C 41 A 42 B 43 E 44 E 45 A 46 C 47 C 48 A 49 A 50 A 51 D 52 E 53 D 54 D 55 B 56 A 57 B 58 B 59 B 60 B 61 B 62 E 63 E 64 C 65 A 66 D 67 B 68 A 69 E 70 C 71 C 72 A 73 E 74 D 75 D 76 A 77 B 78 C 79 B 80 E 81 A 82 A 83 A 84 D 85 C 86 B 87 D 88 A 89 C 90 A 91 A 92 C 93 B 94 C 95 C 96 C 97 B 98 C 99 A"
+      }
+    ],
+    "resposta_correta": "A"
+  }
+]

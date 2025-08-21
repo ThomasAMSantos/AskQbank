@@ -1,0 +1,722 @@
+[
+  {
+    "id": 100176,
+    "tags": [],
+    "enunciado": "Ao realizar o cadastro de uma pessoa na área de abrangência da Unidade de Saúde da Família, a Agente Comunitária de Saúde (ACS) pergunta sobre a sua sexualidade. Ela responde ter nascido mulher, mas se reconhece como homem e deseja sexualmente mulheres. Como a ACS deve registrar, no cadastro, a identidade de gênero e a orientação sexual desta pessoa?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Homem, transgênero, homossexual."
+      },
+      {
+        "letra": "B",
+        "texto": "Homem, cisgênero, homossexual."
+      },
+      {
+        "letra": "C",
+        "texto": "Homem, transgênero, heterossexual."
+      },
+      {
+        "letra": "D",
+        "texto": "Homem, cisgênero, heterossexual. 4000234271"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 100177,
+    "tags": [],
+    "enunciado": "Paciente transsexual feminina de 50 anos procura atendimento para realização de consulta de rotina. Refere ter feito a cirurgia genital afirmativa de gênero há cinco anos. Em relação ao rastreamento para câncer de próstata, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não é necessário devido à prostatectomia."
+      },
+      {
+        "letra": "B",
+        "texto": "deve ser feito como para homens cis."
+      },
+      {
+        "letra": "C",
+        "texto": "é postergado pela presença de baixas concentrações de testosterona."
+      },
+      {
+        "letra": "D",
+        "texto": "deve ser feito com maior frequência devido ao risco aumentado."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 100178,
+    "tags": [],
+    "enunciado": "Indivíduos com disforia de gênero, segundo o DSM-V, apresentam incongruências acentuadas entre o gênero que lhes foi designado (em geral no nascimento) e o gênero experimentado/expresso. Acerca da disforia de gênero, julgue o item a seguir. Segundo o DSM-V, para o diagnóstico da disforia de gênero em crianças, é necessário que os sintomas tenham duração de, pelo menos, seis meses.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Certo."
+      },
+      {
+        "letra": "B",
+        "texto": "Errado."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 100179,
+    "tags": [],
+    "enunciado": "Em relação à disforia de gênero, pode-se afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A identidade de gênero é a forma como o indivíduo se sente e se identifica."
+      },
+      {
+        "letra": "B",
+        "texto": "A orientação sexual é homossexual."
+      },
+      {
+        "letra": "C",
+        "texto": "O sofrimento psicológico poderá não ocorrer em alguns casos."
+      },
+      {
+        "letra": "D",
+        "texto": "O tratamento hormonal não é recomendado, devido aos sérios efeitos colaterais."
+      },
+      {
+        "letra": "E",
+        "texto": "A cirurgia de readequação sexual é indicada após um período de no mínimo dois meses em seguimento em algum serviço de saúde."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 100180,
+    "tags": [],
+    "enunciado": "Compreender a determinação social no dinâmico processo saúde-doença das pessoas e coletividades requer admitir que a exclusão social decorrente do desemprego, da falta de acesso à moradia e à alimentação digna, bem como da di(cid:70)culdade de acesso à educação, saúde, lazer, cultura interferem, diretamente, na qualidade de vida e de saúde. Requer também o reconhecimento de que todas as formas de discriminação, como no caso das homofobias que compreendem lesbofobia, gayfobia, bifobia, travestifobia e transfobia, devem ser consideradas na determinação social de sofrimento e de doença. A Política Nacional de Saúde Integral de Lésbicas, Gays, Bissexuais, Travestis e Transexuais, instituída pela Portaria nº 2.836, de 01 de dezembro de 2011, foi uma iniciativa para ampliar a equidade no SUS. Sobre essa política, assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Define a criação do Processo Transexualizador no âmbito do SUS."
+      },
+      {
+        "letra": "B",
+        "texto": "Oferece atenção e cuidado à saúde apenas de adultos que façam parte da população LGBT."
+      },
+      {
+        "letra": "C",
+        "texto": "Busca no âmbito da saúde suplementar a garantia da extensão da cobertura dos planos e seguros privados de saúde ao cônjuge dependente para casais de lésbicas, gays e bissexuais."
+      },
+      {
+        "letra": "D",
+        "texto": "Define estratégias setoriais e intersetoriais que visem reduzir a morbidade e a mortalidade de travestis e transexuais, mas não inclui o uso do nome social."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 100181,
+    "tags": [],
+    "enunciado": "Sobre o cuidado ginecológico em transgêneros:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O rastreio do câncer de colo deve ser mantido segundo as orientações do Ministério da Saúde."
+      },
+      {
+        "letra": "B",
+        "texto": "Se o paciente realizou retirada das mamas, não precisa realizar mamografia de rastreamento."
+      },
+      {
+        "letra": "C",
+        "texto": "Pacientes que utilizam testosterona não precisam de anticoncepção."
+      },
+      {
+        "letra": "D",
+        "texto": "A cirurgia para redesignação de sexo pode ser realizada a partir dos 14 anos."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 100182,
+    "tags": [],
+    "enunciado": "Adolescente, 16 anos, sexo de nascimento feminino, gênero não binário. Se identi(cid:70)ca com pronomes masculinos e femininos. Expressa seu gênero tanto como moda dita masculina, como feminina. Cursa o primeiro ano do ensino médio. Diz estar namorando um rapaz na escola, gosta bastante dele e de conversar com ele. Ainda não teve sua sexarca. Vem a consulta com sua médica de família e comunidade para tirar dúvidas sobre sexo. Sobre o caso acima, marque a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A genitália externa determina a orientação sexual da pessoa."
+      },
+      {
+        "letra": "B",
+        "texto": "A orientação sexual é definida a partir do gênero de quem se deseja sexualmente."
+      },
+      {
+        "letra": "C",
+        "texto": "O termo bissexual trata-se de identidade de gênero não binária."
+      },
+      {
+        "letra": "D",
+        "texto": "A masturbação deve ser desencorajada como prática de busca pelo prazer e autoconhecimento."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 100183,
+    "tags": [],
+    "enunciado": "Complicações em adolescentes transgêneros ou com divergência de gênero Mulher trans de 27 anos de idade comparece a Unidade Básica de Saúde manifestando desejo de iniciar o processo de a(cid:70)rmação de gênero de maneira adequada e segura pelo Sistema Único de Saúde. Também deseja ter mais informações sobre a equipe médica que vai acompanhá-la e sobre as regras do processo de a(cid:70)rmação de gênero. Considerando que as pessoas trans têm direito a atenção integral, contemplando todas as suas necessidades, assinale a alternativa que contém as informações corretas a serem fornecidas no que diz respeito às normas de cuidado específico a pessoas transgênero, segundo a resolução CFM 2265/2019:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A equipe médica mínima de atenção ao transgênero deve ser composta por pediatra, endocrinologista, psiquiatra, ginecologista e cirurgião geral."
+      },
+      {
+        "letra": "B",
+        "texto": "É obrigatório obter o consentimento livre e esclarecido, informando sobre a possibilidade de esterilidade vinda dos procedimentos hormonais e cirúrgicos para afirmação de gênero."
+      },
+      {
+        "letra": "C",
+        "texto": "Em crianças e adolescentes transgênero, o bloqueio hormonal só poderá ser iniciado a partir do estágio puberal Tanner III."
+      },
+      {
+        "letra": "D",
+        "texto": "A realização de procedimentos cirúrgicos para afirmação de gênero é autorizada a partir dos 16 anos de idade. Deve-se obter autorização dos pais ou responsáveis quando a pessoa for menor de idade."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 100184,
+    "tags": [],
+    "enunciado": "Paloma Campbel (nome social) é uma usuária trans do SUS. A paciente encontrava-se “gripada” e decidiu procurar cuidado da USF Trindade, onde era matriculada desde a infância. Na USF, o médico não a chamou pelo nome social e não a atendeu alegando que, por ser usuária trans, seu atendimento deveria ser num ambulatório específico de transgêneros. A atitude do médico, foi inadequada, porque",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o SUS possui legislação própria para usuários transgêneros."
+      },
+      {
+        "letra": "B",
+        "texto": "a APS é a porta de entrada para todos os usuários do SUS, independentemente de sua orientação sexual ou gênero."
+      },
+      {
+        "letra": "C",
+        "texto": "toda pessoa transgênero necessita de avaliação especializada na atenção terciária."
+      },
+      {
+        "letra": "D",
+        "texto": "o princípio do SUS em questão é o da descentralização, portanto a usuária deveria ser referenciada."
+      },
+      {
+        "letra": "E",
+        "texto": "as pessoas transgênero devem ser chamadas pelo nome de registro civil."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 100185,
+    "tags": [],
+    "enunciado": "A sexualidade do adolescente é motivo frequente de dúvidas e angústias nesse ciclo da vida. O adolescente João Mario, de 16 anos, agendou uma consulta com Dr. Paulo, médico da estratégia de saúde da família, por ter muitas dúvidas sobre alguns termos que tem visto nas redes sociais sobre “diversidade sexual”. Dr. Paulo se prontifica a tentar esclarecer as dúvidas do adolescente e informa corretamente que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "identidade de gênero refere-se ao objeto de desejo sexual (homem, mulher ou os dois), ou seja, para onde a libido está direcionada, incluindo, portanto, a homossexualidade, heterossexualidade e bissexualidade."
+      },
+      {
+        "letra": "B",
+        "texto": "homem trans refere-se àquele que nasceu em um corpo dito masculino, mas não tem uma identidade de gênero fixa, transitando entre os gêneros."
+      },
+      {
+        "letra": "C",
+        "texto": "orientação sexual é a experiência emocional, a autopercepção psíquica e social de uma pessoa em relação ao gênero e que pode não corresponder ao sexo atribuído ao nascimento."
+      },
+      {
+        "letra": "D",
+        "texto": "cisgênero corresponde à pessoa cuja identidade de gênero se identifica com o sexo biológico, aquele atribuído no nascimento baseado na genitália externa como o pênis para os homens e a vagina para as mulheres."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 100186,
+    "tags": [],
+    "enunciado": "Existem alguns conceitos que permitem compreender a diversidade sexual e quali(cid:70)car o cuidado de pessoas LGBTQIA+ (lésbicas, gays, bissexuais, transexuais e travestis, queer, intersexo e assexuais). Assinale a alternativa que apresenta a definição e exemplos corretos sobre um desses conceitos:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A orientação sexual se refere a com quem a pessoa tem relações sexuais. Exemplo: heterossexual, bissexual ou homossexual."
+      },
+      {
+        "letra": "B",
+        "texto": "A identidade de gênero é autodeclarada e se refere à compreensão que a pessoa tem do seu gênero. Exemplo: homem cis, mulher trans e travesti."
+      },
+      {
+        "letra": "C",
+        "texto": "A identidade de gênero é definida socialmente a partir de como a pessoa expressa seu gênero. Exemplo: gay, lésbica e travesti."
+      },
+      {
+        "letra": "D",
+        "texto": "A orientação sexual é autodeclarada e se refere a como a pessoa expressa sua sexualidade. Exemplo: assexual, pansexual e intersexo."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 100187,
+    "tags": [],
+    "enunciado": "Daniel, 35 anos, é um homem transsexual e veio à consulta queixando-se de corrimento vaginal amarelo- acinzentado, abundante e com odor fétido, há cerca de cinco dias, sem dor e sem prurido, que iniciou alguns dias após o período menstrual. É casado e tem parceira (cid:70)xa há dez anos. Está um pouco ansioso em relação ao atendimento, pois nunca realizou nenhuma avaliação ginecológica e quer aproveitar para esclarecer dúvidas em relação a isso, pois apesar de se identi(cid:70)car como homem, nunca fez nenhum procedimento cirúrgico de redesignação de gênero. Considerando a situação exposta, analise as afirmativas abaixo. I - Se o teste com KOH a 10% for positivo e o pH vaginal maior que 4,5, con(cid:70)rma-se o diagnóstico de vaginose bacteriana e o tratamento com metronidazol ou clindamicina está indicado. II - Não há recomendação de realizar colpocitologia oncótica como rastreio de câncer de colo uterino, por tratar-se um homem trans. III - A vaginose pode ser transmitida na relação sexual entre genitálias femininas, embora não seja considerada uma IST. IV - Os índices de depressão, suicídio e ansiedade são mais elevados nessa população, devendo o pro(cid:70)ssional de saúde oportunizar o momento da consulta para realizar o rastreamento de tais condições. Assinale a alternativa com as afirmativas corretas.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas I, II, III."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas I."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas I e II."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas I, III e IV."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II, III e IV."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 100188,
+    "tags": [],
+    "enunciado": "Em uma pessoa adulta, foi veri(cid:70)cada uma incongruência acentuada entre o gênero experimentado e as características sexuais primárias, além de um forte desejo de ser tratada com um gênero diferente do designado. Essa situação foi percebida há 10 meses e vem acompanhada de sofrimento pessoal. Exame físico e exames complementares estão dentro da normalidade. Assinale a alternativa que indica corretamente o diagnóstico, de acordo com os critérios e terminologias do DSM-V (Manual Diagnóstico e Estatístico de Transtornos Mentais, 5a edição, da American Psychiatric Association).",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Disforia de gênero"
+      },
+      {
+        "letra": "B",
+        "texto": "Transexualidade"
+      },
+      {
+        "letra": "C",
+        "texto": "Cisgênero"
+      },
+      {
+        "letra": "D",
+        "texto": "Homoafetividade"
+      },
+      {
+        "letra": "E",
+        "texto": "Inadequação sexual"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 100189,
+    "tags": [],
+    "enunciado": "Em julho de 2020, a prefeitura de São Paulo publicou o protocolo para o atendimento de pessoas transexuais e travestis no município de São Paulo. Em relação ao atendimento dessa população, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nome social é o nome com o qual a pessoa quer ser tratada, independentemente do motivo e de registros civis. É um direito das pessoas usuárias do Sistema Único de Saúde (SUS) e, portanto, dever de toda a equipe o tratamento da pessoa com o nome e os pronomes que ela escolher. Entretanto, se o documento não for ratificado, as receitas e o prontuário deverão conter o nome civil."
+      },
+      {
+        "letra": "B",
+        "texto": "A Portaria SAS/MS n.o 457/2008 instituiu o processo transexualizador no SUS, que garante o direito de acesso à hormonização e às intervenções cirúrgicas após acompanhamento por equipe multiprofissional por, pelo menos, dois anos."
+      },
+      {
+        "letra": "C",
+        "texto": "É desejado que o médico inserido na Atenção Primária à Saúde aprenda a acompanhar e a prescrever a hormonização de pessoas transexuais que desejem transformações corporais, independentemente da avaliação prévia do endocrinologista."
+      },
+      {
+        "letra": "D",
+        "texto": "A Resolução CFM n.o 2.265/2019 ressalta que o tratamento hormonal cruzado só poderá ser iniciado a partir dos dezoito anos de idade."
+      },
+      {
+        "letra": "E",
+        "texto": "Apesar de o uso do nome social ser exigido por lei e evitar desavenças com o paciente, não existe evidência de que o respeito a ele gere melhor desfecho clínico."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 100190,
+    "tags": [],
+    "enunciado": "Complicações em adolescentes transgêneros ou com divergência de gênero Sobre disforia de gênero, considere as seguintes afirmativas: 1. O termo disforia de gênero foi incluído apenas no DSM-5. 2. Estudos demonstram que homens e mulheres transgêneros apresentam risco aumentado para sintomas psiquiátricos como uso abusivo de substâncias, ideação suicida, ansiedade e depressão. 3. Eventos tromboembólicos estão associados com o uso de estrógenos e elevação de enzimas hepáticas com o uso de testosterona. 4. Crianças podem receber o diagnóstico de disforia de gênero somente a partir dos 8 anos pelo DSM-5. Assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente a afirmativa 1 é verdadeira."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente as afirmativas 2 e 4 são verdadeiras."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente as afirmativas 3 e 4 são verdadeiras."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente as afirmativas 1, 2 e 3 são verdadeiras."
+      },
+      {
+        "letra": "E",
+        "texto": "As afirmativas 1, 2, 3 e 4 são verdadeiras."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 100191,
+    "tags": [],
+    "enunciado": "Leia o caso clínico a seguir. Miguel tem 19 anos. Refere ter nascido com sexo biológico feminino, mas que, especialmente a partir dos onze anos, percebeu que era um rapaz; desde então começou a vestir-se como homem. Trabalha há dois meses como “motoboy” em uma empresa. Atualmente, é paciente de um ambulatório de transexualidade mas não tem interesse em fazer a cirurgia de redesignação sexual, pois não tem negação de seus órgãos genitais biológicos. Encontra-se em um relacionamento estável com um rapaz de 20 anos, que não é transexual. Perante a história relatada pode-se conceitualmente dizer que se trata de adolescente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "transexual, com identidade de gênero ou sexual ainda não definida."
+      },
+      {
+        "letra": "B",
+        "texto": "transgênero, e que vivencia um papel de gênero masculino."
+      },
+      {
+        "letra": "C",
+        "texto": "transgênero e transexual, com orientação sexual heteroafetiva."
+      },
+      {
+        "letra": "D",
+        "texto": "transexual, e que vivencia papel de gênero masculino."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 100192,
+    "tags": [],
+    "enunciado": "No tratamento da mulher transgênero, o uso de estrógeno associado a antiandrogênico proporciona bons resultados, principalmente após 6-12 meses de terapia. Das características a seguir, qual não apresenta resposta ao tratamento?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Diminuição no crescimento de pelos faciais."
+      },
+      {
+        "letra": "B",
+        "texto": "Alteração da voz."
+      },
+      {
+        "letra": "C",
+        "texto": "Redistribuição da gordura corporal para padrão feminino."
+      },
+      {
+        "letra": "D",
+        "texto": "Aumento das mamas."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 100193,
+    "tags": [],
+    "enunciado": "“O Brasil realiza uma média de uma cirurgia de redesignação a cada oito dias. Nesse intervalo de tempo, faz 56 consultas ambulatoriais. O processo transexualizador marca a garantia do acesso à saúde, das diferenças humanas, da necessidade de cuidar de uma população que, em função da sua exclusão, estava sofrendo agravos, explica Suzana Livadias.” – Diário de Pernambuco, 04/08/2018. De acordo com o Processo Transexualizador do SUS, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A cirurgia de redesignação sexual deve ser realizada a toda pessoa transexual maior de 21 anos que não tenha contraindicações."
+      },
+      {
+        "letra": "B",
+        "texto": "A hormonioterapia cruzada de hormônios sexuais para pessoas travestis pode ser indicada a partir dos 18 anos de idade."
+      },
+      {
+        "letra": "C",
+        "texto": "O acompanhamento transdisciplinar de saúde mental é necessário, dado o status de transtorno mental da transexualidade."
+      },
+      {
+        "letra": "D",
+        "texto": "O atendimento de crianças e adolescentes transexuais não é indicado, devido à sua vulnerabilidade e risco de confusão de gênero."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 100194,
+    "tags": [],
+    "enunciado": "Assinale a alternativa correta sobre a incongruência de gênero.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Incongruência de Gênero é uma condição em que a pessoa tem a sua opção de gênero oposta ao sexo do nascimento."
+      },
+      {
+        "letra": "B",
+        "texto": "O processo transexualizador cirúrgico no SUS Brasil, pela Portaria no 2.803, só pode ser realizado após os 21 anos de idade."
+      },
+      {
+        "letra": "C",
+        "texto": "Cisgênero é a pessoa cuja identidade de gênero não se alinha com o sexo que lhe foi atribuído ao nascimento."
+      },
+      {
+        "letra": "D",
+        "texto": "A maioria das crianças com características de transgêneros serão adultos com incongruência de gênero."
+      },
+      {
+        "letra": "E",
+        "texto": "A mudança de voz na mulher trans apresenta resultado máximo com um ano de terapia hormonal."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 100195,
+    "tags": [],
+    "enunciado": "Mulher transexual de 39 anos relata desejo de iniciar uso de hormônios para adequação de gênero. Sobre o uso de hormônios para esta mulher, escolha a alternativa:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O efeito máximo esperado da hormonização feminizante para as mudanças corporais será de até 1 ano."
+      },
+      {
+        "letra": "B",
+        "texto": "A indicação de mastectomia para adequação ao gênero pode ser feita, independente do início da hormonioterapia."
+      },
+      {
+        "letra": "C",
+        "texto": "Na avaliação do nível de risco para uso da hormonioterapia feminizante, a hipertrigliceridemia e o diabetes mellitus tipo 2 são descritos como riscos prováveis."
+      },
+      {
+        "letra": "D",
+        "texto": "O desenvolvimento de câncer de mama é descrito como possível de ocorrer na avaliação do nível de risco para a hormonioterapia feminizante."
+      },
+      {
+        "letra": "E",
+        "texto": "Durante a monitorização terapêutica, a testosterona deve ser mantida em níveis inferiores ao limite superior normal de mulheres cisgênero."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 100196,
+    "tags": [],
+    "enunciado": "De acordo com o conceito de ‘gênero’, pode-se afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É o estabelecimento do homem branco como parâmetro correto de ser homem,determinando comportamentos e ações, sendo que tudo o que estiver fora disso será considerado como bizarro, excluindo os bizarros da sociedade."
+      },
+      {
+        "letra": "B",
+        "texto": "É uma maneira de compreender que os comportamentos de indivíduos de sexosdiferentes são biologicamente determinados, pois é a genitália que define, na saúde, quem é considerado do gênero feminino ou masculino."
+      },
+      {
+        "letra": "C",
+        "texto": "É uma maneira de averiguar se os indivíduos são homens, mulheres ou hermafroditasatravés da análise que generaliza um padrão único para toda a sociedade."
+      },
+      {
+        "letra": "D",
+        "texto": "É uma forma de organização e hierarquização do mundo e dos diferentes segmentos sociais com base nas diferenças percebidas entre os sexos, está relacionado a objetos,atividades e lugares que se frequenta e parte do princípio de que os comportamentos de homens e mulheres são socialmente construídos a partir da relação entre indivíduo e cultura no processo de socialização."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 100197,
+    "tags": [],
+    "enunciado": "Leia o caso clínico a seguir. Maria nasceu com cariótipo XX, com órgãos genitais femininos. No entanto, desde a infância sente forte identi(cid:70)cação com o gênero masculino, utilizando roupas de homem e preferindo atividades habitualmente masculinas. Por esta razão, adotou o nome social de Mário. Durante atendimento em unidades de saúde, o correto é se dirigir a esta pessoa como:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Maria, pois é o seu nome civil."
+      },
+      {
+        "letra": "B",
+        "texto": "Mário, pois é transexual."
+      },
+      {
+        "letra": "C",
+        "texto": "Maria, pois é homossexual."
+      },
+      {
+        "letra": "D",
+        "texto": "Mário, pois é homossexual."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 100198,
+    "tags": [],
+    "enunciado": "Em relação aos conhecimentos referentes à atenção integral à saúde da população LGBT, considerando os conhecimentos de medicina preventiva e os documentos do Ministério da Saúde e da Organização Mundial da Saúde (OMS), assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O uso da circuncisão como método adjuvante na prevenção da infecção por HIV está indicado em homossexuais masculinos."
+      },
+      {
+        "letra": "B",
+        "texto": "O uso profilático de tenofovir + emtricitabina (Truvada®) é indicado pela OMS apenas para casais LGBT sorodiscordantes para o HIV."
+      },
+      {
+        "letra": "C",
+        "texto": "Para casais homossexuais masculinos em que ambos apresentam sorologia positiva para HIV, o uso de preservativos nas relações sexuais não precisa ser recomendado."
+      },
+      {
+        "letra": "D",
+        "texto": "As sorologias para HIV, hepatites e sífilis devem ser solicitadas semestralmente."
+      },
+      {
+        "letra": "E",
+        "texto": "Deve ser considerada a abordagem das patologias psiquiátricas e da rede de apoio desses pacientes, tendo em vista a maior incidência de psicopatologias na referida população e o frequente afastamento de familiares."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 100199,
+    "tags": [],
+    "enunciado": "L.S., de 26 anos, registro feito como do sexo masculino, geneticamente XY, diz que não se identi(cid:70)ca com este gênero. Relata ter a certeza de ser uma mulher e que, portanto, irá se alistar para fazer uma cirurgia de mudança de sexo. Trabalha como economista, tem vida social ativa, mora só, é independente economicamente. Queixa-se de ter sofrido muito preconceito no decorrer da vida, principalmente quando passou a usar roupas femininas depois dos 24 anos de idade. Só sente atração sexual por mulheres, com as quais mantém relações sexuais prazerosas. Trate-se de um caso de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "travestismo fetichista."
+      },
+      {
+        "letra": "B",
+        "texto": "transtorno delirante."
+      },
+      {
+        "letra": "C",
+        "texto": "transexualidade."
+      },
+      {
+        "letra": "D",
+        "texto": "orientação sexual egodistônica."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 100200,
+    "tags": [],
+    "enunciado": "R.D.T., sexo masculino, de 32 anos de idade, comparece ao serviço de clínica médica por encaminhamento, após consulta recente em pronto atendimento do mesmo hospital, na qual se queixou de dispneia, de tosse não produtiva e de febre ocasional há 4 semanas. A saturação de oxigênio é de 89%. Ele apresenta radiogra(cid:70)a de tórax com in(cid:70)ltrado intersticial difuso e algumas pneumatoceles, sem outras alterações. Ao consultar os exames laboratoriais realizados, veri(cid:70)ca-se um anti - HIV positivo, ainda sem exame con(cid:70)rmatório. O paciente refere sexo sem preservativo com alguma frequência, tendo apenas parceiros sexuais masculinos. Realizada a hipótese diagnóstica de pneumonia por Pneumocystis jiroveci, opta - se pelo tratamento em internação hospitalar. O paciente mostra - se muito resistente a aceitar a internação pois não deseja que sua família descubra o HIV ou suspeite de sua homossexualidade. Com base nessa situação, julgue o item a seguir. O abuso de substâncias é fator importante a ser abordado durante consultas médicas da população LGBT, em razão da maior prevalência nessa população que na população geral.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Certo."
+      },
+      {
+        "letra": "B",
+        "texto": "Errado."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 100201,
+    "tags": [],
+    "enunciado": "R.D.T., sexo masculino, de 32 anos de idade, comparece ao serviço de clínica médica por encaminhamento, após consulta recente em pronto atendimento do mesmo hospital, na qual se queixou de dispneia, de tosse não produtiva e de febre ocasional há 4 semanas. A saturação de oxigênio é de 89%. Ele apresenta radiogra(cid:70)a de tórax com in(cid:70)ltrado intersticial difuso e algumas pneumotaceles, sem outras alterações. Ao consultar os exames laboratoriais realizados, veri(cid:70)ca-se um anti - HIV positivo, ainda sem exame con(cid:70)rmatório. O paciente refere sexo sem preservativo com alguma frequência, tendo apenas parceiros sexuais masculinos. Realizada a hipótese diagnóstica de pneumonia por Pneumocystis jiroveci, opta - se pelo tratamento em internação hospitalar. O paciente mostra-se muito resistente a aceitar a internação pois não deseja que sua família descubra o HIV ou suspeite de sua homossexualidade. Com base nessa situação, julgue o item a seguir.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "população LGBT apresenta, em diversos estudos, prevalência de transtornos psiquiátricos superior à população geral, sendo que se advoga que esse fator está relacionado com a frequente discriminação sofrida por esse grupo."
+      },
+      {
+        "letra": "A",
+        "texto": "Certo."
+      },
+      {
+        "letra": "B",
+        "texto": "Errado."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 100202,
+    "tags": [],
+    "enunciado": "Durante o mês de campanha do \"Outubro Rosa\", João (24 anos), procurou a Unidade Básica de Saúde da Família para ter orientações sobre a prevenção de câncer de mama, uma vez que sua namorada tinha informado que ele precisaria realizar tal exame, mesmo sendo um homem transexual. A respeito do relacionamento de João e sua namorada, marque a assertiva correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "João tem identidade do gênero masculina e orientação afetivo-sexual homossexual."
+      },
+      {
+        "letra": "B",
+        "texto": "João tem identidade do gênero feminina e orientação afetivo-sexual homossexual."
+      },
+      {
+        "letra": "C",
+        "texto": "João tem identidade do gênero masculina e orientação afetivo-sexual transexual."
+      },
+      {
+        "letra": "D",
+        "texto": "João tem identidade do gênero feminina e orientação afetivo-sexual heterossexual."
+      },
+      {
+        "letra": "E",
+        "texto": "João tem identidade do gênero masculina e orientação afetivo-sexual heterossexual."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 100203,
+    "tags": [],
+    "enunciado": "Paciente do sexo masculino, 23 anos, comparece à unidade de saúde. Relatou que usa nome social desde os 19 anos de idade, possui identidade de gênero feminina e tem orientação bissexual. Faz hormonioterapia desde a adolescência, sem assistência médica. Mora com a família e trabalha como caixa de supermercado. Quando questionada sobre o motivo da consulta, ela diz: \"- Nasci com corpo de homem, mas me sinto mulher.\" Não possui parceiros (cid:70)xos. Exame físico sem alterações. Qual a medida adequada para compor o plano terapêutico da paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fornecer preservativos e solicitar teste anti-HIV, de sífilis e das hepatites B e C."
+      },
+      {
+        "letra": "B",
+        "texto": "Reagendar novo atendimento para interconsulta da equipe de apoio matricial em saúde mental para avaliação e acompanhamento do caso."
+      },
+      {
+        "letra": "C",
+        "texto": "Indicar a suspensão gradual da hormonioterapia e orientar para evitar o compartilhamento de seringas na aplicação de hormônios e silicone."
+      },
+      {
+        "letra": "D",
+        "texto": "Encaminhar para acompanhamento mensal no “Serviço de Atenção Especializada no Processo Transexualizador” mais próximo."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 100204,
+    "tags": [],
+    "enunciado": "Em 2013, foi rede(cid:70)nido e ampliado o Processo Transexualizador no SUS inserido no contexto da Política Nacional de Saúde Integral de Lésbicas, Gays, Bissexuais, Travestis e Transexuais, com inclusão de procedimentos cirúrgicos (tireoplastia, redesignação sexual, plástica mamária e outros), de acompanhamento do(a) usuário(a) e de hormonioterapia. Em relação ao cuidado dos(as) usuários(as) e a indicação de procedimentos no Processo Transexualizador, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "os procedimentos cirúrgicos serão iniciados a partir de vinte e um anos de idade do(a) paciente."
+      },
+      {
+        "letra": "B",
+        "texto": "a hormonioterapia será iniciada a partir dos dezesseis anos de idade do(a) paciente."
+      },
+      {
+        "letra": "C",
+        "texto": "a redesignação sexual no sexo masculino deverá ocorrer a partir dos trinta anos de idade do paciente."
+      },
+      {
+        "letra": "D",
+        "texto": "qualquer procedimento somente poderá ter início após acompanhamento prévio de três anos pela equipe multiprofissional de serviço especializado habilitado."
+      },
+      {
+        "letra": "E",
+        "texto": "histerectomia com anexectomia bilateral e colpectomia somente poderão ocorrer em estabelecimentos habilitados e definidos como hospitais de ensino. 4000063988 Respostas: 1 C 2 B 3 A 4 A 5 C 6 A 7 B 8 B 9 B 10 D 11 B 12 D 13 A 14 C 15 D 16 B 17 B 18 B 19 B 20 E 21 D 22 B 23 E 24 C 25 A 26 A 27 E 28 D 29 A"
+      }
+    ],
+    "resposta_correta": "A"
+  }
+]

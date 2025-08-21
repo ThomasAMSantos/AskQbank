@@ -1,0 +1,1526 @@
+[
+  {
+    "id": 70245,
+    "tags": [],
+    "enunciado": "No diagnóstico de insu(cid:30)ciência hepática aguda, o exame laboratorial que fornece uma medida direta da capacidade sintética do fígado e é fundamental para avaliar o prognóstico é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Dosagem do tempo de protrombina (TP) e cálculo do INR."
+      },
+      {
+        "letra": "B",
+        "texto": "Dosagem de bilirrubina direta e indireta."
+      },
+      {
+        "letra": "C",
+        "texto": "Níveis séricos de aspartato aminotransferase (AST) e alanina aminotransferase (ALT)."
+      },
+      {
+        "letra": "D",
+        "texto": "Albumina sérica."
+      },
+      {
+        "letra": "E",
+        "texto": "Ultrassonografia abdominal com Doppler de vasos hepáticos. 4000234876"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 70246,
+    "tags": [],
+    "enunciado": "Homem, 53 anos, foi admitido no hospital com icterícia e dor abdominial inespecí(cid:30)ca. Antecedentes pessoais: cirrose alcoólica há quatro anos (Child-Pugh A6) mantendo ingestão diária de bebida alcoólica. Exame físico: Icterícia 2+/4+; teleangiectasias; abdome: fígado não palpável, baço percutível, ausência de ascite; Neurológico: normal; membros: sem edema. Bilirrubina total= 22,3 mg/d, ALT = 83 Ul/ml, AST = 40Ul/ml, RNI = 1,53, Plaquetas = 97.000mm³. Radiograma de tórax: opacidade com broncograma aéreo em base de pulmão direito. Evoluiu com hipotensão e elevação dos níveis de creatinina após início de cefepime. O diagnóstico é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hepatite fulminante secundária antibioticoterapia"
+      },
+      {
+        "letra": "B",
+        "texto": "Insuficiência hepática crônica agudizada"
+      },
+      {
+        "letra": "C",
+        "texto": "Hepatite viral fulminante"
+      },
+      {
+        "letra": "D",
+        "texto": "Choque séptico 4000232396"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 70247,
+    "tags": [],
+    "enunciado": "Com relação ao diagnóstico da Insu(cid:30)ciência Hepática Aguda (IHA), assinale V. para as a(cid:30)rmativas verdadeiras e F para as falsas. ( ) Na anamnese, não é possível indicar a etiologia da IHA nem sugerir uma possível abordagem específica. ( ) No exame físico, é importante de(cid:30)nir o grau de encefalopatia hepática e a presença de estigmas de doença crônica. ( ) Todos os pacientes com IHA precisam de monitoração hemodinâmica contínua, necessariamente em Unidade de Terapia Intensiva. ( ) Não é necessário realizar exames de imagem para visualização das veias hepáticas nem da veia porta, pois não é preciso avaliar detalhadamente o fígado. Assinale a alternativa que apresenta a sequência CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "F – V – V – F."
+      },
+      {
+        "letra": "B",
+        "texto": "F – V – F – V."
+      },
+      {
+        "letra": "C",
+        "texto": "V – F – F – V."
+      },
+      {
+        "letra": "D",
+        "texto": "V – F – V – F."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 70248,
+    "tags": [],
+    "enunciado": "Um paciente, sexo masculino, 21 anos, há cerca de 7 dias com alteração progressiva de comportamento, e, nas últimas 24 h, apresentou rebaixamento do nível de consciência e icterícia também progressiva. Devido ao rebaixamento do nível de consciência, foi indicada a intubação orotraqueal. Após análise dos exames laboratoriais, chegou-se ao diagnóstico de insu(cid:30)ciência hepática aguda (IHA). Em relação a esse caso, assinale a afirmativa correta",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Deve-se utilizar a infusão de soluções hipotônicas e reforçar episódios de hiponatremia que contribuem com o edema cerebral."
+      },
+      {
+        "letra": "B",
+        "texto": "A hiperventilação profilática não é recomendada em pacientes com IHA por não prevenir Hipertensão Intracraniana (HIC) e pode ocasionar edema cerebral por redução oferta de oxigênio cerebral."
+      },
+      {
+        "letra": "C",
+        "texto": "Sonolência e torpor com resposta aos estímulos verbais, desorientação grosseira e agitação psicomotora configuram a Encefalopatia hepática grau III em que o grande marcador semiológico é o flapping."
+      },
+      {
+        "letra": "D",
+        "texto": "A indução de hipernatremia torna-se desnecessário porque junto com a amônia a hiponatremia é fator que dispensa gravidade."
+      },
+      {
+        "letra": "E",
+        "texto": "O uso de corticoides com intuito de reduzir a inflamação cerebral aumenta a incidência de episódios de HIC, por isso não devem ser utilizados com essa finalidade na IHA."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 70249,
+    "tags": [],
+    "enunciado": "Diante de um paciente com quadro de hepatite fulminante, qual dos marcadores abaixo será utilizado para marcar função hepática e auxiliar na tomada de decisão pela indicação de um transplante (segundo critérios de Kings College).",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Transaminase Glutâmico-Oxalacética (TGO)"
+      },
+      {
+        "letra": "B",
+        "texto": "Transaminase Glutâmica-Pirúvica (TGP)"
+      },
+      {
+        "letra": "C",
+        "texto": "Tempo de Protrombina (TAP)"
+      },
+      {
+        "letra": "D",
+        "texto": "Albumina plasmática 4000211300"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 70250,
+    "tags": [],
+    "enunciado": "Homem, 38 anos de idade, procura a UPA com queixas de icterícia, febre, mal-estar e náuseas, há cerca de três dias. Refere ter retornado de uma viagem à praia há cerca de 30 dias. Ao exame físico, apresenta-se lúcido e orientado, com icterícia 2+/4. Ausculta cardiorrespiratória sem alterações. Abdome com hepatomegalia e esplenomegalia discretas. Exame neurológico sem alterações. Os exames laboratoriais evidenciaram: Hb: 12g/dL, leucócitos: 9mil/mm³, plaquetas: 200mil/mm³, AST: 900U/L (VR 40), ALT: 980U/L (VR 40), Fosfatase alcalina: 400U/L (VR 150), GamaGT: 300U/L (VR 60), BT: 5,0mg/dL, RNI: 1,7. Diante do quadro clínico, quanto à gravidade do paciente, pode-se afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A gravidade do caso é definida, principalmente, pela elevação de transaminases."
+      },
+      {
+        "letra": "B",
+        "texto": "A elevação importante de transaminases indica tratar-se de uma hepatite fulminante."
+      },
+      {
+        "letra": "C",
+        "texto": "A gravidade do caso é definida, principalmente, pela elevação de bilirrubinas e RNI."
+      },
+      {
+        "letra": "D",
+        "texto": "A elevação de bilirrubinas e RNI indicam tratar-se de uma hepatite fulminante."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 70251,
+    "tags": [],
+    "enunciado": "Homem, 38 anos de idade, procura a UPA com queixas de icterícia, febre, mal-estar e náuseas, há cerca de três dias. Refere ter retornado de uma viagem à praia há cerca de 30 dias. Ao exame físico, apresenta-se lúcido e orientado, com icterícia 2+/4. Ausculta cardiorrespiratória sem alterações. Abdome com hepatomegalia e esplenomegalia discretas. Exame neurológico sem alterações. Os exames laboratoriais evidenciaram: Hb: 12g/dL, leucócitos: 9mil/mm³, plaquetas: 200mil/mm³, AST: 900U/L (VR 40), ALT: 980U/L (VR 40), Fosfatase alcalina: 400U/L (VR 150), GamaGT: 300U/L (VR 60), BT: 5,0mg/dL, RNI: 1,7. Com base nas informações, indique os exames que devem ser solicitados para definição etiológica:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Anti-HAV IgM, Anti-EBV IgM, Anti-CMV IgM."
+      },
+      {
+        "letra": "B",
+        "texto": "Anti-HAV IgG e IgM, AgHBs, Anti-HCV."
+      },
+      {
+        "letra": "C",
+        "texto": "PCR qualitativo para HAV, HBV e HCV."
+      },
+      {
+        "letra": "D",
+        "texto": "Anti-HAV IgM, Anti-HBc IgM, PCR para HCV"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 70252,
+    "tags": [],
+    "enunciado": "Homem, 38 anos de idade, procura a UPA com queixas de icterícia, febre, mal-estar e náuseas, há cerca de três dias. Refere ter retornado de uma viagem à praia há cerca de 30 dias. Ao exame físico, apresenta-se lúcido e orientado, com icterícia 2+/4. Ausculta cardiorrespiratória sem alterações. Abdome com hepatomegalia e esplenomegalia discretas. Exame neurológico sem alterações. Os exames laboratoriais evidenciaram: Hb: 12g/dL, leucócitos: 9mil/mm³, plaquetas: 200mil/mm³, AST: 900U/L (VR 40), ALT: 980U/L (VR 40), Fosfatase alcalina: 400U/L (VR 150), GamaGT: 300U/L (VR 60), BT: 5,0mg/dL, RNI: 1,7. Indique a conduta terapêutica inicial mais apropriada para esse paciente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Administração de imunoglobulina."
+      },
+      {
+        "letra": "B",
+        "texto": "Iniciar terapia antiviral específica."
+      },
+      {
+        "letra": "C",
+        "texto": "Repouso e medidas de suporte."
+      },
+      {
+        "letra": "D",
+        "texto": "Encaminhamento para transplante hepático."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 70253,
+    "tags": [],
+    "enunciado": "Com relação ao diagnóstico da Insu(cid:30)ciência Hepática Aguda (IHA), assinale V para as a(cid:30)rmativas verdadeiras e F para as falsas. ( ) Na anamnese, não é possível indicar a etiologia da IHA nem sugerir uma possível abordagem específica. ( ) No exame físico, é importante de(cid:30)nir o grau de encefalopatia hepática e a presença de estigmas de doença crônica. ( ) Todos os pacientes com IHA precisam de monitoração hemodinâmica contínua, necessariamente em Unidade de Terapia Intensiva. ( ) Não é necessário realizar exames de imagem para visualização das veias hepáticas nem da veia porta, pois não é preciso avaliar detalhadamente o fígado. Assinale a alternativa que apresenta a sequência CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "F – V – V – F."
+      },
+      {
+        "letra": "B",
+        "texto": "F – V – F – V."
+      },
+      {
+        "letra": "C",
+        "texto": "V – F – F – V."
+      },
+      {
+        "letra": "D",
+        "texto": "V – F – V – F."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 70254,
+    "tags": [],
+    "enunciado": "Em um hospital terciário, um paciente de 25 anos apresenta hepatite fulminante associada ao vírus da hepatite B. Nesta manhã, ele foi listado para um transplante hepático em caráter de urgência. As alterações características da hepatite fulminante são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "flapping e confusão mental; bilirrubina total ≥ 20 mg/dL e razão normalizada internacional (RNI) ≤ 1,0."
+      },
+      {
+        "letra": "B",
+        "texto": "edema cerebral e hemorragia digestiva; albumina ≥ 2,8 mg/dL e creatinina 4,0 mg/dL."
+      },
+      {
+        "letra": "C",
+        "texto": "encefalopatia hepática; razão normalizada internacional (RNI) > 1,5."
+      },
+      {
+        "letra": "D",
+        "texto": "ascite e hemorragia digestiva; aminotransferases ≥ 2000 UI/L."
+      },
+      {
+        "letra": "E",
+        "texto": "encefalopatia hepática; aminotransferase ≥ 1000 UI/L e creatinina sérica 4,0 mg/dL."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 70255,
+    "tags": [],
+    "enunciado": "Mulher, 16 anos, previamente hígida, há 1 semana com dor em hipocôndrio direito, náuseas e icterícia. Há um dia desorientação têmporo-espacial e letargia. Ao exame clínico encontra-se com ictérica +3/+4 e (cid:83)apping positivo. A conduta inicial é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Dosagem de enzimas hepáticas e canaliculares e realização de tomografia de abdome."
+      },
+      {
+        "letra": "B",
+        "texto": "Dosagem de enzimas hepáticas e canaliculares, coagulograma, bilirrubinas totais e frações e colangiorresonância."
+      },
+      {
+        "letra": "C",
+        "texto": "Investigação de coagulopatia e etiologia da disfunção hepática e internação em UTI."
+      },
+      {
+        "letra": "D",
+        "texto": "Transplante hepático em caráter de urgência. 4000187578"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 70256,
+    "tags": [],
+    "enunciado": "Considerando os quadros de hepatite, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Taxas de anticorpo antinuclear ou antimúsculo liso, em geral, são menores que 1/20 nos casos de hepatite autoimune."
+      },
+      {
+        "letra": "B",
+        "texto": "A hepatite alcoólica aguda, frequentemente, cursa com elevação da AST menores que 500 U/L e relação AST/ALT > 2."
+      },
+      {
+        "letra": "C",
+        "texto": "Nas hepatites virais agudas, em geral, o aumento das transaminases é proporcional ao da fosfatase alcalina e gama glutamil-transferase."
+      },
+      {
+        "letra": "D",
+        "texto": "O aumento progressivo dos níveis séricos da ceruloplasmina é o principal responsável pelo desenvolvimento da doença de Wilson."
+      },
+      {
+        "letra": "E",
+        "texto": "As hepatites medicamentosas ocupam o segundo lugar na ocorrência de casos de hepatite fulminante em todo o mundo, sendo o paracetamol sua principal causa."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 70257,
+    "tags": [],
+    "enunciado": "Homem de 21 anos é levado à emergência pelos familiares com quadro de alteração do nível de consciência de início há 24 horas. Há três dias, apresentou colúria associada com sangramento gengival. O exame físico mostra um paciente torporoso, com (cid:83)apping, ictérico e sem ascite. O exame laboratorial revela hemoglobina = 8g/dL, leucócitos = 4.000/mm³, linfócitos = 39%, bilirrubina total = 14mg/dL, bilirrubina indireta = 8mg/dL, TGO = 300U/L, TGP = 200U/L e FA = 300U/L, TAP com INR = 2,8. A sorologia mostra anti-HAV IgM (-), IgG (+), anti-HCV (+), HbSAg (+), HbEAg (+), anti-HbEAg (-), anti-HbCAg total (+) e anti-HbSAg (-). O paciente é fumante, ingere 30g/dia de álcool há três anos e faz uso de drogas injetáveis ocasionalmente. Com os dados apresentados, o diagnóstico mais provável é de hepatite fulminante por:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "álcool"
+      },
+      {
+        "letra": "B",
+        "texto": "vírus A"
+      },
+      {
+        "letra": "C",
+        "texto": "vírus B"
+      },
+      {
+        "letra": "D",
+        "texto": "vírus C"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 70258,
+    "tags": [],
+    "enunciado": "Adolescente internado com diagnóstico de dengue, somente poderá ter também diagnóstico de insuficiência hepática aguda se apresentar",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "doença hepática prévia."
+      },
+      {
+        "letra": "B",
+        "texto": "coagulopatia não corrigível pela administação de vitamina K e RNI >2, na ausência de encefalopatia."
+      },
+      {
+        "letra": "C",
+        "texto": "ascite e hiperamonemia."
+      },
+      {
+        "letra": "D",
+        "texto": "comprometimento da função renal com necessidade de terapia de substituição renal."
+      },
+      {
+        "letra": "E",
+        "texto": "icterícia, coagulopatia e RNI >1."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 70259,
+    "tags": [],
+    "enunciado": "Um menino de doze anos de idade, previamente saudável, chegou ao pronto-socorro com história de dor abdominal em hipocôndrio direito, náuseas e icterícia há duas semanas, evoluindo com hipoatividade e confusão mental há 24 h. Exames laboratoriais mostraram: AST 1.120; ALT 1.048; fosfatase alcalina 212; bilirrubina total 4; INR 2,1; hepatite A IgM positivo; hepatite B anti-Hbc total positivo; HbsAg negativo; e anti- HCV negativo. Com base nesse caso hipotético, assinale a alternativa que apresenta a conduta a ser adotada.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "observação clínica domiciliar, pois o diagnóstico mais provável é o de hepatite A, que é uma doença autolimitada"
+      },
+      {
+        "letra": "B",
+        "texto": "iniciar tratamento com lamivudina, pois o diagnóstico mais provável é o de hepatite B"
+      },
+      {
+        "letra": "C",
+        "texto": "internar e realizar biópsia hepática para o diagnóstico"
+      },
+      {
+        "letra": "D",
+        "texto": "internar para antibioticoterapia, pois o diagnóstico mais provável é o de hepatite transinfecciosa"
+      },
+      {
+        "letra": "E",
+        "texto": "internar e iniciar avaliação para transplante hepático"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 70260,
+    "tags": [],
+    "enunciado": "A principal causa de Insuficiência Hepática aguda no Mundo é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Acetaminofen"
+      },
+      {
+        "letra": "B",
+        "texto": "Fármacos"
+      },
+      {
+        "letra": "C",
+        "texto": "Hepatites virais"
+      },
+      {
+        "letra": "D",
+        "texto": "Hepatite autoimune"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 70261,
+    "tags": [],
+    "enunciado": "A principal causa de Insuficiência Hepática aguda no Brasil é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hepatite A"
+      },
+      {
+        "letra": "B",
+        "texto": "Hepatite B"
+      },
+      {
+        "letra": "C",
+        "texto": "Hepatite C"
+      },
+      {
+        "letra": "D",
+        "texto": "Hepatite E"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 70262,
+    "tags": [],
+    "enunciado": "São complicações potencialmente fatais frequentemente associadas à falência hepática aguda, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hiperglicemia grave com cetoacidose"
+      },
+      {
+        "letra": "B",
+        "texto": "Edema cerebral e hipertensão intrncraniana"
+      },
+      {
+        "letra": "C",
+        "texto": "Infecção bacteriana e sepse"
+      },
+      {
+        "letra": "D",
+        "texto": "Alargamento do tempo de protrombina e distúrbio de coagulação 4000143001"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 70263,
+    "tags": [],
+    "enunciado": "Pediatria Paciente de 11 anos de idade, menina, com diagnóstico de Hepatite há 1 mês, retorna à consulta com resultado de exames: Hemograma sem alterações, TGO: 648 U/L, TGP 752 U/L, Gama GT 40 U/L, FA: 184 U/L, BT: 8 mg/dl, BD: 7.5 mg/ dl, BI 0.5 mg/dl, RNI: 1.6 e TTPA 30 segundos. A mãe refere que a criança está bem. Pergunta se será necessário examinála, pois a criança está muito irritada e não quer entrar no consultório. Qual a conduta adequada nesse caso?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Como os exames laboratoriais não exibem alterações relevantes, dispensar para casa com orientação de retorno em 15 dias."
+      },
+      {
+        "letra": "B",
+        "texto": "Pedir para examinar a criança e, se constatada hepatomegalia, internar na enfermaria."
+      },
+      {
+        "letra": "C",
+        "texto": "Solicitar vaga na enfermaria, devido aos altos níveis de transaminases."
+      },
+      {
+        "letra": "D",
+        "texto": "Pedir para examinar a criança e, se constatada irritabilidade, internar na unidade de terapia intensiva."
+      },
+      {
+        "letra": "E",
+        "texto": "Solicitar vaga na unidade de terapia intensiva pelo risco aumentado de hemorragia."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 70264,
+    "tags": [],
+    "enunciado": "Assinale a assertiva correta sobre insuficiência hepática aguda.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A apresentação clínica inclui icterícia e encefalopatia hepática em pacientes sem evidência de doença hepática crônica subjacente."
+      },
+      {
+        "letra": "B",
+        "texto": "Na evolução da hepatite aguda, a diminuição dos valores das transaminases indica bom prognóstico, mesmo se os níveis de bilirrubinas e o tempo de protrombina estiverem aumentando."
+      },
+      {
+        "letra": "C",
+        "texto": "É comum a associação de hepatite viral C com insuficiência hepática aguda."
+      },
+      {
+        "letra": "D",
+        "texto": "A hepatotoxicidade por paracetamol é idiossincrática, sendo comum em doses terapêuticas."
+      },
+      {
+        "letra": "E",
+        "texto": "A presença de hipertensão porta é um dos critérios necessários para o estabelecimento do diagnóstico."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 70265,
+    "tags": [],
+    "enunciado": "No caso de criança com hepatite A, qual achado laboratorial é sugestivo de evolução para hepatite fulminante?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hipoglicemia."
+      },
+      {
+        "letra": "B",
+        "texto": "Diminuição abrupta da bilirrubina."
+      },
+      {
+        "letra": "C",
+        "texto": "Duplicação da carga viral."
+      },
+      {
+        "letra": "D",
+        "texto": "Diminuição da amônia."
+      },
+      {
+        "letra": "E",
+        "texto": "Aumento da gama GT."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 70266,
+    "tags": [],
+    "enunciado": "Em relação à insuficiência hepática aguda, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Classifica-se somente em forma fulminante;"
+      },
+      {
+        "letra": "B",
+        "texto": "A causa mais comum é abuso de acetaminofeno;"
+      },
+      {
+        "letra": "C",
+        "texto": "Diabetes mellitus e obesidade não aumentam o risco de insuficiência hepática aguda;"
+      },
+      {
+        "letra": "D",
+        "texto": "Pacientes com encefalopatia hepática severa apresentam bom prognóstico;"
+      },
+      {
+        "letra": "E",
+        "texto": "Todos os casos são tratados com transplante hepático"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 70267,
+    "tags": [],
+    "enunciado": "A biópsia hepática é útil no diagnóstico de outras doenças hepáticas concomitantes com hepatite viral crônica – como a doença gordurosa, que impacta de maneira signi(cid:30)cativa a evolução dos casos e o manejo dos pacientes. Podemos assim, indicar como errado o item:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A biópsia hepática é o exame padrão-ouro para a avaliação da fibrose hepática."
+      },
+      {
+        "letra": "B",
+        "texto": "É excepcional na avaliação de hepatite B crônica e reservada aos casos em que não há dúvidas na indicação de tratamento."
+      },
+      {
+        "letra": "C",
+        "texto": "Biópsia pode ser realizada com diferentes técnicas e tipos de agulha."
+      },
+      {
+        "letra": "D",
+        "texto": "A biópsia hepática é um procedimento invasivo, que requer uma estrutura apropriada."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 70268,
+    "tags": [],
+    "enunciado": "Homem, 57a, foi admitido no hospital com icterícia e dor abdominal inespecí(cid:30)ca. Antecedentes pessoais: cirrose alcoólica há quatro anos (Child-Pugh A6) mantendo ingestão diária de bebida alcoólica. Exame físico: Icterícia 2+/4+; teleangiectasias; abdome: fígado não palpável, baço percutível, ausência de ascite; Neurológico: normal; membros: sem edema. Bilirrubina total= 22,3 mg/dL, ALT= 83 UI/mL, AST= 40UI/mL, RNI= 1,53, Plaquetas= 97.000mm3 . Radiograma de tórax: opacidade com broncograma aéreo em base de pulmão direito. Evoluiu com hipotensão e elevação dos níveis de creatinina após início de cefepime. O DIAGNÓSTICO É:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Insuficiência hepática crônica agudizada."
+      },
+      {
+        "letra": "B",
+        "texto": "Hepatite fulminante secundária antibioticoterapia"
+      },
+      {
+        "letra": "C",
+        "texto": "Hepatite viral fulminante."
+      },
+      {
+        "letra": "D",
+        "texto": "Choque séptico."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 70269,
+    "tags": [],
+    "enunciado": "Entre os agentes não opioides abaixo, aquele que, com dosagens mais elevadas, pode resultar em falência hepática fulminante é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ibuprofeno."
+      },
+      {
+        "letra": "B",
+        "texto": "Acetaminofen."
+      },
+      {
+        "letra": "C",
+        "texto": "Cetorolaco."
+      },
+      {
+        "letra": "D",
+        "texto": "Amitriptilina."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 70270,
+    "tags": [],
+    "enunciado": "Segundo a legislação brasileira de transplantes, são indicações de transplante hepático com doador cadavérico, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hemocromatose."
+      },
+      {
+        "letra": "B",
+        "texto": "Cirrose secundária à hepatite viral B."
+      },
+      {
+        "letra": "C",
+        "texto": "Doença de Budd-Chiari."
+      },
+      {
+        "letra": "D",
+        "texto": "Carcinoma hepatocelular de 7 cm."
+      },
+      {
+        "letra": "E",
+        "texto": "Hepatite fulminante por paracetamol."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 70271,
+    "tags": [],
+    "enunciado": "Paciente de 6 anos, sexo feminino, é atendida no pronto atendimento com história de febre e aparecimento de icterícia de pele e escleras há 3 dias. Mãe refere colúria, nega acolia e refere que há 2 dias a (cid:30)lha está com o ritmo de sono alterado, “que vem trocando o dia pela noite”. Nega sonolência. Ao exame físico, bom estado geral, corada, hidratada, orientada, com icterícia de pele e escleras 2+/4+. Campos pleuropulmonares e pré-cordio sem alterações. Abdome plano, (cid:83)ácido, ruídos hidroaéreos normais, indolor à palpação super(cid:30)cial e profunda. Fígado palpável a 3 cm do rebordo costal direito, na linha hemiclavicular e a 4 cm do apêndice xifoide, de consistência normal. Baço não palpável, Traube livre. Com base no caso acima, considere as seguintes afirmativas: 1. O diagnóstico da paciente é hepatite aguda, uma síndrome clínica que se encontra associada a várias etiologias, estando recomendado o acompanhamento ambulatorial, com exames de rotina e retorno em 48 horas. 2. O tempo de protrombina deve ser solicitado com urgência, para o reconhecimento precoce de insuficiência hepática aguda. 3. A paciente deve ser internada em hospital especializado em transplante hepático. 4. Interrogatório minucioso sobre medicamentos prescritos à paciente afastam causa tóxico- medicamentosa para o caso. Assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente a afirmativa 2 é verdadeira."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente as afirmativas 1 e 4 são verdadeiras."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente as afirmativas 2 e 3 são verdadeiras."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente as afirmativas 1, 3 e 4 são verdadeiras."
+      },
+      {
+        "letra": "E",
+        "texto": "As afirmativas 1, 2, 3 e 4 são verdadeiras."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 70272,
+    "tags": [],
+    "enunciado": "Qual é o fator mais importante para predizer a sobrevida nos pacientes com falência hepática fulminante?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A etiologia."
+      },
+      {
+        "letra": "B",
+        "texto": "A função hepática."
+      },
+      {
+        "letra": "C",
+        "texto": "O grau de encefalopatia."
+      },
+      {
+        "letra": "D",
+        "texto": "Grau I de encefalopatia."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 70273,
+    "tags": [],
+    "enunciado": "Qual alternativa apresenta fator de melhor prognóstico na falência hepática:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "intoxicação por paracetamol e infecção por vírus da hepatite A."
+      },
+      {
+        "letra": "B",
+        "texto": "infecção pelo vírus da hepatite B."
+      },
+      {
+        "letra": "C",
+        "texto": "infecção pelo vírus da hepatite C."
+      },
+      {
+        "letra": "D",
+        "texto": "infecção pelo vírus da hepatite E."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 70274,
+    "tags": [],
+    "enunciado": "Das hepatites, qual é a causa mais comum de falência hepática fulminante?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hepatite C."
+      },
+      {
+        "letra": "B",
+        "texto": "Hepatite B."
+      },
+      {
+        "letra": "C",
+        "texto": "Hepatite E."
+      },
+      {
+        "letra": "D",
+        "texto": "Hepatite A."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 70275,
+    "tags": [],
+    "enunciado": "Assinale a causa medicamentosa mais comum como etiologia da falência hepática fulminante.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Isoniazida."
+      },
+      {
+        "letra": "B",
+        "texto": "Tetraciclina."
+      },
+      {
+        "letra": "C",
+        "texto": "Anfetamina."
+      },
+      {
+        "letra": "D",
+        "texto": "Paracetamol."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 70276,
+    "tags": [],
+    "enunciado": "As hepatites virais são doenças causadas por diferentes vírus hepatotrópicos os mais relevantes são os vírus",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "(HAV), B (HBV), C (HCV), D (HDV) e E (HEV). Esses vírus pertencem, respectivamente, às seguintes famílias: Picornaviridae, Hepadnaviridae, Flaviviridae, Deltaviridae e Hepeviridae. Sendo INCORRETO que:"
+      },
+      {
+        "letra": "A",
+        "texto": "Após entrar em contato com o vírus, o indivíduo pode desenvolver hepatite aguda oligo/assintomática ou sintomática. Esse quadro agudo pode ocorrer na infecção por qualquer um dos vírus e possui seus aspectos clínicos e virológicos limitados aos primeiros 6 meses."
+      },
+      {
+        "letra": "B",
+        "texto": "Anteriormente ao aparecimento da icterícia, os sintomas são inespecíficos: anorexia, náuseas, vômitos, diarréia ou, raramente, constipação, febre baixa, cefaleia, mal-estar, astenia e fadiga, aversão ao paladar e/ou olfato, mialgia, fotofobia, desconforto no hipocôndrio direito, urticária, artralgia ou artrite e exantema papular ou maculopapular."
+      },
+      {
+        "letra": "C",
+        "texto": "Indivíduos com infecção crônica, que não apresentam manifestações clínicas, com replicação viral baixa ou ausente e que não apresentam evidências de alterações graves à histologia hepática, são considerados portadores assintomáticos."
+      },
+      {
+        "letra": "D",
+        "texto": "Hepatite fulminante é termo utilizado para designar a insuficiência hepática crônica, caracterizada pelo surgimento de icterícia, coagulopatia e encefalopatia hepática em um intervalo de até 18 semanas."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 70277,
+    "tags": [],
+    "enunciado": "Homem, 53a, foi admitido no hospital com icterícia e dor abdominal inespecí(cid:30)ca. Antecedentes pessoais: cirrose alcoólica há quatro anos (Child-Pugh A6) mantendo ingestão diária de bebida alcoólica. Exame físico: icterícia 2+/4+; teleangiectasias; abdome: fígado não palpável, baço percutível, ausência de ascite; Neurológico: normal; membros: sem edema. Bilirrubina total = 22,3 mg/dl, ALT = 83 UI/ml, AST = 40 UI/ml, RNI = 1,53; plaquetas = 97.000 mm³. Radiograma de tórax: opacidade com broncograma aéreo em base de pulmão direito. Evoluiu com hipotensão e elevação dos níveis de creatinina após início de cefepime. O diagnóstico é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hepatite fulminante secundária antibioticoterapia."
+      },
+      {
+        "letra": "B",
+        "texto": "Insuficiência hepática crônica agudizada."
+      },
+      {
+        "letra": "C",
+        "texto": "Hepatite viral fulminante."
+      },
+      {
+        "letra": "D",
+        "texto": "Choque séptico."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 70278,
+    "tags": [],
+    "enunciado": "A hepatite de evolução fulminante ocorre mais comumente em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Recém-nascidos."
+      },
+      {
+        "letra": "B",
+        "texto": "Adolescentes."
+      },
+      {
+        "letra": "C",
+        "texto": "Pré-escolares."
+      },
+      {
+        "letra": "D",
+        "texto": "Escolares."
+      },
+      {
+        "letra": "E",
+        "texto": "Lactentes."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 70279,
+    "tags": [],
+    "enunciado": "São complicações potencialmente fatais frequentemente associadas à falência hepática aguda, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hiperglicemia grave com cetoacidose."
+      },
+      {
+        "letra": "B",
+        "texto": "Edema cerebral e hipertensão intracraniana."
+      },
+      {
+        "letra": "C",
+        "texto": "Infecção bacteriana e sepse."
+      },
+      {
+        "letra": "D",
+        "texto": "Alargamento do tempo de protrombina e distúrbio de coagulação"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 70280,
+    "tags": [],
+    "enunciado": "Qual sintoma é essencial para a caracterização de insuficiência Hepática Aguda:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "febre"
+      },
+      {
+        "letra": "B",
+        "texto": "ascite"
+      },
+      {
+        "letra": "C",
+        "texto": "hematêmese"
+      },
+      {
+        "letra": "D",
+        "texto": "encefalopatia"
+      },
+      {
+        "letra": "E",
+        "texto": "dor abdominal"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 70281,
+    "tags": [],
+    "enunciado": "Transaminases TGO e TGPAminotransferases AST e ALT Paciente feminina, 32 anos, recebeu diagnóstico de doença de Graves há quatro meses, foi iniciado propanolol e propiltiouracil há 2 meses. Refere náuseas, dor abdominal leve, adinamia há cerca de um mês e há 7 dias aparecimento de icterícia e há 2 dias começou a apresentar agitação psicomotora e alteração do sono vigília. Nega comorbidades e uso de outras medicações. Ao exame: desorientação, icterícia ++/4, normocorada, hepatomegalia dolorosa, descompressão brusca (-), (cid:83)apping (+), Laboratório: Hb 11.6 g/dl; HCT: 30, Leucócitos 13.460/mm3; Plaquetas 221.000/mm3; TGO 2500 U/I, TGP 3.500 U/I; GGT: Bilirrubina total 17 mg/dl; Bilirrubina Direta 14 mg/dl; GGT 560 U/I; Albumina 2.9 g/dl; (RNI) 4.5; Creatinina 1.1 g/dl. Assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O propiltiouracil pode ser a causa da hepatite da paciente e deve ser suspenso imediatamente."
+      },
+      {
+        "letra": "B",
+        "texto": "Os níveis das transaminases se correlacionam com a gravidade da doença e demonstram possível necrose hepatocelular"
+      },
+      {
+        "letra": "C",
+        "texto": "A paciente apresenta falência hepática aguda e pode evoluir para a necessidade de transplante hepático."
+      },
+      {
+        "letra": "D",
+        "texto": "Vários fatores extra-hepáticos podem contribuir para a encefalopatia como hipoglicemia, hiponatremia, uremia, hipóxia e sepse."
+      },
+      {
+        "letra": "E",
+        "texto": "Vírus D pode causar falência hepática aguda quando associado com VHB."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 70282,
+    "tags": [],
+    "enunciado": "São complicações potencialmente fatais frequentemente associadas à falência hepática aguda, exceto:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hiperglicemia grave com cetoacidose."
+      },
+      {
+        "letra": "B",
+        "texto": "Edema cerebral e hipertensão intracraniana."
+      },
+      {
+        "letra": "C",
+        "texto": "Infecção bacteriana e sepses."
+      },
+      {
+        "letra": "D",
+        "texto": "Alargamento do tempo de protrombina e distúrbio de coagulação."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 70283,
+    "tags": [],
+    "enunciado": "Em um paciente com insu(cid:30)ciência hepática aguda, que exame deve ser monitorizado rigorosamente para estimar o prognóstico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Bilirrubinas."
+      },
+      {
+        "letra": "B",
+        "texto": "Tempo de protrombina."
+      },
+      {
+        "letra": "C",
+        "texto": "Alanina aminotransferase."
+      },
+      {
+        "letra": "D",
+        "texto": "Albumina."
+      },
+      {
+        "letra": "E",
+        "texto": "Gama glutamiltransferase."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 70284,
+    "tags": [],
+    "enunciado": "Paciente masculino, 47 anos de idade, apresenta confusão mental de início recente associada à icterícia. Refere que ingeriu cogumelos há aproximadamente 30 horas, apresentando em seguida vômitos e diarreia. Negou uso prévio de medicaçõs. Ao exame físico encontrava-se ictérico, desorientado, com presença de asterixis. Nos exames laboratoriais apresentava bilirrubina total = 20 mg/dl, TGP = 1890 UI, TGO = 1498 UI; TAP=37% (INR = 4,7), Creatinina = 2,3, gasometria arterial com pH=7,46, anti-HAV IgM(-) e IgG (+), HBsAg (-), anti-HBs (+), anti-HBc (+), PCR-RNA vírus da hepatite C (-). Qual a principal hipótese diagnóstica e quais os dois fatores de gravidade deste caso clínico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Insuficiência hepática fulminante induzida por intoxicação por cogumelo, pH arterial = 7,46 e distúrbio da coagulação."
+      },
+      {
+        "letra": "B",
+        "texto": "Insuficiência hepática fulminante induzida por intoxicação por cogumelos, distúrbio de coagulação e encefalopatia hepática."
+      },
+      {
+        "letra": "C",
+        "texto": "Insuficiência hepática fulminante causada pelo vírus B, encefalopatia hepática e icterícia."
+      },
+      {
+        "letra": "D",
+        "texto": "Insuficiência hepática fulminante causada pelo vírus A, transaminases maiores que 10x o limite superior da normalidade e distúrbio de coagulação."
+      },
+      {
+        "letra": "E",
+        "texto": "Insuficiência hepática fulminante causada pelo vírus B, encefalopatia hepática e alargamento do TAP."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 70285,
+    "tags": [],
+    "enunciado": "Mulher de 50 anos de idade deu entrada no hospital com queixas de mal-estar e dores no quadrante superior do abdome de início há, aproximadamente, 7 dias. Refere adinamia, mas familiares referem que ela apresentou notável mudança no comportamento nessa última semana, principalmente depois que iniciou aumento do consumo de bebidas. Durante exame físico, notamos aumento do fígado com borda romba, icterícia e tremores. Laboratório demonstra aumento de AST, ALT bem como bilirrubinas. Seu tempo de protrombina está com INR de 2. A paciente refere grande consumo de analgésico durante a última semana por causa das dores abdominais. Acerca disso, pode-se afirmar que esse quadro é compatível com",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hepatite Crônica."
+      },
+      {
+        "letra": "B",
+        "texto": "Insuficiência Hepática induzida por Paracetamol."
+      },
+      {
+        "letra": "C",
+        "texto": "Colangite."
+      },
+      {
+        "letra": "D",
+        "texto": "Cirrose Hepática."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 70286,
+    "tags": [],
+    "enunciado": "Mulher de 22 anos de idade, atendida no pronto-socorro após ser encontrada inconsciente em seu domicílio. Acompanhante relata ter encontrado diversas cartelas de uma medicação abertas junto à paciente, mas não recorda o nome e não se lembrou de trazer para o hospital. Refere que a última vez que a viu foi na noite do dia anterior. Paciente é levada para a sala de emergência inconsciente, não reagindo a comando verbal ou a estímulos dolorosos. Não são observados rigidez de nuca ou contrações musculares. Ao exame: Glasgow 4; FC = 99 bpm; PA = 105 x 65 mmHg; FR = 16 inc/min; SpO2 = 83%. Sem alterações em outros sistemas avaliados. Realizada intubação orotraqueal e colhidos os exames laboratoriais abaixo: (VER IMAGEM) Com base nos dados acima apresentados e sua principal hipótese diagnóstica, qual medicação abaixo seria primeiramente administrada:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Atropina."
+      },
+      {
+        "letra": "B",
+        "texto": "Flumazenil."
+      },
+      {
+        "letra": "C",
+        "texto": "N-acetilcisteína."
+      },
+      {
+        "letra": "D",
+        "texto": "Dantrolene."
+      },
+      {
+        "letra": "E",
+        "texto": "Naloxona."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 70287,
+    "tags": [],
+    "enunciado": "Homem, 51 anos, natural de São Paulo, técnico em informática. Procura atendimento médico após identi(cid:30)cação de esteatose hepática em ultrassonogra(cid:30)a abdominal de rotina realizada em check-up. Paciente assintomático. Refere etilismo eventual, em média 26 g de álcool por semana nos últimos 10 anos. Nega tabagismo, internações prévias ou uso de medicações. Nega atividades físicas regulares. Ao exame físico: corado, hidratado, anictérico, afebril, relação circunferência cintura/quadril de 1,15, inspeção: áreas enegrecidas na pele em região cervical posterior e axilas, ausência de linfonodomegalia, ACV: FC = 72 bpm, ritmo regular em 2 tempos, PA = 130 x 80 mmHg, AR: murmúrio audível bilateralmente, sem ruídos adventícios, ABD: globoso, ruído hidroaéreo presente hepatimetria 12 cm na linha hemiclavicular, espaço de Traube com som timpânico, não identi(cid:30)cado semicírculo de Skoda durante percussão abdominal, MMII: sem edemas, pulsos periféricos palpáveis e simétricos. Neste momento da história evolutiva da doença, o paciente está mais sujeito a qual das complicações abaixo?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Insuficiência hepática aguda."
+      },
+      {
+        "letra": "B",
+        "texto": "Hepatocarcinoma."
+      },
+      {
+        "letra": "C",
+        "texto": "Hemorragia digestiva alta."
+      },
+      {
+        "letra": "D",
+        "texto": "Doença coronariana."
+      },
+      {
+        "letra": "E",
+        "texto": "Hepatotoxicidade por anti-inflamatórios."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 70288,
+    "tags": [],
+    "enunciado": "Na hepatite fulminante, a complicação que mais frequentemente leva ao óbito é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hipertensão intracraniana."
+      },
+      {
+        "letra": "B",
+        "texto": "Coagulopatia."
+      },
+      {
+        "letra": "C",
+        "texto": "Hipoglicemia."
+      },
+      {
+        "letra": "D",
+        "texto": "Pneumonia."
+      },
+      {
+        "letra": "E",
+        "texto": "Falência renal."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 70289,
+    "tags": [],
+    "enunciado": "Em relação a hepatites virais, é CORRETO afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Na hepatite A, podem ocorrer formas de colestase prolongada que evoluem para formas de hepatite crônica."
+      },
+      {
+        "letra": "B",
+        "texto": "A vacinação contra a hepatite C consiste de 3 doses sucessivas, que garante imunidade em parcela considerável dos casos."
+      },
+      {
+        "letra": "C",
+        "texto": "Raros casos de hepatite A podem evoluir para óbito na fase aguda, precedido poralteração de comportamento (encefalopatia), hemorragias, edemas periféricos e ascite."
+      },
+      {
+        "letra": "D",
+        "texto": "Nas formas crônicas, os níveis de transaminases em geral se situam em torno de 500-900 U/L."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 70290,
+    "tags": [],
+    "enunciado": "Paciente de sexo masculino, 18 anos de idade, apresenta-se à clínica rural com náuseas, vômitos, anorexia, desconforto abdominal, mialgias e icterícia. Relata uso ocasional de álcool e sexualmente ativo. Descreve uso de heroína e cocaína \"algumas vezes no passado\". Trabalha como cozinheiro em um restaurante local. Perdeu cerca de 15,5 kg desde a última visita à clínica e parece emaciado, com aparência doentia. Ao exame, constata-se que apresenta esclera ictérica e fígado palpável e doloroso abaixo do rebordo costal direito.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "respeito da hepatite aguda, qual das opções a seguir é verdadeira?"
+      },
+      {
+        "letra": "A",
+        "texto": "Não é possível distinguir as etiologias virais utilizando apenas os critérios clínicos."
+      },
+      {
+        "letra": "B",
+        "texto": "Com base na idade e nos fatores de risco, é provável que o paciente tenha infecção por hepatite B."
+      },
+      {
+        "letra": "C",
+        "texto": "Ele não apresenta o vírus da hepatite E, já que infecta apenas mulheres grávidas."
+      },
+      {
+        "letra": "D",
+        "texto": "Este paciente não pode ter hepatite C, pois a apresentação é muito aguda."
+      },
+      {
+        "letra": "E",
+        "texto": "Este paciente não apresenta hepatite A em virtude da apresentação muito fulminante."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 70291,
+    "tags": [],
+    "enunciado": "Em relação à falência hepática aguda, está ERRADO afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nos casos de hepatotoxicidade pelo acetaminofeno, deve ser administrada N- acetilcisteína, o mais precocemente possível."
+      },
+      {
+        "letra": "B",
+        "texto": "Penicilamina é o tratamento de escolha quando a causa é a doença de Wilson."
+      },
+      {
+        "letra": "C",
+        "texto": "Toxicidade por drogas, hepatites virais e doença hepática autoimune são as causas mais comuns."
+      },
+      {
+        "letra": "D",
+        "texto": "Trata-se de condição clínica na qual ocorre rápida deterioração da função hepática que resulta em relação do estado mental e coagulopatia em indivíduos sem doenças hepáticas sabidamente conhecida."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 70292,
+    "tags": [],
+    "enunciado": "Em relação às manifestações extra-hepáticas na hepatite aguda fulminante, marque a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O edema cerebral ocorre em menos de 40% dos casos."
+      },
+      {
+        "letra": "B",
+        "texto": "A coagulopatia instala-se na dependência da síntese reduzida dos fatores de coagulação. Traduz-se, sobretudo, por alargamento do tempo de protrombina, mas sempre mantém-se o tempo de tromboplastina parcial ativada em níveis normais."
+      },
+      {
+        "letra": "C",
+        "texto": "Frequentemente observam-se hiperglicemia, hiperpotassemia e hiponatremia entre as alterações metabólicas."
+      },
+      {
+        "letra": "D",
+        "texto": "Pode ocorrer pancreatite aguda hemorrágica e necrosante por provável etiologia isquêmica."
+      },
+      {
+        "letra": "E",
+        "texto": "As infecções raramente ocorrem, uma vez que a capacidade funcional do sistema reticuloendotelial está preservada e os níveis circulantes de opsoninas e fibronectina estão normais."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 70293,
+    "tags": [],
+    "enunciado": "Hipertensão Porta Em relação aos casos de Insuficiência Hepática (IH), analise as afirmativas abaixo. I - As causas mais comuns de IH aguda são o acetaminofeno e as hepatites virais. Em 20% dos casos nenhuma causa é identificada; II - IH fulminante é de(cid:30)nida como a instalação aguda de alterações do estado mental e coagulopatia nas 10 a 20 semanas de manifestações iniciais de hepatopatia em indivíduos previamente sadios; III - A hipertensão portal é a principal manifestação da cirrose e é estabelecida pela determinação da diferença de pressão entre a veia hepática e a veia porta (gradiente de pressão > 10 mmHg); IV - A determinação do nível sanguíneo de amônia não é um teste nem sensível nem especí(cid:30)co para a encefalopatia hepática; V - Os principais micro- organismos envolvidos na peritonite espontânea bacteriana são Escherichia coli, Klebsiella e Pseudomonas aeruginosa. Estão CORRETAS:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II, III, IV e V."
+      },
+      {
+        "letra": "B",
+        "texto": "II, III e V, somente."
+      },
+      {
+        "letra": "C",
+        "texto": "I, III e IV, somente."
+      },
+      {
+        "letra": "D",
+        "texto": "III, IV e V, somente."
+      },
+      {
+        "letra": "E",
+        "texto": "II, III, IV e V, somente."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 70294,
+    "tags": [],
+    "enunciado": "Sobre a Insuficiência Hepática Aguda (IHA), assinale a afirmativa ERRADA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O diagnóstico de IHA baseia-se na história e exame físico, além de alterações laboratoriais com alargamento do Tempo e Atividade de Protrombina (TAP), hiperbilirrubinemia e INR > OU = a 1,5."
+      },
+      {
+        "letra": "B",
+        "texto": "A dosagem do fator VIII pode auxiliar na distinção entre IHA e sepse, pois seus valores são normais na primeira e reduzidos na segunda, respectivamente."
+      },
+      {
+        "letra": "C",
+        "texto": "A hepatotoxicidade por fármacos é uma importante causa de IHA, sendo o acetaminofeno o principal medicamento causador."
+      },
+      {
+        "letra": "D",
+        "texto": "A pontuação de MELD (Model of End Stage Liver Disease) vai indicar os pacientes que deverão ser selecionados para transplante hepático e deve ser aplicada em todos os pacientes com IHA."
+      },
+      {
+        "letra": "E",
+        "texto": "Estes pacientes, por serem imunocomprometidos, com frequência desenvolvem infecções por estafilococos, estreptococos, Gram-negativos e fungos como a Candida albicans."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 70295,
+    "tags": [],
+    "enunciado": "Em relação à encefalopatia hepática na hepatite fulminante, assinale a alternativa CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A presença de descerebração, hiperventilação, alterações do diâmetro da pupila ou crises convulsivas apresenta correlação clínica importante com nível de pressão intracraniana."
+      },
+      {
+        "letra": "B",
+        "texto": "O edema cerebral é reconhecido quando a pressão intracraniana excede 30 mmHg."
+      },
+      {
+        "letra": "C",
+        "texto": "Deve-se utilizar manitol profilático, na dose de 0,5 a 1 g/kg endovenoso."
+      },
+      {
+        "letra": "D",
+        "texto": "A monitorização da pressão intracraniana com monitores de pressão epidural somente está indicada quando há sinal clínico de hipertensão intracraniana."
+      },
+      {
+        "letra": "E",
+        "texto": "O edema cerebral está presente em aproximadamente 20% dos pacientes com encefalopatia hepática grau 4."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 70296,
+    "tags": [],
+    "enunciado": "Está em desacordo com a falência hepática aguda fulminante o aumento:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Das bilirrubinas."
+      },
+      {
+        "letra": "B",
+        "texto": "Das transaminases."
+      },
+      {
+        "letra": "C",
+        "texto": "Da ureia e creatinina."
+      },
+      {
+        "letra": "D",
+        "texto": "De INR."
+      },
+      {
+        "letra": "E",
+        "texto": "Da amoniemia."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 70297,
+    "tags": [],
+    "enunciado": "Paciente do sexo masculino, 38 anos de idade, apresentou-se com náuseas progressivas, vômitos, desconforto no quadrante superior direito com duração de dois dias. No dia anterior notou urina escura, icterícia e confusão leve. Não tem antecedentes para infecção viral ou mesmo para uso abusivo de álcool. Usa analgésicos de forma excessiva devido à enxaqueca. Ao exame, paciente ictérico, inconsciente, com asterix leve. Fígado palpado e doloroso, hepatimetria de 14 cm. Exames laboratoriais, transaminases ALT e AST (5500 e 9500 U/L), bilirrubina total (5,6 ml/dl). Tempo de protrombina 16.5 seg. RNI 2,4. Assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As elevações das enzimas hepáticas podem ser a única alteração encontrada nas hepatites por álcool ou droga e na esteato-hepatite não alcoólica (NASH), sendo que nas duas primeiras o diagnóstico é clínico e na última por exclusão."
+      },
+      {
+        "letra": "B",
+        "texto": "No diagnóstico das hepatites por vírus B e C, a desproporção das enzimas hepatocelulares e canaliculares auxilia no diagnóstico diferencial com as outras hepatites não infecciosas."
+      },
+      {
+        "letra": "C",
+        "texto": "As hepatopatias crônicas podem ter as enzimas hepáticas quase que normais, sendo que às vezes é necessária a biópsia hepática para confirmação do diagnóstico."
+      },
+      {
+        "letra": "D",
+        "texto": "As doenças colestáticas crônicas podem ser avaliadas pela elevação das enzimas canaliculares, história clínica e teste de função hepática normal."
+      },
+      {
+        "letra": "E",
+        "texto": "A falência hepática fulminante diagnosticada pelos achados clínicos, elevação significativa das enzimas hepatocelulares e o uso do medicamento, é o provável diagnóstico do paciente."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 70298,
+    "tags": [],
+    "enunciado": "Na hepatite fulminante, a principal causa de morte é devido a:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hipertensão intracraniana secundária ou edema cerebral."
+      },
+      {
+        "letra": "B",
+        "texto": "Hemorragia digestiva."
+      },
+      {
+        "letra": "C",
+        "texto": "Insuficiência renal aguda."
+      },
+      {
+        "letra": "D",
+        "texto": "Falta de acesso a drogas antivirais."
+      },
+      {
+        "letra": "E",
+        "texto": "Nenhuma das anteriores."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 70299,
+    "tags": [],
+    "enunciado": "Analise as afirmativas abaixo sobre insuficiência hepática aguda e a seguir marque a opção CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A definição mais amplamente aceita considera para diagnóstico de insuficiência hepática aguda evidência de coagulopatia com INR maior ou igual que 1,5 e encefalopatia graus III ou IV em paciente sem cirrose pré-existente e com duração da doença < 26 semanas."
+      },
+      {
+        "letra": "B",
+        "texto": "A reposição volêmica adequada e o manitol são medidas terapêuticas para insuficiência renal aguda."
+      },
+      {
+        "letra": "C",
+        "texto": "O edema cerebral está relacionado ao grau de encefalopatia hepática, sendo raro nos graus III e IV."
+      },
+      {
+        "letra": "D",
+        "texto": "A reposição de plaquetas e plasma fresco deveria ser realizada em todos os pacientes que apresentam plaquetas < 50.000."
+      },
+      {
+        "letra": "E",
+        "texto": "São sinais clínicos de hipertensão intracraniana; hipertensão (com PAS mantida > 160 mmHg ou picos de > 200 mmHg), bradicardia e padrão respiratório irregular."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 70300,
+    "tags": [],
+    "enunciado": "O sinal de mau prognóstico na Hepatite Viral Aguda é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fosfatase alcalina acima de 3 vezes o valor normal"
+      },
+      {
+        "letra": "B",
+        "texto": "Transaminases acima de 20 vezes o valor normal"
+      },
+      {
+        "letra": "C",
+        "texto": "Tempo de protrombina muito alargado"
+      },
+      {
+        "letra": "D",
+        "texto": "Esplenomegalia volumosa"
+      },
+      {
+        "letra": "E",
+        "texto": "Icterícia persistente por mais de 2 meses"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 70301,
+    "tags": [],
+    "enunciado": "Em qual das situações abaixo, a bilirrubina indireta deverá estar maior do que a direta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hepatite aguda fulminante."
+      },
+      {
+        "letra": "B",
+        "texto": "Colestase transinfecciosa."
+      },
+      {
+        "letra": "C",
+        "texto": "Esquistossomose hepatoesplênica com shunts esplenorrenais naturais."
+      },
+      {
+        "letra": "D",
+        "texto": "TU de vesícula com extenso comprometimento hepático."
+      },
+      {
+        "letra": "E",
+        "texto": "Hepatite medicamentosa."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 70302,
+    "tags": [],
+    "enunciado": "Sabrina, 6 anos, é atendida na Emergência com icterícia, dor abdominal e vômitos. Há 5 dias foi levada à Emergência com história de febre baixa, dor abdominal, hiporexia, sete episódios de vômitos, quatro evacuações com fezes de consistência líquida e urina escura. Foi liberada para casa com prescrição de soro oral e medicação antiemética. Hoje retorna com aumento da frequência dos vômitos, da intensidade da dor abdominal e icterícia +++/4+. A mãe relata que a menina alterna períodos de irritabilidade e de sonolência. Foram solicitados marcadores para hepatites virais e con(cid:30)rmado o diagnóstico de hepatite A. O teste diagnóstico indicativo de gravidade do quadro é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "tempo de protrombina (TP) paciente = 25s (TP controle = 13s)."
+      },
+      {
+        "letra": "B",
+        "texto": "aspartato aminotransferase (AST) = 890 U/L."
+      },
+      {
+        "letra": "C",
+        "texto": "leucometria total = 1070 leucócitos."
+      },
+      {
+        "letra": "D",
+        "texto": "hematócrito = 44%.  Respostas: 1 A 2 B 3 A 4 B 5 C 6 C 7 A 8 C 9 A 10 C 11 C 12 B 13 C 14 B 15 E 16 C 17 B 18 A 19 D 20 A 21 A 22 B 23 B 24 A 25 B 26 D 27 C 28 C 29 A 30 B 31 D 32 D 33 B 34 B 35 A 36 D 37 B 38 A 39 B 40 B 41 B 42 C 43 D 44 A 45 C 46 A 47 B 48 D 49 C 50 D 51 B 52 C 53 B 54 A 55 E 56 C 57 C 58 A"
+      }
+    ],
+    "resposta_correta": "A"
+  }
+]

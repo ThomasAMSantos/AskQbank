@@ -1,0 +1,3874 @@
+[
+  {
+    "id": 68152,
+    "tags": [],
+    "enunciado": "Paciente de 26 anos, sem fatores de risco ou alergias, vem à unidade de saúde, pois, ao fazer exames admissionais, encontrou pequeno aumento nas transaminases. Ele não refere viagens recentes para fora de São Paulo, assim como qualquer doença prévia. Não há alterações no exame físico. Mais provavelmente trata-se de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "exercício físico intenso."
+      },
+      {
+        "letra": "B",
+        "texto": "hepatite autoimune."
+      },
+      {
+        "letra": "C",
+        "texto": "doença celíaca."
+      },
+      {
+        "letra": "D",
+        "texto": "doença de Wilson. 4000233669"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 68153,
+    "tags": [],
+    "enunciado": "Na imagem a seguir, de uma TC do abdome, observa-se um dos setores do fígado evidenciado com um “X”. Pode-se afirmar que esse setor é denominado:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "lateral esquerdo"
+      },
+      {
+        "letra": "B",
+        "texto": "medial esquerdo"
+      },
+      {
+        "letra": "C",
+        "texto": "lateral direito"
+      },
+      {
+        "letra": "D",
+        "texto": "medial direito"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 68154,
+    "tags": [],
+    "enunciado": "Em relação à análise laboratorial de provas de função hepática, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os níveis de aminotransferase (AST e ALT) elevados desproporcionalmente em comparação com fosfatase alcalina (FA) tendem a indicar dano hepatocelular."
+      },
+      {
+        "letra": "B",
+        "texto": "Os níveis de aminotransferase (AST e ALT) elevados desproporcionalmente em comparação com gama-glutamil-transpepidase (GGT) tendem a indicar lesão hepatocelular de etiologia alcóolica."
+      },
+      {
+        "letra": "C",
+        "texto": "Os níveis de FA e GGT elevados devem ser suspeitos para doença óssea."
+      },
+      {
+        "letra": "D",
+        "texto": "Os níveis de AST e ALT elevados com Bilirrubina total normal devem ser suspeitos de injúria colestática."
+      },
+      {
+        "letra": "E",
+        "texto": "Os níveis de albumina sérica estiverem alto e o RNI aumentado, deve-se suspeitar de hepatite aguda."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 68155,
+    "tags": [],
+    "enunciado": "Bruna, 56 anos, foi ao médico após observar que sua pele e olhos estavam amarelados. Ela também relatou prurido generalizado e fezes esbranquiçadas. Qual das opções a seguir é a mais provável causa da condição de Bruna?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Obstrução biliar."
+      },
+      {
+        "letra": "B",
+        "texto": "Hipertireoidismo."
+      },
+      {
+        "letra": "C",
+        "texto": "Betainterferona."
+      },
+      {
+        "letra": "D",
+        "texto": "Choque cardiogênico. 4000214155"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 68156,
+    "tags": [],
+    "enunciado": "Dados os seguintes marcadores, a alternativa que contém o que é sintetizado exclusivamente pelas células parenquimatosas do fígado e apresenta uma longa vida média de aproximadamente 20 dias, o que pode fazer com que seus níveis iniciais estejam normais em doenças hepáticas agudas, é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Albumina."
+      },
+      {
+        "letra": "B",
+        "texto": "Fosfatase alcalina."
+      },
+      {
+        "letra": "C",
+        "texto": "Gamaglutamiltranspeptidase (GGTP)."
+      },
+      {
+        "letra": "D",
+        "texto": "Alanina Aminotransferase (ALT). 4000213854"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 68157,
+    "tags": [],
+    "enunciado": "O fígado anatomia e histologia Homem de 35 anos, sem histórico médico relevante, é avaliado devido aminotransferases anormais em um exame pré-admissional de emprego. Os exames laboratoriais são negativos para hepatites virais, anticorpos antinucleares, anticorpos antimúsculo liso, anticorpos antimitocôndria e imunoglobinas quantitativas. O paciente foi submetido à biópsia hepática que revela células estreladas cheias de lipídios. A melhor recomendação para o paciente é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "iniciar atorvastatina."
+      },
+      {
+        "letra": "B",
+        "texto": "iniciar metformina."
+      },
+      {
+        "letra": "C",
+        "texto": "indicar a perda de 10% a 15% do peso em 6 meses."
+      },
+      {
+        "letra": "D",
+        "texto": "interromper a suplementação de vitamina A"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 68158,
+    "tags": [],
+    "enunciado": "Os resultados laboratoriais de um paciente de 45 anos com sintomas de disfunção hepática indicam: transaminases 12x acima do valor de referência, Fosfatase Alcalina (FA) 3x acima, e ALT > AST, transaminases superiores a 1000 U/L. Seguindo as regras do MACETE (MED 2013), é CORRETO afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Síndrome é colestática, pois FA está 3x acima do valor de referência."
+      },
+      {
+        "letra": "B",
+        "texto": "Níveis elevados de transaminases sugerem Hepatite Viral Aguda."
+      },
+      {
+        "letra": "C",
+        "texto": "AST maior do que 2x ALT indica Hepatite Alcoólica."
+      },
+      {
+        "letra": "D",
+        "texto": "Paciente não tem síndrome hepatocelular; transaminases 12x acima do valor de referência. 4000209303"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 68159,
+    "tags": [],
+    "enunciado": "Com relação às doenças do fígado, leia as afirmações a seguir: I. Lesão hepática pode ser provocada por vírus, medicamentos, doenças autoimunes e álcool. II. Muitos sintomas são inespecí(cid:81)cos, como fadiga (um dos sintomas mais comuns de doença hepática), o que frequentemente causa atraso no diagnóstico. III. Na prática clínica, a doença hepática pode ser assintomática e diagnosticada em exames realizados de rotina. Assinale a alternativa com a(s) afirmativa(s) CORRETA(S):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas as afirmativas I e III estão corretas."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas as afirmativas I e II estão corretas."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas a afirmativa I está correta."
+      },
+      {
+        "letra": "D",
+        "texto": "Todas as afirmativas estão corretas."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 68160,
+    "tags": [],
+    "enunciado": "Sobre a veia porta hepática é CORRETO afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É formada pela união da veia mesentérica superior com a veia esplênica."
+      },
+      {
+        "letra": "B",
+        "texto": "É formada pela união da veia mesentérica superior e da veia mesentérica inferior, e da veia cava inferior."
+      },
+      {
+        "letra": "C",
+        "texto": "É formada pela união da veia cava inferior com a veia mesentérica superior."
+      },
+      {
+        "letra": "D",
+        "texto": "É formada pela união da veia cava inferior com a veia mesentérica inferior."
+      },
+      {
+        "letra": "E",
+        "texto": "É formada pela união da veia esplênica com a veia gastroduodenal. 4000189251"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 68161,
+    "tags": [],
+    "enunciado": "A trissegmentectomia hepática esquerda consiste na ressecção dos segmentos hepáticos:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "somente nos segmentos II e III."
+      },
+      {
+        "letra": "B",
+        "texto": "somente nos segmentos IV, V, VI,VII e VIII."
+      },
+      {
+        "letra": "C",
+        "texto": "somente nos segmentos II, III e IV com ou sem o I."
+      },
+      {
+        "letra": "D",
+        "texto": "somente nos segmentos I, II e III."
+      },
+      {
+        "letra": "E",
+        "texto": "somente nos segmentos II, III, IV, V e VIII com ou sem o I. 4000188706"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 68162,
+    "tags": [],
+    "enunciado": "Paciente do sexo feminino, 27 anos de idade, procurou atendimento médico com quadro de fadiga, náusea e icterícia de aparecimento há 10 dias. Nega dor abdominal e emagrecimento relevante. Nega comorbidades prévias e uso de medicamentos nos últimos 3 meses. A mãe da paciente tem o diagnóstico de Artrite Reumatoide. Realizou ultrassonogra(cid:81)a abdominal que não mostrou dilatação de vias biliares. Com relação ao quadro clínico descrito acima, assinale a conduta CORRETA para manejo do quadro.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Realização de CPRE (Colangiopancreatografia Retrógrada Endoscópica) para melhor investigação de icterícia."
+      },
+      {
+        "letra": "B",
+        "texto": "Realização de biópsia hepática para melhor investigação."
+      },
+      {
+        "letra": "C",
+        "texto": "Avaliação de exames hepáticos, sorologia de hepatites virais e doenças autoimunes."
+      },
+      {
+        "letra": "D",
+        "texto": "Internação para melhor avaliação de transplante hepático."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 68163,
+    "tags": [],
+    "enunciado": "Colangiopancreatografia retrógrada endoscópica CPRE e colangiopancreatografia por ressonância magnética Avaliação laboratorial da icterícia Homem de 70 anos procurou atendimento médico por apresentar desconforto abdominal em região epigástrica há 2 meses, com irradiação para hipocôndrio direito, acompanhada de náuseas e icterícia que se iniciou há 2 semanas. Nega vômitos, febre ou emagrecimento. Refere ter sido submetido a laparotomia há 23 anos por ferimento penetrante abdominal. Ao exame: icterícia evidente, sinais vitais normais, sem alterações no exame abdominal. O médico solicitou exames laboratoriais, que detectaram aumento expressivo da bilirrubina indireta e transaminases (fosfatase alcalina e GGT normais) e exames de imagem – ultrassom de abdome superior normal e colangioressonância abaixo demonstrada. (Legenda: CBD: ducto biliar comum; DP: ducto pancreático) Diante dos achados, o médico deverá solicitar, na investigação do paciente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "sorologia completa para hepatites, pois os dados clínicos e de imagem estão normais, e a hipótese de icterícia obstrutiva é remota."
+      },
+      {
+        "letra": "B",
+        "texto": "pancreatografia retrógrada endoscópica para remoção de cálculo encravado em papila duodenal maior."
+      },
+      {
+        "letra": "C",
+        "texto": "endoscopia digestiva alta com biópsia de tumor duodenal causando compressão extrínseca da via biliar principal."
+      },
+      {
+        "letra": "D",
+        "texto": "videolaparoscopia com remoção cirúrgica de cálculos coledocianos, causadores do quadro de icterícia obstrutiva."
+      },
+      {
+        "letra": "E",
+        "texto": "biópsia hepática guiada por ultrassonografia, pois há fortes evidências de carcinoma hepatocelular, demonstrado nas imagens da colangioressonância."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 68164,
+    "tags": [],
+    "enunciado": "Considere um paciente de 51 anos de idade, obeso (IMC de 32), portador de síndrome metabólica e intolerante à glicose (glicemia de jejum de 112 mg). Sorologias negativas para hepatites virais, sem história de abuso etílico, com exames negativos para doenças autoimunes e metabólicas familiares do fígado. Exames bioquímicos com enzimas hepáticas normais, elevação de triglicerídeos (198 mg), LDL de 186 mg, queda de HDL (38 mg) e elastografia hepática pelo FibroScan® de 9,6 kPa.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "conduta para esse paciente é"
+      },
+      {
+        "letra": "A",
+        "texto": "acompanhar as enzimas hepáticas por mais seis meses."
+      },
+      {
+        "letra": "B",
+        "texto": "indicar a biopsia hepática."
+      },
+      {
+        "letra": "C",
+        "texto": "repetir FibroScan® em dois anos."
+      },
+      {
+        "letra": "D",
+        "texto": "iniciar tratamento com pioglitazona e vitamina E. 4000184596"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 68165,
+    "tags": [],
+    "enunciado": "Sr. Nelson, 63 anos, estava internado devido à infecção importante em pé diabético e com indicação de abordagem cirúrgica. Estava em acompanhamento por doença renal crônica estágio 4, HAS e DM2. Os exames feitos na internação mostraram os seguintes resultados: Hemoglobina: 8,0 mg/ dl, Hematócrito 24%, VCM 82 fL, HCM 28 pg, RDW 17%, Leucócitos 11.000/mm3, Neutrófilos 8,500/mm3 (sem desvio), Plaquetas 158.000/mm³, Ferro sérico 32 µg/dL, Saturação de transferrina 14%, Ferritina 155 ng/ml, Ácido fólico 12 µg/dL, B12 330 µg/dL, creatinina 3,5 µg/dL Glicemia 158 µg/dL Durante a visita, dois residentes discutiam a conduta: um ponderava que havia indicação de prescrição de duas unidades de concentrado de hemácias no pré-operatório e de dosagem de eritropoetina (EPO) sérica. Outro discordava das indicações do colega, a(cid:81)rmando que, na verdade, havia indicação de suplementação de ferro endovenoso. Com relação ao caso acima, e o manejo da anemia neste paciente, assinale a alternativa correta: I. A administração de ferro IV está correta, visto que o paciente apresenta anemia importante, ferro sérico baixo e será submetido a um procedimento que pode demandar perda sanguínea; II. A hepcidina é uma proteína majoritariamente de origem hepática e é considerada uma proteína de fase aguda, regulando as concentrações plasmáticas de ferro, exercendo um papel fundamental no metabolismo do ferro e na resposta imune à inflamação e à infecção; III.A administração de ferro deve ser evitada durante uma infeção, pois o organismo tende a absorver menos ferro, tentando privar as bactérias invasoras do ferro que elas necessitam para prosperar; IV. A principal causa da anemia na DRC é um declínio na produção renal de EPO. A redução da semivida dos eritrócitos e o aumento de citocinas pró-inflamatórias que ocorrem na DRC podem também contribuir para a patogênese da anemia nesta população Assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Só I, II, e IV estão corretos;"
+      },
+      {
+        "letra": "B",
+        "texto": "Só II, III e IV estão corretos;"
+      },
+      {
+        "letra": "C",
+        "texto": "Só I e II estão corretos;"
+      },
+      {
+        "letra": "D",
+        "texto": "Só III e IV estão corretos."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 68166,
+    "tags": [],
+    "enunciado": "Em relação à anatomia hepática e biliar, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O fígado é dividido em lobo direito e esquerdo pelo ligamento falciforme e subdivido em 7 segmentos, denominados segmentos de Couinaud."
+      },
+      {
+        "letra": "B",
+        "texto": "O segmento I é também chamado de lobo quadrado."
+      },
+      {
+        "letra": "C",
+        "texto": "A veia porta é formada pelas veias mesentérica inferior e esplênica e corresponde a 75% da vascularização hepática."
+      },
+      {
+        "letra": "D",
+        "texto": "Os linfonodos encontrados no hilo hepático correspondem ao grupamento 12 e podem ser divididos em anterior e posterior."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 68167,
+    "tags": [],
+    "enunciado": "As estruturas anatômicas A, B e C na (cid:81)gura correspondem aos principais elementos contidos no porta hepatis. Qual a distribuição anatômica mais frequentemente encontrada, considerando a distribuição abaixo e desconsiderando os diferentes diâmetros que não foram representados na figura?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A – Artéria hepática"
+      },
+      {
+        "letra": "B",
+        "texto": "– Via biliar principal"
+      },
+      {
+        "letra": "C",
+        "texto": "– Veia porta"
+      },
+      {
+        "letra": "B",
+        "texto": "A – Veia porta"
+      },
+      {
+        "letra": "B",
+        "texto": "– Artéria mesentérica superior"
+      },
+      {
+        "letra": "C",
+        "texto": "– Via biliar principal"
+      },
+      {
+        "letra": "C",
+        "texto": "A – Artéria mesentérica superior"
+      },
+      {
+        "letra": "B",
+        "texto": "– Via biliar principal"
+      },
+      {
+        "letra": "C",
+        "texto": "– Veia porta"
+      },
+      {
+        "letra": "D",
+        "texto": "A – Via biliar principal"
+      },
+      {
+        "letra": "B",
+        "texto": "– Artéria hepática"
+      },
+      {
+        "letra": "C",
+        "texto": "– Veia porta"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 68168,
+    "tags": [],
+    "enunciado": "Na avaliação de um paciente com um possível estado de hipercoagulabilidade,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "se o paciente apresentar necrose cutânea após iniciar uso de varfarina, deve-se pesquisar deficiência de proteína C ou proteína S."
+      },
+      {
+        "letra": "B",
+        "texto": "níveis séricos diminuídos de proteína C, proteína S e antitrombina em pacientes com trombose aguda apontam para distúrbio hereditário da coagulação."
+      },
+      {
+        "letra": "C",
+        "texto": "a ocorrência de trombose arterial, após os 40 anos, em pacientes com história familiar para trombose, indica a presença de estados de hipercoagulabilidade hereditários."
+      },
+      {
+        "letra": "D",
+        "texto": "a trombose de veia hepática (síndrome de Budd-Chiari) ou a trombose de veia porta podem indicar neoplasia maligna oculta ou endocardite não bacteriana. 4000193187"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 68169,
+    "tags": [],
+    "enunciado": "A manobra de Pringle é um adjuvante valioso para bloquear o (cid:90)uxo de sangue o su(cid:81)ciente a (cid:81)m de se visualizar lesão traumática de qual órgão?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Intestino delgado."
+      },
+      {
+        "letra": "B",
+        "texto": "Pulmão."
+      },
+      {
+        "letra": "C",
+        "texto": "Baço."
+      },
+      {
+        "letra": "D",
+        "texto": "Fígado."
+      },
+      {
+        "letra": "E",
+        "texto": "Pâncreas. 4000189941"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 68170,
+    "tags": [],
+    "enunciado": "A biópsia hepática é o exame padrão-ouro para a avaliação da (cid:81)brose hepática. Pode ser realizada com diferentes técnicas e tipos de agulha:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Além disso, é útil no diagnóstico de outras doenças hepáticas concomitantes – como a doença gordurosa, que não influencia de maneira significativa a evolução dos casos e o manejo dos pacientes."
+      },
+      {
+        "letra": "B",
+        "texto": "Além disso, é útil no diagnóstico de outras doenças hepáticas concomitantes – como a doença gordurosa, que influencia de maneira significativa a evolução dos casos e nunca no manejo dos pacientes."
+      },
+      {
+        "letra": "C",
+        "texto": "Além disso, é inútil no diagnóstico de outras doenças hepáticas concomitantes – como a doença gordurosa, que influencia de maneira significativa a evolução dos casos e o manejo dos pacientes."
+      },
+      {
+        "letra": "D",
+        "texto": "Além disso, é útil no diagnóstico de outras doenças hepáticas concomitantes – como a doença gordurosa, que influencia de maneira significativa a evolução dos casos e o manejo dos pacientes. 4000189609"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 68171,
+    "tags": [],
+    "enunciado": "Sobre a cirurgia hepática assinale a opção CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A hipertensão portal ocasiona circulação colateral entre o sistema porta e a veia cava, como por exemplo entre a veia retal superior e a veia ilíaca interna através do plexo hemorroidário;"
+      },
+      {
+        "letra": "B",
+        "texto": "A irrigação hepática é dupla com 50% do sangue proveniente da artéria hepática e 50% da veia porta;"
+      },
+      {
+        "letra": "C",
+        "texto": "O adenoma hepático geralmente são únicos, assintomáticos e raramente cursam com necessidade de cirurgia;"
+      },
+      {
+        "letra": "D",
+        "texto": "A ressecção do carcinoma hepatocelular tem potencial curativo e é a opção terapêutica inicial na maioria dos casos;"
+      },
+      {
+        "letra": "E",
+        "texto": "A hepatectomia esquerda corresponde à ressecção dos segmentos II e III (lobo esquerdo). 4000175212"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 68172,
+    "tags": [],
+    "enunciado": "Avaliação laboratorial das doenças hepáticas Avaliação laboratorial da icterícia Um paciente de 60 anos foi internado para tratamento de pneumonia lobar esquerda. À admissão, estava taquicárdico (FC 120 bpm) e taquipneico (30 ipm), mas normotenso, e foi percebida icterícia moderada em escleras. Negava uso de medicações, suplementos ou chás potencialmente hepatotóxicos. Qual dos conjuntos de exames laboratoriais abaixo seria mais compatível com esse caso?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "B"
+      },
+      {
+        "letra": "C",
+        "texto": "D"
+      },
+      {
+        "letra": "E",
+        "texto": ""
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 68173,
+    "tags": [],
+    "enunciado": "Analise as a(cid:81)rmativas abaixo sobre a segmentação hepática com base no sistema de classificação preconizado por Couinard. 1- O lobo esquerdo compõe-se dos segmentos II ao IV. 2- Os segmentos II e III são supridos pela rami(cid:81)cação da veia porta esquerda, com o segmento II abaixo da passagem da veia porta e o segmento III acima. 3- O segmento VI é suprido pela distribuição inferior da rami(cid:81)cação posterior da veia porta direita, enquanto o segmento VII recebe o fluxo da distribuição superior desta ramificação. 4- O segmento V é suprido pela distribuição superior da rami(cid:81)cação anterior da veia porta direita, e o segmento VIII recebe o fluxo da distribuição inferior desta ramificação. Das afirmativas acima, apenas:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "3 e 4 estão corretas."
+      },
+      {
+        "letra": "B",
+        "texto": "1 e 2 estão corretas."
+      },
+      {
+        "letra": "C",
+        "texto": "2 e 3 estão corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "1 e 3 estão corretas."
+      },
+      {
+        "letra": "E",
+        "texto": "2 e 4 estão corretas. 4000169141"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 68174,
+    "tags": [],
+    "enunciado": "Colangiopancreatografia retrógrada endoscópica CPRE e colangiopancreatografia por ressonância magnética Colangiopancreatografia Retrógrada Endoscópica CPRE Homem de 42 anos procura atendimento médico por apresentar, há 2 meses, quadro de dor intensa em faixa na região epigástrica, vômitos, esteatorreia, perda de peso e mal-estar geral. Procurou em diversas ocasiões serviços de emergência para alívio da dor, mas sem resultados satisfatórios. Refere ser etilista desde os 15 anos de idade. Foram solicitados vários exames, que detectaram hiperglicemia e hipertrigliceridemia. Considere a tomogra(cid:81)a abdominal demonstrada a seguir, e, com os dados apresentados, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Deve-se indicar colecistectomia por videolaparoscopia, seguida de drenagem da via biliar e colocação de dreno de Kehr."
+      },
+      {
+        "letra": "B",
+        "texto": "A gastroduodenopancreatectomia é a medida terapêutica mais indicada, por apresentar melhores taxas de sobrevivência do paciente."
+      },
+      {
+        "letra": "C",
+        "texto": "Deve-se indicar a gastrectomia parcial com reconstrução a Billroth II e quimioterapia adjuvante no pós-operatório."
+      },
+      {
+        "letra": "D",
+        "texto": "A CPRE é o método de eleição primário para o tratamento da obstrução do ducto pancreático com dilatação associada à colocação do stent de poliet"
+      },
+      {
+        "letra": "E",
+        "texto": "A obstrução biliar provocada por pancreatite crônica ocorre em 90% dos pacientes e é mais bem tratada com drenagem percutânea da via biliar. 4000165277"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 68175,
+    "tags": [],
+    "enunciado": "Com relação à anatomia do fígado e das vias biliares, é correto afirmar",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O ducto hepático Esquerdo drena os segmentos 4, 5 e 6 do fígado."
+      },
+      {
+        "letra": "B",
+        "texto": "A veia hepática média pode servir de marco anatômico para dividir o fígado em hemi-fígado Direito e hemi-fígado Esquerdo"
+      },
+      {
+        "letra": "C",
+        "texto": "A veia cava inferior encontra-se à Esquerda da Aorta antes de tornar-se cava retro-hepática."
+      },
+      {
+        "letra": "D",
+        "texto": "As veias supra-hepáticas drenam normalmente na veia cava superior."
+      },
+      {
+        "letra": "E",
+        "texto": "O Segmento III do fígado, mais conhecido como lobo caudado, encontra-se superior à veia cava retro-hepática"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 68176,
+    "tags": [],
+    "enunciado": "Mulher de 58 anos com diagnóstico de cirrose hepática secundária a colangite biliar primária, apresenta-se anasarcada, com edema 3+/4+ de membros inferiores, derrame pleural bilateral, maior à direita e sinais de ascite ao exame clínico. Apresenta exames com albumina sérica de 2,9 g/dL e globulina sérica de 3,1 g/dL. Assinale a alternativa que representa resultados compatíveis com a albumina no líquido ascítico e proteínas totais no líquido pleural dessa paciente.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Albumina na ascite de 2,3; Proteínas totais no líquido pleural de 1,3."
+      },
+      {
+        "letra": "B",
+        "texto": "Albumina na ascite de 1,2; Proteínas totais no líquido pleural de 5,0."
+      },
+      {
+        "letra": "C",
+        "texto": "Albumina na ascite de 1,2; Proteínas totais no líquido pleural de 2,0."
+      },
+      {
+        "letra": "D",
+        "texto": "Albumina na ascite de 2,3; Proteínas totais no líquido pleural de 5,0. 4000174030"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 68177,
+    "tags": [],
+    "enunciado": "Nas cirurgias hepáticas, o enxerto do lobo esquerdo é baseado nos segmentos ilustrados abaixo pelas letras A, B, C e D, com in(cid:90)uxo da artéria hepática esquerda e veia portal esquerda e e(cid:90)uxo das veias hepáticas média e esquerda, que frequentemente possuem um tronco con(cid:90)uente na veia cava. Corresponde aos segmentos A, B, C e D, respectivamente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "II, III, IV e V."
+      },
+      {
+        "letra": "B",
+        "texto": "III, IV, V e VI."
+      },
+      {
+        "letra": "C",
+        "texto": "I, II, III e IV."
+      },
+      {
+        "letra": "D",
+        "texto": "IV, III, II e V. 4000173406"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 68178,
+    "tags": [],
+    "enunciado": "O conhecimento sobre a anatomia hepática é um requisito imprescindível para a realização de cirurgias no fígado e árvore biliar. Marque a alternativa CORRETA sobre a anatomia lobar do fígado:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O fígado direito é dividido em um setor anterior (segmentos V e VIII) e um segmento posterior (segmentos VI e VII) pela cisura direita, que contém a veia hepática direita."
+      },
+      {
+        "letra": "B",
+        "texto": "O fígado esquerdo é dividido em um setor anterior (segmentos III e IV) e um setor posterior (segmentos I e II) pela cisura esquerda, que contém a veia hepática esquerda."
+      },
+      {
+        "letra": "C",
+        "texto": "O lobo caudado é a porção anterior do fígado e envolve a veia cava inferior em sua superfície anterior, e se localiza anterior à tríade portal esquerda."
+      },
+      {
+        "letra": "D",
+        "texto": "A anatomia funcional do fígado é composta de sete segmentos, cada um suprido por várias pequenas tríades portais, cada tríade é composta por uma veia porta, artéria hepática e veia hepática."
+      },
+      {
+        "letra": "E",
+        "texto": "A fissura umbilical é uma cisura que contém uma veia hepática, artéria hepática e veia porta que correm nessa cisura para alimentar o lobo caudado. 4000172606"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 68179,
+    "tags": [],
+    "enunciado": "A anatomia cirúrgica do fígado é extremamente importante para ressecções de tumores. A classi(cid:81)cação de Couinaud contribuiu enormemente para a realização dos procedimentos cirúrgicos no fígado. Couinaud dividiu o fígado de forma funcional. Sobre a segmentação do fígado marque a opção ERRADA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Linha de Cantlie divide o fígado em lobo direito ( 60-70%) e lobo esquerdo (30-40% ) do fígado."
+      },
+      {
+        "letra": "B",
+        "texto": "Com esta divisão funcional as cirurgias se tornaram mais seguras e atualmente a mortalidade pós- operatória é < que 5%."
+      },
+      {
+        "letra": "C",
+        "texto": "A classificação de Couinald seguimentou o fígado em 8 seguimentos que recebem sangue da veia porta e artéria hepática , possui e drenagem biliar independentes e a drenagem venosa de todos os seguimentos é para veia cava inferior."
+      },
+      {
+        "letra": "D",
+        "texto": "Os lobos funcionais do fígado são formados da seguinte maneira: lobo esquerdo pelos seguimentos I ,II,III e IV e o lobo funcional direito pelos seguimentos V,VI,VII e VIII. 4000171791"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 68180,
+    "tags": [],
+    "enunciado": "No que concerne às patologias hepáticas assinale a INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O hemangioma hepático representa o tumor benigno mais comum do fígado, à frente da hiperplasia nodular focal."
+      },
+      {
+        "letra": "B",
+        "texto": "O cistoadenoma hepático pode ter transformação maligna e acomete principalmente mulheres acima de 40 anos."
+      },
+      {
+        "letra": "C",
+        "texto": "A principal manifestação da hipertensão portal é a hemorragia digestiva alta manifestando-se geralmente por hematêmese ou melena, sendo no Brasil as principais causas a esquistossomose e cirrose hepática. A realização de tomografia de abdome auxilia no diagnóstico e a endoscopia se torna imperativa para pacientes com suspeita clínica, contudo o achado de varizes gástricas ou esofágias não confirma hipertensão portal."
+      },
+      {
+        "letra": "D",
+        "texto": "Segundo a classificação de Coinaud para a segmentação hepática a hepatectomia direita ampliada inclui os segmentos IV, V, VI, VII e VIII. 4000171380"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 68181,
+    "tags": [],
+    "enunciado": "Um paciente masculino com 65 anos apresenta quadro de icterícia progressiva, hipocolia fecal e colúria com 30 dias de evolução. Sobre esse caso, considere as afirmativas a seguir. I. A vesícula biliar palpável estará associada à obstrução de via biliar. II. Se houver esplenomegalia, a possibilidade de síndrome de Gilbert deve ser considerada. III. Os níveis de urobilinogênio na urina estarão elevados. IV. Os níveis séricos de bilirrubina serão predominantemente na forma conjugada. Assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente as afirmativas I e II são corretas."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente as afirmativas I e IV são corretas."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente as afirmativas III e IV são corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente as afirmativas I, II e III são corretas."
+      },
+      {
+        "letra": "E",
+        "texto": "Somente as afirmativas II, III e IV são corretas."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 68182,
+    "tags": [],
+    "enunciado": "Analise as a(cid:81)rmativas abaixo sobre a segmentação hepática com base no sistema de classi(cid:81)cação preconizado por Couinard. 1 - O lobo esquerdo compõe-se dos segmentos II ao IV. 2 - Os segmentos II e III são supridos pela rami(cid:81)cação da veia porta esquerda, com o segmento II abaixo da passagem da veia porta e o segmento III acima. 3 - O segmento VI é suprido pela distribuição inferior da rami(cid:81)cação posterior da veia porta direita, enquanto o segmento VII recebe o fluxo da distribuição superior desta ramificação. 4 - O segmento V é suprido pela distribuição superior da rami(cid:81)cação anterior da veia porta direita, e o segmento VIII recebe o fluxo da distribuição inferior desta ramificação. Das afirmativas acima, apenas:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1 e 2 estão corretas."
+      },
+      {
+        "letra": "B",
+        "texto": "3 e 4 estão corretas."
+      },
+      {
+        "letra": "C",
+        "texto": "1 e 3 estão corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "2 e 3 estão corretas."
+      },
+      {
+        "letra": "E",
+        "texto": "2 e 4 estão corretas. 4000151751"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 68183,
+    "tags": [],
+    "enunciado": "O fígado anatomia e histologia Dentre os tratamentos para hipertensão porta e potenciais consequências da hepatite B e C / cirrose, está a chamada TIPS, um tipo de derivação utilizada para descompressão do sistema porta, sem intervenção cirúrgica, que cria um desvio entre quais das seguintes estruturas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Veia porta e artéria hepática comum."
+      },
+      {
+        "letra": "B",
+        "texto": "Veia gástrica e veia hepática/veia cava inferior."
+      },
+      {
+        "letra": "C",
+        "texto": "Veia esplênica e veia hepática."
+      },
+      {
+        "letra": "D",
+        "texto": "Veia renal e veia esplênica ."
+      },
+      {
+        "letra": "E",
+        "texto": "Veia porta e veia hepática/veia cava inferior."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 68184,
+    "tags": [],
+    "enunciado": "Sobre o exame físico do abdome, é CORRETO afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A identificação de macicez à percussão do espaço de Traube é método menos sensível para identificação de esplenomegalia do que a palpação profunda bimanual"
+      },
+      {
+        "letra": "B",
+        "texto": "A percussão ao longo da linha hemiclavicular D apresenta maior especificidade para detecção de hepatomegalia do que a palpação profunda do abdome em pneumopatas"
+      },
+      {
+        "letra": "C",
+        "texto": "Em casos de abdome doloroso, manobras de palpação e percussão devem ser iniciadas nas áreas de maior sensibilidade, deixando áreas indolores para o final do exame"
+      },
+      {
+        "letra": "D",
+        "texto": "O sinal de piparote é mais sensível para detecção de ascite do que o sinal de macicez móvel encontrado à mudança de decúbito do paciente durante a percussão"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 68185,
+    "tags": [],
+    "enunciado": "Analise as a(cid:81)rmativas abaixo sobre a segmentação hepática com base no sistema de classi(cid:81)cação preconizadas por Couinard. I- O lobo esquerdo compõe-se dos segmentos lI ao IV. 2- Os segmentos li e IlI são supridos pela rami(cid:81)cação da veia porta esquerda, com o segmento li abaixo da passagem da veia porta e o segmento IlI acima. 3- O segmento VI. é suprido pela distribuição inferior da rami(cid:81)cação posterior da veia porta direita, enquanto o segmento VII. recebe o (cid:90)uxo da distribuição superior desta rami(cid:81)cação. 4- O segmento V. é suprido pela distribuição superior da rami(cid:81)cação anterior da veia porta direita, e o segmento VIII recebe o fluxo da distribuição inferior desta ramificação. Das afirmativas acima, apenas:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1 e 2 estão corretas."
+      },
+      {
+        "letra": "B",
+        "texto": "3 e 4 estão corretas."
+      },
+      {
+        "letra": "C",
+        "texto": "1 e 3 estão corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "2 e 3 estão corretas."
+      },
+      {
+        "letra": "E",
+        "texto": "2 e 4 estão corretas. 4000145342"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 68186,
+    "tags": [],
+    "enunciado": "Homem de 69 anos de idade, com etilismo social, referiu urina escura há um mês e ao exame físico apresentava esclera discretamente amarelada. Panículo adiposo espesso impediu palpação das vísceras abdominais. Nos exames, constatou-se AST de 80 U/L, ALT 120 U/L, bilirrubina total de 4 mg/dL às custas da fração direta, fosfatase alcalina de 200 U/L, GGT de 150 U/L, TP de 16 s, RNI de 1,50, albumina de 3,5 g/dL, CEA de 1 mcg/L (normal até 5 mcg/L), AFP de 10 mcg/L (normal até 15 mcg/L), CA 19-9 de 200 U/mL (normal até 37 U/mL). A seguir, fez US de abdome superior. Qual dos achados ultrassonográ(cid:81)cos abaixo é compatível com o quadro clínico e laboratorial?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Dilatação de ducto colédoco"
+      },
+      {
+        "letra": "B",
+        "texto": "Múltiplas lesões hepáticas em alvo"
+      },
+      {
+        "letra": "C",
+        "texto": "Massa sólida no fígado"
+      },
+      {
+        "letra": "D",
+        "texto": "Superfície hepática irregular e nodular"
+      },
+      {
+        "letra": "E",
+        "texto": "Vesícula biliar em porcelana 4000143961"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 68187,
+    "tags": [],
+    "enunciado": "O fígado direito e esquerdo são separados pela cissura portal principal, que corresponde a uma linha que, originando-se no ponto médio do leito vesicular, anteriormente, dirige-se posteriormente, ao longo da face ânterosuperior do fígado, à face lateral esquerda da veia cava na sua porção supra-hepática também conhecida como:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Linha de Calais"
+      },
+      {
+        "letra": "B",
+        "texto": "Linha de Cantlie"
+      },
+      {
+        "letra": "C",
+        "texto": "Linha de Devine"
+      },
+      {
+        "letra": "D",
+        "texto": "Linha de Couinaud 4000142924"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 68188,
+    "tags": [],
+    "enunciado": "O elemento anatômico que divide o fígado em fígado direito e esquerdo é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a fossa vesicular"
+      },
+      {
+        "letra": "B",
+        "texto": "o ligamento redondo"
+      },
+      {
+        "letra": "C",
+        "texto": "o ligamento falciforme"
+      },
+      {
+        "letra": "D",
+        "texto": "a veia porta 4000142657"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 68189,
+    "tags": [],
+    "enunciado": "O tecido com menor concentração de enzima creatinofosfoquinase total – CPK é o",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "cardíaco."
+      },
+      {
+        "letra": "B",
+        "texto": "cerebral."
+      },
+      {
+        "letra": "C",
+        "texto": "muscular esquelético."
+      },
+      {
+        "letra": "D",
+        "texto": "hepático."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 68190,
+    "tags": [],
+    "enunciado": "Paciente jovem do sexo feminino, em uso de anticoncepcional, desenvolve dores intensas na região de hipocôndrio direito, com distensão abdominal e anemia. Na tomogra(cid:81)a, identi(cid:81)ca-se grande lesão hepática, sugestiva de adenoma gigante, envolvendo todo o lobo hepático esquerdo. O cirurgião de fígado foi consultado e indicou realização de hepatectomia esquerda clássica. Neste aspecto, do ponto de vista anatômico, os segmentos que serão ressecados em uma hepatectomia esquerda são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "III, IVa e VII."
+      },
+      {
+        "letra": "B",
+        "texto": "II, III, IVa e IVb."
+      },
+      {
+        "letra": "C",
+        "texto": "I, II e III."
+      },
+      {
+        "letra": "D",
+        "texto": "IVb, V e VII."
+      },
+      {
+        "letra": "E",
+        "texto": "V, VII e VIII."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 68191,
+    "tags": [],
+    "enunciado": "Uma paciente do sexo feminino, com 37 anos de idade, procurou a emergência hospitalar por apresentar dor em hipocôndrio direito havia 2 dias, com melhora parcial ao uso de analgésicos, porém sem remissão completa, associada a náuseas sem vômitos. A paciente referiu diagnóstico prévio de colelitíase assintomática. No exame físico, apresentou icterícia de esclera e pele, além de dor à palpação profunda em hipocôndrio direito. Com relação a esse caso clínico e às doenças das vias biliares, julgue o item subsequente. O resultado da dosagem das bilirrubinas direta e indireta direciona a investigação para etiologia obstrutiva da via biliar ou outras causas clínicas de icterícia.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Certo."
+      },
+      {
+        "letra": "B",
+        "texto": "Errado. 4000138947"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 68192,
+    "tags": [],
+    "enunciado": "É correto afirmar sobre a gama-glutamil-transferase (GGT):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Seus valores normais são maiores no sexo feminino do que no sexo masculino."
+      },
+      {
+        "letra": "B",
+        "texto": "Os neonatos apresentam valor 8 a 10 vezes menores que adultos."
+      },
+      {
+        "letra": "C",
+        "texto": "O aumento da GGT também ocorre em muitas doenças não-hepatobiliares como infarto do miocárdio, doença pulmonar obstrutiva crônica e diabetes."
+      },
+      {
+        "letra": "D",
+        "texto": "A GGT apresenta alto valor preditivo positivo em doenças do trato biliar."
+      },
+      {
+        "letra": "E",
+        "texto": "O ácido ursodeoxicólico instabiliza a membrana celular e aumenta os valores de GGT."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 68193,
+    "tags": [],
+    "enunciado": "O elemento anatômico que divide o fígado em fígado direito e esquerdo é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a fossa vesicular."
+      },
+      {
+        "letra": "B",
+        "texto": "o ligamento redondo."
+      },
+      {
+        "letra": "C",
+        "texto": "o ligamento falciforme."
+      },
+      {
+        "letra": "D",
+        "texto": "a veia porta."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 68194,
+    "tags": [],
+    "enunciado": "Sobre a anatomia do fígado, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As veias hepáticas drenam diretamente para a veia cava superior."
+      },
+      {
+        "letra": "B",
+        "texto": "Os segmentos II e III do fígado, pela descrição de Couinaud, encontram-se no fígado direito."
+      },
+      {
+        "letra": "C",
+        "texto": "A veia porta se forma atrás do pâncreas, da jun- ção das veias esplênica e mesentérica superior."
+      },
+      {
+        "letra": "D",
+        "texto": "A porção hilar do ducto biliar encontra-se pos- terior ao duodeno."
+      },
+      {
+        "letra": "E",
+        "texto": "A anatomia arterial clássica do fígado, com artérias hepáticas originárias do tronco celíaco, ocorre em 98% dos casos. Variações anatômicas são raras."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 68195,
+    "tags": [],
+    "enunciado": "Assinale a alternativa correta sobre a secreção de bile.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nosso fígado excreta cerca de 200 ml de bile diariamente."
+      },
+      {
+        "letra": "B",
+        "texto": "A bile é produzida pelas células de Kupffer do fígado."
+      },
+      {
+        "letra": "C",
+        "texto": "A vesícula biliar armazena em média 400ml de bile."
+      },
+      {
+        "letra": "D",
+        "texto": "Hormônios como secretina, colecistoquinina e gastrina aumentam a excreção de bile."
+      },
+      {
+        "letra": "E",
+        "texto": "Auxiliar na absorção intestinal de proteínas é uma de suas funções."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 68196,
+    "tags": [],
+    "enunciado": "O fígado e um órgão que funciona como centro da homeostasia metabólica, regulando o metabolismo da energia, coordenando a captação, o processamento e a distribuição de nutrientes e seus produtos energético. Marque a alternativa correta sobre a ampla função hepática no metabolismo:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As derivações portossistêmicas que ocorrem na cirrose e hipertensão portal aumentam a depuração hepática inicial da bilirrubina resultando em uma diminuição da bilirrubina não-conjugada e hiperbilirrubinemia conjugada."
+      },
+      {
+        "letra": "B",
+        "texto": "As hepatopatias evoluem com distúrbios do metabolismo dos carboidratos, levando a hipoglicemia que é muito comum nos pacientes com doença hepática crônica devido a resiliência do fígado."
+      },
+      {
+        "letra": "C",
+        "texto": "As doenças do fígado são frequentemente associadas a trombocitopenia, anormalidades quantitativas de plaquetas e deficiência de vitamina k com modulação alterada dos fatores de coagulação."
+      },
+      {
+        "letra": "D",
+        "texto": "As adipócitos possuem uma grande capacidade para sintetizar os ácidos graxos, isso ocorre quando há um grande excesso de glicose circulante."
+      },
+      {
+        "letra": "E",
+        "texto": "Os aminoácidos de cadeia ramificada são catabolizados no fígado produzindo energia estocável como a glicose e gorduras, atenuando uma rede de segurança que auxilia a poupar o tecido hepático de algumas necessidades metabólicas."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 68197,
+    "tags": [],
+    "enunciado": "Colangiopancreatografia retrógrada endoscópica CPRE e colangiopancreatografia por ressonância magnética",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "colangiografia por ressonância para diagnóstico de coledocolitase pode ser feita mais rapidamente"
+      },
+      {
+        "letra": "A",
+        "texto": "com contraste iodado."
+      },
+      {
+        "letra": "B",
+        "texto": "com gadolíneo."
+      },
+      {
+        "letra": "C",
+        "texto": "sem contraste."
+      },
+      {
+        "letra": "D",
+        "texto": "com glicose marcada."
+      },
+      {
+        "letra": "E",
+        "texto": "com gaboxetato dissódico."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 68198,
+    "tags": [],
+    "enunciado": "Com relação à anatomia do fígado, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pela descrição de Couinaud, o fígado é dividido em 7 segmentos."
+      },
+      {
+        "letra": "B",
+        "texto": "O ducto hepático comum tem geralmente trajeto posterior à veia porta."
+      },
+      {
+        "letra": "C",
+        "texto": "As veias hepáticas esquerda e média drenam sempre separadamente na veia cava inferior."
+      },
+      {
+        "letra": "D",
+        "texto": "A veia porta é formada predominantemente pela confluência das veias esplênica e veia mesentérica inferior."
+      },
+      {
+        "letra": "E",
+        "texto": "Dentre as principais variações anatômicas arteriais do fígado está o fato de a artéria hepática direita originar-se da artéria mesentérica superior."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 68199,
+    "tags": [],
+    "enunciado": "Um paciente de 50 anos é portador de volumosa tumoração hepática envolvendo todo lobo esquerdo e parte do lobo direito e foi submetido a trissetorectomia esquerda. Quais os segmentos hepáticos foram ressecados segundo a classificação de Couinaud:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II, III, IV"
+      },
+      {
+        "letra": "B",
+        "texto": "I, II, III, IV, V e VIII"
+      },
+      {
+        "letra": "C",
+        "texto": "IV, V,VI,VII e VIII"
+      },
+      {
+        "letra": "D",
+        "texto": "V,VI,VII,VIII e I"
+      },
+      {
+        "letra": "E",
+        "texto": "II,III,IV,VI e VII"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 68200,
+    "tags": [],
+    "enunciado": "A Veia Porta carreia aproximadamente 75% do suprimento sanguíneo do Fígado, ela é formada pela junção das seguintes veias:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Veia gastroduodenal e Veia mesentérica inferior;"
+      },
+      {
+        "letra": "B",
+        "texto": "Veia mesentérica inferior Veia mesentérica superior;"
+      },
+      {
+        "letra": "C",
+        "texto": "Veia esplênica e Veia mesentérica superior;"
+      },
+      {
+        "letra": "D",
+        "texto": "Veia esplênica e Veia Gástrica esquerda."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 68201,
+    "tags": [],
+    "enunciado": "Um paciente foi admitido à UTI com história de febre e calafrios, há 24 horas. À admissão, estava hipotenso, PA 60x40 mmHg, não tendo respondido à reposição de volume. Foi necessário o uso de noradrenalina por 24 horas. No dia seguinte, os exames laboratoriais mostravam: TGO 12930 UI/ml, TGP 9340 UI/ml, bilirrubina 2,8 mg/dl e fosfatase alcalina 1,5 vezes o limite superior do normal. Qual a provável explicação do quadro hepático?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Icterícia transinfecciosa"
+      },
+      {
+        "letra": "B",
+        "texto": "Isquemia hepática"
+      },
+      {
+        "letra": "C",
+        "texto": "Hepatite viral aguda"
+      },
+      {
+        "letra": "D",
+        "texto": "Colangite bacteriana"
+      },
+      {
+        "letra": "E",
+        "texto": "Cirrose alcoólica descompensada"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 68202,
+    "tags": [],
+    "enunciado": "Marque qual letra representa a Lobectomia Direita conforme a (cid:81)gura (área escura é a área que será ressecada):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A."
+      },
+      {
+        "letra": "B",
+        "texto": "B."
+      },
+      {
+        "letra": "C",
+        "texto": "C."
+      },
+      {
+        "letra": "D",
+        "texto": "D."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 68203,
+    "tags": [],
+    "enunciado": "O conhecimento da anatomia cirúrgica facilita a identi(cid:81)cação, dissecção e prevenção de complicações cirúrgica. A respeito dessa afirmativa, julgue a alternativa incorreta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A veia porta é responsável pelo influxo sanguíneo do fígado de 60 a 70%. Na sua apresentação mais comum é formada pelas veias mesentéricas superiores e inferiores. Situa-se posteriormente a via biliar e lateralmente a artéria hepática comum; estando estas 3 estruturas envolvidas numa reflexão peritonial chamada de ligamento hepatogastrico. O clampeamento destas estruturas acompanhado do cessamento do pulso arterial a montante é chamado de manobra de Pringle, sendo bastante útil no manejo de traumas hepáticos complexos e em ressecções alargadas do fígado."
+      },
+      {
+        "letra": "B",
+        "texto": "O estômago possui irrigação arterial oriunda do tronco celíaco de forma direta (art. gástrica esquerda) ou indireta (art. gástrica direita, gastroepiploica direita e esquerda e gástricas curtas). Pode ainda apresentar um ramo anômalo oriundo da art. esplênica. O conhecimento da drenagem venosa possui importância, principalmente em enfermidades que geram aumento na pressão no sistema portal."
+      },
+      {
+        "letra": "C",
+        "texto": "O reto possui irrigação oriundo do tronco mesentérico inferior, ramos diretos dos vasos ilíacos comuns e internos. A drenagem linfática possui mais de uma via, tendo importância nas neoplasias."
+      },
+      {
+        "letra": "E",
+        "texto": "a inervação pélvica representada pelo plexo hipogastro deve ser preservada nas ressecções a fim de evitar complicações como a incontinência, disfunção erétil, ejaculação retrógrada."
+      },
+      {
+        "letra": "D",
+        "texto": "A diferenciação da localização exata entre o jejuno e o íleo não é clara por tratar-se justamente de uma mudança gradual, porém é considerado por convenção, o ponto médio entre o ângulo de Treitz e a válvula ileo-cecal. A observação de arcadas vasculares vasos retos, mucosa exuberante, parede espessa, lúmen maior e coloração mais avermelhada caracteriza o jejuno. Enquanto uma arcada com múltiplas anastomoses, coloração menos intensa, mucosa delgada e lúmen menos calibroso caracteriza o íleo."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 68204,
+    "tags": [],
+    "enunciado": "A veia porta fornece cerca de 75% do (cid:90)uxo sanguíneo hepático. Ela se forma atrás do pâncreas, mais comumente, pela confluência da veia mesentérica:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "inferior e da veia esplênica."
+      },
+      {
+        "letra": "B",
+        "texto": "superior e da veia esplênica."
+      },
+      {
+        "letra": "C",
+        "texto": "superior e da veia pancreática inferior."
+      },
+      {
+        "letra": "D",
+        "texto": "inferior e da veia pancreática inferior."
+      },
+      {
+        "letra": "E",
+        "texto": "superior e da veia mesentérica inferior."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 68205,
+    "tags": [],
+    "enunciado": "Na realização de biópsia hepática em cirurgia, orienta-se o cirurgião a realizar coleta de material em cunha profunda e evitar a região subcapsular. Podemos apenas aceitar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A biópsia também pode ser realizada por via transjugular, mas a realização desse procedimento está restrita aos centros de baixa complexidade, mediante a contraindicação dos demais métodos apresentados."
+      },
+      {
+        "letra": "B",
+        "texto": "A biópsia também pode ser realizada por via transjugular, mas a realização desse procedimento está restrita aos centros de alta complexidade, mediante a contraindicação dos demais métodos apresentados."
+      },
+      {
+        "letra": "C",
+        "texto": "A biópsia nunca pode ser realizada por via transjugular."
+      },
+      {
+        "letra": "D",
+        "texto": "A biópsia também pode ser realizada por via transarterial, mas a realização desse procedimento está restrita aos centros de alta complexidade, mediante a contraindicação dos demais métodos apresentados."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 68206,
+    "tags": [],
+    "enunciado": "Paciente do sexo masculino, de trinta e cinco anos de idade, procurou atendimento médico devido a achado de hepatite viral em screening de doação de sangue. Ele apresentava a seguinte sorologia: AgHBs positivo, anti-HBc total positivo, anti-HBs negativo, AgHBe negativo e anti-HBe positivo. Enzimas hepáticas normais e ultrassonografia de abdome sem alterações. Com relação a esse caso clínico, julgue o item que se segue. Atualmente, a biópsia hepática tem sido dispensável para o estadiamento da hepatite B, haja vista os exames de avaliação de fibrose hepática não invasivos, como a elastrografia percutânea ou o elastro RNM.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Certo."
+      },
+      {
+        "letra": "B",
+        "texto": "Errado."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 68207,
+    "tags": [],
+    "enunciado": "A biópsia hepática é útil no diagnóstico de outras doenças hepáticas concomitantes com hepatite viral crônica – como a doença gordurosa, que impacta de maneira signi(cid:81)cativa a evolução dos casos e o manejo dos pacientes. Podemos assim, indicar como errado o item:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A biópsia hepática é o exame padrão-ouro para a avaliação da fibrose hepática."
+      },
+      {
+        "letra": "B",
+        "texto": "É excepcional na avaliação de hepatite B crônica e reservada aos casos em que não há dúvidas na indicação de tratamento."
+      },
+      {
+        "letra": "C",
+        "texto": "Biópsia pode ser realizada com diferentes técnicas e tipos de agulha."
+      },
+      {
+        "letra": "D",
+        "texto": "A biópsia hepática é um procedimento invasivo, que requer uma estrutura apropriada."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 68208,
+    "tags": [],
+    "enunciado": "Assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A veia porta é formada atrás do colo do pâncreas pela união das veias esplênica e mesentérica superior."
+      },
+      {
+        "letra": "B",
+        "texto": "Após a passagem pelos sinusoides hepáticos, o sangue proveniente do sistema porta é drenado pelas veias hepáticas para a cava superior e atinge o átrio direito."
+      },
+      {
+        "letra": "C",
+        "texto": "A veia porta coleta sangue da parte abdominal do trato gastrointestinal, da vesícula biliar, do pâncreas e do baço."
+      },
+      {
+        "letra": "D",
+        "texto": "O sistema venoso porta comunica-se com o sistema venoso sistêmico em vários pontos."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 68209,
+    "tags": [],
+    "enunciado": "Anatomicamente o fígado é dividido pelo ligamento falciforme em lobos direito e esquerdo, enquanto que funcionalmente ele é dividido em fígado direito e esquerdo transversalmente pelos ramos portais e longitudinalmente pelas veias hepáticas. Para a realização da hepatectomia do lobo direito quais são os segmentos retirados?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O lobo portal direito corresponde aos segmentos I, II, V e VI"
+      },
+      {
+        "letra": "B",
+        "texto": "O lobo portal direito corresponde aos segmentos I, IV,V,VI e VII"
+      },
+      {
+        "letra": "C",
+        "texto": "O lobo portal esquerdo corresponde aos segmentos II, III e VII"
+      },
+      {
+        "letra": "D",
+        "texto": "O lobo portal direito corresponde os segmentos IV, V, VI e VII"
+      },
+      {
+        "letra": "E",
+        "texto": "O lobo portal direito corresponde os segmentos V, VI, VII e VIII"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 68210,
+    "tags": [],
+    "enunciado": "Colangiopancreatografia retrógrada endoscópica CPRE e colangiopancreatografia por ressonância magnética Colangiopancreatografia Retrógrada Endoscópica CPRE Cirurgia Paciente de 82 anos realizou colangiogra(cid:81)a endoscópica com papilotomia e extração de cálculo de 0,9 cm (litíase residual). Após 24 horas, apresentava dor abdominal, nauseas e vômitos. Exame físico em bom estado geral, frequência cardíaca de 84 bpm, e dor epigástrica à palpação profunda. Realizou leucograma de 12000 leucócitos/mm³ e hemoglobina de 12g/dL, amilase de 880 UI, e proteína C reativa (PCR) de 14 MG/L. Foi solicitada tomogra(cid:81)a abdominal e detectou somente mínima quantidade de ar periduodenal, com demais achados normais. A conduta correta é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "tratamento clínico com analgésico, jejum e nutrição parenteral devido à pancreatite aguda."
+      },
+      {
+        "letra": "B",
+        "texto": "tratamento clínico com antibioticoterapia, jejum e nutrição parenteral para a complicação do procedimento."
+      },
+      {
+        "letra": "C",
+        "texto": "tratamento cirúrgico imediato com desbridamento local e limpeza pancreática."
+      },
+      {
+        "letra": "D",
+        "texto": "tratamento endoscópico com cateterização da papila e passagem de prótese."
+      },
+      {
+        "letra": "E",
+        "texto": "tratamento cirúrgico com colocação de dreno Kerh na via biliar."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 68211,
+    "tags": [],
+    "enunciado": "Colangiopancreatografia retrógrada endoscópica CPRE e colangiopancreatografia por ressonância magnética Colangiopancreatografia Retrógrada Endoscópica CPRE Cirurgia Mulher, 49 anos, foi admitida no pronto-socorro com quadro de icterícia, febre, calafrios e dor abdominal. Ao exame de ultrassonogra(cid:81)a, foi diagnosticada a presença de cálculos na vesícula biliar sem espessamento da parede vesicular e colédoco de 1,2 cm com vários cálculos no seu interior. Realizada CPRE com retira- da de todos os cálculos e passagem de prótese biliar devido à extensa manipulação do colédoco. Boa evolução no pós-operatório imediato, mas, no 3º dia pós CPRE, iniciou quadro de dor, distensão abdominal e vômitos. Realizada radiogra(cid:81)a simples do abdome, que é mostrada a seguir. Nota: CPRE = colangiopancreatrogra(cid:81)a retrógrada endoscópica. Face ao exposto, assinale a alternativa que apresenta, corretamente, hipótese diagnóstica e conduta para esse caso.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pancreatite aguda / Jejum, hidratação e sintomáticos"
+      },
+      {
+        "letra": "B",
+        "texto": "Colangite / Antibioticoterapia."
+      },
+      {
+        "letra": "C",
+        "texto": "Obstrução intestinal / Sonda nasogástrica e hidratação endovenosa."
+      },
+      {
+        "letra": "D",
+        "texto": "Migração da prótese / Endoscopia digestiva alta."
+      },
+      {
+        "letra": "E",
+        "texto": "Íleo paralítico devido à manipulação pela CPRE."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 68212,
+    "tags": [],
+    "enunciado": "A hepatectomia direita é caracterizada pela remoção dos seguintes segmentos:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II, III e IV."
+      },
+      {
+        "letra": "B",
+        "texto": "II, III e IV."
+      },
+      {
+        "letra": "C",
+        "texto": "IV, V, VI e VII."
+      },
+      {
+        "letra": "D",
+        "texto": "V, VI, VII e VIII."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 68213,
+    "tags": [],
+    "enunciado": "Em condições normais o volume diário de bile produzida no fígado está em torno de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "20-30 ml."
+      },
+      {
+        "letra": "B",
+        "texto": "100-200 ml."
+      },
+      {
+        "letra": "C",
+        "texto": "200-500 ml."
+      },
+      {
+        "letra": "D",
+        "texto": "500-1.500 ml."
+      },
+      {
+        "letra": "E",
+        "texto": "2.500-3.000 ml."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 68214,
+    "tags": [],
+    "enunciado": "Anatomicamente o fígado é dividido pelo ligamento falciforme em lobos direito e esquerdo, enquanto que funcionalmente ele é dividido em fígado direito e esquerdo transversalmente pelos ramos portais e longitudinalmente pelas veias hepáticas. Dado estes conhecimentos responda as seguintes questões:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O fígado direito corresponde aos segmentos I, II, V e VI."
+      },
+      {
+        "letra": "B",
+        "texto": "O fígado direito corresponde aos segmentos I, IV,V,VI e VII."
+      },
+      {
+        "letra": "C",
+        "texto": "O Fígado esquerdo corresponde aos segmentos II, III e VII."
+      },
+      {
+        "letra": "D",
+        "texto": "O fígado direito corresponde aos segmentos V,VI,VII e VIII."
+      },
+      {
+        "letra": "E",
+        "texto": "O Fígado direito corresponde os segmentos IV, V, VI e VII."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 68215,
+    "tags": [],
+    "enunciado": "Um jovem de 20 anos procura atendimento por notar que sua pele e mucosas estão amareladas. Ele está assintomático.Hepatograma revela bilirrubina total de 2,9 mg/dl com bilirrubina direta de 0,2 mg/dl, com aminotransferases, gama GT e fosfatase alcalina em níveis normais. Assinale a alternativa que contém uma afirmativa INCORRETA em relação ao quadro clínico do paciente.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sua urina se encontrará fortemente positiva para bilirrubima."
+      },
+      {
+        "letra": "B",
+        "texto": "Tratar-se provavelmente de síndrome de Gilbert."
+      },
+      {
+        "letra": "C",
+        "texto": "A hemólise crônica poderia causar quadro semelhante."
+      },
+      {
+        "letra": "D",
+        "texto": "A normalidade dos demais testes hepáticos indica não se tratar de hepatite viral aguda."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 68216,
+    "tags": [],
+    "enunciado": "O ducto hepático esquerdo drena os segmentos:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II e III."
+      },
+      {
+        "letra": "B",
+        "texto": "II, III e IV."
+      },
+      {
+        "letra": "C",
+        "texto": "III, IV e V."
+      },
+      {
+        "letra": "D",
+        "texto": "V, VI e VII."
+      },
+      {
+        "letra": "E",
+        "texto": "VI, VII e VIII."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 68217,
+    "tags": [],
+    "enunciado": "O fígados direito e esquerdo são separados pela cisura portal principal, que corresponde a uma linha que, originando-se no ponto médio do leito vesicular, anteriormente, dirige-se posteriormente, ao longo da face ânterosuperior do fígado, à face lateral esquerda da veia cava na sua porção supra-hepática também conhecida como:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Linha de Calais"
+      },
+      {
+        "letra": "B",
+        "texto": "Linha de Cantlie"
+      },
+      {
+        "letra": "C",
+        "texto": "Linha de Devine"
+      },
+      {
+        "letra": "D",
+        "texto": "Linha de Couinaud"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 68218,
+    "tags": [],
+    "enunciado": "O melhor exame radiológico que serve de triagem nas síndromes ictéricas é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "tomografia de abdômen"
+      },
+      {
+        "letra": "B",
+        "texto": "colangioressonância"
+      },
+      {
+        "letra": "C",
+        "texto": "ultrassonografia abdominal"
+      },
+      {
+        "letra": "D",
+        "texto": "cintilografia de fígado, pâncreas e vias biliares"
+      },
+      {
+        "letra": "E",
+        "texto": "colangiopancreatografia endoscópica retrógrada (CPRE)"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 68219,
+    "tags": [],
+    "enunciado": "Das alternativas abaixo, qual NÃO é uma alteração hepatobiliar que ocorre com o avançar da idade?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Redução do número de hepatócitos."
+      },
+      {
+        "letra": "B",
+        "texto": "Capacidade de síntese reduzida."
+      },
+      {
+        "letra": "C",
+        "texto": "Declínio no fluxo sanguíneo hepático."
+      },
+      {
+        "letra": "D",
+        "texto": "Aumento da sensibilidade e redução da depuração de certas drogas."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 68220,
+    "tags": [],
+    "enunciado": "Homem de 43 anos procurou auxílio médico porque notou coloração amarelada da pele e das mucosas. Ao exame físico, observou-se icterícia, e a hepatimetria estava no limite superior da normalidade. Considerando esses dados, assnale a alternativa INCORRETA com relação à abordagem complementar nesse caso.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Elevação predominante da fosfatase alcalina em relação às aminotransferases sugere presença de obstrução biliar ou colestase intra-hepática."
+      },
+      {
+        "letra": "B",
+        "texto": "Elevação predominante das aminotransferases, com ambas as enzimas abaixo de 500U/L e relação aspartado aminotransferase (AST)/alanina aminotransferase (ALT) superior a 2, permite excluir o diagnóstico de hepatite alcoólica."
+      },
+      {
+        "letra": "C",
+        "texto": "Hipoalbuminemia, não explicada por outra causa, associada ao prolongamento do tempo de protrombina que não é corrigido pela administração de vitamina K, sugere lesão hepatocelular mais grave com acometimento da função síntese."
+      },
+      {
+        "letra": "D",
+        "texto": "O encontro de enzimas hepáticas normais sugere que a icterícia não se deve a hepatopatia ou doença das vias biliares."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 68221,
+    "tags": [],
+    "enunciado": "Em condições normais, o volume diário de bile produzido no fígado está em torno de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "2.500 – 3.000 ml."
+      },
+      {
+        "letra": "B",
+        "texto": "500 – 1.500 ml."
+      },
+      {
+        "letra": "C",
+        "texto": "20 – 30 ml."
+      },
+      {
+        "letra": "D",
+        "texto": "100 – 200 ml."
+      },
+      {
+        "letra": "E",
+        "texto": "200 – 500 ml."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 68222,
+    "tags": [],
+    "enunciado": "Mulher de 40 anos apresenta dor epigástrica e em hipocôndrio direito, náuseas e vômitos há 3 dias, e icterícia, colúria e acolia há 1 dia. Exame físico: BEG, ictérica (+/4+). Abdome globoso, (cid:90)ácido, sem reação à palpação, com discreta dor à palpação de epigástrio. Exames laboratoriais: Hb = 12,8 g/dl; Ht = 38%; GB = 4,5 x 10³/mm³; plaquetas = 222,5 x 10³/mm³; TGO = 68 U/L; TGP = 73 U/L; GGT = 546 U/L; FA = 334 U/L; BT = 4,3 mg/dl (BD = 3,2 mg/dl); amilase = 49 U/L. O primeiro exame de imagem a ser realizado é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ultrassonografia de abdome."
+      },
+      {
+        "letra": "B",
+        "texto": "Tomografia de abdome."
+      },
+      {
+        "letra": "C",
+        "texto": "Ressonância de abdome."
+      },
+      {
+        "letra": "D",
+        "texto": "Colangiopancreatografia retrógrada endoscópica."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 68223,
+    "tags": [],
+    "enunciado": "Ao avaliar exames de sangue de um paciente com doença hepática, o dado que indicaria que a doença é crônica é o(a):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "albumina baixa"
+      },
+      {
+        "letra": "B",
+        "texto": "gamaglutamil transferase normal"
+      },
+      {
+        "letra": "C",
+        "texto": "tempo de atividade de protrombina alargado"
+      },
+      {
+        "letra": "D",
+        "texto": "transaminase glutâmico pirúvica muito elevada"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 68224,
+    "tags": [],
+    "enunciado": "O fígado está unido a outros órgãos e à parede do abdome pelos seguintes ligamentos, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ligamento falciforme."
+      },
+      {
+        "letra": "B",
+        "texto": "Ligamento hepatogástrico."
+      },
+      {
+        "letra": "C",
+        "texto": "Ligamento hepatocólico."
+      },
+      {
+        "letra": "D",
+        "texto": "Ligamento hepatoduodenal."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 68225,
+    "tags": [],
+    "enunciado": "Com relação a icterícia, qual a alternativa INCORRETA?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A icterícia é clinicamente detectada quando a concentração sérica de bilirrubina ultrapassa 2- 3mg/100ml (valor normal: 0,3- 1,0mg/100ml)"
+      },
+      {
+        "letra": "B",
+        "texto": "Os locais onde a icterícia é mais frequentemente percebida são: a conjuntiva ocular (em casos mais discretos particularmente na periferia) e pele"
+      },
+      {
+        "letra": "C",
+        "texto": "A principal fonte de bilirrubina é a hemoglobina proveniente da quebra de eritrócitos maduros, a qual contribui com cerca de 70-75% da produção total"
+      },
+      {
+        "letra": "D",
+        "texto": "A bilirrubina não conjugada, como é firmemente ligada à albumina, não é filtrada pelos glomérulos renais e, não sendo também secretada pelos túbulos renais, não é excretada na urina"
+      },
+      {
+        "letra": "E",
+        "texto": "A bilirrubina conjugada, por ser solúvel em água, penetra mais facilmente em fluidos corpóreos e é capaz de provocar graus mais acentuados de icterícia que a bilirrubina não conjugada. A pele pode tornar-se esverdeada"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 68226,
+    "tags": [],
+    "enunciado": "Alguns testes laboratoriais têm especial importância para avaliar pacientes com doenças hepáticas. Em relação aos testes de função hepática assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O tempo de protrombina é a medida isolada mais útil e eficaz para avaliar a função de síntese hepática devido a meia-vida curta dos fatores de coagulação produzidos no fígado."
+      },
+      {
+        "letra": "B",
+        "texto": "A albumina sérica é um bom indicador de severidade da doença hepática aguda pois é exclusivamente sintetizada pelos hepatócitos."
+      },
+      {
+        "letra": "C",
+        "texto": "A elevação dos níveis de fosfotase alcalina em três vezes ou mais significa obrigatoriamente uma doença hepática colestática."
+      },
+      {
+        "letra": "D",
+        "texto": "TGO e TGP elevadas são indicadores sensíveis de dano hepático agudo, sendo TGO mais sensível que a TGP para lesões hepáticas."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 68227,
+    "tags": [],
+    "enunciado": "O fígado é o maior órgão sólido do corpo e pode ser facilmente notado quando está aumentado. A hepatomegalia indica um distúrbio hepático primário ou secundário de causas diversas. São causas inflamatórias/infecciosas de hepatomegalia:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "linfoma, trombose da veia hepática"
+      },
+      {
+        "letra": "B",
+        "texto": "doença granulomatosa crônica da infância, histoplasmose"
+      },
+      {
+        "letra": "C",
+        "texto": "amiloidose, metástase"
+      },
+      {
+        "letra": "D",
+        "texto": "infiltração gordurosa, doença de Wilson"
+      },
+      {
+        "letra": "E",
+        "texto": "hemocromatose, doença de Gaucher"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 68228,
+    "tags": [],
+    "enunciado": "Em adultos o fígado pesa 1/36 do peso corporal, porém, ao nascimento, pesa 1/24 a 1/8 deste, então na infância é relativamente maior do que em adulto. O fígado normal é mole, liso e frequentemente sensível à palpação. A investigação de hepatomegalia para elaboração de diagnóstico deve seguir como regra geral o seguinte roteiro:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "biópsia hepática guiada por laparoscopia"
+      },
+      {
+        "letra": "B",
+        "texto": "sorologias virais, ultrasonografia e tomografia computadorizada"
+      },
+      {
+        "letra": "C",
+        "texto": "hemograma, bilirrubina, biópsia hepática"
+      },
+      {
+        "letra": "D",
+        "texto": "fosfatase alcalina, bilirrubina, tomografia computadorizada"
+      },
+      {
+        "letra": "E",
+        "texto": "bilirrubina, hemograma, laparoscopia exploratória"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 68229,
+    "tags": [],
+    "enunciado": "Qual o nome do plano que passa ao lado esquerdo da fossa vesicular para o lado esquerdo da veia cava inferior, que divide o fígado em lobos direito e esquerdo?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Lobo caudado."
+      },
+      {
+        "letra": "B",
+        "texto": "Ducto hepático direito."
+      },
+      {
+        "letra": "C",
+        "texto": "Artéria hepática."
+      },
+      {
+        "letra": "D",
+        "texto": "Linha de Cantlie."
+      },
+      {
+        "letra": "E",
+        "texto": "Linha de Courvoisier-Terrier."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 68230,
+    "tags": [],
+    "enunciado": "As três artérias que se originam habitualmente do tronco celíaco são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Gastroduodenal; hepática comum e gástrica esquerda"
+      },
+      {
+        "letra": "B",
+        "texto": "Espiênica; hepática comum e gástrica esquerda"
+      },
+      {
+        "letra": "C",
+        "texto": "Hepática comum, gástrica direita e gastroduodenal"
+      },
+      {
+        "letra": "D",
+        "texto": "Hepática direita; gástrica direita e esplênica"
+      },
+      {
+        "letra": "E",
+        "texto": "Hepática direita; hepática esquerda e gásttrica direita"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 68231,
+    "tags": [],
+    "enunciado": "No exame laboratorial de um paciente com ascite foi encontrado um GASA (gradiente soro-ascite) >1,1. Assinale a opção em que o exame solicitado NÃO se aplica a investigação diagnóstica desse caso.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ADA (adenosina deaminase)."
+      },
+      {
+        "letra": "B",
+        "texto": "HBsAG."
+      },
+      {
+        "letra": "C",
+        "texto": "Ecocardiograma."
+      },
+      {
+        "letra": "D",
+        "texto": "Gama GT (Gamaglutamiltransferase)."
+      },
+      {
+        "letra": "E",
+        "texto": "Ultrassonagrafia Doppler de abdome."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 68232,
+    "tags": [],
+    "enunciado": "O forame epiploico de Winslow é um importante marco anatômico, uma vez que é a única comunicação entre o pequeno e o grande saco omental. Das estruturas listadas abaixo, qual delas não é um limite anatômico do referido forame?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Vesícula biliar."
+      },
+      {
+        "letra": "B",
+        "texto": "Primeira porção do duodeno."
+      },
+      {
+        "letra": "C",
+        "texto": "Ligamento hepatoduodenal."
+      },
+      {
+        "letra": "D",
+        "texto": "Veia cava inferior."
+      },
+      {
+        "letra": "E",
+        "texto": "Lobo caudado do fígado."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 68233,
+    "tags": [],
+    "enunciado": "Assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A artéria hepática fornece todo aporte sanguíneo ao fígado (rico em oxigênio e nutrientes)."
+      },
+      {
+        "letra": "B",
+        "texto": "A veia porta e seu grande fluxo de sangue é responsável por 75% do aporte sanguíneo do fígado."
+      },
+      {
+        "letra": "C",
+        "texto": "O fígado e os músculos são capazes de desdobrar glicogênio e produzir glicose para a circulação sistêmica."
+      },
+      {
+        "letra": "D",
+        "texto": "A cor amarela da urina e a cor marrom das fezes são decorrentes da presença de bilirrubina livre não reabsorvida no intestino."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 68234,
+    "tags": [],
+    "enunciado": "O fígado está unido a outros órgãos e à parede do abdome pelos seguintes ligamentos, EXCETO",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ligamento falciforme."
+      },
+      {
+        "letra": "B",
+        "texto": "Ligamento hepatogástrico."
+      },
+      {
+        "letra": "C",
+        "texto": "Ligamento hepatocólico."
+      },
+      {
+        "letra": "D",
+        "texto": "Ligamento hepatoduodenal."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 68235,
+    "tags": [],
+    "enunciado": "As anastomoses portossistêmicas proporcionam que o sangue do sistema porta atinjam o sistema venoso sistêmico nas situações de hipertensão porta, di(cid:81)culdade de passagem do sangue pelo fígado. São exemplos de anastomoses portossistêmicas, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Veias das faces posteriores, áreas nuas, das vísceras retroperitoneais."
+      },
+      {
+        "letra": "B",
+        "texto": "Veias submucosas do canal anal."
+      },
+      {
+        "letra": "C",
+        "texto": "Veias submucosas do esôfago superior."
+      },
+      {
+        "letra": "D",
+        "texto": "Veias periumbilicais."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 68236,
+    "tags": [],
+    "enunciado": "Sobre a anatomia hepática, é correto afirmar que, na maioria dos casos,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a artéria hepática é a fonte de mais de 70% da oxigenação do fígado."
+      },
+      {
+        "letra": "B",
+        "texto": "a veia porta é formada pela confluência das veias hepáticas direita e esquerda e drena diretamente para a VCI."
+      },
+      {
+        "letra": "C",
+        "texto": "o fígado é dividido em lobo esquerdo e direito e cada um dos lobos é dividido em 5 segmentos numerados de I a V no lobo esquerdo e VI a X no lobo direito."
+      },
+      {
+        "letra": "D",
+        "texto": "os ductos hepáticos direito e equerdo se unem formando o ducto hepático comum, que é denominado ducto colédoco abaixo da implantação do ducto cístico."
+      },
+      {
+        "letra": "E",
+        "texto": "o tronco celíaco nasce diretamente da aorta abaixo do hiato aórtico do diafragma e dá origem a 3 ramos: artéria esplênica e artérias hepáticas direita e esquerda."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 68237,
+    "tags": [],
+    "enunciado": "A icterícia pode ser evidenciada com níveis séricos de bilirrubina maiores que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "6 mg/dl."
+      },
+      {
+        "letra": "B",
+        "texto": "2 mg/dl."
+      },
+      {
+        "letra": "C",
+        "texto": "3 mg/dl."
+      },
+      {
+        "letra": "D",
+        "texto": "4 mg/dl."
+      },
+      {
+        "letra": "E",
+        "texto": "8 mg/dl."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 68238,
+    "tags": [],
+    "enunciado": "O parâmetro mais importante na avaliação pré-operatória da reserva funcional hepática é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tempo de protrombina."
+      },
+      {
+        "letra": "B",
+        "texto": "Tempo parcial de tromboplastina."
+      },
+      {
+        "letra": "C",
+        "texto": "Albuminemia."
+      },
+      {
+        "letra": "D",
+        "texto": "Bilirrubinemia."
+      },
+      {
+        "letra": "E",
+        "texto": "Tempo de coagulação."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 68239,
+    "tags": [],
+    "enunciado": "A segmentação hepática descrita por Couinaud em 1957 é até os dias de hoje a mais utilizada pelos cirurgiões em decorrência da sua funcionalidade. Ela pode ser descrita assim:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Segmento I - lobo caudado, segmento II - lobo hepático direito e segmento III - lobo hepático esquerdo."
+      },
+      {
+        "letra": "B",
+        "texto": "Segmento I - lobo hepático direito, segmento II - lobo hepático esquerdo."
+      },
+      {
+        "letra": "C",
+        "texto": "Segmento I - lobo caudado, segmentos II, III, IV - lobo hepático esquerdo e segmentos V, VI, VII e VIII - lobo hepático direito."
+      },
+      {
+        "letra": "D",
+        "texto": "Segmento I - lobo caudado, segmentos II, III e IV - lobo hepático direito e segmentos V, VI, VII e VIII - lobo hepático esquerdo."
+      },
+      {
+        "letra": "E",
+        "texto": "Segmento I e II - lobo hepático esquerdo e segmentos III e IV - lobo hepático direito."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 68240,
+    "tags": [],
+    "enunciado": "Transaminases TGO e TGPAminotransferases AST e ALT Paciente feminina, 32 anos, recebeu diagnóstico de doença de Graves há quatro meses, foi iniciado propanolol e propiltiouracil há 2 meses. Refere náuseas, dor abdominal leve, adinamia há cerca de um mês e há 7 dias aparecimento de icterícia e há 2 dias começou a apresentar agitação psicomotora e alteração do sono vigília. Nega comorbidades e uso de outras medicações. Ao exame: desorientação, icterícia ++/4, normocorada, hepatomegalia dolorosa, descompressão brusca (-), (cid:90)apping (+), Laboratório: Hb 11.6 g/dl; HCT: 30, Leucócitos 13.460/mm3; Plaquetas 221.000/mm3; TGO 2500 U/I, TGP 3.500 U/I; GGT: Bilirrubina total 17 mg/dl; Bilirrubina Direta 14 mg/dl; GGT 560 U/I; Albumina 2.9 g/dl; (RNI) 4.5; Creatinina 1.1 g/dl. Assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O propiltiouracil pode ser a causa da hepatite da paciente e deve ser suspenso imediatamente."
+      },
+      {
+        "letra": "B",
+        "texto": "Os níveis das transaminases se correlacionam com a gravidade da doença e demonstram possível necrose hepatocelular"
+      },
+      {
+        "letra": "C",
+        "texto": "A paciente apresenta falência hepática aguda e pode evoluir para a necessidade de transplante hepático."
+      },
+      {
+        "letra": "D",
+        "texto": "Vários fatores extra-hepáticos podem contribuir para a encefalopatia como hipoglicemia, hiponatremia, uremia, hipóxia e sepse."
+      },
+      {
+        "letra": "E",
+        "texto": "Vírus D pode causar falência hepática aguda quando associado com VHB."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 68241,
+    "tags": [],
+    "enunciado": "As manifestações clínicas, assim como complicações da cirrose hepática, são decorrentes de duas grandes síndromes associadas à doença: a hipertensão portal e a disfunção hepatocelular. Qual das manifestações abaixo está relacionada à disfunção hepatocelular?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ascite."
+      },
+      {
+        "letra": "B",
+        "texto": "Hiperesplenismo."
+      },
+      {
+        "letra": "C",
+        "texto": "Hipoalbuminemia."
+      },
+      {
+        "letra": "D",
+        "texto": "Varizes de esôfago."
+      },
+      {
+        "letra": "E",
+        "texto": "Circulação colateral abdominal."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 68242,
+    "tags": [],
+    "enunciado": "Uma grande variedade de testes está disponível para avaliar as doenças hepáticas. A triagem da doença hepática, a avaliação de sua função, o diagnóstico dos distúrbios especí(cid:81)cos e o prognóstico são fundamentais no tratamento destes pacientes. Em relação a estes testes, analise as assertivas abaixo e classifique-as em verdadeiro ou falso: I) As transaminases são os marcadores séricos mais comuns da necrose hepatocelular e a Alanina Aminotransferase (ALT) é específica do fígado; II) As elevações de fosfatase alcalina nas doenças hepatobiliares são secundárias à colestase ou à obstrução biliar e são causadas pelo aumento da produção da enzima; III) A hiperbilirrubinemia direta é um resultado da colestase ou da obstrução biliar mecânica, mas também pode ser vista em alguns distúrbios hereditários ou na doença hepatocelular; IV) O tempo de protrombina é o melhor teste para medir os efeitos da doença hepática na coagulação e em geral é um marcador da doença hepática crônica avançada; V) Os marcadores tumorais como Alfafetoproteína (AFP) e Antígeno Carcinoembriônico (CEA) podem ajudar no diagnóstico e acompanhamento dos tumores primários e metastáticos do fígado.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "V – F – V – V – F."
+      },
+      {
+        "letra": "B",
+        "texto": "F – V – V – F – F."
+      },
+      {
+        "letra": "C",
+        "texto": "V – V – V – V – V."
+      },
+      {
+        "letra": "D",
+        "texto": "V – F – F – V – V."
+      },
+      {
+        "letra": "E",
+        "texto": "F – V – F – V – V."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 68243,
+    "tags": [],
+    "enunciado": "A segmentação hepática descrita por Couinaud em 1957 é até os dias de hoje a mais utilizada pelos cirurgiões em decorrência da sua funcionalidade. Ela pode ser descrita assim:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Segmento I - lobo caudado, segmento II - lobo hépatico direito e segmento III - lobo hepático esquerdo."
+      },
+      {
+        "letra": "B",
+        "texto": "Segmento I - lobo hepático direito, segmento II - lobo hepático esquerdo."
+      },
+      {
+        "letra": "C",
+        "texto": "Segmento I - lobo caudado, segmentos II, III e IV - lobo hepático esquerdo e segmentos V, VI, VII e VIII - lobo hepático direito."
+      },
+      {
+        "letra": "D",
+        "texto": "Segmento I - lobo caudado, segmentos II, III e IV - lobo hepático direito e segmentos V, VI, VII e VIII - lobo hepático esquerdo."
+      },
+      {
+        "letra": "E",
+        "texto": "Segmento I e II - lobo hepático esquerdo e segmentos III e IV - lobo hepático direito."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 68244,
+    "tags": [],
+    "enunciado": "Paciente em seguimento pós-operatório de hemicolectomia direita por adenocarcinoma de ceco. Traz resultados de exames: CEA - 22. TC abdome - Lesão hepática de 3,3 no lobo esquerdo, à direita do falciforme e adjacente ao leito da vesícula biliar. Em relação à classi(cid:81)cação anatômica funcional de fígado (Couinaud), essa lesão está localizada no segmento",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "4b."
+      },
+      {
+        "letra": "B",
+        "texto": "4a."
+      },
+      {
+        "letra": "C",
+        "texto": "3."
+      },
+      {
+        "letra": "D",
+        "texto": "2."
+      },
+      {
+        "letra": "E",
+        "texto": "5."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 68245,
+    "tags": [],
+    "enunciado": "Paciente que não usa medicamentos e apresenta icterícia discreta exibe o seguinte padrão laboratorial: hiperbilirrubinemia predominantemente direta, fosfatase alcalina muito elevada, transaminases levemente elevadas (1,5 x), albumina normal. Assinale a alternativa que apresenta, CORRETAMENTE, a investigação que deve ser feita para esse caso.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Embora esse padrão laboratorial seja atípico nas hepatites virais, devido à elevada prevalência destas, a investigação deve ser iniciada com as sorologias para hepatite B e C"
+      },
+      {
+        "letra": "B",
+        "texto": "A investigação deve ser iniciada com a Ultrassonografia (US) e, caso esta não revele dilatação dos ductos biliares, a Colangiopancreatografia Endoscópica Retrógrada (CPER) é o próximo passo, por ser mais sensível que a US"
+      },
+      {
+        "letra": "C",
+        "texto": "Uma vez excluído coledocolitíase na US, o paciente deverá ser submetido à biópsia hepática"
+      },
+      {
+        "letra": "D",
+        "texto": "Se a US for normal, Anticorpos Anti-Mitocôndria (AMA) devem ser solicitados e, nesse caso, AMA positivo constitui indicação de biópsia hepática"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 68246,
+    "tags": [],
+    "enunciado": "A respeito da anatomia hepática, os fígados direito e esquerdo são separados pela cisura portal principal, que corresponde a uma linha que, originando-se no ponto médio do leito vesicular, anteriormente, dirige-se posteriormente, ao longo da face ânterosuperior do fígado, à face lateral esquerda da veia cava na sua porção supra- hepática. Essa linha é também conhecida como:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cisura portal inferior."
+      },
+      {
+        "letra": "B",
+        "texto": "Linha de Cantlie."
+      },
+      {
+        "letra": "C",
+        "texto": "Linha interlobular."
+      },
+      {
+        "letra": "D",
+        "texto": "Cisura de Coinaud."
+      },
+      {
+        "letra": "E",
+        "texto": "Linha segmentar."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 68247,
+    "tags": [],
+    "enunciado": "Colangiopancreatografia retrógrada endoscópica CPRE e colangiopancreatografia por ressonância magnética Colangiopancreatografia Retrógrada Endoscópica CPRE",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "complicação mais frequente decorrente de colangiopancreatografia retrógrada endoscópica é:"
+      },
+      {
+        "letra": "A",
+        "texto": "Alergia ao contraste."
+      },
+      {
+        "letra": "B",
+        "texto": "Hemobilia."
+      },
+      {
+        "letra": "C",
+        "texto": "Colangite."
+      },
+      {
+        "letra": "D",
+        "texto": "Perfuração duodenal."
+      },
+      {
+        "letra": "E",
+        "texto": "Pancreatite aguda."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 68248,
+    "tags": [],
+    "enunciado": "A presença de colúria, no exame de urina de uma criança, significa:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hemólise."
+      },
+      {
+        "letra": "B",
+        "texto": "Insuficiência hepática."
+      },
+      {
+        "letra": "C",
+        "texto": "Presença de necrose hepatocelular."
+      },
+      {
+        "letra": "D",
+        "texto": "Elevação da fração direta da bilirrubina no soro."
+      },
+      {
+        "letra": "E",
+        "texto": "Insuficiência renal."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 68249,
+    "tags": [],
+    "enunciado": "Colúria, no exame de urina, significa:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hemólise."
+      },
+      {
+        "letra": "B",
+        "texto": "Insuficiência hepática."
+      },
+      {
+        "letra": "C",
+        "texto": "Presença de necrose hepatocelular."
+      },
+      {
+        "letra": "D",
+        "texto": "Elevação da fração direta da bilirrubina no soro."
+      },
+      {
+        "letra": "E",
+        "texto": "Obstrução das vias biliares extra-hepáticas."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 68250,
+    "tags": [],
+    "enunciado": "Na avaliação das enzimas hepáticas, podemos afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ALT é marcador de doença crônica."
+      },
+      {
+        "letra": "B",
+        "texto": "AST é marcador de doença aguda."
+      },
+      {
+        "letra": "C",
+        "texto": "ALT/AST expressam lesão hepatocelular."
+      },
+      {
+        "letra": "D",
+        "texto": "Duas alternativas estão corretas."
+      },
+      {
+        "letra": "E",
+        "texto": "Todas as alternativas estão incorretas."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 68251,
+    "tags": [],
+    "enunciado": "A Interleucina 1 (IL-1) é uma citocina pró-in(cid:90)amatória que exerce papel fundamental na Resposta in(cid:90)amatória, imunológica e metabólica ao trauma e é sintetizada por uma ampla variedade de tipos celulares. Qual tipo celular dentre os listados abaixo NÃO sintetiza a IL-1?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hepatócitos."
+      },
+      {
+        "letra": "B",
+        "texto": "Queratinócitos."
+      },
+      {
+        "letra": "C",
+        "texto": "Enterócitos."
+      },
+      {
+        "letra": "D",
+        "texto": "Células endoteliais."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 68252,
+    "tags": [],
+    "enunciado": "Para a avaliação da função hepática no pré-operatório de um paciente diagnosticado com coledocolitíase com obstrução da via biliar principal, os parâmetros laboratoriais mais (cid:81)dedignos são revelados através das dosagens sanguíneas de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tempo de protrombina e albumina."
+      },
+      {
+        "letra": "B",
+        "texto": "Fosfatase alcalina e bilirrubina direta."
+      },
+      {
+        "letra": "C",
+        "texto": "GamaGT e alanina aminotransferase."
+      },
+      {
+        "letra": "D",
+        "texto": "Aspartato aminotransferase e alfafeto proteína."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 68253,
+    "tags": [],
+    "enunciado": "Em paciente cirrótico, avalia-se a função biossintética do fígado por meio do exame de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Albumina."
+      },
+      {
+        "letra": "B",
+        "texto": "Fosfatase alcalina."
+      },
+      {
+        "letra": "C",
+        "texto": "Gamaglutamil transferase."
+      },
+      {
+        "letra": "D",
+        "texto": "Transaminases."
+      },
+      {
+        "letra": "E",
+        "texto": "Plaquetas."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 68254,
+    "tags": [],
+    "enunciado": "Em um paciente com insu(cid:81)ciência hepática aguda, que exame deve ser monitorizado rigorosamente para estimar o prognóstico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Bilirrubinas."
+      },
+      {
+        "letra": "B",
+        "texto": "Tempo de protrombina."
+      },
+      {
+        "letra": "C",
+        "texto": "Alanina aminotransferase."
+      },
+      {
+        "letra": "D",
+        "texto": "Albumina."
+      },
+      {
+        "letra": "E",
+        "texto": "Gama glutamiltransferase."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 68255,
+    "tags": [],
+    "enunciado": "Quanto à anatomia hepática, pode-se afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É dividida em 8 segmentos."
+      },
+      {
+        "letra": "B",
+        "texto": "A linha de Cantlie divide o fígado entre parte direita e parte esquerda."
+      },
+      {
+        "letra": "C",
+        "texto": "A vesícula biliar está, habitualmente, no segmento 6."
+      },
+      {
+        "letra": "D",
+        "texto": "A artéria cística é ramo da artéria hepática própria."
+      },
+      {
+        "letra": "E",
+        "texto": "As veias supra-hepáticas drenam para a veia cava infradiafragmática."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 68256,
+    "tags": [],
+    "enunciado": "A segmentação hepática descrita por Couinaud em 1957 é até os dias de hoje a mais utilizada pelos cirurgiões em decorrência da sua funcionalidade. Ela pode ser descrita assim:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Segmento I - lobo caudado, segmento II - lobo hepático direito e segmento III - lobo hepático esquerdo."
+      },
+      {
+        "letra": "B",
+        "texto": "Segmento I - lobo hepático direito, segmento II - lobo hepático esquerdo."
+      },
+      {
+        "letra": "C",
+        "texto": "Segmento I - lobo caudado, segmentos II, III e IV - lobo hepático esquerdo e segmentos V, VI, VII e VIII - lobo hepático direito."
+      },
+      {
+        "letra": "D",
+        "texto": "Segmento I - lobo caudado, segmentos II, III e IV - lobo hepático direito e segmentos V, VI, VII e VIII - lobo hepático esquerdo."
+      },
+      {
+        "letra": "E",
+        "texto": "Segmento I e II - lobo hepático esquerdo e segmentos III e IV - lobo hepático direito."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 68257,
+    "tags": [],
+    "enunciado": "São causas de icterícia, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Síndrome de Gilbert."
+      },
+      {
+        "letra": "B",
+        "texto": "Síndrome de Budd-Chiari."
+      },
+      {
+        "letra": "C",
+        "texto": "Câncer de pâncreas."
+      },
+      {
+        "letra": "D",
+        "texto": "Doença de Von Willebrand"
+      },
+      {
+        "letra": "E",
+        "texto": "Síndrome de Crigler-Najjar"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 68258,
+    "tags": [],
+    "enunciado": "Qual das afirmações abaixo está INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A hiperbilirrubinemia pode ser devida a anormalidades na função, transporte, metabolismo ou excreção da bilirrubina"
+      },
+      {
+        "letra": "B",
+        "texto": "A icterícia com aumento de bilirrubina conjugada pode ser causada por hemólise"
+      },
+      {
+        "letra": "C",
+        "texto": "Na avaliação icterícia obstrutiva, solicitamos primeiramente ultrassonografia e após a colangiografia poderá ser necessária"
+      },
+      {
+        "letra": "D",
+        "texto": "Aumentos persitentes e discretos dos níveis de aminotransferases são comuns na prática clínica e podem ser causados por esteatose hepática"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 68259,
+    "tags": [],
+    "enunciado": "Qual o parâmetro mais importante na avaliação pré-operatória da reserva funcional hepática?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tempo de protrombina"
+      },
+      {
+        "letra": "B",
+        "texto": "Tempo parcial de tromboplastina"
+      },
+      {
+        "letra": "C",
+        "texto": "Albuminemia"
+      },
+      {
+        "letra": "D",
+        "texto": "Transaminases"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 68260,
+    "tags": [],
+    "enunciado": "Colangiopancreatografia retrógrada endoscópica CPRE e colangiopancreatografia por ressonância magnética Colangiopancreatografia Retrógrada Endoscópica CPRE Assinale a complicação mais frequente da CPRE.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Colangite."
+      },
+      {
+        "letra": "B",
+        "texto": "Hemorragia."
+      },
+      {
+        "letra": "C",
+        "texto": "Pancreatite aguda."
+      },
+      {
+        "letra": "D",
+        "texto": "Perfuração duodenal."
+      },
+      {
+        "letra": "E",
+        "texto": "Fístula biliar."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 68261,
+    "tags": [],
+    "enunciado": "Assinale a alternativa ERRADA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pacientes hepatopatas crônicos candidatos à cirurgia para tratamento de obesidade extrema são melhores tratados pela gastrectomia vertical."
+      },
+      {
+        "letra": "B",
+        "texto": "A escala MELD é calculada usando bilirrubina, INR e ascite."
+      },
+      {
+        "letra": "C",
+        "texto": "Hipertensão portal é definida como pressão esplênica maior que 15 mmHg."
+      },
+      {
+        "letra": "D",
+        "texto": "O melhor tratamento para paciente de 42 anos de idade com cirrose Child B e um único carcinoma hepatocelular de 4 cm no lobo direito é transplante hepático."
+      },
+      {
+        "letra": "E",
+        "texto": "O fígado tem duplo suprimento sanguíneo: 25% pela artéria hepática e 75% pela veia porta."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 68262,
+    "tags": [],
+    "enunciado": "Na avaliação das enzimas hepáticas podemos afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ALT é marcador de doença crônica."
+      },
+      {
+        "letra": "B",
+        "texto": "AST é marcador de doença aguda."
+      },
+      {
+        "letra": "C",
+        "texto": "ALT/AST expressam lesão hepatocelular."
+      },
+      {
+        "letra": "D",
+        "texto": "Duas alternativas estão corretas."
+      },
+      {
+        "letra": "E",
+        "texto": "Todas as alternativas estão incorretas."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 68263,
+    "tags": [],
+    "enunciado": "Em relação à hemossiderose, é CORRETO afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Há depósito de ferro, com dano tecidual, em diversos órgãos e estruturas, incluindo coração e suprarrenais."
+      },
+      {
+        "letra": "B",
+        "texto": "Há depósito de ferro, sem dano tecidual, no sistema reticuloendotelial."
+      },
+      {
+        "letra": "C",
+        "texto": "Há um defeito congênito na mucosa intestinal, com aumento na absorção do ferro ingerido."
+      },
+      {
+        "letra": "D",
+        "texto": "Manifesta-se clinicamente na quarta ou quinta década da vida. 4000126945"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 68264,
+    "tags": [],
+    "enunciado": "O primeiro teste diagnóstico a ser realizado em pacientes com exames laboratoriais que sugerem colestase é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "rotina de abdômen agudo."
+      },
+      {
+        "letra": "B",
+        "texto": "ultrassonografia abdominal."
+      },
+      {
+        "letra": "C",
+        "texto": "tomografia computadorizada de abdome."
+      },
+      {
+        "letra": "D",
+        "texto": "ressonância magnética de abdômen."
+      },
+      {
+        "letra": "E",
+        "texto": "colangiopancreatografia retrógrada endoscópica."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 68265,
+    "tags": [],
+    "enunciado": "Assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aproximadamente 70 a 80% dos cálculos da vesícula biliar são de colesterol."
+      },
+      {
+        "letra": "B",
+        "texto": "O fígado secreta diariamente cerca de 500-1000 ml de bile."
+      },
+      {
+        "letra": "C",
+        "texto": "Os microrganismos mais frequentemente encontrados na bile de pacientes com colangite são: Proteus, Clostridium e Pseudomonas."
+      },
+      {
+        "letra": "D",
+        "texto": "A obesidade, idade, diabetes e hipocontratilidade da parede da vesícula são fatores predisponentes à litíase biliar."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 68266,
+    "tags": [],
+    "enunciado": "Assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Após passagem pelos sinusóides hepáticos, o sangue proveniente do sistema porta édrenado pelas veias hepáticas para a cava superior e atingem o átrio direito."
+      },
+      {
+        "letra": "B",
+        "texto": "A veia porta coleta sangue da parte abdominal do trato gastrointestinal, vesícula biliar,pâncreas, rins e baço."
+      },
+      {
+        "letra": "C",
+        "texto": "A veia porta é formada atrás do colo do pâncreas pela união das veias esplênica emesentérica superior."
+      },
+      {
+        "letra": "D",
+        "texto": "O sistema venoso porta não se comunica com o sistema venoso sisitêmico."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 68267,
+    "tags": [],
+    "enunciado": "Após estudarmos o FÍGADO, podemos afirmar que este órgão:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Está localizado principalmente no hipocôndrio esquerdo."
+      },
+      {
+        "letra": "B",
+        "texto": "Recebe secreções provenientes do ducto colédoco."
+      },
+      {
+        "letra": "C",
+        "texto": "Possui uma face visceral em contato com o diafragma."
+      },
+      {
+        "letra": "D",
+        "texto": "Recebe praticamente todo o sangue proveniente das partes absortivas do tracto digestivo."
+      },
+      {
+        "letra": "E",
+        "texto": "Duas alternativas estão corretas."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 68268,
+    "tags": [],
+    "enunciado": "Em relação à Icterícia de um modo geral, assinale a alternativa CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Na hepatite viral, em geral, há um aumento gradual da icterícia até uma altura em que ela estaciona e depois declina até a normalidade."
+      },
+      {
+        "letra": "B",
+        "texto": "A bilirrubina direta não é dosada, seus valores são obtidos subtraindo-se o valor da bilirrubina indireta da bilirrubina total."
+      },
+      {
+        "letra": "C",
+        "texto": "A icterícia causada por cálculo no colédoco é progressiva."
+      },
+      {
+        "letra": "D",
+        "texto": "O urobilinogênio se mantém elevado após o início da icterícia nos casos de hepatite aguda, e se mantém assim durante a evolução da doença."
+      },
+      {
+        "letra": "E",
+        "texto": "Na icterícia pré-microssomal, ocorre a predominância da bilirrubina direta e, na pós- microssomal, da bilirrubina indireta."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 68269,
+    "tags": [],
+    "enunciado": "Uma paciente de cinquenta anos de idade compareceu a um ambulatório de clínica médica relatando que, havia um mês, vinha apresentando dor difusa e aumento do volume do abdome. No prontuário da paciente, estava descrito que ela era supervisionada pelo serviço médico por apresentar hepatite crônica persistente. No exame físico, a paciente apresentou icterícia, macicez móvel, dor difusa à palpação e ausência de visceromegalias. Os exames laboratoriais mostraram albumina de 2g/dL ( normal:3,9 a 4,6g/dL); bilirrubina total de 5 mg/dL (3,5 mg/dL de bilirrubina direta); tempo de protombina de 18 segundos (normal: 10 a 14 segundos), TGO de 150 U/L; e TGP de 100 U/L. Considerando o caso clínico acima apresentado, julgue o item subsecutivo. O prolongamento do tempo de protrombina confirma o diagnóstico de insuficiência hepática.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Certo."
+      },
+      {
+        "letra": "B",
+        "texto": "Errado."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 68270,
+    "tags": [],
+    "enunciado": "Com relação ao tubo digestivo, às suas glândulas anexas e às patologias que acometem esses sistemas, julgue o item subsequente. O evento inicial para a produção de bilirrubina é representado pela destruição das hemácias no sistema reticuloendotelial.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Certo."
+      },
+      {
+        "letra": "B",
+        "texto": "Errado."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 68271,
+    "tags": [],
+    "enunciado": "Em relação à Gamaglutamil Transferase (GGT), é INCORRETO afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O fígado é o órgão mais rico em atividade GGT, sendo que esta atividade é maior ao nível dos canais biliares e nos polos dos hepatócitos."
+      },
+      {
+        "letra": "B",
+        "texto": "Existe uma alteração do valor sérico da GGT na chamada síndrome dismetabólica."
+      },
+      {
+        "letra": "C",
+        "texto": "O aumento da GGT acompanhado do aumento da fosfatase alcalina, das bilirrubinas e das transaminases, pode conduzir a uma hipótese diagnóstica de coledocolitíase ou de colangite esclerosante."
+      },
+      {
+        "letra": "D",
+        "texto": "A GGT tipo 2 — GGT II — pode ser um marcador, junto à alfafetoproteína, que auxilia no diagnóstico do Carcinoma Hepatocelular (CHC)."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 68272,
+    "tags": [],
+    "enunciado": "Dos sinais clínico-laboratoriais abaixo assinalados, assinale a alternativa que representa melhor a insu(cid:81)ciência hepática:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ascite + aumento de bilirrubinas diretas."
+      },
+      {
+        "letra": "B",
+        "texto": "Ginecomastia + diminuição de fator V."
+      },
+      {
+        "letra": "C",
+        "texto": "Ascite + TP prolongado."
+      },
+      {
+        "letra": "D",
+        "texto": "Eritema palmar + aumento de gama GT."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 68273,
+    "tags": [],
+    "enunciado": "Hepatomegalia leve é observada no decurso de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cirrose."
+      },
+      {
+        "letra": "B",
+        "texto": "Abscesso hepático."
+      },
+      {
+        "letra": "C",
+        "texto": "Insuficiência cardíaca direita."
+      },
+      {
+        "letra": "D",
+        "texto": "Doença mieloproliferativa."
+      },
+      {
+        "letra": "E",
+        "texto": "Hepatite."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 68274,
+    "tags": [],
+    "enunciado": "Paciente masculino, 40 anos, tabagista (30 maços/ano), alcoolista (destilados e fermentados diariamente, há 20 anos), chega à emergência com quadro de dor abdominal epigástrica, hematêmese, sudorese, melena, taquicardia (100 bpm), hipotenso (PA 100/50). Ao exame: Dor à palpação epigástrica. Icterícia (3+/4). Para avaliação laboratorial da Insuficiência Hepática, quais exames são essenciais?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Solicitar EDA, RNI, AST/ALT"
+      },
+      {
+        "letra": "B",
+        "texto": "Solicitar AST/ALT, Fosfatase Alcalina, DHL"
+      },
+      {
+        "letra": "C",
+        "texto": "Solicitar RNI, Albumina Sérica"
+      },
+      {
+        "letra": "D",
+        "texto": "Solicitar EDA, Albumina Sérica"
+      },
+      {
+        "letra": "E",
+        "texto": "Solicitar EDA, AST/ALT, Albumina Sérica, Gama GT"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 68275,
+    "tags": [],
+    "enunciado": "Exames de imagem Marque a alternativa CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "colangiorressonância é um exame muito utilizado para diagnóstico das patologias das vias biliares intra e extra-hepáticas. Este exame utiliza como contraste:"
+      },
+      {
+        "letra": "A",
+        "texto": "Bile."
+      },
+      {
+        "letra": "B",
+        "texto": "Gadolínio."
+      },
+      {
+        "letra": "C",
+        "texto": "Iodado intravenoso."
+      },
+      {
+        "letra": "D",
+        "texto": "Verde de indocianina."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 68276,
+    "tags": [],
+    "enunciado": "Paciente, 30 anos, sexo feminino, procura o pronto-socorro do hospital Santa Genoveva devido a quadro de icterícia. O plantonista solicita exames laboratoriais que sugerem hiperbilirrubinemia não conjugada. Dentre as possíveis causas a investigar, estão, exceto:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hemólise."
+      },
+      {
+        "letra": "B",
+        "texto": "Síndrome de Dubin-Johnson."
+      },
+      {
+        "letra": "C",
+        "texto": "Síndrome de Gilbert."
+      },
+      {
+        "letra": "D",
+        "texto": "Síndrome de Crigler-Najjar."
+      },
+      {
+        "letra": "E",
+        "texto": "Inibição por Cloranfenicol."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 68277,
+    "tags": [],
+    "enunciado": "O íon presente em maior concentração na bile hepática de humanos é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Na+"
+      },
+      {
+        "letra": "B",
+        "texto": "K+"
+      },
+      {
+        "letra": "C",
+        "texto": "Ca++"
+      },
+      {
+        "letra": "D",
+        "texto": "Cl-"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 68278,
+    "tags": [],
+    "enunciado": "Assinale a alternativa mais adequada em relação à bilirrubina:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A hiperbilirrubinemia conjugada (predomínio da bilirrubina direta) está associada à colangite esclerosante, aumento da produção de bilirrubina (como anemias hemolíticas, reações hemolíticas, hematoma e infarto pulmonar) e síndrome de Gilbert."
+      },
+      {
+        "letra": "B",
+        "texto": "A hiperbilirrubinemia conjugada (predomínio da bilirrubina direta) está associada à obstrução biliar, coledocolitíase, atresia biliar, carcinoma de ducto biliar, colangite esclerosante, cisto colédoco e pancreatite."
+      },
+      {
+        "letra": "C",
+        "texto": "A hiperbilirrubinemia não conjugada (predomínio da bilirrubina indireta) está associada à pancreatite, colangite esclerosante, hiperbilirrubinemia pós-hepatite, anemias hemolíticas e síndrome de Gilbert."
+      },
+      {
+        "letra": "D",
+        "texto": "A hiperbilirrubinemia não conjugada (predomínio da bilirrubina indireta) está associada à cirrose hepática, obstrução biliar e anemia hemolítica."
+      },
+      {
+        "letra": "E",
+        "texto": "A hiperbilirrubinemia não conjugada (predomínio da bilirrubina indireta) está associada à anemia hemolítica, atresia biliar, carcinoma de ducto biliar, colangite esclerosante e cisto colédoco."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 68279,
+    "tags": [],
+    "enunciado": "A biópsia hepática desempenha um papel importante no diagnóstico das seguintes doenças do fígado:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Doença de Wilson, Hepatopatia alcóolica, Hepatite viral aguda tipo A;"
+      },
+      {
+        "letra": "B",
+        "texto": "Hepatite autoimune, Cirrose biliar primária, doença de Wilson;"
+      },
+      {
+        "letra": "C",
+        "texto": "Hepatite viral aguda tipo A, colangite, esteatopatias não alcoólicas;"
+      },
+      {
+        "letra": "D",
+        "texto": "Colangite, Cirrose biliar primária, Hepatite C crônica."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 68280,
+    "tags": [],
+    "enunciado": "São considerados bons indicadores para a avaliação hepatocelular:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fosfatase alcalina e 5' nucleotidase."
+      },
+      {
+        "letra": "B",
+        "texto": "Albuminemia e globulinas séricas."
+      },
+      {
+        "letra": "C",
+        "texto": "Aminotransferases."
+      },
+      {
+        "letra": "D",
+        "texto": "Lipoproteínas."
+      },
+      {
+        "letra": "E",
+        "texto": "Bilirrubinas."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 68281,
+    "tags": [],
+    "enunciado": "Paciente portador de cirrose apresenta recanalização de colaterais, por aumento da pressão portal.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "veia porta é formada pela:"
+      },
+      {
+        "letra": "A",
+        "texto": "Veia mesentérica inferior e veia esplênica."
+      },
+      {
+        "letra": "B",
+        "texto": "Veia mesentérica superior e veia cava."
+      },
+      {
+        "letra": "C",
+        "texto": "Veia esplênica e veia cava."
+      },
+      {
+        "letra": "D",
+        "texto": "Veia esplênica e veia mesentérica superior."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 68282,
+    "tags": [],
+    "enunciado": "O valor mínimo da concentração sérica de bilirrubina que pode causar icterícia é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1,5 mg/dl."
+      },
+      {
+        "letra": "B",
+        "texto": "3,0 mg/dl."
+      },
+      {
+        "letra": "C",
+        "texto": "2,0 mg/dl."
+      },
+      {
+        "letra": "D",
+        "texto": "2,5 mg/dl."
+      },
+      {
+        "letra": "E",
+        "texto": "4,5 mg/dl."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 68283,
+    "tags": [],
+    "enunciado": "Em relação aos padrões dos testes hepáticos nos distúrbios hepatobiliares, pode-se afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nos distúrbios hepatocelulares crônicos, as aminotransferases se encontram elevadas, porém, em geral, menores que 300 UI; a fosfatase alcalina se encontra com valores de até 3 vezes maior que o normal; o tempo de protrombina se encontra elevado com frequência, não corrigido por reposição de vitamina K parenteral."
+      },
+      {
+        "letra": "B",
+        "texto": "Na icterícia obstrutiva, a dosagem das bilirrubinas pode estar normal ou até o valor de 5,0 mg/dl, sendo 85% devido à fração indireta; a albumina se encontra com frequência reduzida; o tempo de protrombina se encontra com frequência normal, porém, se elevado, é corrigido por reposição de vitamina K parenteral."
+      },
+      {
+        "letra": "C",
+        "texto": "Nas doenças infiltrativas, as aminotransferases estão elevadas, porém, em geral, menores que 300 UI; a fosfatase alcalina se encontra com frequência maior que 4 vezes o valor normal, confirmando pela dosagem de gamaglutamiltranspeptidase; a albumina se encontra em níveis normais."
+      },
+      {
+        "letra": "D",
+        "texto": "Na hemólise, a dosagem das bilirrubinas (de ambas as frações) pode estar elevada, sendo 85% devido à fração direta; as aminotransferases podem estar normais ou com elevação moderada; albumina se encontra reduzida com frequência."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 68284,
+    "tags": [],
+    "enunciado": "Em relação à fisiologia hepática da bile, assinale a afirmativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Toda a bilirrubina indireta provém da quebra da hemoglobina das hemácias envelhecidas pelo sistema reticuloendotelial do baço."
+      },
+      {
+        "letra": "B",
+        "texto": "A excreção da bilirrubina direta para o canalículo biliar acontece na membrana basolateral do hepatócito através de difusão passiva."
+      },
+      {
+        "letra": "C",
+        "texto": "As transaminases são as enzimas responsáveis pela conjugação da bilirrubina."
+      },
+      {
+        "letra": "D",
+        "texto": "A AST é uma enzima presente no fígado e outros órgãos (coração, músculos), enquanto a ALT é quase exclusiva do fígado."
+      },
+      {
+        "letra": "E",
+        "texto": "Na icterícia hepatocelular, é a bilirrubina indireta a que mais se eleva."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 68285,
+    "tags": [],
+    "enunciado": "Podemos avaliar a função hepatocelular com os seguintes exames, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Bilirrubinas."
+      },
+      {
+        "letra": "B",
+        "texto": "Transaminases (AST e ALT)."
+      },
+      {
+        "letra": "C",
+        "texto": "Coagulograma."
+      },
+      {
+        "letra": "D",
+        "texto": "Tempo de protrombina."
+      },
+      {
+        "letra": "E",
+        "texto": "Albumina sérica."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 68286,
+    "tags": [],
+    "enunciado": "Um famoso médico recebeu, em seu consultório, o pai de colega de faculdade que clinicava no interior. Este, em seu encaminhamento, dizia não dispor de exames para esclarecer se estava diante de doença óssea ou hepática, dúvida nascida da análise de uma rotina laboratorial. O próprio médico colheu amostra de sangue para estudos adicionais, tendo um dos resultados apontado para hepatopatia, pois havia aumento significativo de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "deoxipiridinolina;"
+      },
+      {
+        "letra": "B",
+        "texto": "5´nucleotidase;"
+      },
+      {
+        "letra": "C",
+        "texto": "hidroxiprolina;"
+      },
+      {
+        "letra": "D",
+        "texto": "telopeptídio C."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 68287,
+    "tags": [],
+    "enunciado": "Qual é o parâmetro mais importante na avaliação pré-operatória da reserva funcional hepática?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tempo de protrombina."
+      },
+      {
+        "letra": "B",
+        "texto": "Tempo parcial de tromboplastina."
+      },
+      {
+        "letra": "C",
+        "texto": "Albuminemia."
+      },
+      {
+        "letra": "D",
+        "texto": "Bilirrubinemia."
+      },
+      {
+        "letra": "E",
+        "texto": "Transaminases."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 68288,
+    "tags": [],
+    "enunciado": "Um lacônico pedido de parecer, enviado por colega de outro hospital público, traz a você um comerciário de 29 anos. A razão do encaminhamento foi “aumento da AST (TGO)”. Não há história anterior de doença do fígado e, no hepatograma, a ALT (TGP) está normal. A origem desse aumento da AST deve ter, como primeira hipótese, vínculo com:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "coração."
+      },
+      {
+        "letra": "B",
+        "texto": "músculos."
+      },
+      {
+        "letra": "C",
+        "texto": "hemácias."
+      },
+      {
+        "letra": "D",
+        "texto": "canalículos biliares."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 68289,
+    "tags": [],
+    "enunciado": "Em qual das situações abaixo, a bilirrubina indireta deverá estar maior do que a direta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hepatite aguda fulminante."
+      },
+      {
+        "letra": "B",
+        "texto": "Colestase transinfecciosa."
+      },
+      {
+        "letra": "C",
+        "texto": "Esquistossomose hepatoesplênica com shunts esplenorrenais naturais."
+      },
+      {
+        "letra": "D",
+        "texto": "TU de vesícula com extenso comprometimento hepático."
+      },
+      {
+        "letra": "E",
+        "texto": "Hepatite medicamentosa."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 68290,
+    "tags": [],
+    "enunciado": "A veia porta é formada pela junção da:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "veia mesentérica superior e veia cava"
+      },
+      {
+        "letra": "B",
+        "texto": "veia mesentérica superior e veia esplênica"
+      },
+      {
+        "letra": "C",
+        "texto": "veia mesentérica inferior e veia esplênica"
+      },
+      {
+        "letra": "D",
+        "texto": "veia esplênica e cólica média"
+      },
+      {
+        "letra": "E",
+        "texto": "veia mesentérica superior e cólica esquerda"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 68291,
+    "tags": [],
+    "enunciado": "Onde é sintetizada a albumina?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Duodeno"
+      },
+      {
+        "letra": "B",
+        "texto": "Fígado"
+      },
+      {
+        "letra": "C",
+        "texto": "Intestino delgado"
+      },
+      {
+        "letra": "D",
+        "texto": "íleo terminal"
+      },
+      {
+        "letra": "E",
+        "texto": "Pâncreas"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 68292,
+    "tags": [],
+    "enunciado": "Em um paciente ictérico, indique um exame de triagem que tem alta sensibilidade e resultado rápido para a diferenciação entre cálculo biliar, tumor de cabeça de pâncreas e hepatite.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ultrassonografia"
+      },
+      {
+        "letra": "B",
+        "texto": "Radiografia simples de abdome"
+      },
+      {
+        "letra": "C",
+        "texto": "Dosagem de aminotransferases"
+      },
+      {
+        "letra": "D",
+        "texto": "Dosagem de bilirrubinas"
+      },
+      {
+        "letra": "E",
+        "texto": "Colangiografia"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 68293,
+    "tags": [],
+    "enunciado": "Quais dos exames abaixo são mais indicados para avaliar função hepática?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aspartato aminotransferase e alanina aminotransferase, ALT."
+      },
+      {
+        "letra": "B",
+        "texto": "Fosfatase alcalina e albumina."
+      },
+      {
+        "letra": "C",
+        "texto": "Tempo de protrombina e aspartato aminotransferase."
+      },
+      {
+        "letra": "D",
+        "texto": "Tempo parcial de tromboplastina e albumina."
+      },
+      {
+        "letra": "E",
+        "texto": "Leucina aminopeptidase e alanina aminotransferase."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 68294,
+    "tags": [],
+    "enunciado": "Sabrina, 6 anos, é atendida na Emergência com icterícia, dor abdominal e vômitos. Há 5 dias foi levada à Emergência com história de febre baixa, dor abdominal, hiporexia, sete episódios de vômitos, quatro evacuações com fezes de consistência líquida e urina escura. Foi liberada para casa com prescrição de soro oral e medicação antiemética. Hoje retorna com aumento da frequência dos vômitos, da intensidade da dor abdominal e icterícia +++/4+. A mãe relata que a menina alterna períodos de irritabilidade e de sonolência. Foram solicitados marcadores para hepatites virais e con(cid:81)rmado o diagnóstico de hepatite A. O teste diagnóstico indicativo de gravidade do quadro é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "tempo de protrombina (TP) paciente = 25s (TP controle = 13s)."
+      },
+      {
+        "letra": "B",
+        "texto": "aspartato aminotransferase (AST) = 890 U/L."
+      },
+      {
+        "letra": "C",
+        "texto": "leucometria total = 1070 leucócitos."
+      },
+      {
+        "letra": "D",
+        "texto": "hematócrito = 44%."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 68295,
+    "tags": [],
+    "enunciado": "Rubens tem 45 anos, é engenheiro e sedentário. Em exame periódico foi veri(cid:81)cada elevação da pressão arterial, que ele desconhecia. Estava assintomático, embora visivelmente ansioso com o diagnóstico. Pai faleceu de IAM aos 52 anos. Refere ter realizado endoscopia digestiva alta (EDA) há dois meses, por queixas dispépticas, e o médico informou que havia gastrite. O exame histopatológico da biópsia gástrica revelou “Gastrite Crônica Atró(cid:81)ca com Metaplasia Intestinal e H. Pylori positivo”. Há um ano realizou colecistectomia videolaparoscópica. Ao exame físico PA = 160 x 92 mm Hg. Icterícia 2+/4. Foi orientado nesta consulta sobre a importância de medidas higiênico- dietéticas e encaminhado para avaliação da icterícia. O próximo passo para o esclarecimento diagnóstico da questão anterior é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "realizar ressonância magnética do abdômen."
+      },
+      {
+        "letra": "B",
+        "texto": "dosar enzimas hepáticas."
+      },
+      {
+        "letra": "C",
+        "texto": "fazer ultra-sonografia do abdômen."
+      },
+      {
+        "letra": "D",
+        "texto": "repetir endoscopia digestiva alta."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 68296,
+    "tags": [],
+    "enunciado": "Elevação da bilirrubina indireta com bilirrubina direta normal é encontrada nas seguintes condições, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "colestase gestacional."
+      },
+      {
+        "letra": "B",
+        "texto": "crigler-najjar."
+      },
+      {
+        "letra": "C",
+        "texto": "deficiência de fosfofrutoquinase."
+      },
+      {
+        "letra": "D",
+        "texto": "gilbert."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 68297,
+    "tags": [],
+    "enunciado": "Das situações abaixo, marque aquela para a qual a tomogra(cid:81)a computadorizada está melhor indicada do que a ultrassonografia para a avaliação de dor no quadrante superior direito?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Há suspeita de massa hepática."
+      },
+      {
+        "letra": "B",
+        "texto": "O diagnóstico inicial é de cálculo biliar."
+      },
+      {
+        "letra": "C",
+        "texto": "Há suspeita de dilatação de vias biliares."
+      },
+      {
+        "letra": "D",
+        "texto": "O paciente é obeso."
+      },
+      {
+        "letra": "E",
+        "texto": "Há suspeita de abscesso hepático."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 68298,
+    "tags": [],
+    "enunciado": "Qual das seguintes alternativas indica o melhor preditor de prognóstico de longo prazo em paciente com infecção pelo vírus da hepatite C?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Biópsia hepática."
+      },
+      {
+        "letra": "B",
+        "texto": "Nível de gama GT."
+      },
+      {
+        "letra": "C",
+        "texto": "Velocidade da hemossedimentação."
+      },
+      {
+        "letra": "D",
+        "texto": "Genótipo."
+      },
+      {
+        "letra": "E",
+        "texto": "PCR para HCV-RNA.  Respostas: 1 A 2 B 3 A 4 A 5 A 6 D 7 B 8 D 9 A 10 E 11 C 12 A 13 B 14 B 15 D 16 D 17 A 18 D 19 D 20 A 21 E 22 D 23 D 24 B 25 C 26 D 27 A 28 C 29 C 30 B 31 C 32 E 33 B 34 C 35 A 36 B 37 D 38 D 39 B 40 A 41 C 42 D 43 C 44 D 45 C 46 C 47 E 48 B 49 C 50 B 51 A 52 A 53 B 54 B 55 A 56 B 57 B 58 E 59 B 60 D 61 D 62 D 63 D 64 A 65 B 66 B 67 C 68 B 69 B 70 B 71 A 72 A 73 C 74 C 75 A 76 B 77 B 78 D 79 B 80 A 81 A 82 B 83 C 84 C 85 D 86 C 87 A 88 C 89 B 90 C 91 C 92 C 93 A 94 D 95 B 96 E 97 D 98 D 99 C 100 A 101 A 102 A 103 B 104 B 105 C 106 D 107 B 108 A 109 C 110 B 111 C 112 B 113 B 114 C 115 B 116 D 117 A 118 B 119 A 120 A 121 B 122 E 123 C 124 A 125 B 126 A 127 B 128 B 129 C 130 D 131 D 132 A 133 D 134 B 135 B 136 A 137 B 138 C 139 B 140 B 141 A 142 D 143 A 144 C 145 A 146 D 147 A"
+      }
+    ],
+    "resposta_correta": "A"
+  }
+]

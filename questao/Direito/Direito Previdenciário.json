@@ -1,0 +1,2994 @@
+[
+  {
+    "id": 78658,
+    "tags": [],
+    "enunciado": "A Constituição Federal garante o benefício assistencial correspondente a 01 (um) salário mínimo à pessoa com de(cid:41)ciência e à pessoa idosa que comprovem não possuir meios de prover à própria manutenção ou de tê-la provida por sua família, atendidos os critérios da lei. Com base no que dispõe a Lei Orgânica da Assistência Social – LOAS (Lei n. 8.742/93), assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O benefício de prestação continuada da assistência social não poderá ser concedido a mais de um membro da mesma família nem poderá ser recebido conjuntamente com pensão por morte."
+      },
+      {
+        "letra": "B",
+        "texto": "A condição de acolhimento em instituições de longa permanência prejudica o direito do idoso ou da pessoa com deficiência ao benefício assistencial de prestação continuada – BPC- LOAS."
+      },
+      {
+        "letra": "C",
+        "texto": "Para fins de concessão do benefício de prestação continuada previsto na LOAS, a família é composta pelo requerente, o cônjuge ou companheiro, os pais, os irmãos solteiros e os filhos, ainda que eles não vivam sob o mesmo teto."
+      },
+      {
+        "letra": "D",
+        "texto": "Caso uma pessoa com deficiência que receba BPC-LOAS passe a exercer atividade remunerada na qualidade de microempreendedor individual, o órgão concedente desse benefício deverá suspendê- lo."
+      },
+      {
+        "letra": "E",
+        "texto": "O BPC-LOAS somente poderá ser concedido a brasileiro nato ou naturalizado."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 78659,
+    "tags": [],
+    "enunciado": "No que diz respeito ao benefício assistencial conhecido como BPC-LOAS, assinale a assertiva correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "À pessoa idosa que tenha, no mínimo, sessenta e cinco anos de idade e que não possua meios de prover sua subsistência ou de a ter provida por sua família, será assegurado o benefício de prestação continuada previsto na LOAS, no valor de um salário mínimo."
+      },
+      {
+        "letra": "B",
+        "texto": "Para receber o BPC-LOAS, a família do requerente deverá comprovar renda mensal per capita inferior a um quarto do salário mínimo."
+      },
+      {
+        "letra": "C",
+        "texto": "Em caso de falecimento do beneficiário do BPC-LOAS, os dependentes terão direito à pensão por morte."
+      },
+      {
+        "letra": "D",
+        "texto": "Para fins de concessão do BPC-LOAS, considera-se pessoa com deficiência aquela que tem impedimento de médio prazo de natureza física, mental, intelectual ou sensorial, o qual, em interação com uma ou mais barreiras, pode obstruir sua participação plena e efetiva na sociedade em igualdade de condições com as demais pessoas."
+      },
+      {
+        "letra": "E",
+        "texto": "O beneficiário do BPC-LOAS tem direito de receber abono anual (gratificação natalina)."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 78660,
+    "tags": [],
+    "enunciado": "A avaliação da deficiência no caso do requerimento do BPC-LOAS, será:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Psicológica apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "Biológica apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "Social e psicológica, apenas, e realizada por equipe interdisciplinar."
+      },
+      {
+        "letra": "D",
+        "texto": "Biopsicossocial."
+      },
+      {
+        "letra": "E",
+        "texto": "Psicológica e biológica, apenas, e realizada por equipe multidisciplinar."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 78661,
+    "tags": [],
+    "enunciado": "Acerca das competências, da visão institucional e da estrutura organizacional do Instituto Nacional do Seguro Social (INSS), assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ao INSS compete, atualmente, operacionalizar o reconhecimento do direito ao seguro-desemprego do pescador artesanal."
+      },
+      {
+        "letra": "B",
+        "texto": "Ao INSS compete operacionalizar o reconhecimento do direito, a manutenção e o pagamento de benefícios e os serviços previdenciários do Regime Geral de Previdência Social – RGPS."
+      },
+      {
+        "letra": "C",
+        "texto": "O INSS é o órgão competente para arrecadar e fiscalizar o recolhimento das contribuições previdenciárias, dentre outras, a devida pelas empresas e incidente sobre a remuneração paga, devida ou creditada aos segurados e demais pessoas fisicas a seu serviço, com ou sem vínculo empregatício."
+      },
+      {
+        "letra": "D",
+        "texto": "Ao INSS compete operacionalizar o reconhecimento do direito e a manutenção das aposentadorias e das pensões do Regime Próprio de Previdência Social da União - RPPU, no âmbito das autarquias e das fundações públicas."
+      },
+      {
+        "letra": "E",
+        "texto": "Ao INSS compete operacionalizar o reconhecimento do direito e a manutenção do benefício assistencial devido à pessoa idosa e à pessoa com deficiência (BPC-LOAS) e do auxílio-inclusão."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 78662,
+    "tags": [],
+    "enunciado": "Em relação à contagem recíproca de tempo de contribuição, assinale a alternativa correta, conforme o disposto na Constituição Federal, na Lei n.º 8.213/1991 e no Decreto n. 3.048/99.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É vedada, para fins de inatividade militar, a contagem do tempo de contribuição ao RGPS ou a regime próprio de previdência social."
+      },
+      {
+        "letra": "B",
+        "texto": "Admite-se a contagem de tempo de contribuição fictício para efeito de concessão dos benefícios previdenciários e de contagem recíproca, na forma da lei."
+      },
+      {
+        "letra": "C",
+        "texto": "Na contagem recíproca de tempo de contribuição não é admitida a contagem em dobro ou em outras condições especiais."
+      },
+      {
+        "letra": "D",
+        "texto": "É possível a desaverbação de tempo de contribuição em regime próprio de previdência social quando o tempo averbado tiver gerado a concessão de vantagens remuneratórias ao servidor público em atividade."
+      },
+      {
+        "letra": "E",
+        "texto": "O servidor poderá requerer ao regime próprio de previdência social que emita certidão de tempo de contribuição do que tempo que exceder ao mínimo exigido para sua aposentadoria para que ele utilize no regime de geral de previdência social."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 78663,
+    "tags": [],
+    "enunciado": "A respeito da contagem recíproca de tempo de contribuição, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Para fins de aposentadoria, será assegurada a contagem recíproca do tempo de contribuição entre o Regime Geral de Previdência Social e os regimes próprios de previdência social, e destes entre si, observada a compensação financeira, de acordo com os critérios estabelecidos em lei."
+      },
+      {
+        "letra": "B",
+        "texto": "É possível que o servidor exerça o direito de computar tempo de contribuição do RGPS para o regime próprio de previdência, ainda que exerça a atividade concomitantemente ao exercício do cargo público efetivo."
+      },
+      {
+        "letra": "C",
+        "texto": "O segurado em gozo de auxílio-acidente, auxílio-suplementar ou abono de permanência em serviço terá o benefício encerrado na data da emissão da certidão de tempo de contribuição."
+      },
+      {
+        "letra": "D",
+        "texto": "Havendo contagem recíproca de tempo de contribuição para efeito de concessão de aposentadoria, esse benefício será concedido e pago pelo regime de previdência em que o segurado contenha o maior tempo de contribuição."
+      },
+      {
+        "letra": "E",
+        "texto": "Poderá ser contado por um regime o tempo de contribuição utilizado para concessão de aposentadoria por outro regime."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 78664,
+    "tags": [],
+    "enunciado": "O Regime Geral de Previdência Social comporta prestações, na forma de benefícios e serviços, que ora atendem apenas os segurados, ora atendem apenas os seus dependentes. Assinale uma prestação que atende a ambas as categorias de beneficiários.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Reabilitação profissional."
+      },
+      {
+        "letra": "B",
+        "texto": "Salário-maternidade."
+      },
+      {
+        "letra": "C",
+        "texto": "Auxílio por incapacidade temporária."
+      },
+      {
+        "letra": "D",
+        "texto": "Aposentadoria por incapacidade permanente."
+      },
+      {
+        "letra": "E",
+        "texto": "Auxílio-acidente."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 78665,
+    "tags": [],
+    "enunciado": "Em relação aos serviços prestados pelo Regime Geral de Previdência Social (RGPS) aos seus bene(cid:41)ciários, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Quando o treinamento do reabilitando profissional for realizado em empresa, restará estabelecido vínculo empregatício entre o reabilitando e a empresa."
+      },
+      {
+        "letra": "B",
+        "texto": "O segurado que ficar incapacitado para o trabalho, total ou parcialmente, tem direito ao serviço de reabilitação profissional prestado pelo INSS, independentemente do cumprimento de carência."
+      },
+      {
+        "letra": "C",
+        "texto": "O aposentado pelo Regime Geral de Previdência Social (RGPS) que permanecer em atividade sujeita a esse regime, ou a ela retornar, não fará jus à prestação alguma da Previdência Social em decorrência do exercício dessa atividade, exceto ao salário-família, à reabilitação profissional e ao auxílio por incapacidade temporária, quando empregado."
+      },
+      {
+        "letra": "D",
+        "texto": "A reabilitação compreende o fornecimento de aparelho de prótese, órtese e instrumentos de auxílio para locomoção quando somente a perda da capacidade funcional puder ser atenuada por seu uso e dos equipamentos necessários à habilitação e reabilitação social e profissional."
+      },
+      {
+        "letra": "E",
+        "texto": "A avaliação da elegibilidade do segurado para encaminhamento à reabilitação profissional, a reavaliação da incapacidade de segurados em programa de reabilitação profissional e a prescrição de órteses, próteses e meios auxiliares de locomoção e acessórios serão realizadas pela Perícia Médica Federal, podendo ser realizados por outras entidades por meio de acordo de cooperação técnica. A avaliação da elegibilidade do segurado para encaminhamento à reabilitação profissional, a reavaliação da incapacidade de segurados em programa de reabilitação profissional e a prescrição de órteses, próteses e meios auxiliares de locomoção e acessórios serão realizadas pela Perícia Médica Federal."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 78666,
+    "tags": [],
+    "enunciado": "A assistente social do INSS recebeu a solicitação para avaliar uma situação de miserabilidade do requerente do BPC-LOAS e de sua família. O instrumento que expressa o posicionamento pro(cid:41)ssional em relação ao objeto de estudo, sintetizando e analisando a situação, é o(a):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "parecer social;"
+      },
+      {
+        "letra": "B",
+        "texto": "informe social;"
+      },
+      {
+        "letra": "C",
+        "texto": "diagnose familiar;"
+      },
+      {
+        "letra": "D",
+        "texto": "vistoria sociojurídica;"
+      },
+      {
+        "letra": "E",
+        "texto": "manifestação técnica."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 78667,
+    "tags": [],
+    "enunciado": "A respeito do benefício assistencial do auxílio-inclusão, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O Auxílio-Inclusão constitui um benefício assistencial destinado à pessoa com deficiência leve, moderada ou grave, que tenha inscrição regular no CPF e inscrição atualizada no CadÚnico, que receba ou tenha recebido BPC-LOAS, passando a exercer alguma atividade remunerada que o qualifique como segurado obrigatório do RGPS ou filiado a RPPS, cuja remuneração não pode superar 2 salários mínimos mensais."
+      },
+      {
+        "letra": "B",
+        "texto": "O pagamento do auxílio-inclusão não será acumulado com o BPC-LOAS nem com benefícios previdenciários, podendo ser recebido cumulativamente com o seguro-desemprego."
+      },
+      {
+        "letra": "C",
+        "texto": "O Auxílio-Inclusão constitui um benefício assistencial destinado à pessoa com deficiência moderada ou grave, que tenha inscrição regular no CPF e inscrição atualizada no CadÚnico, que receba ou tenha recebido BPC-LOAS, passando a exercer alguma atividade remunerada que o qualifique como segurado obrigatório do RGPS ou filiado a RPPS, cuja remuneração não pode superar 2 salários mínimos mensais."
+      },
+      {
+        "letra": "D",
+        "texto": "O beneficiário do auxílio-inclusão poderá receber o benefício juntamente com pensão por morte."
+      },
+      {
+        "letra": "E",
+        "texto": "O auxílio-inclusão será devido a partir da data da perícia a que deve ser submetido o beneficiário."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 78668,
+    "tags": [],
+    "enunciado": "João, com 67 anos de idade, e Maria com 66 anos de idade, vivem em união estável há mais de 15 anos. Maria recebe aposentadoria por idade no valor de 01 salário mínimo e João não tem renda alguma. O casal vive sozinho e não tem filhos. Diante da situação narrada, assinale a assertiva correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "João, mesmo sendo pessoa idosa com mais de 65 anos de idade não poderá receber o benefício assistencial de 01 salário mínimo porque sua companheira já recebe aposentadoria."
+      },
+      {
+        "letra": "B",
+        "texto": "João, na condição de pessoa idosa, poderá receber o benefício assistencial de 01 salário mínimo."
+      },
+      {
+        "letra": "C",
+        "texto": "Se Maria falecer João terá direito de receber pensão por morte no valor de 50% da aposentadoria de sua companheira."
+      },
+      {
+        "letra": "D",
+        "texto": "João somente terá direito de receber o BPC-LOAS se estiver internado num abrigo."
+      },
+      {
+        "letra": "E",
+        "texto": "Se Maria voltar a trabalhar, sua aposentadoria será cessada."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 78669,
+    "tags": [],
+    "enunciado": "Acerca do financiamento da seguridade social, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A seguridade social é financiada por toda a sociedade, de forma direta e indireta, mediante recursos provenientes das contribuições sociais e dos orçamentos da União, dos estados, do Distrito Federal e dos municípios."
+      },
+      {
+        "letra": "B",
+        "texto": "O segurado aposentado pelo RGPS que passar a auferir renda na condição de trabalhador autônomo não será obrigado novamente a contribuir para o custeio da seguridade social."
+      },
+      {
+        "letra": "C",
+        "texto": "Constitui fonte de financiamento da seguridade social a arrecadação de contribuições sociais do exportador de bens ou serviços para o exterior."
+      },
+      {
+        "letra": "D",
+        "texto": "A União não poderá cobrar contribuições destinadas à seguridade social no mesmo exercício financeiro em que seja publicada a lei que as instituir ou majorar."
+      },
+      {
+        "letra": "E",
+        "texto": "O princípio da equidade na forma de participação no custeio do RGPS veda a aplicação de alíquotas diferenciadas para as contribuições das empresas."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 78670,
+    "tags": [],
+    "enunciado": "Acerca do financiamento da seguridade social e das contribuições sociais, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As receitas dos estados, do Distrito Federal e dos municípios destinadas à seguridade social devem constar dos respectivos orçamentos, integrando o orçamento da União."
+      },
+      {
+        "letra": "B",
+        "texto": "Constitui receita da seguridade social o valor de 40% sobre o resultado dos leilões dos bens apreendidos pela Secretaria da Receita Federal do Brasil."
+      },
+      {
+        "letra": "C",
+        "texto": "A seguridade social, que visa garantir direitos relativos à saúde, à previdência e à assistência social, possui como fontes de financiamento exclusivamente as contribuições sobre a folha de pagamentos e as repassadas pelo empregador, pela empresa ou por entidade a ela equiparada."
+      },
+      {
+        "letra": "D",
+        "texto": "A Constituição Federal permite a incidência de contribuição sobre aposentadoria e pensão concedidas pelo Regime Geral de Previdência Social."
+      },
+      {
+        "letra": "E",
+        "texto": "Todas as entidades beneficentes de assistência social são isentas de contribuição para a seguridade social."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 78671,
+    "tags": [],
+    "enunciado": "À exceção do segurado especial, os segurados do RGPS contribuem sobre o seu salário de contribuição. Marque a alternativa que apresenta parcela integrante do salário de contribuição.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Diárias para viagem e as ajudas de custo com valor maior do que cinquenta por cento da remuneração mensal."
+      },
+      {
+        "letra": "B",
+        "texto": "Horas extras e férias indenizadas."
+      },
+      {
+        "letra": "C",
+        "texto": "Auxílio-alimentação pago em dinheiro."
+      },
+      {
+        "letra": "D",
+        "texto": "Auxílio transporte (vale-transporte) pago em dinheiro."
+      },
+      {
+        "letra": "E",
+        "texto": "Licença-prêmio indenizada."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 78672,
+    "tags": [],
+    "enunciado": "Acerca do financiamento da seguridade social e das contribuições sociais, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Para fins de custeio da seguridade social, considera-se empresa a firma individual ou sociedade que assume o risco de atividade econômica urbana ou rural, com fins lucrativos ou não, excluídos os órgãos e entidades da administração pública direta, indireta ou fundacional."
+      },
+      {
+        "letra": "B",
+        "texto": "Para efeito de custeio do RGPS, as alíquotas aplicadas aos salários de contribuições dos segurados empregados são as mesmas alíquotas aplicadas aos salários de contribuições dos segurados empregados domésticos."
+      },
+      {
+        "letra": "C",
+        "texto": "O contribuinte individual que presta serviço à empresa deverá recolher a contribuição incidente sobre a remuneração auferida durante o mês, até o dia 15 do mês subsequente ao da competência."
+      },
+      {
+        "letra": "D",
+        "texto": "Caso o contribuinte individual e o segurado facultativo optem pelo recolhimento de 11% sobre 01 salário mínimo, deverão recolher por conta própria a contribuição até o dia 20 do mês seguinte ao da competência.)"
+      },
+      {
+        "letra": "E",
+        "texto": "O empregador doméstico é contribuinte da previdência social e deve recolher 20% sobre a remuneração paga ao empregado como contribuição patronal."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 78673,
+    "tags": [],
+    "enunciado": "Jairo, empregado da empresa MTD S.A., recebeu várias rubricas no seu contracheque. Marque dentre as opções a rubrica que sofre incidência de contribuição previdenciária.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Vale-cultura."
+      },
+      {
+        "letra": "B",
+        "texto": "Auxílio-creche."
+      },
+      {
+        "letra": "C",
+        "texto": "Ajuda de custo de viagem."
+      },
+      {
+        "letra": "D",
+        "texto": "O reembolso de despesas com medicamentos."
+      },
+      {
+        "letra": "E",
+        "texto": "Gratificação natalina (décimo terceiro salário)."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 78674,
+    "tags": [],
+    "enunciado": "Jão das Trevas é ministro de con(cid:41)ssão religiosa de uma entidade religiosa e recebe mensalmente o valor de 05 salários mínimos como verba para a sua subsistência. O valor que recebe independe da quantidade de trabalho realizado na entidade religiosa. Diante da situação hipotética apresentada, assinale a a(cid:41)rmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Jão das Trevas não é obrigado a contribuir para a previdência social, mas poderá se inscrever como segurado facultativo."
+      },
+      {
+        "letra": "B",
+        "texto": "Jão das Trevas, por ser ministro de confissão religiosa, deve contribuir para o RGPS, aplicando a alíquota de 11% sobre o valor de 01 salário mínimo."
+      },
+      {
+        "letra": "C",
+        "texto": "A entidade religiosa não é obrigada a recolher contribuição previdenciária sobre o valor repassado a Jão das Trevas."
+      },
+      {
+        "letra": "D",
+        "texto": "A contribuição previdenciária de Jão das Trevas será de 22% sobre o seu salário de contribuição."
+      },
+      {
+        "letra": "E",
+        "texto": "Jão das Trevas se enquadra como empregado da entidade religiosa e deverá ter sua contribuição retida pela empregadora, aplicando-se a alíquota de 11% sobre o seu salário de contribuição."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 78675,
+    "tags": [],
+    "enunciado": "Assinale a alternativa que preencha correta e respectivamente as lacunas. As prestações previdenciárias são divididas em benefícios e serviços. ______ e ______ são exemplos de benefícios devidos exclusivamente ao segurado e exclusivamente ao dependente, respectivamente.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "aposentadoria por incapacidade temporária/auxílio-reclusão"
+      },
+      {
+        "letra": "B",
+        "texto": "pensão por morte/auxílio por incapacidade temporária"
+      },
+      {
+        "letra": "C",
+        "texto": "salário-maternidade/salário-família"
+      },
+      {
+        "letra": "D",
+        "texto": "aposentadoria por incapacidade permanente/pensão por morte"
+      },
+      {
+        "letra": "E",
+        "texto": "auxílio-acidente/salário-família"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 78676,
+    "tags": [],
+    "enunciado": "Marcos já sofria de uma doença antes de se (cid:41)liar ao Regime Geral de Previdência Social (RGPS). Após ser contratado como empregado da Construtora Realizando Sonhos S.A. e trabalhar por 02 anos, a doença se agravou a ponto de impedi-lo de continuar trabalhando. Marcos teve que se afastar do trabalho por 30 dias para tratar da doença e requereu junto ao INSS benefício previdenciário. Diante da situação hipotética e as disposições da legislação previdenciária, marque a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O segurado em questão receberá metade do auxílio por incapacidade temporária devido à condição preexistente antes de ingressar no RGPS."
+      },
+      {
+        "letra": "B",
+        "texto": "Marcos não receberá auxílio por incapacidade temporária devido à doença preexistente ao ingresso no RGPS."
+      },
+      {
+        "letra": "C",
+        "texto": "Marcos poderá receber aposentadoria por incapacidade permanente devido ao agravamento da doença, mas não receberá auxílio por incapacidade temporária."
+      },
+      {
+        "letra": "D",
+        "texto": "Marcos receberá auxílio por incapacidade temporária em razão da incapacidade por mais de 15 dias consecutivos, decorrente do agravamento da doença preexistente à filiação ao RGPS."
+      },
+      {
+        "letra": "E",
+        "texto": "O direito ao auxílio por incapacidade temporária só existiria se houvesse progressão da doença, não agravamento, portanto, Marcos não receberá o benefício."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 78677,
+    "tags": [],
+    "enunciado": "Patrick trabalha no Rio de Janeiro como empregado de uma empresa de importação e, devido ao seu desempenho, recebeu (cid:41)nanciamento da empregadora para participar de um curso sobre os desa(cid:41)os da comunicação global na Universidade de Brasília. Com o objetivo de aprimorar ainda mais suas habilidades e garantir seu sucesso, a empresa concedeu-lhe licença das atividades laborais. Patrick viajou para a capital em seu próprio carro, mas sofreu um grave acidente de trânsito no caminho, resultando em incapacidade para frequentar as aulas na instituição de ensino. Teve que (cid:41)car afastado do trabalho por 60 dias para recuperar das lesões sofridas. Diante desse cenário, Patrick solicitou ao INSS auxílio por incapacidade temporária de natureza acidentária. Assinale a alternativa correta, observando o disposto na legislação previdenciária em vigor.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Patrick não faz jus à percepção do benefício de auxílio por incapacidade temporária acidentário, uma vez que o evento danoso em questão não configura um acidente de trabalho por estar o segurado viajando com veículo de sua propriedade."
+      },
+      {
+        "letra": "B",
+        "texto": "Patrick não faz jus à percepção do auxílio por incapacidade temporária de natureza acidentária, pois não se encontrava executando ordens ou desempenhando serviços sob a autoridade da empresa empregadora."
+      },
+      {
+        "letra": "C",
+        "texto": "Patrick tem direito de receber auxílio por incapacidade temporária, de natureza acidentária, cuja renda mensal corresponderá a 91% do salário de benefício."
+      },
+      {
+        "letra": "D",
+        "texto": "Patrick tem direito à percepção da aposentadoria por incapacidade acidentária com renda mensal corresponde a 100% do salário de benefício."
+      },
+      {
+        "letra": "E",
+        "texto": "Patrick terá direito de receber o benefício de auxílio-acidente enquanto estiver afastado do trabalho."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 78678,
+    "tags": [],
+    "enunciado": "Joaquim, após filiar-se ao Regime Geral de Previdência Social (RGPS), foi acometido de doença especi(cid:41)cada em lista elaborada pelos Ministérios da Saúde e da Previdência Social, de acordo com os critérios de mutilação. Joaquim, então, requereu à Previdência, o benefício de auxílio por incapacidade temporária. Referido benefício será concedido",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "cumprida a carência de 10 contribuições mensais."
+      },
+      {
+        "letra": "B",
+        "texto": "cumprida a carência de 12 contribuições mensais."
+      },
+      {
+        "letra": "C",
+        "texto": "cumprida a carência de 24 contribuições mensais."
+      },
+      {
+        "letra": "D",
+        "texto": "cumprida a carência de 180 contribuições mensais."
+      },
+      {
+        "letra": "E",
+        "texto": "independente de carência."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 78679,
+    "tags": [],
+    "enunciado": "De acordo com a legislação em vigor, o auxílio por incapacidade temporária, inclusive o decorrente de acidente do trabalho, consistirá em uma renda mensal correspondente a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "91% (noventa e um por cento) da última remuneração auferida."
+      },
+      {
+        "letra": "B",
+        "texto": "91% (noventa e um por cento) do salário de benefício."
+      },
+      {
+        "letra": "C",
+        "texto": "50% (cinquenta por cento) do salário de benefício."
+      },
+      {
+        "letra": "D",
+        "texto": "91% (noventa e um por cento) do salário de contribuição."
+      },
+      {
+        "letra": "E",
+        "texto": "50% (cinquenta por cento) do salário-base."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 78680,
+    "tags": [],
+    "enunciado": "Em 2023, Maria Eduarda se aposentou pelo Regime Geral de Previdência Social (RGPS). No ano seguinte, ela sofreu um acidente vascular cerebral que a deixou em estado vegetativo, demandando cuidados permanentes de terceiros. Diante do caso hipotético narrado acima, assinale a opção correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Maria Eduarda tem direito ao acréscimo de 25% sobre o valor de sua aposentadoria, conforme previsto na Lei n.º 8.213/1991, independentemente da espécie de sua aposentadoria."
+      },
+      {
+        "letra": "B",
+        "texto": "Maria Eduarda não tem direito ao acréscimo de 25% sobre o valor de sua aposentadoria, conforme previsto na Lei n.º 8.213/1991, porque sua concessão restringe-se aos segurados que estejam em atividade quando da ocorrência de grande invalidez."
+      },
+      {
+        "letra": "C",
+        "texto": "Caso lhe seja concedido o acréscimo de 25% sobre o valor de sua aposentadoria, conforme previsto na Lei n.º 8.213/1991, Maria Eduarda terá seu benefício reajustado, mesmo que já tenha atingido o limite legal."
+      },
+      {
+        "letra": "D",
+        "texto": "Maria Eduarda não terá direito ao acréscimo de 25% sobre o valor de sua aposentadoria caso tenha-se aposentado por incapacidade permanente."
+      },
+      {
+        "letra": "E",
+        "texto": "Caso seja concedido a Maria Eduarda o acréscimo de 25% sobre o valor de sua aposentadoria, conforme previsto na Lei n.º 8.213/1991, o valor correspondente será incorporado ao seu benefício e não será reajustado em caso de aumento, por consistir em parcela indenizatória."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 78681,
+    "tags": [],
+    "enunciado": "Sobre o procedimento para a concessão da aposentadoria por incapacidade permanente de acordo com o Regime Geral de Previdência Social, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Depende apenas da análise documental do histórico médico do segurado."
+      },
+      {
+        "letra": "B",
+        "texto": "É concedida automaticamente se o segurado estiver em gozo de auxílio por incapacidade temporária."
+      },
+      {
+        "letra": "C",
+        "texto": "É devida ao segurado que, estando ou não em gozo de auxílio por incapacidade temporária, for considerado incapaz e insuscetível de reabilitação para o exercício de atividade que lhe garanta a subsistência."
+      },
+      {
+        "letra": "D",
+        "texto": "Depende exclusivamente da avaliação do médico de confiança do segurado."
+      },
+      {
+        "letra": "E",
+        "texto": "É concedida apenas para doenças ou lesões adquiridas após a filiação ao Regime Geral de Previdência Social."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 78682,
+    "tags": [],
+    "enunciado": "João das Couves sofreu acidente automobilístico no (cid:41)nal de semana quando voltava de uma festa de família. O mencionado segurado recebeu auxílio por incapacidade temporária por 1 ano por ter (cid:41)cado incapacitado para o seu trabalho habitual. Posteriormente, o seu auxílio por incapacidade temporária foi convertido em aposentadoria por incapacidade permanente, a qual teve duração de quatro anos e meio. Após este período o INSS a cancelou. Sobre a alta da aposentadoria por incapacidade permanente, caso",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "das Couves retorne ao mercado de trabalho na antiga empresa, percebendo o mesmo salário, não poderá ser demitido, tendo em vista a sua estabilidade no emprego pelo acidente ocorrido."
+      },
+      {
+        "letra": "B",
+        "texto": "João das Couves não retorne ao seu antigo emprego, a aposentadoria por incapacidade permanente cessará após tantos meses quantos forem os anos de duração do auxílio por incapacidade temporária ou da aposentadoria por incapacidade permanente."
+      },
+      {
+        "letra": "C",
+        "texto": "João das Couves retorne ao seu antigo emprego, a sua aposentadoria por incapacidade permanente será mantida de forma escalonada pelo período de um ano e meio. Isso ocorrerá como uma forma de indenização pelo período que esteve afastado."
+      },
+      {
+        "letra": "D",
+        "texto": "a perícia determine que João das Couves esteja apto ao exercício de atividade diversa da que exercia, a sua aposentadoria por incapacidade permanente cessará após quantos forem os anos de duração do auxílio por incapacidade temporária ou da aposentadoria por incapacidade permanente."
+      },
+      {
+        "letra": "E",
+        "texto": "João das Couves não retorne ao seu antigo emprego, a sua aposentadoria por incapacidade permanente será mantida de forma escalonada pelo período de um ano e meio. Isso ocorrerá mesmo que encontre um novo emprego."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 78683,
+    "tags": [],
+    "enunciado": "De acordo com a Lei nº 8.213/1991, o valor da aposentadoria por incapacidade permanente do segurado que necessitar da assistência permanente de outra pessoa será acrescido de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "30%, acréscimo este que cessará com a morte do aposentado, não sendo incorporável ao valor da pensão."
+      },
+      {
+        "letra": "B",
+        "texto": "25%, acréscimo este que não cessará com a morte do aposentado, sendo incorporável ao valor da pensão."
+      },
+      {
+        "letra": "C",
+        "texto": "30%, ainda que o valor da aposentadoria atinja o limite máximo legal."
+      },
+      {
+        "letra": "D",
+        "texto": "25%, ainda que o valor da aposentadoria atinja o limite máximo legal."
+      },
+      {
+        "letra": "E",
+        "texto": "45%, acréscimo este que não cessará com a morte do aposentado, sendo incorporável ao valor da pensão."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 78684,
+    "tags": [],
+    "enunciado": "Assinale a afirmativa correta quanto ao benefício de auxílio-acidente.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O auxílio-acidente é concedido somente em casos de acidentes de trabalho."
+      },
+      {
+        "letra": "B",
+        "texto": "Após a concessão do auxílio-acidente, o segurado não poderá mais trabalhar."
+      },
+      {
+        "letra": "C",
+        "texto": "O recebimento de outros benefícios, exceto a aposentadoria, não interfere na continuidade do recebimento do auxílio-acidente."
+      },
+      {
+        "letra": "D",
+        "texto": "O auxílio-acidente é concedido apenas se as sequelas resultarem em incapacidade total para o trabalho."
+      },
+      {
+        "letra": "E",
+        "texto": "O valor do auxílio-acidente corresponde a 91% do salário de benefício."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 78685,
+    "tags": [],
+    "enunciado": "O benefício de auxílio-acidente não pode ser recebido conjuntamente com:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "seguro-desemprego"
+      },
+      {
+        "letra": "B",
+        "texto": "salário-maternidade"
+      },
+      {
+        "letra": "C",
+        "texto": "salário-família"
+      },
+      {
+        "letra": "D",
+        "texto": "aposentadoria"
+      },
+      {
+        "letra": "E",
+        "texto": "pensão por morte"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 78686,
+    "tags": [],
+    "enunciado": "O auxílio-acidente é devido:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a todas as categorias de segurados."
+      },
+      {
+        "letra": "B",
+        "texto": "ao empregado, exceto o doméstico, ao trabalhador avulso e ao segurado especial."
+      },
+      {
+        "letra": "C",
+        "texto": "ao empregado, incluído o doméstico, ao trabalhador avulso e ao segurado especial."
+      },
+      {
+        "letra": "D",
+        "texto": "ao empregado, exceto o doméstico, ao trabalhador avulso e ao segurado facultativo."
+      },
+      {
+        "letra": "E",
+        "texto": "ao empregdo, incluído o doméstico, ao trabalhador avulso e ao contribuinte individual."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 78687,
+    "tags": [],
+    "enunciado": "A Constituição brasileira veda a adoção de requisitos e critérios diferenciados para a concessão de aposentadoria. No entanto, permite que, por meio de lei complementar, sejam adotados idade e tempo de contribuição diferenciados para a aposentadoria dos segurados com de(cid:41)ciência. No que diz respeito ao segurado com deficiência, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "poderá se aposentar aos 62 anos de idade, se homem e, aos 55 anos de idade, se mulher."
+      },
+      {
+        "letra": "B",
+        "texto": "poderá se aposentar por tempo de contribuição aos 30 anos de contribuição, se homem e, aos 25 anos de contribuição, se mulher."
+      },
+      {
+        "letra": "C",
+        "texto": "poderá se aposentar por tempo de contribuição aos 33 anos de contribuição, se homem e, aos 28 anos de contribuição, se mulher, quando se tratar de deficiência de grau moderado."
+      },
+      {
+        "letra": "D",
+        "texto": "poderá se aposentar por tempo de contribuição aos 25 anos de contribuição, se homem e, aos 20 anos de contribuição, se mulher, quando se tratar de deficiência de grau grave."
+      },
+      {
+        "letra": "E",
+        "texto": "poderá se aposentar por tempo de contribuição aos 30 anos de contribuição, se homem e, aos 25 anos de contribuição, se mulher."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 78688,
+    "tags": [],
+    "enunciado": "Em relação à aposentadoria por idade do segurado com deficiência, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a renda mensal inicial corresponde a 70% do salário de benefício, acrescido de 1% por grupo de 12 contribuições, até o máximo de trinta por cento."
+      },
+      {
+        "letra": "B",
+        "texto": "a renda mensal inicial corresponde a 80% do salário de benefício, acrescido de 1% por grupo de 12 contribuições, até o máximo de trinta por cento."
+      },
+      {
+        "letra": "C",
+        "texto": "a renda mensal inicial corresponde a 100% do salário de benefício."
+      },
+      {
+        "letra": "D",
+        "texto": "a renda mensal inicial corresponde a 70% do salário de benefício, acrescido de 2% por ano de contribuição que exceder 20 anos de contribuição, se homem e, 15 anos de contribuição, se mulher."
+      },
+      {
+        "letra": "E",
+        "texto": "a renda mensal inicial corresponde a 80% do salário de benefício, acrescido de 1% por grupo de 12 contribuições, até o máximo de trinta por cento."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 78689,
+    "tags": [],
+    "enunciado": "João Tomate é empregado em uma fazenda que cultiva soja há 10 anos. Se quiser se aposentar terá que cumprir",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "65 anos de idade e, no mínimo, 180 contribuições."
+      },
+      {
+        "letra": "B",
+        "texto": "60 anos de idade e, no mínimo, 180 contribuições."
+      },
+      {
+        "letra": "C",
+        "texto": "62 anos de idade e, no mínimo, 180 contribuições."
+      },
+      {
+        "letra": "D",
+        "texto": "55 anos de idade e, no mínimo, 120 contribuições."
+      },
+      {
+        "letra": "E",
+        "texto": "65 anos de idade, com no mínimo 20 anos de atividade rural comprovada."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 78690,
+    "tags": [],
+    "enunciado": "Nos termos da legislação previdenciária, é correto afirmar sobre o salário-família",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O salário-família é um subsídio concedido pelo governo aos empregadores para ajudar no pagamento dos salários dos funcionários."
+      },
+      {
+        "letra": "B",
+        "texto": "O salário-família é devido na proporção do número de filhos menores até dezesseis anos de idade."
+      },
+      {
+        "letra": "C",
+        "texto": "Quando o pagamento do salário do empregado não for mensal, o salário-família será pago juntamente com o primeiro pagamento relativo ao mês."
+      },
+      {
+        "letra": "D",
+        "texto": "O salário-família exige o cumprimento de carência mínima de 12 contribuições mensais."
+      },
+      {
+        "letra": "E",
+        "texto": "O salário-família é devido na proporção do número de filhos menores de até quatorze anos de idade."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 78691,
+    "tags": [],
+    "enunciado": "João e Maria são casados e trabalham na mesma empresa, sendo que ele exerce a função de porteiro, auferindo 1 salário mínimo mensal, e ela é gerente de departamento, ganhando 5 salários mínimos por mês. O casal possui 4 (cid:41)lhos, sendo 3 biológicos e 1 adotivo, com idades respectivas de 5, 13, 16 e 17 anos, todos saudáveis.” Diante da situação apresentada e da legislação previdenciária em vigor, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente João receberá cotas de salário-família em relação aos 2 filhos mais jovens do casal, menores de 14 anos."
+      },
+      {
+        "letra": "B",
+        "texto": "João e Maria receberão as cotas de salário-família, mas apenas relativamente aos filhos biológicos."
+      },
+      {
+        "letra": "C",
+        "texto": "Diante da renda do casal, que não é considerado de baixa renda, não há direito ao recebimento de cotas do salário-família."
+      },
+      {
+        "letra": "D",
+        "texto": "Uma vez que ambos trabalham na mesma empresa, somente 1 deles receberá o salário-família dos filhos menores de 12 anos."
+      },
+      {
+        "letra": "E",
+        "texto": "O aposentado por incapacidade permanente não terá direito ao salário-família, uma vez que já recebe a respectiva aposentadoria."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 78692,
+    "tags": [],
+    "enunciado": "Zilar adotou uma criança de seis anos, cuja mãe biológica já tinha recebido o salário-maternidade. Neste contexto, Zilar",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não tem direito ao salário-maternidade."
+      },
+      {
+        "letra": "B",
+        "texto": "tem direito ao salário-maternidade por 120 (cento e vinte) dias a contar da data da adoção."
+      },
+      {
+        "letra": "C",
+        "texto": "tem direito ao salário-maternidade por 60 (sessenta) dias a contar da data da adoção."
+      },
+      {
+        "letra": "D",
+        "texto": "tem direito ao salário-maternidade por 90 (noventa) dias a contar da data da adoção."
+      },
+      {
+        "letra": "E",
+        "texto": "tem direito ao salário-maternidade por 30 (trinta) dias a contar da data da adoção."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 78693,
+    "tags": [],
+    "enunciado": "Maria, empregada doméstica, deu à luz uma menina. No mês em que sua (cid:41)lho nasceu, foram contabilizadas apenas 03 contribuições mensais feitas ao Regime Geral de Previdência Social. Em relação ao salário- maternidade solicitado por Maria, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ela tem direito, pois a concessão desse benefício para as empregadas domésticas independe de carência."
+      },
+      {
+        "letra": "B",
+        "texto": "Ela terá direito, desde que contribua por mais três meses para o Regime Geral de Previdência Social."
+      },
+      {
+        "letra": "C",
+        "texto": "Ela não tem direito, já que não cumpriu o período de carência para a concessão do benefício."
+      },
+      {
+        "letra": "D",
+        "texto": "Ela não tem direito, pois as empregadas domésticas não podem gozar desse benefício."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 78694,
+    "tags": [],
+    "enunciado": "Mateus, aposentado pelo Regime Geral de Previdência Social (RGPS), é casado com Diana há 30 anos e reside em Tinguá/MG com sua esposa e dois (cid:41)lhos: Miguel, com 20 anos de idade, e Fred, com 25 anos, que está cursando ensino superior. Infelizmente, Mateus foi vítima de um disparo de arma de fogo e veio a falecer em seguida. Superado o período de luto, a família solicitou a pensão por morte. Assinale a opção que indica o percentual devido a título de pensão por morte e quem será o beneficiário:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "100% da aposentadoria, dividido em partes iguais entre a viúva e os 2 filhos."
+      },
+      {
+        "letra": "B",
+        "texto": "50% da aposentadoria, dividido entre a viúva e o filho de 25 anos de idade."
+      },
+      {
+        "letra": "C",
+        "texto": "60% da aposentadoria, com rateio igual entre os filhos do falecido."
+      },
+      {
+        "letra": "D",
+        "texto": "100% da aposentadoria, dividido em partes iguais entre a viúva e o filho com 20 anos de idade."
+      },
+      {
+        "letra": "E",
+        "texto": "70% da aposentadoria, rateados entre Diana e o filho com 20 anos de idade."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 78695,
+    "tags": [],
+    "enunciado": "Nos termos da legislação federal que regula a concessão de benefícios previdenciários, a pensão em decorrência de falecimento do segurado será deferida desde o óbito, quando requerida da data do falecimento até:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "180 dias para os filhos menores de 16 anos de idade."
+      },
+      {
+        "letra": "B",
+        "texto": "90 dias para todos os dependentes."
+      },
+      {
+        "letra": "C",
+        "texto": "50 dias para os filhos menores de 21 anos de idade."
+      },
+      {
+        "letra": "D",
+        "texto": "60 dias para todos os dependentes."
+      },
+      {
+        "letra": "E",
+        "texto": "30 dias para todos os dependentes."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 78696,
+    "tags": [],
+    "enunciado": "Identi(cid:41)que a assertiva correta acerca do benefício de pensão por morte, considerando o disposto na legislação previdenciária.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O benefício é concedido aos dependentes do segurado, independentemente de o segurado estar em atividade ou aposentado na data do óbito, e a duração do benefício para o cônjuge depende exclusivamente da idade do dependente no momento do falecimento do segurado."
+      },
+      {
+        "letra": "B",
+        "texto": "A pensão por morte é concedida apenas se o segurado tiver cumprido o período mínimo de 180 contribuições mensais, e a duração do benefício para o cônjuge é vitalícia, independentemente da idade do cônjuge na data do óbito."
+      },
+      {
+        "letra": "C",
+        "texto": "O benefício é concedido exclusivamente aos filhos menores de 21 anos, sendo extinto automaticamente ao atingirem essa idade, sem exceções."
+      },
+      {
+        "letra": "D",
+        "texto": "A pensão por morte não exige carência, mas a duração do benefício para o cônjuge varia conforme a existência de filhos menores de idade, sendo vitalícia apenas se houver filhos menores de 14 anos de idade."
+      },
+      {
+        "letra": "E",
+        "texto": "O benefício é concedido aos dependentes do segurado e a duração para o cônjuge pode variar conforme a idade, sendo vitalícia como quando o segurado, na data do óbito, tiver 18 contribuições e, pelo menos, 02 anos de casamento e o cônjuge, 45 anos ou mais de idade."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 78697,
+    "tags": [],
+    "enunciado": "Com base no disposto na legislação previdenciária, assinale a assertiva correta no que diz respeito à pensão por morte.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Será possível a suspensão provisória da pensão por morte quando houver fundados indícios de autoria, coautoria ou participação de dependente, exceto os absolutamente incapazes e os inimputáveis, em homicídio, ou em tentativa desse crime, cometido contra a pessoa do segurado, mediante processo administrativo, assegurado o direito à ampla defesa e ao contraditório."
+      },
+      {
+        "letra": "B",
+        "texto": "São dependentes do segurado do RGPS o cônjuge e o filho menor de 24 anos, caso esteja cursando ensino superior."
+      },
+      {
+        "letra": "C",
+        "texto": "Perde o direito à pensão por morte o condenado criminalmente por sentença com trânsito em julgado, como autor, coautor ou partícipe de homicídio culposo, ou de tentativa desse crime, cometido contra a pessoa do segurado, ressalvados os absolutamente incapazes e os inimputáveis."
+      },
+      {
+        "letra": "D",
+        "texto": "Se um segurado da previdência social falecer e deixar como dependentes seus pais e sua companheira, o benefício de pensão por sua morte deverá ser partilhado entre esses três dependentes, na proporção de um terço para cada um."
+      },
+      {
+        "letra": "E",
+        "texto": "O pensionista inválido fica obrigado, sob pena de suspensão do benefício, a submeter-se a exame médico a cargo da Perícia Médica Federal, processo de reabilitação profissional a cargo do INSS e tratamento dispensado gratuitamente, incluídos o cirúrgico e a transfusão de sangue, que são facultativos."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 78698,
+    "tags": [],
+    "enunciado": "Marta, 54 anos, perdeu o seu marido, Moretti, em um acidente de trabalho. Casada por mais de 30 anos, sabe que tem direito à pensão por morte. Diante da situação apresentada pode-se a(cid:41)rmar que a pensão por morte",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "terá duração máxima de 20 anos."
+      },
+      {
+        "letra": "B",
+        "texto": "terá duração máxima de 4 anos."
+      },
+      {
+        "letra": "C",
+        "texto": "terá duração máxima de 10 anos."
+      },
+      {
+        "letra": "D",
+        "texto": "será vitalícia."
+      },
+      {
+        "letra": "E",
+        "texto": "terá duração máxima de 15 anos."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 78699,
+    "tags": [],
+    "enunciado": "João, segurado aposentado da Previdência Social, faleceu há 40 dias. Exatamente no 36º dia após o seu óbito, Carlos, seu (cid:41)lho de 18 anos, requereu o benefício previdenciário da pensão por morte. Maria, segurada da Previdência Social, ainda não aposentada, faleceu há 04 meses (120 dias). Exatamente no 100º dia após o seu falecimento, Angélica, sua companheira, requereu o benefício previdenciário da pensão por morte. Considerando o disposto na Lei nº 8.213/1991, o benefício previdenciário da pensão por morte será devido",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "para Carlos e Angélica, a contar da data do óbito e da data do requerimento, respectivamente."
+      },
+      {
+        "letra": "B",
+        "texto": "para Carlos e Angélica, a contar da data do óbito."
+      },
+      {
+        "letra": "C",
+        "texto": "para Carlos e Angélica, a contar da data do requerimento e da data do óbito, respectivamente."
+      },
+      {
+        "letra": "D",
+        "texto": "para Carlos e Angélica, a contar da data do requerimento."
+      },
+      {
+        "letra": "E",
+        "texto": "apenas Carlos, a contar da data do requerimento."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 78700,
+    "tags": [],
+    "enunciado": "Em relação às categorias de benefícios e prestações previdenciárias, especi(cid:41)camente o auxílio-reclusão, identifique a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O auxílio-reclusão exige carência mínima de 06 contribuições para o RGPS."
+      },
+      {
+        "letra": "B",
+        "texto": "O auxílio-reclusão é concedido ao segurado de renda limitada que, estando em encarceramento em regime fechado, tenha completado o período de carência estipulado por lei."
+      },
+      {
+        "letra": "C",
+        "texto": "O auxílio-reclusão será devido aos dependentes do segurado de baixa renda recolhido à prisão em regime fechado, aposentado por incapacidade permanente."
+      },
+      {
+        "letra": "D",
+        "texto": "O auxílio-reclusão será devido somente durante o período em que o segurado estiver recolhido à prisão sob regime fechado."
+      },
+      {
+        "letra": "E",
+        "texto": "O auxílio-reclusão pago aos dependentes do segurado cessa quando o recluso passa a exercer atividade remunerada."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 78701,
+    "tags": [],
+    "enunciado": "Marcelo está preso em regime fechado pela prática de crime de homicídio quali(cid:41)cado. Sua esposa, Vilma, está preocupada com as despesas de sua família. Assim, resolve obter informações a respeito do auxílio- reclusão, previsto na legislação previdenciária, veri(cid:41)cando que esse benefício será devido aos dependentes do segurado recolhido à prisão em regime fechado, respeitados os requisitos legais,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "limitado a 50% do salário de benefício do segurado recluso."
+      },
+      {
+        "letra": "B",
+        "texto": "nas mesmas condições da aposentadoria por incapacidade permanente."
+      },
+      {
+        "letra": "C",
+        "texto": "nas mesmas condições da aposentadoria programada."
+      },
+      {
+        "letra": "D",
+        "texto": "no valor de 01 salário mínimo."
+      },
+      {
+        "letra": "E",
+        "texto": "limitado a 30% do salário de benefício do segurado recluso."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 78702,
+    "tags": [],
+    "enunciado": "João, (cid:41)liado ao Regime Geral de Previdência Social, recebeu durante o ano aposentadoria por idade na condição de segurado com deficiência. Dessa forma, a ele o abono anual",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "é devido, calculado, no que couber, da mesma forma que o Descanso Semanal Remunerado dos trabalhadores, tendo por base o valor médio da renda mensal do benefício do mês de dezembro do referido ano."
+      },
+      {
+        "letra": "B",
+        "texto": "não é devido, pois o mesmo cabe apenas a quem recebeu, durante o ano, auxílio-doença e aposentadoria."
+      },
+      {
+        "letra": "C",
+        "texto": "é devido, calculado, no que couber, da mesma forma que o Descanso Semanal Remunerado dos trabalhadores, tendo por base o valor da hora mensal trabalhada."
+      },
+      {
+        "letra": "D",
+        "texto": "não é devido, pois o mesmo cabe apenas a quem recebeu, durante o ano, aposentadoria."
+      },
+      {
+        "letra": "E",
+        "texto": "é devido, calculado, no que couber, da mesma forma que a Gratificação de Natal dos trabalhadores, tendo por base o valor da renda mensal do benefício do mês de dezembro do referido ano."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 78703,
+    "tags": [],
+    "enunciado": "De acordo com a legislação previdenciária brasileira, marque a alternativa que descreve corretamente uma situação de acumulação de benefícios previdenciários.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Duas pensões por morte deixadas por cônjuges distintos, filiados ao RGPS."
+      },
+      {
+        "letra": "B",
+        "texto": "Aposentadoria e auxílio por incapacidade temporária."
+      },
+      {
+        "letra": "C",
+        "texto": "Aposentadoria e pensão por morte."
+      },
+      {
+        "letra": "D",
+        "texto": "Duas aposentadorias pagas pelo Regime Geral de Previdência Social (RGPS)."
+      },
+      {
+        "letra": "E",
+        "texto": "Auxílio por incapacidade temporária e salário-maternidade."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 78704,
+    "tags": [],
+    "enunciado": "Conforme previsão contida no Regime Geral da Previdência Social é permitido o recebimento conjunto dos seguintes benefícios da Previdência Social:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "aposentadoria e auxílio por incapacidade temporária."
+      },
+      {
+        "letra": "B",
+        "texto": "seguro-desemprego e pensão por morte."
+      },
+      {
+        "letra": "C",
+        "texto": "salário-maternidade e auxílio por incapacidade temporária."
+      },
+      {
+        "letra": "D",
+        "texto": "auxílio-acidente e aposentadoria."
+      },
+      {
+        "letra": "E",
+        "texto": "aposentadoria especial e aposentadoria por incapacidade permanente."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 78705,
+    "tags": [],
+    "enunciado": "Exceto nos casos de direitos já adquiridos, não se permite a acumulação dos benefícios seguintes da Previdência Social (marque a opção incorreta):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aposentadoria e auxílio por incapacidade temporária."
+      },
+      {
+        "letra": "B",
+        "texto": "Mais de uma aposentadoria à conta do RGPS."
+      },
+      {
+        "letra": "C",
+        "texto": "Pensão por morte ou auxílio-acidente com o seguro-desemprego."
+      },
+      {
+        "letra": "D",
+        "texto": "Aposentadoria e abono de permanência."
+      },
+      {
+        "letra": "E",
+        "texto": "Salário-maternidade e auxílio por incapacidade temporária."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 78706,
+    "tags": [],
+    "enunciado": "Considerando a legislação previdenciária e a orientação dos tribunais superiores a ela relacionada, assinale o caso hipotético correto.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Marcelo tem 17 anos de idade e é filho único de Selma e Antônio, divorciados e ambos segurados da previdência social na qualidade de empregados. Nessa situação, caso o pai e a mãe venham a falecer, Marcelo não terá direito a duas pensões, apesar de seus pais não morarem juntos."
+      },
+      {
+        "letra": "B",
+        "texto": "Não tendo o segurado direito adquirido, é vedado o recebimento conjunto do seguro-desemprego e auxílio-acidente."
+      },
+      {
+        "letra": "C",
+        "texto": "Célia é aposentada pelo regime geral de previdência social e retornou à atividade na qualidade de empregada, razão pela qual passou a sujeitar-se novamente às contribuições previdenciárias. Nessa situação, apesar de voltar a contribuir, Célia não terá direito a nova aposentadoria, mas terá direito ao salário-maternidade."
+      },
+      {
+        "letra": "D",
+        "texto": "Um casal segurado do RGPS poderá receber salário-maternidade no caso de adoção de criança. Cada um receberá o benefício por 120 dias."
+      },
+      {
+        "letra": "E",
+        "texto": "Maria é pensionista de seu marido, segurado do RGPS. Casou-se novamente com Carlos, mas 01 ano após o enlace, ficou viúva. Carlos era aposentado pelo RGPS. Nesse caso, Maria poderá receber pensão por morte instituída pelos dois cônjuges."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 78707,
+    "tags": [],
+    "enunciado": "Assinale a opção correta, entre as assertivas abaixo, relativas ao acidente de trabalho previsto na Lei nº 8.213/91.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Equiparam-se ao acidente do trabalho a doença proveniente de contaminação acidental do empregado no exercício de sua atividade."
+      },
+      {
+        "letra": "B",
+        "texto": "A empresa deverá comunicar o acidente do trabalho à Previdência Social até o 5º (quinto) dia útil seguinte ao da ocorrência, haja ou não morte."
+      },
+      {
+        "letra": "C",
+        "texto": "O acidente de trabalho deve ser pago pelo INSS em caso de doença degenerativa."
+      },
+      {
+        "letra": "D",
+        "texto": "Os sindicatos de classe não poderão acompanhar a cobrança, pela Previdência Social, de multas oriundas de desrespeito às normas acidentárias."
+      },
+      {
+        "letra": "E",
+        "texto": "A empresa não é responsável pela adoção e uso de medidas coletivas e individuais de proteção e segurança da saúde do trabalhador."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 78708,
+    "tags": [],
+    "enunciado": "Lineu é funcionário de um supermercado no Município de Pirangi. Enquanto se deslocava de sua residência para o local de trabalho, com seu veículo, Lineu envolveu-se em um acidente de carro. Como resultado do acidente, Lineu (cid:41)cou incapacitado para o trabalho por três meses. Diante dessa situação, à luz da legislação vigente, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "se trata de acidente de trabalho, uma vez que ocorreu durante o trajeto entre a casa e o trabalho do empregado."
+      },
+      {
+        "letra": "B",
+        "texto": "não se pode falar em acidente de trabalho, visto que o empregado, ainda que no trajeto casa- trabalho, dirigia seu próprio veículo."
+      },
+      {
+        "letra": "C",
+        "texto": "para que possa caracterizar acidente de trabalho, a incapacidade do empregado deve ser por mais de 06 meses, por expressa previsão legal."
+      },
+      {
+        "letra": "D",
+        "texto": "caso Lineu viesse a óbito em razão do acidente sofrido, a empresa teria que comunicar ao INSS até o 5º dia útil seguinte à morte do segurado."
+      },
+      {
+        "letra": "E",
+        "texto": "a perícia médica federal não poderá caracterizar a natureza acidentária da incapacidade de Lineu se não tiver havido a comunicação do acidente de trabalho pela empresa."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 78709,
+    "tags": [],
+    "enunciado": "De acordo com o que dispõe a Lei n. 8.213/91 sobre a caracterização dos acidentes e doenças do trabalho, assinale a assertiva correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não se equipara a acidente de trabalho aquele sofrido pelo segurado, no horário e local de trabalho, decorrente de caso fortuito ou de força maior."
+      },
+      {
+        "letra": "B",
+        "texto": "A doença endêmica não pode ser considerada doença do trabalho, salvo se se tornar pandêmica e, nesse caso, não se exige a comprovação de que é resultante de exposição ou contato direto determinado pela natureza do trabalho."
+      },
+      {
+        "letra": "C",
+        "texto": "A doença endêmica adquirida por trabalhador segurado habitante de região em que ela se desenvolva é considerada doença do trabalho se restar comprovado de que é resultante de exposição ou contato direto determinado pela natureza do trabalho."
+      },
+      {
+        "letra": "D",
+        "texto": "Não se equipara a acidente de trabalho a doença proveniente de contaminação acidental do empregado no exercício de sua atividade."
+      },
+      {
+        "letra": "E",
+        "texto": "Na falta da comunicação do acidente de trabalho por parte da empresa, somente podem formalizá- la a entidade sindical competente, o médico que o assistiu ou qualquer autoridade pública."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 78710,
+    "tags": [],
+    "enunciado": "Juca da Silva, empregado doméstico da família Souza, sofreu acidente durante um jogo de futebol, no (cid:41)nal de semana da sua folga. Em razão das lesões sofridas no acidente, teve que se afastar do trabalho por 03 meses. Nesta hipótese, o caso vertente",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "caracteriza-se como acidente de trabalho, apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "pode ser caracterizado tanto como acidente de trabalho como de doença profissional."
+      },
+      {
+        "letra": "C",
+        "texto": "caracteriza-se como doença profissional, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "não pode ser caracterizado como acidente de trabalho."
+      },
+      {
+        "letra": "E",
+        "texto": "depende de autorização do empregador doméstico para que a autarquia previdenciária o enquadre como acidente de trabalho."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 78711,
+    "tags": [],
+    "enunciado": "A empresa ou o empregador doméstico têm a obrigação legal de emitir a comunicação de acidente de trabalho – CAT. A respeito dessa obrigação é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "surge a partir do primeiro dia útil seguinte ao acidente do trabalho do qual resultar a morte do empregado;"
+      },
+      {
+        "letra": "B",
+        "texto": "surge a partir da suspeita da ocorrência de doença do trabalho ou de doença profissional;"
+      },
+      {
+        "letra": "C",
+        "texto": "surge a partir da data do afastamento do empregado de suas atividades laborais, quando o acidente de trabalho não resultar na morte do empregado, não havendo necessidade de emissão de CAT se não houver afastamento do trabalho;"
+      },
+      {
+        "letra": "D",
+        "texto": "surge a partir da data do reconhecimento do Nexo Técnico Epidemiológico Previdenciário (NTEP) pela perícia médica federal;"
+      },
+      {
+        "letra": "E",
+        "texto": "surge a partir do 15° dia da manifestação da incapacidade para o trabalho."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 78712,
+    "tags": [],
+    "enunciado": "De acordo com as normas de regência sobre acidente de trabalho, assinale a assertiva correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não são consideradas como doenças do trabalho a doença degenerativa; a doença inerente a grupo etário; a doença mental; a doença que não produza incapacidade laborativa; a doença endêmica adquirida por segurado habitante de região em que ela se desenvolva, salvo nas exceções previstas em lei em relação a esta."
+      },
+      {
+        "letra": "B",
+        "texto": "Doença profissional é a doença ocupacional adquirida ou desencadeada em função de condições especiais em que o trabalho é realizado e que com ele se relaciona diretamente."
+      },
+      {
+        "letra": "C",
+        "texto": "Constitui contravenção penal, punível com multa, deixar a empresa de cumprir as normas de segurança e higiene do trabalho."
+      },
+      {
+        "letra": "D",
+        "texto": "A lesão que, resultante de acidente de outra origem, se associe ou se superponha às consequências do anterior, será considerada agravação ou complicação de acidente do trabalho"
+      },
+      {
+        "letra": "E",
+        "texto": "O segurado que sofreu acidente de trabalho tem garantida, pelo prazo máximo de doze meses, a manutenção do seu contrato de trabalho, após a cessação do auxílio por incapacidade temporária acidentário, independentemente de percepção de auxílio-acidente"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 78713,
+    "tags": [],
+    "enunciado": "Nos termos do que dispõe o art. 21-A da Lei n° 8.213/91, a perícia médica federal (antes, do INSS) considerará caracterizada a natureza acidentária da incapacidade quando constatar ocorrência de nexo técnico epidemiológico entre o trabalho e o agravo, decorrente da relação entre a atividade da empresa e a entidade mórbida motivadora da incapacidade elencada na Classi(cid:41)cação Internacional de Doenças – CID. A empresa poderá interpor recurso administrativo contra a decisão que reconhecer a existência de nexo técnico epidemiológico. Já o segurado poderá interpor recurso da decisão que não reconhecer a natureza acidentária da doença. Diante das normas que regem o acidente de trabalho, pode-se afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o recurso da empresa terá efeito suspensivo e o do segurado não terá efeito suspensivo;"
+      },
+      {
+        "letra": "B",
+        "texto": "ambos os recursos têm efeito suspensivo."
+      },
+      {
+        "letra": "C",
+        "texto": "os recursos serão encaminhados ao Conselho de Recursos da Previdência Social (CRPS), e a decisão final dependerá dos indicativos de FAP (Fator Acidentário de Prevenção) da empresa."
+      },
+      {
+        "letra": "D",
+        "texto": "o Nexo Técnico Epidemiológico Previdenciário (NTEP) implica em inversão do ônus da prova e constitui uma presunção absoluta."
+      },
+      {
+        "letra": "E",
+        "texto": "a perícia médica não poderá deixar de aplicar o critério epidemiológico, que tem base científica."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 78714,
+    "tags": [],
+    "enunciado": "Analise as assertivas abaixo e com base na legislação previdenciária sobre acidente de trabalho, aponte a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Acidente de trabalho típico consiste em evento ocorrido no regular exercício das atividades do trabalhador em favor do empregador, em face do qual resulte lesão corporal ou perturbação funcional que cause a morte ou a perda ou redução permanente ou temporária da capacidade para o trabalho."
+      },
+      {
+        "letra": "B",
+        "texto": "Doença profissional não é espécie do gênero doença ocupacional, pois é aquela produzida ou desencadeada pelo exercício do trabalho peculiar a determinada atividade conforme definido em perícia médica realizada com esta finalidade."
+      },
+      {
+        "letra": "C",
+        "texto": "Doença profissional, espécie do gênero doença ocupacional, é aquela produzida ou desencadeada pelo exercício do trabalho peculiar a determinada atividade conforme definido em perícia médica realizada com esta finalidade"
+      },
+      {
+        "letra": "D",
+        "texto": "Constitui crime o descumprimento pela empresa das normas de segurança e higiene do trabalho."
+      },
+      {
+        "letra": "E",
+        "texto": "O empregado não poderá ser considerado no exercício do trabalho para fim de configuração do acidente de trabalho, quando este ocorrer no local do trabalho, em período destinado à refeição e ao descanso. O segurado não está efetivamente exercendo o trabalho."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 78715,
+    "tags": [],
+    "enunciado": "Analise as assertivas abaixo e com base na legislação previdenciária sobre acidente de trabalho, aponte a alternativa incorreta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A perícia médica federal considera caracterizada a natureza acidentária da incapacidade quando constatar a ocorrência de nexo técnico epidemiológico entre o trabalho e o agravo, decorrente da relação entre a atividade da empresa e a entidade mórbida motivadora da incapacidade elencada na Classificação Internacional de Doenças."
+      },
+      {
+        "letra": "B",
+        "texto": "A perícia médica federal considera caracterizada a natureza acidentária da incapacidade quando constatar a existncia de nexo técnico epidemiológico entre a atividade da empresa e a entidade mórbida motivadora da incapacidade elencada na Classificação Internacional de Doenças, não sendo admitido recurso com efeito suspensivo da decisão."
+      },
+      {
+        "letra": "C",
+        "texto": "A presunção de natureza acidentária é relativa quando verificado o nexo técnico epidemiológico, podendo ser afastada pela perícia médica federal, por decisão fundamentada, à vista das provas e argumentos baseados nos Programas de Gerenciamento de Risco apresentados pelas empresas em recurso dotado de efeito suspensivo."
+      },
+      {
+        "letra": "D",
+        "texto": "A Previdência Social ajuizará ação regressiva contra os responsáveis nos casos de negligência quanto às normas padrão de segurança e higiene do trabalho indicadas para a proteção individual e coletiva e nos casos de violência doméstica e familiar contra a mulher."
+      },
+      {
+        "letra": "E",
+        "texto": "Considera-se acidente do trabalho aquele sofrido pelo segurado, ainda que fora do local e horário de trabalho, em viagem para estudo quando financiada pela empresa dentro de seus planos para melhor capacitação de mão de obra."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 78716,
+    "tags": [],
+    "enunciado": "De acordo com a legislação previdenciária em vigor, considera-se acidente do trabalho:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o acidente sofrido pelo segurado no local e no horário do trabalho, em consequência de ato de agressão, sabotagem ou praticado por terceiro, este se estiver prestando serviço ao empregador, ou companheiro de trabalho."
+      },
+      {
+        "letra": "B",
+        "texto": "o acidente sofrido fora do local e horário de trabalho em consequência de ato de agressão praticado por companheiro de trabalho."
+      },
+      {
+        "letra": "C",
+        "texto": "a doença degenerativa ou inerente a grupo etário."
+      },
+      {
+        "letra": "D",
+        "texto": "o acidente ocorrido no percurso da residência para o local de trabalho, salvo se o meio de locomoção for veículo de propriedade do segurado."
+      },
+      {
+        "letra": "E",
+        "texto": "o acidente ocorrido fora do local e horário de trabalho na prestação espontânea de qualquer serviço à empresa para lhe evitar prejuízo ou proporcionar proveito."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 78717,
+    "tags": [],
+    "enunciado": "Considerando o incidente em que Mateus foi agredido (cid:41)sicamente por seu colega de trabalho, Lucas, durante uma discussão no local e horário de trabalho, identifique a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A situação narrada poderá ser equiparada a acidente de trabalho."
+      },
+      {
+        "letra": "B",
+        "texto": "A responsabilidade do empregador pelos atos de seus empregados ocorre apenas na presença de culpa. Portanto, somente quando o empregador é culpado é que ocorre a equiparação a acidente de trabalho."
+      },
+      {
+        "letra": "C",
+        "texto": "A situação narrada não poderá ser equiparada a acidente de trabalho."
+      },
+      {
+        "letra": "D",
+        "texto": "O empregador não responde pelos atos de seus empregados. Sendo assim, não há que se falar em acidente de trabalho neste caso."
+      },
+      {
+        "letra": "E",
+        "texto": "Devido à natureza subjetiva da responsabilidade do empregador, a questão do acidente de trabalho não se aplica."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 78718,
+    "tags": [],
+    "enunciado": "Amanda sofreu um acidente durante o expediente na empresa em que trabalhava. Precisou ser levada imediatamente para atendimento médico, passando, inclusive, por cirurgia. Infelizmente, ocorreram complicações durante o procedimento cirúrgico, causando a morte da trabalhadora. Nesse contexto, a situação é considerada um acidente de trabalho",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "fatal e a comunicação do acidente de trabalho deve ser feita imediatamente."
+      },
+      {
+        "letra": "B",
+        "texto": "fatal e a comunicação do acidente de trabalho deve ser feita até o primeiro dia útil seguinte ao da ocorrência."
+      },
+      {
+        "letra": "C",
+        "texto": "fatal e a comunicação do acidente de trabalho deve ser feita em até 24 horas."
+      },
+      {
+        "letra": "D",
+        "texto": "típico e a comunicação do acidente de trabalho deve ser feita em até 48 horas."
+      },
+      {
+        "letra": "E",
+        "texto": "típico e a comunicação do acidente de trabalho deve ser feita em até 24 horas."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 78719,
+    "tags": [],
+    "enunciado": "Carlos Henrique, estudante de 17 anos, inscreveu-se no RGPS como segurado facultativo e vinha recolhendo no prazo legal sua contribuição previdenciária. Acontece que, Carlos Henrique passou a enfrentar graves problemas (cid:41)nanceiros que o impossibilitaram de recolher as devidas contribuições dos últimos cinco meses meses. Neste caso, em regra, Carlos Henrique",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "mantém a qualidade de segurado, até dez meses após a cessação das contribuições."
+      },
+      {
+        "letra": "B",
+        "texto": "não manterá a qualidade de segurado, uma vez que a Lei nº 8.213/1991 resguarda esta qualidade até três meses após a cessação das contribuições."
+      },
+      {
+        "letra": "C",
+        "texto": "não manterá a qualidade de segurado, uma vez que a Lei nº 8.213/1991 resguarda esta qualidade até 01 mês após a cessação das contribuições."
+      },
+      {
+        "letra": "D",
+        "texto": "não manterá a qualidade de segurado, uma vez que a Lei nº 8.213/1991 resguarda esta qualidade até trinta dias após a cessação das contribuições"
+      },
+      {
+        "letra": "E",
+        "texto": "mantém a qualidade de segurado até seis meses após a cessação das contribuições."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 78720,
+    "tags": [],
+    "enunciado": "Maria Aparecida trabalhou em uma empresa de calçados por 15 anos ininterruptos, localizada no município de Canoas/RS, exercendo a função de costureira. Em razão do desastre climático que ocorreu nos meses de abril e maio de 2024 e a crise (cid:41)nanceira que se instalou na empresa, Maria Aparecida foi dispensada sem justa causa no dia 20 de maio deste ano, passando a receber seguro-desemprego. Considerando os fatos narrados e a norma de regência, assinale a opção que indica o prazo no qual, mesmo sem contribuir após a dispensa, Maria Aparecida continuará ostentando a condição de segurada e, assim, estará coberta pela Previdência Social, podendo, inclusive, receber benefícios.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "24 meses."
+      },
+      {
+        "letra": "B",
+        "texto": "12 meses."
+      },
+      {
+        "letra": "C",
+        "texto": "6 meses."
+      },
+      {
+        "letra": "D",
+        "texto": "36 meses."
+      },
+      {
+        "letra": "E",
+        "texto": "3 meses."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 78721,
+    "tags": [],
+    "enunciado": "Augusto César é segurado obrigatório do RGPS na condição de contribuinte individual e vinha recolhendo suas contribuições, ininterruptamente, por 13 anos. Encontra-se, atualmente, sem condições de continuar recolhendo para o INSS, mas receia perder seu vínculo com a previdência social e não ter direito a receber benefício, caso venha precisar. Considerando os fatos narrados e a norma de regência, assinale a opção que indica o prazo no qual, Augusto César continuará ostentando a condição de segurado, caso deixe de pagar suas contribuições.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "24 meses."
+      },
+      {
+        "letra": "B",
+        "texto": "12 meses."
+      },
+      {
+        "letra": "C",
+        "texto": "6 meses."
+      },
+      {
+        "letra": "D",
+        "texto": "36 meses."
+      },
+      {
+        "letra": "E",
+        "texto": "3 meses."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 78722,
+    "tags": [],
+    "enunciado": "Agostinho estava trabalhando numa siderúrgica quando recebeu mandado de prisão por um crime que havia cometido tempos atrás. Foi, então, preso para cumprir pena de 05 anos em regime fechado. Na prisão, Agostinho não contribuiu para a previdência social. Após o cumprimento da sua pena, Agostinho foi solto em janeiro de 2024 e, desde essa data, não voltou a contribuir para o RGPS. Em abril de 2024, Agostinho estava perambulando pelo centro da cidade, quando foi atropelado e veio a óbito. Considerando os fatos narrados e a norma de regência, assinale a opção que indica a assertiva correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Na data do óbito, Agostinho não mais era segurado do RGPS, a partir de sua soltura."
+      },
+      {
+        "letra": "B",
+        "texto": "Agostinho perdeu a qualidade de segurado após 12 meses da sua prisão."
+      },
+      {
+        "letra": "C",
+        "texto": "Com a morte de Agostinho, seus dependentes terão direito de receber pensão por morte do segurado."
+      },
+      {
+        "letra": "D",
+        "texto": "Os dependentes de Agostinho não terão direito de receber pensão por morte porque Agostinho já havia perdido a qualidade de segurado quando ingressou na prisão e não mais contribuiu para a previdência social."
+      },
+      {
+        "letra": "E",
+        "texto": "Os dependentes de Agostinho teriam direito à pensão por morte caso Agostinho tivesse voltado a contribuir após 01 do seu livramento."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 78723,
+    "tags": [],
+    "enunciado": "Antônio Carlos, residente em Brasília, (cid:41)liou-se ao Regime Geral da Previdência Social (RGPS), na condição de empregado doméstico, em fevereiro de 2018. Em janeiro de 2021, foi acometido de uma doença que o levou a afastar-se do trabalho e, desde então, vem recebendo auxílio por incapacidade temporária. Diante da situação hipotética narrada, pode-se a(cid:41)rma que a manutenção da condição de segurado de Antônio Carlos",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "perdurará por até 12 meses após a cessação das contribuições."
+      },
+      {
+        "letra": "B",
+        "texto": "permanecerá intacta, enquanto Antônio Carlos estiver no gozo do benefício previdenciário."
+      },
+      {
+        "letra": "C",
+        "texto": "perdurará por no máximo 22 meses, quando ele estiver sem remuneração."
+      },
+      {
+        "letra": "D",
+        "texto": "não ultrapassará 12 (doze) meses, enquanto perdurar sua segregação, em razão de ter sido acometido por doença de segregação compulsória."
+      },
+      {
+        "letra": "E",
+        "texto": "durará somente seis meses, contados da cessação das contribuições."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 78724,
+    "tags": [],
+    "enunciado": "Independentemente de contribuições, mantém a qualidade de segurado:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "até três meses após a cessação das contribuições, o segurado facultativo."
+      },
+      {
+        "letra": "B",
+        "texto": "até doze meses após a cessação das contribuições, o segurado facultativo."
+      },
+      {
+        "letra": "C",
+        "texto": "quem está em gozo de benefício, sem limite de prazo, exceto de auxílio-acidente."
+      },
+      {
+        "letra": "D",
+        "texto": "até doze meses após o licenciamento, o segurado incorporado às Forças Armadas para prestar serviço militar."
+      },
+      {
+        "letra": "E",
+        "texto": "até seis meses após o licenciamento, o segurado incorporado às Forças Armadas para prestar serviço militar."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 78725,
+    "tags": [],
+    "enunciado": "É segurado obrigatório do regime geral de previdência social (RGPS), na condição de empregado, exceto:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o servidor público ocupante exclusivamente de cargo em comissão, sem vínculo efetivo com ente federativo que mantém regime próprio de previdência social."
+      },
+      {
+        "letra": "B",
+        "texto": "o pescador artesanal que exerce atividade em regime de economia familiar, sem empregados permanentes."
+      },
+      {
+        "letra": "C",
+        "texto": "o empregado de empresa pública."
+      },
+      {
+        "letra": "D",
+        "texto": "o brasileiro civil que trabalha para a União, no exterior, em organismos oficiais brasileiros ou internacionais dos quais o Brasil seja membro efetivo, ainda que lá domiciliado e contratado, salvo se segurado na forma da legislação vigente do país do domicílio."
+      },
+      {
+        "letra": "E",
+        "texto": "o exercente de mandato eletivo federal, estadual ou municipal, desde que não vinculado a regime próprio de previdência social."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 78726,
+    "tags": [],
+    "enunciado": "José Carlos (Zeca) trabalha como motorista da família Souza nas segundas, quartas e sextas-feiras e recebe 02 salários mínimos por mês. Ele leva os (cid:41)lhos do casal para as aulas de natação e música. Leva a empregada da casa ao mercado para compras da família. Diante da situação apresentada, pode-se a(cid:41)rmar que Zeca é segurado obrigatório do RGPS na condição de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "trabalhador avulso"
+      },
+      {
+        "letra": "B",
+        "texto": "empregado"
+      },
+      {
+        "letra": "C",
+        "texto": "contribuinte individual"
+      },
+      {
+        "letra": "D",
+        "texto": "empregado doméstico"
+      },
+      {
+        "letra": "E",
+        "texto": "trabalhador eventual."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 78727,
+    "tags": [],
+    "enunciado": "Zeca trabalha na função de prático de barra em porto, sem vínculo empregatício. Pode-se a(cid:41)rmar que Zeca é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "autônomo e segurado obrigatório do RGPS."
+      },
+      {
+        "letra": "B",
+        "texto": "trabalhador avulso e segurado facultativo do RGPS."
+      },
+      {
+        "letra": "C",
+        "texto": "trabalhador eventual e segurado obrigatório do RGPS."
+      },
+      {
+        "letra": "D",
+        "texto": "trabalhador eventual e segurado especial do RGPS."
+      },
+      {
+        "letra": "E",
+        "texto": "trabalhador avulso e segurado obrigatório do RGPS."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 78728,
+    "tags": [],
+    "enunciado": "Poderá se inscrever como segurado facultativo do regime geral de previdência social (RGPS):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o servidor público ocupante de cargo em comissão, sem vínculo efetivo com os entes federativos, suas autarquias e fundações."
+      },
+      {
+        "letra": "B",
+        "texto": "o estudante de ensino superior."
+      },
+      {
+        "letra": "C",
+        "texto": "o exercente de mandato eletivo federal, estadual ou municipal, desde que não vinculado a regime próprio de previdência social."
+      },
+      {
+        "letra": "D",
+        "texto": "o ministro de confissão religiosa."
+      },
+      {
+        "letra": "E",
+        "texto": "o síndico de condomínio que é isento da taxa condominial em razão do exercício da função."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 78729,
+    "tags": [],
+    "enunciado": "O regime geral de previdência social (RGPS) tem como bene(cid:41)ciários, os segurados e seus dependentes. Analise as alternativas abaixo sobre os beneficiários do RGPS e marque aquela que a considerar correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Suponha que José Anacleto, morador no interior da Amazônia, faça da pesca artesanal seu principal meio de vida, não se utilizando de embarcação. Nesse caso hipotético, para se filiar ao RGPS, José Anacleto poderá fazer a sua inscrição como segurado contribuinte individual."
+      },
+      {
+        "letra": "B",
+        "texto": "É considerado segurado obrigatório o exercente de mandato eletivo federal, estadual ou municipal, desde que não vinculado a regime próprio de previdência social (RPPS)."
+      },
+      {
+        "letra": "C",
+        "texto": "Presentes os pressupostos da filiação, é admitida a inscrição post mortem dos segurados contribuinte individual, facultativo e do segurado especial."
+      },
+      {
+        "letra": "D",
+        "texto": "Suponha que um servidor público do Estado do Mato Grosso tenha sido nomeado para exercer um cargo em comissão junto a uma fundação pública estadual, momento em que tenha optado por continuar recebendo remuneração do órgão em que exerçe o cargo efetivo. Nessa situação hipotética, em decorrência do cargo que passou a exercer na fundação pública, o referido servidor passa a integrar a condição de segurado obrigatório do RGPS."
+      },
+      {
+        "letra": "E",
+        "texto": "A filiação de um segurado obrigatório à previdência social se concretiza com o pagamento da primeira contribuição previdenciária sem atraso desse segurado."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 78730,
+    "tags": [],
+    "enunciado": "Poderá se inscrever como segurado facultativo do regime geral de previdência social – RGPS",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o ministro de confissão religiosa."
+      },
+      {
+        "letra": "B",
+        "texto": "o exercente de mandato eletivo federal, estadual ou municipal, desde que não vinculado a regime próprio de previdência social."
+      },
+      {
+        "letra": "C",
+        "texto": "o síndico de condomínio que não recebe remuneração direta e possui isenção da taxa condominial por exercer tal encargo."
+      },
+      {
+        "letra": "D",
+        "texto": "o servidor público federal vinculado ao regime próprio de previdência dos servidores da União, ainda que não esteja afastado sem vencimentos."
+      },
+      {
+        "letra": "E",
+        "texto": "aquele que se dedica exclusivamente ao trabalho doméstico no âmbito de sua residência."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 78731,
+    "tags": [],
+    "enunciado": "Enquadra-se como segurado obrigatório da Previdência Social, nos termos da Lei n. 8.213/91,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o ministro de confissão religiosa e o membro de instituto de vida consagrada, de congregação ou de ordem religiosa."
+      },
+      {
+        "letra": "B",
+        "texto": "o brasileiro civil que trabalha no exterior para organismo oficial internacional do qual o Brasil é membro efetivo, desde que domiciliado e contratado no Brasil, salvo quando coberto por regime próprio de previdência social."
+      },
+      {
+        "letra": "C",
+        "texto": "quem presta serviço de natureza urbana ou rural, em caráter eventual, a uma ou mais empresas, com relação de emprego."
+      },
+      {
+        "letra": "D",
+        "texto": "o exercente de mandato eletivo federal, estadual ou municipal, mesmo que vinculado a regime próprio de previdência social."
+      },
+      {
+        "letra": "E",
+        "texto": "aquele que presta serviço de natureza urbana ou rural à empresa, em caráter eventual, sem subordinação e mediante remuneração, exceto como diretor empregado."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 78732,
+    "tags": [],
+    "enunciado": "Não descaracteriza a condição de segurado especial:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a outorga, por meio de contrato escrito de parceria, meação ou comodato, de até 50% de imóvel rural cuja área total, contínua ou descontínua, não seja superior a 04 módulos fiscais, desde que outorgante e outorgado continuem a exercer a respectiva atividade, individualmente ou em regime de economia familiar."
+      },
+      {
+        "letra": "B",
+        "texto": "o exercício de atividade artística, desde que em valor mensal inferior ao menor benefício de prestação continuada da previdência social."
+      },
+      {
+        "letra": "C",
+        "texto": "a exploração da atividade turística da propriedade rural, inclusive com hospedagem, por não mais de 180 (cento e oitenta) dias ao ano."
+      },
+      {
+        "letra": "D",
+        "texto": "o exercício de atividade remunerada em período não superior a 120 dias, corridos ou intercalados, no ano civil."
+      },
+      {
+        "letra": "E",
+        "texto": "o exercício de mandato eletivo de dirigente sindical de organização da categoria de trabalhadores rurais."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 78733,
+    "tags": [],
+    "enunciado": "Em relação aos segurados do regime geral de previdência social (RGPS), marque a assertiva correta",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A contratação de empregados permanentes para auxiliar na atividade agropecuária em área explorada menor do que 04 módulos fiscais não descaracteriza o regime de economia familiar."
+      },
+      {
+        "letra": "B",
+        "texto": "O trabalhador que exerce atividade portuária de capatazia, estiva, conferência e conserto de carga, sem vínculo empregatício, com intermediação obrigatória do órgão gestor de mão de obra, é segurado obrigatório do regime geral de previdência social, na condição de contribuinte individual."
+      },
+      {
+        "letra": "C",
+        "texto": "A pessoa física, proprietária ou não, que explora atividade de extração mineral, em regime de economia familiar, sem o auxílio de empregados permanente, inclui-se entre os segurados obrigatórios da previdência social na condição de segurado especial."
+      },
+      {
+        "letra": "D",
+        "texto": "Carlos foi contratado por uma empresa como trabalhador intermitente para a prestação de serviços, com subordinação, de forma não contínua, com alternância de períodos de prestação de serviços e de inatividade. Nesse caso, pode-se afirmar que Carlos é segurado obrigatório do RGPS."
+      },
+      {
+        "letra": "E",
+        "texto": "O trabalhador avulso é segurado obrigatório do RGPS e precisa estar sindicalizado para prestar serviços de natureza eventual a empresas urbana e rural com intermediação obrigatória do órgão gestor de mão de obra ou sindicato da categoria."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 78734,
+    "tags": [],
+    "enunciado": "De acordo com a estruturação da seguridade social, o serviço público deve-se orientar pelos seguintes objetivos, entre outros:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Unicidade da base de financiamento e equidade na forma de participação no custeio."
+      },
+      {
+        "letra": "B",
+        "texto": "Diversidade da base de financiamento e igualdade na forma de participação no custeio."
+      },
+      {
+        "letra": "C",
+        "texto": "Uniformidade da base de financiamento e justiça na forma de participação no custeio."
+      },
+      {
+        "letra": "D",
+        "texto": "Variedade da base de financiamento e proporcionalidade na forma de participação no custeio."
+      },
+      {
+        "letra": "E",
+        "texto": "Singularidade da base de financiamento e equanimidade na forma de participação no custeio."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 78735,
+    "tags": [],
+    "enunciado": "Acerca dos princípios que devem ser observados para a organização da seguridade social, é correto a(cid:41)rmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o princípio da seletividade e distributividade na prestação dos benefícios e serviços indica que o sistema de proteção social deve oferecer todas as prestações, sem exceções, a quem delas necessite, para a consecução da igualdade e da justiça social."
+      },
+      {
+        "letra": "B",
+        "texto": "a partir do princípio da equivalência dos benefícios e serviços prestados às populações urbanas e rurais, os requisitos para concessão de determinado benefício devem ser os mesmos entre os trabalhadores urbanos e rurais."
+      },
+      {
+        "letra": "C",
+        "texto": "a seguridade social, em respeito ao princípio da solidariedade contributiva, permite a incidência de contribuição previdenciária sobre os valores pagos a título de aposentadoria e pensão por morte pelo Regime Geral de Previdência Social (RGPS)."
+      },
+      {
+        "letra": "D",
+        "texto": "o princípio da irredutibilidade do valor dos benefícios refere-se apenas ao valor nominal desses benefícios, não resultando na garantia da concessão de reajustes periódicos, característica relativa à preservação do valor real."
+      },
+      {
+        "letra": "E",
+        "texto": "o princípio da precedência do custeio ou da contrapartida preceitua que os benefícios e serviços da seguridade social somente poderão ser criados, majorados ou estendidos com a correspondente fonte de custeio total, salvo os serviços e as ações públicos de saúde que deverão ser prestados independentemente de contribuição."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 78736,
+    "tags": [],
+    "enunciado": "A concessão de benefícios e serviços de seguridade social a todos os que necessitem, em termos de previdência social, de saúde e de assistência social, constitui aplicação do princípio constitucional da",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "universalidade da cobertura."
+      },
+      {
+        "letra": "B",
+        "texto": "distributividade na prestação dos benefícios e serviços."
+      },
+      {
+        "letra": "C",
+        "texto": "diversidade da base de financiamento."
+      },
+      {
+        "letra": "D",
+        "texto": "universalidade do atendimento."
+      },
+      {
+        "letra": "E",
+        "texto": "seletividade na prestação dos benefícios e serviços."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 78737,
+    "tags": [],
+    "enunciado": "A contribuição social da empresa sobre a folha de salários é exemplo especí(cid:41)co do princípio constitucional da",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "diversidade da base de financiamento."
+      },
+      {
+        "letra": "B",
+        "texto": "caráter democrático e descentralizado da administração."
+      },
+      {
+        "letra": "C",
+        "texto": "seletividade e distributividade na prestação dos benefícios e serviços."
+      },
+      {
+        "letra": "D",
+        "texto": "universalidade da cobertura."
+      },
+      {
+        "letra": "E",
+        "texto": "equidade na forma de participação no custeio."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 78738,
+    "tags": [],
+    "enunciado": "Analise as assertivas abaixo e marque a que incorretamente dispõe sobre os princípios da seguridade social.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O princípio da equidade na forma de custeio permite que as alíquotas das contribuições sociais da seguridade social a cargo das empresas tenham alíquotas diferenciadas em razão do uso intensivo de mão de obra, da atividade econômica, do porte da empresa e da condição estrutural do mercado de trabalho."
+      },
+      {
+        "letra": "B",
+        "texto": "Compete ao Poder Público, nos termos da lei, organizar a seguridade social, com base no caráter democrático e descentralizado da administração, mediante gestão quadripartite, com participação dos trabalhadores, dos empregadores, dos aposentados e pensionistas e do Governo nos órgãos colegiados."
+      },
+      {
+        "letra": "C",
+        "texto": "O princípio da equidade na forma de participação no custeio da seguridade social não veda a existência de alíquotas de contribuições diferenciadas entre empregadores nem entre empregados."
+      },
+      {
+        "letra": "D",
+        "texto": "A irredutibilidade do valor dos benefícios tem como escopo garantir que a renda dos benefícios previdenciários preserve seu valor real segundo critérios estabelecidos por lei, sem qualquer vinculação ao salário mínimo, dada a vedação de sua vinculação para qualquer fim."
+      },
+      {
+        "letra": "E",
+        "texto": "A seguridade social, em respeito ao princípio da solidariedade contributiva, permite a incidência de contribuição previdenciária sobre os valores pagos a título de aposentadoria e pensão por morte pelos regimes próprios de previdência social (RPPS)."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 78739,
+    "tags": [],
+    "enunciado": "Em relação à legislação previdenciária, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o decreto é fonte primária."
+      },
+      {
+        "letra": "B",
+        "texto": "a portaria do Ministro da Previdência Social é fonte primária."
+      },
+      {
+        "letra": "C",
+        "texto": "a instrução normativa do INSS é fonte secundária."
+      },
+      {
+        "letra": "D",
+        "texto": "a lei delegada é fonte secundária."
+      },
+      {
+        "letra": "E",
+        "texto": "a medida provisória, que não tem força de lei, é fonte secundária."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 78740,
+    "tags": [],
+    "enunciado": "No que diz respeito aos princípios, à e(cid:41)cácia, à aplicação e à interpretação das normas de seguridade social, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Como as normas previdenciárias aplicam-se somente às pessoas que vivem no território nacional, o estrangeiro domiciliado e contratado no Brasil para trabalhar como empregado em uma agência de empresa nacional no exterior não pode ser segurado da previdência social."
+      },
+      {
+        "letra": "B",
+        "texto": "Os tratados, convenções e outros acordos internacionais de que Estado estrangeiro ou organismo internacional e o Brasil sejam partes e que versem sobre matéria previdenciária são interpretadas como leis ordinárias gerais."
+      },
+      {
+        "letra": "C",
+        "texto": "Compete privativamente à União legislar sobre previdência social."
+      },
+      {
+        "letra": "D",
+        "texto": "A interpretação autêntica da norma previdenciária consiste em buscar o sentido da norma jurídica a partir do significado das palavras que estão no seu texto."
+      },
+      {
+        "letra": "E",
+        "texto": "A interpretação sistemática ou lógica das normas previdenciárias consiste na análise da norma no contexto desse ramo do direito ou do ordenamento jurídico como um todo, e não, isoladamente. Busca-se, com isso, a integração da norma com os princípios norteadores e demais institutos aplicáveis."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 78741,
+    "tags": [],
+    "enunciado": "Caso haja lacuna na legislação previdenciária, o intérprete poderá valer-se de instrumentos integrativos para resolver a questão. São eles:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a analogia, os costumes e os entendimentos doutrinários."
+      },
+      {
+        "letra": "B",
+        "texto": "os costumes, a equidade, não podendo ser utilizada a analogia."
+      },
+      {
+        "letra": "C",
+        "texto": "a equidade, a analogia e os costumes, desde que não sejam contrários à lei."
+      },
+      {
+        "letra": "D",
+        "texto": "a analogia, os costumes, a equidade e os princípios gerais de direito."
+      },
+      {
+        "letra": "E",
+        "texto": "a equidade e os princípios gerais de direito aplicáveis apenas em relação ao custeio previdenciário."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 78742,
+    "tags": [],
+    "enunciado": "A competência para legislar sobre seguridade social é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "concorrente entre a União, os Estados e o Distrito Federal."
+      },
+      {
+        "letra": "B",
+        "texto": "comum entre a a União, os Estados, o Distrito Federal e os Municípios."
+      },
+      {
+        "letra": "C",
+        "texto": "é privativa da União."
+      },
+      {
+        "letra": "D",
+        "texto": "é comum entre a União e os Estados."
+      },
+      {
+        "letra": "E",
+        "texto": "comum entre a a União, os Estados e o Distrito Federal."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 78743,
+    "tags": [],
+    "enunciado": "Com relação à evolução legislativa da seguridade social no Brasil, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A Lei Eloy Chaves de 1923, foi um marco na legislação previdenciária no Brasil e criou a caixa de aposentadorias e pensão para os ferroviários."
+      },
+      {
+        "letra": "B",
+        "texto": "O marco da Previdência Social no Brasil é estabelecido pela Lei Eloy Chaves, que representa o primeiro ato normativo a oficializar a previdência social no país."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente com a promulgação da Constituição de 1988 é que foi garantida a proteção social para os trabalhadores brasileiros."
+      },
+      {
+        "letra": "D",
+        "texto": "Em 10 de janeiro de 1835, a Constituição do Império incluiu a previsão dos auxílios públicos no seu artigo 179, inciso XXXI."
+      },
+      {
+        "letra": "E",
+        "texto": "A Lei Eloy Chaves de 1924, foi um marco na legislação previdenciária no Brasil e criou a caixa de aposentadorias e pensão para os ferroviários."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 78744,
+    "tags": [],
+    "enunciado": "Considerando a evolução legislativa da seguridade social no Brasil, marque a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A proibição de prestação de benefício social sem a correspondente fonte de custeio só ocorreu com a promulgação da Constituição de 1988."
+      },
+      {
+        "letra": "B",
+        "texto": "A Constituição de 1946 foi a primeira a prever o seguro-desemprego."
+      },
+      {
+        "letra": "C",
+        "texto": "A Constituição de 1988 instituiu o Programa de Assistência ao Trabalhador Rural – PRORURAL."
+      },
+      {
+        "letra": "D",
+        "texto": "A Constituição de 1967 foi a primeira a estabelecer a forma tríplice da fonte de custeio previdenciária."
+      },
+      {
+        "letra": "E",
+        "texto": "A Lei n° 6.439/77 instituiu o Sistema Nacional de Previdência e Assistência Social e o Instituto Nacional de Assistência Médica da Previdência Social."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 78745,
+    "tags": [],
+    "enunciado": "Sobre a trajetória da previdência social brasileira, analise as assertivas abaixo:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A Lei Carlos Chagas, de 1923, representa um marco na história da previdência social brasileira. Esta normativa instituiu a criação das Caixas de Aposentadorias e Pensões, beneficiando categorias específicas da classe trabalhadora."
+      },
+      {
+        "letra": "B",
+        "texto": "O surgimento dos Institutos de Aposentadorias e Pensões (IAP) data dos anos 30, no governo de Getúlio Vargas. Com a criação dos IAP, o governo mantinha sob o seu controle a concessão e as arrecadações das poupanças que resultaram nas aposentadorias e pensões."
+      },
+      {
+        "letra": "C",
+        "texto": "A Lei Orgânica da Previdência Socia (LOPS) veio unificar toda a legislação sobre a saúde no Brasil."
+      },
+      {
+        "letra": "D",
+        "texto": "A Carta constitucional de 1937 previa, como forma de atuação do estado, as áreas de saúde, assistência e previdência social, além de inúmeras outras inovações na área da seguridade social."
+      },
+      {
+        "letra": "E",
+        "texto": "O Instituto Nacional do Seguro Social (INSS) foi instituído em 1966 para tratar da previdênvcia social em âmbito nacional."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 78746,
+    "tags": [],
+    "enunciado": "Analise as assertivas abaixo e marque aquela que contém afirmação incorreta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As Caixas de Aposentadorias e Pensões (CAP) eram organizações de natureza privada financiadas pelas contribuições das empresas e dos empregados."
+      },
+      {
+        "letra": "B",
+        "texto": "A CAP dos ferroviários tinha liberalidade na escolha dos beneficiários dos serviços médicos e farmacêuticos e na definição dos critérios de concessão da aposentadoria."
+      },
+      {
+        "letra": "C",
+        "texto": "Na década de 1930, as CAP foram substituídas progressivamente pelos Institutos de Aposentadoria e Pensões (IAP), organizados por ramos de atividade e de natureza privada."
+      },
+      {
+        "letra": "D",
+        "texto": "Conforme a organização e a inserção econômica das diversas categorias profissionais, progressivamente, ocorria a implantação dos seus respectivos institutos de aposentadorias e pensões a partir da década de 30 do século XX."
+      },
+      {
+        "letra": "E",
+        "texto": "O antigo INAMPS era o instituto responsável pela assistência médica daqueles que eram filiados à previdência social e compunha o SINPAS (Sistema Nacional de Previdência e Assistência Social)."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 78747,
+    "tags": [],
+    "enunciado": "Assinale a opção correta acerca dos direitos garantidos pela seguridade social.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Todos os benefícios previdenciários exigem um número mínimo de contribuições mensais para serem concedidos."
+      },
+      {
+        "letra": "B",
+        "texto": "A assistência social é prestada apenas a quem contribui regularmente para a seguridade social."
+      },
+      {
+        "letra": "C",
+        "texto": "Os benefícios assistenciais são concedidos apenas a quem contribui para a previdência social."
+      },
+      {
+        "letra": "D",
+        "texto": "A assistência social será prestada a quem dela necessitar, independentemente de contribuição à seguridade social, enquanto a previdência social tem caráter contributivo."
+      },
+      {
+        "letra": "E",
+        "texto": "As ações públicas de saúde serão prestadas somente àqueles que não possuem plano privado de saúde."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 78748,
+    "tags": [],
+    "enunciado": "Detém competência privativa para legislar sobre seguridade social, conforme estabelecido na Constituição Federal de 1988,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "apenas os Estados e o Distrito Federal."
+      },
+      {
+        "letra": "B",
+        "texto": "somente os Municípios."
+      },
+      {
+        "letra": "C",
+        "texto": "apenas a União."
+      },
+      {
+        "letra": "D",
+        "texto": "a União, os Estados e o Distrito Federal."
+      },
+      {
+        "letra": "E",
+        "texto": "a União, os Estados, o Distrito Federal e os Municípios"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 78749,
+    "tags": [],
+    "enunciado": "Acerca da organização da seguridade social no Brasil, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A educação é importante segmento da seguridade social brasileira, de forma a incluir todas as ações do Poder Público em prol da sociedade."
+      },
+      {
+        "letra": "B",
+        "texto": "A previdência complementar, apesar de subsistema da previdência social, tem funcionamento autônomo, dotada também de ingresso facultativo."
+      },
+      {
+        "letra": "C",
+        "texto": "A previdência social de servidores públicos é destacada da seguridade social, pois configura regime particular de proteção, desprovido de custeio."
+      },
+      {
+        "letra": "D",
+        "texto": "A saúde é subsistema protetivo da seguridade social, desprovido de contribuição prévia, mas somente para pessoas qualificadas como carentes."
+      },
+      {
+        "letra": "E",
+        "texto": "A assistência social assegura prestação mínima de sobrevivência para toda e qualquer pessoa que venha a completar 65 anos de idade."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 78750,
+    "tags": [],
+    "enunciado": "Em relação às ações de saúde, previdência e assistência social, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A previdência social tem a finalidade de assegurar aos seus contribuintes a proteção em face de eventos como incapacidade temporária ou permanente para o trabalho, idade avançada, desemprego voluntário e reclusão ou morte daqueles de quem dependam economicamente."
+      },
+      {
+        "letra": "B",
+        "texto": "A assistência social é política que visa atender as necessidades básicas, independentemente de contribuição, e deve ser organizada de forma centralizada."
+      },
+      {
+        "letra": "C",
+        "texto": "As instituições privadas poderão participar de forma complementar do sistema único de saúde, segundo diretrizes deste, mediante contrato de direito público ou convênio, tendo preferência as entidades filantrópicas e as sem fins lucrativos."
+      },
+      {
+        "letra": "D",
+        "texto": "O sistema de seguridade social tem caráter contributivo e os benefícios e serviços prestados são exclusivos daqueles que participam do seu custeio."
+      },
+      {
+        "letra": "E",
+        "texto": "A Constituição de 1988 consagra a previdência social como um direito individual inserido em uma realidade mais ampla denominada seguridade social."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 78751,
+    "tags": [],
+    "enunciado": "A respeito da saúde, integrante do sistema de seguridade social, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As ações e serviços públicos de saúde integram uma rede regionalizada e hierarquizada e constituem um sistema único, organizado de acordo com as seguintes diretrizes: I - centralização, com direção única em cada esfera de governo; II - atendimento integral, com prioridade para as atividades preventivas, sem prejuízo dos serviços assistenciais; III - participação da comunidade."
+      },
+      {
+        "letra": "B",
+        "texto": "A saúde é direito de todos que não possam custeá-la e dever do Estado, garantido mediante políticas sociais e econômicas que visem à redução do risco de doença e de outros agravos e ao acesso universal e igualitário às ações e serviços para sua promoção, proteção e recuperação."
+      },
+      {
+        "letra": "C",
+        "texto": "O sistema único de saúde será financiado com recursos do orçamento da seguridade social, da União, dos Estados, do Distrito Federal e dos Municípios, além de outras fontes."
+      },
+      {
+        "letra": "D",
+        "texto": "As instituições privadas poderão participar de forma complementar do sistema único de saúde, segundo diretrizes deste, mediante contrato de direito público ou convênio, sem preferências."
+      },
+      {
+        "letra": "E",
+        "texto": "É permitida a destinação de recursos públicos para auxílios ou subvenções às instituições privadas com ou sem fins lucrativos"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 78752,
+    "tags": [],
+    "enunciado": "Analise os itens abaixo e assinale a alternativa correta: I. É facultada aos Estados e ao Distrito Federal a vinculação a programa de apoio à inclusão e promoção social de até 5 (cinco) décimos por cento de sua receita tributária líquida, observadas as vedações constitucionais, dentre outras, despesas com pessoal e encargos sociais. II. A assistência social, vinculada à contribuição para a seguridade social, será prestada a quem dela necessitar, possuindo, dentre seus objetivos, a proteção à família, à maternidade, à infância e à velhice. III. A admissão, pelos gestores locais do sistema único de saúde, de agentes comunitários de saúde e de agentes de combates de endemias, deve ser precedida de concurso público de provas. IV. É vedada a participação direta ou indireta de empresa ou capitais estrangeiros na assistência à saúde no País, salvo expressa previsão em lei.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os itens I e IV estão corretos."
+      },
+      {
+        "letra": "B",
+        "texto": "Os itens I e III estão corretos."
+      },
+      {
+        "letra": "C",
+        "texto": "Os itens I e II estão corretos."
+      },
+      {
+        "letra": "D",
+        "texto": "Os itens III e IV estão corretos."
+      },
+      {
+        "letra": "E",
+        "texto": "Os itens II e IV estão corretos."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 78753,
+    "tags": [],
+    "enunciado": "Tibério, é prefeito do Município das Flores. Possuindo dúvi- das, consultou a Procuradoria Municipal a respeito da organização da Assistência Social prevista na Lei n o 8.742/93, desejando saber sobre a competência Municipal. A Procuradoria respondeu que NÃO é da competência do Município das Flores",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "cofinanciar, por meio de transferência automática, o aprimoramento da gestão, os serviços, os programas e os projetos de assistência social em âmbito nacional."
+      },
+      {
+        "letra": "B",
+        "texto": "efetuar o pagamento dos auxílios natalidade e funeral."
+      },
+      {
+        "letra": "C",
+        "texto": "executar os projetos de enfrentamento da pobreza, incluindo a parceria com organizações da sociedade civil."
+      },
+      {
+        "letra": "D",
+        "texto": "atender às ações assistenciais de caráter de emergência."
+      },
+      {
+        "letra": "E",
+        "texto": "realizar o monitoramento e a avaliação da política de assistência social em seu âmbito."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 78754,
+    "tags": [],
+    "enunciado": "Marta possui 55 anos de idade completos; Marilucia completa 60 anos em junho de 2012; Bruna completa 75 anos de idade em agosto de 2012; Fábio completa 70 anos em maio de 2012; Nicolas possui 61 anos de idade completos; Tobias completa 68 anos em dezembro de 2012 e Nelson possui 63 anos completos. Hoje, preenchidos os demais requisitos legais, no tocante à idade, farão jus ao Benefício de Prestação Continuada APENAS:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nelson, Tobias, Fábio e Bruna."
+      },
+      {
+        "letra": "B",
+        "texto": "Tobias, Fábio e Bruna."
+      },
+      {
+        "letra": "C",
+        "texto": "Fábio, Bruna e Marta."
+      },
+      {
+        "letra": "D",
+        "texto": "Nicolas, Tobias, Fábio e Bruna."
+      },
+      {
+        "letra": "E",
+        "texto": "Nicolas, Marilucia, Nelson, Tobias, Fábio e Bruna."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 78755,
+    "tags": [],
+    "enunciado": "Nos termos da legislação especí(cid:41)ca sobre o tema NÃO são considerados princípios e objetivos da Previdência Social:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "uniformidade e equivalência dos benefícios e serviços às populações urbanas e rurais."
+      },
+      {
+        "letra": "B",
+        "texto": "seletividade e distributividade na prestação dos benefícios."
+      },
+      {
+        "letra": "C",
+        "texto": "cálculo dos benefícios considerando-se os salários de contribuição corrigidos monetariamente."
+      },
+      {
+        "letra": "D",
+        "texto": "provimento das ações e serviços através de rede regionalizada e hierarquizada, integrados em sistema único."
+      },
+      {
+        "letra": "E",
+        "texto": "previdência complementar facultativa, custeada por contribuição adicional."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 78756,
+    "tags": [],
+    "enunciado": "Apenas em relação aos segurados, NÃO fazem parte das prestações previdenciárias compreendidas pelo Regime Geral de Previdência Social:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "auxílio-acidente e aposentadoria por idade."
+      },
+      {
+        "letra": "B",
+        "texto": "aposentadoria por invalidez e salário família."
+      },
+      {
+        "letra": "C",
+        "texto": "auxílio-reclusão e reabilitação profissional."
+      },
+      {
+        "letra": "D",
+        "texto": "auxílio-doença e aposentadoria especial."
+      },
+      {
+        "letra": "E",
+        "texto": "salário-maternidade e aposentadoria por tempo de contribuição"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 78757,
+    "tags": [],
+    "enunciado": "Cecília (cid:41)liou-se pela primeira vez à Previdência Social na qualidade de segurada empregada em razão de contrato de trabalho (cid:41)rmado com a empresa Alfa Comunicações. Após 11 (onze) meses de labor, Cecília pediu demissão para cursar pós-graduação no exterior, com duração de 3 (três) anos. Durante o curso Cecília não contribuiu para a Previdência Social. Um mês antes do término do curso, Cecília veio a falecer. Passados 2 (dois) anos do óbito de Cecília, seu marido Joaquim requereu administrativamente o benefício da pensão por morte, sendo indeferido o seu pedido. Neste caso, o indeferimento do benefício da pensão por morte se justifica em razão de que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "apenas a esposa pode postular o benefício da pensão por morte do marido."
+      },
+      {
+        "letra": "B",
+        "texto": "Cecília já havia perdido a qualidade de segurada antes da solicitação do benefício."
+      },
+      {
+        "letra": "C",
+        "texto": "Joaquim não era segurado do Regime Geral da Previdência Social."
+      },
+      {
+        "letra": "D",
+        "texto": "Joaquim não comprovou a sua dependência econômica em relação à Cecília."
+      },
+      {
+        "letra": "E",
+        "texto": "não foi cumprido o período de carência previsto em lei para ser concedido o benefício da pensão por morte."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 78758,
+    "tags": [],
+    "enunciado": "Rita de Cássia foi empregada durante 26 (vinte e seis) anos e aposentou-se por tempo de contribuição. Após dois anos de sua aposentadoria, ela retornou a trabalhar em outro emprego. Na situação ora proposta, em relação ao novo contrato de trabalho e à cumulação de benefícios, é correto afirmar que Rita de Cássia",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "poderá cumular os benefícios de aposentadoria e auxílio-doença."
+      },
+      {
+        "letra": "B",
+        "texto": "sendo demitida sem justa causa terá direito ao seguro-desemprego."
+      },
+      {
+        "letra": "C",
+        "texto": "sendo demitida sem justa causa é vedado o recebimento conjunto do seguro-desemprego com o benefício de aposentadoria por tempo de serviço."
+      },
+      {
+        "letra": "D",
+        "texto": "poderá cumular os benefícios de aposentadoria e auxílio-acidente."
+      },
+      {
+        "letra": "E",
+        "texto": "recebendo aposentadoria por tempo de contribuição e voltando a exercer atividade remunerada, não terá de contribuir, obrigatoriamente, para o INSS."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 78759,
+    "tags": [],
+    "enunciado": "Segundo a Lei n o 8.213/91, a habilitação e a reabilitação pro(cid:41)ssional e social deverão proporcionar ao bene(cid:41)ciário incapacitado parcial ou totalmente para o trabalho, e às pes- soas portadoras de de(cid:41)ciência, os meios para a (re)edu- cação e de (re)adaptação pro(cid:41)ssional e social indicados para participar do mercado de trabalho e do contexto em que vive. Conforme previsão legal, em relação a reabilitação pro(cid:41)ssional, é INCORRETO afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O fornecimento de aparelho de prótese, órtese e instrumentos de auxílio para locomoção, independentemente do fato da perda ou redução da capacidade funcional puderam ser atenuadas por seu uso."
+      },
+      {
+        "letra": "B",
+        "texto": "A reparação ou a substituição dos aparelhos de prótese, órtese e instrumentos de auxílio para locomoção, desgastados pelo uso normal ou por ocorrência estranha à vontade do beneficiário."
+      },
+      {
+        "letra": "C",
+        "texto": "O transporte do acidentado do trabalho, quando necessário."
+      },
+      {
+        "letra": "D",
+        "texto": "A concessão de auxílio para tratamento ou exame fora do domicílio do beneficiário, conforme dispuser o Regulamento."
+      },
+      {
+        "letra": "E",
+        "texto": "A dispensa imotivada no contrato por prazo indeterminado de um trabalhador reabilitado, só poderá ocorrer após a contratação de substituto de condição semelhante."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 78760,
+    "tags": [],
+    "enunciado": "Segundo a legislação previdenciária NÃO é considerado caso de suspensão ou de cancelamento automático do benefício previdenciário",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o retorno voluntário ao trabalho de segurado aposentado por invalidez."
+      },
+      {
+        "letra": "B",
+        "texto": "a não apresentação do segurado beneficiário de aposentadoria por invalidez para a realização de exame médico-pericial periódico a cargo do INSS."
+      },
+      {
+        "letra": "C",
+        "texto": "o reaparecimento do segurado considerado falecido por decisão judicial que havia declarado morte presumida que originou o pagamento de pensão provisória aos dependentes."
+      },
+      {
+        "letra": "D",
+        "texto": "a continuidade do exercício de trabalho ou atividade que sujeite o segurado beneficiário de aposentadoria especial a condições nocivas à saúde ou à integridade física que foram considerados para fins da concessão da aposentadoria especial."
+      },
+      {
+        "letra": "E",
+        "texto": "o exercício de atividade remunerada pelo segurado recluso em cumprimento de pena em regime fechado ou semi-aberto que contribuir na condição de segurado contribuinte individual ou facultativo, em relação ao recebimento do auxílio-reclusão pelos seus dependentes."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 78761,
+    "tags": [],
+    "enunciado": "Os bene(cid:41)ciários do Regime Geral de Previdência Social classi(cid:41)cam-se como segurados e dependentes. Nos termos da legislação previdenciária é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "é segurado obrigatório o maior de 12 (doze) anos que se filiar ao Regime Geral da Previdência Social, mediante contribuição."
+      },
+      {
+        "letra": "B",
+        "texto": "dependentes são pessoas que, por contribuírem para a previdência social, podem ser beneficiários."
+      },
+      {
+        "letra": "C",
+        "texto": "os filhos e a esposa, por serem dependentes da classe diferente, não concorrem em igualdade para o benefício."
+      },
+      {
+        "letra": "D",
+        "texto": "o segurado facultativo mantém a qualidade de segurado, independente de contribuições, até 12 (doze) meses após a cessação das contribuições."
+      },
+      {
+        "letra": "E",
+        "texto": "A existência de dependentes de uma classe exclui do benefício os das classes seguintes."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 78762,
+    "tags": [],
+    "enunciado": "Por motivo de disputa relacionada ao trabalho, o empregado Antunes sofre agressão física intencional de terceiro, Marcos, no refeitório da empresa durante o seu horário de almoço. Em razão da desavença Antunes fraturou um dedo da mão direita, o que lhe ocasionou uma redução temporária da capacidade de trabalho. Nesta situação, nos termos da legislação previdenciária, pode-se afirmar que Antunes",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não sofreu acidente de trabalho por estar em horário de refeição, portanto não estar trabalhando."
+      },
+      {
+        "letra": "B",
+        "texto": "não sofreu acidente de trabalho porque a agressão foi provocada por terceiro e não colega de trabalho ou outro empregado da empresa."
+      },
+      {
+        "letra": "C",
+        "texto": "é portador de doença profissional que se equipara a acidente de trabalho."
+      },
+      {
+        "letra": "D",
+        "texto": "sofreu evento equiparado a acidente de trabalho para os efeitos da Lei n o 8.213/91."
+      },
+      {
+        "letra": "E",
+        "texto": "não sofreu acidente de trabalho porque a lesão foi pequena e a redução da capacidade de trabalho foi temporária."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 78763,
+    "tags": [],
+    "enunciado": "Conforme prevê a legislação previdenciária, em relação ao benefício da aposentadoria por invalidez é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a sua concessão dependerá da verificação da condição de incapacidade mediante exame médicopericial a cargo da Previdência Social."
+      },
+      {
+        "letra": "B",
+        "texto": "por sua natureza em nenhuma situação dependerá de período de carência."
+      },
+      {
+        "letra": "C",
+        "texto": "será devida apenas se o segurado estiver em gozo de auxilío-doença."
+      },
+      {
+        "letra": "D",
+        "texto": "não é devida ao segurado empregado doméstico."
+      },
+      {
+        "letra": "E",
+        "texto": "durante os primeiros trinta dias de afastamento da atividade por motivo de invalidez, caberá à empresa pagar ao segurado empregado o salário."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 78764,
+    "tags": [],
+    "enunciado": "Renato, empregado da Grá(cid:41)ca Alfa por dois anos, em 26/01/2010 ao manusear uma máquina de corte sofreu fratura na mão esquerda. Após ter sido socorrido na enfermaria da empresa, foi encaminhado a um hospital e (cid:41)cou afastado por três meses, período em que recebeu prestação previdenciária de auxílio-doença acidentário. Em razão do acidente, houve necessidade de intervenção cirúrgica. Nesta situação, Renato ainda terá direito ao benefício previdenciário de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "aposentadoria especial, em razão do acidente típico de trabalho sofrido."
+      },
+      {
+        "letra": "B",
+        "texto": "auxílio-acidente, se após consolidadas as lesões resultarem sequelas que impliquem em redução da capacidade para o trabalho que habitualmente exercia."
+      },
+      {
+        "letra": "C",
+        "texto": "aposentadoria por invalidez, caso tenha havido redução parcial da capacidade de trabalho, mas suscetível de reabilitação."
+      },
+      {
+        "letra": "D",
+        "texto": "auxílio-acidente em razão do acidente de trabalho, mesmo que não tenha havido nenhuma sequela."
+      },
+      {
+        "letra": "E",
+        "texto": "pecúlio por acidente típico de trabalho, uma vez que se acidentou no local de trabalho.  Respostas: 1 D 2 A 3 D 4 C 5 C 6 A 7 A 8 B 9 A 10 C 11 B 12 A 13 B 14 C 15 C 16 E 17 C 18 D 19 D 20 C 21 E 22 B 23 C 24 C 25 E 26 D 27 C 28 D 29 C 30 D 31 A 32 B 33 E 34 A 35 B 36 A 37 E 38 A 39 E 40 A 41 D 42 A 43 D 44 D 45 E 46 C 47 B 48 C 49 C 50 A 51 A 52 C 53 D 54 B 55 C 56 B 57 A 58 B 59 E 60 A 61 A 62 E 63 D 64 A 65 C 66 B 67 C 68 B 69 D 70 E 71 B 72 B 73 E 74 A 75 C 76 D 77 B 78 D 79 D 80 A 81 B 82 C 83 E 84 D 85 C 86 A 87 E 88 B 89 C 90 D 91 C 92 B 93 C 94 C 95 A 96 A 97 B 98 D 99 C 100 B 101 C 102 A 103 E 104 E 105 D 106 A 107 B"
+      }
+    ],
+    "resposta_correta": "B"
+  }
+]

@@ -1,0 +1,1406 @@
+[
+  {
+    "id": 92925,
+    "tags": [],
+    "enunciado": "A crise de enxaqueca associada ao período pré- menstrual está associada a qual evento?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Down regulation sobre o sistema gabaminérgico."
+      },
+      {
+        "letra": "B",
+        "texto": "Up regulation sobre o sistema serotoninérgico."
+      },
+      {
+        "letra": "C",
+        "texto": "Down regulation sobre o sistema GnRH."
+      },
+      {
+        "letra": "D",
+        "texto": "Up regulation sobre o sistema pineal. 4000232946"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 92926,
+    "tags": [],
+    "enunciado": "Com relação à síndrome pré-menstrual (SPM) e ao transtorno disfórico pré-menstrual (TDPM), assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Diferenciam-se porque o quadro clínico da SPM surge de uma a duas semanas antes do início da menstruação e se reduz após. Na TDPM, ele permanece o tempo todo, com piora pré-menstrual;"
+      },
+      {
+        "letra": "B",
+        "texto": "Os esteroides ovarianos chegam até o SNC, pois ambos atuam em diversos receptores e são importantes para cognição e emoção; existirá um predomínio de progesterona em relação ao estradiol no TDPM;"
+      },
+      {
+        "letra": "C",
+        "texto": "Estudos mostraram que as concentrações hormonais de estrogênio e progesterona são diferentes entre pacientes com SPM e mulheres que não possuem esse transtorno;"
+      },
+      {
+        "letra": "D",
+        "texto": "No TDPM, há sintomas psíquicos como crises de irritabilidade, impaciência, vontade de chorar frequente, ansiedade, tendências suicidas e homicidas, além de sintomas físicos. 4000231070"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 92927,
+    "tags": [],
+    "enunciado": "De acordo com o DSM-5-TR, o transtorno disfórico prémenstrual se caracteriza por sintomas psicológicos e físicos que devem estar presentes na semana (cid:66)nal antes do início da menstruação, começar a melhorar poucos dias depois do seu início e tornar-se mínimos ou ausentes na semana pósmenstrual, ocorrendo na maioria dos ciclos menstruais no ano precedente. Para que seja realizado o diagnóstico, pelo menos cinco sintomas devem estar presentes, incluindo um dos sintomas nucleares com outros potenciais sintomas. Qual das alternativas abaixo se refere corretamente a um sintoma nuclear do transtorno disfórico pré-menstrual?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Insônia ou hipersonia."
+      },
+      {
+        "letra": "B",
+        "texto": "Sentir-se sobrecarregada."
+      },
+      {
+        "letra": "C",
+        "texto": "Letargia."
+      },
+      {
+        "letra": "D",
+        "texto": "Ansiedade."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 92928,
+    "tags": [],
+    "enunciado": "Quanto à Síndrome Pré-Menstrual (SPM) e ao Transtorno Disfórico Pré-Menstrual (TDPM), analise as proposições abaixo. I. É importante diferenciar os sintomas de SPM e TDPM de doenças psiquiátricas que podem se exacerbar no período pré-menstrual (por exemplo, distimia e depressão maior). II. O melhor tratamento para SPM é progesterona natural, pois leva ao relaxamento. III. O melhor tratamento para TDPM é realizado com antidepressivos. É correto o que se afirma em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "III, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "I e II, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "I e III, apenas."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II e III."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 92929,
+    "tags": [],
+    "enunciado": "A síndrome pré-menstrual (SPM) é um conjunto de mudanças físicas, emocionais e comportamentais recorrentes e cíclicas de intensidade moderada a grave que afeta as mulheres na menacme, com início durante a fase lútea e término durante a menstruação. Com relação à (cid:66)siopatologia da síndrome pré- menstrual, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A síndrome manifesta-se também em mulheres ooforectomizadas ou anovuladoras crônicas."
+      },
+      {
+        "letra": "B",
+        "texto": "As mulheres com síndrome pré-menstrual mais grave apresentam menores níveis de GABA, o que está associado a sintomas como ansiedade, nervosismo e agitação."
+      },
+      {
+        "letra": "C",
+        "texto": "Há associação entre sintomas depressivos da SPM e a diminuição de pulsos secretores de cortisol na fase lútea."
+      },
+      {
+        "letra": "D",
+        "texto": "A manifestação dos sintomas da SPM deve-se à queda de níveis de progesterona e de estradiol na segunda fase do ciclo menstrual."
+      },
+      {
+        "letra": "E",
+        "texto": "A SPM inicia-se na fase proliferativa, com término um pouco antes da menstruação."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 92930,
+    "tags": [],
+    "enunciado": "O tratamento normalmente empregado na síndrome pré-menstrual tem como foco a redução dos sintomas e a modi(cid:66)cação do desequilíbrio hormonal subjacente. Nesse sentido, assinale a alternativa que apresenta melhor evidência no tratamento dessa síndrome.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ômega-3."
+      },
+      {
+        "letra": "B",
+        "texto": "Ibuprofeno."
+      },
+      {
+        "letra": "C",
+        "texto": "Fluoxetina."
+      },
+      {
+        "letra": "D",
+        "texto": "Desogestrel."
+      },
+      {
+        "letra": "E",
+        "texto": "Magnésio."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 92931,
+    "tags": [],
+    "enunciado": "Uma mulher de 32 anos vem apresentando tensão pré-menstrual grave com disforia. Nega uso de contraceptivos orais e outros distúrbios de ordem psicológica e ou afetiva. A medicação mais adequada neste caso é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Acetato de ciproterona."
+      },
+      {
+        "letra": "B",
+        "texto": "Fluoxetina."
+      },
+      {
+        "letra": "C",
+        "texto": "Espironolactona."
+      },
+      {
+        "letra": "D",
+        "texto": "Ácido gamalinolênico."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 92932,
+    "tags": [],
+    "enunciado": "Sandra de 19 anos, queixa-se de intensa irritabilidade, alterações abruptas de humor e fome incontrolável nos 7 dias que antecedem cada menstruação. Tem ciclos menstruais mensais e regulares. Usa diafragma para contracepção. Não tem antecedentes mórbidos, pessoais ou familiares, relevantes. Qual é o tratamento mais adequado para o caso?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Antidepressivo tricíclico."
+      },
+      {
+        "letra": "B",
+        "texto": "Fitoestrogênios."
+      },
+      {
+        "letra": "C",
+        "texto": "Inibidor de prostaglandina."
+      },
+      {
+        "letra": "D",
+        "texto": "Inibidor de recaptação de serotonina."
+      },
+      {
+        "letra": "E",
+        "texto": "Bromoergocriptina."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 92933,
+    "tags": [],
+    "enunciado": "São opções de tratamento da síndrome pré-menstrual, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Betabloqueadores."
+      },
+      {
+        "letra": "B",
+        "texto": "Espironolactona."
+      },
+      {
+        "letra": "C",
+        "texto": "Sertralina."
+      },
+      {
+        "letra": "D",
+        "texto": "Pregabalina."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 92934,
+    "tags": [],
+    "enunciado": "A Síndrome Pré-Menstrual (SPM) consiste em um conjunto de sintomas físicos, psíquicos e comportamentais, que envolvem um complexo mecanismo neuroendócrino. Caracteristicamente, estão presentes, de forma recorrente, apenas na segunda metade do ciclo menstrual e aliviam após a chegada da menstruação. Essa síndrome",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "está associada aos níveis baixos de estradiol."
+      },
+      {
+        "letra": "B",
+        "texto": "tem maior incidência na adolescência, sendo a faixa etária mais prevalente."
+      },
+      {
+        "letra": "C",
+        "texto": "apresenta distúrbios serotoninérgicos, sendo a sua etiologia provável."
+      },
+      {
+        "letra": "D",
+        "texto": "ocorre, principalmente, em ciclos anovulatórios."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 92935,
+    "tags": [],
+    "enunciado": "Para o correto diagnóstico de transtorno disfórico pré-menstrual, é necessária a presença de 5 ou mais sintomas somáticos e/ou emocionais, na maioria dos ciclos menstruais, na última semana da fase lútea,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "em mulheres com menos de 45 anos de idade."
+      },
+      {
+        "letra": "B",
+        "texto": "incluindo pelo menos um dos seguintes: humor deprimido, ansiedade, irritabilidade ou raiva."
+      },
+      {
+        "letra": "C",
+        "texto": "que melhoram acentuadamente no final da fase ovulatória."
+      },
+      {
+        "letra": "D",
+        "texto": "associados a diminuição importante dos valores da relação FSH/LH."
+      },
+      {
+        "letra": "E",
+        "texto": "em mulheres que não utilizam anticoncepcionais hormonais."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 92936,
+    "tags": [],
+    "enunciado": "O transtorno disfórico pré-menstrual (TDPM) é desencadeado pela oscilação dos níveis de esteroides sexuais que acompanham um ciclo menstrual ovulatório e ocorre cerca de uma semana antes do início da menstruação. São critérios diagnósticos CORRETOS para o TDPM:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Depressão – irritabilidade – fogachos."
+      },
+      {
+        "letra": "B",
+        "texto": "Irritabilidade – sensibilidade nos seios – pensamentos acelerados."
+      },
+      {
+        "letra": "C",
+        "texto": "Retraimento social – dilatação abdominal – fotofobia."
+      },
+      {
+        "letra": "D",
+        "texto": "Ansiedade – retraimento social – cefaleia."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 92937,
+    "tags": [],
+    "enunciado": "A prevalência da síndrome pré-menstrual (SPM) na população feminina pode chegar a 80% das mulheres em idade reprodutiva. Ela ocorre em qual fase do ciclo menstrual?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Menstruação."
+      },
+      {
+        "letra": "B",
+        "texto": "Lútea."
+      },
+      {
+        "letra": "C",
+        "texto": "Folicular."
+      },
+      {
+        "letra": "D",
+        "texto": "Ovulação. 4000192116"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 92938,
+    "tags": [],
+    "enunciado": "Mulher, 22 anos, nuligesta, apresenta ciclos menstruais regulares com dismenorreia intensa. Exame ginecológico com especular normal, toque vaginal com útero em anteverso(cid:81)exão, mobilidade preservada, não doloroso. Ultrassom pélvico sem achados clínicos relevantes. Qual dos seguintes medicamentos é o mais adequado para controle do sintoma desta paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Etinil-estradiol."
+      },
+      {
+        "letra": "B",
+        "texto": "Medroxiprogesterona."
+      },
+      {
+        "letra": "C",
+        "texto": "Gestrinona."
+      },
+      {
+        "letra": "D",
+        "texto": "Testosterona."
+      },
+      {
+        "letra": "E",
+        "texto": "Tamoxifeno. 4000191905"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 92939,
+    "tags": [],
+    "enunciado": "Mulher, 28 anos, nuligesta, refere irritabilidade intensa, insônia e di(cid:66)culdade de concentração que se iniciam cerca de 10 dias antes da menstruação e cessam com seu início. Apresenta ciclos menstruais regulares e mensais, uso de preservativo. Nega outras comorbidades ou uso de medicamentos. Qual é a opção terapêutica mais adequada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pregabalina."
+      },
+      {
+        "letra": "B",
+        "texto": "Alprazolam."
+      },
+      {
+        "letra": "C",
+        "texto": "Espirolactona."
+      },
+      {
+        "letra": "D",
+        "texto": "Clomifeno."
+      },
+      {
+        "letra": "E",
+        "texto": "Paroxetina."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 92940,
+    "tags": [],
+    "enunciado": "Paciente do sexo feminino, 23 anos, relata tristeza intensa, pois foi demitida devido a repetidas faltas no trabalho. Diz que, desde seus 22 anos, na maioria dos meses, sente uma mudança em ciclos, com um período de alguns dias de irritabilidade, labilidade, letargia, avidez por doce e uma \"\"sensação de inchaço\"\", que ocorrem quase todos os meses. Percebe que, logo após a menstruação, a \"\"vida volta a (cid:66)car leve e colorida\"\". Associa suas faltas ao trabalho a esses períodos de \"\"mudança do humor e inchaços\"\". Assinalar a alternativa que apresenta o diagnóstico mais provável:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Dismenorreia."
+      },
+      {
+        "letra": "B",
+        "texto": "Transtorno ciclotímico."
+      },
+      {
+        "letra": "C",
+        "texto": "Transtorno de personalidade histriônica."
+      },
+      {
+        "letra": "D",
+        "texto": "Transtorno disfórico pré-menstrual."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 92941,
+    "tags": [],
+    "enunciado": "Mulher, 30 anos, apresenta episódios intercorrentes de tristeza intensa, desinteresse, ideias de desvalia, tensão, acompanhada de cefaleia e dores musculares. Fica irritada facilmente, mas os sintomas desaparecem rapidamente, voltando ao seu comportamento usual, tranquilidade e interesse. O transtorno mais provável é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Disfórico pré-menstrual."
+      },
+      {
+        "letra": "B",
+        "texto": "Ansiedade generalizada."
+      },
+      {
+        "letra": "C",
+        "texto": "Ciclotímico."
+      },
+      {
+        "letra": "D",
+        "texto": "Dismórfico corporal."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 92942,
+    "tags": [],
+    "enunciado": "Mulher de 19 anos de idade queixa-se de intensa irritabilidade, alterações abruptas de humor e fome incontrolável nos 7 dias que antecedem cada menstruação. Tem ciclos menstruais mensais e regulares. Usa diafragma para contracepção. Não tem antecedentes mórbidos, pessoais ou familiares, relevantes. Qual é o tratamento mais adequado para o caso?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Inibidor de prostaglandina."
+      },
+      {
+        "letra": "B",
+        "texto": "Inibidor de recaptação de serotonina."
+      },
+      {
+        "letra": "C",
+        "texto": "Bromoergocriptina."
+      },
+      {
+        "letra": "D",
+        "texto": "Filoestrogênios."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 92943,
+    "tags": [],
+    "enunciado": "No Transtorno Disfórico Pré-menstrual, segundo o DSM-V, um (ou mais) dos seguintes sintomas deve estar presente. Assinale a alternativa incorreta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Labilidade afetiva reduzida."
+      },
+      {
+        "letra": "B",
+        "texto": "Irritabilidade ou raiva acentuadas ou aumento nos conflitos interpessoais."
+      },
+      {
+        "letra": "C",
+        "texto": "Humor deprimido acentuado, sentimentos de desesperança ou pensamentos autodepreciativos."
+      },
+      {
+        "letra": "D",
+        "texto": "Ansiedade acentuada, tensão e/ou sentimentos de estar nervosa ou no limite."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 92944,
+    "tags": [],
+    "enunciado": "A dismenorreia é uma ocorrência que pode comprometer de forma signi(cid:66)cativa as atividades da mulher, sendo causa importante de absenteísmo escolar e no trabalho. Em relação a essa doença, é correto a(cid:66)rmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a etiologia primária ou orgânica se deve a malformações uterinas."
+      },
+      {
+        "letra": "B",
+        "texto": "as causas funcionais se iniciam logo nos primeiros ciclos menstruais e não se associam a nenhuma doença."
+      },
+      {
+        "letra": "C",
+        "texto": "a dismenorreia secundária se deve a alterações do sistema reprodutor devido a doenças ou anormalidades congênitas ou adquiridas."
+      },
+      {
+        "letra": "D",
+        "texto": "a dismenorreia pode regredir com o avançar da idade e geralmente se agrava com a primeira gestação."
+      },
+      {
+        "letra": "E",
+        "texto": "como causa de dismenorreia primária que compromete o útero, a endometriose é a principal."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 92945,
+    "tags": [],
+    "enunciado": "Mulher, 24 anos de idade, em consulta ambulatorial refere irritabilidade, ansiedade, aumento de peso e compulsão por doces, que se iniciam 5-6 dias antes do (cid:81)uxo menstrual. Apresenta ciclos menstruais irregulares (menarca aos 11 anos e desde então ciclos com intervalos de 60-70 dias). E nuligesta, sexualmente ativa em uso de preservativo. Peso = 51 kg; altura = 1,62 m; IMC = 19,4kg/m2; PA = 100/70 mmHg. Exame físico e ginecológico sem anormalidades. Qual é o diagnóstico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Síndrome da tensão pré-menstrual e amenorreia secundária."
+      },
+      {
+        "letra": "B",
+        "texto": "Síndrome de anovulação crônica e amenorreia primária."
+      },
+      {
+        "letra": "C",
+        "texto": "nsiedade e transtorno disfórico pré-menstrual."
+      },
+      {
+        "letra": "D",
+        "texto": "Síndrome de anovulação crônica e sintomas pré-menstruais."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 92946,
+    "tags": [],
+    "enunciado": "Na paciente com distúrbio disfórico de fase lútea a droga que tem eficácia comprovada é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Piridoxina."
+      },
+      {
+        "letra": "B",
+        "texto": "Espironolactona."
+      },
+      {
+        "letra": "C",
+        "texto": "Fluoxetina."
+      },
+      {
+        "letra": "D",
+        "texto": "Ácido gamalinoléico."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 92947,
+    "tags": [],
+    "enunciado": "Sobre dismenorreia marque a assertiva CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A investigação da dismenorreia secundária pode incluir a realização de exames como CA-125, US pélvica e ressonância magnética."
+      },
+      {
+        "letra": "B",
+        "texto": "Tem baixa prevalência e atinge maiores índices em mulheres com mais de 20 anos de idade."
+      },
+      {
+        "letra": "C",
+        "texto": "A dismenorreia secundária não está associada à nenhuma doença do trato genital e pode sofrer redução espontânea significativa de sua intensidade."
+      },
+      {
+        "letra": "D",
+        "texto": "Em quadro clinico sugestivo de dismenorreia secundária, a paciente deve apenas ser orientada sobre a naturalidade da ocorrência sem necessidade de exames adicionais e prescrição de sintomáticos."
+      },
+      {
+        "letra": "E",
+        "texto": "Paciente com dismenorreia tem contraindicação ao uso de DIU de levonorgestrel."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 92948,
+    "tags": [],
+    "enunciado": "Sobre a tensão pré-menstrual e a síndrome disfórica pré-menstrual, assinale a opção incorreta",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O tratamento com inibidores seletivos da recaptação da serotonina (IRSS) deve resultar em melhora dos sintomas dentro de 24 a 48 horas."
+      },
+      {
+        "letra": "B",
+        "texto": "Os níveis de FSH, LH, TSH e prolactina são normais nas pacientes com tensão pré-menstrual, por isso, essa patologia ainda tem origem incerta."
+      },
+      {
+        "letra": "C",
+        "texto": "O bloqueio do eixo hipotálamo-hipófise-ovário com anticoncepcionais orais pode ser uma alternativa terapêutica, principalmente se não houver sangramento de privação."
+      },
+      {
+        "letra": "D",
+        "texto": "A diferença entre tensão pré-menstrual e síndrome disfórica está no fato de a última cursar com comprometimento das funções sociais e laborais da paciente."
+      },
+      {
+        "letra": "E",
+        "texto": "O tratamento da síndrome disfórica deve ser feito com inibidores da receptação seletiva de serotonina (IRSS) conjuntamente com estabilizadores do humor, já que existe um risco de atitudes de agressão interpessoal."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 92949,
+    "tags": [],
+    "enunciado": "Paciente de 20 anos é nuligesta e tem ciclos menstruais regulares. Faz uso contínuo de (cid:81)uoxetina 20mg/dia para controle de irritabilidade pré-menstrual há 3 anos. Iniciou vida sexual e utiliza preservativo nas relações. Deseja interromper a fluoxetina para melhorar a libido. Qual é a orientação adequada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Suspender gradualmente a fluoxetina e introduzir contraceptivo hormonal combinado."
+      },
+      {
+        "letra": "B",
+        "texto": "Interromper a fluoxetina e iniciar suplementação de testosterona."
+      },
+      {
+        "letra": "C",
+        "texto": "Suspender gradualmente a fluoxetina e suplementar DHEA."
+      },
+      {
+        "letra": "D",
+        "texto": "Interromper a fluoxetina e introduzir benzodiazepínico caso apresente irritabilidade."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 92950,
+    "tags": [],
+    "enunciado": "O Transtorno Disfórico Pré-Menstrual (TDPM) é desencadeado pela oscilação dos níveis de esteroides sexuais que acompanham um ciclo menstrual ovulatório. Apesar de até 80% das mulheres sentirem alguma alteração de humor, no sono ou de sintomas somáticos no período prémenstrual, apenas 3 a 7% têm, de fato, sintomas que satisfazem os critérios diagnósticos para TDPM. Assinale a alternativa que corretamente faz parte dos critérios do DSM-5 para esse transtorno.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Confusão."
+      },
+      {
+        "letra": "B",
+        "texto": "Labilidade afetiva acentuada."
+      },
+      {
+        "letra": "C",
+        "texto": "Cefaleia."
+      },
+      {
+        "letra": "D",
+        "texto": "Retraimento social."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 92951,
+    "tags": [],
+    "enunciado": "Paciente de 18 anos, IGIP (parto normal há 2 anos), em união consensual, refere ciclos menstruais regulares e cólicas menstruais no primeiro dia da menstruação desde o parto, que não melhoram com analgésicos. Diagnóstico e conduta indicados:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Dismenorreia primária dosar CA125 e prescrever dienogeste."
+      },
+      {
+        "letra": "B",
+        "texto": "Dismenorreia secundária prescrever anti-inflamatórios não hormonais."
+      },
+      {
+        "letra": "C",
+        "texto": "Endometriose indicar videolaparoscopia."
+      },
+      {
+        "letra": "D",
+        "texto": "Dor pélvica crônica prescrever fisioterapia pélvica."
+      },
+      {
+        "letra": "E",
+        "texto": "Adenomiose prescrever análogos de GnRH."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 92952,
+    "tags": [],
+    "enunciado": "Qual a medicação indicada no tratamento da tensão pré-menstrual com disforia?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fluoxetina."
+      },
+      {
+        "letra": "B",
+        "texto": "Clomifeno."
+      },
+      {
+        "letra": "C",
+        "texto": "Tibolona."
+      },
+      {
+        "letra": "D",
+        "texto": "Cabergolina."
+      },
+      {
+        "letra": "E",
+        "texto": "Fenitoína."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 92953,
+    "tags": [],
+    "enunciado": "Paciente com 25 anos vem à consulta com queixa de dor em baixo ventre associada à cefaleia, náuseas e dor lombar, e em membros inferiores há cerca de 24 horas, podendo estar associada com dismenorreia. Em relação a esse caso, assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O uso do sistema intrauterino de levonorgestrel tem ação no controle da dor principalmente nos casos associados com endometriose."
+      },
+      {
+        "letra": "B",
+        "texto": "Cerca de 10 a 20% dos casos de dismenorreia não respondem ao tratamento com anti- inflamatórios não hormonais ou anticoncepcionais orais."
+      },
+      {
+        "letra": "C",
+        "texto": "A neurectomia pré-sacral foi demonstrada como eficaz nessa situação."
+      },
+      {
+        "letra": "D",
+        "texto": "O uso de anticoncepcionais orais combinados com anti-inflamatórios não hormonais tem lugar para os casos refratários."
+      },
+      {
+        "letra": "E",
+        "texto": "Os análogos do GnRH, embora tenham ação nesse quadro, não são utilizados na prática devido aos seus efeitos colaterais de hipoetrogenismo muito intenso."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 92954,
+    "tags": [],
+    "enunciado": "Com relação a patologias ginecológicas benignas, julgue o próximo item. Os inibidores da receptação da serotonina são amplamente contraindicados para o tratamento da síndrome da tensão pré-menstrual.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Certo."
+      },
+      {
+        "letra": "B",
+        "texto": "Errado."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 92955,
+    "tags": [],
+    "enunciado": "Sobre a tensão pré-menstrual e síndrome disfórica pré-menstrual, assinale a opção incorreta",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O tratamento com inibidores seletivos da recaptação da serotonina (IRSS) deve resultar em melhora dos sintomas dentro de 24 a 48 horas."
+      },
+      {
+        "letra": "B",
+        "texto": "Os níveis de FSH, LH, TSH e prolactina são normais nas pacientes com tensão prémenstrual, por isso essa patologia ainda tem origem incerta."
+      },
+      {
+        "letra": "C",
+        "texto": "O bloqueio do eixo hipotálamo-hipófise-ovário com anticoncepcionais orais pode ser uma alternativa terapêutica, principalmente se não houver sangramento de privação."
+      },
+      {
+        "letra": "D",
+        "texto": "A diferença entre tensão pré-menstrual e síndrome disfórica está no fato de a última cursar com comprometimento das funções sociais e laborais da paciente."
+      },
+      {
+        "letra": "E",
+        "texto": "O tratamento da síndrome distfórica deve ser feito com inibidores da recepção seletiva de serotonina (IRSS) conjuntamente com estabilizadores do humor, já que existe um risco de atitudes de agressão interpessoal."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 92956,
+    "tags": [],
+    "enunciado": "Assinale a assertiva correta sobre dismenorreia primária.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Em geral, tem início 5 anos após a menarca."
+      },
+      {
+        "letra": "B",
+        "texto": "A dor também ocorre fora do período menstrual."
+      },
+      {
+        "letra": "C",
+        "texto": "O tratamento de primeira escolha é anticoncepcional oral combinado."
+      },
+      {
+        "letra": "D",
+        "texto": "A longo prazo, está associada a fibromialgia e dor pélvica crônica."
+      },
+      {
+        "letra": "E",
+        "texto": "Não é acompanhada de sintomas sistêmicos, como vômitos e diarreia."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 92957,
+    "tags": [],
+    "enunciado": "Uma jovem de 18 anos queixa-se de cólicas menstruais de forte intensidade, que a impossibilitam de realizar suas atividades normais. Os exames físico e ginecológico são normais. Feito o diagnóstico de dismenorreia primária, a melhor opção para o tratamento inicial são os (as):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Inibidores de prostaglandinas."
+      },
+      {
+        "letra": "B",
+        "texto": "Drogas ocitócicas."
+      },
+      {
+        "letra": "C",
+        "texto": "Inibidores da prolactina."
+      },
+      {
+        "letra": "D",
+        "texto": "Antiespasmódicos de ação central."
+      },
+      {
+        "letra": "E",
+        "texto": "Inibidores centrais do eixo hipotálamo-hipófise-ovário. 4000057459"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 92958,
+    "tags": [],
+    "enunciado": "Mulher de 35 anos, com queixa de sintomas pré- menstruais intensos, com início há cerca de 10 dias antes da menstruação, que melhoram com o (cid:81)uxo menstrual, caracterizados por ansiedade, depressão, insônia, falta de energia, cansaço e dores pelo corpo. Diante deste quadro, o tratamento de escolha é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "acetato de medroxiprogesterona."
+      },
+      {
+        "letra": "B",
+        "texto": "sertralina."
+      },
+      {
+        "letra": "C",
+        "texto": "danazol."
+      },
+      {
+        "letra": "D",
+        "texto": "noretisterona."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 92959,
+    "tags": [],
+    "enunciado": "Com relação à dismenorreia primária, assinale a afirmativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "os sintomas não estão relacionados às primeiras ovulações."
+      },
+      {
+        "letra": "B",
+        "texto": "É rara a associação com quadros depressivos."
+      },
+      {
+        "letra": "C",
+        "texto": "está associada à adenomiose."
+      },
+      {
+        "letra": "D",
+        "texto": "Está associada a ciclos ovulatórios."
+      },
+      {
+        "letra": "E",
+        "texto": "Os sintomas começam nas 72 horas que precedem o catamênio."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 92960,
+    "tags": [],
+    "enunciado": "Em mulher com de(cid:66)ciência de fator V de Leiden, a melhor abordagem inicial para tratar Tensão Pré- menstrual é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "anticoncepcional combinado oral com pausa de 7 dias."
+      },
+      {
+        "letra": "B",
+        "texto": "anticoncepcional combinado oral sem pausa."
+      },
+      {
+        "letra": "C",
+        "texto": "diurético."
+      },
+      {
+        "letra": "D",
+        "texto": "anti-inflamatório."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 92961,
+    "tags": [],
+    "enunciado": "É uma afecção ginecológica própria do menacme e sua conduta adequada:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Mastodínia; vitamina E."
+      },
+      {
+        "letra": "B",
+        "texto": "Dispareunia de profundidade; estrogenioterapia."
+      },
+      {
+        "letra": "C",
+        "texto": "Candidíase recorrente; itraconazol quinzenal por 12 meses."
+      },
+      {
+        "letra": "D",
+        "texto": "Sangramento irregular; progestagênio contínuo."
+      },
+      {
+        "letra": "E",
+        "texto": "Cólica menstrual; serotoninérgico."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 92962,
+    "tags": [],
+    "enunciado": "Mulher de 19 anos de idade queixa-se de intensa irritabilidade, alterações abruptas de humor e fome incontrolável nos 7 dias que antecedem cada menstruação. Tem ciclos menstruais mensais e regulares. Usa diafragma para contracepção. Não tem antecedentes mórbidos, pessoais ou familiares relevantes. Qual é o tratamento mais adequado para o caso?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Inibidor de prostaglandina."
+      },
+      {
+        "letra": "B",
+        "texto": "Inibidor de recaptação de serotonina."
+      },
+      {
+        "letra": "C",
+        "texto": "Bromoergocriptina."
+      },
+      {
+        "letra": "D",
+        "texto": "Fitoestrogênios."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 92963,
+    "tags": [],
+    "enunciado": "A variação hormonal cíclica que caracteriza a (cid:66)siologia feminina no menacme, além dos seus efeitos (cid:66)siológicos, pode acarretar um conjunto de afecções decorrentes desse ciclo hormonal da mulher, causando transtornos em sua qualidade de vida, como por exemplo, a síndrome da tensão pré-menstrual (TPM). Considerando o tratamento medicamentoso para a TPM, analise as assertivas abaixo: I- Os inibidores seletivos de recaptação da serotonina no tratamento da TPM agem principalmente por causa de suas propriedades antidepressivas e ansiolíticas. II- O uso dos inibidores seletivos de recaptação da serotonina deve ser contínuo, sendo indicado em casos leves e graves, tendo eficácia de 95% deles. III- Entre os ansiolíticos, a melhor escolha é a buspirona, uma vez que o alprazolam pode acarretar dependência.; IV- Os diuréticos melhoram a mastalgia, diminuem o inchaço abdominal e o edema de membros inferiores, sendo indicada para esse efeito a espironolactona. Estão corretas as afirmativas",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "II e IV."
+      },
+      {
+        "letra": "B",
+        "texto": "I e II."
+      },
+      {
+        "letra": "C",
+        "texto": "II e III."
+      },
+      {
+        "letra": "D",
+        "texto": "III e IV."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 92964,
+    "tags": [],
+    "enunciado": "A Síndrome pré-menstrual, mais conhecida como tensão pré-menstrual é responsável por afetar o cotidiano, às vezes de modo grave, de milhares de mulheres. Paciente de 22 nos procura unidade de saúde queixando- se de irritabilidade, cefaléia e dor nas mamas, próximo ao período menstrual, em todos os ciclos, desde quando sua menstruação regularizou aos 15 anos. Não apresenta outras queixas. Nega doenças, tabagismo e alega ser sedentária. Assinale a alternativa CORRETA",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Anticoncepcional hormonal com etinilestradiol e drosperinona é uma opção de tratamento para essa paciente"
+      },
+      {
+        "letra": "B",
+        "texto": "Esta paciente tem um Transtorno disfórico pré-menstrual"
+      },
+      {
+        "letra": "C",
+        "texto": "A deficiência da vitamina C está relacionada ao aparecimento dessa condição"
+      },
+      {
+        "letra": "D",
+        "texto": "Os inibidores seletivos da recaptação de serotonina não devem ser utilizados pois não existe comprovação científica de benefício"
+      },
+      {
+        "letra": "E",
+        "texto": "Mudanças no estilo de vida, incluindo-se a prática de exercícios aeróbicos e modificações na dieta não trará benefícios a essa paciente"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 92965,
+    "tags": [],
+    "enunciado": "A síndrome de tensão pré-menstrual (STPM) é composta por um conjunto de sintomas físicos, psicológicos e comportamentais cíclicos e recorrentes que ocorrem na segunda fase do ciclo menstrual e desaparecem com o início do fluxo menstrual. Em relação ao tratamento da STPM, marque a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Recomenda-se a suplementação de Boro na dose de 1.2 g ao dia por um período de três ciclos para redução dos sintomas relacionados à retenção hídrica."
+      },
+      {
+        "letra": "B",
+        "texto": "A fluoxetina reduziu significativamente os sintomas de tensão, irritabilidade e disforia."
+      },
+      {
+        "letra": "C",
+        "texto": "O óleo de prímula demonstrou importante redução dos sintomas gastrointestinais e da compulsão alimentar por doces."
+      },
+      {
+        "letra": "D",
+        "texto": "Os progestágenos, como a nortisterona e o levonorgestrel, apresentam reconhecido potencial terapêutico principalmente no alívio da mastalgia e retenção hídrica."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 92966,
+    "tags": [],
+    "enunciado": "A síndrome pré-menstrual ocorre com maior frequência em mulheres de 25 a 35 anos, e é caracterizada por:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "predominância de sintomas psíquicos e comportamentais que ocorrem no início da fase lútea."
+      },
+      {
+        "letra": "B",
+        "texto": "predominância de sintomas físicos que ocorrem antes e depois da menstruação."
+      },
+      {
+        "letra": "C",
+        "texto": "sintomas físicos, psíquicos e comportamentais que se iniciam na fase folicular, continuam na fase lútea e terminam com a menstruação."
+      },
+      {
+        "letra": "D",
+        "texto": "sintomas físicos, psíquicos e comportamentais que se iniciam na fase lútea, podem desaparecer com o fluxo menstrual ou continuar até a fase folicular."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 92967,
+    "tags": [],
+    "enunciado": "Em paciente com quadro de STPM (Síndrome de Tensão Pré-Menstrual), a abordagem inicial que não tem indicação é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Espironolactona."
+      },
+      {
+        "letra": "B",
+        "texto": "Anticoncepcional combinado oral cíclico."
+      },
+      {
+        "letra": "C",
+        "texto": "Gosserrelina."
+      },
+      {
+        "letra": "D",
+        "texto": "Anticoncepcional combinado oral contínuo."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 92968,
+    "tags": [],
+    "enunciado": "A forma mais severa da síndrome pré-menstrual é a disfórica. A de(cid:66)nição dessa variante requer a presença de cinco de uma série de manifestações clínicas. Entre elas, não se inclui:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ansiedade ou tensão exacerbada."
+      },
+      {
+        "letra": "B",
+        "texto": "Dificuldade de concentração."
+      },
+      {
+        "letra": "C",
+        "texto": "Hipersônia ou insônia."
+      },
+      {
+        "letra": "D",
+        "texto": "Polidpsia."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 92969,
+    "tags": [],
+    "enunciado": "A Síndrome Pré-Menstrual (SPM) consiste em um conjunto de sintomas físicos psíquicos e comportamentais, que envolvem um complexo mecanismo neuroendócrino. Sobre a SPM, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ocorre, principalmente, em ciclos anovulatórios."
+      },
+      {
+        "letra": "B",
+        "texto": "Está associada aos níveis baixos de estradiol."
+      },
+      {
+        "letra": "C",
+        "texto": "A progesterona é o tratamento de escolha."
+      },
+      {
+        "letra": "D",
+        "texto": "Distúrbios serotoninérgicos é a etiologia provável."
+      },
+      {
+        "letra": "E",
+        "texto": "A faixa etária mais prevalente é a adolescência."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 92970,
+    "tags": [],
+    "enunciado": "Sobre a Tensão Pré-Menstrual (TPM) e o Transtorno Disfórico Pré-Menstrual (TDPM) podemos afirmar: I. As pacientes com tensão pré-menstrual têm seus sintomas exacerbados em relação a TDPM uma semana antes da menstruação ( ). II. Em geral, mudanças no estilo de vida, alimentar-se com uma dieta rica em (cid:66)bras e exercícios físicos melhoram os sintomas ( ). III. Apresentam melhora com a utilização de métodos anticonceptivos que suprimem o ciclo menstrual e impedem as oscilações hormonais ( ). IV. A piora dos sintomas ocorre na fase folicular devido ao aumento da progesterona e do hormônio folículo estimulante ( ). Assinale Falso (F) ou Verdadeiro (V):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "F, V, V, F."
+      },
+      {
+        "letra": "B",
+        "texto": "V, F, F, V."
+      },
+      {
+        "letra": "C",
+        "texto": "V, F, V, F."
+      },
+      {
+        "letra": "D",
+        "texto": "V, V, V, F."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 92971,
+    "tags": [],
+    "enunciado": "O tratamento de primeira linha baseado em evidências para pacientes com síndrome de tensão pré- menstrual acarretando sintomas moderados/graves com impacto socioeconômico ou desconforto importante para a mulher é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Uso de anticoncepcionais hormonais orais."
+      },
+      {
+        "letra": "B",
+        "texto": "Uso de análogos do GnRH."
+      },
+      {
+        "letra": "C",
+        "texto": "Suplementação de vitamina B6 e cálcio."
+      },
+      {
+        "letra": "D",
+        "texto": "Ooferectomia bilateral."
+      },
+      {
+        "letra": "E",
+        "texto": "Uso de inibidores de recaptação da serotonina."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 92972,
+    "tags": [],
+    "enunciado": "Etiologia da Tensão Pré-menstrual, assinale afirmativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Determinada pela alteração da imunidade."
+      },
+      {
+        "letra": "B",
+        "texto": "Marcador biológico elevação brusca do estradiol."
+      },
+      {
+        "letra": "C",
+        "texto": "Flutuação estro/progestacional no ciclo menstrual."
+      },
+      {
+        "letra": "D",
+        "texto": "Níveis aumentado da SHBG."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 92973,
+    "tags": [],
+    "enunciado": "Mulheres em idade reprodutiva podem apresentar, no (cid:66)nal da fase lútea, queixas físicas e psiquiátricas que constituem a Síndrome Pré-Menstrual (SPM). Com relação a essa entidade clínica, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As causas exatas da SPM não são completamente conhecidas, porém existem evidências que demonstram uma desregulação no sistema serotonérgico, em virtude do aumento da atividade deste na fase lútea."
+      },
+      {
+        "letra": "B",
+        "texto": "Conforme os critérios do American College of Obstetricians and Ginecologists (2000), os sintomas da SPM devem começar, no mínimo, cindo dias antes da menstruação."
+      },
+      {
+        "letra": "C",
+        "texto": "As propriedades antimineralocorticoides e a possível inibição do sistema Renina- Angiotensina- Aldosterona, ocasionada pela ação do estrogênio, podem explicar sintomas como o inchaço e o ganho de peso na SPM."
+      },
+      {
+        "letra": "D",
+        "texto": "A piridoxina (Vitamina B6), que é um cofator da cisteína-hidroxilase, atua na síntese na serotonina e pode ser usada no tratamento da SPM, preconizando-se doses mínimas de 800 mg ao dia."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 92974,
+    "tags": [],
+    "enunciado": "Entre as inúmeras queixas de mulheres no menacme, destaca-se a dismenorreia primária, entidade molesta que em alguns casos as leva a procurar serviços de urgência. Assinale a alternativa que apresenta, corretamente, a gênese para essa moléstia.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Diminuição de endoperóxidos na segunda fase."
+      },
+      {
+        "letra": "B",
+        "texto": "Diminuição dos níveis circulantes de vasopressina."
+      },
+      {
+        "letra": "C",
+        "texto": "Altos níveis de ácido aracdônico no sangue circulante."
+      },
+      {
+        "letra": "D",
+        "texto": "Altos níveis de beta-endorfina na primeira fase."
+      },
+      {
+        "letra": "E",
+        "texto": "Aumento de estradiol em células endometriais."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 92975,
+    "tags": [],
+    "enunciado": "Em relação a síndrome pré-menstrual marque as a(cid:66)rmativas com \"V\" para verdadeiro ou \"F\" para falso e depois assinale a sequência CORRETA. ( ) Os sinais e sintomas são físicos e psicológicos ou comportamentais, apresentando relação temporal com o período pré-menstrual e com características de repetição a cada novo ciclo; ( ) Estão entre os sinais e sintomas frequentes: aumento do tamanho e da sensibilidade das mamas; ganho de peso; irritabilidade; depressão; mudanças de humor e do paladar; ( ) É importante diferenciar a síndrome pré-menstrual de outras doenças com sintomas similares, como depressão, ansiedade e psicoses; ( ) É indicado a dosagem de hormônios esteroides ovarianos para o diagnóstico etiológico de síndrome pré- menstrual devido a associação a anormalidades na produção desses hormônios.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "V, V, V, F"
+      },
+      {
+        "letra": "B",
+        "texto": "V, F, V, F"
+      },
+      {
+        "letra": "C",
+        "texto": "F, V, F, V"
+      },
+      {
+        "letra": "D",
+        "texto": "V, F, F, V"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 92976,
+    "tags": [],
+    "enunciado": "Mulher de 30 anos apresentando todos os meses antes da menstruação quadro grave de alteração de humor, instabilidade afetiva, irritabilidade e cefaleia, com prejuízo na relação com o cônjuge e no desempenho no trabalho, tem como principal hipótese diagnóstica:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Síndrome pré-menstrual."
+      },
+      {
+        "letra": "B",
+        "texto": "Transtorno bipolar."
+      },
+      {
+        "letra": "C",
+        "texto": "Dismenorréia."
+      },
+      {
+        "letra": "D",
+        "texto": "Transtorno disfórico pré-menstrual."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 92977,
+    "tags": [],
+    "enunciado": "Mulher de 25 anos procurou o médico queixando-se de que no período pré- menstrual apresenta depressão, crises de choro, distensão abdominal e mastalgia. Diante desse quadro, o médico explicou-lhe que poderia lhe prescrever alguns medicamentos eficazes, nos quais NÃO se inclui:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ácido mefenâmico."
+      },
+      {
+        "letra": "B",
+        "texto": "espironolactona."
+      },
+      {
+        "letra": "C",
+        "texto": "ácido nalidíxico."
+      },
+      {
+        "letra": "D",
+        "texto": "cálcio."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 92978,
+    "tags": [],
+    "enunciado": "Uma estudante de 14 anos, sem vida sexual ativa, veio à consulta ginecológica na Unidade de Saúde pois não estava conseguindo realizar as suas tarefas escolares devido à intensa irritabilidade, insônia, mastalgia e ansiedade antes do período menstrual, sintomas que melhoraram com o início da perda sanguínea. Qual a indicação mais adequada para melhora dos sintomas dessa paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Diurético e antidepressivo."
+      },
+      {
+        "letra": "B",
+        "texto": "Benzodiazepínico e gestrinona."
+      },
+      {
+        "letra": "C",
+        "texto": "Psicoterapia e bromoergocripitina."
+      },
+      {
+        "letra": "D",
+        "texto": "Dieta balanceada e estrogenioterapia."
+      },
+      {
+        "letra": "E",
+        "texto": "Atividade física e inibidores das prostaglandinas."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 92979,
+    "tags": [],
+    "enunciado": "Paciente, 24 anos de idade, procurou atendimento médico queixando-se de nervosismo intenso, di(cid:66)culdade de concentração, incapacidade para trabalhar, distensão abdominal, cefaleia e tensão mamária, que se iniciam cerca de cinco dias antes da menstruação, persistindo por mais ou menos oito a nove dias. Refere ciclos menstruais regulares e negou uso de medicações. Não se recorda o inicio da sintomatologia, mas relatou que o quadro clínico intensi(cid:66)cou-se no último ano, ocorrendo mensalmente. Considerando a hipótese diagnóstica mais provável, qual a melhor abordagem terapêutica?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cianocobalamina e hidroclorotiazida."
+      },
+      {
+        "letra": "B",
+        "texto": "Cloridrato de sertralina e espironolactona."
+      },
+      {
+        "letra": "C",
+        "texto": "Contraceptivos orais combinados e magnésio."
+      },
+      {
+        "letra": "D",
+        "texto": "Acetato de medroxiprogesterona e cálcio.  Respostas: 1 A 2 D 3 D 4 D 5 B 6 C 7 B 8 D 9 D 10 C 11 B 12 D 13 B 14 B 15 E 16 D 17 A 18 B 19 A 20 C 21 D 22 C 23 A 24 E 25 D 26 B 27 B 28 A 29 C 30 B 31 E 32 D 33 A 34 B 35 D 36 C 37 A 38 B 39 D 40 A 41 B 42 D 43 C 44 D 45 D 46 A 47 E 48 C 49 B 50 C 51 B 52 D 53 C 54 E 55 B"
+      }
+    ],
+    "resposta_correta": "B"
+  }
+]

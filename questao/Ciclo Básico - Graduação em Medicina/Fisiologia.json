@@ -1,0 +1,338 @@
+[
+  {
+    "id": 105012,
+    "tags": [],
+    "enunciado": "C.P., uma mulher de 75 anos, foi recentemente diagnosticada com insu(cid:34)ciência cardíaca congestiva. O médico prescreveu-lhe furosemida, um diurético de alça, para ajudar a controlar a retenção de (cid:44)uidos. Após algumas semanas de tratamento, C.P. relata sentir-se fraca e cansada. O médico suspeita de hipocalemia, uma condição que pode ser causada pela perda excessiva de potássio na urina devido ao uso de diuréticos. O médico decide prescrever um segundo medicamento para ajudar a prevenir a perda de potássio. Considerando o uso de diuréticos e a regulação do potássio no corpo de C.P. assinale a alternativa com todas as sentenças corretas. I. O amiloride é um diurético menos potente que os diuréticos de alça, mas é adequado para evitar a perda de K+ quando usado em associação com estes últimos. II.A associação de tiazídico com furosemida é adequada para reduzir a perda urinária de K+. III. Furosemida inibe a reabsorção de K+ em segmento espesso ascendente. IV. A perda de K+ induzida pelos diuréticos tiazídicos, que inibem o cotransportador Na+-Cl-, ocorre pela maior secreção do íon em células principais de duto coletor.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e III"
+      },
+      {
+        "letra": "B",
+        "texto": "III e IV"
+      },
+      {
+        "letra": "C",
+        "texto": "I, III e IV"
+      },
+      {
+        "letra": "D",
+        "texto": "II, III e IV"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105013,
+    "tags": [],
+    "enunciado": "M.A., 62 anos, sexo masculino, é encaminhado ao seu consultório para avaliação cardiológica. Ele relata cansaço fácil e falta de ar aos médios esforços, que vêm piorando ao longo dos últimos seis meses. Durante a consulta, você realiza um exame físico e ausculta cardíaca, onde percebe um sopro sistólico bem característico em área aórtica. Realiza um ecocardiograma que con(cid:34)rma a suspeita de estenose aórtica. Diante desse diagnóstico, M.A. questiona sobre possíveis alterações no volume de sangue que o coração dele está conseguindo bombear. Sobre o Volume Sistólico (VS) nesse caso clínico, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O Volume Sistólico está aumentado devido à maior resistência imposta pela estenose aórtica."
+      },
+      {
+        "letra": "B",
+        "texto": "O Volume Sistólico está diminuído devido à maior resistência imposta pela estenose aórtica."
+      },
+      {
+        "letra": "C",
+        "texto": "O Volume Sistólico está aumentado devido à sensação de cansaço fácil e falta de ar."
+      },
+      {
+        "letra": "D",
+        "texto": "O Volume Sistólico está diminuído devido à sensação de cansaço fácil e falta de ar."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105014,
+    "tags": [],
+    "enunciado": "J.S., 55 anos, sexo masculino, procura atendimento médico ambulatorial com queixa de palpitações e sensação de coração acelerado. Durante a consulta, você realiza um exame físico e ausculta cardíaca, e observa que a frequência cardíaca do paciente está aumentada. Com base no caso clínico descrito, qual é a possível alteração no Volume Sistólico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O Volume Sistólico está aumentado devido à frequência cardíaca elevada."
+      },
+      {
+        "letra": "B",
+        "texto": "O Volume Sistólico está diminuído devido à frequência cardíaca elevada."
+      },
+      {
+        "letra": "C",
+        "texto": "O Volume Sistólico está aumentado devido à presença de palpitações."
+      },
+      {
+        "letra": "D",
+        "texto": "O Volume Sistólico está diminuído, sendo o principal fator para isso o aumento da pós-carga."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105015,
+    "tags": [],
+    "enunciado": "M.F.G., sexo feminino, 70 anos, vem em consulta ambulatorial com cardiologista e conta que recentemente começou a sentir falta de ar ao caminhar ou subir escadas. Ela também percebeu que sua frequência cardíaca aumenta muito rapidamente com o mínimo de esforço. Ao exame físico, foi possível ouvir um sopro cardíaco característico, suspeito para estenose aórtica. Para con(cid:34)rmar o diagnóstico, o cardiologista pediu que ela realizasse alguns exames, incluindo um ecocardiograma e um teste de esforço. O ecocardiograma de N.F.G mostrou que sua válvula aórtica estava signi(cid:34)cativamente estreitada, reduzindo de forma signi(cid:34)cativa o (cid:44)uxo de sangue para a aorta. Além disso, seu teste de esforço mostrou aumento importante da frequência cardíaca rapidamente com pequeno esforço, além de sintomas de falta de ar.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "estenose aórtica é uma das doenças que afeta diretamente a pós-carga do paciente."
+      },
+      {
+        "letra": "A",
+        "texto": "partir das informações fornecidas, assinale a alternativa que apresenta um fator que in(cid:44)uencia a pós-carga e qual seu impacto sobre ela:"
+      },
+      {
+        "letra": "A",
+        "texto": "Resistência valvar, com relação diretamente proporcional."
+      },
+      {
+        "letra": "B",
+        "texto": "Viscosidade sanguínea, com relação inversamente proporcional."
+      },
+      {
+        "letra": "C",
+        "texto": "Aterosclerose, com relação inversamente proporcional."
+      },
+      {
+        "letra": "D",
+        "texto": "Débito cardíaco, com relação diretamente proporcional."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105016,
+    "tags": [],
+    "enunciado": "B.R.G, sexo masculino, 52 anos, compareceu ao pronto-socorro com queixa de inchaço facial, dispneia (falta de ar) progressiva e tosse seca. Ele relatou que os sintomas começaram há cerca de duas semanas e pioraram gradualmente. Também notou que seus braços e mãos estavam inchados e pesados, com uma sensação de formigamento. O exame físico revelou inchaço pronunciado do pescoço, rosto e membros superiores, além de cianose (coloração azulada) nos lábios e ponta dos dedos. Os sinais vitais foram estáveis, com oxigenação adequada, mas o exame pulmonar mostrou sons respiratórios diminuídos na base do pulmão direito.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "suspeita clínica inicial foi de síndrome da veia cava superior, que foi con(cid:34)rmada por exames de imagem, incluindo tomogra(cid:34)a computadorizada e ultrassonogra(cid:34)a Doppler, que mostraram uma massa mediastinal (na região entre os pulmões) que comprimia a veia cava superior, obstruindo o (cid:44)uxo sanguíneo e causando os sintomas descritos."
+      },
+      {
+        "letra": "A",
+        "texto": "síndrome da veia cava superior é um quadro que prejudica a pré-carga cardíaca."
+      },
+      {
+        "letra": "A",
+        "texto": "partir das informações fornecidas, assinale a alternativa que apresenta um fator que in(cid:44)uencia a pré-carga e qual seu impacto sobre ela:"
+      },
+      {
+        "letra": "A",
+        "texto": "Retorno venoso, com relação inversamente proporcional à pré-carga."
+      },
+      {
+        "letra": "B",
+        "texto": "Complacência ventricular, com relação diretamente proporcional."
+      },
+      {
+        "letra": "C",
+        "texto": "Frequência cardíaca, com relação diretamente proporcional."
+      },
+      {
+        "letra": "D",
+        "texto": "Resistência das válvulas cardíacas, com relação diretamente proporcional."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105017,
+    "tags": [],
+    "enunciado": "K.L.H, sexo feminino, 60 anos, vem ao P.S. com queixa de falta de ar e respiração acelerada há alguns meses, sendo que hoje não conseguiu nem andar dentro de casa sem ajuda. Relata também que sente seu coração acelerado mais de uma vez ao dia, geralmente com melhora espontânea após alguns minutos. Ao exame físico, foi identi(cid:34)cado um sopro cardíaco sistólico em foco aórtico. Foi realizado um Ecocardiograma que confirmou a hipótese de estenose aórtica com redução importante do fluxo pela valva.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "partir das informações apresentadas pelo caso e de acordo com os seus conhecimentos, qual dos seguintes parâmetros é o mais afetado nesse caso de Estenose aórtica?"
+      },
+      {
+        "letra": "A",
+        "texto": "Pré-carga"
+      },
+      {
+        "letra": "B",
+        "texto": "Pós-carga"
+      },
+      {
+        "letra": "C",
+        "texto": "Contratilidade miocárdica"
+      },
+      {
+        "letra": "D",
+        "texto": "Retorno venoso"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105018,
+    "tags": [],
+    "enunciado": "J.L.M, 55 anos, sexo masculino, tem histórico de hipertensão arterial, diabetes tipo 2 e tabagismo de longa data. Chega ao PS com queixa de ter acordado há cerca de 30 minutos com dor no peito intensa e falta de ar. Descreve a dor como em pressão, intensidade 10/10 e que irradia para o membro superior esquerdo e para o pescoço. Realizado ECG que identi(cid:34)cou possível área de isquemia cardíaca. O paciente foi submetido ao tratamento clinico inicial e, em seguida, encaminhado imediatamente ao cateterismo, que foi realizado sem intercorrências. Sabemos que o Infarto agudo do miocárdio é um evento que pode afetar de forma grave o desempenho sistólico cardíaco. Entre os fatores que também estão envolvidos com esse desempenho, assinale a alternativa que apresenta a melhor correção entre o fator e sua definição:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pré-carga: é a quantidade de sangue que chega aos pulmões antes da contração ventricular."
+      },
+      {
+        "letra": "B",
+        "texto": "Pós-carga: é a resistência externa ao esvaziamento do VE após início da contração ventricular e abertura da válvula aórtica."
+      },
+      {
+        "letra": "C",
+        "texto": "Contratilidade cardíaca: é a capacidade do coração de se contrair, possibilitando o enchimento ventricular durante a sístole."
+      },
+      {
+        "letra": "D",
+        "texto": "Frequência cardíaca: definida como o produto do volume sistólico pelo número de batimentos em um minuto."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105019,
+    "tags": [],
+    "enunciado": "H.L.M, 48 anos, sexo masculino, vem ao seu consultório para avaliação cardiológica. Relata que sofreu infarto agudo do miocárdio em região de ventrículo direito há 3 meses. Desde então, evoluiu com falta de ar aos médios esforços. Além disso, queixa-se de inchaço moderado em ambas as pernas diariamente, principalmente à noite. Apesar de ter compreendido seu diagnóstico, ele te questiona quanto às diferenças entre o ventrículo direito e o ventrículo esquerdo, tanto em relação a anatomia quanto a funcionalidade. Sobre isso, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A parede do ventrículo direito é mais espessa que a do ventrículo esquerdo, o que pode ser explicado pela diferença de pressão que existe entre essas 2 câmaras desde a vida fetal."
+      },
+      {
+        "letra": "B",
+        "texto": "A parede do ventrículo esquerdo é menos espessa que a do ventrículo direito, o que pode ser explicado pela necessidade que há do ventrículo direito de enviar sangue em regime de alta pressão para os pulmões, o que facilita as trocas gasosas."
+      },
+      {
+        "letra": "C",
+        "texto": "A parede do ventrículo esquerdo é mais espessa que a do ventrículo direito, o que pode ser explicado pela necessidade de maior pressão para vencer a resistência imposta pela circulação."
+      },
+      {
+        "letra": "D",
+        "texto": "A parede do ventrículo esquerdo é mais espessa que a do ventrículo direito, o que pode ser explicado pela diferença de pressão entre a aorta e a artéria pulmonar. Durante a contração ventricular, o septo interventricular costuma se desviar para dentro do ventrículo esquerdo, visto que ele tem maior pressão e contratilidade."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105020,
+    "tags": [],
+    "enunciado": "M.F.G., sexo feminino, 55 anos, vem em consulta de rotina com clínico. Queixa-se apenas de falta de ar leve aos esforços moderados e intensos, porém sem grande impacto em sua rotina diária. É tabagista há 20 anos e trata hipertensão arterial sistêmica com enalapril 1x ao dia. No exame físico, o médico identi(cid:34)cou, na ausculta cardíaca, um sopro sistólico em foco tricúspide. Foi solicitado um Ecocardiograma, que con(cid:34)rmou a hipótese de insuficiência da valva tricúspide moderada. Considerando que grá(cid:34)co abaixo representa a pressão atrial durante o ciclo cardíaco normal, quais das letras abaixo representa uma fase que estará ausente ou muito diminuída devido a Insuficiência tricúspide?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A"
+      },
+      {
+        "letra": "B",
+        "texto": "C"
+      },
+      {
+        "letra": "C",
+        "texto": "X"
+      },
+      {
+        "letra": "D",
+        "texto": "V"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105021,
+    "tags": [],
+    "enunciado": "J.L., 62 anos, sexo masculino, foi submetido a uma cirurgia abdominal há um ano para tratar de uma perfuração intestinal. Após a cirurgia, ele apresentou uma hérnia incisional em sua cicatriz cirúrgica que gradualmente aumentou de tamanho e se tornou sintomática. Foi agendada cirurgia para correção da hérnia. Logo após o procedimento, o paciente evoluiu com dor e distensão abdominal intensas associadas a diminuição da diurese e hipotensão. Foi realizada a medida da sua pressão intra-abdominal, que identi(cid:34)cou um quadro de síndrome compartimental. Apesar do tratamento conservador indicado pela equipe médica, foi necessária nova abordagem cirúrgica para descompressão abdominal. Sabemos que o aumento da pressão intra-abdominal tem um impacto no retorno venoso do paciente, reduzindo a quantidade de sangue que chega ao átrio direito, prejudicando seu enchimento. Considerando que grá(cid:34)co abaixo representa a pressão atrial durante o ciclo cardíaco normal, quais das letras abaixo representam as fases relacionadas com o enchimento atrial?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A e C"
+      },
+      {
+        "letra": "B",
+        "texto": "A, C e X"
+      },
+      {
+        "letra": "C",
+        "texto": "X e Y"
+      },
+      {
+        "letra": "D",
+        "texto": "X e V"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105022,
+    "tags": [],
+    "enunciado": "J.R.K, sexo masculino, 75 anos, hipertenso de longa data, chegou ao pronto-socorro com um quadro de palpitações recorrentes e intermitentes associadas a fadiga e dispneia aos esforços há cerca de duas semanas. Nega dor no peito, tontura ou desmaio. No exame físico, o paciente apresentava-se com pressão arterial de 130/80 mmHg, frequência cardíaca de 150 batimentos por minuto e saturação de oxigênio de 96% em ar ambiente. Demais exames estavam normais. Foi realizado eletrocardiograma (ECG), revelando um (cid:44)utter atrial com 150 batimentos por minuto. Os exames laboratoriais e o ecocardiograma não mostraram alterações. Optou-se por internação hospitalar para controle de frequência cardíaca e, posteriormente, foi realizada cardioversão elétrica sincronizada. Sabemos que o (cid:44)utter é uma arritmia que ocorre nos átrios. Além disso, o enchimento ventricular envolve 2 processos diferentes: o primeiro é a passagem de sangue de forma passiva entre átrios e ventriculares devido a diferença de pressão entre eles e o segundo ocorre devido a contração atrial, sendo responsável por menos de 30% do volume de enchimento ventricular. Considerando que o flutter interfere principalmente na sincronia entre a sístole atrial e o relaxamento ventricular e que o grá(cid:34)co abaixo representa a pressão atrial durante o ciclo cardíaco normal, qual das letras abaixo aponta a fase que sofrerá maior alteração pelo flutter atrial? Livro Semiologia Cardíaca, Figura 8",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Curva A"
+      },
+      {
+        "letra": "B",
+        "texto": "Curva C"
+      },
+      {
+        "letra": "C",
+        "texto": "Curva X"
+      },
+      {
+        "letra": "D",
+        "texto": "Curva V"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105023,
+    "tags": [],
+    "enunciado": "E.J.F, 62 anos, sexo masculino, chega ao Pronto socorro com história de acidente de carro há 30 minutos. Estava dirigindo a cerca de 60km/h, quando perdeu o controle do veículo e chocou-se contra um poste. Não apresenta comorbidades nem faz uso de medicamentos continuamente. Chega a sala de atendimento ao trauma em regular estado geral, lúcido, orientado, em prancha rígida e com colar cervical. Na avaliação inicial apresenta via aérea pérvia, conversando sem di(cid:34)culdades, porém apresenta sinais de desconforto respiratório, saturação de 88%, PA 82x46mmHg; Tórax direito é timpânico a percussão, ausculta pulmonar abolida a direita e tem estase jugular também do lado direito. Foi feita a hipótese diagnóstico de pneumotórax hipertensivo, sendo optado por punção com agulha em 5 espaço intercostal seguida de drenagem torácica, com melhora importante do quadro após. Sabe-se que a diástole, momento em que ocorre o relaxamento e o enchimento dos ventrículos, é uma das etapas do ciclo cardíaco prejudicadas pelo pneumotórax hipertensivo. Considerando que a curva abaixo representa a pressão atrial normal nas diferentes fases de um ciclo cardíaco normal, assinale a alternativa que representa o momento em que o sangue passa a (cid:44)uir dos átrios para os ventrículos e a explicação mais adequada para que isso ocorra: Livro Semiologia Cardíaca, Figura 8",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Curva A, momento em que ocorre a contração atrial, promovendo abertura das válvulas atrioventriculares e passagem de sangue dos átrios para os ventrículos."
+      },
+      {
+        "letra": "B",
+        "texto": "Curva C, momento em que, após abertura das válvulas atrioventriculares no ponto A, há passagem de sangue dos átrios para os ventrículos de forma passiva pela diferença de pressão entre as câmaras."
+      },
+      {
+        "letra": "C",
+        "texto": "Curva Y, momento em que há abertura das válvulas atrioventriculares devido a diferença de pressão entre átrios e ventrículos, permitindo a passagem de sangue de forma passiva."
+      },
+      {
+        "letra": "D",
+        "texto": "Curva X, momento que representa uma queda importante da pressão nos átrios devido à abertura das válvulas atrioventriculares e à contração atrial, permitindo a passagem de sangue de forma ativa dos átrios para os ventrículos."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105024,
+    "tags": [],
+    "enunciado": "Assinale a alternativa que apresenta um efeito positivo gerado pela febre no organismo humano.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aumento da demanda metabólica e consumo de oxigênio nos quadros em que existe lesão miocárdica e neurológica."
+      },
+      {
+        "letra": "B",
+        "texto": "Convulsão febril em crianças."
+      },
+      {
+        "letra": "C",
+        "texto": "Aceleração da resposta imune do organismo ao agente invasor patogênico."
+      },
+      {
+        "letra": "D",
+        "texto": "Redução dos agentes de fase aguda e aumento de NF-kB. 4000172000 Respostas: 1 C 2 B 3 B 4 A 5 B 6 B 7 B 8 C 9 B 10 D 11 A 12 C 13 C"
+      }
+    ],
+    "resposta_correta": "C"
+  }
+]

@@ -1,0 +1,1305 @@
+[
+  {
+    "id": 105197,
+    "tags": [],
+    "enunciado": "Foi realizado um estudo sobre a capacidade da ultrassonogra(cid:33)a diagnosticar câncer em nódulos mamários em 400 pacientes atendidas no ambulatório de mama de um hospital terciário. As impressões das ultrassonogra(cid:33)as foram comparadas aos resultados dos exames anátomopatológicos das biópsias dos nódulos. Dos 100 nódulos com biópsias positivas para carcinoma, 90 foram diagnosticados pela ecogra(cid:33)a como sendo malignos. Entre os 300 nódulos com biópsias negativas, a ecogra(cid:33)a classi(cid:33)cou 25 como malignos. a. Qual é a sensibilidade da ecografia no diagnóstico do câncer de mama nesse estudo? b. Qual foi o valor preditivo negativo da ecografia no diagnóstico do câncer de mama nesse estudo? 4000230743",
+    "alternativas": [],
+    "resposta_correta": null
+  },
+  {
+    "id": 105198,
+    "tags": [],
+    "enunciado": "Um estudo de coorte prospectivo investiga o efeito do tabagismo no risco de desenvolver doença pulmonar obstrutiva crônica (DPOC) em uma população livre da doença no início do estudo. Os pesquisadores acompanham os participantes por 10 anos e registram a incidência de DPOC em fumantes e não fumantes. Qual medida de associação é mais apropriada para ser calculada neste tipo de estudo?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Odds ratio (razão de chances)"
+      },
+      {
+        "letra": "B",
+        "texto": "Risk ratio (razão de riscos)"
+      },
+      {
+        "letra": "C",
+        "texto": "Diferença de riscos"
+      },
+      {
+        "letra": "D",
+        "texto": "Número necessário para tratar (NNT)"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105199,
+    "tags": [],
+    "enunciado": "Um estudo de caso-controle investiga a associação entre a exposição a pesticidas e o desenvolvimento de câncer de próstata. Os pesquisadores coletam informações sobre a exposição a pesticidas em 200 pacientes com câncer de próstata (casos) e 200 pacientes sem câncer de próstata (controles). Qual medida de associação é mais apropriada para ser calculada neste tipo de estudo?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Odds ratio (razão de chances)"
+      },
+      {
+        "letra": "B",
+        "texto": "Risk ratio (razão de riscos)"
+      },
+      {
+        "letra": "C",
+        "texto": "Diferença de riscos"
+      },
+      {
+        "letra": "D",
+        "texto": "Número necessário para tratar (NNT)"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105200,
+    "tags": [],
+    "enunciado": "Em uma meta-análise sobre a e(cid:33)cácia de um medicamento para reduzir o risco de eventos cardiovasculares, os pesquisadores apresentam um forest plot para ilustrar os resultados combinados dos estudos incluídos. No grá(cid:33)co, a linha vertical representa a razão de risco igual a 1, e os quadrados representam as estimativas pontuais dos efeitos do tratamento em cada estudo, com tamanhos proporcionais ao peso atribuído a cada estudo. As linhas horizontais que cruzam os quadrados representam os intervalos de con(cid:33)ança de 95%. Como interpretar o forest plot se a maioria dos intervalos de confiança cruza a linha vertical?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O tratamento é eficaz na redução do risco de eventos cardiovasculares."
+      },
+      {
+        "letra": "B",
+        "texto": "O tratamento não é eficaz na redução do risco de eventos cardiovasculares."
+      },
+      {
+        "letra": "C",
+        "texto": "A maioria dos estudos incluídos na meta-análise não mostra uma associação estatisticamente significativa entre o tratamento e a redução do risco de eventos cardiovasculares."
+      },
+      {
+        "letra": "D",
+        "texto": "A maioria dos estudos incluídos na meta-análise apresenta viés de publicação."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105201,
+    "tags": [],
+    "enunciado": "Um pesquisador está conduzindo uma meta-análise para investigar a associação entre a exposição à poluição do ar e o risco de desenvolver doenças respiratórias. Ele identi(cid:33)ca um possível viés de publicação nos estudos incluídos. Qual técnica gráfica é frequentemente utilizada para ajudar a identificar a presença de viés de publicação em uma meta-análise?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Gráfico de dispersão"
+      },
+      {
+        "letra": "B",
+        "texto": "Gráfico de barras"
+      },
+      {
+        "letra": "C",
+        "texto": "Funnel plot (gráfico de funil)"
+      },
+      {
+        "letra": "D",
+        "texto": "Gráfico de pizza"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105202,
+    "tags": [],
+    "enunciado": "Durante a realização de uma meta-análise, os pesquisadores observam uma grande heterogeneidade entre os estudos incluídos. Essa heterogeneidade pode ser atribuída a diferenças nas populações estudadas, nos desenhos dos estudos e nas intervenções utilizadas. Qual abordagem é mais apropriada para lidar com a heterogeneidade nesse caso?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Utilizar um modelo de efeitos fixos na meta-análise."
+      },
+      {
+        "letra": "B",
+        "texto": "Utilizar um modelo de efeitos aleatórios na meta-análise."
+      },
+      {
+        "letra": "C",
+        "texto": "Excluir estudos com alta heterogeneidade da análise."
+      },
+      {
+        "letra": "D",
+        "texto": "Realizar uma análise de sensibilidade para identificar estudos que contribuem para a heterogeneidade."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105203,
+    "tags": [],
+    "enunciado": "Um grupo de pesquisadores está realizando uma revisão sistemática e meta-análise para avaliar a e(cid:33)cácia de um novo medicamento para o tratamento da hipertensão. Eles identi(cid:33)caram diversos estudos publicados e coletaram dados sobre a redução da pressão arterial sistólica nos grupos de tratamento e controle. Qual é o principal objetivo de realizar uma meta-análise nesse contexto?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Identificar a presença de viés de publicação nos estudos incluídos."
+      },
+      {
+        "letra": "B",
+        "texto": "Aumentar o poder estatístico e a precisão das estimativas, combinando os resultados de vários estudos."
+      },
+      {
+        "letra": "C",
+        "texto": "Estabelecer a causalidade entre o novo medicamento e a redução da pressão arterial."
+      },
+      {
+        "letra": "D",
+        "texto": "Avaliar a homogeneidade entre os estudos incluídos."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105204,
+    "tags": [],
+    "enunciado": "Um estudo de coorte prospectivo acompanha pacientes com insu(cid:33)ciência cardíaca congestiva ao longo de 5 anos. Os pesquisadores estão interessados em determinar fatores de risco associados ao tempo de sobrevida nesse grupo de pacientes. Eles coletam informações sobre idade, sexo, comorbidades, hábitos de vida e tratamentos recebidos. Qual método de análise é mais adequado para avaliar a relação entre os fatores de risco e o tempo até o óbito neste contexto?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Regressão linear múltipla"
+      },
+      {
+        "letra": "B",
+        "texto": "Regressão logística"
+      },
+      {
+        "letra": "C",
+        "texto": "Regressão de Cox (modelo de riscos proporcionais)"
+      },
+      {
+        "letra": "D",
+        "texto": "Teste qui-quadrado"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105205,
+    "tags": [],
+    "enunciado": "Um estudo clínico acompanha pacientes diagnosticados com câncer de mama em estágio inicial para investigar a e(cid:33)cácia de um novo tratamento. O objetivo do estudo é comparar a taxa de sobrevivência dos pacientes que receberam o novo tratamento com a taxa de sobrevivência dos pacientes que receberam o tratamento padrão. Ao longo do estudo, alguns pacientes são perdidos no acompanhamento. Qual método de análise é mais adequado para lidar com os dados de sobrevivência e as possíveis perdas no acompanhamento?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Teste t de Student"
+      },
+      {
+        "letra": "B",
+        "texto": "ANOVA (Análise de Variância)"
+      },
+      {
+        "letra": "C",
+        "texto": "Método de Kaplan-Meier"
+      },
+      {
+        "letra": "D",
+        "texto": "Regressão logística"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105206,
+    "tags": [],
+    "enunciado": "Um grupo de pesquisadores deseja investigar o impacto do consumo de álcool durante a gravidez no desenvolvimento cognitivo das crianças. Eles coletam informações sobre o consumo de álcool das mães durante a gravidez e avaliam o desenvolvimento cognitivo das crianças aos 5 anos de idade. Qual tipo de estudo observacional é mais adequado para essa investigação e por quê?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Estudo de caso-controle, porque compara indivíduos com e sem a exposição de interesse."
+      },
+      {
+        "letra": "B",
+        "texto": "Estudo de coorte, porque acompanha um grupo de indivíduos ao longo do tempo e permite a avaliação de múltiplos desfechos em relação à exposição."
+      },
+      {
+        "letra": "C",
+        "texto": "Estudo transversal, porque avalia a exposição e o desfecho em um único momento."
+      },
+      {
+        "letra": "D",
+        "texto": "Ensaio clínico randomizado, porque permite estabelecer relações de causalidade entre a exposição e o desfecho."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105207,
+    "tags": [],
+    "enunciado": "Um estudo epidemiológico pretende investigar a associação entre o consumo de carne vermelha e o risco de desenvolver câncer de cólon. Os pesquisadores acompanham um grupo de pessoas por um período de 10 anos, registrando a quantidade de carne vermelha consumida e o desenvolvimento de câncer de cólon. Qual tipo de estudo observacional é mais adequado para essa investigação?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Estudo de caso-controle"
+      },
+      {
+        "letra": "B",
+        "texto": "Estudo de coorte"
+      },
+      {
+        "letra": "C",
+        "texto": "Estudo transversal"
+      },
+      {
+        "letra": "D",
+        "texto": "Ensaio clínico randomizado"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105208,
+    "tags": [],
+    "enunciado": "Um estudo está sendo realizado para investigar a prevalência de hipertensão em uma população adulta. Os pesquisadores medem a pressão arterial de todos os participantes em um único momento e classi(cid:33)cam os indivíduos como hipertensos ou não hipertensos com base nos resultados. Qual tipo de estudo observacional está sendo realizado?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Estudo de caso-controle"
+      },
+      {
+        "letra": "B",
+        "texto": "Estudo de coorte"
+      },
+      {
+        "letra": "C",
+        "texto": "Estudo transversal"
+      },
+      {
+        "letra": "D",
+        "texto": "Ensaio clínico randomizado"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105209,
+    "tags": [],
+    "enunciado": "Um grupo de pesquisadores deseja investigar a relação entre a exposição ao fumo passivo durante a infância e o desenvolvimento de doenças pulmonares na vida adulta. Eles coletam informações sobre a exposição ao fumo passivo em um grupo de crianças e acompanham o diagnóstico de doenças pulmonares quando essas crianças viram adultas. Qual tipo de estudo observacional é mais adequado para esta investigação?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Estudo de caso-controle"
+      },
+      {
+        "letra": "B",
+        "texto": "Estudo de coorte"
+      },
+      {
+        "letra": "C",
+        "texto": "Estudo transversal"
+      },
+      {
+        "letra": "D",
+        "texto": "Ensaio clínico randomizado"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105210,
+    "tags": [],
+    "enunciado": "Um estudo foi conduzido para comparar o efeito de diferentes abordagens terapêuticas no tratamento da hipertensão. Quatro abordagens foram testadas: terapia medicamentosa, exercício físico, dieta e combinação de medicamento, exercício e dieta. Após seis meses de tratamento, a pressão arterial sistólica foi medida em todos os pacientes participantes. Os pesquisadores realizam uma ANOVA de um fator para analisar os dados e obtêm um valor de p < 0,05. O que isso sugere sobre os resultados do estudo?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não há diferenças significativas entre as médias das pressões arteriais sistólicas dos quatro grupos."
+      },
+      {
+        "letra": "B",
+        "texto": "Há uma diferença significativa entre pelo menos dois dos grupos de tratamento, mas a ANOVA não indica quais."
+      },
+      {
+        "letra": "C",
+        "texto": "Há diferenças significativas entre todas as médias das pressões arteriais sistólicas dos quatro grupos."
+      },
+      {
+        "letra": "D",
+        "texto": "A ANOVA não é o teste adequado para essa situação, e os resultados não são confiáveis."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105211,
+    "tags": [],
+    "enunciado": "Um grupo de pesquisadores está interessado em comparar a e(cid:33)cácia de três diferentes medicamentos (A, B e C) no controle da glicemia em pacientes com diabetes tipo 2. Para isso, eles selecionam aleatoriamente 30 pacientes e os dividem igualmente entre os três grupos de tratamento. Após três meses de tratamento, os pesquisadores medem a glicemia em cada grupo. Qual teste estatístico deve ser usado para determinar se há diferenças significativas entre as médias das glicemias nos três grupos?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Teste t de Student"
+      },
+      {
+        "letra": "B",
+        "texto": "Teste de Kruskal-Wallis"
+      },
+      {
+        "letra": "C",
+        "texto": "Teste qui-quadrado"
+      },
+      {
+        "letra": "D",
+        "texto": "ANOVA (Análise de Variância)"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105212,
+    "tags": [],
+    "enunciado": "Um estudo investiga a relação entre a quantidade de atividade física (em horas por semana) e a pressão arterial em um grupo de 500 adultos. Os pesquisadores realizam uma análise de regressão linear e obtêm uma equação de regressão com uma inclinação negativa. Qual das seguintes a(cid:33)rmações é verdadeira com base nessa informação?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aumentar a quantidade de atividade física está associado a uma pressão arterial maior."
+      },
+      {
+        "letra": "B",
+        "texto": "A quantidade de atividade física não tem relação com a pressão arterial."
+      },
+      {
+        "letra": "C",
+        "texto": "Aumentar a quantidade de atividade física está associado a uma menor pressão arterial."
+      },
+      {
+        "letra": "D",
+        "texto": "A análise de regressão linear é inadequada para analisar a relação entre atividade física e pressão arterial."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105213,
+    "tags": [],
+    "enunciado": "Um estudo clínico está sendo realizado para avaliar a relação entre o tempo desde o diagnóstico de infarto do miocárdio (em meses) e a capacidade funcional do paciente, medida pelo teste de caminhada de seis minutos. Os pesquisadores decidem analisar a correlação e a regressão entre as duas variáveis. Eles observam que a correlação é negativa. O que isso sugere sobre a relação entre o tempo desde o diagnóstico e a capacidade funcional?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Quanto mais tempo desde o diagnóstico, maior a capacidade funcional do paciente."
+      },
+      {
+        "letra": "B",
+        "texto": "Quanto mais tempo desde o diagnóstico, menor a capacidade funcional do paciente."
+      },
+      {
+        "letra": "C",
+        "texto": "Não há relação entre o tempo desde o diagnóstico e a capacidade funcional do paciente."
+      },
+      {
+        "letra": "D",
+        "texto": "A capacidade funcional do paciente é independente do tempo desde o diagnóstico."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105214,
+    "tags": [],
+    "enunciado": "Uma equipe de médicos está estudando a relação entre o índice de massa corporal (IMC) e o nível de glicose em jejum em pacientes com diabetes tipo 2. Eles coletaram dados de 200 pacientes e realizaram uma análise de regressão linear. O coe(cid:33)ciente de determinação (R²) encontrado foi de 0,64. O que isso signi(cid:33)ca em relação à variabilidade da glicose em jejum e o IMC dos pacientes?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O IMC explica 64% da variabilidade na glicose em jejum dos pacientes."
+      },
+      {
+        "letra": "B",
+        "texto": "O IMC explica 36% da variabilidade na glicose em jejum dos pacientes."
+      },
+      {
+        "letra": "C",
+        "texto": "A glicose em jejum explica 64% da variabilidade no IMC dos pacientes."
+      },
+      {
+        "letra": "D",
+        "texto": "A glicose em jejum explica 36% da variabilidade no IMC dos pacientes."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105215,
+    "tags": [],
+    "enunciado": "Um grupo de pesquisadores está investigando a relação entre o consumo de sal e a pressão arterial em pacientes com hipertensão arterial. Eles coletaram dados de 100 pacientes, medindo a quantidade diária de sal consumida (em gramas) e a pressão arterial sistólica (em mmHg). Os pesquisadores decidem analisar a correlação entre as duas variáveis para determinar se existe uma relação linear entre o consumo de sal e a pressão arterial sistólica. Qual dos seguintes métodos estatísticos deve ser utilizado para investigar a existência de uma relação linear entre as variáveis?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Coeficiente de correlação de Pearson"
+      },
+      {
+        "letra": "B",
+        "texto": "Teste de normalidade de Shapiro-Wilk"
+      },
+      {
+        "letra": "C",
+        "texto": "Teste t de Student"
+      },
+      {
+        "letra": "D",
+        "texto": "Teste qui-quadrado"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105216,
+    "tags": [],
+    "enunciado": "Um estudo observacional deseja investigar a relação entre a idade e a incidência de uma doença especí(cid:33)ca. Os pesquisadores coletam dados de 100 pacientes e estimam a correlação entre a idade e a incidência da doença. Eles também calculam um intervalo de con(cid:33)ança de 95% para o coe(cid:33)ciente de correlação. Se o intervalo de confiança incluir zero, o que isso indica sobre a relação entre a idade e a incidência da doença?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Há uma correlação forte e positiva entre idade e incidência da doença."
+      },
+      {
+        "letra": "B",
+        "texto": "Há uma correlação forte e negativa entre idade e incidência da doença."
+      },
+      {
+        "letra": "C",
+        "texto": "Não há evidências suficientes para afirmar que existe uma correlação significativa entre idade e incidência da doença."
+      },
+      {
+        "letra": "D",
+        "texto": "A correlação entre idade e incidência da doença é exatamente zero."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105217,
+    "tags": [],
+    "enunciado": "Em um estudo clínico, os pesquisadores estão interessados em estimar o efeito médio de um novo medicamento na redução da pressão arterial sistólica. Eles obtêm uma amostra de 50 pacientes e calculam um intervalo de con(cid:33)ança de 95% para a média populacional da redução da pressão arterial sistólica. Esse intervalo de confiança é de 8,5 ± 3,2 mmHg. Como os pesquisadores devem interpretar esse intervalo?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A redução média da pressão arterial sistólica na população está entre 5,3 e 11,7 mmHg com 95% de confiança."
+      },
+      {
+        "letra": "B",
+        "texto": "A redução média da pressão arterial sistólica na população é exatamente 8,5 mmHg."
+      },
+      {
+        "letra": "C",
+        "texto": "A redução média da pressão arterial sistólica na amostra está entre 5,3 e 11,7 mmHg com 95% de confiança."
+      },
+      {
+        "letra": "D",
+        "texto": "A redução média da pressão arterial sistólica na amostra é exatamente 8,5 mmHg."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105218,
+    "tags": [],
+    "enunciado": "Um estudo está sendo realizado para investigar a prevalência de hipertensão em uma população. Os pesquisadores coletam uma amostra aleatória de indivíduos e determinam a proporção deles que têm hipertensão. Eles querem construir um intervalo de con(cid:33)ança de 99% em torno dessa proporção. O que acontece com a largura do intervalo de confiança quando o nível de confiança aumenta de 95% para 99%?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O intervalo de confiança fica mais estreito."
+      },
+      {
+        "letra": "B",
+        "texto": "O intervalo de confiança fica mais largo."
+      },
+      {
+        "letra": "C",
+        "texto": "O intervalo de confiança permanece o mesmo."
+      },
+      {
+        "letra": "D",
+        "texto": "Não é possível determinar sem mais informações."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105219,
+    "tags": [],
+    "enunciado": "Em um estudo clínico, os pesquisadores investigam o efeito de uma nova dieta na perda de peso de um grupo de participantes. Eles coletam dados de peso antes e depois do período de estudo e calculam a média e o desvio padrão da perda de peso. Os pesquisadores também calculam um intervalo de con(cid:33)ança de 95% para a média da perda de peso. Se o intervalo de con(cid:33)ança for -5 a -3 kg, qual das seguintes conclusões pode ser tirada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A nova dieta não teve nenhum efeito na perda de peso."
+      },
+      {
+        "letra": "B",
+        "texto": "A nova dieta teve um efeito significativo na perda de peso."
+      },
+      {
+        "letra": "C",
+        "texto": "A nova dieta teve um efeito insignificante na perda de peso."
+      },
+      {
+        "letra": "D",
+        "texto": "A nova dieta aumentou o peso dos participantes."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105220,
+    "tags": [],
+    "enunciado": "Um estudo investiga a in(cid:82)uência do consumo de cafeína na frequência cardíaca de um grupo de participantes. Os pesquisadores dividem os participantes em dois grupos: um que consome cafeína e outro que recebe um placebo. Após o experimento, eles medem a frequência cardíaca dos participantes. Para testar se há uma diferença signi(cid:33)cativa na frequência cardíaca entre os dois grupos, os pesquisadores planejam realizar um teste de hipóteses. Se os pesquisadores descobrirem que a variância da frequência cardíaca é significativamente diferente entre os grupos, qual teste estatístico seria mais apropriado?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Teste t de Student para amostras independentes assumindo homocedasticidade"
+      },
+      {
+        "letra": "B",
+        "texto": "Teste t de Student para amostras independentes assumindo heteroscedasticidade"
+      },
+      {
+        "letra": "C",
+        "texto": "Teste de Mann-Whitney"
+      },
+      {
+        "letra": "D",
+        "texto": "Teste qui-quadrado"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105221,
+    "tags": [],
+    "enunciado": "Um estudo investiga a e(cid:33)cácia de um programa de treinamento de força na melhoria do desempenho atlético. Os pesquisadores coletam dados sobre o desempenho atlético antes e depois do programa e querem testar se o programa de treinamento teve um efeito positivo. Eles decidem usar um teste t de Student bicaudado pareado com um nível de signi(cid:33)cância de 0,05. Se o valor-p obtido for 0,03 e o desempenho após foi mais alto que antes, qual conclusão pode ser tirada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Rejeitar a hipótese nula e concluir que o programa de treinamento melhorou o desempenho atlético."
+      },
+      {
+        "letra": "B",
+        "texto": "Rejeitar a hipótese nula, mas não concluir que o programa de treinamento melhorou o desempenho atlético."
+      },
+      {
+        "letra": "C",
+        "texto": "Não rejeitar a hipótese nula e concluir que o programa de treinamento não teve efeito no desempenho atlético."
+      },
+      {
+        "letra": "D",
+        "texto": "Não rejeitar a hipótese nula, mas não concluir que o programa de treinamento não teve efeito no desempenho atlético."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105222,
+    "tags": [],
+    "enunciado": "Em uma pesquisa sobre a qualidade do sono, os pesquisadores medem a quantidade de horas de sono por noite em dois grupos de participantes: um grupo que pratica meditação e outro que não pratica. Eles querem testar se a média de horas de sono é maior no grupo que pratica meditação. Qual das alternativas a seguir é a hipótese nula apropriada para esse teste?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "H0: A média de horas de sono é igual nos dois grupos."
+      },
+      {
+        "letra": "B",
+        "texto": "H0: A média de horas de sono é maior no grupo que pratica meditação."
+      },
+      {
+        "letra": "C",
+        "texto": "H0: A média de horas de sono é menor no grupo que pratica meditação."
+      },
+      {
+        "letra": "D",
+        "texto": "H0: A média de horas de sono é diferente nos dois grupos."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105223,
+    "tags": [],
+    "enunciado": "Um estudo analisa a relação entre o consumo de um determinado alimento e a incidência de doenças cardiovasculares em uma população. Os pesquisadores coletam dados categóricos sobre o consumo do alimento (alto, médio ou baixo) e a incidência de doenças cardiovasculares (sim ou não). Qual teste de hipóteses é apropriado para avaliar a associação entre o consumo do alimento e a incidência de doenças cardiovasculares?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Teste t de Student"
+      },
+      {
+        "letra": "B",
+        "texto": "Teste de Mann-Whitney"
+      },
+      {
+        "letra": "C",
+        "texto": "Teste qui-quadrado"
+      },
+      {
+        "letra": "D",
+        "texto": "Teste de Fisher"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105224,
+    "tags": [],
+    "enunciado": "Um estudo está sendo realizado para determinar se o tempo médio de recuperação após uma cirurgia é diferente entre dois grupos de pacientes: um que segue um protocolo de reabilitação e outro que não segue. Os pesquisadores assumem que os dados não seguem uma distribuição normal. Qual teste de hipóteses seria adequado neste caso?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Teste t de Student para amostras independentes"
+      },
+      {
+        "letra": "B",
+        "texto": "Teste t de Student para amostras pareadas"
+      },
+      {
+        "letra": "C",
+        "texto": "Teste de Mann-Whitney"
+      },
+      {
+        "letra": "D",
+        "texto": "Teste qui-quadrado"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105225,
+    "tags": [],
+    "enunciado": "Um estudo avalia a e(cid:33)cácia de um novo medicamento para a redução da pressão arterial. Os pesquisadores coletam informações sobre a pressão arterial antes e depois do tratamento com o medicamento. Eles querem veri(cid:33)car se há uma diferença estatisticamente signi(cid:33)cativa na pressão arterial antes e depois do tratamento. Qual teste de hipóteses seria adequado para essa análise?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Teste t de Student para amostras pareadas"
+      },
+      {
+        "letra": "B",
+        "texto": "Teste t de Student para amostras independentes"
+      },
+      {
+        "letra": "C",
+        "texto": "Teste de Mann-Whitney"
+      },
+      {
+        "letra": "D",
+        "texto": "Teste qui-quadrado"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105226,
+    "tags": [],
+    "enunciado": "Um estudo acompanha pacientes com diabetes tipo 2 para avaliar a e(cid:33)cácia de um novo tratamento. Os pesquisadores estão interessados no número de consultas médicas necessárias até que os pacientes atinjam um controle adequado da glicose no sangue. Qual distribuição de probabilidade é adequada para modelar o número de consultas médicas até que o controle adequado da glicose seja alcançado?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Distribuição binomial"
+      },
+      {
+        "letra": "B",
+        "texto": "Distribuição de Poisson"
+      },
+      {
+        "letra": "C",
+        "texto": "Distribuição normal"
+      },
+      {
+        "letra": "D",
+        "texto": "Distribuição geométrica"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105227,
+    "tags": [],
+    "enunciado": "Um estudo busca avaliar a e(cid:33)cácia de uma nova vacina para prevenir a transmissão de um vírus. Os participantes são divididos em dois grupos: um que recebe a vacina e outro que recebe um placebo. Os pesquisadores registram se os participantes do estudo foram infectados ou não pelo vírus durante o período de acompanhamento. Qual distribuição de probabilidade é apropriada para modelar a probabilidade de um certo número de participantes serem infectados pelo vírus?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Distribuição binomial"
+      },
+      {
+        "letra": "B",
+        "texto": "Distribuição de Poisson"
+      },
+      {
+        "letra": "C",
+        "texto": "Distribuição normal"
+      },
+      {
+        "letra": "D",
+        "texto": "Distribuição geométrica"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105228,
+    "tags": [],
+    "enunciado": "Em um estudo sobre a incidência de infecções hospitalares, os pesquisadores coletam dados sobre o número de infecções por paciente em um período de 30 dias. Eles descobrem que a média de infecções por paciente é de 1,5 no período. Qual distribuição de probabilidade é adequada para modelar o número de infecções por paciente neste cenário?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Distribuição binomial"
+      },
+      {
+        "letra": "B",
+        "texto": "Distribuição de Poisson"
+      },
+      {
+        "letra": "C",
+        "texto": "Distribuição normal"
+      },
+      {
+        "letra": "D",
+        "texto": "Distribuição geométrica"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105229,
+    "tags": [],
+    "enunciado": "Um hospital está conduzindo um estudo sobre o tempo de internação de pacientes que se submeteram a uma cirurgia cardíaca. Os pesquisadores observaram que o tempo de internação segue uma distribuição simétrica, com média de 10 dias e desvio padrão de 2 dias. Qual distribuição de probabilidade é apropriada para descrever o tempo de internação dos pacientes neste caso?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Distribuição binomial"
+      },
+      {
+        "letra": "B",
+        "texto": "Distribuição de Poisson"
+      },
+      {
+        "letra": "C",
+        "texto": "Distribuição normal"
+      },
+      {
+        "letra": "D",
+        "texto": "Distribuição geométrica"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105230,
+    "tags": [],
+    "enunciado": "Uma pesquisa busca avaliar a associação entre o consumo de frutas e a melhoria dos sintomas de pacientes com síndrome do intestino irritável. Os pesquisadores coletam dados sobre a quantidade diária de frutas consumidas e a pontuação dos sintomas em uma escala de 0 a 100. Ao analisar os dados, eles percebem que há uma grande variabilidade nas pontuações dos sintomas entre os pacientes. Qual medida de dispersão poderia ser utilizada para quantificar essa variabilidade?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Média"
+      },
+      {
+        "letra": "B",
+        "texto": "Mediana"
+      },
+      {
+        "letra": "C",
+        "texto": "Amplitude interquartil"
+      },
+      {
+        "letra": "D",
+        "texto": "Moda"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105231,
+    "tags": [],
+    "enunciado": "Em um estudo para avaliar a e(cid:33)cácia de um novo medicamento para reduzir os níveis de colesterol, os pesquisadores coletam informações sobre os níveis de colesterol total dos participantes antes e após o tratamento. Eles observam que a média dos níveis de colesterol após o tratamento é menor, mas a dispersão dos valores é maior. Qual das seguintes medidas de dispersão pode ser usada para con(cid:33)rmar essa observação?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Moda"
+      },
+      {
+        "letra": "B",
+        "texto": "Mediana"
+      },
+      {
+        "letra": "C",
+        "texto": "Variância"
+      },
+      {
+        "letra": "D",
+        "texto": "Odds ratio"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105232,
+    "tags": [],
+    "enunciado": "Um grupo de cientistas está investigando a relação entre a quantidade de exercício físico e a redução dos níveis de glicose em pacientes com diabetes tipo 2. Eles coletam dados sobre a duração diária do exercício e os níveis de glicose em jejum. Para compreender melhor a distribuição dos dados, os pesquisadores devem analisar quais medidas de dispersão?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Média e mediana"
+      },
+      {
+        "letra": "B",
+        "texto": "Média e desvio padrão"
+      },
+      {
+        "letra": "C",
+        "texto": "Variância e desvio padrão"
+      },
+      {
+        "letra": "D",
+        "texto": "Mediana e amplitude interquartil"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105233,
+    "tags": [],
+    "enunciado": "Um estudo analisa o impacto de diferentes tratamentos para hipertensão em pacientes diabéticos. Os pesquisadores coletam os valores de pressão arterial sistólica antes e após cada tratamento. Eles querem comparar as médias das pressões arteriais sistólicas e identi(cid:33)car qual tratamento teve maior impacto na redução da pressão. Além da média, qual outra medida de tendência central pode ser útil nessa comparação?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Mediana"
+      },
+      {
+        "letra": "B",
+        "texto": "Moda"
+      },
+      {
+        "letra": "C",
+        "texto": "Variância"
+      },
+      {
+        "letra": "D",
+        "texto": "Desvio padrão"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105234,
+    "tags": [],
+    "enunciado": "Uma pesquisa busca analisar a relação entre a obesidade e o desenvolvimento de diabetes mellitus tipo 2. Os pesquisadores coletam informações como índice de massa corporal (IMC), circunferência abdominal, níveis de glicose no sangue e presença ou ausência de diabetes tipo 2. Considerando os tipos de variáveis, qual das alternativas a seguir descreve corretamente a variável que representa a presença ou ausência de diabetes tipo 2 e a escala de medida do IMC?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Presença ou ausência de diabetes tipo 2: variável categórica; IMC: variável contínua."
+      },
+      {
+        "letra": "B",
+        "texto": "Presença ou ausência de diabetes tipo 2: variável ordinal; IMC: variável categórica."
+      },
+      {
+        "letra": "C",
+        "texto": "Presença ou ausência de diabetes tipo 2: variável categórica; IMC: variável ordinal."
+      },
+      {
+        "letra": "D",
+        "texto": "Presença ou ausência de diabetes tipo 2: variável contínua; IMC: variável categórica."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105235,
+    "tags": [],
+    "enunciado": "Um estudo longitudinal está sendo conduzido para investigar a associação entre o consumo de alimentos ricos em sódio e o desenvolvimento de hipertensão arterial em adultos. Os dados coletados incluem o consumo diário de sódio (baixo, médio e alto), a pressão arterial sistólica e diastólica, e a classi(cid:33)cação da hipertensão (normal, pré-hipertensão, hipertensão estágio 1 e hipertensão estágio 2). Quais variáveis são, respectivamente, categórica, ordinal e contínua?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Consumo diário de sódio, classificação da hipertensão e pressão arterial sistólica"
+      },
+      {
+        "letra": "B",
+        "texto": "Classificação da hipertensão, pressão arterial diastólica e consumo diário de sódio"
+      },
+      {
+        "letra": "C",
+        "texto": "Pressão arterial sistólica, classificação da hipertensão e consumo diário de sódio"
+      },
+      {
+        "letra": "D",
+        "texto": "Classificação da hipertensão, consumo diário de sódio e pressão arterial sistólica"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105236,
+    "tags": [],
+    "enunciado": "Uma pesquisa clínica busca analisar a e(cid:33)cácia de uma nova droga no tratamento de infarto agudo do miocárdio. Os participantes do estudo são divididos em dois grupos: um grupo que recebe a nova droga e outro grupo que recebe um tratamento padrão. Os pesquisadores coletam dados demográ(cid:33)cos, como idade e sexo, e medidas clínicas, como valor de troponina e tempo de internação (dias). Qual das seguintes alternativas apresenta uma variável categórica e uma variável contínua coletadas neste estudo?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Troponina e idade"
+      },
+      {
+        "letra": "B",
+        "texto": "Troponina e tempo de internação"
+      },
+      {
+        "letra": "C",
+        "texto": "Sexo e troponina"
+      },
+      {
+        "letra": "D",
+        "texto": "Idade e tempo de internação"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105237,
+    "tags": [],
+    "enunciado": "Um grupo de pesquisadores está realizando um estudo para avaliar a relação entre a prática de exercícios físicos e o controle da hipertensão em pacientes diabéticos. Para isso, eles coletam informações sobre os níveis de glicemia e pressão arterial dos pacientes, e o tempo de duração do diabetes. Considerando os tipos de variáveis envolvidas, identi(cid:33)que qual das seguintes combinações descreve corretamente os dados coletados:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Níveis de glicemia: variável contínua; Pressão arterial: variável contínua; Tempo de duração do diabetes: variável contínua."
+      },
+      {
+        "letra": "B",
+        "texto": "Níveis de glicemia: variável ordinal; Pressão arterial: variável contínua; Tempo de duração do diabetes: variável contínua."
+      },
+      {
+        "letra": "C",
+        "texto": "Níveis de glicemia: variável categórica; Pressão arterial: variável ordinal; Tempo de duração do diabetes: variável contínua."
+      },
+      {
+        "letra": "D",
+        "texto": "Níveis de glicemia: variável contínua; Pressão arterial: variável ordinal; Tempo de duração do diabetes: variável ordinal."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105238,
+    "tags": [],
+    "enunciado": "Foi realizado um ensaio clínico randomizado para se veri(cid:33)car a e(cid:33)cácia de uma droga em pacientes que tiveram infarto agudo do miocárdio (IAM). De um total de 1.000 pacientes que tomaram a droga avaliada, 75 sofreram um segundo IAM dentro de um ano. No grupo de 1.000 pacientes que receberam o placebo, 100 tiveram um segundo IAM, no mesmo período. A probabilidade do erro aleatório nesse estudo foi de 5% e o erro tipo II foi igual a 10%. Assinale a alternativa CORRETA que apresenta o poder estatístico deste estudo.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "5%."
+      },
+      {
+        "letra": "B",
+        "texto": "15%."
+      },
+      {
+        "letra": "C",
+        "texto": "90 %."
+      },
+      {
+        "letra": "D",
+        "texto": "95%."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105239,
+    "tags": [],
+    "enunciado": "No que se refere à qualidade de avaliação dos testes diagnósticos, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A propriedade que define a proporção de não doentes entre os indivíduos que têm um teste negativo é a especificidade."
+      },
+      {
+        "letra": "B",
+        "texto": "Para a triagem de bolsas de sangue, são desejáveis testes com baixa sensibilidade."
+      },
+      {
+        "letra": "C",
+        "texto": "A propriedade mais adequada a ser avaliada para interpretar um exame positivo é a sensibilidade."
+      },
+      {
+        "letra": "D",
+        "texto": "Testes em série melhoram a especificidade do diagnóstico."
+      },
+      {
+        "letra": "E",
+        "texto": "O aumento da prevalência de uma doença na população diminui o valor preditivo positivo de um teste diagnóstico."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105240,
+    "tags": [],
+    "enunciado": "Probabilidade préteste e valor preditivo positivo Um estudo de revisão comparou o desempenho do TESTE A versus o TESTE B no rastreamento do câncer colorretal. Em comparação com TESTE B, o TESTE A apresentou melhor detecção das lesões pré- cancerígenas que seriam tratadas para evitar cânceres subsequentes. Porém, o TESTE A também teve maior taxa de falso-positivos. Analise as afirmativas abaixo e assinale a INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A testagem mais frequente pode piorar a especificidade do TESTE A."
+      },
+      {
+        "letra": "B",
+        "texto": "O TESTE A é menos específico que o TESTE B para rastreamento."
+      },
+      {
+        "letra": "C",
+        "texto": "O TESTE A é mais sensível que o TESTE B para rastreamento."
+      },
+      {
+        "letra": "D",
+        "texto": "A testagem mais frequente pode melhorar a sensibilidade de ambos os testes."
+      },
+      {
+        "letra": "E",
+        "texto": "O valor preditivo negativo é menor no TESTE A que no TESTE B."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 105241,
+    "tags": [],
+    "enunciado": "Um estudo foi conduzido sobre os sinais e sintomas físicos em 247 pacientes avaliados para Tuberculose Pulmonar (TB). O diagnóstico (cid:33)nal foi feito de acordo com os achados da cultura (padrão-ouro). Noventa e cinco pacientes tinham TB, e 49 deles também tinham hemoptise. Cento e cinquenta e dois não tinham TB, e 79 desses pacientes tinham hemoptise. Analisando esse estudo, qual a especificidade da hemoptise para TB?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "38%"
+      },
+      {
+        "letra": "B",
+        "texto": "48%"
+      },
+      {
+        "letra": "C",
+        "texto": "52%"
+      },
+      {
+        "letra": "D",
+        "texto": "61%"
+      },
+      {
+        "letra": "E",
+        "texto": "76%"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105242,
+    "tags": [],
+    "enunciado": "Valor Preditivo Positivo Considere os seguintes cenários: A. Para uma população da área de abrangência da UBS Z, sabe-se que a prevalência da doença \"X\" é de 1%. B. A mesma doença \"X\" tem uma prevalência de 10% no ambulatório de especialidade dessa afecção. Para um mesmo teste diagnóstico padrão-ouro para a doença \"X\" nos dois cenários, podemos esperar que os valores de Sensibilidade (S), Especi(cid:33)cidade (E), Valor Preditivo Negativo (VPN) e Valor Preditivo Positivo (VPP) sejam, nos cenários A e B, respectivamente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Iguais, diferentes, iguais, diferentes"
+      },
+      {
+        "letra": "B",
+        "texto": "Diferentes, diferentes, iguais, iguais"
+      },
+      {
+        "letra": "C",
+        "texto": "Diferentes, iguais, diferentes, iguais"
+      },
+      {
+        "letra": "D",
+        "texto": "Iguais, iguais, diferentes, diferentes 4000190826"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105243,
+    "tags": [],
+    "enunciado": "Sensibilidade Sobre a acurácia dos testes diagnósticos para a covid-19 registrados na Anvisa, a sensibilidade e a especi(cid:33)cidade variaram entre os fabricantes, contudo, em geral, a sensibilidade foi superior a 85%, e a especi(cid:33)cidade foi superior a 94%. Caso dois indivíduos que residam em diferentes cidades, uma com prevalência de covid-19 de 20% e a outra de 33%, realizem testes sorológicos do mesmo fabricante e ambos obtenham resultados positivos, a probabilidade desses indivíduos realmente apresentarem a doença é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "igual, pois quanto maior a especificidade de um teste, maior será o seu valor preditivo positivo."
+      },
+      {
+        "letra": "B",
+        "texto": "igual, pois o valor preditivo positivo de um teste é uma propriedade exclusiva deste, ou seja, não depende da prevalência da doença."
+      },
+      {
+        "letra": "C",
+        "texto": "diferente, pois quanto maior a prevalência de uma doença, maior é o valor preditivo de um teste."
+      },
+      {
+        "letra": "D",
+        "texto": "diferente, pois quanto maior a sensibilidade de um teste, maior será o seu valor preditivo positivo."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105244,
+    "tags": [],
+    "enunciado": "Um laboratório interessado em lançar um novo medicamento realizou testes sobre o tipo de embalagem mais adequado à conservação do produto. Foram testados dois materiais, submetidos a condições indesejáveis - calor continuado acima de 30 graus Celsius e exposição à claridade do sol. Na primeira etapa, com exposição ao calor, os resultados observados foram os seguintes: Em relação a exposição ao sol, os resultados foram: O teste de qui-quadrado obtido foi : χ2 = 3,07 (p = 0,0799).",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "partir desse resultado, você considera que:"
+      },
+      {
+        "letra": "A",
+        "texto": "As diferenças foram pequenas e o laboratório pode optar por qualquer um deles."
+      },
+      {
+        "letra": "B",
+        "texto": "As diferenças foram pequenas, mas o laboratório deve preferir o vidro transparente."
+      },
+      {
+        "letra": "C",
+        "texto": "A diferença pequena sugere aumentar os exemplares para se tirar conclusões."
+      },
+      {
+        "letra": "D",
+        "texto": "As diferenças foram estatisticamente significativas, e o laboratório deve preferir o vidro escuro."
+      },
+      {
+        "letra": "E",
+        "texto": "Não se pode aplicar o qui-quadrado para este tipo de experimento."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105245,
+    "tags": [],
+    "enunciado": "Ao eleger um teste diagnóstico para fazer rastreamento de uma doença, qual característica é a mais importante?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sensibilidade"
+      },
+      {
+        "letra": "B",
+        "texto": "Especificidade"
+      },
+      {
+        "letra": "C",
+        "texto": "Valor preditivo positivo"
+      },
+      {
+        "letra": "D",
+        "texto": "Valor preditivo negativo 4000173749"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105246,
+    "tags": [],
+    "enunciado": "Sensibilidade Em uma situação hipotética, um país desenvolveu um novo teste para a Covid-19 com sensibilidade de 100% e especificidade de 80%, e decidiu testar toda a sua população de dois milhões de habitantes. Supondo que a prevalência da Covid-19 nessa população seja de 0,5%, quantos verdadeiramente positivos e falso- positivos espera-se encontrar, respectivamente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "20.000 e 398.000."
+      },
+      {
+        "letra": "B",
+        "texto": "10.000 e 398.000."
+      },
+      {
+        "letra": "C",
+        "texto": "20.000 e 40.000."
+      },
+      {
+        "letra": "D",
+        "texto": "10.000 e 400.000."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105247,
+    "tags": [],
+    "enunciado": "Estatística Descritiva Tipos de Dados Distribuições e Probabilidades Em um estudo sobre a leitura de radiogra(cid:33)as de tórax em pessoas com micobacteriose, foram encontrados os resultados a seguir Os valores das proporções de falso positivo e falso negativo são, respectivamente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "0,6986 e 0,0045."
+      },
+      {
+        "letra": "B",
+        "texto": "0,0045 e 0,6986."
+      },
+      {
+        "letra": "C",
+        "texto": "0,0284 e 0,2666."
+      },
+      {
+        "letra": "D",
+        "texto": "0,2666 e 0,0284."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105248,
+    "tags": [],
+    "enunciado": "Especificidade Observe a de(cid:33)nição do Ministério da Saúde do Brasil para caso suspeito da doença pelo SARS-CoV-2: “Indivíduo com quadro respiratório agudo, caracterizado por, pelo menos, dois dos seguintes sinais e sintomas: febre (mesmo que referida), calafrios, dor de garganta, dor de cabeça, tosse, coriza, distúrbios olfativos ou distúrbios gustativos.” Assinale a alternativa que corretamente preenche a frase a seguir: O trecho em negrito e sublinhado confere ___________ à definição apresentada.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sensibilidade."
+      },
+      {
+        "letra": "B",
+        "texto": "Especificidade."
+      },
+      {
+        "letra": "C",
+        "texto": "Valor preditivo positivo."
+      },
+      {
+        "letra": "D",
+        "texto": "Valor preditivo negativo."
+      },
+      {
+        "letra": "E",
+        "texto": "Nenhuma das respostas anteriores."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105249,
+    "tags": [],
+    "enunciado": "Cardiologia Dois pacientes com dor torácica aos esforços realizam teste ergométrico e apresentam depressão do segmento ST > 2,5 mm. Caso 1: homem 67a, fumante e hipertenso; Caso 2: homem, 34a, jogador de futebol. ASSINALE A ALTERNATIVA CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O valor preditivo de síndrome coronariana em ambos os pacientes é semelhante."
+      },
+      {
+        "letra": "B",
+        "texto": "A sensibilidade do ECG é maior no paciente idoso."
+      },
+      {
+        "letra": "C",
+        "texto": "A prevalência de coronariopatia em diferentes grupos populacionais altera o valor preditivo positivo e negativo do ECG."
+      },
+      {
+        "letra": "D",
+        "texto": "A razão de verossimilhança positiva do teste no paciente jogador de futebol é alta."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105250,
+    "tags": [],
+    "enunciado": "Teste ergométrico Ao interpretar o resultado do teste ergométrico de um atleta maratonista de 28 anos de idade, assintomático, o médico deverá levar em consideração que este teste tem:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Alta confiabilidade."
+      },
+      {
+        "letra": "B",
+        "texto": "Baixa sensibilidade."
+      },
+      {
+        "letra": "C",
+        "texto": "Valor preditivo negativo muito baixo."
+      },
+      {
+        "letra": "D",
+        "texto": "Valor preditivo positivo muito baixo.  Respostas: 1 2 B 3 A 4 C 5 C 6 B 7 B 8 C 9 C 10 B 11 B 12 C 13 B 14 B 15 D 16 C 17 B 18 A 19 A 20 C 21 A 22 B 23 B 24 B 25 A 26 A 27 C 28 C 29 A 30 D 31 A 32 B 33 C 34 C 35 C 36 C 37 A 38 A 39 D 40 C 41 A 42 C 43 D 44 E 45 B 46 D 47 C 48 C 49 A 50 B 51 A 52 B 53 C 54 D"
+      }
+    ],
+    "resposta_correta": "D"
+  }
+]

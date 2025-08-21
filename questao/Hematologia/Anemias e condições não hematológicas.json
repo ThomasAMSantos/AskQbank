@@ -1,0 +1,1809 @@
+[
+  {
+    "id": 115397,
+    "tags": [],
+    "enunciado": "Paciente com doença renal crônica por doença renal diabética, estágio G3bA2, apresenta de(cid:37)ciência de ferro. Essa deficiência, nesse paciente, pode ser explicada por:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "perda de sangue na hemodiálise."
+      },
+      {
+        "letra": "B",
+        "texto": "diminuição da absorção de ferro pelo aumento de hepcidina."
+      },
+      {
+        "letra": "C",
+        "texto": "aumento da perda renal de ferro por diminuição da reabsorção tubular."
+      },
+      {
+        "letra": "D",
+        "texto": "depósito de ferro nos tecidos por sua ligação ao paratormônio."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 115398,
+    "tags": [],
+    "enunciado": "Na avaliação clínica de um paciente com doença renal crônica, a presença de anemia está associada à/ao:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Déficit de ferro decorrente de perda sanguínea oculta."
+      },
+      {
+        "letra": "B",
+        "texto": "Elevação dos níveis de ureia e creatinina séricos."
+      },
+      {
+        "letra": "C",
+        "texto": "Redução da produção de eritropoietina pelo rim."
+      },
+      {
+        "letra": "D",
+        "texto": "Distúrbios eletrolíticos, como hipercalemia e hiponatremia."
+      },
+      {
+        "letra": "E",
+        "texto": "Aumento da pressão arterial sistêmica e risco cardiovascular."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 115399,
+    "tags": [],
+    "enunciado": "Paciente procura atendimento por queixa de fraqueza persistente. Faz acompanhamento com a Nefrología com uma DRC dialítica. Na avaliação de anemia da insuficiência renal crônica, analise as afirmativas a seguir: I. Na uremia grave, os eritrócitos apresentam anomalias como células com espículas irregulares (acantócitos) e burr cells (equinócitos). II. A anemia normalmente é normocítica normocrômica. III. A causa da anemia é multifatorial, mas a causa preponderante está relacionada à diminuição da síntese de eritropoietina. IV. É hiperproliferativa, com aumento da produção de reticulócitos. Estão CORRETAS as afirmativas:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II e IV."
+      },
+      {
+        "letra": "B",
+        "texto": "II, III e IV."
+      },
+      {
+        "letra": "C",
+        "texto": "I, II e III."
+      },
+      {
+        "letra": "D",
+        "texto": "I, III e IV. 4000234630"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 115400,
+    "tags": [],
+    "enunciado": "Homem de 62 anos queixa-se de dispneia e dor torácica aos esforços e astenia por duas semanas. É portador de hipertensão arterial sistêmica e doença renal crônica (creatinina basal 2,9mg/dL; clearance de creatinina 24mL/min/1,73 m²). EXAMES DE LABORATÓRIO: hemoglobina 6,4g/dL; VCM 75fL; HCM 25pg; CHCM 29g/dL; RDW 16,5%; leucócitos 6.500/mm³; neutró(cid:37)los 3.560/mm³; ferritina 20pmol/L; índice de saturação da transferrina 6%. Assinale a alternativa que apresenta uma conduta inicial INADEQUADA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Prescrição de eritropoietina"
+      },
+      {
+        "letra": "B",
+        "texto": "Prescrição de sal férrico parenteral"
+      },
+      {
+        "letra": "C",
+        "texto": "Solicitação de endoscopia digestiva alta e colonoscopia"
+      },
+      {
+        "letra": "D",
+        "texto": "Transfusão de concentrado de hemácias 4000233829"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 115401,
+    "tags": [],
+    "enunciado": "Um homem com 50 anos, casado, trabalhador de indústria de reciclagem de baterias, é encaminhado, acompanhado de familiares, a um ambulatório de hematologia para investigação de anemia hipocrômica e microcítica e astenia. Ele fez uso de 180 mg/dia de ferro elementar por 6 meses, sem melhora das alterações do hemograma. Relata que, recentemente, começou a apresentar confusão mental. Os familiares negam história de sangramentos evidentes ou restrições alimentares e a(cid:37)rmam que, na unidade básica de saúde, após realização de uma investigação inicial e dos exames de triagem recomendados para sua faixa etária, não havia sido constatada evidência de quaisquer outras doenças. Diante da situação apresentada, qual exame deve ser solicitado para esse paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Mielograma."
+      },
+      {
+        "letra": "B",
+        "texto": "Haptoglobina."
+      },
+      {
+        "letra": "C",
+        "texto": "Chumbo sérico."
+      },
+      {
+        "letra": "D",
+        "texto": "Teste de Coombs."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 115402,
+    "tags": [],
+    "enunciado": "Pintura a pistola com tintas à base de pigmentos de chumbo e manipulação de sucatas podem associar-se ao saturnismo. O saturnismo clinicamente caracteriza-se por:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "danos aos sistemas sanguíneo, digestivo e nervoso central."
+      },
+      {
+        "letra": "B",
+        "texto": "danos frequentes ao sistema nervoso periférico."
+      },
+      {
+        "letra": "C",
+        "texto": "intoxicação aguda que se apresenta sob a forma de pneumonite intersticial aguda e bronquite."
+      },
+      {
+        "letra": "D",
+        "texto": "baixa frequência de impotência sexual e diminuição da libido."
+      },
+      {
+        "letra": "E",
+        "texto": "baixa frequência de queixas digestivas do tipo dor abdominal, náuseas e vômitos."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 115403,
+    "tags": [],
+    "enunciado": "Um paciente com 10 anos, pertencente a uma comunidade ribeirinha na região do Tapajós, é atendido em unidade básica de saúde (cid:83)uvial por médico de família e comunidade, queixando-se de parestesia e fraqueza em membros inferiores, desequilíbrio, tremores, além de di(cid:37)culdade de aprendizagem, tonturas e irritabilidade. Os pais relatam que, mais recentemente, a criança vem apresentando também di(cid:37)culdade para falar. Durante a avaliação dos hábitos da criança, os pais também informam que consomem basicamente mandioca, plantada por eles, e peixes do rio. Referem, ainda, que residem em uma área que já vem sendo ocupada por grupos de garimpeiros ilegais há alguns anos, o que tem alterado as características das águas do rio. Qual é o principal diagnóstico para o caso desse paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Poliomielite."
+      },
+      {
+        "letra": "B",
+        "texto": "Intoxicação por mercúrio."
+      },
+      {
+        "letra": "C",
+        "texto": "Síndrome de Guillain-Barré."
+      },
+      {
+        "letra": "D",
+        "texto": "Intoxicação por organofosforados."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 115404,
+    "tags": [],
+    "enunciado": "Mulher de 42 anos, em avaliação ambulatorial por astenia, parestesia dolorosa em membros inferiores e di(cid:37)culdade de marcha, com quedas frequentes com perda de equilíbrio nos últimos três meses. Antecedente: cirurgia bariátrica há seis anos. Exames: hemoglobina 6 g/dL; VCM 98 fL; leucócitos 1.500/mm³, segmentados 700/mm³, plaquetas 170.000/mm³. ferro, ferritina e saturação de transferrina normais. Vitamina B12 250 mg/dL. Mielograma: presença de sideroblastos em anel. O diagnóstico mais provável é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Deficiência de cobre."
+      },
+      {
+        "letra": "B",
+        "texto": "Deficiência de vitamina B12."
+      },
+      {
+        "letra": "C",
+        "texto": "Deficiência de ácido fólico."
+      },
+      {
+        "letra": "D",
+        "texto": "Síndrome mielodisplásica."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 115405,
+    "tags": [],
+    "enunciado": "Foram revisados 50 prontuários de pacientes que apresentaram pancitopenia. Naqueles em que houve a conclusão de tratar-se de síndrome hematofagocítica as características encontradas foram:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Febre: Frequente; Esplenomegalia: frequente; Ferritina: elevada; Fibrinogênio: diminuído"
+      },
+      {
+        "letra": "B",
+        "texto": "Febre: Infrequente; Esplenomegalia: infrequente; Ferritina: indetectável; Fibrinogênio: aumentado"
+      },
+      {
+        "letra": "C",
+        "texto": "Febre: Frequente; Esplenomegalia: infrequente; Ferritina: elevada; Fibrinogênio: diminuído"
+      },
+      {
+        "letra": "D",
+        "texto": "Febre: Infrequente; Esplenomegalia: frequente; Ferritina: indetectável; Fibrinogênio: aumentado"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 115406,
+    "tags": [],
+    "enunciado": "Homem, 42a, procura atendimento médico com dores abdominais em cólica há dois dias sem melhora com antiespasmódico. Antecedente pro(cid:37)ssional: trabalhador d e uma cerâmica, com exposição a algumas substâncias químicas, há dois anos. Exame físico: palidez cutânea 2+/4; abdome: dores à palpação abdominal, sem sinais de abdome agudo. Ultrassonografia abdominal sem alterações. A HIPÓTESE DIAGNÓSTICA É: Essa questão possui comentário do professor no site 4000167473",
+    "alternativas": [],
+    "resposta_correta": null
+  },
+  {
+    "id": 115407,
+    "tags": [],
+    "enunciado": "No ambulatório de hematologia, quatro pacientes estão sendo acompanhados: um homem de dezenove anos de idade, com antecedente de anemia falciforme, sem crises há dois anos (1); uma mulher de 68 anos de idade, com antecedente de neoplasia maligna de colón (2); um homem de 54 anos de idade, etilista de cerca de 0,5 L de destilado ao dia (3); e uma mulher de 56 anos de idade, com antecedente de artrite reumatoide bem controlada (4). Por um erro inaceitável do laboratório, os exames a seguir foram impressos sem os nomes dos pacientes. Com base nessa situação hipotética, assinale a alternativa que apresenta a correlação correta entre os hemogramas demonstrados e os pacientes, tendo em vista as comorbidades de cada indivíduo.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1C, 2D, 3A e 4B"
+      },
+      {
+        "letra": "B",
+        "texto": "1C, 2B, 3A e 4D"
+      },
+      {
+        "letra": "C",
+        "texto": "1B, 2A, 3D e 4C"
+      },
+      {
+        "letra": "D",
+        "texto": "1A, 2D, 3C e 4B"
+      },
+      {
+        "letra": "E",
+        "texto": "1D, 2B, 3C e 4A"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 115408,
+    "tags": [],
+    "enunciado": "O alcoolismo crônico pode determinar alterações hematológicas. A alteração mais comumente encontrada nesses casos é o aumento:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "da concentração de ácido fólico"
+      },
+      {
+        "letra": "B",
+        "texto": "do volume corpuscular médio"
+      },
+      {
+        "letra": "C",
+        "texto": "do número de leucócitos"
+      },
+      {
+        "letra": "D",
+        "texto": "de reticulócitos"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 115409,
+    "tags": [],
+    "enunciado": "Várias doenças endócrinas são frequentemente associadas à anemia. Assinale a alternativa correta, relativa a esta afirmação:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Artrite reumatioide e hipotireoidismo"
+      },
+      {
+        "letra": "B",
+        "texto": "Hipotireoidismo e diabetes mellitus"
+      },
+      {
+        "letra": "C",
+        "texto": "Hipotireoidismo e hipopituitarismo"
+      },
+      {
+        "letra": "D",
+        "texto": "Síndrome de Cushing e hipotireoidismo 4000143007"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 115410,
+    "tags": [],
+    "enunciado": "Mulher de 22 anos, sem comorbidades, vem em consulta ambulatorial com queixa de fadiga há 3 meses. Apresenta exame físico inalterado, exceto pela presença de palidez cutâneo-mucosa. Traz o seguinte hemograma: Hemoglobina 9,0g/dL (Valor de referência (VR):12 a 16) Hematócrito 23% (VR: 36 a 48) VCM 80fL (VR: 76 a 100) HCM 24 (VR: 27 a 33) CHCM 28 (VR: 32 a 36) Leucócitos 6.800/mm³ plaquetas 250.000/mm³ (VR: 140.000 a 450.000). Contagem de reticulócitos 100.000/mm³ . Ausência de alterações morfológicas no esfregaço do sangue periférico. A investigação laboratorial subsequente mais indicada para essa paciente é?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cinética de ferro e mielograma."
+      },
+      {
+        "letra": "B",
+        "texto": "Mielograma, função renal e função tireoideana."
+      },
+      {
+        "letra": "C",
+        "texto": "Cinética de ferro, função renal e função tireoideana."
+      },
+      {
+        "letra": "D",
+        "texto": "Cinética de ferro, dosagem de vitamina B12 e dosagem de ácido fólico."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 115411,
+    "tags": [],
+    "enunciado": "Paciente com insu(cid:37)ciência renal crônica (clearance de creatinina = 18mL/min), em tratamento conservador, tem anemia e está sendo tratado com eritropoietina. Revisando o prontuário, constata-se que, antes dessa identi(cid:37)cação terapêutica, foram solicitados apenas hemograma e creatinina. O exame atual, feito meses depois do primeiro, constata que o nível de creatinina aumentou ligeiramente, sem melhora no nível da hemoglobina. Antes de iniciar a eritropoietina, deveria ter sido assegurada a normalidade dos estoques da medula óssea de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "vitamina B12"
+      },
+      {
+        "letra": "B",
+        "texto": "ácido fólico"
+      },
+      {
+        "letra": "C",
+        "texto": "tiamina"
+      },
+      {
+        "letra": "D",
+        "texto": "ferro"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 115412,
+    "tags": [],
+    "enunciado": "Assinale a alternativa que indica uma causa de anemia microcítica.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Insuficiência renal crônica"
+      },
+      {
+        "letra": "B",
+        "texto": "Deficiência de Vitamina B12"
+      },
+      {
+        "letra": "C",
+        "texto": "Talassemia"
+      },
+      {
+        "letra": "D",
+        "texto": "Hemorragia aguda"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 115413,
+    "tags": [],
+    "enunciado": "Na abordagem das anemias macrocíticas com contagem de reticulócitos normal ou baixa entram no diagnóstico diferencial, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hipotireoidismo"
+      },
+      {
+        "letra": "B",
+        "texto": "Deficiencia de folato"
+      },
+      {
+        "letra": "C",
+        "texto": "Anemia sideroblástica"
+      },
+      {
+        "letra": "D",
+        "texto": "Deficiencia de vitamina B12"
+      },
+      {
+        "letra": "E",
+        "texto": "Hepatopatia crônica"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 115414,
+    "tags": [],
+    "enunciado": "É característico da síndrome hemofagocítica o encontro de níveis aumentados de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ferritina e triglicérides"
+      },
+      {
+        "letra": "B",
+        "texto": "Plaquetas e neutrófilos"
+      },
+      {
+        "letra": "C",
+        "texto": "Plaquetas e monócitos."
+      },
+      {
+        "letra": "D",
+        "texto": "Ferritina e fibrinogênio."
+      },
+      {
+        "letra": "E",
+        "texto": "Triglicérides e fibrinogênio."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 115415,
+    "tags": [],
+    "enunciado": "Foram avaliados esfregaços de sangue periférico de cinco pacientes. Em um deles chamou atenção grande quantidade de eritrócitos em alvo (leptócitos). Trata-se provavelmente do individuo com diagnóstico de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fibrose medular."
+      },
+      {
+        "letra": "B",
+        "texto": "Hemoglobinopatia C."
+      },
+      {
+        "letra": "C",
+        "texto": "Talassemia minor."
+      },
+      {
+        "letra": "D",
+        "texto": "Cirrose hepática criptogenética."
+      },
+      {
+        "letra": "E",
+        "texto": "Doença falciforme."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 115416,
+    "tags": [],
+    "enunciado": "O trabalhador do laboratório apareceu muito ansioso, com conjuntivas oculares irritadas, tremores de extremidades e re(cid:83)exos exaltados, pálido, mentalmente confuso, relatando perda do apetite, náuseas constantes e visões estranhas. Seu chefe informa que, há alguns dias, tem manipulado produto com chumbo (Pb). Pode-se dizer que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O quadro clínico apresentado é típico de exposição aguda ao Pb metálico."
+      },
+      {
+        "letra": "B",
+        "texto": "Se for Pb inorgânico, o diagnóstico se dará pelo aumento de sua concentraçãourinária."
+      },
+      {
+        "letra": "C",
+        "texto": "A dosagem urinária do Pb será indicada se o agente suspeito for o Pb orgânico."
+      },
+      {
+        "letra": "D",
+        "texto": "O parâmetro legal, se for o Pb orgânico, é a dosagem urinária da zincoprotoporfirina."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 115417,
+    "tags": [],
+    "enunciado": "No ambulatório, o residente de clínica médica inicia a investigação de anemia de um paciente com doença renal crônica. Ele está assintomático e seus exames demonstram: hemoglobina 8, 5 g/dl; hematócrito 25%; taxa de reticulócitos corrigido 1,0%; ferritina sérica 50 μg/L (normal: 50 a 200) ; Ferro sérico 40 μg/dl (normal: 50 a 150 μg/dl); TIBC 280 μ/dl (normal: 300 a 360) e saturação de transferrina 15% (normal: 30% a 50%). No retorno ao ambulatório, fez o cálculo do clearance de creatinina (taxa de (cid:37)ltração glomerular), estimado em 30 ml/min/ 1,73 m² de superfície corporal. Com esses exames, ele indicou uso de eritropoietina (EPO) 3 vezes por semana calculada pelo peso do paciente. Sobre a conduta do médico residente, é CORRETO afirmar que está:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Equivocada porque a dose de eritropoietina nos pacientes anêmicos e com doença renal crônica é constante, independente do clearance de creatinina e do peso."
+      },
+      {
+        "letra": "B",
+        "texto": "Errada, pois a dose de eritropoietina deve ser calculada, de acordo com o nível de hemoglobina e hematócrito do paciente com doença renal crônica e anêmico."
+      },
+      {
+        "letra": "C",
+        "texto": "Equivocada, pela necessidade de investigar anemia ferropriva e pela prescrição de eritropoietina antes de repor os estoques de ferro."
+      },
+      {
+        "letra": "D",
+        "texto": "Acertada, pois o paciente estava anêmico e eritropoietina deve ser usada em pacientes com doença renal crônica e anemia."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 115418,
+    "tags": [],
+    "enunciado": "Paciente do sexo masculino de 67 anos, caucasiano, sem patologias prévias conhecidas, se apresenta na consulta ambulatorial com queixa de fraqueza há 2 meses, trazendo consigo exames realizados há 1 semana atrás pela Unidade Básica de Saúde. O laboratório mostra anemia grave (hemoglobina de 5 g/dl), classi(cid:37)cada como normocítica e normocrômica, associado à insu(cid:37)ciência renal (creatinina de 3,2 mg/dl). A esposa que o acompanha também refere que há 2 dias apresenta confusão mental. Assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O paciente é portador de insuficiência renal crônica e deve receber o tratamento adequado com IECA, bicarbonato e eritropoietina; o episódio de confusão pode ser justificado por uma provável uremia."
+      },
+      {
+        "letra": "B",
+        "texto": "O paciente apresenta uma anemia aguda, sendo imperativo a pesquisa de sangramento gastrointestinal e o interrogatório pelo uso de anti-inflamatórios."
+      },
+      {
+        "letra": "C",
+        "texto": "O paciente apresenta uma anemia desproporcional ao grau de insuficiência renal, devendo ser considerada a possibilidade de patologias concomitantes, como por exemplo, mieloma múltiplo. A confusão mental pode ser hipercalcemia."
+      },
+      {
+        "letra": "D",
+        "texto": "O paciente tem uma neoplasia de sítio indeterminado, sendo o adenocarcinoma de próstata uma possibilidade, assim como a etiologia da insuficiência renal ser pós-renal."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 115419,
+    "tags": [],
+    "enunciado": "São causas de anemias macrocíticas:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Anemias hemolíticas congênitas e anemia megaloblástica."
+      },
+      {
+        "letra": "B",
+        "texto": "Anemia sideroblástica e deficiência de ferro."
+      },
+      {
+        "letra": "C",
+        "texto": "Envenenamento por chumbo e síndromes talassêmicas."
+      },
+      {
+        "letra": "D",
+        "texto": "Anemia por deficiência de tiamina e síndrome mielodisplásica."
+      },
+      {
+        "letra": "E",
+        "texto": "Síndromes talassêmicas e anemia hemolítica adquirida."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 115420,
+    "tags": [],
+    "enunciado": "Mulher de 83 anos comparece à uma consulta médica para controle de hipertensão arterial sistêmica, diabetes melito tipo 2 e depressão. Ela se queixa de fadiga e edema vespertino discreto de membros inferiores. Faz uso de atenolol 50mg/dia, glibutirida 5mg BID. e paroxetina 20mg/dia. PA 152/88mmHg, peso 42Kg. Ao exame, apresenta palidez cutâneo-mucosa e edema periférico 1+. Sem outras alterações ao exame físico. Hemoglobina 9,6g/dl (hamácias normocíticas e normocrômicas), leucograma e plaquetas dentro dos limites de normalidade. Na 136mEq/L, K 4,9mEg/L, Cl 108mEq/L, HC03- 18mEq/L, creatinina 1,5mg/dL e glicose 178mg/dL. Enzimas hepáticas normais. Qual é a causa MAIS PROVÁVEL da anemia?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Anemia de doença crônica secundária de diabetes."
+      },
+      {
+        "letra": "B",
+        "texto": "Anemia secundária à doença renal crônica."
+      },
+      {
+        "letra": "C",
+        "texto": "Deficiência de folato devido à baixa ingestão de alimentos associada a depressão."
+      },
+      {
+        "letra": "D",
+        "texto": "Perda oculta de sangue nas fezes devido a um tumor no cólon."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 115421,
+    "tags": [],
+    "enunciado": "Assinale a doença em que os esquizócitos são geralmente encontrados:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Intoxicação por chumbo."
+      },
+      {
+        "letra": "B",
+        "texto": "Doenças hemolíticas."
+      },
+      {
+        "letra": "C",
+        "texto": "Hiperesplenismo."
+      },
+      {
+        "letra": "D",
+        "texto": "Mielofibrose."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 115422,
+    "tags": [],
+    "enunciado": "Sobre o diagnóstico diferencial das anemias, assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A talassemia menor cursa, mais comumente, com anemia hemolítica normocítica e normocrômica."
+      },
+      {
+        "letra": "B",
+        "texto": "A anemia microcítica e hipocrômica, com ferro sérico e transferrina reduzidos, índice de saturação de transferrina normal e ferritina aumentada, é compatível com causa ferropriva."
+      },
+      {
+        "letra": "C",
+        "texto": "As anemias macrocíticas podem ser encontradas na mielodisplasia, na doença de Crohn ileal, no hipotireoidismo e em pacientes etilistas."
+      },
+      {
+        "letra": "D",
+        "texto": "As anemias hemolíticas por anormalidades intrínsecas dos eritrócitos possuem em comum o aumento da bilirrubina indireta e da desidrogenase láctica, a redução da haptoglobina e o teste de Coombs direto positivo."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 115423,
+    "tags": [],
+    "enunciado": "Anemia do hipotireoidismo Analise as situações abaixo: I. Deficiência de vitamina B12. II. Deficiência de ácido fólico. III. Inibidores da síntese de DNA. IV. Mielodisplasia. V. Hipotireoidismo. Quais causam anemia macrocítica megaloblástica?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas I e V."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas III e IV."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas I, II e III."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas I, II, III e IV."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II, III, IV, e V."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 115424,
+    "tags": [],
+    "enunciado": "São causas de microcitose e hipocromia no exame de esfregaço sanguíneo:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "deficiência de ferro, mieloma múltiplo, uso de fenitoína"
+      },
+      {
+        "letra": "B",
+        "texto": "hemólise intravascular, mielodisplasia, hipertireoidismo"
+      },
+      {
+        "letra": "C",
+        "texto": "anemia da inflamação, talassemia, anemia sideroblástica"
+      },
+      {
+        "letra": "D",
+        "texto": "insuficiência renal, leucemia mieloide crônica, hepatite crônica"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 115425,
+    "tags": [],
+    "enunciado": "Sobre as anemias, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Na anemia por deficiência de ferro, há geralmente a elevação dos níveis de VCM."
+      },
+      {
+        "letra": "B",
+        "texto": "A anemia macrocítica pode estar associada ao hipotireoidismo."
+      },
+      {
+        "letra": "C",
+        "texto": "A resposta ao tratamento da anemia ferropriva ocorre mais rapidamente à terapia parenteral do que à terapia oral."
+      },
+      {
+        "letra": "D",
+        "texto": "Amiloidose é uma situação clínica associada à anemia aplásica."
+      },
+      {
+        "letra": "E",
+        "texto": "A anemia hemolítica ocorre quando a sobrevida do eritrócito é diminuída."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 115426,
+    "tags": [],
+    "enunciado": "Ao avaliar um paciente de 52 anos pancitopênico com eritroblastos na periferia, dentre as possibilidades diagnósticas apresentadas abaixo, devemos pensar preferencialmente em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Mielodisplasia"
+      },
+      {
+        "letra": "B",
+        "texto": "Deficiência de vitamina B12"
+      },
+      {
+        "letra": "C",
+        "texto": "Anemia aplásica"
+      },
+      {
+        "letra": "D",
+        "texto": "Esferocitose hereditária"
+      },
+      {
+        "letra": "E",
+        "texto": "Ocupação medular por doença maligna"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 115427,
+    "tags": [],
+    "enunciado": "Sobre a anemia na insuficiência renal crônica, tem-se que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "decorre da hematúria macroscópica provocada pela insuficiência renal crônica."
+      },
+      {
+        "letra": "B",
+        "texto": "tem padrão hemolítico associada aos anticorpos anti-eritropoetina."
+      },
+      {
+        "letra": "C",
+        "texto": "geralmente é aplástica com pancitopenia."
+      },
+      {
+        "letra": "D",
+        "texto": "sua principal causa é a diminuição da produção de eritropoetina."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 115428,
+    "tags": [],
+    "enunciado": "Julgue o próximo item, relativo às anemias hemolíticas autoimunes, ao lúpus eritematoso sistêmico e à insuficiência renal crônica.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "glomerulonefrite mesangial é a principal causa de Insu(cid:37)ciência Renal Crônica (IRC) em crianças com até três anos de idade."
+      },
+      {
+        "letra": "A",
+        "texto": "Certo."
+      },
+      {
+        "letra": "B",
+        "texto": "Errado."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 115429,
+    "tags": [],
+    "enunciado": "São causas de anemia normocrômica normocítica, hipocrômica microcítica e normocrômica macrocítica, respectivamente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Anemia aplástica, anemia sideroblástica, anemia megaloblástica."
+      },
+      {
+        "letra": "B",
+        "texto": "Anemia da insuficiência renal crônica, anemia hemolítica, anemia do hipotiroidismo."
+      },
+      {
+        "letra": "C",
+        "texto": "Anemia induzida por fármacos, anemia sideroblástica, anemia ferropriva."
+      },
+      {
+        "letra": "D",
+        "texto": "Talassemia, anemia de doença crônica, anemia megaloblástica."
+      },
+      {
+        "letra": "E",
+        "texto": "Anemia ferropriva, anemia hemolítica, talassemia."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 115430,
+    "tags": [],
+    "enunciado": "Refratariedade ao tratamento da anemia ferropriva Uma mulher de 30 anos traz hemograma com Hb = 9,8 g/dL, Ht = 30%, sem outras alterações, plaquetas normais. Refere ter tomado sulfato ferroso há 2 anos para tratamento de anemia, sem sucesso. Nega sangramento digestivo e refere ciclos menstruais com espaniomenorragia e menorragia. O exame ginecológico é normal. O próximo passo deve ser:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "US pélvico, dosagem de FSH, Estradiol, Prolactina, creatinina e clearence."
+      },
+      {
+        "letra": "B",
+        "texto": "US transvaginal, dosagem de FSH, LH, Estradiol, Progesterona e Prolactina."
+      },
+      {
+        "letra": "C",
+        "texto": "Dosagem de ácido fólico, vit. B12, ferritina, transferrina e US transvaginal."
+      },
+      {
+        "letra": "D",
+        "texto": "Dosagem de TSH e T4 livre."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 115431,
+    "tags": [],
+    "enunciado": "Perfil de ferro na anemia de doença crônica Para estabelecer o diagnóstico diferencial das anemias hipoproliferativas é importante a dosagem do ferro sérico e da ferritina sérica. Assinale a alternativa correta em relação ao diagnóstico e os valores de ferro e ferritina.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Na anemia ferropriva, o ferro sérico encontra-se baixo e a ferritina alta."
+      },
+      {
+        "letra": "B",
+        "texto": "Na anemia secundária as doenças inflamatórias crônicas o ferro encontra-se baixo e a ferritina alta."
+      },
+      {
+        "letra": "C",
+        "texto": "Na anemia por doença renal crônica tanto o ferro quanto a ferritina estão baixos."
+      },
+      {
+        "letra": "D",
+        "texto": "Na anemia por doença renal crônica tanto o ferro quanto a ferritina estão baixos."
+      },
+      {
+        "letra": "E",
+        "texto": "Tanto os portadores de doença renal crônica quanto nos pacientes com hipotireoidismo, o ferro e a ferritina estão baixos."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 115432,
+    "tags": [],
+    "enunciado": "Todas as condições patológicas abaixo são causas de anemia hemolítica microangiopática, EXCETO a (o):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cirrose hepática."
+      },
+      {
+        "letra": "B",
+        "texto": "Uso de quimioterapia."
+      },
+      {
+        "letra": "C",
+        "texto": "Coagulação intravascular disseminada."
+      },
+      {
+        "letra": "D",
+        "texto": "Eclâmpsia."
+      },
+      {
+        "letra": "E",
+        "texto": "Hipertensão maligna."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 115433,
+    "tags": [],
+    "enunciado": "Dentre os vários fatores na gênese da anemia megaloblástica, o que NÃO pertence ao grupo de causadores é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "anticorpo antiK + ATPase"
+      },
+      {
+        "letra": "B",
+        "texto": "gastropatia do diabetes"
+      },
+      {
+        "letra": "C",
+        "texto": "ingestão de corrosivos"
+      },
+      {
+        "letra": "D",
+        "texto": "hipertireoidismo"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 115434,
+    "tags": [],
+    "enunciado": "São diagnósticos diferenciais de anemia microcítica, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Deficiência de folato."
+      },
+      {
+        "letra": "B",
+        "texto": "Deficiência de ferro."
+      },
+      {
+        "letra": "C",
+        "texto": "Intoxicação por chumbo."
+      },
+      {
+        "letra": "D",
+        "texto": "Talassemia."
+      },
+      {
+        "letra": "E",
+        "texto": "Anemia Sideroblástica."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 115435,
+    "tags": [],
+    "enunciado": "Mulher, 38 anos, procura assistência médica devido a dores e a edema articulares, além de cansaço e fraqueza há 10 dias. Exames com hemoglobina 6,8 g/dl (normal 1216); reticulócitos 8% (normal 1,5-2,5%). Quanto a esse caso, podemos afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Anemia inflamatória deve ser confirmada com o perfil de ferro."
+      },
+      {
+        "letra": "B",
+        "texto": "Anemia ferropriva deve ser confirmada com o perfil de ferro."
+      },
+      {
+        "letra": "C",
+        "texto": "Artrite infecciosa deve ser a causa de anemia da doença crônica, nesse caso."
+      },
+      {
+        "letra": "D",
+        "texto": "Reticulocitose faz pensar em anemia por doença renal crônica."
+      },
+      {
+        "letra": "E",
+        "texto": "Anemia hemolítica autoimune é a provável causa, e o Coombs direto deve sersolicitado."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 115436,
+    "tags": [],
+    "enunciado": "No que se refere à hemoterapia, julgue:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "anemia em pacientes graves envolve diversos fatores, entre eles, a produção inadequada de eritropoetina associada a um déficit de ferro no metabolismo."
+      },
+      {
+        "letra": "A",
+        "texto": "Certo."
+      },
+      {
+        "letra": "B",
+        "texto": "Errado."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 115437,
+    "tags": [],
+    "enunciado": "Sobre a macrocitose, assinale a alternativa CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A causa mais comum de macrocitose é a deficiência de vitamina B12"
+      },
+      {
+        "letra": "B",
+        "texto": "O uso de medicamentos como hidroxiuréia, a gestação e o hipotireoidismo podem levar à macrocitose"
+      },
+      {
+        "letra": "C",
+        "texto": "A hemoglobinúria paroxística noturna caracteriza-se por tendência à trombose e predomínio de hemólise extravascular."
+      },
+      {
+        "letra": "D",
+        "texto": "Apesar de ser uma eritroenzimopatia rara a deficiência de G6PD causa sintomas de anemia hemolítica grave em mais de 90% dos pacientes"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 115438,
+    "tags": [],
+    "enunciado": "Mulher, 52 anos, no período de climatério, queixa-se de cansaço em suas atividades diárias, sem outros sintomas. O exame clínico é normal, exceto pelas mucosas discretamente hipocoradas. O hemograma mostra hemoglobina = 10 g/dl; hematócrito = 31%; VCM = 76 (cid:83); ferritina = 10 ng/ml; ferro = 60 µg/dl e capacidade total de ligação do ferro = 420 µg/dl. O procedimento necessário para o diagnóstico da síndrome anêmica é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Investigar presença de sangue oculto nas fezes e o trato digestivo."
+      },
+      {
+        "letra": "B",
+        "texto": "Solicitar ureia e creatinina para o diagnóstico de insuficiência renal."
+      },
+      {
+        "letra": "C",
+        "texto": "Solicitar TSH, pois é comum hipotireoidismo em mulheres nesta faixa etária."
+      },
+      {
+        "letra": "D",
+        "texto": "Iniciar sulfato ferroso e acompanhar com hemograma seriado."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 115439,
+    "tags": [],
+    "enunciado": "Refratariedade ao tratamento da anemia ferropriva Duda, 34 anos, refere anemia há 2 anos e foi tratada com sulfato ferroso sem sucesso. Traz hemograma com Hb= 9,8 g/dL; Htc= 30%, hemácias normocíticas, normocrômicas. Série branca e plaquetas normais. Nega sangramento anal ou hematêmese. Ciclos menstruais: espaniomenorreia e menorragia. O exame ginecológico é normal. O próximo passo na avaliação será:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "dosagem de ácido fólico, vit. B12, ferritina, transferrina e US transvaginal."
+      },
+      {
+        "letra": "B",
+        "texto": "US transvaginal, dosagem de FSH, LH, Estradiol, Progesterona e Prolactina."
+      },
+      {
+        "letra": "C",
+        "texto": "US pélvico, dosagem de FSH, Estradiol, Prolactina, creatinina e clearence."
+      },
+      {
+        "letra": "D",
+        "texto": "dosagem de TSH, T4 livre."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 115440,
+    "tags": [],
+    "enunciado": "O residente avalia o hemograma de paciente de 72 anos no ambulatório, cujos dados mais importantes são: hemoglobina = 8,2 g/dl; reticulócitos = 0,6%; leucócitos = 8.500/dl; plaquetas = 180.000/dl. As doenças que melhor se enquadrariam, nesses dados, são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Deficiência de ferro e anemia hemolítica por anticorpos a frio."
+      },
+      {
+        "letra": "B",
+        "texto": "Aplasia de medula óssea e anemia microangiopática."
+      },
+      {
+        "letra": "C",
+        "texto": "Deficiência de vitamina B12 e mielofibrose."
+      },
+      {
+        "letra": "D",
+        "texto": "Esferocitose e insuficiência renal crônica."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 115441,
+    "tags": [],
+    "enunciado": "Relacione a gravidade de intoxicação por chumbo, na coluna da esquerda, com os sintomas e sinais mais frequentemente associados à intoxidade, na coluna da direita. (I) Leve. (II) Moderada. (III) Grave. (A) Cólica abdominal aguda. (B) Dor abdominal intermitente. (C) Constipação intestinal. (D) Fadiga severa. (E) Linha gengival de Burton. (F) Parestesia. Assinale a alternativa que contém a associação CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I-B, I-E, II-A, II-D, III-C, III-F."
+      },
+      {
+        "letra": "B",
+        "texto": "I-B, I-F, II-C, II-D, III-A, III-E."
+      },
+      {
+        "letra": "C",
+        "texto": "I-C, I-A, II-B, II-F, III-D, III-E."
+      },
+      {
+        "letra": "D",
+        "texto": "I-C, I-F, II-E, II-B, III-D, III-A."
+      },
+      {
+        "letra": "E",
+        "texto": "I-D, I-E, II-B, II-F, III-A, III-C. 4000071772"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 115442,
+    "tags": [],
+    "enunciado": "Nos casos de carência de ferro, de(cid:37)ciência de vitamina C e hipotireoidismo, pode-se encontrar diminuição de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Eritropoetina."
+      },
+      {
+        "letra": "B",
+        "texto": "Ferritina sérica."
+      },
+      {
+        "letra": "C",
+        "texto": "Glicose."
+      },
+      {
+        "letra": "D",
+        "texto": "Transferrina."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 115443,
+    "tags": [],
+    "enunciado": "Jovem, 20 anos de idade, chega ao consultório, com história de fadiga e tolerância reduzida aos esforços, dor óssea, dor torácica e febrícula. Ao exame: mucosas hipocoradas, discreta icterícia e pele cor acinzentada. O diagnóstico mais provável é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Leucemia mieloide crônica."
+      },
+      {
+        "letra": "B",
+        "texto": "Leucemia linfoide aguda."
+      },
+      {
+        "letra": "C",
+        "texto": "Anemia hipoproliferativa da insuficiência renal."
+      },
+      {
+        "letra": "D",
+        "texto": "Anemia falciforme."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 115444,
+    "tags": [],
+    "enunciado": "Qual das alternativas não está associada com anemia macrocítica?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Anemia hemolítica."
+      },
+      {
+        "letra": "B",
+        "texto": "Síndrome mielodisplásica."
+      },
+      {
+        "letra": "C",
+        "texto": "Uso de álcool em excesso, sem óbvia doença hepática."
+      },
+      {
+        "letra": "D",
+        "texto": "Anemia de doença crônica."
+      },
+      {
+        "letra": "E",
+        "texto": "Tratamento com hidroxiureia."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 115445,
+    "tags": [],
+    "enunciado": "Assinale a alternativa correta sobre ANEMIA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O diagnóstico da Anemia falciforme é feito pela eletroforese de hemoglobina que detecta a presença da hemoglobina A2."
+      },
+      {
+        "letra": "B",
+        "texto": "São características da anemia ferropriva: hipocromia e microcitose, ferritina elevada, ferro sérico < 30 mcg%; TBIC baixa."
+      },
+      {
+        "letra": "C",
+        "texto": "Anemia associada a doença renal crônica manifesta-se com macrocitose, reticulocitose e está associada à baixa produção de eritropoetina."
+      },
+      {
+        "letra": "D",
+        "texto": "Anemia megaloblástica tem macrocitose, reticulocitose, ácido metilmalônico baixo."
+      },
+      {
+        "letra": "E",
+        "texto": "Anemia hemolítica pode ser causada por deficiência de glicose 6 fosfato desidrogenase manifestada na exposição por sulfas e amiodarona."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 115446,
+    "tags": [],
+    "enunciado": "São causas de anemia hipocrômica e microcítica, normocrômica e macrocítica e normocrômica e normocítica:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Anemia sideroblástica, anemia megaloblástica, anemia aplásica."
+      },
+      {
+        "letra": "B",
+        "texto": "Anemia sideroblástica, anemia ferropriva, anemia induzida por fármacos."
+      },
+      {
+        "letra": "C",
+        "texto": "Anemia da doença crônica, anemia megaloblástica, talassemia."
+      },
+      {
+        "letra": "D",
+        "texto": "Anemia hemolítica, anemia do hipotireoidismo, anemia da insuficiência renal crônica."
+      },
+      {
+        "letra": "E",
+        "texto": "Anemia hemolítica, talassemia, anemia ferropriva."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 115447,
+    "tags": [],
+    "enunciado": "Qual o diagnóstico mais provável para o paciente que apresenta os seguintes achados hematimétricos? (VER IMAGEM)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Anemia ferropriva."
+      },
+      {
+        "letra": "B",
+        "texto": "Anemia da doença crônica."
+      },
+      {
+        "letra": "C",
+        "texto": "Insuficiência renal crônica."
+      },
+      {
+        "letra": "D",
+        "texto": "Talassemia."
+      },
+      {
+        "letra": "E",
+        "texto": "Hipotireoidismo."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 115448,
+    "tags": [],
+    "enunciado": "Em relação às síndromes anêmicas, ao observarmos volume corpuscular médio alto, devemos considerar como causa possível?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Doença crônica."
+      },
+      {
+        "letra": "B",
+        "texto": "Deficiência de ferro."
+      },
+      {
+        "letra": "C",
+        "texto": "Talassemia."
+      },
+      {
+        "letra": "D",
+        "texto": "Deficiência de folato."
+      },
+      {
+        "letra": "E",
+        "texto": "Intoxicação por chumbo."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 115449,
+    "tags": [],
+    "enunciado": "Em relação às anemias, assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hiperparatireoidismo, hipotireoidismo e doença de Addison são doenças endócrinas que podem evoluir com anemia."
+      },
+      {
+        "letra": "B",
+        "texto": "O aparecimento de pecilócitos no esfregaço sanguíneo ocorre na fase inicial da anemia por carência de ferro."
+      },
+      {
+        "letra": "C",
+        "texto": "Infecção pelo HIV, doença celíaca, síndrome de Zollinger-Ellison e o uso de metformina são causas secundárias que podem promover anemia megaloblástica por deficiência de cobalamina."
+      },
+      {
+        "letra": "D",
+        "texto": "Uso de anticonvulsivantes, alcoolismo, doença de Crohn e linfomas são causas de anemia megaloblástica por deficiência de folato."
+      },
+      {
+        "letra": "E",
+        "texto": "Atrofia óptica, demência e neuropatia periférica bilateral são manifestações neurológicas associadas à deficiência de cobalamina."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 115450,
+    "tags": [],
+    "enunciado": "Classificação morfológica das anemias Considere três pacientes com anemia, além das características abaixo. Paciente I - TSH superior a 30 mcU/ml. Paciente II - poliartrite crônica em mãos e rigidez matinal. Paciente III - eletroforese de hemoglobina com HbA2 superior a 4%. Anemias microcítica, normocítica e macrocítica serão encontradas com maior probabilidade, respectivamente, nos pacientes:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, III e II."
+      },
+      {
+        "letra": "B",
+        "texto": "III, I e II."
+      },
+      {
+        "letra": "C",
+        "texto": "I, II e III."
+      },
+      {
+        "letra": "D",
+        "texto": "III, II e I."
+      },
+      {
+        "letra": "E",
+        "texto": "II, III e I."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 115451,
+    "tags": [],
+    "enunciado": "Quais das alternativas abaixo reúnem o conjunto de doenças que se manifestam, respectivamente, por anemia hipocrômica e microcítica; anemia normocrômica e normocítica e anemia normocrônica macrocítica?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "talassemia, hipotiroidismo, anemia sideroblástica."
+      },
+      {
+        "letra": "B",
+        "texto": "doença celíaca, anemia aplástica, deficiência de ácido fólico."
+      },
+      {
+        "letra": "C",
+        "texto": "anemia ferropriva, deficiência de vitamina B12, insuficiência renal crônica."
+      },
+      {
+        "letra": "D",
+        "texto": "doença hepática crônica, anemia ferropriva, gastrectomia."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 115452,
+    "tags": [],
+    "enunciado": "Anemia é uma manifestação comum de distúrbios primários da medula óssea, anomalias primárias de eritrócitos, distúrbios imunológicos, de(cid:37)ciências nutricionais e um amplo espectro de doenças sistêmicas. A respeito da classi(cid:37)cação das anemias de acordo com a (cid:37)siopatologia causada pela diminuição da produção de eritrócitos pela medula, analise: ( ) Talassemias; ( ) Insuficiência renal; ( ) Mielofibrose; ( ) Deficiência de folato.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Deficiência de eritropoetina;"
+      },
+      {
+        "letra": "B",
+        "texto": "Deficiência quantitativa de células progenitoras;"
+      },
+      {
+        "letra": "C",
+        "texto": "Deficiência na síntese de DNA e na divisão de precursores eritroides;"
+      },
+      {
+        "letra": "D",
+        "texto": "Deficiência na síntese de globina. Assinale a coluna de acordo com sua correspondência:"
+      },
+      {
+        "letra": "A",
+        "texto": "D - A - B - C."
+      },
+      {
+        "letra": "B",
+        "texto": "A - B - C - D."
+      },
+      {
+        "letra": "C",
+        "texto": "B - C - D - A."
+      },
+      {
+        "letra": "D",
+        "texto": "C - D - A - B."
+      },
+      {
+        "letra": "E",
+        "texto": "D - B - C - A."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 115453,
+    "tags": [],
+    "enunciado": "Deficiência de Vitamina B12 e Ácido Fólico Maria Paula, 50 anos, branca, procura o ambulatório de Clínica Médica com história de fraqueza progressiva há 6 meses. Há 3 meses com parestesias intensas em ambas as pernas e desequilíbrio ao caminhar. Nega doenças prévias, etilismo e tabagismo. Ao exame físico, encontra-se descorada, ictérica, com petéquias em tronco, glossite e marcha atáxica. O hemograma evidencia hemoglobina de 6,0 g/dl, volume corpuscular médio de 112 (cid:83), 2.200 leucócitos/mm³, 52.000 plaquetas/mm³, billirrubina indireta e desidrogenase lática aumentadas. A tomogra(cid:37)a computadorizada de crânio e o exame de liquor são normais. A conduta terapêutica indicada nesta paciente é a administração de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Vitamina B12."
+      },
+      {
+        "letra": "B",
+        "texto": "Eritropoetina."
+      },
+      {
+        "letra": "C",
+        "texto": "Sulfato ferroso."
+      },
+      {
+        "letra": "D",
+        "texto": "Folato."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 115454,
+    "tags": [],
+    "enunciado": "Dentre as causas de anemia macrocítica, assinale a CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Anemia sideroblástica congênita."
+      },
+      {
+        "letra": "B",
+        "texto": "Anemia por intoxicação por chumbo."
+      },
+      {
+        "letra": "C",
+        "texto": "Anemia perniciosa."
+      },
+      {
+        "letra": "D",
+        "texto": "Anemia ferropriva."
+      },
+      {
+        "letra": "E",
+        "texto": "Talassemia minor."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 115455,
+    "tags": [],
+    "enunciado": "Várias doenças endócrinas são frequentemente associadas à anemia. Assinale a alternativa correta, relativa a esta afirmação:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "artrite reumatoide e hipotireoidismo."
+      },
+      {
+        "letra": "B",
+        "texto": "hipotireoidismo e diabetes mellitus."
+      },
+      {
+        "letra": "C",
+        "texto": "hipotireoidismo e hipopituitarismo."
+      },
+      {
+        "letra": "D",
+        "texto": "síndrome de Cushing e hipotireoidismo."
+      },
+      {
+        "letra": "E",
+        "texto": "diabetes mellitus e síndrome de Cushing."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 115456,
+    "tags": [],
+    "enunciado": "Paciente diabético de 60 anos apresentando adinamia, letargia e dispneia aos grandes esforços, retorna ao ambulatório de Clínica Médica com resultados de exames: Hemoglobina 8 g/dl, contagem de reticulócitos 1%, hemoglobina corpuscular média 32 pg e o volume corpuscular médio 90 (cid:83). Na anamnese e exame físico não foi observado nenhum sintoma ou sinal de perda sanguínea. Neste momento, qual o exame laboratorial mais importante e útil para a determinação da etiologia da Anemia?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Dosagem de ferro sérico"
+      },
+      {
+        "letra": "B",
+        "texto": "Dosagem de ácido fólico"
+      },
+      {
+        "letra": "C",
+        "texto": "Dosagem de vitamina B12"
+      },
+      {
+        "letra": "D",
+        "texto": "Dosagem de transaminases"
+      },
+      {
+        "letra": "E",
+        "texto": "Dosagem de creatinina sérica"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 115457,
+    "tags": [],
+    "enunciado": "Gestante assintomática é avaliada no pré-natal. Apresenta hemoglobina de 9,8 g/dl, com volume corpuscular médio de 62 (cid:83), 5.500 leucócitos/mm³, 220.000 plaquetas/mm³. As dosagens de ferro sérico, índice de saturação de transferrina, ferritina, creatinina e eletrólitos são normais. Para confirmar a principal hipótese diagnóstica, deve-se solicitar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Eletroforese de hemoglobina."
+      },
+      {
+        "letra": "B",
+        "texto": "Teste de Coombs."
+      },
+      {
+        "letra": "C",
+        "texto": "Mielograma."
+      },
+      {
+        "letra": "D",
+        "texto": "Dosagem de TSH."
+      },
+      {
+        "letra": "E",
+        "texto": "Dosagem de DHL, bilirrubinas e haptoglobina."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 115458,
+    "tags": [],
+    "enunciado": "Analisando a lâmina do sangue periférico de paciente que cursa com pancitopenia, você identi(cid:37)ca a presença de eritroblastos e de granulócitos imaturos. Nessa situação, a melhor hipótese diagnóstica dentre as citadas é de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Eliptocitose."
+      },
+      {
+        "letra": "B",
+        "texto": "Mieloftise."
+      },
+      {
+        "letra": "C",
+        "texto": "Septicemia."
+      },
+      {
+        "letra": "D",
+        "texto": "Anemia perniciosa."
+      },
+      {
+        "letra": "E",
+        "texto": "Hemoglobinúria paroxística noturna."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 115459,
+    "tags": [],
+    "enunciado": "Os mecanismos principais da anemia da insuficiência renal crônica são deficiências de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ferro e hemólise no sistema extracorpóreo."
+      },
+      {
+        "letra": "B",
+        "texto": "eritropoietina e de vitamina B12."
+      },
+      {
+        "letra": "C",
+        "texto": "ferro, perda sanguínea e intoxicação por alumínio."
+      },
+      {
+        "letra": "D",
+        "texto": "eritropoietina e diminuição da sobrevida dos eritrócitos."
+      },
+      {
+        "letra": "E",
+        "texto": "ferro e vitamina B12."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 115460,
+    "tags": [],
+    "enunciado": "A anemia na insuficiência renal crônica se dá, principalmente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "por perda de ferro na hemodiálise."
+      },
+      {
+        "letra": "B",
+        "texto": "por deficiência de eritropoetina."
+      },
+      {
+        "letra": "C",
+        "texto": "por deficiência de vitamina B12 e de ácido fólico."
+      },
+      {
+        "letra": "D",
+        "texto": "pelo hiperparatireoidismo associado à deficiência de ferro."
+      },
+      {
+        "letra": "E",
+        "texto": "pela desnutrição associada à inflamação."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 115461,
+    "tags": [],
+    "enunciado": "Neutrófilos hipersegmentados Para um paciente cujo esfregaço de sangue periférico apresente macrocitose e hipersegmentação de neutrófilos, qual das condições abaixo não deve ser considerada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Uso crônico de bloqueador de bomba protônica."
+      },
+      {
+        "letra": "B",
+        "texto": "História prévia de cirurgia bariátrica."
+      },
+      {
+        "letra": "C",
+        "texto": "Doença de Crohn."
+      },
+      {
+        "letra": "D",
+        "texto": "Intoxicação por chumbo."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 115462,
+    "tags": [],
+    "enunciado": "Paciente procura atendimento com queixas sugestivas de anemia. Eritrograma mostra Hb = 6,0 e VCM = 121. Com base nestes dados, qual das hipóteses abaixo deve ser excluída do diagnóstico diferencial?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Anemia megaloblástica."
+      },
+      {
+        "letra": "B",
+        "texto": "Anemia da insuficiência hepática."
+      },
+      {
+        "letra": "C",
+        "texto": "Anemia do hipotireoidismo."
+      },
+      {
+        "letra": "D",
+        "texto": "Talassemia."
+      },
+      {
+        "letra": "E",
+        "texto": "Síndrome mielodisplásica."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 115463,
+    "tags": [],
+    "enunciado": "Nas adolescentes, em nosso meio, a principal causa da anemia é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Verminoses."
+      },
+      {
+        "letra": "B",
+        "texto": "Deficiência de G6PD."
+      },
+      {
+        "letra": "C",
+        "texto": "Deficiência alimentar de ácido fólico."
+      },
+      {
+        "letra": "D",
+        "texto": "Perdas menstruais."
+      },
+      {
+        "letra": "E",
+        "texto": "Distúrbios renais."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 115464,
+    "tags": [],
+    "enunciado": "Assinalar o fator que NÃO contribui para a anemia da insuficiência renal crônica.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Redução da sobrevida das hemácias"
+      },
+      {
+        "letra": "B",
+        "texto": "Antagonismo periférico à ação da eritropoetina"
+      },
+      {
+        "letra": "C",
+        "texto": "Hiperparatiroidismo grave"
+      },
+      {
+        "letra": "D",
+        "texto": "Toxicidade por alumínio"
+      },
+      {
+        "letra": "E",
+        "texto": "Inflamação crônica"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 115465,
+    "tags": [],
+    "enunciado": "São causas de anemia macrocítica não-megaloblástica, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "hipotiroidismo."
+      },
+      {
+        "letra": "B",
+        "texto": "insuficiência renal crônica."
+      },
+      {
+        "letra": "C",
+        "texto": "hepatopatia crônica."
+      },
+      {
+        "letra": "D",
+        "texto": "mielodisplasia."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 115466,
+    "tags": [],
+    "enunciado": "D.Glória, 52 anos, é branca, aposentada, casada com Vasco, 63 anos, motorista de táxi. Procurou o ambulatório porque estava se sentindo “ anêmica”. Não há relato de adoecimento prévio. Refere que, há três dias, procurou Pronto-Socorro por apresentar diarreia aquosa com dor abdominal, que não melhorou após os cuidados caseiros; recorda-se de que, há três semanas, esteve em um acampamento para um breve período de retiro espiritual. Trouxe os seguintes exames, realizados no atendimento de urgência: Hem: 5,01x106 cél/ml, Hto. 31.7%, Hb 11.2, VCM: 65, CHbCM 35.5, Reticulócitos 0.9,plaquetas 290 mil cél/ml, VHS 10. Ao exame clínico, no ambulatório, apresentava mucosas hipocoradas. O exame do abdômen era normal e a paciente relatava que a diarreia havia cessado. Você, que está atendendo D. Glória no ambulatório, pensou em um diagnóstico etiológico mais provável para o quadro de anemia identi(cid:37)cada. Dos exames abaixo, aquele que você deve escolher, considerando a sensibilidade do teste, para compor o algoritmo de investigação desta anemia e auxiliar na confirmação de sua hipótese, é a dosagem sérica de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "folato."
+      },
+      {
+        "letra": "B",
+        "texto": "ferritina."
+      },
+      {
+        "letra": "C",
+        "texto": "T4 livre."
+      },
+      {
+        "letra": "D",
+        "texto": "vitamina B12.  Respostas: 1 B 2 C 3 C 4 A 5 C 6 A 7 B 8 A 9 A 10 11 D 12 B 13 C 14 C 15 D 16 C 17 A 18 A 19 E 20 C 21 C 22 C 23 A 24 B 25 B 26 C 27 C 28 C 29 B 30 E 31 D 32 B 33 A 34 D 35 B 36 A 37 D 38 A 39 E 40 A 41 B 42 A 43 D 44 C 45 B 46 B 47 D 48 D 49 E 50 A 51 D 52 D 53 B 54 D 55 B 56 A 57 A 58 C 59 C 60 E 61 A 62 B 63 D 64 B 65 D 66 D 67 D 68 B 69 B 70 B"
+      }
+    ],
+    "resposta_correta": "B"
+  }
+]

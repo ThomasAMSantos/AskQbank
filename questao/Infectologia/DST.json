@@ -1,0 +1,54 @@
+[
+  {
+    "id": 65001,
+    "tags": [],
+    "enunciado": "Milton teve o diagnóstico de monkeypox con(cid:30)rmado por meio de PCR positivo. Ele se enquadra no grupo de indivíduos com alto risco de desenvolver formas graves. Seu monitoramento deve acontecer:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a cada 2 dias;"
+      },
+      {
+        "letra": "B",
+        "texto": "a cada 3 dias;"
+      },
+      {
+        "letra": "C",
+        "texto": "a cada 7 dias;"
+      },
+      {
+        "letra": "D",
+        "texto": "a cada 15 dias;"
+      },
+      {
+        "letra": "E",
+        "texto": "diariamente."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 65002,
+    "tags": [],
+    "enunciado": "Homem, 56 anos, procurou atendimento médico com queixa de ardência e secreção uretral do tipo mucoide e levemente amarelada há 5 dias. Relatou ter tido relação sexual desprotegida há 10 dias. A bacterioscopia da secreção detectou diplococos Gram-negativos intracelulares. Qual a conduta mais adequada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ciprofloxacina."
+      },
+      {
+        "letra": "B",
+        "texto": "Doxiciclina."
+      },
+      {
+        "letra": "C",
+        "texto": "Ceftriaxona + Azitromicina."
+      },
+      {
+        "letra": "D",
+        "texto": "Penicilina Benzatina + Probenecida. 4000179849 Respostas: 1 E 2 C"
+      }
+    ],
+    "resposta_correta": "C"
+  }
+]

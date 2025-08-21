@@ -1,0 +1,1022 @@
+[
+  {
+    "id": 10271,
+    "tags": [],
+    "enunciado": "Considerando a Classi(cid:28)cação de Risco da Organização Mundial de Saúde (OMS) para doenças cardiovasculares na gravidez, relacione a COLUNA II com a COLUNA I, associando a recomendação para condução do caso com a estratificação de risco. COLUNA I 1. OMS 1 – Risco de morbidade ou mortalidade não superior ao da população em geral 2. OMS 2 – Pequeno aumento no risco de mortalidade materna e aumento moderado no risco de morbidade 3. OMS 2 ou 3 – Aumento intermédio do risco de mortalidade materna e aumento moderado a grave do risco de morbilidade 4. OMS 3 – Risco signi(cid:28)cativamente aumentado de mortalidade materna e aumento grave do risco de morbidade 5. OMS 4 – Risco muito elevado de mortalidade materna ou morbilidade grave; gravidez contraindicada e interrupção discutida COLUNA II ( ) Gravidez contraindicada. Se ocorrer gravidez, consulta cardiológica mensalmente. Atendimento em hospital terciário. ( ) Consulta de cardiologia uma ou duas vezes durante a gravidez. Cuidados hospitalares locais adequados. ( ) Consulta de cardiologia trimestralmente. Cuidados hospitalares locais adequados. ( ) Consulta cardiológica mensal ou bimestral. Atendimento em hospital terciário. ( ) Consulta cardiológica bimestral. Atendimento em hospital de referência. Assinale a sequência correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "4 1 3 5 2"
+      },
+      {
+        "letra": "B",
+        "texto": "5 1 2 4 3"
+      },
+      {
+        "letra": "C",
+        "texto": "4 1 3 2 5"
+      },
+      {
+        "letra": "D",
+        "texto": "5 1 2 3 4 4000232814"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10272,
+    "tags": [],
+    "enunciado": "Primigesta, 18 anos de idade, comparece ao pré-natal com 33 semanas de gravidez. Refere falta de ar para a rotina domiciliar, sente-se cansada o tempo todo. Ultimamente, com mais di(cid:28)culdade para dormir. Boa movimentação fetal, mas tem contrações dolorosas há 3 horas. Ao exame físico, apresentou-se descorada 1+/4+, FR de 18 ipm, FC de 118 bpm, saturação de O₂ de 94%, PA de 130x90 mmHg. Sopro diastólico mitral 3+/6+ com reforço pré-sistólico, sopro sistólico aórtico 2+/6+ sem irradiações. Ausculta pulmonar com estertores e sibilos esparsos. Edema membros inferiores 2+/4+. Abdome gravídico, AU 30 cm, BCF+, dinâmica 3 contrações fracas em 10 minutos. Colo médio posterior, 4 cm de dilatação, bolsa íntegra, cefálico.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "escolha terapêutica imediata é:"
+      },
+      {
+        "letra": "A",
+        "texto": "Terbutalina."
+      },
+      {
+        "letra": "B",
+        "texto": "Metildopa."
+      },
+      {
+        "letra": "C",
+        "texto": "Furosemida."
+      },
+      {
+        "letra": "D",
+        "texto": "Sulfato de magnésio."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10273,
+    "tags": [],
+    "enunciado": "Primigesta, 18 anos de idade, comparece ao pré-natal com 33 semanas de gravidez. Refere falta de ar para a rotina domiciliar, sente-se cansada o tempo todo. Ultimamente, com mais di(cid:28)culdade para dormir. Boa movimentação fetal, mas tem contrações dolorosas há 3 horas. Ao exame físico, apresentou-se descorada 1+/4+, FR de 18 ipm, FC de 118 bpm, saturação de O₂ de 94%, PA de 130x90 mmHg. Sopro diastólico mitral 3+/6+ com reforço pré-sistólico, sopro sistólico aórtico 2+/6+ sem irradiações. Ausculta pulmonar com estertores e sibilos esparsos. Edema membros inferiores 2+/4+. Abdome gravídico, AU 30 cm, BCF+, dinâmica 3 contrações fracas em 10 minutos. Colo médio posterior, 4 cm de dilatação, bolsa íntegra, cefálico. Após a conduta inicial e estabilização, a paciente apresenta a cardiotocografia a seguir: Neste momento, deve-se realizar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Peridural."
+      },
+      {
+        "letra": "B",
+        "texto": "Atosibano."
+      },
+      {
+        "letra": "C",
+        "texto": "Parto cesárea."
+      },
+      {
+        "letra": "D",
+        "texto": "Conduta expectante."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10274,
+    "tags": [],
+    "enunciado": "Pode-se afirmar que, segundo a OMS, em mulher portadora de cardiopatia congênita, a condição relacionada a maior morbimortalidade materno-fetal é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "cardiomiopatia hipertrófica"
+      },
+      {
+        "letra": "B",
+        "texto": "síndrome de Marfan"
+      },
+      {
+        "letra": "C",
+        "texto": "tetralogia de Fallot corrigida"
+      },
+      {
+        "letra": "D",
+        "texto": "hipertensão arterial pulmonar grave"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10275,
+    "tags": [],
+    "enunciado": "A gravidez NÃO seria contraindicada na seguinte circunstância",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "síndrome de Marfan."
+      },
+      {
+        "letra": "B",
+        "texto": "síndrome de Eisenmenger."
+      },
+      {
+        "letra": "C",
+        "texto": "hipertensão pulmonar acentuada."
+      },
+      {
+        "letra": "D",
+        "texto": "cardiopata com válvula cardíaca biológica. 4000228427"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10276,
+    "tags": [],
+    "enunciado": "Em uma gestante com prolapso de válvula mitral sem regurgitação é INCORRETO afirmar.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Raramente evidencia complicações durante a gestação."
+      },
+      {
+        "letra": "B",
+        "texto": "Está sempre indicada a profilaxia para a endocardite bacteriana."
+      },
+      {
+        "letra": "C",
+        "texto": "A maioria das gestantes com prolapso de válvula mitral é assintomática."
+      },
+      {
+        "letra": "D",
+        "texto": "Em pacientes sintomáticas os agentes betabloqueadores podem aliviar a dor torácica e as arritmias. 4000228418"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10277,
+    "tags": [],
+    "enunciado": "Para uma gestante com miocardiopatia periparto, no caso em que a paciente se encontra hemodinamicamente estável, antes do parto, o tratamento pode ser realizado com",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "metildopa."
+      },
+      {
+        "letra": "B",
+        "texto": "betabloqueadores."
+      },
+      {
+        "letra": "C",
+        "texto": "hidroxicloroquina."
+      },
+      {
+        "letra": "D",
+        "texto": "sulfato de magnésio."
+      },
+      {
+        "letra": "E",
+        "texto": "losartana."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10278,
+    "tags": [],
+    "enunciado": "Pacientes gestantes com cardiopatia de risco moderado:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Têm contraindicação absoluta para gestação e devem interrompê-la."
+      },
+      {
+        "letra": "B",
+        "texto": "Devem evitar qualquer tipo de exercício físico, incluindo caminhadas curtas."
+      },
+      {
+        "letra": "C",
+        "texto": "São aquelas que possuem exclusivamente cardiopatias congênitas."
+      },
+      {
+        "letra": "D",
+        "texto": "Necessitam de acompanhamento multidisciplinar e podem ter gestação sem grandes complicações. 4000214107"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10279,
+    "tags": [],
+    "enunciado": "Paciente de 30 anos, com estenose mitral valvar com área valvar de 20mm, evolui no primeiro dia pós-parto com queixa de dispneia e ortopneia. Ao exame, encontra-se com PA = 100 x 60mmHg, FC = 100bpm, FR = 28irpm e afebril; aparelho cardiovascular: ritmo cardíaco regular em dois tempos, sinusal, sopro diastólico 3+/6+; aparelho respiratório: murmúrio vesicular universalmente audível com estertores bolhosos bibasais; abdômen flácido e indolor, útero contraído ao nível da cicatriz umbilical; lóquios fisiológicos. De acordo com o quadro clínico descrito, a principal modi(cid:28)cação do organismo materno responsável pela complicação observada é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "diminuição da capacidade residual funcional pulmonar"
+      },
+      {
+        "letra": "B",
+        "texto": "aumento dos fatores pró-coagulantes"
+      },
+      {
+        "letra": "C",
+        "texto": "diminuição do retorno venoso"
+      },
+      {
+        "letra": "D",
+        "texto": "aumento do débito cardíaco"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10280,
+    "tags": [],
+    "enunciado": "As cardiopatias maternas são de elevado risco gestacional. Em qual destas cardiopatias a gestação está formalmente contraindicada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Coarctação da aorta."
+      },
+      {
+        "letra": "B",
+        "texto": "Síndrome de Marfan."
+      },
+      {
+        "letra": "C",
+        "texto": "Prolapso de valva mitral."
+      },
+      {
+        "letra": "D",
+        "texto": "Síndrome de Eisenmenger."
+      },
+      {
+        "letra": "E",
+        "texto": "Valvulopatia mitral reumática."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10281,
+    "tags": [],
+    "enunciado": "Primigesta, com idade gestacional de 7 semanas e apresenta diagnóstico de Síndrome de Marfan com comprometimento da aorta (diâmetro de 30 mm). Qual a conduta para o melhor cuidado da paciente nesse caso?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Indicar aborto terapêutico."
+      },
+      {
+        "letra": "B",
+        "texto": "Recomendar cesárea no termo."
+      },
+      {
+        "letra": "C",
+        "texto": "Aguardar parto vaginal espontâneo."
+      },
+      {
+        "letra": "D",
+        "texto": "Induziro parto com 37 semanas."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10282,
+    "tags": [],
+    "enunciado": "Mulher, 32 anos de idade, vem à primeira consulta de pré-natal preocupada, pois possui cardiopatia reumática e prótese valvar biológica, e está gestante de 10 semanas. Nega sintomas no momento e outras comorbidades. Último ecocardiograma, realizado há 3 meses, não evidenciava alterações cardíacas graves ou na prótese valvar biológica. Considerando o risco de recidiva de febre reumática, quanto à necessidade de pro(cid:28)laxia secundária, pode- se dizer que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não está indicada na gestação visto que ela já possui prótese biológica."
+      },
+      {
+        "letra": "B",
+        "texto": "Está indicada Penicilina Benzatina 1.200.000UI, intramuscular profundo, a cada 21 dias."
+      },
+      {
+        "letra": "C",
+        "texto": "Está indicada Penicilina Benzatina 2.400.000UI, intramuscular profundo, a cada 21 dias."
+      },
+      {
+        "letra": "D",
+        "texto": "Está indicada Estearato de Eritromicina, 500mg, via oral, 1x por semana."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10283,
+    "tags": [],
+    "enunciado": "Mulher, 32 anos de idade, vem à primeira consulta de pré-natal preocupada, pois possui cardiopatia reumática e prótese valvar biológica, e está gestante de 10 semanas. Nega sintomas no momento e outras comorbidades. Último ecocardiograma, realizado há 3 meses, não evidenciava alterações cardíacas graves ou na prótese valvar biológica. Quanto a ser cardiopata com uso de prótese valvar, pode-se afirmar que essa gestante:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Possui indicação de anticoagulação com Heparina Não fracionada, SC, a cada 12 horas em toda a gestação."
+      },
+      {
+        "letra": "B",
+        "texto": "Possui indicação de anticoagulação com Heparina Não fracionada, SC, a cada 12 horas até a 12ª semana e depois com anticoagulante oral até 35ª – 36ª semana de gestação."
+      },
+      {
+        "letra": "C",
+        "texto": "Possui indicação de uso de Varfarina desde o início da gestação, suspendendo somente quando parto a termo."
+      },
+      {
+        "letra": "D",
+        "texto": "Não possui indicação de anticoagulação no momento."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10284,
+    "tags": [],
+    "enunciado": "Mulher, 32 anos de idade, vem à primeira consulta de pré-natal preocupada, pois possui cardiopatia reumática e prótese valvar biológica, e está gestante de 10 semanas. Nega sintomas no momento e outras comorbidades. Último ecocardiograma, realizado há 3 meses, não evidenciava alterações cardíacas graves ou na prótese valvar biológica. Quanto à profilaxia de febre reumática no parto, caso venha a ser cesárea, pode-se afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a paciente só precisa manter uso da Penicilina Benzatina ou Eritromicina, que já fazia durante a gestação."
+      },
+      {
+        "letra": "B",
+        "texto": "não é necessário uso de antibiótico durante a cesárea ou no parto vaginal."
+      },
+      {
+        "letra": "C",
+        "texto": "será necessário esquema profilático com antibiótico: Ampicilina ou Cefalosporinas de primeira geração."
+      },
+      {
+        "letra": "D",
+        "texto": "não é necessário uso de antibiótico durante a cesárea, apenas no parto por via vaginal, após rotura prematura de membranas, Ampicilina é a droga indicada."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10285,
+    "tags": [],
+    "enunciado": "Mulher, 32 anos de idade, vem à primeira consulta de pré-natal preocupada, pois possui cardiopatia reumática e prótese valvar biológica, e está gestante de 10 semanas. Nega sintomas no momento e outras comorbidades. Último ecocardiograma, realizado há 3 meses, não evidenciava alterações cardíacas graves ou na prótese valvar biológica. Considerando o risco de recidiva de febre reumática, quanto à necessidade de pro(cid:28)laxia secundária, pode-se dizer que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não está indicada na gestação visto que ela já possui prótese biológica."
+      },
+      {
+        "letra": "B",
+        "texto": "Está indicada Penicilina Benzatina 1.200.000UI, intramuscular profundo, a cada 21 dias."
+      },
+      {
+        "letra": "C",
+        "texto": "Está indicada Penicilina Benzatina 2.400.000UI, intramuscular profundo, a cada 21 dias."
+      },
+      {
+        "letra": "D",
+        "texto": "Está indicada Estearato de Eritromicina, 500mg, via oral, 1x por semana."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10286,
+    "tags": [],
+    "enunciado": "Mulher, 32 anos de idade, vem à primeira consulta de pré-natal preocupada, pois possui cardiopatia reumática e prótese valvar biológica, e está gestante de 10 semanas. Nega sintomas no momento e outras comorbidades. Último ecocardiograma, realizado há 3 meses, não evidenciava alterações cardíacas graves ou na prótese valvar biológica. Quanto a ser cardiopata com uso de prótese valvar, pode-se afirmar que essa gestante:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Possui indicação de anticoagulação com Heparina Não fracionada, SC, a cada 12 horas em toda a gestação."
+      },
+      {
+        "letra": "B",
+        "texto": "Possui indicação de anticoagulação com Heparina Não fracionada, SC, a cada 12 horas até a 12a semana e depois com anticoagulante oral até 35a – 36a semana de gestação."
+      },
+      {
+        "letra": "C",
+        "texto": "Possui indicação de uso de Varfarina desde o início da gestação, suspendendo somente quando parto a termo."
+      },
+      {
+        "letra": "D",
+        "texto": "Não possui indicação de anticoagulação no momento."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10287,
+    "tags": [],
+    "enunciado": "Mulher, 32 anos de idade, vem à primeira consulta de pré-natal preocupada, pois possui cardiopatia reumática e prótese valvar biológica, e está gestante de 10 semanas. Nega sintomas no momento e outras comorbidades. Último ecocardiograma, realizado há 3 meses, não evidenciava alterações cardíacas graves ou na prótese valvar biológica. Quanto à profilaxia de febre reumática no parto, caso venha a ser cesárea, pode-se afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a paciente só precisa manter uso da Penicilina Benzatina ou Eritromicina, que já fazia durante a gestação."
+      },
+      {
+        "letra": "B",
+        "texto": "não é necessário uso de antibiótico durante a cesárea ou no parto vaginal."
+      },
+      {
+        "letra": "C",
+        "texto": "será necessário esquema profilático com antibiótico: Ampicilina ou Cefalosporinas de primeira geração."
+      },
+      {
+        "letra": "D",
+        "texto": "não é necessário uso de antibiótico durante a cesárea, apenas no parto por via vaginal, após rotura prematura de membranas, Ampicilina é a droga indicada."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10288,
+    "tags": [],
+    "enunciado": "Não existe boa correlação entre carga de esforço e FC para avaliação de gestantes, sendo:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O TCPE teste cardiopulmonar de exercício realizado nas cardiopatas grávidas em situações específicas (exceto doença valvar e cardiopatias congênitas), após exclusão das contraindicações clínicas e obstétricas absolutas e em nível submáximo."
+      },
+      {
+        "letra": "B",
+        "texto": "O TCPE teste cardiopulmonar de exercício realizado nas cardiopatas grávidas em situações específicas (doença valvar e cardiopatias congênitas), após exclusão das contraindicações clínicas e obstétricas absolutas e em nível apenas máximo."
+      },
+      {
+        "letra": "C",
+        "texto": "O TCPE teste cardiopulmonar de exercício nunca realizado nas cardiopatas grávidas em situações específicas (doença valvar e cardiopatias congênitas), após exclusão das ontraindicações clínicas e obstétricas absolutas e em nível submáximo."
+      },
+      {
+        "letra": "D",
+        "texto": "O TCPE teste cardiopulmonar de exercício realizado nas cardiopatas grávidas em situações específicas (doença valvar e cardiopatias congênitas), após exclusão das contraindicações clínicas e obstétricas absolutas e em nível submáximo. 4000190585"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10289,
+    "tags": [],
+    "enunciado": "Paciente com 35 anos, primigesta, gemelar dicoriônico, 29 semanas, diagnóstico de diabetes gestacional na avaliação de primeiro trimestre controlado com dieta, procura pronto atendimento com queixa de cólicas frequentes. Após avaliação foi diagnosticado trabalho de parto prematuro inibível. Fetos com vitalidade normal, optou-se pela inibição de trabalho de parto. Como medida inicial foi administrado levomepromazina e hidratação endovenosa, sem sucesso, seguindo-se inibição com terbutalina endovenosa. Realizada administração de corticoterapia para maturação pulmonar e sulfato de magnésio para neuroproteção. Urocultura negativa. Durante o terceiro dia de internação paciente apresenta queixa importante de dispneia ao repouso necessitando de suporte respiratório. Teste de antígeno para COVID-19 negativo. A ausculta pulmonar apresentava murmúrios vesiculares presentes com estertores crepitantes bilateralmente poupando somente os ápices pulmonares. A ausculta cardíaca apresentava bulhas rítmicas normofonéticas, com sopro sistólico ejetivo principalmente em bordo esternal esquerdo. Quais são a etiologia mais provável, a investigação e o tratamento propostos para o caso?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tromboembolismo pulmonar, angiotomografia, ateplase."
+      },
+      {
+        "letra": "B",
+        "texto": "Estenose mitral, ecocardiograma, furosemida e beta bloqueador."
+      },
+      {
+        "letra": "C",
+        "texto": "Miocardite periparto, ecocardiograma, corticoterapia."
+      },
+      {
+        "letra": "D",
+        "texto": "Síndrome angústia respiratória por COVID, tomografia de tórax, corticoterapia."
+      },
+      {
+        "letra": "E",
+        "texto": "Edema agudo de pulmão, raio X de tórax, furosemida. 4000185960"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 10290,
+    "tags": [],
+    "enunciado": "Mulher, 36 anos, tem antecedentes de hipertensão arterial e troca valvar mitral por prótese metálica há 9 anos. Está em uso regular de enalapril 10 mg 12/12h e varfarina 5 mg/dia, com bom controle dos níveis pressóricos e do tempo de protrombina. Após atraso menstrual, procurou ginecologista e foi con(cid:28)rmada gravidez. Encontra-se na 6a semana de gestação, confirmada por ultrassonografia transvaginal. Qual é a conduta correta neste momento?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Manter o enalapril, pois está em controle adequado da hipertensão arterial. Manter a varfarina, pois a terapêutica encontra-se otimizada."
+      },
+      {
+        "letra": "B",
+        "texto": "Substituir enalapril por metildopa e varfarina por heparina de baixo peso molecular."
+      },
+      {
+        "letra": "C",
+        "texto": "Substituir enalapril por hidralazina. Manter o uso de varfarina até a 12ª semana e, após, substituir por heparina de baixo peso molecular."
+      },
+      {
+        "letra": "D",
+        "texto": "Substituir enalapril por nifedipina. Manter o uso de varfarina até a 36ª semana e, após, substituir por enoxaparina."
+      },
+      {
+        "letra": "E",
+        "texto": "Manter o enalapril e substituir a varfarina por apixabana. 4000185450"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10291,
+    "tags": [],
+    "enunciado": "As complicações materno-fetais e perinatais são signi(cid:28)cativamente maiores em mulheres portadoras de cardiopatias. A carência de protocolos no atendimento da gestante cardiopata e a frágil interação multidisciplinar contribuem para o mau desfecho da gravidez. Em relação às complicações fetais e perinatais nas gestações de mães cardiopatas, assinale com V as afirmativas verdadeiras e com F as falsas. ( ) A morbimortalidade perinatal é maior em recém-nascidos de mães cardiopatas, quando comparada à da população em geral. ( ) Múltiplos fatores maternos associam-se a maior incidência de perdas fetais, malformações, crescimento intrauterino restrito e prematuridade. ( ) A varfarina sódica, quando usada no primeiro trimestre, causa em 5% a 10% das gestantes a síndrome da varfarina fetal, que ocorre entre a sexta e a nona semana de gestação. ( ) Dentre os fatores maternos que comprometem o crescimento e desenvolvimento fetais, pode-se citar baixo débito cardíaco, cardiopatias cianogênicas e uso de medicamentos (anticoagulantes, betabloqueadores, diuréticos, antiarrítmicos). Assinale a sequência correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "F V F F"
+      },
+      {
+        "letra": "B",
+        "texto": "V F V F"
+      },
+      {
+        "letra": "C",
+        "texto": "V V V V"
+      },
+      {
+        "letra": "D",
+        "texto": "F F F V 4000184578"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10292,
+    "tags": [],
+    "enunciado": "Qual das causas abaixo apresenta alto risco de mortalidade na grávida com cardiopatia (25 a 50%)?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Doença pulmonar ou tricúspide."
+      },
+      {
+        "letra": "B",
+        "texto": "Hipertensão pulmonar."
+      },
+      {
+        "letra": "C",
+        "texto": "Prolapso da valva mitral."
+      },
+      {
+        "letra": "D",
+        "texto": "Estenose mitral leve/moderada."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10293,
+    "tags": [],
+    "enunciado": "A endocardite infecciosa é uma doença com mortalidade em torno de 25%, sendo importante a administração de antibioticopro(cid:28)laxia nos casos indicados. Entre as indicações de pro(cid:28)laxia para endocardite infecciosa durante o parto, é correto citar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "tetralogia de Fallot"
+      },
+      {
+        "letra": "B",
+        "texto": "coarctação da aorta"
+      },
+      {
+        "letra": "C",
+        "texto": "cardiomiopatia dilatada"
+      },
+      {
+        "letra": "D",
+        "texto": "aneurisma de septo interatrial"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10294,
+    "tags": [],
+    "enunciado": "Uma mulher de 23 anos, tercigesta, com história prévia de um parto cesáreo há 2 anos e um aborto retido há 1 ano, com 40 semanas de gestação, chega à maternidade com queixa de dispneia signi(cid:28)cativa. Ao exame, a frequência cardíaca é de 120 bpm e a frequência respiratória é de 36 ipm e forçada. A saturação de O² em ar ambiente é de 85%. Foi realizada uma tomogra(cid:28)a computadorizada de tórax, que revelou in(cid:28)ltrados pulmonares bilaterais e aumento da silhueta cardíaca. Qual das alternativas abaixo é o mecanismo para os sintomas dessa paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Diminuição da contratilidade cardíaca por miocardiopatia periparto."
+      },
+      {
+        "letra": "B",
+        "texto": "Broncoespasmo e doença reativa das vias aéreas."
+      },
+      {
+        "letra": "C",
+        "texto": "Extravazamento capilar e lesão pulmonar, síndrome do desconforto respiratório agudo (SDRA)."
+      },
+      {
+        "letra": "D",
+        "texto": "Inflamação, pneumonite intersticial."
+      },
+      {
+        "letra": "E",
+        "texto": "Estado hipercoagulável e embolia amniótica. 4000192755"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10295,
+    "tags": [],
+    "enunciado": "Mulher de 35 anos, sem histórico de doença cardiovascular, apresenta edema agudo de pulmão 18 horas após o parto de uma gravidez gemelar. A pressão arterial era de 100 x 60 mmHg, a frequência cardíaca de 110bpm, regular. Na ausculta cardíaca, ritmo de galope, com terceira bulha presente, sopro protossistólico suave em área mitral e tricúspide. Ao eletrocardiograma, ritmo de taquicardia sinusal; ao ecocardiograma, valvas normais e fração de ejeção de ventrículo esquerdo de 35%. Qual o diagnóstico mais provável?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Embolia amniótica."
+      },
+      {
+        "letra": "B",
+        "texto": "Estenose Mitral."
+      },
+      {
+        "letra": "C",
+        "texto": "Cardiomiopatia periparto."
+      },
+      {
+        "letra": "D",
+        "texto": "Cardiomiopatia hipertrófica. 4000192362"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10296,
+    "tags": [],
+    "enunciado": "MIS, 20 anos, Gesta I, Para 0. Fez pré-natal regularmente no alto risco. Foi admitida na Maternidade queixando-se de dor em baixo ventre e perda de tampão mucoso. Sua idade gestacional era de 37 semanas e 2 dias. Referia febre reumática na infância e fora submetida à comissurotomia mitral aos 17 anos. Realizou recentemente ecocardiograma que demonstrou prolapso discreto da válvula mitral, cavidades normais e função ventricular preservada. No segundo trimestre passou a apresentar dispnéia ocasional, sem relação com o esforço e edema MMII+/4. Na admissão: lúcida, corada, eupnéica, FC = 84 bpm, PA: 100/60 mmHg; AC: sopro sistólico no foco mitral +/4++. Pulmões limpos. FU = 34 cm. BCF: 140 bpm sem desaceleração. Atividade uterina=160 UA. Toque: colo apagado 90%, dilatado para 7cm. Apresentação cefálica no plano + 2DeLee. Bolsa íntegra. A família esboçou o desejo pelo parto cesariana. O plantonista:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Acatou o desejo da família e indicou o parto cesariana."
+      },
+      {
+        "letra": "B",
+        "texto": "Optou pelo parto cesariana para evitar eventual sofrimento fetal."
+      },
+      {
+        "letra": "C",
+        "texto": "Indicou o parto por via vaginal apesar do prolapso da válvula mitral."
+      },
+      {
+        "letra": "D",
+        "texto": "Fez tocólise e indicou a cesariana sob anestesia geral."
+      },
+      {
+        "letra": "E",
+        "texto": "Indicou o parto transpélvico sob uso de ocitocina para diminuir a duração do parto. 4000191517"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10297,
+    "tags": [],
+    "enunciado": "A etiologia da cardiopatia mais frequentemente encontrada nas gestantes é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Doença reumática."
+      },
+      {
+        "letra": "B",
+        "texto": "Cardiopatia congênita."
+      },
+      {
+        "letra": "C",
+        "texto": "Miocardiopatia periparto."
+      },
+      {
+        "letra": "D",
+        "texto": "Doença hipertensiva."
+      },
+      {
+        "letra": "E",
+        "texto": "Cardiopatia isquêmica. 4000191476"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10298,
+    "tags": [],
+    "enunciado": "No Brasil, a doença reumática é a causa mais frequente de cardiopatia durante a gravidez, com incidência estimada em 50% em relação a outras cardiopatias. A respeito das doenças cardíacas na gravidez, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O aumento do débito cardíaco influencia diretamente o fluxo por meio das valvas cardíacas, com melhora funcional nas lesões estenóticas."
+      },
+      {
+        "letra": "B",
+        "texto": "A queda da resistência vascular periférica aumenta o volume de regurgitação nas valvas insuficientes."
+      },
+      {
+        "letra": "C",
+        "texto": "Aevolução das lesões estenóticas geralmente se correlaciona ao grau anatômico da lesão valvar."
+      },
+      {
+        "letra": "D",
+        "texto": "A evolução das lesões valvares regurgitantes se relaciona à condição da função atrial direita. 4000168172"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10299,
+    "tags": [],
+    "enunciado": "Mulher, 40 anos, negra, G6 P5 A1,chega ao Pronto Atendimento no quinto dia de puerpério. Refere que, desde o parto, apresenta falta de ar progressiva, cansaço, dor no peito e aumento do inchaço nas pernas. Nega antecedentes mórbidos. Exame físico: descorada +/4+; TAx: 36,5ºC; FC: 108 bpm; FR: 26 irpm; PA: 150 x 90 mmHg. Hemograma: Hb: 10.8g/dl; Ht: 37%; Leucócitos: 6.890/mm3; Plaquetas: 220.000/mm3. Rx de tórax, com a imagem a seguir: Qual é o provável diagnóstico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tromboembolismo pulmonar."
+      },
+      {
+        "letra": "B",
+        "texto": "Cardiomiopatia periparto."
+      },
+      {
+        "letra": "C",
+        "texto": "Infarto agudo do miocárdio."
+      },
+      {
+        "letra": "D",
+        "texto": "Edema pulmonar secundário à pré-eclâmpsia atípica."
+      },
+      {
+        "letra": "E",
+        "texto": "Embolia Amniótica. 4000172649"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10300,
+    "tags": [],
+    "enunciado": "Alessandra 31 anos de idade procura atendimento obstétrico por contrações dolorosas a cada 3 minutos, associada a peso em região púbica. A idade gestacional é de 32 semanas. E tercigesta, com dois partos vaginais prévios (último há 2 anos, sem intercorrências). Está em uso de sertralina 100mg/dia. Refere que está aguardando avaliação de pré-natal de alto risco por queixa de cansaço físico que vem sendo progressivamente mais importante desde o quinto mês gestacional. Desde o momento em que iniciaram as contrações, sente opressão torácica, di(cid:28)culdade para respirar e sensação de desmaio. No exame clínico, apresenta-se em bom estado geral, PA 94x50 mmHg, FC 126bpm, FR 22 ipm. Ausculta com sopro sistólico aórtico 3+/6+, ejetivo, murmúrios vesiculares presentes com crepitação (cid:28)na em base direita. Abdome gravídico, altura uterina 30 cm, BCF presente e rítmico. Sem edemas de MMII, sem sinais de TVP. Toque vaginal: colo (cid:28)no, dilatação de 6 cm, apresentação cefálica e bolsa íntegra. A medida obstétrica adequada é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Assistir ao período expulsivo com puxos dirigidos."
+      },
+      {
+        "letra": "B",
+        "texto": "Assistência ao parto com analgesia imediata."
+      },
+      {
+        "letra": "C",
+        "texto": "Inibição de trabalho de parto prematuro com atosibano."
+      },
+      {
+        "letra": "D",
+        "texto": "Iniciar maturação pulmonar fetal com corticoterapia."
+      },
+      {
+        "letra": "E",
+        "texto": "Nenhuma das anteriores 4000172158"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 10301,
+    "tags": [],
+    "enunciado": "Sobre gestante cardiopata, assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É preferível o agendamento de cesariana, com retaguarda de terapia intensiva."
+      },
+      {
+        "letra": "B",
+        "texto": "Em pacientes com risco elevado para tromboembolismo arterial e venoso está recomendada a terapêutica antitrombótica. Na gravidez, o agente de escolha nessas situações é a varfarina."
+      },
+      {
+        "letra": "C",
+        "texto": "Preconiza-se a realização de apenas um ecocardiograma materno nas classes funcionais III e IV, conforme estratificação de risco materno pela OMS"
+      },
+      {
+        "letra": "D",
+        "texto": "Prioriza-se programar o parto para 36 semanas, com o objetivo de evitar maiores complicações maternas."
+      },
+      {
+        "letra": "E",
+        "texto": "Deve-se dar preferência ao parto espontâneo, por via vaginal, com analgesia precoce e abreviação do período expulsivo com fórcipe de alívio. 4000142787"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 10302,
+    "tags": [],
+    "enunciado": "Gestante com 34 anos de idade procura pronto atendimento obstétrico com queixa de contrações dolorosas a cada 3 minutos, associada a peso em região púbica. A idade gestacional é de 32 semanas. É tercigesta, com dois partos vaginais prévios (último há 2 anos, sem intercorrências). Está em uso de sertralina 100mg/dia. Refere que está aguardando avaliação de pré-natal de alto risco por queixa de cansaço físico que vem sendo progressivamente mais importante desde o 5º mês de gravidez. Desde o momento em que iniciaram as contrações, sente opressão torácica, di(cid:28)culdade para respirar e sensação de desmaio.No exame clínico, apresenta-se em bom estado geral, PA 94x50 mmHg, FC 126bpm, FR 22 ipm. Ausculta com sopro sistólico aórtico 3+/6+, ejetivo, murmúrios vesiculares presentes com crepitação (cid:28)na em base direita. Abdome gravídico, altura uterina 30 cm, BCF presente e rítmico. Sem edemas de MMII, sem sinais de TVP. Toque vaginal: colo fino, dilatação de 6 cm, apresentação cefálica e bolsa íntegra. O seguimento obstétrico adequado é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Inibição de trabalho de parto prematuro com atosibano."
+      },
+      {
+        "letra": "B",
+        "texto": "Iniciar maturação pulmonar fetal com corticoterapia."
+      },
+      {
+        "letra": "C",
+        "texto": "Assistência ao parto com analgesia imediata."
+      },
+      {
+        "letra": "D",
+        "texto": "Assistir ao período expulsivo com puxos dirigidos."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10303,
+    "tags": [],
+    "enunciado": "Assinale a alternativa INCORRETA sobre cardiopatia e gravidez.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Deve-se dar preferência ao parto espontâneo, por via vaginal, com analgesia precoce eabreviação do período expulsivo com fórcipe de alívio."
+      },
+      {
+        "letra": "B",
+        "texto": "A cesariana está associada a maior risco de sangramento, instabilidade hemodinâmica,infecção e fenômenos tromboembólicos em comparação ao parto vaginal."
+      },
+      {
+        "letra": "C",
+        "texto": "Constituem indicações formais de cesariana em gestantes cardiopatas as situações derisco para dissecção de aorta."
+      },
+      {
+        "letra": "D",
+        "texto": "Na gestante em situação de parto inadiável sob uso de anticoagulação oral, o partovaginal é a melhor opção."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10304,
+    "tags": [],
+    "enunciado": "Uma paciente de 38 anos estava na 34ª semana de sua quinta gestação, sendo esta gemelar, quando passou a apresentar dispneia aos esforços e de decúbito. Ao exame, havia congestão das jugulares, hepatomegalia dolorosa, estertores bibasais, edema de membros ritmo cardíaco irregular por (cid:28)brilação atrial e terceira bulha, com PA 130x95 mmHg. Qual das medicações abaixo seria apropriada para o caso?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Digoxina"
+      },
+      {
+        "letra": "B",
+        "texto": "Warfarin"
+      },
+      {
+        "letra": "C",
+        "texto": "Prednisona"
+      },
+      {
+        "letra": "D",
+        "texto": "Captopril"
+      },
+      {
+        "letra": "E",
+        "texto": "Espironolactona"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10305,
+    "tags": [],
+    "enunciado": "Em relação às cardiopatias no curso da gestação, aquela que não apresenta risco elevado durante o pré-natal é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hipertensão Pulmonar."
+      },
+      {
+        "letra": "B",
+        "texto": "Síndrome de Eisenmenger."
+      },
+      {
+        "letra": "C",
+        "texto": "Prolapso de Valva Mitral."
+      },
+      {
+        "letra": "D",
+        "texto": "Síndrome de Marfan"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10306,
+    "tags": [],
+    "enunciado": "A valvopatia mais diagnosticada no ciclo gravídico-puerperal e que oferece maior risco para a mãe e para o feto, na evolução da gestação, é a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "estenose mitral."
+      },
+      {
+        "letra": "B",
+        "texto": "insuficiência mitral."
+      },
+      {
+        "letra": "C",
+        "texto": "estenose aórtica."
+      },
+      {
+        "letra": "D",
+        "texto": "insuficiência aórtica."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10307,
+    "tags": [],
+    "enunciado": "Gestante no curso da 22ª semana, em acompanhamento pré-natal na Unidade Básica de Saúde da Família. Queixa-se de cansaço. O médico, ao realizar ausculta cardíaca, detecta sopro sistólico (meso) em foco mitral, grau 2/6, com intensi(cid:28)cação durante a inspiração, sem frêmito. Ante o enunciado, qual o diagnóstico mais provável?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Estenose mitral."
+      },
+      {
+        "letra": "B",
+        "texto": "Dupla lesão mitral."
+      },
+      {
+        "letra": "C",
+        "texto": "Insuficiência mitral."
+      },
+      {
+        "letra": "D",
+        "texto": "Achado fisiológico na gravidez."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 10308,
+    "tags": [],
+    "enunciado": "Paciente de 26 anos, na 30ª semana de gravidez, deu entrada pelo pronto-socorro com dispneia aos pequenos esforços e ortopneia, que iniciou há 2 semanas, com um episódio de dispneia paroxística noturna há 2 dias. No PS foi introduzida furosemida endovenosa com melhora dos sintomas. Realizado um ecocardiograma transtorácico de urgência pelo qual foi diagnosticado estenose mitral com área valvar de 0,89 cm² e função ventricular preservada. Ao exame físico foi encontrado: pulso = 122 bpm irregular; PA = 88 x 55 mmHg; pressão venosa jugular = 14 cm de H2O; ausculta pulmonar = crepitações (cid:28)nas bilaterais. Foi prescrita uma medicação para diminuir a frequência cardíaca. Qual é a sua próxima conduta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Induzir e realizar o parto vaginal em caráter de urgência."
+      },
+      {
+        "letra": "B",
+        "texto": "Monitorização fetal por ecodopplercardiograma."
+      },
+      {
+        "letra": "C",
+        "texto": "Valvulotomia percutânea por balão de emergência."
+      },
+      {
+        "letra": "D",
+        "texto": "Utilizar inibidor de enzima conversora de angiotensina."
+      },
+      {
+        "letra": "E",
+        "texto": "Aguardar a melhora espontânea e observação."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 10309,
+    "tags": [],
+    "enunciado": "Sobre a miocardiopatia periparto, podemos afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É uma doença de etiologia desconhecida, que ocorre no final da gestação e no puerpério, em mulheres sem história prévia de cardiopatia."
+      },
+      {
+        "letra": "B",
+        "texto": "Se trata de disfunção miocárdica leve com baixas taxas de mortalidade materna."
+      },
+      {
+        "letra": "C",
+        "texto": "A ecocardiografia demonstrará disfunção ventricular direita predominantemente."
+      },
+      {
+        "letra": "D",
+        "texto": "Não existe recorrência dessa doença em mulheres que apresentam função ventricular normal 6 meses após o parto."
+      },
+      {
+        "letra": "E",
+        "texto": "É mais comum em nulíparas e, também, em gestações múltiplas."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 10310,
+    "tags": [],
+    "enunciado": "Mulher, 24 anos, recém-casada, procura consulta médica, pois deseja muito engravidar nos próximos 6 meses. Assintomática, do ponto de vista cardiovascular. Relata passado de cardite reumática na infância, tratada com Penicilina até os 18 anos de idade. Seu exame físico revela presença de ru(cid:90)ar diastólico em foco mitral após estalido de abertura próximo à segunda bulha. Seu eletrocardiograma revela sobrecarga atrial esquerda, e seu ecodopplercardiograma evidencia área valvar mitral de 0.7 cm². Qual a melhor conduta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Contra-indicar a gravidez e sugerir anticoncepção permanente."
+      },
+      {
+        "letra": "B",
+        "texto": "Não há razões para contra-indicação à gravidez; portanto, sugerir apenas emprego de anticoagulação, paradiminuir chance de acidente vascular embólico."
+      },
+      {
+        "letra": "C",
+        "texto": "Autorizar a gravidez e acompanhar clinicamente a paciente e, caso ocorra o surgimento de sintomas dedescompensação clínica, indicar a troca valvar mitral por prótese mecânica."
+      },
+      {
+        "letra": "D",
+        "texto": "Os cuidados a serem tomados só podem ser aplicados em caso de prenhez gemelar."
+      },
+      {
+        "letra": "E",
+        "texto": "Aconselhar abordagem valvar prévia à gravidez, preferencialmente valvulotomia por balão que, embora evoluageralmente com lesão de refluxo, é bem tolerada durante toda a gravidez.  Respostas: 1 B 2 C 3 A 4 D 5 D 6 B 7 B 8 D 9 D 10 D 11 B 12 B 13 D 14 C 15 B 16 D 17 C 18 D 19 E 20 B 21 C 22 B 23 A 24 A 25 C 26 C 27 A 28 C 29 B 30 B 31 E 32 C 33 D 34 A 35 C 36 A 37 D 38 C 39 A 40 E"
+      }
+    ],
+    "resposta_correta": "E"
+  }
+]

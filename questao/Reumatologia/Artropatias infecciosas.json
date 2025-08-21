@@ -1,0 +1,5007 @@
+[
+  {
+    "id": 11186,
+    "tags": [],
+    "enunciado": "Mulher, de 34 anos de idade, comparece à unidade de emergência com queixa de dor e edema em articulações, de caráter migratório, há 5 dias. Atualmente, a articulação que mais a incomoda é o joelho direito, que está edemaciado, vermelho, quente e doloroso. Relatou ter vida sexual ativa, com uso eventual de preservativo e vacinação completa. Ao exame físico, está em bom estado geral, com pressão arterial de 122×80mmHg e frequência cardíaca de 108bpm. Tem edema importante, calor e rubor no joelho direito, que é doloroso à palpação e tem amplitude de movimento limitada pela dor. Apresenta também pústulas em membros inferiores. Além disso, foi visto um edema discreto em tornozelo esquerdo e punho direito. Sem outras alterações. Foi realizada artrocentese diagnóstica, que evidenciou líquido sinovial com 80.000 leucócitos, ainda sem resultado de bacterioscópico ou cultura. Qual é a conduta nesse momento?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Iniciar uso de prednisona por via oral e metotrexato."
+      },
+      {
+        "letra": "B",
+        "texto": "Iniciar uso de naproxeno e fazer dose única de penicilina benzatina."
+      },
+      {
+        "letra": "C",
+        "texto": "Drenagem articular e iniciar ceftriaxone."
+      },
+      {
+        "letra": "D",
+        "texto": "Iniciar uso de colchicina e, após compensação, de alopurinol."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11187,
+    "tags": [],
+    "enunciado": "Mulher, 32 anos de idade, previamente hígida procura pronto atendimento com queixas de poliartralgia migratória de grandes e pequenas articulações há 10 dias, após viagem de férias. No momento refere dor e limitação de movimento em punho direito. Nega trauma e febre. Exame físico: edema, eritema e dor em punho direito. Ultrassom: tenossinovite em punho direito. Considerando o diagnóstico mais provável, qual é a conduta mais adequada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ceftriaxona"
+      },
+      {
+        "letra": "B",
+        "texto": "Oxacilina"
+      },
+      {
+        "letra": "C",
+        "texto": "Prednisona"
+      },
+      {
+        "letra": "D",
+        "texto": "Metotrexato"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11188,
+    "tags": [],
+    "enunciado": "Mulher de 70 anos refere dor intensa em joelho direito há 2 dias, sem história de trauma prévio, acompanhada de edema e eritema no local. AP: artrite reumatoide soropositiva em remissão há 1 ano. Medicações em uso: le(cid:69)unomida 20 mg/dia. Exame físico: joelho direito com sinal da tecla presente, amplitude de movimento reduzida e calor local.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "principal hipótese diagnóstica e a conduta inicial devem ser:"
+      },
+      {
+        "letra": "A",
+        "texto": "artrite reumatoide em atividade; prednisona e metotrexato."
+      },
+      {
+        "letra": "B",
+        "texto": "osteoartrite; analgésico e condroprotetor."
+      },
+      {
+        "letra": "C",
+        "texto": "artrite gotosa; punção articular diagnóstica, análise do líquido sinovial, alopurinol e anti-inflamatório."
+      },
+      {
+        "letra": "D",
+        "texto": "artrite séptica; punção articular diagnóstica, análise do líquido sinovial e antibioticoterapia."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11189,
+    "tags": [],
+    "enunciado": "Homem, 63 anos de idade, tem hipertensão arterial sistêmica e obesidade. Procurou o pronto-socorro por dor e calor na perna direita, evoluindo com febre e calafrios. Ele foi admitido no hospital com diagnóstico inicial de celulite complicada com abscesso local. Uma hemocultura identi(cid:72)cou Staphylococcus aureus sensível à meticilina e ele foi tratado com linezolida por 7 dias e drenagem da coleção. Cinco dias após a alta hospitalar, ele retorna com queixa de dores nos joelhos. O exame físico revela di(cid:72)culdade de (cid:69)exão completa dos joelhos por derrame articular. A artrocentese diagnóstica dos dois joelhos identi(cid:72)cou os seguintes resultados: celularidade de 61 mil com 93% de polimorfonucleares e 7% de monócitos/linfócitos, presença de cristais de pirofosfato e monourato na microscopia de luz polarizada, cultura em andamento. Assinale a alternativa com a hipótese diagnóstica apropriada ao caso do paciente e a sua respectiva conduta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Gota; anti-inflamatório e colchicina."
+      },
+      {
+        "letra": "B",
+        "texto": "Condrocalcinose; prednisona e colchicina."
+      },
+      {
+        "letra": "C",
+        "texto": "Artrite reativa; prednisona e metotrexate."
+      },
+      {
+        "letra": "D",
+        "texto": "Artrite séptica; limpeza cirúrgica e oxacilina."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11190,
+    "tags": [],
+    "enunciado": "Um homem de 28 anos busca a emergência queixando-se de febre e dor articular. Refere início do quadro há três dias, com febre de 39ºC, astenia e artralgia, inicialmente localizada em joelho direito, progredindo para punho e joelho esquerdos. Relata episódio de corrimento uretral autolimitado há duas semanas. Ao exame, apresenta dor, edema e eritema em joelho esquerdo, além de lesões pustulares em tronco e membros. Foi realizada artrocentese diagnóstica que evidenciou 30.000 leucócitos, com 95% de polimorfonucleares. Considerando o diagnóstico mais provável, a terapia inicial mais adequada é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "prednisona"
+      },
+      {
+        "letra": "B",
+        "texto": "ceftriaxona"
+      },
+      {
+        "letra": "C",
+        "texto": "colchicina"
+      },
+      {
+        "letra": "D",
+        "texto": "oxacilina"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11191,
+    "tags": [],
+    "enunciado": "Você está de plantão na Unidade de Pronto-Atendimento (UPA) e atende um adolescente com 11 anos de idade com história de dor e inchaço em joelho esquerdo há 5 dias. Ele conta que, há 2 dias, iniciou com febre, di(cid:72)culdade para deambular e aumento da dor e do inchaço na região. Referia trauma durante jogo de futebol. Ao exame físico, apresenta-se em regular estado geral, palidez cutânea, febril, eupneico, anictérico, acianótico e artrite muito dolorosa em joelho esquerdo. Hemograma com leucocitose com desvio à esquerda, proteína C reativa e VHS elevados. Nesse caso, o agente etiológico mais provável e a antibioticoterapia indicada são",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Streptococcus pneumoniae; ampicilina."
+      },
+      {
+        "letra": "B",
+        "texto": "Staphylococcus aureus; oxacilina."
+      },
+      {
+        "letra": "C",
+        "texto": "H. influenzae tipo B; amoxicilina."
+      },
+      {
+        "letra": "D",
+        "texto": "Kingella kingae; ceftriaxona."
+      },
+      {
+        "letra": "E",
+        "texto": "Salmonella; penicilina. 4000230928"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11192,
+    "tags": [],
+    "enunciado": "Um homem de 52 anos entrou no consultório de clínica médica relatando dores e edema em articulações de joelhos, tornozelos, cotovelos e punhos. O quadro se iniciou há uma semana com forte dor, edema e eritema em joelho esquerdo, evoluindo para as articulações descritas associado a calafrios (não aferiu febre) e lesões cutâneas, a saber: pápulas e pequenas máculas e pústulas, algumas com componente hemorrágico. Havia um eritema nodoso em perna esquerda e, também, leucocitose com desvio à esquerda com predomínio de neutró(cid:72)los, associada a marcadores in(cid:69)amatórios bem elevados (VHS e PCR), compõe o quadro. Foram coletadas culturas de sangue e urina, sem crescimento de germes até o 5º dia. O exame físico articular demonstra tenossinovite de hálux bilaterais e calcâneos. Não há local para punção articular após um pouco mais de 1 semana do início do quadro. Testes de autoimunidade como FAN, fator reumatoide, antipeptídeo citrulinado cíclico e ANCA foram negativos. Optou-se por um tratamento empírico com melhora importante do quadro cutâneo e articular em 48 horas. O tratamento instituído foi:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ceftriaxona 1g intravenoso por dia;"
+      },
+      {
+        "letra": "B",
+        "texto": "colchicina 0,5 mg oral 2 vezes por dia;"
+      },
+      {
+        "letra": "C",
+        "texto": "prednisona 20 mg oral por dia;"
+      },
+      {
+        "letra": "D",
+        "texto": "azitromicina 500 mg oral 2 vezes por dia;"
+      },
+      {
+        "letra": "E",
+        "texto": "metotrexato 2,5 mg por dia."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11193,
+    "tags": [],
+    "enunciado": "Menino de 1 ano e 2 meses de idade apresenta febre há 3 dias e há 2 dias parou de andar. Ao exame físico, nota-se aumento de volume, limitação da movimentação, vermelhidão e calor no joelho esquerdo, com sinal da tecla positivo. Assinale a alternativa que contempla os exames complementares mandatórios para o caso.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Artrocentese para exame citológico e cultura do líquido."
+      },
+      {
+        "letra": "B",
+        "texto": "Hemograma completo e proteína C reativa."
+      },
+      {
+        "letra": "C",
+        "texto": "Ultrassonografia do joelho esquerdo."
+      },
+      {
+        "letra": "D",
+        "texto": "Velocidade de hemossedimentação e proteína C reativa."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11194,
+    "tags": [],
+    "enunciado": "Menino de 1 ano e 2 meses de idade apresenta febre há 3 dias e há 2 dias parou de andar. Ao exame físico, nota-se aumento de volume, limitação da movimentação, vermelhidão e calor no joelho esquerdo, com sinal da tecla positivo. Considerando que a principal hipótese diagnóstica foi con(cid:72)rmada, assinale a alternativa que apresenta o que se deve incluir na escolha de tratamento para o paciente.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ácido acetilsalicílico."
+      },
+      {
+        "letra": "B",
+        "texto": "Oxacilina."
+      },
+      {
+        "letra": "C",
+        "texto": "Naproxeno."
+      },
+      {
+        "letra": "D",
+        "texto": "Doxiciclina."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11195,
+    "tags": [],
+    "enunciado": "Um paciente de 25 anos está internado há 10 dias com politraumatismo devido a acidente de moto. Ele está acamado, com múltiplas escoriações na perna, e na face lateral da coxa direita – em região de projeção da articulação coxo-femoral. Apresenta febre e inapetência há 5 dias. Refere aparecimento súbito de dor intensa, há 3 dias, que não cede aos analgésicos comuns, acompanhada de área eritematosa e dolorosa à palpação, em região inguinal, estendendo-se ao terço proximal da face anterior da coxa. Constata-se que há limitação na amplitude do movimento da articulação coxo-femoral em virtude da dor. O exame de imagem mais indicado para o diagnóstico desse paciente é a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "radiografia simples."
+      },
+      {
+        "letra": "B",
+        "texto": "ressonância magnética."
+      },
+      {
+        "letra": "C",
+        "texto": "tomografia computadorizada."
+      },
+      {
+        "letra": "D",
+        "texto": "cintilografia com radioisótopos."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11196,
+    "tags": [],
+    "enunciado": "Assinale a opção correta em relação ao tratamento da artrite séptica em adultos.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Em geral, pacientes com artrite séptica não necessitam de drenagem articular, sendo o tratamento clínico eficaz na maioria dos casos."
+      },
+      {
+        "letra": "B",
+        "texto": "Se a coloração de Gram inicial do líquido sinovial demonstrar cocos gram-positivos, o tratamento empírico deve ser com azitromicina."
+      },
+      {
+        "letra": "C",
+        "texto": "A irrigação artroscópica é contraindicada em casos de artrite séptica por S. aureus em função do risco de disseminação hematogênica."
+      },
+      {
+        "letra": "D",
+        "texto": "Pacientes com artrite séptica devido a S. aureus devem ser tratados preferencialmente com vancomicina."
+      },
+      {
+        "letra": "E",
+        "texto": "Para artrite séptica de joelhos, a drenagem por artroscopia é claramente superior à aspiração com agulha."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11197,
+    "tags": [],
+    "enunciado": "Um paciente com 40 anos de idade procurou um serviço de pronto-socorro e informou que apresentava, havia um dia, quadro clínico constituído por artrite em tornozelo esquerdo com intensa dor local. Ele negou histórico de traumatismo no local, febre, sudorese e calafrios, e a(cid:72)rmou que tal sintomatologia havia se apresentado um dia após sua participação em um churrasco de confraternização da firma onde trabalha. Com relação ao caso clínico hipotético apresentado, julgue o próximo item. O referido paciente deve ser imediatamente internado, pois há grande chance de ocorrer destruição articular.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Certo."
+      },
+      {
+        "letra": "B",
+        "texto": "Errado."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11198,
+    "tags": [],
+    "enunciado": "Um paciente com 40 anos de idade procurou um serviço de pronto-socorro e informou que apresentava, havia um dia, quadro clínico constituído por artrite em tornozelo esquerdo com intensa dor local. Ele negou histórico de traumatismo no local, febre, sudorese e calafrios, e a(cid:72)rmou que tal sintomatologia havia se apresentado um dia após sua participação em um churrasco de confraternização da firma onde trabalha. Com relação ao caso clínico hipotético apresentado, julgue o próximo item. O tratamento mais e(cid:72)caz indicado para o referido paciente é o emprego de glicocorticoide intra-articular, para que se evite o comprometimento crônico da articulação.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Certo."
+      },
+      {
+        "letra": "B",
+        "texto": "Errado."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11199,
+    "tags": [],
+    "enunciado": "No que se refere à etiologia da artrite séptica em adultos, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A artrite séptica geralmente é polimicrobiana."
+      },
+      {
+        "letra": "B",
+        "texto": "O agente etiológico mais prevalente é o Streptococcus pneumoniae."
+      },
+      {
+        "letra": "C",
+        "texto": "O S. aureus (incluindo S. aureus resistente à meticilina) é a causa mais comum de artrite séptica em adultos."
+      },
+      {
+        "letra": "D",
+        "texto": "A contaminação por contiguidade é a forma mais comum de disseminação da artrite séptica."
+      },
+      {
+        "letra": "E",
+        "texto": "A artrite séptica causada por bacilos gram-negativos geralmente ocorre em adultos mais jovens e sem histórico de imunossupressão."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11200,
+    "tags": [],
+    "enunciado": "“Uma mãe leva sua (cid:72)lha de 5 anos ao pronto atendimento e relata ao médico plantonista que a criança tem apresentado febre e di(cid:72)culdade para se locomover há 4 dias. Na avaliação médica é possível constatar edema, calor, dor e rubor no membro inferior esquerdo, localizado acima do tornozelo. A mãe refere que a (cid:72)lha se machucou há uma semana naquela mesma região, enquanto brincava.” De acordo com os dados, o antibiótico de primeira escolha para tratamento desta paciente deve ser:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Oxacilina."
+      },
+      {
+        "letra": "B",
+        "texto": "Cefepime."
+      },
+      {
+        "letra": "C",
+        "texto": "Ceftriaxona."
+      },
+      {
+        "letra": "D",
+        "texto": "Amoxicilina + Clavulanato."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11201,
+    "tags": [],
+    "enunciado": "Paciente do sexo masculino, 72 anos, convive com hipertensão arterial sistêmica há 10 anos, diabetes melito há 10 anos e doença renal crônica estágio 2A1 há 2 anos. Refere que há 5 anos vem apresentando dor em primeira articulação metatarsofalangeana direita, com evolução em crises e remissão com corticoide ou anti- in(cid:69)amatórios. Comparece ao pronto-socorro referindo dor em joelho esquerdo há 3 dias, associado à febre de 38 °C e mal-estar. Ao exame, apresenta dor à movimentação do joelho, associado a calor local e edema. Outras articulações estão sem sinais de artrite. Considerando o caso apresentado e a principal hipótese diagnóstica, assinale a alternativa que contempla a conduta que deve ser adotada nesse momento.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Prescrever prednisona 20 mg por 3 dias, associado à colchicina via oral por 5 dias e marcar retorno ambulatorial breve em uma semana para avaliar evolução da monoartrite."
+      },
+      {
+        "letra": "B",
+        "texto": "Trata-se de uma monoartrite por doença por cristais, e deve ser prescrito alopurinol para controle de atividade de doença, com retorno ambulatorial breve em uma semana para avaliar evolução da monoartrite."
+      },
+      {
+        "letra": "C",
+        "texto": "Trata-se de uma monoartrite aguda, e paciente deve ser submetido à artrocentese diagnóstica para diagnóstico diferencial de artrite séptica."
+      },
+      {
+        "letra": "D",
+        "texto": "Trata-se de uma monoartrite aguda e paciente deve ser submetido à dosagem de proteína C reativa e prócalcitonina, bem como busca por sinais indiretos de processo infeccioso, como leucocitose no hemograma. Se houver sinais laboratoriais de infecção, proceder com artrocentese diagnóstica eletiva."
+      },
+      {
+        "letra": "E",
+        "texto": "Solicitar ecodopplercardiografia transtorácica buscando por diagnósticos diferenciais que incluem endocardite infecciosa e febre reumática, dada a idade do indivíduo e seu perfil de multimorbidade."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11202,
+    "tags": [],
+    "enunciado": "Os vírus mais comumente associados à poliartrite são: parvovírus B19, vírus da Chikungunya, vírus da rubéola, vírus da imunodeficiência humana (HIV), vírus das hepatites B e C. Sendo correto que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Em pacientes com poliartrite há menos de 12 semanas, deve-se considerar a possibilidade de infecção viral, particularmente se houver febre e exantema."
+      },
+      {
+        "letra": "B",
+        "texto": "Em pacientes com poliartrite há menos de 6 semanas, deve-se desconsiderar a possibilidade de infecção viral, particularmente se houver febre e exantema."
+      },
+      {
+        "letra": "C",
+        "texto": "Em pacientes com poliartrite há menos de 6 semanas, deve-se considerar a possibilidade de infecção viral, particularmente se houver febre e não exantema."
+      },
+      {
+        "letra": "D",
+        "texto": "Em pacientes com poliartrite há menos de 6 semanas, deve-se considerar a possibilidade de infecção viral, particularmente se houver febre e exantema."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11203,
+    "tags": [],
+    "enunciado": "Das alternativas abaixo assinale a que corresponde ao principal agente etiológico relacionado com a artrite séptica:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Streptococcus pneumoniae"
+      },
+      {
+        "letra": "B",
+        "texto": "Listeria sp."
+      },
+      {
+        "letra": "C",
+        "texto": "Haemophilus sp."
+      },
+      {
+        "letra": "D",
+        "texto": "Staphylococcus aureus"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11204,
+    "tags": [],
+    "enunciado": "Considerando os exames de imagem para pacientes com quadro de artrite séptica e/ou osteomielite, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A cintilografia é capaz de detectar atividade osteoblástica, porém é pouco especifica, podendo ser positiva em casos de doenças degenerativas, tumores e pós trauma."
+      },
+      {
+        "letra": "B",
+        "texto": "A ressonância magnética é evitada e, crianças em razão da radiação e da necessidade de sedação."
+      },
+      {
+        "letra": "C",
+        "texto": "A tomografia computadorizada é considerada o padrão ouro para diagnóstico de artrite séptica e osteomielite, pois consegue avaliar muito bem o tecido ósseo, além de ser um exame acessível."
+      },
+      {
+        "letra": "D",
+        "texto": "A radiografia consiste no exame mais sensível para diagnóstico de osteomielite por ser capaz de evidenciar lesões ósseas precocemente e ser um exame de fácil acesso."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11205,
+    "tags": [],
+    "enunciado": "Uma paciente de 60 anos apresentou quadro agudo de Chikungunya há quatro meses. A febre e o rash cederam, mas ela persiste com surtos recorrentes de artrite que atinge, principalmente, mãos e pés e que estão a incapacitando para o trabalho. Já fez uso de dois ciclos de prednisona na dose de 30 mg/dia, mas os sintomas recorrem logo após o desmame do corticoide. Segundo o protocolo do Ministério da Saúde, qual a conduta de escolha nesse momento?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Metotrexate na dose de 20mg/semana por seis meses"
+      },
+      {
+        "letra": "B",
+        "texto": "Prednisona 60mg/dia por dois meses"
+      },
+      {
+        "letra": "C",
+        "texto": "Hidroxicloroquina na dose de 6 mg/kg/dia por seis semanas"
+      },
+      {
+        "letra": "D",
+        "texto": "Infliximab na dose de 5mg/kg em dose única"
+      },
+      {
+        "letra": "E",
+        "texto": "Nimesulida na dose de 100mg de 12/12 horas por 30 dias"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11206,
+    "tags": [],
+    "enunciado": "Paciente feminina, 48 anos, hipertensa e pré-diabética em controle com hidroclorotiazida e dieta. Procura o pronto-socorro com dor em joelho esquerdo há 2 dias. Relata que há 10 dias iniciou artralgia de punhos e mãos, de caráter migratório e que evoluiu para tornozelos e joelho esquerdo há 2 dias. Recebeu anti- inflamatório não hormonal há 10 dias por diagnóstico de tenossinovites em ultrassom de mãos. Nega traumas, infecções recentes e viagens. Relata abuso de álcool e cocaína nos últimos meses. Tem vida sexual ativa, sem uso regular de preservativos. Ao exame físico: bom estado geral, febril, estável hemodinamicamente. Joelho esquerdo: calor local, hiperemia da pele, sinal da tecla em recesso suprapatelar e di(cid:72)culdade importante de (cid:69)exo-extensão. Em pele de tornozelo, pé esquerdo e mãos há pequenas lesões pustulosas, com 0,7 mm em maior extensão, base eritematosa, que apareceram no dia do atendimento. Foi puncionado joelho com o líquido, conforme imagens a seguir: Assinale qual a hipótese mais provável e a conduta inicial adequada.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Artrite séptica por estreptococo, iniciar oxacilina até resultado de Gram e cultura geral do líquido sinovial."
+      },
+      {
+        "letra": "B",
+        "texto": "Artrite gonocócica, iniciar ceftriaxona e oxacilina ou vancomicina até resultado de Gram, cultura geral e em meio Thayer-Martin."
+      },
+      {
+        "letra": "C",
+        "texto": "Artrite gotosa, iniciar colchicina, anti-inflamatório, suspender hidroclorotiazida e prescrever ambulatoriamente alopurinol."
+      },
+      {
+        "letra": "D",
+        "texto": "Artrite psoriásica forma pustulosa, iniciar metotrexato semanal e betametasona tópica."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11207,
+    "tags": [],
+    "enunciado": "Com relação ao manejo da dor na Chikungunya, assinale a alternativa ERRADA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A instituição precoce de medicamentos antirreumáticos modificadores do curso da doença - MMCD (hidroxicloroquina e metotrexato) na fase crônica da Chikungunya pode prevenir a ocorrência de danos estruturais e melhorar a capacidade funcional."
+      },
+      {
+        "letra": "B",
+        "texto": "Em pacientes com sintomas articulares persistentes na fase pós-aguda (entre 14 dias e até o final do terceiro mês após o início da infecção), ainda não é seguro testar a resposta terapêutica à introdução de agentes anti-inflamatórios."
+      },
+      {
+        "letra": "C",
+        "texto": "Indivíduos com dores moderadas a intensas (escala visual da dor - EVA ≥ 4) podem ter componente neuropático associado e, se confirmado, é indicada introdução de gabapentina ou de amitriptilina em conjunto com os demais analgésicos."
+      },
+      {
+        "letra": "D",
+        "texto": "Os corticosteroides (prednisona 0,5 mg/Kg/dia) são preferíveis para dor moderada a intensa (EVA ≥ 4) e na presença de quadros muito inflamatórios na fase pós aguda."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11208,
+    "tags": [],
+    "enunciado": "A artrite gonocócica é causa comum de artrite séptica aguda em jovens sexualmente ativos. Neste contexto, sabe-se que a artrite gonocócoca",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "é 3-4 vezes mais comum em homens que mulheres, sendo mais frequente 3 a 4 semanas do contato sexual."
+      },
+      {
+        "letra": "B",
+        "texto": "é comum a ocorrência de artrite supurativa, poliarticular em grandes articulações periféricas como joelhos, punhos, tornozelos e cotovelos."
+      },
+      {
+        "letra": "C",
+        "texto": "apresenta a tríade de tenossinovite, dermatite e poliartralgia, sendo que a tenossinovite ocorre com maior frequência em dorso das mãos, dedos e pés."
+      },
+      {
+        "letra": "D",
+        "texto": "apresenta com padrão de oligoartrite assimétrica de membros inferiores com acometimento das sacroilíacas."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11209,
+    "tags": [],
+    "enunciado": "Menino de 9 anos foi trazido à Emergência por febre, dor no membro inferior esquerdo e di(cid:72)culdade de mobilização do joelho há 24 horas. Não tinha história de traumatismos recentes. Ao exame físico, encontrava-se febril, prostrado, com dor constante na perna referida, mas com boa perfusão periférica. Nos membros inferiores, não se constatou perda de força; foram observadas diversas lesões ora pustulosas, ora crostosas e melicéricas, com halo hiperemiado. O joelho esquerdo estava quente e edemaciado. Com base na principal hipótese diagnóstica, o antibiótico recomendado para o paciente é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "amoxicilina."
+      },
+      {
+        "letra": "B",
+        "texto": "ampicilina."
+      },
+      {
+        "letra": "C",
+        "texto": "oxacilina."
+      },
+      {
+        "letra": "D",
+        "texto": "cefepima."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11210,
+    "tags": [],
+    "enunciado": "Um homem branco de 56 anos, sexualmente ativo, portador de síndrome metabólica, retorna ao ambulatório de referência 2 semanas após ter sido diagnosticado com artrite gotosa aguda em joelho direito, através de artrocentese com análise do líquido sinovial. Após o diagnóstico, o paciente manteve o uso de colchicina e interrompeu o tratamento com alopurinol. Segundo relato, apresentou melhora nos seus sintomas com o uso do anti-inflamatório não esteroidal prescrito. Ao exame físico, a articulação do joelho direito revela-se novamente bastante in(cid:69)amada, com intenso rubor, calor e edema, além de impotência funcional. Realiza nova artrocentese, cujos resultados iniciais revelam 120 000 leucócitos/mm³, com 95% de polimorfonucleares. Considerando a situação desse paciente, a melhor explicação para o quadro articular atual é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "artrite séptica bacteriana."
+      },
+      {
+        "letra": "B",
+        "texto": "desenvolvimento de pseudogota local."
+      },
+      {
+        "letra": "C",
+        "texto": "re-exacerbação da artrite gotosa aguda."
+      },
+      {
+        "letra": "D",
+        "texto": "artrite secundária a infecção sexualmente transmissível."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11211,
+    "tags": [],
+    "enunciado": "Criança de 7 anos de idade, com história de trauma em joelho direito há 3 dias durante jogo de futebol, evolui com febre e dor intensa no joelho, com edema, calor e rubor locais há 24 horas. Sobre o caso descrito, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Deve-se investigar artrite idiopática juvenil solicitando fator reumatoide e FAN para definição do subtipo de doença."
+      },
+      {
+        "letra": "B",
+        "texto": "A principal hipótese diagnóstica é fratura, devendo-se imobilizar o membro e prescrever anti- inflamatório não hormonal e protetor gástrico."
+      },
+      {
+        "letra": "C",
+        "texto": "Deve ser realizada a punção articular e iniciada a antibioticoterapia parenteral com cobertura para estafilococo."
+      },
+      {
+        "letra": "D",
+        "texto": "Deve-se considerar o diagnóstico de artrite séptica e iniciar o tratamento com cefalexina oral por 4 semanas."
+      },
+      {
+        "letra": "E",
+        "texto": "Trata-se de artrite pós-traumática, devendo ser realizada ultrassonografia de joelho e iniciado anti- inflamatório não hormonal. 4000193611"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11212,
+    "tags": [],
+    "enunciado": "Dentre as alternativas abaixo, qual está correta sobre a artrite séptica?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Acomete principalmente homens de meia idade."
+      },
+      {
+        "letra": "B",
+        "texto": "Ocorre principalmente em articulações do membro inferior."
+      },
+      {
+        "letra": "C",
+        "texto": "O desenvolvimento para osteoartrose é raro."
+      },
+      {
+        "letra": "D",
+        "texto": "Antibioticoterapia é o tratamento inicial de escolha."
+      },
+      {
+        "letra": "E",
+        "texto": "Tratamento expectante frequentemente é o tratamento escolha."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11213,
+    "tags": [],
+    "enunciado": "Paciente, sexo feminino, 38 anos de idade, refere dor e edema em punhos, segundas metacarpofalangeanas, joelhos e tornozelos há 2 meses. Relata que o quadro iniciou com febre de 38ºC, mialgia, artralgia, fraqueza e mal estar geral que durou 1 semana com regressão desses sintomas sendo seguidos do quadro articular. Nega xerostomia, xeroftalmia, fotossensibilidade, queixas respiratórias, cardiovasculares e urinárias. Foi realizado pesquisa de fator reumatoide, anticorpos contra antígenos nucleares e sorologia para dengue negativos. De acordo com a principal hipótese diagnóstica, qual é a conduta a ser adotada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Solicitar anti Ro e iniciar hidroxicloroquina e leflunomida."
+      },
+      {
+        "letra": "B",
+        "texto": "Solicitar anti CCP e iniciar metrotrexato e anti TNF."
+      },
+      {
+        "letra": "C",
+        "texto": "Solicitar sorologia para Chikungynya e iniciar prednisona e hidroxicloroquina."
+      },
+      {
+        "letra": "D",
+        "texto": "Solicitar anti DNA e iniciar hidroxicloroquina e ciclofosfamida."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11214,
+    "tags": [],
+    "enunciado": "Homem, 28 anos, sem comorbidades, há 4 dias apresenta dor, edema e eritema em joelho direito, associado a queda do estado geral e inapetência. Nega febre, lesões de pele, acometimento ocular. Ao exame físico, apresenta sinovite de joelho direito e bloqueio articular, sem acometimento de demais articulações. Nesse caso, a principal hipótese diagnóstica é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "espondiloartropatia soronegativa."
+      },
+      {
+        "letra": "B",
+        "texto": "gota."
+      },
+      {
+        "letra": "C",
+        "texto": "lúpus eritematoso sistêmico."
+      },
+      {
+        "letra": "D",
+        "texto": "artrite reumatoide."
+      },
+      {
+        "letra": "E",
+        "texto": "artrite séptica."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 11215,
+    "tags": [],
+    "enunciado": "Mulher de 65 anos, apresentou há 7 dias queda da própria altura com escoriação leve na região anterior de joelho esquerdo. Há 1 dia evoluiu com artralgia intensa, edema, rubor, calor, limitação de movimento e um pico febril (39 ºC). Nega episódios prévios de artralgias. AP: diabética, hipertensa, etilista. Exame físico do joelho: rubor, calor, sinal da tecla presente, posição (cid:69)etida com bloqueio articular. Exames laboratoriais: leucocitose sem desvio escalonado, PCR 30 mg/dL, VHS 60 mm/hora. A hipótese diagnóstica e conduta correta são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Artrite gotosa. A artrocentese diagnóstica não é necessária. Prescrever prednisona em dose baixa, AINE e colchicina por 10 dias. Após a crise, solicitar ácido úrico sérico e urinário e iniciar alopurinol."
+      },
+      {
+        "letra": "B",
+        "texto": "Artrite séptica. Realizar hemoculturas, artrocentese diagnóstica e análise do Iíquido sinovial com celularidade, culturas, Gram e cristais. Iniciar antibioticoterapia parenteral de largo espectro e, após confirmação, drenagem articular."
+      },
+      {
+        "letra": "C",
+        "texto": "Artrite séptica. Realizar artrocentese diagnóstica e na ausência de Iíquido macroscópico purulento está descartada a hipótese infecciosa. Alta com anti-inflamatórios e analgésicos."
+      },
+      {
+        "letra": "D",
+        "texto": "Artrite gotosa. Realizar artrocentese diagnóstica e análise do líquido sinovial com celularidade, culturas, Gram e cristais. Cultura do líquido sinovial negativa exclui o diagnóstico infeccioso. Alta com AINE, colchicina e alopurinol."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11216,
+    "tags": [],
+    "enunciado": "Paciente, sexo masculino, 45 anos de idade, com história de trauma em joelho direito há uma semana durante jogo de futebol, vem em tratamento domiciliar com analgésicos e compressas de gelo. Dá entrada no pronto socorro com dor e aumento progressivo do volume do joelho direito e febre há três dias. Ao exame físico, bom estado geral, corado, T. axilar: 38,2ºC, FC: 88bpm, PA: 118x72mmHg, FR: 16imp; joelho direito com grande aumento de volume, calor e dor à palpação, diminuição da amplitude de movimentação ativa e passiva desta mesma articulação. Indique a conduta terapêutica mais apropriada para esse paciente caso a principal suspeita diagnóstica seja confirmada. Essa questão possui comentário do professor no site 4000182447",
+    "alternativas": [],
+    "resposta_correta": null
+  },
+  {
+    "id": 11217,
+    "tags": [],
+    "enunciado": "Paciente, sexo masculino, 45 anos de idade, com história de trauma em joelho direito há uma semana durante jogo de futebol, vem em tratamento domiciliar com analgésicos e compressas de gelo. Dá entrada no pronto socorro com dor e aumento progressivo do volume do joelho direito e febre há três dias. Ao exame físico, bom estado geral, corado, T. axilar: 38,2ºC, FC: 88bpm, PA: 118x72mmHg, FR: 16imp; joelho direito com grande aumento de volume, calor e dor à palpação, diminuição da amplitude de movimentação ativa e passiva desta mesma articulação. Diante do quadro apresentado, indique o exame complementar inicial mais adequado para con(cid:72)rmar o diagnóstico. Essa questão possui comentário do professor no site 4000182446",
+    "alternativas": [],
+    "resposta_correta": null
+  },
+  {
+    "id": 11218,
+    "tags": [],
+    "enunciado": "Paciente, sexo masculino, 45 anos de idade, com história de trauma em joelho direito há uma semana durante jogo de futebol, vem em tratamento domiciliar com analgésicos e compressas de gelo. Dá entrada no pronto socorro com dor e aumento progressivo do volume do joelho direito e febre há três dias. Ao exame físico, bom estado geral, corado, T. axilar: 38,2ºC, FC: 88bpm, PA: 118x72mmHg, FR: 16imp; joelho direito com grande aumento de volume, calor e dor à palpação, diminuição da amplitude de movimentação ativa e passiva desta mesma articulação. Indique a principal suspeita diagnóstica que justifica o quadro clínico descrito. Essa questão possui comentário do professor no site 4000182445",
+    "alternativas": [],
+    "resposta_correta": null
+  },
+  {
+    "id": 11219,
+    "tags": [],
+    "enunciado": "A artrite séptica é a infecção da membrana sinovial, sendo considerada uma emergência médica. Qual o patógeno mais comum causador de artrite séptica em qualquer faixa etária pediátrica?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Salmonella."
+      },
+      {
+        "letra": "B",
+        "texto": "Eritrovirus B19."
+      },
+      {
+        "letra": "C",
+        "texto": "Campylobacter."
+      },
+      {
+        "letra": "D",
+        "texto": "Staphylocococcus aureus."
+      },
+      {
+        "letra": "E",
+        "texto": "Chlamydia. 4000193522"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11220,
+    "tags": [],
+    "enunciado": "Considerando as causas in(cid:69)amatórias da Artrite na infância e adolescência, assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As artrites reativas são um grupo de artrites inflamatórias que incluem a febre reumática aguda, as artrites após infecções do trato genitourinário ou gastrointestinal e as artrites pós-infecciosas e pós-virais."
+      },
+      {
+        "letra": "B",
+        "texto": "A artrite psoriática juvenil é a artrite associada à lesão cutânea da psoríase."
+      },
+      {
+        "letra": "C",
+        "texto": "A artrite idiopática juvenil é a doença reumática crônica mais comum da infância e uma causa frequente de incapacidade física."
+      },
+      {
+        "letra": "D",
+        "texto": "A denominação de artrite crônica na infância é clara; dessa forma, classificam-se como de início juvenil os quadros que começam aos 15 anos de idade."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11221,
+    "tags": [],
+    "enunciado": "Homem, 26 anos, apresenta dor, edema e calor em joelho esquerdo há 48 horas. Refere que, nas últimas 24 horas, apresentou febre de 38 graus e que a dor está muito pior. Na admissão hospitalar, foi submetido à punção articular que revelou líquido turvo com 110000 células/mL, sendo 93% de neutró(cid:72)los. Não há presença de cristais. O tratamento deve ser feito com",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "naproxeno."
+      },
+      {
+        "letra": "B",
+        "texto": "ceftriaxona."
+      },
+      {
+        "letra": "C",
+        "texto": "prednisona."
+      },
+      {
+        "letra": "D",
+        "texto": "vancomicina."
+      },
+      {
+        "letra": "E",
+        "texto": "gentamicina."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11222,
+    "tags": [],
+    "enunciado": "Mulher de 30 anos foi a consulta em ambulatório de clínica médica devido a artrite nas mãos, nos joelhos e nos tornozelos. Relatou que o quadro iniciou havia 4 meses, de forma súbita, com febre (até 38,5 °C), exantema difuso levemente pruriginoso, eritema conjuntival e poliartralgia. Relatou que todos os sintomas duraram cerca de 3 a 5 dias, havendo persistência apenas da dor articular. Desde então, tem feito uso de analgésico comum e/ou anti-in(cid:69)amatório não hormonal, devido às dores articulares persistentes. O exame físico mostrou-se completamente normal, exceto por artrite na segunda e na terceira metacarpofalangeana à esquerda, na terceira e na quarta interfalangeana proximal da mão direita, nos joelhos e nos tornozelos. Assinale a opção que apresenta, respectivamente, a correta hipótese diagnóstica para o caso e a opção terapêutica adequada.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Citomegalovirose; paracetamol."
+      },
+      {
+        "letra": "B",
+        "texto": "Febre do Mayaro; metotrexato."
+      },
+      {
+        "letra": "C",
+        "texto": "Chikungunya; metotrexato."
+      },
+      {
+        "letra": "D",
+        "texto": "Dengue; paracetamol."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11223,
+    "tags": [],
+    "enunciado": "Um menino com 11 anos de idade apresenta febre diária há 4 dias e claudicação de membro inferior direito e vem usando ibuprofeno desde o início do quadro, sem melhora. Há 1 dia, recusa-se a andar, referindo muita dor em joelho direito, onde notou inchaço e vermelhidão. Refere ainda inapetência e indisposição geral. Tem antecedente de lesões crostosas de mucosa nasal e pele ao redor do nariz há 2 semanas, tendo usado pomada à base de corticoide, sem melhora. Ao exame físico apresentou regular estado geral, corado, hidratado, febril (temperatura = 38 °C), frequência cardíaca: 103 batimentos por minuto, frequência respiratória: 16 incursões respiratórias por minuto, anictérico, acianótico, eupneico, pulsos cheios, boa perfusão periférica. Lesões pustulosas e crostosas em vestíbulo nasal. Joelho direito com edema, calor e intensa dor à mobilização. Restante dos aparelhos sem alterações. Para a elucidação diagnóstica, quais são os exames/ procedimentos indicados?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Antiestreptolisina O e ecocardiograma."
+      },
+      {
+        "letra": "B",
+        "texto": "Anticorpo antinuclear e fator reumatoide."
+      },
+      {
+        "letra": "C",
+        "texto": "Ultrassonografia e punção articular de joelho."
+      },
+      {
+        "letra": "D",
+        "texto": "Hemograma e provas de atividade inflamatória."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11224,
+    "tags": [],
+    "enunciado": "Escolar de 7 anos, internado com quadro de artrite séptica, apresenta cultura de líquido sinovial com o seguinte resultado:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "melhor escolha antibiótica para o tratamento desse paciente é:"
+      },
+      {
+        "letra": "A",
+        "texto": "eritromicina"
+      },
+      {
+        "letra": "B",
+        "texto": "clindamicina"
+      },
+      {
+        "letra": "C",
+        "texto": "vancomicina"
+      },
+      {
+        "letra": "D",
+        "texto": "sulfametoxazol/trimetoprim"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11225,
+    "tags": [],
+    "enunciado": "Homem de 42 anos de idade procura pronto atendimento com quadro de dor, edema e hiperemia progressivos no tornozelo direito há 14 dias. Há 3 dias com calafrios, tremores e astenia. Foi internado para investigação complementar, colhidas hemoculturas e iniciado vancomicina. Paciente evolui com melhora clínica, afebril e, após 5 dias, temos o seguinte antibiograma: Assinale a alternativa correta: Imagens anexas:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Manter Vancomicina e solicitar RNM de tornozelo."
+      },
+      {
+        "letra": "B",
+        "texto": "Manter Vancomicina e solicitar ecotransesofágico."
+      },
+      {
+        "letra": "C",
+        "texto": "Trocar antibiótico por Oxacilina e solicitar ecocardiograma transtorácico."
+      },
+      {
+        "letra": "D",
+        "texto": "Trocar antibiótico por Linezolida e solicitar Ultrassonografia de articulação do tornozelo direito."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11226,
+    "tags": [],
+    "enunciado": "Menino, 16 m, interna na Enfermaria de Pediatria com história de febre há seis dias e dor a mobilização do joelho direito há quatro dias. Nega trauma e comorbidades. Por opção familiar não recebeu nenhuma vacina do Programa Nacional de Imunização. Exame físico: Regular estado geral, FC= 102 bpm, FR= 22 irmp, perfusão 3 segundos, PA= 87x52 mmHg, T= 39°C; joelho direito com bloqueio articular, hiperemia e calor local. Coletado exames e iniciado antibioticoterapia de amplo espectro. O laboratório de microbiologia informa 8 horas após a coleta de hemocultura crescimento de cocobacilo gram negativo pleomór(cid:72)co. A BACTÉRIA DESCRITA É:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Haemophilus influenzae tipo B."
+      },
+      {
+        "letra": "B",
+        "texto": "Sthaphylococcus aureus."
+      },
+      {
+        "letra": "C",
+        "texto": "Streptococcus pneumoniae."
+      },
+      {
+        "letra": "D",
+        "texto": "Salmonella spp."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11227,
+    "tags": [],
+    "enunciado": "Homem de 19 anos apresentando há 4 dias poliartralgia e febre de 38.7 C; Ao exame físico artrite de tornozelo esquerdo e tenossinovite de punho direito e presença de lesões pápulo eritematosas e algumas pústulas em região anterior das pernas. No hemograma leucócitos de 18000, e PCR de 40. Diante deste quadro, assinale a alternativa com a melhor opção de hipótese diagnóstica/ conduta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Artrite reativa; iniciar anti-inflamatório não hormonal."
+      },
+      {
+        "letra": "B",
+        "texto": "Gota; solicitar dosagem de ácido úrico sérico e iniciar corticoide oral."
+      },
+      {
+        "letra": "C",
+        "texto": "Artrite infecciosa; iniciar ceftriaxona e azitromicina."
+      },
+      {
+        "letra": "D",
+        "texto": "Artrite infecciosa; iniciar oxacilina."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11228,
+    "tags": [],
+    "enunciado": "Homem, 26 anos, relata dor forte em joelho direito há 2 dias. Refere há um dia febre e di(cid:72)culdade para deambular pela dor. Relata etilismo social, nega tabagismo ou uso de drogas, refere dor lombar eventual com melhora completa do sintoma com analgésicos, sexualmente ativo. Ao exame: temperatura 38,7ºC, PA 110 x 80 mmHg, FC 103 bpm, FR 22 ipm, joelho direito com calor, rubor e edema, apresentando limitação dos movimentos,restante do exame sem alterações. Considerando sua principal hipótese diagnóstica para o caso, qual melhor tratamento para esse caso?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Colchicina"
+      },
+      {
+        "letra": "B",
+        "texto": "Prednisona"
+      },
+      {
+        "letra": "C",
+        "texto": "Ceftriaxona"
+      },
+      {
+        "letra": "D",
+        "texto": "Fluconazol"
+      },
+      {
+        "letra": "E",
+        "texto": "Cefepima 4000173621"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11229,
+    "tags": [],
+    "enunciado": "Qual manifestação abaixo não faz parte da artrite gonocócica?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Artrite de membros superiores."
+      },
+      {
+        "letra": "B",
+        "texto": "Úlceras orais."
+      },
+      {
+        "letra": "C",
+        "texto": "Tenossinovite."
+      },
+      {
+        "letra": "D",
+        "texto": "Lesões cutâneas pustulosas. 4000172331"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11230,
+    "tags": [],
+    "enunciado": "Homem de 30 anos apresenta edema, eritema em punho direito e tornozelo esquerdo. Refere instalação súbita. Refere febre e exantema pustular em antebraços. O aspirado de articulação apresenta numerosos leucócitos e neutró(cid:72)los, sem microrganismos na coloração de Gram. Qual a melhor opção terapêutica entre as alternativas:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Colchicina via oral"
+      },
+      {
+        "letra": "B",
+        "texto": "Ceftriaxone endovenoso"
+      },
+      {
+        "letra": "C",
+        "texto": "Prednisona via oral"
+      },
+      {
+        "letra": "D",
+        "texto": "Corticoide intra articular"
+      },
+      {
+        "letra": "E",
+        "texto": "Indometacina via oral 4000172112"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11231,
+    "tags": [],
+    "enunciado": "Uma menina de 3 anos de idade iniciou subitamente um quadro febril alto, apresentando irritabilidade e queixa de dor importante em perna direita, parando de andar. Ao exame, estava toxêmica. Foi identi(cid:72)cada dor localizada na face anterior do quadril direito, com edema e restrição da movimentação do quadril direito, permanecendo na posição de (cid:69)exão-abdução e rotação externa. Havia relato de trauma na escola poucos dias antes, tendo caído do balanço, mas não houve repercussão no dia do acidente. Diante do quadro clínico apresentado, assinale a alternativa que define o diagnóstico provável.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Febre reumática."
+      },
+      {
+        "letra": "B",
+        "texto": "Sinovite transitória do quadril."
+      },
+      {
+        "letra": "C",
+        "texto": "Doença de Legg-Perthes."
+      },
+      {
+        "letra": "D",
+        "texto": "Artrite séptica do quadril."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11232,
+    "tags": [],
+    "enunciado": "Mulher, 21 anos, procura o pronto atendimento com dor e inchaço no punho esquerdo há 2 dias. Refere que, alguns dias antes, apresentou dor em tornozelo direito que migrou para cotovelo esquerdo e, posteriormente, para joelho esquerdo. Hoje, notou algumas lesões avermelhadas com o centro mais arroxeado nas palmas. Antecedentes pessoais: nega comorbidades. Exame físico: artrite de punho esquerdo e tenossinovite envolvendo o dorso da mão esquerda. Pústulas eritematosas com centro necrótico em mãos. Tendo em vista a principal hipótese diagnóstica, a conduta é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Metotrexato"
+      },
+      {
+        "letra": "B",
+        "texto": "Ceftriaxona"
+      },
+      {
+        "letra": "C",
+        "texto": "Naproxeno"
+      },
+      {
+        "letra": "D",
+        "texto": "Oxacilina"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11233,
+    "tags": [],
+    "enunciado": "Homem, 35 anos, com início de artrite em joelho direito, tornozelo esquerdo, dor na região do calcanhar, úlceras orais indolores e lesão pustulosa na superfície plantar após evento infeccioso, tem a seguinte etiologia mais provável:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Chlamydia trachomatis."
+      },
+      {
+        "letra": "B",
+        "texto": "Staphylococcus aureus."
+      },
+      {
+        "letra": "C",
+        "texto": "Neisseria gonorrhoeae"
+      },
+      {
+        "letra": "D",
+        "texto": "Chlamydia pneumoniae"
+      },
+      {
+        "letra": "E",
+        "texto": "Clostridium difficile."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11234,
+    "tags": [],
+    "enunciado": "Sobre os exames de imagem para pacientes com quadro de artrite séptica e/ou osteomielite, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A ultrassonografia é muito sensível e específica tanto para artrite séptica quanto para osteolmielite."
+      },
+      {
+        "letra": "B",
+        "texto": "A tomografia computadorizada é considerada o padrão-ouro para o diagnóstico de artrite séptica e osteomielite, pois consegue avaliar muito bem o tecido ósseo, além de ser exame acessível."
+      },
+      {
+        "letra": "C",
+        "texto": "A radiografia consiste no exame mais sensível para o diagnóstico de osteomielite por ser capaz de evidenciar lesões ósseas precocemente e ser um exame rápido e de fácil acesso."
+      },
+      {
+        "letra": "D",
+        "texto": "A ressonância magnética é evitada em crianças em razão da radiação e da necessidade de sedação."
+      },
+      {
+        "letra": "E",
+        "texto": "A cintilografia é capaz de detectar atividade osteoblástica; porém, é pouco específica, podendo ser positiva em casos de doenças degenerativas, tumores e pós-trauma."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 11235,
+    "tags": [],
+    "enunciado": "Mulher de 25 anos vem ao Pronto-Socorro por quadro de febre esporádica há uma semana, associada a dores articulares e rigidez matinal que dura uma hora e meia. A paciente negou corrimento vaginal e referiu atividade sexual com parceiro único há três meses. Exame clínico: tenossinovite no dorso do pé direito e da mão esquerda (tendões extensores dos dedos), poliartrite de metacarpofalangeanas e interfalangeanas proximais de ambas as mãos e duas pequenas lesões pustulosas na mão direita. Restante do exame clínico normal. O tratamento mais adequado para a principal hipótese diagnóstica desta paciente é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hidroxicloroquina."
+      },
+      {
+        "letra": "B",
+        "texto": "Ceftriaxone."
+      },
+      {
+        "letra": "C",
+        "texto": "Prednisona."
+      },
+      {
+        "letra": "D",
+        "texto": "Metotrexate."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11236,
+    "tags": [],
+    "enunciado": "Jovem de 25 anos, sexo masculino com história familiar de tia materna e avó paterna para doença reumatológica. Relata dor incapacitante em joelho direito cerca de 4 dias após trauma em partida de futebol. Ao exame: febril (temperatura axilar de 38,5º C), edema (+2/+4) em joelho direito com sinais de (cid:69)ogose, incapacidade de deambulação. É optado por punção articular com o seguinte resultado: leucócitos= 50.000/mm3 , 90% de polimorfonucleares, proteína =3,5 g/dl, coloração de Gram positiva. Considerando o caso clínico, a hipótese diagnóstica mais provável é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Artrite psoriática"
+      },
+      {
+        "letra": "B",
+        "texto": "Artrite séptica"
+      },
+      {
+        "letra": "C",
+        "texto": "Artrite reumatoide"
+      },
+      {
+        "letra": "D",
+        "texto": "Pseudogota"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11237,
+    "tags": [],
+    "enunciado": "Mulher, 18 anos de idade, refere ter retornado de viagem em grupo comemorando formatura por 2 semanas. Há 5 dias refere dor em ombro D, passando para cotovelo E, joelho D e atualmente em punho E. Exame físico: calor, eritema, aumento de volume do punho E, que se estende para o dorso da mão, com intensa dor à palpação e mobilização articular. Não há sinais in(cid:69)amatórios nas demais articulações. D = direito; E = esquerdo. Qual diagnóstico e conduta adequados?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Artrite estafilocócica. Oxacilina endovenosa."
+      },
+      {
+        "letra": "B",
+        "texto": "Artrite séptica. Aguardar resultado da cultura do líquido sinovial para início do antibiótico."
+      },
+      {
+        "letra": "C",
+        "texto": "Artrite gonocócica. Ceftriaxona endovenosa."
+      },
+      {
+        "letra": "D",
+        "texto": "Artrite microcristalina. Anti-inflamatório não hormonal via oral."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11238,
+    "tags": [],
+    "enunciado": "Homem de 62 anos apresentou quadro de febre de 39° de exantema que entrou em remissão após 3 dias em repouso e com uso de analgésicos comuns. No início do quadro apresentava artralgia difusa, que permanece em mãos e pés após quatro semanas, com rigidez articular matinal e limitação de movimentos. Assinale a alternativa que corresponde à principal hipótese diagnóstica para o caso descrito.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Artrite gonocócica."
+      },
+      {
+        "letra": "B",
+        "texto": "Artrite reumatóide."
+      },
+      {
+        "letra": "C",
+        "texto": "Artrite reativa."
+      },
+      {
+        "letra": "D",
+        "texto": "Chikungunya."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11239,
+    "tags": [],
+    "enunciado": "Um paciente do sexo masculino com 20 anos de idade procura uma UBS informando apresentar há 5 dias febre associada a calafrios, dor e edema em articulação de tornozelo direito. O exame físico revela a presença de lesões maculopapulares e pustulosas situadas no tronco e extremidades. Nesse caso, o diagnóstico mais provável é de artrite",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "psoriática."
+      },
+      {
+        "letra": "B",
+        "texto": "gonocócica."
+      },
+      {
+        "letra": "C",
+        "texto": "estafilocócica."
+      },
+      {
+        "letra": "D",
+        "texto": "reumática."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11240,
+    "tags": [],
+    "enunciado": "Paciente de 57 anos consultou por dor e edema no pé esquerdo com 24 horas de evolução. Descreveu episódio semelhante no pé direito há menos de 1 ano. Relatou ser portador de hipertensão arterial sistêmica, diabetes melito tipo 2, dislipidemia e obesidade, em tratamento irregular com hidroclorotiazida, enalapril, metformina e AAS. Fazia uso diário de aproximadamente 700 ml de cerveja há cerca de 5 anos. Informou que o pai era portador de espondilite anquilosante. Ao exame físico, encontrava-se em bom estado geral, com pressão arterial de 156/88 mmHg, temperatura axilar de 37,4°C, frequência cardíaca de 88 bpm e frequência respiratória de 20 mpm. Havia dor à mobilização passiva, edema e intenso eritema na primeira articulação metatarsofalângica esquerda. Qual o diagnóstico mais provável?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Gota"
+      },
+      {
+        "letra": "B",
+        "texto": "Artrite séptica"
+      },
+      {
+        "letra": "C",
+        "texto": "Artrite reativa"
+      },
+      {
+        "letra": "D",
+        "texto": "Lúpus induzido por droga"
+      },
+      {
+        "letra": "E",
+        "texto": "Espondilite anquilosante"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11241,
+    "tags": [],
+    "enunciado": "Homem de 70 anos, internado com pneumonia bacteriana, desenvolve artrite em joelho direito. AP: DM, HAS, DLP. A principal hipótese diagnóstica e sua respectiva conduta são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "artrite séptica; punção articular para esclarecer diagnóstico."
+      },
+      {
+        "letra": "B",
+        "texto": "gota; colchicina e anti-inflamatório."
+      },
+      {
+        "letra": "C",
+        "texto": "osteoartrite; analgesia, evitando-se uso de anti-inflamatórios."
+      },
+      {
+        "letra": "D",
+        "texto": "gota; alopurinol e corticoide."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11242,
+    "tags": [],
+    "enunciado": "Paciente de 25 anos, deu entrada com dor intensa no joelho direito e di(cid:72)culdade para andar devido à dor no calcanhar, refere que o quadro teve início há um dia, nega quadro similar anteriormente. Acompanhando o quadro articular, notou o aparecimento de pequenas lesões nas mãos e pés. Ao exame: dor, calor e rubor no joelho direito e temperatura corporal de 38,5º, presença de pústulas com centro necrótico nas extremidades e tendinite de Aquiles bilateral. Qual é a principal hipótese diagnóstica?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Artrite estafilococica."
+      },
+      {
+        "letra": "B",
+        "texto": "Artrite gonocócica."
+      },
+      {
+        "letra": "C",
+        "texto": "Crise de gota."
+      },
+      {
+        "letra": "D",
+        "texto": "Artrite reativa."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11243,
+    "tags": [],
+    "enunciado": "Paciente masculino, 68 anos, procura o pronto-socorro com dor e aumento de volume de joelho esquerdo há 3 dias, com piora progressiva, que impede a deambulação, associado a astenia, anorexia e febre (39ºC). Há 5 anos, recebeu diagnóstico de gota por apresentar podagra a esquerda e hiperuricemia, iniciando tratamento com alopurinol. Há 2 anos, apresentou artrite aguda em joelho esquerdo que melhorou com o uso de colchicina 0,5mg 4 vezes ao dia. Na ocasião, foram observados cristais de urato de monossódio no líquido sinovial. Qual a conduta para esse paciente no pronto socorro?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Punção articular e oxacilina 8g/dia."
+      },
+      {
+        "letra": "B",
+        "texto": "Colchicina e corticoide."
+      },
+      {
+        "letra": "C",
+        "texto": "Punção articular, ceftazima 3 g/dia."
+      },
+      {
+        "letra": "D",
+        "texto": "Punção articular, colchicina, oxacilina 8g/dia e corticoide."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11244,
+    "tags": [],
+    "enunciado": "Homem, 38 anos, refere dor e edema em joelho esquerdo, inéditos, de início há dois dias e com progressão rápida até impedir a deambulação. Não sabe se teve febre. Nega doenças e tratamentos. Ao exame: temperatura axilar: 37,6 °C; edema, hiperemia e calor em joelho esquerdo, com sinal da tecia e aumento de volume de bolsa suprapatelar. Qual tipo celular mais contribui para o quadro clínico descrito?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Neutrófilo."
+      },
+      {
+        "letra": "B",
+        "texto": "Fibroblasto sinovial."
+      },
+      {
+        "letra": "C",
+        "texto": "Macrófago sinovial."
+      },
+      {
+        "letra": "D",
+        "texto": "Condrócito."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11245,
+    "tags": [],
+    "enunciado": "Homem de 35 anos de idade procurou serviço de emergência por dor em joelho esquerdo há 1 dia. Refere febre e di(cid:72)culdade à deambulação pela dor. Refere episódios esporádicos de dor lombar, principalmente no fim da tarde. Nega tabagismo, etilismo, uso de drogas e tem vida sexual ativa. Sem outras queixas anteriores. Ao exame: bom estado geral, corado, hidratado, temperatura 38ºC, PA 120x80mmHg, FC 100bpm, FR 24ipm, pulsos radiais palpáveis e simétricos. Joelho esquerdo com calor, edema e limitação da amplitude de movimento, sem hiperemia. Sem outras alterações do restante do exame clínico. Considerando a principal hipótese diagnóstica, qual deve ser o tratamento inicial?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Alopurinol."
+      },
+      {
+        "letra": "B",
+        "texto": "Colchicina."
+      },
+      {
+        "letra": "C",
+        "texto": "Prednisona."
+      },
+      {
+        "letra": "D",
+        "texto": "Ceftriaxone."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11246,
+    "tags": [],
+    "enunciado": "Paciente de 30 anos com artrite de tornozelos, eritema nodoso e adenopatia hilar. Qual é o diagnóstico mais provável?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Artrite reativa por Chlamydia pneumoniae"
+      },
+      {
+        "letra": "B",
+        "texto": "Poliangiíte granulomatosa"
+      },
+      {
+        "letra": "C",
+        "texto": "Doença de Poncet Sarcoidose"
+      },
+      {
+        "letra": "D",
+        "texto": "E Artrite Reumatoide"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11247,
+    "tags": [],
+    "enunciado": "Homem, 47 anos, queixa-se de dor intensa e edema em tornozelo esquerdo, com di(cid:72)culdade de mobilização articular, há três dias. Nunca apresentou quadro similar e nega traumatismo local. É tabagista, etilista, dislipidêmico, hipertenso e diabético. O exame físico revela artrite em tornozelo esquerdo com derrame articular. Foi realizada punção do líquido sinovial e o resultado foi: celularidade de 85 000 células, com 88% de polimorfonucleares. Culturas e pesquisa de cristais em andamento. A(s) conduta(s) adequada(s) é(são)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "prescrever anti-inflamatório não hormonal e alopurinol."
+      },
+      {
+        "letra": "B",
+        "texto": "iniciar prednisona associada ao alopurinol."
+      },
+      {
+        "letra": "C",
+        "texto": "solicitar radiografia do tornozelo e aguardar cultura e pesquisa de cristais."
+      },
+      {
+        "letra": "D",
+        "texto": "iniciar antibioticoterapia empírica."
+      },
+      {
+        "letra": "E",
+        "texto": "solicitar ultrassonografia do tornozelo para pesquisa de rotura de ligamentos."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11248,
+    "tags": [],
+    "enunciado": "Qual o tratamento de escolha para artrite gonocócica?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ceftriaxone."
+      },
+      {
+        "letra": "B",
+        "texto": "Penicilina benzatina."
+      },
+      {
+        "letra": "C",
+        "texto": "Amicacina."
+      },
+      {
+        "letra": "D",
+        "texto": "Vancomicina."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11249,
+    "tags": [],
+    "enunciado": "Mulher, 38a, procura o Centro de Saúde com história de febre e queda do estado geral há 5 dias. Refere dor articular no período da manhã que melhora ao longo do dia, acometendo cotovelo direito, punho esquerdo e joelho direito. Há dois dias evoluiu com di(cid:72)culdade de (cid:69)etir o quarto dedo da mão direita e manchas pelo corpo. Antecedentes pessoais: atraso menstrual há duas semanas. Exame físico: T=38°C, PA=110x70 mmHg, FC=95 bpm; Membros: joelho direito: aumento da temperatura e sinal da tecla positivo. Pele e mão (ANEXO",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": ". A BACTERIOSCOPIA ESPERADA NA ANÁLISE DA SECREÇÃO ARTICULAR É:"
+      },
+      {
+        "letra": "A",
+        "texto": "Diplococus Gram negativos intra e extracelulares."
+      },
+      {
+        "letra": "B",
+        "texto": "Bacilo Gram negativo."
+      },
+      {
+        "letra": "C",
+        "texto": "Hifas septadas."
+      },
+      {
+        "letra": "D",
+        "texto": "Coco bacilo Gram negativo."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11250,
+    "tags": [],
+    "enunciado": "Paciente de 25 anos, deu entrada com dor intensa no joelho direito e di(cid:72)culdade para andar devido à dor no calcanhar, refere que o quadro teve início há um dia, nega quadro similar anteriormente. Acompanhando o quadro articular, notou o aparecimento de pequenas lesões nas mãos e pés. Ao exame: dor, calor e rubor no joelho direito e temperatura corporal de 38,5º, presença de pústulas com centro necrótico nas extremidades e tendinite de Aquiles bilateral. Qual a principal hipótese diagnóstica?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Artrite estafilococica."
+      },
+      {
+        "letra": "B",
+        "texto": "Artrite gonocócica."
+      },
+      {
+        "letra": "C",
+        "texto": "Crise de gota."
+      },
+      {
+        "letra": "D",
+        "texto": "Artrite reativa."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11251,
+    "tags": [],
+    "enunciado": "Mulher, 42 anos, transplantada renal há 8 meses, chegou à emergência referindo Tax 37,5ºC e dor no joelho esquerdo. Há 5 dias teve um pequeno acidente doméstico: caiu no chão batendo o joelho esquerdo. Ao exame físico, encontrava-se em regular estado geral, confusa, PA 90/60 mmHg, FC 110 bpm, hipocorada, hidratada, eupneica e anictérica. O joelho esquerdo apresentava nítidos sinais (cid:69)ogísticos e dor intensa ao movimento. Entre outros procedimentos, a equipe de emergência solicitou coleta de exames culturais (sangue e urina), artrocentese diagnóstica e início imediato de antibiótico empírico. Em relação ao caso, afirma-se: I. A presença de 50.000 polimorfonucleares/mm³ no líquido sinovial sugere o diagnóstico de artrite séptica. II. Início imediato de antibioticoterapia e drenagem do líquido sinovial são essenciais no manejo do quadro. III. A presença de proteínas e lactato elevada no líquido sinovial são critérios maiores no diagnóstico de artrite séptica bacteriana. Estão corretas as afirmativas",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e II, apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "I e III, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "II e III, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "I, II e III."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11252,
+    "tags": [],
+    "enunciado": "Sobre as “Infecções Ósteo-Articulares”, a alternativa incorreta é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O germe mais frequente na osteomielite é Staphylococcus aureus."
+      },
+      {
+        "letra": "B",
+        "texto": "Em adultos jovens, Neisseria gonorrhoeae é a etiologia mais comum da artrite séptica."
+      },
+      {
+        "letra": "C",
+        "texto": "A drenagem da artrite séptica é indicada na ausência de resposta à antibioticoterapia."
+      },
+      {
+        "letra": "D",
+        "texto": "A celularidade no líquido sinovial pode chegar a 250.000/microlitro, com mais de 90% de polimorfo- nuclear neutrófilos (PMNs)."
+      },
+      {
+        "letra": "E",
+        "texto": "A dosagem de proteína C reativa pode auxiliar como marcador da resposta ao tratamento na osteomielite."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11253,
+    "tags": [],
+    "enunciado": "Homem de 40 anos tem diagnóstico de infecção pelo vírus Chikungunya há 6 meses. Tem feito uso por conta própria de anti-in(cid:69)amatório não hormonal e injeções de corticoide devido à persistência da poliartrite. Nessa etapa, a medicação a ser iniciada deve ser o(a)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "prednisona."
+      },
+      {
+        "letra": "B",
+        "texto": "metotrexato."
+      },
+      {
+        "letra": "C",
+        "texto": "infliximabe."
+      },
+      {
+        "letra": "D",
+        "texto": "leflunomida."
+      },
+      {
+        "letra": "E",
+        "texto": "azatioprina."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11254,
+    "tags": [],
+    "enunciado": "A.F.L.K, 63 anos, masculino, sem comorbidades prévias, iniciou com dor intensa em joelho direito, associado a eritema e importante edema. Admitido ao pronto atendimento febril (38,5º C), PA 110x60, FC 112, ritmo cardíaco regular em 2 tempos e sem sopros, sem outras alterações ao exame físico. O diagnóstico mais importante a ser avaliado por suas implicações prognósticas e a propedêutica mais indicada são?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Gota e dosagem de uricemia."
+      },
+      {
+        "letra": "B",
+        "texto": "Doença do depósito de pirofosfato de cálcio e radiografia de joelho direito."
+      },
+      {
+        "letra": "C",
+        "texto": "Artrite Reativa e Reação de cadeia de polimerase para clamídia."
+      },
+      {
+        "letra": "D",
+        "texto": "Artrite séptica e artrocentese com análise do líquido sinovial e culturas."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11255,
+    "tags": [],
+    "enunciado": "Homem de 72 anos queixa-se de dor de forte intensidade (9/10) e edema do joelho esquerdo, de início há um dia. A radiogra(cid:72)a simples mostra calci(cid:72)cação linear do menisco medial. A análise do líquido sinovial mostra, à microscopia de luz polarizada, a presença de cristais romboides com birrefringência positiva fraca. A principal hipótese diagnóstica para este paciente é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "gota."
+      },
+      {
+        "letra": "B",
+        "texto": "artrite reativa."
+      },
+      {
+        "letra": "C",
+        "texto": "condrocalcinose."
+      },
+      {
+        "letra": "D",
+        "texto": "artrite séptica."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11256,
+    "tags": [],
+    "enunciado": "É contraindicação para a realização de artrocentese na artrite séptica:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "hiperglicemia."
+      },
+      {
+        "letra": "B",
+        "texto": "imunossupressão."
+      },
+      {
+        "letra": "C",
+        "texto": "infecção sistêmica tratada."
+      },
+      {
+        "letra": "D",
+        "texto": "trombocitopenia."
+      },
+      {
+        "letra": "E",
+        "texto": "uso de antiplaquetários."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11257,
+    "tags": [],
+    "enunciado": "Um homem de 21 anos vai ao pronto atendimento queixando-se de dor e edema no joelho direito há 3 dias. Nega comorbidades, doenças prévias, trauma, uso regular de medicamentos ou uso de quaisquer drogas. Ao exame físico, apresenta-se alerta e orientado. Os dados vitais são PA: 120 X 74mmHg, FC: 98bpm, FR: 19ipm, SpO₂ em ar ambiente 96%, Tax: 38,4°C. O joelho direito está com o volume aumentado, apresenta calor e rubor local, além do sinal da tecla positivo. Exames de laboratório: Sangue: hemoglobina 13,1g/dL; leucócitos 17.210/mm³; neutró(cid:72)los segmentados 15.980/mm³; plaquetas 390.000/mm³; proteína C reativa 68mg/L. Líquido sinovial: citometria 70.450/mm³ (VR<2.000/mm³); neutró(cid:72)los 90%; pesquisa com coloração de Gram: sem microrganismos coráveis. Considerando o caso descrito, assinale o PRINCIPAL agente etiológico nessa condição.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cristais de pirofosfato de cálcio."
+      },
+      {
+        "letra": "B",
+        "texto": "Cristais de urato."
+      },
+      {
+        "letra": "C",
+        "texto": "Neisseria gonorrhoeae."
+      },
+      {
+        "letra": "D",
+        "texto": "Staphylococcus aureus."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11258,
+    "tags": [],
+    "enunciado": "Paciente 50 anos, sexo masculino, diagnóstico de artrite reumatoide há 5 anos em uso de Metotrexato e Prednisona. Vem para consulta queixando de dor em joelho D iniciada há 4 meses. Relata ainda febre baixa intermitente e perda ponderal de 3 kg. Ao exame nota-se edema com derrame, calor e limitação de movimentos no joelho D. Tem dor a palpação em punhos, mas sem edema ou calor. Qual a provável etiologia da artrite e conduta apropriada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Artrite infecciosa / iniciar antibioticoterapia empírica"
+      },
+      {
+        "letra": "B",
+        "texto": "Atividade da doença / infiltrar joelho com corticoide"
+      },
+      {
+        "letra": "C",
+        "texto": "Atividade da doença / aumentar corticoide oral"
+      },
+      {
+        "letra": "D",
+        "texto": "Artrite infecciosa / artrocentese e análise do líquido sinovial"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11259,
+    "tags": [],
+    "enunciado": "Análise de líquido sinovial obtido por aspiração demonstra 1200 céls/mm³ e não identi(cid:72)ca microorganismos coradas pelo Gram. Diante deste achado, a hipótese mais adequada, dentre as referidas, é de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Espondilite anquilosante"
+      },
+      {
+        "letra": "B",
+        "texto": "Pseudogota"
+      },
+      {
+        "letra": "C",
+        "texto": "Artrite séptica"
+      },
+      {
+        "letra": "D",
+        "texto": "Osteoartrite"
+      },
+      {
+        "letra": "E",
+        "texto": "Artrite psoriásica"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11260,
+    "tags": [],
+    "enunciado": "Qual das artrites virais agudas pode mais comumente cronificar em mulheres com mais de 45 anos de idade?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Zica vírus"
+      },
+      {
+        "letra": "B",
+        "texto": "Hepatite B"
+      },
+      {
+        "letra": "C",
+        "texto": "Febre chikungunya"
+      },
+      {
+        "letra": "D",
+        "texto": "Hepatite C"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11261,
+    "tags": [],
+    "enunciado": "Mulher, 40 anos, procura assistência básica por conta de poliartrite de pequenas articulações de mãos e punhos, pés e tornozelos associada à rigidez matinal acima de uma hora há seis meses, que não responde ao uso de antiin(cid:69)amatórios não esteroidais (AINES). Há dois meses notou aparecimento de nódulo endurecido na parte extensora do antebraço. Relata ainda perda de peso não quanti(cid:72)cada e estado febril vespertino. Pai falecido por Tuberculose, marido com diagnóstico de Hanseníase, e acha que prima distante tem Lúpus e outra, Tireoidopatia. Qual a sua conduta diagnóstico-terapêutica inicial?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Artrite reumatoide – solicitar fator reumatóide e, caso negativo, anti-CCP, e RX de mãos/punhos – prescrever doses baixas de corticosteroides (CE)."
+      },
+      {
+        "letra": "B",
+        "texto": "Hanseníase, forma tuberculoide – solicitar VHS e PCR – tratar doença de base e prescrever doses elevadas de CE."
+      },
+      {
+        "letra": "C",
+        "texto": "Artrite de Poncet – solicitar PCR e RX de tórax – otimizar AINES e tratar doença de base."
+      },
+      {
+        "letra": "D",
+        "texto": "Lúpus eritematoso sistêmico – solicitar FAN e Anti-DNA – prescrever doses elevadas de CE."
+      },
+      {
+        "letra": "E",
+        "texto": "Hipertireoidismo – solicitar FAN e Anti-TPO e anti-TG, TSH, T3 e T4 livre – prescrever beta- bloqueadores, propiltiouracil e doses baixas de CE."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11262,
+    "tags": [],
+    "enunciado": "Qual sítio esquelético é mais frequentemente afetado pela tuberculose?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fêmur"
+      },
+      {
+        "letra": "B",
+        "texto": "Coluna vertebral"
+      },
+      {
+        "letra": "C",
+        "texto": "Osso ilíaco"
+      },
+      {
+        "letra": "D",
+        "texto": "Escápula"
+      },
+      {
+        "letra": "E",
+        "texto": "Articulações interfalangianas distais"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11263,
+    "tags": [],
+    "enunciado": "Homem de 22 anos apresenta quadro de dor, edema e calor em joelho esquerdo há 2 dias. A punção evidenciou um líquido turvo com 100.000 células/ml, sendo 87% de neutró(cid:72)los, sem presença de cristais. A hipótese diagnóstica mais provável é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Artrite gonocócica."
+      },
+      {
+        "letra": "B",
+        "texto": "Artrite gotosa."
+      },
+      {
+        "letra": "C",
+        "texto": "Artrite reumatoide."
+      },
+      {
+        "letra": "D",
+        "texto": "Osteoartrose aguda."
+      },
+      {
+        "letra": "E",
+        "texto": "Cisto de Baker roto."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11264,
+    "tags": [],
+    "enunciado": "Qual o diagnóstico mais provável em uma mulher de 25 anos com quadro de tenossinovite com rubor em dorso do punho esquerdo e artralgia migratória há 3 dias?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Febre reumática"
+      },
+      {
+        "letra": "B",
+        "texto": "Doença de Reiter"
+      },
+      {
+        "letra": "C",
+        "texto": "Tenossinovite gonocóccica"
+      },
+      {
+        "letra": "D",
+        "texto": "Tenossinovite por cristais de hidroxiapatita"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11265,
+    "tags": [],
+    "enunciado": "Mulher, 30 anos, procura atendimento após período de férias de quinze dias em Recife (PE). Refere febre (até 39,0°C) com dois episódios diários há sete dias, além de mialgia em dorso e membros e dor, edema e rigidez persistente em articulações das mãos, punhos e cotovelos. Exame físico: regular estado geral; artrite em cotovelos, punhos, metacarpofalangianas e interfalangianas proximais de ambas as mãos; máculas eritematosas numulares em tronco. Qual é o exame mais indicado para elucidação diagnóstica?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ultrassonografia com Doppler das mãos."
+      },
+      {
+        "letra": "B",
+        "texto": "Radiografia simples das mãos."
+      },
+      {
+        "letra": "C",
+        "texto": "Quantificação de IgM específica."
+      },
+      {
+        "letra": "D",
+        "texto": "Pesquisa de anticorpo antipeptídeo citrulinado cíclico."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11266,
+    "tags": [],
+    "enunciado": "Criança com 3 anos de idade em bom estado geral com história de dor em tornozelo esquerdo acompanhada de calor e discreto edema há cerca de 2 meses. Refere a genitora, que a criança amanheceu assim, e não teve nenhum fator desencadeante, não torceu o pé, não se acidentou. Nega febre durante esse período. Procurou ortopedista na urgência, que solicitou radiogra(cid:72)a de tornozelo, não evidenciando alterações. Fez uso de analgésicos, sem melhora. Procurou pediatra que solicitou ultrassonogra(cid:72)a do tornozelo, evidenciando moderado derrame articular e entesite do tibial posterior. Tem hemograma com discreta anemia, pequena leucocitose e plaquetose. VHS, glicoproteína ácida e PCR positivos. Fator reumatoide negativo. ASLO de 100UI/ml. Ecocardiograma normal. FAN positivo, com título de 1/300 (padrão nuclear pontilhado (cid:72)no denso). Diante desse quadro apresentado, podemos afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O diagnóstico mais provável dessa criança é Lúpus eritematoso sistêmico, por conta do FAN positivo e fator reumatoide negativo."
+      },
+      {
+        "letra": "B",
+        "texto": "Febre reumática é o diagnóstico mais provável, porque a artrite acomete grande articulação e as provas de atividade reumática são positivas."
+      },
+      {
+        "letra": "C",
+        "texto": "Artrite Idiopática juvenil seria o principal diagnóstico nesse caso, mesmo com Fator reumatoide negativo. Nesse caso, seria a forma oligoarticular associada a entesite, sendo mandatório investigação oftalmológica de uveíte anterior, mesmo sem sintomas oculares."
+      },
+      {
+        "letra": "D",
+        "texto": "Nesse caso, o principal diagnóstico seria artrite infecciosa, pois a patologia acometeu uma única articulação, com presença de edema e calor local, provas inflamatórias positivas associadas a leucocitose."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11267,
+    "tags": [],
+    "enunciado": "Adolescente, 13a, com história de febre há 3 dias, associada a exantema generalizado, artralgia em mãos e edema em joelho esquerdo, com di(cid:72)culdade para deambulação. O jovem referiu que há duas semanas apresentara quadro de disúria e secreção em pênis, para o qual não buscou auxílio médico. A BACILOSCOPIA DO LÍQUIDO SINOVIAL EVIDENCIARÁ:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Bacilo gram-negativo."
+      },
+      {
+        "letra": "B",
+        "texto": "Bacilo álcool-ácido resistente."
+      },
+      {
+        "letra": "C",
+        "texto": "Diplococo gram-negativo."
+      },
+      {
+        "letra": "D",
+        "texto": "Cocobacilo gram-positivo."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11268,
+    "tags": [],
+    "enunciado": "Mulher de 23 anos. Poliartrite simétrica de pequenas e grandes articulações de início súbito evoluindo há 7 dias, acompanhada de febre de 39 graus Celsius e erupção cutânea morbiliforme envolvendo tronco e membros com leve prurido. É vendedora ambulante na feira Manaus Moderna, G1P1A0. Ao exame físico, bom estado geral deambulando, eupneica, corada, tórax e abdome sem anormalidades. Há aumento de volume, dor, rubor e calor em interfalangeanas proximais, metacarpofalangeanas, punhos, joelhos e tornozelos. Qual é a hipótese diagnóstica inicial para a paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Artrite reumatoide."
+      },
+      {
+        "letra": "B",
+        "texto": "Chikungunya."
+      },
+      {
+        "letra": "C",
+        "texto": "Poliangeite granulomatosa."
+      },
+      {
+        "letra": "D",
+        "texto": "Lúpus eritematoso sistêmico."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11269,
+    "tags": [],
+    "enunciado": "Homem de 30 anos com dor, aumento de volume e rubor em joelho direito. Aspirado revelou numerosos leucócitos e polimorfonucleares, sem microrganismos ao gram, com alguns cristais birrefringentes. O melhor tratamento inicial é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Antibiótico venoso."
+      },
+      {
+        "letra": "B",
+        "texto": "Colchicina oral."
+      },
+      {
+        "letra": "C",
+        "texto": "Corticosteroide intra-articular."
+      },
+      {
+        "letra": "D",
+        "texto": "Corticosteroide oral."
+      },
+      {
+        "letra": "E",
+        "texto": "Analgesia."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11270,
+    "tags": [],
+    "enunciado": "Adaptada - Estudante de 18 anos, feminina, sem antecedentes, procura atendimento com dor em punho esquerdo e tornozelo direito acompanhados de febre e erupção cutânea pustular em superfície de antebraços. Apresenta discreto calor e rubor em tornozelo e dor à (cid:69)exão passiva do punho. Menos de 1ml foi aspirado de seu tornozelo e mostrou 8 mil polimorfonucleares por campo, sem germes ao gram. O melhor tratamento para esta condição é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Indometacina oral."
+      },
+      {
+        "letra": "B",
+        "texto": "Ceftriaxone"
+      },
+      {
+        "letra": "C",
+        "texto": "Colchicina oral."
+      },
+      {
+        "letra": "D",
+        "texto": "Prednisona intra-articular."
+      },
+      {
+        "letra": "E",
+        "texto": "Ampicilina venosa."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11271,
+    "tags": [],
+    "enunciado": "Paciente de 12 anos de idade, previamente hígido, após excursão em área de mata para acampamento de escoteirismo, apresenta febre intensa, três dias de evolução, prurido cutâneo leve, poliartrite, com edema de mãos e pés, mialgia e exantema inespecí(cid:72)co. Com base nos dados citados, o diagnóstico mais provável e a evolução possível são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Zika e evolução para cronicidade."
+      },
+      {
+        "letra": "B",
+        "texto": "Dengue com evolução para dengue hemorrágica."
+      },
+      {
+        "letra": "C",
+        "texto": "Chikungunya e evolução para cronicidade."
+      },
+      {
+        "letra": "D",
+        "texto": "Zika sem risco de evolução para cronicidade."
+      },
+      {
+        "letra": "E",
+        "texto": "Chikungunya com risco de hemoconcentração."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11272,
+    "tags": [],
+    "enunciado": "Mulher de 34 anos tem história de febre e dor articular em joelho direito de início há três dias, acompanhada de edema e sinais (cid:69)ogísticos nessa articulação. O quadro iniciou sete dias após o (cid:72)m da menstruação. Havia tenosinovite em punho e cinco lesões papulopustulosas em dedos das mãos, com componente hemorrágico. Foi feita a artrocentese do joelho com líquido sinovial espesso, coágulo pobre em mucina, 18.000 leucócitos e 90% de polimorfonucleares. Nesse caso, o exame que terá a maior positividade do possível agente infeccioso deve ser:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "teste de amplificação do ácido nucleico (NATT) do colo uterino e sangue"
+      },
+      {
+        "letra": "B",
+        "texto": "teste de amplificação do ácido nucleico (NATT) da pele e sinóvia"
+      },
+      {
+        "letra": "C",
+        "texto": "Gram e cultura das lesões pustulosas da pele e sinóvia"
+      },
+      {
+        "letra": "D",
+        "texto": "Gram e cultura do introito vaginal e sangue"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11273,
+    "tags": [],
+    "enunciado": "Homem, 50 anos, previamente hígido, acorda subitamente às 4:00 horas com dor aguda, edema, vermelhidão de tornozelo direito, sem fator desencadeante e sem trauma. Procura PS. Não tem febre, pressão arterial, pulso e saturação de oxigênio normais. Relata ser a primeira vez que apresenta este quadro. No exame físico, apresenta monoartrite aguda de tornozelo direito. Não apresenta lesões em região genital. No hemograma apresenta hemoglobina de 16,2 mg/dL, leucócitos de 5400 com neutró(cid:72)los 10% (6% de bastonetes de 94% de segmentados). Qual é o diagnóstico mais aproximado?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Artrite séptica."
+      },
+      {
+        "letra": "B",
+        "texto": "Anemia falciforme."
+      },
+      {
+        "letra": "C",
+        "texto": "Osteoartrite."
+      },
+      {
+        "letra": "D",
+        "texto": "Artrite gotosa."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11274,
+    "tags": [],
+    "enunciado": "Homem, 25 anos, queixa-se de dor articular em joelho direito, além de articulação metatarsofalangena do hállux esquerdo, sem história de trauma, de início há 5 semanas. A(cid:72)rma ser previamente hígido e relata apenas um quadro de disúria com melhora espontânea há algumas semanas. Ao exame, discreta hiperemia ocular, sinais in(cid:69)amatórios nas articulações acometidas, sem presença de deformidades. A principal hipótese diagnóstica e exame a ser solicitado para esse caso seria:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "artrite reumatoide, fator reumatóide."
+      },
+      {
+        "letra": "B",
+        "texto": "artrite reacional, análise do líquido sinovial."
+      },
+      {
+        "letra": "C",
+        "texto": "artrite séptica, punção articular."
+      },
+      {
+        "letra": "D",
+        "texto": "osteoartrose, radiografia."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11275,
+    "tags": [],
+    "enunciado": "Dentre os agentes infecciosos abaixo, qual é o principal causador da artrite infecciosa em adultos?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Staphylococcus aureus."
+      },
+      {
+        "letra": "B",
+        "texto": "Aspergillus spp."
+      },
+      {
+        "letra": "C",
+        "texto": "Escherichia coli."
+      },
+      {
+        "letra": "D",
+        "texto": "Streptococcus pneumoniae."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11276,
+    "tags": [],
+    "enunciado": "Paciente de 35 anos, sexo masculino, previamente hígido, com quadro de monoartrite, de joelho a esclarecer. Feita a artrocentese com o seguinte resultado: aparência xantrocômica, 1400 leucócitos, 10% polimorfonucleares, glicose 95, cristais ausentes. Glicemia capilar: 102. Esse quadro sugere qual diagnóstico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Artrite séptica."
+      },
+      {
+        "letra": "B",
+        "texto": "Traumatismo."
+      },
+      {
+        "letra": "C",
+        "texto": "Pseudogota."
+      },
+      {
+        "letra": "D",
+        "texto": "Artite reumatoide."
+      },
+      {
+        "letra": "E",
+        "texto": "Osteoartrite."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11277,
+    "tags": [],
+    "enunciado": "A respeito do tratamento da artrite sépica não complicada com hemocultura positiva, assinale a a(cid:72)rmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Na presença de cocos gram-positivos, a primeira escolha é vancomicina."
+      },
+      {
+        "letra": "B",
+        "texto": "O achado de diplococos gram-negativos contrapõe a suspeita de artrite gonocócica."
+      },
+      {
+        "letra": "C",
+        "texto": "Se precedida por mordedura de cão ou gato, é indicada ampicilina-sulbactam."
+      },
+      {
+        "letra": "D",
+        "texto": "A artrite pós-procedimento pode ser tratada em monoterapia com cefepime."
+      },
+      {
+        "letra": "E",
+        "texto": "No caso de bacilos gram-negativos, ceftazidime é uma opção ineficaz."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11278,
+    "tags": [],
+    "enunciado": "Na maioria dos casos de artrite séptica bacteriana, a infecção ocorre:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "por propagação hematogênica."
+      },
+      {
+        "letra": "B",
+        "texto": "a partir de infecção cutânea causada por foliculite ou picada de inseto."
+      },
+      {
+        "letra": "C",
+        "texto": "como consequência de trauma."
+      },
+      {
+        "letra": "D",
+        "texto": "após intervenção cirúrgica."
+      },
+      {
+        "letra": "E",
+        "texto": "a partir de infecção óssea adjacente."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11279,
+    "tags": [],
+    "enunciado": "Paciente masculino, 20 anos, apresenta quadro de monoartrite aguda em joelho D há 24h. Apresenta dor importante no local, associado à di(cid:72)culdade de marcha. Refere muita dor e indisposição, porém afebril e apetite preservado. Nega sintomas semelhantes anteriores. Sobre o caso, marque a melhor alternativa sobre o diagnóstico e conduta inicial:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Provável Artrite reumatóide e deve solicitar anti CCP."
+      },
+      {
+        "letra": "B",
+        "texto": "Provável Gota e deve solicitar ácido úrico sérico."
+      },
+      {
+        "letra": "C",
+        "texto": "Provável Artrite infecciosa e deve solicitar hemocultura."
+      },
+      {
+        "letra": "D",
+        "texto": "Provável Lupus Eritematoso Sistêmico e deve solicitar FAN."
+      },
+      {
+        "letra": "E",
+        "texto": "Provável Artrite infecciosa e deve solicitar artrocentese."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 11280,
+    "tags": [],
+    "enunciado": "Homem de 42 anos com queixa de dor em joelho direito, associado a edema, rubor e calor local há três dias. Nega outras queixas, sem outros achados ao exame clínico. Realizada artrocentese que evidenciou: leucócitos 35.000/mm³, com predomínio de neutró(cid:72)los e cristais de monourato de sódio com birrefringência negativa. Nesse caso o diagnóstico e a conduta adequada são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Gota; receitar anti-inflamatório."
+      },
+      {
+        "letra": "B",
+        "texto": "Artrite séptica; prescrever corticoide."
+      },
+      {
+        "letra": "C",
+        "texto": "Pseudogota; receitar rasburicase."
+      },
+      {
+        "letra": "D",
+        "texto": "Artrite reumatoide; iniciar metotrexato."
+      },
+      {
+        "letra": "E",
+        "texto": "Osteoartrite; iniciar analgesia simples."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11281,
+    "tags": [],
+    "enunciado": "Homem, 47 anos, apresenta, há um ano e meio, quadros recorrentes de monoartrite aguda, durando cada episódio, cerca de quatro a cinco dias. Inicialmente foi acometido o tornozelo esquerdo, posteriormente o joelho direito, em seguida o joelho esquerdo e, há duas semanas, houve recorrência do quadro no tornozelo esquerdo. Há alívio dos sintomas com o uso de anti-inflamatório não hormonal. Relata que o intervalo entre os episódios, que inicialmente era de até seis meses, tem reduzido, sendo que o intervalo entre os dois últimos episódios foi de apenas trinta dias. Apresenta-se na consulta, após dois dias do início da última crise. O joelho direito apresenta sinais (cid:69)ogísticos, limitação para (cid:69)exão, levando a certa claudicação. Refere temperatura de 37,7 °C há 1 dia. O paciente tem antecedentes de hipertensão, tabagismo de 10 cigarros ao dia, etilismo (duas a três latas de cerveja diariamente) e diabetes há 15 anos e faz uso de hidroclorotiazida 25 mg/dia e glibenclamida 10 mg/dia. O diagnóstico mais provável e a conduta inicial a ser adotada são, respectivamente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "artrite gotosa; manter o uso de anti-inflamatório não hormonal."
+      },
+      {
+        "letra": "B",
+        "texto": "artrite gotosa; indicar artrocentese para confirmação e iniciar alopurinol."
+      },
+      {
+        "letra": "C",
+        "texto": "osteoartrite; solicitar radiografia dos joelhos e iniciar o uso de corticoesteroide."
+      },
+      {
+        "letra": "D",
+        "texto": "artrite séptica; realizar artrocentese e aguardar a cultura para o início do tratamento antibiótico guiado."
+      },
+      {
+        "letra": "E",
+        "texto": "artrite séptica; não há necessidade de exames complementares, iniciar ceftriaxone 2 g EV / dia."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11282,
+    "tags": [],
+    "enunciado": "Dentre as alternativas abaixo, qual está CORRETA sobre a artrite séptica?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ocorre principalmente em articulações do membro inferior."
+      },
+      {
+        "letra": "B",
+        "texto": "O desenvolvimento para osteoartrose é raro."
+      },
+      {
+        "letra": "C",
+        "texto": "Acomete principalmente homens de meia-idade."
+      },
+      {
+        "letra": "D",
+        "texto": "Antibioticoterapia é o tratamento inicial de escolha."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11283,
+    "tags": [],
+    "enunciado": "O mal de Pott acomete mais frequentemente qual segmento da coluna?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Coluna cervical."
+      },
+      {
+        "letra": "B",
+        "texto": "Transição lombossacra"
+      },
+      {
+        "letra": "C",
+        "texto": "Transição cervicotorácica."
+      },
+      {
+        "letra": "D",
+        "texto": "Transição toracolombar."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11284,
+    "tags": [],
+    "enunciado": "Em relação as monoartrites, podemos afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "monoartrites infecciosas agudas normalmente devem ser tratadas com antibioticoterapia, ficando a critério do médico a drenagem articular."
+      },
+      {
+        "letra": "B",
+        "texto": "toda monoartrite aguda é infecciosa e necessita de drenagem articular e antibioticoterapia empírica."
+      },
+      {
+        "letra": "C",
+        "texto": "os agentes etiológicos mais comuns das monoartrites infecciosas agudas são o Staphylococcus aureus e o Streptoccocus pneumonie."
+      },
+      {
+        "letra": "D",
+        "texto": "a causa mais comum de monoartrite aguda não infecciosa é a artrite reumatoide."
+      },
+      {
+        "letra": "E",
+        "texto": "a monoartrite gonocócica é comum em mais de 80% dos pacientes com infecção gonocócica não tratada de mucosas."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11285,
+    "tags": [],
+    "enunciado": "Relacione a segunda coluna de acordo com a primeira sobre os achados clínicos das patologias enumeradas na primeira coluna, e ao final responda o que se pede: 1. Artrite Gonocócica; 2. Crioglobulinemia; 3. Henoch Scholein; 4. Gota; ( ) Habitualmente inicia acometendo uma articulação como a primeira metatarsofalangeana. Alguns pacientes podem ter um único episódio, porém a maioria deles terá episódios recorrentes com intervalos sem sintomas.; ( ) Uma única articulação é acometida (quadril, joelho, tornozelo e punho), mas pode apesentar quadro de artrite migratória na sua forma disseminada assim como rash e alterações cutâneas típicas.; ( ) Apresenta-se com quadro de purpura palpável, frequentemente associado a positividade do vírus C, podendo ter alteração do sedimento urinário; ( ) Apresenta se com quadro de púrpura palpável em membros inferiores simétrica associado a dor abdominal e hematúria. Marque a alternativa que contenha a sequência CORRETA de respostas, na ordem de cima para baixo:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1, 4, 2, 3"
+      },
+      {
+        "letra": "B",
+        "texto": "4, 1, 3, 2"
+      },
+      {
+        "letra": "C",
+        "texto": "4, 3, 1, 2"
+      },
+      {
+        "letra": "D",
+        "texto": "4, 1, 2, 3"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11286,
+    "tags": [],
+    "enunciado": "Paciente de 45 anos comparece a unidade de atenção primária à saúde, em Fortaleza, com queixa de febre de 39ºC há 2 dias, associada à cefaleia, exantema e artralgia intensa em mãos, joelhos e pés. A dor articular é bilateral e simétrica. Apresenta di(cid:72)culdade de deambular e de segurar objetos com as mãos. O exantema é maculopapular e acomete tronco e membros inferiores. Para avaliar melhor a dor articular, foi aplicada a escala analógica visual com resultado igual a 7 (de 0 a 10). Nega alergias a medicamentos e tem peso igual a 70 kg. Está em uso de dipirona 1 g de 6 em 6 horas. Para o manejo adequado da dor, qual medicamento deve ser associado?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hidroxicloroquina."
+      },
+      {
+        "letra": "B",
+        "texto": "Ibuprofeno."
+      },
+      {
+        "letra": "C",
+        "texto": "Prednisona."
+      },
+      {
+        "letra": "D",
+        "texto": "Tramadol."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11287,
+    "tags": [],
+    "enunciado": "Homem de 30 anos, queixando-se de ardência uretal, olhos vermelhos com ardência e lacrimejamento e sinais de poliartrite. Qual o diagnóstico clínico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Síndrome de Sjogreen"
+      },
+      {
+        "letra": "B",
+        "texto": "Espondilite anquilosante"
+      },
+      {
+        "letra": "C",
+        "texto": "Síndrome de Reiter"
+      },
+      {
+        "letra": "D",
+        "texto": "Gonococcia"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11288,
+    "tags": [],
+    "enunciado": "Uma mulher com 32 anos de idade procura unidade básica de saúde com queixa de dores intensas nas articulações das mãos e dos pés associadas à rigidez matinal, com duração de cerca de 15 minutos e prejuízo funcional. Relata que os sintomas começaram há 3 meses, quando, ao passar as férias de verão em outro estado, apresentou quadro de febre alta, além de manchas vermelhas no rosto, nos braços e no tórax, que persistiram por cerca de 10 dias. Informa que não procurou atendimento médico na ocasião, passando a fazer uso de dipirona para alívio da dor, com melhora não satisfatória. O exame clínico atual da paciente evidencia edema e dor nas articulações interfalangianas distais, bilateralmente, e em tornozelos, não sendo observados no momento, lesões de pele mucosas ou nódulos subcutâneos. Os resultados do hemograma completo e do exame de urina de rotina revelaram-se normais. Diante desse quadro, qual é o diagnóstico e o tratamento adequado?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Osteoartrose; acetaminofeno."
+      },
+      {
+        "letra": "B",
+        "texto": "Artrite reumatoide; metotrexato."
+      },
+      {
+        "letra": "C",
+        "texto": "Chikungunya; hidroxicloroquina."
+      },
+      {
+        "letra": "D",
+        "texto": "Lúpus eritematoso sistêmico; prednisolona."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11289,
+    "tags": [],
+    "enunciado": "Mulher 24 anos, com quadro há 03 semanas de febre baixa, adinamia, anorexia e artrite com dor moderada em joelho direito e tornozelo esquerdo. Ao exame, presença de pápulas com centro vesicular necrótico em dorso da mão direita. O tratamento desta condição deverá ser feito preferencialmente com:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Prednisona em baixas doses."
+      },
+      {
+        "letra": "B",
+        "texto": "Metilprednisolona em pulsoterapia."
+      },
+      {
+        "letra": "C",
+        "texto": "Indometacina."
+      },
+      {
+        "letra": "D",
+        "texto": "Ceftriaxona."
+      },
+      {
+        "letra": "E",
+        "texto": "Vancomicina."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11290,
+    "tags": [],
+    "enunciado": "Mulher de 30 anos de idade procura ambulatório com queixa de dor em punho direito e joelho esquerdo há 1 dia. Ao exame clínico: edema e eritema em punho direito e joelho esquerdo, com lesão pustulosa em antebraço esquerdo. Aspirado de líquido sinovial do joelho (1 ml) revelou 10.000 células com 90% de polimorfonucleares, sem microorganismos à coloração de Gram e cultura negativa. A conduta para esta paciente é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Alopurinol"
+      },
+      {
+        "letra": "B",
+        "texto": "Ceftriaxona"
+      },
+      {
+        "letra": "C",
+        "texto": "Indometacina"
+      },
+      {
+        "letra": "D",
+        "texto": "Clindamicina"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11291,
+    "tags": [],
+    "enunciado": "Homem, 26a, queixa-se de dor, sensação de corpo estranho e vermelhidão no olho direito há 6 horas. Refere episódios anteriores, que melhoraram com uso de colírios. Refere dor e edema no joelho e no tornozelo esquerdo e dor na região do calcâneo direito há 6 meses. Avaliação oftalmológica: uveíte anterior aguda. Exame articular: entesite calcâneo direito, artrite no joelho e no tornozelo esquerdo. O diagnóstico é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Espondiloartrite."
+      },
+      {
+        "letra": "B",
+        "texto": "Artrite reumatoide."
+      },
+      {
+        "letra": "C",
+        "texto": "Artrite gonocócica."
+      },
+      {
+        "letra": "D",
+        "texto": "Doença de Behçet."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11292,
+    "tags": [],
+    "enunciado": "Um rapaz de 18 anos é internado com história de dois dias de febre, dor abdominal e dor no joelho esquerdo. Esta é sua quarta internação por queixas semelhantes. Ele relata que é assintomático no período entre os episódios, inclusive praticando esportes sem qualquer dor articular. O paciente não faz uso regular de medicamentos e relata relações sexuais sem uso de preservativo com parceira única. Ao exame físico a temperatura axilar é 38.2°C, a pressão arterial é 144x 86 mmHg, frequência cardíaca é 90 bpm, frequência respiratória é 18 irpm. Abdome difusamente doloroso, sem sinais de irritação peritoneal ou visceromegalias. Não há linfonodos palpáveis. O joelho esquerdo apresenta discreto derrame articular, limitando (cid:69)exão. Observa-se um rash eritematoso bem delimitado, doloroso ao toque, no tornozelo direito. Exames laboratoriais revelam aumento da velocidade de hemossedimentação e anticorpo antinuclear negativo. EAS revela proteinúria (1+), sem cilindros. Qual o diagnóstico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Doença de Still do adulto."
+      },
+      {
+        "letra": "B",
+        "texto": "Doença de Crohn."
+      },
+      {
+        "letra": "C",
+        "texto": "Febre familiar do mediterrâneo."
+      },
+      {
+        "letra": "D",
+        "texto": "Artrite reativa."
+      },
+      {
+        "letra": "E",
+        "texto": "Artrite gonocócica."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11293,
+    "tags": [],
+    "enunciado": "Estivador de 32 anos com um quadro de artrite em joelho esquerdo há 2 dias, refere que há 10 dias apresentou um quadro de poliartralgia migratória assimétrica, mialgia, exantema e febre, com melhorara nos três últimos dias. O diagnóstico mais provável deste paciente é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Artrite reumatoide."
+      },
+      {
+        "letra": "B",
+        "texto": "Artrite gonocócica."
+      },
+      {
+        "letra": "C",
+        "texto": "Espondilite anquilosante."
+      },
+      {
+        "letra": "D",
+        "texto": "Artrite gotosa."
+      },
+      {
+        "letra": "E",
+        "texto": "Lupus eritematoso sistêmico."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11294,
+    "tags": [],
+    "enunciado": "Na artrite séptica na criança, a penetração da bactéria na articulação se dá, na maioria das vezes:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Por contiguidade."
+      },
+      {
+        "letra": "B",
+        "texto": "Por punção da artéria femoral."
+      },
+      {
+        "letra": "C",
+        "texto": "Por contaminação direta."
+      },
+      {
+        "letra": "D",
+        "texto": "Pela via hematogênica."
+      },
+      {
+        "letra": "E",
+        "texto": "Por ferimentos articulares."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11295,
+    "tags": [],
+    "enunciado": "Artrite signi(cid:72)ca a evidência de alteração in(cid:69)amatória ou degenerativa da articulação. O patógeno mais frequentemente causador de artrite não-gonocócica é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Estreptococo do grupo A e B"
+      },
+      {
+        "letra": "B",
+        "texto": "E. coli"
+      },
+      {
+        "letra": "C",
+        "texto": "S. Aureus"
+      },
+      {
+        "letra": "D",
+        "texto": "P. Aeruginosa"
+      },
+      {
+        "letra": "E",
+        "texto": "Chlamydia"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11296,
+    "tags": [],
+    "enunciado": "Estivador de 32 anos com um quadro de artrite em joelho esquerdo há 2 dias, refere que há 10 dias apresentou um quadro de poliartralgia migratória assimétrica, milagia, exantema e febre, com melhorara nos três últimos dias. O diagnóstico mais provável deste paciente é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "artrite reumatóide"
+      },
+      {
+        "letra": "B",
+        "texto": "artrite gonocócica"
+      },
+      {
+        "letra": "C",
+        "texto": "espondilite anquilosante"
+      },
+      {
+        "letra": "D",
+        "texto": "artrite gotosa"
+      },
+      {
+        "letra": "E",
+        "texto": "lúpus eritematoso sistêmico"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11297,
+    "tags": [],
+    "enunciado": "Paciente, masculino, 68 anos, procura o pronto-socorro com dor e aumento de volume de joelho esquerdo há 3 dias com piora progressiva, que impede a deambulação, associados a astenia, anorexia e febre (39ºC). Há 5 anos, recebeu diagnóstico de gota por apresentar podagra à esquerda e hiperuricemia, iniciando tratamento com alopurinol. Há 2 anos, apresentou artrite aguda em joelho esquerdo que melhorou com o uso de colchicina 0,5mg 4 vezes ao dia. Na ocasião, foram observados cristais de urato de monossódio do líquido sinovial. Após punção articular, qual a conduta para esse paciente no pronto socorro?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Oxacilina 8g/dia."
+      },
+      {
+        "letra": "B",
+        "texto": "Ceftazima 3 g/dia."
+      },
+      {
+        "letra": "C",
+        "texto": "Cefalexina 2 g/dia."
+      },
+      {
+        "letra": "D",
+        "texto": "Colchicina, oxacilina 8g/dia e corticoide."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11298,
+    "tags": [],
+    "enunciado": "Paciente de 25 anos, deu entrada com dor intensa no joelho direito e di(cid:72)culdade para andar devido à dor no calcanhar, refere que o quadro teve início há um dia, nega quadro similar anteriormente. Acompanhando o quadro articular notou o aparecimento de pequenas lesões nas mãos e pés. Ao exame, dor, calor e rubor no joelho direito, temperatura corporal de 38,5ºC, presença de pústulas com centro necrótico nas extremidades e tendinite de Aquiles bilateral. Qual a sua principal hipótese diagnóstica?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Artrite gonocócica."
+      },
+      {
+        "letra": "B",
+        "texto": "Artrite estafilocócica."
+      },
+      {
+        "letra": "C",
+        "texto": "Crise de gota."
+      },
+      {
+        "letra": "D",
+        "texto": "Febre reumática."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11299,
+    "tags": [],
+    "enunciado": "O estudo do líquido sinovial de um paciente com artrite séptica revela:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Baixa celularidade, aspecto turvo e viscosidade aumentada."
+      },
+      {
+        "letra": "B",
+        "texto": "Baixa celularidade, aspecto turvo e viscosidade reduzida."
+      },
+      {
+        "letra": "C",
+        "texto": "Alta celularidade, aspecto turvo e predomínio de polimorfonucleares."
+      },
+      {
+        "letra": "D",
+        "texto": "Alta celularidade, aspecto opaco e predomínio de linfomononucleares."
+      },
+      {
+        "letra": "E",
+        "texto": "Alta celularidade, aspecto translúcido e viscosidade reduzida."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11300,
+    "tags": [],
+    "enunciado": "Paciente do sexo feminino, 25 anos de idade, apresenta-se na consulta com queixa de dor, edema e calor local em articulações metacarpofalangianas do 2°, 3° e 4° quirodáctilos da mão esquerda, e interfalangianas proximais do 2°, 4° e 5° quirodáctilos da mão direita. Relata que tais queixas surgiram há cerca de 3 semanas. Relata que não é portadora de nenhuma comorbidade, mas que uma semana antes do início do quadro apresentou sinais de infecção de vias aéreas superiores. Essa paciente deve apresentar como diagnóstico principal:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Artrite reumatoide."
+      },
+      {
+        "letra": "B",
+        "texto": "Artrite psoriásica."
+      },
+      {
+        "letra": "C",
+        "texto": "Artrite reativa."
+      },
+      {
+        "letra": "D",
+        "texto": "Artrite séptica."
+      },
+      {
+        "letra": "E",
+        "texto": "Artrite paraneoplásica."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11301,
+    "tags": [],
+    "enunciado": "Um homem de 35 anos com artrite aguda monoarticular envolvendo o 1º pododáctilo sofre de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Artrite reumatoide."
+      },
+      {
+        "letra": "B",
+        "texto": "Gota."
+      },
+      {
+        "letra": "C",
+        "texto": "Artrite gonocócica."
+      },
+      {
+        "letra": "D",
+        "texto": "Lúpus eritematoso sistêmico."
+      },
+      {
+        "letra": "E",
+        "texto": "Traumatismo."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11302,
+    "tags": [],
+    "enunciado": "Homem, 72 anos, com dor intensa e edema em ambos os joelhos imediatamente após cirurgia de hérnia inguinal. Há sinais in(cid:69)amatórios em ambos os joelhos com grande derrame articular. A artrocentese revela presença de cristais birrefringentes positivos no líquido sinovial. A coloração do Gram é negativa. O diagnóstico mais provável é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Gota."
+      },
+      {
+        "letra": "B",
+        "texto": "Artrite séptica."
+      },
+      {
+        "letra": "C",
+        "texto": "Pseudogota."
+      },
+      {
+        "letra": "D",
+        "texto": "Artrite reativa."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11303,
+    "tags": [],
+    "enunciado": "Em relação às artrites, assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A abordagem inicial de um paciente com monoartrite aguda inclui radiografia da articulação acometida, que permitirá chegar ao diagnóstico final na maioria dos casos."
+      },
+      {
+        "letra": "B",
+        "texto": "Um paciente chegou ao pronto-socorro com um quadro de monoartrite aguda associado à febre. Foram realizados artrocentese e coloração de Gram, que não evidenciou bactérias. Nesse caso, pode-se descartar artrite séptica."
+      },
+      {
+        "letra": "C",
+        "texto": "Paciente com quadro febril agudo, de três dias de evolução, com poliartralgia assimétrica migratória associada à tenossinovite, artrite em punho e dermatite difusa caracterizada por pústulas sobre base eritematosa. A principal hipótese diagnóstica é doença gonocócica disseminada. Foi puncionado o punho e o material foi enviado para cultura. Após 72 horas, não houve crescimento de bactérias. Nesse caso, pode-se descartar a hipótese de doença gonocócica disseminada."
+      },
+      {
+        "letra": "D",
+        "texto": "Pacientes com diagnóstico de artrite séptica devem ser tratados com cefalexina 500 mg de 6/6 horas, via oral, por 10 dias, em regime ambulatorial."
+      },
+      {
+        "letra": "E",
+        "texto": "Todo paciente com monoartrite aguda deve ser submetido à artrocentese e o material enviado para o laboratório para avaliar celularidade, pesquisa de cristais, bacterioscopia e culturas."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 11304,
+    "tags": [],
+    "enunciado": "O jovem de 25 anos é usuário de drogas endovenosas há, pelo menos, cinco anos, procurou a unidade de saúde da família em virtude de dor aguda, de início súbito, na articulação sacroilíaca direita que di(cid:72)cultava a deambulação. Não havia antecedente de trauma. Ao exame físico além da dor apresentava calor e edema. A hipótese diagnóstica mais provável é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Luxação"
+      },
+      {
+        "letra": "B",
+        "texto": "Sindrome de Reiter"
+      },
+      {
+        "letra": "C",
+        "texto": "Dermatomiosite"
+      },
+      {
+        "letra": "D",
+        "texto": "Esclerodermia localizada"
+      },
+      {
+        "letra": "E",
+        "texto": "Artrite"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 11305,
+    "tags": [],
+    "enunciado": "Paciente de 48 anos, hipertenso e etilista diário, apresenta segundo o quadro, dor em joelho direito acompanhado de hiperemia e aumento de volume articular. Evoluiu com febre termometrada e persistência da dor procurando atendimento médico. Ao exame físico, apresenta-se com sinais de artrite, mas sem restrição de movimento e temperatura axilar de 38,3ºC. Exames laboratoriais evidenciavam leucocitose de 16.000 com 2% de bastonetes. Realizado artrocentese diagnóstica que evidenciou 30.000 leucócitos com 55% de polimorfonucleares. Considerando o quadro clínico descrito, assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O histórico clínico e os dados apresentados pela análise do líquido articular o diagnóstico é de artrite séptica"
+      },
+      {
+        "letra": "B",
+        "texto": "O diagnóstico ainda não pode ser confirmado apenas com os dados apresentados"
+      },
+      {
+        "letra": "C",
+        "texto": "O diagnóstico de gota foi descartado pela história clínica, devido a presença de febre e leucocitose"
+      },
+      {
+        "letra": "D",
+        "texto": "A ausência de restrição de movimento (artrite congelada) exclui a possibilidade de artrite séptica"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11306,
+    "tags": [],
+    "enunciado": "São características da fase crônica da febre de chikungunya (CHIKV):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Placas eritematosas, eritemato-hipocrômicas, até 5 lesões de pele bem delimitadas, hipo ou anestésicas, podendo ocorrer comprometimento de nervo."
+      },
+      {
+        "letra": "B",
+        "texto": "Hipoestesia em bota e luva, deficit de sensibilidade profunda, parestesias, podendo em alguns casos manter o quadro de cefaleia, mialgia e edema."
+      },
+      {
+        "letra": "C",
+        "texto": "Acometimento articular persistente nas mesmas articulações atingidas durante a fase aguda e subaguda, caracterizado por dor com ou sem edema."
+      },
+      {
+        "letra": "D",
+        "texto": "Aparecimento abrupto de febre alta ( > 38,5°C), dor articular (artralgia) intensa, exantema maculopapular de característica morbiliforme."
+      },
+      {
+        "letra": "E",
+        "texto": "Cefaleia, lombalgia, mialgia, náusea, vômitos, poliartrite e conjuntivite são manifestações frequentes que surgem em diferentes momentos da doença."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11307,
+    "tags": [],
+    "enunciado": "Mulher de 34 anos, sem antecedentes mórbidos conhecidos, apresenta há 12 dias quadro de artralgia em joelho direito, com piora progressiva, sendo que há 1 dia não mais consegue deambular, associado à febre não aferida e calafrios. Procurou serviço médico, onde encontrava se prostrada, com FC: 88 bpm, temperatura axilar: 39,2ºC, hiperemia em joelho direito, sem escoriações, com calor local e edema importante, doloroso à palpação e com bloqueio à mobilização. Exames laboratoriais: Hb: 12,1; leucócitos: 17 560; bastonetes: 12%; PCR: 32 mg/dL; VHS: 36 mm³/hora. A melhor conduta a ser tomada nessa situação é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Coleta de culturas, iniciar antibioticoterapia para cobrir gonococos, solicitar FAN e fator reumatoide. A punção articular está contraindicada pela hiperemia local."
+      },
+      {
+        "letra": "B",
+        "texto": "Coleta de culturas, punção local para análise de líquido sinovial, solicitar FAN, ácido úrico e fator reumatoide; iniciar oxacilina IV."
+      },
+      {
+        "letra": "C",
+        "texto": "Coleta de culturas, punção local para análise de líquido sinovial e iniciar oxacilina IV."
+      },
+      {
+        "letra": "D",
+        "texto": "Solicitar FAN, fator reumatoide e ácido úrico; iniciar oxacilina e gentamicina IV após coleta de culturas."
+      },
+      {
+        "letra": "E",
+        "texto": "Iniciar oxacilina e gentamicina IV após culturas. A punção articular está contraindicada pela hiperemia local."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11308,
+    "tags": [],
+    "enunciado": "Uma paciente com artrite reumatóide tomando antiin(cid:69)amatório não hormonal, prednisona 7,5mg/dia e methotrexato 20mg/semana, refere que nos últimos dias vem tendo febre, astenia e piora do quadro articular especialmente nos joelhos. Ao exame clínico apresenta-se com febre de 38,5°C, apática, com crises de calafrio, e discreta sinovite em punhos, tornozelos, com destaque para o joelho esquerdo que se encontrava com calor, aumento de volume com características de presença de líquido intra-articular e importante limite. Qual a melhor conduta para esclarecimento:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Presecrever outro antiinflamatório não hormonal."
+      },
+      {
+        "letra": "B",
+        "texto": "Aumentar a prednisona para 15mg/dia."
+      },
+      {
+        "letra": "C",
+        "texto": "Associar outra droga modificadora da doença."
+      },
+      {
+        "letra": "D",
+        "texto": "Realizar punção articular para análise do líquido sinovial do joelho esquerdo."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11309,
+    "tags": [],
+    "enunciado": "Homem, 38 anos, renal crônico em diálise, apresenta progressivo edema doloroso de joelho há 5 dias. Ao exame, percebem-se sinais (cid:69)ogísticos e derrame articular na região. A punção articular deu saída a grande quantidade de líquido francamente purulento, cuja bacterioscopia pelo Gram demonstrou a presença de inúmeros cocos Gram-positivos. O antibiótico melhor indicado é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ciprofloxacino."
+      },
+      {
+        "letra": "B",
+        "texto": "Ceftriaxona."
+      },
+      {
+        "letra": "C",
+        "texto": "Vancomicina."
+      },
+      {
+        "letra": "D",
+        "texto": "Ertapeném."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11310,
+    "tags": [],
+    "enunciado": "Paciente do sexo masculino, com 20 anos de idade, queixa-se de que, há 10 dias, apresenta di(cid:72)culdade para deambular devido à dor no joelho direito com aumento da temperatura e do volume articulares, conjuntivite e disúria. O diagnóstico provável é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Artrite reumatoide;"
+      },
+      {
+        "letra": "B",
+        "texto": "Artrite reativa;"
+      },
+      {
+        "letra": "C",
+        "texto": "Artrite séptica;"
+      },
+      {
+        "letra": "D",
+        "texto": "Lúpus eritematoso sistêmico;"
+      },
+      {
+        "letra": "E",
+        "texto": "Artrite psoriática."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11311,
+    "tags": [],
+    "enunciado": "Paciente do sexo masculino, 52 anos, previamente diabético e dislipidêmico, com história de dor, vermelhidão e calor de joelho direito há dois dias. Nega febre e nega episódios semelhantes anteriores. Ao exame físico apresenta frequência cardíaca de 104 bpm, pressão arterial de 120 x 80 mmHg, presença de edema, calor e hiperemia de joelho direito com sinal da tecla positivo. A adequada conduta em pronto- socorro foi coleta do líquido sinovial que se mostrou turvo e com viscosidade diminuída. Assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O diagnóstico é artrite séptica e deve-se iniciar antibioticoterapia depois do resultado da cultura."
+      },
+      {
+        "letra": "B",
+        "texto": "A contagem de células e a avaliação da citologia não diferenciam artrite gotosa de artrite séptica."
+      },
+      {
+        "letra": "C",
+        "texto": "O principal agente infeccioso em diabéticos nas artrites sépticas é anaeróbio."
+      },
+      {
+        "letra": "D",
+        "texto": "Ausência de febre descarta artrite infecciosa."
+      },
+      {
+        "letra": "E",
+        "texto": "Deve-se iniciar antibioticoterapia com penicilina cristalina imediatamente."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11312,
+    "tags": [],
+    "enunciado": "Antônio, 65 anos, com hipertensão, diabetes mellitus tipo 2 e doença articular degenerativa, tem dor aguda intensa das articulações metatarsofalangianas e edema do hálux esquerdo. O exame físico mostra artrite da primeira metatarsiana esquerda com dor, edema, calor e eritema. Não há história de traumatismo ou outros problemas clínicos. Assinale a alternativa CORRETA quanto ao diagnóstico do paciente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Artrite séptica por gonococos."
+      },
+      {
+        "letra": "B",
+        "texto": "Artrite reativa por Chlamydia."
+      },
+      {
+        "letra": "C",
+        "texto": "Artrite reativa por Borrelia."
+      },
+      {
+        "letra": "D",
+        "texto": "Artrite gotosa."
+      },
+      {
+        "letra": "E",
+        "texto": "Artrite por Mycoplasma."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11313,
+    "tags": [],
+    "enunciado": "Paciente masculino, 36 anos, com quadro de dor em joelho D com derrame articular volumoso, limitação funcional importante associada à eritema e aumento de temperatura local. Você fez o diagnóstico de monoartrite e decidiu realizar artrocentese para diagnóstico de artrite séptica. Qual a análise abaixo confirmaria o diagnóstico de artrite séptica?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Leucócitos entre 10,000 e 100,000 com predomínio de polimorfonucleares."
+      },
+      {
+        "letra": "B",
+        "texto": "Leucócitos > 100,000 com predomínio de polimorfonucleares."
+      },
+      {
+        "letra": "C",
+        "texto": "Leucócitos entre 10,000 e 100,000 com predomínio de polimorfonucleares e glicose normal."
+      },
+      {
+        "letra": "D",
+        "texto": "Líquido sinovial com aumento de viscosidade e cor amarelo citrino."
+      },
+      {
+        "letra": "E",
+        "texto": "Leucócitos 10.000 com 75% de polimorfonucleares."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11314,
+    "tags": [],
+    "enunciado": "Sobre as artrites sépticas assinale a alternativa errada:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É consenso manter antibioticoterapia sistêmica endovenosa, sendo as quinolonas associados com aminoglicosídios a terapêutica mais eficaz, com eficácia em ate 90% dos casos. Contra indicada a punção articular."
+      },
+      {
+        "letra": "B",
+        "texto": "As artrites sépticas podem ser classificadas em gonocócicas e não gonocócicas."
+      },
+      {
+        "letra": "C",
+        "texto": "Os principais fatores de risco para esta patologia são idade acima de 80 anos, diabetes melitus, artrite reumatoide, presença de prótese articulares em joelho e quadril, cirurgias prévias."
+      },
+      {
+        "letra": "D",
+        "texto": "Também são susceptíveis os pacientes com imunodeficiência adquirida, hemofílicos, transplantados, ou com hipogamaglobulinemia."
+      },
+      {
+        "letra": "E",
+        "texto": "A artrite gonocócica apresenta quadro migratório podendo depois se fixar em uma articulação, sua disseminação é hematogênica após transmissão sexual, e acompanha doença venérea que pode não ser clinicamente aparente."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11315,
+    "tags": [],
+    "enunciado": "Mulher, 50 anos, tem artrite reumatoide em tratamento com prednisona há 10 anos, apresenta edema, dor e rubor de joelho direito com piora progressiva há três dias. Ao exame físico, tem di(cid:72)culdade em (cid:69)exionar o joelho acometido. A punção do líquido sinovial revela 110.000 leuc/mm³, níveis elevados de proteínas e diminuídos de glicose. Qual a hipótese diagnóstica mais provável e conduta mais indicada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Atividade da artrite reumatoide e iniciar infliximabe."
+      },
+      {
+        "letra": "B",
+        "texto": "Atividade da artrite reumatoide e iniciar metotrexato."
+      },
+      {
+        "letra": "C",
+        "texto": "Artrite séptica, drenagem cirúrgica e antibioticoterapia."
+      },
+      {
+        "letra": "D",
+        "texto": "Pseudogota, iniciar colchicina e anti-inflamatório não hormonal."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11316,
+    "tags": [],
+    "enunciado": "Mulher, 51 anos de idade, tem artrite reumatoide há 18 anos, usando metotrexato e in(cid:69)iximabe nos últimos 5 anos e queixa-se de dor intensa, de instalação progressiva há 3 dias, em sua virilha direita. A dor acorda a paciente à noite e causa grande di(cid:72)culdade para andar. Exame clínico: paciente claudica, há deformidades das metacarpofalangianas e interfalangianas proximais, a movimentação da articulação coxofemoral direita está limitada e reproduz a dor à mobilização. Restante do exame normal. Exames recentes = Hb: 11,0 g/dl; leucócitos = 9.200/mm³ (sem desvio); plaquetas = 380.000/mm³; VHS = 20 mm/h; proteína C-reativa = 1,5 mg/dl. Líquido sinovial obtido por artrocentese da articulação coxofemoral direita: 1.100 leuc./mm³ (60% de mononucleares).",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "principal hipótese é:"
+      },
+      {
+        "letra": "A",
+        "texto": "Artrite gonocócica."
+      },
+      {
+        "letra": "B",
+        "texto": "Osteoartrose secundária."
+      },
+      {
+        "letra": "C",
+        "texto": "Artrite estafilocócica."
+      },
+      {
+        "letra": "D",
+        "texto": "Fratura de fêmur."
+      },
+      {
+        "letra": "E",
+        "texto": "Artrite reumatoide agudizada."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11317,
+    "tags": [],
+    "enunciado": "Mulher de 55 anos de idade procura o ambulatório com queixa de artrite em punho direito, febre e mal-estar há 2 dias. Nega outros antecedentes patológicos relevantes. Ao exame clínico apresenta artrite em punho direito, acompanhada de edema de partes moles e dor à palpação dos tendões (cid:69)exores no punho, além de algumas vesículas de conteúdo claro adjacentes à articulação comprometida. Não há outras alterações do exame clínico.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "associação mais provável de hipótese diagnóstica, conduta diagnóstica e terapêutica é:"
+      },
+      {
+        "letra": "A",
+        "texto": "Artrite gonocócica; punção articular; ceftriaxona."
+      },
+      {
+        "letra": "B",
+        "texto": "Osteoartrose; radiografia da articulação; anti-inflamatório não hormonal."
+      },
+      {
+        "letra": "C",
+        "texto": "Gota; punção articular; anti-inflamatório não hormonal."
+      },
+      {
+        "letra": "D",
+        "texto": "Artrite paraneoplásica; punção articular; analgésico."
+      },
+      {
+        "letra": "E",
+        "texto": "Artrite reumatoide monoarticular; fator reumatoide; anti-inflamatório."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11318,
+    "tags": [],
+    "enunciado": "Dentre os agentes etiológicos abaixo, qual é o responsável mais comum pela artrite séptica em crianças, não se considerando grupos específicos como adolescentes com vida sexual ativa?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Estreptococos do grupo A."
+      },
+      {
+        "letra": "B",
+        "texto": "Estreptococos do grupo B."
+      },
+      {
+        "letra": "C",
+        "texto": "Estafilococos aureus."
+      },
+      {
+        "letra": "D",
+        "texto": "Neisseria gonorrhoeae."
+      },
+      {
+        "letra": "E",
+        "texto": "Estreptococos epidermitis."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11319,
+    "tags": [],
+    "enunciado": "Paciente jovem, masculino, jogador de futebol amador, sem histórico de internação anterior, deu entrada no pronto-socorro com queixa de febre e dor no joelho esquerdo. Ao exame físico apresentou aumento de volume do joelho esquerdo com sinais (cid:69)ogísticos. Ao hemograma apresentou leucocitose com desvio à esquerda. Foi diagnosticada artrite séptica. Qual o agente etiológico mais provável?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Staphylococcus aureus."
+      },
+      {
+        "letra": "B",
+        "texto": "Pseudomonas aeruginosa."
+      },
+      {
+        "letra": "C",
+        "texto": "Proteus mirabilis."
+      },
+      {
+        "letra": "D",
+        "texto": "Salmonella sp."
+      },
+      {
+        "letra": "E",
+        "texto": "Haemophilus influenzae."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11320,
+    "tags": [],
+    "enunciado": "Com relação à artrite séptica, não é possível afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A incidência é muito maior em pacientes com artrite reumatoide."
+      },
+      {
+        "letra": "B",
+        "texto": "Os principais fatores predisponentes são dano articular prévio e presença de prótese articular."
+      },
+      {
+        "letra": "C",
+        "texto": "Em adultos, o quadril é a articulação mais envolvida."
+      },
+      {
+        "letra": "D",
+        "texto": "Na análise do líquido sinovial, inicialmente a bacterioscopia é a avaliação de maior importância para identificar algum microrganismo."
+      },
+      {
+        "letra": "E",
+        "texto": "Cerca de 50% das artrites não gonocócicas têm hemoculturas positivas."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11321,
+    "tags": [],
+    "enunciado": "Ao lado da preocupada avó, um rapaz de 17 anos chegou à emergência com história de artralgia migratória que durou 3 dias e acabou restrita ao joelho direito. Na ectoscopia, além de moderado inchaço articular, notavam-se pequenas pústulas necróticas em solas e palmas que, entretanto, não doíam. Em face de evidências indicativas de artrite gonocócica, o residente tentou tranquilizá-los, pois sabia que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A doença articular torna o indivíduo imune às reinfecções pelo micro-organismo"
+      },
+      {
+        "letra": "B",
+        "texto": "O período de imobilização gessada da junta é de, no máximo, 2 semanas"
+      },
+      {
+        "letra": "C",
+        "texto": "A infiltração do joelho com hidrocortisona previne sequelas motoras"
+      },
+      {
+        "letra": "D",
+        "texto": "A ceftriaxona parenteral tem bons resultados nessa artropatia"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11322,
+    "tags": [],
+    "enunciado": "Homem com 49 anos de idade apresenta, há um ano e meio, quadro recorrente de monoartrite aguda, durando cada episódio cerca de três a cinco dias. Inicialmente foi acometido o joelho esquerdo, posteriormente o direito, em seguida o tornozelo direito e, há três semanas, houve recorrência do quadro no joelho esquerdo. Refere alívio dos sintomas com o uso de diclofenaco, que toma por conta própria. Notou que o intervalo entre os episódios, que inicialmente era de até seis meses, é agora mais reduzido, sendo o intervalo entre os dois últimos episódios, de apenas um mês. Apresenta-se na consulta após dois dias do início da última crise. O joelho esquerdo tem sinais (cid:69)ogísticos (calor, rubor, aumento de volume), limitação para (cid:69)exão, o que causa di(cid:72)culdade na deambulação. Relatou um episódio febril ontem (37,6°C). O paciente é hipertenso e diabético há dez anos, em uso de hidroclorotiazida 25 mg/dia e glibenclamida 10 mg/dia. Refere tabagismo (5 cigarros/dia) e etilismo (cerveja, especialmente nos (cid:72)nais de semana). O diagnóstico do paciente e a conduta inicial a ser adotada são, respectivamente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "gota não tofácea; realizar artrocentese e iniciar o uso de alopurinol imediatamente."
+      },
+      {
+        "letra": "B",
+        "texto": "artrite séptica; realizar artrocentese e aguardar a análise laboratorial do líquido sinovial."
+      },
+      {
+        "letra": "C",
+        "texto": "gota não tofácea; não realizar artrocentese e manter o uso de anti-inflamatório não hormonal."
+      },
+      {
+        "letra": "D",
+        "texto": "osteoartrite; solicitar radiografia dos joelhos e iniciar o uso de anti-inflamatório não hormonal."
+      },
+      {
+        "letra": "E",
+        "texto": "artrite séptica; não há necessidade de exames complementares e deve-se iniciar antibioticoterapia imediatamente."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11323,
+    "tags": [],
+    "enunciado": "Análise de líquido sinovial obtido por aspiração demonstra 1200 céls/mm³ e não identi(cid:72)ca microorganismo coradas pelo Gram. Diante deste achado, a hipótese mais adequada, dentre as referidas, é de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Espondilite anquilosante."
+      },
+      {
+        "letra": "B",
+        "texto": "Pseudogota."
+      },
+      {
+        "letra": "C",
+        "texto": "Artrite séptica."
+      },
+      {
+        "letra": "D",
+        "texto": "Osteoartrite."
+      },
+      {
+        "letra": "E",
+        "texto": "Artrite psoriásica."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11324,
+    "tags": [],
+    "enunciado": "Quanto à infecção gonocócica é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "é transmitida pela via sexual e seu período de incubação varia entre 15 e 30 dias."
+      },
+      {
+        "letra": "B",
+        "texto": "em pacientes do sexo feminino, cervicite e inflamação das glândulas de Bartholin são raras."
+      },
+      {
+        "letra": "C",
+        "texto": "artrite e tenosinovite são complicações comuns nas formas disseminadas da doença, geralmente com comprometimento poliarticular."
+      },
+      {
+        "letra": "D",
+        "texto": "frequentemente é observada coinfecção por Chlamydia trachomatis, sendo recomendada associação de doxiciclina ou azitromicina ao tratamento antimicrobiano."
+      },
+      {
+        "letra": "E",
+        "texto": "artrite reumatoide não faz parte do diagnóstico diferencial de artrite gonocócica."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11325,
+    "tags": [],
+    "enunciado": "Em adultos jovens, a artrite infecciosa é causada principalmente por:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Staphylococcus aureus e Neisseria gonorrhoeae."
+      },
+      {
+        "letra": "B",
+        "texto": "Estreptococos beta-hemolítico e Haemophilus influenzae."
+      },
+      {
+        "letra": "C",
+        "texto": "Treponema pallidum e Candida albicans."
+      },
+      {
+        "letra": "D",
+        "texto": "Pseudomonas aeruginosa e Streptococcus pneumoniae."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11326,
+    "tags": [],
+    "enunciado": "Paciente do sexo masculino, 20 anos, queixa-se de que há 10 dias vem apresentando di(cid:72)culdades para deambular devido a dor no joelho direito com aumento da temperatura e do volume, conjuntivite e disúria. Qual é o provável diagnóstico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Artrite Reumatoide;"
+      },
+      {
+        "letra": "B",
+        "texto": "Artrite Reativa;"
+      },
+      {
+        "letra": "C",
+        "texto": "Artrite Séptica;"
+      },
+      {
+        "letra": "D",
+        "texto": "Lúpus Eritematoso Sistêmico;"
+      },
+      {
+        "letra": "E",
+        "texto": "Artrite Psoriática."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11327,
+    "tags": [],
+    "enunciado": "Paciente de 32 anos de idade, masculino, apresenta artrite na primeira articulação metatarsofalangiana do pé direito, com dor intensa e contínua, sem febre, de inicio súbito há 2 dias. O diagnóstico mais provável para o relato é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Gota aguda."
+      },
+      {
+        "letra": "B",
+        "texto": "Artrite séptica."
+      },
+      {
+        "letra": "C",
+        "texto": "Embolia arterial."
+      },
+      {
+        "letra": "D",
+        "texto": "Artrite reumatoide."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11328,
+    "tags": [],
+    "enunciado": "Um homem de 65 anos apresenta artrite aguda do joelho esquerdo. A artrocentese evidenciou líquido sinovial amarelo turvo, com 35000 céls/mm³, sendo 70% de polimorfonucleares. A microscopia de luz polarizada mostrou cristais com forma de bastões romboides e com birrefringência fracamente positiva. O diagnóstico mais provável é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "osteoartrite."
+      },
+      {
+        "letra": "B",
+        "texto": "artrite gotosa."
+      },
+      {
+        "letra": "C",
+        "texto": "pseudogota."
+      },
+      {
+        "letra": "D",
+        "texto": "artrite reativa."
+      },
+      {
+        "letra": "E",
+        "texto": "artrite infecciosa."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11329,
+    "tags": [],
+    "enunciado": "Na (cid:72)siopatologia da artrite séptica, quais articulações apresentam metá(cid:72)se intracapsular que permite a penetração da bactéria na articulação?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "quadril, tornozelo e cotovelo."
+      },
+      {
+        "letra": "B",
+        "texto": "ombro, tornozelo e dedos."
+      },
+      {
+        "letra": "C",
+        "texto": "joelho, quadril e cotovelo."
+      },
+      {
+        "letra": "D",
+        "texto": "punho, cotovelo e tornozelo."
+      },
+      {
+        "letra": "E",
+        "texto": "quadril, joelho e tornozelo."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11330,
+    "tags": [],
+    "enunciado": "Elisa vem à consulta médica e diz ser portadora de doença de Poncet. Então, você sabe que ela tem:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Poliartrite reativa em portador de tuberculose visceral ou disseminada."
+      },
+      {
+        "letra": "B",
+        "texto": "Poliartrite por microbactéria."
+      },
+      {
+        "letra": "C",
+        "texto": "Artrite tuberculosa."
+      },
+      {
+        "letra": "D",
+        "texto": "Artrite traumática."
+      },
+      {
+        "letra": "E",
+        "texto": "Osteomielite tuberculosa."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11331,
+    "tags": [],
+    "enunciado": "Uma adolescente, com 17 anos de idade, apresenta febre alta e dor, com sinais (cid:69)ogísticos intensos, em joelho esquerdo, há 1 dia. Nega trauma. Nega doenças ou infecções pregressas ou outros sintomas atuais. A suspeita é de artrite séptica. Considerando que tem vida sexual ativa, os agentes etiológicos a serem considerados são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Neisseria gonorrhoeae e Adenovírus."
+      },
+      {
+        "letra": "B",
+        "texto": "Staphylococcus aureus e Candida albicans."
+      },
+      {
+        "letra": "C",
+        "texto": "Streptococcus viridans e Neisseria gonorrhoeae."
+      },
+      {
+        "letra": "D",
+        "texto": "Staphylococcus aureus e Neisseria gonorrhoeae."
+      },
+      {
+        "letra": "E",
+        "texto": "Staphylococcus aureus e Adenovírus."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11332,
+    "tags": [],
+    "enunciado": "A velocidade de hemossedimentação poderá estar paradoxalmente acelerada na seguinte situação clínica:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Polimialgia reumática."
+      },
+      {
+        "letra": "B",
+        "texto": "Tuberculose vertebral."
+      },
+      {
+        "letra": "C",
+        "texto": "Mieloma múltiplo."
+      },
+      {
+        "letra": "D",
+        "texto": "Gravidez."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11333,
+    "tags": [],
+    "enunciado": "Homem de 61 anos procurou a emergência por apresentar, desde a noite anterior, dor intensa e edema no joelho direito, associados à febre de 38ºC. Referiu episódios semelhantes na primeira articulação metatarsofalangiana do pé direito, que melhoravam após 2 dias de uso de diclofenaco por via oral. Ao exame, o joelho mostrava discreto eritema da pele e aumento da temperatura local, com derrame articular volumoso. Os exames laboratoriais revelaram ácido úrico de 8,9 mg/dl e hemograma com leucocitose e desvio à esquerda discretos. Qual a conduta mais adequada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Administrar anti-inflamatório não esteroide por via oral em doses altas e liberar o paciente."
+      },
+      {
+        "letra": "B",
+        "texto": "Administrar colchicina (1 comprimido de 0,5 mg de hora em hora) até a melhora clínica."
+      },
+      {
+        "letra": "C",
+        "texto": "Aspirar o líquido sinovial e enviá-lo para cultura e pesquisa de cristais, iniciando antibioticoterapia empírica associada a anti-inflamatório não esteroide por via oral."
+      },
+      {
+        "letra": "D",
+        "texto": "Aspirar o líquido sinovial e enviá-lo para cultura e pesquisa de cristais, iniciando antibioticoterapia empírica associada a anti-inflamatório não esteroide e alopurinol (300 mg/dia), ambos por via oral."
+      },
+      {
+        "letra": "E",
+        "texto": "Administrar anti-inflamatório não esteroide, colchicina profilática e alopurinol (300 mg/dia), todos por via oral."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11334,
+    "tags": [],
+    "enunciado": "Homem, 27 anos, refere lombossacralgia in(cid:69)amatória e prostatite recorrente há 3 anos. Nos últimos 4 meses, apresentou episódios de uveíte anterior e artrite de joelhos. RX revela sacroiliíte assimétrica. VSG 86 mm na 1ª hora. HLA-B27 positivo. A respeito deste caso, pode-se assumir que o diagnóstico e a etiologia/“gatilho” mais prováveis são, respectivamente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "artrite infecciosa; Staphylococcus aureus."
+      },
+      {
+        "letra": "B",
+        "texto": "artrite infecciosa; Mycobacterium tuberculosis."
+      },
+      {
+        "letra": "C",
+        "texto": "espondilite anquilosante clássica; Ureaplasma urealyticum."
+      },
+      {
+        "letra": "D",
+        "texto": "espondiloartrite reativa; Chlamydia trachomatis."
+      },
+      {
+        "letra": "E",
+        "texto": "artrite reativa; Shigella flexneri."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11335,
+    "tags": [],
+    "enunciado": "Qual o agente mais encontrado na artrite séptica?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "micobactérias"
+      },
+      {
+        "letra": "B",
+        "texto": "estafilococo aureus"
+      },
+      {
+        "letra": "C",
+        "texto": "estreptococo"
+      },
+      {
+        "letra": "D",
+        "texto": "salmonela"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11336,
+    "tags": [],
+    "enunciado": "ABF, sexo masculino, 42 anos, comparece ao pronto-socorro com quadro de dor intensa em tornozelo direito, sente dor até ao passar o lençol com 8 horas de evolução. Informa já ter apresentado dor e edema em hálux esquerdo 2 meses antes, com melhora após uma semana, tendo usado, à época, AINEs por conta própria. Nega febre, hiporexia. História de etilismo, três a quatro garrafas de cerveja, 3 e 4 vezes por semana. Não faz acompanhamento médico regular. Ao exame: FC: 84 bpm; PA: 150 x 90 mmHg; Tax: 37,8°C; FR: 16 irpmin. Presença de edema, calor rubor em tornozelo direito. Sem outras alterações ao exame físico. Exames laboratoriais: Hb: 14,6 g%; Ht: 43%; VCM: 92; GL: 14,230 (S: 72% L: 21% Mon: 6% Eo: 1%); Plaq: 323.000; Ureia: 33 mg/dL; Creatinina: 1,1 mg/dL; Ácido úrico: 6,2 (VR: 7,0 a 9,6); PCR: 86 mg/dL; RX tornozelo D: Aumento de partes moles, sem outras alterações. Com relação ao caso anterior, é CORRETO afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Alopurinol é medicação importante para controle em longo prazo da doença do paciente e deve ser iniciado imediatamente para o mesmo."
+      },
+      {
+        "letra": "B",
+        "texto": "Colchicina 0,5 mg de 1/1 ou 2/2 horas é opção bastante eficaz e com poucos efeitos adversos para o manejo do quadro do paciente."
+      },
+      {
+        "letra": "C",
+        "texto": "Em caso de o exame do líquido sinovial revelar a presença de Cocos gram-positivos em cachos, o uso de Ciprofloxacina 750 mg VO de 12 em 12 horas por 4 semanas seria uma alternativa, apesar de não ser a mais indicada, para o tratamento desse paciente."
+      },
+      {
+        "letra": "D",
+        "texto": "Esse paciente apresenta contraindicação absoluta ao uso de AINEs, visto que é etilista e se encontra com níveis pressóricos elevados."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11337,
+    "tags": [],
+    "enunciado": "Uma mulher de 51 anos é atendida com queixas de urticária, erupção cutânea e úlceras nos membros inferiores. O exame físico revela púrpura palpável, úlceras e lesões urticariformes nos braços e pernas, adenopatia cervical e axilar e hepatoesplenomegalia. Exames laboratoriais: VHS = 65 mm; fator reumatoide = 489; C3 = 24; IGO = 876; fosfatase alcalina = 234; EAS = 20 a 30 hemácias; proteinúria negativa; sem cilindros. Crioglobulinas positivas no sangue. Biópsia da pele revela vasculite leucocitoclástica. Qual a provável etiologia desta síndrome vasculítica?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Infecção por parvovírus."
+      },
+      {
+        "letra": "B",
+        "texto": "Reação a drogas."
+      },
+      {
+        "letra": "C",
+        "texto": "Infecção por vírus da hepatite C."
+      },
+      {
+        "letra": "D",
+        "texto": "Septicemia por estafilococos."
+      },
+      {
+        "letra": "E",
+        "texto": "Lúpus eritematoso."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11338,
+    "tags": [],
+    "enunciado": "Na (cid:72)siopatologia da artrite séptica, quais articulações apresentam metá(cid:72)se intracapsular que permite a penetração da bactéria na articulação?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Quadril, tornozelo e cotovelo."
+      },
+      {
+        "letra": "B",
+        "texto": "Ombro, tornozelo e dedos."
+      },
+      {
+        "letra": "C",
+        "texto": "Joelho, quadril e cotovelo."
+      },
+      {
+        "letra": "D",
+        "texto": "Punho, cotovelo e tornozelo."
+      },
+      {
+        "letra": "E",
+        "texto": "Quadril, joelho e tornozelo."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11339,
+    "tags": [],
+    "enunciado": "Mulher, portadora de artrite reumatoide, látex positivo, apresenta febre, esplenomegalia, neutropenia, trombocitopenia e linfonodomegalia e ferritina de 110 UG/L. O diagnóstico neste momento da paciente é de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Endocardite bacteriana."
+      },
+      {
+        "letra": "B",
+        "texto": "Síndrome antifosfolipídica."
+      },
+      {
+        "letra": "C",
+        "texto": "Síndrome de Felty."
+      },
+      {
+        "letra": "D",
+        "texto": "Artrite séptica instalada em grande articulação previamente doente."
+      },
+      {
+        "letra": "E",
+        "texto": "Doença de Still."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11340,
+    "tags": [],
+    "enunciado": "Doenças sistêmicas com manifestações reumatológicas Associe os achados característicos à doença mais provável. 1- Fenômeno de Raynaud transitório; 2- Início agudo de ptose de supercílio direito e desvio de comissura labial à direita; 3- Vesicopústulas hemorrágicas; 4- Atrofia óptica isquêmica; 5- Oligoartrite inflamatória em homem de 21 anos; 6- Deformidade pela subluxação da primeira metacarpofalangeana em mulher de 66 anos; 7- Baqueteamento digital, periostite e edema doloroso em ossos e articulações. a) Acromegalia; b) Arterite temporal; c) Síndrome de Reiter; d) Artrite relacionada à doença de Lyme; e) Carcinoma broncogênico; f) Artrite gonocócica disseminada.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1d, 2e, 3f, 4a, 5d, 6b."
+      },
+      {
+        "letra": "B",
+        "texto": "1b, 2e, 3c, 4b, 5a, 7d."
+      },
+      {
+        "letra": "C",
+        "texto": "1b, 2f, 3a, 4d, 5c, 7b."
+      },
+      {
+        "letra": "D",
+        "texto": "1a, 2d, 3f, 4b, 5c, 7e."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11341,
+    "tags": [],
+    "enunciado": "O sistema esquelético alberga até 35% dos casos de tuberculose extrapulmonar. Qual o sítio esquelético onde mais frequentemente ocorre tuberculose?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Joelho."
+      },
+      {
+        "letra": "B",
+        "texto": "Coluna vertebral."
+      },
+      {
+        "letra": "C",
+        "texto": "Osso ilíaco."
+      },
+      {
+        "letra": "D",
+        "texto": "Omoplata."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11342,
+    "tags": [],
+    "enunciado": "Paciente masculino de meia-idade procura o pronto-socorro devido a dor intensa, com aumento de volume e calor em tornozelo direito. Nega crises álgicas anteriores em outras articulações ou trauma articular. Na análise do líquido sinovial foi observado > 2.000 céls/mm³ e sem eritrócitos. Quais as duas principais hipóteses diagnósticas que devem ser descartadas neste caso?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Artrite induzida por cristais e Sinovite vilonodular"
+      },
+      {
+        "letra": "B",
+        "texto": "Sinovite vilonodular e Artrite séptica"
+      },
+      {
+        "letra": "C",
+        "texto": "Osteoartrite e Artrite reumatoide"
+      },
+      {
+        "letra": "D",
+        "texto": "Artrite séptica e Artrite induzida por cristais"
+      },
+      {
+        "letra": "E",
+        "texto": "Osteoartrite e Artrite reumatoide"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11343,
+    "tags": [],
+    "enunciado": "Paciente de 56 anos é atendido por dor em joelho direito. Refere que o quadro surgiu há dois dias, porém a dor vem piorando progressivamente e constatou febre (38ºC) na noite anterior. Relata ser portador de gota, porém faz uso diário de alopurinol 300 mg há 3 anos, com última crise há mais de um ano. O exame físico é inalterado, exceto por artrite de joelho direito. A análise do líquido sinovial foi a seguinte: 130.000 células com predominância de polimorfonucleares, presença de cristais em agulha sem birrefrigência à luz polarizada e presença de cocos Gram-positivos em pesquisa direta. Qual a principal conduta a ser tomada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Iniciar antibiótico endovenoso."
+      },
+      {
+        "letra": "B",
+        "texto": "Iniciar anti-inflamatório não esteroidal."
+      },
+      {
+        "letra": "C",
+        "texto": "Iniciar corticoide oral."
+      },
+      {
+        "letra": "D",
+        "texto": "Iniciar colchicina."
+      },
+      {
+        "letra": "E",
+        "texto": "Solicitar avaliação ortopédica."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11344,
+    "tags": [],
+    "enunciado": "Numa paciente jovem com poliartrite de pequenas articulações das mãos há uma semana, sem outras queixas, podemos afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A principal hipótese diagnóstica é de lúpus eritematoso sistêmico."
+      },
+      {
+        "letra": "B",
+        "texto": "Este quadro pode ocorrer em paciente com hepatite por vírus B."
+      },
+      {
+        "letra": "C",
+        "texto": "O melhor tratamento seria o uso de antimaláricos."
+      },
+      {
+        "letra": "D",
+        "texto": "O uso de prednisona em baixa dose é a primeira opção terapêutica."
+      },
+      {
+        "letra": "E",
+        "texto": "A dosagem de Hormônio do Crescimento está indicada."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11345,
+    "tags": [],
+    "enunciado": "Homem, 19a, foi atendido em unidade básica de saúde com febre, calafrios e monoartrite no joelho esquerdo há 3 dias. Refere ter sido tratado de infecção urinária na farmácia 1 semana antes dos sintomas atuais, quando apresentava, também, dor em região perineal e saída de secreção mucossanguinolenta via retal. Houve melhora parcial após o tratamento. ASSINALE A ALTERNATIVA CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A hipótese de uretrite fica descartada porque o paciente não referiu presença de descarga uretral."
+      },
+      {
+        "letra": "B",
+        "texto": "O acometimento articular sugere como provável agente etiológico Chlamydia trachomatis, por se tratar de síndrome de Reiter."
+      },
+      {
+        "letra": "C",
+        "texto": "A dor na região perineal pode sugerir um quadro de prostatite ou de proctite pós-traumática."
+      },
+      {
+        "letra": "D",
+        "texto": "A identificação de diplococos Gram-negativos na bacterioscopia do líquido sinovial de joelho é um resultado esperado."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11346,
+    "tags": [],
+    "enunciado": "Mulher, 53 anos, apresenta monoartrite aguda de joelho direito. O líquido sinovial é in(cid:69)amatório. A uricemia é normal. O Rx revela calcificações meniscais. O diagnóstico mais provável é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "gota."
+      },
+      {
+        "letra": "B",
+        "texto": "pseudogota."
+      },
+      {
+        "letra": "C",
+        "texto": "artrite séptica."
+      },
+      {
+        "letra": "D",
+        "texto": "artrite reumatoide monoarticular."
+      },
+      {
+        "letra": "E",
+        "texto": "síndrome de Reiter."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11347,
+    "tags": [],
+    "enunciado": "Um homem, 23 anos, com edema de tornozelo esquerdo, de início agudo, sem histórico de trauma, apresentou, 2 semanas antes, quadro de diarreia, com melhora após tratamento de 10 dias com antibiótico. Hemoglobina 14.1, leucócitos 6.200, VHS 62 mm, ácido úrico 7.8 mg/dl. Qual é o melhor diagnóstico para esse caso?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Artrite reumatoide."
+      },
+      {
+        "letra": "B",
+        "texto": "Gota."
+      },
+      {
+        "letra": "C",
+        "texto": "Artrite séptica."
+      },
+      {
+        "letra": "D",
+        "texto": "Artrite reativa."
+      },
+      {
+        "letra": "E",
+        "texto": "Pseudogota."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11348,
+    "tags": [],
+    "enunciado": "Uma jovem de 16 anos abre um quadro febril evoluindo com cefaleia, artralgia e artrite do tipo poliartrite migratória, seguido de taquicardia e presença de “soprologia” no exame do aparelho cardiovascular. O diagnóstico diferencial deve incluir obrigatoriamente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Artrite reumatoide."
+      },
+      {
+        "letra": "B",
+        "texto": "Artrite séptica."
+      },
+      {
+        "letra": "C",
+        "texto": "Febre reumática."
+      },
+      {
+        "letra": "D",
+        "texto": "Arterite temporal."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11349,
+    "tags": [],
+    "enunciado": "São artropatias geralmente monoarticulares:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Artrite reumatoide, artrite gotosa crônica, artrite gonocócica."
+      },
+      {
+        "letra": "B",
+        "texto": "Artrite gotosa crônica, artrite gotosa aguda e artrite gonocócica."
+      },
+      {
+        "letra": "C",
+        "texto": "Artrite gotosa aguda, artrite gonocócica e artrite tuberculosa."
+      },
+      {
+        "letra": "D",
+        "texto": "Artrite psoriásica, artrite tuberculosa e osteoartrose."
+      },
+      {
+        "letra": "E",
+        "texto": "Artrite reumatoide, osteoartrose e artrite psoriásica."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11350,
+    "tags": [],
+    "enunciado": "Há três dias, um homem de 30 anos apresenta-se com artrite na primeira articulação metatarsofalangeana do pé direito, com dor intensa e contínua, sem febre, de início súbito. O diagnóstico clínico mais provável dentre os que se seguem é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Artrite reumatoide."
+      },
+      {
+        "letra": "B",
+        "texto": "Artrite séptica."
+      },
+      {
+        "letra": "C",
+        "texto": "Embolia arterial."
+      },
+      {
+        "letra": "D",
+        "texto": "Gota aguda."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11351,
+    "tags": [],
+    "enunciado": "Mulher de 29 anos apresenta quadro de poliartralgia migratória e febre que evoluiu para tenosinovite de cotovelo direito caracterizada por dor, edema e eritema periarticular. Houve também, aparecimento de pápulas eritematosas e algumas vesículas em região palmar. O tratamento empírico mais indicado é a introdução de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aciclovir."
+      },
+      {
+        "letra": "B",
+        "texto": "Prednisona."
+      },
+      {
+        "letra": "C",
+        "texto": "Indometacina."
+      },
+      {
+        "letra": "D",
+        "texto": "Ceftriaxone."
+      },
+      {
+        "letra": "E",
+        "texto": "Vancomicina."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11352,
+    "tags": [],
+    "enunciado": "Sobre quadro clinico laboratorial da artrite séptica, assinale alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Geralmente tem início agudo e acometimento monoarticular."
+      },
+      {
+        "letra": "B",
+        "texto": "Staphilococcus aureus é o principal agente etiológico."
+      },
+      {
+        "letra": "C",
+        "texto": "Joelhos, quadris, punhos e ombros são as articulações mais frequentemente envolvidas."
+      },
+      {
+        "letra": "D",
+        "texto": "Cefepime e metronidazol estão entre os antibióticos de primeira escolha para o tratamento."
+      },
+      {
+        "letra": "E",
+        "texto": "Líquido sinovial com celularidade acima de 50.000 leucócitos com predomínio de polimorfonucleares são achados frequentes."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11353,
+    "tags": [],
+    "enunciado": "Mulher, 32 anos, comparece com dor nas mãos e pés há seis dias, que limita suas atividades, e lesões de pele. O exame físico mostra edema, dor e eritema no dorso das mãos e pés com pequenas pústulas necróticas nas palmas das mãos. Sua última menstruação terminou há três dias. Qual o melhor diagnóstico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Artrite psoriática."
+      },
+      {
+        "letra": "B",
+        "texto": "Artrite gonocócica."
+      },
+      {
+        "letra": "C",
+        "texto": "Gota."
+      },
+      {
+        "letra": "D",
+        "texto": "Artrite relacionada ao HIV."
+      },
+      {
+        "letra": "E",
+        "texto": "Doença de Still."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11354,
+    "tags": [],
+    "enunciado": "Mulher de 32 anos apresenta-se na consulta com queixas de dores em \"todo corpo\", incluindo articulações. Não se queixa de rigidez, vermelhidão ou inchume articular. Refere-se à insônia devido à dor e frequentemente apresenta cefaleia. Ao exame, não apresenta sinais in(cid:69)amatórios articulares e à palpação da inserção da musculatura suboccipital, dos epicôndilos laterais e no quadrante superior e lateral das nádegas sente dor. A velocidade de hemossedimentação é de 14 mm, a pesquisa de anticorpos antinucleares é positiva num título de 1:40, padrão pontilhado, e o fator reumatoide é negativo. Qual é o provável diagnóstico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Espondilite anquilosante."
+      },
+      {
+        "letra": "B",
+        "texto": "Infecção gonocócica disseminada."
+      },
+      {
+        "letra": "C",
+        "texto": "Fibromialgia."
+      },
+      {
+        "letra": "D",
+        "texto": "Artrite reumatoide."
+      },
+      {
+        "letra": "E",
+        "texto": "Lúpus eritematoso sistêmico."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11355,
+    "tags": [],
+    "enunciado": "São considerados como principais fatores de risco para artrite séptica, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "alcoolismo."
+      },
+      {
+        "letra": "B",
+        "texto": "artrite reumatoide."
+      },
+      {
+        "letra": "C",
+        "texto": "prótese articular."
+      },
+      {
+        "letra": "D",
+        "texto": "diabetes mellitus."
+      },
+      {
+        "letra": "E",
+        "texto": "infecção pelo HIV."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11356,
+    "tags": [],
+    "enunciado": "Sobre a definição do diagnóstico de artrite séptica, assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A presença de bactéria no fluido sinovial é o achado mais importante para se firmar o diagnóstico."
+      },
+      {
+        "letra": "B",
+        "texto": "A demora do diagnóstico em crianças pode levar à erosão da epífise."
+      },
+      {
+        "letra": "C",
+        "texto": "A hemocultura deve ser solicitada antes do início da antibioticoterapia."
+      },
+      {
+        "letra": "D",
+        "texto": "As radiografias do local podem revelar aumento da opacidade do edema articular, sendo muito úteis para se firmar o diagnóstico."
+      },
+      {
+        "letra": "E",
+        "texto": "Nos pacientes com anemia falciforme, pode ser causada por enterobactérias."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11357,
+    "tags": [],
+    "enunciado": "Em relação à artrite gonocócica assinale as a(cid:72)rmações verdadeiras: I. A cultura do líquido sinovial é frequentemente negativa. II. O alívio dos sintomas requer, no mínimo, sete dias de tratamento. III. Existe maior risco durante a menstruação e gravidez. IV. Frequentemente é necessária a realização de lavagem artroscópica.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "III e IV"
+      },
+      {
+        "letra": "B",
+        "texto": "I e II"
+      },
+      {
+        "letra": "C",
+        "texto": "II e III"
+      },
+      {
+        "letra": "D",
+        "texto": "I, II e III"
+      },
+      {
+        "letra": "E",
+        "texto": "I e III"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 11358,
+    "tags": [],
+    "enunciado": "Homem, 38 anos, queixa-se de poliartralgia generalizada em grandes e pequenas articulações há 6 meses. Exame físico: sem sinais in(cid:69)amatórios locais nem deformidades ou evidências de acometimento articular. A PRINCIPAL HIPÓTESE DIAGNÓSTICA É:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sarcoidose."
+      },
+      {
+        "letra": "B",
+        "texto": "Artrite reumatoide."
+      },
+      {
+        "letra": "C",
+        "texto": "Artrite reacional por Chlamydia tracomatis."
+      },
+      {
+        "letra": "D",
+        "texto": "Doença de Lyme."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11359,
+    "tags": [],
+    "enunciado": "Homem, 28 anos, história de febre vespertina, esplenomegalia, derrame pleural no lado esquerdo, artrite de cotovelo esquerdo e punho direito, com início há 45 dias. Exames apontam leucocitose de 25.000; V.H.S. = 75 mm. Látex e FAN (fator antinuclear) negativos. O paciente fez tratamento com ceftriaxona e cipro(cid:69)oxacina, sem melhora do seu quadro febril. Não apresentou história prévia de diarreia ou infecção urogenital. O melhor diagnóstico desse paciente é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Artrite gonocócica."
+      },
+      {
+        "letra": "B",
+        "texto": "Artrite reativa."
+      },
+      {
+        "letra": "C",
+        "texto": "Doença de Still do adulto."
+      },
+      {
+        "letra": "D",
+        "texto": "Lúpus eritematoso sistêmico."
+      },
+      {
+        "letra": "E",
+        "texto": "Artrite reumatoide."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 11360,
+    "tags": [],
+    "enunciado": "Em relação às artrites bacterianas, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "São comumente poliarticulares."
+      },
+      {
+        "letra": "B",
+        "texto": "Sacroileíte é a manifestação predominante da brucelose em crianças."
+      },
+      {
+        "letra": "C",
+        "texto": "Haemophilus influenzae é o agente etiológico mais comum em neonatos."
+      },
+      {
+        "letra": "D",
+        "texto": "Pacientes com hipogamaglobulinemia são mais susceptíveis a infecções por neisseria."
+      },
+      {
+        "letra": "E",
+        "texto": "Diabetes, hemofilia e doença hepática avançada constituem fatores de risco."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 11361,
+    "tags": [],
+    "enunciado": "Estivador de 32 anos com um quadro de artrite em joelho esquerdo há 2 dias e refere que há 10 dias apresentou uma poliartralgia migratória assimétrica, mialgia, exantema e febre que melhoraram nos três últimos dias. Qual o diagnóstico mais provável deste paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Artrite reumatoide."
+      },
+      {
+        "letra": "B",
+        "texto": "Artrite gonocócica."
+      },
+      {
+        "letra": "C",
+        "texto": "Espondilite anquilosante."
+      },
+      {
+        "letra": "D",
+        "texto": "Artrite gotosa."
+      },
+      {
+        "letra": "E",
+        "texto": "Lúpus eritematoso sistêmico."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11362,
+    "tags": [],
+    "enunciado": "Homem de 38 anos de idade, há duas semanas com febre, astenia, dor, edema e limitação em joelho direito que evoluiu de forma aditiva para o tornozelo esquerdo há uma semana. Referia HAS e dislipidemia em uso de hidroclorotiazida e sinvastatina. Há 4 semanas teve diarreia líquida durante 5 dias, melhorando após uso de cipro(cid:69)oxacino. Ao exame, apresentava artrite em joelho direito e tornozelo esquerdo. Além de lesões hiperceratóticas em pés e mãos. Qual o diagnóstico mais provável?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Artrite gotosa, visto que os antecedentes de uso de tiazídico e de dislipidemia sugerem este diagnóstico."
+      },
+      {
+        "letra": "B",
+        "texto": "Artrite reativa sendo o quadro infeccioso intestinal o fator desencadeante."
+      },
+      {
+        "letra": "C",
+        "texto": "Artrite gonocócica, pois em homem adulto jovem é a principal causa de oligoartrite e na maioria dos casos a uretrite é assintomática."
+      },
+      {
+        "letra": "D",
+        "texto": "Artrite reumatoide de início recente devendo-se aguardar a evolução do caso para confirmação diagnóstica."
+      },
+      {
+        "letra": "E",
+        "texto": "Artrite psoriática e a biópsia de pele é exame imprescindível para confirmar este diagnóstico."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11363,
+    "tags": [],
+    "enunciado": "Uma mulher 72 anos é atendida com queixa de dor aguda, iniciada há dois dias, no joelho direito, que apresenta calor local pouco intenso. Exames laboratoriais revelam em hematócrito de 38%, 10.500 leucócitos com 70% de neutró(cid:72)los segmentados e 4% de bastonetes; ácido úrico de 5,5 mg/dl. A radiogra(cid:72)a de joelhos demonstra presença de condrocalcinose. O diagnóstico mais provável é de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Artrite gotosa aguda."
+      },
+      {
+        "letra": "B",
+        "texto": "Pseudogota."
+      },
+      {
+        "letra": "C",
+        "texto": "Artrite reativa."
+      },
+      {
+        "letra": "D",
+        "texto": "Artrite reumatoide."
+      },
+      {
+        "letra": "E",
+        "texto": "Artrite infecciosa."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11364,
+    "tags": [],
+    "enunciado": "Manifesta-se sob a forma de oligoartrite assimétrica de membros inferiores, com cultura de líquido sinovial estéril e associada ao HLA-B27 em cerca de 60% dos pacientes?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Síndrome de Reiter"
+      },
+      {
+        "letra": "B",
+        "texto": "Artrite enteropática"
+      },
+      {
+        "letra": "C",
+        "texto": "Artrite psoriásica"
+      },
+      {
+        "letra": "D",
+        "texto": "Artrite reumatoide"
+      },
+      {
+        "letra": "E",
+        "texto": "Artrite séptica"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11365,
+    "tags": [],
+    "enunciado": "Um homem de 25 anos vai ao consultório queixando-se de dor no joelho esquerdo e no hálux direito, que iniciou há uma semana e não respondeu a analgésicos adquiridos sem receita. Também se sente febril e dolorido e tem disúria e infecção ocular. Há cerca de um mês, recebeu tratamento para sí(cid:72)lis. Ao exame está afebril e ambos os olhos estão injetados e muito sensíveis à luz. O joelho esquerdo e a primeira articulação metatarsofalangeana direita estão edemaciados e dolorosas. Qual é seu diagnóstico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Artrite gotosa"
+      },
+      {
+        "letra": "B",
+        "texto": "Síndrome de Reiter"
+      },
+      {
+        "letra": "C",
+        "texto": "Artrite infecciosa"
+      },
+      {
+        "letra": "D",
+        "texto": "Artrite reumatoide"
+      },
+      {
+        "letra": "E",
+        "texto": "Sífilis"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11366,
+    "tags": [],
+    "enunciado": "Qual doença deve-se suspeitar diante de sintomas respiratórios, glomerulonefrite, vasculite, C-anca positivo:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Síndrome de Behçet"
+      },
+      {
+        "letra": "B",
+        "texto": "espondilite anquilosante"
+      },
+      {
+        "letra": "C",
+        "texto": "Artrite psoriática"
+      },
+      {
+        "letra": "D",
+        "texto": "Granulomatose de Wegener"
+      },
+      {
+        "letra": "E",
+        "texto": "Artrite séptica"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11367,
+    "tags": [],
+    "enunciado": "Em relação à artrite gonocócica, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "é pouco frequente em mulheres e homossexuais do sexo masculino."
+      },
+      {
+        "letra": "B",
+        "texto": "sintomas de uretrite estão invariavelmente presentes."
+      },
+      {
+        "letra": "C",
+        "texto": "a melhora clínica é mais rápida com o emprego da associação IV de antibiótico e corticoesteroide."
+      },
+      {
+        "letra": "D",
+        "texto": "resulta sempre de infecção gonocócica disseminada."
+      },
+      {
+        "letra": "E",
+        "texto": "o tratamento de escolha consiste na administração de penicilina cristalina ou benzatina."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11368,
+    "tags": [],
+    "enunciado": "Na apresentação de um paciente com monoartrite, deve-se pensar principalmente em : I.Sinovite induzida por cristais II.Artrite séptica III.Lupus eritematoso sistêmico IV.Neoplasia articular",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "opção que contém as respostas corretas é:"
+      },
+      {
+        "letra": "A",
+        "texto": "I,III."
+      },
+      {
+        "letra": "B",
+        "texto": "I,II."
+      },
+      {
+        "letra": "C",
+        "texto": "III,IV."
+      },
+      {
+        "letra": "D",
+        "texto": "II,IV."
+      },
+      {
+        "letra": "E",
+        "texto": "II,III."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11369,
+    "tags": [],
+    "enunciado": "Dentre os exemplos citados, escolha aquele que usualmente evolui com mononeuropatia múltipla e predileção pelo envolvimento do facial.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Porfíria."
+      },
+      {
+        "letra": "B",
+        "texto": "Hanseníase."
+      },
+      {
+        "letra": "C",
+        "texto": "Neuropatia alcoólica-nutricional."
+      },
+      {
+        "letra": "D",
+        "texto": "Doença de Lyme."
+      },
+      {
+        "letra": "E",
+        "texto": "Doença de Charcot-Marie-Tooth."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11370,
+    "tags": [],
+    "enunciado": "Homem de 18 anos apresenta quadro de artrite em joelho esquerdo há 2 dias. A punção evidenciou um líquido turvo, com 100.000 células/mL sendo 87% de neutró(cid:72)los, sem a presença de cristais. Pode-se a(cid:72)rmar, que mais provavelmente, trata-se de quadro de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "osteoartrose aguda."
+      },
+      {
+        "letra": "B",
+        "texto": "febre reumática."
+      },
+      {
+        "letra": "C",
+        "texto": "artrite gota."
+      },
+      {
+        "letra": "D",
+        "texto": "artrite reumatoide."
+      },
+      {
+        "letra": "E",
+        "texto": "artrite gonocócica."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 11371,
+    "tags": [],
+    "enunciado": "Paciente do sexo feminino, 92 anos, sem antecedentes de doença cardiovascular apresenta dor crônica de joelho direito. Ao exame físico, observa-se aumento de calor e volume de joelho direito, atro(cid:72)a signi(cid:72)cativa da coxa direita, limitação para extensão completa da articulação e presença de crepitação. Raio X de joelho",
+    "alternativas": [
+      {
+        "letra": "D",
+        "texto": "mostra diminuição do espaço articular, osteó(cid:72)tos e esclerose subcondral. Qual o diagnóstico mais provável?"
+      },
+      {
+        "letra": "A",
+        "texto": "Osteoartrite."
+      },
+      {
+        "letra": "B",
+        "texto": "Síndrome paraneoplásica."
+      },
+      {
+        "letra": "C",
+        "texto": "Tuberculose articular."
+      },
+      {
+        "letra": "D",
+        "texto": "Artrite reumatoide."
+      },
+      {
+        "letra": "E",
+        "texto": "Condrocalcinose."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 11372,
+    "tags": [],
+    "enunciado": "Mulher de 45 anos, previamente saudável, procura atendimento por dor em cotovelo e febre. Refere inchaço, dor e vermelhidão no cotovelo direito há cerca de 24h, acompanhada de febre de até 40 °C com calafrios. Exame físico evidencia sinais (cid:69)ogísticos em cotovelo direito com demais articulações normais. Não há outros achados no exame físico. Exames laboratoriais evidenciam somente leucocitose de 16.000 células com desvio à esquerda (10% de bastões). Qual a melhor conduta a ser adotada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Solicitar FAN, fator reumatoide e iniciar corticoide."
+      },
+      {
+        "letra": "B",
+        "texto": "Realizar artrocentese de cotovelo e iniciar antibiótico empírico."
+      },
+      {
+        "letra": "C",
+        "texto": "Realizar artrocentese de cotovelo e aguardar culturas."
+      },
+      {
+        "letra": "D",
+        "texto": "Solicitar FAN, fator reumatoide e iniciar anti-inflamatório não esteroide."
+      },
+      {
+        "letra": "E",
+        "texto": "Iniciar anti-inflamatório não esteroide e solicitar hemoculturas."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11373,
+    "tags": [],
+    "enunciado": "Representa a principal urgência em reumatologia:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cardite."
+      },
+      {
+        "letra": "B",
+        "texto": "Eritema nodoso."
+      },
+      {
+        "letra": "C",
+        "texto": "Cefaleia."
+      },
+      {
+        "letra": "D",
+        "texto": "Febre persistente."
+      },
+      {
+        "letra": "E",
+        "texto": "Monoartrite aguda."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 11374,
+    "tags": [],
+    "enunciado": "Paciente de 19 anos, procura emergência por dor em cotovelo e febre. Refere inchaço, dor e vermelhidão no cotovelo direito há cerca de 24h, acompanhado de febre de até 40ºC com calafrios. Exame físico evidencia artrite em cotovelo direito com demais articulações normais. Não há outros achados no exame físico. Exames laboratoriais evidenciam somente leucocitose de 19.500 células com desvio à esquerda (9% de bastões). Qual a melhor conduta a ser adotada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Solicitar FAN e iniciar analgésico"
+      },
+      {
+        "letra": "B",
+        "texto": "Realizar artrocentese de cotovelo e iniciar antibiótico empírico"
+      },
+      {
+        "letra": "C",
+        "texto": "Realizar artrocentese de cotovelo e aguardar culturas"
+      },
+      {
+        "letra": "D",
+        "texto": "Iniciar antibiótico empírico"
+      },
+      {
+        "letra": "E",
+        "texto": "Iniciar anti-inflamatório não-esteroide e solicitar hemoculturas"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11375,
+    "tags": [],
+    "enunciado": "Uma menina saudável, com 9 anos de idade, é levada ao pronto-socorro do hospital de referência de seu domicílio, com queixa de dor e inchaço em articulação de joelho direito há 1 dia e febre hoje. Os pais referiam queda de bicicleta e trauma fechado em perna esquerda há 10 dias, que evoluiu bem após formação de hematoma no local. Ao exame, a criança estava em bom estado, corada, hidratada e não havia envolvimento de outras articulações. O joelho direito apresentava edema, calor e hiperemia e a criança queixava-se de muita dor. O pediatra solicitou a avaliação do ortopedista, que indicou a punção da articulação, após a avaliação física e do Rx, que demonstrava edema de partes moles adjacentes e discreto alargamento da cápsula articular. Os médicos conversaram com os pais acerca da hipótese de artrite séptica e da necessidade de internação para a punção, exames de sangue e tratamento. Os pais da criança solicitam a realização de ultra-sonogra(cid:72)a antes da punção, disponível em um hospital a 250 km de distância, em uma situação de difícil locomoção. Os médicos devem",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "explicar aos pais que não há vantagem em se realizar a ultra-sonografia e que as informações obtidas com o Rx são as mesmas que podem ser extraídas da ultra-sonografia e que não poderiam autorizar a saída para outro hospital, exceto com a alta a pedido."
+      },
+      {
+        "letra": "B",
+        "texto": "transferir a criança para internação em outro hospital, ainda que distante, pois exames de ultra- sonografia ou tomografia realmente se impõem nesta circunstância."
+      },
+      {
+        "letra": "C",
+        "texto": "solicitar aos pais a assinatura de um termo de responsabilidade e liberá-los para procurarem um hospital que possa oferecer todos os recursos, uma vez que a punção só pode ser realizada sob a visão da ultra-sonografia."
+      },
+      {
+        "letra": "D",
+        "texto": "tranqüilizar os pais acerca da segurança do procedimento para a análise do líquido, especialmente a bacteriologia, e da importância de se iniciar precocemente o tratamento intravenoso com oxacilina."
+      },
+      {
+        "letra": "E",
+        "texto": "administrar antiinflamatório intravenoso e encaminhar de ambulância para a realização da ultra- sonografia e retorno, para então realizar a punção e iniciar o tratamento com vancomicina, uma vez que a artrite ocorreu após trauma fechado."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 11376,
+    "tags": [],
+    "enunciado": "Uma mulher de 72 anos é atendida com queixa de dor aguda, iniciada há dois dias, no joelho direito, que apresenta calor local pouco intenso. Exames laboratoriais revelam um hematócrito de 38%; 10.500 leucócitos com 70% de neutró(cid:72)los segmentados e 4% de bastonetes; ácido úrico de 5,5 mg/dℓ. O raio X de joelho demonstra presença de condrocalcinose. O diagnóstico mais provável é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "artrite gotosa aguda."
+      },
+      {
+        "letra": "B",
+        "texto": "pseudogota"
+      },
+      {
+        "letra": "C",
+        "texto": "artrite reativa."
+      },
+      {
+        "letra": "D",
+        "texto": "artrite reumatóide."
+      },
+      {
+        "letra": "E",
+        "texto": "artrite infecciosa."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11377,
+    "tags": [],
+    "enunciado": "A bactéria que mais comumente causa artrite séptica não gonocócica é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "E Coli."
+      },
+      {
+        "letra": "B",
+        "texto": "Estafilococo aureus."
+      },
+      {
+        "letra": "C",
+        "texto": "Pseudomonas."
+      },
+      {
+        "letra": "D",
+        "texto": "Estreptococo."
+      },
+      {
+        "letra": "E",
+        "texto": "Legionella."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 11378,
+    "tags": [],
+    "enunciado": "Um paciente de sessenta anos, masculino, obeso, hipertenso, chega à Emergência referindo dor intensa no joelho direito há cinco dias, associada à febre de 39 ºC. Refere ter tido duas crises semelhantes no último ano, tendo recebido o diagnóstico de gota. Ao exame físico, o joelho apresenta intensa (cid:69)ogose e são identi(cid:72)cadas lesões micóticas entre os dedos dos pés, algumas delas com escassa secreção purulenta. A conduta mais adequada nesse caso é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "iniciar com anti-inflamatório não-esteroide via oral e liberar o paciente para casa."
+      },
+      {
+        "letra": "B",
+        "texto": "realizar artrocentese para pesquisa de cristais no líquido sinovial e iniciar com alopurinol e colchicina."
+      },
+      {
+        "letra": "C",
+        "texto": "realizar artrocentese, iniciar com antibiótico endovenoso e internar o paciente."
+      },
+      {
+        "letra": "D",
+        "texto": "solicitar hemograma e dosagem de ácido úrico antes de tomar uma decisão terapêutica."
+      },
+      {
+        "letra": "E",
+        "texto": "administrar colchicina 0,5 mg via oral, de hora em hora, até a melhora do quadro.  Respostas: 1 C 2 A 3 D 4 D 5 B 6 B 7 A 8 A 9 B 10 B 11 D 12 B 13 B 14 C 15 A 16 C 17 D 18 D 19 A 20 C 21 B 22 B 23 C 24 C 25 A 26 C 27 B 28 C 29 E 30 B 31 32 33 34 D 35 D 36 B 37 C 38 C 39 C 40 C 41 A 42 C 43 C 44 B 45 B 46 D 47 B 48 A 49 E 50 B 51 B 52 C 53 D 54 B 55 A 56 A 57 B 58 A 59 A 60 D 61 D 62 D 63 A 64 A 65 B 66 A 67 C 68 B 69 D 70 C 71 D 72 D 73 D 74 D 75 C 76 A 77 B 78 A 79 C 80 C 81 C 82 C 83 B 84 A 85 B 86 C 87 A 88 D 89 B 90 A 91 B 92 C 93 A 94 E 95 A 96 A 97 A 98 D 99 C 100 D 101 D 102 C 103 C 104 D 105 B 106 A 107 C 108 B 109 D 110 C 111 B 112 A 113 A 114 C 115 C 116 B 117 C 118 E 119 E 120 B 121 C 122 C 123 D 124 C 125 B 126 B 127 D 128 B 129 A 130 C 131 B 132 A 133 C 134 A 135 C 136 D 137 C 138 D 139 D 140 A 141 B 142 A 143 C 144 A 145 A 146 D 147 D 148 C 149 D 150 B 151 C 152 C 153 A 154 C 155 D 156 B 157 D 158 A 159 B 160 D 161 B 162 D 163 C 164 C 165 D 166 D 167 D 168 B 169 C 170 A 171 D 172 E 173 C 174 C 175 E 176 B 177 B 178 B 179 A 180 B 181 D 182 D 183 B 184 D 185 E 186 A 187 B 188 E 189 B 190 D 191 B 192 B 193 C"
+      }
+    ],
+    "resposta_correta": "C"
+  }
+]

@@ -1,0 +1,1414 @@
+[
+  {
+    "id": 106202,
+    "tags": [],
+    "enunciado": "Qual das seguintes afirmações é verdadeira em relação à velocidade de transmissão do potencial de ação em neurônios mielinizados e não mielinizados?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Neurônios mielinizados apresentam uma transmissão mais rápida do potencial de ação em comparação com neurônios não mielinizados, devido à presença da mielina. A mielina atua como um isolante elétrico, permitindo que o impulso nervoso \"pule\" de um nódulo de Ranvier (as áreas desmielinizadas) para outro, em um processo chamado condução saltatória. Isso acelera a velocidade de propagação do potencial de ação ao longo do axônio."
+      },
+      {
+        "letra": "B",
+        "texto": "Neurônios não mielinizados apresentam uma transmissão mais lenta do potencial de ação em comparação com neurônios mielinizados, devido à ausência de mielina."
+      },
+      {
+        "letra": "C",
+        "texto": "Neurônios mielinizados e não mielinizados têm diferentes velocidades de transmissão do potencial de ação. A mielinização acelera a velocidade de propagação do impulso nervoso nos neurônios mielinizados, enquanto nos neurônios não mielinizados, o potencial de ação se propaga a uma velocidade mais lenta, mas constante ao longo de todo o axônio."
+      },
+      {
+        "letra": "D",
+        "texto": "A velocidade de transmissão do potencial de ação não é afetada em neurônios que perdem a sua bainha de mielina em decorrência de doenças autoimunes como a esclerose múltipla por exemplo."
+      },
+      {
+        "letra": "E",
+        "texto": "A velocidade de transmissão do potencial de ação não é afetada pela mielinização dos neurônios."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106203,
+    "tags": [],
+    "enunciado": "A imagem abaixo mostra resumidamente como se formam os gradientes celulares e o potencial de membrana. Observado o que está ocorrendo na célula da imagem e assinale a alternativa que a explique corretamente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o transporte passivo do íon Cl⁻ para o meio extracelular é o responsável por estabelecer o potencial de membrana intracelular positivo observado em células não-excitáveis."
+      },
+      {
+        "letra": "B",
+        "texto": "a força necessária para o retorno dos íons Na⁺ ao citoplasma se dá pela saída dos íons K⁺ que deixam o interior da célula mais negativo."
+      },
+      {
+        "letra": "C",
+        "texto": "A saída de íons K+, de maneira passiva, torna o interior da célula negativo, gerando o potencial de membrana no repouso, enquanto o transporte ativo de Na+ para o meio extracelular gera o gradiente eletroquímico necessário para o simporte de glicose do meio extracelular para o meio intracelular."
+      },
+      {
+        "letra": "D",
+        "texto": "Devido à necessidade constante de retirada de Ca²⁺ do meio intracelular, a concentração de íons Na⁺ torna-se maior no meio intracelular do que no extracelular."
+      },
+      {
+        "letra": "E",
+        "texto": "O principal responsável em gerar alterações no potencial de membrana em células não excitáveis é a bomba de Na⁺/K⁺-ATPase, uma vez que desequilibra as quantidades de K⁺ no meio intracelular."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106204,
+    "tags": [],
+    "enunciado": "As biomembranas são estruturas organizadas de maneira ordenada pela junção de lipídios especí(cid:69)cos, chamados fosfolipídios, proteínas especí(cid:69)cas e carboidratos em uma camada dupla invertida. Uma das suas propriedades fundamentais para as células é a capacidade de gerar compartimentos celulares, uma vez que é semipermeável, bloqueando a passagem de certas moléculas e permitindo a de outras. Tais moléculas com transporte bloqueado, entretanto, podem atravessar a bicamada lipídica utilizando as chamadas proteínas transportadoras da membrana. Qual das seguintes alternativas explica corretamente o que é transporte ativo secundário e difusão facilitada antiporte através de uma membrana celular?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tanto o transporte ativo secundário quanto a difusão facilitada antiporte são processos em que duas substâncias são transportadas em direções opostas, porém o transporte ativo secundário não requer o gasto de energia adicional, enquanto a difusão facilitada antiporte ocorre de forma ativa, com consumo direto de energia."
+      },
+      {
+        "letra": "B",
+        "texto": "O transporte ativo secundário é um processo em que íons ou moléculas são transportados contra seu gradiente de concentração, utilizando o gradiente eletroquímico de outra substância previamente estabelecido, enquanto a difusão facilitada antiporte é um processo em que duas substâncias são transportadas em direções opostas através de uma proteína transportadora específica."
+      },
+      {
+        "letra": "C",
+        "texto": "O transporte ativo secundário e a difusão facilitada antiporte são termos que descrevem o mesmo processo, onde duas substâncias são transportadas em direções opostas através de uma proteína transportadora específica, sem consumo de energia."
+      },
+      {
+        "letra": "D",
+        "texto": "O transporte ativo secundário é um processo de transporte passivo que ocorre em células animais, enquanto a difusão facilitada antiporte é um processo ativo que requer o consumo de energia para mover substâncias contra seu gradiente de concentração."
+      },
+      {
+        "letra": "E",
+        "texto": "Tanto o transporte ativo secundário quanto a difusão facilitada antiporte são processos de transporte ativo que ocorrem em células vegetais, onde duas substâncias são transportadas em direções opostas através de uma proteína transportadora específica."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106205,
+    "tags": [],
+    "enunciado": "Considere a seguinte reação hipotética: 2A + 3B → 4C Os valores de energia livre padrão de formação (∆Gf°) são: ∆Gf°(A) = -100 kJ/mol ∆Gf°(B) = -50 kJ/mol ∆Gf°(C) = +80 kJ/mol Qual das alternativas representa corretamente a variação de energia livre (∆G) para essa reação?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "∆G = +370 kJ/mol e endergônica."
+      },
+      {
+        "letra": "B",
+        "texto": "∆G = -80 kJ/mol e exergônica."
+      },
+      {
+        "letra": "C",
+        "texto": "∆G = -310 kJ/mol e endergônica"
+      },
+      {
+        "letra": "D",
+        "texto": "∆G = +80 kJ/mol e exergônica."
+      },
+      {
+        "letra": "E",
+        "texto": "∆G não pode ser determinado."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106206,
+    "tags": [],
+    "enunciado": "Os receptores sensoriais desempenham um papel fundamental na percepção do mundo ao nosso redor. Esses receptores são responsáveis por captar estímulos físicos ou químicos e então gerar possíveis potenciais de ação. Esse processo de transdução de sinais é essencial para a percepção sensorial. Diante disso, qual das seguintes alternativas descreve corretamente o processo de transdução de sinais mediada por receptores sensoriais?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Amplificação de sinais elétricos no cérebro."
+      },
+      {
+        "letra": "B",
+        "texto": "Conversão de sinais físicos ou químicos em sinais elétricos."
+      },
+      {
+        "letra": "C",
+        "texto": "Reorganização dos neurônios sensoriais no sistema nervoso."
+      },
+      {
+        "letra": "D",
+        "texto": "Produção de neurotransmissores pelos receptores sensoriais."
+      },
+      {
+        "letra": "E",
+        "texto": "Regulação da temperatura corporal pelos receptores sensoriais."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106207,
+    "tags": [],
+    "enunciado": "Qual dos seguintes exemplos descreve corretamente o processo de sinalização celular do tipo autócrino?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A liberação de insulina pelas células beta do pâncreas, que se liga a receptores presentes nas próprias células acinares pancreáticas, promovendo a regulação da absorção de glicose."
+      },
+      {
+        "letra": "B",
+        "texto": "A comunicação entre neurônios adjacentes no sistema nervoso central, onde substâncias químicas são liberadas e se ligam a receptores nas células vizinhas, estimulando a transmissão de impulsos nervosos."
+      },
+      {
+        "letra": "C",
+        "texto": "A secreção de hormônios pela glândula tireoide, que atuam em células-alvo localizadas em tecidos específicos do organismo, afetando seu metabolismo e crescimento."
+      },
+      {
+        "letra": "D",
+        "texto": "A interação entre células do sistema imunológico, onde citocinas liberadas por uma célula ativada se ligam a receptores presentes na mesma célula, desencadeando uma resposta imune amplificada."
+      },
+      {
+        "letra": "E",
+        "texto": "A receptação de neurotransmissores secretados na fenda sináptica pelos neurônios pré-sinápticos."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 106208,
+    "tags": [],
+    "enunciado": "A produção de etanol a partir da cana-de-açúcar envolve um processo ordenado de eventos que se inicia com a moagem da cana, obtendo-se o caldo com alto teor de sacarose. Esse caldo é então puri(cid:69)cado e centrifugado originando o melaço, o qual é fermentado. Nesse último processo o etanol é então destilado para ser utilizado como combustível automotivo (C₂H₆O). A combustão completa do etanol produz, à 25ºC dióxido de carbono e água, conforme reação a seguir: C₂H₆O + 3 O₂ → 2 CO₂ + 3 H₂O (∆G = – 1368 kJ/mol). Com relação a esta reação, sabendo-se que a variação de entalpia (ΔH) é -1367 Kcal/mol e que a variação de entropia (ΔS) é 0,061 Kcal/grau.mol, podemos afirmar que a variação de energia livre (ΔG) do sistema é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "+1357,28 e a reação é espontânea."
+      },
+      {
+        "letra": "B",
+        "texto": "-1385,18 e a reação é não-espontânea."
+      },
+      {
+        "letra": "C",
+        "texto": "+1389,18 e a reação é espontânea."
+      },
+      {
+        "letra": "D",
+        "texto": "-1384,12 e a reação é não-espontânea."
+      },
+      {
+        "letra": "E",
+        "texto": "-1385,18 e a reação é espontânea."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 106209,
+    "tags": [],
+    "enunciado": "Qual é a principal diferença entre o transporte ativo primário e o transporte ativo secundário em células animais, considerando a captação de glicose no intestino delgado pelos enterócitos?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O transporte ativo primário utiliza energia diretamente da hidrólise do ATP, enquanto o transporte ativo secundário utiliza o gradiente eletroquímico para permitir a entrada de glicose na célula."
+      },
+      {
+        "letra": "B",
+        "texto": "O transporte ativo primário ocorre na membrana plasmática através de proteínas de transporte específicas para a glicose, enquanto o transporte ativo secundário pode ocorrer em diferentes compartimentos celulares, permitindo a entrada de glicose por meio de vesículas."
+      },
+      {
+        "letra": "C",
+        "texto": "O transporte ativo primário é responsável pelo transporte de glicose contra o gradiente de concentração, enquanto o transporte ativo secundário utiliza um gradiente pré-estabelecido, como o gradiente de sódio, para co-transportar a glicose para dentro da célula."
+      },
+      {
+        "letra": "D",
+        "texto": "No transporte ativo primário, a glicose é diretamente bombeada para dentro da célula contra o gradiente de concentração, enquanto no transporte ativo secundário, a glicose é transportada juntamente com outras substâncias através de proteínas carreadoras."
+      },
+      {
+        "letra": "E",
+        "texto": "O transporte ativo primário é mais eficiente na captação de glicose pelas células animais, pois não depende de um gradiente pré-existente, ao contrário do transporte ativo secundário."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106210,
+    "tags": [],
+    "enunciado": "A reabsorção de sais pelo rim desempenha um papel fundamental na regulação do equilíbrio iônico e da osmolaridade do organismo. Durante esse processo, as células do túbulo renal estão envolvidas na captação ativa de íons sódio (Na⁺) e no transporte de íons potássio (K⁺). Nesse contexto, qual das seguintes alternativas descreve corretamente o potencial eletroquímico na membrana plasmática dessas células, considerando as propriedades de transporte eletroquímico e as propriedades de capacitor da membrana?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O potencial eletroquímico é determinado apenas pela diferença de concentração de íons sódio (Na⁺) nos meios intracelular e extracelular, desconsiderando as propriedades de capacitor da membrana."
+      },
+      {
+        "letra": "B",
+        "texto": "O potencial eletroquímico é influenciado exclusivamente pelo transporte de íons potássio (K⁺), sem levar em conta as propriedades de capacitor da membrana ou a concentração de íons sódio (Na⁺)."
+      },
+      {
+        "letra": "C",
+        "texto": "O potencial eletroquímico depende da combinação entre a diferença de concentração de íons sódio (Na⁺) e potássio (K⁺), a diferença de cargas elétricas entre o meio intracelular e extracelular, as propriedades de capacitor da membrana e as cargas elétricas da membrana em repouso."
+      },
+      {
+        "letra": "D",
+        "texto": "O potencial eletroquímico é determinado unicamente pelas propriedades de capacitor da membrana, sem levar em consideração o transporte de íons sódio (Na⁺) ou potássio (K⁺)."
+      },
+      {
+        "letra": "E",
+        "texto": "O potencial eletroquímico não possui nenhuma relação com o transporte de sais pelo rim ou com as propriedades de capacitor eletroquímico da membrana das células do túbulo renal."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106211,
+    "tags": [],
+    "enunciado": "No processo de sinalização celular a interação da molécula sinalizadora com o receptor provoca um aumento da concentração de certas moléculas de baixa massa molecular (moléculas pequenas) de origem não proteica. Essas moléculas atuam como moduladores alostéricos de enzimas-chave da cascata de transdução de sinal. Tais moduladores são chamados de segundos mensageiros, pois conectam a mensagem transmitida pela molécula sinalizadora presente no meio extracelular com a cascata de transdução de sinal intracelular. Os segundos mensageiros apresentam propriedades físico-químicas que permitem sua difusão para diferentes compartimentos celulares, o que é importante para in(cid:88)uenciar o metabolismo da célula como um todo. As moléculas descritas abaixo são consideradas segundos mensageiros, exceto:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "NADPH"
+      },
+      {
+        "letra": "B",
+        "texto": "AMP cíclico (cAMP)"
+      },
+      {
+        "letra": "C",
+        "texto": "GMP cíclico (cGMP)"
+      },
+      {
+        "letra": "D",
+        "texto": "Diacilglicerol"
+      },
+      {
+        "letra": "E",
+        "texto": "Inositol 1,4,5-trifosfato (IP₃)"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106212,
+    "tags": [],
+    "enunciado": "As células se comunicam liberando moléculas sinalizadoras extracelulares que se ligam a proteínas receptoras localizadas na membrana plasmática, no citoplasma ou no núcleo. Este sinal é transduzido na ativação ou inativação de um ou mais mensageiros intracelulares via interação com receptores. Os receptores interagem com uma variedade de poteínas sinalizadoras intracelulares, como quinases, fosfatases e proteínas ligadoras de trifosfato de guanosina (GTP) (proteínas G). Estas proteínas sinalizadoras interagem com e regulam a atividade de proteínas-alvo, modulando, assim, a função celular. As moléculas de sinalização podem agir a distâncias curtas ou longas, de maneiras diferentes. São mecanismos de comunicação entre as células, exceto:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sinalização dependente de contato."
+      },
+      {
+        "letra": "B",
+        "texto": "Sinalização parácrina."
+      },
+      {
+        "letra": "C",
+        "texto": "Sinalização autócrina."
+      },
+      {
+        "letra": "D",
+        "texto": "Sinalização endócrina."
+      },
+      {
+        "letra": "E",
+        "texto": "Sinalização por importinas."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 106213,
+    "tags": [],
+    "enunciado": "Considere a seguinte reação intracelular hipotética:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "+ 2B → 3C + D Sabendo que as energias livre padrão de Gibbs (ΔGf) são: ΔGf (A) = -50 kJ/mol ΔGf (B) = -20 kJ/mol ΔGf (C) = -30 kJ/mol ΔGf (D) = +40 kJ/mol Qual é a variação de energia livre (ΔG) envolvida nessa reação e qual classificação corresponde a ela?"
+      },
+      {
+        "letra": "A",
+        "texto": "ΔG = -40 kJ/mol, reação exergônica"
+      },
+      {
+        "letra": "B",
+        "texto": "ΔG = -60 kJ/mol, reação exergônica"
+      },
+      {
+        "letra": "C",
+        "texto": "ΔG = -10 kJ/mol, reação endergônica"
+      },
+      {
+        "letra": "D",
+        "texto": "ΔG = +90 kJ/mol, reação endergônica"
+      },
+      {
+        "letra": "E",
+        "texto": "ΔG = -80 kJ/mol, reação exergônica"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106214,
+    "tags": [],
+    "enunciado": "A absorção dos aminoácidos pelos enterócitos é um processo vital para o organismo. Localizados nas vilosidades intestinais, essas células especializadas possuem microvilosidades que aumentam a área de absorção. Os aminoácidos são transportados ativamente através das membranas dos enterócitos por meio de transportadores especí(cid:69)cos. Uma vez dentro das células, os aminoácidos podem ser utilizados para síntese proteica ou metabolizados para obter energia. A absorção e(cid:69)ciente dos aminoácidos é essencial para garantir a disponibilidade de nutrientes necessários para a manutenção e crescimento do corpo. Como ocorre o transporte de aminoácidos no sistema digestório através da bomba transportadora simporte?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "No simporte, os aminoácidos são transportados ativamente através das membranas dos enterócitos por meio de transportadores específicos, aproveitando o gradiente eletroquímico pré- estabelecido do sódio (Na+). O sódio é transportado ativamente para dentro da célula, arrastando os aminoácidos junto com ele. Esse processo não requer energia na forma de ATP, pois utiliza o gradiente eletroquímico já existente do sódio para impulsionar o transporte dos aminoácidos."
+      },
+      {
+        "letra": "B",
+        "texto": "A bomba simporte é um processo passivo que ocorre através da difusão simples de aminoácidos através da membrana plasmática das células epiteliais do intestino delgado. Os aminoácidos movem-se a favor do gradiente de concentração, impulsionados pelo potencial eletroquímico."
+      },
+      {
+        "letra": "C",
+        "texto": "A bomba simporte utiliza energia na forma de ATP para transportar os aminoácidos a favor do gradiente de concentração, através da membrana plasmática das células epiteliais do intestino delgado. Esse processo ocorre de forma independente do transporte de íons, como sódio, e envolve a ligação direta entre os aminoácidos e a bomba."
+      },
+      {
+        "letra": "D",
+        "texto": "A bomba simporte é um processo ativo que ocorre por meio da osmose de aminoácidos através da membrana plasmática das células epiteliais do intestino delgado. A pressão osmótica gerada no lúmen intestinal impulsiona o transporte dos aminoácidos para o interior das células."
+      },
+      {
+        "letra": "E",
+        "texto": "A bomba simporte utiliza energia na forma de ATP para transportar os aminoácidos a favor do gradiente de concentração e sódio contra seu gradiente, através da membrana plasmática das células epiteliais do intestino delgado."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106215,
+    "tags": [],
+    "enunciado": "A consolidação das memórias ocorre por meio das sinapses, que são conexões entre os neurônios no cérebro. Durante a formação de uma memória, sinais elétricos são transmitidos através das sinapses, fortalecendo essas conexões. Essa consolidação permite que as memórias sejam armazenadas de forma duradoura e acessadas posteriormente. À medida que as sinapses são reforçadas, o processo de recordação se torna mais e(cid:69)ciente e preciso. Assinale a alternativa que explique corretamente esse processo de estabilização através dos receptores AMPA e NMDA, e a molécula CREB:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aumento na produção de neurotransmissores e ativação dos receptores NMDA."
+      },
+      {
+        "letra": "B",
+        "texto": "Redução na liberação de neurotransmissores e ativação dos receptores AMPA."
+      },
+      {
+        "letra": "C",
+        "texto": "Fortalecimento e reorganização das conexões sinápticas por meio da ativação dos receptores NMDA e o aumento na expressão do receptor AMPA."
+      },
+      {
+        "letra": "D",
+        "texto": "Enfraquecimento das sinapses existentes através da inibição dos receptores NMDA e a redução da expressão do receptor AMPA."
+      },
+      {
+        "letra": "E",
+        "texto": "Inibição da plasticidade sináptica por meio da regulação negativa da molécula CREB."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106216,
+    "tags": [],
+    "enunciado": "Qual dos seguintes enunciados está relacionado à Terceira Lei da Termodinâmica no ambiente celular?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A energia térmica flui dos organismos de temperatura mais baixa para os de temperatura mais alta."
+      },
+      {
+        "letra": "B",
+        "texto": "A entropia de um sistema celular tende a aumentar à medida que a temperatura diminui."
+      },
+      {
+        "letra": "C",
+        "texto": "A temperatura de um organismo vivo sempre se mantém constante em qualquer ambiente externo."
+      },
+      {
+        "letra": "D",
+        "texto": "É impossível alcançar a temperatura absoluta zero em um sistema biológico."
+      },
+      {
+        "letra": "E",
+        "texto": "A energia térmica é completamente convertida em trabalho dentro das células."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 106217,
+    "tags": [],
+    "enunciado": "O músculo liso desempenha um papel fundamental no organismo humano. Ele está presente em órgãos como o estômago, intestinos, bexiga e vasos sanguíneos, e sua contração e relaxamento são essenciais para o funcionamento adequado desses órgãos. O músculo liso controla o movimento peristáltico do trato gastrointestinal, permitindo a digestão e a absorção adequadas dos alimentos. Ele também regula o (cid:88)uxo sanguíneo, contribuindo para a regulação da pressão arterial. Além disso, o músculo liso da bexiga auxilia na micção. Em relação à esse tipo muscular qual é o papel da interação entre a actina, miosina, troponina e corpos densos na contração muscular?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A actina e a miosina deslizam uma sobre a outra, encurtando o sarcômero e resultando na contração muscular."
+      },
+      {
+        "letra": "B",
+        "texto": "A troponina se liga aos corpos densos, desencadeando a liberação de cálcio e a ativação da miosina para a contração muscular."
+      },
+      {
+        "letra": "C",
+        "texto": "Os corpos densos ancoram a actina e a miosina, permitindo que elas interajam e realizem a contração muscular."
+      },
+      {
+        "letra": "D",
+        "texto": "A troponina se liga à actina, inibindo a interação com a miosina e relaxando o músculo."
+      },
+      {
+        "letra": "E",
+        "texto": "Os corpos densos regulam a liberação de acetilcolina no músculo liso, desencadeando a contração."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106218,
+    "tags": [],
+    "enunciado": "Qual das seguintes opções descreve corretamente uma diferença entre reações exergônicas e endergônicas catalisadas por enzimas, levando em consideração a energia livre de Gibbs?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Reações exergônicas possuem uma variação negativa de energia livre de Gibbs, enquanto reações endergônicas possuem uma variação positiva."
+      },
+      {
+        "letra": "B",
+        "texto": "Reações exergônicas possuem uma variação positiva de energia livre de Gibbs, enquanto reações endergônicas possuem uma variação negativa."
+      },
+      {
+        "letra": "C",
+        "texto": "Reações exergônicas e endergônicas possuem a mesma variação de energia livre de Gibbs."
+      },
+      {
+        "letra": "D",
+        "texto": "A energia livre de Gibbs não está relacionada com a catalisação enzimática."
+      },
+      {
+        "letra": "E",
+        "texto": "A energia livre de Gibbs não é um conceito aplicável a reações exergônicas e endergônicas."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106219,
+    "tags": [],
+    "enunciado": "Qual dos seguintes processos descreve corretamente o movimento de sais minerais através da membrana de uma hemácia em contato com um plasma contendo excesso de cloreto, levando em consideração o gradiente eletroquímico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Difusão simples: os sais minerais se movem passivamente da região de menor concentração para a região de maior concentração, sem a influência de cargas elétricas."
+      },
+      {
+        "letra": "B",
+        "texto": "Transporte ativo primário: os sais minerais são transportados ativamente contra o gradiente, gastando energia celular e contrariando as diferenças de concentração e carga elétrica."
+      },
+      {
+        "letra": "C",
+        "texto": "Transporte ativo secundário: os sais minerais são transportados ativamente através de uma proteína de membrana que utiliza o gradiente elétrico gerado pelo excesso de cloreto no plasma."
+      },
+      {
+        "letra": "D",
+        "texto": "Osmose: os sais minerais são transportados através de um gradiente osmótico, movendo-se de uma região de maior pressão osmótica para uma região de menor pressão osmótica."
+      },
+      {
+        "letra": "E",
+        "texto": "Endocitose: os sais minerais são internalizados pela hemácia através da formação de vesículas membranosas, independente das concentrações e dos gradientes elétricos e químicos."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106220,
+    "tags": [],
+    "enunciado": "Qual das seguintes opções descreve corretamente a diferença na distribuição de cargas elétricas entre uma célula não excitável e uma célula excitável no conceito de potencial de membrana?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Na célula não excitável, há uma distribuição uniforme de cargas elétricas tanto dentro quanto fora da membrana celular, enquanto na célula excitável há uma distribuição desigual de cargas elétricas entre as duas regiões."
+      },
+      {
+        "letra": "B",
+        "texto": "Tanto na célula não excitável quanto na célula excitável, há uma distribuição uniforme de cargas elétricas tanto dentro quanto fora da membrana celular."
+      },
+      {
+        "letra": "C",
+        "texto": "Na célula não excitável, há uma distribuição desigual de cargas elétricas tanto dentro quanto fora da membrana celular, enquanto na célula excitável há uma distribuição uniforme de cargas elétricas entre as duas regiões."
+      },
+      {
+        "letra": "D",
+        "texto": "Tanto na célula não excitável quanto na célula excitável, há uma distribuição desigual de cargas elétricas tanto dentro quanto fora da membrana celular."
+      },
+      {
+        "letra": "E",
+        "texto": "Na célula não excitável, há uma distribuição uniforme de cargas elétricas tanto dentro quanto fora da membrana celular, assim como na célula excitável."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 106221,
+    "tags": [],
+    "enunciado": "O grá(cid:69)co abaixo representa o potencial de membrana de um neurônio cerebral quando sobre um estímulo qualquer: Analisando as informações contidas no grá(cid:69)co assinale a alternativa que descreva corretamente as características do potencial de ação desse neurônio:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Durante o potencial de ação, o neurônio atinge um potencial de +50mV, devido ao influxo de íons potássio."
+      },
+      {
+        "letra": "B",
+        "texto": "O neurônio dispara um potencial de ação quando seu potencial de repouso alcança ou ultrapassa - 50mV."
+      },
+      {
+        "letra": "C",
+        "texto": "O neurônio apresenta uma hiperpolarização quando seu potencial de repouso é de - 90mV, uma vez que os canais de cloreto permanecem abertos por mais tempo."
+      },
+      {
+        "letra": "D",
+        "texto": "O potencial de ação é caracterizado por uma hiperpolarização de -50mV."
+      },
+      {
+        "letra": "E",
+        "texto": "O potencial de ação do neurônio tem uma diferença de potencial de 10mV em relação ao limiar."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106222,
+    "tags": [],
+    "enunciado": "Nos pulmões saudáveis as células alveolares se utilizam de uma complicada seleção de bombas e de carreadores conhecidos para secretar sal e água pela sua superfície apical, como mostrado na figura.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fibrose Cística (FC) é uma condição que afeta as glândulas exócrinas, resultando em um aumento signi(cid:69)cativo da produção de suor eletrolítico, comprometimento do funcionamento do pâncreas e o desenvolvimento de doença pulmonar crônica com características supurativas. Em pacientes com FC há uma mutação na proteína CFTR impedindo a sua atividade. Sobre o transporte dessas diferentes proteínas de membrana presentes nas células dos pulmões, assinale a alternativa correta:"
+      },
+      {
+        "letra": "A",
+        "texto": "nas células pulmonares de indivíduos saudáveis, as proteínas transportadoras são responsáveis pelo transporte ativo de Cl⁻ para o interior da célula, mantendo um gradiente de concentração favorável para o movimento passivo de K⁺ , Na⁺ e H₂O para o meio extracelular."
+      },
+      {
+        "letra": "B",
+        "texto": "em indivíduos com fibrose cística, as proteínas transportadoras estão comprometidas, resultando em um transporte deficiente de Na+ para o interior da célula pulmonar, prejudicando o gradiente de concentração necessário para o movimento passivo de K⁺, Cl⁻ e H₂O para o meio extracelular."
+      },
+      {
+        "letra": "C",
+        "texto": "tanto em indivíduos saudáveis como em indivíduos com fibrose cística, as proteínas transportadoras são responsáveis pelo transporte ativo de potássio para o interior da célula pulmonar, enquanto o transporte de K⁺, Cl⁻ e H₂O ocorre por difusão passiva."
+      },
+      {
+        "letra": "D",
+        "texto": "nas células pulmonares de indivíduos saudáveis, as proteínas transportadoras promovem o transporte ativo de Cl⁻ para o interior da célula, gerando um gradiente de concentração favorável para o movimento passivo de Na⁺, K⁺ e H₂O para o meio extracelular. Em indivíduos com fibrose cística, esse transporte é comprometido."
+      },
+      {
+        "letra": "E",
+        "texto": "em ambos os casos, tanto em indivíduos saudáveis como em indivíduos com fibrose cística, as proteínas transportadoras desempenham um papel insignificante no transporte de Na⁺, K⁺, Cl⁻ e H₂O nas células pulmonares."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106223,
+    "tags": [],
+    "enunciado": "Em neurônios sensoriais, na sua grande maioria do tipo pseudounipolar, os dendritos funcionam como receptores sensoriais de várias modalidades. Quando esses são excitados por um estímulo especí(cid:69)co é gerado uma alteração do potencial da membrana conhecido como potencial do receptor, semelhante ao potencial graduado. Essa excitação percorre todo o receptor sensorial até chegar na zona de disparo do axônio, no qual, caso alcance o limiar desse neurônio, promoverá a formação do potencial de ação. De acordo com essas informações e seus conhecimentos prévios, qual dos seguintes processos descreve adequadamente a fisiologia da conversão do potencial receptor em potencial de ação no axônio?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O potencial receptor é convertido em potencial de ação por meio da liberação de neurotransmissores na fenda sináptica, que ativam diretamente os canais de íons no axônio."
+      },
+      {
+        "letra": "B",
+        "texto": "O potencial receptor é convertido em potencial de ação quando o neurônio sensorial gera uma despolarização intensa o suficiente para alcançar o limiar de disparo, desencadeando a abertura dos canais de íons voltagem-dependentes no axônio."
+      },
+      {
+        "letra": "C",
+        "texto": "A conversão do potencial receptor em potencial de ação ocorre através de um processo chamado repolarização, no qual o neurônio sensorial restabelece seu potencial de repouso após um estímulo sensorial."
+      },
+      {
+        "letra": "D",
+        "texto": "O potencial receptor é convertido em potencial de ação quando as células gliais no axônio liberam neurotransmissores, que ativam os canais de íons no neurônio sensorial."
+      },
+      {
+        "letra": "E",
+        "texto": "A conversão do potencial receptor em potencial de ação ocorre por meio da produção de correntes elétricas através do potencial receptor, que diretamente despolarizam o axônio."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106224,
+    "tags": [],
+    "enunciado": "Durante a fosforilação oxidativa na mitocôndria, o gradiente eletroquímico é essencial para o processo de produção de ATP. Esse gradiente é formado principalmente pela diferença de concentração de íons hidrogênio entre as duas faces da membrana mitocondrial interna. Qual das seguintes a(cid:69)rmações é verdadeira em relação a esse processo?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O gradiente eletroquímico é formado pela diferença de concentração de elétrons entre as duas faces da membrana mitocondrial interna."
+      },
+      {
+        "letra": "B",
+        "texto": "O gradiente eletroquímico é formado pela diferença de concentração de íons sódio (Na+) entre as duas faces da membrana mitocondrial interna."
+      },
+      {
+        "letra": "C",
+        "texto": "O gradiente eletroquímico é formado pela diferença de concentração de íons potássio (K+) entre as duas faces da membrana mitocondrial interna."
+      },
+      {
+        "letra": "D",
+        "texto": "O gradiente eletroquímico é formado pela diferença de concentração de prótons (H+) entre as duas faces da membrana mitocondrial interna."
+      },
+      {
+        "letra": "E",
+        "texto": "O gradiente eletroquímico é formado pela diferença de concentração de moléculas de oxigênio (O2) entre as duas faces da membrana mitocondrial interna."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 106225,
+    "tags": [],
+    "enunciado": "Várias reações intracelulares têm como produtos moléculas mais ou menos complexas, ou também em estados físicos diferentes, fato que promove constantemente variações na entropia do sistema. Sabendo disso, e usando seus conhecimentos sobre as leis da termodinâmica, qual das seguintes reações químicas em células animais resulta em um aumento da entropia?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Conversão de glicose em ácido lático durante a fermentação láctica."
+      },
+      {
+        "letra": "B",
+        "texto": "Síntese de proteínas a partir de aminoácidos durante a tradução do RNA."
+      },
+      {
+        "letra": "C",
+        "texto": "Quebra de triglicerídeos em ácidos graxos e glicerol durante a lipólise."
+      },
+      {
+        "letra": "D",
+        "texto": "Conversão completa de glicose em dióxido de carbono e água durante a respiração aeróbica."
+      },
+      {
+        "letra": "E",
+        "texto": "Reabsorção de glicose pelos túbulos renais durante a filtração glomerular."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 106226,
+    "tags": [],
+    "enunciado": "Qual dos seguintes mecanismos descreve corretamente a interação entre um neurotransmissor inibitório e um receptor na membrana pós-sináptica em uma sinapse química?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O neurotransmissor inibitório se liga ao receptor na membrana pós-sináptica e causa a abertura de canais iônicos que permitem a entrada de íons excitatórios, despolarizando a membrana."
+      },
+      {
+        "letra": "B",
+        "texto": "O neurotransmissor inibitório se liga ao receptor na membrana pós-sináptica e ativa uma cascata de sinais intracelulares que resulta na inibição da síntese de neurotransmissores excitatórios."
+      },
+      {
+        "letra": "C",
+        "texto": "O neurotransmissor inibitório se liga ao receptor na membrana pós-sináptica e promove a hiperpolarização da membrana, aumentando a diferença de potencial e diminuindo a probabilidade de geração de um potencial de ação."
+      },
+      {
+        "letra": "D",
+        "texto": "O neurotransmissor inibitório se liga ao receptor na membrana pós-sináptica e ativa os canais de cálcio, promovendo a liberação de neurotransmissores excitatórios na fenda sináptica."
+      },
+      {
+        "letra": "E",
+        "texto": "O neurotransmissor inibitório se liga ao receptor na membrana pós-sináptica e estimula a síntese de neurotransmissores inibitórios adicionais, ampliando o efeito inibitório na sinapse."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106227,
+    "tags": [],
+    "enunciado": "A transmissão de sinais elétricos nas células nervosas é fundamental para o funcionamento do sistema nervoso. Dois conceitos-chave relacionados a essa transmissão são o potencial de repouso e o potencial de ação. Qual das seguintes afirmações é verdadeira em relação a esses potenciais nas células nervosas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O potencial de repouso é caracterizado por uma alta concentração de íons de sódio dentro da célula e uma alta concentração de íons de potássio fora da célula, enquanto o potencial de ação é o resultado da passagem de íons de cálcio para dentro da célula."
+      },
+      {
+        "letra": "B",
+        "texto": "Durante o potencial de repouso, as concentrações de íons de sódio e potássio são mantidas constantes dentro e fora da célula, enquanto o potencial de ação ocorre quando há um aumento significativo na concentração de íons de cloro no interior da célula."
+      },
+      {
+        "letra": "C",
+        "texto": "O potencial de repouso é estabelecido pela bomba de sódio-potássio, que mantém uma alta concentração de íons de sódio fora da célula e uma alta concentração de íons de potássio dentro da célula, enquanto o potencial de ação é desencadeado pela abertura de canais de íons de potássio na membrana celular."
+      },
+      {
+        "letra": "D",
+        "texto": "Durante o potencial de repouso, ocorre um influxo de íons de sódio para dentro da célula e um efluxo de íons de potássio para fora da célula, enquanto o potencial de ação é resultado do movimento de íons de potássio para dentro da célula e íons de sódio para fora da célula."
+      },
+      {
+        "letra": "E",
+        "texto": "O potencial de repouso é caracterizado pela ausência de atividade elétrica na célula nervosa, enquanto o potencial de ação é uma onda de despolarização que se propaga ao longo da membrana celular."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106228,
+    "tags": [],
+    "enunciado": "Durante o metabolismo de ácidos graxos, nas mitocôndrias algumas reações são necessárias para a transformação dos ácidos graxos em calorias (ou energia). Os ácidos graxos com até 12 carbonos atravessam a membrana mitocondrial sem problemas. Para ácidos graxos maiores entram em ação algumas enzimas especí(cid:69)cas, que os convertem em acil-CoA e carnitina. A carnitina transfere o acil-CoA para dentro da mitocôndria, na qual é convertido em acetil-CoA, que segue para o ciclo de Krebs, NADH e FADH2 que vão para a fosforilação oxidativa. Tendo essas informações disponíveis, qual é o efeito da beta oxidação de ácidos graxos na variação de energia livre nas células?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A beta oxidação de ácidos graxos consome energia."
+      },
+      {
+        "letra": "B",
+        "texto": "A beta oxidação de ácidos graxos libera energia na forma de calor apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "A beta oxidação de ácidos graxos não afeta a variação de energia livre."
+      },
+      {
+        "letra": "D",
+        "texto": "A beta oxidação de ácidos graxos resulta em uma variação de energia livre nula."
+      },
+      {
+        "letra": "E",
+        "texto": "A variação de energia livre na beta oxidação de ácidos graxos é negativa."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 106229,
+    "tags": [],
+    "enunciado": "A osmose desempenha um papel fundamental na formação da urina (cid:69)nal nos organismos. Considere as seguintes opções e escolha a alternativa que descreve corretamente a importância da osmose nesse processo, além de definir o tipo de transporte que ela representa:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A osmose na formação da urina final ocorre quando ocorre a reabsorção ativa de água e íons através das células tubulares renais, mantendo o equilíbrio osmótico do corpo."
+      },
+      {
+        "letra": "B",
+        "texto": "A osmose é responsável pela filtração do sangue nos glomérulos renais, removendo impurezas e toxinas para a formação da urina final."
+      },
+      {
+        "letra": "C",
+        "texto": "A osmose na formação da urina final envolve o transporte ativo de ureia e outros solutos através das membranas tubulares, garantindo a eliminação eficiente de resíduos metabólicos."
+      },
+      {
+        "letra": "D",
+        "texto": "A osmose é responsável por manter a pressão osmótica adequada nos néfrons renais, promovendo a inserção de mais água e solutos necessários para a formação da urina final."
+      },
+      {
+        "letra": "E",
+        "texto": "A osmose na formação da urina final é o processo passivo de difusão de água através das membranas tubulares, permitindo a concentração de urina e a excreção de substâncias indesejadas."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 106230,
+    "tags": [],
+    "enunciado": "O transporte passivo nas membranas biológicas refere-se ao movimento de substâncias através da membrana sem o gasto de energia celular. Isso ocorre por difusão simples ou por difusão facilitada, nas quais as moléculas se movem a favor de seu gradiente de concentração. Qual das seguintes a(cid:69)rmações descreve corretamente uma diferença fisiológica entre o transporte passivo por difusão simples e difusão facilitada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A difusão simples ocorre apenas para moléculas lipossolúveis, enquanto a difusão facilitada pode ocorrer tanto para moléculas lipossolúveis quanto para moléculas hidrossolúveis."
+      },
+      {
+        "letra": "B",
+        "texto": "A difusão simples requer a presença de proteínas transportadoras específicas, enquanto a difusão facilitada ocorre espontaneamente sem a necessidade de proteínas."
+      },
+      {
+        "letra": "C",
+        "texto": "A difusão simples é um processo energicamente ativo que requer gasto de ATP, enquanto a difusão facilitada é um processo passivo que não consome energia."
+      },
+      {
+        "letra": "D",
+        "texto": "A difusão simples ocorre exclusivamente por meio de canais iônicos na membrana, enquanto a difusão facilitada envolve apenas a ação de transportadores de soluto."
+      },
+      {
+        "letra": "E",
+        "texto": "A difusão simples permite a passagem seletiva de substâncias através da membrana, enquanto a difusão facilitada permite o transporte indiscriminado de qualquer molécula através da membrana."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106231,
+    "tags": [],
+    "enunciado": "O processo de transporte de substâncias pelas membranas celulares pode acontecer dependendo exclusivamente das diferenças das concentrações em ambos os lados das membranas. Esse tipo de transporte permite a passagem de moléculas cujo tamanho é um impeditivo para a sua passagem pelas barreiras fosfolipídica. Sabendo disso, como ocorre a difusão facilitada de substâncias através da membrana celular por meio de proteínas transportadoras?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As proteínas transportadoras não interagem especificamente com a substância transportada, mas sim abrem pequenos portões que permitem a passagem das moléculas."
+      },
+      {
+        "letra": "B",
+        "texto": "As proteínas transportadoras são capazes de alterar a permeabilidade da membrana, permitindo que as substâncias difundam livremente."
+      },
+      {
+        "letra": "C",
+        "texto": "As proteínas transportadoras podem formam poros na membrana que permitem a passagem de íons à favor dos seus gradientes de concentração até que o gradiente elétrico cesse o movimento."
+      },
+      {
+        "letra": "D",
+        "texto": "As proteínas transportadoras sintetizam as substâncias dentro da célula a partir de precursores metabólicos."
+      },
+      {
+        "letra": "E",
+        "texto": "As proteínas transportadoras encapsulam as substâncias em vesículas exocíticas e as secretam para o meio extracelular."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106232,
+    "tags": [],
+    "enunciado": "A miastenia grave é uma doença autoimune que afeta a interação do neurotransmissor com seus receptores pós-sinápticos nas junções neuromusculares. Sobre a (cid:69)siologia dessas junções e as consequências da miastenia grave, qual das seguintes opções é correta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Na junção neuromuscular, os impulsos nervosos são transmitidos através da liberação de neurotransmissores que ativam os receptores de acetilcolina na membrana pós-sináptica. Na miastenia grave, a redução na disponibilidade de receptores pós-sinápticos para acetilcolina, levando fraqueza muscular acompanhada de cansaço físico precoce."
+      },
+      {
+        "letra": "B",
+        "texto": "Na junção neuromuscular, os impulsos nervosos são transmitidos através da liberação de neurotransmissores que ativam os receptores de dopamina na membrana pós- sináptica. Na miastenia grave, ocorre uma superprodução de dopamina, levando à hiperatividade muscular."
+      },
+      {
+        "letra": "C",
+        "texto": "Na junção neuromuscular, os impulsos nervosos são transmitidos através da liberação de neurotransmissores que ativam os receptores de serotonina na membrana pós- sináptica. Na miastenia grave, ocorre uma diminuição na produção de serotonina, resultando em espasmos musculares."
+      },
+      {
+        "letra": "D",
+        "texto": "Na junção neuromuscular, os impulsos nervosos são transmitidos através da liberação de neurotransmissores que ativam os receptores de ácido gama-aminobutírico (GABA) na membrana pós-sináptica. Na miastenia grave, ocorre uma superprodução de GABA, levando à rigidez muscular."
+      },
+      {
+        "letra": "E",
+        "texto": "Na junção neuromuscular, os impulsos nervosos são transmitidos através da liberação de neurotransmissores que ativam os receptores de glutamato na membrana pós- sináptica. Na miastenia grave, ocorre um aumento na liberação de glutamato, resultando em contrações musculares intensas."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106233,
+    "tags": [],
+    "enunciado": "Os íons desempenham um papel essencial na geração e manutenção do potencial de membrana. Considerando os íons potássio (K⁺), sódio (Na⁺) e cálcio (Ca²⁺), assinale a alternativa correta que descreve sua contribuição no potencial de membrana celular.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O potássio é o principal íon envolvido na geração do potencial de membrana, pois sua concentração intracelular é maior do que no meio extracelular, contribuindo para o interior da célula ser eletronegativo em relação ao exterior."
+      },
+      {
+        "letra": "B",
+        "texto": "O sódio desempenha um papel fundamental na manutenção do potencial de membrana, pois sua concentração intracelular é maior do que no meio extracelular, gerando um gradiente elétrico que polariza a membrana celular."
+      },
+      {
+        "letra": "C",
+        "texto": "O cálcio é o principal íon responsável pela geração do potencial de membrana, uma vez que sua concentração é significativamente maior no meio intracelular, gerando uma corrente elétrica que polariza a membrana."
+      },
+      {
+        "letra": "D",
+        "texto": "O potencial de membrana é resultado da ação conjunta dos íons potássio, sódio e cálcio, que se equilibram na mesma proporção tanto dentro quanto fora da célula."
+      },
+      {
+        "letra": "E",
+        "texto": "A concentração de íons não influencia na geração do potencial de membrana, sendo esse fenômeno exclusivamente dependente da atividade das bombas de transporte na membrana celular."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106234,
+    "tags": [],
+    "enunciado": "O potencial de membrana celular é um fenômeno elétrico que desempenha um papel fundamental nas funções celulares. Considerando os processos de difusão e transporte ativo de íons, assinale a alternativa correta que descreve a geração do potencial de membrana.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O potencial de membrana é gerado pela difusão de íons através da membrana plasmática, que cria um meio iônico intracelular de composição distinta do meio extracelular."
+      },
+      {
+        "letra": "B",
+        "texto": "O potencial de membrana é formado pela produção de íons no meio intracelular e sua difusão passiva para o meio extracelular."
+      },
+      {
+        "letra": "C",
+        "texto": "O potencial de membrana é resultante da ação de enzimas específicas que sintetizam íons dentro da célula, criando uma diferença de potencial elétrico."
+      },
+      {
+        "letra": "D",
+        "texto": "O potencial de membrana é gerado pela atividade dos ribossomos, que produzem íons para manter o equilíbrio elétrico da célula."
+      },
+      {
+        "letra": "E",
+        "texto": "O potencial de membrana é resultado exclusivo do transporte ativo de íons através da membrana plasmática."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106235,
+    "tags": [],
+    "enunciado": "Durante o ciclo de Krebs, que ocorre na respiração celular, a primeira lei da termodinâmica pode ser aplicada para afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A energia total do sistema permanece constante ao longo do ciclo, sendo convertida em diferentes formas, mas sem perdas significativas, pois é armazenada nas moléculas transportadoras de elétrons, como NADH e FADH2."
+      },
+      {
+        "letra": "B",
+        "texto": "A energia produzida no ciclo é transferida para a mitocôndria, onde é armazenada como energia química."
+      },
+      {
+        "letra": "C",
+        "texto": "A energia liberada durante o ciclo é totalmente convertida em energia térmica, sem contribuir para a produção de ATP."
+      },
+      {
+        "letra": "D",
+        "texto": "A energia é completamente consumida no ciclo para a formação de moléculas de NADH e FADH2, importantes transportadores de elétrons utilizados no ciclo de Krebs."
+      },
+      {
+        "letra": "E",
+        "texto": "A energia liberada durante o ciclo é totalmente convertida em energia química na forma de ATP, sem haver qualquer perda na forma de calor."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106236,
+    "tags": [],
+    "enunciado": "Quais são as diferenças (cid:69)siológicas entre o mecanismo de contração do músculo estriado esquelético e do músculo liso em relação ao sarcômero, retículo sarcoplasmático, troponina, tropomiosina, miosina, actina e calmodulina?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Embora o sarcômero esteja presente tanto no músculo estriado esquelético quanto no músculo liso, sua organização é diferente entre esses tipos de músculo."
+      },
+      {
+        "letra": "B",
+        "texto": "O retículo sarcoplasmático é mais desenvolvido no músculo liso do que no músculo estriado esquelético."
+      },
+      {
+        "letra": "C",
+        "texto": "Embora a tropomiosina estejam presentes apenas no músculo estriado esquelético, o músculo liso possui proteínas regulatórias que são análogas a elas."
+      },
+      {
+        "letra": "D",
+        "texto": "Embora a miosina e a actina sejam proteínas presentes em ambos os tipos de músculo, no liso a hidrólise de ATP ocorre diretamente na tropomiosina da actina."
+      },
+      {
+        "letra": "E",
+        "texto": "Enquanto a calmodulina desempenha um papel importante na regulação da contração do músculo liso, a troponina desempenha essa função no músculo estriado esquelético, mas ambas as proteínas são reguladoras-chave da contração muscular em seus respectivos tipos de músculo."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 106237,
+    "tags": [],
+    "enunciado": "O transporte ativo acoplado de moléculas é um processo que envolve o movimento de moléculas através da membrana celular, impulsionado pelo gasto de energia. Um exemplo (cid:69)siológico desse processo é a absorção de glicose pelos enterócitos no intestino delgado. Qual das seguintes a(cid:69)rmações é verdadeira sobre o transporte ativo acoplado de moléculas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O processo é independente da energia, pois as moléculas movem-se livremente através da membrana celular."
+      },
+      {
+        "letra": "B",
+        "texto": "O processo é mediado por proteínas transportadoras que usam a energia gerada pela hidrólise de ATP."
+      },
+      {
+        "letra": "C",
+        "texto": "O processo é mediado por proteínas transportadoras que utilizam a energia de um gradiente eletroquímico ou a energia de hidrólise do ATP para impulsionar o transporte de moléculas através da membrana celular, contra o gradiente de concentração."
+      },
+      {
+        "letra": "D",
+        "texto": "O processo é mediado pela difusão simples, permitindo a passagem livre de moléculas através da membrana celular."
+      },
+      {
+        "letra": "E",
+        "texto": "O processo é exclusivamente observado em regiões nas quais a concentração de glicose no meio externo é menor que no citosol, sendo assim transportado com auxílio da osmose."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106238,
+    "tags": [],
+    "enunciado": "Analise as a(cid:69)rmações abaixo com relação às leis da termodinâmica que podem ser aplicadas à sistemas biológicos e assinale a alternativa correta: I. A primeira lei da termodinâmica a(cid:69)rma que a variação da energia interna de um sistema termodinâmico é igual à diferença entre a energia na forma de calor fornecida ao sistema e do trabalho realizado pelo sistema. II. A segunda lei da termodinâmica a(cid:69)rma que é sempre impossível realizar um processo termodinâmico cujo único efeito seja a transferência de energia térmica de um sistema de menor temperatura para um sistema de maior temperatura. III. A terceira lei da termodinâmica a(cid:69)rma que é impossível atingir o zero absoluto da temperatura em um número finito de etapas.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente as afirmações I e II são verdadeiras."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente as afirmações II e III são verdadeiras."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente as afirmações I e III são verdadeiras."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente a afirmação II é verdadeira."
+      },
+      {
+        "letra": "E",
+        "texto": "Todas as afirmações são verdadeiras."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 106239,
+    "tags": [],
+    "enunciado": "A atividade elétrica dos neurônios é fundamental para a transmissão de informações no sistema nervoso. Nesse contexto, existem dois tipos de potenciais elétricos relevantes: o potencial de repouso e o potencial de ação. Qual é a principal diferença entre o potencial de repouso e o potencial de ação em neurônios?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O potencial de repouso é uma mudança abrupta na polaridade da membrana, enquanto o potencial de ação é uma mudança gradativa."
+      },
+      {
+        "letra": "B",
+        "texto": "O potencial de repouso é uma mudança na permeabilidade da membrana, enquanto o potencial de ação é uma mudança na carga elétrica da membrana."
+      },
+      {
+        "letra": "C",
+        "texto": "O potencial de repouso é o estado elétrico de uma célula nervosa no repouso, enquanto o potencial de ação é uma mudança brusca e temporária no potencial elétrico da membrana celular."
+      },
+      {
+        "letra": "D",
+        "texto": "O potencial de repouso ocorre na presença de um estímulo, enquanto o potencial de ação ocorre na ausência de um estímulo."
+      },
+      {
+        "letra": "E",
+        "texto": "O potencial de repouso é uma mudança na concentração de íons na membrana, enquanto o potencial de ação é uma mudança na polaridade da membrana."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106240,
+    "tags": [],
+    "enunciado": "As sinapses elétricas são junções entre células nervosas que permitem a passagem direta de correntes elétricas entre elas. Essas sinapses são menos comuns do que as sinapses químicas, mas ainda assim desempenham um papel importante no sistema nervoso. Com base nisso, qual das seguintes alternativas é correta em relação à biofísica e fisiologia das sinapses elétricas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As sinapses elétricas são mais lentas do que as sinapses químicas."
+      },
+      {
+        "letra": "B",
+        "texto": "Nas sinapses elétricas, a transmissão do sinal nervoso ocorre por meio de neurotransmissores."
+      },
+      {
+        "letra": "C",
+        "texto": "Nas sinapses elétricas, o potencial de membrana de uma célula afeta diretamente o potencial de membrana da célula adjacente."
+      },
+      {
+        "letra": "D",
+        "texto": "As sinapses elétricas são encontradas apenas em células musculares."
+      },
+      {
+        "letra": "E",
+        "texto": "As sinapses elétricas são unidirecionais, permitindo que o sinal nervoso se propague apenas em uma direção."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106241,
+    "tags": [],
+    "enunciado": "Os neurotransmissores podem gerar respostas rápidas ou lentas neuromoduladoras, dependendo à quais receptores eles se ligam. Qual é a alternativa correta sobre a (cid:69)siologia da sinalização celular em neurônios usando receptores acoplados à proteína G (GPCRs) em neurotransmissores de ação lenta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A sinalização celular usando receptores acoplados à proteína G em neurotransmissores de ação lenta ocorre através de canais iônicos regulados por ligantes."
+      },
+      {
+        "letra": "B",
+        "texto": "A sinalização celular usando receptores acoplados à proteína G em neurotransmissores de ação lenta é rápida e efêmera."
+      },
+      {
+        "letra": "C",
+        "texto": "A sinalização celular usando receptores acoplados à proteína G em neurotransmissores de ação lenta é mediada por segundos mensageiros intracelulares."
+      },
+      {
+        "letra": "D",
+        "texto": "A sinalização celular usando receptores acoplados à proteína G em neurotransmissores de ação lenta não é afetada por drogas ou fármacos."
+      },
+      {
+        "letra": "E",
+        "texto": "A sinalização celular usando receptores acoplados à proteína G em neurotransmissores de ação lenta é restrita a neurônios do sistema nervoso central."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106242,
+    "tags": [],
+    "enunciado": "A força motora líquida que impele um soluto através de uma membrana celular é denominada gradiente ou potencial eletroquímico, representado pela combinação de duas forças. Para alguns íons, essas duas forças funcionam na mesma direção, criando um potencial eletroquímico relativamente alto. Se, no entanto, as duas forças tiverem efeitos opostos, o potencial eletroquímico resultante pode ser pequeno. Qual das alternativas a seguir descreve corretamente a equação de potencial eletroquímico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ela descreve a relação entre o potencial elétrico e a concentração de um soluto em solução."
+      },
+      {
+        "letra": "B",
+        "texto": "Ela descreve a relação entre o potencial elétrico e o fluxo de elétrons através de um circuito neural."
+      },
+      {
+        "letra": "C",
+        "texto": "Ela descreve a relação entre a concentração de um soluto em solução e a pressão parcial do gás dissolvido."
+      },
+      {
+        "letra": "D",
+        "texto": "Ela descreve a relação entre a diferença de potencial elétrico e a quantidade de trabalho realizado por uma célula."
+      },
+      {
+        "letra": "E",
+        "texto": "Ela descreve a relação entre o potencial elétrico e a diferença de concentração de um íon em ambos os lados de uma membrana celular."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 106243,
+    "tags": [],
+    "enunciado": "As leis da termodinâmica são princípios fundamentais da física que governam a transformação de energia em diversos processos. Essas leis também são aplicáveis aos sistemas biológicos e ao metabolismo celular. Qual das seguintes alternativas representa corretamente a Segunda Lei da Termodinâmica aplicada a sistemas biológicos?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A energia total de um sistema biológico isolado permanece constante."
+      },
+      {
+        "letra": "B",
+        "texto": "Em um sistema biológico, a entropia sempre aumenta."
+      },
+      {
+        "letra": "C",
+        "texto": "Em um sistema biológico, a entalpia sempre diminui."
+      },
+      {
+        "letra": "D",
+        "texto": "A temperatura de um sistema biológico é sempre mantida em equilíbrio termodinâmico."
+      },
+      {
+        "letra": "E",
+        "texto": "A pressão de um sistema biológico é sempre mantida constante."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106244,
+    "tags": [],
+    "enunciado": "Nos organismos biológicos a hidrólise da molécula de ATP é utilizada para direcionar a maioria dos processos endergônicos na célula, como a separação de cargas elétricas através de uma membrana celular, concentrar um soluto em particular no interior do citoplasma, contração do sarcômero em células musculares estriadas, dirigir uma reação química contrária desfavorável além de gerar calor. Considerando a formação do aminoácido glutamina a partir do ácido glutâmico, pela enzima glutamato sintetase, com uma variação de energia livre padrão de ΔGº = +3,4 Kcal/mol e reação: Ácido Glutâmico + NH3 → Glutamina",
+    "alternativas": [
+      {
+        "letra": "E",
+        "texto": "sabendo que na célula ela ocorre em duas etapas, com hidrólise de ATP que tem um ΔGº = -7,3 Kcal/mol conforme a reação global abaixo: Ácido Glutâmico + ATP + NH3 → Glutamina + ADP + Pᵢ Podemos afirmar que:"
+      },
+      {
+        "letra": "A",
+        "texto": "a reação ocorrerá normalmente, uma vez que com a hidrólise de ATP a torna exergônica com ΔGº = -3,9 Kcal/mol."
+      },
+      {
+        "letra": "B",
+        "texto": "não será possível a formação desse aminoácido pois, mesmo com a utilização do ATP a reação se mantém endergônica com ΔGº = +10,7 Kcal/mol."
+      },
+      {
+        "letra": "C",
+        "texto": "ela só acontece porque a hidrólise de ATP gera uma variação de energia livre ainda mais negativa, em torno de -10,7 Kcal/mol."
+      },
+      {
+        "letra": "D",
+        "texto": "se iniciará normalmente, porém não se manterá, pois, a entropia será máxima."
+      },
+      {
+        "letra": "E",
+        "texto": "independentemente da participação de ATP a reação aconteceria por se tratar de uma reação exergônica."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106245,
+    "tags": [],
+    "enunciado": "Qual das seguintes alternativas descreve corretamente o papel da troponina e da tropomiosina na contração do músculo estriado cardíaco?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A troponina e a tropomiosina são proteínas que interagem com os filamentos de miosina, permitindo a contração muscular."
+      },
+      {
+        "letra": "B",
+        "texto": "A troponina e a tropomiosina são proteínas que se ligam à membrana celular, permitindo a entrada de cálcio na célula."
+      },
+      {
+        "letra": "C",
+        "texto": "A troponina e a tropomiosina são proteínas que regulam a liberação de cálcio do retículo endoplasmático."
+      },
+      {
+        "letra": "D",
+        "texto": "A troponina e a tropomiosina são proteínas que se ligam aos filamentos de actina, bloqueando a interação com os filamentos de miosina em repouso."
+      },
+      {
+        "letra": "E",
+        "texto": "A troponina e a tropomiosina são proteínas que se localizam nos túbulos T, regulando a despolarização da membrana celular."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 106246,
+    "tags": [],
+    "enunciado": "No organismo animal, embora a maior parte da massa muscular corporal seja formada por músculo estriado esquelético, a musculatura lisa é fundamental para a manutenção da homeostase. Ele é comumente encontrado na parede de órgãos viscerais ocos, cuja contração promove alterações no formato do órgão. Essas alterações são cruciais, por exemplo, para o peristaltismo do tubo digestório e também na resistência ao (cid:88)uxo sanguíneo através da vasoconstrição. A estrutura tecidual e os mecanismos básicos envolvidos na contração do músculo liso diferem daqueles observados nos músculos estriados. Sobre a estrutura e (cid:69)siologia básica da musculatura lisa pode-se dizer que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "as proteínas actina e miosina também se organizam em sarcômeros, cuja contração é ativada exclusivamente pelo influxo de Ca2+ pelos canais localizados nas cavéolas."
+      },
+      {
+        "letra": "B",
+        "texto": "não possuem sarcômeros e o cálcio necessário pode ser adquirido via canais dependentes de voltagem nas cavéolas e canais no retículo sarcoplasmático, dependentes de Ca2+ ou mediada pelo mensageiro IP3."
+      },
+      {
+        "letra": "C",
+        "texto": "assim como ocorre nos músculos estriados o Ca2+ intracelular se liga à troponina do filamento fino, permitindo a ligação da miosina com a actina."
+      },
+      {
+        "letra": "D",
+        "texto": "à semelhança da musculatura estriada as células musculares lisas iniciam sua contração por intermédio da liberação de cálcio, provenientes exclusivamente do interior do retículo sarcoplasmático."
+      },
+      {
+        "letra": "E",
+        "texto": "as células musculares lisas se arranjam apenas de maneira paralela, não havendo qualquer tipo de junção intercelular, sendo cada célula estimulada sempre de modo independente."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106247,
+    "tags": [],
+    "enunciado": "As membranas celulares são estruturas constituídas por uma bicamada fosfolipídica de fundamental importância para a célula. Uma vez que os processos bioquímicos envolvidos na função celular requerem a manutenção de um ambiente intracelular precisamente controlado, caso não existisse uma barreira envolvendo a célula para prevenir as trocas entre os espaços intracelulares e extracelulares, toda a composição ímpar do citoplasma, duramente conquistada, seria perdida por difusão em alguns segundos. Dessa forma, pensando no transporte não acoplado de uma molécula pequena e hidrofóbica “X”, não carregada eletricamente, através de uma membrana celular, pode-se afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o gradiente de concentração promoverá o seu movimento por difusão simples."
+      },
+      {
+        "letra": "B",
+        "texto": "a diferença de energia potencial elétrica estimulará o seu movimento por difusão facilitada."
+      },
+      {
+        "letra": "C",
+        "texto": "o gradiente eletroquímico será a força motriz que resultará na sua passagem direta pela bicamada lipídica."
+      },
+      {
+        "letra": "D",
+        "texto": "apenas o gradiente de concentração atuará sobre a molécula “X”, atravessando-o por transporte ativo."
+      },
+      {
+        "letra": "E",
+        "texto": "apenas o gradiente elétrico exercerá força sobre essa molécula."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106248,
+    "tags": [],
+    "enunciado": "Os seres biológicos vivos mesmo apresentando um alto grau organizacional e de complexidade interna não estão livres das consequências das leis da termodinâmica que regem o universo. Em sistemas biológicos isso pode ser apreciado no ambiente celular, observando as diferentes reações citoplasmáticas e movimento de moléculas através das várias estruturas. No citoplasma a transferência de moléculas para dentro e para fora dos diferentes compartimentos membranosos obedecem à 2ª Lei da termodinâmica que descreve a transferência da energia sempre de níveis mais altos para níveis mais baixos de maneira espontânea. No meio do caminho desse movimento natural das moléculas se encontra as membranas celulares, entretanto, as quais são seletivamente permeáveis devido à sua natureza hidrofóbica. Os mais variados íons celulares se movimentam através das membranas biológicas com a ajuda de proteínas transportadoras integrais. Sobre o transporte de moléculas através de tais proteínas assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "quando os íons são transportados a favor do gradiente eletroquímico, as proteínas transportadoras estão sempre acopladas à hidrólise de ATP."
+      },
+      {
+        "letra": "B",
+        "texto": "no transporte de glicose para dentro das células teciduais a partir do líquido extracelular, sempre há gasto de ATP celular, pois a concentração intracitoplasmática é sempre maior."
+      },
+      {
+        "letra": "C",
+        "texto": "nos neurônios, após a transmissão do potencial de ação, o sódio e potássio são transportados, para fora e para dentro respectivamente, contra seus gradientes eletroquímicos pelas bombas de Na+/K+, havendo assim gasto de ATP."
+      },
+      {
+        "letra": "D",
+        "texto": "na célula muscular estriada, o cálcio é liberado pelo retículo sarcoplasmático através de permeases acopladas a hidrólise de ATP, pois no citoplasma é sempre mantido um excesso desse íon."
+      },
+      {
+        "letra": "E",
+        "texto": "a ação de neurotransmissores inibitórios sobre neurônios pós-sinápticos ocorre devido ao efluxo de potássio através de permeases localizadas na membrana dessas células, associado com a hidrólise de ATP celular."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106249,
+    "tags": [],
+    "enunciado": "O tecido nervoso está organizado em células nervosas e de suporte, neurônios e neuroglia respectivamente. Na região encefálica, especi(cid:69)camente no córtex cerebral, encontra-se o corpo celular dos neurônios junto às células gliais, enquanto na região central, formada pela substância branca, estão presentes a coleção dos prolongamentos axonais desses neurônios e também células da glia. Ao longo do sistema nervoso central (SNC) pode-se observar a presença de inúmeros circuitos neurais formados por mais ou menos neurônios. Imaginando um pequeno circuito cortical cerebral, composto apenas por neurônios excitatórios que se conectam através de sinapses químicas axodendríticas, está correto afirmar que em todas elas:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ocorre a liberação de neurotransmissores excitatórios."
+      },
+      {
+        "letra": "B",
+        "texto": "os íons sódio passam diretamente de uma célula à outra."
+      },
+      {
+        "letra": "C",
+        "texto": "o íon potássio é quem estimula a saída dos neurotransmissores pelo botão sináptico."
+      },
+      {
+        "letra": "D",
+        "texto": "há contato físico entre as membranas celulares."
+      },
+      {
+        "letra": "E",
+        "texto": "esses neurotransmissores podem gerar também potenciais de repouso."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106250,
+    "tags": [],
+    "enunciado": "O corpo humano contém três tipos fundamentalmente diferentes de músculos, adaptados a funções especializadas. O músculo esquelético é responsável pelo movimento voluntário dos ossos que são a base da locomoção e produção de trabalho. O músculo cardíaco é especí(cid:69)co do coração na função de bomba biomecânica que conduz a distribuição de sangue para os pulmões e tecidos. O músculo liso provê controle mecânico dos sistemas de órgãos tais como os tratos digestório, urinário e reprodutivo, assim como os vasos sanguíneos do sistema circulatório e as passagens das vias aéreas do sistema respiratório. O processo de contração dos músculos é iniciado por um neurotransmissor químico, por um fator parácrino ou pela excitação elétrica direta. Todos os músculos fazem a transdução da energia química liberada pela hidrólise de ATP em trabalho mecânico. Sobre os acontecimentos envolvidos no processo de contração dos músculos estriados, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a despolarização dos túbulos T na altura das tríades resulta apenas no influxo de cálcio proveniente do fluido extracelular."
+      },
+      {
+        "letra": "B",
+        "texto": "a ligação da molécula de ATP à cabeça da miosina reduz a sua afinidade pela actina, causando a dissociação do complexo actina-miosina."
+      },
+      {
+        "letra": "C",
+        "texto": "a hidrólise das moléculas de ATP presentes no sarcoplasma é suficiente para promover a formação das pontes cruzadas."
+      },
+      {
+        "letra": "D",
+        "texto": "o estado de rigor mortis, observado em cadáveres logo após a sua morte, é desencadeado pela ausência da recaptação de cálcio pelo retículo sarcoplasmático."
+      },
+      {
+        "letra": "E",
+        "texto": "nesse tipo de músculo a única e suficiente fonte energética é representada pela molécula de fosfocreatina sarcoplasmática."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106251,
+    "tags": [],
+    "enunciado": "Em alguns tipos de câncer de mama, a divisão das células cancerosas depende da presença contínua de estrogênio. O tamoxifeno é um antagonista do estrogênio. Ele compete com o estrogênio pela ligação ao receptor de estrogênio, porém o complexo tamoxifeno-receptor possui pouco, ou nenhum, efeito sobre a expressão gênica. Como consequência, a administração de tamoxifeno após cirurgia ou durante quimioterapia desacelera ou para o crescimento das células cancerosas remanescentes nos casos de câncer de mama dependentes do hormônio. Outro análogo de esteroide, o fármaco mifepristona (RU486), liga-se ao receptor de progesterona e bloqueia a ação desse hormônio, essencial para a implantação do óvulo fecundado no útero, e, assim, age como contraceptivo. Nos dois casos descritos acima observamos a especi(cid:69)cidade entre a interação esteroide e receptor, a qual é aproveitada para promover tratamentos específicos. Levando em consideração a natureza dos fármacos apresentados e o princípio da sinalização celular que diz que as moléculas sinais se ligam em receptores especí(cid:69)cos na célula-alvo, com qual tipo de receptor os hormônios esteroides ou os fármacos descritos acima interagem?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Receptores de superfície celular acoplados a canais iônicos."
+      },
+      {
+        "letra": "B",
+        "texto": "Receptores de superfície celular acoplados a proteína G."
+      },
+      {
+        "letra": "C",
+        "texto": "Receptores de superfície celular acoplados a enzimas."
+      },
+      {
+        "letra": "D",
+        "texto": "Receptores nucleares."
+      },
+      {
+        "letra": "E",
+        "texto": "Receptores citoplasmáticos ou importinas.  Respostas: 1 A 2 C 3 B 4 A 5 B 6 D 7 E 8 A 9 C 10 A 11 E 12 A 13 A 14 C 15 D 16 C 17 A 18 C 19 D 20 B 21 B 22 B 23 D 24 D 25 C 26 C 27 E 28 E 29 A 30 C 31 A 32 A 33 A 34 A 35 E 36 C 37 E 38 C 39 C 40 C 41 E 42 B 43 A 44 D 45 B 46 A 47 C 48 A 49 B 50 D"
+      }
+    ],
+    "resposta_correta": "D"
+  }
+]

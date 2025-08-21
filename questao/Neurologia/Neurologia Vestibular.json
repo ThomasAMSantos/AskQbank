@@ -1,0 +1,910 @@
+[
+  {
+    "id": 86506,
+    "tags": [],
+    "enunciado": "Mulher, 44 anos de idade, apresenta quadro súbito de vertigem rotatória intensa há 3 horas, associada a náuseas, vômitos, sudorese profusa e mal-estar, que pioram à movimentação cefálica. Nega sintomas auditivos associados. Antecedentes: diabetes tipo 1 em uso de insulina, dislipidemia em uso de atorvastatina, hipertensão arterial em uso de anlodipino. Refere cefaleia por abuso de analgésico, em seguimento. Exame físico: PA100x60 mmHg, FC 98 bpm, Sat O₂ 98% em ar ambiente, dextro 113 mg/dL, REG, descorada (1+/4+), desidratada (2+/4+), eupneica. Nistagmo: espontâneo horizontal para a direita, semi-espontâneo presente ao olhar para a direita (horizontal para a direita) e ao olhar para a esquerda (horizontal para a direita), sendo mais intenso com o olhar para a direita e ausente com o olhar para cima e para baixo. HIT (head impulse test): presença de sacada corretiva ao virar a cabeça para a esquerda. Otoscopia: membranas timpânicas íntegras e translúcidas, meato acústico externo livre. Paciente não tolerou testes de Romberg, Fukuda e manobras posicionais por quadro de vômitos e mal-estar. Qual é o diagnóstico mais provável?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Migrânea vestibular."
+      },
+      {
+        "letra": "B",
+        "texto": "Acidente Vascular Cerebral."
+      },
+      {
+        "letra": "C",
+        "texto": "Vertigem Posicional Paroxística Benigna."
+      },
+      {
+        "letra": "D",
+        "texto": "Neurite vestibular."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 86507,
+    "tags": [],
+    "enunciado": "Vertigem Posicional Paroxística Benigna Mulher, 60 anos de idade, comparece no pronto-socorro por episódios de vertigem rotatória de início há dois dias, com duração de cerca de cinco minutos, precipitados ao deitar, levantar ou trocar de posição na cama. Entre os episódios, permanece completamente assintomática. Associa o início do quadro à queda de própria altura há dois dias. Exame neurológico: na manobra de Dix-Hallpike, apresenta nistagmo de início imediato, vertical puro para baixo, inesgotável; restante do exame normal. Tomogra(cid:75)a de crânio sem alterações. A conduta mais adequada é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Manobra de reposicionamento labiríntico."
+      },
+      {
+        "letra": "B",
+        "texto": "Corticoesteroide e difenindramina."
+      },
+      {
+        "letra": "C",
+        "texto": "Ressonância magnética de encéfalo."
+      },
+      {
+        "letra": "D",
+        "texto": "Coleta de líquido cefalorraquidiano."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 86508,
+    "tags": [],
+    "enunciado": "Uma mulher de 43 anos procurou atendimento médico com história de episódios recorrentes de vertigem. Esses episódios duravam várias horas e eram acompanhados por náuseas, vômitos e frequentemente associados à sensação de redução da acuidade auditiva unilateral. Além disso, vinha ocorrendo uma sensação de zumbido. Foram solicitados exames complementares, que sugeriram o diagnóstico de síndrome de Ménière.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "médica que acompanha essa paciente, além de solicitar a avaliação de um especialista (otorrinolaringologista), já adiantou, corretamente, a seguinte orientação:"
+      },
+      {
+        "letra": "A",
+        "texto": "aumento de alimentos ricos em ômega 3;"
+      },
+      {
+        "letra": "B",
+        "texto": "uso de dimenidrinato e piridoxina à noite;"
+      },
+      {
+        "letra": "C",
+        "texto": "dieta com alimentos de baixo índice glicêmico;"
+      },
+      {
+        "letra": "D",
+        "texto": "dieta com baixo teor de sódio e uso de diurético;"
+      },
+      {
+        "letra": "E",
+        "texto": "uso de dose baixa e diária de corticoide sistêmico."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 86509,
+    "tags": [],
+    "enunciado": "Com relação à vertigem posicional paroxística benigna, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sua duração máxima, em média, é de 2 minutos."
+      },
+      {
+        "letra": "B",
+        "texto": "Nistagmo que a acompanha em 90% das vezes é horizontal."
+      },
+      {
+        "letra": "C",
+        "texto": "É a causa mais comum de vertigem episódica."
+      },
+      {
+        "letra": "D",
+        "texto": "Raramente ocorre fatigabilidade do nistagmo."
+      },
+      {
+        "letra": "E",
+        "texto": "A manobra de Epley é a mais utilizada para confirmação diagnóstica."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 86510,
+    "tags": [],
+    "enunciado": "Um paciente previamente hígido de 42 anos de idade compareceu ao pronto-socorro com queixa de vertigem incapacitante associada a náuseas havia dois dias. Apresentava-se hemodinamicamente normal e observou-se um nistagmo horizontal unidirecional, com piora dos sintomas aos movimentos da cabeça. Não foram observadas ou relatadas outras anormalidades significativas.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "respeito desse caso clínico, julgue o item seguinte. O quadro clínico é indicativo de uma causa periférica."
+      },
+      {
+        "letra": "A",
+        "texto": "Certo."
+      },
+      {
+        "letra": "B",
+        "texto": "Errado."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 86511,
+    "tags": [],
+    "enunciado": "Um paciente previamente hígido de 42 anos de idade compareceu ao pronto-socorro com queixa de vertigem incapacitante associada a náuseas havia dois dias. Apresentava-se hemodinamicamente normal e observou-se um nistagmo horizontal unidirecional, com piora dos sintomas aos movimentos da cabeça. Não foram observadas ou relatadas outras anormalidades significativas.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "respeito desse caso clínico, julgue o item seguinte. Recomenda-se o uso do dimenidrato para alívio dos sintomas do paciente."
+      },
+      {
+        "letra": "A",
+        "texto": "Certo."
+      },
+      {
+        "letra": "B",
+        "texto": "Errado."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 86512,
+    "tags": [],
+    "enunciado": "Diferenças Clínicas entre vertigem de origem central e periférica Tontura é uma queixa extremamente comum no pronto-socorro. Os pacientes podem se queixar de tontura rotatória, sendo esta denominada vertigem, e em alguns casos a queixa de tontura é mais inespecí(cid:75)ca, em que o paciente descreve uma sensação vaga de mal-estar, como se estivesse dentro de um barco, ou flutuando. A respeito desse tema, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Diante de um paciente com vertigem de início súbito, não desencadeada por mudança de posição da cabeça, acompanhada por náuseas, vómitos, com duração de horas, duas hipóteses principais devem ser consideradas: neurite vestibular e AVC isquêmico."
+      },
+      {
+        "letra": "B",
+        "texto": "A causa mais comum de vertigem posicional e recorrente com duração de segundos é a doença de Menière"
+      },
+      {
+        "letra": "C",
+        "texto": "Labirintite é a causa mais comum de tontura em pronto-socorro e o quadro clínico é caracterizado por sintomas recorrentes e posicionais de vertigem, náusea e vômitos proeminentes, com duração de segundos. O tratamento é sintomático e nenhuma investigação adicional é necessária na suspeita de labirintite."
+      },
+      {
+        "letra": "D",
+        "texto": "AVC isquêmico é uma causa que deve ser descartada em pacientes que se apresentam com vertigem aguda e o exame mais sensível para detectar a lesão isquêmica no cerebelo ou tronco encefálico é a tomografia de crânio."
+      },
+      {
+        "letra": "E",
+        "texto": "Migrânea vestibular é uma causa comum de vertigem recorrente e os episódios de vertigem sempre estão acompanhados por cefaleia com características migranosas."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 86513,
+    "tags": [],
+    "enunciado": "Uma idosa de 78 anos de idade, diabética, hipertensa e dislipidêmica, dirigiu‑se ao pronto‑socorro com queixa de tontura contínua e espontânea, iniciada no dia anterior, com bastante náusea associada. Ela realizou TC de crânio, sem alterações isquêmicas ou hemorrágicas. Com base nessa situação hipotética, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A paciente provavelmente apresenta quadro de labirintite aguda, sem sinais de alarme, podendo receber alta para casa com cinarizina e dramin."
+      },
+      {
+        "letra": "B",
+        "texto": "Em pacientes idosos com alto risco cardiovascular, o padrão contínuo e não provocado de tontura deve ser investigado com RNM de crânio."
+      },
+      {
+        "letra": "C",
+        "texto": "Dado o tempo de evolução, caso fosse um acidente vascular encefálico, já se observariam lesões isquêmicas na TC. O diagnóstico mais provável é VPPB."
+      },
+      {
+        "letra": "D",
+        "texto": "Dado o tempo de evolução, caso fosse um acidente vascular encefálico, já se observariam lesões isquêmicas na TC. O diagnóstico mais provável é neurite vestibular."
+      },
+      {
+        "letra": "E",
+        "texto": "O quadro sugere doença de Menière, mas deve haver internação, para que se descartem outras causas menos prováveis, como acidente vascular encefálico."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 86514,
+    "tags": [],
+    "enunciado": "Paciente 45 anos apresenta queixa de tontura. Refere ser recorrente há uns 3 meses, após ter ido em uma montanha russa. O re(cid:84)exo vestíbulo-ocular encontra-se normal, há também nistagmo que muda de direção e desalinhamento vertical do olhar. Trata-se mais provavelmente de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "neurite vestibular."
+      },
+      {
+        "letra": "B",
+        "texto": "doença de Menière."
+      },
+      {
+        "letra": "C",
+        "texto": "vertigem posicional paroxística benigna."
+      },
+      {
+        "letra": "D",
+        "texto": "esclerose múltipla."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 86515,
+    "tags": [],
+    "enunciado": "A doença de Méniere está relacionada a disfunção em qual par de nervo craniano?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "II Óptico."
+      },
+      {
+        "letra": "B",
+        "texto": "IV Troclear."
+      },
+      {
+        "letra": "C",
+        "texto": "VIII Vestibulococlear."
+      },
+      {
+        "letra": "D",
+        "texto": "X Vago."
+      },
+      {
+        "letra": "E",
+        "texto": "XII Hipoglosso."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 86516,
+    "tags": [],
+    "enunciado": "Carlos, 60 anos, negro, procura atendimento médico por apresentar tontura rotatória há dois dias. Relata que a tontura é constante, intensa e não melhora com nenhuma posição. Nega alterações visuais, auditivas, motoras ou sensitivas ou outros sintomas. Não faz uso regular de medicação. É tabagista há mais de 40 anos. Exame físico geral sem alteração. Realizados os teste do impulso cefálico, nistagmo e de Skew. Não é notado nenhum movimento sacádico corretivo dos olhos, mas apresenta nistagmo horizontal que muda de direção conforme o lado que Carlos olha e desalinhamento vertical dos olhos no teste de Skew. Entre as hipóteses diagnósticas seguintes, a mais provável para Carlos é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Doença de Ménière."
+      },
+      {
+        "letra": "B",
+        "texto": "Vertigem central."
+      },
+      {
+        "letra": "C",
+        "texto": "Vertigem posicional paroxística benigna."
+      },
+      {
+        "letra": "D",
+        "texto": "Neurite vestibular."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 86517,
+    "tags": [],
+    "enunciado": "J.W., 58 anos, masculino, obeso, sedentário, hipertenso, diabético e dislipidêmico vem à unidade de atenção primária acompanhado de sua (cid:75)lha. É viúvo, trabalha como mecânico e mora sozinho. Refere que não gosta muito de médico, mas que sua (cid:75)lha insiste que ele se trate, pois o mesmo anda tendo muita tontura. Em uso de: metformina 850 mg 2x ao dia; sinvastatina 20 mg/dia; AAS 100 mg/dia; losartana 50 mg/dia; hidroclorotiazida 25 mg/dia; anlodipino 5 mg/dia e labirin 24mg/dia. Refere que tem apresentado edema em membros inferiores e crise recorrente de gota, além das tonturas terem intensi(cid:75)cado. Qual a melhor conduta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Reavaliar o uso de sinvastatina e hidroclorotiazida e fazer o teste de dix -halpik para vertigem posicional paroxística benigna."
+      },
+      {
+        "letra": "B",
+        "texto": "Reavaliar o uso de anlodipina e hidroclorotiazida e manter os demais medicamentos."
+      },
+      {
+        "letra": "C",
+        "texto": "Reavaliar o uso de anlodipina e hidroclorotiazida e fazer o teste de dix-halpik para vertigem posicional paroxística benigna."
+      },
+      {
+        "letra": "D",
+        "texto": "Reavaliar o uso de anlodipina e hidroclorotiazida e manter os demais medicamentos. 4000217258"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 86518,
+    "tags": [],
+    "enunciado": "Mulher de 45 anos comparece à unidade para consulta por demanda espontânea devido a queixa de tontura. Diz que sente “tudo girando” em crises esporádicas ao longo do dia que duram poucos segundos. Conta que o quadro iniciou há cerca de uma semana, mas que, há alguns anos atrás, apresentou um problema parecido que se resolveu sozinho. Perguntada sobre os movimentos que desencadeiam a crise, disse que sente sempre que vira a cabeça de um lado para o outro no travesseiro, quando está deitada, mas que em outros momentos a tontura aparece também. Levando em consideração a prevalência das principais causas de vertigem na Atenção Primária à Saúde, bem como os sinais de alerta para esse tipo de quadro, é uma conduta inicial adequada:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "realizar manobras de reposicionamento canalicular"
+      },
+      {
+        "letra": "B",
+        "texto": "solicitar ressonância magnética de crânio"
+      },
+      {
+        "letra": "C",
+        "texto": "prescrever antivertiginosos"
+      },
+      {
+        "letra": "D",
+        "texto": "aferir a glicemia capilar"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 86519,
+    "tags": [],
+    "enunciado": "Paciente do sexo feminino, 70 anos, relata quadro de vertigem há 20 minutos, iniciada após movimentar rapidamente a cabeça ao se levantar da cama. Refere episódios prévios semelhantes, com duração de até 30 minutos, com muitas náuseas e vômitos associados, além de uma di(cid:75)culdade para deambular. Nega cefaleia, plenitude auricular, zumbido. Exame físico sem alterações neurológicas. Realizadas manobras do HINTS (Head Impulse – Nystagmus – Test of Skew), com alteração do head impulse. Qual o próximo passo?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tomografia de crânio."
+      },
+      {
+        "letra": "B",
+        "texto": "Coleta de líquor."
+      },
+      {
+        "letra": "C",
+        "texto": "Ressonância Nuclear Magnética de crânio."
+      },
+      {
+        "letra": "D",
+        "texto": "Manobra de Dix-Hallpike. 4000189605"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 86520,
+    "tags": [],
+    "enunciado": "Roberto, 63 anos, é trazido por seu (cid:75)lho José ao centro de saúde por apresentar alteração em seu comportamento de início há 2 horas. Refere que seu pai não está conseguindo se equilibrar normalmente, derrubou todos os utensílios da cozinha quando foi preparar o café. Além disso, refere estar vendo tudo em dobro e estar com dor de cabeça leve. Roberto tem hipertensão, em uso regular de hidroclorotiazida e enalapril. Tabagista há pelo menos 20 anos, atualmente fuma em torno de 10 cigarros por dia. Ao examiná-lo, o médico de família e comunidade nota que o paciente está em regular estado geral, consciente, apresenta realmente diplopia, vertigem ao mudar de posição e ataxia de marcha. Sinais vitais estáveis. Diante do caso apresentado, o diagnóstico mais provável é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Acidente vascular cerebral posterior."
+      },
+      {
+        "letra": "B",
+        "texto": "Hemorragia subaracnóidea."
+      },
+      {
+        "letra": "C",
+        "texto": "Hemorragia intraparenquimatosa."
+      },
+      {
+        "letra": "D",
+        "texto": "Acidente vascular cerebral anterior."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 86521,
+    "tags": [],
+    "enunciado": "Paciente de 54 anos, sexo feminino, com história de tonturas há 3 meses. O MFC realiza a manobra de Dix Hallpike e percebe a presença de nistagmo vertical, que muda de direção quando o paciente olha para os lados. Uma causa possível para a tontura desta paciente é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Vertigem Postural Paroxística Benigna."
+      },
+      {
+        "letra": "B",
+        "texto": "Tumor (Schwanoma Vestibular)."
+      },
+      {
+        "letra": "C",
+        "texto": "Neuronite Vestibular."
+      },
+      {
+        "letra": "D",
+        "texto": "Doença de Menière."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 86522,
+    "tags": [],
+    "enunciado": "Vertigem Posicional Paroxística Benigna Considere dois pacientes que buscaram atendimento médico no ambulatório de um hospital com queixa de tonteira. O paciente A é um homem de 73 anos de idade, hipertenso, com relato de sensação de rotação do ambiente que acontece pela manhã, ao se levantar da cama, associada à náusea, que passa muito rapidamente, embora ele permaneça por alguns minutos sudorético, nauseado e com as mãos frias. A paciente B é uma mulher de 54 anos de idade, hipertensa e diabética, com relato de sensação de desmaio, sudorese, palpitações e escurecimento visual que podem acontecer em repouso ou esforço, e duram alguns minutos, com remissão espontânea. Considerando as prováveis origens das tonteiras desses pacientes, os exames inicialmente indicados para auxílio diagnóstico são, respectivamente,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "manobra de Dix-Hallpike e eletrocardiograma (ECG)."
+      },
+      {
+        "letra": "B",
+        "texto": "eletronistagmografia e Holter de 24 horas."
+      },
+      {
+        "letra": "C",
+        "texto": "Holter de 24 horas e manobra de Dix-Hallpike."
+      },
+      {
+        "letra": "D",
+        "texto": "eletronistagmografia e ECG. 4000168179"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 86523,
+    "tags": [],
+    "enunciado": "Homem de 42 anos apresenta vertigem intensa de início súbito. Nega hipoacusia, zumbido ou plenitude aural. AP: ausência de comorbidades. Exame físico: PA 120 x 80 mmHg, taquicardia leve, sudorese, palidez cutâneo-mucosa, nistagmo espontâneo horizontal para direita, que aumenta de velocidade ao olhar para direita e reduz com a (cid:75)xação ocular; demais pares de nervos cranianos e provas cerebelares normais. A hipótese diagnóstica é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "síndrome de Meniére."
+      },
+      {
+        "letra": "B",
+        "texto": "neurite vestibular."
+      },
+      {
+        "letra": "C",
+        "texto": "vertigem posicional paroxística benigna."
+      },
+      {
+        "letra": "D",
+        "texto": "labirintite."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 86524,
+    "tags": [],
+    "enunciado": "Uma mulher de 42 anos vem à consulta apresentando queixa de tontura tipo rotatória intermitente, com início há mais ou menos 3 meses, desencadeada quando gira para a direita na cama. Ela nega outras queixas e infecções recentes e refere ser hipertensa, em uso de Enalapril. Com a provável hipótese diagnóstica em mente, a conduta mais adequada é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "prescrever Betaistina."
+      },
+      {
+        "letra": "B",
+        "texto": "introduzir Hidroclorotiazida."
+      },
+      {
+        "letra": "C",
+        "texto": "realizar manobra de Epley."
+      },
+      {
+        "letra": "D",
+        "texto": "orientar o indivíduo a levantar de forma gradual."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 86525,
+    "tags": [],
+    "enunciado": "Homem, 69 anos, é levado à emergência com queixa de vertigem. Relata que nos últimos dias vem apresentando episódios de vertigens, que pioram quando vira a cabeça para o lado esquerdo. Nega hipoacusia. Refere hipertensão arterial sistêmica há 15 anos tratada regularmente com Losartana 50mg de 12/12h. O exame neurológico está normal. À manobra de Nylen, causa vertigem e nistagmo horizontal bilateral. A Ressonância Magnética do crânio está normal. Qual é a causa mais provável dos sintomas deste paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Isquemia Cerebral Transitória do tronco cerebral"
+      },
+      {
+        "letra": "B",
+        "texto": "Tumor do tronco cerebral"
+      },
+      {
+        "letra": "C",
+        "texto": "Neuroma do acústico"
+      },
+      {
+        "letra": "D",
+        "texto": "Vertigem posicional benigna"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 86526,
+    "tags": [],
+    "enunciado": "Diferenças Clínicas entre vertigem de origem central e periférica Vertigem Posicional Paroxística Benigna Quanto ao atendimento de vertigem e tontura no ambiente de atenção básica, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "deve-se encaminhar o paciente com presença de nistagmo ao neurologista, a fim de diferenciar a causa da vertigem, entre periférica e central."
+      },
+      {
+        "letra": "B",
+        "texto": "a manobra de Epley é usada para diagnosticar vertigem posicional paroxítica benigna."
+      },
+      {
+        "letra": "C",
+        "texto": "Clonazepam não é uma opção por causar sonolência."
+      },
+      {
+        "letra": "D",
+        "texto": "o tratamento medicamentoso tem grande benefício nos pacientes com vertigem posicional paroxítica benigna."
+      },
+      {
+        "letra": "E",
+        "texto": "a grande maioria dos indivíduos com vertigem pode ser manejada por seus médicos assistentes na Atenção Primária à Saúde."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 86527,
+    "tags": [],
+    "enunciado": "Vertigem Posicional Paroxística Benigna VPPB Qual é a causa mais comum de vertigem aguda em adultos?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Doença de Ménière."
+      },
+      {
+        "letra": "B",
+        "texto": "Neuronite vestibular."
+      },
+      {
+        "letra": "C",
+        "texto": "Distúrbio metabólico."
+      },
+      {
+        "letra": "D",
+        "texto": "Neoplasia do sistema nervoso central."
+      },
+      {
+        "letra": "E",
+        "texto": "Vertigem posicional paroxística benigna."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 86528,
+    "tags": [],
+    "enunciado": "Mulher de 45 anos de idade, doméstica, comparece à consulta relatando crises de tontura e instabilidade com duração de alguns minutos e sensação de \"cabeça vazia\". Refere evolução de seis meses. Nega náuseas, vômitos, surdez, ou zumbidos. Faz uso de cinarizina 75 mg durante 30 dias sem melhora dos sintomas. É diabética em uso de metformina 850 mg/dia, com bom controle dos níveis glicêmicos. Os sintomas estão relacionados a uma grave crise familiar. Os sintomas referidos pela paciente ocorrem na presença de crises de ansiedade, falta de ar e palpitações. Com base nesse caso, qual a provável causa da tontura?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Neuronite vestibular."
+      },
+      {
+        "letra": "B",
+        "texto": "Vertigem fóbica."
+      },
+      {
+        "letra": "C",
+        "texto": "Vertigem Postural Paroxística Benigna (VPPB)."
+      },
+      {
+        "letra": "D",
+        "texto": "Cinetose."
+      },
+      {
+        "letra": "E",
+        "texto": "Doença de Ménière."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 86529,
+    "tags": [],
+    "enunciado": "Vertigem Posicional Paroxística Benigna Uma mulher de 24 anos chega ao consultório queixando-se de tontura. Relata que tem crises que iniciam quando mexe a cabeça e melhora em alguns minutos. Começou com os sintomas há 2 semanas e não tem conseguido trabalhar devido a recorrência das crises. Ao realizar a manobra de Dix- Hallpike, observa-se nistagmo vertical e a paciente relata tontura. Diante deste caso, qual a conduta mais CORRETA?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Prescrever Cinarizina e reavaliar em 30 dias."
+      },
+      {
+        "letra": "B",
+        "texto": "Encaminhar ao neurologista, com priorização do caso."
+      },
+      {
+        "letra": "C",
+        "texto": "Realizar manobra de reposicionamento dos otólitos (Epley)."
+      },
+      {
+        "letra": "D",
+        "texto": "Tranquilizar e observar o caso, se utilizando da demora permitida."
+      },
+      {
+        "letra": "E",
+        "texto": "Encaminhar ao oftalmologista para avaliar acuidade visual."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 86530,
+    "tags": [],
+    "enunciado": "Paciente de 65 anos comparece à consulta com seu médico de família e comunidade queixando-se de episódios recorrentes de vertigem precipitados por alguns movimentos que faz com a cabeça. Os episódios de vertigem duram cerca de um minuto e são acompanhados por náuseas leves e sensação de desequilíbrio. Nega vômitos, hipoacusia ou zumbidos. Ao exame clínico, paciente normotenso, ausência de sinais neurológicos focais, com teste de Dix-Hallpike positivo e otoscopia normal. Qual é a melhor opção terapêutica tendo em vista a principal hipótese diagnóstica para o problema do paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Dieta hipossódica e reabilitação vestibular."
+      },
+      {
+        "letra": "B",
+        "texto": "Dimenidrato."
+      },
+      {
+        "letra": "C",
+        "texto": "Beta-histina."
+      },
+      {
+        "letra": "D",
+        "texto": "Manobra de reposicionamento otolítico."
+      },
+      {
+        "letra": "E",
+        "texto": "Clonazepam."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 86531,
+    "tags": [],
+    "enunciado": "Em relação às síndromes vertiginosas, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A Vertigem Posicional Paroxística Benigna (VPPB) tende a responder bem ao uso de depressores labirínticos."
+      },
+      {
+        "letra": "B",
+        "texto": "O nistagmo vertical sugere vestibulopatia periférica."
+      },
+      {
+        "letra": "C",
+        "texto": "A manobra de Epley tem por objetivo diagnosticar pacientes com VPPB."
+      },
+      {
+        "letra": "D",
+        "texto": "A doença de Menière cursa com acometimento vestibular e auditivo."
+      },
+      {
+        "letra": "E",
+        "texto": "Nas vestibulopatias periféricas, ocorre dismetria no teste index-nariz."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 86532,
+    "tags": [],
+    "enunciado": "Paciente, sexo feminino, 58 anos, pele negra, fumante, sobrepeso, com histórico de vertigem posicional benigna, apresenta-se ao Pronto Socorro referindo \"tontura\", perda de sentido espacial, zumbido, perda auditiva leve e dores na região os ouvidos, pescoço e laringe. Refere outros episódios como o de hoje, mas nunca com essa intensidade. Abandonou o tratamento medicamentoso ministrado anteriormente por falta de recursos. No exame neurológico, o limiar para condução aérea e óssea da vibração de 256 Hz de um diapasão está aumentado no lado esquerdo. O diagnóstico mais provável é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Depressão maior;"
+      },
+      {
+        "letra": "B",
+        "texto": "Neuroma acústico;"
+      },
+      {
+        "letra": "C",
+        "texto": "Infarto agudo de artéria basilar;"
+      },
+      {
+        "letra": "D",
+        "texto": "Doença de Ménière."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 86533,
+    "tags": [],
+    "enunciado": "Uma paciente de 48 anos, praticante de jiu-jitsu, comparece à consulta em caráter de emergência, queixando-se de quadro de vertigem. Segundo informa, suas crises têm ocorrido de forma intermitente nos últimos meses, sempre associadas a movimentos bruscos enquanto ela se encontra deitada na cama. A realização da manobra de Dix- Hallpike evoca a instalação de nistagmo horizontal com componente rápido para a direita, além de náuseas. A paciente não apresenta qualquer comprometimento auditivo.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "melhor conduta para a paciente é:"
+      },
+      {
+        "letra": "A",
+        "texto": "Solicitação de angiorressonância de encéfalo."
+      },
+      {
+        "letra": "B",
+        "texto": "Avaliação através de eletronistagmografia."
+      },
+      {
+        "letra": "C",
+        "texto": "Realização da manobra de Epley."
+      },
+      {
+        "letra": "D",
+        "texto": "Prescrição de anti-histamínico."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 86534,
+    "tags": [],
+    "enunciado": "Paciente de 34 anos, sexo feminino, procura assistência médica devido à tontura. Refere episódios de vertigem, com duração de segundos, relacionados exclusivamente com o movimento da cabeça. Nega perda auditiva ou a presença de tinnitus. Qual o diagnóstico mais provável dessa paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Doença de Ménière."
+      },
+      {
+        "letra": "B",
+        "texto": "Vertigem posicional paroxística benigna."
+      },
+      {
+        "letra": "C",
+        "texto": "Migrânea vestibular."
+      },
+      {
+        "letra": "D",
+        "texto": "Schwannoma vestibular."
+      },
+      {
+        "letra": "E",
+        "texto": "Ataque isquêmico transitório de circulação cerebral posterior."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 86535,
+    "tags": [],
+    "enunciado": "Neurinomas do VIII NC Nervo VestíbuloCoclear Paciente de 55 anos, feminino, relata para o médico da Unidade de Saúde da área de abrangência de sua residência que há mais de 02 meses tem apresentado crises de vertigem rotatória de curta duração e forte intensidade, desencadeados a partir de movimentos rápidos da cabeça. Apresenta receitas do serviço de pronto atendimento com prescrições de bloqueadores de canal de cálcio, antieméticos e ansiolíticos, com a queixa de recorrência das crises mesmo com o uso dos medicamentos. Ao realizar a manobra de Dix-Hallpike (promoção de brusco e rápido movimento de deitar da cabeça), o médico de família estabelece o diagnóstico de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fístula Perilinfática."
+      },
+      {
+        "letra": "B",
+        "texto": "Síndrome de Ramsay-Hunt."
+      },
+      {
+        "letra": "C",
+        "texto": "Doença de Ménière."
+      },
+      {
+        "letra": "D",
+        "texto": "Vertigem Postural Paroxística Benigna."
+      },
+      {
+        "letra": "E",
+        "texto": "Tumor do Ângulo Ponto-Cerebelar."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 86536,
+    "tags": [],
+    "enunciado": "Vertigem Posicional Paroxística Benigna VPPB Diferenças Clínicas entre vertigem de origem central e periférica Paciente de 39 anos, do sexo feminino, em um intervalo de cinco meses apresenta o segundo episódio de vertigem. Sem zumbido ou hipoacusia, sem história de trauma craniano, e acompanhada por náuseas, a vertigem tem curta duração e acontece quando a paciente olha para cima ou rola na cama. No exame físico, a manobra de Dix Hallpike provoca um nistagmo com menos de 30 segundos de duração, que reduz de intensidade com a repetição da manobra. O diagnóstico MAIS PROVÁVEL é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Vertigem paroxística posicional benigna."
+      },
+      {
+        "letra": "B",
+        "texto": "Hipotensão postural."
+      },
+      {
+        "letra": "C",
+        "texto": "Síndrome de Meniere."
+      },
+      {
+        "letra": "D",
+        "texto": "Labirintite."
+      },
+      {
+        "letra": "E",
+        "texto": "Vertigem migranosa."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 86537,
+    "tags": [],
+    "enunciado": "Virgínia, 35 anos, queixa-se de vertigem rotatória de início agudo, contínua, que piora com o movimento da cabeça, náuseas, vômitos, desequilíbrio, zumbido e hipoacusia. Ao exame clínico: nistagmo horizonto- rotatório com fase rápida para a direita, que não muda de direção com a movimentação dos olhos e da cabeça; re(cid:84)exo vestíbulo-ocular anormal para o lado esquerdo; tendência a queda para esquerda durante a marcha e em posição ortostática com os olhos fechados. Assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nas síndromes vestibulares periféricas é comum a harmonia entre a intensidade dos sintomas de desequilíbrio, vertigem, náuseas e vômitos."
+      },
+      {
+        "letra": "B",
+        "texto": "Os nistagmos horizonto-rotatório que mudam de direção com o movimento dos olhos, o vertical puro, o rotatório puro, além de desalinhamento vertical dos olhos e reflexo vestíbulo-ocular normal sugerem sídrome vestibular central."
+      },
+      {
+        "letra": "C",
+        "texto": "A doença de Menière e a neurite vestibular são as principais etiologias de vertigem periférica aguda entre os 30 e 50 anos."
+      },
+      {
+        "letra": "D",
+        "texto": "O dimenidrato e a meclizina são as principais medicações para o alívio dos sintomas na fase aguda."
+      },
+      {
+        "letra": "E",
+        "texto": "Na vertigem de posicionamento paroxísta benigna as crises são desencadeadas por movimentos bruscos da cabeça, sendo de curta duração e pequena intensidade."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 86538,
+    "tags": [],
+    "enunciado": "Mulher de 54 anos chega ao PS com queixa de tonturas, náuseas e vômitos há 3 dias. Ao exame clínico de entrada, apresentava nistagmo horizontorrotatório para direita, sudorese, náuseas e desequilíbrio. Realizada hidratação, drimenidrato e benzodiazepínico para controle dos sintomas. Após 30 minutos, apresentou melhora dos sintomas iniciais, mas passou a apresentar nistagmo horizontorrotatório, agora para esquerda. Assinale a alternativa correta quanto ao diagnóstico e à conduta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Trata-se de uma síndrome vestibular periférica e o paciente deve receber alta com sintomáticos e procurar o especialista para acompanhamento ambulatorial."
+      },
+      {
+        "letra": "B",
+        "texto": "Trata-se de uma síndrome vestibular periférica e o paciente deve ser internado, receber sintomáticos até cessarem os sintomas e procurar o especialista para acompanhamento ambulatorial."
+      },
+      {
+        "letra": "C",
+        "texto": "Não é possível estabelecer se o quadro vertiginoso é de origem central ou periférica, o paciente deve ser internado para receber sintomáticos e realizar oto neurológico completo para complementar o diagnóstico"
+      },
+      {
+        "letra": "D",
+        "texto": "Doença de Kawasaki."
+      },
+      {
+        "letra": "E",
+        "texto": "Não é possível estabelecer se o quadro vertiginoso é de origem central ou periférica eo paciente pode receber alta com sintomáticos para realizar exame oto neurológico completo ambulatorialmente e afastar quadro central."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 86539,
+    "tags": [],
+    "enunciado": "Tonteira rotatória, desencadeada por brusca mudança de posição da cabeça, vinha trazendo sério desconforto a uma mulher de 58 anos. Por conta própria, ela começou a tomar antidínicos, mas a melhora foi discreta. Ao avaliá-la, o residente pensou em vertigem posicional paroxísitica benigna, uma vestibulopatia periférica muito comum, mas que nem sempre é lembrada. No próprio consultório, ele con(cid:75)rmou esse diagnóstico através da manobra de posicionamento de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Mauriceau-Levret."
+      },
+      {
+        "letra": "B",
+        "texto": "Rinne-Schwaber."
+      },
+      {
+        "letra": "C",
+        "texto": "Dix-Hallpike."
+      },
+      {
+        "letra": "D",
+        "texto": "Hillis-Muller."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 86540,
+    "tags": [],
+    "enunciado": "Paciente de 78 anos, sexo feminino, diabética tipo II, em uso de glibenclamida, dá entrada no pronto-socorro com queixa de tonturas rotatórias há 3 dias, sensação de plenitude aural bilateral e zumbido associado. Faz acompanhamento com o oftalmologista por retinopatia diabética. Traz US-Doppler de carótidas com ateromatose. Ao exame, nistagmo semi-espontâneo com a componente lenta para a direita, Romberg negativo. Teste de Weber sem lateralização. Assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tontura de origem vestibular, síndrome de Ménière, tratamento sintomático."
+      },
+      {
+        "letra": "B",
+        "texto": "Tontura de origem central, síndrome de Arnold-Chiari, tomografia computadorizada de crânio e base de crânio."
+      },
+      {
+        "letra": "C",
+        "texto": "Tontura de origem periférica, doença de Ménière, vasodilatador (flunarizina)."
+      },
+      {
+        "letra": "D",
+        "texto": "Tontura de origem central, síndrome de Ménière, tratamento com anti-convulsivante (clonazepan)."
+      },
+      {
+        "letra": "E",
+        "texto": "Tontura de origem vestibular, doença de Ménière, vasodilatador (cinarizina).  Respostas: 1 D 2 C 3 D 4 C 5 A 6 A 7 A 8 B 9 D 10 C 11 B 12 A 13 A 14 D 15 A 16 A 17 A 18 B 19 C 20 D 21 E 22 E 23 B 24 B 25 D 26 D 27 B 28 C 29 B 30 D 31 A 32 E 33 E 34 C 35 A"
+      }
+    ],
+    "resposta_correta": "A"
+  }
+]

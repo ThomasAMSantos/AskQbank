@@ -1,0 +1,122 @@
+[
+  {
+    "id": 117656,
+    "tags": [],
+    "enunciado": "A forma linfomatosa da leucemia-linfoma de células T do adulto (ATLL) é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Caracterizada por linfonodomegalia, com comprometimento do sangue periférico; representa 20% dos casos, sendo na maior parte das vezes uma doença avançada. A hipercalcemia pode estar presente, assim como lesões cutâneas, incluindo rash eritematoso, pápulas e nódulos, por vezes com ulceração."
+      },
+      {
+        "letra": "B",
+        "texto": "Caracterizada por linfonodomegalia, mas sem comprometimento do sangue periférico; representa 20% dos casos, sendo na maior parte das vezes uma doença avançada. A hipercalcemia pode estar presente, assim como lesões cutâneas, incluindo rash eritematoso, pápulas e nódulos, por vezes com ulceração."
+      },
+      {
+        "letra": "C",
+        "texto": "Caracterizada por linfonodomegalia, mas sem comprometimento do sangue periférico; representa 20% dos casos, sendo na maior parte das vezes uma doença avançada. A hipercalcemia nunca pode estar presente, assim como lesões cutâneas, incluindo rash eritematoso, pápulas e nódulos, por vezes com ulceração."
+      },
+      {
+        "letra": "D",
+        "texto": "Caracterizada por linfonodomegalia, mas sem comprometimento do sangue periférico; representa 20% dos casos, sendo na maior parte das vezes uma doença avançada. A hipercalcemia pode estar presente, assim como lesões cutâneas, incluindo rash eritematoso, pápulas e nódulos, mas não com ulceração. 4000187282"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 117657,
+    "tags": [],
+    "enunciado": "Pessoas com infecção pelo HTLV e assintomáticas com elevada carga pró viral:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Assim como indivíduos com mielopatia associada ao HTLV-1 (HTLV-1 associated myelopathy) HAM, apresentam expressão de IFN-γ mais baixa do que de IL- 10."
+      },
+      {
+        "letra": "B",
+        "texto": "Assim como indivíduos com mielopatia associada ao HTLV-1 (HTLV-1 associated myelopathy) HAM, não apresentam expressão de IFN-γ mais elevada do que de IL- 10."
+      },
+      {
+        "letra": "C",
+        "texto": "Assim como indivíduos com mielopatia associada ao HTLV-1 (HTLV-1 associated myelopathy)HAM, apresentam expressão de IFN-γ mais elevada do que de IL- 10."
+      },
+      {
+        "letra": "D",
+        "texto": "Assim como indivíduos com mielopatia associada ao HTLV-1 (HTLV-1 associated myelopathy) HAM, apresentam expressão de IFN-γ mais elevada do que de IL- 100. 4000187280"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 117658,
+    "tags": [],
+    "enunciado": "A leucemia-linfoma de células T do adulto (ATLL), está de acordo com o seguinte item:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "é uma doença não linfoproliferativa agressiva de células T maduras, com diversas características clínicas, etiologicamente associada ao HTLV-1."
+      },
+      {
+        "letra": "B",
+        "texto": "é uma doença linfoproliferativa agressiva de células T maduras, com diversas características clínicas, etiologicamente não associada ao HTLV-1."
+      },
+      {
+        "letra": "C",
+        "texto": "é uma doença linfoproliferativa indolente de células T maduras, com diversas características clínicas, etiologicamente associada ao HTLV-1."
+      },
+      {
+        "letra": "D",
+        "texto": "é uma doença linfoproliferativa agressiva de células T maduras, com diversas características clínicas, etiologicamente associada ao HTLV-1. 4000187270"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 117659,
+    "tags": [],
+    "enunciado": "Homem de 58 anos vem em consulta no ambulatório com queixas de astenia, aumento de volume abdominal, empachamento precoce e dor em quadrante superior esquerdo do abdome nos últimos seis meses. Exame clínico: esplenomegalia palpável na altura da cicatriz umbilical. Exames: Hb 8 g/dL, leucócitos 1.950/mm³, segmentados 1.000/mm³, linfócitos 700/mm³, eosinó(cid:67)los 100/mm³, basó(cid:67)los 100/mm³, monócitos 50/mm³, plaquetas 70.000/mm³. No esfregaço de sangue periférico, observa-se: O diagnóstico mais provável é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Síndrome de Sézary."
+      },
+      {
+        "letra": "B",
+        "texto": "Leishmaniose visceral."
+      },
+      {
+        "letra": "C",
+        "texto": "Leucemia / linfoma de células T do adulto."
+      },
+      {
+        "letra": "D",
+        "texto": "Tricoleucemia."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 117660,
+    "tags": [],
+    "enunciado": "O acometimento primário do sistema nervoso central por linfoma é, mais provavelmente, do tipo:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "células B."
+      },
+      {
+        "letra": "B",
+        "texto": "Hodgkin."
+      },
+      {
+        "letra": "C",
+        "texto": "Kaposi."
+      },
+      {
+        "letra": "D",
+        "texto": "células T.  Respostas: 1 B 2 C 3 D 4 D 5 A"
+      }
+    ],
+    "resposta_correta": "A"
+  }
+]

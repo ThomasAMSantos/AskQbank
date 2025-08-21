@@ -1,0 +1,2930 @@
+[
+  {
+    "id": 105568,
+    "tags": [],
+    "enunciado": "Sobre a embriologia da derme, qual tecido se origina no mesmo folheto embrionário?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Unhas"
+      },
+      {
+        "letra": "B",
+        "texto": "Epiderme"
+      },
+      {
+        "letra": "C",
+        "texto": "Pâncreas"
+      },
+      {
+        "letra": "D",
+        "texto": "Ossos"
+      },
+      {
+        "letra": "E",
+        "texto": "Nenhuma das afirmativas acima"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105569,
+    "tags": [],
+    "enunciado": "Sobre a embriologia das glândulas sebáceas e sudoríparas, qual tecido se origina no mesmo folheto embrionário?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sistema nervoso central"
+      },
+      {
+        "letra": "B",
+        "texto": "Córtex adrenal"
+      },
+      {
+        "letra": "C",
+        "texto": "Tireoide"
+      },
+      {
+        "letra": "D",
+        "texto": "Artérias e veias"
+      },
+      {
+        "letra": "E",
+        "texto": "Nenhuma das afirmativas acima"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105570,
+    "tags": [],
+    "enunciado": "Sobre a embriologia da epiderme, qual tecido se origina no mesmo folheto embrionário?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Medula adrenal"
+      },
+      {
+        "letra": "B",
+        "texto": "Tireoide"
+      },
+      {
+        "letra": "C",
+        "texto": "Pâncreas"
+      },
+      {
+        "letra": "D",
+        "texto": "Rins"
+      },
+      {
+        "letra": "E",
+        "texto": "Nenhuma das afirmativas acima"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105571,
+    "tags": [],
+    "enunciado": "Sobre a embriologia da adrenal, qual fator de transcrição/gene/proteína a abaixo NÃO participa da formação dessa glândula?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "SF1"
+      },
+      {
+        "letra": "B",
+        "texto": "DAX1"
+      },
+      {
+        "letra": "C",
+        "texto": "GLI3"
+      },
+      {
+        "letra": "D",
+        "texto": "PAX8"
+      },
+      {
+        "letra": "E",
+        "texto": "Nenhuma das afirmativas acima"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105572,
+    "tags": [],
+    "enunciado": "Sobre a embriologia da tireoide, qual transcrição/gene/proteína a abaixo NÃO participa da formação dessa glândula?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "HHEX"
+      },
+      {
+        "letra": "B",
+        "texto": "NXK-2"
+      },
+      {
+        "letra": "C",
+        "texto": "TFF2"
+      },
+      {
+        "letra": "D",
+        "texto": "PAX8"
+      },
+      {
+        "letra": "E",
+        "texto": "SF-1"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 105573,
+    "tags": [],
+    "enunciado": "Em relação ao processo embriológico da medula adrenal, assinale a alternativa em que o órgão advém do mesmo folheto embrionário que o medula adrenal:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Glândula mamária"
+      },
+      {
+        "letra": "B",
+        "texto": "Tireoide"
+      },
+      {
+        "letra": "C",
+        "texto": "Pâncreas"
+      },
+      {
+        "letra": "D",
+        "texto": "Fígado"
+      },
+      {
+        "letra": "E",
+        "texto": "Nenhuma das afirmativas acima"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105574,
+    "tags": [],
+    "enunciado": "Em relação ao processo embriológico do córtex adrenal, assinale a alternativa em que o órgão advém do mesmo folheto embrionário que o córtex adrenal:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Medula adrenal"
+      },
+      {
+        "letra": "B",
+        "texto": "Paratireoide"
+      },
+      {
+        "letra": "C",
+        "texto": "Sistema linfático"
+      },
+      {
+        "letra": "D",
+        "texto": "Neurohipófise"
+      },
+      {
+        "letra": "E",
+        "texto": "Nenhuma das alternativas acima."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105575,
+    "tags": [],
+    "enunciado": "Em relação ao processo embriológico dos testículos, assinale a alternativa em que o órgão advém do mesmo folheto embrionário que os testículos:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sistema nervoso central"
+      },
+      {
+        "letra": "B",
+        "texto": "Sistema nervoso periférico"
+      },
+      {
+        "letra": "C",
+        "texto": "Glândulas sebáceas"
+      },
+      {
+        "letra": "D",
+        "texto": "Pâncreas"
+      },
+      {
+        "letra": "E",
+        "texto": "Nenhuma das afirmativas acima."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105576,
+    "tags": [],
+    "enunciado": "Em relação ao processo embriológico dos ovários, assinale a alternativa em que o órgão advém do mesmo folheto embrionário que os ovários:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ureter"
+      },
+      {
+        "letra": "B",
+        "texto": "Músculo liso"
+      },
+      {
+        "letra": "C",
+        "texto": "Medula adrenal"
+      },
+      {
+        "letra": "D",
+        "texto": "Sistema nervoso central"
+      },
+      {
+        "letra": "E",
+        "texto": "Nenhuma das alternativas acima"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 105577,
+    "tags": [],
+    "enunciado": "Em relação ao processo embriológico do tireoide, assinale a alternativa em que o órgão advém do mesmo folheto embrionário que o tireoide:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Artérias e veias"
+      },
+      {
+        "letra": "B",
+        "texto": "Tecido adiposo subcutâneo"
+      },
+      {
+        "letra": "C",
+        "texto": "Neurohipófise"
+      },
+      {
+        "letra": "D",
+        "texto": "Córtex adrenal"
+      },
+      {
+        "letra": "E",
+        "texto": "Nenhuma das afirmativas acima"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105578,
+    "tags": [],
+    "enunciado": "Em relação ao processo embriológico do fígado, assinale a alternativa em que o órgão advém do mesmo folheto embrionário que o fígado:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pâncreas"
+      },
+      {
+        "letra": "B",
+        "texto": "Epiderme"
+      },
+      {
+        "letra": "C",
+        "texto": "Glândula mamária"
+      },
+      {
+        "letra": "D",
+        "texto": "Córtex adrenal"
+      },
+      {
+        "letra": "E",
+        "texto": "Nenhuma das afirmativas acima"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105579,
+    "tags": [],
+    "enunciado": "Em relação ao processo embriológico da hipó(cid:68)se, assinale a alternativa em que o órgão advém do mesmo folheto embrionário que a neuro-hipófise:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cabelo"
+      },
+      {
+        "letra": "B",
+        "texto": "Tecido adiposo"
+      },
+      {
+        "letra": "C",
+        "texto": "Sistema linfático"
+      },
+      {
+        "letra": "D",
+        "texto": "Uretra"
+      },
+      {
+        "letra": "E",
+        "texto": "Nenhuma das afirmativas acima"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105580,
+    "tags": [],
+    "enunciado": "Em relação ao processo embriológico do pâncreas, assinale a alternativa em que o órgão advém do mesmo folheto embrionário que o pâncreas:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fígado"
+      },
+      {
+        "letra": "B",
+        "texto": "Epiderme"
+      },
+      {
+        "letra": "C",
+        "texto": "Glândula mamária"
+      },
+      {
+        "letra": "D",
+        "texto": "Córtex adrenal"
+      },
+      {
+        "letra": "E",
+        "texto": "Nenhuma das afirmativas acima"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105581,
+    "tags": [],
+    "enunciado": "Sobre a drenagem pancreática, qual dessas veias não fazem parte da drenagem do pâncreas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Veia esplênica"
+      },
+      {
+        "letra": "B",
+        "texto": "Veia pancreatoduodenal superior"
+      },
+      {
+        "letra": "C",
+        "texto": "Veia pancreatoduodenal inferior"
+      },
+      {
+        "letra": "D",
+        "texto": "Veia mesentérica superior"
+      },
+      {
+        "letra": "E",
+        "texto": "Veia mesentérica inferior"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 105582,
+    "tags": [],
+    "enunciado": "Sobre a irrigação pancreática, qual dessas artérias não faz parte da irrigação do pâncreas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Artéria pancreaticoduodenal superior"
+      },
+      {
+        "letra": "B",
+        "texto": "Artéria panceraticoduodenal inferior"
+      },
+      {
+        "letra": "C",
+        "texto": "Artéria esplênica"
+      },
+      {
+        "letra": "D",
+        "texto": "Artéria gastroduodenal"
+      },
+      {
+        "letra": "E",
+        "texto": "Artéria mesentérica inferior"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 105583,
+    "tags": [],
+    "enunciado": "O pâncreas é um órgão com diversas funções endócrinas e exócrinas fundamentais para a homeostase do organismo. A respeito da anatomia desse órgão, qual a disposição do pâncreas em comparação à bolsa omental:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Totalmente anterior ao estômago"
+      },
+      {
+        "letra": "B",
+        "texto": "Totalmente posterior ao pâncreas"
+      },
+      {
+        "letra": "C",
+        "texto": "É uma cavidade preenchida por líquido"
+      },
+      {
+        "letra": "D",
+        "texto": "É formada pelo mesentério"
+      },
+      {
+        "letra": "E",
+        "texto": "É formada superiormente pelo omento menor"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 105584,
+    "tags": [],
+    "enunciado": "O pâncreas é um órgão com diversas funções endócrinas e exócrinas fundamentais para a homeostase do organismo. A respeito da anatomia desse órgão, qual a disposição do pâncreas em comparação ao baço:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A porção mais próxima é a cabeça do pâncreas"
+      },
+      {
+        "letra": "B",
+        "texto": "O baço é retroperitoneal"
+      },
+      {
+        "letra": "C",
+        "texto": "O pâncreas é peritoneal"
+      },
+      {
+        "letra": "D",
+        "texto": "Ambos são retroperitoneais"
+      },
+      {
+        "letra": "E",
+        "texto": "Nenhuma das afirmativas acima"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 105585,
+    "tags": [],
+    "enunciado": "O pâncreas é um órgão com diversas funções endócrinas e exócrinas fundamentais para a homeostase do organismo. A respeito da anatomia desse órgão, qual a disposição do pâncreas em comparação ao duodeno:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O pâncreas tem 1/3 de sua massa parcialmente retroperitoneal"
+      },
+      {
+        "letra": "B",
+        "texto": "O pâncreas tem 2/3 de sua massa parcialmente retroperitoneal"
+      },
+      {
+        "letra": "C",
+        "texto": "O duodeno é totalmente retroperitoneal"
+      },
+      {
+        "letra": "D",
+        "texto": "O duodeno é parcialmente retroperitoneal."
+      },
+      {
+        "letra": "E",
+        "texto": "O pâncreas é peritoneal."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105586,
+    "tags": [],
+    "enunciado": "O pâncreas é um órgão com diversas funções endócrinas e exócrinas fundamentais para a homeostase do organismo. A respeito da anatomia desse órgão, qual a disposição do pâncreas em comparação ao estômago:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Totalmente anterior ao estômago"
+      },
+      {
+        "letra": "B",
+        "texto": "Somente a cabeça pancreática está anterior ao estômago"
+      },
+      {
+        "letra": "C",
+        "texto": "Somente a cauda pancreática está anterior ao estômago"
+      },
+      {
+        "letra": "D",
+        "texto": "Totalmente posterior ao estômago"
+      },
+      {
+        "letra": "E",
+        "texto": "Somente a cauda pancreática está posterior ao estômago"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105587,
+    "tags": [],
+    "enunciado": "Sobre a irrigação da tireoide, a artéria tireóidea inferior é ramo de qual artéria?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Artéria carótida comum"
+      },
+      {
+        "letra": "B",
+        "texto": "Artéria carótida interna"
+      },
+      {
+        "letra": "C",
+        "texto": "Artéria carótida externa"
+      },
+      {
+        "letra": "D",
+        "texto": "Artéria subclávia"
+      },
+      {
+        "letra": "E",
+        "texto": "Artéria vertebral"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105588,
+    "tags": [],
+    "enunciado": "Sobre a irrigação da tireoide, a artéria tireóidea superior é ramo de qual artéria?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Artéria carótida comum"
+      },
+      {
+        "letra": "B",
+        "texto": "Artéria carótida interna"
+      },
+      {
+        "letra": "C",
+        "texto": "Artéria carótida externa"
+      },
+      {
+        "letra": "D",
+        "texto": "Artéria subclávia"
+      },
+      {
+        "letra": "E",
+        "texto": "Artéria vertebral"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105589,
+    "tags": [],
+    "enunciado": "O quiasma óptico e a hipó(cid:68)se são estruturas dispostas muito próximas umas às outras. Com isso, uma possível complicação do aumento do volume hipo(cid:68)sário é a compressão dos nervos ópticos causando alterações visuais. Nesse contexto, assinale a alternativa que corresponde ao comprometimento visual normalmente esperado no caso de comprometimento do quiasma óptico:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hemianopsia bitemporal"
+      },
+      {
+        "letra": "B",
+        "texto": "Hemianopsia binasal"
+      },
+      {
+        "letra": "C",
+        "texto": "Anopsia direita ou esquerda"
+      },
+      {
+        "letra": "D",
+        "texto": "Escotoma direta ou esquerda"
+      },
+      {
+        "letra": "E",
+        "texto": "Nenhuma das afirmativas acima"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105590,
+    "tags": [],
+    "enunciado": "As artérias hipofisárias são ramos de que artéria?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Artéria cerebral média"
+      },
+      {
+        "letra": "B",
+        "texto": "Artéria cerebral anterior"
+      },
+      {
+        "letra": "C",
+        "texto": "Artéria cerebral posterior"
+      },
+      {
+        "letra": "D",
+        "texto": "Artéria carótida externa"
+      },
+      {
+        "letra": "E",
+        "texto": "Artéria carótida interna"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 105591,
+    "tags": [],
+    "enunciado": "Relacione corretamente o sítio de produção de cada hormônio: I. LH II. Prolactina III. TSH IV. ADH V. Ocitocina",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Adenohipófise: Prolactina; Neurohipófise: TSH, ADH, FSH; Hipotálamo: Ocitocina"
+      },
+      {
+        "letra": "B",
+        "texto": "Adenohipófise: Ocitocina; Neurohipófise: TSH, ADH, FSH; Hipotálamo: Prolactina"
+      },
+      {
+        "letra": "C",
+        "texto": "Adenohipófise: Prolactina, TSH, ADH, FSH; Neurohipófise: Nenhum; Hipotálamo: Ocitocina"
+      },
+      {
+        "letra": "D",
+        "texto": "Adenohipófise: TSH, FSH, Prolactina; Neurohipófise: Nenhum; Hipotálamo: Ocitocina"
+      },
+      {
+        "letra": "E",
+        "texto": "Adenohipófise: Ocitocina e Prolactina; Neurohipófise FSH; Hipotálamo: TSH, ADH, FSH"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105592,
+    "tags": [],
+    "enunciado": "Em relação a hipó(cid:68)se, qual das consequências abaixo pode estar presente em uma lesão de haste hipo(cid:68)sária.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aumento da síntese GH"
+      },
+      {
+        "letra": "B",
+        "texto": "Diminuição na síntese de TRH"
+      },
+      {
+        "letra": "C",
+        "texto": "Aumento da síntese de prolactina"
+      },
+      {
+        "letra": "D",
+        "texto": "Aumento da síntese de ACTH"
+      },
+      {
+        "letra": "E",
+        "texto": "Diminuição na síntese de CRH"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105593,
+    "tags": [],
+    "enunciado": "Em qual osso craniano está contida a estrutura que a abriga a hipófise?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Osso esfenoide"
+      },
+      {
+        "letra": "B",
+        "texto": "Osso etmoide"
+      },
+      {
+        "letra": "C",
+        "texto": "Osso temporal"
+      },
+      {
+        "letra": "D",
+        "texto": "Osso occipital"
+      },
+      {
+        "letra": "E",
+        "texto": "Osso frontal"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105594,
+    "tags": [],
+    "enunciado": "Qual das seguintes estruturas é a primeira a ser comprimida no caso de aumento de volume da glândula pituitária?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Artéria carótida interna"
+      },
+      {
+        "letra": "B",
+        "texto": "Nervo abducente"
+      },
+      {
+        "letra": "C",
+        "texto": "Quiasma óptico"
+      },
+      {
+        "letra": "D",
+        "texto": "Nervo troclear"
+      },
+      {
+        "letra": "E",
+        "texto": "Nervo oculomotor"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105595,
+    "tags": [],
+    "enunciado": "Em relação à hipófise, qual o nome da cavidade óssea que essa glândula se encontra?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sela túrcica"
+      },
+      {
+        "letra": "B",
+        "texto": "Seio cavernoso"
+      },
+      {
+        "letra": "C",
+        "texto": "3º ventrículo"
+      },
+      {
+        "letra": "D",
+        "texto": "Seio esfenoidal"
+      },
+      {
+        "letra": "E",
+        "texto": "Forame espinhoso"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105596,
+    "tags": [],
+    "enunciado": "Em um excesso de aldosterona, qual eletrólito será mais excretado no rim?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cálcio"
+      },
+      {
+        "letra": "B",
+        "texto": "Magnésio"
+      },
+      {
+        "letra": "C",
+        "texto": "Sódio"
+      },
+      {
+        "letra": "D",
+        "texto": "Potássio"
+      },
+      {
+        "letra": "E",
+        "texto": "Nenhuma das alternativas acima"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105597,
+    "tags": [],
+    "enunciado": "Onde ocorre a conversão final dos produtos intermediários da síntese de Vitamina D?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fígado"
+      },
+      {
+        "letra": "B",
+        "texto": "Rim"
+      },
+      {
+        "letra": "C",
+        "texto": "Pâncreas"
+      },
+      {
+        "letra": "D",
+        "texto": "Tireoide"
+      },
+      {
+        "letra": "E",
+        "texto": "Hipófise"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105598,
+    "tags": [],
+    "enunciado": "Na diabetes insipidus, qual hormônio possui papel central na fisiopatologia da doença?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "GLP-1"
+      },
+      {
+        "letra": "B",
+        "texto": "Insulina"
+      },
+      {
+        "letra": "C",
+        "texto": "ADH"
+      },
+      {
+        "letra": "D",
+        "texto": "Aldosterona"
+      },
+      {
+        "letra": "E",
+        "texto": "Glucagon"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105599,
+    "tags": [],
+    "enunciado": "Assinale a alternativa correta a respeito do seguinte grupo de hormônios: Cortisol, DHEA-S, DHEA, androstenediona",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "São hormônios produzidos pela neurohipófise"
+      },
+      {
+        "letra": "B",
+        "texto": "São hormônios esteroides"
+      },
+      {
+        "letra": "C",
+        "texto": "São hormônios sintetizados na medula adrenal"
+      },
+      {
+        "letra": "D",
+        "texto": "São hormônio da sintetizados pela zona glomerulosa do córtex adrenal"
+      },
+      {
+        "letra": "E",
+        "texto": "Nenhuma das anteriores"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105600,
+    "tags": [],
+    "enunciado": "Assinale a alternativa correta a respeito do seguinte grupo de hormônios: Adrenalina, dopamina e noradrenalina",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "São hormônios sintetizados pela adenohipófise"
+      },
+      {
+        "letra": "B",
+        "texto": "São hormônios esteroides"
+      },
+      {
+        "letra": "C",
+        "texto": "São hormônios derivados de aminoácidos"
+      },
+      {
+        "letra": "D",
+        "texto": "São hormônio sintetizados no córtex adrenal"
+      },
+      {
+        "letra": "E",
+        "texto": "Nenhuma das anteriores"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105601,
+    "tags": [],
+    "enunciado": "Assinale a alternativa correta a respeito do seguinte grupo de hormônios: Prolactina (PRL), ACTH, LH e FSH, TSH e GH",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "São hormônios produzidos pela neurohipófise"
+      },
+      {
+        "letra": "B",
+        "texto": "São hormônios esteroides"
+      },
+      {
+        "letra": "C",
+        "texto": "São hormônios peptídicos"
+      },
+      {
+        "letra": "D",
+        "texto": "São hormônio da glândula pineal"
+      },
+      {
+        "letra": "E",
+        "texto": "Nenhuma das anteriores"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105602,
+    "tags": [],
+    "enunciado": "Relacione corretamente os hormônios da coluna 1 com as classificações da coluna 2: 1. Estradiol I. Hormônio(s) esteróide(s) 2. Adrenalina II. Hormônio(s) peptídico(s) 3. Tetraiodotironina III. Hormônio(s) derivados de aminoácidos 4. Grelina 5. Glucagon",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I - 1, 4 e 5; II - 2 e 3; III - NA"
+      },
+      {
+        "letra": "B",
+        "texto": "I - 1; II - 4 e 5; III - 2 e 3"
+      },
+      {
+        "letra": "C",
+        "texto": "I - 2 e 3; II - 1 e 4; III - 5"
+      },
+      {
+        "letra": "D",
+        "texto": "I - 4 e 5; II - 1 e 2; III - 3"
+      },
+      {
+        "letra": "E",
+        "texto": "I - NA; II - 1, 4 e 5; III - 2 e 3"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105603,
+    "tags": [],
+    "enunciado": "Qual dos seguintes hormônios é um hormônio derivado de aminoácido?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Testosterona"
+      },
+      {
+        "letra": "B",
+        "texto": "Grelina"
+      },
+      {
+        "letra": "C",
+        "texto": "Estradiol"
+      },
+      {
+        "letra": "D",
+        "texto": "Dopamina"
+      },
+      {
+        "letra": "E",
+        "texto": "Progesterona"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105604,
+    "tags": [],
+    "enunciado": "Qual dos seguintes hormônios é um hormônio peptídico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ACTH"
+      },
+      {
+        "letra": "B",
+        "texto": "Desidroepiandrosterona"
+      },
+      {
+        "letra": "C",
+        "texto": "DHEA-S"
+      },
+      {
+        "letra": "D",
+        "texto": "Testosterona"
+      },
+      {
+        "letra": "E",
+        "texto": "Progesterona"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105605,
+    "tags": [],
+    "enunciado": "Qual dos seguintes hormônios é um hormônio esteroide?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "FSH"
+      },
+      {
+        "letra": "B",
+        "texto": "Insulina"
+      },
+      {
+        "letra": "C",
+        "texto": "Cortisol"
+      },
+      {
+        "letra": "D",
+        "texto": "Noradrenalina"
+      },
+      {
+        "letra": "E",
+        "texto": "Triiodotironina"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105606,
+    "tags": [],
+    "enunciado": "A respeito das lipoproteínas, assinale a alternativa que as classi(cid:68)ca corretamente em ordem crescente de tamanho:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "HDL, LDL, VLDL, Quilomicron"
+      },
+      {
+        "letra": "B",
+        "texto": "Quilomicron, HDL, VLDL, LDL"
+      },
+      {
+        "letra": "C",
+        "texto": "LDL, VLDL, HDL, Quilomicron"
+      },
+      {
+        "letra": "D",
+        "texto": "LDL, VLDL, Quilomicron, HDL"
+      },
+      {
+        "letra": "E",
+        "texto": "Quilomicron, HDL, LDL, VLDL"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105607,
+    "tags": [],
+    "enunciado": "Paciente do sexo feminino, 9 anos, natural e procedente de São Paulo-SP. A mãe da paciente relatou que há 3 semanas a paciente apresenta aumento do apetite, aumento de sede e aumento de volume de urina. Há 1 mês, teve quadro de infecção viral na orofaringe. Além disso, foi relatada uma perda de 4kg ao longo desse período. A partir somente da história, assinale a alternativa que expressa o processo metabólico e seu estado na paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Glicose intramuscular aumentada"
+      },
+      {
+        "letra": "B",
+        "texto": "Aumento na expressão de GLUT4"
+      },
+      {
+        "letra": "C",
+        "texto": "Gliconeogênese diminuída"
+      },
+      {
+        "letra": "D",
+        "texto": "β-oxidação aumentada"
+      },
+      {
+        "letra": "E",
+        "texto": "Nenhuma das afirmativas acima"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105608,
+    "tags": [],
+    "enunciado": "Paciente do sexo feminino, 59 anos, natural e procedente de Campinas-SP. Relatou que há 6 meses a paciente apresenta aumento do apetite, aumento de sede e aumento de volume de urina. Além disso, foi relatada uma perda de 7kg ao longo do último ano e que ultimamente a paciente percebeu que “perde o chinelo” ao andar pela casa. A partir somente da história, qual seria sua hipótese diagnóstica para essa paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Diabetes mellitus do tipo 1"
+      },
+      {
+        "letra": "B",
+        "texto": "Diabetes mellitus do tipo 2"
+      },
+      {
+        "letra": "C",
+        "texto": "Hipertireodismo"
+      },
+      {
+        "letra": "D",
+        "texto": "Hipocortisolismo"
+      },
+      {
+        "letra": "E",
+        "texto": "Hipercortisolismo"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105609,
+    "tags": [],
+    "enunciado": "Paciente do sexo feminino, 9 anos, natural e procedente de São Paulo-SP. A mãe da paciente relatou que há 3 semanas a paciente apresenta aumento do apetite, aumento de sede e aumento de volume de urina. Há 1 mês, teve quadro de infecção viral na orofaringe. Além disso, foi relatada uma perda de 4kg ao longo desse período. A partir somente da história, qual seria sua hipótese diagnóstica nessa paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Diabetes mellitus do tipo 1"
+      },
+      {
+        "letra": "B",
+        "texto": "Diabetes mellitus do tipo 2"
+      },
+      {
+        "letra": "C",
+        "texto": "Hipertireodismo"
+      },
+      {
+        "letra": "D",
+        "texto": "Hipotireodismo"
+      },
+      {
+        "letra": "E",
+        "texto": "Hipocortisolismo"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105610,
+    "tags": [],
+    "enunciado": "A respeito do GLP-1, qual seu principal sítio de síntese:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Intestinal"
+      },
+      {
+        "letra": "B",
+        "texto": "Gástrica"
+      },
+      {
+        "letra": "C",
+        "texto": "Pancreática"
+      },
+      {
+        "letra": "D",
+        "texto": "Hipofisária"
+      },
+      {
+        "letra": "E",
+        "texto": "Adrenal"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105611,
+    "tags": [],
+    "enunciado": "A leptina é um importante hormônio que atua na regulação de mecanismos da fome e saciedade, além de regular vias energéticas. Em relação a esse hormônio, assinale a alternativa que aponta corretamente seu local de síntese majoritária:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pâncreas"
+      },
+      {
+        "letra": "B",
+        "texto": "Fígado"
+      },
+      {
+        "letra": "C",
+        "texto": "Tecido adiposo"
+      },
+      {
+        "letra": "D",
+        "texto": "Tireoide"
+      },
+      {
+        "letra": "E",
+        "texto": "Hipófise"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105612,
+    "tags": [],
+    "enunciado": "Como você espera estar o perfil eletrolítico de um paciente com produção excessiva de aldosterona, ou seja, portador de hiperaldosteronismo?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hipernatremia, hipercalemia, hipertenso"
+      },
+      {
+        "letra": "B",
+        "texto": "Hipernatremia, hipocalemia, hipertenso"
+      },
+      {
+        "letra": "C",
+        "texto": "Hiponatremia, hipercalcemia, hipertenso"
+      },
+      {
+        "letra": "D",
+        "texto": "Hiponatremia, hipocalemia, normotenso"
+      },
+      {
+        "letra": "E",
+        "texto": "Hipernatremia, hipocalemia, normotenso"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105613,
+    "tags": [],
+    "enunciado": "Em relação à doença de Addison, qual dos seguintes sinais pode estar presente nessa condição?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aumento do volume cervical"
+      },
+      {
+        "letra": "B",
+        "texto": "Hipotensão postural"
+      },
+      {
+        "letra": "C",
+        "texto": "Ansiedade e nervosismo"
+      },
+      {
+        "letra": "D",
+        "texto": "Exoftalmia"
+      },
+      {
+        "letra": "E",
+        "texto": "Obesidade centrípeta"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105614,
+    "tags": [],
+    "enunciado": "Qual dos seguintes sinais estão presentes no hipocortisolismo?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hiperpigmentação na pele"
+      },
+      {
+        "letra": "B",
+        "texto": "Obesidade centrípeta"
+      },
+      {
+        "letra": "C",
+        "texto": "Face em lua"
+      },
+      {
+        "letra": "D",
+        "texto": "Tremor e nervosismo"
+      },
+      {
+        "letra": "E",
+        "texto": "Oftalmopatia"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105615,
+    "tags": [],
+    "enunciado": "Qual dos seguintes sintomas não está relacionado ao hipotireoidismo?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hiperpigmentação"
+      },
+      {
+        "letra": "B",
+        "texto": "Sonolência diurna"
+      },
+      {
+        "letra": "C",
+        "texto": "Letargia"
+      },
+      {
+        "letra": "D",
+        "texto": "Bradicardia"
+      },
+      {
+        "letra": "E",
+        "texto": "Ganho de peso"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105616,
+    "tags": [],
+    "enunciado": "Em relação ao hipotireodismo, qual dos seguintes sinais está presente nessa condição?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Mixedema (edema duro)"
+      },
+      {
+        "letra": "B",
+        "texto": "Exoftalmia"
+      },
+      {
+        "letra": "C",
+        "texto": "Tremor fino de bases"
+      },
+      {
+        "letra": "D",
+        "texto": "Face em lua cheia"
+      },
+      {
+        "letra": "E",
+        "texto": "Hipotensão postural"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105617,
+    "tags": [],
+    "enunciado": "Em relação ao hipercortisolismo, qual dos seguintes sinais está presente nessa condição?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Face em lua cheia"
+      },
+      {
+        "letra": "B",
+        "texto": "Face leonina"
+      },
+      {
+        "letra": "C",
+        "texto": "Mixedema pré-tibial"
+      },
+      {
+        "letra": "D",
+        "texto": "Tremor fino de base"
+      },
+      {
+        "letra": "E",
+        "texto": "Hipotensão postural"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105618,
+    "tags": [],
+    "enunciado": "Assinale a alternativa que correlaciona corretamente as adipocinas com seu local preferencial de produção:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "IL-6 - subcutâneo"
+      },
+      {
+        "letra": "B",
+        "texto": "Leptina - visceral"
+      },
+      {
+        "letra": "C",
+        "texto": "IL-1 - subcutâneo"
+      },
+      {
+        "letra": "D",
+        "texto": "Adiponectina - visceral"
+      },
+      {
+        "letra": "E",
+        "texto": "TNFα - visceral"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 105619,
+    "tags": [],
+    "enunciado": "Qual exame abaixo é um marcador indireto de insulina?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Glucagon"
+      },
+      {
+        "letra": "B",
+        "texto": "Peptídeo C"
+      },
+      {
+        "letra": "C",
+        "texto": "Glicemia em jejum"
+      },
+      {
+        "letra": "D",
+        "texto": "Hemoglobina glicada"
+      },
+      {
+        "letra": "E",
+        "texto": "Glicemia aleatória"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105620,
+    "tags": [],
+    "enunciado": "Qual dos hormônios abaixo é produzido majoritariamente no tecido adiposo?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "GLP-1"
+      },
+      {
+        "letra": "B",
+        "texto": "IGF-1"
+      },
+      {
+        "letra": "C",
+        "texto": "Leptina"
+      },
+      {
+        "letra": "D",
+        "texto": "Glucagon"
+      },
+      {
+        "letra": "E",
+        "texto": "Grelina"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105621,
+    "tags": [],
+    "enunciado": "Qual paciente possui per(cid:68)l de acumulação visceral de gordura e qual possui obesidade grau I, respectivamente? I. Mulher ocidental, IMC: 27kg/m², Circunferência abdominal: 76 cm II. Mulher ocidental, IMC: 46kg/m², Circunferência abdominal: 112 cm III. Mulher oriental, IMC: 29kg/m², Circunferência abdominal: 79 cm IV. Mulher oriental, IMC: 22kg/m², Circunferência abdominal: 65 cm",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e II"
+      },
+      {
+        "letra": "B",
+        "texto": "II e III"
+      },
+      {
+        "letra": "C",
+        "texto": "III e II"
+      },
+      {
+        "letra": "D",
+        "texto": "I e IV"
+      },
+      {
+        "letra": "E",
+        "texto": "IV e III"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105622,
+    "tags": [],
+    "enunciado": "Quais das alternativas abaixo se encaixam na definição de síndrome metabólica? Adote: CA: circunferência abdominal Glicemia em jejum: <99 mg/dL HDL: > 40 mg/dL em homens e > 50 mg/dL em mulheres Triglicérides em jejum: <150 mg/dL",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "CA em homem: 85cm; normotenso e HDL em jejum: 55 mg/dL"
+      },
+      {
+        "letra": "B",
+        "texto": "CA em homens: 97cm; hipertenso e triglicérides em jejum: 170 mg/dL"
+      },
+      {
+        "letra": "C",
+        "texto": "CA em homens: 102cm; normotenso e triglicérides em jejum: 183 mg/dL"
+      },
+      {
+        "letra": "D",
+        "texto": "CA em homens: 90cm; hipertenso e HDL em jejum: 33 mg/dL"
+      },
+      {
+        "letra": "E",
+        "texto": "CA em homem: 92cm; normotenso e triglicérides em jejum: 162 mg/dL"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105623,
+    "tags": [],
+    "enunciado": "Em relação à diabetes gestacional, qual a explicação fisiopatológica da doença?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Resistencia insulinica"
+      },
+      {
+        "letra": "B",
+        "texto": "Destruição de células pancreáticas"
+      },
+      {
+        "letra": "C",
+        "texto": "Resistência à ação do hormônio antidiurético"
+      },
+      {
+        "letra": "D",
+        "texto": "Insuficiência na síntese do hormônio antidiurético"
+      },
+      {
+        "letra": "E",
+        "texto": "Nenhuma das afirmativas acima"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105624,
+    "tags": [],
+    "enunciado": "Em relação à somatostatina, qual o papel desempenhado desse hormônio na hipófise? I. Inibição dos lactotrofos II. Inibição dos tireotrofos III. Inibição dos somatotrofos IV. Inibição dos gonadotrofos V. Inibição da síntese de todos os hormônios da adenohipófise",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e II"
+      },
+      {
+        "letra": "B",
+        "texto": "I e III"
+      },
+      {
+        "letra": "C",
+        "texto": "II e III"
+      },
+      {
+        "letra": "D",
+        "texto": "III e IV"
+      },
+      {
+        "letra": "E",
+        "texto": "Somente V"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105625,
+    "tags": [],
+    "enunciado": "Em relação a somatostatina, qual o papel desempenhado desse hormônio nas células das ilhotas pancreáticas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Inibir somente as celulas F"
+      },
+      {
+        "letra": "B",
+        "texto": "Inibir somente as celulas delta"
+      },
+      {
+        "letra": "C",
+        "texto": "Estimular somente as células alfa"
+      },
+      {
+        "letra": "D",
+        "texto": "Estimular somente as células delta"
+      },
+      {
+        "letra": "E",
+        "texto": "Nenhuma das afirmativas acima"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 105626,
+    "tags": [],
+    "enunciado": "A tireoidectomia é uma opção derradeira quando a glândula tireoide saudável está comprometida e oferece risco de disseminação de células cancerosas por qualquer via que seja. Nesse sentido, tendo em mente a anatomia da tireóide e dos tecidos adjacentes, qual hormônio extra-tireoidiano pode ser afetado devido a uma provável complicação da cirurgia?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "PTH"
+      },
+      {
+        "letra": "B",
+        "texto": "LH"
+      },
+      {
+        "letra": "C",
+        "texto": "Adrenalina"
+      },
+      {
+        "letra": "D",
+        "texto": "Leptina"
+      },
+      {
+        "letra": "E",
+        "texto": "Calcitonina"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105627,
+    "tags": [],
+    "enunciado": "LYMS, feminino, 25 anos. Paciente relata ansiedade, nervosismo e tremor (cid:68)no de base há 2 semanas. Relata recentemente uma infecção viral na orofaringe há 4 semanas. Após encaminhamento ao endocrinologista, foi feita a hipótese de tireoidite subaguda. No momento do diagnóstico, como se espera que esteja o per(cid:68)l dos hormônios do eixo hipotálamo-hipófise-tireóide?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "TSH: aumentado T4 total: diminuído T4 livre: diminuído"
+      },
+      {
+        "letra": "B",
+        "texto": "TSH: diminuído T4 total: aumentado T4 livre: aumentado"
+      },
+      {
+        "letra": "C",
+        "texto": "TSH: aumentado T4 total: diminuído T4 livre: aumentado"
+      },
+      {
+        "letra": "D",
+        "texto": "TSH: diminuído T4 total: aumentado T4 livre: diminuído"
+      },
+      {
+        "letra": "E",
+        "texto": "TSH: aumentado T4 total: aumentado T4 livre: aumentado"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105628,
+    "tags": [],
+    "enunciado": "A respeito das desiodases, qual das conversões abaixo é função das D3?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "T4 em T3"
+      },
+      {
+        "letra": "B",
+        "texto": "T3r em T2"
+      },
+      {
+        "letra": "C",
+        "texto": "T3 em T3r"
+      },
+      {
+        "letra": "D",
+        "texto": "T4 em T3r"
+      },
+      {
+        "letra": "E",
+        "texto": "T3 em T4"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105629,
+    "tags": [],
+    "enunciado": "Qual dos hormônios abaixo simula o papel do TSH durante a gravidez?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Lactogênio placentário"
+      },
+      {
+        "letra": "B",
+        "texto": "Cortisol"
+      },
+      {
+        "letra": "C",
+        "texto": "Prolactina"
+      },
+      {
+        "letra": "D",
+        "texto": "Estrogênio"
+      },
+      {
+        "letra": "E",
+        "texto": "hCG"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 105630,
+    "tags": [],
+    "enunciado": "MSJ, 30 anos, natural e procedente de São Paulo - SP. Grávida de 16 semanas. Sem queixas. Paciente em retorno para apresentar exames realizados a pedido do médico obstetra realizando pré-natal. Exames normais, com exceção do TSH, como ilustrado a seguir. TSH (VR na população geral: 0,3 a 4,0 mUI/L): 0,02 mUI/L T4 livre (VR na população geral: 0,7 a 1,8 ng/dL)|: 1,2 ng/dL T4 total (VR na população geral: 4,5 a 12,6 ng/dL): 10,5 ng/dL",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "partir desses dados, qual seria sua hipótese diagnóstica?"
+      },
+      {
+        "letra": "A",
+        "texto": "Eutireoidiana"
+      },
+      {
+        "letra": "B",
+        "texto": "Hipotireodismo primário"
+      },
+      {
+        "letra": "C",
+        "texto": "Hipotireodismo secundário"
+      },
+      {
+        "letra": "D",
+        "texto": "Hipertireoidismo primário"
+      },
+      {
+        "letra": "E",
+        "texto": "Nenhuma das alternativas"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105631,
+    "tags": [],
+    "enunciado": "A respeito da produção de hormônios andrógenos, assinale a alternativa que indica corretamente o local de produção desse hormônio na glândula adrenal:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Zona Glomerulosa"
+      },
+      {
+        "letra": "B",
+        "texto": "Zona Reticulada"
+      },
+      {
+        "letra": "C",
+        "texto": "Zona Fasciculada"
+      },
+      {
+        "letra": "D",
+        "texto": "Medula adrenal"
+      },
+      {
+        "letra": "E",
+        "texto": "Cápsula renal"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105632,
+    "tags": [],
+    "enunciado": "A respeito da produção de cortisol, assinale a alternativa que indica corretamente o local de produção desse hormônio:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Zona Glomerulosa"
+      },
+      {
+        "letra": "B",
+        "texto": "Zona Reticulada"
+      },
+      {
+        "letra": "C",
+        "texto": "Zona Fasciculada"
+      },
+      {
+        "letra": "D",
+        "texto": "Medula adrenal"
+      },
+      {
+        "letra": "E",
+        "texto": "Cápsula renal"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105633,
+    "tags": [],
+    "enunciado": "A respeito da produção de aldosterona, assinale a alternativa que indica corretamente o local de produção desse hormônio:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Zona Glomerulosa"
+      },
+      {
+        "letra": "B",
+        "texto": "Zona Fasciculada"
+      },
+      {
+        "letra": "C",
+        "texto": "Zona Reticulada"
+      },
+      {
+        "letra": "D",
+        "texto": "Medula adrenal"
+      },
+      {
+        "letra": "E",
+        "texto": "Cápsula renal"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105634,
+    "tags": [],
+    "enunciado": "Sobre a produção de catecolaminas, qual é o aminoácido usado como precursor para síntese desses hormônios?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Valina"
+      },
+      {
+        "letra": "B",
+        "texto": "Fenilalanina"
+      },
+      {
+        "letra": "C",
+        "texto": "Tirosina"
+      },
+      {
+        "letra": "D",
+        "texto": "Leucina"
+      },
+      {
+        "letra": "E",
+        "texto": "Glutamina"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105635,
+    "tags": [],
+    "enunciado": "A respeito da produção de aldosterona, assinale a alternativa que indica corretamente o local de produção desse hormônio:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Zona Glomerulosa"
+      },
+      {
+        "letra": "B",
+        "texto": "Zona Fasciculada"
+      },
+      {
+        "letra": "C",
+        "texto": "Zona Reticulada"
+      },
+      {
+        "letra": "D",
+        "texto": "Medula adrenal"
+      },
+      {
+        "letra": "E",
+        "texto": "Cápsula renal"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105636,
+    "tags": [],
+    "enunciado": "A insulina exerce diversos processos ante ao metabolismo como um todo, dentre eles está relacionada uma importante redução de um determinado eletrólito na corrente sanguínea, devido a migração da concentração extra para intracelular. Qual é esse eletrólito?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "K⁺"
+      },
+      {
+        "letra": "B",
+        "texto": "Na⁺"
+      },
+      {
+        "letra": "C",
+        "texto": "Ca⁺"
+      },
+      {
+        "letra": "D",
+        "texto": "Mg⁺"
+      },
+      {
+        "letra": "E",
+        "texto": "PO⁺"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105637,
+    "tags": [],
+    "enunciado": "O pâncreas é um importante órgão endócrino responsável pela síntese e secreção de diversos hormônios, a partir de estruturas como as ilhotas de Langerhans. Além disso, o pâncreas possui uma parte exócrina que auxilia no processo digestivo. A respeito da via (cid:68)nal de secreção do pâncreas exócrino, em que porção duodenal se encontra a papila maior de Vater?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1ª porção duodenal"
+      },
+      {
+        "letra": "B",
+        "texto": "2ª porção duodenal"
+      },
+      {
+        "letra": "C",
+        "texto": "3ª porção duodenal"
+      },
+      {
+        "letra": "D",
+        "texto": "4ª porção duodenal"
+      },
+      {
+        "letra": "E",
+        "texto": "Canal pilórico"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105638,
+    "tags": [],
+    "enunciado": "No estudo anatômico dos órgãos abdominais, o peritônio muitas vezes acaba servindo como uma referência para descrever a posição anatômica do órgão em relação a essa membrana serosa. Nesse sentido, assinale a alternativa que indica corretamente a posição do pâncreas:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Primariamente retroperitonial"
+      },
+      {
+        "letra": "B",
+        "texto": "Secundariamente retroperitoneal"
+      },
+      {
+        "letra": "C",
+        "texto": "Intraperitoneal"
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas a cabeça pancreática é retroperitoneal"
+      },
+      {
+        "letra": "E",
+        "texto": "Apenas a cabeça pancreática é intraperitoneal"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105639,
+    "tags": [],
+    "enunciado": "O pâncreas é um órgão endócrino fundamental para que ocorra diversos processos no organismo, dentre os hormônios sintetizados e secretados pelo pâncreas está a grelina pancreática. Assinale a alternativa que indica os tipos celulares que são responsáveis pela produção desse hormônio:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Células alfa"
+      },
+      {
+        "letra": "B",
+        "texto": "Células beta"
+      },
+      {
+        "letra": "C",
+        "texto": "Células delta"
+      },
+      {
+        "letra": "D",
+        "texto": "Cèlulas F"
+      },
+      {
+        "letra": "E",
+        "texto": "Células epsilon"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 105640,
+    "tags": [],
+    "enunciado": "O pâncreas é um órgão endócrino fundamental para que ocorra diversos processos no organismo, dentre os hormônios sintetizados e secretados pelo pâncreas está o polipeptídeo pancreático. Assinale a alternativa que indica os tipos celulares que são responsáveis pela produção desse hormônio:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Células alfa"
+      },
+      {
+        "letra": "B",
+        "texto": "Células beta"
+      },
+      {
+        "letra": "C",
+        "texto": "Células delta"
+      },
+      {
+        "letra": "D",
+        "texto": "Células F"
+      },
+      {
+        "letra": "E",
+        "texto": "Células epsilon"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105641,
+    "tags": [],
+    "enunciado": "O pâncreas é um órgão endócrino fundamental para que ocorra diversos processos no organismo, dentre os hormônios sintetizados e secretados pelo pâncreas está a somatostatina pancreática. Assinale a alternativa que indica os tipos celulares que são responsáveis pela produção desse hormônio:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Células alfa"
+      },
+      {
+        "letra": "B",
+        "texto": "Células beta"
+      },
+      {
+        "letra": "C",
+        "texto": "Células delta"
+      },
+      {
+        "letra": "D",
+        "texto": "Células C"
+      },
+      {
+        "letra": "E",
+        "texto": "Células epsilon"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105642,
+    "tags": [],
+    "enunciado": "O pâncreas é um órgão endócrino fundamental para que ocorra diversos processos no organismo, dentre os hormônios sintetizados e secretados pelo pâncreas está o glucagon. Assinale a alternativa que indica os tipos celulares que são responsáveis pela produção do glucagon:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Células alfa"
+      },
+      {
+        "letra": "B",
+        "texto": "Células beta"
+      },
+      {
+        "letra": "C",
+        "texto": "Células delta"
+      },
+      {
+        "letra": "D",
+        "texto": "Células C"
+      },
+      {
+        "letra": "E",
+        "texto": "Cèlulas G"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105643,
+    "tags": [],
+    "enunciado": "O pâncreas é um órgão endócrino fundamental para que ocorra diversos processos no organismo, dentre os hormônios sintetizados e secretados pelo pâncreas está a insulina. Assinale a alternativa que indica os tipos celulares que são responsáveis pela produção da insulina:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Células alfa"
+      },
+      {
+        "letra": "B",
+        "texto": "Células beta"
+      },
+      {
+        "letra": "C",
+        "texto": "Células delta"
+      },
+      {
+        "letra": "D",
+        "texto": "Células C"
+      },
+      {
+        "letra": "E",
+        "texto": "Células I"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105644,
+    "tags": [],
+    "enunciado": "Durante a gravidez, o corpo da mulher passa por diversas modi(cid:68)cações mediadas principalmente por hormônios. Dentre essas mudanças, está a resistência insulínica mediada por essas alterações hormonais. Nesse contexto, assinale a alternativa que NÃO é responsável pelo aumento da resistência à insulina durante a gravidez:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Lactogênio placentário"
+      },
+      {
+        "letra": "B",
+        "texto": "Cortisol"
+      },
+      {
+        "letra": "C",
+        "texto": "Prolactina"
+      },
+      {
+        "letra": "D",
+        "texto": "Estrogênio"
+      },
+      {
+        "letra": "E",
+        "texto": "hCG"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 105645,
+    "tags": [],
+    "enunciado": "Sobre o ciclo de secreção do (cid:68)siológico de cortisol, em que hora acontece o menor nível de secreção desse hormônio.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "8:00"
+      },
+      {
+        "letra": "B",
+        "texto": "16:00"
+      },
+      {
+        "letra": "C",
+        "texto": "18:00"
+      },
+      {
+        "letra": "D",
+        "texto": "20:00"
+      },
+      {
+        "letra": "E",
+        "texto": "0:00"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 105646,
+    "tags": [],
+    "enunciado": "Sobre o ciclo de secreção do (cid:68)siológico de cortisol, em que hora acontece o pico de secreção desse hormônio.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "8:00"
+      },
+      {
+        "letra": "B",
+        "texto": "16:00"
+      },
+      {
+        "letra": "C",
+        "texto": "18:00"
+      },
+      {
+        "letra": "D",
+        "texto": "20:00"
+      },
+      {
+        "letra": "E",
+        "texto": "0:00"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105647,
+    "tags": [],
+    "enunciado": "O PTH é um hormônio produzido pelas glândulas paratireoides. A respeito desse hormônio, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aumenta excreção de cálcio"
+      },
+      {
+        "letra": "B",
+        "texto": "Possui efeito fosfatúrico"
+      },
+      {
+        "letra": "C",
+        "texto": "Diminui o cálcio sérico"
+      },
+      {
+        "letra": "D",
+        "texto": "Inibe a 1-α-hidroxilase"
+      },
+      {
+        "letra": "E",
+        "texto": "Aumenta os níveis de remineralização óssea"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105648,
+    "tags": [],
+    "enunciado": "Dentre os diversos eixos hormonais existentes, há o eixo GH-sistema IGF — relacionado, entre outras coisas, ao crescimento longitudinal durante a na criança e adolescente. A respeito do local de síntese do IGF- 1, assinale a alternativa que indica corretamente onde ocorre a produção da maior parcela desse hormônio:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fígado"
+      },
+      {
+        "letra": "B",
+        "texto": "Adenohipófise"
+      },
+      {
+        "letra": "C",
+        "texto": "Tireoide"
+      },
+      {
+        "letra": "D",
+        "texto": "Neurohipófise"
+      },
+      {
+        "letra": "E",
+        "texto": "Pâncreas"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105649,
+    "tags": [],
+    "enunciado": "O GH é um dos hormônios produzidos e secretados pela hipó(cid:68)se, mas especi(cid:68)camente na adenohipó(cid:68)se. A respeito do transporte desse hormônio, qual é a forma mais abundante encontrada na circulação sanguínea?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "GHBP"
+      },
+      {
+        "letra": "B",
+        "texto": "Albumina"
+      },
+      {
+        "letra": "C",
+        "texto": "Forma livre"
+      },
+      {
+        "letra": "D",
+        "texto": "Transtiretina"
+      },
+      {
+        "letra": "E",
+        "texto": "TBG"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105650,
+    "tags": [],
+    "enunciado": "Em relação aos hormônios tireodianos T3 e T4, qual é a forma mais abundante encontrada na circulação do organismo humano?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ligada à albumina"
+      },
+      {
+        "letra": "B",
+        "texto": "Ligada à tireoglobulina"
+      },
+      {
+        "letra": "C",
+        "texto": "Ligada à TBG"
+      },
+      {
+        "letra": "D",
+        "texto": "Forma livre"
+      },
+      {
+        "letra": "E",
+        "texto": "Transtiretina"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105651,
+    "tags": [],
+    "enunciado": "A respeito das desiodases, qual é o papel principal das D1 e D2?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "T4 em T3"
+      },
+      {
+        "letra": "B",
+        "texto": "T3 em T3r"
+      },
+      {
+        "letra": "C",
+        "texto": "T3 em T2"
+      },
+      {
+        "letra": "D",
+        "texto": "T4 em T2"
+      },
+      {
+        "letra": "E",
+        "texto": "T3 em T4"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105652,
+    "tags": [],
+    "enunciado": "HSM, feminino, 40 anos. Paciente relata cansaço, queda de cabelo e sonolência diurna excessiva há 6 meses. Foi feita investigação e feito o diagnóstico de doença de Hashimoto. No momento do diagnóstico, como se espera que esteja o perfil dos hormônios do eixo hipotálamo-hipófise-tireoide?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "TSH: aumentado T4 total: diminuído T4 livre: diminuído"
+      },
+      {
+        "letra": "B",
+        "texto": "TSH: diminuído T4 total: aumentado T4 livre: aumentado"
+      },
+      {
+        "letra": "C",
+        "texto": "TSH: aumentado T4 total: diminuído T4 livre: aumentado"
+      },
+      {
+        "letra": "D",
+        "texto": "TSH: diminuído T4 total: aumentado T4 livre: diminuído"
+      },
+      {
+        "letra": "E",
+        "texto": "TSH: aumentado T4 total: aumentado T4 livre: aumentado"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105653,
+    "tags": [],
+    "enunciado": "A tireoide é uma glândula responsável pela liberação de alguns hormônios como as tironinas T3 e T4. Além da tireoide, outros tecidos também são capazes de realizar captação de iodo, a partir do NIS (Natrium Iodide Symporter) e podem ser relevantes para tratamentos como radioterapia. Dentre os tecidos abaixo, assinale a alternativa que indica um tecido que também expressa esse transportador: I. Fígado II. Glândulas mamárias III. Glândulas salivares IV. Paratireoides",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e IV"
+      },
+      {
+        "letra": "B",
+        "texto": "I e II"
+      },
+      {
+        "letra": "C",
+        "texto": "II e III"
+      },
+      {
+        "letra": "D",
+        "texto": "I e III"
+      },
+      {
+        "letra": "E",
+        "texto": "II e IV"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105654,
+    "tags": [],
+    "enunciado": "O sistema neuro-endócrino é responsável pela regulação de diversos hormônios, esses por sua vez são responsáveis pela modulação de múltiplos processos no organismo. Em relação a esse sistema, o hipotálamo e a hipó(cid:68)se possuem uma íntima relação no balanço dos hormônios secretados por esta última, como no caso da prolactina. Nesse contexto, assinale a alternativa que aponta o modulador, que em condições (cid:68)siológicas, é responsável pela inibição da produção de prolactina:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Acetilcolina"
+      },
+      {
+        "letra": "B",
+        "texto": "TRH"
+      },
+      {
+        "letra": "C",
+        "texto": "Dopamina"
+      },
+      {
+        "letra": "D",
+        "texto": "Serotonina"
+      },
+      {
+        "letra": "E",
+        "texto": "Noradrenalina"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105655,
+    "tags": [],
+    "enunciado": "Os hormônios esteroides são essenciais para a homeostase dos processos metabólicos do organismo. Em relação à síntese, esses hormônios são derivados do colesterol e passam por diversos produtos intermediários e etapas de conversão até que se chegue no hormônio demandado. Nesse sentido, a aromatase (CYP19) é uma enzima fundamental para esta via que ocorre na glândula adrenal. Assinale a alternativa que aponte todas as conversões em que essa enzima participa: I. Pregnenolona → Progesterona II. 11-Desoxicortisol → Cortisol III. Testosterona → Estradiol IV. Androstenediona → Estrona",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas I"
+      },
+      {
+        "letra": "B",
+        "texto": "II e III"
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas III"
+      },
+      {
+        "letra": "D",
+        "texto": "III e IV"
+      },
+      {
+        "letra": "E",
+        "texto": "Apenas IV"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105656,
+    "tags": [],
+    "enunciado": "A hipó(cid:68)se ou glândula pituitária, também conhecida popularmente como “glândula mestra”, é responsável pela síntese e secreção de diversos hormônios. Devido a características diferentes, a mesma glândula foi dividida em duas regiões distintas: a adenohipó(cid:68)se e a neurohipó(cid:68)se. Assim, assinale a alternativa que correlaciona corretamente o hormônio sintetizado na hipófise e seu respectivo sítio de produção:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Prolactina - Adenohipófise"
+      },
+      {
+        "letra": "B",
+        "texto": "Ocitocina - Neurohipófise"
+      },
+      {
+        "letra": "C",
+        "texto": "GH - Neurohipófise"
+      },
+      {
+        "letra": "D",
+        "texto": "ADH - Adenohipófise"
+      },
+      {
+        "letra": "E",
+        "texto": "Nenhuma das alternativas acima"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 105657,
+    "tags": [],
+    "enunciado": "A insulina é uma incretina, hormônio que faz parte da regulação dos níveis de glicose no sangue, produzida pelas células-β do pâncreas. Esse hormônio é essencial para diversos processos metabólicos no organismo, dentre eles está a entrada e saída de glicose nas células do tecido muscular esquelético. Nesse sentido, assinale o transportador modulado pela insulina para entrada de glicose nos músculos, miocárdio e tecido adiposo (GLUT - Glucose Transporter):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "GLUT1"
+      },
+      {
+        "letra": "B",
+        "texto": "GLUT2"
+      },
+      {
+        "letra": "C",
+        "texto": "GLUT3"
+      },
+      {
+        "letra": "D",
+        "texto": "GLUT4"
+      },
+      {
+        "letra": "E",
+        "texto": "GLUT5"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105658,
+    "tags": [],
+    "enunciado": "Um paciente de 36 anos comparece a uma consulta ambulatorial relatando que precisou comprar três pares de tênis no último ano. Ele pratica corrida de rua e observou um aumento no tamanho dos seus pés, o que o levou a adquirir calçados maiores. Além disso, menciona ter precisado trocar o anel de casamento por este ter (cid:68)cado apertado. Ao conversar com amigos, ele suspeita que essas mudanças possam ser efeitos temporários do uso de suplementos como whey protein e creatina. Além disso, refere apresentar sonolência diurna e dores nas articulações mais frequentes. Atribui essas queixas a rotina do trabalho e ao aumento de treinos na academia. O médico realizou exames que evidenciaram a presença de um tumor. Em qual órgão é mais esperado a presença de tumor e quais resultados de exame são esperados ao paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hipófise; GH aumentado; HbA1C: 5%"
+      },
+      {
+        "letra": "B",
+        "texto": "Hipotálamo; IGF1 aumentado; HbA1C: 9%"
+      },
+      {
+        "letra": "C",
+        "texto": "Hipófise; IGF1 aumentado; HbA1C: 9%"
+      },
+      {
+        "letra": "D",
+        "texto": "Hipotálamo; GH aumentado; Hb1AC: 5%"
+      },
+      {
+        "letra": "E",
+        "texto": "Fígado; IGF1 aumentado; HbA1C: 9%"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105659,
+    "tags": [],
+    "enunciado": "No processo de produção dos hormônios tireoidianos pela glândula tireoide, há produção de dois hormônios: o T3 (triiodotironina) e o T4 (tiroxina). Sobre a diferença entre ambos, que afirmativa está correta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas o T3 ligado a TBG (Thyroxine-binding globulin) é a forma ativa do hormônio tireoidiano"
+      },
+      {
+        "letra": "B",
+        "texto": "Uma vez dentro da célula, T4 é predominantemente transformado em T3 reverso (rT3) pela 5- deiodinase"
+      },
+      {
+        "letra": "C",
+        "texto": "O T3 se liga a receptores nucleares com maior afinidade que o T4"
+      },
+      {
+        "letra": "D",
+        "texto": "T4 é a forma mais ativa com meia vida de 24 a 48 horas"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105660,
+    "tags": [],
+    "enunciado": "Um rapaz de 23 anos é levado à sala de emergência com rebaixamento do nível de consciência, febre e cefaleia há dois dias. Ele está torporoso e não consegue fornecer muitas informações sobre seu histórico médico. Seu amigo relata que ele estava sofrendo de cefaleia intensa e febre nos últimos dois dias, com piora significativa hoje. Os sinais vitais do paciente são: temperatura de 39,3 ºC, frequência cardíaca de 128 bpm e pressão arterial de 76x54 mmHg. Durante o exame físico, observa-se uma erupção cutânea purpúrica difusa, pele fria e pegajosa, e rigidez de nuca. Os resultados dos exames laboratoriais mostram níveis baixos de sódio (Na+), altos de potássio (K+), hipocloridria (Cl-), baixo bicarbonato, alta creatinina e baixa glicose. O hemograma revela baixa hemoglobina, leucocitose e trombocitopenia. Após uma hidratação venosa vigorosa, o paciente continua hipotenso e é observado sangramento espontâneo no local da punção venosa. Além de um quadro séptico, qual é o provável quadro sindrômico do paciente e qual é o provável achado na bacterioscopia da hemocultura?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Insuficiência adrenal central; bacilo gram-negativo"
+      },
+      {
+        "letra": "B",
+        "texto": "Insuficiência adrenal periférica; bacilo gram-negativo"
+      },
+      {
+        "letra": "C",
+        "texto": "Insuficiência adrenal periférica; diplococo gram-negativo"
+      },
+      {
+        "letra": "D",
+        "texto": "Insuficiência adrenal central; diplococo gram-positivo"
+      },
+      {
+        "letra": "E",
+        "texto": "Fadiga adrenal; cocos gram-positivos em cachos"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105661,
+    "tags": [],
+    "enunciado": "Uma mulher de 33 anos comparece ao consultório com queixa de amenorreia e perda de libido. Ela atribui esses sintomas ao estresse de sua rotina desgastante. Antes desse quadro, que começou há 1 ano, ela tinha ciclos menstruais regulares. Além disso, ela percebeu a saída espontânea de leite pelos seios, o que a constrange em algumas situações sociais, e relata uma alteração visual que não consegue descrever com precisão. Os sinais vitais e o exame físico da paciente estão dentro dos limites normais. Após avaliação, o médico identifica uma alteração laboratorial significativa e encaminha a paciente para avaliação oftalmológica. Qual alteração foi encontrada pelo oftalmologista, qual órgão está afetado e qual hormônio teve a alteração laboratorial?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hemianopsia bitemporal; adeno-hipófise; vasopressina"
+      },
+      {
+        "letra": "B",
+        "texto": "Hemianopsia homônima; neuro-hipófise; prolactina"
+      },
+      {
+        "letra": "C",
+        "texto": "Escotomas cintilantes; adeno-hipófise; prolactina"
+      },
+      {
+        "letra": "D",
+        "texto": "Hemianopsia homônima; neuro-hipófise; vasopressina"
+      },
+      {
+        "letra": "E",
+        "texto": "Hemianopsia bitemporal; adeno-hipófise; prolactina"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 105662,
+    "tags": [],
+    "enunciado": "Uma mulher de 36 anos comparece ao consultório com queixa de amenorreia e incapacidade de produzir leite. Ela relata ter tido um parto complicado há 7 meses, durante o qual recebeu quatro bolsas de sangue e foi internada na terapia intensiva pós-parto. Durante a investigação, foram observados baixos níveis de LH e FSH, bem como outros hormônios. Qual o nome da condição apresentada pela paciente e o órgão afetado?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Síndrome de Sheehan; hipófise incapaz de produzir hormônios, resultando em amenorreia e agalactia."
+      },
+      {
+        "letra": "B",
+        "texto": "Síndrome de Kallmann; alteração na migração dos neurônios hipotalâmicos e no olfato, resultando em hipogonadismo hipogonadotrófico."
+      },
+      {
+        "letra": "C",
+        "texto": "Síndrome de Asherman; alteração nos ovários que leva à produção hormonal inadequada, resultando em amenorreia e agalactia."
+      },
+      {
+        "letra": "D",
+        "texto": "Síndrome de Sheehan; necrose hipofisária que causa hipopituitarismo com hipogonadismo hipergonadotrófico."
+      },
+      {
+        "letra": "E",
+        "texto": "Síndrome de Sheehan; necrose hemorrágica dos ovários que leva ao hipogonadismo hipogonadotrófico, caracterizado pelos baixos níveis de estradiol, LH e FSH."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105663,
+    "tags": [],
+    "enunciado": "Um homem de 50 anos comparece à consulta médica com queixa de rouquidão. O paciente foi diagnosticado com neoplasia da tireoide durante investigação e é indicada a realização de uma tireoidectomia total cirúrgica. Após o procedimento cirúrgico, o paciente apresenta parestesia perioral, parestesia nas mãos e nos pés, juntamente com os achados clínicos abaixo: Dentre as alternativas a seguir, qual descreve corretamente o contexto clínico, os achados de exame e os nomes dos sinais observados?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hipoparatireoidismo; Cálcio elevado; Fósforo baixo"
+      },
+      {
+        "letra": "B",
+        "texto": "Hipotireoidismo; Cálcio baixo; Fósforo elevado"
+      },
+      {
+        "letra": "C",
+        "texto": "Hipotireoidismo; Cálcio elevado; Fósforo baixo"
+      },
+      {
+        "letra": "D",
+        "texto": "Hipoparatireoidismo; Cálcio baixo; Fósforo elevado"
+      },
+      {
+        "letra": "E",
+        "texto": "Hipoparatireoidismo; Cálcio baixo; Fósforo baixo"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 105664,
+    "tags": [],
+    "enunciado": "Um homem de 50 anos comparece à consulta médica com queixa de rouquidão. O paciente foi diagnosticado com neoplasia da tireoide há 1 mês e foi submetido a uma tireoidectomia total. Após o procedimento, ele inicialmente atribuiu a rouquidão como um efeito temporário da cirurgia. No entanto, como os sintomas persistiram, ele resolveu buscar atendimento médico. Os sinais vitais estão normais. A força e sensibilidade da cabeça e do pescoço estão sem alterações. O exame cardiopulmonar não apresenta alterações. A laringoscopia direta revela paralisia das cordas vocais à direita. Qual é a principal explicação para os sintomas do paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Lesão do ramo interno do nervo laríngeo superior direito durante a dissecção da artéria tireoidea superior."
+      },
+      {
+        "letra": "B",
+        "texto": "Lesão do ramo externo do nervo laríngeo superior direito durante a dissecção da artéria tireoidea inferior."
+      },
+      {
+        "letra": "C",
+        "texto": "Lesão do nervo laríngeo recorrente direito durante a dissecção da artéria tireoidea superior."
+      },
+      {
+        "letra": "D",
+        "texto": "Lesão do ramo externo do nervo laríngeo superior durante a dissecção da artéria tireoidea superior."
+      },
+      {
+        "letra": "E",
+        "texto": "Lesão do nervo laríngeo recorrente direito durante a dissecção da artéria tireoidea inferior."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 105665,
+    "tags": [],
+    "enunciado": "Uma paciente de 23 anos comparece ao consultório médico com queixas de palpitação, agitação, ansiedade e perda de peso de 4 kg nos últimos três meses, além de apresentar um quadro de diarreia. Ela nega antecedentes relevantes ou outros sintomas signi(cid:68)cativos. Durante o exame físico, a paciente apresenta temperatura de 37,3°C, frequência cardíaca de 112 bpm e pressão arterial de 152x68 mmHg. Com base nos sintomas e sinais clínicos, o médico decide solicitar exames laboratoriais, que revelam os seguintes resultados: hemoglobina (Hb) 12,8 g/dL, leucócitos 7.020/mm³, velocidade de hemossedimentação (VHS) 36 mm/h, hormônio estimulante da tireoide (TSH) < 0,01 mIU/L, tiroxina livre (T4 livre) 5,2 ng/dL e resultado positivo para anticorpos anti-receptor de TSH (TRAb). Posteriormente, é realizada uma cintilografia com iodo marcado, que demonstra alta captação. Veja este achado ao exame físico: Diante desse quadro clínico, qual dos mecanismos de ação a seguir será utilizado pelo medicamento indicado para o tratamento dessa situação clínica?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Inibir a atividade da tireoide peroxidase (TPO)."
+      },
+      {
+        "letra": "B",
+        "texto": "Bloqueio do receptor beta-adrenérgico."
+      },
+      {
+        "letra": "C",
+        "texto": "Anticorpo anti-receptor de TSH (TRAb)."
+      },
+      {
+        "letra": "D",
+        "texto": "Inibição da COX-1 e COX-2."
+      },
+      {
+        "letra": "E",
+        "texto": "Inibição da fosfolipase A2."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105666,
+    "tags": [],
+    "enunciado": "Uma paciente de 23 anos procura o pronto-socorro com queixas de palpitação, agitação e perda de peso de aproximadamente 4 kg nas últimas duas semanas. Ela relata ter tido um episódio gripal cerca de três semanas atrás, com resolução dos sintomas respiratórios, mas ainda apresenta odinofagia persistente e está em dúvida se teve febre nos últimos dias. Não possui antecedentes pessoais relevantes. Durante o exame físico, apresenta temperatura de 37,3 °C, frequência cardíaca de 112 bpm e dor à palpação do pescoço. Diante desses sintomas e sinais clínicos, o médico decide solicitar exames laboratoriais, que revelam os seguintes resultados: hemoglobina (Hb) 10,8 g/dL, leucócitos 7.020/mm³, velocidade de hemossedimentação (VHS) 110 mm/h (valor alto), hormônio estimulante da tireoide (TSH) < 0,01 mIU/L (valor baixo) e tiroxina livre (T4 livre) 5,2 ng/dL (valor alto). Posteriormente, é realizada uma cintilogra(cid:68)a com iodo marcado, que evidencia baixa captação. Diante desse quadro clínico, qual dos mecanismos de ação a seguir é utilizado pelo medicamento indicado para o tratamento dessa situação clínica?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Inibição da atividade da tireoide peroxidase (TPO)."
+      },
+      {
+        "letra": "B",
+        "texto": "Bloqueio do receptor beta-adrenérgico."
+      },
+      {
+        "letra": "C",
+        "texto": "Bloqueio do receptor alfa-adrenérgico."
+      },
+      {
+        "letra": "D",
+        "texto": "Inibição da produção de parede celular."
+      },
+      {
+        "letra": "E",
+        "texto": "Inibição da atividade da topoisomerase II."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 105667,
+    "tags": [],
+    "enunciado": "Uma paciente de 54 anos comparece a uma consulta de rotina com queixas de dor bilateral nos joelhos, que a deixaram mais sedentária desde sua última visita. Além disso, ela relata um ganho de peso de 9 kg no último ano, associado ao sedentarismo e ao consumo de alimentos condimentados. A paciente possui antecedentes de osteoartrite, obesidade e hipertensão arterial sistêmica. Está em uso de anlodipino e anti-in(cid:102)amatórios não esteroides (AINEs). Na história familiar, destaca-se que o pai da paciente sofreu recentemente um infarto agudo do miocárdio. Durante o exame físico, a paciente encontra-se afebril, com frequência cardíaca de 85 bpm, frequência respiratória de 18 irpm e pressão arterial de 142x86 mmHg. Seu índice de massa corporal (IMC) é de 36 kg/m², com circunferência abdominal de 92 cm. Além disso, foram realizados exames laboratoriais que apresentaram os seguintes resultados: sódio (Na+) 134 mmol/L, potássio (K+) 4,2 mmol/L, cloreto (Cl-) 98 mmol/L, bicarbonato (HCO3-) 24 mmol/L, ureia 48 mg/dL, creatinina 0,8 mg/dL, glicemia de jejum 116 mg/dL, triglicerídeos 148 mg/dL e colesterol total 188 mg/dL (LDL 140 mg/dL, HDL 48 mg/dL). Veja este achado ao exame físico: Das condições abaixo, qual mais provavelmente a paciente apresenta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Diabetes insipidus"
+      },
+      {
+        "letra": "B",
+        "texto": "Hemocromatose Hereditária"
+      },
+      {
+        "letra": "C",
+        "texto": "Insuficiência adrenal"
+      },
+      {
+        "letra": "D",
+        "texto": "Diabetes mellitus"
+      },
+      {
+        "letra": "E",
+        "texto": "Síndrome Metabólica"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 105668,
+    "tags": [],
+    "enunciado": "Uma paciente de 49 anos do sexo feminino vem ao consultório por queixa de ganho de peso progressivo e fadiga há 2 meses. Ela não consegue mais realizar as atividades de casa por fraqueza. Sem antecedentes pessoais dignos de nota. Temperatura axilar: 37 graus celsius, frequência cardíaca de 84 batimentos por minuto, pressão arterial de 166x96 mmHg. No exame físico, observamos equimoses difusas e fraqueza de caráter proximal. Na investigação, temos como exames laboratoriais: cortisol em urina de 24 horas aumentado e ACTH reduzido. Na TC abdominal, encontrado um tumor na glândula adrenal direita. Avaliando a glândula adrenal esquerda, em que região encontraríamos o maior grau de atrofia?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A"
+      },
+      {
+        "letra": "B",
+        "texto": "B"
+      },
+      {
+        "letra": "C",
+        "texto": "C"
+      },
+      {
+        "letra": "D",
+        "texto": "D"
+      },
+      {
+        "letra": "E",
+        "texto": "E"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105669,
+    "tags": [],
+    "enunciado": "Um estudo a respeito do desenvolvimento das características sexuais secundárias do sexo feminino é realizado. É demonstrado que alterações como pelos pubianos e desenvolvimento de pelos axilares são decorrentes da contribuição de um hormônio que é produzido em região fora dos ovários. Este hormônio provavelmente é produzido em qual região?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Zona glomerulosa do córtex adrenal"
+      },
+      {
+        "letra": "B",
+        "texto": "Medula adrenal"
+      },
+      {
+        "letra": "C",
+        "texto": "Zona reticulada do córtex adrenal"
+      },
+      {
+        "letra": "D",
+        "texto": "Zona fasciculada do córtex adrenal"
+      },
+      {
+        "letra": "E",
+        "texto": "Hipófise"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 105670,
+    "tags": [],
+    "enunciado": "Paciente de 10 anos, no 1º dia de pós-operatório de ressecção de craniofaringeoma, evoluiu com hipotensão, poliúria e crise convulsiva tônico-clônica generalizada, que cedeu após duas doses de Diazepam. Os exames laboratoriais colhidos na rotina, 2 horas antes da crise convulsiva mostravam os seguintes resultados: ureia 75mg/dl, creatinina 0,5 mg/dl, Na 168mEq/L, K 5,0 mEq/L, glicemia 200 mg/dl. Considerando o quadro clínico e os exames laboratoriais, o diagnóstico mais provável é de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Diabetes insipido central."
+      },
+      {
+        "letra": "B",
+        "texto": "Diabetes mellitus."
+      },
+      {
+        "letra": "C",
+        "texto": "Diabetes insipido nefrogênico."
+      },
+      {
+        "letra": "D",
+        "texto": "Síndrome da secreção inapropriada de hormônio antidiurético (SSIHAD)"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105671,
+    "tags": [],
+    "enunciado": "Não é hormônio hipotalâmico:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ACTH"
+      },
+      {
+        "letra": "B",
+        "texto": "GnRH"
+      },
+      {
+        "letra": "C",
+        "texto": "GHRH"
+      },
+      {
+        "letra": "D",
+        "texto": "TRH 4000174080"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 105672,
+    "tags": [],
+    "enunciado": "São alterações laboratoriais mais frequentemente encontrada em pacientes com Hiperparatireoidismo Primário:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hipercalcemia e hipofosfatemia."
+      },
+      {
+        "letra": "B",
+        "texto": "Hipercalcemia e hiperfosfatemia."
+      },
+      {
+        "letra": "C",
+        "texto": "Hipocalcemia e hipercalciúria."
+      },
+      {
+        "letra": "D",
+        "texto": "Hipercalcemia e hipofosfatúria. 4000172030 Respostas: 1 D 2 A 3 A 4 D 5 E 6 A 7 B 8 D 9 E 10 D 11 A 12 A 13 A 14 E 15 E 16 E 17 E 18 D 19 D 20 D 21 C 22 A 23 E 24 D 25 C 26 A 27 C 28 A 29 D 30 B 31 C 32 B 33 C 34 C 35 B 36 D 37 A 38 C 39 A 40 D 41 B 42 A 43 A 44 C 45 B 46 B 47 A 48 A 49 A 50 A 51 E 52 B 53 C 54 B 55 B 56 A 57 C 58 E 59 A 60 B 61 D 62 E 63 A 64 C 65 B 66 A 67 C 68 A 69 A 70 B 71 B 72 E 73 D 74 C 75 A 76 B 77 E 78 E 79 A 80 B 81 A 82 A 83 C 84 A 85 A 86 C 87 C 88 D 89 E 90 D 91 C 92 C 93 C 94 E 95 A 96 D 97 E 98 A 99 B 100 E 101 C 102 C 103 A 104 A 105 A"
+      }
+    ],
+    "resposta_correta": "A"
+  }
+]

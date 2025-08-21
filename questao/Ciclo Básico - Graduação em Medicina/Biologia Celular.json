@@ -1,0 +1,1378 @@
+[
+  {
+    "id": 106316,
+    "tags": [],
+    "enunciado": "O crescimento, o desenvolvimento e a manutenção de organismos multicelulares dependem não apenas da produção de células, mas também de mecanismos que as destroem. A manutenção do tamanho do tecido, por exemplo, requer que as células morram na mesma taxa em que são produzidas. Durante o desenvolvimento, padrões cuidadosamente orquestrados de morte celular ajudam a determinar o tamanho e a forma dos membros e de outros tecidos. A morte celular pode ocorrer por diferentes mecanismos. Considerando as principais vias de morte celular, qual dos seguintes mecanismos é característico da morte celular programada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Necrose."
+      },
+      {
+        "letra": "B",
+        "texto": "Autofagia."
+      },
+      {
+        "letra": "C",
+        "texto": "Fagocitose."
+      },
+      {
+        "letra": "D",
+        "texto": "Apoptose."
+      },
+      {
+        "letra": "E",
+        "texto": "Inflamação."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 106317,
+    "tags": [],
+    "enunciado": "As junções oclusivas bloqueiam a passagem pelos espaços entre as células epiteliais, impedindo que moléculas extracelulares passem de um lado do epitélio para o outro. Outro tipo de estrutura juncional possui uma função radicalmente diferente: ela faz pontes entre células adjacentes criando canais diretos do citoplasma de uma célula para o de outra. Esses canais são denominados junções comunicantes, também conhecidas como junções do tipo fenda ou gap. Além de desempenhar um papel crucial na comunicação celular, essas junções também proporcionam uma forma de adesão célula-célula que suplementa as junções aderentes. Sobre as junções comunicantes, analise as seguintes afirmações e assinale a alternativa incorreta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As junções comunicantes são compostas por proteínas chamadas conexinas, que formam canais de comunicação que conecta células adjacentes."
+      },
+      {
+        "letra": "B",
+        "texto": "Essas junções permitem a troca de íons e outras pequenas moléculas solúveis em água, mas não de macromoléculas como as proteínas ou ácidos nucleicos."
+      },
+      {
+        "letra": "C",
+        "texto": "A comunicação através das junções comunicantes é unidirecional, ocorrendo apenas de uma célula doadora para uma célula receptora."
+      },
+      {
+        "letra": "D",
+        "texto": "Em células excitáveis como neurônios e cardiomiócitos, a transferência iônica mediada pelas junções comunicantes agiliza e sincroniza as respostas celulares. Nos neurônios são centrais para as sinapses elétricas, e nos cardiomiócitos são essenciais para a sincronização da contração cardíaca."
+      },
+      {
+        "letra": "E",
+        "texto": "Em células não excitáveis como epitélios, as junções comunicantes propagam de modo coordenado segundos mensageiros ativados por variações ambientais, contribuindo para a homeostase tecidual."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106318,
+    "tags": [],
+    "enunciado": "A colchicina é uma substância de origem vegetal, muito utilizada em preparações citogenéticas para interromper as divisões celulares. Sua atuação consiste em impedir a organização dos microtúbulos. Em que etapa a divisão celular é interrompida pela colchicina?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Prófase."
+      },
+      {
+        "letra": "B",
+        "texto": "Metáfase."
+      },
+      {
+        "letra": "C",
+        "texto": "Anáfase."
+      },
+      {
+        "letra": "D",
+        "texto": "Telófase."
+      },
+      {
+        "letra": "E",
+        "texto": "Citocinese"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106319,
+    "tags": [],
+    "enunciado": "Organelas são, na grande maioria das vezes, estruturas membranosas que ocorrem no citoplasma de células eucariontes. Cada uma delas desempenha uma função (ou funções) importante para garantir que a célula se mantenha funcional e viva. Observe as afirmações a seguir: I. O retículo endoplasmático rugoso é responsável pela síntese de proteínas que exercem sua função o meio extracelular, na membrana plasmática ou em lisossomos. II. Células secretoras apresentam grande quantidade de complexo golgiense, além de grande quantidade de vesículas de secreção. III. O retículo endoplasmático liso está relacionado com a produção de lipídios e com a detoxificação celular. IV. As mitocôndrias são organelas que apresentam dupla membrana e são capazes de produzir todas as proteínas de que necessitam para sua estrutura e funcionamento, ocorrendo em grande quantidade em células que demandam bastante energia, como as musculares. São verdadeiras as afirmações:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e II."
+      },
+      {
+        "letra": "B",
+        "texto": "II e IV."
+      },
+      {
+        "letra": "C",
+        "texto": "I, II e III."
+      },
+      {
+        "letra": "D",
+        "texto": "II, III e IV."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II, III e IV."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106320,
+    "tags": [],
+    "enunciado": "O núcleo está presente apenas em células eucarióticas, sendo um compartimento que armazena e protege o material genético dessas células. Sobre o material genético, é correto dizer que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a célula em intérfase apresenta o material genético na forma condensada."
+      },
+      {
+        "letra": "B",
+        "texto": "porções de heterocromatina correspondem a regiões de cromatina ativa."
+      },
+      {
+        "letra": "C",
+        "texto": "o DNA das células encontra-se associado a proteínas chaperonas, formando o que é denominado cromatina."
+      },
+      {
+        "letra": "D",
+        "texto": "histonas são proteínas responsáveis pela compactação e descompactação do material genético."
+      },
+      {
+        "letra": "E",
+        "texto": "genes são segmentos da molécula de RNA com sequência específica de nucleotídeos."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 106321,
+    "tags": [],
+    "enunciado": "Com relação à estrutura de células eucarióticas, foram feitas as seguintes afirmações: I. Células eucarióticas possuem citoesqueleto, (cid:68)lamentos proteicos relacionados com a aquisição da forma celular e com processos dinâmicos que ocorrem no citoplasma, como a movimentação de vesículas e organelas e a separação do material genético durante a divisão celular. II. Células eucarióticas não apresentam parede celular, sendo revestidas apenas por membrana plasmática, que pode estar associada a carboidratos que formam o glicocálice. III. Células eucarióticas apresentam organelas membranosas, como lisossomos, ribossomos e peroxissomos. IV. Células eucarióticas possuem núcleo, estrutura membranosa que armazena o material genético e tem capacidade de desintegração e reestruturação. São verdadeiras as afirmações:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e III."
+      },
+      {
+        "letra": "B",
+        "texto": "I e IV."
+      },
+      {
+        "letra": "C",
+        "texto": "II e IV."
+      },
+      {
+        "letra": "D",
+        "texto": "I, II e III."
+      },
+      {
+        "letra": "E",
+        "texto": "I, III e IV."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106322,
+    "tags": [],
+    "enunciado": "Roberta deu à luz Clarice, sua primeira (cid:68)lha. Durante o pré-natal, nenhuma alteração morfológica foi detectada no feto, mas, ao nascimento, os médicos perceberam que Clarice apresentava algumas características de que portava trissomia do 21. Foi solicitado, então, um exame de cariótipo, dentre outros, para confirmação do diagnóstico.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "análise do cariótipo de um indivíduo deve ser feita em que fase do ciclo celular?"
+      },
+      {
+        "letra": "A",
+        "texto": "Intérfase."
+      },
+      {
+        "letra": "B",
+        "texto": "Prófase."
+      },
+      {
+        "letra": "C",
+        "texto": "Metáfase."
+      },
+      {
+        "letra": "D",
+        "texto": "Anáfase."
+      },
+      {
+        "letra": "E",
+        "texto": "Telófase."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106323,
+    "tags": [],
+    "enunciado": "A membrana celular é um dos componentes celulares universais. A respeito dessa estrutura, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A bicamada lipídica é formada, basicamente, por fosfolipídios, moléculas anfipáticas, cuja porção hidrofóbica fica internalizada na bicamada, em contato com a solução aquosa."
+      },
+      {
+        "letra": "B",
+        "texto": "A fluidez da membrana é determinada pela composição dos ácidos graxos dos fosfolipídios, e quanto maior o número de instaurações nas cadeias de ácidos graxos, menos fluida é a membrana."
+      },
+      {
+        "letra": "C",
+        "texto": "A membrana celular tem como funções o revestimento da célula, permitir a passagem seletiva de substâncias, a comunicação e a interação celulares e o armazenamento de compostos energéticos."
+      },
+      {
+        "letra": "D",
+        "texto": "A membrana celular de animais e vegetais possui moléculas de colesterol associadas à bicamada lipídica, tratando-se de um lipídio esteroide."
+      },
+      {
+        "letra": "E",
+        "texto": "Proteínas integrais e periféricas encontram-se inseridas na bicamada de lipídios da membrana, sendo que as proteínas integrais podem funcionar como receptores, canais ou carreadores de moléculas e íons."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 106324,
+    "tags": [],
+    "enunciado": "Dentre os fatores que levam a célula à senescência está a redução do tamanho dos telômeros, que formam as extremidades dos cromossomos. Sobre os telômeros, é incorreto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "têm a função de proteger a integridade dos cromossomos, evitando a fusão entre eles a partir da união de suas extremidades."
+      },
+      {
+        "letra": "B",
+        "texto": "estão relacionados com a estabilidade cromossômica e prevenção do desgaste do DNA, impedindo que enzimas nucleares degradem as extremidades dos cromossomos."
+      },
+      {
+        "letra": "C",
+        "texto": "são responsáveis por unir as cromátides de um mesmo cromossomo, podendo ocupar diferentes posições e determinar a classificação dos cromossomos em metacêntricos, submetacêntricos, acrocêntricos e telocêntricos."
+      },
+      {
+        "letra": "D",
+        "texto": "sofrem encurtamento a cada divisão celular, diminuindo a capacidade das células se dividirem e determinando seu tempo de vida."
+      },
+      {
+        "letra": "E",
+        "texto": "são constituídos por uma sequência de repetitiva de nucleotídeos, que formam uma porção de DNA não codificante."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106325,
+    "tags": [],
+    "enunciado": "Morte celular se caracteriza por um conjunto de fenômenos bioquímicos que causam a morte da célula. Quando ela ocorre por estímulo (cid:68)siológico, visando, por exemplo, a regulação do número de células no organismo, recebe o nome de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "apoptose."
+      },
+      {
+        "letra": "B",
+        "texto": "necrose."
+      },
+      {
+        "letra": "C",
+        "texto": "fagocitose."
+      },
+      {
+        "letra": "D",
+        "texto": "heterofagia."
+      },
+      {
+        "letra": "E",
+        "texto": "autofagia."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106326,
+    "tags": [],
+    "enunciado": "Sobre as características da membrana celular, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "as proteínas ocupam posições fixas na bicamada lipídica."
+      },
+      {
+        "letra": "B",
+        "texto": "a membrana celular tem uma composição química invariável."
+      },
+      {
+        "letra": "C",
+        "texto": "a membrana celular apresenta composição diferente entre o meio extracelular e o meio intracelular."
+      },
+      {
+        "letra": "D",
+        "texto": "a fluidez da membrana celular se dá pelas diferentes formas das proteínas."
+      },
+      {
+        "letra": "E",
+        "texto": "os lipídios servem de ponto de fixação com os microfilamentos de actina."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106327,
+    "tags": [],
+    "enunciado": "A molécula de DNA presente nas mitocôndrias é caracterizada por ser",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "simples-filamento e circular."
+      },
+      {
+        "letra": "B",
+        "texto": "simples-filamento e helicoidal."
+      },
+      {
+        "letra": "C",
+        "texto": "simples-filamento e desprovida de histonas."
+      },
+      {
+        "letra": "D",
+        "texto": "duplo-filamento e linear."
+      },
+      {
+        "letra": "E",
+        "texto": "duplo-filamento e circular."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 106328,
+    "tags": [],
+    "enunciado": "Na divisão mitótica são formados diferentes fusos mitóticos. São eles:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "fuso do cinetócoro, fusos astrais e fusos polares."
+      },
+      {
+        "letra": "B",
+        "texto": "fuso do centrossomo, fuso polar e fusos astrais."
+      },
+      {
+        "letra": "C",
+        "texto": "fuso do centrômero, fusos astrais e fusos polares."
+      },
+      {
+        "letra": "D",
+        "texto": "fuso metafásico, fuso apolar e fuso do centrômero."
+      },
+      {
+        "letra": "E",
+        "texto": "fuso de centríolo, fuso do centrômero e fusos polares."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106329,
+    "tags": [],
+    "enunciado": "Sobre as etapas da divisão celular, verifica-se que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "na anáfase da mitose, ocorre a separação das cromátides-irmãs, enquanto na anáfase I da meiose ocorre a separação dos cromossomos homólogos."
+      },
+      {
+        "letra": "B",
+        "texto": "ao final do processo meiótico, uma célula de conjunto cromossômico 2n gera duas células-filhas de conjunto cromossômico n."
+      },
+      {
+        "letra": "C",
+        "texto": "ao final do processo mitótico, uma célula de conjunto cromossômico 2n gera duas células-filhas de conjunto cromossômico n."
+      },
+      {
+        "letra": "D",
+        "texto": "tanto a meiose quanto a mitose geram variação genética."
+      },
+      {
+        "letra": "E",
+        "texto": "o crossing-over ocorre na metáfase I."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106330,
+    "tags": [],
+    "enunciado": "Considere os compartimentos celulares envolvidos na síntese de enzima que será secretada por uma célula. Assinale a alternativa que indica a ordem correta das organelas por onde a enzima irá passar até seu destino final.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aparelho de Golgi, citosol, retículo endoplasmático, membrana plasmática."
+      },
+      {
+        "letra": "B",
+        "texto": "Aparelho de Golgi, citosol, retículo endoplasmático, grânulos de secreção, membrana plasmática."
+      },
+      {
+        "letra": "C",
+        "texto": "Retículo endoplasmático, endossomos, citosol, membrana plasmática."
+      },
+      {
+        "letra": "D",
+        "texto": "Retículo endoplasmático, aparelho de Golgi, vesícula secretora, membrana plasmática."
+      },
+      {
+        "letra": "E",
+        "texto": "Complexo de Golgi, lisossomo, retículo endoplasmático, vesícula secretora, membrana plasmática."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 106331,
+    "tags": [],
+    "enunciado": "Mutações ocorrem ao acaso e quando os mecanismos de reparo das células falham. Entretanto, mesmo que uma mutação aconteça em uma região codi(cid:68)cante do gene, ela pode ou não resultar em alteração da proteína expressa. Isso é explicado pelo fato",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "do código genético ser degenerado."
+      },
+      {
+        "letra": "B",
+        "texto": "da duplicação do DNA ser semiconservativa."
+      },
+      {
+        "letra": "C",
+        "texto": "do código genético ser universal."
+      },
+      {
+        "letra": "D",
+        "texto": "da transcrição poder ser reversa."
+      },
+      {
+        "letra": "E",
+        "texto": "de as mutações serem direcionadas para um fim."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106332,
+    "tags": [],
+    "enunciado": "A membrana plasmática permite selecionar a entrada de diferentes substâncias do meio externo para o meio intracelular. O esquema a seguir mostra como ocorre o transporte dessas substâncias. Os números 1, 2, 3 e 4 de(cid:68)nem o tipo de transporte que carrega as diferentes substâncias citadas. Sabendo- se disto, está correta a alternativa",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1-difusão simples, 2-osmose, 3-difusão facilitada, 4- transporte ativo."
+      },
+      {
+        "letra": "B",
+        "texto": "1-difusão simples, 2- difusão simples, 3-difusão facilitada, 4- difusão facilitada."
+      },
+      {
+        "letra": "C",
+        "texto": "1-difusão simples, 2- difusão facilitada, 3-difusão facilitada, 4-transporte ativo."
+      },
+      {
+        "letra": "D",
+        "texto": "1-osmose, 2- osmose, 3-difusão passiva simples, 4-difusão facilitada."
+      },
+      {
+        "letra": "E",
+        "texto": "1-difusão simples, 2- difusão simples, 3-transporte ativo, 4-transporte ativo."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106333,
+    "tags": [],
+    "enunciado": "Mutações adquiridas no gene p53 são as alterações genéticas mais comuns encontradas nos cânceres humanos (> 50%). Que tipo de proteína é codificada pelo gene p53?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fator de transcrição."
+      },
+      {
+        "letra": "B",
+        "texto": "Proteína de reparação do DNA."
+      },
+      {
+        "letra": "C",
+        "texto": "Protease característica do processo de morte celular."
+      },
+      {
+        "letra": "D",
+        "texto": "Fator de crescimento."
+      },
+      {
+        "letra": "E",
+        "texto": "Fator de inibição."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106334,
+    "tags": [],
+    "enunciado": "Algumas enfermidades do sistema respiratório podem ser atribuídas à inadequada formação e subsequente disfunção dos cílios presentes nas células que compõem esse sistema, como por exemplo a sinusite crônica.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "sinusite é caracterizada pela in(cid:75)amação dos seios da face, que se situam ao redor do nariz, das maçãs do rosto e dos olhos. Esses seios são revestidos por células que produzem muco, cuja (cid:68)nalidade é reter microrganismos e partículas estranhas. Essas células possuem cílios que trabalham incansavelmente para remover o muco produzido. Quando há algum obstáculo que impeça a eliminação do muco, como alergias ou processos infecciosos, aumenta-se a predisposição ao aparecimento da sinusite. Falhas nas células ciliadas podem ser explicadas"
+      },
+      {
+        "letra": "A",
+        "texto": "pela ausência ou redução do número de mitocôndrias."
+      },
+      {
+        "letra": "B",
+        "texto": "por excesso de síntese proteica."
+      },
+      {
+        "letra": "C",
+        "texto": "por erros no funcionamento dos ribossomos."
+      },
+      {
+        "letra": "D",
+        "texto": "por erros na síntese proteica."
+      },
+      {
+        "letra": "E",
+        "texto": "por erros no funcionamento do citoesqueleto."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 106335,
+    "tags": [],
+    "enunciado": "As transformações que ocorrem no útero pós-parto dos mamíferos são exemplos de qual processo celular?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Necrose."
+      },
+      {
+        "letra": "B",
+        "texto": "Autofagia."
+      },
+      {
+        "letra": "C",
+        "texto": "Renovação celular."
+      },
+      {
+        "letra": "D",
+        "texto": "Heterofagia."
+      },
+      {
+        "letra": "E",
+        "texto": "Autólise."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106336,
+    "tags": [],
+    "enunciado": "Os anabolizantes atuam acelerando a síntese de (cid:68)brilas musculares. Assim, na célula, essas substâncias agem:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "no retículo endoplasmático rugoso."
+      },
+      {
+        "letra": "B",
+        "texto": "no complexo de Golgi."
+      },
+      {
+        "letra": "C",
+        "texto": "no núcleo."
+      },
+      {
+        "letra": "D",
+        "texto": "no retículo endoplasmático liso."
+      },
+      {
+        "letra": "E",
+        "texto": "nos centríolos."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106337,
+    "tags": [],
+    "enunciado": "A doença de Wilson é uma desordem autossômica recessiva do metabolismo do cobre, que leva à impregnação desse metal em diversos tecidos como o fígado, cérebro, córnea e rins. Tem prevalência de 1:40.000 e evolui de forma progressiva e fatal se não tratada. Essa patologia é causada por mutações no gene ATP7B, que codi(cid:68)ca uma proteína transportadora de cobre nos hepatócitos. Normalmente, tal proteína regula a absorção intestinal de cobre por meio do sequestro vesicular do elemento, com posterior encaminhamento para a circulação portal. Na doença de Wilson, esse sequestro deixa de acontecer.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "mutação ATP7B do gene comprometeu"
+      },
+      {
+        "letra": "A",
+        "texto": "a atividade dos ribossomos nos hepatócitos."
+      },
+      {
+        "letra": "B",
+        "texto": "a atividade do retículo endoplasmático rugoso nos hepatócitos."
+      },
+      {
+        "letra": "C",
+        "texto": "a inibição da difusão do cobre do interior dos hepatócitos para a circulação sanguínea."
+      },
+      {
+        "letra": "D",
+        "texto": "a transcrição dentro do núcleo."
+      },
+      {
+        "letra": "E",
+        "texto": "a atividade do complexo golgiense nos hepatócitos."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 106338,
+    "tags": [],
+    "enunciado": "Sobre a técnica de coloração de Gram e as características da parede celular bacteriana, considere as seguintes afirmativas: 1. A parede celular das bactérias consideradas Gram positivas é mais delgada. 2. As bactérias Gram positivas apresentam coloração rosa ao final da aplicação da técnica. 3. A parede celular das bactérias consideradas Gram negativas é composta por lipopolissacarídeos, fosfolipídios, lipoproteínas e uma fina camada de peptideoglicano. 4. As bactérias consideradas Gram negativas apresentam coloração rosa ao final da aplicação da técnica. Assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente afirmativa 2 é verdadeira."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente as afirmativas 3 e 4 são verdadeiras."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente as afirmativas 1, 2 e 3 são verdadeiras."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente as afirmativas 1, 3 e 4 são verdadeiras."
+      },
+      {
+        "letra": "E",
+        "texto": "Somente as afirmativas 2 e 4 são verdadeiras."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106339,
+    "tags": [],
+    "enunciado": "A doença de Tay-Sachs é um problema genético raro, que surge como consequência da insu(cid:68)ciência de uma enzima lisossômica, a hexosaminidase, responsável pela decomposição de glicolipídeos. Sem sua degradação, esses lipídios acumulam-se no cérebro, interferindo em diferentes processos importantes para a vida do indivíduo, como a coordenação motora, a respiração e a visão. Assim como a doença de Tay-Sachs, outras doenças decorrem do acúmulo progressivo de substâncias não metabolizadas no interior do lisossomo, como a Doença de Gaucher, a Doença de Pompe, a Doença de Fabry e a Mucopolissacaridose.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "respeito das doenças acima citadas, denominadas genericamente de doenças lisossomais, é correto afirmar que"
+      },
+      {
+        "letra": "A",
+        "texto": "lisossomos são pequenas vesículas derivadas do complexo golgiense, com capacidade para autoduplicação, de modo que um lisossomo defeituoso pode originar cópias que carregam o mesmo defeito."
+      },
+      {
+        "letra": "B",
+        "texto": "lisossomos realizam a digestão de partículas intracelulares em pH acima do pH citosólico; na ausência dessa condição, as enzimas lisossomais perdem suas atividades."
+      },
+      {
+        "letra": "C",
+        "texto": "as enzimas lisossômicas fabricadas pelo retículo endoplasmático agranular derivam da transcrição gênica de genes mutantes."
+      },
+      {
+        "letra": "D",
+        "texto": "podem ser reguladas por tratamentos hormonais que induzam elevada produção da enzima em quantidade deficiente no organismo."
+      },
+      {
+        "letra": "E",
+        "texto": "podem ser consideradas hereditárias quando ocorre falha enzimática inata a partir de um gene mutante."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 106340,
+    "tags": [],
+    "enunciado": "A comunicação celular envolve a transmissão de um sinal (ligante) de uma célula emissora para uma célula receptora (célula-alvo). No entanto, nem todas as células emissoras e receptoras são vizinhas próximas, e nem todos os pares de células trocam sinais da mesma forma. Considerando-se a sinalização endócrina, como atuam os ligantes hidrossolúveis?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ligantes hidrossolúveis, como os hormônios FSH, LH e os hormônios sexuais, são reconhecidos por proteínas intrínsecas expostas na superfície da célula-alvo."
+      },
+      {
+        "letra": "B",
+        "texto": "Ligantes hidrossolúveis podem atravessar a membrana celular para serem reconhecidos no citoplasma, ou até mesmo no núcleo, e desencadear respostas com efeitos lentos e duradouros."
+      },
+      {
+        "letra": "C",
+        "texto": "Os receptores dos ligantes hidrossolúveis, como os receptores acoplados à proteína G e os receptores tirosina quinases, devem obrigatoriamente estar na membrana plasmática, expostos na superfície celular."
+      },
+      {
+        "letra": "D",
+        "texto": "Ligantes hidrossolúveis, por apresentarem alta afinidade com a membrana das células-alvo, atravessam-na por difusão e promovem uma ação muito intensa e fugaz."
+      },
+      {
+        "letra": "E",
+        "texto": "A sinalização endócrina é uma via de comunicação de longa distância, com efeitos lentos e duradouros, em que os ligantes hidrossolúveis alcançam as células-alvo, difundindo-se do meio extra para o meio intracelular."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106341,
+    "tags": [],
+    "enunciado": "Observe as diferentes fases de uma célula em processo de divisão. Foto: Reprodução/Fuvest. Fonte original: http://coofarm.fmns.rug.nl/celbiologie/gallery - Acessado em 01/03/2011. Leia atentamente as alternativas e assinale a correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As fases representadas nas imagens evidenciam que a célula deriva de tecidos germinativos."
+      },
+      {
+        "letra": "B",
+        "texto": "De A a C, as imagens representam o período de intérfase, momento em que a célula está em baixa atividade metabólica."
+      },
+      {
+        "letra": "C",
+        "texto": "Na imagem G, cada cromossomo apresenta duas cromátides-irmãs idênticas."
+      },
+      {
+        "letra": "D",
+        "texto": "Na imagem D, observa-se o início da formação das tétrades."
+      },
+      {
+        "letra": "E",
+        "texto": "A imagem F caracteriza-se pelo alinhamento dos pares de cromossomos homólogos na placa metafásica."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106342,
+    "tags": [],
+    "enunciado": "As afirmativas abaixo relacionam-se à organização e função do citoesqueleto nas células animais. Analise-as. I. Centríolos são estruturas organizadas aos pares e formadas por nove trios de filamentos de actina. II. Os centríolos formam as (cid:68)bras do fuso mitótico durante a divisão celular, que se ligam aos cromossomos na região do centrômero pelo cinetócoro. III. Alterações estruturais nos centríolos caracterizam divisões celulares anômalas. Está(ão) correta(s) apenas a(s) afirmativa(s):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I"
+      },
+      {
+        "letra": "B",
+        "texto": "II"
+      },
+      {
+        "letra": "C",
+        "texto": "III"
+      },
+      {
+        "letra": "D",
+        "texto": "I e II"
+      },
+      {
+        "letra": "E",
+        "texto": "II e III"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106343,
+    "tags": [],
+    "enunciado": "Cílios e (cid:75)agelos são formados por duas proteínas motoras importantes, que, caso sejam silenciadas, podem acarretar infertilidade nos homens. Tais proteínas são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a dineína e a miosina."
+      },
+      {
+        "letra": "B",
+        "texto": "a actina e a nexina."
+      },
+      {
+        "letra": "C",
+        "texto": "a actina e a miosina."
+      },
+      {
+        "letra": "D",
+        "texto": "a nexina e a dineína."
+      },
+      {
+        "letra": "E",
+        "texto": "a dineína e a actina."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 106344,
+    "tags": [],
+    "enunciado": "A respeito dos variados processos pelos quais diferentes moléculas podem atravessar a membrana plasmática, analise o grá(cid:68)co a seguir, que apresenta a curva de entrada de suas substâncias, A e B, em células animais colocadas em meio de cultura em vários frascos com diferentes concentrações. Assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A quantidade de moléculas da substância A que entra na célula é diretamente proporcional à concentração no meio extracelular, como indica sua representação linear no gráfico."
+      },
+      {
+        "letra": "B",
+        "texto": "A substância A poderia ser representada pelo gás oxigênio, enquanto a substância B, por etanol."
+      },
+      {
+        "letra": "C",
+        "texto": "A substância A difunde-se livremente através da membrana, enquanto a substância B necessita de um transportador."
+      },
+      {
+        "letra": "D",
+        "texto": "A substância A poderia ser representada pelo íon Na+, enquanto a substância B, pela glicose."
+      },
+      {
+        "letra": "E",
+        "texto": "Inicialmente, a substância B difunde-se livremente através da membrana, reduzindo sua velocidade de entrada à medida que as concentrações dos meios intra e extracelulares se aproximam do equilíbrio."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106345,
+    "tags": [],
+    "enunciado": "Na linha de produção dentro da célula do hormônio tireoidiano, existe a produção também da tireoglobulina. Ela serve como participante na produção de hormônio. A síntese dos hormônios tireoidianos requer iodo, adquirido na alimentação e na água, como iodeto. As células tireoidianas sequestram iodeto para o interior da célula, sendo capazes de deixá-lo com até 30 vezes sua concentração no sangue. Uma vez dentro das células foliculares, o iodeto é convertido em iodo orgânico e interage com a tireoglobulina, uma glicoproteína produzida e secretada pelas próprias células, que contém tirosina em sua matriz. A tirosina é, então, iodada em monoiodotirosina ou di-iodotirosina locais e depois acoplada para produzir duas formas de hormônio tireoidiano. Observe a ilustração abaixo que sintetiza todo o processo descrito.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "partir da análise do texto e da figura, infere-se que"
+      },
+      {
+        "letra": "A",
+        "texto": "o iodeto é transportado para dentro da célula da tireoide ativamente, por bombas de iodeto."
+      },
+      {
+        "letra": "B",
+        "texto": "o retículo endoplasmático rugoso sintetiza a parte proteica da tireoglobulina, enquanto o complexo de Golgi sintetiza a parte glicídica."
+      },
+      {
+        "letra": "C",
+        "texto": "o iodeto é transportado para dentro da célula da tireoide passivamente, a favor do gradiente."
+      },
+      {
+        "letra": "D",
+        "texto": "o ribossomo sintetiza a parte proteica da tireoglobulina, enquanto o complexo de Golgi adiciona a parte glicídica a ela, exportando-a."
+      },
+      {
+        "letra": "E",
+        "texto": "o iodeto é transportado para dentro da célula folicular passivamente, por proteínas carreadoras."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106346,
+    "tags": [],
+    "enunciado": "Pênfigo é um termo que abrange um grupo de doenças autoimunes caracterizadas pelo surgimento de bolhas na epiderme e nas mucosas (oral, vaginal e peniana). Sabe-se que esse sintoma surge a partir de um mecanismo imunológico de autoagressão, em que parte dos anticorpos atacam a pele, resultando na perda de aderência entre as células da epiderme.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "partir do exposto, entende-se que as estruturas atacadas pelos anticorpos são"
+      },
+      {
+        "letra": "A",
+        "texto": "as microvilosidades."
+      },
+      {
+        "letra": "B",
+        "texto": "as interdigitações."
+      },
+      {
+        "letra": "C",
+        "texto": "os desmossomos."
+      },
+      {
+        "letra": "D",
+        "texto": "as junções comunicantes."
+      },
+      {
+        "letra": "E",
+        "texto": "as zônulas de oclusão."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106347,
+    "tags": [],
+    "enunciado": "A compartimentalização das células eucarióticas trouxe vantagens evolutivas para esse tipo celular quando comparado à célula procariótica, especialmente em relação à complexidade funcional. Entre essas vantagens, é INCORRETO citar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a comunicação entre os diversos compartimentos citoplasmáticos."
+      },
+      {
+        "letra": "B",
+        "texto": "a separação espacial e temporal dos processos de transcrição e tradução."
+      },
+      {
+        "letra": "C",
+        "texto": "a presença de um citoesqueleto formado por uma rede organizada de proteínas tubulares ou filamentosas."
+      },
+      {
+        "letra": "D",
+        "texto": "a aquisição de um sistema altamente complexo e eficiente de divisão celular."
+      },
+      {
+        "letra": "E",
+        "texto": "o confinamento do material genético em um envoltório nuclear completamente íntegro."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 106348,
+    "tags": [],
+    "enunciado": "O pilar da Citologia, área da ciência responsável pelo estudo das células, é a teoria celular, cuja ideia central diz que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "toda célula se origina de uma célula preexistente."
+      },
+      {
+        "letra": "B",
+        "texto": "todo ser vivo é formado por, pelo menos, uma célula."
+      },
+      {
+        "letra": "C",
+        "texto": "a célula é a unidade básica da vida."
+      },
+      {
+        "letra": "D",
+        "texto": "todos os seres vivos se formam a partir de um conjunto de células."
+      },
+      {
+        "letra": "E",
+        "texto": "membrana, citoplasma e núcleo são as partes fundamentais da célula."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106349,
+    "tags": [],
+    "enunciado": "A meiose é um tipo de divisão celular em que uma célula diploide dá origem a quatro células haploides geneticamente diferentes. Nos animais, é por meio da meiose de células da linhagem germinativa que os gametas, células especializadas na função reprodutiva, são formados. Considerando esse processo de divisão celular, é errado dizer que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a permutação ocorre na prófase I, após o emparelhamento dos pares de cromossomos homólogos."
+      },
+      {
+        "letra": "B",
+        "texto": "na metáfase I, os cromossomos estão dispostos na região equatorial da célula, ainda emparelhados, na forma de tétrades."
+      },
+      {
+        "letra": "C",
+        "texto": "ao final da meiose I, são formadas duas células-filhas com a mesma quantidade de cromossomos da célula-mãe."
+      },
+      {
+        "letra": "D",
+        "texto": "na anáfase I, ocorre a separação independente dos cromossomos homólogos em direção a polos opostos da célula."
+      },
+      {
+        "letra": "E",
+        "texto": "na anáfase II, ocorre a separação das cromátides-irmãs dos cromossomos em direção aos polos opostos da célula."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106350,
+    "tags": [],
+    "enunciado": "A teoria da endossimbiose foi proposta, em 1981, para explicar a origem das mitocôndrias e dos plastos, como os cloroplastos, no interior de células eucariontes, já que são organelas membranosas com características peculiares. Segundo essa teoria, as células eucariontes, como as conhecemos, teriam evoluído a partir de uma simbiose com seres procariontes ancestrais, englobados devido ao estilo de vida predatório das células eucarióticas primitivas. Algumas são as evidências que suportam a teoria da endossimbiose, dentre as quais não podemos citar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "presença de membrana dupla."
+      },
+      {
+        "letra": "B",
+        "texto": "presença de DNA circular na matriz mitocondrial."
+      },
+      {
+        "letra": "C",
+        "texto": "presença de ribossomos com tamanho de 80S."
+      },
+      {
+        "letra": "D",
+        "texto": "capacidade de síntese proteica."
+      },
+      {
+        "letra": "E",
+        "texto": "capacidade de autoduplicação."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106351,
+    "tags": [],
+    "enunciado": "Microtúbulos são os componentes mais espessos do citoesqueleto, sendo constituídos pela polimerização de proteínas chamadas de tubulinas, encontradas em todos os tipos de células eucarióticas. Uma de suas funções é o transporte intracelular de vesículas: os microtúbulos formam “trilhos” pelos quais as vesículas são direcionadas pelo citoplasma da célula. Existem proteínas motoras que auxiliam nesse transporte e sobre elas, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "as dineínas permitem o transporte de vesículas no sentido da extremidade negativa do microtúbulo, presa ao centrossomo."
+      },
+      {
+        "letra": "B",
+        "texto": "as cinesinas permitem o transporte de vesículas no sentido da extremidade negativa do microtúbulo, apontada para a periferia da célula."
+      },
+      {
+        "letra": "C",
+        "texto": "as dineínas permitem o transporte de vesículas no sentido da extremidade positiva do microtúbulo, apontada para a periferia da célula."
+      },
+      {
+        "letra": "D",
+        "texto": "as cinesinas permitem o transporte de vesículas no sentido da extremidade negativa do microtúbulo, presa ao centrossomo."
+      },
+      {
+        "letra": "E",
+        "texto": "as dineínas permitem o transporte de vesículas no sentido da extremidade positiva do microtúbulo, presa ao centrossomo."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106352,
+    "tags": [],
+    "enunciado": "Hemácias são células vermelhas do sangue, responsáveis pelo transporte de oxigênio pelo corpo. Nos mamíferos, essas células são anucleadas e possuem formato bicôncavo, ambas características adaptativas, que garantem maior eficiência na função de oxigenação. Os principais componentes do citoesqueleto responsáveis pela determinação da forma celular, como a forma bicôncava das hemácias, são os",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "microtúbulos, também relacionados com o transporte de vesículas."
+      },
+      {
+        "letra": "B",
+        "texto": "microfilamentos, também relacionados com a adesão intercelular."
+      },
+      {
+        "letra": "C",
+        "texto": "filamentos intermediários, também relacionados com a formação de flagelos."
+      },
+      {
+        "letra": "D",
+        "texto": "microtúbulos, também relacionados com a formação do fuso mitótico."
+      },
+      {
+        "letra": "E",
+        "texto": "filamentos de actina, também relacionados com a sustentação de microvilosidades."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 106353,
+    "tags": [],
+    "enunciado": "O núcleo é o compartimento que armazena o material genético das células eucarióticas. Assim, é a estrutura que permite distinguirmos os dois tipos celulares básicos, procarionte e eucarionte. Trata-se da maior estrutura presente no interior celular. Sobre o núcleo, é correto dizer que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "é o local em que ocorrem processos fundamentais à célula, replicação e transcrição, que utilizam o DNA como molde para a construção de novas moléculas de ácidos nucleicos."
+      },
+      {
+        "letra": "B",
+        "texto": "é delimitado pelo envoltório nuclear, formado por duas membranas de igual constituição, que se unem nas regiões em que se formam os complexos de poros."
+      },
+      {
+        "letra": "C",
+        "texto": "apresenta um ou mais nucléolos, regiões delimitadas por uma fina membrana, em que ocorre a produção das subunidades ribossômicas."
+      },
+      {
+        "letra": "D",
+        "texto": "contém material genético na forma de cromatina, formada por DNA enrolado em proteínas histonas em nível alto de compactação."
+      },
+      {
+        "letra": "E",
+        "texto": "é o local em que ocorrem os processos de transcrição e tradução, que resultam na formação de uma proteína necessária à célula."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106354,
+    "tags": [],
+    "enunciado": "A síndrome de Turner é uma anormalidade genética complexa que afeta mulheres, cujo cariótipo, na maioria dos casos, é 45,XO. Isso signi(cid:68)ca que apresentam um cromossomo X a menos, caracterizando uma aneuploidia do tipo monossomia. Essa alteração cromossômica é causada por um fenômeno de não-disjunção durante a formação dos gametas, especialmente, femininos. Estudos mostram que disfunções no metabolismo de folatos (vitamina B9) estão relacionadas com os processos de não-disjunções cromossômicas. Os grupos metil formados a partir desse metabolismo são essenciais para a replicação do DNA, para a estabilidade cromossômica e a segregação adequada do material genético na divisão celular. Assim, diante de redução da formação de grupos metil, ocorre a hipometilação do DNA, associada com a promoção de aneuploidias. Pensando na meiose, processo pelo qual ocorre a formação dos gametas femininos, é correto dizer que o fenômeno de não-disjunção pode ter acontecido:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "na prófase I, devido ao não emparelhamento dos cromossomos homólogos."
+      },
+      {
+        "letra": "B",
+        "texto": "na metáfase II, devido à não associação dos cromossomos homólogos às fibras do fuso."
+      },
+      {
+        "letra": "C",
+        "texto": "na anáfase I, devido à não separação das cromátides-irmãs."
+      },
+      {
+        "letra": "D",
+        "texto": "na anáfase II, devido à não separação dos cromossomos homólogos."
+      },
+      {
+        "letra": "E",
+        "texto": "na anáfase I, devido à não separação dos cromossomos homólogos."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 106355,
+    "tags": [],
+    "enunciado": "O músculo cardíaco é formado por uma rede de (cid:68)bras responsáveis por contrações coordenadas em cada ciclo cardíaco - sequência alternada de contração e relaxamento dos átrios e ventrículos para bombear o sangue por todo o corpo. Embora todas as partes do coração tenham capacidade de gerar potenciais de ação, o nó sinoatrial é o principal iniciador e regulador do impulso nervoso, sendo, por esse motivo, chamado de marcapasso (cid:68)siológico do coração. Uma vez que as células do nó sinoatrial geram o potencial de ação, o impulso nervoso é rapidamente enviado e conduzido para as células miocárdicas, que se contraem de forma sincronizada, resultando em um batimento cardíaco.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "rápida propagação dos impulsos nervosos e a contração sincronizada das células musculares cardíacas são facilitadas pela presença de"
+      },
+      {
+        "letra": "A",
+        "texto": "junções de adesão, que tornam as células muito unidas."
+      },
+      {
+        "letra": "B",
+        "texto": "junções comunicantes, que permitem a propagação dos sinais elétricos."
+      },
+      {
+        "letra": "C",
+        "texto": "junções gap, que tornam as células muito unidas."
+      },
+      {
+        "letra": "D",
+        "texto": "junções intercelulares, que permitem que as células se reconheçam."
+      },
+      {
+        "letra": "E",
+        "texto": "junções aderentes, que promovem a troca de sinais elétricos."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106356,
+    "tags": [],
+    "enunciado": "O ciclo celular é composto por duas etapas básicas: intérfase e divisão celular. Uma célula que recebe um estímulo para se dividir, primeiramente, precisa crescer, o que envolve duplicar o conteúdo de DNA que ela apresenta. A duplicação do DNA acontece na fase S da intérfase. Considere uma célula humana do epitélio intestinal, que é 2n = 46, cuja frequência de divisão é acentuada. É correto afirmar que essa célula contém:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "46 moléculas de DNA na prófase."
+      },
+      {
+        "letra": "B",
+        "texto": "92 moléculas de DNA em G1."
+      },
+      {
+        "letra": "C",
+        "texto": "92 moléculas de DNA na metáfase."
+      },
+      {
+        "letra": "D",
+        "texto": "92 cromossomos em G2."
+      },
+      {
+        "letra": "E",
+        "texto": "92 cromossomos na metáfase."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106357,
+    "tags": [],
+    "enunciado": "A doença de Pompe é uma doença genética rara, causada pela de(cid:68)ciência da enzima alfa-glicosidase ácida (GAA). Essa de(cid:68)ciência leva ao acúmulo progressivo intracelular de glicogênio, principalmente nos músculos e no tecido nervoso. Na forma infantil, a criança morre no primeiro ano de vida, na ausência de tratamento.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "patologia acima descrita está associada a que organela?"
+      },
+      {
+        "letra": "A",
+        "texto": "Mitocôndria."
+      },
+      {
+        "letra": "B",
+        "texto": "Peroxissomo."
+      },
+      {
+        "letra": "C",
+        "texto": "Lisossomo."
+      },
+      {
+        "letra": "D",
+        "texto": "Complexo golgiense."
+      },
+      {
+        "letra": "E",
+        "texto": "Glioxissomo."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106358,
+    "tags": [],
+    "enunciado": "Uma pessoa portadora de diabetes mellitus do tipo 2 apresenta resistência à insulina, hormônio responsável por reduzir os níveis de glicose no sangue, quando esses se encontram mais elevados do que o normal. A resistência à insulina acontece porque o hormônio não consegue atuar adequadamente sobre seus receptores de membrana, prejudicando a entrada de glicose no meio intracelular, que permanece em alta concentração no tecido sanguíneo. A glicose entra nas células por meio de proteínas transportadoras, que apresentam 14 isoformas, denominadas GLUTs. O transporte de glicose para o interior celular acontece por",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "difusão simples, um tipo de transporte passivo."
+      },
+      {
+        "letra": "B",
+        "texto": "bombas, em um transporte do tipo ativo."
+      },
+      {
+        "letra": "C",
+        "texto": "difusão facilitada, um tipo de transporte ativo."
+      },
+      {
+        "letra": "D",
+        "texto": "osmose, um tipo de transporte passivo."
+      },
+      {
+        "letra": "E",
+        "texto": "difusão facilitada, um tipo de transporte passivo."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 106359,
+    "tags": [],
+    "enunciado": "As hemácias, células vermelhas do sangue, encontram-se em solução que apresenta mesma concentração em solutos em relação a seu interior. Nessa condição, a quantidade de água que entra na célula por osmose é a mesma que dela sai. Considerando o movimento de água nessas células, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "caso sejam colocadas em solução hipotônica, perderão água e ficarão murchas."
+      },
+      {
+        "letra": "B",
+        "texto": "caso sejam colocadas em solução isotônica, perderão água e ficarão murchas."
+      },
+      {
+        "letra": "C",
+        "texto": "caso sejam colocadas em solução hipertônica, receberão água e sofrerão hemólise."
+      },
+      {
+        "letra": "D",
+        "texto": "caso sejam colocadas em solução hipertônica, não sofrerão alteração de volume."
+      },
+      {
+        "letra": "E",
+        "texto": "caso sejam colocadas em solução hipotônica, receberão água e sofrerão hemólise."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 106360,
+    "tags": [],
+    "enunciado": "A constituição da membrana é basicamente lipoproteica, sendo formada por uma bicamada de lipídios, onde estão inseridas proteínas, classi(cid:68)cadas em periféricas e integrais de membrana. Acerca das funções das proteínas de membrana, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Algumas proteínas periféricas interagem com componentes do citoesqueleto, formando uma trama logo abaixo da membrana com a função de estabilizar a forma das células."
+      },
+      {
+        "letra": "B",
+        "texto": "As proteínas integrais ocupam posições fixas na membrana celular, não sendo possível sua movimentação pelo plano da bicamada de lipídios."
+      },
+      {
+        "letra": "C",
+        "texto": "As proteínas periféricas podem funcionar como receptores de superfície celular quando voltadas para o meio extracelular."
+      },
+      {
+        "letra": "D",
+        "texto": "As proteínas integrais apresentam um domínio extracelular, um domínio intracelular e um domínio hidrofílico inserido na bicamada lipídica."
+      },
+      {
+        "letra": "E",
+        "texto": "As proteínas periféricas podem funcionar como receptores de superfície celular quando voltadas para o meio intracelular."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 106361,
+    "tags": [],
+    "enunciado": "À exceção de bactérias, os organismos vivos são eucariontes, isto é, possuem célula do tipo eucariótica, cuja estrutura básica é a mesma. Entretanto, algumas diferenças podem ser observadas entre as células eucariontes dos diferentes grupos de organismos, como de plantas e animais. Quando tratamos de uma célula eucariótica animal, é incorreto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "possuem organelas membranosas."
+      },
+      {
+        "letra": "B",
+        "texto": "possuem citoesqueleto."
+      },
+      {
+        "letra": "C",
+        "texto": "não possuem centríolos."
+      },
+      {
+        "letra": "D",
+        "texto": "não possuem parede celular."
+      },
+      {
+        "letra": "E",
+        "texto": "não possuem cloroplastos."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 106362,
+    "tags": [],
+    "enunciado": "Bactérias, diferentemente dos demais seres vivos que compõem a grande árvore da vida, apresentam uma estrutura celular mais simples, do tipo procariótica. É correto afirmar que, nas bactérias:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "os ribossomos possuem tamanho de 80S."
+      },
+      {
+        "letra": "B",
+        "texto": "o material genético encontra-se em uma região denominada nucleoide."
+      },
+      {
+        "letra": "C",
+        "texto": "a parede celular é composta predominantemente por quitina."
+      },
+      {
+        "letra": "D",
+        "texto": "estruturas locomotoras nunca estão presentes."
+      },
+      {
+        "letra": "E",
+        "texto": "moléculas menores de DNA extracromossômicos são chamadas de nucleoide."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 106363,
+    "tags": [],
+    "enunciado": "Segundo a Teoria Celular, estabelecida por Schleiden e Schwann em 1838, a célula é a unidade básica da vida, o que signi(cid:68)ca que todos os seres vivos são compostos por uma ou mais células. Qual é outro princípio postulado pela teoria celular?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Um ser vivo pode surgir a partir de matéria inanimada."
+      },
+      {
+        "letra": "B",
+        "texto": "As células contêm informações hereditárias em moléculas de RNA."
+      },
+      {
+        "letra": "C",
+        "texto": "Todos os seres vivos apresentam célula com membrana, citoplasma e núcleo."
+      },
+      {
+        "letra": "D",
+        "texto": "Todas as células surgem apenas a partir de outras preexistentes."
+      },
+      {
+        "letra": "E",
+        "texto": "Seres unicelulares possuem células mais simples, do tipo procariótica.  Respostas: 1 D 2 C 3 B 4 C 5 D 6 B 7 C 8 E 9 C 10 A 11 C 12 E 13 A 14 A 15 D 16 A 17 A 18 A 19 E 20 B 21 A 22 E 23 B 24 E 25 C 26 C 27 B 28 D 29 C 30 A 31 C 32 E 33 B 34 C 35 C 36 A 37 E 38 A 39 E 40 B 41 C 42 C 43 E 44 E 45 A 46 C 47 B 48 D"
+      }
+    ],
+    "resposta_correta": "D"
+  }
+]

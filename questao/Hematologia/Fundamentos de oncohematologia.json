@@ -1,0 +1,4432 @@
+[
+  {
+    "id": 116583,
+    "tags": [],
+    "enunciado": "Um paciente de 60 anos com histórico de câncer de pulmão de células escamosas procura o pronto-socorro com confusão mental, fraqueza e dor abdominal. Exames laboratoriais mostram: Cálcio sérico: 13,8 mg/dL (referência: 8,5–10,5 mg/dL) PTH: suprimido (<5 pg/mL; referência 15–65 pg/mL) Fósforo: normal Qual é o diagnóstico mais provável e a conduta mais indicada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hipercalcemia maligna; iniciar hidratação venosa e considerar bisfosfonatos."
+      },
+      {
+        "letra": "B",
+        "texto": "Hiperparatireoidismo primário; indicar paratireoidectomia."
+      },
+      {
+        "letra": "C",
+        "texto": "Hipercalcemia por excesso de vitamina D; suspender suplementos e iniciar corticosteroides."
+      },
+      {
+        "letra": "D",
+        "texto": "Hiperparatireoidismo secundário; iniciar vitamina D e fósforo."
+      },
+      {
+        "letra": "E",
+        "texto": "Hipercalcemia idiopática; observar e repetir exames após 48 horas. 4000235731"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116584,
+    "tags": [],
+    "enunciado": "São fatores de risco para o desenvolvimento de síndrome de lise tumoral todas, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Baixo débito urinário."
+      },
+      {
+        "letra": "B",
+        "texto": "Hiperuricemia ao diagnóstico."
+      },
+      {
+        "letra": "C",
+        "texto": "Leucemia mieloide crônica em fase crônica."
+      },
+      {
+        "letra": "D",
+        "texto": "Insuficiência renal aguda ao diagnóstico."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 116585,
+    "tags": [],
+    "enunciado": "Em relação às neoplasias, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O termo neoplasia designa um grupo de doenças caracterizadas pela perda de controle do processo de divisão celular, por meio do qual os tecidos normalmente crescem e(ou) se renovam. A inoperância dos mecanismos de regulação e de controle da proliferação celular, além do crescimento incontrolável, pode levar, no caso do câncer, à invasão dos tecidos vizinhos e à propagação para outras regiões do corpo, produzindo metástase."
+      },
+      {
+        "letra": "B",
+        "texto": "Os estudos sobre a relação entre câncer de pulmão e ocupação independem da obtenção de um histórico ocupacional consistente dos sujeitos recrutados na pesquisa, pois a biópsia é suficiente para fechar o diagnóstico ocupacional em função de protocolos definidos pela IARC (International Agency for Research on Cancer)."
+      },
+      {
+        "letra": "C",
+        "texto": "A alteração celular responsável pela produção do tumor decorre da combinação de duas células, sendo que uma delas possui mutação. Quando essa célula mutada se combina à segunda célula, ocorrem mudanças intra e extracelulares que permitem a proliferação de células transformadas, originando um nódulo que, em etapas posteriores, pode se disseminar pelo corpo."
+      },
+      {
+        "letra": "D",
+        "texto": "A IARC (International Agency for Research on Cancer) classifica seis tipos de carcinogenecidade: evidência suficiente de estudos epidemiológicos apoiando uma associação etiológica; evidência limitada em seres humanos, segundo estudos epidemiológicos; evidência suficiente em animais, porém inadequada em seres humanos; evidência limitada em animais; evidência inadequada em animais, e nenhuma evidência em animais ou em seres humanos."
+      },
+      {
+        "letra": "E",
+        "texto": "Na carcinogenecidade estão envolvidos fatores hereditários, genéticos e ambientais, que levam a proliferação celular descontrolada. O câncer ocupacional é considerado uma doença ocupacional típica, em que o trabalho é o fator ambiental decisivo para o surgimento da patologia."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116586,
+    "tags": [],
+    "enunciado": "Mulher, 61 anos, portadora de câncer de ovário avançado, em tratamento quimioterápico (última dose há 1 semana), vem ao PS por queixa de hematúria volumosa, con(cid:77)rmada em exame de urina com presença de hemácias não-dismór(cid:77)cas. Nega trauma em região uretral, nega dores ou outros sintomas associados. Qual dos seguintes medicamentos é a causa mais provável dessa hematúria?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Bleomicina."
+      },
+      {
+        "letra": "B",
+        "texto": "Ciclofosfamida."
+      },
+      {
+        "letra": "C",
+        "texto": "Vincristina."
+      },
+      {
+        "letra": "D",
+        "texto": "Doxorrubicina."
+      },
+      {
+        "letra": "E",
+        "texto": "Paclitaxel."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116587,
+    "tags": [],
+    "enunciado": "Paciente de 35 anos, recém-diagnosticada com câncer de mama em estadio avançado, com programação de iniciar tratamento quimioterápico com doxorrubicina. Qual exame deve ser realizado antes do início do tratamento, podendo inclusive contraindicar o uso desse quimioterápico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ecocardiograma."
+      },
+      {
+        "letra": "B",
+        "texto": "Densitometria óssea."
+      },
+      {
+        "letra": "C",
+        "texto": "Ressonância de crânio."
+      },
+      {
+        "letra": "D",
+        "texto": "Endoscopia digestiva alta com biópsia de segunda porção duodenal."
+      },
+      {
+        "letra": "E",
+        "texto": "Eletroneuromiografia."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116588,
+    "tags": [],
+    "enunciado": "Um homem de 64 anos com linfoma não-Hodgkin chega ao médico por causa de uma história de 3 semanas de doença progressiva, dormência nas mãos e pés e fraqueza nas pernas quando ele se levanta. Ele recebeu seu terceiro curso de quimioterapia há 4 semanas atrás. O exame físico mostra arre(cid:80)exia. Qual dos seguintes medicamentos é a causa mais provável desses efeitos?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Bleomicina"
+      },
+      {
+        "letra": "B",
+        "texto": "Ciclofosfamida"
+      },
+      {
+        "letra": "C",
+        "texto": "Vincristina"
+      },
+      {
+        "letra": "D",
+        "texto": "Doxorrubicina"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 116589,
+    "tags": [],
+    "enunciado": "Assinale a alternativa que apresenta o manejo correto de pacientes com alto risco para desenvolver hiperuricemia:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Avaliação clínica e monitoramento."
+      },
+      {
+        "letra": "B",
+        "texto": "Hidratação e manejo inicial com alopurinol."
+      },
+      {
+        "letra": "C",
+        "texto": "Administração de urato- oxidase recombinante."
+      },
+      {
+        "letra": "D",
+        "texto": "Hidratação e manejo inicial com urato- oxidase recombinante."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116590,
+    "tags": [],
+    "enunciado": "Das alternativas apresentadas abaixo qual apresenta apenas sintomas de hiperleucocitose?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cefaleia e convulsões"
+      },
+      {
+        "letra": "B",
+        "texto": "Diabetes melito e cefaleia"
+      },
+      {
+        "letra": "C",
+        "texto": "Tosse seca e convulsões"
+      },
+      {
+        "letra": "D",
+        "texto": "Tosse seca e diabetes melito"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116591,
+    "tags": [],
+    "enunciado": "Os principais distúrbios hidroeletrolíticos encontrados em pacientes oncológicos com quadro de síndrome de lise tumoral são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "hiporuricemia, hipofosfatemia, hipocalcemia e hipercalemia."
+      },
+      {
+        "letra": "B",
+        "texto": "hiporuricemia, hiperfosfatemia, hipocalcemia e hipercalemia."
+      },
+      {
+        "letra": "C",
+        "texto": "hiporuricemia, hiperfosfatemia, hipercalcemia e hipocalemia."
+      },
+      {
+        "letra": "D",
+        "texto": "hiperuricemia, hipofosfatemia, hipocalcemia e hipocalemia."
+      },
+      {
+        "letra": "E",
+        "texto": "hiperuricemia, hiperfosfatemia, hipocalcemia e hipercalemia. 4000216453"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 116592,
+    "tags": [],
+    "enunciado": "Paciente jovem, em tratamento para linfoma não Hodgkin, com presença de massa tumoral volumosa em mediastino, apresenta, alguns dias após início de quimioterapia, quadro de confusão mental e desidratação, seguidos de crise convulsiva. Frente à suspeita de síndrome de lise tumoral, espera-se a redução sérica do marcador:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Potássio."
+      },
+      {
+        "letra": "B",
+        "texto": "Fósforo."
+      },
+      {
+        "letra": "C",
+        "texto": "Cálcio."
+      },
+      {
+        "letra": "D",
+        "texto": "Ácido úrico."
+      },
+      {
+        "letra": "E",
+        "texto": "Creatinina. 4000215184"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 116593,
+    "tags": [],
+    "enunciado": "Durante o tratamento de algumas doenças oncológicas, pode aparecer a chamada síndrome de lise tumoral, que vem acompanhada de alterações metabólicas características e que devem ser abordadas prontamente. Quais são as principais alterações metabólicas na lise tumoral?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hiperuricemia, hipocalemia, hipercalcemia."
+      },
+      {
+        "letra": "B",
+        "texto": "Hipouricemia, hipocalcemia, hipofosfatemia."
+      },
+      {
+        "letra": "C",
+        "texto": "Hipercalcemia, hipercalemia, hipofosfatemia."
+      },
+      {
+        "letra": "D",
+        "texto": "Hiperuricemia, hipercalemia, hiperfosfatemia. 4000214670"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116594,
+    "tags": [],
+    "enunciado": "Acerca da síndrome da lise tumoral (SLT) em pediatria, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A rasburicase, por reduzir os níveis de ácido úrico muito lentamente em pacientes de risco para SLT, tem sido pouco utilizada quando se detectam níveis séricos acima de 7,5, uma vez que sua ação é lenta."
+      },
+      {
+        "letra": "B",
+        "texto": "Quanto maior for a taxa de divisão celular, como na presença de massa mediastinal e elevadas leucometrias, maior será a chance de apresentar SLT."
+      },
+      {
+        "letra": "C",
+        "texto": "Na SLT, os íons potássio e cálcio encontram‑se em níveis extremamente baixos e devem ser repostos sempre, com a finalidade de evitar complicações neurológicas, como convulsões, devido à hipocalcemia."
+      },
+      {
+        "letra": "D",
+        "texto": "A hiperuricemia responde pela principal causa de acometimento renal. A falta de reconhecimento e de diagnóstico precoces tem aumentado a mortalidade por SLT na maioria dos serviços de oncologia pediátrica."
+      },
+      {
+        "letra": "E",
+        "texto": "Na hiperfosfatemia, a hidratação não tem demonstrado eficácia na diminuição do risco de formação de cristais, sendo esse o motivo do aumento da indicação de terapia de substituição renal na SLT."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116595,
+    "tags": [],
+    "enunciado": "Paciente 22 anos, iniciou tratamento para neoplasia hematológica e foi diagnosticado com síndrome de lise tumoral. A alteração de exame que corroborou para tal diagnóstico foi",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "potássio 2,0 mEq/L."
+      },
+      {
+        "letra": "B",
+        "texto": "cálcio iônico 1,39 mmol/L."
+      },
+      {
+        "letra": "C",
+        "texto": "fósforo 5,6 mg/dL."
+      },
+      {
+        "letra": "D",
+        "texto": "ácido úrico 3,0 mg/dL."
+      },
+      {
+        "letra": "E",
+        "texto": "sódio 150,0 mEq/L."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 116596,
+    "tags": [],
+    "enunciado": "A síndrome de lise tumoral ocorre em pacientes em tratamento oncológico e decorre do desequilíbrio metabólico decorrente da necrose espontânea de tumores de grande volume ou do uso de drogas citotóxicas em doenças neoplásicas altamente sensíveis ao quimioterápico. As alterações metabólicas clássicas da síndrome de lise tumoral, respectivamente, são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "hiperuricemia, hipocalemia, hipercalcemia e hiperfosfatermia."
+      },
+      {
+        "letra": "B",
+        "texto": "hipocalcemia, hipofosfatemia, hiperuricemia e hipocalemia."
+      },
+      {
+        "letra": "C",
+        "texto": "hipercalcemia, hipercalemia, hipofosfatemia e hiperfosfatemia."
+      },
+      {
+        "letra": "D",
+        "texto": "hiperuricemia, hipercalemia, hiperfosfatemia e hipocalcemia."
+      },
+      {
+        "letra": "E",
+        "texto": "hipouricemia, hipocalemia, hipofosfatemia e hipocalcemia."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116597,
+    "tags": [],
+    "enunciado": "Homem, 65 anos, admitido em pronto atendimento com queixa de dor lombar há 15 dias. Refere inchaço, falta de ar e redução do volume de urina nos últimos 7 dias. Exame físico: REG, ictérico; anasarca; linfonodomegalia inguinal e PA:170x100 mmHg. Exames admissionais: gasometria venosa pH:7,29; HCO3:10,4 mmol/L; PCO2: 22 mmHg; PO2: 54 mmHg; Cr: 9,2 mg/dL; Ur: 420 mg/dL; Potássio: 7,3 mmol/L; Cálcio: 5,9 mg/dL (VR: 8,5-10,5); Fósforo: 13,1 mg/dL (VR: 2,5-5,6); Albumina: 2,5 g/dL; Bilirrubina total: 18,1 mg/dL (VR: 0,1-1,2); Bilirrubina direta: 14,8 mg/dL (VR: 0-0,2) e Hemograma normal. Qual é a provável etiologia da lesão renal aguda?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Síndrome hemolítico urêmica."
+      },
+      {
+        "letra": "B",
+        "texto": "Nefrite intersticial aguda."
+      },
+      {
+        "letra": "C",
+        "texto": "Hipertensão maligna."
+      },
+      {
+        "letra": "D",
+        "texto": "Síndrome de lise tumoral."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116598,
+    "tags": [],
+    "enunciado": "A radioterapia é a modalidade de tratamento cujo agente terapêutico é a radiação ionizante, ou seja, aquela que, em razão de suas características físicas, tem a capacidade de promover ionização no meio em que incide, agindo sobre o controle da evolução local dos tumores. No que se refere a esse tratamento, é CORRETO afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As lesões tardias causadas pela radiação ionizante começam a surgir a partir de um ano após o término do tratamento."
+      },
+      {
+        "letra": "B",
+        "texto": "A radioterapia não é indicada em casos de sangramentos provocados pelo tumor."
+      },
+      {
+        "letra": "C",
+        "texto": "A radiocirurgia é uma teleterapia de alta precisão tecnológica, indicada para tumores gastrintestinais."
+      },
+      {
+        "letra": "D",
+        "texto": "A braquiterapia é uma terapia em que a fonte radioativa é colocada dentro de uma cavidade corporal ou diretamente no corpo, por meio de sementes, fios, agulhas ou fitas. 4000189160"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116599,
+    "tags": [],
+    "enunciado": "Com relação aos marcadores tumorais, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "São úteis no manejo clínico dos pacientes com câncer. Os marcadores podem dificultar os processos de diagnósticos."
+      },
+      {
+        "letra": "B",
+        "texto": "São caracterizados ou quantificados apenas por meios imuno-histoquímicos."
+      },
+      {
+        "letra": "C",
+        "texto": "Não podem ser proteínas, apenas peptídeos e/ou aminoácidos, incluindo antígenos de superfície celular, proteínas citoplasmáticas e enzimas."
+      },
+      {
+        "letra": "D",
+        "texto": "Têm sensibilidade e especificidade determinados, o que permite que todos eles sejam utilizados para rastreamento oncológico."
+      },
+      {
+        "letra": "E",
+        "texto": "Um marcador tumoral ideal deve apresentar, independentemente de sua aplicação um baixo valor preditivo positivo e negativo. 4000188821"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116600,
+    "tags": [],
+    "enunciado": "O Paclitaxel e o Docetaxel são usados no tratamento de várias neoplasias sólidas. Cardiotoxicidade é fenômeno pouco frequente nesse grupo, com ocorrência de 12 por 100, sendo correto que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O docetaxel, em particular, parece estar associado à redução da ocorrência de disfunção ventricular."
+      },
+      {
+        "letra": "B",
+        "texto": "O docetaxel, em particular, não parece estar associado a aumento da ocorrência de disfunção ventricular."
+      },
+      {
+        "letra": "C",
+        "texto": "O docetaxel, em particular, parece estar associado a aumento da ocorrência de disfunção ventricular."
+      },
+      {
+        "letra": "D",
+        "texto": "O docetaxel, em particular, parece estar associado à proteção de disfunção ventricular. 4000187561"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 116601,
+    "tags": [],
+    "enunciado": "Inibidores de Checkpoint Imunológicos (ICIs) revolucionaram o tratamento do câncer.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Esses imunoterápicos atuam modulando o sistema imunológico, estimulando a apoptose dos linfócitos T, gerando restauração da resposta celular antitumoral."
+      },
+      {
+        "letra": "B",
+        "texto": "Esses imunoterápicos atuam modulando o sistema imunológico, inibindo a apoptose dos linfócitos T, gerando degeneração da resposta celular antitumoral."
+      },
+      {
+        "letra": "C",
+        "texto": "Esses imunoterápicos atuam modulando o sistema imunológico, inibindo a apoptose dos linfócitos T, gerando restauração da resposta celular antitumoral."
+      },
+      {
+        "letra": "D",
+        "texto": "Esses imunoterápicos não atuam modulando o sistema imunológico, inibindo a apoptose dos linfócitos T, gerando restauração da resposta celular antitumoral. 4000187557"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 116602,
+    "tags": [],
+    "enunciado": "Sobre a cardiotoxicidade no tratamento oncológico assinale a alternativa incorreta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A cardiotoxicidade é a segunda causa mais frequente de complicação do tratamento oncológico, perdendo para a neutropenia."
+      },
+      {
+        "letra": "B",
+        "texto": "Os agentes quimioterápicos ou a radioterapia podem determinar alterações estruturais, elétricas e funcionais no miocárdio."
+      },
+      {
+        "letra": "C",
+        "texto": "A prevalência de cardiotoxicidade é maior em indivíduos menores de 5 anos de idade, do sexo masculino e caucasianos."
+      },
+      {
+        "letra": "D",
+        "texto": "A perda de células musculares cardíacas prejudica o crescimento do coração, com consequente massa ventricular esquerda inadequada. 4000187365"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 116603,
+    "tags": [],
+    "enunciado": "obre a cardiotoxicidade no tratamento oncológico assinale a alternativa incorreta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A cardiotoxicidade é a segunda causa mais frequente de complicação do tratamento oncológico, perdendo para a neutropenia."
+      },
+      {
+        "letra": "B",
+        "texto": "A prevalência de cardiotoxicidade é maior em indivíduos menores de 5 anos de idade, do sexo masculino e caucasianos."
+      },
+      {
+        "letra": "C",
+        "texto": "Os agentes quimioterápicos ou a radioterapia podem determinar alterações estruturais, elétricas e funcionais no miocárdio."
+      },
+      {
+        "letra": "D",
+        "texto": "A perda de células musculares cardíacas prejudica o crescimento do coração, com consequente massa ventricular esquerda inadequada. 4000186970"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116604,
+    "tags": [],
+    "enunciado": "Sobre a investigação clínica da hipercalcemia. Assinale a alternativa incorreta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A dosagem de paratormônio (PTH) sérico é parte importante do diagnóstico diferencial, sendo o hiperparatireoidismo primário causa de hipercalcemia."
+      },
+      {
+        "letra": "B",
+        "texto": "Em pacientes com PTH sérico normal ou suprimido a hipercalcemia da malignidade deve ser considerada."
+      },
+      {
+        "letra": "C",
+        "texto": "A intoxicação por vitamina D pode se manifestar com hipercalcemia."
+      },
+      {
+        "letra": "D",
+        "texto": "A hipercalcemia da malignidade ocorre apenas por invasão óssea direta (metástases ou lesão primária)."
+      },
+      {
+        "letra": "E",
+        "texto": "A hipercalcemia da malignidade pode se manifestar pela presença de proteína semelhante ao PTH (paraneoplasia), sem haver invasão óssea direta."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116605,
+    "tags": [],
+    "enunciado": "Homem de 67 anos, em tratamento quimioterápico para câncer de pulmão, com boa adesão ao tratamento e suporte social adequado. Última quimioterapia há 10 dias. Apresentou febre de 38,2 graus há 3 horas. Nega outras queixas. Não apresentou hipotensão. Hemograma demonstrou neutropenia. Índice de risco de MASCC > 21. Qual conduta que deve ser adotada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Curva térmica. Se houver novo episódio febril, internação com cefepime."
+      },
+      {
+        "letra": "B",
+        "texto": "Internação imediata. Coleta de culturas. Cefepime e vancomicina."
+      },
+      {
+        "letra": "C",
+        "texto": "Internação imediata. Coleta de culturas. Cefepime."
+      },
+      {
+        "letra": "D",
+        "texto": "Alta com ciprofloxacino e amoxacilina-clavulanato e orientações."
+      },
+      {
+        "letra": "E",
+        "texto": "Internação. Coleta de culturas e introdução de antibiótico se houver piora clínica ou cultura positiva."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116606,
+    "tags": [],
+    "enunciado": "No câncer infantil é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os cânceres pediátricos mais frequentes são as leucemias, os tumores do sistema nervoso central e os linfomas."
+      },
+      {
+        "letra": "B",
+        "texto": "O câncer na faixa etária pediátrica geralmente é hereditário e, na maioria dos casos, apresentam história familiar e/ou associações com alterações genéticas ou congênitas. Entretanto, o retinoblastoma (tumor maligno intraocular) raramente tem origem genética."
+      },
+      {
+        "letra": "C",
+        "texto": "A trissomia 21 tem envolvido o gene GATA 1 que interfere na diferenciação celular. Esses pacientes têm risco aumentado para o desenvolvimento de neoplasia de sistema nervoso central (cerca de 10 vezes maior) e câncer de estômago."
+      },
+      {
+        "letra": "D",
+        "texto": "A leucemia aguda raramente acomete as crianças, possuindo um período de latência grande com história tardia de surgimento dos sintomas."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116607,
+    "tags": [],
+    "enunciado": "Síndrome de Lise Tumoral Paciente de 7 anos, previamente hígido, apresentando febre diária há 7 dias, prostração, dor abdominal, vômitos e di(cid:77)culdade para respirar. Passou em atendimento médico há 3 dias e, após realização do exame de imagem, recebeu alta com prescrição de amoxicilina 50 mg/kg/dia por 7 dias. Segue com manutenção dos sintomas e queixa-se de diminuição da diurese. Ao exame clínico, REG, pálido, mucosas secas, FC 165 bpm, FR 40 irpm, saturação 93% em ar ambiente, PA 100x50 mmHg, ausculta pulmonar diminuída em base esquerda com crepitações bilaterais, tiragem subdiafragmática e intercostal. Exames iniciais apresentados. Para de(cid:77)nir as medidas de estabilização a serem instituídas para este paciente no momento, qual(is) exame(s) deve(m) ser acrescentado(s)?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Contagem celular diferencial e cultura de líquido pleural."
+      },
+      {
+        "letra": "B",
+        "texto": "Pesquisa de esquizócitos em sangue periférico."
+      },
+      {
+        "letra": "C",
+        "texto": "Lactato desidrogenase, fósforo e ácido úrico séricos."
+      },
+      {
+        "letra": "D",
+        "texto": "Teste rápido molecular para micobactéria."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 116608,
+    "tags": [],
+    "enunciado": "A síndrome de lise tumoral é caracterizada pela destruição maciça de células malignas e consequente liberação do seu conteúdo no espaço extracelular. Embora possa ocorrer de modo espontâneo, a síndrome de lise tumoral aparece, em geral, logo após o início do tratamento com agentes quimioterápicos citotóxicos.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "primeira classi(cid:77)cação foi desenvolvida por Hande e Garrow, em 1993, e, recentemente, Cairo e Bishop a modi(cid:77)caram. Conforme os critérios mais recentes para o diagnóstico dessa síndrome, é necessário que o paciente apresente, de três dias antes até sete dias depois do tratamento, pelo menos duas das seguintes alterações:"
+      },
+      {
+        "letra": "A",
+        "texto": "ácido úrico ≥ 5 mg/dL ou com aumento > 25% do valor de base; potássio ≥ 8 mEq/L ou com aumento > 25% do valor de base; fósforo ≥ 4,5 mg/dL ou com aumento > 25% do valor de base; e(ou) cálcio total ≤ 7 mg/dL ou com redução > 25% do valor de base."
+      },
+      {
+        "letra": "B",
+        "texto": "ácido úrico ≥ 8 mg/dL ou com aumento > 25% do valor de base; potássio ≥ 6 mEq/L ou com aumento > 25% do valor de base; fósforo ≥ 9 mg/dL ou com aumento > 25% do valor de base; e(ou) cálcio total > 7 mg/dL ou com aumento > 25% do valor de base."
+      },
+      {
+        "letra": "C",
+        "texto": "ácido úrico ≥ 5 mg/dL ou com aumento > 25% do valor de base; potássio ≥ 8 mEq/L ou com aumento > 25% do valor de base; fósforo ≥ 9 mg/dL ou com aumento > 25% do valor de base; e(ou) cálcio total > 7 mg/dL ou com aumento > 25% do valor de base."
+      },
+      {
+        "letra": "D",
+        "texto": "ácido úrico ≥ 8 mg/dL ou com aumento > 25% do valor de base; potássio ≥ 6 mEq/L ou com aumento > 25% do valor de base; fósforo ≥ 4,5 mg/dL ou com aumento > 25% do valor de base; e(ou) cálcio total ≤ 7 mg/dL ou com redução > 25% do valor de base."
+      },
+      {
+        "letra": "E",
+        "texto": "ácido úrico < 8 mg/dL ou com redução > 25% do valor de base; potássio < 6 mEq/L ou com redução > 25% do valor de base; fósforo < 4,5 mg/dL ou com redução > 25% do valor de base; e(ou) cálcio total > 7 mg/dL ou com aumento > 25% do valor de base."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116609,
+    "tags": [],
+    "enunciado": "Criança de 6 anos, com diagnóstico recente de leucemia e cateter totalmente implantado para tratamento quimioterápico, é trazida para atendimento por seu responsável, pois apresentou um pico febril (38°C) e episódio de diarreia líquida. No relato, refere dor abdominal em cólica e nega uso de antibióticos, nos últimos dois meses. Ao exame físico, a criança está em regular estado geral, afebril, com FC = 120bpm, FR = 28ipm e dor à palpação profunda e super(cid:77)cial de abdômen. O hemograma mostra Hgb de 7,5g/dL, 300 leucócitos, com 10% de neutró(cid:77)los, 15 mil plaquetas. A tomogra(cid:77)a de abdômen mostrou espessamento importante do ceco. Nesse momento, a principal hipótese diagnóstica e a conduta adequada, respectivamente, são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "giardíase / iniciar secnidazol"
+      },
+      {
+        "letra": "B",
+        "texto": "tiflite / iniciar piperacilina com tazobactam"
+      },
+      {
+        "letra": "C",
+        "texto": "colite pseudomembranosa / iniciar vancomicina"
+      },
+      {
+        "letra": "D",
+        "texto": "diarreia aguda viral / iniciar terapia de reposição hídrica"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116610,
+    "tags": [],
+    "enunciado": "Homem, 39 anos, apresenta distensão abdominal e não evacua há 48 horas. Realizada tomogra(cid:77)a computadorizada de abdome com achado de massa de 11 x 8 cm nos maiores diâmetros e sinais de compressão intestinal. Exames laboratoriais: Hemograma: Hb: 8,4 g/dL, HE 25%, VCM: 98 L, leucócitos: 14.000/mm³, plaquetas: 56.000/mm³ (esfregaço do sangue periférico mostrado na Figura): LDH: 3.236 U/L (VR < 230). ácido úrico: 13 mg/dL (VR < 6.0). Qual alteração eletrolítica é mais provável?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hiponatremia."
+      },
+      {
+        "letra": "B",
+        "texto": "Hiperfosfatemia."
+      },
+      {
+        "letra": "C",
+        "texto": "Hipercalcemia."
+      },
+      {
+        "letra": "D",
+        "texto": "Hipocalemia."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116611,
+    "tags": [],
+    "enunciado": "Leia o caso clínico. Paciente submetido a quimioterapia com (cid:80)udarabina e ciclofosfamida, seguido de terapia com receptor do antígeno quimérico de células T (CAR-T cell) por leucemia linfoide aguda. No sexto dia, após a infusão das células, paciente apresenta temperatura de 38,9\u0000C, hipotensão, com necessidade de altas doses de drogas vasoativas, aumento pronunciado de proteína C reativa e procalcitonina normal. O diagnóstico apropriado para o paciente é de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "choque séptico."
+      },
+      {
+        "letra": "B",
+        "texto": "síndrome de liberação de citocinas."
+      },
+      {
+        "letra": "C",
+        "texto": "toxicidade a quimioterápicos."
+      },
+      {
+        "letra": "D",
+        "texto": "síndrome de neurotoxicidade associada a células efetoras imunes."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116612,
+    "tags": [],
+    "enunciado": "Paciente de 6 anos, com diagnóstico recente de Leucemia Linfoide Aguda internado em esquema de quimioterapia (indução). Entre as medidas potenciais para controle das consequências metabólicas da síndrome de lise tumoral, podemos citar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Reposição enteral de potássio em forma de Xarope de KCL 6%, como forma de controlar a hipocalemia."
+      },
+      {
+        "letra": "B",
+        "texto": "Administração de cálcio endovenoso, de forma a conter a hipocalcemia resultante da perda de cálcio para o meio extra-celular."
+      },
+      {
+        "letra": "C",
+        "texto": "Hidratação endovenosa com soluções ricas em bicarbonato, uma vez que a reposição desse ânion é essencial para controlar a acidose metabólica presente nesses casos."
+      },
+      {
+        "letra": "D",
+        "texto": "Administração de alopurinol e/ou rasburicase, como forma de manejo de hiperuricemia."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116613,
+    "tags": [],
+    "enunciado": "Assinale a alternativa que NÃO representa aumento do risco para desenvolvimento de síndrome de lise tumoral em criança com diagnóstico recente de neoplasia maligna",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Metástase extensa."
+      },
+      {
+        "letra": "B",
+        "texto": "Insuficiência renal prévia ao diagnóstico de câncer."
+      },
+      {
+        "letra": "C",
+        "texto": "Desidratação."
+      },
+      {
+        "letra": "D",
+        "texto": "Insuficiência hepática prévia ao diagnóstico de câncer."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116614,
+    "tags": [],
+    "enunciado": "Assinale a alternativa que representa a melhor opção terapêutica para correção da hiperfosfatemia em paciente com síndrome de lise tumoral:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hiperhidratação."
+      },
+      {
+        "letra": "B",
+        "texto": "Rasburicase."
+      },
+      {
+        "letra": "C",
+        "texto": "Alcalinização da urina."
+      },
+      {
+        "letra": "D",
+        "texto": "Sevelamer."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116615,
+    "tags": [],
+    "enunciado": "Paciente de 2 anos, com antecedente de leucemia linfoide aguda, em quimioterapia, é trazido ao Pronto Atendimento por quadro de febre há 1 dia, associado a tosse e coriza. Ao exame: Bom estado geral, FC= 150bpm, FR= 28ipm, PA=80x40; Ausculta cardíaca e pulmonar sem alterações; Períneo sem lesões; Oroscopia com leve hiperemia; PICC em membro superior esquerdo Hemograma do paciente com Hb=7,9 Leuco=560 sem diferencial, Plaquetas=60mil. Em relação ao manejo do paciente, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Indicada internação com Vancomicina e Cefepime, sem necessidade de hemocomponentes."
+      },
+      {
+        "letra": "B",
+        "texto": "Indicada internação com Vancomicina e Cefepime, realizar transfusão de concentrado de hemácias e plaquetas."
+      },
+      {
+        "letra": "C",
+        "texto": "Indicada internação com Cefepime, realizar transfusão de concentrado de hemácias."
+      },
+      {
+        "letra": "D",
+        "texto": "Realizar transfusão de concentrado de hemácias e alta com levofloxacino por via oral e reavaliação em 24 horas."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 116616,
+    "tags": [],
+    "enunciado": "Paciente de 2 anos, com antecedente de leucemia linfoide aguda, em quimioterapia, é trazido ao Pronto Atendimento por quadro de febre há 1 dia, associado a tosse e coriza. Ao exame: Bom estado geral, FC= 150bpm, FR= 28ipm, PA=80x40; Ausculta cardíaca e pulmonar sem alterações; Períneo sem lesões; Oroscopia com leve hiperemia; PICC em membro superior esquerdo Na hemocultura houve crescimento de S. aureus sensível a oxacilina. Qual a conduta indicada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Prescrever lock de vancomicina no cateter, suspender cefepime."
+      },
+      {
+        "letra": "B",
+        "texto": "Retirada do PICC, manter antibioticoterapia, realizar ecocardiograma."
+      },
+      {
+        "letra": "C",
+        "texto": "Manter antibioticoterapia, realizar ecocardiograma e retirar PICC se presença de trombo."
+      },
+      {
+        "letra": "D",
+        "texto": "Prescrever lock de vancomicina no cateter, manter antibioticoterapia, coletar nova hemocultura."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116617,
+    "tags": [],
+    "enunciado": "\"O Instituto Nacional do Câncer (INCA) estima a ocorrência anual de aproximadamente 420 mil casos novos de câncer para o Brasil no biênio 2016-2017 (excluindo-se os tumores de pele não melanoma). O câncer infanto-juvenil representa de 1 a 3% dos casos, estimando-se, assim, a ocorrência de 12.600 novos casos de câncer na faixa etária de 0 a 19 anos para o ano de 2017.\" Disponível em: https://www.inca.gov.br/estimativa/introdução. Acesso em:13 de jan.2022. Embora o câncer na criança e no adolescente seja raro, representa a principal causa de óbito por doença nesta faixa etária. Quais sinais ou sintomas abaixo estão mais relacionados a sinais de alerta para câncer?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Linfonodo retroauricular 1cm de diâmetro, indolor, sem febre associada, sem vermelhidão."
+      },
+      {
+        "letra": "B",
+        "texto": "Dor em membros inferiores difusa, não capacitante, uma vez por semana, vespertina, com hemograma normal."
+      },
+      {
+        "letra": "C",
+        "texto": "Dor abdominal periumbilical, duas vezes por semana, pós-alimentar, sem massas palpáveis."
+      },
+      {
+        "letra": "D",
+        "texto": "Cefaleia vespertina três vezes ao mês, sem vômitos, leve intensidade, sem progressão. 4000193121"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116618,
+    "tags": [],
+    "enunciado": "Paciente, em início de quimioterapia para linfoma não Hodgkin, apresenta náuseas, vômitos, cãibras, fraqueza muscular e redução do volume urinário. Qual(is) das seguintes alterações eletrocardiográ(cid:77)cas é (são) compatível (is) com a principal hipótese diagnóstica?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aumento do intervalo QT."
+      },
+      {
+        "letra": "B",
+        "texto": "Aumento de onda P e redução do intervalo PR."
+      },
+      {
+        "letra": "C",
+        "texto": "Infradesnivelamento de segmento ST e diminuição do intervalo QT."
+      },
+      {
+        "letra": "D",
+        "texto": "Inversão e achatamento de onda T."
+      },
+      {
+        "letra": "E",
+        "texto": "Supradesnivelamento de segmento ST e diminuição do intervalo QT."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116619,
+    "tags": [],
+    "enunciado": "Dentre as urgências onco-hematológicas, destaca-se a síndrome de lise tumoral como causa importante de morbimortalidade em pacientes submetidos a protocolos de quimioterapia. Das alterações laboratoriais abaixo, assinale a única que faz parte dos critérios diagnósticos desta síndrome:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hipernatremia."
+      },
+      {
+        "letra": "B",
+        "texto": "Hipouricemia."
+      },
+      {
+        "letra": "C",
+        "texto": "Hipomagnesemia."
+      },
+      {
+        "letra": "D",
+        "texto": "Hipercalcemia."
+      },
+      {
+        "letra": "E",
+        "texto": "Hiperuricemia. 4000191207"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 116620,
+    "tags": [],
+    "enunciado": "A temperatura corporal pode ser medida em vários locais, inclusive retal. Das alternativas apresentadas abaixo, qual é uma contraindicação formal para a utilização da mensuração temperatura por via retal em pacientes pediátricos?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Dor."
+      },
+      {
+        "letra": "B",
+        "texto": "As fezes podem agir como isolante, reduzindo a acurácia da medição."
+      },
+      {
+        "letra": "C",
+        "texto": "Neutropenia febril."
+      },
+      {
+        "letra": "D",
+        "texto": "Risco de lesão intestinal. 4000191096"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 116621,
+    "tags": [],
+    "enunciado": "Paciente do sexo masculino, de 78 anos de idade, portador de carcinoma de pequenas células de pulmão, é admitido na unidade de emergência com quadro de confusão mental, fadiga e constipação há seis dias. Ao exame físico, apresenta-se desorientado no tempo e no espaço, emagrecido, desidratado (3+/4+) e com mucosas descoradas (2+/4+). Sem outras alterações. Exames laboratoriais evidenciaram cálcio iônico = 1,76mmol/L (valor de referência: 1,11 - 1,40mmol/L). Qual conduta terapêutica deve ser adotada neste momento?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Furosemida e metilprednisolona"
+      },
+      {
+        "letra": "B",
+        "texto": "Soro fisiológico e furosemida"
+      },
+      {
+        "letra": "C",
+        "texto": "Soro fisiológico e pamidronato"
+      },
+      {
+        "letra": "D",
+        "texto": "Pamidronato e metilprednisolona 4000190862"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 116622,
+    "tags": [],
+    "enunciado": "Um homem de 23 anos é tratado com quimioterapia de indução para leucemia linfoblástica aguda. A contagem inicial de leucócitos antes do tratamento foi de 155.000/μL. Todas as seguintes complicações são esperadas durante o tratamento, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Lesão renal aguda."
+      },
+      {
+        "letra": "B",
+        "texto": "Hipercalcemia."
+      },
+      {
+        "letra": "C",
+        "texto": "Hiperpotassemia."
+      },
+      {
+        "letra": "D",
+        "texto": "Hiperfosfatemia."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116623,
+    "tags": [],
+    "enunciado": "Com o progresso das terapias oncológicas, tem sido visto um número crescente de sobreviventes ao câncer. Com relação ao acompanhamento a longo prazo desses pacientes, assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As pacientes devem ser desencorajadas quanto a gestações futuras, já que a imunossupressão induzida pelo estado gestacional aumenta o risco de recorrência tumoral."
+      },
+      {
+        "letra": "B",
+        "texto": "O uso de radioterapia, principalmente em região cervical, aumenta o risco de desenvolvimento de neoplasias nos primeiros anos após o tratamento."
+      },
+      {
+        "letra": "C",
+        "texto": "Após a cura de um tumor, mudanças do estilo de vida, como cessação do tabagismo e controle ponderal, não terão mais impacto na redução do risco de ocorrência de um segundo tumor primário."
+      },
+      {
+        "letra": "D",
+        "texto": "Pacientes que utilizaram quimioterapia podem desenvolver leucemias cerca de 2 a 5 anos após a cura do tumor primário."
+      },
+      {
+        "letra": "E",
+        "texto": "Ausência de recidiva tumoral após 5 anos do término da terapia oncológica é sinônimo de cura."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116624,
+    "tags": [],
+    "enunciado": "Em relação à neutropenia grave decorrente de quimioterapia antineoplásica, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "as manifestações clínicas de infecção podem ser pobres devido à escassez do infiltrado inflamatório."
+      },
+      {
+        "letra": "B",
+        "texto": "o uso de antibióticos profiláticos desde antes do nadir é obrigatório para reduzir o risco de sepse bacteriana."
+      },
+      {
+        "letra": "C",
+        "texto": "a transfusão de concentrados de leucócitos é feita na prática clínica, pois é custo efetiva."
+      },
+      {
+        "letra": "D",
+        "texto": "na incidência de febre, o uso de antibióticos de largo espectro só deve ser iniciado após a obtenção do resultado das hemoculturas."
+      },
+      {
+        "letra": "E",
+        "texto": "a ausência de febre afasta o risco de complicações graves."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116625,
+    "tags": [],
+    "enunciado": "Um jovem de 22 anos de idade iniciou tratamento quimioterápico para controle de um linfoma de Burkitt, tendo diminuição importante da ingesta de líquidos e alimentos. Cinco dias após a última infusão, começou a apresentar diminuição do volume urinário de maneira importante e um quadro convulsivo, que motivou a busca pelo serviço de emergência. Na avaliação laboratorial, apresentava: sódio 142 mmol/L (VR 135-145 mmol/L); potássio 6,2 mEq/L (VR 3,5-5,5 mmol/L); cálcio corrigido 6,1 mg/dL (VR 8,6-10,2 mg/dL); CPK 967 U/L (VR 22,0-334,0 U/L); ureia 55 mg/dL (VR 16-40 mg/dL); e creatinina 4 mg/dL (VR 0,6-1,2 mg/dL). Com base nos resultados dos exames laboratoriais descritos nesse caso hipotético, assinale a alternativa que mais bem descreve a causa do acometimento renal do paciente.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "rabdomiólise"
+      },
+      {
+        "letra": "B",
+        "texto": "síndrome de lise tumoral"
+      },
+      {
+        "letra": "C",
+        "texto": "quimiotoxicidade quimioterápica"
+      },
+      {
+        "letra": "D",
+        "texto": "desidratação severa"
+      },
+      {
+        "letra": "E",
+        "texto": "disseminação neoplásica"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116626,
+    "tags": [],
+    "enunciado": "As unidades de transplante de medula óssea e de pacientes neutropênicos pós-quimioterapia para leucemias agudas, especialmente leucemia mieloide aguda, que conseguiram implantar (cid:77)ltro HEPA (High Efficiency Particulate Air) nos quartos diminuíram significativamente principalmente as infecções invasivas por:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fusarium"
+      },
+      {
+        "letra": "B",
+        "texto": "Mucorales"
+      },
+      {
+        "letra": "C",
+        "texto": "Aspergillus"
+      },
+      {
+        "letra": "D",
+        "texto": "Cryptococcus"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 116627,
+    "tags": [],
+    "enunciado": "Homem de 25 anos apresenta náuseas, vômitos, discreta sonolência e fraqueza muscular. AP: diagnóstico recente de carcinoma de células germinativas do testículo esquerdo, com grande massa tumoral retroperitoneal, em quimioterapia com etoposídeo e cisplatina há 4 dias. Exame físico: PA 110/70 mmHg, FC 100 bpm, temperatura 37,8 ºC, orientado, sem outras alterações.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "conduta inicial e sua justificativa são:"
+      },
+      {
+        "letra": "A",
+        "texto": "antibioticoterapia empírica de amplo espectro, considerando alta possibilidade de neutropenia pós- quimioterapia."
+      },
+      {
+        "letra": "B",
+        "texto": "antieméticos via oral, considerando que se trata de toxicidade gastrintestinal relacionada à quimioterapia."
+      },
+      {
+        "letra": "C",
+        "texto": "encaminhamento à UTI devido ao risco de instabilidade hemodinâmica, considerando alta possibilidade de perfuração neoplásica abdominal."
+      },
+      {
+        "letra": "D",
+        "texto": "hidratação endovenosa e coleta de hemograma, função renal, cálcio, potássio, ácido úrico e fosfato, pela possibilidade de síndrome de lise tumoral."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116628,
+    "tags": [],
+    "enunciado": "Sobre a síndrome de lise tumoral (SLT), analise os itens abaixo: I. A síndrome é ocasionada pela lise maciça de células tumorais, levando à hiperuricemia, hipercalemia, hiperfosfatemia e hipocalcemia. II. Em razão da gravidade do quadro relacionado à SLT, a identi(cid:77)cação de pacientes oncológicos com maior risco é fundamental, uma vez que a instituição rápida de medidas preventivas constitui a etapa prioritária nesse grupo de pacientes. III. A hipercalcemia, comum na SLT, pode levar a graves arritmias (por exemplo, torsades de Pointes) e irritabilidade neuromuscular (tetania, convulsões e estado de mal epiléptico). Está(ão) CORRETO(S):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Todos os itens."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente o item II."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente o item III."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente os itens I e II."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116629,
+    "tags": [],
+    "enunciado": "A síndrome de lise tumoral pode ocorrer durante o início do tratamento de algumas doenças onco- hematológicas. As alterações comumente encontradas nessa síndrome são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "hiperuricemia, hipocalcemia, hipofosfatemia."
+      },
+      {
+        "letra": "B",
+        "texto": "hiperuricemia, hipocalemia, hipercalcemia."
+      },
+      {
+        "letra": "C",
+        "texto": "hiperuricemia, hipercalemia, hiperfosfatemia."
+      },
+      {
+        "letra": "D",
+        "texto": "hipercalcemia, hipercalemia, hipofosfatemia."
+      },
+      {
+        "letra": "E",
+        "texto": "hiperuricemia, hipocalemia, hiperfosfatemia."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 116630,
+    "tags": [],
+    "enunciado": "Em relação aos principais sinais e sintomas de alerta para o câncer infantojuvenil, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Exantema morbiliforme que persista por mais de uma semana."
+      },
+      {
+        "letra": "B",
+        "texto": "Dores ósseas que surgem ao final do dia."
+      },
+      {
+        "letra": "C",
+        "texto": "Anemia microcítica e hipocrômica."
+      },
+      {
+        "letra": "D",
+        "texto": "Sinais precoces de puberdade."
+      },
+      {
+        "letra": "E",
+        "texto": "Ganho excessivo de peso em curto período de tempo."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116631,
+    "tags": [],
+    "enunciado": "Atualmente estima-se que existam seis milhões de Testemunhas de Jeová, o que representa 0,1% da população do planeta. Em relação ao sangue, elas acreditam que assimilar sangue no corpo, pela boca ou pelas veias, viola as leis de Deus. A esse respeito avalie as assertivas abaixo e assinale com V (verdadeiro) ou F (falso) e escolha a alternativa que contém a sequência correta. [ ] Não pode ser transfundidos o sangue total mas podem ser transfundidos em separado, o plasma, as plaquetas e o concentrado de hemácias. [ ] Os hemoderivados albumina e crioprecipitado podem ser transfundidos. [ ] Não há restrição quanto ao transplante de órgãos e tecidos, mesmo que haja nestes [ ] O transplante de medula óssea é proibido por se tratar de um tecido hematopoiético. [ ] Autotransfusão intra-operatória, preparada em circuito fechado ao sistema circulatório do paciente e sem armazenamento de sangue não é proibido. órgãos e tecidos células sanguíneas do doador.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "V, V, F, V, F"
+      },
+      {
+        "letra": "B",
+        "texto": "F, V, V, F, V"
+      },
+      {
+        "letra": "C",
+        "texto": "V, F, V, V, F"
+      },
+      {
+        "letra": "D",
+        "texto": "F, F, V, V, F"
+      },
+      {
+        "letra": "E",
+        "texto": "Nenhuma das alternativas acima está correta."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116632,
+    "tags": [],
+    "enunciado": "Um paciente de 2 anos e 3 meses de idade foi levado ao ambulatório de pediatria pela mãe, pois ela está preocupada com um “caroço” no pescoço do (cid:77)lho, que ela notou há cinco meses. Relatou que o (cid:77)lho é bastante ativo, que se alimenta bem, sempre ganhou peso, mas fala pouco e palavras difíceis de compreender. Ademais, há muito tempo apareceram alguns machucados no couro cabeludo dele, que o menino coça bastante e tem algumas crostas. Ao exame físico, constataram-se altura = 90 cm (escore z 0), peso = 12,300 kg (escore z entre 0 e -2), FC = 120 bpm, FR = 26 irpm e SatO2 = 97% em AA. No couro cabeludo, há várias lesões com crostas melicéricas e presença de linfonodo retroauricular medindo 1,5 cm, móvel, (cid:77)broelástico, indolor à palpação. Observaram-se oroscopia, dentes em bom estado, sem lesões, sem frênulo lingual, otoscopia, com membrana timpânica translúcida, sem abaulamentos ou retrações e ausculta cardíaca, BNF, RR, 2t, sem sopro. Veri(cid:77)caram-se, ainda, ausculta pulmonar, MVUD, sem RA, abdome, RHA+, depressível, sem megalias, indolor à palpação e genitália com testículos em bolsa escrotal e (cid:77)mose. Com base nesse caso clínico e nos conhecimentos médicos correlatos, julgue o item a seguir. Sempre se deve solicitar USG para descartar malignidade de linfonodos maiores de 1 cm.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Certo."
+      },
+      {
+        "letra": "B",
+        "texto": "Errado."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116633,
+    "tags": [],
+    "enunciado": "Paciente com diagnóstico de câncer de laringe é conduzido ao serviço de urgência em razão de sonolência e marcada desidratação. Após ser submetido à sondagem vesical de demora, para monitorização do débito urinário, foi observada franca poliúria. Dentre os exames admissionais, notava-se cálcio total de 16 mg/dl. Considerando a hipercalcemia presente no quadro, a mais provável etiopatogenia desta e da poliúria e o tratamento inicial pertinente ao caso, são, respectivamente,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "elevação da 25-OH-vitamina D, diabetes insipidus central e furosemida."
+      },
+      {
+        "letra": "B",
+        "texto": "produção de PTHrp, diabetes insipidus nefrogênico e hidratação."
+      },
+      {
+        "letra": "C",
+        "texto": "lesões osteolíticas, síndrome da secreção inapropriada de ADH e hidroclorotiazida."
+      },
+      {
+        "letra": "D",
+        "texto": "produção ectópica de PTH, nefrocalcinose e hidratação."
+      },
+      {
+        "letra": "E",
+        "texto": "síndrome de lise tumoral, síndrome cerebral perdedora de cálcio e hidroclorotiazida."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116634,
+    "tags": [],
+    "enunciado": "Homem, 66 anos, sem antecedentes patológicos, apresenta confusão mental, obstipação intestinal e alteração comportamental há 15 dias. Exames laboratoriais: cálcio sérico = 14,8 mg/dL e PTH (paratormônio molécula intacta) = indetectável. O exame neurológico não revela dé(cid:77)cits motores, mas o paciente apresenta-se sonolentoe desorientado no tempo e no espaço. Foi iniciada hidratação parenteral vigorosa e administrada dose apropriada de calcitonina. A dosagem de cálcio foi repetida poucas horas depois e permanecia inalterada. Assinale a alternativa que apresenta o diagnóstico etiológico mais provável e a conduta correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hipercalcemia da malignidade; manter administração de calcitonina."
+      },
+      {
+        "letra": "B",
+        "texto": "Hipercalcemia da malignidade; iniciar ácido zoledrônico."
+      },
+      {
+        "letra": "C",
+        "texto": "Hiperparatireoidismo primário; iniciar pamidronato."
+      },
+      {
+        "letra": "D",
+        "texto": "Hiperparatireoidismo primário; iniciar denosumabe."
+      },
+      {
+        "letra": "E",
+        "texto": "Hiperparatireoidismo secundário; repetir calcitonina a cada 12 horas por pelo menos 1 semana. 4000165225"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116635,
+    "tags": [],
+    "enunciado": "Antes do início do tratamento antineoplásico com utilização da radioterapia, sendo adequado o item:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não aumenta o risco de insuficiência cardíaca quando concomitante com as antraciclinas, de lesão do pericárdio (pericardite constritiva) e de doença arterial coronariana."
+      },
+      {
+        "letra": "B",
+        "texto": "Reduz o risco de insuficiência cardíaca quando concomitante com as antraciclinas, de lesão do pericárdio (pericardite constritiva) e de doença arterial coronariana."
+      },
+      {
+        "letra": "C",
+        "texto": "Aumenta o risco de insuficiência cardíaca quando concomitante com as antraciclinas, de lesão do pericárdio (pericardite constritiva) e não de doença arterial coronariana."
+      },
+      {
+        "letra": "D",
+        "texto": "Aumenta o risco de insuficiência cardíaca quando concomitante com as antraciclinas, de lesão do pericárdio (pericardite constritiva) e de doença arterial coronariana. 4000174229"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116636,
+    "tags": [],
+    "enunciado": "Antes do início do tratamento antineoplásico é fundamental acessar o risco de cardiotoxicidade - CT, levando em consideração o item correto:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Risco inespecífico da droga utilizada na quimioterapia, pois algumas afetam a função cardíaca como antraciclinas e trastuzumabe."
+      },
+      {
+        "letra": "B",
+        "texto": "Risco específico da droga utilizada na quimioterapia, pois algumas afetam a função cardíaca como antraciclinas e não do trastuzumabe."
+      },
+      {
+        "letra": "C",
+        "texto": "Risco específico da droga utilizada na quimioterapia, pois algumas não afetam a função cardíaca como antraciclinas e trastuzumabe."
+      },
+      {
+        "letra": "D",
+        "texto": "Risco específico da droga utilizada na quimioterapia, pois algumas afetam a função cardíaca como antraciclinas e trastuzumabe. 4000173381"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116637,
+    "tags": [],
+    "enunciado": "Sobre a hipercalcemia humoral maligna, uma frequente síndrome paraneoplásica, é CORRETO afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Comum nos tumores de pulmão, pele, esôfago, mama, mieloma múltiplo, linfoma, trato genitourinário e tumores de cabeça e de pescoço;"
+      },
+      {
+        "letra": "B",
+        "texto": "O tratamento para esta síndrome paraneoplásica baseia-se na redução dos níveis de cálcio utilizando-se em todos os pacientes: fósforo oral, hidratação com salina, bisfosfonatos, diuréticos de alça e corticóides;"
+      },
+      {
+        "letra": "C",
+        "texto": "A hipercalcemia humoral maligna só ocorre pela produção do peptídeo relacionado ao paratormônio, ao contrário da hipercalcemia pelas metástases ósseas, encontrada em tumores como pulmão, mama e próstata;"
+      },
+      {
+        "letra": "D",
+        "texto": "A hipercalcemia humoral maligna pode se manifestar antes do conhecimento da condição maligna subjacente e gerar sintomas com níveis elevados (abaixo de 12 mg/dl);"
+      },
+      {
+        "letra": "E",
+        "texto": "A hipercalemia humoral maligna será corrigida imediatamente com o tratamento da doença de base;"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116638,
+    "tags": [],
+    "enunciado": "Mulher de 35 anos, com quadro de fraqueza progressiva, dispneia aos esforços, gengivorragia e epistaxe há 15 dias. Há 1 dia, iniciou febre de 38,8 °C, sem outros sintomas. Ao exame físico, encontrava-se em regular estado geral, descorada, desidratada, PA: 70 x 32 mmHg, frequência cardíaca 130 bpm, frequência respiratória 30 ipm, abdome sem massas palpáveis. Exames complementares: hemograma: hemoglobina: 4,8 g/dL (referência: 12-16); volume corpuscular médio: 88 fL (referência: 80-100); leucócitos: 260000/mm³ (referência: 4000-10000), com 85% com características de blastos. plaquetas: 7000/mm3 (referência: 150000-400000). Qual a proposta terapêutica imediata?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Transfusão de concentrados de hemácias e plaquetas irradiadas e filtradas, cefepime, vancomicina, soro fisiológico 30 mL/kg antitérmico e alopurinol."
+      },
+      {
+        "letra": "B",
+        "texto": "Transfusão de concentrados de hemácias irradiadas e filtradas, cefepime, soro fisiológico 30 mL/kg antitérmico."
+      },
+      {
+        "letra": "C",
+        "texto": "Transfusão de concentrados de plaquetas irradiadas e filtradas, piperacilina/tazobactan, vancomicina, noradrenalina, antitérmico e alopurinol."
+      },
+      {
+        "letra": "D",
+        "texto": "Transfusão de concentrados de hemácias e plaquetas irradiadas e filtradas, piperacilina/tazobactan, vancomicina, noradrenalina, antitérmico."
+      },
+      {
+        "letra": "E",
+        "texto": "Transfusão de concentrados de plaquetas irradiadas e filtradas, cefepime, vancomicina, soro fisiológico 30 mL/kg antitérmico e alopurinol."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116639,
+    "tags": [],
+    "enunciado": "Homem, 22 anos, com LLA-B comum, fez quimioterapia de indução. Ao término obteve remissão completa sem doença residual mínima detectável por citometria de (cid:80)uxo. Que prevenção e monitoramento devem ser realizados durante a terapia de indução?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Indução em regime hospitalar até recuperação dos neutrófilos"
+      },
+      {
+        "letra": "B",
+        "texto": "Alopurinol nos primeiros 10 dias para prevenção de hiperuricemia"
+      },
+      {
+        "letra": "C",
+        "texto": "Profilaxia com aciclovir, sulfametoxazol-trimetoprim e anti-fúngica"
+      },
+      {
+        "letra": "D",
+        "texto": "Todas as anteriores"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116640,
+    "tags": [],
+    "enunciado": "Paciente, masculino, 22 anos, sem comorbidades, com diagnóstico de Linfoma de Burkkit, tem indicação de iniciar o tratamento quimioterápico de indução. Não se constitui medida de prevenção a possíveis complicações esperadas que o tratamento oncológico possa gerar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Suspensão de terapia com cálcio"
+      },
+      {
+        "letra": "B",
+        "texto": "Alcalinização da urina para um pH acima de 7,0, mediante administração de bicarbonato de sódio"
+      },
+      {
+        "letra": "C",
+        "texto": "Administração de alopurinol, 300 miligramas por metro quadrado ao dia"
+      },
+      {
+        "letra": "D",
+        "texto": "Administração de hidratação venosa em quantidade mínima de três litros por metro quadrado ao dia"
+      },
+      {
+        "letra": "E",
+        "texto": "Hemodiálise profilática previamente ao início da quimioterapia"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 116641,
+    "tags": [],
+    "enunciado": "A fadiga relacionada ao câncer (FRC) é um dos sintomas mais comuns entre os pacientes oncológicos com grande incidência em consultas de emergência clínica. Em se tratando do tratamento da FRC, tem-se como mais apropriado:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Em se tratando da falha terapêutica com dexametasona, lança-se mão do medicamento metilfenidato na dose de 20miligrama/dia."
+      },
+      {
+        "letra": "B",
+        "texto": "A correção dos índices hemantimétricos não constitui fator contribuinte ao tratamento da FRC."
+      },
+      {
+        "letra": "C",
+        "texto": "O uso contínuo de Dexametasona é padrão ouro no tratamento farmacológico da FRC."
+      },
+      {
+        "letra": "D",
+        "texto": "O tratamento não farmacológico recomenda a prática de atividade física regular e contínua, sempre que possível aliada a alguma forma de terapia cognitiva comportamental."
+      },
+      {
+        "letra": "E",
+        "texto": "O tratamento de primeira escolha para FRC é uso de pó de guaraná. 4000151779"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116642,
+    "tags": [],
+    "enunciado": "Paciente de 6 anos de idade, sexo masculino, encaminhado a Emergência Pediátrica do Hospital da Criança por história de febre de no máximo 38°C, 1 a 2 episódios ao dia, há cerca de 15 dias, associado a hematomas em todo o corpo, não relacionados a trauma. Refere também perda ponderal de cerca de 6kg neste período. Ao exame físico REG. hipocorado 3+/4+, acianótico, afebril, anictérico. Ausculta pulmonar: MV + bilateralmente, sem RA, FR: 30ipm, sem sinais de desconforto respiratório. Aparelho cardiovascular: BNF. RCR 2T, sopro sistólico 2+/6+. FC: 140 bpm, PA: 100 x 60 mmHg. Abdome: globoso, indolor a palpação super(cid:77)cial, fígado a 4cm RCD e baço a 3cm RCE. Na investigação inicial, foram coletados exames laboratoriais com hemograma com as seguintes alterações: Hb: 6,5 Ht: 22% Leucócitos: 385 mil, sem diferencial Plaquetas: 40 mil. O paciente apresenta alterações laboratoriais que a caracterizam como alto risco de lise tumoral. Esta emergência oncológica caracteriza-se laboratorialmente por:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hipercalemia, Hiperfosfatemia, Hipocalcemia e Hiperuricemia."
+      },
+      {
+        "letra": "B",
+        "texto": "Hipercalemia, Hiperfosfatemia. Hipercalcemia e Hiperuricemia."
+      },
+      {
+        "letra": "C",
+        "texto": "Hipercalemia, Hipocalcemia, Hiperfosfatemia e Redução dos níveis da enzima desidrogenase lática (DHL)."
+      },
+      {
+        "letra": "D",
+        "texto": "Hipercalemia, Hipofosfatemia, Hipercalcemia e Aumento dos níveis da enzima desidrogenase lática (DHL)."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116643,
+    "tags": [],
+    "enunciado": "Paciente de 28 anos, masculino, admitido com história de perda ponderal, sudorese noturna e febre intermitente. Permaneceu internado na Enfermaria de Ensino até o diagnóstico de doença linfoproliferativa. Enquanto aguardava o resultado da imunofenotipagem, foi transferido para a Hematologia, ocasião em que foi iniciado corticosteroides. Evoluiu com edema de membros inferiores bilateralmente e oligúria. Assinale a alternativa que compreende o melhor conjunto de exames para a elucidação diagnóstica do caso.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Exame de Urina, fósforo, creatinina, potássio, cálcio, ácido úrico e desidrogenase lática."
+      },
+      {
+        "letra": "B",
+        "texto": "Exame de Urina, hemograma, creatinina, sódio, dímero D, CPK e doppler de membros inferiores."
+      },
+      {
+        "letra": "C",
+        "texto": "Exame de Urina, creatinina, sódio, potássio, peptídeo natriurético atrial, eletrocardiograma e ecocardiograma."
+      },
+      {
+        "letra": "D",
+        "texto": "Exame de Urina, sorologia para HIV, proteínas totais e frações, potássio, bilirrubina indireta, creatinina e hemograma."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116644,
+    "tags": [],
+    "enunciado": "Os quimioterápicos atuam interferindo nos processos básicos da divisão celular e a toxicidade associada a essa terapia é decorrente desse mecanismo de ação. Quanto aos efeitos colaterais da quimioterapia, são efeitos colaterais gastrintestinais mais comuns dos quimioterápicos:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Diarreia."
+      },
+      {
+        "letra": "B",
+        "texto": "Náuseas e vômitos."
+      },
+      {
+        "letra": "C",
+        "texto": "Mucosite."
+      },
+      {
+        "letra": "D",
+        "texto": "Neutropenia."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116645,
+    "tags": [],
+    "enunciado": "Paciente de 1 ano de idade, sexo masculino, foi encaminhado para a emergência com suspeita diagnóstica de leucemia aguda. Ao exame físico apresenta-se: descorado (2+/4+), eupneico, acianótico, ausculta pulmonar sem particularidades, raras equimoses em membros inferiores e presença de hepatoesplenomegalia. Hemograma: leucócitos= 320.000/mm3, hemoglobina= 8g/dL, contagem de plaquetas= 50.000/mm3. Qual a conduta inicial recomendada para essa criança?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Prescrever concentrado de hemácias e de plaquetas e iniciar leucoaférese."
+      },
+      {
+        "letra": "B",
+        "texto": "Prescrever concentrado de hemácias e de paquetas."
+      },
+      {
+        "letra": "C",
+        "texto": "Prescrever concentrado de plaquetas e iniciar leucoaférese."
+      },
+      {
+        "letra": "D",
+        "texto": "Prescrever hidratação EV (3L/m2/dia e agente hipouricemiante."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116646,
+    "tags": [],
+    "enunciado": "Em relação à abordagem terapêutica da hiperleucocitose, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A utilização de alopurinol é recomendada em todos os pacientes."
+      },
+      {
+        "letra": "B",
+        "texto": "A alcalinização é recomendada para manter o pH urinário entre 7,5 e 8,0."
+      },
+      {
+        "letra": "C",
+        "texto": "A hiper-hidratação está recomendada, inclusive melhorando os sintomas pulmonares."
+      },
+      {
+        "letra": "D",
+        "texto": "O aumento do fluxo urinário foi à estratégia mais efetiva para prevenção da uropatia obstrutiva induzida apelo urato-oxidase recombinante."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116647,
+    "tags": [],
+    "enunciado": "São fatores de risco para Síndrome da Lise Tumoral todos os abaixo, exceto:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "anemia."
+      },
+      {
+        "letra": "B",
+        "texto": "potássio maior ou igual a 6mEq/L."
+      },
+      {
+        "letra": "C",
+        "texto": "baixa taxa de filtração glomerular."
+      },
+      {
+        "letra": "D",
+        "texto": "ácido úrico e DHL pré tratamento elevados."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116648,
+    "tags": [],
+    "enunciado": "Paulo, cinco anos de idade, com primo diagnóstico de leucemia linfoide aguda, iniciou febre (39,2° () associada a queixa de dor abdominal, cerca de 15 dias após fase de indução de quimioterapia. Ao exame físico, apresenta-se em bom estado geral, hidratado, hipocorado leve, pulsos cheios. FC:92bpm, PA: 98x70mmHg, FR:22irpm, sem esforço, sons pulmonares (cid:77)siológicos, sem lesões de pele. Exames laboratoriais: Hb: 8g/dL; Htc:24%; Plaquetas: 70.000/mm³; Leucócitos global: 280/mm³ (segmentados: 80/mm3; eosinó(cid:77)los: 50/mm3; monócitos:50/mm3; linfócitos:100/mm³); Proteína C Reativa:200mg/L; Hemocultura em andamento. De acordo com este caso clínico, assinale a alternativa que apresenta a antibioticoterapia de escolha para o tratamento empírico:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ampicilina e amicacina"
+      },
+      {
+        "letra": "B",
+        "texto": "Cefepime"
+      },
+      {
+        "letra": "C",
+        "texto": "Cefepime e vancomicina"
+      },
+      {
+        "letra": "D",
+        "texto": "Ciprofloxacino"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116649,
+    "tags": [],
+    "enunciado": "Paciente, masculino, 22 anos, sem comorbidades, com diagnóstico de Linfoma de Burkkit, tem indicação de iniciar o tratamento quimioterápico de indução. Não se constitui medida de prevenção a possíveis complicações esperadas que o tratamento oncológico possa gerar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Suspensão de terapia com cálcio"
+      },
+      {
+        "letra": "B",
+        "texto": "Alcalinização da urina para um pH acima de 7,0, mediante administração de bicarbonato de sódio"
+      },
+      {
+        "letra": "C",
+        "texto": "Administração de alopurinol, 300 miligramas por metro quadrado ao dia"
+      },
+      {
+        "letra": "D",
+        "texto": "Administração de hidratação venosa em quantidade mínima de três litros por metro quadrado ao dia"
+      },
+      {
+        "letra": "E",
+        "texto": "Hemodiálise profilática previamente ao início da quimioterapia"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 116650,
+    "tags": [],
+    "enunciado": "A fadiga relacionada ao câncer (FRC) é um dos sintomas mais comuns entre os pacientes oncológicos com grande incidência em consultas de emergência clínica. Em se tratando do tratamento da FRC, tem-se como mais apropriado:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Em se tratando da falha terapêutica com dexametasona, lança-se mão do medicamento metilfenidato na dose de 20miligrama/dia."
+      },
+      {
+        "letra": "B",
+        "texto": "A correção dos índices hemantimétricos não constitui fator contribuinte ao tratamento da FRC."
+      },
+      {
+        "letra": "C",
+        "texto": "O uso contínuo de Dexametasona é padrão ouro no tratamento farmacológico da FRC."
+      },
+      {
+        "letra": "D",
+        "texto": "O tratamento não farmacológico recomenda a prática de atividade física regular e contínua, sempre que possível aliada a alguma forma de terapia cognitiva comportamental."
+      },
+      {
+        "letra": "E",
+        "texto": "O tratamento de primeira escolha para FRC é uso de pó de guaraná. 4000145370"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116651,
+    "tags": [],
+    "enunciado": "O envolvimento testicular apresenta-se como aumento indolor do testículo, usualmente, unilateral, sendo rara no momento do diagnóstico da LLA, porém até 25% dos meninos podem ter doença oculta nesta localização. Os rins, geralmente, estão aumentados, no diagnóstico da LLA, porém sem perda de sua função, exceto se houver nefropatia por:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "hipocalemia."
+      },
+      {
+        "letra": "B",
+        "texto": "ácido úrico."
+      },
+      {
+        "letra": "C",
+        "texto": "cetose."
+      },
+      {
+        "letra": "D",
+        "texto": "hiponatremia."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116652,
+    "tags": [],
+    "enunciado": "Qual componente do sistema cardiovascular pode ser afetado pelo tratamento do câncer?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Miocárdio."
+      },
+      {
+        "letra": "B",
+        "texto": "Artérias coronárias."
+      },
+      {
+        "letra": "C",
+        "texto": "Sistema de condução."
+      },
+      {
+        "letra": "D",
+        "texto": "Pericárdio."
+      },
+      {
+        "letra": "E",
+        "texto": "Todas opções estão corretas. 4000144095"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 116653,
+    "tags": [],
+    "enunciado": "GSM, 15 anos, após iniciar quimioterapia para tratamento de leucemia linfoide aguda, evolui com redução de volume urinário e elevação das escórias nitrogenadas, caracterizando injúria renal aguda.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "etiologia do acometimento renal e os seus achados característicos são, respectivamente,"
+      },
+      {
+        "letra": "A",
+        "texto": "rabdomiólise; hipercalcemia, hipouricemia, hiperfosfatemia e hipercalemia."
+      },
+      {
+        "letra": "B",
+        "texto": "síndrome de lise tumoral; hipocalcemia, hiperuricemia, hiperfosfatemia e hipercalemia."
+      },
+      {
+        "letra": "C",
+        "texto": "rabdomiólise; hipocalcemia, hiperuricemia, hipofosfatemia e hipocalemia."
+      },
+      {
+        "letra": "D",
+        "texto": "síndrome de lise tumoral; hipercalcemia, hipouricemia, hipofosfatemia e hipocalemia."
+      },
+      {
+        "letra": "E",
+        "texto": "rabdomiólise; hipocalcemia, hiperuricemia, hiperfosfatemia e hipocalemia."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116654,
+    "tags": [],
+    "enunciado": "Paciente 60 anos, tabagista e etilista de longa data, admitido para internação hospitalar devido a disfagia, perda de 15 kg nos últimos três meses, espessamento das regiões palmoplantares, sendo submetido a endoscopia digestiva alta que evidenciou lesão tumoral no esôfago médio. O paciente, evidentemente desidratado, apresentava-se poliúrico, o que levou a equipe médica a considerar a ocorrência de uma complicação associada a neoplasia esofágica. A justificativa da poliúria apresentada no caso é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "síndrome de secreção inapropriada do ADH, ocasionando hipernatremia relacionada a adenocarcinoma de esôfago."
+      },
+      {
+        "letra": "B",
+        "texto": "diabetes insipidus nefrogênico causado por hipercalcemia pela produção de PTHrp, relacionada a câncer escamoso de esôfago."
+      },
+      {
+        "letra": "C",
+        "texto": "síndrome de secreção inapropriada do ADH, ocasionando hipernatremia relacionada a câncer escamoso de esôfago."
+      },
+      {
+        "letra": "D",
+        "texto": "diabetes insipidus central causado por hipocalcemia pela produção de PTH, relacionada a adenocarcinoma de esôfago."
+      },
+      {
+        "letra": "E",
+        "texto": "diabetes insipidus nefrogênico causado por hipocalcemia pela produção de PTHrp, relacionada a câncer escamoso de esôfago."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116655,
+    "tags": [],
+    "enunciado": "Considerando as alterações neurológicas da quimioterapia que se referem ao sistema nervoso central, é INCORRETO afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Insônia."
+      },
+      {
+        "letra": "B",
+        "texto": "Parestesias."
+      },
+      {
+        "letra": "C",
+        "texto": "Dificuldade de concentração."
+      },
+      {
+        "letra": "D",
+        "texto": "Alteração da memória. 4000141365"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116656,
+    "tags": [],
+    "enunciado": "A síndrome de lise tumoral é uma emergência oncológica, que deve ser identificada e tratada o quanto antes. São alterações laboratoriais e medidas que fazem parte do tratamento dessa síndrome, respectivamente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hiperuricemia, hipercalemia, hipofosfatemia e hipocalcemia − Diureticoterapia e alopurinol."
+      },
+      {
+        "letra": "B",
+        "texto": "Hiperuricemia, hipocalemia, hiperfosfatemia e hipocalcemia − Hidratação venosa e corticoide."
+      },
+      {
+        "letra": "C",
+        "texto": "Hiperuricemia, hipercalemia, hiperfosfatemia e hipercalcemia − Hidratação venosa e alopurinol."
+      },
+      {
+        "letra": "D",
+        "texto": "Hiperuricemia, hipercalemia, hiperfosfatemia e hipocalcemia − Hidratação venosa e alopurinol."
+      },
+      {
+        "letra": "E",
+        "texto": "Hiperuricemia, hipocalemia, hipofosfatemia e hipercalcemia − Diureticoterapia e corticoide."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116657,
+    "tags": [],
+    "enunciado": "A Sindrome de lise tumoral é uma emergência oncológica muito comum em tratamento de tumores hematológicos. Os principais eletrólitos que devem ser avaliados em um contexto de Sd. lise tumoral são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sódio, ácido úrico, potássio."
+      },
+      {
+        "letra": "B",
+        "texto": "Sódio, potássio, magnésio."
+      },
+      {
+        "letra": "C",
+        "texto": "Magnésio, fósforo, sódio."
+      },
+      {
+        "letra": "D",
+        "texto": "Potássio, ácido úrico, cálcio."
+      },
+      {
+        "letra": "E",
+        "texto": "Potássio, cálcio, magnésio."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116658,
+    "tags": [],
+    "enunciado": "Homem de 25 anos, sabidamente portador de Leucemia linfoblástica Aguda, em atual manejo sistêmico de tratamento com uso de quimioterápicos. Informa última sessão realizada há cerca de sete dias. Admitido para avaliação com relato de câimbras em membros inferiores, náuseas, vômitos e diarreia de início recente. Nega febre, manifestações dermatológicas ou outras manifestações sistêmicas. Exames laboratoriais: creatinina: 3,7 mg/dL, ureia 200mg/dL, Sódio: 155meq/L, Potassio: 6,0meq/L, cloretos: 125meq/L, leucócitos totais: 100.000 cels /mm3 (90% blastos 5% neutró(cid:77)los, 3% macrófagos) plaquetas: 100.000 mm3 Hb:9,0g/dL Ht:28% fósforo: 7 mg/L (VR: até 4,8mg/dL) cálcio iônico: 1,0 mg/dL (valor de referência: (até 1,2mg/dL) ácido úrico: 12 mg/dL TGO:45 Ui/L TGP:50 Ui/L FA:200 Ui/L GGT: 280 Ui/L HCO3 ( venoso): 18meq/L. Diante da melhor hipótese diagnóstica assinale a conduta clínica inicial mais apropriada:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Monitoramento contínuo, hidratação venosa, correção dos distúrbios hidroeletrolíticos, uso de rasburicase."
+      },
+      {
+        "letra": "B",
+        "texto": "Monitoramento contínuo, hidratação venosa e alcalinização urinária."
+      },
+      {
+        "letra": "C",
+        "texto": "Monitoramento contínuo e início imediato de terapia renal substitutiva."
+      },
+      {
+        "letra": "D",
+        "texto": "Monitoramento contínuo, coleta de culturas e início de protocolo para sepse em imunossuprimido."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116659,
+    "tags": [],
+    "enunciado": "Tratamento da leucemia linfoide aguda LLA Paciente de 63 anos de idade, com 1 mês de evolução de fadiga e perda ponderal dá entrada no pronto socorro por 3 dias de evolução de cefaleia de forte intensidade, holocraniana, contínua, há 1 dia evoluiu com confusão mental e dispnéia. Realizou tomogra(cid:77)a de crânio que não demonstrou alterações ao método. Hemograma evidenciou 192.000 leucócitos/mm³ com predomínio de blastos. Considerando o diagnóstico mais provável, analise as assertivas: I. Para avaliar a oxigenação neste paciente o método mais confiável é a gasometria arterial. II. A radiografia de tórax geralmente mostra infiltrados intersticiais ou alveolares. III. Hidroxiuréia pode ser iniciada para reduzir rapidamente o número de blastos. IV. Apesar da alta contagem celular estes pacientes não desenvolvem síndrome de lise tumoral. Estão corretas as assertivas:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e II apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "I e III apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "II e III apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "II e IV apenas."
+      },
+      {
+        "letra": "E",
+        "texto": "III e IV apenas."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 116660,
+    "tags": [],
+    "enunciado": "Homem de 68 anos é admitido na sala de urgência com quadro de pico febril isolado, astenia, mialgias, vômitos e diarreia aquosa com uma semana de evolução. Diagnóstico há 3 meses de leucemia mieloide crônica, em fase blástica, com necessidade de esplenectomia e posterior citoredução e(cid:77)caz. Medicado com imatinib 800mg ao dia. Ao exame físico, apresentava-se colaborativo, frequência respiratória 22 incursões/minuto, anictérico, temperatura 37ºC, frequência cardíaca 112 batimentos/minuto e pressão arterial 130 x 80mmHg. Sem outras alterações relevantes. Exames complementares mostrando leucocitose (32.5000/mm³ ), anemia microcítica hipocrômica (hemoglobina 11,0 g/dL) com pesquisa de esquizócitos negativa, trombocitopenia (130.000 /mm³ ), creatinina de 1,5 mg/dL (basal de 0.69 mg/dL), potássio 6,5 mg/dl (VR: 3,5-5,0); eletrocardiograma sem alterações, cálcio 7,7 mg/dL (VR: 8,5-10,2), elevação de LDH sérica de 7130 U/L, proteína C reactiva de 0,5 mg/dL (VR < 0,5), (VR Qual o diagnóstico mais provável e tratamento inicial recomendado para o paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Síndrome de lise tumoral – iniciar hidratação venosa e rasburicase ou alopurinol."
+      },
+      {
+        "letra": "B",
+        "texto": "Síndrome hemolítico-urêmica – iniciar plasmaférese imediatamente."
+      },
+      {
+        "letra": "C",
+        "texto": "Sepse por infecção bacteriana – iniciar ciprofloxacina endovenoso."
+      },
+      {
+        "letra": "D",
+        "texto": "Púrpura trombocitopênica trombótica – iniciar rituximab."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116661,
+    "tags": [],
+    "enunciado": "Quadro Clínico do mieloma múltiplo MM Paciente, 71 anos, masculino, deu entrada no PA com queda do quadro geral, desidratação, aumento das escórias nitrogenadas, anemia normocítica e normocrômica. Raio X do tórax evidenciou múltiplas lesões líticas nos arcos costais. Aventou-se a hipótese de mieloma múltiplo. Qual o principal distúrbio eletrolítico encontrado nessa patologia?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hipernatremia"
+      },
+      {
+        "letra": "B",
+        "texto": "Hipocalemia"
+      },
+      {
+        "letra": "C",
+        "texto": "Hipercalemia"
+      },
+      {
+        "letra": "D",
+        "texto": "Hipocalcemia"
+      },
+      {
+        "letra": "E",
+        "texto": "Hipercalcemia"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 116662,
+    "tags": [],
+    "enunciado": "Homem de 25 anos, ao ser submetido a quimioterapia para tratamento de linfoma de Burkitt, desenvolveu quadro típico de síndrome de lise tumoral, caracterizado por náusea, letargia, convulsão,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hipocalemia, hipofosfatemia e hipercalcemia."
+      },
+      {
+        "letra": "B",
+        "texto": "Hipercalemia, hipofosfatemia e hipocalcemia."
+      },
+      {
+        "letra": "C",
+        "texto": "Hipercalemia, hiperfosfatemia e hipocalcemia."
+      },
+      {
+        "letra": "D",
+        "texto": "Hipercalemia, hipofosfatemia e hipercalcemia."
+      },
+      {
+        "letra": "E",
+        "texto": "Hipocalemia, hiperfosfatemia e hipocalcemia."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 116663,
+    "tags": [],
+    "enunciado": "O sucesso do tratamento das doenças oncológicas depende não somente da terapêutica especí(cid:77)ca, mas também do diagnóstico precoce e do adequado atendimento das situações de emergência/urgência. Em relação às emergências/urgências oncológicas, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A mais comum causa primária da síndrome da veia cava superior e síndrome mediastinal superior na faixa etária pediátrica são as infecciosas, principalmente quando houver efusão pleural e pericárdica."
+      },
+      {
+        "letra": "B",
+        "texto": "A hiperleucocitose é definida pela presença de leucócitos no sangue periférico em número superior a 100.000/mm3. Está prontamente indicada nesses pacientes a transfusão de glóbulos vermelhos para corrigir a anemia."
+      },
+      {
+        "letra": "C",
+        "texto": "Na síndrome de veia cava superior secundária a doença neoplásica está indicada, com urgência, a sedação ou anestesia geral para biópsia da massa tumoral em mediastino."
+      },
+      {
+        "letra": "D",
+        "texto": "A síndrome de lise tumoral consiste de anormalidades metabólicas resultantes da morte das células tumorais e da liberação de seu conteúdo na circulação. A tríade clássica inclui hiperuricemia, hiperfosfatemia e hipercalemia."
+      },
+      {
+        "letra": "E",
+        "texto": "Na síndrome de lise tumoral, quando as intervenções medicamentosas falham para correção dos distúrbios metabólicos, ou a oligúria persiste, está indicada preferencialmente a diálise peritoneal."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116664,
+    "tags": [],
+    "enunciado": "Síndrome de lise tumoral SLT Paciente de 23 anos com diagnóstico de linfoma de Burkitt com rápido crescimento de massas retroperitoneais iniciará quimioterapia. Prevendo uma complicação potencialmente grave, que incide nos primeiros dias da terapia, deve-se prescrever, a partir do dia anterior à realização do procedimento:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "hidratação e alopurinol"
+      },
+      {
+        "letra": "B",
+        "texto": "antieméticos e opiáceos"
+      },
+      {
+        "letra": "C",
+        "texto": "vancomicina e ceftazidima"
+      },
+      {
+        "letra": "D",
+        "texto": "voriconazol e vancomicina"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116665,
+    "tags": [],
+    "enunciado": "Mulher, 48 anos, com recidiva de leucemia mieloide aguda, interna para continuidade do tratamento. Na segunda semana após iniciada a quimioterapia, evoluiu com neutropenia (leucócitos totais 50) associada à febre. As condutas a serem tomadas são: I - Coleta de hemoculturas e início de terapia empírica para gram-negativos, conforme protocolo institucional. II - Coleta de hemoculturas e aguardar o resultado para início da antibioticoterapia. III - Em caso de persistência de febre e neutropenia após 72 horas do primeiro evento, coletar hemoculturas e associar cobertura para gram-positivo. IV - Infecções por fungos são raras nesses casos e não devem ser consideradas. Quais estão corretas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas I e III."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas II e III."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas II e IV."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas I, III e IV."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116666,
+    "tags": [],
+    "enunciado": "A Síndrome de Lise Tumoral (SLT), decorrente da destruição maciça de células neoplásicas e com elevado potencial de mortalidade, é uma complicação temí vel em pacientes oncológicos. Sobre o diagnóstico e manejo da SLT, considere as seguintes afirmações: I - Síndrome de Lise Tumoral Laboratorial ocorre quando duas ou mais das seguintes anormalidades surgem espontaneamente ou após início de terapia oncológic a: hiperuricemia, hipercalemia, hiperfosfatemia e hipercalcemia. II - Síndrome de Lise Tumoral Clínica acontece quando a Síndrome de Lise Tumoral Laboratorial vem acompanhada de alguma complicação: elevação da creatinina, convulsões, arritmia cardíaca ou parada cardiorrespiratória. III - Rasburicase e hidratação com fluidos intravenosos são recomendados como tratamento de primeira linha para pacientes com alto risco para Síndrome de Lise Tumoral Clínica. IV - A alcalinização urinária com bicarbonato de sódio aumenta a solubilidade do fosfato de cálcio nos túbulos renais, devendo ser indicada em pacientes com insuficiência renal, decorrente da Síndrome de Lise Tumoral. Estão corretas as afirmativas",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e IV."
+      },
+      {
+        "letra": "B",
+        "texto": "II e III."
+      },
+      {
+        "letra": "C",
+        "texto": "I e II."
+      },
+      {
+        "letra": "D",
+        "texto": "III e IV."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116667,
+    "tags": [],
+    "enunciado": "Os marcadores tumorais são frequentemente utilizados como indicadores de malignidade. Embora possam ser auxiliares, geralmente, não possuem especi(cid:77)cidade su(cid:77)ciente para o diagnóstico de(cid:77)nitivo de câncer. Suas principais aplicabilidades na prática clínica consistem na avaliação da resposta terapêutica e detecção precoce de recidivas. Nesse contexto, a associação entre o marcador tumoral e o tipo de neoplasia é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "antígeno carcinoembrionário – hepatocarcinoma."
+      },
+      {
+        "letra": "B",
+        "texto": "calcitonina – câncer medular de tireóide."
+      },
+      {
+        "letra": "C",
+        "texto": "CA 15.3 – carcinoma de bexiga."
+      },
+      {
+        "letra": "D",
+        "texto": "cromogranina A – tumor de células germinativas."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116668,
+    "tags": [],
+    "enunciado": "Sobre as neoplasias hematológicas, marque a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O termo \"\"Leucemia\"\" designa uma neoplasia hematológica caracterizada pela presença de células malignas exclusivamente na medula óssea."
+      },
+      {
+        "letra": "B",
+        "texto": "O termo \"\"Linfoma\"\" refere-se a uma proliferação localizada de células linfoides formando uma massa tecidual sólida."
+      },
+      {
+        "letra": "C",
+        "texto": "Células B maduras expressam em geral marcadores para CD3, CD2 e CD5, sendo que 80% delas expressam CD7."
+      },
+      {
+        "letra": "D",
+        "texto": "Células NK em geral expressão CD2, CD3 e CD7."
+      },
+      {
+        "letra": "E",
+        "texto": "Neoplasias de NK expressam altos níveis de CD20."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116669,
+    "tags": [],
+    "enunciado": "Um paciente com linfoma não Hodgkin B difuso de grandes células, com volumosos conglomerados linfonodais em mediastino e retroperitônio foi admitido para início de quimioterapia. Tendo em vista que seus níveis basais de DHL são cerca de três vezes o normal, ácido úrico 8,5 mg/dL e cálcio 6,8 mg/dl, qual das medidas abaixo NÃO estaria indicada no tratamento desse paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Rasburicase"
+      },
+      {
+        "letra": "B",
+        "texto": "Alcalinização da urina"
+      },
+      {
+        "letra": "C",
+        "texto": "Hidratação vigorosa (800 a 1000 ml/m² de superfície corporal/hora)"
+      },
+      {
+        "letra": "D",
+        "texto": "Alopurinol"
+      },
+      {
+        "letra": "E",
+        "texto": "Monitorização cardíaca por 72 horas"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116670,
+    "tags": [],
+    "enunciado": "No que se refere à síndrome hemofagocítica (ou síndrome de ativação macrofágica): I - São critérios diagnósticos: febre, esplenomegalia, citopenías afetando duas ou mais séries, hipertrigliceridemia, hipofibrinogenemia, entre outros. II - São etiologias comuns na forma secundária da doença: infecção por vírus Epstein-Barr, calazar, neoplasias hematológicas e colagenoses. III - Nível de ferritina superior a 10.000 ng/mL tem alta especi(cid:77)cidade para o diagnóstico, além de ser importante marcador de atividade da doença, resposta terapêutica e prognóstico. IV - A presença de hemofagocitose no aspirado ou biópsia de medula óssea é condição obrigatória para concluir o diagnóstico. V - Tem como característica principal a proliferação não maligna de histiócitos, com intensa atividade hemofagocítica, relacionado a defeito na citotoxicidade celular e também com o gene da perforina. São CORRETAS as assertivas:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II e IV."
+      },
+      {
+        "letra": "B",
+        "texto": "I, III, V."
+      },
+      {
+        "letra": "C",
+        "texto": "I, II, III, IV."
+      },
+      {
+        "letra": "D",
+        "texto": "I, II, III, V."
+      },
+      {
+        "letra": "E",
+        "texto": "Todas as assertivas."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116671,
+    "tags": [],
+    "enunciado": "O paciente com câncer está sob risco elevado de infecção tanto por patógenos comuns quanto oportunistas. Tem-se como VERDADEIRO nessa temática:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A Síndrome de Sweet é mais observada em pacientes com neutropenia, em especial com diagnóstico de leucemia mielocítica aguda."
+      },
+      {
+        "letra": "B",
+        "texto": "O eritema multiforme com envolvimento de mucosas (síndrome de Stevens-Johnson está associado a fármacos e detém distribuição disseminada."
+      },
+      {
+        "letra": "C",
+        "texto": "A tiflite é comum em pacientes com leucemia mielocítica crônica e leucemia linfocítica aguda, tendo como quadro clínico, febre, dor em quadrante inferior direito e diarreia não sanguinolenta."
+      },
+      {
+        "letra": "D",
+        "texto": "Infecções renais e ureterais estão associadas a massas tumorais não obstrutivas, tendo o adenovírus predileção pelos rins."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116672,
+    "tags": [],
+    "enunciado": "Consideradas grande agravo a saúde pública, as neoplasias, na atualidade, são a segunda causa morte da população. Em se tratando das emergências oncológicas, assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A síndrome da secreção inapropriada do hormônio antidiurético deve ser suspeitada nos pacientes com hiponatremia hipovolêmica, hipo osmolaridade sérica e hiperuricemia."
+      },
+      {
+        "letra": "B",
+        "texto": "A hipercalcemia maligna apresenta sintomas específicos, como a fadiga, anorexia, fraqueza e constipação."
+      },
+      {
+        "letra": "C",
+        "texto": "A hipoalbuminemia associada ao câncer pode agravar os sintomas para quaisquer níveis séricos de cálcio."
+      },
+      {
+        "letra": "D",
+        "texto": "A síndrome de lise tumoral constitui uma emergência oncológica não condicionada ao tratamento."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 116673,
+    "tags": [],
+    "enunciado": "Em qual das neoplasias abaixo o tratamento cirúrgico NÃO é a primeira opção?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Linfoma gástrico"
+      },
+      {
+        "letra": "B",
+        "texto": "Adenocarcinoma de cólon"
+      },
+      {
+        "letra": "C",
+        "texto": "Melanoma"
+      },
+      {
+        "letra": "D",
+        "texto": "Adenocarcinoma gástrico"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116674,
+    "tags": [],
+    "enunciado": "Mulher, 65, com diagnóstico de carcinoma de pulmão de pequenas células, procura a emergência com queixa de emagrecimento, dispneia e tosse seca progressiva. Ao exame físico, apresenta edema facial leve e ingurgitamento de vasos torácicos super(cid:77)ciais. Tomogra(cid:77)a demonstra nódulos pulmonares e extensas linfadenomegalias mediastinais fusionadas formando massa de, aproximadamente, 17 cm no maior diâmetro e lesões hepáticas em todos os segmentos, compatíveis com implantes secundários. Foi de(cid:77)nido início imediato de quimioterapia sistêmica com cisplatina e etoposídeo.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "partir desse momento, qual é a conduta?"
+      },
+      {
+        "letra": "A",
+        "texto": "Prescrever hidratação, rasburicase e alcalinização da urina."
+      },
+      {
+        "letra": "B",
+        "texto": "Prescrever hidratação e espironolactona para aumentar o débito urinário."
+      },
+      {
+        "letra": "C",
+        "texto": "Monitorar o débito urinário para indicar o início da hiper-hidratação e prescrever rasburicase."
+      },
+      {
+        "letra": "D",
+        "texto": "Solicitar ácido úrico, fosfato, potássio, creatinina, cálcio e LDH séricos 48 horas após o início da quimioterapia."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116675,
+    "tags": [],
+    "enunciado": "No decorrer do tratamento quimioterápico de paciente portador de leucemia linfocitica aguda com alta contagem leucocitária, instala-se anuria. A conduta que deveria ter preenchido o início de tratamento, para evitar esta complicação é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hidratação restritiva, corticoterapia e dosagem sérica de ácido úrico."
+      },
+      {
+        "letra": "B",
+        "texto": "Sódio abundante, acidificação urinaria e inibidores de aldosterona."
+      },
+      {
+        "letra": "C",
+        "texto": "Sódio restritivo, diuréticos de alça e inibidores da enzima de angiotensina."
+      },
+      {
+        "letra": "D",
+        "texto": "Hidratação generosa, alcalinização urinária e inibidores de xantina oxidase."
+      },
+      {
+        "letra": "E",
+        "texto": "Hidratação generosa, diuréticos de alça e inibidores de xantina oxidase."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116676,
+    "tags": [],
+    "enunciado": "Dos tumores relacionados abaixo, qual mostra alta sensibilidade à radioterapia:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Meningioma."
+      },
+      {
+        "letra": "B",
+        "texto": "Meduloblastoma."
+      },
+      {
+        "letra": "C",
+        "texto": "Ependimoma."
+      },
+      {
+        "letra": "D",
+        "texto": "Astrocitoma."
+      },
+      {
+        "letra": "E",
+        "texto": "Glioblastoma multiforme."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 116677,
+    "tags": [],
+    "enunciado": "O efeito colateral mais freqüente provocado pelo uso de antraciclinas é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cistite hemorrágica."
+      },
+      {
+        "letra": "B",
+        "texto": "Cardiotoxicidade."
+      },
+      {
+        "letra": "C",
+        "texto": "Hepatotoxicidade."
+      },
+      {
+        "letra": "D",
+        "texto": "Fibrose pulmonar."
+      },
+      {
+        "letra": "E",
+        "texto": "Ceratite por quimioterapia."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116678,
+    "tags": [],
+    "enunciado": "O uso de tamoxifeno aumenta o risco de incidência do adenocarcinoma em todos o seguintes órgãos, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Colo."
+      },
+      {
+        "letra": "B",
+        "texto": "Reto."
+      },
+      {
+        "letra": "C",
+        "texto": "Endométrio."
+      },
+      {
+        "letra": "D",
+        "texto": "Mama."
+      },
+      {
+        "letra": "E",
+        "texto": "Colo e Reto."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116679,
+    "tags": [],
+    "enunciado": "Menina de 9 anos, com diagnóstico de leucemia, apresenta quadro de febre (39°C) de início há duas horas. O último ciclo de quimioterapia (citarabina) ocorreu há 10 dias. Ao exame físico, ela está em regular estado geral, pálida, hidratada e com lesões ulcerativas dolorosas na boca, que sangram e a impedem de comer, sem demais alterações. O hemograma evidenciou leucócitos = 1.500 (10% neutró(cid:77)los), hemoglobina = 7g/dL e plaquetas = 22.000. Nesse caso, o provável agente etiológico das lesões orais e a conduta terapêutica, respectivamente, são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Streptococcos viridans / iniciar cefepima venosa"
+      },
+      {
+        "letra": "B",
+        "texto": "Staphylococcos epidermidis / iniciar vancomicina venosa"
+      },
+      {
+        "letra": "C",
+        "texto": "Streptococcos viridans / iniciar cefepima associada à vancomicina venosas"
+      },
+      {
+        "letra": "D",
+        "texto": "Staphylococcos epidermidis / iniciar cefepima associada à vancomicina venosas"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 116680,
+    "tags": [],
+    "enunciado": "Um jovem de 25 anos com diagnóstico de Linfoma Não Hodgkin de grandes células vem em tratamento com quimioterapia. Ele procura atendimento por febre, astenia e mal-estar. Realizado hemograma, revelou neutropenia com 350 granulócitos/mm3. Foi iniciado cefepime 1g IV 8/8h. Após 5 dias, ele permanece febril e opta-se por iniciar cobertura para esta(cid:77)lococo meticilino-resistente e para aspergilus sp. Assinale a alternativa que contém respectivamente os antimicrobianos de escolha para esses agentes infeciosos.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Vancomicina e anfotericina B."
+      },
+      {
+        "letra": "B",
+        "texto": "Teicoplanina e anfotericina B."
+      },
+      {
+        "letra": "C",
+        "texto": "Vancomicina e voriconazol."
+      },
+      {
+        "letra": "D",
+        "texto": "Teicoplanina e fluconazol."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 116681,
+    "tags": [],
+    "enunciado": "Uma das terapias promissoras, e que deve diminuir a necessidade de alguns tipos de cirurgias, são as terapias com células troncos. Nos adultos a coleta de células tronco mesenquimais multipotentes pode ocorrer no (a) (s)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "adipócitos."
+      },
+      {
+        "letra": "B",
+        "texto": "mucosa intestinal."
+      },
+      {
+        "letra": "C",
+        "texto": "músculo estriado cardíaco."
+      },
+      {
+        "letra": "D",
+        "texto": "ovário."
+      },
+      {
+        "letra": "E",
+        "texto": "vesícula seminal."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116682,
+    "tags": [],
+    "enunciado": "São alterações encontradas na síndrome da lise tumoral:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hiperuricemia e hipercalcemia."
+      },
+      {
+        "letra": "B",
+        "texto": "Hipocalemia e hipocalcemia."
+      },
+      {
+        "letra": "C",
+        "texto": "Hiperuricemia e hipercalemia."
+      },
+      {
+        "letra": "D",
+        "texto": "Hiperuricemia e hipofosfatatemia."
+      },
+      {
+        "letra": "E",
+        "texto": "Hiperfosfatemia e hipouricemia."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 116683,
+    "tags": [],
+    "enunciado": "Uma senhora de 65 anos é levada ao serviço de urgência por familiares que relatam sonolência e confusão mental nos últimos 3 dias, além de dor abdominal difusa, anorexia, polidipsia e poliúria. Negam febre ou quaisquer outros sintomas. É portadora do câncer de mama com metástases ósseas. Sem outras doenças conhecidas. Ao exame físico, PA: 130x80mmHg, FC: 85bpm, FR: 16ipm, SpO2 98%. Os exames respiratório e cardiovascular estão normais. O exame do abdômen revela dor à palpação profunda do abdômen, difusamente, sem sinais de irritação peritoneal. Exames laboratoriais: glicemia 160mg/dL, Na 132mEq/L, K 3,1mEq/L, cloro 112mEq/L, cálcio total 15mg/dL (VR 8,8 a 10,3mg/dL), albumina 3,5g/dL, gasometria arterial pH 7,31, pCO2 40mmHg, pO2 89mmHg, bicarbonato 16mmol/L, cetonúria positiva. Em relação a esse caso e ao diagnóstico mais provável, assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A cetoacidose diabética é a causa mais provável."
+      },
+      {
+        "letra": "B",
+        "texto": "Os níveis séricos do Paratormônio (PTH) provavelmente estarão elevados."
+      },
+      {
+        "letra": "C",
+        "texto": "O tratamento imediato consiste em soroterapia e insulina intravenosa."
+      },
+      {
+        "letra": "D",
+        "texto": "A hipercalcemia se deve às metástases ósseas e à proteína relacionada ao PTH."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116684,
+    "tags": [],
+    "enunciado": "Jovem de 26 anos apresenta sangramento gengival, febre há 2 dias, hematúria e petéquias em membros inferiores. Hemograma: Hb = 9,6 g/dl; leucócitos = 1.900/mm³ (segmentados = 14%, linfócitos 41% e presença de 44% de células imaturas); plaquetas = 17.000/ mm³. Qual a hipótese mais provável, conduta para confirmação diagnóstica e terapia inicial?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Leucemia Mieloide Crônica (LMC), pesquisa de mutação BCR/ABL, transfusão de plaquetas."
+      },
+      {
+        "letra": "B",
+        "texto": "Púrpura trombocitopênica imunológica, pesquisa de anticorpos anti-plaquetas e corticoterapia."
+      },
+      {
+        "letra": "C",
+        "texto": "Leucemia mieloide aguda, mielograma, transfusão de plaquetas e antibioticoterapia empírica."
+      },
+      {
+        "letra": "D",
+        "texto": "Leucemia hairy cell, pesquisa de cromossomo Philadelphia e interferon gama."
+      },
+      {
+        "letra": "E",
+        "texto": "Leucemia linfoide crônica, mielograma e quimioterapia."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 116685,
+    "tags": [],
+    "enunciado": "Paciente 32 anos iniciou quimioterapia para tratamento de leucemia linfoblástica aguda. Após dois dias da primeira dose foi admitido no hospital por mal-estar seguido por convulsão. Qual o achado bioquímico mais consistente com o diagnóstico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hipercalcemia"
+      },
+      {
+        "letra": "B",
+        "texto": "Hiperuricemia"
+      },
+      {
+        "letra": "C",
+        "texto": "Hipocalemia"
+      },
+      {
+        "letra": "D",
+        "texto": "Hipomagnesemia"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116686,
+    "tags": [],
+    "enunciado": "O avanço dos transplantes nos últimos anos deveu-se à utilização e aos melhores conhecimentos dos imunossupressores. Podemos apenas aceitar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A terapia de manutenção tem como objetivo inibir seletivamente a ativação e a proliferação dos linfócitos, levando à maior sobrevida dos pacientes transplantados com diminuição dos episódios de rejeição e das infecções oportunistas."
+      },
+      {
+        "letra": "B",
+        "texto": "A terapia de manutenção não tem como objetivo inibir seletivamente a ativação e a proliferação dos linfócitos, levando à maior sobrevida dos pacientes transplantados com diminuição dos episódios de rejeição e das infecções oportunistas."
+      },
+      {
+        "letra": "C",
+        "texto": "A terapia de manutenção tem como objetivo inibir seletivamente a inativação e a proliferação dos linfócitos, levando à maior sobrevida dos pacientes transplantados com diminuição dos episódios de rejeição e das infecções oportunistas."
+      },
+      {
+        "letra": "D",
+        "texto": "A terapia de manutenção tem como objetivo inibir seletivamente a ativação e a proliferação dos linfócitos, levando à menor sobrevida dos pacientes transplantados com diminuição dos episódios de rejeição e das infecções oportunistas."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116687,
+    "tags": [],
+    "enunciado": "Você está no pronto-socorro Infantil, atendendo Gabriela, de 3 anos de idade, que foi trazida pela mãe (Letícia). Gabriela tem diagnóstico de síndrome de Down e hipotireoidismo congênito em acompanhamento regular. De acordo com o relato de Letícia, Gabriela tem dores em face lateral de ambas as pernas e joelhos, inapetência e adinamia há 2 meses. As dores ocorrem a qualquer hora do dia e não tem relação com esforço físico. Prefere (cid:77)car deitada, inclusive evitando as atividades de lazer. No início, as dores se resolviam com uso de paracetamol, mas, na última semana, as dores se tornaram mais intensas e frequentes, sem melhora com uso desse medicamento. Também, nesta última semana, começou a ter febre de até 38,6°C, diariamente. Na última consulta com o pediatra, há 1 mês, foi feito o diagnóstico de anemia, e prescrito sulfato ferroso 5 mg/kg/dia. No exame clínico, a criança encontra-se em regular estado geral, descorada 2+/4+, desidratada de algum grau, acianótica, anictérica. Temperatura axilar: 37,8°C, Frequência respiratória: 22 ipm, Frequência cardíaca:126 bpm, PA: 98x60 mmHg (normal para a idade). Ausculta cardíaca com bulhas rítmicas normofonéticas em 2 tempos com sopro sistólico regurgitativo, 2+/6+ em foco mitral. Sem alterações na semiologia pulmonar. Abdome (cid:80)ácido, globoso, indolor à palpação com fígado palpável a 3 cm do rebordo costal direito e baço percutível a 4 cm de rebordo costal esquerdo. Presença de equimoses em face anterior de tíbias, bilateralmente, de até 2 cm de diâmetro, não palpáveis. Demais dados do exame clínico sem alterações. Foram realizados os seguintes exames complementares no pronto-socorro: Qual é a principal hipótese para a causa do distúrbio hidroeletrolítico encontrado nesta paciente? Essa questão possui comentário do professor no site 4000151881",
+    "alternativas": [],
+    "resposta_correta": null
+  },
+  {
+    "id": 116688,
+    "tags": [],
+    "enunciado": "Você está no pronto-socorro Infantil, atendendo Gabriela, de 3 anos de idade, que foi trazida pela mãe (Letícia). Gabriela tem diagnóstico de síndrome de Down e hipotireoidismo congênito em acompanhamento regular. De acordo com o relato de Letícia, Gabriela tem dores em face lateral de ambas as pernas e joelhos, inapetência e adinamia há 2 meses. As dores ocorrem a qualquer hora do dia e não tem relação com esforço físico. Prefere (cid:77)car deitada, inclusive evitando as atividades de lazer. No início, as dores se resolviam com uso de paracetamol, mas, na última semana, as dores se tornaram mais intensas e frequentes, sem melhora com uso desse medicamento. Também, nesta última semana, começou a ter febre de até 38,6°C, diariamente. Na última consulta com o pediatra, há 1 mês, foi feito o diagnóstico de anemia, e prescrito sulfato ferroso 5 mg/kg/dia. No exame clínico, a criança encontra-se em regular estado geral, descorada 2+/4+, desidratada de algum grau, acianótica, anictérica. Temperatura axilar: 37,8°C, Frequência respiratória: 22 ipm, Frequência cardíaca:126 bpm, PA: 98x60 mmHg (normal para a idade). Ausculta cardíaca com bulhas rítmicas normofonéticas em 2 tempos com sopro sistólico regurgitativo, 2+/6+ em foco mitral. Sem alterações na semiologia pulmonar. Abdome (cid:80)ácido, globoso, indolor à palpação com fígado palpável a 3 cm do rebordo costal direito e baço percutível a 4 cm de rebordo costal esquerdo. Presença de equimoses em face anterior de tíbias, bilateralmente, de até 2 cm de diâmetro, não palpáveis. Demais dados do exame clínico sem alterações. Foram realizados os seguintes exames complementares no pronto-socorro: Além da síndrome de Down e hipotireoidismo congênito, qual é o diagnóstico principal para o quadro atual da paciente? Essa questão possui comentário do professor no site 4000151880",
+    "alternativas": [],
+    "resposta_correta": null
+  },
+  {
+    "id": 116689,
+    "tags": [],
+    "enunciado": "Homem, 64a, procura atendimento queixando-se de retenção urinária com abaulamento e dor na região suprapúbica; há três dias com febre, dor no períneo, região lombar e urgência miccional. Antecedentes pessoais: quimioterapia para linfoma há 3 meses. Exame físico: consciente, orientado, FR = 18 irpm, T = 38,5°C, PA = 110 x 70 mmHg, FC = 90 bpm. Hemograma: leucócitos = 1.200/mm³ (neutrófilos: 55%). Está contraindicado (a):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tomografia computadorizada de pelve com contraste."
+      },
+      {
+        "letra": "B",
+        "texto": "Punção suprapúbica da bexiga."
+      },
+      {
+        "letra": "C",
+        "texto": "Toque retal."
+      },
+      {
+        "letra": "D",
+        "texto": "Sondagem vesical de demora."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 116690,
+    "tags": [],
+    "enunciado": "Qual alteração laboratorial é compatível com síndrome de lise tumoral?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "hipouricemia"
+      },
+      {
+        "letra": "B",
+        "texto": "hipercalcemia"
+      },
+      {
+        "letra": "C",
+        "texto": "hiperfosfatemia"
+      },
+      {
+        "letra": "D",
+        "texto": "hipocalemia"
+      },
+      {
+        "letra": "E",
+        "texto": "hipernatremia"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 116691,
+    "tags": [],
+    "enunciado": "Com relação aos tratamentos antineoplásicos sistêmicos, marque a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A hormonioterapia é uma modalidade de tratamento sistêmico muito interessante por seu perfil de efeitos colaterais favorável. Neste sentido, pode ser empregada no tratamento paliativo de diversos tumores tais como mama, próstata, endométrio, cólon e pulmão."
+      },
+      {
+        "letra": "B",
+        "texto": "A quimioterapia neoadjuvante apresenta como vantagens o tratamento precoce deeventuais micrometástases e permite a observação \"in vivo\" da sensibilidade do tumor à quimioterapia."
+      },
+      {
+        "letra": "C",
+        "texto": "A quimioterapia adjuvante para o câncer de mama é administrada antes da realizaçãoda mastectomia."
+      },
+      {
+        "letra": "D",
+        "texto": "As drogas direcionadas a alvo-moleculares como os anticorpos monoclonais e inibidores de tirosina quinase, por seu mecanismo de ação específico contra as células tumorais, são isentas de efeitos colaterais."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116692,
+    "tags": [],
+    "enunciado": "A Síndrome de Lise Tumoral caracteriza-se pela tríade _____, cujo tratamento consiste em ______:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hipercalcemia, hiperuricemia, hipercalemia / Hiperhidratação sem K, alcalinização,bifosfonato."
+      },
+      {
+        "letra": "B",
+        "texto": "Hipercalcemia, hiperuricemia e hipercalemia / Restrição hídrica, corticóide,alcalinização."
+      },
+      {
+        "letra": "C",
+        "texto": "Hiperuricemia, hipercalemia, hiperfosfatemia / Restrição Hídrica, alcalinização, agentehipouricemiante"
+      },
+      {
+        "letra": "D",
+        "texto": "Hiperuricemia, hipercalemia, hiperfosfatemia / Hiperhidratação sem K, alcalinização,agente hipouricemiante"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116693,
+    "tags": [],
+    "enunciado": "Está associado ao risco aumentado de lise tumoral, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hipotensão"
+      },
+      {
+        "letra": "B",
+        "texto": "Desidratação"
+      },
+      {
+        "letra": "C",
+        "texto": "Insuficiência hepática prévia ao diagnóstico de câncer"
+      },
+      {
+        "letra": "D",
+        "texto": "Metástase extensa"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 116694,
+    "tags": [],
+    "enunciado": "Paciente de 18 anos, sexo masculino, internado em uma enfermaria com diagnóstico de linfoma de Burkitt avançado, tendo recebido tratamento quimioterápico há 3 dias, apresentou exames laboratoriais compatíveis com diagnóstico de síndrome de lise tumoral (SLT). As alterações eletrolíticas e metabólicas relatadas nesse caso são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "hipouricemia, hiperfosfatemia, hipocalcemia e hipopotassemia."
+      },
+      {
+        "letra": "B",
+        "texto": "hiperuricemia, hipofosfatemia, hipercalcemia e hiperpotassemia."
+      },
+      {
+        "letra": "C",
+        "texto": "hipouricemia, hipofosfatemia, hipercalcemia e hipopotassemia."
+      },
+      {
+        "letra": "D",
+        "texto": "hiperuricemia, hiperfosfatemia, hipocalcemia e hiperpotassemia."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116695,
+    "tags": [],
+    "enunciado": "Em relação à síndrome de lise tumoral, identi(cid:77)que como verdadeiras (V) ou falsas (F) as seguintes afirmativas: ( ) Os principais fatores predisponentes são as grandes massas tumorais e hiperleucocitose. ( ) A hipercalcemia secundária à morte celular é fator de risco para insuficiência renal. ( ) São alterações laboratoriais: hiperuricemia, hiperpotassemia e hipofosfatemia. ( ) Ocorre mais frequentemente nos tumores sensíveis à quimioterapia, principalmente nos linfomas de Burkitt, leucemias e linfomas de células T. ( ) Deve-se prescrever restrição hídrica, para prevenção da insu(cid:77)ciência renal aguda, e alopurinol, para tratamento da hiperuricemia. Assinale a alternativa que apresenta a sequência correta, de cima para baixo.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "V – V – V – F – F."
+      },
+      {
+        "letra": "B",
+        "texto": "V – F – F – V – F."
+      },
+      {
+        "letra": "C",
+        "texto": "F – F – V – V – V."
+      },
+      {
+        "letra": "D",
+        "texto": "F – V – V – F – V."
+      },
+      {
+        "letra": "E",
+        "texto": "V – F – F – V – V."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116696,
+    "tags": [],
+    "enunciado": "Todas as alternativas a seguir são características de Síndrome de Lise Tumoral, exceto:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hipercalemia;"
+      },
+      {
+        "letra": "B",
+        "texto": "Hipercalcemia;"
+      },
+      {
+        "letra": "C",
+        "texto": "Acidose lática;"
+      },
+      {
+        "letra": "D",
+        "texto": "Hiperfosfatemia;"
+      },
+      {
+        "letra": "E",
+        "texto": "Hiperuricemia;"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116697,
+    "tags": [],
+    "enunciado": "A proteína da morte celular programada 1 (PD-1) é uma proteína transmembrana expressa em células T, células B e células NK. É uma molécula inibitória que se liga ao ligante de PD-1 (PD-L1, também conhecido como B7-H1) e PD-L2 (B7-H2). O PD-L1 é expresso na superfície de vários tipos de tecido, incluindo muitas células tumorais bem como células hematopoiéticas. A interação PD-1-PD-L1/2 inibe diretamente a apoptose da célula tumoral, promove a extirpação de células efetoras T periféricas e promove a conversão de células efetoras T para células regulatórias. Compreender esses mecanismos pode sugerir mecanismos para terapias baseadas em imunidade que podem ser amplamente aplicáveis em todos os tipos de câncer. Baseado nas características das células neoplásicas, qual mecanismo se aplica a explicação acima?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Evasão da destruição imunológica."
+      },
+      {
+        "letra": "B",
+        "texto": "Reprogramação do metabolismo energético."
+      },
+      {
+        "letra": "C",
+        "texto": "Repressão aos supressores do crescimento."
+      },
+      {
+        "letra": "D",
+        "texto": "Resistência à morte celular."
+      },
+      {
+        "letra": "E",
+        "texto": "Sinalização proliferativa sustentável."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116698,
+    "tags": [],
+    "enunciado": "Paciente 32 anos iniciou tratamento quimioterápico para leucemia linfoblástica aguda. Dois dias após o termino da QT, foi admitida no hospital com queixa de mal estar seguida de convulsão. Qual a alteração bioquímica isolada que NÃO é consistente com o diagnóstico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hipercalcemia"
+      },
+      {
+        "letra": "B",
+        "texto": "Hiperuricemia"
+      },
+      {
+        "letra": "C",
+        "texto": "Hipercalemia"
+      },
+      {
+        "letra": "D",
+        "texto": "Hipermagnesemia"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116699,
+    "tags": [],
+    "enunciado": "Analise as a(cid:77)rmativas a seguir sobre leucemias, linfomas e tumores da infância, assinalando com V as verdadeiras e com F as falsas. ( ) O diagnóstico diferencial das leucemias quando só existe pancitopenia deve ser feito com anemia aplásica e mielofibrose; ( ) Um valioso marcador tumoral nos casos de hepatoblastoma da infância é o antígeno carcinoembrionário (CEque pode ser utilizado para diagnóstico e monitoramento dos tumores; ( ) Nos casos de linfoma de Hodgkin, com o uso de regimes terapêuticos atuais, pacientes com fatores prognósticos e doença em estágio inicial apresentam uma sobrevida global maior do que 95% em 5 anos; ( ) O tumor de Wilms em estágio IV caracteriza-se por tumor em ambos os rins. Assinale a sequência CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "V F V F"
+      },
+      {
+        "letra": "B",
+        "texto": "F V F V"
+      },
+      {
+        "letra": "C",
+        "texto": "V F F V"
+      },
+      {
+        "letra": "D",
+        "texto": "V V F F"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116700,
+    "tags": [],
+    "enunciado": "A síndrome de Trousseau é um estado hipercoagulável, que tem como característica:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "associar-se a doenças malignas, comprometer o sistema arterial e venoso, além de não responder bem ao uso de warfarin."
+      },
+      {
+        "letra": "B",
+        "texto": "associar-se a doenças malignas e autoimunes, além de incidir, apenas, no lado venoso."
+      },
+      {
+        "letra": "C",
+        "texto": "comprometer o sistema venoso na forma de trombose venosa profunda, poupando as veias superficiais."
+      },
+      {
+        "letra": "D",
+        "texto": "associar-se a tumores neuroendócrinos e linfomas, comprometer o sistema arterial e responder bem ao uso de antiagregante plaquetário."
+      },
+      {
+        "letra": "E",
+        "texto": "ocorrer, apenas, em pacientes no curso de quimioterapia e não responder ao uso de heparina, fracionada ou não."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116701,
+    "tags": [],
+    "enunciado": "Sobre as complicações e emergências oncológicas, é correto afirmar, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A compressão medular espinhal por metástase deve ser prontamente diagnosticada e tratada devido ao risco de déficit neurológico irreversível. O uso imediato de dexametasona pode prevenir ou potencialmente reverter paresias e disfunção esfincteriana."
+      },
+      {
+        "letra": "B",
+        "texto": "A hipercalcemia paraneoplásica geralmente atinge valores acima de 15mg/dL, sendo a síndrome paraneoplásica endócrina mais comum. Também é a principal causa de hipercalcemia assintomática em pacientes ambulatoriais."
+      },
+      {
+        "letra": "C",
+        "texto": "O derrame pleural neoplásico sintomático pode ser conduzido inicialmente com toracocenteses de grande volume. No entanto, naqueles pacientes que reacumulam líquido rapidamente, uma das principais alternativas é a drenagem torácica por tubo, seguida de pleurodese."
+      },
+      {
+        "letra": "D",
+        "texto": "A síndrome de lise tumoral geralmente cursa com hiperuricemia, hipercalemia, hiperfosfatemia e hipocalcemia."
+      },
+      {
+        "letra": "E",
+        "texto": "A monoterapia com piperacilina-tazobactam é uma excelente escolha inicial para o paciente neutropênico febril estável e sem suspeita de porta de entrada cutâneo-mucosa."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116702,
+    "tags": [],
+    "enunciado": "Uma paciente do sexo feminino, com 5 anos de idade, que apresentou anemia persistente, foi internada para investigação. Durante a estadia hospitalar, a paciente apresentou uma hiperleucocitose, constatada nos exames, razão pela qual seu caso foi diagnosticado como leucemia linfoide aguda. Considerando-se o referido quadro clínico, quando a quimioterapia for iniciada, quais alterações eletrolíticas a paciente pode apresentar?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hiperpotassemia, hiperfosfatemia e hipocalcemia."
+      },
+      {
+        "letra": "B",
+        "texto": "Hipernatremia, hipopotassemia e hiperfosfatemia."
+      },
+      {
+        "letra": "C",
+        "texto": "Hiponatremia, hiperpotassemia e hipofosfatemia."
+      },
+      {
+        "letra": "D",
+        "texto": "Hiponatremia, hipopotassemia e hipercalcemia."
+      },
+      {
+        "letra": "E",
+        "texto": "Hipopotassemia, hipofosfatemia e hipercalcemia."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116703,
+    "tags": [],
+    "enunciado": "A síndrome de lise tumoral é uma emergência oncológica caracterizada por complicações metabólicas decorrentes da morte celular de neoplasias malignas com alto índice proliferativo. Qual a alternativa que contempla os principais sinais e sintomas dessa síndrome?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hiperfosfatemia, hipercalemia, hipercalcemia falência renal, hiperuricemia."
+      },
+      {
+        "letra": "B",
+        "texto": "Hiperfosfatemia, hipercalemia, hipocalcemia, falência renal, arritmias."
+      },
+      {
+        "letra": "C",
+        "texto": "Hipofosfatemia, hipercalemia, hipocalcemia, câimbras, arritmias."
+      },
+      {
+        "letra": "D",
+        "texto": "Hipofosfatemia, hipercalemia, hipercalcemia, vômitos, arritmias."
+      },
+      {
+        "letra": "E",
+        "texto": "Hipocalemia, hiperfosfatemia, hipocalcemia, oligúria, acidose metabólica."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116704,
+    "tags": [],
+    "enunciado": "Síndrome de Lise Tumoral Criança de 9 anos internada na UTI Pediátrica por Linfoma de Burkitt, terminou primeiro ciclo de quimioterapia. Evolui com Síndrome de Lise Tumoral. Nas últimas 24 horas teve diurese de 0,25ml/Kg/hora. Das alternativas abaixo, qual é o diagnóstico mais improvável para essa paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hiperfosfatemia."
+      },
+      {
+        "letra": "B",
+        "texto": "Hiperuricemia."
+      },
+      {
+        "letra": "C",
+        "texto": "Hipopotassemia."
+      },
+      {
+        "letra": "D",
+        "texto": "Arritmia cardíaca."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 116705,
+    "tags": [],
+    "enunciado": "Silvinha, 6 anos, encontra-se em quimioterapia para tratamento de neuroblastoma. Após uma das sessões, houve grave comprometimento clínico com necessidade de internação em UTIP. Diagnosticada com Síndrome de Lise Tumoral, o tratamento foi rapidamente instituído. Quais os achados laboratoriais esperados nesta situação?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ácido úrico aumentado; potássio aumentado; sódio diminuído; cloro aumentado."
+      },
+      {
+        "letra": "B",
+        "texto": "Ácido úrico aumentado; potássio aumentado; sódio aumentado; cloro diminuído."
+      },
+      {
+        "letra": "C",
+        "texto": "Ácido úrico aumentado; potássio aumentado; fosfato aumentado; cálcio diminuído."
+      },
+      {
+        "letra": "D",
+        "texto": "Ácido úrico diminuído; potássio diminuído; fosfato aumentado; magnésio diminuído."
+      },
+      {
+        "letra": "E",
+        "texto": "Ácido úrico diminuído; potássio diminuído; magnésio aumentado; cálcio aumentado."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 116706,
+    "tags": [],
+    "enunciado": "O transplante de medula óssea é a única opção de cura para:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Doença de Hodgkin."
+      },
+      {
+        "letra": "B",
+        "texto": "Leucemia mielóide crônica."
+      },
+      {
+        "letra": "C",
+        "texto": "Linfomas não Hodgkin."
+      },
+      {
+        "letra": "D",
+        "texto": "Leucemia linfocítica crônica."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116707,
+    "tags": [],
+    "enunciado": "A tríade clássica da Síndrome de Lise tumoral é composta por:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hiperpotassemia, hiperfosfatemia e hipercalcemia."
+      },
+      {
+        "letra": "B",
+        "texto": "Hiperpotassemia, Hipofosfatemia e Hiperuricemia."
+      },
+      {
+        "letra": "C",
+        "texto": "Hiperglicemia, hiperfosfatemia e hipocalcemia."
+      },
+      {
+        "letra": "D",
+        "texto": "Hiperpotassemia, hiperfosfatemia e hiperuricemia."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116708,
+    "tags": [],
+    "enunciado": "A abordagem inicial padrão da Síndrome de Lise Tumoral é: I. Alopurinol. II. Hidratação agressiva. III. Alcalinação da urina. IV. Diurético. Quais estão CORRETAS?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas I e II."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas I e III."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas II e IV."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas I, II e III."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II, III e IV."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116709,
+    "tags": [],
+    "enunciado": "Durante quimioterapia, está indicada na profilaxia de náuseas e vômitos:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Carbamazepina."
+      },
+      {
+        "letra": "B",
+        "texto": "Venlafaxina."
+      },
+      {
+        "letra": "C",
+        "texto": "Dexametasona."
+      },
+      {
+        "letra": "D",
+        "texto": "Eritromicina."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 116710,
+    "tags": [],
+    "enunciado": "Paciente masculino, 10 anos de idade, pesando 32 quilos, soropositivo para HIV de transmissão vertical, apresenta diagnóstico de linfoma abdominal não Hodgkin há 1 semana. Fez quimioterapia há 4 dias. Hoje está hipoativo, hipotenso, desidratado, em anasarca, descorado e referindo dor lombar à direita de forte intensidade. Tem diurese de 8 ml/hora; ureia de 205; creatinina de 4,8; potássio de 6,1; cálcio de 8,2; ácido úrico urinário de 0,75 mg/dl; e gasometria com acidose metabólica. Acerca desse caso, qual é o diagnóstico MAIS provável?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cálculo impactado em ureter distal."
+      },
+      {
+        "letra": "B",
+        "texto": "Cálculo coraliforme em pelve renal direita."
+      },
+      {
+        "letra": "C",
+        "texto": "Desidratação secundária a vômitos pós-quimioterapia."
+      },
+      {
+        "letra": "D",
+        "texto": "Síndrome da lise tumoral aguda."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116711,
+    "tags": [],
+    "enunciado": "Em relação à imunofenotipagem nas doenças hematológicas, escolha a associação CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A, B, C, D, E."
+      },
+      {
+        "letra": "B",
+        "texto": "E, C, D, A, B."
+      },
+      {
+        "letra": "C",
+        "texto": "A, C, B, D, E."
+      },
+      {
+        "letra": "D",
+        "texto": "C, B, A, E, D."
+      },
+      {
+        "letra": "E",
+        "texto": "C, E, D, B, A."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 116712,
+    "tags": [],
+    "enunciado": "Dentre as doenças linfoproliferativas que acometem a Cabeça e Pescoço, é sinonímia para a hiperplasia linfonodal angiofolicular ou hiperplasia linfonodal gigante:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cloroma."
+      },
+      {
+        "letra": "B",
+        "texto": "Doença de Castleman."
+      },
+      {
+        "letra": "C",
+        "texto": "Plasmocitoma Ósseo Solitário."
+      },
+      {
+        "letra": "D",
+        "texto": "Linfoma Anaplçasico de Grandes Células."
+      },
+      {
+        "letra": "E",
+        "texto": "Mieloma Múltiplo."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116713,
+    "tags": [],
+    "enunciado": "Hiperuricemia é uma das complicações frequentemente encontradas em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tricoleucemia."
+      },
+      {
+        "letra": "B",
+        "texto": "Síndromes mieloproliferativas."
+      },
+      {
+        "letra": "C",
+        "texto": "Linfomas."
+      },
+      {
+        "letra": "D",
+        "texto": "Mieloma."
+      },
+      {
+        "letra": "E",
+        "texto": "Leucemia linfoicítica crônica."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116714,
+    "tags": [],
+    "enunciado": "João Pedro, de 28 anos, portador de leucemia linfoblástica aguda, vai à emergência queixando-se de febre e calafrios há 24 horas. Na carteira de identi(cid:77)cação do tratamento, demonstra que está fazendo o esquema CVAD ( ciclofosfamida, vincristina, doxorrubicina e dexametasona) hiper fracionada e que a última dose foi há oito dias. Nega tosse e dispneia, cefaleia, dor abdominal ou diarreia. Nega contato com doentes nem fez viagem recente. Ao exame, febril, com 39,1ºC, com frequência cardíaca de 118 bpm, pressão arterial de 120/80 mmhg e frequência respiratória de 25 IRPM, possui aparência de doente; a pele está quente e úmida, mas sem exantema. Sem sinais de mucosite, ausculta pulmonar nada digno de nota, exame cardiológico: taquicárdico e possui ritmo regular, com sopro sistólico +2/6 na borda esternal esquerda, e o abdome inocente. A região perianal está normal e não realizou toque retal. Apresenta cateter inserido na veia jugular interna direita sem eritema sobre o trajeto subcutâneo e sem secreção purulenta no local de saída do cateter. É interessante notar que ele relata o aparecimento de tremores com calafrios decorridos 30 minutos do congestionamento do cateter. Os exames laboratoriais mostram hemoglobina de 10,8 g/100 mL, hematócrito de 33%, leucócitos totais de 1.100 células/mm³, com diferencial de 8% de neutró(cid:77)los, 6% de bastonetes,6% de eosinó(cid:77)los, 66% de linfócitos e 14% de monócitos (a contagem absoluta de neutró(cid:77)los é de 88/mm³) e 195000 plaquetas. Função renal e marcadores hepáticos normais. PCR + raio X tórax: normal e evidencia cateter de longa permanência implantado na veia subclávia direita. Assinale a alternativa que contém a antibioticoterapia empírica a ser imediatamente iniciada a esse paciente.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Vancomicina e Cefepime."
+      },
+      {
+        "letra": "B",
+        "texto": "Oxacilina e Ceftriaxone."
+      },
+      {
+        "letra": "C",
+        "texto": "Clincamicina e Amoxicilina+Clavulanato."
+      },
+      {
+        "letra": "D",
+        "texto": "Ciprofloxacino e Metronidazol."
+      },
+      {
+        "letra": "E",
+        "texto": "Azitromicina e Clorafenicol."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116715,
+    "tags": [],
+    "enunciado": "As malignidades consideradas de alto risco para a Síndrome de Lise tumoral são as seguintes, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Leucemia mieloide aguda."
+      },
+      {
+        "letra": "B",
+        "texto": "Carcinoma de mama."
+      },
+      {
+        "letra": "C",
+        "texto": "Linfoma não-Hodgkin."
+      },
+      {
+        "letra": "D",
+        "texto": "Leucemia mielóide aguda."
+      },
+      {
+        "letra": "E",
+        "texto": "Linfoma de Burkitt."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116716,
+    "tags": [],
+    "enunciado": "Em pacientes com síndrome de lise tumoral é mais provável o encontro de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "(VER IMAGEM)."
+      },
+      {
+        "letra": "B",
+        "texto": "(VER IMAGEM)."
+      },
+      {
+        "letra": "C",
+        "texto": "(VER IMAGEM)."
+      },
+      {
+        "letra": "D",
+        "texto": "(VER IMAGEM)."
+      },
+      {
+        "letra": "E",
+        "texto": "(VER IMAGEM)."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116717,
+    "tags": [],
+    "enunciado": "Assinale a afirmativa incorreta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os eventos e fases do ciclo de divisão celular tem importantes implicações para a terapia oncológica."
+      },
+      {
+        "letra": "B",
+        "texto": "Dois dos maiores fatores que influenciam a velocidade de crescimento de uma neoplasia são: a fração de crescimento (número de células do tumor que estão atualmente em divisão celular); e a fração de morte celular."
+      },
+      {
+        "letra": "C",
+        "texto": "Células em Go (Go ou Gzero): célula permanece na intérfase interrompendo a divisão) são relativamente insensíveis aos agentes quimioterápicos."
+      },
+      {
+        "letra": "D",
+        "texto": "Os tumores humanos contêm bilhões de células, todas elas se dividindo lentamente e gerando crescimento neoplásico."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116718,
+    "tags": [],
+    "enunciado": "São considerados critérios histológicos de malignidade, exceto:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "mitoses atípicas."
+      },
+      {
+        "letra": "B",
+        "texto": "alterações da relação núcleo-nucleolar."
+      },
+      {
+        "letra": "C",
+        "texto": "invasão da membrana basal."
+      },
+      {
+        "letra": "D",
+        "texto": "metástases à distância."
+      },
+      {
+        "letra": "E",
+        "texto": "proliferação celular abundante."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116719,
+    "tags": [],
+    "enunciado": "Paciente de 22 anos, sexo feminino, é atendida as 18h no pronto socorro com queixa de febre. O exame físico é normal, exceto por linfonodomegalia cervical. Refere ter iniciado, pela manhã, a primeira dose de tratamento quimioterápico para linfoma de Hodgkin com esquema ABVD. No \"Cartão de Quimioterapia\" da paciente, havia, além das doses das medicações administradas, uma observação com estadio IIA. Em relação a essa paciente, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A febre está relacionada à doença de base e a conduta adequada é medicar a paciente com antitérmico e recomendar retorno com médico assistente."
+      },
+      {
+        "letra": "B",
+        "texto": "A febre provavelmente é uma reação à quimioterapia, e a conduta adequada é medicar a paciente com antitérmico, aguardar hemograma e comunicar ao médico assistente."
+      },
+      {
+        "letra": "C",
+        "texto": "Devido à alta probabilidade de Neutropenia Febril, deve-se colher cultura e iniciar Cefepime mesmo antes do resultado de hemograma."
+      },
+      {
+        "letra": "D",
+        "texto": "Recomenda-se realizar tomografia de tórax de urgência e solicitar parecer do hematologista."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116720,
+    "tags": [],
+    "enunciado": "Em relação às leucemias na infância, julgue o item seguinte. No início do tratamento quimioterápico, a lise tumoral provoca elevação dos níveis plasmáticos de fósforo e de ácido úrico, bem como redução de potássio, devido à rápida destruição dos blastos no sangue.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Certo."
+      },
+      {
+        "letra": "B",
+        "texto": "Errado."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116721,
+    "tags": [],
+    "enunciado": "Paciente de 65 anos, hipertenso, é admitido em caráter de urgência em pronto- socorro com síndrome de veia cava superior associada ao linfoma do tipo grandes células. Foi iniciado tratamento com corticosteroides seguido de quimioterapia. Além da elevação do ácido úrico sérico, qual conjunto de alterações abaixo pode advir do tratamento do tumor, até sete dias após seu início?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hipercalemia, hiperfosfatemia, hipocalcemia."
+      },
+      {
+        "letra": "B",
+        "texto": "Hipocalemia, hiperfosfatemia, hipocalcemia."
+      },
+      {
+        "letra": "C",
+        "texto": "Hipercalemia, hipofosfatemia, hipercalcemia."
+      },
+      {
+        "letra": "D",
+        "texto": "Hipocalemia, hipofosfatemia, hipercalcemia."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116722,
+    "tags": [],
+    "enunciado": "Paciente do sexo masculino, 28 anos, deu entrada na emergência deste hospital referindo quadro de febre vespertina, sudorese noturna e perda de 3 kg nas últimas 4 semanas. Referia ter iniciado dispneia e cansaço aos pequenos esforços na última semana. Informava ainda tosse seca. Ao exame físico apresentava temperatura axilar de 38,2°C, PA: 118 x 72 mmHg, FC: 98 bpm, FR: 26 irpm, mucosas hipocoradas ++/4+, MV abolida em metade inferior do hemitórax esquerdo. Hemograma revelava anemia normocítica, normocrômica, com Hb: 8,9 g/dl. Estudo bioquímico não revelava anormalidades. Radiografia de tórax revelou derrame pleural volumoso a esquerda e alargamento do mediastino. Tomogra(cid:77)a de tórax revelava, além do já mencionado derrame pleural, presença de múltipla linfadenomegalia mediastinal. Na ausência de gânglios periféricos aumentados, foi procedida pleuroscopia com drenagem pleural e abordagem do mediastino para biópsia ganglionar. O estudo histopatológico revelou linfoma difuso de células B. A imunohistoquímica marcou a presença de antígeno CD 20 nas células neoplásicas. Com base nessa última informação, qual das drogas abaixo seria útil ao esquema terapêutico a ser proposto?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Rituximab;"
+      },
+      {
+        "letra": "B",
+        "texto": "Natalizumab;"
+      },
+      {
+        "letra": "C",
+        "texto": "Infliximab;"
+      },
+      {
+        "letra": "D",
+        "texto": "Adalimumab."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116723,
+    "tags": [],
+    "enunciado": "Assinale a alternativa CORRETA quanto aos distúrbios metabólicos encontrados na síndrome de lise tumoral:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hipercalemia, hiperuricemia, hipocalcemia e acidose metabólica."
+      },
+      {
+        "letra": "B",
+        "texto": "Hipercalemia, hiperuricemia, hipocalcemia e alcalose metabólica."
+      },
+      {
+        "letra": "C",
+        "texto": "Hipercalemia, hiperuricemia, hipercalcemia e acidose metabólica."
+      },
+      {
+        "letra": "D",
+        "texto": "Hipocalemia, hiperuricemia, hipocalcemia e acidose metabólica."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116724,
+    "tags": [],
+    "enunciado": "A respeito dos tumores malignos de pulmão, todas as alternativas estão corretas, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "metástases oculares são frequentes."
+      },
+      {
+        "letra": "B",
+        "texto": "as metástases dos tumores de pulmão e mama consistem na segunda neoplasia intraocular mais frequente."
+      },
+      {
+        "letra": "C",
+        "texto": "hipercalcêmica é uma das síndromes paraneoplásicas mais frequentes e está relacionada à secreção de PTHrp."
+      },
+      {
+        "letra": "D",
+        "texto": "nos casos de hipercalcêmica paraneoplásica os níveis de PTH se encontram elevados."
+      },
+      {
+        "letra": "E",
+        "texto": "sinais e sintomas de hipercalcemia paraneoplásica severa incluem desidratação, alteração do nível de consciência e encurtamento do intervalo Q-R no ECG."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116725,
+    "tags": [],
+    "enunciado": "O tratamento para neoplasias vem se tornando cada vez mais personalizado, com terapia baseada em pequenas moléculas alvo, cruciais em vias especí(cid:77)cas de transdução de sinais que são ativadas por determinadas células cancerígenas. Qual dos agentes terapêuticos está melhor correlacionado com uma dessas moléculas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Bevacizumab-EGFR."
+      },
+      {
+        "letra": "B",
+        "texto": "Erlotinib-VEGF."
+      },
+      {
+        "letra": "C",
+        "texto": "Imatinib-Bcr-Abl."
+      },
+      {
+        "letra": "D",
+        "texto": "Rituximab-CD45."
+      },
+      {
+        "letra": "E",
+        "texto": "Ranibizumab-TNF."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 116726,
+    "tags": [],
+    "enunciado": "Paciente com diagnóstico de leucemia linfoblástica aguda foi submetido à quimioterapia e deu entrada na emergência 10 dias após o início do tratamento com quadro de febre e hemograma com 300 leucócitos totais. Indique a conduta apropriada:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pesquisar foco infeccioso para definição do antibiótico adequado."
+      },
+      {
+        "letra": "B",
+        "texto": "Prescrever amoxicilina ambulatorial."
+      },
+      {
+        "letra": "C",
+        "texto": "Internar e observar se apresenta instabilidade hemodinâmica."
+      },
+      {
+        "letra": "D",
+        "texto": "Colher hemoculturas e iniciar imediatamente cefepime empírico."
+      },
+      {
+        "letra": "E",
+        "texto": "Internar, colher hemoculturas e aguardar teste de sensibilidade (T SA)."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116727,
+    "tags": [],
+    "enunciado": "Os principais efeitos tóxicos hematológicos do uso crônico do metotrexato são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Anemia hemolítica e pancitopenia."
+      },
+      {
+        "letra": "B",
+        "texto": "Neutropenia isolada e eritropoiese eficaz."
+      },
+      {
+        "letra": "C",
+        "texto": "Anemia por deficiência de vitamina B12 e hemólise."
+      },
+      {
+        "letra": "D",
+        "texto": "Pancitopenia e anemia megaloblástica."
+      },
+      {
+        "letra": "E",
+        "texto": "Plaquetopenia e leucemia."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116728,
+    "tags": [],
+    "enunciado": "Para (cid:77)ns de esclarecimento diagnóstico, associe os exames iniciais mais adequados aos respectivos quadros clínicos. 1 - Tomografia computadorizada abdominal; 2 - Colonoscopia; 3 - Pesquisa de toxinas A e B Produzidas por Clostridium difficile; 4 - Retossigmoidoscopia flexível; 5 - Ultrassonografia com Doppler de vasos abdominais; ( ) Paciente em internação prolongada, submetido à quimioterapia e em uso de antibiótico de largo espectro, inicia com diarreia aquosa, cólicas abdominais, febre e leucocitose. ( ) Paciente com leucemia em quimioterapia, com neutropenia grave, apresenta dor no quadrante inferior direito, distensão abdominal e diarreia aquosa. ( ) Paciente de 88 anos, com diabetes melito e histórico de infarto agudo do miocárdio, chega à emergência com cólicas abdominais e diarreia sanguinolenta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "sequência numérica correta, de cima para baixo, da coluna da direita, é"
+      },
+      {
+        "letra": "A",
+        "texto": "2 - 1 - 5"
+      },
+      {
+        "letra": "B",
+        "texto": "3 -1- 4"
+      },
+      {
+        "letra": "C",
+        "texto": "3 - 2 - 4"
+      },
+      {
+        "letra": "D",
+        "texto": "4 - 2 - 5"
+      },
+      {
+        "letra": "E",
+        "texto": "5 - 1 - 4"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116729,
+    "tags": [],
+    "enunciado": "A síndrome de lise tumoral pode ocorrer após a realização de quimioterapia e se caracteriza por:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Insuficiência hepática."
+      },
+      {
+        "letra": "B",
+        "texto": "Cardiomiopatia."
+      },
+      {
+        "letra": "C",
+        "texto": "Neuropatia periférica."
+      },
+      {
+        "letra": "D",
+        "texto": "Insuficiência Renal."
+      },
+      {
+        "letra": "E",
+        "texto": "Insuficiência respiratória."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116730,
+    "tags": [],
+    "enunciado": "A Doença Enxerto-Hospedeiro (GVHD) ocorre principalmente após qual procedimento?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Transplante renal."
+      },
+      {
+        "letra": "B",
+        "texto": "Transplante alogênico de medula óssea."
+      },
+      {
+        "letra": "C",
+        "texto": "Transplante hepático."
+      },
+      {
+        "letra": "D",
+        "texto": "Transplante de limbo autólogo."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116731,
+    "tags": [],
+    "enunciado": "Homem de 53 anos apresenta febre de 39ºC que se iniciou há 2 horas, sem qualquer outra queixa. Está em tratamento para linfoma não Hodgkin de alto grau e realizou o segundo ciclo de quimioterapia há 10 dias. Exame físico: bom estado geral; descorado +/4; hidratado; eupneico; febril; PA = 120 x 70 mmHg e FC = 100 bpm. Hemograma: Hb = 10,5 g/dl; Ht = 30%; GB = 800 (neutró(cid:77)los = 80/mm³ e linfócitos = 720/mm³) e plaquetas = 50.000/mm³.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "conduta adequada é:"
+      },
+      {
+        "letra": "A",
+        "texto": "Observação clínica, dada a ausência de sintomas importantes e estabilidade hemodinâmica."
+      },
+      {
+        "letra": "B",
+        "texto": "Primeira dose de antibioticoterapia via oral no PS e liberação do paciente para completar o tratamento ambulatorialmente."
+      },
+      {
+        "letra": "C",
+        "texto": "Início imediato de antibioticoterapia para neutropênico febril de baixo risco e tratamento intra- hospitalar."
+      },
+      {
+        "letra": "D",
+        "texto": "Início imediato de antibioticoterapia de amplo espectro para neutropênico febril de alto risco e tratamento intra-hospitalar."
+      },
+      {
+        "letra": "E",
+        "texto": "Início imediato de antibioticoterapia de amplo espectro para neutropênico febril de alto risco associada a uma droga antifúngica."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116732,
+    "tags": [],
+    "enunciado": "Sobre lise tumoral é correto afirmar, exceto:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Laboratorialmente é caracterizada pelas seguintes anormalidades, hipercalemia, hiperuricemia, hipercalcemia e hiperfosfatemia"
+      },
+      {
+        "letra": "B",
+        "texto": "Tumores mais comuns são doença linfoproliferativas, tumores sólidos com maior quimiossensibilidade"
+      },
+      {
+        "letra": "C",
+        "texto": "Ocorre tipicamente 12 a 72 hs após aplicação da quimioterapia, agente biológico, corticoide ou radioterapia"
+      },
+      {
+        "letra": "D",
+        "texto": "A prevenção baseia-se em hiper-Hidratação, diurético de alça, alopurinol e Rasburicase"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116733,
+    "tags": [],
+    "enunciado": "São anormalidades relacionadas com a síndrome de lise tumoral, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hiperuricemia."
+      },
+      {
+        "letra": "B",
+        "texto": "Hipercalemia."
+      },
+      {
+        "letra": "C",
+        "texto": "Hiperfosfatemia."
+      },
+      {
+        "letra": "D",
+        "texto": "Hipercalcemia."
+      },
+      {
+        "letra": "E",
+        "texto": "Desidrogenase lática > 1.500 UI."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116734,
+    "tags": [],
+    "enunciado": "Homem, 56 anos, com linfoma de alto grau de malignidade, há 3 dias apresenta náuseas, vômitos, fraqueza muscular e poliúria. Está desidratado e com confusão mental. HGT: 86 mg/dl; ECG: ritmo sinusal, 52 bpm, bloqueio AV de 1º grau e encurtamento do intervalo QT. Qual das alterações abaixo melhor explica este quadro?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hipercalcemia."
+      },
+      {
+        "letra": "B",
+        "texto": "Hiponatremia."
+      },
+      {
+        "letra": "C",
+        "texto": "Hiperpotassemia."
+      },
+      {
+        "letra": "D",
+        "texto": "Hipermagnesemia."
+      },
+      {
+        "letra": "E",
+        "texto": "Hipofosfatemia."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116735,
+    "tags": [],
+    "enunciado": "Homem, 85 anos, após iniciar quimioterapia para mieloma múltiplo, refere diminuição do volume urinário, permanecendo com PA normal. Creatinina passa de 1,2 mg/dl para 2,3 mg/dl; ecogra(cid:77)a: rins de dimensões normais, cortical preservada, sem litíase ou dilatação das vias urinárias. Sobre este quadro, são apresentadas as seguintes assertivas: I. A causa provável da perda da função renal está relacionada ao uso do quimioterápico. II. Os distúrbios eletrolíticos a serem tratados para recuperar a função renal são hipercalcemia e hiperuricemia. III. O manejo fundamental deste caso é alcalinizar a urina a (cid:77)m de tratar o depósito de ácido úrico e de cálcio intrarrenal. Qual é a alternativa CORRETA?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas I."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas II."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas III."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas II e III."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II e III."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116736,
+    "tags": [],
+    "enunciado": "Dentre as doenças proliferativas benignas do sistema imune que causam adenomegalia e que podem ser confundidas com Linfoma podemos citar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "artrite reumatoide; reação ao uso de drogas, como a fenitoína;"
+      },
+      {
+        "letra": "B",
+        "texto": "doença de Castelman; mieloma múltiplo;"
+      },
+      {
+        "letra": "C",
+        "texto": "doença do soro;Sarcoma de Kaposi;"
+      },
+      {
+        "letra": "D",
+        "texto": "macroglobulinemia de Waldestron; lúpus eritematoso sistêmico."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116737,
+    "tags": [],
+    "enunciado": "O Transplante de Medula Óssea (TMO) consiste na infusão venosa de células progenitoras hematopoiéticas, com o objetivo de restabelecer a função medular nos pacientes com medula óssea dani(cid:77)cada ou defeituosa. Em relação ao TMO, é INCORRETO que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As 3 modalidades de TMO são: autogênico, alogênico e singênico."
+      },
+      {
+        "letra": "B",
+        "texto": "As células-tronco podem ser coletadas da crista ilíaca, do sangue periférico ou dosangue de cordão umbilical."
+      },
+      {
+        "letra": "C",
+        "texto": "Entre as complicações do pós-TMO não se incluem as diarreias, as infecções virais e adoença do enxerto contra o hospedeiro."
+      },
+      {
+        "letra": "D",
+        "texto": "Entre os exames solicitados para o receptor no pré-TMO estão o mielograma, abiópsia de medula óssea e as sorologias para diversas doenças infecciosas."
+      },
+      {
+        "letra": "E",
+        "texto": "Entre as indicações neoplásicas para o TMO estão as leucemias e linfomas, e entre asnão neoplásicas estão a anemia aplástica grave e algumas hemoglobinopatias (como talassemia maior e anemia falciforme)."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 116738,
+    "tags": [],
+    "enunciado": "Mulher, 52 anos de idade, 1,65 m de altura, 60 kg, procurou o médico por conta de linfadenomegalia cervical, sendo diagnosticado linfoma não Hodgkin difuso de grandes células B. Foi iniciado tratamento quimioterápico, com regressão da massa cervical e sem intercorrências durante os dois primeiros ciclos. Entretanto, 11 dias após o terceiro ciclo de quimioterapia, a paciente procura o médico com queixa de equimoses e petéquias em membros inferiores e superiores, além de cansaço aos esforços. Também apresentou um pico febril não aferido 2 dias antes. Ao exame, estava descorada, sem adenomegalias, com várias equimoses numulares em braços e pernas. Pressão arterial de 105 x 65 mmHg e frequência cardíaca de 80 bpm. O hemograma revelou: hemoglobina de 8 g/dl; hematócrito de 25%; glóbulos brancos = 3.500/ml; neutrófilos = 2.000/ml e plaquetas = 48.000/ml. Em relação ao quadro hematológico, a conduta mais adequada é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Transfundir dois concentrados de hemácias irradiadas e seis concentrados de plaquetas irradiadas."
+      },
+      {
+        "letra": "B",
+        "texto": "Transfundir dois concentrados de hemácias irradiadas."
+      },
+      {
+        "letra": "C",
+        "texto": "Administrar eritropoetina e transfundir seis concentrados de plaquetas irradiadas."
+      },
+      {
+        "letra": "D",
+        "texto": "Aguardar recuperação espontânea da hemoglobina e plaquetas."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116739,
+    "tags": [],
+    "enunciado": "Com relação à síndrome de lise tumoral, marque a alternativa CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A síndrome de lise tumoral é mais frequente após início do tratamento de tumores debaixo grau como linfoma folicular."
+      },
+      {
+        "letra": "B",
+        "texto": "A lise tumoral está associada ao início da quimioterapia, radioterapia ou corticoterapiade tumores de alto grau como o linfoma difuso de grandes células B e a neoplasia de pequenas células de pulmão."
+      },
+      {
+        "letra": "C",
+        "texto": "A medida mais eficaz na prevenção da síndrome de lise tumoral é o uso de agentesque induzem a diminuição do nível sérico de ácido úrico como o alopurinol."
+      },
+      {
+        "letra": "D",
+        "texto": "A síndrome de lise tumoral geralmente é acompanhada de hipocalemia e hiperuricemia."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116740,
+    "tags": [],
+    "enunciado": "Transplante de medula óssea transplante de células tronco hematopoiéticas São neoplasias clonais das células-tronco todas as causas abaixo citadas, com exceção da alternativa:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Mielodisplasia"
+      },
+      {
+        "letra": "B",
+        "texto": "Disceratose congênita"
+      },
+      {
+        "letra": "C",
+        "texto": "Leucemia mieloide aguda"
+      },
+      {
+        "letra": "D",
+        "texto": "Policitemia Vera"
+      },
+      {
+        "letra": "E",
+        "texto": "Mielofibrose"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116741,
+    "tags": [],
+    "enunciado": "Todas as afirmativas abaixo estão erradas, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A Síndrome de Lise Tumoral manifesta-se geralmente nas primeiras 24-48h após a realização da quimioterapia."
+      },
+      {
+        "letra": "B",
+        "texto": "O tumor maligno de pulmão é o mais frequente no Brasil."
+      },
+      {
+        "letra": "C",
+        "texto": "Na neutropenia febril geralmente identifica-se pneumonia ou infecção do catéter."
+      },
+      {
+        "letra": "D",
+        "texto": "A infecção por Helicobacter pylori está relacionada com as neoplasias gástricas tipo GIST, linfoma Malt e adenocarcinoma."
+      },
+      {
+        "letra": "E",
+        "texto": "O tabagismo não é fator de risco para o câncer do colo uterino."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116742,
+    "tags": [],
+    "enunciado": "Uma das emergências metabólicas relacionadas ao tratamento quimioterápico de leucemias com hipercelularidade ou massas tumorais volumosas é a síndrome de Lise Tumoral. O pediatra deve estar atento às alterações bioquímicas como:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hipercalemia, hipofosfatemia, hipercalcemia e hiperuricemia."
+      },
+      {
+        "letra": "B",
+        "texto": "Hipercalemia, hiperfosfatemia, hipercalcemia e hipouricemia."
+      },
+      {
+        "letra": "C",
+        "texto": "Hipocalemia, hipofosfatemia, hipercalcemia e hiperuricemia."
+      },
+      {
+        "letra": "D",
+        "texto": "Hipercalemia, hiperfosfatemia, hipocalcemia e hiperuricemia."
+      },
+      {
+        "letra": "E",
+        "texto": "Hipocalemia, hiperfosfatemia, hipercalcemia e hipouricemia."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116743,
+    "tags": [],
+    "enunciado": "O efeito biológico da interleucina - 11 (IL-11), se constitui em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aumentar a produção de plaquetas e inibir a proliferação de enterócitos."
+      },
+      {
+        "letra": "B",
+        "texto": "Estimular a secreção de citocinas pelas células T."
+      },
+      {
+        "letra": "C",
+        "texto": "Aumentar a expressão de moléculas do complexo principal de histocompatibilidade."
+      },
+      {
+        "letra": "D",
+        "texto": "Inibir a secreção de citocinas pró-inflamatórias."
+      },
+      {
+        "letra": "E",
+        "texto": "Diminuir a produção de plaquetas e aumentar a proliferação de enterócitos."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 116744,
+    "tags": [],
+    "enunciado": "Correlacione as causas conhecidas de câncer (coluna numerada) com os respectivos sítios do câncer (coluna não enumerada). 1. Epstein-Barr vírus. 2. Hepatite C. 3. Vírus da imunodeficiência humana adquirida. 4. Ciclosfofamida. 5. Tamoxifeno. ( ) Linfoma. ( ) Fígado. ( ) Sarcoma de Kaposi. ( ) Endométrio. ( ) Bexiga. Assinale a alternativa que apresenta a numeração correta da coluna da direita, de cima para baixo.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "4 – 3 – 1 – 2 – 5."
+      },
+      {
+        "letra": "B",
+        "texto": "5 – 1 – 2 – 4 – 3."
+      },
+      {
+        "letra": "C",
+        "texto": "5 – 2 – 3 – 4 – 1."
+      },
+      {
+        "letra": "D",
+        "texto": "1 – 2 – 3 – 5 – 4."
+      },
+      {
+        "letra": "E",
+        "texto": "1 – 3 – 2 – 4 – 5."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 116745,
+    "tags": [],
+    "enunciado": "Você está de plantão em um hospital pediátrico e é chamado para avaliar uma criança de 5 anos com diagnóstico de linfoma de Burkitt de localização abdominal, que começou o tratamento quimioterápico há 36 horas. A enfermagem informa que a criança não urina há 12 horas e que há 5 minutos vem apresentando crise convulsiva. Sua principal hipótese diagnóstica para o caso é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Metástase cerebral."
+      },
+      {
+        "letra": "B",
+        "texto": "Hipocalcemia."
+      },
+      {
+        "letra": "C",
+        "texto": "Hipoglicemia."
+      },
+      {
+        "letra": "D",
+        "texto": "Hipocalemia."
+      },
+      {
+        "letra": "E",
+        "texto": "Hipoalbuminemia."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116746,
+    "tags": [],
+    "enunciado": "Em pacientes com câncer avançado do sistema digestivo, níveis elevados de fator de necrose tumoral (TNF, tumor necrosis factor) associam-se a alterações metabólicas que causam caquexia. Das alterações metabólicas abaixo, a que ocorre nessa situação é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "inibição da proteólise muscular com limitação da liberação de aminoácidos."
+      },
+      {
+        "letra": "B",
+        "texto": "diminuição do balanço nitrogenado e inibição da síntese hepática de proteínas"
+      },
+      {
+        "letra": "C",
+        "texto": "redução do gasto energético basal e aumento do consumo de glicose."
+      },
+      {
+        "letra": "D",
+        "texto": "redução da lipólise e dos níveis séricos de lipídeos."
+      },
+      {
+        "letra": "E",
+        "texto": "redução da produção hepática de glicose e gliconeogênese."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 116747,
+    "tags": [],
+    "enunciado": "Paciente 60 anos, em 16º dia pós-quimioterapia por linfoma não Hogdkin, dá entrada em PS com queixa de febre de 38,4ºC, sem outras queixas. Ao exame encontra-se em REG, corado, hidratado. P = 110 bpm, PA = 90 x 60 mmHg. Demais exame físico sem alterações. Hemograma com 500 leucócitos, radiogra(cid:77)a de tórax e urina I sem alterações. Qual a sua conduta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Oriento retornar ao PS se apresentar novo pico febril;"
+      },
+      {
+        "letra": "B",
+        "texto": "Tratamento ambulatorial com levofloxacino;"
+      },
+      {
+        "letra": "C",
+        "texto": "Internar paciente sem antibioticoterapia e solicitar novos exames complementares;"
+      },
+      {
+        "letra": "D",
+        "texto": "Internar paciente, antibiótico de escolha seria cefepime 2 g EV dil 12/12h;"
+      },
+      {
+        "letra": "E",
+        "texto": "Internar paciente, antibiótico de escolha seria Vancomicina 1 g EV de 12/12h, associada à cefepime."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 116748,
+    "tags": [],
+    "enunciado": "Os marcadores tumorais são indicadores de alterações celulares, genéticas, bioquímicas ou moleculares que permitem o reconhecimento de uma neoplasia. É correto dizer que o marcador tumoral ideal tem como característica mais importante:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Prever a resposta a uma determinada terapia."
+      },
+      {
+        "letra": "B",
+        "texto": "Ser expresso exclusivamente por um determinado tumor."
+      },
+      {
+        "letra": "C",
+        "texto": "Seus níveis correlacionam com o volume tumoral presente."
+      },
+      {
+        "letra": "D",
+        "texto": "Sua presença, ausência ou concentração oferecem uma base prognóstica."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116749,
+    "tags": [],
+    "enunciado": "Com relação aos marcadores biológicos tumorais e seu uso clínico, numere a coluna abaixo de acordo com sua correspondência. COLUNA 1 1. HER-2/neu 2. CEA. 3. Alfa fetoproteína. 4. Ca 125. 5. Beta 2 Microglobulina. COLUNA 2 ( ) Prognóstico de linfoma. ( ) Resposta a trastuzumab. ( ) Recorrência do Ca. Colorretal. ( ) Recorrência de Ca. de Ovário. ( ) Diagnóstico de Ca. Hepatocelular. Assinale a alternativa que apresenta a numeração correta na coluna da direita, de cima para baixo.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "1 - 5 - 4 - 2 - 3."
+      },
+      {
+        "letra": "B",
+        "texto": "5 - 1 - 2 - 4 - 3."
+      },
+      {
+        "letra": "C",
+        "texto": "4 - 1 - 2 - 5 - 3."
+      },
+      {
+        "letra": "D",
+        "texto": "5 - 3 - 1 - 4 - 2."
+      },
+      {
+        "letra": "E",
+        "texto": "4 - 2 - 1 - 3 - 5."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116750,
+    "tags": [],
+    "enunciado": "Qual, das seguintes combinações de drogas antieméticas, é a melhor recomendada para um paciente com quimioterapia com drogas de alto potencial emetogênico como a cisplatina?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Alprazolan, dexametazona, nabilone."
+      },
+      {
+        "letra": "B",
+        "texto": "Aprepitant, dexametazona, ondansetron."
+      },
+      {
+        "letra": "C",
+        "texto": "Aprepitant, lorazepam, palonosetron."
+      },
+      {
+        "letra": "D",
+        "texto": "Metoclopramida, dronabinol, olanzepina."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 116751,
+    "tags": [],
+    "enunciado": "A respeito da arginina assinale a opção correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Diminui a produção de Interleucina 2."
+      },
+      {
+        "letra": "B",
+        "texto": "Diminui a proliferação de células T."
+      },
+      {
+        "letra": "C",
+        "texto": "Diminui o crescimento de tumores, facilitando a ação de agentes quimioterápicos."
+      },
+      {
+        "letra": "D",
+        "texto": "Não é precursor do Óxido Nítrico."
+      },
+      {
+        "letra": "E",
+        "texto": "Estimula crescimento tumoral, facilitando a ação de agentes quimioterápicos e da radioterápicos."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 116752,
+    "tags": [],
+    "enunciado": "Paciente portador de Linfoma não Hodgkin, de células grandes, submetido à quimioterapia, desenvolveu Síndrome de lise tumoral. No perfil bioquímico, costuma haver diminuição dos níveis séricos de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ácido úrico"
+      },
+      {
+        "letra": "B",
+        "texto": "Fosfato"
+      },
+      {
+        "letra": "C",
+        "texto": "Cálcio"
+      },
+      {
+        "letra": "D",
+        "texto": "Potássio"
+      },
+      {
+        "letra": "E",
+        "texto": "Magnésio"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 116753,
+    "tags": [],
+    "enunciado": "Assinale, dentre os grupos de neoplasias abaixo, aquele que é potencialmente curável com quimioterapia, mesmo em caso de doença avançada.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Neoplasia trofoblástica gestacional, neoplasia germinativa e melanoma"
+      },
+      {
+        "letra": "B",
+        "texto": "Neoplasia de células pequenas de pulmão, linfomas e carcinoma biliar."
+      },
+      {
+        "letra": "C",
+        "texto": "Carcinoma de tiroide, leucemia mieloide aguda e tumor de Wilms"
+      },
+      {
+        "letra": "D",
+        "texto": "Carcinoma hepatocelular, sarcoma de Ewing, coriocarcinoma"
+      },
+      {
+        "letra": "E",
+        "texto": "Neoplasias germinativas, linfomas (certos tipos) e neoplasia trofoblástica gestacional  Respostas: 1 A 2 C 3 A 4 B 5 A 6 C 7 D 8 A 9 E 10 C 11 D 12 B 13 C 14 D 15 D 16 D 17 A 18 C 19 C 20 C 21 B 22 D 23 D 24 A 25 C 26 D 27 B 28 B 29 B 30 D 31 D 32 D 33 C 34 B 35 A 36 A 37 E 38 C 39 C 40 B 41 D 42 A 43 B 44 C 45 D 46 D 47 C 48 A 49 B 50 B 51 B 52 B 53 D 54 D 55 A 56 A 57 D 58 E 59 D 60 A 61 A 62 B 63 D 64 D 65 A 66 B 67 E 68 D 69 B 70 E 71 B 72 B 73 B 74 D 75 D 76 A 77 C 78 A 79 E 80 C 81 D 82 A 83 A 84 B 85 B 86 B 87 B 88 D 89 A 90 C 91 A 92 A 93 D 94 E 95 B 96 D 97 C 98 C 99 A 100 C 101 D 102 C 103 B 104 A 105 106 107 C 108 C 109 B 110 D 111 C 112 D 113 B 114 B 115 A 116 A 117 A 118 A 119 B 120 A 121 B 122 C 123 C 124 D 125 D 126 D 127 C 128 D 129 E 130 B 131 B 132 A 133 B 134 D 135 D 136 D 137 B 138 B 139 A 140 A 141 A 142 D 143 C 144 D 145 D 146 B 147 D 148 B 149 D 150 A 151 D 152 A 153 B 154 A 155 C 156 D 157 B 158 B 159 B 160 D 161 A 162 D 163 B 164 C 165 E 166 B 167 B 168 B 169 E 170 C 171 E"
+      }
+    ],
+    "resposta_correta": "E"
+  }
+]

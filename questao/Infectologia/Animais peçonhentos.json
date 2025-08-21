@@ -1,0 +1,4508 @@
+[
+  {
+    "id": 66096,
+    "tags": [],
+    "enunciado": "No Brasil, os escorpiões de importância em saúde pública são as seguintes espécies do gênero Tityus, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "T. serrulatus"
+      },
+      {
+        "letra": "B",
+        "texto": "T. bahiensis"
+      },
+      {
+        "letra": "C",
+        "texto": "T. stigmurus"
+      },
+      {
+        "letra": "D",
+        "texto": "T. obscurus"
+      },
+      {
+        "letra": "E",
+        "texto": "T. raquelae 4000235617"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 66097,
+    "tags": [],
+    "enunciado": "Paciente, sexo masculino, 12 anos, 40 kg, admitido na Unidade de Pronto Atendimento, picado no membro superior direito por um escorpião amarelo. O acidente ocorreu no mesmo dia do atendimento, na residência do paciente na cidade de Recife-PE, há cerca de 8 horas. Foi registrada somente parestesia e dor local. Assinale a alternativa que indica a classificação e o tratamento que deve ser instituído.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Acidente leve, 1 ampola de soro antiescorpiônico."
+      },
+      {
+        "letra": "B",
+        "texto": "Acidente moderado, 2 ampolas de soro antiescorpiônico."
+      },
+      {
+        "letra": "C",
+        "texto": "Acidente moderado, 3 ampolas de soro antiescorpiônico."
+      },
+      {
+        "letra": "D",
+        "texto": "Acidente grave, 4 ampolas de soro antiescorpiônico."
+      },
+      {
+        "letra": "E",
+        "texto": "Nenhuma das alternativas. 4000235601"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 66098,
+    "tags": [],
+    "enunciado": "Homem, seringueiro (51 anos, residente em Estancia X, na área rural do município Y no Estado de São Paulo; é atendido na Unidade Básica de Saúde(UBS) com queixa de ter sido picado por uma cobra (com aparência de jararaca) no pé direito no dia 22/10/2024, há 45 minutos. Apresentou manifestação discreta como dor local, edema e parestesia. Houve piora da dor e do edema. A conduta correta do médico da UBS no dia 22/10/2024 deveria ser:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Encaminhar o paciente imediatamente, por se tratar de um acidente ofídico grave, em evolução, para a unidade de referência para atendimento de acidentes por animais peçonhentos, que fica na Unidade Básica Central do município, distante há 3 km da UBS, pois o paciente deve receber 6 ampolas de soro antibotrópico;"
+      },
+      {
+        "letra": "B",
+        "texto": "Encaminhar o paciente imediatamente, por se tratar de um acidente ofídico leve, em evolução, para a unidade de referência para atendimento de acidentes por animais peçonhentos, que fica no Hospital de Referência da Regional de Saúde, distante há 30 km da UBS, pois o paciente deve receber 3 ampolas de soro antibotrópico;"
+      },
+      {
+        "letra": "C",
+        "texto": "Encaminhar o paciente imediatamente, por se tratar de um acidente ofídico leve, em evolução, para a unidade de referência para atendimento de acidentes por animais peçonhentos, que fica no Hospital de Referência da Regional de Saúde, distante há 130 km da UBS, pois o paciente deve receber 12 ampolas de soro antibotrópico;"
+      },
+      {
+        "letra": "D",
+        "texto": "Encaminhar o paciente imediatamente, por se tratar de um acidente ofídico grave, em evolução, para a unidade de referência para atendimento de acidentes por animais peçonhentos, que fica na Unidade Básica Central do município, distante há 3 km da UBS, pois o paciente deve receber 8 ampolas de soro antibotrópico. 4000234531"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66099,
+    "tags": [],
+    "enunciado": "Paciente de 4 anos vem ao pronto atendimento 20 minutos após picada de escorpião. Enfermeira do plantão chama referindo que a criança está vomitando, tem pele fria e pegajosa, pulsos radiais (cid:71)nos e os seguintes sinais vitais: Frequência cardíaca variando entre 80 bpm e 170 bpm, pressão em membro superior direito 120/105 mmHg, frequência respiratória de 40 irpm, saturação de oxigênio 95%. Após o atendimento da paciente, a enfermeira pede para tirar uma dúvida do caso com você: Se a pressão estava alta, por que o pulso estava fino? Qual o mecanismo mais adequado para explicar a dúvida apresentada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pressões sistólica e diastólica muito convergentes."
+      },
+      {
+        "letra": "B",
+        "texto": "Pressão é medida em vaso central e pulso na periferia."
+      },
+      {
+        "letra": "C",
+        "texto": "Importante redução da fração de ejeção do miocárdio."
+      },
+      {
+        "letra": "D",
+        "texto": "Efeito arterial da liberação colinérgica do veneno. 4000234423"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66100,
+    "tags": [],
+    "enunciado": "Um menino de 9 anos de idade foi levado ao pronto‑socorro pelos pais devido à picada de uma cobra (conforme (cid:71)gura a seguir), no pé direito, há 30 minutos. A criança apresentou dor moderada, edema, eritema e rubor local. Instituto Butantã (Bothrops jararaca). Com base nessa situação hipotética, a conduta adequada deverá ser",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "permanecer em repouso, em observação clínica por 6 a 12 horas e analgesia."
+      },
+      {
+        "letra": "B",
+        "texto": "realizar torniquete, manter o segmento picado elevado e estendido e coletar tempo de coagulação."
+      },
+      {
+        "letra": "C",
+        "texto": "manter em observação clínica e, caso evolua com sinais de choque, administrar soro antibotrópico."
+      },
+      {
+        "letra": "D",
+        "texto": "internar e administrar soro antibotrópico intravenoso o mais precocemente possível."
+      },
+      {
+        "letra": "E",
+        "texto": "encaminhar o paciente à unidade de terapia intensiva e administrar soro antibotrópico intradérmico, no local da lesão. 4000234107"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 66101,
+    "tags": [],
+    "enunciado": "Paciente masculino, 45 anos, agricultor, morador de uma área rural no interior do Rio Grande do Sul. História Clínica: O paciente foi atendido em um hospital de campanha três semanas após uma enchente que devastou sua comunidade. Ele relata múltiplos problemas de saúde desde que foi deslocado para um abrigo temporário superlotado. Nos últimos sete dias, desenvolveu diarreia aquosa, associada a dores abdominais e vômitos. Além disso, descreve episódios de febre intermitente, cefaleia e dor retroorbitária. O paciente também apresenta uma lesão puntiforme no pé direito, resultado de uma ferida causada por um pedaço de metal enferrujado durante a enchente. Relata, ainda, dores musculares e cãibras nos últimos dias. Sua esposa, que está no mesmo abrigo, desenvolveu sintomas respiratórios agudos. Ele expressa preocupação com a segurança das filhas adolescentes, temendo violência sexual no abrigo Exames Físicos: -PA: 90/60 mmHg -FC:105 bpm -Temperatura:38,4°C Ao exame físico revela desidratação moderada, abdome doloroso à palpação difusa, lesão puntiforme com eritema e edema no pé direito, além de icterícia leve. História de Saúde: Paciente hipertenso, em uso irregular de medicamentos. Tem histórico de episódios anteriores de dengue, mas nunca apresentou hepatite ou outra doença infecciosa crônica.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "exposição a áreas alagadas e de vegetação densa aumenta o risco de picadas de animais peçonhentos. Se este paciente apresentasse uma picada de cobra, qual seria o sinal clínico mais esperado no local da picada?"
+      },
+      {
+        "letra": "A",
+        "texto": "Eritema difuso e prurido leve."
+      },
+      {
+        "letra": "B",
+        "texto": "Necrose tecidual e dor intensa no local da picada."
+      },
+      {
+        "letra": "C",
+        "texto": "Formação de bolhas e coloração azulada ao redor da lesão."
+      },
+      {
+        "letra": "D",
+        "texto": "Paralisia muscular progressiva. 4000233489"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66102,
+    "tags": [],
+    "enunciado": "Sobre os acidentes por aranhas do gênero Loxosceles (aranha‑marrom), assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A necrose detectada e a insuficiência renal são complicações comuns."
+      },
+      {
+        "letra": "B",
+        "texto": "A dor e o edema locais são de baixa intensidade, e o tratamento com corticoides é suficiente."
+      },
+      {
+        "letra": "C",
+        "texto": "O uso de compressas quentes ajuda a diminuir a ação do veneno."
+      },
+      {
+        "letra": "D",
+        "texto": "O soro antiaracnídico é indicado somente para reações alérgicas graves. 4000232808"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66103,
+    "tags": [],
+    "enunciado": "Em decorrência das enchentes que assolaram o Rio Grande do Sul neste ano, o risco para acidentes ofídicos aumentou na população pediátrica. O tipo de acidente mais prevalente, nesse caso, é o:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Laquético."
+      },
+      {
+        "letra": "B",
+        "texto": "Elapídico."
+      },
+      {
+        "letra": "C",
+        "texto": "Crotálico."
+      },
+      {
+        "letra": "D",
+        "texto": "Botrópico."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 66104,
+    "tags": [],
+    "enunciado": "Menino de 2 anos de idade teve contato com a lagarta representada na (cid:71)gura a seguir, enquanto brincava no jardim. Evoluiu com lesão de pele e dor local intensa, conforme imagem a seguir: Assinale a alternativa que corresponde a conduta terapêutica indicada.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Encaminhar para centro de referência para tratamento com soro."
+      },
+      {
+        "letra": "B",
+        "texto": "Internação para observação e coleta seriada de coagulograma."
+      },
+      {
+        "letra": "C",
+        "texto": "Controle da dor com analgésicos."
+      },
+      {
+        "letra": "D",
+        "texto": "Hiperidratação com solução fisiológica intravenosa."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66105,
+    "tags": [],
+    "enunciado": "Paciente masculino, admitido no pronto socorro após picada de animal desconhecido no pé esquerdo há 3 horas. Refere dor intensa e dormência, vômitos, e sudorese profusa e febre. Ao exame físico, febril, sonolento, hipocorado 2+/4, com frequência cardíaca de 40 batimentos por minuto, pressão arterial de 60x40 mmHg, dispneico, com frequência respiratória de 40 incursões respiratórias por minuto, ausculta pulmonar com estertores bilaterais difusos. O caso é sugestivo de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "acidente crotálico."
+      },
+      {
+        "letra": "B",
+        "texto": "acidente escorpiônico."
+      },
+      {
+        "letra": "C",
+        "texto": "acidente por himenóptero."
+      },
+      {
+        "letra": "D",
+        "texto": "acidente laquético."
+      },
+      {
+        "letra": "E",
+        "texto": "acidente elapídico."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66106,
+    "tags": [],
+    "enunciado": "Com relação aos acidentes com animais peçonhentos, pode-se afirmar, corretamente, que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "as picadas de escorpião acontecem mais frequentemente nas mãos."
+      },
+      {
+        "letra": "B",
+        "texto": "os acidentes crotálicos são mais prevalentes que os botrópicos."
+      },
+      {
+        "letra": "C",
+        "texto": "a ocorrências de acidente laquético restringe-se à região Nordeste do Brasil."
+      },
+      {
+        "letra": "D",
+        "texto": "o veneno elapídico tem ação predominante hemorrágica."
+      },
+      {
+        "letra": "E",
+        "texto": "anualmente, temos em média 10 óbitos por picada de abelhas no Brasil."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66107,
+    "tags": [],
+    "enunciado": "Algumas espécies de animais peçonhentos são consideradas de interesse em saúde pública no Brasil, devido à alta capacidade de proliferação em meios urbanos e a magnitude dos acidentes que provocam, seja em razão do número de acidentes que provocam em humanos, ao potencial de evolução clínica do envenenamento com gravidade ou de gerar sequelas temporárias e até mesmo permanentes. Sobre esse tema, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O acidente com serpentes de interesse em saúde é dividido em quatro grupos, de acordo com o gênero da serpente causadora: botrópico (cascavéis); crotálico (coral-verdadeira); laquético (surucucu) e elapídico (jararaca)."
+      },
+      {
+        "letra": "B",
+        "texto": "Acidente por abelha é o quadro de envenenamento decorrente da injeção de toxinas através do aparelho inoculador (ferrão) de abelhas. No Brasil, as abelhas ditas europeias são muito mais agressivas do que as africanizadas, ou seja, mestiças de Apis mellifera scutellata (africana) e Apis mellifera ligustica (européia)."
+      },
+      {
+        "letra": "C",
+        "texto": "No contexto brasileiro, os animais peçonhentos de interesse em saúde pública incluem algumas espécies de serpentes (gêneros Bothrops, Bothrocophias, Crotalus, Lachesis, Micrurus e Leptomicrurus), algumas espécies de escorpiões do gênero Tityus, aranhas dos gêneros Loxosceles, Phoneutria e 10 Latrodectus, abelhas do gênero Apis e lagartas do gênero Lonomia."
+      },
+      {
+        "letra": "D",
+        "texto": "Em caso de acidentes por águas-vivas e caravelas, o principal tratamento consiste em aplicar compressas mornas no local e lavar abundantemente com água doce e sabão para evitar infecções. Em seguida, deve-se realizar a remoção dos tentáculos aderidos à pele, preferencialmente com uso de pinça, lâmina e mão enluvada."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66108,
+    "tags": [],
+    "enunciado": "Paciente de 42 anos, estava em uma cachoeira de difícil acesso, próxima de Diamantina-MG, sendo picada por uma cobra em tornozelo direito. Foi levada ao Pronto Socorro do hospital da cidade pelos familiares algumas horas após, com quadro de dor e edema discreto no local, associado à mialgia generalizada, ptose palpebral, diplopia e turvação visual. Qual o diagnóstico e tratamento corretos para o caso descrito acima?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Acidente ofício botrópico; observação e analgesia por 24 horas."
+      },
+      {
+        "letra": "B",
+        "texto": "Acidente ofício botrópico; analgesia e administração do Soro Anti-botrópico."
+      },
+      {
+        "letra": "C",
+        "texto": "Acidente ofício crotálico; administração do Soro Anti-crotálico e cristalóide, além de analgesia."
+      },
+      {
+        "letra": "D",
+        "texto": "Acidente ofício crotálico; observação, analgesia e cristalóide."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66109,
+    "tags": [],
+    "enunciado": "Menino de 7 anos em investigação para TEA (Transtorno do Espectro Autista) chega ao pronto atendimento com quadro de choro intenso há menos de duas horas, e com polegar apresentando hiperemia e sudorese locais. Ao exame, está irritado, choroso, taquicárdico, taquipneico e hipertenso. Apresenta vômitos profusos, sialorreia, piloereção, lacrimejamento e priapismo. Dedo indicador com hiperemia e sudorese na polpa digital, sem marcas ou equimoses. Assinale a alternativa que apresenta o que é necessário neste caso: (SAA - Soro antiaracnídico / SAE - Soro antiescorpiônico):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fazer o bloqueio anestésico com lidocaína ou bupivacaína e deixar em observação por 6 a horas, reavaliando frequentemente."
+      },
+      {
+        "letra": "B",
+        "texto": "Iniciar expansão com SF 10 ml/kg, analgesia endovenosa, e SAA/SAE 10 ampolas - precedido de hidrocortisona e antihistamínico endovenosos."
+      },
+      {
+        "letra": "C",
+        "texto": "Fazer o bloqueio anestésico, solicitar ECG, ECO e Radiografia X de tórax, e observar por 4 a 6 horas."
+      },
+      {
+        "letra": "D",
+        "texto": "Analgesia, antiemético, solicitar ECG e ECO; indicar SAE 6 ampolas precedido de corticoide endovenoso."
+      },
+      {
+        "letra": "E",
+        "texto": "Fazer bloqueio anestésico, solicitar glicemia, amilase, troponina e ECG. Se exames normais, alta após 6 horas de observação."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 66110,
+    "tags": [],
+    "enunciado": "Uma criança de 6 anos é levada ao pronto-socorro pediátrico após ter sofrido acidente escorpiônico há 2 horas. A criança apresenta dor intensa no local da picada, sudorese, taquicardia e sialorreia discreta. Não apresentou vômitos. A pressão arterial está dentro dos valores normais. Considerando as informações no quadro apresentado, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Deve-se aguardar a realização de exames laboratoriais para determinar a melhor conduta."
+      },
+      {
+        "letra": "B",
+        "texto": "A presença de hipotensão não mudaria a conduta do caso."
+      },
+      {
+        "letra": "C",
+        "texto": "A melhor conduta é a analgesia e a hidratação, sem a administração de soro antiescorpiônico, pois trata-se de acidente escorpiônico leve."
+      },
+      {
+        "letra": "D",
+        "texto": "Deve-se realizar a administração de 2 a 3 ampolas de soro antiescorpiônico."
+      },
+      {
+        "letra": "E",
+        "texto": "Além do soro antiescorpiônico, deve-se administrar corticoide sistêmico e aplicação de gelo no local da picada."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 66111,
+    "tags": [],
+    "enunciado": "Considere que um homem chega ao pronto atendimento com relato de acidente ofídico. Os exames feitos demonstraram alteração da atividade de protrombina, PTT e (cid:71)brinogênio. São diagnósticos diferenciais desse acidente, exceto:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Crotálico"
+      },
+      {
+        "letra": "B",
+        "texto": "Elapídico"
+      },
+      {
+        "letra": "C",
+        "texto": "Botrópico"
+      },
+      {
+        "letra": "D",
+        "texto": "Laquético"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66112,
+    "tags": [],
+    "enunciado": "Paciente masculino, 35 anos, lavrador, morador da zona rural de Campina Grande do Sul-PR. Trazido ao pronto-socorro do Hospital Angelina Caron relatando ter sentido picada de cobra no tornozelo há aproximadamente 2 horas, enquanto trabalhava na lavoura. Queixa de dor intensa no local da mordida, edema crescente, equimose e sangramento local. O exame físico revela dois pontos de picada no tornozelo direito, com edema desde o terço médio da perna até o retropé, além de equimose local. PA 85/50 mmHg, FC 112, sudorese profusa. O paciente não identi(cid:71)cou a cobra mas, considerando o quadro clínico apresentado e a epidemiologia de acidentes ofídicos no estado do Paraná, qual agente causador mais provável e qual a classificação de gravidade deste acidente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Jararaca / acidente moderado"
+      },
+      {
+        "letra": "B",
+        "texto": "Cascavel / acidente grave"
+      },
+      {
+        "letra": "C",
+        "texto": "Surucucu / acidente grave"
+      },
+      {
+        "letra": "D",
+        "texto": "Cascavel / acidente moderado"
+      },
+      {
+        "letra": "E",
+        "texto": "Jararaca / acidente grave"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 66113,
+    "tags": [],
+    "enunciado": "Ainda sobre os acidentes ofídicos, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Acidentes crotálicos são mais comuns em áreas litorâneas e podem cursar com manifestações neurológicas, sendo a paralisia flácida uma das mais frequentes."
+      },
+      {
+        "letra": "B",
+        "texto": "Cobras corais verdadeiras são extremamente agressivas e a dose do soro antielapídico varia de acordo com a classificação de gravidade do acidente, que pode ser leve, moderado ou grave"
+      },
+      {
+        "letra": "C",
+        "texto": "Nos casos de acidente botrópico, deve-se atentar para complicações tais como síndrome compartimental, abscessos, necrose e lesão renal aguda."
+      },
+      {
+        "letra": "D",
+        "texto": "Considerando a abundante flora bacteriana presente na saliva das cobras, antibioticoterapia precoce está indicada em todos os acidentes ofídicos."
+      },
+      {
+        "letra": "E",
+        "texto": "Não há necessidade de profilaxia para tétano nos casos de acidente ofídico."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66114,
+    "tags": [],
+    "enunciado": "Paciente do sexo masculino, 25 anos de idade, residente na Ilha-do-Marajó no Estado do Pará, foi picado por uma cobra na face lateral da perna esquerda, quando caminhava em área de campo aberto. Inicialmente não apresentou nenhuma sintomatologia; relatava apenas parestesia no local da picada, sem edema, eritema ou dor. Procurou atendimento médico após 12 horas do acidente no Hospital do Município e apresentava ptose bipalpebral e mandibular, oftalmoplegia, mialgias, oligúria e urina escura. De acordo com o caso clínico apresentado, este é caracterizado como um acidente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "botrópico."
+      },
+      {
+        "letra": "B",
+        "texto": "laquético."
+      },
+      {
+        "letra": "C",
+        "texto": "crolático."
+      },
+      {
+        "letra": "D",
+        "texto": "elapídico."
+      },
+      {
+        "letra": "E",
+        "texto": "serpente não-peçonhenta."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66115,
+    "tags": [],
+    "enunciado": "Paciente do sexo masculino, 25 anos de idade, residente na Ilha-do-Marajó no Estado do Pará, foi picado por uma cobra na face lateral da perna esquerda, quando caminhava em área de campo aberto. Inicialmente não apresentou nenhuma sintomatologia; relatava apenas parestesia no local da picada, sem edema, eritema ou dor. Procurou atendimento médico após 12 horas do acidente no Hospital do Município e apresentava ptose bipalpebral e mandibular, oftalmoplegia, mialgias, oligúria e urina escura. De acordo com o caso clínico apresentado, é CORRETO afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a serpente do acidente em questão tem como principal representante no Brasil a cobra coral verdadeira (Micrurus lemniscatus)."
+      },
+      {
+        "letra": "B",
+        "texto": "o paciente pode apresentar como complicações gengivorragia, sangramento maciço, síndrome compartimental e insuficiência renal aguda."
+      },
+      {
+        "letra": "C",
+        "texto": "se o acidente for classificado como grave, devem ser administradas 10 ampolas do soro antiofídico indicado para o caso."
+      },
+      {
+        "letra": "D",
+        "texto": "o soro ou antiveneno deve ser administrado o mais rapidamente possível por via intramuscular."
+      },
+      {
+        "letra": "E",
+        "texto": "se fosse vista, a cobra do caso seria de fácil identificação, pois teria fosseta loreal e na cauda um chocalho ou guizo."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 66116,
+    "tags": [],
+    "enunciado": "Uma criança de 03 anos é levada a UPA pela mãe referindo ter sido picada por um escorpião-amarelo há 20 minutos, com um episódio de vômito. Ao exame físico refere dor e hiperemia no local da picada. Diante do quadro acima qual a conduta correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Como a criança apresenta sintomas leves no momento, deve permanecer na UPA em observação."
+      },
+      {
+        "letra": "B",
+        "texto": "Acesso periférico e iniciar dexametasona EV e observar a evolução."
+      },
+      {
+        "letra": "C",
+        "texto": "Encaminhar a criança imediatamente para o hospital referência para iniciar o soro antiescorpiônico."
+      },
+      {
+        "letra": "D",
+        "texto": "Encaminhar a criança para o hospital referência da região onde permanecerá em observação, dependendo da evolução iniciar o soro antiescorpiônico."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66117,
+    "tags": [],
+    "enunciado": "Paciente de 10 anos é atendido na Unidade de Pronto Atendimento (UPA) do município com a queixa de ter sido picado por uma cobra quando estava na beira do rio no rancho com seus pais. A picada foi no membro inferior esquerdo. Após aproximadamente 50 min do acidente chega na Emergência do Hospital (indicado como ponto estratégico - serviço onde será administrado o soro especí(cid:71)co para acidentes por animais peçonhentos) o mais precocemente possível. No atendimento observou-se no exame físico os seguintes sintomas locais: dor, edema e hematoma no lugar da picada. A suspeita é que a cobra é do tipo Bothrops jararaca, Pergunta-se: Quais as medidas que foram tomadas pelo médico que atendeu o caso? Qual a classificação deste acidente em relação as manifestações clínicas? Qual a conduta na administração do soro?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Atender rapidamente o caso. Notificar o caso para o setor de Vigilância Epidemiológica do Hospital para as medidas de vigilância em saúde preconizadas. Em relação as manifestações clínicas classifica-se o tipo de acidente como moderado. Administrar imediatamente 6 ampolas de soro antibotrópico;"
+      },
+      {
+        "letra": "B",
+        "texto": "Atender rapidamente o caso. Notificar o caso para o Grupo de Vigilância Epidemiológica regional para solicitar o envio do soro para este paciente. Em relação as manifestações clínicas classifica-se o tipo de acidente como leve. Administrar imediatamente 12 ampolas de soro antibotrópico;"
+      },
+      {
+        "letra": "C",
+        "texto": "Atender rapidamente o caso. Em relação as manifestações clínicas classifica-se o tipo de acidente como graves: Administrar imediatamente 8 ampolas de soro antibotrópico. Fazer a notificação do caso para o setor de Vigilância Epidemiológica do Hospital."
+      },
+      {
+        "letra": "D",
+        "texto": "Atender rapidamente o caso. Notificar o caso para o Grupo de Vigilância Epidemiológica regional para solicitar o envio do soro para este paciente. Em relação as manifestações clínicas classifica-se o tipo de acidente como leve: Administrar imediatamente 3 ampolas de soro antibotrópico;"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66118,
+    "tags": [],
+    "enunciado": "Homem de 35 anos chega ao Pronto-Socorro 3 horas após picada de serpente não identi(cid:71)cada. Apresenta ptose bilateral, dor muscular intensa e urina com coloração avermelhada. Há 2 orifícios puntiformes em sua perna esquerda e não há sinais inflamatórios ou dor local. O tipo de acidente ofídico mais provável é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "botrópico."
+      },
+      {
+        "letra": "B",
+        "texto": "elapídico."
+      },
+      {
+        "letra": "C",
+        "texto": "crotálico."
+      },
+      {
+        "letra": "D",
+        "texto": "laquético."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66119,
+    "tags": [],
+    "enunciado": "Menino, 9a, estava no sítio dos avós e sentiu picada no pé quando caminhava pelo pomar. Saiu correndo com o susto, sem identi(cid:71)car o que o atacou. Nas horas seguintes, o local da ferida tinha discreto edema e sensação de formigamento. Evoluiu com mal-estar, visão turva, di(cid:71)culdade de manter os olhos abertos, náuseas, dor muscular intensa e urina escura. A HIPÓTESE DIAGNÓSTICA É: Essa questão possui comentário do professor no site 4000209515",
+    "alternativas": [],
+    "resposta_correta": null
+  },
+  {
+    "id": 66120,
+    "tags": [],
+    "enunciado": "NÃO são fatores de risco de infecção em mordedura por animal:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Paciente com idade menor do que quatorze anos, hiperesplenismo e hipocolesterolemia."
+      },
+      {
+        "letra": "B",
+        "texto": "Ocorrência em locais como mãos, pés e punhos."
+      },
+      {
+        "letra": "C",
+        "texto": "Paciente com idade acima de cinquenta anos, insuficiência vascular periférica e alcoolismo crônico."
+      },
+      {
+        "letra": "D",
+        "texto": "Doenças metabólicas e asplenismo."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66121,
+    "tags": [],
+    "enunciado": "Criança de 2 anos, estava brincando nos fundos de casa, quando iniciou choro intenso. Após alguns minutos, apresentou muitos eplsódios de vomitos, audorese e palidez. Mãe procurou atendimento de urgência. Ao exame: sonolonta, sudoreica, com extremidades frias, sialorreica FC: oscilando de 90 a 166 bpm, FR: 45 ipm, oximetria de pulso: 90% om ar ambiento, PA: 138/80 mmHg. Ausculta cardiaca arritmica, sem sopros. Ausculta pulmonar: murmúrios reduzidos e com estertores em bases. Glicosimetria capilar: 364 mg/dL. Considerando o caso clinico acima, qual o tipo de choque envolvido?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hipovolémico"
+      },
+      {
+        "letra": "B",
+        "texto": "Anafilático."
+      },
+      {
+        "letra": "C",
+        "texto": "Cardiogênico."
+      },
+      {
+        "letra": "D",
+        "texto": "Séptico."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66122,
+    "tags": [],
+    "enunciado": "Escolar, sexo masculino, com 6 anos de idade, foi picado por um animal enquanto brincava no jardim de sua casa com seu irmão mais velho, no dia anterior. Ambos relataram que foi uma aranha a responsável. O local de picada foi a mão direita e os pais relatam que a queixa inicial foi apenas discreta dor que melhorou com aplicação de gelo. Entretanto, hoje criança amanheceu com uma bolha no local da picada e piora da dor, descrita com “arde como fogo”. A aranha não foi capturada. No exame físico a criança também está pálida e febril, com 38,0 °C. Qual o tipo de acidente mais provável e a conduta mais correta?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Loxoscélico; debridamento imediato, pois a lesão pode evoluir para necrose."
+      },
+      {
+        "letra": "B",
+        "texto": "Phonêutrico; antibioticoterapia tópica na lesão."
+      },
+      {
+        "letra": "C",
+        "texto": "Loxoscélico; analgésicos e antitérmicos e alta para casa."
+      },
+      {
+        "letra": "D",
+        "texto": "Phonêutrico; soroterapia devido às manifestações sistêmicas."
+      },
+      {
+        "letra": "E",
+        "texto": "Loxoscélico; exames laboratoriais para avaliação de hemólise."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 66123,
+    "tags": [],
+    "enunciado": "De acordo com o Instituto Butantan, o soro antielapídico (bivalente) é o único medicamento e(cid:71)caz para o tratamento de picadas por serpentes do gênero:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Crotalus."
+      },
+      {
+        "letra": "B",
+        "texto": "Lachesis."
+      },
+      {
+        "letra": "C",
+        "texto": "Bothrops."
+      },
+      {
+        "letra": "D",
+        "texto": "Philodryas."
+      },
+      {
+        "letra": "E",
+        "texto": "Micrurus. 4000204236"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 66124,
+    "tags": [],
+    "enunciado": "Qual o principal mecanismo de ação do veneno da aranha do gênero Lactrodectus (viúva-negra)?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Miotóxico;"
+      },
+      {
+        "letra": "B",
+        "texto": "Proteolítico;"
+      },
+      {
+        "letra": "C",
+        "texto": "Coagulante;"
+      },
+      {
+        "letra": "D",
+        "texto": "Neurotóxico;"
+      },
+      {
+        "letra": "E",
+        "texto": "Cardiotóxico."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 66125,
+    "tags": [],
+    "enunciado": "A ação da peçonha presente nas serpentes responsáveis pelos acidentes botrópicos é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente neurotóxica."
+      },
+      {
+        "letra": "B",
+        "texto": "Neurotóxica, miotóxica e coagulante."
+      },
+      {
+        "letra": "C",
+        "texto": "Nefrotóxica, proteolítica e neurotóxica."
+      },
+      {
+        "letra": "D",
+        "texto": "Proteolítica, coagulante e hemorrágica."
+      },
+      {
+        "letra": "E",
+        "texto": "Hemorrágica, coagulante e neurotóxica."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 66126,
+    "tags": [],
+    "enunciado": "Mulher, 24 anos de idade, é atendida na Unidade de Pronto Atendimento 20 minutos após acidente na praia com um animal hidrozoário conhecido como caravela-portuguesa (Physalia physalis). Ao exame, apresenta extensas placas urticariformes lineares em região posterior do tórax. Diante do caso e considerando as orientações do Ministério da Saúde, Indique a substância mais adequada a ser usada sobre a área afetada, ainda no local do acidente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Água mineral."
+      },
+      {
+        "letra": "B",
+        "texto": "Urina."
+      },
+      {
+        "letra": "C",
+        "texto": "Água de coco."
+      },
+      {
+        "letra": "D",
+        "texto": "Água do mar. 4000193708"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 66127,
+    "tags": [],
+    "enunciado": "Mulher, 24 anos de idade, é atendida na Unidade de Pronto Atendimento 20 minutos após acidente na praia com um animal hidrozoário conhecido como caravela-portuguesa (Physalia physalis). Ao exame, apresenta extensas placas urticariformes lineares em região posterior do tórax. Diante do caso e considerando as orientações do Ministério da Saúde, Identi(cid:71)que complicações que mais comumente se associam ao acidente com o animal peçonhento envolvido no caso:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Convulsões e hemólise."
+      },
+      {
+        "letra": "B",
+        "texto": "Paraplegia e diarreia."
+      },
+      {
+        "letra": "C",
+        "texto": "Arritmia e anafilaxia."
+      },
+      {
+        "letra": "D",
+        "texto": "Necrose e insuficiência renal aguda. 4000193707"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66128,
+    "tags": [],
+    "enunciado": "Mulher, 24 anos de idade, é atendida na Unidade de Pronto Atendimento 20 minutos após acidente na praia com um animal hidrozoário conhecido como caravela-portuguesa (Physalia physalis). Ao exame, apresenta extensas placas urticariformes lineares em região posterior do tórax. Diante do caso e considerando as orientações do Ministério da Saúde, Indique a conduta mais adequada, neste momento:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Usar ácido acético a 5% tópico."
+      },
+      {
+        "letra": "B",
+        "texto": "Aplicar soro heterólogo intravenoso."
+      },
+      {
+        "letra": "C",
+        "texto": "Aplicar sulfadiazina de prata tópica."
+      },
+      {
+        "letra": "D",
+        "texto": "Aplicar glicerina líquida tópica. 4000193706"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66129,
+    "tags": [],
+    "enunciado": "Paciente sexo masculino, 22 anos, do interior do estado, procura atendimento em pronto atendimento com história de início súbito de diplopia, ptose palpebral e sangramento nasal importante associado a hematúria macroscópica. Paciente previamente hígido sem uso de medicações. Ao exame físico além dos achados descritos observa-se a seguinte lesão cutânea: Os exames iniciais solicitados: Hb: 9,8, GL: 6500, Plaq: 150.000mm³, RNI: 2,8, TTPa: 48/25₈, Creatinina: 2,4, Ureia: 110, CPK: 4500 e LDH: 1450. Quanto a possibilidade de acidente com animais peçonhentos, assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Trata-se de um provável acidente botrópico, comumente causado por jararaca, sendo este o mais comum no Brasil predominando sintomas sistêmicos causados por nefrotoxicidade e miotoxicidade."
+      },
+      {
+        "letra": "B",
+        "texto": "Trata-se de provável acidente crotálico, comumente causado por cascavel, a ação do veneno é neurotóxica, miotóxica e nefrotóxica levando a rabdomiólise e paralisia neural. Deve se manter alto débito urinário."
+      },
+      {
+        "letra": "C",
+        "texto": "Trata-se de um provável acidente botrópico mais letal que o acidente crotálico, deve-se iniciar hidratação para evitar IRA."
+      },
+      {
+        "letra": "D",
+        "texto": "Trata-se de um provável acidente crotálico, mais comum no Brasil, sendo um dos exemplos a cobra coral, seu veneno faz bloqueio neuromuscular e a morte ocorre por insuficiência respiratória. 4000190157"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66130,
+    "tags": [],
+    "enunciado": "Em relação aos cuidados no acidente botrópico podemos incluir:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Atenção às feridas locais que se manifes- tam dolorosas, equimóticas e com edema significativo, podendo evoluir com comprometimento sistêmico com choque, anúria e hemorragias graves."
+      },
+      {
+        "letra": "B",
+        "texto": "Indicação da quantidade de soroterapia específica para o acidente se baseia na classificação da gravidade da sintomatologia, devendo ser aplicada por via intravenosa em período até 72 horas do acidente."
+      },
+      {
+        "letra": "C",
+        "texto": "Soroterapia deve ser sempre específica para o tipo de acidente relatado; por isso a importância de se encontrar o animal responsável, a fim de solicitar o soro recomendado, não havendo recomendação de repetições de doses."
+      },
+      {
+        "letra": "D",
+        "texto": "Escolha do antimicrobiano deve ser instituída o mais precocemente possível devido ao alto risco de infecção local, considerando os agentes patógenos presentes na cavidade oral da cobra. 4000188985"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66131,
+    "tags": [],
+    "enunciado": "Paciente com 14 anos estava fazendo uma trilha em local de mata nativa e foi picado no tornozelo direito. Apresentou imediata e signi(cid:71)cativa dor local, com edema que rapidamente progrediu pela perna e, após 1 hora, atingiu a coxa, di(cid:71)cultando a deambulação. Apresentou equimoses e pequenas bolhas de conteúdo seroso no local da picada e não foi observada qualquer manifestação neurológica. Essa apresentação clínica caracteriza um acidente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Botrópico."
+      },
+      {
+        "letra": "B",
+        "texto": "Elapídico."
+      },
+      {
+        "letra": "C",
+        "texto": "Loxoscélico."
+      },
+      {
+        "letra": "D",
+        "texto": "Escorpiônico. 4000188925"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66132,
+    "tags": [],
+    "enunciado": "Um grupo de turistas de 5 pessoas começou uma trilha em Florianópolis - SC até uma praia famosa. Porém, após saírem da trilha para o meio da mata devido a um desa(cid:71)o, um deles acidentou-se com um animal peçonhento. Infelizmente, o passeio terminou mais cedo e tiveram que procurar um centro de saúde. Eles não capturaram o animal para mostrar ao médico de saúde da família. Sobre acidentes com animais peçonhentos, marque a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Se 24 horas após iniciar com bolha de conteúdo hemorrágico, circundada por halo isquêmico seguido por área eritematosa e ulceração, deve ter sido picado por aranhamarrom."
+      },
+      {
+        "letra": "B",
+        "texto": "Se dor importante, com eritema e prurido, sem bolha, deve ter sido picado por aranha caranguejeira, havendo risco de hemorragia, com necessidade de encaminhamento para emergência."
+      },
+      {
+        "letra": "C",
+        "texto": "Se houver a presença de tentáculos aderidos, eles devem ser retirados, evitar o uso de água doce para lavar o local e não esfregar com panos secos, que são orientações para acidente com Lonomia obliqua."
+      },
+      {
+        "letra": "D",
+        "texto": "Se houver a presença de ferroadas ou mordeduras descarta-se que o acidente tenha sido causado por animais marinhos, pois o quadro habitual é de eritema e prurido com dor local. 4000187982"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66133,
+    "tags": [],
+    "enunciado": "A insu(cid:71)ciência renal aguda pode ser secundária a acidentes por animais peçonhentos, podemos a(cid:71)rmar que acidentes com serpentes de maior incidência são: (Nefrologia Pediatrica-ToporovskiMello-Martini Filho- Benini-Andrade,2a edição-Cap.24, Pag.504.)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Acidente Botrópico"
+      },
+      {
+        "letra": "B",
+        "texto": "Acidente Crotálico"
+      },
+      {
+        "letra": "C",
+        "texto": "Acidente Laquético"
+      },
+      {
+        "letra": "D",
+        "texto": "Acidente por Loxcosceles"
+      },
+      {
+        "letra": "E",
+        "texto": "Acidente por Lonomia 4000187845"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66134,
+    "tags": [],
+    "enunciado": "Paciente de 20 anos, do sexo masculino, chega ao pronto socorro após ser picado por cobra no tornozelo direito, há 3h, em zona rural próximo a Cuiabá. Ele chega apresentando: sonolência, prostração, vômitos, fáceis miastênica (ptose palpebral bilateral e (cid:92)acidez da musculatura da face), diplopia e mialgia importante. Refere pouca dor na região da picada. Quando foi passada a sonda vesical, constatou-se urina de cor escura (cor de chá preto). Esse caso trata-se de um acidente do tipo",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Botrópico."
+      },
+      {
+        "letra": "B",
+        "texto": "Crotálico."
+      },
+      {
+        "letra": "C",
+        "texto": "Laquético."
+      },
+      {
+        "letra": "D",
+        "texto": "Elapídico. 4000186242"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66135,
+    "tags": [],
+    "enunciado": "Mulher, 24 anos de idade, é atendida na Unidade de Pronto Atendimento 20 minutos após acidente na praia com um animal hidrozoário conhecido como caravela-portuguesa (Physalia physalis). Ao exame, apresenta extensas placas urticariformes lineares em região posterior do tórax. Diante do caso e considerando as orientações do Ministério da Saúde, Indique a substância mais adequada a ser usada sobre a área afetada, ainda no local do acidente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Água mineral."
+      },
+      {
+        "letra": "B",
+        "texto": "Urina."
+      },
+      {
+        "letra": "C",
+        "texto": "Água de coco."
+      },
+      {
+        "letra": "D",
+        "texto": "Água do mar. 4000185347"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 66136,
+    "tags": [],
+    "enunciado": "Mulher, 24 anos de idade, é atendida na Unidade de Pronto Atendimento 20 minutos após acidente na praia com um animal hidrozoário conhecido como caravela-portuguesa (Physalia physalis). Ao exame, apresenta extensas placas urticariformes lineares em região posterior do tórax. Diante do caso e considerando as orientações do Ministério da Saúde, Identi(cid:71)que complicações que mais comumente se associam ao acidente com o animal peçonhento envolvido no caso:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Convulsões e hemólise."
+      },
+      {
+        "letra": "B",
+        "texto": "Paraplegia e diarreia."
+      },
+      {
+        "letra": "C",
+        "texto": "Arritmia e anafilaxia."
+      },
+      {
+        "letra": "D",
+        "texto": "Necrose e insuficiência renal aguda. 4000185346"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66137,
+    "tags": [],
+    "enunciado": "Mulher, 24 anos de idade, é atendida na Unidade de Pronto Atendimento 20 minutos após acidente na praia com um animal hidrozoário conhecido como caravela-portuguesa (Physalia physalis). Ao exame, apresenta extensas placas urticariformes lineares em região posterior do tórax. Diante do caso e considerando as orientações do Ministério da Saúde, Indique a conduta mais adequada, neste momento:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Usar ácido acético a 5% tópico."
+      },
+      {
+        "letra": "B",
+        "texto": "Aplicar soro heterólogo intravenoso."
+      },
+      {
+        "letra": "C",
+        "texto": "Aplicar sulfadiazina de prata tópica."
+      },
+      {
+        "letra": "D",
+        "texto": "Aplicar glicerina líquida tópica. 4000185345"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66138,
+    "tags": [],
+    "enunciado": "Homem, 54 anos, é vítima de picada de cobra em membro superior direito. Pode-se a(cid:71)rmar que a melhor conduta é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "remover o paciente da área de perigo; realizar torniquete no membro superior até transportar para o hospital objetivando diminuir circulação de toxinas."
+      },
+      {
+        "letra": "B",
+        "texto": "limpar a ferida e elevar o membro afetado; prosseguir com aspiração da ferida objetivando aspirar o conteúdo tóxico; transportar para o hospital para avaliação de administração de soro antiofídico."
+      },
+      {
+        "letra": "C",
+        "texto": "remover o paciente da área de perigo; limpar a ferida e elevar o membro; transportar para o hospital para avaliação de necessidade de administração de soro antiofídico."
+      },
+      {
+        "letra": "D",
+        "texto": "limpar a ferida; realizar crioterapia local; transportar para o hospital para avaliação de necessidade de administração de soro antiofídico."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66139,
+    "tags": [],
+    "enunciado": "Menino, 1a, é trazido à Emergência com história de choro intenso, agitação, sudorese fria e seis episódios de vômito há cerca de uma hora. Exame físico: regular estado geral; sonolento; choroso; T=36,8°C; FC=175bpm; FR=32irpm; pulsos cheios, enchimento capilar=2seg. Levado à Sala de Urgência. Eletrocardiograma: ritmo sinusal, onda T invertida em algumas derivações e presença de onda U. Glicemia capilar=204mg/dL. A HIPÓTESE DIAGNÓSTICA É:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Síndrome do QT longo."
+      },
+      {
+        "letra": "B",
+        "texto": "Acidente escorpiônico."
+      },
+      {
+        "letra": "C",
+        "texto": "Sepse criptogênica."
+      },
+      {
+        "letra": "D",
+        "texto": "Cetoacidose diabética."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66140,
+    "tags": [],
+    "enunciado": "Com relação aos acidentes botrópicos, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O veneno tem 3 ações principais: proteolítica, coagulante e hemorrágica."
+      },
+      {
+        "letra": "B",
+        "texto": "Como provoca intensa dor local, seu principal diagnóstico diferencial é com acidente elapídico."
+      },
+      {
+        "letra": "C",
+        "texto": "A ocorrência de quadro de insuficiência renal é bastante prevalente, em 50% dos casos aproximadamente, mesmo depois da aplicação do soro específico após 6 horas da picada."
+      },
+      {
+        "letra": "D",
+        "texto": "Edema agudo de pulmão e quadro de insuficiência respiratória aguda, em geral, aparecem nas duas primeiras horas após a picada. 4000184022"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66141,
+    "tags": [],
+    "enunciado": "Os acidentes ofídicos por serpentes do gênero Bothrops, popularmente conhecidas por jararacas, são os mais frequentes. Assinale a alternativa que descreve corretamente as principais ações do veneno dessas serpentes.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ações neurotóxicas ocasionando paralisias musculares."
+      },
+      {
+        "letra": "B",
+        "texto": "Ações miotóxicas levando à mialgia por rabdomiólise maciça."
+      },
+      {
+        "letra": "C",
+        "texto": "Ações proteolíticas gerando dor, edema, bolhas e necrose."
+      },
+      {
+        "letra": "D",
+        "texto": "Ações neurotóxicas ocasionando fácies miastênicas. 4000183948"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66142,
+    "tags": [],
+    "enunciado": "Considerando os acidentes relacionados a animais peçonhentos, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As principais ações do veneno botrópico são proteolíticas, coagulantes e hemorrágicas."
+      },
+      {
+        "letra": "B",
+        "texto": "As principais ações do veneno crotálico são proteolíticas, hemorrágicas e neurotóxicas."
+      },
+      {
+        "letra": "C",
+        "texto": "Os acidentes escorpiônicos decorrem, em 65% das vezes, de picadas em membros inferiores, pernas e pés."
+      },
+      {
+        "letra": "D",
+        "texto": "Os acidentes elapídicos representam a segunda maior causa de acidentes por animais peçonhentos no Brasil."
+      },
+      {
+        "letra": "E",
+        "texto": "As reações graves ao veneno das abelhas, em geral, provocam quadros de liberação do sistema nervoso autônomo, com taquicardia, hipertensão arterial e retenção urinária."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66143,
+    "tags": [],
+    "enunciado": "Como proceder em caso de acidente escorpiônico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Amarrar ou fazer torniquete."
+      },
+      {
+        "letra": "B",
+        "texto": "Aplicar algum tipo de substância sobre o local da picada (fezes, álcool, querosene, fumo, ervas, urina) e fazer curativos que fechem o local."
+      },
+      {
+        "letra": "C",
+        "texto": "Cortar, perfurar ou queimar o local da picada."
+      },
+      {
+        "letra": "D",
+        "texto": "Dar bebidas alcoólicas ao acidentado, ou outros líquidos como álcool, gasolina, querosene para aliviar a dor."
+      },
+      {
+        "letra": "E",
+        "texto": "Limpar o local com água e sabão, procurar orientação médica imediata e mais próxima do local da ocorrência do acidente e se for possível, capturar o animal e levá-lo ao serviço de saúde, pois a identificação do escorpião causador do acidente pode auxiliar o diagnóstico. 4000193515"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 66144,
+    "tags": [],
+    "enunciado": "Em 2020 e 2021 ocorrem muitos acidentes com o escorpião amarelo (T. serrulatus) no Estado de São Paulo. Assinale a alternativa correta com relação a ele.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A maior parte dos eventos ocorre nos meses frios e secos."
+      },
+      {
+        "letra": "B",
+        "texto": "Em 65% dos casos, a picada ocorre nos membros inferiores."
+      },
+      {
+        "letra": "C",
+        "texto": "Acidentes considerados como leves são aqueles que se caracterizam por dor intensa no local da picada e manifestações sistêmicas do tipo sudorese discretas, náuseas, vômitos ocasionais, taquicardia, taquipneia e hipertensão leve."
+      },
+      {
+        "letra": "D",
+        "texto": "A administração do soro antiescorpiônico deve ocorrer apenas 6 horas após o acidente, trazendo esse intervalo maior benefício do ponto de vista cardiopulmonar e hemodinâmico."
+      },
+      {
+        "letra": "E",
+        "texto": "As maiores taxas de letalidade são encontradas na faixa etária dos menores de 14 anos. 4000190940"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 66145,
+    "tags": [],
+    "enunciado": "Paciente é atendido em pronto-socorro com os seguintes sinais e sintomas: formigamento boca e língua, náuseas, vômitos e hipotensão arterial, fasciculação muscular e ptose palpebral. Dentre os animais peçonhentos relacionados, qual apresenta maior compatibilidade com o caso?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aranha marrom"
+      },
+      {
+        "letra": "B",
+        "texto": "Escorpião"
+      },
+      {
+        "letra": "C",
+        "texto": "Cascavel"
+      },
+      {
+        "letra": "D",
+        "texto": "Aranha caranguejeira 4000175979"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66146,
+    "tags": [],
+    "enunciado": "No atendimento a pacientes vítimas de acidente botrópico (jararaca), é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "abscesso não é uma complicação neste tipo de acidente, estando mais associado ao acidente crotálico."
+      },
+      {
+        "letra": "B",
+        "texto": "é indicado solicitar o tempo de coagulação na admissão e após 24h de observação do doente. Se o Tempo de Coagulação permanecer alterado, está indicada dose adicional de soro antibotrópico."
+      },
+      {
+        "letra": "C",
+        "texto": "devido à ação proteolítica do veneno botrópico, está indicado o uso de torniquetes, a fim de evitar a necrose tecidual."
+      },
+      {
+        "letra": "D",
+        "texto": "o tratamento consiste na administração de soro antibotrópico (SAB) endovenoso em 8 - 10 ampolas para quadros leves, e 10 - 12 ampolas para quadros graves."
+      },
+      {
+        "letra": "E",
+        "texto": "se estabelecido o diagnóstico de síndrome compartimental, a fasciotomia deve ser evitada para não disseminar o veneno botrópico, mesmo que as condições de hemostasia do paciente permitam. 4000175676"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66147,
+    "tags": [],
+    "enunciado": "Paciente de 3 anos chega ao Pronto Socorro com história de picada de cobra a cerca de 6 horas, enquanto andava pelo pasto de zona rural no começo da noite. Apresenta leve edema na perna direita e dor intensa. Mãe refere importante turvação urinária. Apresenta ptose palpebral, anisocoria leve e pouca expressão facial, mesmo nos momentos de dor. Frente aos achados, qual seria a sua hipótese diagnóstica, estadiamento e tratamento?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "AcidenteBotrópico, Grave, Instituir Soro Antibotrópico 12 Ampolas"
+      },
+      {
+        "letra": "B",
+        "texto": "Acidente Crotálico, Grave, Instituir Soro Anticrotálico, 20 Ampolas"
+      },
+      {
+        "letra": "C",
+        "texto": "Acidente Laquético, Moderado, Instituir Soro Antilaquético, 12 Ampolas"
+      },
+      {
+        "letra": "D",
+        "texto": "Acidente Elapídico, Grave, Instituir Soro Antielapídico, 10 Ampolas"
+      },
+      {
+        "letra": "E",
+        "texto": "Acidente Crotálico, Moderado, Instituir Soro Anticrotálico 10 Ampolas 4000175222"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66148,
+    "tags": [],
+    "enunciado": "Os acidentes por animais peçonhentos no Brasil é tema de grande relevância, pois podem estar relacionados à ocorrência de óbitos ou produção de sequelas. Sobre esses acidentes, assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "São quatro os gêneros de serpentes de interesse médico: Bothrops, Crotalus, Lachesis e Micrurus."
+      },
+      {
+        "letra": "B",
+        "texto": "No ofidismo, o soro ou antiveneno deve ser específico para cada tipo de acidente, e a via de administração é a endovenosa."
+      },
+      {
+        "letra": "C",
+        "texto": "No escorpionismo, o soro antiescorpiônico ou antiaracnídico é indicado nos acidentes moderados e graves."
+      },
+      {
+        "letra": "D",
+        "texto": "O araneísmo constitui, dentre os acidentes por animais peçonhentos, o de maior interesse médico devido à frequência e gravidade."
+      },
+      {
+        "letra": "E",
+        "texto": "A picada de aranha do gênero Loxosceles pode causar úlcera necrótica na região afetada."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 66149,
+    "tags": [],
+    "enunciado": "Adolescente, 11 anos, com quadro de de(cid:71)ciência mental leve, chega ao pronto-atendimento com quadro súbito de vômitos incoercíveis. Ao exame, apresenta-se com quadro de agitação psicomotora, sialorreia, lacrimejamento, sudorese profusa e priapismo. Dextro = 285mg/dl. Ausculta cardiopulmonar revela FC = 126 bpm com inúmeras extrassístoles. Conduta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "expansão volêmica por 20ml/kg na primeira hora."
+      },
+      {
+        "letra": "B",
+        "texto": "insulina regular 0,1 UI/kg em bomba de infusão."
+      },
+      {
+        "letra": "C",
+        "texto": "investigar intoxicação exógena por anfetaminas."
+      },
+      {
+        "letra": "D",
+        "texto": "soro antiescorpiônico."
+      },
+      {
+        "letra": "E",
+        "texto": "investigar miocardite viral."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 66150,
+    "tags": [],
+    "enunciado": "Com relação aos acidentes escorpiônicos, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A realização de bloqueio anestésico está contraindicada em crianças menores de 10 anos."
+      },
+      {
+        "letra": "B",
+        "texto": "A aplicação do soro antiescorpiônico está indicada nos casos leves, moderados e graves, em pacientes acima de 65 anos."
+      },
+      {
+        "letra": "C",
+        "texto": "Acidentes escorpiônicos têm sua notificação compulsória obrigatória ao Ministério da Saúde nas primeiras 24 horas."
+      },
+      {
+        "letra": "D",
+        "texto": "As picadas atingem predominantemente os membros inferiores, pernas e pés."
+      },
+      {
+        "letra": "E",
+        "texto": "Casos graves e óbitos são mais frequentes em crianças de 0 a 10 anos e em idosos, principalmente quando causados pela espécie Tityus serrulatus."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 66151,
+    "tags": [],
+    "enunciado": "Menino, 12a, refere ter sido picado na perna direita por animal há 2 horas quando estava em mata, com dor no local desde então. Exame físico: FC= 124 bpm, FR= 20 irpm, PA= 100x60mmHg; membro inferior direito: edema até fossa poplítea e equimose em tornozelo. O DIAGNÓSTICO É:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Acidente elapídico"
+      },
+      {
+        "letra": "B",
+        "texto": "Acidente por loxosceles"
+      },
+      {
+        "letra": "C",
+        "texto": "Acidente crotálico"
+      },
+      {
+        "letra": "D",
+        "texto": "Acidente botrópico"
+      },
+      {
+        "letra": "E",
+        "texto": "Acidente laquético 4000168020"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 66152,
+    "tags": [],
+    "enunciado": "Assinale a alternativa correta em relação à acidentes ofídicos:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Para o tratamento de picada da cobra surucucu-bico-de-jaca é utilizado o soro anti-laquético"
+      },
+      {
+        "letra": "B",
+        "texto": "Para o tratamento de picada da cobra cascavel é aplicado o soro anti-botrópico."
+      },
+      {
+        "letra": "C",
+        "texto": "Para o tratamento de picada da cobra jararaca é aplicado o soro anti-micrúrico"
+      },
+      {
+        "letra": "D",
+        "texto": "Para o tratamento de picada da cobra coral é utilizado o soro anti-corálico."
+      },
+      {
+        "letra": "E",
+        "texto": "Para o tratamento de picada de cobra d’água é utilizado o soro antiofídico. 4000167940"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66153,
+    "tags": [],
+    "enunciado": "Um paciente de 15 anos de idade procurou atendimento médico 24 horas após ter sido picado por formigas “lava-pés” (gênero Solenopsis) no dorso e na região lateral do pé direito. Relatou que, inicialmente, teve dor em queimação intensa, a qual posteriormente cedeu, e ele passou a sentir prurido local com surgimento de pápulas. Um dia depois, notou que várias pápulas se tornaram pústulas, com eritema e persistência do prurido. Negou aparecimento de febre. O exame clínico con(cid:71)rmou a presença de algumas vesículas e pústulas íntegras no local informado, além de leve edema e eritema perilesional. Considerando as recomendações do Ministério da Saúde e com base nesse caso clínico, julgue o item. O uso de anti-histamínicos e corticoides orais deve ser reservado para os casos em que há reações alérgicas de moderadas a intensas.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Certo."
+      },
+      {
+        "letra": "B",
+        "texto": "Errado. 4000167642"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66154,
+    "tags": [],
+    "enunciado": "Um paciente de 15 anos de idade procurou atendimento médico 24 horas após ter sido picado por formigas “lava-pés” (gênero Solenopsis) no dorso e na região lateral do pé direito. Relatou que, inicialmente, teve dor em queimação intensa, a qual posteriormente cedeu, e ele passou a sentir prurido local com surgimento de pápulas. Um dia depois, notou que várias pápulas se tornaram pústulas, com eritema e persistência do prurido. Negou aparecimento de febre. O exame clínico con(cid:71)rmou a presença de algumas vesículas e pústulas íntegras no local informado, além de leve edema e eritema perilesional. Considerando as recomendações do Ministério da Saúde e com base nesse caso clínico, julgue o item. O uso de corticoides tópicos não é recomendado em casos semelhantes ao descrito.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Certo."
+      },
+      {
+        "letra": "B",
+        "texto": "Errado. 4000167641"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66155,
+    "tags": [],
+    "enunciado": "Um paciente de 15 anos de idade procurou atendimento médico 24 horas após ter sido picado por formigas “lava-pés” (gênero Solenopsis) no dorso e na região lateral do pé direito. Relatou que, inicialmente, teve dor em queimação intensa, a qual posteriormente cedeu, e ele passou a sentir prurido local com surgimento de pápulas. Um dia depois, notou que várias pápulas se tornaram pústulas, com eritema e persistência do prurido. Negou aparecimento de febre. O exame clínico con(cid:71)rmou a presença de algumas vesículas e pústulas íntegras no local informado, além de leve edema e eritema perilesional. Considerando as recomendações do Ministério da Saúde e com base nesse caso clínico, julgue o item. O paciente deve ser tratado com antibioticoterapia, pois as pústulas indicam infecção secundária.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Certo."
+      },
+      {
+        "letra": "B",
+        "texto": "Errado. 4000167640"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66156,
+    "tags": [],
+    "enunciado": "Um paciente de 15 anos de idade procurou atendimento médico 24 horas após ter sido picado por formigas “lava-pés” (gênero Solenopsis) no dorso e na região lateral do pé direito. Relatou que, inicialmente, teve dor em queimação intensa, a qual posteriormente cedeu, e ele passou a sentir prurido local com surgimento de pápulas. Um dia depois, notou que várias pápulas se tornaram pústulas, com eritema e persistência do prurido. Negou aparecimento de febre. O exame clínico con(cid:71)rmou a presença de algumas vesículas e pústulas íntegras no local informado, além de leve edema e eritema perilesional. Considerando as recomendações do Ministério da Saúde e com base nesse caso clínico, julgue o item. No Centro-Oeste, a espécie de maior importância nos acidentes por formigas é a lava-pés vermelha.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Certo."
+      },
+      {
+        "letra": "B",
+        "texto": "Errado. 4000167639"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66157,
+    "tags": [],
+    "enunciado": "Homem, 41a, previamente hígido, foi admitido na sala de emergência cerca de 36 horas após ter sentido uma picada pouco dolorosa na coxa direita após vestir o macacão de trabalho de marcenaria, que estava pendurado em um cabideiro de parede. Cerca de 8-12 horas após a picada relatou início de dor local em queimação e pontadas recorrentes, de moderada/forte intensidade (nota 6/7 na escala de notas de dor 0- 10), acompanhada de vermelhidão e “inchaço duro” no local da picada. Queixou- se também de cefaleia, indisposição, dores no corpo e febre (38°C). Exame físico: lesão violácea (área de aproximadamente 5x2 cm) com vesículas de conteúdo hemorrágico no centro da lesão, edema endurado, e uma grande placa eritematosa (14x8 cm). TRATA-SE DE PROVÁVEL PICADA POR: Essa questão possui comentário do professor no site 4000167419",
+    "alternativas": [],
+    "resposta_correta": null
+  },
+  {
+    "id": 66158,
+    "tags": [],
+    "enunciado": "Sobre as picadas de abelhas, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nos acidentes causados por enxame, a retirada dos ferrões da pele deve ser feita por pinçamento."
+      },
+      {
+        "letra": "B",
+        "texto": "Mais de 70% dos indivíduos que apresentaram grandes reações localizadas terão reações sistêmicas, com anafilaxia 2 a 3 minutos após a picada."
+      },
+      {
+        "letra": "C",
+        "texto": "A intensidade da reação inicial não está relacionada com a sensibilização e maior risco às exposições subsequentes."
+      },
+      {
+        "letra": "D",
+        "texto": "Os acidentes com enxames podem desencadear quadro tóxico generalizado, com manifestações como hemólise intravascular e rabdomiólise, alterações neurológicas e insuficiência renal aguda."
+      },
+      {
+        "letra": "E",
+        "texto": "Os glicocorticoides e anti-histamínicos são a melhor opção terapêutica para controlar reações como urticária gigante e broncoespasmo."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 66159,
+    "tags": [],
+    "enunciado": "Diante de um acidente por animal peçonhento, a ação imediata recomendada é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "aplicar um torniquete no local da picada."
+      },
+      {
+        "letra": "B",
+        "texto": "colocar compressa de água doce gelada."
+      },
+      {
+        "letra": "C",
+        "texto": "lavar a região afetada e manter o paciente deitado."
+      },
+      {
+        "letra": "D",
+        "texto": "remover o veneno por sucção."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66160,
+    "tags": [],
+    "enunciado": "Homem, 19 anos de idade, lavrador, dá entrada na emergência após acidente ofídico por jararaca, em pé esquerdo, há 48 horas. Queixa-se de dor intensa no local da picada. Nega comorbidades. Ao exame físico, apresenta-se em regular estado geral, com FR: 22irpm, PA: 140x90mmHg, FC: 100bpm, SatO₂: 95%. Observam-se dois orifícios de inoculação, edema, equimose e lesões bolhosas no local da picada. Diante do quadro descrito, Indique as complicações que esse paciente, mais provavelmente, poderá apresentar.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hemorragias, decorrentes de plaquetopenia e distúrbios de coagulação."
+      },
+      {
+        "letra": "B",
+        "texto": "Fácies miastênica e ptose, decorrentes do efeito neurotóxico do veneno."
+      },
+      {
+        "letra": "C",
+        "texto": "Síndrome vagal, com diarreia, bradicardia, hipotensão."
+      },
+      {
+        "letra": "D",
+        "texto": "Rabdomiólise, devido ao efeito miotóxico do veneno."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66161,
+    "tags": [],
+    "enunciado": "Homem, 19 anos de idade, lavrador, dá entrada na emergência após acidente ofídico por jararaca, em pé esquerdo, há 48 horas. Queixa-se de dor intensa no local da picada. Nega comorbidades. Ao exame físico, apresenta-se em regular estado geral, com FR: 22irpm, PA: 140x90mmHg, FC: 100bpm, SatO₂: 95%. Observam-se dois orifícios de inoculação, edema, equimose e lesões bolhosas no local da picada. Em relação ao tratamento específico, o soro anti-veneno a ser aplicado é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "antibotrópico."
+      },
+      {
+        "letra": "B",
+        "texto": "antilaquético."
+      },
+      {
+        "letra": "C",
+        "texto": "anticrotálico."
+      },
+      {
+        "letra": "D",
+        "texto": "antielapídico."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66162,
+    "tags": [],
+    "enunciado": "Homem, 19 anos de idade, lavrador, dá entrada na emergência após acidente ofídico por jararaca, em pé esquerdo, há 48 horas. Queixa-se de dor intensa no local da picada. Nega comorbidades. Ao exame físico, apresenta-se em regular estado geral, com FR: 22irpm, PA: 140x90mmHg, FC: 100bpm, SatO₂: 95%. Observam-se dois orifícios de inoculação, edema, equimose e lesões bolhosas no local da picada. Em relação ao tratamento geral desse paciente, deve-se",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "realizar torniquete, no atendimento inicial, para impedir a circulação do veneno."
+      },
+      {
+        "letra": "B",
+        "texto": "iniciar aciclovir, para cobertura de herpes, presente na saliva da serpente."
+      },
+      {
+        "letra": "C",
+        "texto": "realizar cobertura para anaeróbios, gram positivos e gram negativos, caso ocorra infecção secundária."
+      },
+      {
+        "letra": "D",
+        "texto": "evitar opioides, para que os efeitos colaterais não se confundam com o efeito neurotóxico do veneno."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66163,
+    "tags": [],
+    "enunciado": "Paciente de 4 anos de idade, vítima de picada por escorpião, chega à sala de emergência pediátrica uma hora após o acidente apresentando sudorese profusa, piloereção, vômitos incoercíveis, frequência cardíaca 150 bpm, frequência respiratória 40 ipm, pressão arterial 85/50 mmHg, pulsos centrais (cid:71)nos e tempo de enchimento capilar 5 segundos. À ausculta pulmonar, há estertores (cid:71)nos difusos e a saturação periférica de oxigênio (SpO₂) é de 90% em ar ambiente. Logo após a admissão, é colocado coxim abaixo do occipício, feita aspiração de vias aéreas superiores, administrado oxigênio por máscara não reinalante e administradas 6 ampolas de soro antiescorpiónico via endovenosa. A SpO₂ após início da oxigenoterapia é de 94%, mas o quadro hemodinâmico se mantém inalterado. O próximo passo do tratamento é iniciar por infusão EV continua:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Norepinefrina."
+      },
+      {
+        "letra": "B",
+        "texto": "Dobutamina."
+      },
+      {
+        "letra": "C",
+        "texto": "Epinefrina."
+      },
+      {
+        "letra": "D",
+        "texto": "Vasopressina."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66164,
+    "tags": [],
+    "enunciado": "Homem, 20 anos, trabalhador rural, sofreu acidente no tornozelo esquerdo, por animal não visualizado. Queixa-se de pouca dor no tornozelo esquerdo, mialgia difusa e di(cid:71)culdade para deglutir. Apresenta alteração da coloração da urina (foto). Qual é a alteração clínica/laboratorial esperada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Troponina elevada."
+      },
+      {
+        "letra": "B",
+        "texto": "Rinorreia."
+      },
+      {
+        "letra": "C",
+        "texto": "Hipercalcemia."
+      },
+      {
+        "letra": "D",
+        "texto": "Diplopia."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 66165,
+    "tags": [],
+    "enunciado": "Menino, 5 anos, procedente da zona rural chega na emergência com história de picada por animal não identi(cid:71)cado. Logo em seguida apresentou vômitos, sudorese e sonolência. Ao exame físico: MEG, descorado, acianótico, hidratado. Olhos: ptose palpebral. Boca: seca. Ausculta cardíaca e pulmonar sem alterações, FR 30 ipm, FC 130 bpm, pulsos cheios. Tempo de enchimento capilar 2 segundos, PA 100 x 60 mmHg. Abdome: plano, normotenso, indolor fígado e baço não palpável. SN hipotonia de musculatura e midríase. Diante deste quadro clínico qual o soro antiveneno você optaria?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Soro antiloxosceles."
+      },
+      {
+        "letra": "B",
+        "texto": "Soro anticrotálico."
+      },
+      {
+        "letra": "C",
+        "texto": "Soro antiescorpiônico."
+      },
+      {
+        "letra": "D",
+        "texto": "Soro antibotrópico. 4000173823"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66166,
+    "tags": [],
+    "enunciado": "O acidente botrópico é o de maior importância e distribuição dentre os acidentes ofídicos no Brasil. Qual das alternativas abaixo descreve o quadro clínico do paciente vítima deste acidente ofídico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Presença de dor, edema e equimose na região da picada. Bolhas com conteúdo seroso ou serohemorrágico podem surgir e originar áreas de necrose, que, juntamente com infecção secundária, constituem as principais complicações locais e podem levar à amputação e/ou deficit funcional do membro. A ocorrência de sangramentos em pele e mucosas são comuns (gengivorragia, equimoses a distância do local da picada); hematúria, hematêmese e hemorragia em outras cavidades. Hipotensão pode ser decorrente de sequestro de líquido no membro picado ou hipovolemia consequente a sangramentos, que podem contribuir para o desenvolvimento de insuficiência renal aguda"
+      },
+      {
+        "letra": "B",
+        "texto": "Ocorre dor, edema e equimose na região da picada (pode progredir ao longo do membro acometido). As marcas de picada e sangramento nem sempre são visíveis nos pontos de introdução das presas. As alterações vagais (náuseas, vômitos, cólicas abdominais, diarreia, hipotensão, choque) estão presentes na totalidade dos casos que não recebem soroterapia oportunamente"
+      },
+      {
+        "letra": "C",
+        "texto": "Não se evidenciam alterações significativas. Dor e edema são usualmente discretos e restritos ao redor da picada. Eritema e parestesia são comuns. As manifestações sistêmicas neuroparalíticas com progressão crânio-caudal, iniciando-se por ptose palpebral, turvação visual e ofalmoplegia. Distúrbios de olfato e paladar, ptose mandibular e sialorreia podem ocorrer com o passar das horas. Raramente, a musculatura da caixa torácica é acometida. Essas manifestações neurotóxicas regridem lentamente, porém são reversíveis. Raramente pode haver gengivorragia e outros sangramentos discretos. Progressivamente, surgem mialgia generalizada e escurecimento da cor da urina (cor de \"\"coca-cola\"\" ou \"\"chá preto\"\"). A insuficiência renal aguda é a principal complicação e causa de óbito"
+      },
+      {
+        "letra": "D",
+        "texto": "Localmente o paciente manifesta dor e parestesia na região da picada discretos, não havendo lesões evidentes. Caracteristicamente, o paciente apresenta fácies miastênica ou neurotóxica. As possíveis complicações são decorrentes da progressão da paralisia da face para músculos respiratórios."
+      },
+      {
+        "letra": "E",
+        "texto": "A dor (instalação imediata em praticamente todos os casos) é o principal sintoma, podendo se irradiar para o membro e ser acompanhada de parestesia, eritema e sudorese local. Em geral, o quadro mais intenso de dor ocorre nas primeiras horas após o acidente. Após intervalo de minutos até poucas horas (duas a três) podem surgir, principalmente em crianças, os seguintes sintomas: sudorese profusa, agitação psicomotora, tremores, náuseas, vômitos, sialorreia, hipertensão ou hipotensão arterial, arritmia cardíaca, insuficiência cardíaca congestiva, edema pulmonar agudo e choque. 4000172779"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66167,
+    "tags": [],
+    "enunciado": "Com os desmatamentos e as mudanças climáticas, os animais silvestres procuram se reorganizar e muitas vezes podem ser encontrados em zonas urbanas, aumentando os acidentes por animais peçonhentos. São condutas adequadas nos primeiros socorros em caso de acidente ofídico, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Manter o acidentado em repouso, evitando que ele corra ou que se locomova por seus próprios meios."
+      },
+      {
+        "letra": "B",
+        "texto": "Aplicar álcool sobre o local da picada e cobrir com faixa sem compressão do local."
+      },
+      {
+        "letra": "C",
+        "texto": "Manter o membro picado mais elevado do que o restante do corpo."
+      },
+      {
+        "letra": "D",
+        "texto": "Levar o animal causador do acidente ao serviço de saúde se for possível. 4000171868"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66168,
+    "tags": [],
+    "enunciado": "Lavrador chega ao pronto-socorro de uma cidade do interior de São Paulo, trazido por familiares, com história de picada de serpente apresentando dor importante em membro acometido acompanhada de edema, equimose e sangramento no ponto de inoculação da peçonha. Qual o tipo de acidente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Elapídico."
+      },
+      {
+        "letra": "B",
+        "texto": "Crotálico."
+      },
+      {
+        "letra": "C",
+        "texto": "Laquético."
+      },
+      {
+        "letra": "D",
+        "texto": "Micrurus."
+      },
+      {
+        "letra": "E",
+        "texto": "Botrópico. 4000170203"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 66169,
+    "tags": [],
+    "enunciado": "Uma criança com 7 anos de idade, moradora de zona rural, relata acidente por animal desconhecido há 4 horas. No momento, refere formigamento no local da picada, boca seca, diplopia, di(cid:71)culdade de deglutição, dores musculares generalizadas, oligúria e urina com coloração vermelha escura. Ao exame físico, apresenta ptose palpebral bilateral e midríase. O resultado do exame de urina rotina evidenciou mioglobinúria. Exames de sangue ainda em processamento. Com base nesses dados, qual a soroterapia especí(cid:71)ca indicada ao quadro?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Soro anti-botrópico."
+      },
+      {
+        "letra": "B",
+        "texto": "Soro anti-escorpiônico."
+      },
+      {
+        "letra": "C",
+        "texto": "Soro anti-crotálico."
+      },
+      {
+        "letra": "D",
+        "texto": "Soro anti-elapídico."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66170,
+    "tags": [],
+    "enunciado": "A dor do veneno escorpiônico é a principal manifestação e ocorre imediatamente após. Sua intensidade é variável, sendo, às vezes, insuportável. Sendo correto que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O veneno escorpiônico inativa canais de sódio, promovendo despolarização das terminações nervosas sensitivas, motoras e do sistema nervoso autônomo, com liberação maciça de neurotransmissores adrenérgicos e colinérgicos."
+      },
+      {
+        "letra": "B",
+        "texto": "O veneno escorpiônico ativa canais de sódio, promovendo despolarização das terminações nervosas sensitivas, motoras e do sistema nervoso autônomo, com liberação maciça de neurotransmissores adrenérgicos e colinérgicos."
+      },
+      {
+        "letra": "C",
+        "texto": "O veneno escorpiônico ativa canais de sódio, promovendo polarização das terminações nervosas sensitivas, motoras e não do sistema nervoso autônomo, com liberação maciça de neurotransmissores adrenérgicos e colinérgicos."
+      },
+      {
+        "letra": "D",
+        "texto": "O veneno escorpiônico ativa canais de sódio, promovendo despolarização das terminações nervosas sensitivas, motoras e do sistema nervoso autônomo, com liberação maciça de neurotransmissores adrenérgicos e nunca colinérgicos."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66171,
+    "tags": [],
+    "enunciado": "A gravidade depende da quantidade de veneno inoculado pelos animais peçonhentos, da região atingida e da espécie envolvida",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "nos acidentes botrópico e laquético, o quadro local costuma não ser proeminente, enquanto nos acidentes crotálico e elapídico, prevalecem as manifestações neurológicas sistêmicas, decorrentes da paralisia muscular."
+      },
+      {
+        "letra": "B",
+        "texto": "nos acidentes botrópico e laquético, o quadro local costuma ser proeminente, enquanto nos acidentes crotálico e elapídico, não ocorrem as manifestações neurológicas sistêmicas, decorrentes da paralisia muscular"
+      },
+      {
+        "letra": "C",
+        "texto": "nos acidentes botrópico e laquético, o quadro local costuma ser proeminente, enquanto nos acidentes crotálico e elapídico, prevalecem as manifestações neurológicas sistêmicas, decorrentes da paralisia muscular."
+      },
+      {
+        "letra": "D",
+        "texto": "nos acidentes botrópico e laquético, o quadro local costuma ser proeminente, enquanto nos acidentes crotálico e elapídico, prevalecem as manifestações neurológicas sistêmicas, sem ocorrer paralisia muscular."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66172,
+    "tags": [],
+    "enunciado": "Na ordem Himenóptera, estão incluídas abelhas, vespas e formigas, que têm no ferrão o aparelho inoculador de veneno. Pode causar quadro alérgico, decorrente de poucas picadas, sendo correto o item:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Em pessoa previamente desensibilizada, com manifestações locais ou sistêmicas, ou quadro tóxico, devido a ataque por múltiplas abelhas ou vespas."
+      },
+      {
+        "letra": "B",
+        "texto": "Em pessoa previamente sensibilizada, sem manifestações locais ou sistêmicas, ou quadro tóxico, devido a ataque por múltiplas abelhas ou vespas."
+      },
+      {
+        "letra": "C",
+        "texto": "Em pessoa previamente sensibilizada, com manifestações locais ou sistêmicas, ou quadro tóxico, devido a ataque por múltiplas abelhas ou vespas."
+      },
+      {
+        "letra": "D",
+        "texto": "Em pessoa previamente sensibilizada, com manifestações locais, mas não sistêmicas, ou quadro tóxico, devido à ataque por múltiplas abelhas ou vespas."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66173,
+    "tags": [],
+    "enunciado": "Carlos, nove anos de idade, brincou durante o dia no jardim de sua casa. Pela madrugada, acordou com dor no dorso da mão direita que apresenta uma lesão bolhosa, com provável conteúdo serossanguinolento, com dois pontos sugerindo inoculação e uma área eritematosa ao redor. Considerando a história e o aspecto da lesão, o acidente por animal peçonhento MAIS PROVÁVEL é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aranha do gênero Loxosceles"
+      },
+      {
+        "letra": "B",
+        "texto": "Aranha do gênero Phoneutra"
+      },
+      {
+        "letra": "C",
+        "texto": "Escorpião- Tityus serrulatus"
+      },
+      {
+        "letra": "D",
+        "texto": "Lacraia"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66174,
+    "tags": [],
+    "enunciado": "Uma criança oriunda de região rural é trazido ao pronto atendimento apresentando sinais de acidente por animal peçonhento, ocorrido há mais de 12 horas. No tornozelo, apresentava pequeno edema não doloroso, um pouco de formigamento; as pálpebras superiores estavam semicerradas, o que a impedia de enxergar direito; queixa-se de dores na nuca e desde o ocorrido estava urinando cada vez menos. Baseado nestes dados, que tipo de acidente sofreu esta criança?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Picada de cobra do grupo botrópico"
+      },
+      {
+        "letra": "B",
+        "texto": "Picada de cobra do grupo crotálico"
+      },
+      {
+        "letra": "C",
+        "texto": "Picada de cobra do grupo elapídico"
+      },
+      {
+        "letra": "D",
+        "texto": "Picada de aranha - Phoneutria"
+      },
+      {
+        "letra": "E",
+        "texto": "Picada de aranha - Loxosceles. 4000145019"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66175,
+    "tags": [],
+    "enunciado": "Paciente vítima de acidente ofídico com história dor e edema leve restritos ao redor da picada. Evoluiu com manifestações neuroparalíticas com progressão crânio-caudal, iniciando-se por ptose palpebral, turvação visual e oftalmoplegia. Progressivamente, houve o aparecimento de mialgia generalizada e escurecimento da cor da urina (cor de \"\"coca-cola\"\"), insu(cid:71)ciência renal aguda e óbito. Qual o provável gênero animal peçonhento descrito neste caso?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Lachesis"
+      },
+      {
+        "letra": "B",
+        "texto": "Bothrops"
+      },
+      {
+        "letra": "C",
+        "texto": "Crotalus"
+      },
+      {
+        "letra": "D",
+        "texto": "Bothrocophias"
+      },
+      {
+        "letra": "E",
+        "texto": "Phylodrias 4000144974"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66176,
+    "tags": [],
+    "enunciado": "Sobre os acidentes por serpentes de importância médica, qual gênero é o de maior importância e distribuição dentre os acidentes ofídicos no Brasil:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "crotálico"
+      },
+      {
+        "letra": "B",
+        "texto": "eunectes"
+      },
+      {
+        "letra": "C",
+        "texto": "botrópico"
+      },
+      {
+        "letra": "D",
+        "texto": "elapídico"
+      },
+      {
+        "letra": "E",
+        "texto": "laquético 4000144945"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66177,
+    "tags": [],
+    "enunciado": "Criança de 7 anos sofre acidente com animal peçonhento Titus Serrulatus evoluindo com quadro grave. Assinale a alternativa que corresponde a possíveis evoluções e as medidas a serem tomadas:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Trata-se de animal peçonhento, escorpião preto, tem baixo potencial de risco a vida, deve se investigar outras comorbidades, risco maior é de infecção secundária ou tétano."
+      },
+      {
+        "letra": "B",
+        "texto": "Trata-se de animal peçonhento, aranha marrom, deve-se usar soro aracnídeo. Por ser proteolítico deve dosar função renal e hidratar e se necessário repetir soro em 24 horas."
+      },
+      {
+        "letra": "C",
+        "texto": "Trata-se de animal peçonhento, escorpião amarelo, deve-se usar soro escorpiônico, se bradicardia iniciar atropina 0,01 a 0,02 mg/kg peso monitorar com eletrocardiograma."
+      },
+      {
+        "letra": "D",
+        "texto": "Trata-se de animal peçonhento, vespa sul-americana, não há soro disponível, as medidas clinicas visam diminuir dor e evitar choque anafilático como uso de antihistamínicos e corticoides, metilprednisolona 1 mg/kg."
+      },
+      {
+        "letra": "E",
+        "texto": "Trata-se de animal peçonhento, serpente Jararaca, deve-se iniciar soro antiofídico crotálico especifico. Monitorar sangramentos devido interferência no fator X e função renal devida ação proteolítica. 4000143936"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66178,
+    "tags": [],
+    "enunciado": "Paciente 45 anos, com história de há 48 horas ter sido picado por cobra do grupo Colubrídeos conhecida como Cobra-Cipó, assinale a conduta correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sintomáticos apenas e acompanhamento na UBS."
+      },
+      {
+        "letra": "B",
+        "texto": "Soro anti-ofídico inespecífico, hidratação com Ringer Lactato, monitorização função renal e cardíaca em UTI."
+      },
+      {
+        "letra": "C",
+        "texto": "Soro crotálico especifico em 48 horas, sendo repetido após 48h se aparecimento de lesões necróticas, acompanhamento em enfermaria."
+      },
+      {
+        "letra": "D",
+        "texto": "Soro bothrópico, específico para neutralizar a neurotoxina capaz de gerar oftalmoplegia e rabdomiólise, acompanhamento em UTI."
+      },
+      {
+        "letra": "E",
+        "texto": "Soro elapídico, especifico para neurotoxina ativa, atentar para possível evolução de paralisia flácida, acompanhamento inicial em enfermaria. 4000143920"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66179,
+    "tags": [],
+    "enunciado": "Um menino de 10 anos de idade foi atendido no pronto-socorro após ter sido picado por uma cobra. A mãe informou que o acidente havia ocorrido há aproximadamente 3 horas. No exame físico, o médico observou que a criança sentia dor e que havia edema, leve eritema e parestesia em torno da picada, observou, ainda, ptose palpebral e oftalmoplegia. Na evolução do quadro clínico, a criança passou a apresentar mialgia generalizada e insuficiência renal. Nesse caso clínico, houve um acidente",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "botrópico."
+      },
+      {
+        "letra": "B",
+        "texto": "crotálico."
+      },
+      {
+        "letra": "C",
+        "texto": "laquético."
+      },
+      {
+        "letra": "D",
+        "texto": "elapídico. 4000142914"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66180,
+    "tags": [],
+    "enunciado": "Paciente, J.R.S., 29 anos, deu entrada no PA apresentando vômito, tontura, dor de cabeça, fala arrastada e diarreia. A esposa relatou que o paciente começou a se queixar de parestesia na língua e na região perioral, a apresentar náusea, fraqueza progressiva bilateral dos membros superiores e inferiores, cerca de 30 min depois da ingestão de ensopado de vísceras de peixe Baiacu. Análise dos restos do ensopado detectou níveis elevados de tetrodotoxina (TTX), que atua como",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "inibidor dos receptores nicotínicos de acetilcolina."
+      },
+      {
+        "letra": "B",
+        "texto": "agonista de receptores de potássio."
+      },
+      {
+        "letra": "C",
+        "texto": "bloqueador dos receptores de sódio voltagem dependente."
+      },
+      {
+        "letra": "D",
+        "texto": "ativador dos receptores de cálcio tipo L."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66181,
+    "tags": [],
+    "enunciado": "A vítima queixa-se de dor em queimação no local da picada, associada a edema; febre e mal-estar podem ocorrer. Após 24 horas a lesão evolui tipicamente com uma bolha ou equimose central circundada por um halo pálido (isquêmico), seguido de uma área de eritema. Ao longo dos dias, a lesão central evolui para necrose, que pode atingir grande extensão e profundidade. O acidente também pode dar origem a um quadro de víscera, que envolve febre, calafrios, cefaleia, náuseas, vômitos, urina cor de “lavado de carne”, icterícia e anemia, podendo evoluir para coagulação intravascular e insuficiência renal aguda. SOUSA, T. C. J. Picadas de cobras, aranhas e escorpiões. In: GUSSO G. (Org.); LOPES, J. M. C. (Org.); DIAS, L. C. Tratado de Medicina de Família e Comunidade: princípios, formação e prática. 2a. ed. Porto Alegre: Artmed, 2019.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "descrição refere-se às manifestações de acidente ocasionado por um animal peçonhento do gênero"
+      },
+      {
+        "letra": "A",
+        "texto": "Loxosceles."
+      },
+      {
+        "letra": "B",
+        "texto": "Phoneutria."
+      },
+      {
+        "letra": "C",
+        "texto": "Latrodectus."
+      },
+      {
+        "letra": "D",
+        "texto": "Tityus."
+      },
+      {
+        "letra": "E",
+        "texto": "Micrurus. 4000141559"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66182,
+    "tags": [],
+    "enunciado": "Um adolescente de 14 anos de idade, morador em zona rural, foi levado ao pronto-socorro por acidente ofídico. O animal foi identificado e não possuía fosseta loreal, apresentando anéis coloridos (pretos, brancos e vermelhos). O tipo de ação esperada do veneno nesse acidente, dentre os abaixo, é.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "coagulante."
+      },
+      {
+        "letra": "B",
+        "texto": "anticoagulante."
+      },
+      {
+        "letra": "C",
+        "texto": "neurotóxica."
+      },
+      {
+        "letra": "D",
+        "texto": "proteolítica."
+      },
+      {
+        "letra": "E",
+        "texto": "miotóxica."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66183,
+    "tags": [],
+    "enunciado": "Em relação ao acidente crotálico, assinale a alternativa incorreta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Em poucas horas pode ocorrer sangramento. A apneia pode ser causada pela fraqueza muscular global e progressiva."
+      },
+      {
+        "letra": "B",
+        "texto": "Eritema, bolhas e equimose podem surgir precocemente no local da picada."
+      },
+      {
+        "letra": "C",
+        "texto": "Mialgia generalizada e insuficiência renal aguda (necrose tubular) são frequentemente observadas."
+      },
+      {
+        "letra": "D",
+        "texto": "Ptose palpebral bilateral, disfagia e diplopia estão geralmente presentes."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66184,
+    "tags": [],
+    "enunciado": "Paciente com 14 anos estava fazendo uma trilha em local de mata nativa e foi picado no tornozelo direito. Apresentou imediata e signi(cid:71)cativa dor local, com edema que rapidamente progrediu pela perna e, após 1 hora, atingiu a coxa, di(cid:71)cultando a deambulação. Apresentou equimoses e pequenas bolhas de conteúdo seroso no local da picada e não foi observada qualquer manifestação neurológica. Essa apresentação clínica caracteriza um acidente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Botrópico."
+      },
+      {
+        "letra": "B",
+        "texto": "Elapídico."
+      },
+      {
+        "letra": "C",
+        "texto": "Loxoscélico."
+      },
+      {
+        "letra": "D",
+        "texto": "Escorpiônico."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66185,
+    "tags": [],
+    "enunciado": "Um adolescente com 13 anos de idade é atendido no pronto-socorro devido à picada de escorpião no dedo indicador esquerdo. Em exame físico, apresenta sinais vitais estáveis, dor intensa, hiperemia e formigamento no local da picada, associados a náuseas, vômitos, sudorese e sialorreia discretos. Além do alívio da dor, a conduta recomendada é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "observação domiciliar por 6 a 12 horas."
+      },
+      {
+        "letra": "B",
+        "texto": "observação hospitalar por 6 a 12 horas."
+      },
+      {
+        "letra": "C",
+        "texto": "soro anti-escorpiônico (2 a 3 ampolas."
+      },
+      {
+        "letra": "D",
+        "texto": "soro anti-escorpiônico (4 a 6 ampolas."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66186,
+    "tags": [],
+    "enunciado": "Menino, 7a, é trazido a Unidade de Emergência após picada de escorpião no pé direito há cerca de 50 minutos. Refere dor intensa com formigamento no hálux e dorso do pé. Nega vômitos, refere batedeira no peito. Exame físico: FC= 108 bpm; FR= 22 irpm, PA= 110x60 mmHg, pulsos cheios, perfusão periférica de 2 segundos. Coração: Bulhas rítmicas, em 2 tempos, normofonéticas, sem sopros; Pulmões: roncos esparsos, sem desconforto. ALÉM DA ANALGESIA, A CONDUTA É:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Observação por pelo menos 6 horas."
+      },
+      {
+        "letra": "B",
+        "texto": "Soro antiescorpiônico 2 ampolas e observação por 24 horas."
+      },
+      {
+        "letra": "C",
+        "texto": "Soro antiescorpiônico 4 ampolas e observação por 24 horas."
+      },
+      {
+        "letra": "D",
+        "texto": "Soro antiescorpiônico 6 ampolas e observação em UTI."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66187,
+    "tags": [],
+    "enunciado": "Homem, 35a, procura Unidade de Pronto Atendimento por picada de cobra há 2 horas, tendo realizado torniquete local. Relata dor intensa no local, sudorese e ansiedade. Durante a consulta, apresentou epistaxe e hematêmese. Exame físico: Membros: perna direita com 2 orifícios pequenos de centro necrótico, intenso edema em panturrilha direita, 5 bolhas com centros enegrecidos e pequenas áreas de necrose. A CONDUTA É:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Soro antibotrópico 6 ampolas intravenoso."
+      },
+      {
+        "letra": "B",
+        "texto": "Soro anticrotálico 20 ampolas intravenoso."
+      },
+      {
+        "letra": "C",
+        "texto": "Soro anticrotálico 10 ampolas intravenoso."
+      },
+      {
+        "letra": "D",
+        "texto": "Soro antibotrópico 12 ampolas intravenoso."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 66188,
+    "tags": [],
+    "enunciado": "Qual é o acidente ofídico mais prevalente no Brasil?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Botrópico."
+      },
+      {
+        "letra": "B",
+        "texto": "Crotálico."
+      },
+      {
+        "letra": "C",
+        "texto": "Laquetico."
+      },
+      {
+        "letra": "D",
+        "texto": "Elapidico."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66189,
+    "tags": [],
+    "enunciado": "Homem de 27 anos, trabalhando na lavoura de café foi picado no tornozelo por cobra não encontrada. Apresenta ptose palpebral que surgiu nas ultimas 2 horas. Dentre as serpentes abaixo, qual a mais provável de ser a causadora do acidente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "jararaca;"
+      },
+      {
+        "letra": "B",
+        "texto": "urutu;"
+      },
+      {
+        "letra": "C",
+        "texto": "cascavel;"
+      },
+      {
+        "letra": "D",
+        "texto": "caninana."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66190,
+    "tags": [],
+    "enunciado": "Menino, 5 anos, procedente da zona rural chega na emergência com história de picada por animal não identi(cid:71)cado. Logo em seguida apresentou vômitos, sudorese e sonolência. Ao exame físico: MEG, descorado, acianótico, hidratado. Olhos: ptose palpebral. Boca: seca. Ausculta cardíaca e pulmonar sem alterações, FR 30 ipm, FC 130 bpm, pulsos cheios. Tempo de enchimento capilar 2 segundos. PA: 100 x 60 mmHg. Abdome: plano, normotenso, indolor, fígado e baço não palpáveis. SN hipotonia de musculatura e midríase. Diante deste quadro clínico qual o soro antiveneno você optaria?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Soro antibotrópico."
+      },
+      {
+        "letra": "B",
+        "texto": "Soro antiloxosceles."
+      },
+      {
+        "letra": "C",
+        "texto": "Soro anticrotálico."
+      },
+      {
+        "letra": "D",
+        "texto": "Soro antiescorpiônico."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66191,
+    "tags": [],
+    "enunciado": "Menino de 10 anos refere ter sido picado no pé direito enquanto brincava com uma pipa em um terreno da área rural de um município do interior de São Paulo. Foi então levado por sua mãe até o pronto-socorro municipal. O menino apresentava-se consciente, sudoreico com dor intensa no pé, apresentou vômito e posteriormente evoluiu com priapismo. Qual o diagnóstico do tipo de acidente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Acidente ofídico botrópico."
+      },
+      {
+        "letra": "B",
+        "texto": "Acidente ofídico crotálico."
+      },
+      {
+        "letra": "C",
+        "texto": "Acidente com phoneutria."
+      },
+      {
+        "letra": "D",
+        "texto": "Acidente com loxoceles."
+      },
+      {
+        "letra": "E",
+        "texto": "Acidente escorpiônico."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66192,
+    "tags": [],
+    "enunciado": "Você atende um paciente de 20 anos que estava caminhando na beira do rio, quando encostou em um galho de árvore e sentiu uma ardência e dor em queimação no braço direito. A pele (cid:71)cou com eritema e edema na região de contato, evoluindo com lesões puntiformes eritematosas nos pontos de inoculação das cerdas. O paciente apresentou apenas lesões locais e foi orientado a lavar o local com água corrente e colocar compressas geladas. Qual a principal complicação causada pelo envenenamento das cerdas das lagartas deste gênero?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Agitação psicomotora."
+      },
+      {
+        "letra": "B",
+        "texto": "Contraturas musculares intermitentes."
+      },
+      {
+        "letra": "C",
+        "texto": "Arritmia cardíaca."
+      },
+      {
+        "letra": "D",
+        "texto": "Manifestações hemorrágicas."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 66193,
+    "tags": [],
+    "enunciado": "Nos últimos anos, observamos um aumento no número de acidentes por escorpião. Acerca destes acidentes, assinale a assertiva INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Em casos leves, com manifestações apenas locais, o tratamento é apenas sintomático."
+      },
+      {
+        "letra": "B",
+        "texto": "Casos graves são mais frequentes em crianças menores de 10 anos."
+      },
+      {
+        "letra": "C",
+        "texto": "Deve-se procurar atendimento médico imediatamente."
+      },
+      {
+        "letra": "D",
+        "texto": "As manifestações sistêmicas são sempre tardias."
+      },
+      {
+        "letra": "E",
+        "texto": "A intensidade das manifestações depende da quantidade de veneno inoculada."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 66194,
+    "tags": [],
+    "enunciado": "Analise o quadro clínico a seguir. Um lactente de 2 anos de idade é levado ao pronto-atendimento devido a choro inconsolável durante a madrugada enquanto dormia em colchão no chão, em um barracão, numa área de ocupação. Ao exame, o paciente estava irritado, com mácula eritematosa em antebraço esquerdo, sudorese profusa, bradicárdico e com crepitações à ausculta pulmonar bilateralmente. Diante desse quadro, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O paciente pode ter sido picado por um escorpião amarelo, e o quadro é considerado grave, sendo necessária a infusão de soro específico."
+      },
+      {
+        "letra": "B",
+        "texto": "Trata-se de um quadro clínico sugestivo de erucismo por lagarta Lonomia sp, e o paciente necessita receber antifibrinolítico."
+      },
+      {
+        "letra": "C",
+        "texto": "O pediatra deve pensar em picadura por Crotalus sp, realizar um torniquete no local da picada e transferir o paciente para outro hospital."
+      },
+      {
+        "letra": "D",
+        "texto": "O quadro clínico é sugestivo de acidente com aranha armadeira, Phoneutria sp, e o paciente deverá receber alta com analgésicos comuns."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66195,
+    "tags": [],
+    "enunciado": "Os acidentes ofídicos representam sério problema de saúde pública nos países tropicais pela frequência com que ocorrem e pela morbimortalidade que ocasionam. Existem no mundo aproximadamente 3000 espécies de serpentes, das quais de 10 a 14% são consideradas peçonhentas. Assinale a alternativa que contem uma característica de cobra peçonhenta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cauda afinando lentamente."
+      },
+      {
+        "letra": "B",
+        "texto": "Presença da fosseta loreal."
+      },
+      {
+        "letra": "C",
+        "texto": "Cabeça arredondada."
+      },
+      {
+        "letra": "D",
+        "texto": "Pupilas arredondadas."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66196,
+    "tags": [],
+    "enunciado": "Paciente foi picado por cascavel. Desta forma a melhor forma de prevenir a insuficiência renal inclui:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O acidente ofídico crotálico impõe risco de rabdomiólise com mioglobinúria. O tratamento inclui hidratação e uso de diuréticos osmóticos."
+      },
+      {
+        "letra": "B",
+        "texto": "Depleção de glutamato que pode ser revertido com administração de acetilcisteína."
+      },
+      {
+        "letra": "C",
+        "texto": "Vasoplegia, que causa hipotensão, maior responsável pela insuficiência renal no acidentes crotálicos, deve ser tratada com noradrenalina."
+      },
+      {
+        "letra": "D",
+        "texto": "O veneno age com interrupção do funcionamentos dos receptores nos ductos coletores. Melhor medicação é a furosemida."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66197,
+    "tags": [],
+    "enunciado": "Paciente procedente do interior do estado foi vítima de picada de cobra e apresenta o seguinte quadro clínico: dois orifícios em perna esquerda, com formigamento no local, sem dor. Apesar de responder a solicitação tem di(cid:71)culdade de manter olhos abertos. Queixa de visão turva e diplopia. Apresenta mal-estar, irritabilidade, náuseas, cefaleia e mialgia. Relata ainda diurese escura. Com o quadro clínico citado, a qual grupo pertence a serpente responsável pelo acidente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Bothrops."
+      },
+      {
+        "letra": "B",
+        "texto": "Crotalus."
+      },
+      {
+        "letra": "C",
+        "texto": "Lachesis."
+      },
+      {
+        "letra": "D",
+        "texto": "Micrurus."
+      },
+      {
+        "letra": "E",
+        "texto": "Etapidae."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66198,
+    "tags": [],
+    "enunciado": "Escolar de 9 anos foi picado por um escorpião quando brincava no jardim de sua casa, há cerca de duas horas. A mãe disse que a criança apresentava choro contínuo desde o momento do acidente. Ao exame: agitação psicomotora, choroso, FC 161 bpm, FR 28 irm. Foi observado um ponto único de picada no pé direito. Que conduta deve ser tomada, nesse caso?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Anestésico local, solicitar eletrocardiograma, e observação por 6 horas."
+      },
+      {
+        "letra": "B",
+        "texto": "Analgésico oral, solicitar função renal, provas de coagulação e iniciar soroterapia específica."
+      },
+      {
+        "letra": "C",
+        "texto": "Analgésico oral, observar por 6h, prescrever pré-medicação para anafilaxia."
+      },
+      {
+        "letra": "D",
+        "texto": "Solicitar eletrocardiograma, radiografia de tórax, ecografia, função renal e provas de coagulação."
+      },
+      {
+        "letra": "E",
+        "texto": "Anestésico local, observar por 2-4h e então avaliar necessidade de soroterapia."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 66199,
+    "tags": [],
+    "enunciado": "Qual dos acidentes ofídicos é o mais frequentes no Brasil?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Crotálico"
+      },
+      {
+        "letra": "B",
+        "texto": "Elapídico"
+      },
+      {
+        "letra": "C",
+        "texto": "Botrópico"
+      },
+      {
+        "letra": "D",
+        "texto": "Laquetico"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66200,
+    "tags": [],
+    "enunciado": "Em relação aos acidentes com escorpiões,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o quadro clínico sistêmico é mais frequente em adultos do que em crianças."
+      },
+      {
+        "letra": "B",
+        "texto": "CIVD e insuficiência renal aguda são complicações frequentes."
+      },
+      {
+        "letra": "C",
+        "texto": "a soroterapia está indicada nos casos de acidente escorpiônico de gravidademoderada e grave."
+      },
+      {
+        "letra": "D",
+        "texto": "a espécie Tityus bahiensis (escorpião marrom) é a responsável pela maioria dos casosde acidentes escorpiônicos."
+      },
+      {
+        "letra": "E",
+        "texto": "o quadro clínico local apresenta dor, com intensidade fraca, sudorese, eritema epiloereção."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66201,
+    "tags": [],
+    "enunciado": "Os acidentes botrópicos são causados por serpentes do gênero Bothrops. Determina processo in(cid:92)amatório no local da picada, com edema tenso, equimose, dor e adenomegalia regional, que progridem ao longo do membro acometido, É serpente causadora desse tipo de acidente a:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cascavel."
+      },
+      {
+        "letra": "B",
+        "texto": "Coral verdadeira."
+      },
+      {
+        "letra": "C",
+        "texto": "Jararaca."
+      },
+      {
+        "letra": "D",
+        "texto": "Cobra cipó."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66202,
+    "tags": [],
+    "enunciado": "A urina de cor escura caracteriza um dos achados da rabdomiólise, sinal de presente em acidentes o(cid:71)dicos do tipo:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Laquético."
+      },
+      {
+        "letra": "B",
+        "texto": "Crotálico."
+      },
+      {
+        "letra": "C",
+        "texto": "Elapídico."
+      },
+      {
+        "letra": "D",
+        "texto": "Botrópico."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66203,
+    "tags": [],
+    "enunciado": "Homem 27 anos, trabalhador rural, refere ter sido picado por animal não identi(cid:71)cado em membro inferior direito há 3 horas, evoluindo com turvação visual além de alteração em exame físico ((cid:71)gura). Qual é a alteração laboratorial esperada pelo veneno deste animal?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hipocalemia."
+      },
+      {
+        "letra": "B",
+        "texto": "Elevação de AST."
+      },
+      {
+        "letra": "C",
+        "texto": "Elevação de troponina."
+      },
+      {
+        "letra": "D",
+        "texto": "Hematúria."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66204,
+    "tags": [],
+    "enunciado": "Criança, 3a, trazida ao pronto-socorro com quadro de sudorese profusa, vômitos incoercíveis, salivação excessiva, alternância de agitação com prostração, e bradicardia. Familiar refere que moram em área urbana com várias casas em construção ao redor e que a criança estava brincando na rua quando chegou chorando muito. O QUADRO CLÍNICO DESCRITO É COMPATÍVEL COM:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Acidente loxoscélico."
+      },
+      {
+        "letra": "B",
+        "texto": "Acidente botrópico."
+      },
+      {
+        "letra": "C",
+        "texto": "Escorpionismo."
+      },
+      {
+        "letra": "D",
+        "texto": "Acidente crotálico."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66205,
+    "tags": [],
+    "enunciado": "Assinale a alternativa correta que correlaciona o agente causal com as manifestações clínicas dos acidentes ofídicos: I- Botrópico; II- Laquético; III- Crotálico. 1. Manifestações neuroparalíticas com progressão crânio-caudal, iniciando-se por ptose palpebral, turvação visual e oftalmoplegia. Progressivamente, surgem mialgia generalizada e escurecimento da cor da urina (cor de \"coca-cola\" ou \"chá preto\"). A insuficiência renal aguda é a principal complicação e causa de óbito. 2. As marcas de picada e sangramento nem sempre são visíveis nos pontos de introdução das presas. Bolhas com conteúdo seroso ou sero-hemorrágico podem surgir e originar áreas de necrose, que, juntamente com infecção secundária, constituem as principais complicações locais e podem levar à amputação e/ou de(cid:71)cit funcional do membro. Sangramentos em pele e mucosas são comuns (gengivorragia, equimoses a distância do local da picada); hematúria, hematêmese e hemorragia em outras cavidades. Hipotensão pode ser decorrente de sequestro de líquido no membro picado ou hipovolemia consequente a sangramentos; 3. Presença de alterações vagais (náuseas, vômitos, cólicas abdominais, diarreia, hipotensão, choque).",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I-3; II-1; III-2"
+      },
+      {
+        "letra": "B",
+        "texto": "I-2; II-1; III-3"
+      },
+      {
+        "letra": "C",
+        "texto": "I-1; II-3; III-2"
+      },
+      {
+        "letra": "D",
+        "texto": "I-3; II-2; III-1"
+      },
+      {
+        "letra": "E",
+        "texto": "I-2; II-3; III-1"
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 66206,
+    "tags": [],
+    "enunciado": "Homem, vive em zona rural em cidade do cerrado mineiro e no mês de março é picado, no (cid:71)m da tarde, por cobra não identi(cid:71)cada e não recuperada. Apresenta quadro clínico com a picada na perna direita, sem sinais in(cid:92)amatórios ou edema local e pouca dor. As marcas são bem visíveis e o paciente apresenta ptose palpebral bilateral, urina escura, mialgia e coagulograma alargado. Qual é a serpente que causou o quadro?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Jiboia."
+      },
+      {
+        "letra": "B",
+        "texto": "Cascavel."
+      },
+      {
+        "letra": "C",
+        "texto": "Coral."
+      },
+      {
+        "letra": "D",
+        "texto": "Jararaca."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66207,
+    "tags": [],
+    "enunciado": "LME, 35 anos, dona de casa, chega ao Pronto Socorro com a seguinte queixa: “Doutora, eu estava descansando na varanda de casa e senti uma picada no meu tornozelo, faz uns 20 minutos. Que dor horrorosa, meu Deus! Na hora doeu só o pé, mas agora a dor tá na perna toda até na virilha. Não vi o que me mordeu, até procurei, mas não vi nada. Agora além da dor, tô com vontade de vomitar.” Ao exame físico: REG, facies de dor, palidez, discreta sudorese, FC = 110 bpm, FR = 22, PA = 130x90 mmHg, Glasgow 15. BRNF 2T sem sopro, MV+ sem RA. Neurológico preservado. Em maléolo lateral observa-se ponto único de inoculação, edema de todo o pé e tornozelo, coloração eritematoviolacea ao redor do ponto de inoculação sem sinal de sangramento. Durante o exame físico paciente apresentou episódio de vômito. Você já tem ideia de que bicho mordeu essa senhora e decide pedir alguns exames: CPK e CKMB normais, ECG normal, discreta hipopotassemia. Restante dos exames também normais: glicemia, sódio e amilase. Com base no caso acima marque a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Escorpionismo; classificação do acidente leve; controle da dor e alta;"
+      },
+      {
+        "letra": "B",
+        "texto": "Escorpionismo; classificação do acidente moderada; controle da dor, monitoramento, soro escorpiônico;"
+      },
+      {
+        "letra": "C",
+        "texto": "Botrópico; classificação do acidente moderada; controle da dor e soro antibotrópico;"
+      },
+      {
+        "letra": "D",
+        "texto": "Loxoscelismo; classificação grave; controle da dor e soro antiloxoscelico;"
+      },
+      {
+        "letra": "E",
+        "texto": "Acidente por abelha; classificação leve; controle da dor e alta."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66208,
+    "tags": [],
+    "enunciado": "Um trabalhador rural de 28 anos dá entrada no PS trazido por amigos, com história de picada por cobra há três horas, sem visualização de detalhes do animal, que fugiu. O paciente refere dor local leve. Também queixa-se de mialgia, di(cid:71)culdade para articular bem as palavras e visão embaçada e dupla. Exames laboratoriais mostram alterações relevantes, como tempo de coagulação alargado, leucocitose sem desvio à esquerda e EAS com urina de aspecto escuro, porém sem hematúria. O quadro clínico-laboratorial descrito permite o diagnóstico de qual tipo de acidente ofídico?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Botrópico"
+      },
+      {
+        "letra": "B",
+        "texto": "Laquético"
+      },
+      {
+        "letra": "C",
+        "texto": "Elapídico"
+      },
+      {
+        "letra": "D",
+        "texto": "Crotálico"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 66209,
+    "tags": [],
+    "enunciado": "O veneno de aranha que é proteolítico e hemolítico, podendo determinar quadros graves de anemia, icterícia, hemólise, púrpura e insuficiência renal pertence ao gênero:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Lycosa (aranha tarântula)."
+      },
+      {
+        "letra": "B",
+        "texto": "Latrodectus (aranha negra)."
+      },
+      {
+        "letra": "C",
+        "texto": "Loxosceles (aranha marrom)."
+      },
+      {
+        "letra": "D",
+        "texto": "Phoneutria (aranha armadeira)."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66210,
+    "tags": [],
+    "enunciado": "Qual é o acidente ofídico mais comum em nosso estado, e que pode cursar com lesão renal aguda?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Botrópico."
+      },
+      {
+        "letra": "B",
+        "texto": "Crotálico."
+      },
+      {
+        "letra": "C",
+        "texto": "Elapídico."
+      },
+      {
+        "letra": "D",
+        "texto": "Lachético."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66211,
+    "tags": [],
+    "enunciado": "Paciente de 63 anos, hígido, trabalha em uma plantação de morangos. Chega ao pronto atendimento com história de picada por um animal em mão direita há 6 horas. Refere que não foi possível identi(cid:71)car o animal. Ao exame físico, apresenta apenas hiperemia e edema importante em mão direita. Não presenta alterações de sinais vitais ou comprometimento sistêmico. O que ocorreu com esse paciente pode ser caracterizado como:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Acidente elapídico;"
+      },
+      {
+        "letra": "B",
+        "texto": "Acidente por colubrídeos;"
+      },
+      {
+        "letra": "C",
+        "texto": "Acidente botrópico;"
+      },
+      {
+        "letra": "D",
+        "texto": "Acidente crotálico."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66212,
+    "tags": [],
+    "enunciado": "Menino, 8 anos, deu entrada na emergência pediátrica com história de picada por serpente, não identi(cid:71)cada, há 3 horas, não apresentando sinais locais ou sistêmicos de envenenamento. Qual a melhor conduta neste caso?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Limpeza local, hidratação oral e endovenosa, coleta de exames TAP e TTPA na admissão, em 24 horas e em 48 horas após picada."
+      },
+      {
+        "letra": "B",
+        "texto": "Limpeza local, hidratação oral e endovenosa, coleta de exames TAP e TTPA na admissão e em 24 horas após picada."
+      },
+      {
+        "letra": "C",
+        "texto": "Limpeza local, hidratação oral e endovenosa, coleta de exames TAP e TTPA em 6 horas e em 24 horas após picada."
+      },
+      {
+        "letra": "D",
+        "texto": "Limpeza local, hidratação oral e endovenosa, administração de soro antibotrópico e coleta de exames de TAP e TTPA na admissão, em 12 horas e em 24 horas após picada."
+      },
+      {
+        "letra": "E",
+        "texto": "Limpeza local, hidratação oral e endovenosa, coleta de exames de TAP e TTPA na admissão e em 6 horas após picada."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66213,
+    "tags": [],
+    "enunciado": "Em caso de Ofidismo devemos:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Manter o paciente deitado."
+      },
+      {
+        "letra": "B",
+        "texto": "Fazer torniquete ou garrote."
+      },
+      {
+        "letra": "C",
+        "texto": "Cortar o local da picada."
+      },
+      {
+        "letra": "D",
+        "texto": "Perfurar ao redor do local da picada."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66214,
+    "tags": [],
+    "enunciado": "Menina, 8a, trazida à unidade de emergência por apresentar diplopia e alteração da fala há um dia. Exame físico: ptose palpebral bilateral e diplopia. Exame oftalmológico: redução gradativa da força em músculo reto lateral e músculo elevador da pálpebra bilateralmente. Questionada, criança lembrou de ter “pisado em espinho” na tarde anterior. Pé esquerdo com ponto de inoculação eritematoso em 4º dedo. Creatinofosfoquinase = 4.425 U/L. Exame sumário de urina: Hb= positiva. O diagnóstico é de acidente :",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Crotálico."
+      },
+      {
+        "letra": "B",
+        "texto": "Elapídico."
+      },
+      {
+        "letra": "C",
+        "texto": "Loxoscélico."
+      },
+      {
+        "letra": "D",
+        "texto": "Botrópico."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66215,
+    "tags": [],
+    "enunciado": "Criança de 8 anos é trazida do interior do Estado por ter sido vítima de acidente ofídico. Dentre os itens abaixo, qual destas deve ser a sua primeira conduta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "iniciar a soroterapia"
+      },
+      {
+        "letra": "B",
+        "texto": "iniciar a hidratação vigorosa do paciente"
+      },
+      {
+        "letra": "C",
+        "texto": "iniciar a medicação pré-soro"
+      },
+      {
+        "letra": "D",
+        "texto": "aplicar vacina antitetânica"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66216,
+    "tags": [],
+    "enunciado": "Um homem de 45 anos, caminhoneiro, retornando de viagem para o Norte do País, refere o aparecimento há 15 dias, de lesão ulcerada , pouco dolorosa, em braço direito. Após procurar a UBS fez uso de Cefalexina por 7 dias, sem melhora do quadro. O paciente nega febre ou qualquer sintoma geral. Ao exame físico, no Centro de Especialidades, observa-se uma lesão de formato arredondado, de base eritematosa, in(cid:71)ltrada e de consistência (cid:71)rme, bordas bem delimitadas e elevadas, fundo avermelhado e granulações grosseiras em face extensora de membros superior direito. O restante do exame está sem, alterações. O diagnóstico clínico mais provável é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hanseníase"
+      },
+      {
+        "letra": "B",
+        "texto": "Foneutrismo."
+      },
+      {
+        "letra": "C",
+        "texto": "Leishmaniose."
+      },
+      {
+        "letra": "D",
+        "texto": "Carcinoma Espinocelular."
+      },
+      {
+        "letra": "E",
+        "texto": "Erucismo."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66217,
+    "tags": [],
+    "enunciado": "Paciente masculino, 19 anos, picado no antebraço direito por uma serpente. Admitido e internado no Hospital em cerca de 2 horas após. Apresentando edema discreto no antebraço direito, dor intensa no local, náuseas e vômitos, que coincidiam com cólicas abdominais paroxísticas, além de sudorese, visão turva, discreta epistaxe e diarréia; a frequência cardíaca, ao início com 108 batimentos por minuto, chegando a 62 após a soroterapia e pressão arterial em 130/80 mmHg; tempo de sangria em 4 min 15 seg, tempo de coagulação acima de 15 min, tempo de protrombina acima de 1 minuto. Após o anti-veneno o paciente evoluiu com melhora clínica; continuou assintomático até receber alta no terceiro dia, curado (textro extraído do artigo PARDAL et al, 2007). Quanto ao gênero da cobra, assinale o CORRETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Bothrops"
+      },
+      {
+        "letra": "B",
+        "texto": "Crotalus"
+      },
+      {
+        "letra": "C",
+        "texto": "Micrurus"
+      },
+      {
+        "letra": "D",
+        "texto": "Laquesis"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 66218,
+    "tags": [],
+    "enunciado": "Paciente masculino, 19 anos, picado no antebraço direito por uma serpente. Admitido e internado no Hospital em cerca de 2 horas após. Apresentando edema discreto no antebraço direito, dor intensa no local, náuseas e vômitos, que coincidiam com cólicas abdominais paroxísticas, além de sudorese, visão turva, discreta epistaxe e diarréia; a frequência cardíaca, ao início com 108 batimentos por minuto, chegando a 62 após a soroterapia e pressão arterial em 130/80 mmHg; tempo de sangria em 4 min 15 seg, tempo de coagulação acima de 15 min, tempo de protrombina acima de 1 minuto. Após o anti-veneno o paciente evoluiu com melhora clínica; continuou assintomático até receber alta no terceiro dia, curado (textro extraído do artigo PARDAL et al, 2007). Qual tipo desse veneno?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Coagulante, proteolítico e hemorrágico"
+      },
+      {
+        "letra": "B",
+        "texto": "Neurotóxico, miotóxico, coagulante"
+      },
+      {
+        "letra": "C",
+        "texto": "Proteolítico, hemorrágico, coagulante e neurotóxico"
+      },
+      {
+        "letra": "D",
+        "texto": "Neurotóxico pré e pós-sináptico"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66219,
+    "tags": [],
+    "enunciado": "Sobre os acidentes crotálicos é correto afirmar, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Em geral cursam com muita dor local."
+      },
+      {
+        "letra": "B",
+        "texto": "São pouco importantes, diferindo dos acidentes botrópico e laquético."
+      },
+      {
+        "letra": "C",
+        "texto": "Sintomas neurológicos como fácies miastênica, surgem nas primeiras horas após a picada."
+      },
+      {
+        "letra": "D",
+        "texto": "A principal complicação, em nosso meio, é a Insuficiência Renal Aguda (IRA)."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66220,
+    "tags": [],
+    "enunciado": "C.D.E, 26 anos, sexo masculino, lavrador, foi vítima de picada de cobra em MIE. Cerca de 1 hora depois, apresentou no local da picada dor intensa, edema, equimose importante e formação de bolhas. Nega parestesias, di(cid:71)culdades visual e respiratória. Ao exame não se constatou ptose palpebral. O aspecto macroscópico da urina sugere hematúria. Em relação aos acidentes ofídicos e a este particularmente, assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A dose do soro deve ser proporcional ao peso do paciente."
+      },
+      {
+        "letra": "B",
+        "texto": "A realização prévia de garroteamento do membro acometido e realização de um corte no local para sucção são medidas recomendadas."
+      },
+      {
+        "letra": "C",
+        "texto": "A dose do soro deve ser aplicada na região da picada."
+      },
+      {
+        "letra": "D",
+        "texto": "Há risco de insuficiência renal aguda e síndrome de compartimento."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 66221,
+    "tags": [],
+    "enunciado": "Na Emergência, a mãe de uma criança de três anos de idade relata que a mesma foi picada por um inseto há cerca de 3 dias e que já recebeu um primeiro atendimento numa Unidade de Pronto Atendimento, cerca de duas horas após a picada. No momento, há dor aguda no local, vermelhidão, prurido e edema (cid:92)ogístico que evoluiu para enduração local; também há di(cid:71)culdades de mobilidade no membro afetado. Na UPA, o médico havia conseguido identificar e retirar o ferrão. Qual o inseto mais provável de ter causado essas alterações?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Vespa."
+      },
+      {
+        "letra": "B",
+        "texto": "Arraia."
+      },
+      {
+        "letra": "C",
+        "texto": "Abelha."
+      },
+      {
+        "letra": "D",
+        "texto": "Formiga."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66222,
+    "tags": [],
+    "enunciado": "As jararacas são responsáveis por 90% dos acidentes ofídicos no Brasil. As principais complicações do acidente botrópico são, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Síndrome Compartimental."
+      },
+      {
+        "letra": "B",
+        "texto": "Necrose de partes moles."
+      },
+      {
+        "letra": "C",
+        "texto": "Insuficiência Respiratória Aguda."
+      },
+      {
+        "letra": "D",
+        "texto": "Infecção bacteriana no local da picada."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66223,
+    "tags": [],
+    "enunciado": "Os acidentes com escorpiões têm grande importância entre os acidentes por animais peçonhentos, seja pela incidência ou pela gravidade dos casos, principalmente em crianças menores de sete anos. Com base nessa afirmação, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O edema agudo de pulmão é raro nos casos graves."
+      },
+      {
+        "letra": "B",
+        "texto": "Quando há edema agudo de pulmão ele tem apenas uma fisiopatologia, a relacionada à Insuficiência Cardíaca."
+      },
+      {
+        "letra": "C",
+        "texto": "Com a picada, o veneno faz apenas liberação de substâncias simpatomiméticas."
+      },
+      {
+        "letra": "D",
+        "texto": "O veneno do escorpião possui um grande número de proteínas que se ligam ao canal de sódio."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 66224,
+    "tags": [],
+    "enunciado": "No Brasil, as serpentes do gênero Crotalus são representadas pela cascavel, seu acidente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tem importância por corresponder a 70% das picadas de cobra no país."
+      },
+      {
+        "letra": "B",
+        "texto": "Causa morte por sangramento intenso nos pacientes."
+      },
+      {
+        "letra": "C",
+        "texto": "A ptose palpebral é um sinal presente no paciente que sofreu acidente crotálico o que ajuda a diferenciá-lo do botrópico."
+      },
+      {
+        "letra": "D",
+        "texto": "O CPK está normal nesses acidentes."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66225,
+    "tags": [],
+    "enunciado": "Adolescente deu entrada na UPA com história de picada por cobra. Ao exame, apresenta apenas uma marca puntiforme com sangramento na perna direita. Há dor e edema importantes de tornozelo e pé, além de bolhas de conteúdo hemorrágico. Há 15 minutos iniciou com epistaxe. Trata-se de acidente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Crotálico, podendo evoluir para insuficiência respiratória por conta do veneno neurotóxico e miotóxico."
+      },
+      {
+        "letra": "B",
+        "texto": "Laquético, podendo evoluir para CIVD por conta do efeito coagulante e neurotóxico."
+      },
+      {
+        "letra": "C",
+        "texto": "Crotálico, que cujo veneno tem ação proteolítica, hemorrágica e coagulante."
+      },
+      {
+        "letra": "D",
+        "texto": "Botrópico, podendo evoluir para choque hipovolêmico e/ou insuficiência renal."
+      },
+      {
+        "letra": "E",
+        "texto": "Botrópico cujo veneno tem ação neurotóxica e miotóxica e consequente síndrome compartimental."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 66226,
+    "tags": [],
+    "enunciado": "Paciente, 18 anos de idade, procurou hospital trazido pelos pais com quadro de dor em mão direita após acidente com escorpião. Foi medicado e hidratado. Porém, 6 horas após o início do tratamento, evoluiu com intensa dispneia, com SPO₂ de 75%. Foi levado à UTI, realizado manejo de vias aéreas e iniciado ventilação mecânica. Como monitorização hemodinâmica, a PVC era de 8 mmHg. Sua ausculta era de roncos e estertores difusos. Diante dessa situação, assinale a alternativa MAIS adequada para explicar a evolução grave da doença:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sobrecarga volêmica pela hidratação."
+      },
+      {
+        "letra": "B",
+        "texto": "Aumento da permeabilidade pela via endotelial."
+      },
+      {
+        "letra": "C",
+        "texto": "Aumento da permeabilidade pela via epitelial."
+      },
+      {
+        "letra": "D",
+        "texto": "Edema agudo do pulmão."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 66227,
+    "tags": [],
+    "enunciado": "Homem, 54 anos, etilista, sem outros problemas de saúde, procurou atendimento em pronto-socorro por picada de animal desconhecido em membro inferior esquerdo há 2 dias enquanto trabalhava em área rural na proximidade de Ribeirão Preto. Após o acidente, apresentou dor local e, após cerca de 12 horas, notou a formação de eritema e bolha hemorrágica associados com febre, calafrios e náuseas. Exame físico: bom estado geral, descorado +/4, hidratado, acianótico, ictérico +/4; pele: lesão cutânea mostrada na (cid:71)gura abaixo: Ausculta pulmonar e cardíacas normais, FC = 92 bpm; PA = 135 x 80 mmHg; abdome: sem alterações. Exames: hemoglobina = 9,5 g/dl; VCM = 94 (cid:92) (VN: 80–95); HCM = 31 (VN: 27–32); GB = 18.000 (05% bastões); plaquetas = 180.000; LDH = 2.300 U/L (VN < 460); bilirrubina indireta = 2,5 mg/dl (VN < 0,9); bilirrubina direta = 0,28 mg/dl (VN < 0,3); creatinina = 1,6 mg/dl (VN < 1,5); ALT = 28 U/L (VN < 31); AST = 40 U/L (VN < 32); INR = 1,2 (VN: até 1,3); TTPA (ratio) = 1,12 (VN < 1,26). Qual é o agente etiológico mais provável?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Loxosceles sp."
+      },
+      {
+        "letra": "B",
+        "texto": "Bothrops sp."
+      },
+      {
+        "letra": "C",
+        "texto": "Phoneutria sp."
+      },
+      {
+        "letra": "D",
+        "texto": "Crotalus sp."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66228,
+    "tags": [],
+    "enunciado": "Menino, 2a, é trazido pela tia, que refere aparecimento de lesão em face dorsal de pé esquerdo há 3 dias que inicialmente era uma bolha com conteúdo seroso com edema local. Evolui com piora progressiva da lesão. Exame físico, pele: lesão dolorosa, endurada, equimótica, mesclada com áreas pálidas de isquemia com bolha necro-hemorrágica em dorso de pé esquerdo. O quadro acima se refere a acidente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Escorpiônico"
+      },
+      {
+        "letra": "B",
+        "texto": "Botrópico"
+      },
+      {
+        "letra": "C",
+        "texto": "Crotálico"
+      },
+      {
+        "letra": "D",
+        "texto": "Loxoscélico"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 66229,
+    "tags": [],
+    "enunciado": "Sobre o tratamento com soro antiescorpiônico, considere as seguintes a(cid:71)rmações. I. Deve ser administrado por via oral.; II. Deve ser administrado independentemente do peso ou da idade do paciente.; III. Cada hora de atraso na aplicação do soro representa aumento de 13% no risco de morte dos pacientes. É CORRETO o que se afirma, APENAS, em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e II."
+      },
+      {
+        "letra": "B",
+        "texto": "I e III."
+      },
+      {
+        "letra": "C",
+        "texto": "II e III."
+      },
+      {
+        "letra": "D",
+        "texto": "II."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66230,
+    "tags": [],
+    "enunciado": "Paciente masculino, 45 anos, cortador de cana, foi picado por uma Jararaca em tornozelo direito. No atendimento inicial são esperadas as seguintes manifestações, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ptose palpebral."
+      },
+      {
+        "letra": "B",
+        "texto": "Hematúria."
+      },
+      {
+        "letra": "C",
+        "texto": "Bolha e Equimose no local da picada."
+      },
+      {
+        "letra": "D",
+        "texto": "Edema na região da picada."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66231,
+    "tags": [],
+    "enunciado": "Menino, 3a, é trazida pela mãe, que refere aparecimento de lesão em dorso de pé direito há 3 dias, que inicialmente era uma bolha com conteúdo seroso com edema local, evolui com piora progressiva da lesão. Exame físico: Pele: lesão dolorosa, endurada, equimótica, mesclada com áreas pálidas de isquemia com bolha necro-hemorrágica em dorso de pé esquerdo. O quadro acima se refere a acidente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Escopiônico"
+      },
+      {
+        "letra": "B",
+        "texto": "Brotrópico"
+      },
+      {
+        "letra": "C",
+        "texto": "Crotélico"
+      },
+      {
+        "letra": "D",
+        "texto": "Loxoscélico"
+      },
+      {
+        "letra": "E",
+        "texto": "Nenhuma das respostas anteriores"
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 66232,
+    "tags": [],
+    "enunciado": "Paciente agricultor, morador da Zona Rural de Santarém deu entrada no Hospital Municipal informando acidente ofídico em membro inferior direito acontecido há 8h e evoluindo com importante dor e edema local. Apresenta elevação de Creatinofosfoquinase (CPK) com aumento de potássio (K) sérico e alterações eletrocardiográficas. Clinicamente apresenta dispneia e oligúria. Neste caso, a causa provável da oligúria e do distúrbio eletrolítico é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Alcalose metabólica."
+      },
+      {
+        "letra": "B",
+        "texto": "Lesão muscular com rabdomiólise."
+      },
+      {
+        "letra": "C",
+        "texto": "Lesão direta glomerular do veneno."
+      },
+      {
+        "letra": "D",
+        "texto": "Nefrite intersticial aguda."
+      },
+      {
+        "letra": "E",
+        "texto": "Alteração vascular"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66233,
+    "tags": [],
+    "enunciado": "Qual das seguintes alterações não seria encontrada na avaliação clínica e nos exames complementares de uma criança de 2 anos, vítima de um acidente escorpiônico clinicamente grave?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aumento de CK e CK-MB."
+      },
+      {
+        "letra": "B",
+        "texto": "Bradicardia sinusal."
+      },
+      {
+        "letra": "C",
+        "texto": "Distúrbio de coagulação."
+      },
+      {
+        "letra": "D",
+        "texto": "Taquicardia sinusal."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66234,
+    "tags": [],
+    "enunciado": "Homem, 34 anos, dá entrada em pronto-socorro duas horas após a piacada por cobra não identi(cid:71)cada, com quadro de edema e dor intensa no local, dor abdominal em cólica, diarreia, náuseas, vômitos e escurecimento da urina. PA = 80 x 54 mmHg e FC= 48 bpm. Exames laboratoriais mostraram TC (tempo de coagulação) incoagulável. Este acidente ofífico é melhor classificado como:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Laquético."
+      },
+      {
+        "letra": "B",
+        "texto": "Botrópico."
+      },
+      {
+        "letra": "C",
+        "texto": "Crotálico."
+      },
+      {
+        "letra": "D",
+        "texto": "Elapídico."
+      },
+      {
+        "letra": "E",
+        "texto": "O quadro clínico não é compatível com acidente ofídico."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66235,
+    "tags": [],
+    "enunciado": "Uma criança de 5 anos (20 kg) e um adulto de 45 anos (78 kg) foram picados na perna por uma cascavel, sendo o acidente ofídico classi(cid:71)cado como grave em ambos. A dose de soro antiofídico a ser administrada a cada um será:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A mesma, baseada na gravidade do acidente."
+      },
+      {
+        "letra": "B",
+        "texto": "Diferente, baseada no peso de cada um."
+      },
+      {
+        "letra": "C",
+        "texto": "Diferente. A dose da criança será metade da dose do adulto."
+      },
+      {
+        "letra": "D",
+        "texto": "A mesma, baseada no sítio da picada, desde que o tempo decorrido para o atendimento seja igual."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66236,
+    "tags": [],
+    "enunciado": "Criança proveniente de Serrana chegou à UPA com história de acidente crotálico. Qual é a complicação mais compatível neste caso?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Insuficiência renal pré-renal."
+      },
+      {
+        "letra": "B",
+        "texto": "Insuficiência cardíaca por diminuição da fração de ejeção."
+      },
+      {
+        "letra": "C",
+        "texto": "Síndrome compartimental."
+      },
+      {
+        "letra": "D",
+        "texto": "Necrose tubular aguda."
+      },
+      {
+        "letra": "E",
+        "texto": "Insuficiência respiratória aguda."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 66237,
+    "tags": [],
+    "enunciado": "Em casos de acidentes escorpiônicos em crianças, deve-se considerar como fator(es) associado(s) à maior gravidade e ao pior prognóstico:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A menor superfície corpórea e a presença de manifestações sistêmicas."
+      },
+      {
+        "letra": "B",
+        "texto": "A ausência de dor no local da picada."
+      },
+      {
+        "letra": "C",
+        "texto": "A presença de forte dor com irradiação para a raiz do membro acometido."
+      },
+      {
+        "letra": "D",
+        "texto": "Administração de soroterapia na presença de manifestações neurológicas."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66238,
+    "tags": [],
+    "enunciado": "Menino, 12a, refere ter sido picado na perna direita por animal há 2 horas quando estava em mata, com dor no local desde então. Exame físico: FC = 124 bpm; FR = 20 irpm; PA = 100 x 60 mmHg; membro inferior direito: edema até fossa poplítea e equimose em tornozelo. O diagnóstico é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Acidente elapídico."
+      },
+      {
+        "letra": "B",
+        "texto": "Acidente por Loxosceles."
+      },
+      {
+        "letra": "C",
+        "texto": "Acidente crotálico."
+      },
+      {
+        "letra": "D",
+        "texto": "Acidente botrópico."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 66239,
+    "tags": [],
+    "enunciado": "Em relação ao acidente por picada de Loxosceles (“aranha marrom”) considere as seguintes afirmativas: I. Os sinais e sintomas surgem precocemente (30 a 60 minutos após a picada). II. As formas clínicas descritas são: cutânea e cutâneo visceral. III. Deve-se solicitar hemograma, exame comum de urina, ureia e creatinina, exceto para casos cutâneos puros. Está/estão correta(s) a(s) afirmativa(s):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas I."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas II."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas III."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas I e II."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II e III."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66240,
+    "tags": [],
+    "enunciado": "Homem, morador de Vassouras, é admitido na emergência em decorrência de mordedura de cobra na perna esquerda há 5 horas. Queixa-se de muita dor e no exame do local apresenta importante edema com sinais flogísticos. O tempo de coagulação mostrava-se alargado. Qual o tratamento inicial para este paciente?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Soro anticrotálico."
+      },
+      {
+        "letra": "B",
+        "texto": "Soro antielapídico."
+      },
+      {
+        "letra": "C",
+        "texto": "Soro antibotrópico."
+      },
+      {
+        "letra": "D",
+        "texto": "Dexametasona e antihistamínico."
+      },
+      {
+        "letra": "E",
+        "texto": "Iniciar antibioticoterapia de amplo espectro."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66241,
+    "tags": [],
+    "enunciado": "Em relação aos acidentes por animais peçonhentos e suas manifestações clínicas associadas, marque a alternativa ERRADA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Acidente botrópico: não produz sintomas locais, exceto parestesia que progride pelo membro picado até acometimento da musculatura respiratória e asfixia."
+      },
+      {
+        "letra": "B",
+        "texto": "Acidente crotálico: dor na nuca, diminuição da visão e dificuldade para falar."
+      },
+      {
+        "letra": "C",
+        "texto": "Acidente por aranha do gênero loxosceles: edema, eritema e flictena no local da picada, evoluindo até úlcera extensa de difícil cicatrização."
+      },
+      {
+        "letra": "D",
+        "texto": "Escorpionismo: dor local, agitação, taquicardia, vômitos e priapismo."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66242,
+    "tags": [],
+    "enunciado": "Um paciente com 23 anos de idade foi vítima de acidente ofídico e procurou atendimento médico queixando-se de pouca dor no local da picada, boca seca, diplopia, di(cid:71)culdade de deglutição, dores musculares generalizadas, oligúria e urina com coloração vermelha escura. Ao exame, apresentou ptose palpebral bilateral, midríase e plegia dos pares cranianos III, IV e VI. O resultado do exame de urina evidenciou mioglobinúria. Considerando essa situação hipotética, assinale a alternativa correta em relação ao tratamento do doente.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A acidificação da urina é necessária para evitar a precipitação intratubular de mioglobina."
+      },
+      {
+        "letra": "B",
+        "texto": "A analgesia com anti-inflamatórios não esteroidais está indicada caso haja dor importante."
+      },
+      {
+        "letra": "C",
+        "texto": "O uso de antibioticoterapia profilática reduz a incidência de abcessos locais."
+      },
+      {
+        "letra": "D",
+        "texto": "A aplicação de torniquetes ou garrotes melhora o prognóstico por reduzir a circulação de veneno."
+      },
+      {
+        "letra": "E",
+        "texto": "A diurese osmótica deve ser induzida com o emprego de solução de manitol a 20%."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 66243,
+    "tags": [],
+    "enunciado": "Um paciente com 23 anos de idade foi vítima de acidente ofídico e procurou atendimento médico queixando-se de pouca dor no local da picada, boca seca, diplopia, di(cid:71)culdade de deglutição, dores musculares generalizadas, oligúria e urina com coloração vermelha escura. Ao exame, apresentou ptose palpebral bilateral, midríase e plegia dos pares cranianos III, IV e VI. O resultado do exame de urina evidenciou mioglobinúria. Com base nesse caso hipotético, assinale a alternativa que apresenta o tipo de acidente ofídico descrito.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Crotálico."
+      },
+      {
+        "letra": "B",
+        "texto": "Botrópico."
+      },
+      {
+        "letra": "C",
+        "texto": "Laquético."
+      },
+      {
+        "letra": "D",
+        "texto": "Elapídico."
+      },
+      {
+        "letra": "E",
+        "texto": "Colubrídeo."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66244,
+    "tags": [],
+    "enunciado": "A respeito do tratamento de acidentes ofídicos, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "No acidente elapídico, pode-se, além do soro, utilizar atropina e anticolinesterásico"
+      },
+      {
+        "letra": "B",
+        "texto": "A administração de heparina sempre deve preceder o uso de antibotrópico"
+      },
+      {
+        "letra": "C",
+        "texto": "Reações tardias como urticária, febre e adenomegalia, após a administração do soro, ocorrem apenas quando se utiliza de anticrotálico"
+      },
+      {
+        "letra": "D",
+        "texto": "O tratamento da insuficiência respiratória aguda deve ser a primeira medida no tratamento do acidente laquético"
+      },
+      {
+        "letra": "E",
+        "texto": "O uso de torniquete nos membros inferiores está especialmente indicado quando a serpente for do gênero Bothrops"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66245,
+    "tags": [],
+    "enunciado": "Um menino de 6 anos de idade é levado ao Pronto Socorro em razão de uma picada de aranha na face dorsal da mão esquerda, ocorrida há cerca de 24 horas. Os pais relatam que, inicialmente, a criança queixou-se de dor local, que melhorou com analgesia oral. Por essa razão, a família não havia buscado atendimento. Hoje pela manhã, no entando, os pais observaram o surgimento de bolha com piora da dor. A criança descreve que \"é como se queimasse\". A aranha não foi coletada, mas a mãe descreve que ela era pequena e \"amarronzada\". Ao exame físico, além da lesão descrita, observa-se palidez e temperatura axilar de 39°C. Qual aracnídeo está associado ao quadro descrito e qual seria uma conduta adequada?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Loxosceles; debridamento imediato, pois a lesão pode evoluir para necrose."
+      },
+      {
+        "letra": "B",
+        "texto": "Phoneutria; tratamento tópico da lesão, sendo dispensável a soroterapia."
+      },
+      {
+        "letra": "C",
+        "texto": "Phoneutria; soroterapia devido a manifestações sistêmicas, tais como a febre."
+      },
+      {
+        "letra": "D",
+        "texto": "Loxosceles; realização de exames laboratoriais para avaliação de hemólise intravascular."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 66246,
+    "tags": [],
+    "enunciado": "Uma criança oriunda de região rural é trazida ao pronto atendimento apresentando sinais de acidente por animal peçonhento, ocorrido há mais de 12 horas. No tornozelo, apresentava pequeno edema não doloroso, um pouco de formigamento; as pálpebras superiores estavam semicerradas, o que a impedia de enxergar direito; queixa-se de dores na nuca e desde o ocorrido estava urinando cada vez menos. Baseado nestes dados, que tipo de acidente sofreu esta criança?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Picada de cobra do grupo botrópico"
+      },
+      {
+        "letra": "B",
+        "texto": "Picada de cobra do grupo crotálico"
+      },
+      {
+        "letra": "C",
+        "texto": "Picada de cobra do grupo elapídico"
+      },
+      {
+        "letra": "D",
+        "texto": "Picada de aranha – Phoneutria"
+      },
+      {
+        "letra": "E",
+        "texto": "Picada de aranha – Loxosceles"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66247,
+    "tags": [],
+    "enunciado": "Segundo estudo de \"Sangenis et al.\", o município de Valença concentra grande número de acidentes ofídicos por serpentes do gênero Crotalus. O acidente por este gênero de serpente se caracteriza por:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apresentar manifestações inflamatórias no local da picada e alta incidência de reações hemorrágicas."
+      },
+      {
+        "letra": "B",
+        "texto": "Apresentar manifestações locais pouco evidentes e paralisia respiratória por mecanismo de bloqueio neuromuscular pós-sináptico."
+      },
+      {
+        "letra": "C",
+        "texto": "Provocar maior incidência de acidentes graves com fácies miastênica, mioglobinúria e necrose tubular aguda precoce."
+      },
+      {
+        "letra": "D",
+        "texto": "Provocar insuficiência respiratória precoce por bloqueio neuromuscular pré e pós- sináptico."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66248,
+    "tags": [],
+    "enunciado": "O acidente ofídico de maior importância epidemiológica no Brasil é o botrópico responsável por 90% dos acidentes ofídicos.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "respeito dos acidentes por picada de Jararaca é correto afirmar:"
+      },
+      {
+        "letra": "A",
+        "texto": "Tempo de Coagulação é um exame muito importante para elucidação diagnóstica e norteador para necessidade ou não de dose adicional de soro antibotrópico."
+      },
+      {
+        "letra": "B",
+        "texto": "O tempo de Protrombina é o exame mais indicado a ser feito antes da administração do soro específico e 24h após a primeira dose do soro antibotrópico."
+      },
+      {
+        "letra": "C",
+        "texto": "O veneno da jararaca produz lesão local por ação proteolítica, mas não leva à alteração da função plaquetária ou plaquetopenia."
+      },
+      {
+        "letra": "D",
+        "texto": "Fenômenos hemorrágicos e até coagulação intravascular disseminada não são complicações esperadas em picadas por jararaca."
+      },
+      {
+        "letra": "E",
+        "texto": "O soro antibotrópico deve ser administrado apenas por acesso venoso central evitando-se ao máximo o acesso periférico."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66249,
+    "tags": [],
+    "enunciado": "Em casos de acidentes com animais peçonhentos, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Na maioria dos casos de acidentes com escorpiões, o tratamento é sintomático com infiltração de anestésico com vasoconstritor e analgésico sistêmico."
+      },
+      {
+        "letra": "B",
+        "texto": "Na grande maioria dos casos de acidentes com Loxosceles sp. ocorre hemólise intravascular nas primeiras 24 horas após a picada que caracteriza a chamada forma cutâneo-visceral."
+      },
+      {
+        "letra": "C",
+        "texto": "O envenenamento causado pela penetração de cerdas de lagartas do gênero Lonomia na pele podem determinar manifestações hemorrágicas como gengivorragia e epistaxe."
+      },
+      {
+        "letra": "D",
+        "texto": "Se um paciente submetido à soroterapia anticrotálica há três semanas evolui com temperatura de 37,8º C, dores nos cotovelos e joelhos e adenomegalia subclavicular e retroauricular podemos estar diante de um caso de reação anafilática aos componentes do soro."
+      },
+      {
+        "letra": "E",
+        "texto": "No Brasil, dos quatro gêneros principais de serpentes peçonhentas, verifica-se o predomínio dos acidentes crotálicos (73,5%), seguidos do botrópico (7,5%), do elapídico (3%) e por último o láquético (0,7%)."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66250,
+    "tags": [],
+    "enunciado": "Paciente de 18 anos, masculino, residente no interior do Acre foi \"picado no pé direito por uma cobra\" há cerca de 4 horas. Relata dor moderada no local da picada e diz que sua perna está \"inchando\". Nega outras queixas. Exame físico: BEG, LOTE, fácies atípica, eucárdico (FC: 88 bpm) eupneico (FR: 18 irpm), PA: 120 x 80 mmHg, TA: 36ºC, AC: normal, AP: normal, abdome sem alterações, no pé direito há pequenos orifícios, edema se estendendo do pé até a região proximal da coxa direita, duas bolhas no dorso do pé direito, além de equimoses distribuídas pelo pé e perna direitos. A classi(cid:71)cação do acidente e a melhor conduta com relação à soroterapia é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Acidente leve / Soro antibotrópico."
+      },
+      {
+        "letra": "B",
+        "texto": "Acidente moderado / Soro antibotrópico."
+      },
+      {
+        "letra": "C",
+        "texto": "Acidente grave / Soro antibotrópico-crotálico."
+      },
+      {
+        "letra": "D",
+        "texto": "Acidente grave / Soro antibotrópico-laquético."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 66251,
+    "tags": [],
+    "enunciado": "Homem, 34 anos, dá entrada em Pronto-Socorro duas horas após ser picada por cobra não identi(cid:71)cada, com quadro de edema e dor intensa no local, dor abdominal em cólica, diarreia, náuseas, vômitos e escurecimento da urina. PA = 80/54 mmHg e FC = 48 bpm. Exames laboratoriais mostraram TC (Tempo de Coagulação) incoagulável. Este acidente ofídico é melhor classificado como:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Laquético."
+      },
+      {
+        "letra": "B",
+        "texto": "Botrópico."
+      },
+      {
+        "letra": "C",
+        "texto": "Crotálico."
+      },
+      {
+        "letra": "D",
+        "texto": "Elapídico."
+      },
+      {
+        "letra": "E",
+        "texto": "O quadro clínico não é compatível com acidente ofídico."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66252,
+    "tags": [],
+    "enunciado": "Mulher, 24 anos de idade, atendida na sala de urgência. HMA: refere dor em pé direito após ter sido picada por um animal há 6 horas. A paciente não conseguiu identi(cid:71)car o animal. EF: BEG; corada; anictérica; acianótica; afebril. Presença de hiperemia, petéquias e edema moderado em pé direito. Sistema cardiovascular, respiratório, neurológico e abdome sem alterações. FC = 90 bpm; PA = 110 x 80 mmHg. Imagem do pé na figura. (VER IMAGEM) A hipótese diagnóstica mais provável é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Acidente botrópico."
+      },
+      {
+        "letra": "B",
+        "texto": "Acidente crotálico."
+      },
+      {
+        "letra": "C",
+        "texto": "Acidente por Phoneutria."
+      },
+      {
+        "letra": "D",
+        "texto": "Acidente por Loxosceles."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66253,
+    "tags": [],
+    "enunciado": "Menino, 4a, é trazido ao pronto-socorro referindo ter sido picado por um “bicho” há 2 horas, com dor intensa, sudorese fria desde a picada e 9 episódios de vômitos nos últimos 30 minutos. O PACIENTE PODE EVOLUIR COM:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Síndrome compartimental."
+      },
+      {
+        "letra": "B",
+        "texto": "Fácies miastênica."
+      },
+      {
+        "letra": "C",
+        "texto": "Insuficiência cardíaca."
+      },
+      {
+        "letra": "D",
+        "texto": "Necrose no local da picada. 4000098959"
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66254,
+    "tags": [],
+    "enunciado": "Escolar, do sexo masculino, 4 anos, vai à consulta no pronto atendimento por “inchaço”. Mãe relata a ocorrência de inchaço e vermelhidão em coxa direita há 2 dias, negando febre. Ao exame, evidencia-se hiperemia sem contornos definidos, edema e calor em 2/3 da região anterior da coxa direita. O diagnóstico e a conduta são, respectivamente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Erisipela – prescrever amoxicilina e sintomáticos VO, liberar."
+      },
+      {
+        "letra": "B",
+        "texto": "Acidente aracnídeo – prescrever soro antiaracnídeo EV, internar."
+      },
+      {
+        "letra": "C",
+        "texto": "Celulite – prescrever cefalotina e sintomáticos EV, internar."
+      },
+      {
+        "letra": "D",
+        "texto": "Processo alérgico – prescrever anti-histamínico VO, liberar."
+      },
+      {
+        "letra": "E",
+        "texto": "Estrófulo – prescrever sintomáticos VO, liberar."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66255,
+    "tags": [],
+    "enunciado": "As serpentes são as principais causadoras de acidentes por animais peçonhentos no Brasil. Dentre as opções abaixo, qual apresenta somente espécies peçonhentas, comumente encontradas no Brasil?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Bothrops jararaca e Boa constrictor."
+      },
+      {
+        "letra": "B",
+        "texto": "Corallus caninus e Crotalus durissus."
+      },
+      {
+        "letra": "C",
+        "texto": "Eunectes murinus e jararacussu."
+      },
+      {
+        "letra": "D",
+        "texto": "Corallus caninus e Bothrops jararaca."
+      },
+      {
+        "letra": "E",
+        "texto": "Bothrops jararaca e jararacussu."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 66256,
+    "tags": [],
+    "enunciado": "Menino de 8 anos de idade foi picado por cobra. Quando examinado, duas horas após o acidente ofídico, o menino apresentava-se com dor intensa, edema importante e bolhas no membro afetado, hematúria macroscópica e Pressão Arterial (PA) – de 80 x 30 mmHg. Exame de sangue – incoagulável. (Pressão Arterial para essa idade: sistólica varia de 88–110 mmHg e diastólica de 58–78 mmHg). Para o tratamento, o médico precisa classi(cid:71)car o quadro quanto à gravidade e prescrever o tipo de soro adequado para o caso. Assinale a alternativa que apresenta a classificação do caso e o tipo de soro que essa criança deve receber.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Caso moderado e soro anticrotálico."
+      },
+      {
+        "letra": "B",
+        "texto": "Caso moderado e soro antibotrópico."
+      },
+      {
+        "letra": "C",
+        "texto": "Caso grave e soro antibotrópico."
+      },
+      {
+        "letra": "D",
+        "texto": "Caso grave e soro antilaquético."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66257,
+    "tags": [],
+    "enunciado": "Homem, 25 anos, refere mordedura de cobra no pé há 12 horas. Apresenta-se com dor local leve, mal-estar, mialgia, náuseas, vômitos, di(cid:71)culdade progressiva para deglutir e visão turva. Exame físico: ptose bilateral, re(cid:92)exos pupilares normais, diplopia horizontal, coordenação e re(cid:92)exos de estiramento muscular normais. A ETIOLOGIA DO ACIDENTE OFÍDICO E A INVESTIGAÇÃO COMPLEMENTAR SÃO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Botrópico e dosagem de creatinaquinase, ureia, creatinina, potássio e tempo de coagulação."
+      },
+      {
+        "letra": "B",
+        "texto": "Crotálico e dosagem de creatinaquinase, ureia, creatinina, potássio e tempo de coagulação."
+      },
+      {
+        "letra": "C",
+        "texto": "Elapídico e dosagem de ureia, creatinina, potássio e tempo de coagulação."
+      },
+      {
+        "letra": "D",
+        "texto": "Laquético e dosagem de ureia, creatinina, potássio e tempo de coagulação. 4000096908"
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66258,
+    "tags": [],
+    "enunciado": "Considere as afirmativas abaixo sobre procedimentos em acidentes escorpiônicos: I. Limpar o local com água e sabão e aplicar compressa morna no local. II. Não aplicar nenhum tipo de substâncias sobre o local da picada (fezes, álcool, querosene, fumo, ervas, urina) nem fazer curativos que fechem o local. III.Se for possível, capturar o animal e levá-lo ao serviço de saúde. Quais estão corretas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas I."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas I e II."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas I e III."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas II e III."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II e III."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 66259,
+    "tags": [],
+    "enunciado": "No que concerne aos acidentes ofídicos no Brasil, de grande relevância na área rural, são válidas as seguintes afirmativas, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A fácies miastênica ou neurotóxica constitui a expressão clínica mais comum no envenenamento por coral verdadeira (gênero Micrurus), ao passo que no envenenamento por surucucu-pico-de-jaca (gênero Lachesis) as manifestações clínicas são indistinguíveis daquelas observadas no acidente botrópico, a menos que, no acidente laquético, apareçam manifestações vagais como bradicardia, hipotensão arterial, cólicas abdominais e diarreia."
+      },
+      {
+        "letra": "B",
+        "texto": "As manifestações locais (dor, edema, equimose, formação de bolhas e necrose cutânea) são evidentes nos acidentes por Crotalus durissus, mas inexpressivas nos acidentes por serpentes do gênero Bothrops."
+      },
+      {
+        "letra": "C",
+        "texto": "O gênero Bothrops responde pela maior parte das serpentes peçonhentas encontradas no País, ao passo que o gênero Crotalus é representado por uma única espécie (Crotalus durissus)."
+      },
+      {
+        "letra": "D",
+        "texto": "O veneno de Crotalus durissus provoca manifestações neurológicas (turvação visual, ptose palpebral, oftalmoplegia), rabdomiólise, mioglobinúria e insuficiência renal aguda."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66260,
+    "tags": [],
+    "enunciado": "Paulo, 53 anos, morador do Pantanal sul-matogrossense, refere que há 18h foi vítima de picada de jararaca em dorso do pé esquerdo. Apresenta-se pálido, com dor intensa e edema local com (cid:92)ictenas. É correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Trata-se do gênero Crotalus responsável pela maioria dos acidentes ofídicos no Brasil."
+      },
+      {
+        "letra": "B",
+        "texto": "Seu veneno é proteolítico, coagulante e hemorrágico."
+      },
+      {
+        "letra": "C",
+        "texto": "Deve ser administrado o soro anticrotálico o mais breve possível, pois o tempo de exposição e volume inoculado do veneno interfere na gravidade."
+      },
+      {
+        "letra": "D",
+        "texto": "Introdução de antimicrobianos está contraindicada."
+      },
+      {
+        "letra": "E",
+        "texto": "O torniquete pode minimizar a gravidade do acidente quando o socorro demorar."
+      }
+    ],
+    "resposta_correta": "B"
+  },
+  {
+    "id": 66261,
+    "tags": [],
+    "enunciado": "Homem, 25 anos de idade, deu entrada no pronto-socorro com história de mordida de cobra no terço distal da panturrilha direita, há 4 horas. No momento, apresenta ptose palpebral e a urina da última micção, há poucos minutos, tem aspecto marrom escuro. A lesão na panturrilha direita consiste em duas perfurações, com leve hiperemia ao redor. Assinale a alternativa com as alterações da urina rotina mais prováveis deste paciente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Densidade: 1020; proteína: negativa; Heme-pigmentos: negativos / Urobilinogênio: ++++; Hemácias: ausentes; Leucócitos: ausentes."
+      },
+      {
+        "letra": "B",
+        "texto": "Densidade: > 1030; proteína: negativa; Heme-pigmentos: ++++ / Urobilinogênio: negativo; Hemácias: incontáveis/campo; Leucócitos: ausentes."
+      },
+      {
+        "letra": "C",
+        "texto": "Densidade: > 1030; proteína: ++++; Heme-pigmentos: ++++ / Urobilinogênio: negativo; Hemácias: incontáveis/campo; Leucócitos: 60 a 80/campo."
+      },
+      {
+        "letra": "D",
+        "texto": "Densidade: 1020; proteína: negativa; Heme-pigmentos: ++++ / Urobilinogênio: negativo; Hemácias: ausentes; Leucócitos: ausentes."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 66262,
+    "tags": [],
+    "enunciado": "Menino, 5 anos de idade, apresenta lesões em membros inferiores com evolução de 6 dias. Ao exame dermatológico, observam-se lesões maculares, papulares, vesicobolhosas com base eritematosa e outras lesões com crostas espessas sero- hemáticas em ambas as pernas. A criança mora em região urbana, em uma casa com muita vegetação no quintal. Assinale a alternativa que apresenta o POSSÍVEL DIAGNÓSTICO.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Impetigo estreptocócico."
+      },
+      {
+        "letra": "B",
+        "texto": "Acidente por cobra jararaca."
+      },
+      {
+        "letra": "C",
+        "texto": "Dermatite de contato por plantas."
+      },
+      {
+        "letra": "D",
+        "texto": "Acidente por aranha loxóscele."
+      },
+      {
+        "letra": "E",
+        "texto": "Acidente por formiga vermelha."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66263,
+    "tags": [],
+    "enunciado": "Paciente feminina, 22 anos de idade, estava caminhando na trilha da praia da Lagoinha do Leste quando sofreu acidente botrópico. Trazida pelo Serviço de Atendimento Móvel de Urgência (SAMU), chega ao Hospital Universitário para avaliação no Centro de Informações Toxicológicas (CIT) apresentando local de inoculação em tornozelo, com dor, edema e equimose, e com tempo de protrombina e tempo de coagulação incoaguláveis. Feita a soroterapia, ainda manteve, após 12 horas, o tempo de coagulação e o tempo de protrombina incoaguláveis. A paciente encontra-se em bom estado geral e assintomática quando em repouso. A CONDUTA ADEQUADA é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não dar alta para a paciente e repetir exame em 12 horas."
+      },
+      {
+        "letra": "B",
+        "texto": "transfundir plasma fresco congelado."
+      },
+      {
+        "letra": "C",
+        "texto": "administrar vitamina K parenteral."
+      },
+      {
+        "letra": "D",
+        "texto": "administrar dose adicional de soro antibotrópico."
+      },
+      {
+        "letra": "E",
+        "texto": "administrar ácido aminocaproico."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66264,
+    "tags": [],
+    "enunciado": "Paciente de 42 anos, relata 24 horas de evolução de lesão eritematosa, dolorosa em região interna de membro inferior direito. Ao exame: observa-se uma placa eritematosa, com área necrótica central. As alternativas seguintes fazem parte do diagnóstico diferencial da lesão, exceto:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Acidente por Loxosceles."
+      },
+      {
+        "letra": "B",
+        "texto": "Vasculite."
+      },
+      {
+        "letra": "C",
+        "texto": "Acidente por Latodrectus."
+      },
+      {
+        "letra": "D",
+        "texto": "Síndrome de sweet."
+      },
+      {
+        "letra": "E",
+        "texto": "Pioderma gangrenoso."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66265,
+    "tags": [],
+    "enunciado": "Homem de 19 anos foi trazido ao pronto socorro (PS) com história de provável picada de cobra há 2h e 30min. Ao exame estava consciente, orientado, queixando náuseas e dor no calcanhar direito, que estava edemaciado, com lesões bolhosas e equimoses. Estava com pressão arterial: 120 x 90 mmHg, frequência cardíaca: (102 bpm). O hemograma mostrava 10.500 Ieucócitos/mm3, com 7% de bastonetes, plaquetas: 180.000/mm3. O TPPa (tempo de tromboplastina parcialmente ativada) era de 60 segundos. Assinale a MELHOR conduta para este caso:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Uso de soro antiofídico (genérico)."
+      },
+      {
+        "letra": "B",
+        "texto": "Uso de 10 ampolas IV de soro anticrotálico."
+      },
+      {
+        "letra": "C",
+        "texto": "Uso de 5 ampolas IV de soro antilaquético."
+      },
+      {
+        "letra": "D",
+        "texto": "Uso de 4-8 ampolas IV de soro antibotrópico."
+      }
+    ],
+    "resposta_correta": "D"
+  },
+  {
+    "id": 66266,
+    "tags": [],
+    "enunciado": "No atendimento do Pronto-Socorro é admitido um jovem de 19 anos, de origem indígena, que narra ter sido vítima de uma picada de cobra na mão direita, há aproximadamente 30 minutos, relatando dor local. Você constata edema e equimose local. Outros habitantes da aldeia onde reside o rapaz trouxeram a cobra sem vida ao hospital na esperança de que isso pudesse ajudar na identi(cid:71)cação da espécie da cobra que o havia picado. À observação, nota-se que a cobra tem fosseta loreal e cauda lisa. Considerando o quadro clínico, as características da cobra e a epidemiologia brasileira dos envenenamentos por animais peçonhentos, que tipo de soro antiofídico deverá ser administrado?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Soro antilonômico."
+      },
+      {
+        "letra": "B",
+        "texto": "Soro anticrotálico."
+      },
+      {
+        "letra": "C",
+        "texto": "Soro antibotrópico."
+      },
+      {
+        "letra": "D",
+        "texto": "Soro antilaquético."
+      },
+      {
+        "letra": "E",
+        "texto": "Soro antielapídico."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66267,
+    "tags": [],
+    "enunciado": "A lesão abaixo é decorrente de acidente ofídico em área de mata no interior do Paraná. Havia ocorrido aproximadamente há 4 horas da entrada do paciente no hospital. Não há sintomas sistêmicos, apenas dor intensa no local. Pelo aspecto da lesão, assinale a alternativa que sugere CORRETA e RESPECTIVAMENTE a ação da peçonha e o gênero do ofídeo. (VER IMAGEM)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ação proteolítica e coagulante, gênero Bothrops."
+      },
+      {
+        "letra": "B",
+        "texto": "Ação proteolítica e coagulante, gênero Crotalus."
+      },
+      {
+        "letra": "C",
+        "texto": "Ação miotóxica e coagulante, gênero Micrurus."
+      },
+      {
+        "letra": "D",
+        "texto": "Ação miotóxica e neurotóxica, gênero Crotalus."
+      },
+      {
+        "letra": "E",
+        "texto": "Ação proteolítica e neurotóxica, gênero Bothrops."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66268,
+    "tags": [],
+    "enunciado": "Paciente masculino, de 28 anos, trabalhador rural, chega ao serviço de saúde trazido por familiares, devido a picada de membro inferior esquerdo por “Jararaca”, ocorrida há 2 horas. O ofídio foi capturado. Ao exame, foram constatados dois sinais puntiformes de picada, edema local leve. Com relação a este caso, as medidas a serem consideradas estão listadas abaixo. Qual a INCORRETA?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Manter hidratação, controlar sinais vitais, medir diurese diária e realizar o tempo de coagulação na admissão e, posteriormente, a cada 12 horas."
+      },
+      {
+        "letra": "B",
+        "texto": "Fazer antissepsia do local da picada."
+      },
+      {
+        "letra": "C",
+        "texto": "Manter repouso no leito nas primeiras 24 horas com o segmento anatômico atingido em posição de drenagem postural."
+      },
+      {
+        "letra": "D",
+        "texto": "Aplicar 2 a 4 ampolas de soro antibotrópico, por ser uma caso leve e ocorrido há menos de 6 horas."
+      },
+      {
+        "letra": "E",
+        "texto": "Administrar anti-inflamatórios e analgésico, tipo salicitato."
+      }
+    ],
+    "resposta_correta": "E"
+  },
+  {
+    "id": 66269,
+    "tags": [],
+    "enunciado": "João, 18 anos, residente em Fortaleza, comparece à unidade de saúde após “picada” de escorpião há cerca de 4 horas. Apresenta dor local. Considerando que ele tem microalbuminúria, não teve evento isquêmico coronariano e não tem insuficiência cardíaca ou renal, qual a classe de anti-hipertensivo de escolha?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Inibidores da enzima conversora da angiotensina/antagonista do receptor da angiotensina."
+      },
+      {
+        "letra": "B",
+        "texto": "Beta-bloqueadores."
+      },
+      {
+        "letra": "C",
+        "texto": "Diuréticos de alça."
+      },
+      {
+        "letra": "D",
+        "texto": "Bloqueadores dos canais de cálcio."
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66270,
+    "tags": [],
+    "enunciado": "João, 18 anos, residente em Fortaleza, comparece à unidade de saúde após “picada” de escorpião há cerca de 4 horas. Apresenta dor local. Quanto à conduta, assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Encaminhar o paciente ao Centro de Assistência Toxicológica."
+      },
+      {
+        "letra": "B",
+        "texto": "Aplicar soro antiescorpiônico."
+      },
+      {
+        "letra": "C",
+        "texto": "Usar analgésico oral."
+      },
+      {
+        "letra": "D",
+        "texto": "Observar o paciente por 6 horas com hidratação venosa."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66271,
+    "tags": [],
+    "enunciado": "Um senhor de 42 anos apresenta uma lesão no braço esquerdo há dois dias. Refere prurido e dor em queimação. Ao exame, apresenta um eritema com halo esbranquiçado, com ponto de necrose de aproximadamente 1 cm de diâmetro. Nega outros sintomas e não identi(cid:71)ca a causa da lesão. Assinale a alternativa que apresenta a conduta mais indicada para esse caso.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Tratamento com curativo local, analgésicos e corticoide oral; notificação e acompanhamento da lesão"
+      },
+      {
+        "letra": "B",
+        "texto": "Tratamento com curativo e tratamento sintomático"
+      },
+      {
+        "letra": "C",
+        "texto": "Encaminhamento para o Centro de Especialidades"
+      },
+      {
+        "letra": "D",
+        "texto": "Tratamento com curativo local e antibioticoterapia"
+      },
+      {
+        "letra": "E",
+        "texto": "Encaminhamento para soro antiaracnídeo ou antiloxoscélico 4000101552"
+      }
+    ],
+    "resposta_correta": "A"
+  },
+  {
+    "id": 66272,
+    "tags": [],
+    "enunciado": "Assinale a alternativa que contém complicações relativas ao acidente crotálico:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "insuficiência respiratória e necrose cutânea."
+      },
+      {
+        "letra": "B",
+        "texto": "síndrome compartimental, infecção secundária e insuficiência renal aguda."
+      },
+      {
+        "letra": "C",
+        "texto": "insuficiência respiratória e insuficiência renal aguda."
+      },
+      {
+        "letra": "D",
+        "texto": "septicemia e edema agudo de pulmão."
+      },
+      {
+        "letra": "E",
+        "texto": "choque cardiogênico, insuficiência renal aguda e síndrome compartimental."
+      }
+    ],
+    "resposta_correta": "C"
+  },
+  {
+    "id": 66273,
+    "tags": [],
+    "enunciado": "Menina, 5 anos, picada no tornozelo esquerdo há 3 horas, por serpente não identi(cid:71)cada. Após uma hora iniciou fraqueza muscular e dores por todo o corpo. Exame físico FC= 130 bpm; FR= 24 irpm; discreto edema e eritema no local da picada; ptose palpebral e midríase bilaterais, força muscular globalmente diminuída; urina muito escura. Exame laboratorial: tempo de coagulação= incoagulável. O tipo de acidente e as complicações são:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Crotálico grave; rabdemiólise e coagulopatia."
+      },
+      {
+        "letra": "B",
+        "texto": "Crotálico grave; hemólise e coagulopatia."
+      },
+      {
+        "letra": "C",
+        "texto": "Elapídico grave; rabdemiólise e hemólise."
+      },
+      {
+        "letra": "D",
+        "texto": "Elapídico moderado; rabdemiólise e coagulopatia."
+      },
+      {
+        "letra": "E",
+        "texto": "Botrópico grave (B. Jararacussu); hemólise e coagulopatia.  Respostas: 1 E 2 E 3 B 4 A 5 D 6 B 7 A 8 D 9 C 10 B 11 A 12 C 13 C 14 D 15 D 16 B 17 E 18 C 19 C 20 E 21 C 22 A 23 C 24 25 A 26 C 27 E 28 E 29 D 30 D 31 D 32 C 33 A 34 B 35 A 36 A 37 A 38 A 39 B 40 D 41 C 42 A 43 C 44 B 45 A 46 C 47 A 48 E 49 E 50 C 51 B 52 B 53 D 54 D 55 E 56 D 57 A 58 B 59 B 60 B 61 A 62 63 D 64 C 65 A 66 A 67 C 68 B 69 D 70 B 71 A 72 B 73 E 74 C 75 B 76 C 77 C 78 A 79 B 80 C 81 C 82 C 83 A 84 B 85 C 86 A 87 C 88 B 89 A 90 C 91 A 92 D 93 A 94 C 95 C 96 A 97 D 98 D 99 A 100 B 101 A 102 B 103 E 104 C 105 C 106 C 107 B 108 B 109 C 110 E 111 B 112 B 113 D 114 C 115 A 116 C 117 C 118 A 119 A 120 B 121 C 122 D 123 C 124 A 125 D 126 C 127 C 128 D 129 C 130 D 131 D 132 A 133 D 134 C 135 A 136 D 137 B 138 C 139 A 140 A 141 D 142 A 143 D 144 B 145 C 146 A 147 E 148 A 149 A 150 D 151 B 152 C 153 A 154 C 155 D 156 A 157 A 158 C 159 C 160 E 161 C 162 B 163 E 164 B 165 B 166 D 167 A 168 C 169 C 170 D 171 C 172 A 173 E 174 A 175 C 176 A 177 C 178 A"
+      }
+    ],
+    "resposta_correta": "A"
+  }
+]
