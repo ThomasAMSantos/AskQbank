@@ -370,7 +370,7 @@
                     <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-4 4V3m-4 4h8M5 11h14M7 15h6m-6 4h4m-4-8v8a2 2 0 002 2h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2z"></path></svg>
                     <span>Revisões</span>
                 </button>
-                 <button id="show-quiz-section" class="flex-1 min-w-[120px] bg-blue-700 hover:bg-blue-900 text-white font-bold py-2 px-3 sm:px-4 rounded-lg shadow-md text-sm sm:text-base flex items-center justify-center space-x-2">
+                   <button id="show-quiz-section" class="flex-1 min-w-[120px] bg-blue-700 hover:bg-blue-900 text-white font-bold py-2 px-3 sm:px-4 rounded-lg shadow-md text-sm sm:text-base flex items-center justify-center space-x-2">
                     <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5s3.332.477 4.5 1.253v13C19.832 18.477 18.246 18 16.5 18s-3.332.477-4.5 1.253"></path></svg>
                     <span>Praticar</span>
                 </button>
@@ -400,29 +400,29 @@
                     <div>
                         <label for="materia" class="block text-sm font-medium text-gray-700 mb-1">Matéria:</label>
                         <input type="text" id="materia" name="materia" required list="materias-datalist"
-                                 class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
+                                class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
                         <datalist id="materias-datalist"></datalist>
                     </div>
                     <div>
                         <label for="assunto" class="block text-sm font-medium text-gray-700 mb-1">Assunto:</label>
                         <input type="text" id="assunto" name="assunto" required list="assuntos-datalist"
-                                 class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
+                                class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
                         <datalist id="assuntos-datalist"></datalist>
                     </div>
                     <div>
                         <label for="data" class="block text-sm font-medium text-gray-700 mb-1">Data:</label>
                         <input type="date" id="data" name="data" required
-                                 class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
+                                class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
                     </div>
                     <div>
                         <label for="quantidadeFeita" class="block text-sm font-medium text-gray-700 mb-1">Quantidade Feita:</label>
                         <input type="number" id="quantidadeFeita" name="quantidadeFeita" min="0" required
-                                 class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
+                                class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
                     </div>
                     <div>
                         <label for="quantidadeAcertada" class="block text-sm font-medium text-gray-700 mb-1">Quantidade Acertada:</label>
                         <input type="number" id="quantidadeAcertada" name="quantidadeAcertada" min="0" required
-                                 class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
+                                class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
                     </div>
                     <button type="submit"
                                                  class="form-button w-full bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-lg shadow-md">
@@ -694,10 +694,10 @@
                     <button id="export-json-button" class="form-button bg-green-600 hover:bg-green-700 text-white font-bold py-2 px-4 rounded-lg shadow-md">
                         Exportar para JSON
                     </button>
-                    <button id="import-csv-button" class="form-button bg-purple-600 hover:bg-purple-700 text-white font-bold py-2 px-4 rounded-lg shadow-md">
-                        Importar CSV
+                    <button id="import-json-button" class="form-button bg-purple-600 hover:bg-purple-700 text-white font-bold py-2 px-4 rounded-lg shadow-md">
+                        Importar JSON
                     </button>
-                    <input type="file" id="csv-file-input" accept=".csv" class="hidden">
+                    <input type="file" id="json-file-input" accept=".json" class="hidden">
                 </div>
             </div>
 
@@ -729,7 +729,7 @@
                     <div class="col-span-full">
                         <label for="accuracy-threshold-input" class="block text-sm font-medium text-gray-700 mb-1">Limite de Precisão para Melhorar (%):</label>
                         <input type="number" id="accuracy-threshold-input" value="70" min="0" max="100"
-                                 class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
+                                class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
                     </div>
                 </div>
             </div>
@@ -793,27 +793,27 @@
                 <div>
                     <label for="edit-materia" class="block text-sm font-medium text-gray-700 mb-1">Matéria:</label>
                     <input type="text" id="edit-materia" name="materia" required
-                             class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
+                                 class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
                 </div>
                 <div>
                     <label for="edit-assunto" class="block text-sm font-medium text-gray-700 mb-1">Assunto:</label>
                     <input type="text" id="edit-assunto" name="assunto" required
-                             class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
+                                 class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
                 </div>
                 <div>
                     <label for="edit-data" class="block text-sm font-medium text-gray-700 mb-1">Data:</label>
                     <input type="date" id="edit-data" name="data" required
-                             class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
+                                 class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
                 </div>
                 <div>
                     <label for="edit-quantidadeFeita" class="block text-sm font-medium text-gray-700 mb-1">Quantidade Feita:</label>
                     <input type="number" id="edit-quantidadeFeita" name="quantidadeFeita" min="0" required
-                             class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
+                                 class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
                 </div>
                 <div>
                     <label for="edit-quantidadeAcertada" class="block text-sm font-medium text-gray-700 mb-1">Quantidade Acertada:</label>
                     <input type="number" id="edit-quantidadeAcertada" name="quantidadeAcertada" min="0" required
-                             class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
+                                 class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
                 </div>
                 <button type="submit"
                                                  class="form-button w-full bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-lg shadow-md">
@@ -847,12 +847,12 @@
                 <div>
                     <label for="revision-quantidadeFeita" class="block text-sm font-medium text-gray-700 mb-1">Quantidade Feita:</label>
                     <input type="number" id="revision-quantidadeFeita" name="quantidadeFeita" min="0" required
-                             class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
+                                 class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
                 </div>
                 <div>
                     <label for="revision-quantidadeAcertada" class="block text-sm font-medium text-gray-700 mb-1">Quantidade Acertada:</label>
                     <input type="number" id="revision-quantidadeAcertada" name="quantidadeAcertada" min="0" required
-                             class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
+                                 class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
                 </div>
                 <button type="submit"
                                                  class="form-button w-full bg-green-600 hover:bg-green-700 text-white font-bold py-2 px-4 rounded-lg shadow-md">
@@ -872,7 +872,7 @@
                 <div>
                     <label for="reschedule-date" class="block text-sm font-medium text-gray-700 mb-1">Nova Data:</label>
                     <input type="date" id="reschedule-date" name="newDate" required
-                             class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
+                                 class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
                 </div>
                 <button type="submit"
                                                  class="form-button w-full bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-lg shadow-md">
@@ -967,7 +967,7 @@
                                 <li>O <strong>Resumo Geral</strong> mostra a sua performance total.</li>
                                 <li>Os gráficos exibem a sua precisão por matéria e assunto, além da evolução ao longo do tempo.</li>
                                 <li>Na área <strong>"Áreas para Melhorar"</strong>, o aplicativo lista automaticamente os assuntos onde sua precisão está abaixo da meta (70%, mas você pode ajustar isso nas configurações).</li>
-                                <li>Em <strong>Configurações</strong>, você pode ajustar filtros, esconder ou mostrar gráficos e até mesmo exportar seus dados para um arquivo CSV para manter um backup pessoal.</li>
+                                <li>Em <strong>Configurações</strong>, você pode ajustar filtros, esconder ou mostrar gráficos e até mesmo exportar seus dados para um arquivo JSON para manter um backup pessoal.</li>
                             </ul>
                         </div>
                         <div class="p-4 bg-white rounded-lg shadow-inner border border-gray-100">
@@ -1102,6 +1102,15 @@
             }
         };
 
+        const saveQuizResolutions = () => {
+            try {
+                localStorage.setItem('quizResolutions', JSON.stringify(questoesResolvidas));
+                console.log("Dados de quiz salvos no localStorage.");
+            } catch (e) {
+                console.error("Erro ao salvar dados de quiz:", e);
+            }
+        };
+        
         const loadQuestionData = () => {
             try {
                 const storedRecords = localStorage.getItem('questionRecords');
@@ -1120,6 +1129,15 @@
                 } else {
                     currentRevisions = [];
                     console.log("Nenhuma revisão agendada encontrada.");
+                }
+
+                const storedQuizResolutions = localStorage.getItem('quizResolutions');
+                if (storedQuizResolutions) {
+                    questoesResolvidas = JSON.parse(storedQuizResolutions);
+                    console.log("Resoluções de quiz carregadas:", questoesResolvidas);
+                } else {
+                    questoesResolvidas = {};
+                    console.log("Nenhuma resolução de quiz encontrada.");
                 }
 
                 const storedDisplaySettings = localStorage.getItem('displaySettings');
@@ -1141,6 +1159,7 @@
                 showMessage('Erro ao carregar dados.', 'error');
                 currentRecords = [];
                 currentRevisions = [];
+                questoesResolvidas = {};
             }
         };
         
@@ -2060,81 +2079,47 @@
             }
         };
 
-        const importFromCsv = (event) => {
+        const importFromJson = (event) => {
             const file = event.target.files[0];
             if (!file) { return; }
 
             const reader = new FileReader();
-            reader.onload = async (e) => {
-                const text = e.target.result;
-                const lines = text.split('\n').filter(line => line.trim() !== '');
-                if (lines.length === 0) {
-                    showMessage('O arquivo CSV está vazio ou ilegível.', 'warning');
-                    return;
-                }
-
-                const headers = lines[0].split(',').map(h => h.trim().replace(/"/g, ''));
-                const expectedHeaders = ['Matéria', 'Assunto', 'Data', 'Quantidade Feita', 'Quantidade Acertada', 'Próxima Revisão', 'Status da Revisão'];
-
-                if (headers.length < 5 || !['Matéria', 'Assunto', 'Data', 'Quantidade Feita', 'Quantidade Acertada'].every(h => headers.includes(h))) {
-                    showMessage('Cabeçalhos CSV inválidos. Certifique-se de que o arquivo contém pelo menos: Matéria,Assunto,Data,Quantidade Feita,Quantidade Acertada', 'error');
-                    return;
-                }
-
-                let importedRecords = [];
-                let successCount = 0;
-                let errorCount = 0;
-
-                for (let i = 1; i < lines.length; i++) {
-                    const values = lines[i].match(/(?:\"[^\"]*\"|[^,])+/g) || [];
-                    const trimmedValues = values.map(v => v.trim().replace(/"/g, ''));
-
-                    if (trimmedValues.length !== headers.length) {
-                        console.warn(`Linha ignorada devido a formato incorreto: ${lines[i]}`);
-                        errorCount++;
-                        continue;
-                    }
-
-                    const record = {};
-                    headers.forEach((header, index) => {
-                        record[header.replace(/\s/g, '')] = trimmedValues[index];
-                    });
-
-                    const quantidadeFeita = parseInt(record.QuantidadeFeita);
-                    const quantidadeAcertada = parseInt(record.QuantidadeAcertada);
-
-                    if (isNaN(quantidadeFeita) || isNaN(quantidadeAcertada) || quantidadeAcertada > quantidadeFeita) {
-                        console.warn(`Linha ignorada devido a dados numéricos inválidos ou inconsistentes: ${lines[i]}`);
-                        errorCount++;
-                        continue;
-                    }
+            reader.onload = (e) => {
+                try {
+                    const importedData = JSON.parse(e.target.result);
                     
-                    importedRecords.push({
-                        id: Date.now().toString() + '-' + i,
-                        materia: record.Matéria,
-                        assunto: record.Assunto,
-                        data: record.Data,
-                        quantidadeFeita: quantidadeFeita,
-                        quantidadeAcertada: quantidadeAcertada,
-                        timestamp: new Date().toISOString()
-                    });
-                    successCount++;
-                }
+                    if (importedData.questionRecords) {
+                        currentRecords = importedData.questionRecords;
+                        saveRecordsToLocalStorage();
+                    }
+                    if (importedData.scheduledRevisions) {
+                        currentRevisions = importedData.scheduledRevisions;
+                        saveRevisionsToLocalStorage();
+                    }
+                    if (importedData.quizResolutions) {
+                        questoesResolvidas = importedData.quizResolutions;
+                        saveQuizResolutions();
+                    }
+                    if (importedData.revisionSettings) {
+                        revisionIntervals = importedData.revisionSettings;
+                        saveRevisionIntervals();
+                    }
+                    if (importedData.displaySettings) {
+                        displaySettings = importedData.displaySettings;
+                        saveDisplaySettings();
+                    }
+                    if (importedData.comparisonSettings) {
+                        comparisonSettings = importedData.comparisonSettings;
+                        saveComparisonSettings();
+                    }
 
-                if (importedRecords.length === 0 && errorCount > 0) {
-                    showMessage(`Importação concluída: ${successCount} registros adicionados, ${errorCount} erros.`, 'warning');
-                    return;
-                } else if (importedRecords.length === 0) {
-                    showMessage('Nenhum registro válido encontrado no arquivo CSV para importar.', 'warning');
-                    return;
-                }
+                    showMessage('Dados importados com sucesso! Recarregando a página...', 'success');
+                    setTimeout(() => location.reload(), 1500);
 
-                currentRecords = currentRecords.concat(importedRecords);
-                saveRecordsToLocalStorage();
-                importedRecords.forEach(r => updateRevisionSchedule(r.materia, r.assunto));
-                
-                showMessage(`Importação concluída: ${successCount} registros adicionados, ${errorCount} erros.`, 'info');
-                loadQuestionData();
+                } catch (error) {
+                    console.error('Erro ao processar o arquivo JSON:', error);
+                    showMessage('Erro ao importar o arquivo. Certifique-se de que é um arquivo JSON válido.', 'error');
+                }
             };
             reader.readAsText(file);
         };
@@ -3297,7 +3282,7 @@
             popularSeletoresQuiz(); // Inicializa os seletores do quiz
 
             if (currentRecords.length === 0) {
-                showMessage('Bem-vindo! Seus dados serão salvos localmente. Mantenha-os em segurança com a função de exportar CSV.', 'info');
+                showMessage('Bem-vindo! Seus dados serão salvos localmente. Mantenha-os em segurança com a função de exportar JSON.', 'info');
             }
 
             const showRegisterSectionBtn = document.getElementById('show-register-section');
@@ -3487,13 +3472,13 @@
                 exportToJsonButton.addEventListener('click', () => exportToJson());
             }
 
-            const importCsvBtn = document.getElementById('import-csv-button');
-            const csvFileInput = document.getElementById('csv-file-input');
-            if (importCsvBtn && csvFileInput) {
-                importCsvBtn.addEventListener('click', () => {
-                    csvFileInput.click();
+            const importJsonBtn = document.getElementById('import-json-button');
+            const jsonFileInput = document.getElementById('json-file-input');
+            if (importJsonBtn && jsonFileInput) {
+                importJsonBtn.addEventListener('click', () => {
+                    jsonFileInput.click();
                 });
-                csvFileInput.addEventListener('change', importFromCsv);
+                jsonFileInput.addEventListener('change', importFromJson);
             }
 
             const openSettingsModalBtn = document.getElementById('open-settings-modal');

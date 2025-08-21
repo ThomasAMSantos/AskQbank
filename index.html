@@ -117,7 +117,6 @@
             position: relative;
             padding-left: 2rem;
         }
-
         .styled-list li::before {
             content: '✓';
             position: absolute;
@@ -126,7 +125,6 @@
             color: #10B981;
             font-weight: bold;
         }
-        
         /* Estilos do Code 2 (mesclados) */
         .quiz-container {
             max-width: 800px;
@@ -1102,12 +1100,12 @@
             }
         };
 
-        const saveQuizResolutions = () => {
+        const saveQuizPerformance = () => {
             try {
-                localStorage.setItem('quizResolutions', JSON.stringify(questoesResolvidas));
-                console.log("Dados de quiz salvos no localStorage.");
+                localStorage.setItem('quizPerformance', JSON.stringify(quizPerformance));
+                console.log("Dados de desempenho do quiz salvos no localStorage.");
             } catch (e) {
-                console.error("Erro ao salvar dados de quiz:", e);
+                console.error("Erro ao salvar dados de desempenho do quiz:", e);
             }
         };
         
@@ -1131,13 +1129,13 @@
                     console.log("Nenhuma revisão agendada encontrada.");
                 }
 
-                const storedQuizResolutions = localStorage.getItem('quizResolutions');
-                if (storedQuizResolutions) {
-                    questoesResolvidas = JSON.parse(storedQuizResolutions);
-                    console.log("Resoluções de quiz carregadas:", questoesResolvidas);
+                const storedQuizPerformance = localStorage.getItem('quizPerformance');
+                if (storedQuizPerformance) {
+                    quizPerformance = JSON.parse(storedQuizPerformance);
+                    console.log("Desempenho do quiz carregado:", quizPerformance);
                 } else {
-                    questoesResolvidas = {};
-                    console.log("Nenhuma resolução de quiz encontrada.");
+                    quizPerformance = {};
+                    console.log("Nenhum dado de desempenho do quiz encontrado.");
                 }
 
                 const storedDisplaySettings = localStorage.getItem('displaySettings');
@@ -1159,7 +1157,7 @@
                 showMessage('Erro ao carregar dados.', 'error');
                 currentRecords = [];
                 currentRevisions = [];
-                questoesResolvidas = {};
+                quizPerformance = {};
             }
         };
         
@@ -1324,16 +1322,10 @@
             const now = new Date();
             const lastReviewDate = new Date(recordsForSubject.sort((a,b) => new Date(b.data) - new Date(a.data))[0].data);
 
-            let interval = revisionIntervals.find(i => cumulativeAccuracy >= i.minAccuracy && cumulativeAccuracy <= i.maxAccuracy);
-            let defaultInterval = defaultRevisionIntervals.find(i => i.minAccuracy === interval.minAccuracy && i.maxAccuracy === interval.maxAccuracy);
-
+            const interval = revisionIntervals.find(i => cumulativeAccuracy >= i.minAccuracy && cumulativeAccuracy <= i.maxAccuracy);
 
             if (interval) {
-                if (JSON.stringify(interval) === JSON.stringify(defaultInterval)) {
-                    revisionDays = interval.minDays;
-                } else {
-                    revisionDays = Math.floor(Math.random() * (interval.maxDays - interval.minDays + 1)) + interval.minDays;
-                }
+                revisionDays = Math.floor(Math.random() * (interval.maxDays - interval.minDays + 1)) + interval.minDays;
                 
                 nextRevisionDate = new Date(lastReviewDate);
                 nextRevisionDate.setDate(lastReviewDate.getDate() + revisionDays);
@@ -1364,7 +1356,7 @@
             saveRevisionsToLocalStorage();
             populateRevisionsTable(currentRevisions);
         };
-        
+
         const populateRevisionsTable = (revisions) => {
             const tableBody = document.getElementById('revisions-table-body');
             const summaryLate = document.getElementById('summary-late');
@@ -2054,7 +2046,7 @@
             const allData = {
                 questionRecords: currentRecords,
                 scheduledRevisions: currentRevisions,
-                quizResolutions: questoesResolvidas,
+                quizPerformance: quizPerformance,
                 revisionSettings: revisionIntervals,
                 displaySettings: displaySettings,
                 comparisonSettings: comparisonSettings,
@@ -2096,9 +2088,9 @@
                         currentRevisions = importedData.scheduledRevisions;
                         saveRevisionsToLocalStorage();
                     }
-                    if (importedData.quizResolutions) {
-                        questoesResolvidas = importedData.quizResolutions;
-                        saveQuizResolutions();
+                    if (importedData.quizPerformance) {
+                        quizPerformance = importedData.quizPerformance;
+                        saveQuizPerformance();
                     }
                     if (importedData.revisionSettings) {
                         revisionIntervals = importedData.revisionSettings;
@@ -2435,7 +2427,7 @@
         let questoesSelecionadasGlobais = [];
         let indiceQuestaoAtual = 0;
         let placar = { corretas: 0, erradas: 0 };
-        let questoesResolvidas = JSON.parse(localStorage.getItem('questoesResolvidas')) || {};
+        let quizPerformance = JSON.parse(localStorage.getItem('quizPerformance')) || {};
         let alternativaSelecionada = null;
         
         const quizMaterias = {
@@ -2930,24 +2922,26 @@
 
             const statusFiltroValor = quizStatusFiltro.value;
             const questoesParaRevisao = questoesDoAssunto.filter(q => {
-                const status = questoesResolvidas[q.id];
+                const performance = quizPerformance[q.id] || { acertos: 0, erros: 0 };
+                const totalTentativas = performance.acertos + performance.erros;
+                const acertouUltimaVez = performance.ultimaResposta === q.resposta_correta;
                 
                 if (!q.alternativas || q.alternativas.length === 0 || !q.resposta_correta) {
                     return false;
                 }
 
                 if (statusFiltroValor === 'nao-respondidas') {
-                    return !status;
+                    return totalTentativas === 0;
                 } else if (statusFiltroValor === 'acertadas') {
-                    return status && status.acertou;
+                    return performance.acertos > 0;
                 } else if (statusFiltroValor === 'erradas') {
-                    return status && !status.acertou;
+                    return performance.erros > 0;
                 }
                 return true;
             });
             
-            const questoesJaFeitas = questoesDoAssunto.filter(q => questoesResolvidas[q.id]);
-            const questoesNaoFeitas = questoesDoAssunto.filter(q => !questoesResolvidas[q.id]);
+            const questoesJaFeitas = questoesDoAssunto.filter(q => quizPerformance[q.id] && (quizPerformance[q.id].acertos > 0 || quizPerformance[q.id].erros > 0));
+            const questoesNaoFeitas = questoesDoAssunto.filter(q => !quizPerformance[q.id] || (quizPerformance[q.id].acertos === 0 && quizPerformance[q.id].erros === 0));
             
             const totalFeitas = questoesJaFeitas.length;
             const totalFaltam = questoesNaoFeitas.length;
@@ -2961,7 +2955,7 @@
         
         function renderizarGridNavegacaoQuiz() {
             quizQuestoesNavegacaoGrid.innerHTML = '';
-            const isRevisiting = statusFiltroValorGlobal === 'acertadas' || statusFiltroValorGlobal === 'erradas';
+            const isRevisiting = statusFiltroValorGlobal !== 'nao-respondidas' && statusFiltroValorGlobal !== 'todos';
 
             questoesSelecionadasGlobais.forEach((q, index) => {
                 const item = document.createElement('div');
@@ -2969,11 +2963,13 @@
                 item.textContent = index + 1;
                 item.dataset.index = index;
                 
-                const status = questoesResolvidas[q.id];
-                if (status && !isRevisiting) {
-                    if (status.acertou) {
+                const performance = quizPerformance[q.id];
+                if (performance) {
+                    const totalTentativas = performance.acertos + performance.erros;
+                    const acertosPerc = totalTentativas > 0 ? (performance.acertos / totalTentativas) * 100 : 0;
+                    if (acertosPerc > 50) {
                         item.classList.add('correta-grid');
-                    } else {
+                    } else if (acertosPerc <= 50 && acertosPerc > 0) {
                         item.classList.add('errada-grid');
                     }
                 }
@@ -3002,12 +2998,12 @@
             }
             
             const enunciadoFormatado = questao.enunciado.replace(/\n/g, '<br>');
-            const questaoJaRespondida = questoesResolvidas[questao.id];
+            const performance = quizPerformance[questao.id];
 
             let ulContent = ``;
             let showPreviousAnswer = false;
 
-            if (questaoJaRespondida && statusFiltroValorGlobal === 'todos') {
+            if (performance && (performance.acertos > 0 || performance.erros > 0) && statusFiltroValorGlobal !== 'nao-respondidas') {
                 showPreviousAnswer = true;
             }
 
@@ -3017,7 +3013,7 @@
                     if (alt.letra === questao.resposta_correta) {
                         classe = 'certa';
                     }
-                    if (alt.letra === questaoJaRespondida.alternativaSelecionada && alt.letra !== questao.resposta_correta) {
+                    if (alt.letra === performance.ultimaResposta && alt.letra !== questao.resposta_correta) {
                         classe = 'errada';
                     }
                     return `<li class="${classe}">${alt.letra}) ${alt.texto}</li>`;
@@ -3036,11 +3032,11 @@
 
             if (showPreviousAnswer) {
                 const feedbackDiv = quizQuestaoContainer.querySelector('.feedback');
-                if (questaoJaRespondida.acertou) {
-                    feedbackDiv.textContent = 'Você acertou esta questão anteriormente!';
+                if (performance.acertos > 0 && performance.ultimaResposta === questao.resposta_correta) {
+                    feedbackDiv.textContent = `Você acertou esta questão ${performance.acertos} vez(es) e errou ${performance.erros} vez(es)!`;
                     feedbackDiv.classList.add('correta');
                 } else {
-                    feedbackDiv.textContent = `Você errou esta questão. A correta era: ${questao.resposta_correta}`;
+                    feedbackDiv.textContent = `Você errou esta questão. A correta era: ${questao.resposta_correta}. Acertos: ${performance.acertos} | Erros: ${performance.erros}`;
                     feedbackDiv.classList.add('errada');
                 }
                 feedbackDiv.style.display = 'block';
@@ -3085,12 +3081,17 @@
             const alternativaSelecionadaLi = quizQuestaoContainer.querySelector(`[data-letra="${alternativaSelecionada}"]`);
             const alternativaCorretaLi = quizQuestaoContainer.querySelector(`[data-letra="${questao.resposta_correta}"]`);
             
+            if (!quizPerformance[questao.id]) {
+                quizPerformance[questao.id] = { acertos: 0, erros: 0, ultimaResposta: null };
+            }
+
             if (alternativaSelecionada === questao.resposta_correta) {
                 feedbackDiv.textContent = 'Resposta Correta!';
                 feedbackDiv.classList.add('correta');
                 placar.corretas++;
                 alternativaSelecionadaLi.classList.add('certa');
-                questoesResolvidas[questao.id] = { acertou: true, alternativaSelecionada, data: new Date().toISOString() };
+                quizPerformance[questao.id].acertos++;
+                quizPerformance[questao.id].ultimaResposta = alternativaSelecionada;
                 questaoItemGrid.classList.add('correta-grid');
             } else {
                 feedbackDiv.textContent = `Resposta Errada. A correta era: ${questao.resposta_correta}`;
@@ -3098,14 +3099,15 @@
                 placar.erradas++;
                 alternativaSelecionadaLi.classList.add('errada');
                 alternativaCorretaLi.classList.add('certa');
-                questoesResolvidas[questao.id] = { acertou: false, alternativaSelecionada, data: new Date().toISOString() };
+                quizPerformance[questao.id].erros++;
+                quizPerformance[questao.id].ultimaResposta = alternativaSelecionada;
                 questaoItemGrid.classList.add('errada-grid');
             }
             feedbackDiv.style.display = 'block';
 
             quizCorretasContagemSpan.textContent = placar.corretas;
             quizErradasContagemSpan.textContent = placar.erradas;
-            localStorage.setItem('questoesResolvidas', JSON.stringify(questoesResolvidas));
+            saveQuizPerformance();
 
             quizProximaPerguntaBtn.style.display = 'block';
             quizProximaPerguntaBtn.disabled = false;
@@ -3120,9 +3122,9 @@
             questoesSelecionadasGlobais.forEach(questao => {
                 const materia = quizMateriaSelect.value;
                 const assunto = quizAssuntoSelect.value;
-                const status = questoesResolvidas[questao.id];
+                const performance = quizPerformance[questao.id];
 
-                if (status) {
+                if (performance) {
                     const key = `${materia}|${assunto}`;
                     if (!desempenhoDaSessao[key]) {
                         desempenhoDaSessao[key] = {
@@ -3133,7 +3135,7 @@
                         };
                     }
                     desempenhoDaSessao[key].quantidadeFeita++;
-                    if (status.acertou) {
+                    if (performance.ultimaResposta === questao.resposta_correta) {
                         desempenhoDaSessao[key].quantidadeAcertada++;
                     }
                 }
@@ -3172,7 +3174,9 @@
             const todasQuestoes = await carregarQuestoesQuiz(materia, assunto);
             
             const questoesFiltradas = todasQuestoes.filter(q => {
-                const status = questoesResolvidas[q.id];
+                const performance = quizPerformance[q.id] || { acertos: 0, erros: 0 };
+                const totalTentativas = performance.acertos + performance.erros;
+                const acertouUltimaVez = performance.ultimaResposta === q.resposta_correta;
                 
                 if (!q.alternativas || q.alternativas.length === 0 || !q.resposta_correta) {
                     return false;
@@ -3185,11 +3189,11 @@
                 }
 
                 if (statusFiltroValorGlobal === 'nao-respondidas') {
-                    if (status) return false;
+                    return totalTentativas === 0;
                 } else if (statusFiltroValorGlobal === 'acertadas') {
-                    if (!status || !status.acertou) return false;
+                    return performance.acertos > 0;
                 } else if (statusFiltroValorGlobal === 'erradas') {
-                    if (!status || status.acertou) return false;
+                    return performance.erros > 0;
                 }
                 
                 return true;
