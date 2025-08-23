@@ -1,0 +1,3449 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registro, Desempenho e Revisão de Questões</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-annotation@1.0.2"></script>
+    <style>
+        /* Estilos do Code 1 (mantidos e ajustados) */
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: #f0f4f8;
+            color: #333;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+        .card {
+            background-color: #ffffff;
+            border-radius: 1rem;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+            padding: 2rem;
+        }
+        .form-input, .form-button, .filter-select {
+            border-radius: 0.5rem;
+        }
+        .form-button {
+            transition: background-color 0.3s ease, transform 0.2s ease;
+        }
+        .form-button:hover {
+            transform: translateY(-2px);
+        }
+        .chart-container {
+            position: relative;
+            height: 400px;
+            width: 100%;
+            margin-bottom: 2rem;
+        }
+        /* Estilos para o overlay da modal */
+        .modal-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.5);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            z-index: 1000;
+        }
+        /* Estilos para o conteúdo da modal */
+        .modal-content {
+            background-color: #ffffff;
+            padding: 2rem;
+            border-radius: 1rem;
+            box-shadow: 0 8px 24px rgba(0, 0, 0, 0.2);
+            width: 90%;
+            max-width: 700px;
+            position: relative;
+            max-height: 90vh;
+            overflow-y: auto;
+        }
+        .close-button {
+            position: absolute;
+            top: 1rem;
+            right: 1rem;
+            background: none;
+            border: none;
+            font-size: 1.5rem;
+            cursor: pointer;
+            color: #666;
+        }
+        .comparison-item-button {
+            padding: 0.5rem 1rem;
+            border-radius: 9999px;
+            border-width: 1px;
+            font-size: 0.875rem;
+            font-weight: 500;
+            transition-property: color, background-color, border-color, transform;
+            transition-duration: 200ms;
+            transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+        }
+        .comparison-item-button.selected {
+            background-color: #2563eb;
+            color: #ffffff;
+            border-color: #2563eb;
+        }
+        .comparison-item-button.selected:hover {
+            background-color: #1d4ed8;
+        }
+        .comparison-item-button:not(.selected) {
+            background-color: #e5e7eb;
+            color: #374151;
+            border-color: #d1d5db;
+        }
+        .comparison-item-button:not(.selected):hover {
+            background-color: #d1d5db;
+        }
+        /* Estilos para o cabeçalho em telas pequenas */
+        @media (max-width: 640px) {
+            .header-buttons {
+                flex-direction: column;
+                align-items: stretch;
+                gap: 1rem;
+            }
+            .header-buttons button {
+                width: 100%;
+            }
+        }
+        /* Novo estilo para listas numeradas e com ícones */
+        .styled-list li {
+            position: relative;
+            padding-left: 2rem;
+        }
+        .styled-list li::before {
+            content: '✓';
+            position: absolute;
+            left: 0;
+            top: 0;
+            color: #10B981;
+            font-weight: bold;
+        }
+        /* Estilos do Code 2 (mesclados) */
+        .quiz-container {
+            max-width: 800px;
+            margin: auto;
+            background: #fff;
+            padding: 20px 40px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            margin-top: 2rem;
+        }
+        .form-group {
+            margin-bottom: 15px;
+        }
+        label {
+            display: block;
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+        .quiz-container select, .quiz-container input[type="number"] {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-sizing: border-box;
+        }
+        .quiz-button {
+            display: block;
+            width: 100%;
+            padding: 12px;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            font-size: 16px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+        .quiz-button:hover:not(:disabled) {
+            background-color: #0056b3;
+        }
+        .quiz-button:disabled {
+            background-color: #ccc;
+            cursor: not-allowed;
+        }
+        .stats-bar {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 15px;
+            font-size: 1em;
+            font-weight: bold;
+        }
+        .stats-bar .info-item, .stats-bar .navegacao-top {
+            flex-basis: 33%;
+            text-align: center;
+        }
+        .stats-bar .navegacao-top {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+        }
+        .progress-bar-container {
+            height: 15px;
+            background-color: #e0e0e0;
+            border-radius: 8px;
+            margin-bottom: 15px;
+            overflow: hidden;
+            border: 1px solid #ccc;
+        }
+        .progress-bar {
+            height: 100%;
+            width: 0%;
+            background-color: #28a745;
+            border-radius: 8px;
+            transition: width 0.4s ease;
+        }
+        #questao-container {
+            margin-top: 20px;
+        }
+        .questao-card {
+            background: #f9f9f9;
+            padding: 15px;
+            border: 1px solid #ddd;
+            border-radius: 6px;
+            margin-bottom: 15px;
+        }
+        .questao-card p {
+            font-size: 1.1em;
+            font-weight: bold;
+            color: #555;
+        }
+        .questao-card ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        .questao-card li {
+            background: #eef;
+            margin: 5px 0;
+            padding: 10px;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: background-color 0.2s;
+        }
+        .questao-card li:hover {
+            background: #e0e0ff;
+        }
+        .questao-card li.selecionada {
+            background-color: #d1e7ff;
+            border: 1px solid #007bff;
+        }
+        .questao-card li.certa {
+            background-color: #d4edda;
+            border: 1px solid #155724;
+            font-weight: bold;
+        }
+        .questao-card li.errada {
+            background-color: #f8d7da;
+            border: 1px solid #721c24;
+            font-weight: bold;
+        }
+        .feedback {
+            margin-top: 10px;
+            font-weight: bold;
+        }
+        .correta {
+            color: green;
+        }
+        .errada {
+            color: red;
+        }
+        .navegacao-main {
+            margin-top: 20px;
+        }
+        .navegacao-extra {
+            margin-top: 20px;
+        }
+        .navegacao-top button {
+            width: auto;
+            min-width: 80px;
+            padding: 8px 15px;
+            font-size: 0.9em;
+        }
+        .navegacao-main button {
+            width: 100%;
+        }
+        #voltar-inicio-btn {
+            background-color: #dc3545;
+        }
+        #voltar-inicio-btn:hover {
+            background-color: #c82333;
+        }
+        #questoes-navegacao-grid {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            justify-content: center;
+            margin-bottom: 20px;
+            padding: 10px;
+            background-color: #f0f0f0;
+            border-radius: 6px;
+            border: 1px solid #ddd;
+        }
+        .questoes-navegacao-item {
+            width: 30px;
+            height: 30px;
+            border-radius: 4px;
+            background-color: #e0e0e0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            font-size: 0.8em;
+            font-weight: bold;
+            transition: background-color 0.3s, transform 0.1s;
+        }
+        .questoes-navegacao-item:hover {
+            transform: scale(1.1);
+        }
+        .questoes-navegacao-item.correta-grid {
+            background-color: #d4edda;
+            color: #155724;
+        }
+        .questoes-navegacao-item.errada-grid {
+            background-color: #f8d7da;
+            color: #721c24;
+        }
+        .questoes-navegacao-item.atual-grid {
+            background-color: #d1e7ff;
+            border: 2px solid #007bff;
+            transform: scale(1.1);
+        }
+        .filtro-group {
+            border: 1px solid #ddd;
+            border-radius: 6px;
+            padding: 15px;
+            margin-bottom: 20px;
+            background-color: #f9f9f9;
+        }
+        .filtro-group h3 {
+            margin-top: 0;
+            color: #555;
+        }
+        .filtro-opcoes {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            margin-top: 10px;
+        }
+        .filtro-opcoes > div {
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+        .progress-stats {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 15px;
+            font-size: 0.9em;
+            font-weight: bold;
+            padding: 10px;
+            background-color: #eef;
+            border-radius: 4px;
+        }
+        .details-list {
+            list-style-type: none;
+            padding: 0;
+        }
+        .details-list li {
+            padding: 8px;
+            border-bottom: 1px solid #eee;
+        }
+        .details-list li .status {
+            font-weight: bold;
+            margin-left: 8px;
+        }
+        .details-list li .correct {
+            color: green;
+        }
+        .details-list li .incorrect {
+            color: red;
+        }
+        .correct-answer-text {
+            color: #15803d;
+            font-weight: bold;
+        }
+        .incorrect-answer-text {
+            color: #b91c1c;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body class="min-h-screen flex flex-col">
+    <header class="bg-gradient-to-r from-blue-600 to-blue-800 text-white p-6 shadow-lg rounded-b-xl">
+        <div class="container flex flex-col sm:flex-row justify-between items-center">
+            <h1 class="text-3xl font-bold mb-4 sm:mb-0 text-center sm:text-left">Registro e Desempenho de Questões</h1>
+            <div class="flex items-center space-x-2 sm:space-x-4 flex-wrap header-buttons mt-4 sm:mt-0">
+                <button id="show-register-section" class="flex-1 min-w-[120px] bg-blue-700 hover:bg-blue-900 text-white font-bold py-2 px-3 sm:px-4 rounded-lg shadow-md text-sm sm:text-base flex items-center justify-center space-x-2">
+                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2m-4 0V3m0 2a2 2 0 002 2h2m-4 0h6m-3-4v8m0-8a4 4 0 01-4 4H7"></path></svg>
+                    <span>Registros</span>
+                </button>
+                <button id="show-performance-section" class="flex-1 min-w-[120px] bg-blue-700 hover:bg-blue-900 text-white font-bold py-2 px-3 sm:px-4 rounded-lg shadow-md text-sm sm:text-base flex items-center justify-center space-x-2">
+                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M11 3.055A9.001 9.001 0 1020.945 13H11V3.055zM12 21a9 9 0 100-18 9 9 0 000 18z"></path></svg>
+                    <span>Desempenho</span>
+                </button>
+                <button id="show-revisions-section" class="flex-1 min-w-[120px] bg-blue-700 hover:bg-blue-900 text-white font-bold py-2 px-3 sm:px-4 rounded-lg shadow-md text-sm sm:text-base flex items-center justify-center space-x-2">
+                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-4 4V3m-4 4h8M5 11h14M7 15h6m-6 4h4m-4-8v8a2 2 0 002 2h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2z"></path></svg>
+                    <span>Revisões</span>
+                </button>
+                    <button id="show-quiz-section" class="flex-1 min-w-[120px] bg-blue-700 hover:bg-blue-900 text-white font-bold py-2 px-3 sm:px-4 rounded-lg shadow-md text-sm sm:text-base flex items-center justify-center space-x-2">
+                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5s3.332.477 4.5 1.253v13C19.832 18.477 18.246 18 16.5 18s-3.332.477-4.5 1.253"></path></svg>
+                    <span>Praticar</span>
+                </button>
+                <button onclick="openAboutModal()" class="flex-1 min-w-[120px] bg-blue-700 hover:bg-blue-900 text-white font-bold py-2 px-3 sm:px-4 rounded-lg shadow-md text-sm sm:text-base flex items-center justify-center space-x-2">
+                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+                    <span>Sobre</span>
+                </button>
+                <button onclick="openContactModal()" class="flex-1 min-w-[120px] bg-blue-700 hover:bg-blue-900 text-white font-bold py-2 px-3 sm:px-4 rounded-lg shadow-md text-sm sm:text-base flex items-center justify-center space-x-2">
+                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8m-17 4v7a2 2 0 002 2h12a2 2 0 002-2v-7"></path></svg>
+                    <span>Contato</span>
+                </button>
+                <button onclick="openDonationModal()" class="form-button flex-1 min-w-[120px] bg-purple-600 hover:bg-purple-700 text-white font-bold py-2 px-4 rounded-full shadow-md transition-all duration-300 transform hover:scale-105 flex items-center justify-center space-x-2">
+                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z"></path></svg>
+                    <span>Apoie o Projeto</span>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <main class="flex-grow container py-8">
+        <div id="status-message" class="hidden p-4 mb-4 text-sm rounded-lg" role="alert"></div>
+
+        <div id="registro-section" class="grid grid-cols-1 lg:grid-cols-3 gap-8">
+            <div class="lg:col-span-1 card">
+                <h2 class="text-2xl font-semibold mb-6 text-gray-800">Pesquisar Registro de Questões</h2>
+                <div class="flex items-center space-x-4">
+                    <input type="text" id="search-input" placeholder="ID do Bloco ou ID da Questão"
+                        class="form-input flex-1 mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
+                    <button type="button" id="search-button"
+                        class="form-button bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-lg shadow-md">
+                        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg>
+                    </button>
+                </div>
+            </div>
+            <div class="lg:col-span-2 card">
+                <h2 class="text-2xl font-semibold mb-6 text-gray-800">Registros Recentes</h2>
+                <div class="overflow-x-auto">
+                    <table class="min-w-full bg-white rounded-lg shadow-md">
+                        <thead>
+                            <tr class="bg-gray-100 text-gray-600 uppercase text-sm leading-normal">
+                                <th class="py-3 px-6 text-left">ID do Bloco</th>
+                                <th class="py-3 px-6 text-left">Matéria</th>
+                                <th class="py-3 px-6 text-left">Assunto</th>
+                                <th class="py-3 px-6 text-left">Data</th>
+                                <th class="py-3 px-6 text-center">Ações</th>
+                            </tr>
+                        </thead>
+                        <tbody id="records-table-body" class="text-gray-700 text-sm font-light">
+                            <tr><td colspan="5" class="py-3 px-6 text-center">Nenhum registro para exibir.</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+
+        <div id="desempenho-section" class="hidden lg:col-span-2 card">
+            <div class="flex justify-between items-center mb-6">
+                <h2 class="text-2xl font-semibold text-gray-800">Seu Desempenho</h2>
+                <button id="open-settings-modal" class="form-button bg-gray-600 hover:bg-gray-700 text-white font-bold py-2 px-4 rounded-lg shadow-md">
+                    Configurações
+                </button>
+            </div>
+
+            <div id="performance-summary" class="mb-8">
+                <p class="text-gray-600">Carregando dados de desempenho...</p>
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                <div class="chart-container lg:col-span-1" id="overallAccuracyChartContainer">
+                    <canvas id="overallAccuracyChart"></canvas>
+                </div>
+                <div class="chart-container lg:col-span-1" id="materiaAccuracyChartContainer">
+                    <canvas id="materiaAccuracyChart"></canvas>
+                </div>
+                <div class="chart-container lg:col-span-1" id="assuntoAccuracyChartContainer">
+                    <canvas id="assuntoAccuracyChart"></canvas>
+                </div>
+                <div class="chart-container lg:col-span-3" id="assuntoTrendChartContainer">
+                    <canvas id="assuntoTrendChart"></canvas>
+                </div>
+            </div>
+        </div>
+        
+        <div id="revisoes-section" class="hidden lg:col-span-2 card">
+            <div class="flex justify-between items-center mb-6">
+                <h2 class="text-2xl font-semibold text-gray-800">Próximas Revisões</h2>
+                <button id="open-revision-settings" class="form-button bg-gray-600 hover:bg-gray-700 text-white font-bold py-2 px-4 rounded-lg shadow-md">
+                    Ajustar Variáveis
+                </button>
+            </div>
+            
+            <div class="mb-6 p-4 rounded-lg shadow-inner bg-gray-50">
+                <h3 class="text-xl font-semibold text-gray-700 mb-4">Resumo das Revisões</h3>
+                <div class="grid grid-cols-1 sm:grid-cols-3 gap-4">
+                    <div class="p-4 bg-red-100 text-red-800 rounded-lg shadow">
+                        <p class="text-sm font-medium">Em Atraso</p>
+                        <p id="summary-late" class="text-3xl font-bold">0</p>
+                    </div>
+                    <div class="p-4 bg-yellow-100 text-yellow-800 rounded-lg shadow">
+                        <p class="text-sm font-medium">Hoje</p>
+                        <p id="summary-today" class="text-3xl font-bold">0</p>
+                    </div>
+                    <div class="p-4 bg-blue-100 text-blue-800 rounded-lg shadow">
+                        <p class="text-sm font-medium">Próximas</p>
+                        <p id="summary-upcoming" class="text-3xl font-bold">0</p>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="mb-6">
+                <h3 class="text-xl font-semibold text-gray-800 mb-4">Revisões de Hoje</h3>
+                <div id="today-revisions-container" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+                    <p class="text-gray-600 text-sm">Nenhuma revisão agendada para hoje. Aproveite o dia!</p>
+                </div>
+            </div>
+
+            <div class="mb-6">
+                <h3 class="text-xl font-semibold text-gray-800 mb-4">Revisões Em Atraso</h3>
+                <div id="late-revisions-container" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+                    <p class="text-gray-600 text-sm">Nenhuma revisão em atraso. Ótimo trabalho!</p>
+                </div>
+            </div>
+
+
+            <div class="overflow-x-auto">
+                <h3 class="text-xl font-semibold text-gray-800 mb-4">Todas as Revisões Agendadas</h3>
+                <table class="min-w-full bg-white rounded-lg shadow-md">
+                    <thead>
+                        <tr class="bg-gray-100 text-gray-600 uppercase text-sm leading-normal">
+                            <th class="py-3 px-6 text-left">Matéria</th>
+                            <th class="py-3 px-6 text-left">Assunto</th>
+                            <th class="py-3 px-6 text-left">Última Revisão</th>
+                            <th class="py-3 px-6 text-left">Próxima Revisão</th>
+                            <th class="py-3 px-6 text-left">Precisão Histórica</th>
+                            <th class="py-3 px-6 text-center">Ações</th>
+                        </tr>
+                    </thead>
+                    <tbody id="revisions-table-body" class="text-gray-700 text-sm font-light">
+                        <tr><td colspan="6" class="py-3 px-6 text-center">Nenhuma revisão agendada.</td></tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <div id="quiz-section" class="hidden">
+            <div class="quiz-container">
+                <h2 class="text-2xl font-semibold mb-6 text-gray-800">Praticar Questões</h2>
+                
+                <div id="configuracao-tela">
+                    <h3 class="text-xl font-semibold text-gray-800 mb-4">Configurar Revisão</h3>
+                    <form id="formulario-questoes">
+                        <div class="form-group">
+                            <label for="quiz-materia">Matéria:</label>
+                            <select id="quiz-materia">
+                                <option value="todos">Todos</option>
+                            </select>
+                        </div>
+                        
+                        <div class="form-group">
+                            <label for="quiz-assunto">Assunto:</label>
+                            <select id="quiz-assunto">
+                                <option value="todos">Todos</option>
+                            </select>
+                        </div>
+
+                        <div class="filtro-group">
+                            <h3>Opções de Filtro</h3>
+                            <div class="form-group">
+                                <label for="status-filtro">Status das Questões:</label>
+                                <select id="status-filtro">
+                                    <option value="todos">Todas as questões</option>
+                                    <option value="nao-respondidas">Somente não respondidas</option>
+                                    <option value="acertadas">Somente acertadas</option>
+                                    <option value="erradas">Somente erradas</option>
+                                </select>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="tags-filtro">Filtrar por Tags:</label>
+                                <div id="tags-container" class="filtro-opcoes">
+                                    <small>Selecione um assunto para carregar as tags.</small>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label for="num-questoes">Número de Questões na Revisão:</label>
+                            <input type="number" id="num-questoes" value="5" min="1">
+                        </div>
+                        
+                        <div class="progress-stats">
+                            <span id="total-questoes-assunto">Total: 0</span>
+                            <span id="progresso-feito">Feitas: 0</span>
+                            <span id="progresso-faltam">Faltam: 0</span>
+                        </div>
+
+                        <button type="submit" class="quiz-button">Iniciar Revisão</button>
+                    </form>
+                </div>
+
+                <div id="revisao-tela" class="hidden">
+                    <div class="stats-bar">
+                        <div class="navegacao-top">
+                            <button id="voltar-btn" class="quiz-button" disabled>Voltar</button>
+                            <button id="pular-btn" class="quiz-button">Pular</button>
+                        </div>
+                        <div class="info-item">Questão: <span id="questao-atual-num">0</span> / <span id="questao-total-num">0</span></div>
+                        <div class="info-item">Acertos: <span id="corretas-contagem">0</span> | Erros: <span id="erradas-contagem">0</span></div>
+                    </div>
+                    
+                    <div class="progress-bar-container">
+                        <div class="progress-bar" id="progress-bar"></div>
+                    </div>
+
+                    <div id="questoes-navegacao-grid"></div>
+
+                    <div id="questao-container"></div>
+                    
+                    <div class="navegacao-main">
+                        <button id="responder-btn" class="quiz-button" disabled>Responder</button>
+                        <button id="proxima-pergunta-btn" class="quiz-button" style="display: none;">Próxima Pergunta</button>
+                    </div>
+                    <div class="navegacao-extra">
+                        <button id="voltar-inicio-btn" class="quiz-button">Voltar ao Início</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </main>
+
+    <footer class="bg-gray-800 text-white p-4 text-center text-sm rounded-t-xl mt-8">
+        <div class="container">
+            © 2025 Registro de Questões. Todos os direitos reservados.
+        </div>
+    </footer>
+
+    <div id="donation-modal" class="modal-overlay hidden">
+        <div class="modal-content max-w-2xl">
+            <button onclick="closeDonationModal()" class="close-button">&times;</button>
+            <h2 class="text-2xl font-bold text-gray-800 mb-4 text-center">❤️ Apoie o Projeto</h2>
+            <p class="text-gray-600 mb-6 text-center">Sua doação ajuda a manter esta ferramenta viva e em constante melhoria. Obrigado pelo apoio!</p>
+            
+            <div class="grid grid-cols-1 sm:grid-cols-2 gap-6">
+                <div class="p-4 bg-gray-50 rounded-lg border border-gray-200">
+                    <h3 class="text-lg font-bold text-gray-800 mb-2">PIX</h3>
+                    <p class="text-sm text-gray-500 mb-2">Chave aleatória:</p>
+                    <div class="flex items-center space-x-2 mb-4">
+                        <input type="text" id="pix-key" value="f9678712-6ad5-4d43-93e9-a8675b03ca34" readonly class="flex-grow px-2 py-1 text-sm bg-white border border-gray-300 rounded-md shadow-sm">
+                        <button onclick="copyToClipboard('pix-key')" class="bg-blue-600 hover:bg-blue-700 text-white font-bold py-1 px-3 rounded-lg shadow-md text-sm">
+                            Copiar
+                        </button>
+                    </div>
+                    <div class="flex justify-center">
+                        <img src="pix.jpeg" alt="QR Code PIX" class="rounded-lg">
+                    </div>
+                </div>
+
+                <div class="p-4 bg-gray-50 rounded-lg border border-gray-200 space-y-4">
+                    <h3 class="text-lg font-bold text-gray-800">Criptomoedas</h3>
+                    <div>
+                        <p class="font-medium text-gray-700 mb-1">Bitcoin (BTC)</p>
+                        <div class="flex items-center space-x-2">
+                            <input type="text" id="btc-address" value="bbc1qskv6xx92wllh4xstv7rvxgdwva2d8jy2fgk7as" readonly class="flex-grow px-2 py-1 text-sm bg-white border border-gray-300 rounded-md shadow-sm">
+                            <button onclick="copyToClipboard('btc-address')" class="bg-blue-600 hover:bg-blue-700 text-white font-bold py-1 px-3 rounded-lg shadow-md text-sm">
+                                Copiar
+                            </button>
+                        </div>
+                    </div>
+                    <div>
+                        <p class="font-medium text-gray-700 mb-1">Monero (XMR)</p>
+                        <div class="flex items-center space-x-2">
+                            <input type="text" id="xmr-address" value="84bLEkQqSYihh8TPpxZr2fD2fQompRzoVZnMEvbt6KhyP1BpUdFckHRN5XgmZSsTanT4a5tUYhu6iTZ9WmW6JeggLGfWQEp" readonly class="flex-grow px-2 py-1 text-sm bg-white border border-gray-300 rounded-md shadow-sm">
+                            <button onclick="copyToClipboard('xmr-address')" class="bg-blue-600 hover:bg-blue-700 text-white font-bold py-1 px-3 rounded-lg shadow-md text-sm">
+                                Copiar
+                            </button>
+                        </div>
+                    </div>
+                    <div>
+                        <p class="font-medium text-gray-700 mb-1">Cardano (ADA)</p>
+                        <div class="flex items-center space-x-2">
+                            <input type="text" id="ada-address" value="addr1q8nkf6xqplcm78ffp5we9xkypc6t5c5l5uw0s54r3s9gfqvmjjfqykl22n6nrlw53lrakzsg6mg8x0pe4pp8zuy2xy9qpg8xc4" readonly class="flex-grow px-2 py-1 text-sm bg-white border border-gray-300 rounded-md shadow-sm">
+                            <button onclick="copyToClipboard('ada-address')" class="bg-blue-600 hover:bg-blue-700 text-white font-bold py-1 px-3 rounded-lg shadow-md text-sm">
+                                Copiar
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="settings-modal" class="modal-overlay hidden">
+        <div class="modal-content">
+            <button id="close-settings-modal" class="close-button">&times;</button>
+            <h2 class="text-2xl font-semibold mb-6 text-gray-800">Configurações de Desempenho</h2>
+
+            <div class="mb-6 p-4 border border-gray-200 rounded-lg shadow-sm">
+                <h3 class="text-xl font-semibold text-gray-800 mb-4">Exportar / Importar Dados</h3>
+                <div class="flex flex-col sm:flex-row space-y-2 sm:space-y-0 sm:space-x-4 justify-end">
+                    <button id="export-json-button" class="form-button bg-green-600 hover:bg-green-700 text-white font-bold py-2 px-4 rounded-lg shadow-md">
+                        Exportar para JSON
+                    </button>
+                    <button id="import-json-button" class="form-button bg-purple-600 hover:bg-purple-700 text-white font-bold py-2 px-4 rounded-lg shadow-md">
+                        Importar JSON
+                    </button>
+                    <input type="file" id="json-file-input" accept=".json" class="hidden">
+                </div>
+            </div>
+
+            <hr class="my-6 border-gray-200">
+
+            <div class="mb-6 p-4 border border-gray-200 rounded-lg shadow-sm">
+                <h3 class="text-xl font-semibold text-gray-800 mb-4">Filtros de Dados</h3>
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                    <div>
+                        <label for="materia-filter" class="block text-sm font-medium text-gray-700 mb-1">Matéria:</label>
+                        <select id="materia-filter" class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
+                            <option value="todos">Todas as Matérias</option>
+                            </select>
+                    </div>
+                    <div>
+                        <label for="assunto-filter" class="block text-sm font-medium text-gray-700 mb-1">Assunto:</label>
+                        <select id="assunto-filter" class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
+                            <option value="todos">Todos os Assuntos</option>
+                            </select>
+                    </div>
+                    <div class="grid grid-cols-1 sm:grid-cols-2 gap-2 col-span-full">
+                        <label class="block text-sm font-medium text-gray-700 mb-1 col-span-full">Filtrar por Data:</label>
+                        <input type="date" id="start-date-filter" class="form-input px-2 py-1 border border-gray-300 rounded-md text-sm w-full">
+                        <input type="date" id="end-date-filter" class="form-input px-2 py-1 border border-gray-300 rounded-md text-sm w-full">
+                        <button id="reset-date-filter" class="bg-gray-200 hover:bg-gray-300 text-gray-800 font-bold py-1 px-2 rounded-md text-sm w-full">
+                            Limpar Filtro de Data
+                        </button>
+                    </div>
+                    <div class="col-span-full">
+                        <label for="accuracy-threshold-input" class="block text-sm font-medium text-gray-700 mb-1">Limite de Precisão para Melhorar (%):</label>
+                        <input type="number" id="accuracy-threshold-input" value="70" min="0" max="100"
+                                class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
+                    </div>
+                </div>
+            </div>
+
+            <hr class="my-6 border-gray-200">
+
+            <div class="p-4 border border-gray-200 rounded-lg shadow-sm">
+                <h3 class="text-xl font-semibold text-gray-800 mb-4">Comparar Evolução (Gráfico de Tendência)</h3>
+                <div class="flex flex-col sm:flex-row items-start sm:items-center space-y-2 sm:space-y-0 sm:space-x-4 mb-4">
+                    <label class="inline-flex items-center">
+                        <input type="radio" name="compare-type" value="none" class="form-radio h-4 w-4 text-blue-600" checked>
+                        <span class="ml-2 text-gray-700">Nenhuma Comparação</span>
+                    </label>
+                    <label class="inline-flex items-center">
+                        <input type="radio" name="compare-type" value="materia" class="form-radio h-4 w-4 text-blue-600">
+                        <span class="ml-2 text-gray-700">Comparar Matérias</span>
+                    </label>
+                    <label class="inline-flex items-center">
+                        <input type="radio" name="compare-type" value="assunto" class="form-radio h-4 w-4 text-blue-600">
+                        <span class="ml-2 text-gray-700">Comparar Assuntos</span>
+                    </label>
+                </div>
+
+                <div id="comparison-buttons-container" class="flex flex-wrap gap-2 hidden">
+                    </div>
+
+                <div class="mt-4 p-3 bg-yellow-50 rounded-lg text-yellow-800 text-sm">
+                    <p class="font-semibold mb-1">Dica de Comparação:</p>
+                    <p>Selecione os itens acima para ver a evolução da precisão de cada um no gráfico de tendência. Você pode sobrepor a meta de acertos (linha pontilhada) no gráfico de evolução para ver se está atingindo seus objetivos.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+        
+    <div id="revision-settings-modal" class="modal-overlay hidden">
+        <div class="modal-content">
+            <button id="close-revision-settings" class="close-button">&times;</button>
+            <h2 class="text-2xl font-semibold mb-6 text-gray-800">Ajustar Variáveis de Revisão</h2>
+            
+            <p class="text-sm text-gray-600 mb-4">Ajuste os intervalos de dias para agendamento de revisões, com base na porcentagem de acertos. O botão "Reset" será exibido em tempo real quando você fizer uma alteração.</p>
+            
+            <div class="space-y-4" id="revision-intervals-container">
+                </div>
+
+            <div class="p-4 bg-gray-50 rounded-lg mt-6">
+                <h3 class="text-lg font-semibold text-gray-700 mb-2">Como Funciona o Agendamento de Revisões</h3>
+                <p class="text-sm text-gray-600 mb-2">O sistema calcula a próxima data de revisão com base na sua <strong>precisão histórica acumulada</strong> para cada assunto. Dependendo da porcentagem de acertos, um intervalo de dias é escolhido aleatoriamente dentro da faixa que você definir abaixo. Por exemplo, se sua precisão estiver entre 70% e 80%, a próxima revisão será agendada para daqui a 30 a 60 dias.</p>
+                <p class="text-sm text-gray-600">Isso ajuda a espaçar as revisões de forma inteligente, focando mais nos assuntos com menor desempenho e reforçando aqueles com bom desempenho em intervalos mais longos.</p>
+                <hr class="my-3 border-gray-300">
+                <p class="text-xs text-blue-700 font-medium">📌 Recomenda-se realizar pelo menos 15 questões no dia da revisão, para garantir que a análise de desempenho seja representativa e o espaçamento continue adequado.</p>
+            </div>
+        </div>
+    </div>
+
+    <div id="edit-modal" class="modal-overlay hidden">
+        <div class="modal-content">
+            <button id="close-edit-modal" class="close-button">&times;</button>
+            <h2 class="text-2xl font-semibold mb-6 text-gray-800">Editar Registro</h2>
+            <form id="edit-form" class="space-y-4">
+                <input type="hidden" id="edit-record-id">
+                <div>
+                    <label for="edit-materia" class="block text-sm font-medium text-gray-700 mb-1">Matéria:</label>
+                    <input type="text" id="edit-materia" name="materia" required
+                             class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
+                </div>
+                <div>
+                    <label for="edit-assunto" class="block text-sm font-medium text-gray-700 mb-1">Assunto:</label>
+                    <input type="text" id="edit-assunto" name="assunto" required
+                             class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
+                </div>
+                <div>
+                    <label for="edit-data" class="block text-sm font-medium text-gray-700 mb-1">Data:</label>
+                    <input type="date" id="edit-data" name="data" required
+                             class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
+                </div>
+                <div>
+                    <label for="edit-quantidadeFeita" class="block text-sm font-medium text-gray-700 mb-1">Quantidade Feita:</label>
+                    <input type="number" id="edit-quantidadeFeita" name="quantidadeFeita" min="0" required
+                             class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
+                </div>
+                <div>
+                    <label for="edit-quantidadeAcertada" class="block text-sm font-medium text-gray-700 mb-1">Quantidade Acertada:</label>
+                    <input type="number" id="edit-quantidadeAcertada" name="quantidadeAcertada" min="0" required
+                             class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
+                </div>
+                <button type="submit"
+                             class="form-button w-full bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-lg shadow-md">
+                    Salvar Alterações
+                </button>
+            </form>
+        </div>
+    </div>
+
+    <div id="confirmation-modal" class="modal-overlay hidden">
+        <div class="modal-content text-center">
+            <p id="confirmation-message" class="text-lg mb-6"></p>
+            <div class="flex justify-center space-x-4">
+                <button id="confirm-yes" class="form-button bg-red-600 hover:bg-red-700 text-white font-bold py-2 px-4 rounded-lg shadow-md">
+                    Sim
+                </button>
+                <button id="confirm-no" class="form-button bg-gray-300 hover:bg-gray-400 text-gray-800 font-bold py-2 px-4 rounded-lg shadow-md">
+                    Não
+                </button>
+            </div>
+        </div>
+    </div>
+        
+    <div id="complete-revision-modal" class="modal-overlay hidden">
+        <div class="modal-content max-w-sm">
+            <button id="close-complete-revision-modal" onclick="closeCompleteRevisionModal()" class="close-button">&times;</button>
+            <h2 class="text-2xl font-semibold mb-6 text-gray-800">Concluir Revisão</h2>
+            <p class="text-sm text-gray-600 mb-4">Insira os resultados da sua revisão para <span id="revision-subject-name" class="font-bold text-blue-700"></span>.</p>
+            <form id="complete-revision-form" class="space-y-4">
+                <input type="hidden" id="complete-revision-id">
+                <div>
+                    <label for="revision-quantidadeFeita" class="block text-sm font-medium text-gray-700 mb-1">Quantidade Feita:</label>
+                    <input type="number" id="revision-quantidadeFeita" name="quantidadeFeita" min="0" required
+                             class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
+                </div>
+                <div>
+                    <label for="revision-quantidadeAcertada" class="block text-sm font-medium text-gray-700 mb-1">Quantidade Acertada:</label>
+                    <input type="number" id="revision-quantidadeAcertada" name="quantidadeAcertada" min="0" required
+                             class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
+                </div>
+                <button type="submit"
+                             class="form-button w-full bg-green-600 hover:bg-green-700 text-white font-bold py-2 px-4 rounded-lg shadow-md">
+                    Registrar Revisão
+                </button>
+            </form>
+        </div>
+    </div>
+        
+    <div id="reschedule-revision-modal" class="modal-overlay hidden">
+        <div class="modal-content max-w-sm">
+            <button id="close-reschedule-revision-modal" onclick="closeRescheduleRevisionModal()" class="close-button">&times;</button>
+            <h2 class="text-2xl font-semibold mb-6 text-gray-800">Reagendar Revisão</h2>
+            <p class="text-sm text-gray-600 mb-4">Escolha uma nova data para a revisão de <span id="reschedule-subject-name" class="font-bold text-blue-700"></span>.</p>
+            <form id="reschedule-form" class="space-y-4">
+                <input type="hidden" id="reschedule-revision-id">
+                <div>
+                    <label for="reschedule-date" class="block text-sm font-medium text-gray-700 mb-1">Nova Data:</label>
+                    <input type="date" id="reschedule-date" name="newDate" required
+                             class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
+                </div>
+                <button type="submit"
+                             class="form-button w-full bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-lg shadow-md">
+                    Confirmar Reagendamento
+                </button>
+            </form>
+        </div>
+    </div>
+
+    <div id="contact-modal" class="modal-overlay hidden">
+        <div class="modal-content max-w-md text-center">
+            <button onclick="closeContactModal()" class="close-button">&times;</button>
+            <h2 class="text-2xl font-bold text-gray-800 mb-4">Fale Conosco</h2>
+            <p class="text-gray-600 mb-6">Estamos aqui para ajudar com suas dúvidas e sugestões!</p>
+            
+            <div class="space-y-4 text-left">
+                <div class="p-4 bg-gray-50 rounded-lg border border-gray-200">
+                    <h3 class="font-bold text-gray-800">Instagram</h3>
+                    <p class="text-gray-600 break-words">Siga-me para atualizações e mais dicas de estudo.</p>
+                    <a href="https://www.instagram.com/thomask_machado/" target="_blank" class="text-blue-600 hover:underline">@thomask_machado</a>
+                </div>
+                
+                <div class="p-4 bg-gray-50 rounded-lg border border-gray-200">
+                    <h3 class="font-bold text-gray-800">E-mail</h3>
+                    <p class="text-gray-600 break-words">Envie-nos um e-mail para qualquer questão ou feedback.</p>
+                    <a href="mailto:Fora-do-ar-aguarde@example.com" class="text-blue-600 hover:underline">Fora-do-ar-aguarde@example.com</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="about-modal" class="modal-overlay hidden">
+        <div class="modal-content">
+            <button onclick="closeAboutModal()" class="close-button">&times;</button>
+            <h2 class="text-2xl font-bold text-gray-800 mb-6 text-center">Sobre o Projeto e o Desenvolvedor</h2>
+            
+            <div class="space-y-6 text-gray-700">
+                <div class="p-4 bg-gray-50 rounded-lg shadow-sm border border-gray-200">
+                    <h3 class="flex items-center text-xl font-semibold text-gray-800 mb-2">
+                        <svg class="h-6 w-6 text-blue-500 mr-3" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" />
+                        </svg>
+                        Quem sou eu e o que faço
+                    </h3>
+                    <p>Olá! Sou um desenvolvedor apaixonado por tecnologia e por criar soluções que realmente façam a diferença na vida das pessoas. Este aplicativo foi concebido e construído por mim com um único objetivo em mente: ajudar estudantes e concurseiros a otimizar seus estudos de forma inteligente e eficiente, sem nenhum custo.</p>
+                </div>
+
+                <div class="p-4 bg-gray-50 rounded-lg shadow-sm border border-gray-200">
+                    <h3 class="flex items-center text-xl font-semibold text-gray-800 mb-2">
+                        <svg class="h-6 w-6 text-green-500 mr-3" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5s3.332.477 4.5 1.253v13C19.832 18.477 18.246 18 16.5 18s-3.332.477-4.5 1.253" />
+                        </svg>
+                        O Motivo Filantrópico
+                    </h3>
+                    <p>O desenvolvimento desta ferramenta é um projeto filantrópico. Acredito que o acesso a ferramentas de estudo de qualidade não deve ser limitado por barreiras financeiras. Por isso, decidi disponibilizar este aplicativo de forma totalmente gratuita. Meu objetivo é democratizar o acesso a métodos de estudo que podem aumentar a produtividade e a chance de sucesso em provas e concursos.</p>
+                </div>
+                
+                <div class="p-4 bg-gray-50 rounded-lg shadow-sm border border-gray-200">
+                    <h3 class="flex items-center text-xl font-semibold text-gray-800 mb-2">
+                        <svg class="h-6 w-6 text-purple-500 mr-3" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
+                        </svg>
+                        A Importância da Doação
+                    </h3>
+                    <p>Embora o aplicativo seja gratuito, a sua manutenção, hospedagem e futuras atualizações têm custos. Se esta ferramenta foi útil para você, considere fazer uma doação. Não importa o valor, cada centavo é um incentivo para que eu continue trabalhando neste projeto, melhorando-o e adicionando novas funcionalidades para a comunidade. Sua doação é um investimento direto na educação e no desenvolvimento de uma ferramenta acessível a todos. Agradeço imensamente o seu apoio!</p>
+                </div>
+
+                <div class="p-4 bg-gray-50 rounded-lg shadow-sm border border-gray-200">
+                    <h3 class="flex items-center text-xl font-semibold text-gray-800 mb-2">
+                        <svg class="h-6 w-6 text-yellow-500 mr-3" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
+                        </svg>
+                        Guia de Utilização do Aplicativo
+                    </h3>
+                    <p class="font-bold">Para começar, o aplicativo funciona em 4 seções principais:</p>
+                    
+                    <div class="space-y-4 mt-4">
+                        <div class="p-4 bg-white rounded-lg shadow-inner border border-gray-100">
+                            <h4 class="text-lg font-semibold text-gray-800">1. Seção de Registro</h4>
+                            <p class="mt-2 text-sm text-gray-600">É a página inicial onde você registrará o seu desempenho. Para cada bloco de questões que você fizer:</p>
+                            <ul class="list-disc list-inside space-y-1 mt-2 text-sm text-gray-600">
+                                <li>Preencha os campos de <strong>Matéria</strong> e <strong>Assunto</strong> (o aplicativo oferece sugestões com base nos seus registros anteriores).</li>
+                                <li>Coloque a <strong>Data</strong> em que a atividade foi realizada.</li>
+                                <li>Informe a <strong>Quantidade Feita</strong> de questões e a <strong>Quantidade Acertada</strong>.</li>
+                                <li>Clique em <strong>"Registrar"</strong>. O aplicativo salvará seus dados localmente no navegador.</li>
+                            </ul>
+                        </div>
+                        <div class="p-4 bg-white rounded-lg shadow-inner border border-gray-100">
+                            <h4 class="text-lg font-semibold text-gray-800">2. Seção de Desempenho</h4>
+                            <p class="mt-2 text-sm text-gray-600">Aqui, você pode visualizar seu progresso.</p>
+                            <ul class="list-disc list-inside space-y-1 mt-2 text-sm text-gray-600">
+                                <li>O <strong>Resumo Geral</strong> mostra a sua performance total.</li>
+                                <li>Os gráficos exibem a sua precisão por matéria e assunto, além da evolução ao longo do tempo.</li>
+                                <li>Na área <strong>"Áreas para Melhorar"</strong>, o aplicativo lista automaticamente os assuntos onde sua precisão está abaixo da meta (70%, mas você pode ajustar isso nas configurações).</li>
+                                <li>Em <strong>Configurações</strong>, você pode ajustar filtros, esconder ou mostrar gráficos e até mesmo exportar seus dados para um arquivo JSON para manter um backup pessoal.</li>
+                            </ul>
+                        </div>
+                        <div class="p-4 bg-white rounded-lg shadow-inner border border-gray-100">
+                            <h4 class="text-lg font-semibold text-gray-800">3. Seção de Revisões</h4>
+                            <p class="mt-2 text-sm text-gray-600">Esta é a seção mais importante para a revisão espaçada.</p>
+                            <ul class="list-disc list-inside space-y-1 mt-2 text-sm text-gray-600">
+                                <li>Com base no seu desempenho registrado, o aplicativo agenda automaticamente as próximas revisões.</li>
+                                <li>Assuntos com baixa precisão terão revisões mais frequentes, enquanto aqueles com alta precisão terão intervalos mais longos.</li>
+                                <li>As revisões são classificadas como "Em Atraso", "Hoje" ou "Próximas", ajudando a priorizar.</li>
+                                <li>Quando você conclui uma revisão, basta clicar em <strong>"Concluir"</strong> e registrar seu novo desempenho para que o aplicativo recalcule o próximo agendamento.</li>
+                                <li>Ajuste os intervalos de revisão em <strong>"Ajustar Variáveis"</strong> para personalizar a frequência de acordo com sua necessidade.</li>
+                            </ul>
+                        </div>
+                        <div class="p-4 bg-white rounded-lg shadow-inner border border-gray-100">
+                            <h4 class="text-lg font-semibold text-gray-800">4. Seção de Prática</h4>
+                            <p class="mt-2 text-sm text-gray-600">Nesta seção, você pode praticar questões de forma interativa, como se estivesse fazendo um quiz. Você pode filtrar por matéria, assunto, tags e até mesmo pelo seu histórico de acertos e erros, para focar nas suas dificuldades.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <p class="text-sm text-gray-600">Lembre-se: Para que o sistema funcione corretamente, é fundamental que você <strong>registre seus dados com frequência</strong> e <strong>realize as revisões agendadas</strong>. Aproveite a ferramenta e bons estudos!</p>
+            </div>
+        </div>
+    </div>
+    
+    <div id="view-details-modal" class="modal-overlay hidden">
+        <div class="modal-content">
+            <button id="close-view-details-modal" class="close-button">&times;</button>
+            <h2 class="text-2xl font-semibold mb-6 text-gray-800">Detalhes do Registro</h2>
+            <div class="space-y-4">
+                <p><strong>ID do Bloco:</strong> <span id="details-block-id"></span></p>
+                <p><strong>Matéria:</strong> <span id="details-materia"></span></p>
+                <p><strong>Assunto:</strong> <span id="details-assunto"></span></p>
+                <p><strong>Data:</strong> <span id="details-data"></span></p>
+                <p><strong>Feitas:</strong> <span id="details-feitas"></span></p>
+                <p><strong>Acertadas:</strong> <span id="details-acertadas"></span></p>
+                <h3 class="text-xl font-semibold text-gray-800 mb-2">Questões do Quiz Relacionadas</h3>
+                <div class="overflow-x-auto">
+                    <table class="min-w-full bg-white rounded-lg shadow-md">
+                        <thead>
+                            <tr class="bg-gray-100 text-gray-600 uppercase text-sm leading-normal">
+                                <th class="py-3 px-6 text-left">ID da Questão</th>
+                                <th class="py-3 px-6 text-left">Acertos</th>
+                                <th class="py-3 px-6 text-left">Erros</th>
+                                <th class="py-3 px-6 text-left">Ações</th>
+                            </tr>
+                        </thead>
+                        <tbody id="details-questions-table-body" class="text-gray-700 text-sm font-light">
+                            </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="question-details-modal" class="modal-overlay hidden">
+        <div class="modal-content">
+            <button onclick="closeQuestionDetailsModal()" class="close-button">&times;</button>
+            <h2 class="text-2xl font-semibold mb-6 text-gray-800">Detalhes da Questão</h2>
+            <div id="question-details-content" class="space-y-4">
+                </div>
+        </div>
+    </div>
+
+
+    <script type="module">
+    // Este bloco de script agora contém a lógica combinada de ambos os códigos
+
+    // =========================================================================
+    // --- LÓGICA DO CODE 1 (Registro, Desempenho e Revisão Espaçada) ---
+    // =========================================================================
+
+    let currentRecords = [];
+    let currentRevisions = [];
+    let currentFilterMateria = 'todos';
+    let currentFilterAssunto = 'todos';
+    let currentStartDate = '';
+    let currentEndDate = '';
+    let currentAccuracyThreshold = 70;
+
+    const defaultRevisionIntervals = [
+        { minAccuracy: 0, maxAccuracy: 30, minDays: 1, maxDays: 3 },
+        { minAccuracy: 30, maxAccuracy: 50, minDays: 3, maxDays: 7 },
+        { minAccuracy: 50, maxAccuracy: 60, minDays: 7, maxDays: 15 },
+        { minAccuracy: 60, maxAccuracy: 70, minDays: 15, maxDays: 30 },
+        { minAccuracy: 70, maxAccuracy: 80, minDays: 30, maxDays: 60 },
+        { minAccuracy: 80, maxAccuracy: 90, minDays: 60, maxDays: 90 },
+        { minAccuracy: 90, maxAccuracy: 100, minDays: 90, maxDays: 120 }
+    ];
+
+    let revisionIntervals = [...defaultRevisionIntervals];
+
+    let displaySettings = {
+        showOverallSummary: true,
+        showOverallAccuracyChart: true,
+        showMateriaAccuracyChart: true,
+        showAssuntoAccuracyChart: true,
+        showTrendChart: true,
+        showImprovementAreas: true,
+        showAssuntoRevisions: true
+    };
+
+    let comparisonSettings = {
+        type: 'none',
+        items: []
+    };
+
+    const showMessage = (message, type = 'info') => {
+        const statusMessage = document.getElementById('status-message');
+        if (statusMessage) {
+            statusMessage.textContent = message;
+            statusMessage.className = 'p-4 mb-4 text-sm rounded-lg';
+            if (type === 'success') {
+                statusMessage.classList.add('bg-green-100', 'text-green-800');
+            } else if (type === 'error') {
+                statusMessage.classList.add('bg-red-100', 'text-red-800');
+            } else if (type === 'warning') {
+                statusMessage.classList.add('bg-yellow-100', 'text-yellow-800');
+            }
+            statusMessage.classList.remove('hidden');
+            setTimeout(() => {
+                statusMessage.classList.add('hidden');
+            }, 3000);
+        } else {
+            console.warn("Status message element not found.");
+        }
+    };
+
+    const saveRecordsToLocalStorage = () => {
+        try {
+            localStorage.setItem('questionRecords', JSON.stringify(currentRecords));
+            console.log("Dados salvos no localStorage.");
+        } catch (e) {
+            console.error("Erro ao salvar dados no localStorage:", e);
+            showMessage('Erro ao salvar dados localmente.', 'error');
+        }
+    };
+
+    const saveRevisionsToLocalStorage = () => {
+        try {
+            localStorage.setItem('scheduledRevisions', JSON.stringify(currentRevisions));
+            console.log("Revisões salvas no localStorage.");
+        } catch (e) {
+            console.error("Erro ao salvar revisões no localStorage:", e);
+        }
+    };
+
+    const saveRevisionIntervals = () => {
+        try {
+            localStorage.setItem('revisionIntervals', JSON.stringify(revisionIntervals));
+            console.log("Intervalos de revisão salvos no localStorage.");
+        } catch (e) {
+            console.error("Erro ao salvar intervalos de revisão:", e);
+        }
+    };
+
+    const saveDisplaySettings = () => {
+        try {
+            localStorage.setItem('displaySettings', JSON.stringify(displaySettings));
+            console.log("Configurações de exibição salvas no localStorage.");
+        } catch (e) {
+            console.error("Erro ao salvar configurações de exibição:", e);
+        }
+    };
+
+    const saveComparisonSettings = () => {
+        try {
+            localStorage.setItem('comparisonSettings', JSON.stringify(comparisonSettings));
+            console.log("Configurações de comparação salvas no localStorage.");
+        } catch (e) {
+            console.error("Erro ao salvar configurações de comparação:", e);
+        }
+    };
+
+    const saveQuizPerformance = () => {
+        try {
+            localStorage.setItem('quizPerformance', JSON.stringify(quizPerformance));
+            console.log("Dados de desempenho do quiz salvos no localStorage.");
+        } catch (e) {
+            console.error("Erro ao salvar dados de desempenho do quiz:", e);
+        }
+    };
+
+    const loadQuestionData = () => {
+        try {
+            const storedRecords = localStorage.getItem('questionRecords');
+            if (storedRecords) {
+                currentRecords = JSON.parse(storedRecords);
+                console.log("Dados de registro carregados:", currentRecords);
+            } else {
+                currentRecords = [];
+                console.log("Nenhum registro encontrado.");
+            }
+
+            const storedRevisions = localStorage.getItem('scheduledRevisions');
+            if (storedRevisions) {
+                currentRevisions = JSON.parse(storedRevisions);
+                console.log("Revisões agendadas carregadas:", currentRevisions);
+            } else {
+                currentRevisions = [];
+                console.log("Nenhuma revisão agendada encontrada.");
+            }
+
+            const storedQuizPerformance = localStorage.getItem('quizPerformance');
+            if (storedQuizPerformance) {
+                quizPerformance = JSON.parse(storedQuizPerformance);
+                console.log("Desempenho do quiz carregado:", quizPerformance);
+            } else {
+                quizPerformance = {};
+                console.log("Nenhum dado de desempenho do quiz encontrado.");
+            }
+
+            const storedDisplaySettings = localStorage.getItem('displaySettings');
+            if (storedDisplaySettings) {
+                displaySettings = { ...displaySettings, ...JSON.parse(storedDisplaySettings) };
+            }
+
+            const storedComparisonSettings = localStorage.getItem('comparisonSettings');
+            if (storedComparisonSettings) {
+                comparisonSettings = { ...comparisonSettings, ...JSON.parse(storedComparisonSettings) };
+            }
+
+            const storedRevisionIntervals = localStorage.getItem('revisionIntervals');
+            if (storedRevisionIntervals) {
+                revisionIntervals = JSON.parse(storedRevisionIntervals);
+            }
+        } catch (e) {
+            console.error("Erro ao carregar dados:", e);
+            showMessage('Erro ao carregar dados.', 'error');
+            currentRecords = [];
+            currentRevisions = [];
+            quizPerformance = {};
+        }
+    };
+
+    const capitalizeFirstLetter = (string) => {
+        if (!string) return '';
+        return string.charAt(0).toUpperCase() + string.slice(1);
+    };
+
+    const addQuestionRecord = (record) => {
+        record.id = Date.now().toString();
+        currentRecords.push(record);
+        saveRecordsToLocalStorage();
+        updateRevisionSchedule(record.materia, record.assunto);
+        showMessage('Registro adicionado com sucesso!', 'success');
+        updatePerformanceDisplay(currentRecords, currentFilterMateria, currentFilterAssunto, currentStartDate, currentEndDate);
+        populateRecordsTable(currentRecords);
+        populateRevisionsTable(currentRevisions);
+        populateMateriaFilter(currentRecords);
+        populateAssuntoFilter(currentRecords);
+        populateDatalists(currentRecords);
+        populateComparisonSelectionButtons();
+    };
+
+    const updateQuestionRecord = (recordId, updatedData) => {
+        const index = currentRecords.findIndex(record => record.id === recordId);
+        if (index !== -1) {
+            currentRecords[index] = { ...currentRecords[index], ...updatedData };
+            saveRecordsToLocalStorage();
+            updateRevisionSchedule(updatedData.materia, updatedData.assunto);
+            showMessage('Registro atualizado com sucesso!', 'success');
+            closeEditModal();
+            updatePerformanceDisplay(currentRecords, currentFilterMateria, currentFilterAssunto, currentStartDate, currentEndDate);
+            populateRecordsTable(currentRecords);
+            populateRevisionsTable(currentRevisions);
+            populateMateriaFilter(currentRecords);
+            populateAssuntoFilter(currentRecords);
+            populateDatalists(currentRecords);
+            populateComparisonSelectionButtons();
+        } else {
+            showMessage('Registro não encontrado para atualização.', 'error');
+        }
+    };
+
+    const deleteQuestionRecord = (recordId) => {
+        showConfirmationModal('Tem certeza que deseja excluir este registro?', () => {
+            const recordToDelete = currentRecords.find(record => record.id === recordId);
+            if (recordToDelete) {
+                const { materia, assunto } = recordToDelete;
+                currentRecords = currentRecords.filter(record => record.id !== recordId);
+                saveRecordsToLocalStorage();
+                updateRevisionSchedule(materia, assunto);
+                showMessage('Registro excluído com sucesso!', 'success');
+                updatePerformanceDisplay(currentRecords, currentFilterMateria, currentFilterAssunto, currentStartDate, currentEndDate);
+                populateRecordsTable(currentRecords);
+                populateRevisionsTable(currentRevisions);
+                populateMateriaFilter(currentRecords);
+                populateAssuntoFilter(currentRecords);
+                populateDatalists(currentRecords);
+                populateComparisonSelectionButtons();
+            }
+        });
+    };
+
+    window.openCompleteRevisionModal = (revisionId) => {
+        const revision = currentRevisions.find(r => r.id === revisionId);
+        if (revision) {
+            const modal = document.getElementById('complete-revision-modal');
+            const form = document.getElementById('complete-revision-form');
+            const subjectSpan = document.getElementById('revision-subject-name');
+            const revisionIdInput = document.getElementById('complete-revision-id');
+
+            subjectSpan.textContent = `${revision.materia} - ${revision.assunto}`;
+            revisionIdInput.value = revisionId;
+
+            modal.classList.remove('hidden');
+        }
+    };
+
+    window.closeCompleteRevisionModal = () => {
+        const modal = document.getElementById('complete-revision-modal');
+        const form = document.getElementById('complete-revision-form');
+        if (modal) {
+            modal.classList.add('hidden');
+            form.reset();
+        }
+    };
+
+    window.submitCompleteRevisionForm = (revisionId, quantidadeFeita, quantidadeAcertada) => {
+        const revision = currentRevisions.find(r => r.id === revisionId);
+        if (revision) {
+            const newRecord = {
+                materia: revision.materia,
+                assunto: revision.assunto,
+                data: new Date().toISOString().slice(0, 10),
+                quantidadeFeita: quantidadeFeita,
+                quantidadeAcertada: quantidadeAcertada,
+                timestamp: new Date().toISOString()
+            };
+
+            addQuestionRecord(newRecord);
+
+            closeCompleteRevisionModal();
+            showMessage(`Revisão de ${revision.assunto} concluída e registrada!`, 'success');
+        }
+    };
+
+    window.openRescheduleRevisionModal = (revisionId) => {
+        const revision = currentRevisions.find(r => r.id === revisionId);
+        if (revision) {
+            const modal = document.getElementById('reschedule-revision-modal');
+            const subjectSpan = document.getElementById('reschedule-subject-name');
+            const revisionIdInput = document.getElementById('reschedule-revision-id');
+            const dateInput = document.getElementById('reschedule-date');
+
+            subjectSpan.textContent = `${revision.materia} - ${revision.assunto}`;
+            revisionIdInput.value = revisionId;
+            dateInput.value = revision.nextReviewDate;
+            modal.classList.remove('hidden');
+        }
+    };
+
+    window.closeRescheduleRevisionModal = () => {
+        const modal = document.getElementById('reschedule-revision-modal');
+        const form = document.getElementById('reschedule-form');
+        if (modal) {
+            modal.classList.add('hidden');
+            form.reset();
+        }
+    };
+
+    window.submitRescheduleForm = (revisionId, newDate) => {
+        const revision = currentRevisions.find(r => r.id === revisionId);
+        if (revision) {
+            revision.nextReviewDate = newDate;
+            saveRevisionsToLocalStorage();
+            populateRevisionsTable(currentRevisions);
+            closeRescheduleRevisionModal();
+            showMessage(`Revisão de ${revision.assunto} reagendada para ${newDate}.`, 'info');
+        }
+    };
+
+    const updateRevisionSchedule = (materia, assunto) => {
+        const recordsForSubject = currentRecords.filter(r => r.materia.toLowerCase() === materia.toLowerCase() && r.assunto.toLowerCase() === assunto.toLowerCase());
+
+        if (recordsForSubject.length === 0) {
+            currentRevisions = currentRevisions.filter(r => !(r.materia.toLowerCase() === materia.toLowerCase() && r.assunto.toLowerCase() === assunto.toLowerCase()));
+            saveRevisionsToLocalStorage();
+            return;
+        }
+
+        let totalFeita = 0;
+        let totalAcertada = 0;
+        recordsForSubject.forEach(record => {
+            totalFeita += record.quantidadeFeita;
+            totalAcertada += record.quantidadeAcertada;
+        });
+        const cumulativeAccuracy = totalFeita > 0 ? (totalAcertada / totalFeita) * 100 : 0;
+
+        let nextRevisionDate = null;
+        let revisionDays = 0;
+
+        const now = new Date();
+        const lastReviewDate = new Date(recordsForSubject.sort((a, b) => new Date(b.data) - new Date(a.data))[0].data);
+
+        const interval = revisionIntervals.find(i => cumulativeAccuracy >= i.minAccuracy && cumulativeAccuracy <= i.maxAccuracy);
+
+        if (interval) {
+            revisionDays = Math.floor(Math.random() * (interval.maxDays - interval.minDays + 1)) + interval.minDays;
+
+            nextRevisionDate = new Date(lastReviewDate);
+            nextRevisionDate.setDate(lastReviewDate.getDate() + revisionDays);
+        } else {
+            nextRevisionDate = new Date(lastReviewDate);
+            nextRevisionDate.setDate(lastReviewDate.getDate() + 1);
+            revisionDays = 1;
+        }
+
+        const existingRevisionIndex = currentRevisions.findIndex(r => r.materia.toLowerCase() === materia.toLowerCase() && r.assunto.toLowerCase() === assunto.toLowerCase());
+
+        const newRevision = {
+            id: materia + '-' + assunto,
+            materia: materia,
+            assunto: assunto,
+            lastReviewDate: lastReviewDate.toISOString().slice(0, 10),
+            nextReviewDate: nextRevisionDate.toISOString().slice(0, 10),
+            cumulativeAccuracy: cumulativeAccuracy,
+            daysInterval: revisionDays
+        };
+
+        if (existingRevisionIndex !== -1) {
+            currentRevisions[existingRevisionIndex] = newRevision;
+        } else {
+            currentRevisions.push(newRevision);
+        }
+
+        saveRevisionsToLocalStorage();
+        populateRevisionsTable(currentRevisions);
+    };
+
+    const populateRevisionsTable = (revisions) => {
+        const tableBody = document.getElementById('revisions-table-body');
+        const summaryLate = document.getElementById('summary-late');
+        const summaryToday = document.getElementById('summary-today');
+        const summaryUpcoming = document.getElementById('summary-upcoming');
+        const lateRevisionsContainer = document.getElementById('late-revisions-container');
+        // Novo container para revisões de hoje
+        const todayRevisionsContainer = document.getElementById('today-revisions-container');
+
+        if (!tableBody || !summaryLate || !summaryToday || !summaryUpcoming || !lateRevisionsContainer || !todayRevisionsContainer) return;
+
+        tableBody.innerHTML = '';
+        lateRevisionsContainer.innerHTML = '';
+        todayRevisionsContainer.innerHTML = '';
+
+        const sortedRevisions = [...revisions].sort((a, b) => new Date(a.nextReviewDate) - new Date(b.nextReviewDate));
+
+        let countLate = 0;
+        let countToday = 0;
+        let countUpcoming = 0;
+
+        if (sortedRevisions.length === 0) {
+            tableBody.innerHTML = '<tr><td colspan="6" class="py-3 px-6 text-center">Nenhuma revisão agendada.</td></tr>';
+            lateRevisionsContainer.innerHTML = '<p class="text-gray-600 text-sm">Nenhuma revisão em atraso. Ótimo trabalho!</p>';
+            todayRevisionsContainer.innerHTML = '<p class="text-gray-600 text-sm">Nenhuma revisão agendada para hoje. Aproveite o dia!</p>';
+            summaryLate.textContent = 0;
+            summaryToday.textContent = 0;
+            summaryUpcoming.textContent = 0;
+            return;
+        }
+
+        sortedRevisions.forEach(revision => {
+            const row = tableBody.insertRow();
+            const nextReviewDate = new Date(revision.nextReviewDate);
+            const today = new Date();
+            today.setHours(0, 0, 0, 0);
+
+            const timeDiff = nextReviewDate.getTime() - today.getTime();
+            const daysRemaining = Math.ceil(timeDiff / (1000 * 60 * 60 * 24));
+
+            let dateDisplay = revision.nextReviewDate;
+            let daysDisplay = '';
+            let rowClass = 'bg-white hover:bg-gray-50';
+
+            const createRevisionCard = (container, colorClass, text, buttonText) => {
+                const card = document.createElement('div');
+                card.className = `card p-4 rounded-lg shadow-sm border ${colorClass} bg-${colorClass.split('-')[1]}-50 flex flex-col justify-between`;
+                card.innerHTML = `
+                    <div>
+                        <p class="text-lg font-bold text-${colorClass.split('-')[1]}-800">${revision.materia.toUpperCase()}</p>
+                        <p class="text-sm text-${colorClass.split('-')[1]}-700">${revision.assunto.toUpperCase()}</p>
+                        <p class="text-xs text-${colorClass.split('-')[1]}-600 mt-2">Último acerto: ${revision.cumulativeAccuracy.toFixed(2)}%</p>
+                        <p class="text-xs text-${colorClass.split('-')[1]}-600">${text}</p>
+                    </div>
+                    <div class="mt-4 flex space-x-2">
+                        <button onclick="startRevisionQuiz('${revision.materia}', '${revision.assunto}')" class="bg-blue-500 hover:bg-blue-600 text-white font-bold py-1 px-2 rounded-md text-sm">${buttonText}</button>
+                        <button onclick="openRescheduleRevisionModal('${revision.id}')" class="bg-gray-500 hover:bg-gray-600 text-white font-bold py-1 px-2 rounded-md text-sm">Reagendar</button>
+                    </div>
+                `;
+                container.appendChild(card);
+            };
+
+
+            if (daysRemaining < 0) {
+                dateDisplay = `ATRASADA: ${revision.nextReviewDate}`;
+                daysDisplay = `${Math.abs(daysRemaining)} dias atrás`;
+                rowClass = 'bg-red-100 text-red-800 hover:bg-red-200';
+                countLate++;
+
+                createRevisionCard(lateRevisionsContainer, 'border-red-200', `Revisão: ${Math.abs(daysRemaining)} dias atrás`, 'Revisar');
+
+            } else if (daysRemaining === 0) {
+                dateDisplay = `HOJE: ${revision.nextReviewDate}`;
+                daysDisplay = 'Hoje';
+                rowClass = 'bg-yellow-100 text-yellow-800 hover:bg-yellow-200';
+                countToday++;
+
+                createRevisionCard(todayRevisionsContainer, 'border-yellow-200', `Revisão agendada para hoje`, 'Revisar');
+
+            } else {
+                dateDisplay = `Próxima: ${revision.nextReviewDate}`;
+                daysDisplay = `${daysRemaining} dias`;
+                rowClass = 'bg-blue-100 text-blue-800 hover:bg-blue-200';
+                countUpcoming++;
+            }
+
+            row.className = `text-gray-700 text-sm font-light ${rowClass}`;
+
+            row.insertCell().textContent = revision.materia;
+            row.insertCell().textContent = revision.assunto;
+            row.insertCell().textContent = revision.lastReviewDate;
+            row.insertCell().textContent = dateDisplay;
+            row.insertCell().textContent = `${revision.cumulativeAccuracy.toFixed(2)}%`;
+
+            const actionsCell = row.insertCell();
+            actionsCell.className = 'text-center';
+            const reviseButton = document.createElement('button');
+            reviseButton.textContent = 'Revisar';
+            reviseButton.onclick = () => startRevisionQuiz(revision.materia, revision.assunto);
+            reviseButton.classList.add('bg-blue-500', 'hover:bg-blue-600', 'text-white', 'font-bold', 'py-1', 'px-2', 'rounded-md', 'mr-2', 'text-sm');
+
+            const rescheduleButton = document.createElement('button');
+            rescheduleButton.textContent = 'Reagendar';
+            rescheduleButton.onclick = () => openRescheduleRevisionModal(revision.id);
+            rescheduleButton.classList.add('bg-gray-500', 'hover:bg-gray-600', 'text-white', 'font-bold', 'py-1', 'px-2', 'rounded-md', 'text-sm');
+
+            actionsCell.appendChild(reviseButton);
+            actionsCell.appendChild(rescheduleButton);
+        });
+
+        if (countLate === 0) {
+            lateRevisionsContainer.innerHTML = '<p class="text-gray-600 text-sm">Nenhuma revisão em atraso. Ótimo trabalho!</p>';
+        }
+        if (countToday === 0) {
+             todayRevisionsContainer.innerHTML = '<p class="text-gray-600 text-sm">Nenhuma revisão agendada para hoje. Aproveite o dia!</p>';
+        }
+
+        summaryLate.textContent = countLate;
+        summaryToday.textContent = countToday;
+        summaryUpcoming.textContent = countUpcoming;
+    };
+    
+    // --- Nova função para iniciar o quiz a partir da tabela de revisões ---
+    window.startRevisionQuiz = (materia, assunto) => {
+        const showQuizSectionBtn = document.getElementById('show-quiz-section');
+        showQuizSectionBtn.click();
+        
+        quizMateriaSelect.value = materia;
+        quizMateriaSelect.dispatchEvent(new Event('change'));
+        
+        setTimeout(() => {
+            quizAssuntoSelect.value = assunto.toLowerCase().replace(/ /g, '-');
+            quizAssuntoSelect.dispatchEvent(new Event('change'));
+        }, 500);
+        
+        showMessage(`Iniciando revisão para ${materia} - ${assunto}... Configure o número de questões e clique em "Iniciar Revisão".`, 'info');
+    };
+
+    let materiaChart;
+    let assuntoChart;
+    let overallChart;
+    let comparisonTrendChart;
+
+    const updatePerformanceDisplay = (records, filterMateria = 'todos', filterAssunto = 'todos', startDate = '', endDate = '') => {
+        const performanceSummary = document.getElementById('performance-summary');
+        if (!performanceSummary) return;
+
+        performanceSummary.innerHTML = '';
+
+        let recordsForMainFilters = records;
+
+        if (filterMateria !== 'todos') {
+            recordsForMainFilters = recordsForMainFilters.filter(record => record.materia.toLowerCase() === filterMateria.toLowerCase());
+        }
+        if (filterAssunto !== 'todos') {
+            recordsForMainFilters = recordsForMainFilters.filter(record => record.assunto.toLowerCase() === filterAssunto.toLowerCase());
+        }
+        if (startDate && endDate) {
+            recordsForMainFilters = recordsForMainFilters.filter(record => {
+                const recordDate = new Date(record.data);
+                const start = new Date(startDate);
+                const end = new Date(new Date(endDate).setDate(new Date(endDate).getDate() + 1));
+                return recordDate >= start && recordDate < end;
+            });
+        } else if (startDate) {
+            recordsForMainFilters = recordsForMainFilters.filter(record => {
+                const recordDate = new Date(record.data);
+                const start = new Date(startDate);
+                return recordDate >= start;
+            });
+        } else if (endDate) {
+            recordsForMainFilters = recordsForMainFilters.filter(record => {
+                const recordDate = new Date(record.data);
+                const end = new Date(new Date(endDate).setDate(new Date(endDate).getDate() + 1));
+                return recordDate < end;
+            });
+        }
+
+        let recordsForDisplay = recordsForMainFilters;
+        if (comparisonSettings.type !== 'none' && comparisonSettings.items.length > 0) {
+            if (comparisonSettings.type === 'materia') {
+                recordsForDisplay = recordsForMainFilters.filter(record =>
+                    comparisonSettings.items.includes(record.materia.toLowerCase())
+                );
+            } else if (comparisonSettings.type === 'assunto') {
+                recordsForDisplay = recordsForMainFilters.filter(record =>
+                    comparisonSettings.items.includes(record.assunto.toLowerCase())
+                );
+            }
+        }
+
+        if (recordsForDisplay.length === 0) {
+            if (displaySettings.showOverallSummary) {
+                performanceSummary.innerHTML += `
+                        <div class="mb-6 p-4 bg-blue-50 rounded-lg shadow-inner">
+                            <h3 class="text-xl font-semibold text-blue-700 mb-2">Desempenho Geral</h3>
+                            <p class="text-gray-600">Nenhum registro encontrado para os filtros atuais. Adicione questões ou ajuste os filtros.</p>
+                            <p class="text-lg text-blue-800">Número de Revisões: <span class="font-bold">0</span></p>
+                        </div>
+                    `;
+            }
+            if (materiaChart) materiaChart.destroy();
+            if (assuntoChart) assuntoChart.destroy();
+            if (overallChart) overallChart.destroy();
+            if (comparisonTrendChart) comparisonTrendChart.destroy();
+            return;
+        }
+
+        let totalFeita = 0;
+        let totalAcertada = 0;
+        recordsForDisplay.forEach(record => {
+            totalFeita += record.quantidadeFeita;
+            totalAcertada += record.quantidadeAcertada;
+        });
+        const totalErros = totalFeita - totalAcertada;
+        const overallAccuracy = totalFeita > 0 ? (totalAcertada / totalFeita) * 100 : 0;
+
+        const performanceByMateria = {};
+        const performanceByAssunto = {};
+
+        recordsForDisplay.forEach(record => {
+            const materia = record.materia.toLowerCase();
+            const assunto = record.assunto.toLowerCase();
+
+            if (!performanceByMateria[materia]) {
+                performanceByMateria[materia] = { feita: 0, acertada: 0 };
+            }
+            performanceByMateria[materia].feita += record.quantidadeFeita;
+            performanceByMateria[materia].acertada += record.quantidadeAcertada;
+
+            if (!performanceByAssunto[assunto]) {
+                performanceByAssunto[assunto] = { feita: 0, acertada: 0 };
+            }
+            performanceByAssunto[assunto].feita += record.quantidadeFeita;
+            performanceByAssunto[assunto].acertada += record.quantidadeAcertada;
+        });
+
+        const materiaAccuracy = Object.entries(performanceByMateria).map(([materia, data]) => ({
+            name: materia,
+            accuracy: data.feita > 0 ? (data.acertada / data.feita) * 100 : 0,
+            feita: data.feita,
+            acertada: data.acertada,
+            erros: data.feita - data.acertada
+        }));
+
+        const assuntoAccuracy = Object.entries(performanceByAssunto).map(([assunto, data]) => ({
+            name: assunto,
+            accuracy: data.feita > 0 ? (data.acertada / data.feita) * 100 : 0,
+            feita: data.feita,
+            acertada: data.acertada,
+            erros: data.feita - data.acertada
+        }));
+
+        const materiasToImprove = materiaAccuracy.filter(m => m.accuracy < currentAccuracyThreshold).sort((a, b) => a.accuracy - b.accuracy);
+        const assuntosToImprove = assuntoAccuracy.filter(a => a.accuracy < currentAccuracyThreshold).sort((a, b) => a.accuracy - b.accuracy);
+
+        if (displaySettings.showOverallSummary) {
+            performanceSummary.innerHTML += `
+                    <div class="mb-6 p-4 bg-blue-50 rounded-lg shadow-inner">
+                        <h3 class="text-xl font-semibold text-blue-700 mb-2">Desempenho Geral ${filterMateria !== 'todos' ? `em ${filterMateria.toUpperCase()}` : ''} ${filterAssunto !== 'todos' ? ` - Assunto: ${filterAssunto.toUpperCase()}` : ''}</h3>
+                        <p class="text-lg text-blue-800">Total de Questões Feitas: <span class="font-bold">${totalFeita}</span></p>
+                        <p class="text-lg text-blue-800">Total de Acertos: <span class="font-bold">${totalAcertada}</span></p>
+                        <p class="text-lg text-blue-800">Total de Erros: <span class="font-bold">${totalErros}</span></p>
+                        <p class="text-2xl font-bold text-blue-900">Precisão Geral: ${overallAccuracy.toFixed(2)}%</p>
+                        <p class="text-lg text-blue-800">Número de Revisões: <span class="font-bold">${recordsForDisplay.length}</span></p>
+                    </div>
+                `;
+        }
+
+        if (displaySettings.showImprovementAreas && (materiasToImprove.length > 0 || assuntosToImprove.length > 0)) {
+            performanceSummary.innerHTML += `
+                    <div class="mb-6 p-4 bg-red-50 rounded-lg shadow-inner">
+                        <h3 class="text-xl font-semibold text-red-700 mb-2">Áreas para Melhorar (Precisão < ${currentAccuracyThreshold}%)</h3>
+                        ${materiasToImprove.length > 0 ? `
+                        <h4 class="font-medium text-red-600 mt-3">Matérias:</h4>
+                        <ul class="list-disc list-inside text-red-800">
+                            ${materiasToImprove.map(m => `<li>${m.name.toUpperCase()}: ${m.accuracy.toFixed(2)}% (${m.feita} questões, ${m.acertada} acertos, ${m.erros} erros)</li>`).join('')}
+                        </ul>
+                        ` : ''}
+                        ${assuntosToImprove.length > 0 ? `
+                        <h4 class="font-medium text-red-600 mt-3">Assuntos:</h4>
+                        <ul class="list-disc list-inside text-red-800">
+                            ${assuntosToImprove.map(a => `<li>${a.name.toUpperCase()}: ${a.accuracy.toFixed(2)}% (${a.feita} questões, ${a.acertada} acertos, ${a.erros} erros)</li>`).join('')}
+                        </ul>
+                        ` : ''}
+                    </div>
+                `;
+        } else if (displaySettings.showImprovementAreas) {
+            performanceSummary.innerHTML += `
+                    <div class="mb-6 p-4 bg-green-50 rounded-lg shadow-inner">
+                        <h3 class="text-xl font-semibold text-green-700 mb-2">Parabéns!</h3>
+                        <p class="text-green-800">Sua precisão está excelente em todas as matérias e assuntos, ou acima do limite de ${currentAccuracyThreshold}%!</p>
+                    </div>
+                `;
+        }
+
+
+        renderCharts(overallAccuracy, materiaAccuracy, assuntoAccuracy, recordsForDisplay, recordsForMainFilters, filterMateria, filterAssunto);
+    };
+
+    const renderCharts = (overallAccuracy, materiaAccuracy, assuntoAccuracy, recordsForDisplay, recordsForMainFilters, filterMateria, filterAssunto) => {
+        const overallCtx = document.getElementById('overallAccuracyChart');
+        if (!overallCtx) { if (overallChart) overallChart.destroy(); const container = document.getElementById('overallAccuracyChartContainer'); if (container) container.classList.add('hidden'); return; }
+        if (overallChart) overallChart.destroy();
+        const overallChartContainer = document.getElementById('overallAccuracyChartContainer');
+        if (overallChartContainer) overallChartContainer.classList.toggle('hidden', !displaySettings.showOverallAccuracyChart);
+        if (displaySettings.showOverallAccuracyChart) {
+            overallChart = new Chart(overallCtx.getContext('2d'), {
+                type: 'doughnut',
+                data: {
+                    labels: ['Acertos', 'Erros'],
+                    datasets: [{
+                        data: [overallAccuracy, 100 - overallAccuracy],
+                        backgroundColor: ['#36A2EB', '#FF6384'],
+                        hoverOffset: 4
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        title: {
+                            display: true,
+                            text: 'Precisão Geral',
+                            font: { size: 18 }
+                        },
+                        tooltip: {
+                            callbacks: {
+                                label: function(context) {
+                                    let label = context.label || '';
+                                    if (label) { label += ': '; }
+                                    if (context.parsed !== null) { label += context.parsed.toFixed(2) + '%'; }
+                                    return label;
+                                }
+                            }
+                        }
+                    }
+                }
+            });
+        }
+
+        const materiaCtx = document.getElementById('materiaAccuracyChart');
+        if (!materiaCtx) { if (materiaChart) materiaChart.destroy(); const container = document.getElementById('materiaAccuracyChartContainer'); if (container) container.classList.add('hidden'); return; }
+        if (materiaChart) materiaChart.destroy();
+        const materiaChartContainer = document.getElementById('materiaAccuracyChartContainer');
+        if (materiaChartContainer) materiaChartContainer.classList.toggle('hidden', !displaySettings.showMateriaAccuracyChart);
+        if (displaySettings.showMateriaAccuracyChart) {
+            materiaChart = new Chart(materiaCtx.getContext('2d'), {
+                type: 'bar',
+                data: {
+                    labels: materiaAccuracy.map(m => m.name.toUpperCase()),
+                    datasets: [{
+                        label: 'Precisão (%)',
+                        data: materiaAccuracy.map(m => m.accuracy),
+                        backgroundColor: 'rgba(75, 192, 192, 0.6)',
+                        borderColor: 'rgba(75, 192, 192, 1)',
+                        borderWidth: 1
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        title: {
+                            display: true,
+                            text: 'Precisão por Matéria',
+                            font: { size: 18 }
+                        }
+                    },
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                            max: 100,
+                            title: {
+                                display: true,
+                                text: 'Precisão (%)'
+                            }
+                        }
+                    }
+                }
+            });
+        }
+
+        const assuntoCtx = document.getElementById('assuntoAccuracyChart');
+        if (!assuntoCtx) { if (assuntoChart) assuntoChart.destroy(); const container = document.getElementById('assuntoAccuracyChartContainer'); if (container) container.classList.add('hidden'); return; }
+        if (assuntoChart) assuntoChart.destroy();
+        const assuntoChartContainer = document.getElementById('assuntoAccuracyChartContainer');
+        if (assuntoChartContainer) assuntoChartContainer.classList.toggle('hidden', !displaySettings.showAssuntoAccuracyChart);
+        if (displaySettings.showAssuntoAccuracyChart) {
+            assuntoChart = new Chart(assuntoCtx.getContext('2d'), {
+                type: 'bar',
+                data: {
+                    labels: assuntoAccuracy.map(a => a.name.toUpperCase()),
+                    datasets: [{
+                        label: 'Precisão (%)',
+                        data: assuntoAccuracy.map(a => a.accuracy),
+                        backgroundColor: 'rgba(153, 102, 255, 0.6)',
+                        borderColor: 'rgba(153, 102, 255, 1)',
+                        borderWidth: 1
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    plugins: {
+                        title: {
+                            display: true,
+                            text: 'Precisão por Assunto',
+                            font: { size: 18 }
+                        }
+                    },
+                    scales: {
+                        y: {
+                            beginAtZero: true,
+                            max: 100,
+                            title: {
+                                display: true,
+                                text: 'Precisão (%)'
+                            }
+                        }
+                    }
+                }
+            });
+        }
+
+        const trendCtx = document.getElementById('assuntoTrendChart');
+        if (!trendCtx) { if (comparisonTrendChart) comparisonTrendChart.destroy(); const container = document.getElementById('assuntoTrendChartContainer'); if (container) container.classList.add('hidden'); return; }
+        if (comparisonTrendChart) comparisonTrendChart.destroy();
+        const trendChartContainer = document.getElementById('assuntoTrendChartContainer');
+        if (trendChartContainer) trendChartContainer.classList.toggle('hidden', !displaySettings.showTrendChart);
+
+        if (displaySettings.showTrendChart) {
+            let trendLabels = [];
+            let trendDatasets = [];
+            let trendChartTitle = 'Evolução da Precisão';
+
+            const colors = ['#FF6384', '#36A2EB', '#FFCE56', '#4BC0C0', '#9966FF', '#FF9900', '#C9CBCF', '#A3E635', '#F87171', '#60A5FA'];
+
+            let recordsForTrendAggregation = recordsForMainFilters;
+
+            if (comparisonSettings.type === 'materia' && comparisonSettings.items.length > 0) {
+                trendChartTitle = 'Evolução da Precisão por Matéria (Comparativo)';
+                recordsForTrendAggregation = recordsForMainFilters.filter(record =>
+                    comparisonSettings.items.includes(record.materia.toLowerCase())
+                );
+            } else if (comparisonSettings.type === 'assunto' && comparisonSettings.items.length > 0) {
+                trendChartTitle = 'Evolução da Precisão por Assunto (Comparativo)';
+                recordsForTrendAggregation = recordsForMainFilters.filter(record =>
+                    comparisonSettings.items.includes(record.assunto.toLowerCase())
+                );
+            } else {
+                if (filterAssunto !== 'todos') {
+                    trendChartTitle = `Evolução da Precisão em ${filterAssunto.toUpperCase()}`;
+                } else if (filterMateria !== 'todos') {
+                    trendChartTitle = `Evolução da Precisão por Assunto em ${filterMateria.toUpperCase()}`;
+                } else {
+                    trendChartTitle = `Evolução da Precisão por Matéria`;
+                }
+            }
+
+            const aggregatedTrendData = {};
+
+            recordsForTrendAggregation.forEach(record => {
+                let category = '';
+                if (comparisonSettings.type === 'materia' || (comparisonSettings.type === 'none' && filterAssunto === 'todos' && filterMateria === 'todos')) {
+                    category = record.materia.toLowerCase();
+                } else if (comparisonSettings.type === 'assunto' || (comparisonSettings.type === 'none' && filterMateria !== 'todos' && filterAssunto === 'todos')) {
+                    category = record.assunto.toLowerCase();
+                } else {
+                    category = 'único';
+                }
+
+                if (!aggregatedTrendData[category]) {
+                    aggregatedTrendData[category] = {};
+                }
+                if (!aggregatedTrendData[category][record.data]) {
+                    aggregatedTrendData[category][record.data] = { feita: 0, acertada: 0 };
+                }
+                aggregatedTrendData[category][record.data].feita += record.quantidadeFeita;
+                aggregatedTrendData[category][record.data].acertada += record.quantidadeAcertada;
+            });
+
+            const allDates = new Set();
+            Object.values(aggregatedTrendData).forEach(categoryData => {
+                Object.keys(categoryData).forEach(date => allDates.add(date));
+            });
+            trendLabels = Array.from(allDates).sort();
+
+            let colorIndex = 0;
+            Object.keys(aggregatedTrendData).forEach(category => {
+                const categoryData = aggregatedTrendData[category];
+                const dataPoints = trendLabels.map(date => {
+                    const data = categoryData[date];
+                    return data ? (data.acertada / data.feita) * 100 : null;
+                });
+
+                trendDatasets.push({
+                    label: category.toUpperCase(),
+                    data: dataPoints,
+                    borderColor: colors[colorIndex % colors.length],
+                    backgroundColor: colors[colorIndex % colors.length] + '33',
+                    fill: false,
+                    tension: 0.1,
+                    spanGaps: true
+                });
+                colorIndex++;
+            });
+
+            if (trendDatasets.length > 0) {
+                comparisonTrendChart = new Chart(trendCtx.getContext('2d'), {
+                    type: 'line',
+                    data: {
+                        labels: trendLabels,
+                        datasets: trendDatasets
+                    },
+                    options: {
+                        responsive: true,
+                        maintainAspectRatio: false,
+                        plugins: {
+                            title: {
+                                display: true,
+                                text: trendChartTitle,
+                                font: { size: 18 }
+                            },
+                            annotation: {
+                                annotations: {
+                                    line1: {
+                                        type: 'line',
+                                        yMin: currentAccuracyThreshold,
+                                        yMax: currentAccuracyThreshold,
+                                        borderColor: 'rgb(255, 99, 132)',
+                                        borderWidth: 2,
+                                        borderDash: [5, 5],
+                                        label: {
+                                            display: true,
+                                            content: `Meta: ${currentAccuracyThreshold}%`,
+                                            position: 'end'
+                                        }
+                                    }
+                                }
+                            }
+                        },
+                        scales: {
+                            y: {
+                                beginAtZero: true,
+                                max: 100,
+                                title: {
+                                    display: true,
+                                    text: 'Precisão (%)'
+                                }
+                            },
+                            x: {
+                                title: {
+                                    display: true,
+                                    text: 'Data'
+                                }
+                            }
+                        }
+                    }
+                });
+            }
+        }
+    };
+
+    const populateRecordsTable = (records) => {
+        const tableBody = document.getElementById('records-table-body');
+        if (!tableBody) return;
+        tableBody.innerHTML = '';
+
+        records.forEach(record => {
+            const row = tableBody.insertRow();
+            row.insertCell().textContent = record.id;
+            row.insertCell().textContent = record.materia;
+            row.insertCell().textContent = record.assunto;
+            row.insertCell().textContent = record.data;
+
+            const actionsCell = row.insertCell();
+            actionsCell.className = 'text-center';
+
+            const viewButton = document.createElement('button');
+            viewButton.innerHTML = `<svg class="w-5 h-5 inline-block" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z"></path></svg>`;
+            viewButton.classList.add('bg-blue-500', 'hover:bg-blue-600', 'text-white', 'font-bold', 'py-1', 'px-2', 'rounded-md', 'mr-2', 'text-sm');
+            viewButton.onclick = () => openViewDetailsModal(record.id);
+
+            const deleteButton = document.createElement('button');
+            deleteButton.innerHTML = `<svg class="w-5 h-5 inline-block" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16"></path></svg>`;
+            deleteButton.classList.add('bg-red-500', 'hover:bg-red-600', 'text-white', 'font-bold', 'py-1', 'px-2', 'rounded-md', 'text-sm');
+            deleteButton.onclick = () => deleteQuestionRecord(record.id);
+
+            actionsCell.appendChild(viewButton);
+            actionsCell.appendChild(deleteButton);
+        });
+    };
+
+    const openViewDetailsModal = (recordId) => {
+        const record = currentRecords.find(r => r.id === recordId);
+        if (!record) {
+            showMessage('Registro não encontrado.', 'error');
+            return;
+        }
+
+        const modal = document.getElementById('view-details-modal');
+        const detailsBlockId = document.getElementById('details-block-id');
+        const detailsMateria = document.getElementById('details-materia');
+        const detailsAssunto = document.getElementById('details-assunto');
+        const detailsData = document.getElementById('details-data');
+        const detailsFeitas = document.getElementById('details-feitas');
+        const detailsAcertadas = document.getElementById('details-acertadas');
+        const questionsTableBody = document.getElementById('details-questions-table-body');
+
+        if (!modal || !detailsBlockId || !detailsMateria || !detailsAssunto || !detailsData || !detailsFeitas || !detailsAcertadas || !questionsTableBody) {
+            console.error("Elementos da modal de detalhes não encontrados.");
+            return;
+        }
+
+        detailsBlockId.textContent = record.id;
+        detailsMateria.textContent = record.materia;
+        detailsAssunto.textContent = record.assunto;
+        detailsData.textContent = record.data;
+        detailsFeitas.textContent = record.quantidadeFeita;
+        detailsAcertadas.textContent = record.quantidadeAcertada;
+        questionsTableBody.innerHTML = '';
+
+        const questionData = record.quizPerformanceData || {};
+
+        if (Object.keys(questionData).length > 0) {
+            for (const questionId in questionData) {
+                const row = questionsTableBody.insertRow();
+                row.insertCell().textContent = questionId;
+                row.insertCell().textContent = questionData[questionId].acertos;
+                row.insertCell().textContent = questionData[questionId].erros;
+
+                const actionsCell = row.insertCell();
+                const viewJsonButton = document.createElement('button');
+                viewJsonButton.innerHTML = `<svg class="w-5 h-5 inline-block" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z"></path></svg>`;
+                viewJsonButton.classList.add('bg-blue-500', 'hover:bg-blue-600', 'text-white', 'font-bold', 'py-1', 'px-2', 'rounded-md', 'text-sm');
+                viewJsonButton.onclick = () => showQuestionDetails(questionId);
+                actionsCell.appendChild(viewJsonButton);
+            }
+        } else {
+            questionsTableBody.innerHTML = '<tr><td colspan="4" class="py-3 px-6 text-center">Nenhuma questão detalhada encontrada para este registro.</td></tr>';
+        }
+
+        modal.classList.remove('hidden');
+    };
+
+    const closeViewDetailsModal = () => {
+        const modal = document.getElementById('view-details-modal');
+        if (modal) {
+            modal.classList.add('hidden');
+        }
+    };
+
+    const showQuestionDetails = async (questionId) => {
+        const modal = document.getElementById('question-details-modal');
+        const content = document.getElementById('question-details-content');
+        if (!modal || !content) return;
+
+        content.innerHTML = '<p>Carregando detalhes da questão...</p>';
+        modal.classList.remove('hidden');
+
+        try {
+            const allQuestions = await Promise.all(Object.values(quizMaterias).flat().map(async assunto => {
+                const materia = Object.keys(quizMaterias).find(m => quizMaterias[m].includes(assunto));
+                if (!materia) return [];
+                const response = await fetch(`./questao/${materia}/${assunto}.json`);
+                if (!response.ok) {
+                    return [];
+                }
+                const data = await response.json();
+                return data.map(q => ({ ...q, materia, assunto }));
+            })).then(results => results.flat());
+
+            const question = allQuestions.find(q => q.id == questionId);
+
+            if (question) {
+                let alternativesHtml = '';
+                question.alternativas.forEach(alt => {
+                    let liClass = '';
+                    if (alt.letra === question.resposta_correta) {
+                        liClass = 'correct-answer-text';
+                    }
+                    alternativesHtml += `<li class="${liClass}">${alt.letra}) ${alt.texto}</li>`;
+                });
+
+                // Verifica o desempenho histórico do usuário para esta questão
+                const performance = quizPerformance[question.id] || { acertos: 0, erros: 0 };
+                const totalTentativas = performance.acertos + performance.erros;
+                const acertosPerc = totalTentativas > 0 ? ((performance.acertos / totalTentativas) * 100).toFixed(2) : '0.00';
+
+                content.innerHTML = `
+                        <p><strong>ID da Questão:</strong> ${question.id}</p>
+                        <p><strong>Matéria:</strong> ${capitalizeFirstLetter(question.materia)}</p>
+                        <p><strong>Assunto:</strong> ${capitalizeFirstLetter(question.assunto.replace(/-/g, ' '))}</p>
+                        <hr class="my-4">
+                        <h4 class="font-bold">Desempenho Pessoal:</h4>
+                        <ul class="details-list">
+                            <li>Acertos: <span class="status correct">${performance.acertos}</span></li>
+                            <li>Erros: <span class="status incorrect">${performance.erros}</span></li>
+                            <li>Precisão Histórica: <span class="status">${acertosPerc}%</span></li>
+                        </ul>
+                        <hr class="my-4">
+                        <h4 class="font-bold mt-4">Enunciado:</h4>
+                        <p class="mb-4">${question.enunciado}</p>
+                        <h4 class="font-bold">Alternativas:</h4>
+                        <ul class="list-disc list-inside space-y-1">${alternativesHtml}</ul>
+                        <h4 class="font-bold mt-4">Gabarito:</h4>
+                        <p class="correct-answer-text">Alternativa correta: ${question.resposta_correta}</p>
+                    `;
+            } else {
+                content.innerHTML = '<p class="text-red-600">Questão não encontrada. O arquivo JSON pode estar faltando ou o ID está incorreto.</p>';
+            }
+
+        } catch (error) {
+            console.error("Erro ao carregar os detalhes da questão:", error);
+            content.innerHTML = '<p class="text-red-600">Erro ao carregar detalhes. Verifique a conexão com o servidor e se os arquivos JSON estão corretos.</p>';
+        }
+    };
+
+    // A função closeQuestionDetailsModal foi movida para o escopo global para ser acessível pelo onclick
+    window.closeQuestionDetailsModal = () => {
+        const modal = document.getElementById('question-details-modal');
+        if (modal) {
+            modal.classList.add('hidden');
+        }
+    };
+
+    // --- NOVA LÓGICA DE BUSCA MELHORADA ---
+    const searchRecords = async (query) => {
+        const normalizedQuery = query.trim().toLowerCase();
+        
+        // 1. Tenta encontrar a questão por ID em todos os arquivos JSON primeiro
+        let foundQuestion = null;
+        try {
+            const allQuestions = await Promise.all(Object.values(quizMaterias).flat().map(async assunto => {
+                const materia = Object.keys(quizMaterias).find(m => quizMaterias[m].includes(assunto));
+                if (!materia) return [];
+                const response = await fetch(`./questao/${materia}/${assunto}.json`);
+                if (!response.ok) {
+                    return [];
+                }
+                const data = await response.json();
+                return data.map(q => ({ ...q, materia, assunto }));
+            })).then(results => results.flat());
+            
+            foundQuestion = allQuestions.find(q => q.id.toString() === normalizedQuery);
+        } catch (error) {
+            console.error("Erro ao buscar questões nos arquivos JSON:", error);
+        }
+
+        if (foundQuestion) {
+            showQuestionDetails(foundQuestion.id);
+            showMessage(`Detalhes da Questão ${foundQuestion.id} encontrados e exibidos.`, 'success');
+            return;
+        }
+
+        // 2. Se não encontrar a questão, tenta encontrar o bloco por ID ou por questão relacionada no histórico
+        const recordsFound = currentRecords.filter(record =>
+            record.id.toLowerCase().includes(normalizedQuery) ||
+            (record.quizPerformanceData && Object.keys(record.quizPerformanceData).some(questionId => questionId.toLowerCase().includes(normalizedQuery)))
+        );
+
+        if (recordsFound.length > 0) {
+            populateRecordsTable(recordsFound);
+            showMessage(`Nenhuma questão encontrada, mas foram encontrados ${recordsFound.length} registro(s) no histórico do usuário para a busca.`, 'warning');
+        } else {
+            populateRecordsTable([]);
+            showMessage('Nenhum registro de bloco ou questão encontrado com o termo de busca.', 'error');
+        }
+    };
+
+    const populateMateriaFilter = (records) => {
+        const materiaFilter = document.getElementById('materia-filter');
+        if (!materiaFilter) return;
+        const uniqueMaterias = new Set(records.map(record => record.materia));
+        const sortedMaterias = Array.from(uniqueMaterias).sort((a, b) => a.localeCompare(b));
+
+        materiaFilter.innerHTML = '<option value="todos">Todas as Matérias</option>';
+
+        sortedMaterias.forEach(materia => {
+            const option = document.createElement('option');
+            option.value = materia;
+            option.textContent = materia;
+            materiaFilter.appendChild(option);
+        });
+
+        materiaFilter.value = currentFilterMateria;
+    };
+
+    const populateAssuntoFilter = (records) => {
+        const assuntoFilter = document.getElementById('assunto-filter');
+        if (!assuntoFilter) return;
+        let recordsForAssuntoFilter = records;
+        if (currentFilterMateria !== 'todos') {
+            recordsForAssuntoFilter = records.filter(record => record.materia.toLowerCase() === currentFilterMateria.toLowerCase());
+        }
+
+        const uniqueAssuntos = new Set(recordsForAssuntoFilter.map(record => record.assunto));
+        const sortedAssuntos = Array.from(uniqueAssuntos).sort((a, b) => a.localeCompare(b));
+
+        assuntoFilter.innerHTML = '<option value="todos">Todos os Assuntos</option>';
+
+        sortedAssuntos.forEach(assunto => {
+            const option = document.createElement('option');
+            option.value = assunto;
+            option.textContent = assunto;
+            assuntoFilter.appendChild(option);
+        });
+
+        assuntoFilter.value = currentFilterAssunto;
+    };
+
+    const populateDatalists = (records) => {
+        const materiaDatalist = document.getElementById('materias-datalist');
+        const assuntoDatalist = document.getElementById('assuntos-datalist');
+
+        if (!materiaDatalist || !assuntoDatalist) return;
+
+        materiaDatalist.innerHTML = '';
+        assuntoDatalist.innerHTML = '';
+
+        const uniqueMaterias = new Set(records.map(record => record.materia));
+        const uniqueAssuntos = new Set(records.map(record => record.assunto));
+
+        uniqueMaterias.forEach(materia => {
+            const option = document.createElement('option');
+            option.value = materia;
+            option.textContent = materia;
+            materiaDatalist.appendChild(option);
+        });
+
+        uniqueAssuntos.forEach(assunto => {
+            const option = document.createElement('option');
+            option.value = assunto;
+            option.textContent = assunto;
+            assuntoDatalist.appendChild(option);
+        });
+    };
+
+    const populateComparisonSelectionButtons = () => {
+        const comparisonButtonsContainer = document.getElementById('comparison-buttons-container');
+        if (!comparisonButtonsContainer) return;
+
+        comparisonButtonsContainer.innerHTML = '';
+
+        let itemsToPopulate = [];
+        if (comparisonSettings.type === 'materia') {
+            itemsToPopulate = Array.from(new Set(currentRecords.map(record => record.materia)));
+        } else if (comparisonSettings.type === 'assunto') {
+            itemsToPopulate = Array.from(new Set(currentRecords.map(record => record.assunto)));
+        }
+
+        itemsToPopulate.sort((a, b) => a.localeCompare(b)).forEach(item => {
+            const button = document.createElement('button');
+            button.type = 'button';
+            button.value = item.toLowerCase();
+            button.textContent = item.toUpperCase();
+            button.classList.add('px-4', 'py-2', 'rounded-full', 'border', 'text-sm', 'font-medium', 'transition-colors', 'duration-200');
+
+            if (comparisonSettings.items.includes(item.toLowerCase())) {
+                button.classList.add('bg-blue-600', 'text-white', 'border-blue-600', 'hover:bg-blue-700');
+            } else {
+                button.classList.add('bg-gray-200', 'text-gray-800', 'border-gray-300', 'hover:bg-gray-300');
+            }
+
+            button.addEventListener('click', () => {
+                const value = button.value;
+                const index = comparisonSettings.items.indexOf(value);
+                if (index > -1) {
+                    comparisonSettings.items.splice(index, 1);
+                } else {
+                    comparisonSettings.items.push(value);
+                }
+                saveComparisonSettings();
+                populateComparisonSelectionButtons();
+                updatePerformanceDisplay(currentRecords, currentFilterMateria, currentFilterAssunto, currentStartDate, currentEndDate);
+            });
+            comparisonButtonsContainer.appendChild(button);
+        });
+    };
+
+    const updateComparisonOptionsVisibility = () => {
+        const comparisonButtonsContainer = document.getElementById('comparison-buttons-container');
+        if (comparisonButtonsContainer) {
+            if (comparisonSettings.type === 'none') {
+                comparisonButtonsContainer.classList.add('hidden');
+            } else {
+                comparisonButtonsContainer.classList.remove('hidden');
+                populateComparisonSelectionButtons();
+            }
+        }
+    };
+
+    const exportToJson = () => {
+        const allData = {
+            questionRecords: currentRecords,
+            scheduledRevisions: currentRevisions,
+            quizPerformance: quizPerformance,
+            revisionSettings: revisionIntervals,
+            displaySettings: displaySettings,
+            comparisonSettings: comparisonSettings,
+        };
+
+        const jsonContent = JSON.stringify(allData, null, 2);
+        const blob = new Blob([jsonContent], { type: 'application/json;charset=utf-8;' });
+        const link = document.createElement('a');
+        const filename = `backup_dados_questoes_${new Date().toISOString().slice(0, 10)}.json`;
+
+        if (link.download !== undefined) {
+            const url = URL.createObjectURL(blob);
+            link.setAttribute('href', url);
+            link.setAttribute('download', filename);
+            link.style.visibility = 'hidden';
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+            showMessage('Dados exportados para JSON com sucesso!', 'success');
+        } else {
+            showMessage('Seu navegador não suporta a exportação direta para JSON.', 'error');
+        }
+    };
+
+    const importFromJson = (event) => {
+        const file = event.target.files[0];
+        if (!file) { return; }
+
+        const reader = new FileReader();
+        reader.onload = (e) => {
+            try {
+                const importedData = JSON.parse(e.target.result);
+
+                if (importedData.questionRecords) {
+                    currentRecords = importedData.questionRecords;
+                    saveRecordsToLocalStorage();
+                }
+                if (importedData.scheduledRevisions) {
+                    currentRevisions = importedData.scheduledRevisions;
+                    saveRevisionsToLocalStorage();
+                }
+                if (importedData.quizPerformance) {
+                    quizPerformance = importedData.quizPerformance;
+                    saveQuizPerformance();
+                }
+                if (importedData.revisionSettings) {
+                    revisionIntervals = importedData.revisionSettings;
+                    saveRevisionIntervals();
+                }
+                if (importedData.displaySettings) {
+                    displaySettings = importedData.displaySettings;
+                    saveDisplaySettings();
+                }
+                if (importedData.comparisonSettings) {
+                    comparisonSettings = importedData.comparisonSettings;
+                    saveComparisonSettings();
+                }
+
+                showMessage('Dados importados com sucesso! Recarregando a página...', 'success');
+                setTimeout(() => location.reload(), 1500);
+
+            } catch (error) {
+                console.error('Erro ao processar o arquivo JSON:', error);
+                showMessage('Erro ao importar o arquivo. Certifique-se de que é um arquivo JSON válido.', 'error');
+            }
+        };
+        reader.readAsText(file);
+    };
+
+    const populateRevisionIntervals = () => {
+        const intervalsContainer = document.getElementById('revision-intervals-container');
+        if (!intervalsContainer) return;
+        intervalsContainer.innerHTML = '';
+
+        revisionIntervals.forEach((interval, index) => {
+            const defaultInterval = defaultRevisionIntervals[index];
+            let isModified = (interval.minDays !== defaultInterval.minDays || interval.maxDays !== defaultInterval.maxDays);
+            let isDefaultClass = isModified ? '' : 'invisible';
+
+            const intervalHtml = `
+                    <div class="flex items-center space-x-2 my-2">
+                        <span class="w-1/4 text-right text-sm text-gray-600">${interval.minAccuracy}% - ${interval.maxAccuracy}%:</span>
+                        <input type="number" id="min-days-${index}" value="${interval.minDays}" class="form-input w-1/4 px-2 py-1 border rounded-md text-sm">
+                        <span class="text-sm text-gray-600">-</span>
+                        <input type="number" id="max-days-${index}" value="${interval.maxDays}" class="form-input w-1/4 px-2 py-1 border rounded-md text-sm">
+                        <span class="text-sm text-gray-600">dias</span>
+                        <button onclick="resetRevisionInterval(${index})" class="bg-gray-200 hover:bg-gray-300 text-gray-800 font-bold py-1 px-2 rounded-md text-sm ${isDefaultClass}">Reset</button>
+                    </div>
+                `;
+            intervalsContainer.innerHTML += intervalHtml;
+        });
+
+        const inputs = intervalsContainer.querySelectorAll('input');
+        inputs.forEach(input => {
+            input.addEventListener('input', () => {
+                const index = input.id.split('-').pop();
+                const minInput = document.getElementById(`min-days-${index}`);
+                const maxInput = document.getElementById(`max-days-${index}`);
+                const resetButton = input.closest('div').querySelector('button');
+
+                const isModified = (parseInt(minInput.value) !== defaultRevisionIntervals[index].minDays ||
+                    parseInt(maxInput.value) !== defaultRevisionIntervals[index].maxDays);
+
+                if (resetButton) {
+                    if (isModified) {
+                        resetButton.classList.remove('invisible');
+                    } else {
+                        resetButton.classList.add('invisible');
+                    }
+                }
+
+                updateRevisionIntervals();
+            });
+        });
+    };
+
+    window.resetRevisionInterval = (index) => {
+        revisionIntervals[index] = { ...defaultRevisionIntervals[index] };
+        saveRevisionIntervals();
+        populateRevisionIntervals();
+        const uniqueSubjects = new Set(currentRecords.map(r => `${r.materia}|${r.assunto}`));
+        uniqueSubjects.forEach(subject => {
+            const [materia, assunto] = subject.split('|');
+            updateRevisionSchedule(materia, assunto);
+        });
+        showMessage('Intervalo de revisão restaurado para o padrão!', 'success');
+    };
+
+    window.resetAllRevisionIntervals = () => {
+        revisionIntervals = [...defaultRevisionIntervals];
+        saveRevisionIntervals();
+        populateRevisionIntervals();
+        const uniqueSubjects = new Set(currentRecords.map(r => `${r.materia}|${r.assunto}`));
+        uniqueSubjects.forEach(subject => {
+            const [materia, assunto] = subject.split('|');
+            updateRevisionSchedule(materia, assunto);
+        });
+        showMessage('Todos os intervalos de revisão restaurados para o padrão!', 'success');
+    };
+
+    const updateRevisionIntervals = () => {
+        const newIntervals = [];
+        const inputs = document.querySelectorAll('#revision-intervals-container input');
+
+        for (let i = 0; i < inputs.length; i += 2) {
+            const minDays = parseInt(inputs[i].value);
+            const maxDays = parseInt(inputs[i + 1].value);
+
+            if (isNaN(minDays) || isNaN(maxDays) || minDays < 0 || maxDays < 0 || minDays > maxDays) {
+                console.warn('Valores de intervalo de revisão inválidos detectados. A alteração não será salva.');
+                return;
+            }
+            newIntervals.push({
+                minAccuracy: revisionIntervals[i / 2].minAccuracy,
+                maxAccuracy: revisionIntervals[i / 2].maxAccuracy,
+                minDays: minDays,
+                maxDays: maxDays
+            });
+        }
+        revisionIntervals = newIntervals;
+        saveRevisionIntervals();
+        const uniqueSubjects = new Set(currentRecords.map(r => `${r.materia}|${r.assunto}`));
+        uniqueSubjects.forEach(subject => {
+            const [materia, assunto] = subject.split('|');
+            updateRevisionSchedule(materia, assunto);
+        });
+        showMessage('Intervalos de revisão atualizados com sucesso!', 'success');
+    };
+
+    const initializeDisplaySettingsCheckboxes = () => {
+        document.querySelectorAll('#display-options-container input[type="checkbox"]').forEach(checkbox => {
+            if (checkbox) {
+                checkbox.checked = displaySettings[checkbox.id];
+                const parentLabel = checkbox.closest('label');
+                if (parentLabel) {
+                    parentLabel.classList.toggle('bg-blue-100', checkbox.checked);
+                    parentLabel.classList.toggle('border-blue-400', checkbox.checked);
+                    parentLabel.classList.toggle('bg-gray-50', !checkbox.checked);
+                    parentLabel.classList.toggle('border-gray-300', !checkbox.checked);
+                }
+            }
+        });
+    };
+
+    const initializeComparisonSettings = () => {
+        const compareTypeRadios = document.querySelectorAll('input[name="compare-type"]');
+        compareTypeRadios.forEach(radio => {
+            if (radio.value === comparisonSettings.type) {
+                radio.checked = true;
+            }
+        });
+        updateComparisonOptionsVisibility();
+        populateComparisonSelectionButtons();
+    };
+
+    const editModal = document.getElementById('edit-modal');
+    const editForm = document.getElementById('edit-form');
+    const editRecordId = document.getElementById('edit-record-id');
+    const editMateria = document.getElementById('edit-materia');
+    const editAssunto = document.getElementById('edit-assunto');
+    const editData = document.getElementById('edit-data');
+    const editQuantidadeFeita = document.getElementById('edit-quantidadeFeita');
+    const editQuantidadeAcertada = document.getElementById('edit-quantidadeAcertada');
+    const closeEditModalBtn = document.getElementById('close-edit-modal');
+
+    const openEditModal = (record) => {
+        if (!editModal || !editForm || !editRecordId || !editMateria || !editAssunto || !editData || !editQuantidadeFeita || !editQuantidadeAcertada) return;
+        editRecordId.value = record.id;
+        editMateria.value = record.materia;
+        editAssunto.value = record.assunto;
+        editData.value = record.data;
+        editQuantidadeFeita.value = record.quantidadeFeita;
+        editQuantidadeAcertada.value = record.quantidadeAcertada;
+        editModal.classList.remove('hidden');
+    };
+
+    const closeEditModal = () => {
+        if (editModal) editModal.classList.add('hidden');
+    };
+
+    if (editForm) {
+        editForm.addEventListener('submit', async(e) => {
+            e.preventDefault();
+            const id = editRecordId.value;
+            const updatedData = {
+                materia: editMateria.value.trim(),
+                assunto: editAssunto.value.trim(),
+                data: editData.value,
+                quantidadeFeita: parseInt(editQuantidadeFeita.value),
+                quantidadeAcertada: parseInt(editQuantidadeAcertada.value)
+            };
+
+            if (updatedData.quantidadeAcertada > updatedData.quantidadeFeita) {
+                showMessage('Quantidade acertada não pode ser maior que a quantidade feita.', 'warning');
+                return;
+            }
+
+            updateQuestionRecord(id, updatedData);
+        });
+    }
+    if (closeEditModalBtn) {
+        closeEditModalBtn.addEventListener('click', closeEditModal);
+    }
+
+    const confirmationModal = document.getElementById('confirmation-modal');
+    const confirmationMessage = document.getElementById('confirmation-message');
+    const confirmYesBtn = document.getElementById('confirm-yes');
+    const confirmNoBtn = document.getElementById('confirm-no');
+    let confirmAction = null;
+
+    const showConfirmationModal = (message, onConfirm) => {
+        if (!confirmationModal || !confirmationMessage) return;
+        confirmationMessage.textContent = message;
+        confirmAction = onConfirm;
+        confirmationModal.classList.remove('hidden');
+    };
+
+    const closeConfirmationModal = () => {
+        if (confirmationModal) confirmationModal.classList.add('hidden');
+        confirmAction = null;
+    };
+
+    if (confirmYesBtn) {
+        confirmYesBtn.addEventListener('click', () => {
+            if (confirmAction) {
+                confirmAction();
+            }
+            closeConfirmationModal();
+        });
+    }
+    if (confirmNoBtn) {
+        confirmNoBtn.addEventListener('click', closeConfirmationModal);
+    }
+
+    window.openSettingsModal = () => {
+        const settingsModal = document.getElementById('settings-modal');
+        if (settingsModal) {
+            settingsModal.classList.remove('hidden');
+            populateMateriaFilter(currentRecords);
+            populateAssuntoFilter(currentRecords);
+            populateComparisonSelectionButtons();
+        }
+    };
+
+    window.closeSettingsModal = () => {
+        const settingsModal = document.getElementById('settings-modal');
+        if (settingsModal) {
+            settingsModal.classList.add('hidden');
+            updatePerformanceDisplay(currentRecords, currentFilterMateria, currentFilterAssunto, currentStartDate, currentEndDate);
+        }
+    };
+
+    window.openRevisionSettingsModal = () => {
+        const revisionSettingsModal = document.getElementById('revision-settings-modal');
+        if (revisionSettingsModal) {
+            revisionSettingsModal.classList.remove('hidden');
+            populateRevisionIntervals();
+        }
+    };
+
+    window.closeRevisionSettingsModal = () => {
+        const revisionSettingsModal = document.getElementById('revision-settings-modal');
+        if (revisionSettingsModal) {
+            revisionSettingsModal.classList.add('hidden');
+        }
+    };
+
+    window.copyToClipboard = (elementId) => {
+        const copyText = document.getElementById(elementId);
+        if (!copyText) {
+            showMessage('Elemento para copiar não encontrado.', 'error');
+            return;
+        }
+        const textToCopy = copyText.value || copyText.textContent;
+
+        const tempInput = document.createElement('textarea');
+        tempInput.value = textToCopy;
+        document.body.appendChild(tempInput);
+        tempInput.select();
+        try {
+            document.execCommand('copy');
+            showMessage('Endereço copiado para a área de transferência!', 'success');
+        } catch (err) {
+            showMessage('Erro ao copiar. Por favor, copie manualmente.', 'warning');
+            console.error('Falha ao copiar texto:', err);
+        } finally {
+            document.body.removeChild(tempInput);
+        }
+    };
+
+    window.openDonationModal = () => {
+        const modal = document.getElementById('donation-modal');
+        if (modal) {
+            modal.classList.remove('hidden');
+        }
+    };
+
+    window.closeDonationModal = () => {
+        const modal = document.getElementById('donation-modal');
+        if (modal) {
+            modal.classList.add('hidden');
+        }
+    };
+
+    window.openContactModal = () => {
+        const modal = document.getElementById('contact-modal');
+        if (modal) {
+            modal.classList.remove('hidden');
+        }
+    };
+
+    window.closeContactModal = () => {
+        const modal = document.getElementById('contact-modal');
+        if (modal) {
+            modal.classList.add('hidden');
+        }
+    };
+
+    window.openAboutModal = () => {
+        const modal = document.getElementById('about-modal');
+        if (modal) {
+            modal.classList.remove('hidden');
+        }
+    };
+
+    window.closeAboutModal = () => {
+        const modal = document.getElementById('about-modal');
+        if (modal) {
+            modal.classList.add('hidden');
+        }
+    };
+
+    // =========================================================================
+    // --- LÓGICA DO CODE 2 (Praticar Questões) ---
+    // =========================================================================
+
+    let statusFiltroValorGlobal = 'todos';
+    let questoesSelecionadasGlobais = [];
+    let indiceQuestaoAtual = 0;
+    let placar = { corretas: 0, erradas: 0 };
+    let quizPerformance = JSON.parse(localStorage.getItem('quizPerformance')) || {};
+    let alternativaSelecionada = null;
+
+    const quizMaterias = {
+        "Cardiologia": [
+            "Arritmias Cardíacas",
+            "Aterosclerose e Doença Arterial Coronariana",
+            "Cardiomiopatias",
+            "Doenças do Pericárdio",
+            "Fisiologia Cardíaca e Eletrocardiograma",
+            "Hipertensão Arterial Sistêmica HAS",
+            "Síndromes aórticas agudas",
+            "Valvopatias"
+        ]
+    };
+
+    const quizConfiguracaoTela = document.getElementById('configuracao-tela');
+    const quizRevisaoTela = document.getElementById('revisao-tela');
+    const quizFormulario = document.getElementById('formulario-questoes');
+    const quizMateriaSelect = document.getElementById('quiz-materia');
+    const quizAssuntoSelect = document.getElementById('quiz-assunto');
+    const quizNumQuestoesInput = document.getElementById('num-questoes');
+    const quizStatusFiltro = document.getElementById('status-filtro');
+    const quizTagsContainer = document.getElementById('tags-container');
+    const quizQuestaoContainer = document.getElementById('questao-container');
+    const quizResponderBtn = document.getElementById('responder-btn');
+    const quizProximaPerguntaBtn = document.getElementById('proxima-pergunta-btn');
+    const quizVoltarBtn = document.getElementById('voltar-btn');
+    const quizPularBtn = document.getElementById('pular-btn');
+    const quizVoltarInicioBtn = document.getElementById('voltar-inicio-btn');
+    const quizQuestaoAtualNumSpan = document.getElementById('questao-atual-num');
+    const quizQuestaoTotalNumSpan = document.getElementById('questao-total-num');
+    const quizCorretasContagemSpan = document.getElementById('corretas-contagem');
+    const quizErradasContagemSpan = document.getElementById('erradas-contagem');
+    const quizProgressBar = document.getElementById('progress-bar');
+    const quizTotalQuestoesAssunto = document.getElementById('total-questoes-assunto');
+    const quizProgressoFeitoSpan = document.getElementById('progresso-feito');
+    const quizProgressoFaltamSpan = document.getElementById('progresso-faltam');
+    const quizQuestoesNavegacaoGrid = document.getElementById('questoes-navegacao-grid');
+
+    function popularSeletoresQuiz() {
+        for (const materia in quizMaterias) {
+            const option = document.createElement('option');
+            option.value = materia;
+            option.textContent = capitalizeFirstLetter(materia);
+            quizMateriaSelect.appendChild(option);
+        }
+
+        quizMateriaSelect.addEventListener('change', async() => {
+            const materiaSelecionada = quizMateriaSelect.value;
+            quizAssuntoSelect.innerHTML = '<option value="todos">Todos</option>';
+            if (quizMaterias[materiaSelecionada] && materiaSelecionada !== 'todos') {
+                quizMaterias[materiaSelecionada].forEach(assunto => {
+                    const option = document.createElement('option');
+                    option.value = assunto;
+                    option.textContent = capitalizeFirstLetter(assunto.replace(/-/g, ' '));
+                    quizAssuntoSelect.appendChild(option);
+                });
+            }
+            await atualizarProgressoEContagemQuiz();
+        });
+
+        quizAssuntoSelect.addEventListener('change', atualizarProgressoEContagemQuiz);
+        quizStatusFiltro.addEventListener('change', atualizarProgressoEContagemQuiz);
+
+        quizMateriaSelect.dispatchEvent(new Event('change'));
+    }
+
+    async function carregarQuestoesQuiz(materia, assunto) {
+        let todasQuestoes = [];
+        const arquivosParaCarregar = [];
+
+        if (materia === 'todos') {
+            for (const mat in quizMaterias) {
+                for (const ass of quizMaterias[mat]) {
+                    arquivosParaCarregar.push({ materia: mat, assunto: ass });
+                }
+            }
+        } else if (assunto === 'todos') {
+            for (const ass of quizMaterias[materia]) {
+                arquivosParaCarregar.push({ materia: materia, assunto: ass });
+            }
+        } else {
+            arquivosParaCarregar.push({ materia: materia, assunto: assunto });
+        }
+
+        const promessas = arquivosParaCarregar.map(async({ materia, assunto }) => {
+            try {
+                const response = await fetch(`./questao/${materia}/${assunto}.json`);
+                if (!response.ok) {
+                    console.error(`Erro ao carregar o arquivo JSON: ${response.statusText} para ${materia}/${assunto}.json`);
+                    return [];
+                }
+                const data = await response.json();
+                return data.map(q => ({ ...q, materia: capitalizeFirstLetter(materia), assunto: capitalizeFirstLetter(assunto.replace(/-/g, ' ')) }));
+            } catch (error) {
+                console.error("Erro ao carregar questões:", error);
+                return [];
+            }
+        });
+
+        const resultados = await Promise.all(promessas);
+        todasQuestoes = resultados.flat();
+
+        return todasQuestoes;
+    }
+
+    async function atualizarProgressoEContagemQuiz() {
+        quizTotalQuestoesAssunto.textContent = "Total: ...";
+        quizProgressoFeitoSpan.textContent = "Feitas: ...";
+        quizProgressoFaltamSpan.textContent = "Faltam: ...";
+
+        const materiaSelecionada = quizMateriaSelect.value;
+        const assuntoSelecionado = quizAssuntoSelect.value;
+        const todasQuestoes = await carregarQuestoesQuiz(materiaSelecionada, assuntoSelecionado);
+
+        const tagsUnicas = new Set();
+        todasQuestoes.forEach(q => {
+            if (q.tags) q.tags.forEach(tag => tagsUnicas.add(tag));
+        });
+
+        quizTagsContainer.innerHTML = '';
+        if (tagsUnicas.size > 0) {
+            tagsUnicas.forEach(tag => {
+                const div = document.createElement('div');
+                div.innerHTML = `<input type="checkbox" id="tag-${tag}" value="${tag}"><label for="tag-${tag}">${tag}</label>`;
+                quizTagsContainer.appendChild(div);
+            });
+        } else {
+            quizTagsContainer.innerHTML = '<small>Nenhuma tag encontrada para este assunto.</small>';
+        }
+        quizTagsContainer.querySelectorAll('input[type="checkbox"]').forEach(checkbox => {
+            checkbox.addEventListener('change', atualizarProgressoEContagemQuiz);
+        });
+
+        const questoesDoAssunto = todasQuestoes.filter(q => {
+            const tagsSelecionadas = Array.from(quizTagsContainer.querySelectorAll('input:checked')).map(cb => cb.value);
+            if (tagsSelecionadas.length > 0) {
+                return tagsSelecionadas.every(tag => q.tags && q.tags.includes(tag));
+            }
+            return true;
+        });
+
+        const statusFiltroValor = quizStatusFiltro.value;
+        const questoesParaRevisao = questoesDoAssunto.filter(q => {
+            const performance = quizPerformance[q.id] || { acertos: 0, erros: 0 };
+            const totalTentativas = performance.acertos + performance.erros;
+            const acertouUltimaVez = performance.ultimaResposta === q.resposta_correta;
+
+            if (!q.alternativas || q.alternativas.length === 0 || !q.resposta_correta) {
+                return false;
+            }
+
+            if (statusFiltroValor === 'nao-respondidas') {
+                return totalTentativas === 0;
+            } else if (statusFiltroValor === 'acertadas') {
+                return performance.acertos > 0;
+            } else if (statusFiltroValor === 'erradas') {
+                return performance.erros > 0;
+            }
+            return true;
+        });
+
+        const questoesJaFeitas = questoesDoAssunto.filter(q => quizPerformance[q.id] && (quizPerformance[q.id].acertos > 0 || quizPerformance[q.id].erros > 0));
+        const questoesNaoFeitas = questoesDoAssunto.filter(q => !quizPerformance[q.id] || (quizPerformance[q.id].acertos === 0 && quizPerformance[q.id].erros === 0));
+
+        const totalFeitas = questoesJaFeitas.length;
+        const totalFaltam = questoesNaoFeitas.length;
+
+        quizTotalQuestoesAssunto.textContent = `Total: ${questoesParaRevisao.length}`;
+        quizProgressoFeitoSpan.textContent = `Feitas: ${totalFeitas}`;
+        quizProgressoFaltamSpan.textContent = `Faltam: ${totalFaltam}`;
+
+        quizNumQuestoesInput.max = questoesParaRevisao.length;
+    }
+
+    function renderizarGridNavegacaoQuiz() {
+        quizQuestoesNavegacaoGrid.innerHTML = '';
+        const isRevisiting = statusFiltroValorGlobal !== 'nao-respondidas' && statusFiltroValorGlobal !== 'todos';
+
+        questoesSelecionadasGlobais.forEach((q, index) => {
+            const item = document.createElement('div');
+            item.classList.add('questoes-navegacao-item');
+            item.textContent = index + 1;
+            item.dataset.index = index;
+
+            const performance = quizPerformance[q.id];
+            if (performance) {
+                const totalTentativas = performance.acertos + performance.erros;
+                const acertosPerc = totalTentativas > 0 ? (performance.acertos / totalTentativas) * 100 : 0;
+                if (acertosPerc > 50) {
+                    item.classList.add('correta-grid');
+                } else if (acertosPerc <= 50 && acertosPerc > 0) {
+                    item.classList.add('errada-grid');
+                }
+            }
+
+            if (index === indiceQuestaoAtual) {
+                item.classList.add('atual-grid');
+            }
+
+            quizQuestoesNavegacaoGrid.appendChild(item);
+        });
+    }
+
+    function renderizarQuestaoAtualQuiz() {
+        alternativaSelecionada = null;
+        quizResponderBtn.style.display = 'block';
+        quizResponderBtn.disabled = true;
+        quizProximaPerguntaBtn.style.display = 'none';
+
+        quizVoltarBtn.disabled = indiceQuestaoAtual === 0;
+        quizPularBtn.disabled = indiceQuestaoAtual >= questoesSelecionadasGlobais.length - 1;
+
+        const questao = questoesSelecionadasGlobais[indiceQuestaoAtual];
+        if (!questao) {
+            finalizarRevisaoQuiz();
+            return;
+        }
+
+        const enunciadoFormatado = questao.enunciado.replace(/\n/g, '<br>');
+        const performance = quizPerformance[questao.id];
+
+        let ulContent = ``;
+        let showPreviousAnswer = false;
+
+        if (performance && (performance.acertos > 0 || performance.erros > 0) && statusFiltroValorGlobal !== 'nao-respondidas') {
+            showPreviousAnswer = true;
+        }
+
+        if (showPreviousAnswer) {
+            ulContent = questao.alternativas.map(alt => {
+                let classe = '';
+                if (alt.letra === questao.resposta_correta) {
+                    classe = 'certa';
+                }
+                if (alt.letra === performance.ultimaResposta && alt.letra !== questao.resposta_correta) {
+                    classe = 'errada';
+                }
+                return `<li class="${classe}">${alt.letra}) ${alt.texto}</li>`;
+            }).join('');
+        } else {
+            ulContent = questao.alternativas.map(alt => `<li data-letra="${alt.letra}">${alt.letra}) ${alt.texto}</li>`).join('');
+        }
+
+        quizQuestaoContainer.innerHTML = `
+                <div class="questao-card">
+                    <p>${enunciadoFormatado}</p>
+                    <ul>${ulContent}</ul>
+                    <div class="feedback" style="display:none;"></div>
+                </div>
+            `;
+
+        if (showPreviousAnswer) {
+            const feedbackDiv = quizQuestaoContainer.querySelector('.feedback');
+            if (performance.acertos > 0 && performance.ultimaResposta === questao.resposta_correta) {
+                feedbackDiv.textContent = `Você acertou esta questão ${performance.acertos} vez(es) e errou ${performance.erros} vez(es)!`;
+                feedbackDiv.classList.add('correta');
+            } else {
+                feedbackDiv.textContent = `Você errou esta questão. A correta era: ${questao.resposta_correta}. Acertos: ${performance.acertos} | Erros: ${performance.erros}`;
+                feedbackDiv.classList.add('errada');
+            }
+            feedbackDiv.style.display = 'block';
+            quizProximaPerguntaBtn.style.display = 'block';
+            quizProximaPerguntaBtn.disabled = false;
+            quizResponderBtn.style.display = 'none';
+        } else {
+            quizQuestaoContainer.querySelectorAll('li').forEach(li => {
+                li.addEventListener('click', () => {
+                    quizQuestaoContainer.querySelectorAll('li').forEach(item => item.classList.remove('selecionada'));
+                    li.classList.add('selecionada');
+                    alternativaSelecionada = li.dataset.letra;
+                    quizResponderBtn.disabled = false;
+                });
+            });
+        }
+
+        quizQuestaoAtualNumSpan.textContent = indiceQuestaoAtual + 1;
+        quizQuestaoTotalNumSpan.textContent = questoesSelecionadasGlobais.length;
+        const progresso = ((indiceQuestaoAtual) / questoesSelecionadasGlobais.length) * 100;
+        quizProgressBar.style.width = `${progresso}%`;
+
+        document.querySelectorAll('.questoes-navegacao-item').forEach(item => {
+            item.classList.remove('atual-grid');
+            if (parseInt(item.dataset.index) === indiceQuestaoAtual) {
+                item.classList.add('atual-grid');
+            }
+        });
+    }
+
+    function verificarRespostaQuiz() {
+        const questao = questoesSelecionadasGlobais[indiceQuestaoAtual];
+        if (!questao || alternativaSelecionada === null) return;
+
+        const feedbackDiv = quizQuestaoContainer.querySelector('.feedback');
+        const opcoes = quizQuestaoContainer.querySelectorAll('li');
+        const questaoItemGrid = quizQuestoesNavegacaoGrid.querySelector(`[data-index="${indiceQuestaoAtual}"]`);
+
+        opcoes.forEach(opcao => opcao.style.pointerEvents = 'none');
+        quizResponderBtn.disabled = true;
+
+        const alternativaSelecionadaLi = quizQuestaoContainer.querySelector(`[data-letra="${alternativaSelecionada}"]`);
+        const alternativaCorretaLi = quizQuestaoContainer.querySelector(`[data-letra="${questao.resposta_correta}"]`);
+
+        if (!quizPerformance[questao.id]) {
+            quizPerformance[questao.id] = { acertos: 0, erros: 0, ultimaResposta: null };
+        }
+
+        if (alternativaSelecionada === questao.resposta_correta) {
+            feedbackDiv.textContent = 'Resposta Correta!';
+            feedbackDiv.classList.add('correta');
+            placar.corretas++;
+            alternativaSelecionadaLi.classList.add('certa');
+            quizPerformance[questao.id].acertos++;
+            quizPerformance[questao.id].ultimaResposta = alternativaSelecionada;
+            questaoItemGrid.classList.add('correta-grid');
+        } else {
+            feedbackDiv.textContent = `Resposta Errada. A correta era: ${questao.resposta_correta}`;
+            feedbackDiv.classList.add('errada');
+            placar.erradas++;
+            alternativaSelecionadaLi.classList.add('errada');
+            alternativaCorretaLi.classList.add('certa');
+            quizPerformance[questao.id].erros++;
+            quizPerformance[questao.id].ultimaResposta = alternativaSelecionada;
+            questaoItemGrid.classList.add('errada-grid');
+        }
+        feedbackDiv.style.display = 'block';
+
+        quizProximaPerguntaBtn.style.display = 'block';
+        quizProximaPerguntaBtn.disabled = false;
+        quizResponderBtn.style.display = 'none';
+    }
+
+    function finalizarRevisaoQuiz() {
+        const progressoFinal = (questoesSelecionadasGlobais.length > 0) ? 100 : 0;
+        quizProgressBar.style.width = `${progressoFinal}%`;
+
+        const quizQuestionIds = questoesSelecionadasGlobais.map(q => q.id);
+        const quizPerformanceData = {};
+
+        quizQuestionIds.forEach(id => {
+            if (quizPerformance[id]) {
+                quizPerformanceData[id] = {
+                    acertos: quizPerformance[id].acertos,
+                    erros: quizPerformance[id].erros,
+                    ultimaResposta: quizPerformance[id].ultimaResposta
+                };
+            }
+        });
+
+        const newRecord = {
+            materia: capitalizeFirstLetter(quizMateriaSelect.value),
+            assunto: capitalizeFirstLetter(quizAssuntoSelect.value.replace(/-/g, ' ')),
+            data: new Date().toISOString().slice(0, 10),
+            quantidadeFeita: questoesSelecionadasGlobais.length,
+            quantidadeAcertada: placar.corretas,
+            timestamp: new Date().toISOString(),
+            quizQuestionIds: quizQuestionIds,
+            quizPerformanceData: quizPerformanceData
+        };
+
+        addQuestionRecord(newRecord);
+
+        quizQuestaoContainer.innerHTML = '<h2>Revisão Concluída!</h2><p>Seu desempenho foi registrado. Você pode ver os resultados na seção "Desempenho" e as novas revisões na seção "Revisões".</p><div class="navegacao"><button onclick="location.reload()" class="quiz-button">Nova Revisão</button></div>';
+        quizResponderBtn.style.display = 'none';
+        quizProximaPerguntaBtn.style.display = 'none';
+        quizVoltarBtn.style.display = 'none';
+        quizPularBtn.style.display = 'none';
+        quizVoltarInicioBtn.style.display = 'none';
+        quizQuestoesNavegacaoGrid.style.display = 'none';
+    }
+
+    quizFormulario.addEventListener('submit', async(e) => {
+        e.preventDefault();
+
+        const materia = quizMateriaSelect.value;
+        const assunto = quizAssuntoSelect.value;
+        const numQuestoes = quizNumQuestoesInput.value;
+        statusFiltroValorGlobal = quizStatusFiltro.value;
+        const tagsSelecionadas = Array.from(quizTagsContainer.querySelectorAll('input:checked')).map(cb => cb.value);
+
+        const todasQuestoes = await carregarQuestoesQuiz(materia, assunto);
+
+        const questoesFiltradas = todasQuestoes.filter(q => {
+            const performance = quizPerformance[q.id] || { acertos: 0, erros: 0 };
+            const totalTentativas = performance.acertos + performance.erros;
+            const acertouUltimaVez = performance.ultimaResposta === q.resposta_correta;
+
+            if (!q.alternativas || q.alternativas.length === 0 || !q.resposta_correta) {
+                return false;
+            }
+
+            if (tagsSelecionadas.length > 0) {
+                if (!q.tags || !tagsSelecionadas.every(tag => q.tags.includes(tag))) {
+                    return false;
+                }
+            }
+
+            if (statusFiltroValorGlobal === 'nao-respondidas') {
+                return totalTentativas === 0;
+            } else if (statusFiltroValorGlobal === 'acertadas') {
+                return performance.acertos > 0;
+            } else if (statusFiltroValorGlobal === 'erradas') {
+                return performance.erros > 0;
+            }
+
+            return true;
+        });
+
+        questoesSelecionadasGlobais = questoesFiltradas.sort(() => 0.5 - Math.random()).slice(0, numQuestoes);
+
+        if (questoesSelecionadasGlobais.length > 0) {
+            document.getElementById('registro-section').classList.add('hidden');
+            document.getElementById('desempenho-section').classList.add('hidden');
+            document.getElementById('revisoes-section').classList.add('hidden');
+            document.getElementById('quiz-section').classList.remove('hidden');
+
+            quizConfiguracaoTela.classList.add('hidden');
+            quizRevisaoTela.classList.remove('hidden');
+            indiceQuestaoAtual = 0;
+            placar = { corretas: 0, erradas: 0 };
+            quizCorretasContagemSpan.textContent = 0;
+            quizErradasContagemSpan.textContent = 0;
+            renderizarGridNavegacaoQuiz();
+            renderizarQuestaoAtualQuiz();
+        } else {
+            alert('Nenhuma questão encontrada com os filtros selecionados.');
+        }
+    });
+
+    quizQuestoesNavegacaoGrid.addEventListener('click', (e) => {
+        const item = e.target.closest('.questoes-navegacao-item');
+        if (item) {
+            const newIndex = parseInt(item.dataset.index);
+            if (newIndex !== indiceQuestaoAtual) {
+                indiceQuestaoAtual = newIndex;
+                renderizarQuestaoAtualQuiz();
+            }
+        }
+    });
+
+    quizResponderBtn.addEventListener('click', verificarRespostaQuiz);
+
+    quizProximaPerguntaBtn.addEventListener('click', () => {
+        indiceQuestaoAtual++;
+        renderizarQuestaoAtualQuiz();
+    });
+
+    quizPularBtn.addEventListener('click', () => {
+        if (indiceQuestaoAtual < questoesSelecionadasGlobais.length - 1) {
+            indiceQuestaoAtual++;
+            renderizarQuestaoAtualQuiz();
+        } else {
+            finalizarRevisaoQuiz();
+        }
+    });
+
+    quizVoltarBtn.addEventListener('click', () => {
+        if (indiceQuestaoAtual > 0) {
+            indiceQuestaoAtual--;
+            renderizarQuestaoAtualQuiz();
+        }
+    });
+
+    quizVoltarInicioBtn.addEventListener('click', () => {
+        document.getElementById('registro-section').classList.remove('hidden');
+        document.getElementById('desempenho-section').classList.add('hidden');
+        document.getElementById('revisoes-section').classList.add('hidden');
+        document.getElementById('quiz-section').classList.add('hidden');
+        quizConfiguracaoTela.classList.remove('hidden');
+        quizRevisaoTela.classList.add('hidden');
+        populateMateriaFilter(currentRecords);
+        populateAssuntoFilter(currentRecords);
+        populateDatalists(currentRecords);
+        updatePerformanceDisplay(currentRecords, currentFilterMateria, currentFilterAssunto, currentStartDate, currentEndDate);
+    });
+
+    // =========================================================================
+    // --- INICIALIZAÇÃO DE EVENTOS E UI (COMBINADA) ---
+    // =========================================================================
+
+    document.addEventListener('DOMContentLoaded', () => {
+        loadQuestionData();
+
+        initializeDisplaySettingsCheckboxes();
+        initializeComparisonSettings();
+        updatePerformanceDisplay(currentRecords, currentFilterMateria, currentFilterAssunto, currentStartDate, currentEndDate);
+        populateRecordsTable(currentRecords);
+        populateRevisionsTable(currentRevisions);
+        populateMateriaFilter(currentRecords);
+        populateAssuntoFilter(currentRecords);
+        populateDatalists(currentRecords);
+        populateRevisionIntervals();
+        popularSeletoresQuiz(); // Inicializa os seletores do quiz
+
+        if (currentRecords.length === 0) {
+            showMessage('Bem-vindo! Seus dados serão salvos localmente. Mantenha-os em segurança com a função de exportar JSON.', 'info');
+        }
+
+        const showRegisterSectionBtn = document.getElementById('show-register-section');
+        const showPerformanceSectionBtn = document.getElementById('show-performance-section');
+        const showRevisionsSectionBtn = document.getElementById('show-revisions-section');
+        const showQuizSectionBtn = document.getElementById('show-quiz-section');
+        const registroSection = document.getElementById('registro-section');
+        const desempenhoSection = document.getElementById('desempenho-section');
+        const revisoesSection = document.getElementById('revisoes-section');
+        const quizSection = document.getElementById('quiz-section');
+
+        const allSections = [registroSection, desempenhoSection, revisoesSection, quizSection];
+
+        const hideAllSections = () => {
+            allSections.forEach(section => section && section.classList.add('hidden'));
+        };
+
+        const showSection = (sectionToShow) => {
+            hideAllSections();
+            if (sectionToShow) sectionToShow.classList.remove('hidden');
+        };
+
+        if (showRegisterSectionBtn) {
+            showRegisterSectionBtn.addEventListener('click', () => {
+                showSection(registroSection);
+                populateRecordsTable(currentRecords);
+            });
+        }
+
+        if (showPerformanceSectionBtn) {
+            showPerformanceSectionBtn.addEventListener('click', () => {
+                showSection(desempenhoSection);
+                updatePerformanceDisplay(currentRecords, currentFilterMateria, currentFilterAssunto, currentStartDate, currentEndDate);
+                populateRecordsTable(currentRecords);
+            });
+        }
+
+        if (showRevisionsSectionBtn) {
+            showRevisionsSectionBtn.addEventListener('click', () => {
+                showSection(revisoesSection);
+                populateRevisionsTable(currentRevisions);
+            });
+        }
+
+        if (showQuizSectionBtn) {
+            showQuizSectionBtn.addEventListener('click', () => {
+                showSection(quizSection);
+            });
+        }
+
+        const questionForm = document.getElementById('question-form');
+        if (questionForm) {
+            questionForm.addEventListener('submit', async(e) => {
+                e.preventDefault();
+
+                const materiaInput = document.getElementById('materia');
+                const assuntoInput = document.getElementById('assunto');
+                const dataInput = document.getElementById('data');
+                const quantidadeFeitaInput = document.getElementById('quantidadeFeita');
+                const quantidadeAcertadaInput = document.getElementById('quantidadeAcertada');
+
+                if (!materiaInput || !assuntoInput || !dataInput || !quantidadeFeitaInput || !quantidadeAcertadaInput) {
+                    showMessage('Erro: Um ou mais campos do formulário não foram encontrados.', 'error');
+                    return;
+                }
+
+                const materia = capitalizeFirstLetter(materiaInput.value.trim());
+                const assunto = capitalizeFirstLetter(assuntoInput.value.trim());
+                const data = dataInput.value;
+                const quantidadeFeita = parseInt(quantidadeFeitaInput.value);
+                const quantidadeAcertada = parseInt(quantidadeAcertadaInput.value);
+
+                if (!materia || !assunto || !data || isNaN(quantidadeFeita) || isNaN(quantidadeAcertada)) {
+                    showMessage('Por favor, preencha todos os campos corretamente.', 'warning');
+                    return;
+                }
+
+                if (quantidadeAcertada > quantidadeFeita) {
+                    showMessage('Quantidade acertada não pode ser maior que a quantidade feita.', 'warning');
+                    return;
+                }
+
+                const newRecord = {
+                    materia: materia,
+                    assunto: assunto,
+                    data: data,
+                    quantidadeFeita: quantidadeFeita,
+                    quantidadeAcertada: quantidadeAcertada,
+                    timestamp: new Date().toISOString()
+                };
+
+                addQuestionRecord(newRecord);
+                questionForm.reset();
+            });
+        }
+
+        const completeRevisionForm = document.getElementById('complete-revision-form');
+        if (completeRevisionForm) {
+            completeRevisionForm.addEventListener('submit', (e) => {
+                e.preventDefault();
+                const revisionId = document.getElementById('complete-revision-id').value;
+                const quantidadeFeita = parseInt(document.getElementById('revision-quantidadeFeita').value);
+                const quantidadeAcertada = parseInt(document.getElementById('revision-quantidadeAcertada').value);
+
+                if (isNaN(quantidadeFeita) || isNaN(quantidadeAcertada) || quantidadeAcertada > quantidadeFeita) {
+                    showMessage('Valores de questões inválidos. Verifique os números.', 'warning');
+                    return;
+                }
+
+                submitCompleteRevisionForm(revisionId, quantidadeFeita, quantidadeAcertada);
+            });
+        }
+
+        const rescheduleForm = document.getElementById('reschedule-form');
+        if (rescheduleForm) {
+            rescheduleForm.addEventListener('submit', (e) => {
+                e.preventDefault();
+                const revisionId = document.getElementById('reschedule-revision-id').value;
+                const newDate = document.getElementById('reschedule-date').value;
+
+                if (!newDate) {
+                    showMessage('Por favor, selecione uma data válida.', 'warning');
+                    return;
+                }
+
+                submitRescheduleForm(revisionId, newDate);
+            });
+        }
+
+        const materiaFilter = document.getElementById('materia-filter');
+        if (materiaFilter) {
+            materiaFilter.addEventListener('change', (e) => {
+                currentFilterMateria = e.target.value;
+                currentFilterAssunto = 'todos';
+                const assuntoFilter = document.getElementById('assunto-filter');
+                if (assuntoFilter) assuntoFilter.value = 'todos';
+                populateAssuntoFilter(currentRecords);
+                updatePerformanceDisplay(currentRecords, currentFilterMateria, currentFilterAssunto, currentStartDate, currentEndDate);
+            });
+        }
+
+        const assuntoFilter = document.getElementById('assunto-filter');
+        if (assuntoFilter) {
+            assuntoFilter.addEventListener('change', (e) => {
+                currentFilterAssunto = e.target.value;
+                updatePerformanceDisplay(currentRecords, currentFilterMateria, currentFilterAssunto, currentStartDate, currentEndDate);
+            });
+        }
+
+        const startDateFilter = document.getElementById('start-date-filter');
+        const endDateFilter = document.getElementById('end-date-filter');
+        const resetDateFilterBtn = document.getElementById('reset-date-filter');
+
+        if (startDateFilter) {
+            startDateFilter.addEventListener('change', (e) => {
+                currentStartDate = e.target.value;
+                updatePerformanceDisplay(currentRecords, currentFilterMateria, currentFilterAssunto, currentStartDate, currentEndDate);
+            });
+        }
+        if (endDateFilter) {
+            endDateFilter.addEventListener('change', (e) => {
+                currentEndDate = e.target.value;
+                updatePerformanceDisplay(currentRecords, currentFilterMateria, currentFilterAssunto, currentStartDate, currentEndDate);
+            });
+        }
+        if (resetDateFilterBtn && startDateFilter && endDateFilter) {
+            resetDateFilterBtn.addEventListener('click', () => {
+                currentStartDate = '';
+                currentEndDate = '';
+                startDateFilter.value = '';
+                endDateFilter.value = '';
+                updatePerformanceDisplay(currentRecords, currentFilterMateria, currentFilterAssunto, currentStartDate, currentEndDate);
+            });
+        }
+
+        const accuracyThresholdInput = document.getElementById('accuracy-threshold-input');
+        if (accuracyThresholdInput) {
+            accuracyThresholdInput.addEventListener('input', (e) => {
+                let value = parseInt(e.target.value);
+                if (isNaN(value) || value < 0) value = 0;
+                if (value > 100) value = 100;
+                currentAccuracyThreshold = value;
+                e.target.value = value;
+                updatePerformanceDisplay(currentRecords, currentFilterMateria, currentFilterAssunto, currentStartDate, currentEndDate);
+            });
+        }
+
+        const exportToJsonButton = document.getElementById('export-json-button');
+        if (exportToJsonButton) {
+            exportToJsonButton.addEventListener('click', () => exportToJson());
+        }
+
+        const importJsonBtn = document.getElementById('import-json-button');
+        const jsonFileInput = document.getElementById('json-file-input');
+        if (importJsonBtn && jsonFileInput) {
+            importJsonBtn.addEventListener('click', () => {
+                jsonFileInput.click();
+            });
+            jsonFileInput.addEventListener('change', importFromJson);
+        }
+
+        const openSettingsModalBtn = document.getElementById('open-settings-modal');
+        const closeSettingsModalBtn = document.getElementById('close-settings-modal');
+
+        if (openSettingsModalBtn) {
+            openSettingsModalBtn.addEventListener('click', openSettingsModal);
+        }
+        if (closeSettingsModalBtn) {
+            closeSettingsModalBtn.addEventListener('click', closeSettingsModal);
+        }
+
+        const openRevisionSettingsBtn = document.getElementById('open-revision-settings');
+        const closeRevisionSettingsBtn = document.getElementById('close-revision-settings');
+        if (openRevisionSettingsBtn) {
+            openRevisionSettingsBtn.addEventListener('click', openRevisionSettingsModal);
+        }
+        if (closeRevisionSettingsBtn) {
+            closeRevisionSettingsBtn.addEventListener('click', closeRevisionSettingsModal);
+        }
+
+
+        document.querySelectorAll('#display-options-container input[type="checkbox"]').forEach(checkbox => {
+            checkbox.addEventListener('change', (e) => {
+                displaySettings[e.target.id] = e.target.checked;
+                saveDisplaySettings();
+                initializeDisplaySettingsCheckboxes();
+                updatePerformanceDisplay(currentRecords, currentFilterMateria, currentFilterAssunto, currentStartDate, currentEndDate);
+            });
+        });
+
+        document.querySelectorAll('input[name="compare-type"]').forEach(radio => {
+            radio.addEventListener('change', (e) => {
+                comparisonSettings.type = e.target.value;
+                comparisonSettings.items = [];
+                saveComparisonSettings();
+                updateComparisonOptionsVisibility();
+                updatePerformanceDisplay(currentRecords, currentFilterMateria, currentFilterAssunto, currentStartDate, currentEndDate);
+            });
+        });
+
+        const searchInput = document.getElementById('search-input');
+        const searchButton = document.getElementById('search-button');
+        if (searchButton && searchInput) {
+            searchButton.addEventListener('click', () => {
+                searchRecords(searchInput.value);
+            });
+            searchInput.addEventListener('keypress', (e) => {
+                if (e.key === 'Enter') {
+                    searchRecords(searchInput.value);
+                }
+            });
+        }
+
+        const closeViewDetailsModalBtn = document.getElementById('close-view-details-modal');
+        if (closeViewDetailsModalBtn) {
+            closeViewDetailsModalBtn.addEventListener('click', closeViewDetailsModal);
+        }
+
+        if (registroSection && desempenhoSection && revisoesSection) {
+            registroSection.classList.remove('hidden');
+            desempenhoSection.classList.add('hidden');
+            revisoesSection.classList.add('hidden');
+        }
+    });
+
+</script>
+</body>
+</html>
