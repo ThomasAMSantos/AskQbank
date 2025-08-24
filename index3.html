@@ -383,7 +383,7 @@
             <h1 class="text-3xl font-bold mb-4 sm:mb-0 text-center sm:text-left">Registro e Desempenho de Questões</h1>
             <div class="flex items-center space-x-2 sm:space-x-4 flex-wrap header-buttons mt-4 sm:mt-0">
                 <button id="show-register-section" class="flex-1 min-w-[120px] bg-blue-700 hover:bg-blue-900 text-white font-bold py-2 px-3 sm:px-4 rounded-lg shadow-md text-sm sm:text-base flex items-center justify-center space-x-2">
-                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2m-4 0V3m0 2a2 2 0 002 2h2m-4 0h6m-3-4v8m0-8a4 4 0 01-4 4H7"></path></svg>
+                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2m-4 0V3m0 2a2 2 0 012 2h2m-4 0h6m-3-4v8m0-8a4 4 0 01-4 4H7"></path></svg>
                     <span>Registros</span>
                 </button>
                 <button id="show-performance-section" class="flex-1 min-w-[120px] bg-blue-700 hover:bg-blue-900 text-white font-bold py-2 px-3 sm:px-4 rounded-lg shadow-md text-sm sm:text-base flex items-center justify-center space-x-2">
@@ -511,20 +511,6 @@
                     <p class="text-gray-600 text-sm">Nenhuma revisão em atraso. Ótimo trabalho!</p>
                 </div>
             </div>
-            
-            <div class="mb-6">
-                <h3 class="text-xl font-semibold text-gray-800 mb-4">Revisões de Hoje</h3>
-                <div id="today-revisions-container" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-                    <p class="text-gray-600 text-sm">Nenhuma revisão agendada para hoje. Aproveite o dia!</p>
-                </div>
-            </div>
-
-            <div class="mb-6">
-                <h3 class="text-xl font-semibold text-gray-800 mb-4">Revisões Em Atraso</h3>
-                <div id="late-revisions-container" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-                    <p class="text-gray-600 text-sm">Nenhuma revisão em atraso. Ótimo trabalho!</p>
-                </div>
-            </div>
 
 
             <div class="overflow-x-auto">
@@ -639,8 +625,7 @@
             © 2025 Registro de Questões. Todos os direitos reservados.
         </div>
     </footer>
-
-    <div id="donation-modal" class="modal-overlay hidden">
+        <div id="donation-modal" class="modal-overlay hidden">
         <div class="modal-content max-w-2xl">
             <button onclick="closeDonationModal()" class="close-button">&times;</button>
             <h2 class="text-2xl font-bold text-gray-800 mb-4 text-center">❤️ Apoie o Projeto</h2>
@@ -775,7 +760,7 @@
             </div>
         </div>
     </div>
-        
+            
     <div id="revision-settings-modal" class="modal-overlay hidden">
         <div class="modal-content">
             <button id="close-revision-settings" class="close-button">&times;</button>
@@ -805,30 +790,30 @@
                 <div>
                     <label for="edit-materia" class="block text-sm font-medium text-gray-700 mb-1">Matéria:</label>
                     <input type="text" id="edit-materia" name="materia" required
-                             class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
+                                class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
                 </div>
                 <div>
                     <label for="edit-assunto" class="block text-sm font-medium text-gray-700 mb-1">Assunto:</label>
                     <input type="text" id="edit-assunto" name="assunto" required
-                             class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
+                                class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
                 </div>
                 <div>
                     <label for="edit-data" class="block text-sm font-medium text-gray-700 mb-1">Data:</label>
                     <input type="date" id="edit-data" name="data" required
-                             class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
+                                class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
                 </div>
                 <div>
                     <label for="edit-quantidadeFeita" class="block text-sm font-medium text-gray-700 mb-1">Quantidade Feita:</label>
                     <input type="number" id="edit-quantidadeFeita" name="quantidadeFeita" min="0" required
-                             class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
+                                class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
                 </div>
                 <div>
                     <label for="edit-quantidadeAcertada" class="block text-sm font-medium text-gray-700 mb-1">Quantidade Acertada:</label>
                     <input type="number" id="edit-quantidadeAcertada" name="quantidadeAcertada" min="0" required
-                             class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
+                                class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
                 </div>
                 <button type="submit"
-                             class="form-button w-full bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-lg shadow-md">
+                                class="form-button w-full bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-lg shadow-md">
                     Salvar Alterações
                 </button>
             </form>
@@ -848,7 +833,7 @@
             </div>
         </div>
     </div>
-        
+            
     <div id="complete-revision-modal" class="modal-overlay hidden">
         <div class="modal-content max-w-sm">
             <button id="close-complete-revision-modal" onclick="closeCompleteRevisionModal()" class="close-button">&times;</button>
@@ -859,21 +844,21 @@
                 <div>
                     <label for="revision-quantidadeFeita" class="block text-sm font-medium text-gray-700 mb-1">Quantidade Feita:</label>
                     <input type="number" id="revision-quantidadeFeita" name="quantidadeFeita" min="0" required
-                             class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
+                                class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
                 </div>
                 <div>
                     <label for="revision-quantidadeAcertada" class="block text-sm font-medium text-gray-700 mb-1">Quantidade Acertada:</label>
                     <input type="number" id="revision-quantidadeAcertada" name="quantidadeAcertada" min="0" required
-                             class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
+                                class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
                 </div>
                 <button type="submit"
-                             class="form-button w-full bg-green-600 hover:bg-green-700 text-white font-bold py-2 px-4 rounded-lg shadow-md">
+                                class="form-button w-full bg-green-600 hover:bg-green-700 text-white font-bold py-2 px-4 rounded-lg shadow-md">
                     Registrar Revisão
                 </button>
             </form>
         </div>
     </div>
-        
+            
     <div id="reschedule-revision-modal" class="modal-overlay hidden">
         <div class="modal-content max-w-sm">
             <button id="close-reschedule-revision-modal" onclick="closeRescheduleRevisionModal()" class="close-button">&times;</button>
@@ -884,10 +869,10 @@
                 <div>
                     <label for="reschedule-date" class="block text-sm font-medium text-gray-700 mb-1">Nova Data:</label>
                     <input type="date" id="reschedule-date" name="newDate" required
-                             class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
+                                class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
                 </div>
                 <button type="submit"
-                             class="form-button w-full bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-lg shadow-md">
+                                class="form-button w-full bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-lg shadow-md">
                     Confirmar Reagendamento
                 </button>
             </form>
@@ -933,7 +918,7 @@
                 </div>
 
                 <div class="p-4 bg-gray-50 rounded-lg shadow-sm border border-gray-200">
-                    <h3 class="flex items-center text-xl font-semibold text-gray-800 mb-2">
+                    <h3 class="flex items-center text-xl font-semibold text-green-500 mr-3">
                         <svg class="h-6 w-6 text-green-500 mr-3" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5s3.332.477 4.5 1.253v13C19.832 18.477 18.246 18 16.5 18s-3.332.477-4.5 1.253" />
                         </svg>
@@ -943,7 +928,7 @@
                 </div>
                 
                 <div class="p-4 bg-gray-50 rounded-lg shadow-sm border border-gray-200">
-                    <h3 class="flex items-center text-xl font-semibold text-gray-800 mb-2">
+                    <h3 class="flex items-center text-xl font-semibold text-purple-500 mr-3">
                         <svg class="h-6 w-6 text-purple-500 mr-3" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
                         </svg>
@@ -953,7 +938,7 @@
                 </div>
 
                 <div class="p-4 bg-gray-50 rounded-lg shadow-sm border border-gray-200">
-                    <h3 class="flex items-center text-xl font-semibold text-gray-800 mb-2">
+                    <h3 class="flex items-center text-xl font-semibold text-yellow-500 mr-3">
                         <svg class="h-6 w-6 text-yellow-500 mr-3" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
                         </svg>
@@ -989,7 +974,7 @@
                                 <li>Com base no seu desempenho registrado, o aplicativo agenda automaticamente as próximas revisões.</li>
                                 <li>Assuntos com baixa precisão terão revisões mais frequentes, enquanto aqueles com alta precisão terão intervalos mais longos.</li>
                                 <li>As revisões são classificadas como "Em Atraso", "Hoje" ou "Próximas", ajudando a priorizar.</li>
-                                <li>Quando você conclui uma revisão, basta clicar em <strong>"Concluir"</strong> e registrar seu novo desempenho para que o aplicativo recalcule o próximo agendamento.</li>
+                                <li>Quando você conclui uma revisão, basta clicar em <strong>"Praticar"</strong> para ser direcionado para as questões daquele assunto.</li>
                                 <li>Ajuste os intervalos de revisão em <strong>"Ajustar Variáveis"</strong> para personalizar a frequência de acordo com sua necessidade.</li>
                             </ul>
                         </div>
@@ -1004,7 +989,7 @@
             </div>
         </div>
     </div>
-    
+            
     <div id="view-details-modal" class="modal-overlay hidden">
         <div class="modal-content">
             <button id="close-view-details-modal" class="close-button">&times;</button>
@@ -1043,8 +1028,6 @@
                 </div>
         </div>
     </div>
-
-
     <script type="module">
     // Este bloco de script agora contém a lógica combinada de ambos os códigos
 
@@ -1177,19 +1160,15 @@
             const storedRevisions = localStorage.getItem('scheduledRevisions');
             if (storedRevisions) {
                 currentRevisions = JSON.parse(storedRevisions);
-                console.log("Revisões agendadas carregadas:", currentRevisions);
             } else {
                 currentRevisions = [];
-                console.log("Nenhuma revisão agendada encontrada.");
             }
 
             const storedQuizPerformance = localStorage.getItem('quizPerformance');
             if (storedQuizPerformance) {
                 quizPerformance = JSON.parse(storedQuizPerformance);
-                console.log("Desempenho do quiz carregado:", quizPerformance);
             } else {
                 quizPerformance = {};
-                console.log("Nenhum dado de desempenho do quiz encontrado.");
             }
 
             const storedDisplaySettings = localStorage.getItem('displaySettings');
@@ -1275,18 +1254,43 @@
         });
     };
 
-    window.openCompleteRevisionModal = (revisionId) => {
-        const revision = currentRevisions.find(r => r.id === revisionId);
-        if (revision) {
-            const modal = document.getElementById('complete-revision-modal');
-            const form = document.getElementById('complete-revision-form');
-            const subjectSpan = document.getElementById('revision-subject-name');
-            const revisionIdInput = document.getElementById('complete-revision-id');
+    // MODIFICADO: A função original `openCompleteRevisionModal` agora é `iniciarPratica`.
+    window.iniciarPratica = async (materia, assunto, numQuestoes = 15) => {
+        // Muda para a seção do quiz e esconde as outras
+        document.getElementById('registro-section').classList.add('hidden');
+        document.getElementById('desempenho-section').classList.add('hidden');
+        document.getElementById('revisoes-section').classList.add('hidden');
+        document.getElementById('quiz-section').classList.remove('hidden');
 
-            subjectSpan.textContent = `${revision.materia} - ${revision.assunto}`;
-            revisionIdInput.value = revisionId;
+        // Esconde a tela de configuração do quiz e mostra a tela de revisão
+        quizConfiguracaoTela.classList.add('hidden');
+        quizRevisaoTela.classList.remove('hidden');
 
-            modal.classList.remove('hidden');
+        // Carrega as questões para a matéria e assunto específicos
+        const todasQuestoes = await carregarQuestoesQuiz(materia, assunto);
+
+        // Filtra para pegar apenas as questões não respondidas
+        const questoesNaoRespondidas = todasQuestoes.filter(q => {
+            const performance = quizPerformance[q.id] || { acertos: 0, erros: 0 };
+            return (performance.acertos + performance.erros) === 0;
+        });
+
+        // Se houver questões não respondidas, usa-as. Caso contrário, usa todas as questões.
+        const questoesParaPraticar = questoesNaoRespondidas.length > 0 ? questoesNaoRespondidas : todasQuestoes;
+
+        // Embaralha e seleciona o número de questões
+        questoesSelecionadasGlobais = questoesParaPraticar.sort(() => 0.5 - Math.random()).slice(0, numQuestoes);
+        
+        if (questoesSelecionadasGlobais.length > 0) {
+            indiceQuestaoAtual = 0;
+            placar = { corretas: 0, erradas: 0 };
+            quizCorretasContagemSpan.textContent = 0;
+            quizErradasContagemSpan.textContent = 0;
+            renderizarGridNavegacaoQuiz();
+            renderizarQuestaoAtualQuiz();
+        } else {
+            alert('Nenhuma questão encontrada para este assunto. Adicione questões ao seu JSON.');
+            quizVoltarInicioBtn.click();
         }
     };
 
@@ -1417,14 +1421,11 @@
         const summaryToday = document.getElementById('summary-today');
         const summaryUpcoming = document.getElementById('summary-upcoming');
         const lateRevisionsContainer = document.getElementById('late-revisions-container');
-        // Novo container para revisões de hoje
-        const todayRevisionsContainer = document.getElementById('today-revisions-container');
 
-        if (!tableBody || !summaryLate || !summaryToday || !summaryUpcoming || !lateRevisionsContainer || !todayRevisionsContainer) return;
+        if (!tableBody || !summaryLate || !summaryToday || !summaryUpcoming || !lateRevisionsContainer) return;
 
         tableBody.innerHTML = '';
         lateRevisionsContainer.innerHTML = '';
-        todayRevisionsContainer.innerHTML = '';
 
         const sortedRevisions = [...revisions].sort((a, b) => new Date(a.nextReviewDate) - new Date(b.nextReviewDate));
 
@@ -1435,7 +1436,6 @@
         if (sortedRevisions.length === 0) {
             tableBody.innerHTML = '<tr><td colspan="6" class="py-3 px-6 text-center">Nenhuma revisão agendada.</td></tr>';
             lateRevisionsContainer.innerHTML = '<p class="text-gray-600 text-sm">Nenhuma revisão em atraso. Ótimo trabalho!</p>';
-            todayRevisionsContainer.innerHTML = '<p class="text-gray-600 text-sm">Nenhuma revisão agendada para hoje. Aproveite o dia!</p>';
             summaryLate.textContent = 0;
             summaryToday.textContent = 0;
             summaryUpcoming.textContent = 0;
@@ -1455,41 +1455,33 @@
             let daysDisplay = '';
             let rowClass = 'bg-white hover:bg-gray-50';
 
-            const createRevisionCard = (container, colorClass, text, buttonText) => {
-                const card = document.createElement('div');
-                card.className = `card p-4 rounded-lg shadow-sm border ${colorClass} bg-${colorClass.split('-')[1]}-50 flex flex-col justify-between`;
-                card.innerHTML = `
-                    <div>
-                        <p class="text-lg font-bold text-${colorClass.split('-')[1]}-800">${revision.materia.toUpperCase()}</p>
-                        <p class="text-sm text-${colorClass.split('-')[1]}-700">${revision.assunto.toUpperCase()}</p>
-                        <p class="text-xs text-${colorClass.split('-')[1]}-600 mt-2">Último acerto: ${revision.cumulativeAccuracy.toFixed(2)}%</p>
-                        <p class="text-xs text-${colorClass.split('-')[1]}-600">${text}</p>
-                    </div>
-                    <div class="mt-4 flex space-x-2">
-                        <button onclick="startRevisionQuiz('${revision.materia}', '${revision.assunto}')" class="bg-blue-500 hover:bg-blue-600 text-white font-bold py-1 px-2 rounded-md text-sm">${buttonText}</button>
-                        <button onclick="openRescheduleRevisionModal('${revision.id}')" class="bg-gray-500 hover:bg-gray-600 text-white font-bold py-1 px-2 rounded-md text-sm">Reagendar</button>
-                    </div>
-                `;
-                container.appendChild(card);
-            };
-
-
             if (daysRemaining < 0) {
                 dateDisplay = `ATRASADA: ${revision.nextReviewDate}`;
                 daysDisplay = `${Math.abs(daysRemaining)} dias atrás`;
                 rowClass = 'bg-red-100 text-red-800 hover:bg-red-200';
                 countLate++;
 
-                createRevisionCard(lateRevisionsContainer, 'border-red-200', `Revisão: ${Math.abs(daysRemaining)} dias atrás`, 'Revisar');
+                const lateCard = document.createElement('div');
+                lateCard.className = `card p-4 rounded-lg shadow-sm border border-red-200 bg-red-50 flex flex-col justify-between`;
+                lateCard.innerHTML = `
+                        <div>
+                            <p class="text-lg font-bold text-red-800">${revision.materia.toUpperCase()}</p>
+                            <p class="text-sm text-red-700">${revision.assunto.toUpperCase()}</p>
+                            <p class="text-xs text-red-600 mt-2">Último acerto: ${revision.cumulativeAccuracy.toFixed(2)}%</p>
+                            <p class="text-xs text-red-600">Revisão: ${Math.abs(daysRemaining)} dias atrás</p>
+                        </div>
+                        <div class="mt-4 flex space-x-2">
+                            <button onclick="iniciarPratica('${revision.materia}', '${revision.assunto}')" class="bg-green-500 hover:bg-green-600 text-white font-bold py-1 px-2 rounded-md text-sm">Praticar</button>
+                            <button onclick="openRescheduleRevisionModal('${revision.id}')" class="bg-blue-500 hover:bg-blue-600 text-white font-bold py-1 px-2 rounded-md text-sm">Reagendar</button>
+                        </div>
+                    `;
+                lateRevisionsContainer.appendChild(lateCard);
 
             } else if (daysRemaining === 0) {
                 dateDisplay = `HOJE: ${revision.nextReviewDate}`;
                 daysDisplay = 'Hoje';
                 rowClass = 'bg-yellow-100 text-yellow-800 hover:bg-yellow-200';
                 countToday++;
-
-                createRevisionCard(todayRevisionsContainer, 'border-yellow-200', `Revisão agendada para hoje`, 'Revisar');
-
             } else {
                 dateDisplay = `Próxima: ${revision.nextReviewDate}`;
                 daysDisplay = `${daysRemaining} dias`;
@@ -1507,46 +1499,29 @@
 
             const actionsCell = row.insertCell();
             actionsCell.className = 'text-center';
-            const reviseButton = document.createElement('button');
-            reviseButton.textContent = 'Revisar';
-            reviseButton.onclick = () => startRevisionQuiz(revision.materia, revision.assunto);
-            reviseButton.classList.add('bg-blue-500', 'hover:bg-blue-600', 'text-white', 'font-bold', 'py-1', 'px-2', 'rounded-md', 'mr-2', 'text-sm');
+            // MODIFICADO: Botão "Concluir" agora é "Praticar" e chama a nova função
+            const practiceButton = document.createElement('button');
+            practiceButton.textContent = 'Praticar';
+            practiceButton.onclick = () => iniciarPratica(revision.materia, revision.assunto);
+            practiceButton.classList.add('bg-green-500', 'hover:bg-green-600', 'text-white', 'font-bold', 'py-1', 'px-2', 'rounded-md', 'mr-2', 'text-sm');
 
             const rescheduleButton = document.createElement('button');
             rescheduleButton.textContent = 'Reagendar';
             rescheduleButton.onclick = () => openRescheduleRevisionModal(revision.id);
-            rescheduleButton.classList.add('bg-gray-500', 'hover:bg-gray-600', 'text-white', 'font-bold', 'py-1', 'px-2', 'rounded-md', 'text-sm');
+            rescheduleButton.classList.add('bg-blue-500', 'hover:bg-blue-600', 'text-white', 'font-bold', 'py-1', 'px-2', 'rounded-md', 'text-sm');
 
-            actionsCell.appendChild(reviseButton);
+            actionsCell.appendChild(practiceButton);
             actionsCell.appendChild(rescheduleButton);
+
         });
 
         if (countLate === 0) {
             lateRevisionsContainer.innerHTML = '<p class="text-gray-600 text-sm">Nenhuma revisão em atraso. Ótimo trabalho!</p>';
         }
-        if (countToday === 0) {
-             todayRevisionsContainer.innerHTML = '<p class="text-gray-600 text-sm">Nenhuma revisão agendada para hoje. Aproveite o dia!</p>';
-        }
 
         summaryLate.textContent = countLate;
         summaryToday.textContent = countToday;
         summaryUpcoming.textContent = countUpcoming;
-    };
-    
-    // --- Nova função para iniciar o quiz a partir da tabela de revisões ---
-    window.startRevisionQuiz = (materia, assunto) => {
-        const showQuizSectionBtn = document.getElementById('show-quiz-section');
-        showQuizSectionBtn.click();
-        
-        quizMateriaSelect.value = materia;
-        quizMateriaSelect.dispatchEvent(new Event('change'));
-        
-        setTimeout(() => {
-            quizAssuntoSelect.value = assunto.toLowerCase().replace(/ /g, '-');
-            quizAssuntoSelect.dispatchEvent(new Event('change'));
-        }, 500);
-        
-        showMessage(`Iniciando revisão para ${materia} - ${assunto}... Configure o número de questões e clique em "Iniciar Revisão".`, 'info');
     };
 
     let materiaChart;
@@ -1669,42 +1644,42 @@
 
         if (displaySettings.showOverallSummary) {
             performanceSummary.innerHTML += `
-                    <div class="mb-6 p-4 bg-blue-50 rounded-lg shadow-inner">
-                        <h3 class="text-xl font-semibold text-blue-700 mb-2">Desempenho Geral ${filterMateria !== 'todos' ? `em ${filterMateria.toUpperCase()}` : ''} ${filterAssunto !== 'todos' ? ` - Assunto: ${filterAssunto.toUpperCase()}` : ''}</h3>
-                        <p class="text-lg text-blue-800">Total de Questões Feitas: <span class="font-bold">${totalFeita}</span></p>
-                        <p class="text-lg text-blue-800">Total de Acertos: <span class="font-bold">${totalAcertada}</span></p>
-                        <p class="text-lg text-blue-800">Total de Erros: <span class="font-bold">${totalErros}</span></p>
-                        <p class="text-2xl font-bold text-blue-900">Precisão Geral: ${overallAccuracy.toFixed(2)}%</p>
-                        <p class="text-lg text-blue-800">Número de Revisões: <span class="font-bold">${recordsForDisplay.length}</span></p>
-                    </div>
-                `;
+                        <div class="mb-6 p-4 bg-blue-50 rounded-lg shadow-inner">
+                            <h3 class="text-xl font-semibold text-blue-700 mb-2">Desempenho Geral ${filterMateria !== 'todos' ? `em ${filterMateria.toUpperCase()}` : ''} ${filterAssunto !== 'todos' ? ` - Assunto: ${filterAssunto.toUpperCase()}` : ''}</h3>
+                            <p class="text-lg text-blue-800">Total de Questões Feitas: <span class="font-bold">${totalFeita}</span></p>
+                            <p class="text-lg text-blue-800">Total de Acertos: <span class="font-bold">${totalAcertada}</span></p>
+                            <p class="text-lg text-blue-800">Total de Erros: <span class="font-bold">${totalErros}</span></p>
+                            <p class="text-2xl font-bold text-blue-900">Precisão Geral: ${overallAccuracy.toFixed(2)}%</p>
+                            <p class="text-lg text-blue-800">Número de Revisões: <span class="font-bold">${recordsForDisplay.length}</span></p>
+                        </div>
+                    `;
         }
 
         if (displaySettings.showImprovementAreas && (materiasToImprove.length > 0 || assuntosToImprove.length > 0)) {
             performanceSummary.innerHTML += `
-                    <div class="mb-6 p-4 bg-red-50 rounded-lg shadow-inner">
-                        <h3 class="text-xl font-semibold text-red-700 mb-2">Áreas para Melhorar (Precisão < ${currentAccuracyThreshold}%)</h3>
-                        ${materiasToImprove.length > 0 ? `
-                        <h4 class="font-medium text-red-600 mt-3">Matérias:</h4>
-                        <ul class="list-disc list-inside text-red-800">
-                            ${materiasToImprove.map(m => `<li>${m.name.toUpperCase()}: ${m.accuracy.toFixed(2)}% (${m.feita} questões, ${m.acertada} acertos, ${m.erros} erros)</li>`).join('')}
-                        </ul>
-                        ` : ''}
-                        ${assuntosToImprove.length > 0 ? `
-                        <h4 class="font-medium text-red-600 mt-3">Assuntos:</h4>
-                        <ul class="list-disc list-inside text-red-800">
-                            ${assuntosToImprove.map(a => `<li>${a.name.toUpperCase()}: ${a.accuracy.toFixed(2)}% (${a.feita} questões, ${a.acertada} acertos, ${a.erros} erros)</li>`).join('')}
-                        </ul>
-                        ` : ''}
-                    </div>
-                `;
+                        <div class="mb-6 p-4 bg-red-50 rounded-lg shadow-inner">
+                            <h3 class="text-xl font-semibold text-red-700 mb-2">Áreas para Melhorar (Precisão < ${currentAccuracyThreshold}%)</h3>
+                            ${materiasToImprove.length > 0 ? `
+                            <h4 class="font-medium text-red-600 mt-3">Matérias:</h4>
+                            <ul class="list-disc list-inside text-red-800">
+                                ${materiasToImprove.map(m => `<li>${m.name.toUpperCase()}: ${m.accuracy.toFixed(2)}% (${m.feita} questões, ${m.acertada} acertos, ${m.erros} erros)</li>`).join('')}
+                            </ul>
+                            ` : ''}
+                            ${assuntosToImprove.length > 0 ? `
+                            <h4 class="font-medium text-red-600 mt-3">Assuntos:</h4>
+                            <ul class="list-disc list-inside text-red-800">
+                                ${assuntosToImprove.map(a => `<li>${a.name.toUpperCase()}: ${a.accuracy.toFixed(2)}% (${a.feita} questões, ${a.acertada} acertos, ${a.erros} erros)</li>`).join('')}
+                            </ul>
+                            ` : ''}
+                        </div>
+                    `;
         } else if (displaySettings.showImprovementAreas) {
             performanceSummary.innerHTML += `
-                    <div class="mb-6 p-4 bg-green-50 rounded-lg shadow-inner">
-                        <h3 class="text-xl font-semibold text-green-700 mb-2">Parabéns!</h3>
-                        <p class="text-green-800">Sua precisão está excelente em todas as matérias e assuntos, ou acima do limite de ${currentAccuracyThreshold}%!</p>
-                    </div>
-                `;
+                        <div class="mb-6 p-4 bg-green-50 rounded-lg shadow-inner">
+                            <h3 class="text-xl font-semibold text-green-700 mb-2">Parabéns!</h3>
+                            <p class="text-green-800">Sua precisão está excelente em todas as matérias e assuntos, ou acima do limite de ${currentAccuracyThreshold}%!</p>
+                        </div>
+                    `;
         }
 
 
@@ -2034,14 +2009,14 @@
         detailsAcertadas.textContent = record.quantidadeAcertada;
         questionsTableBody.innerHTML = '';
 
-        const questionData = record.quizPerformanceData || {};
-
-        if (Object.keys(questionData).length > 0) {
-            for (const questionId in questionData) {
+        const questionIdsInRecord = record.quizQuestionIds || [];
+        if (questionIdsInRecord.length > 0) {
+            questionIdsInRecord.forEach(questionId => {
+                const performance = quizPerformance[questionId] || { acertos: 0, erros: 0 };
                 const row = questionsTableBody.insertRow();
                 row.insertCell().textContent = questionId;
-                row.insertCell().textContent = questionData[questionId].acertos;
-                row.insertCell().textContent = questionData[questionId].erros;
+                row.insertCell().textContent = performance.acertos;
+                row.insertCell().textContent = performance.erros;
 
                 const actionsCell = row.insertCell();
                 const viewJsonButton = document.createElement('button');
@@ -2049,7 +2024,7 @@
                 viewJsonButton.classList.add('bg-blue-500', 'hover:bg-blue-600', 'text-white', 'font-bold', 'py-1', 'px-2', 'rounded-md', 'text-sm');
                 viewJsonButton.onclick = () => showQuestionDetails(questionId);
                 actionsCell.appendChild(viewJsonButton);
-            }
+            });
         } else {
             questionsTableBody.innerHTML = '<tr><td colspan="4" class="py-3 px-6 text-center">Nenhuma questão detalhada encontrada para este registro.</td></tr>';
         }
@@ -2096,30 +2071,29 @@
                     alternativesHtml += `<li class="${liClass}">${alt.letra}) ${alt.texto}</li>`;
                 });
 
-                // Verifica o desempenho histórico do usuário para esta questão
                 const performance = quizPerformance[question.id] || { acertos: 0, erros: 0 };
                 const totalTentativas = performance.acertos + performance.erros;
                 const acertosPerc = totalTentativas > 0 ? ((performance.acertos / totalTentativas) * 100).toFixed(2) : '0.00';
 
                 content.innerHTML = `
-                        <p><strong>ID da Questão:</strong> ${question.id}</p>
-                        <p><strong>Matéria:</strong> ${capitalizeFirstLetter(question.materia)}</p>
-                        <p><strong>Assunto:</strong> ${capitalizeFirstLetter(question.assunto.replace(/-/g, ' '))}</p>
-                        <hr class="my-4">
-                        <h4 class="font-bold">Desempenho Pessoal:</h4>
-                        <ul class="details-list">
-                            <li>Acertos: <span class="status correct">${performance.acertos}</span></li>
-                            <li>Erros: <span class="status incorrect">${performance.erros}</span></li>
-                            <li>Precisão Histórica: <span class="status">${acertosPerc}%</span></li>
-                        </ul>
-                        <hr class="my-4">
-                        <h4 class="font-bold mt-4">Enunciado:</h4>
-                        <p class="mb-4">${question.enunciado}</p>
-                        <h4 class="font-bold">Alternativas:</h4>
-                        <ul class="list-disc list-inside space-y-1">${alternativesHtml}</ul>
-                        <h4 class="font-bold mt-4">Gabarito:</h4>
-                        <p class="correct-answer-text">Alternativa correta: ${question.resposta_correta}</p>
-                    `;
+                    <p><strong>ID da Questão:</strong> ${question.id}</p>
+                    <p><strong>Matéria:</strong> ${capitalizeFirstLetter(question.materia)}</p>
+                    <p><strong>Assunto:</strong> ${capitalizeFirstLetter(question.assunto.replace(/-/g, ' '))}</p>
+                    <hr class="my-4">
+                    <h4 class="font-bold">Desempenho Pessoal:</h4>
+                    <ul class="details-list">
+                        <li>Acertos: <span class="status correct">${performance.acertos}</span></li>
+                        <li>Erros: <span class="status incorrect">${performance.erros}</span></li>
+                        <li>Precisão Histórica: <span class="status">${acertosPerc}%</span></li>
+                    </ul>
+                    <hr class="my-4">
+                    <h4 class="font-bold mt-4">Enunciado:</h4>
+                    <p class="mb-4">${question.enunciado}</p>
+                    <h4 class="font-bold">Alternativas:</h4>
+                    <ul class="list-disc list-inside space-y-1">${alternativesHtml}</ul>
+                    <h4 class="font-bold mt-4">Gabarito:</h4>
+                    <p class="correct-answer-text">Alternativa correta: ${question.resposta_correta}</p>
+                `;
             } else {
                 content.innerHTML = '<p class="text-red-600">Questão não encontrada. O arquivo JSON pode estar faltando ou o ID está incorreto.</p>';
             }
@@ -2389,15 +2363,15 @@
             let isDefaultClass = isModified ? '' : 'invisible';
 
             const intervalHtml = `
-                    <div class="flex items-center space-x-2 my-2">
-                        <span class="w-1/4 text-right text-sm text-gray-600">${interval.minAccuracy}% - ${interval.maxAccuracy}%:</span>
-                        <input type="number" id="min-days-${index}" value="${interval.minDays}" class="form-input w-1/4 px-2 py-1 border rounded-md text-sm">
-                        <span class="text-sm text-gray-600">-</span>
-                        <input type="number" id="max-days-${index}" value="${interval.maxDays}" class="form-input w-1/4 px-2 py-1 border rounded-md text-sm">
-                        <span class="text-sm text-gray-600">dias</span>
-                        <button onclick="resetRevisionInterval(${index})" class="bg-gray-200 hover:bg-gray-300 text-gray-800 font-bold py-1 px-2 rounded-md text-sm ${isDefaultClass}">Reset</button>
-                    </div>
-                `;
+                        <div class="flex items-center space-x-2 my-2">
+                            <span class="w-1/4 text-right text-sm text-gray-600">${interval.minAccuracy}% - ${interval.maxAccuracy}%:</span>
+                            <input type="number" id="min-days-${index}" value="${interval.minDays}" class="form-input w-1/4 px-2 py-1 border rounded-md text-sm">
+                            <span class="text-sm text-gray-600">-</span>
+                            <input type="number" id="max-days-${index}" value="${interval.maxDays}" class="form-input w-1/4 px-2 py-1 border rounded-md text-sm">
+                            <span class="text-sm text-gray-600">dias</span>
+                            <button onclick="resetRevisionInterval(${index})" class="bg-gray-200 hover:bg-gray-300 text-gray-800 font-bold py-1 px-2 rounded-md text-sm ${isDefaultClass}">Reset</button>
+                        </div>
+                    `;
             intervalsContainer.innerHTML += intervalHtml;
         });
 
@@ -2693,17 +2667,370 @@
     let alternativaSelecionada = null;
 
     const quizMaterias = {
-        "Cardiologia": [
-            "Arritmias Cardíacas",
-            "Aterosclerose e Doença Arterial Coronariana",
-            "Cardiomiopatias",
-            "Doenças do Pericárdio",
-            "Fisiologia Cardíaca e Eletrocardiograma",
-            "Hipertensão Arterial Sistêmica HAS",
-            "Síndromes aórticas agudas",
-            "Valvopatias"
-        ]
-    };
+            "Cardiologia": [
+                "Arritmias Cardíacas",
+                "Aterosclerose e Doença Arterial Coronariana",
+                "Cardiomiopatias",
+                "Doenças do Pericárdio",
+                "Fisiologia Cardíaca e Eletrocardiograma",
+                "Hipertensão Arterial Sistêmica HAS",
+                "Insuficiência Cardíaca",
+                "Síndromes aórticas agudas",
+                "Valvopatias"
+            ],
+            "Ciclo Básico - Graduação em Medicina": [
+                "Anatomia",
+                "Basic Life Support-Atendimento Pré-Hospitalar",
+                "Bioestatística",
+                "Biofísica",
+                "Biologia Celular",
+                "Biologia Molecular",
+                "Bioquímica",
+                "Embriologia",
+                "Epidemiologia",
+                "Farmacologia",
+                "Fisiologia",
+                "Genética Médica",
+                "Habilidades de Enfermagem-Biossegurança",
+                "Histologia",
+                "Imunologia",
+                "Metodologia Científica",
+                "Microbiologia",
+                "Parasitologia",
+                "Patologia Geral",
+                "Psicologia Médica-Bioética",
+                "Saúde Coletiva-Atenção Primária à Saúde",
+                "Semiologia-Propedêutica Médica",
+                "Sistema Cardiovascular",
+                "Sistema Digestório",
+                "Sistema Endócrino",
+                "Sistema Imune e Hematológico",
+                "Sistema Locomotor",
+                "Sistema Nervoso",
+                "Sistema Reprodutor Feminino",
+                "Sistema Reprodutor Masculino",
+                "Sistema Respiratório",
+                "Sistema Urinário"
+            ],
+            "Cirurgia": [
+                "Avaliação Pré Operatória",
+                "Cicatrização de Feridas",
+                "Cirurgia Bariátrica e Metabólica",
+                "Cirurgia de Cabeça e Pescoço",
+                "Cirurgia Infantil",
+                "Cirurgia Plástica",
+                "Cirurgia Torácica",
+                "Cirurgia Vascular",
+                "Complicações Pós-Operatórias",
+                "Hérnias da Parede Abdominal",
+                "Megacolon Adquirido",
+                "Nutrição em Cirurgia e Recuperação Pós-Operatória",
+                "Ostomias Intestinais",
+                "Princípios da Anestesiologia",
+                "Proctologia",
+                "Queimaduras e Trauma Elétrico",
+                "Resposta Endócrino-Metabólica-Inflamatória ao Trauma(REMIT)",
+                "Temas Gerais em Cirurgia",
+                "Trauma",
+                "Urgências Abdominais",
+                "Urologia",
+                "Vesícula e Vias Biliares"
+            ],
+            "Dermatologia": [
+                "Anatomia e Fisiologia da pele",
+                "Câncer de pele",
+                "Dermatoses eczematosas",
+                "Dermatoses infecciosas",
+                "Dermatoses papuloescamosas",
+                "Dermatoses vesicobolhosas",
+                "Farmacodermias",
+                "Hanseníase",
+                "Lesões elementares",
+                "Miscelânea",
+                "Re e Prova de Título"
+            ],
+            "Direito": [
+                "Direito Administrativo",
+                "Direito Constitucional",
+                "Direito do Trabalho",
+                "Direito Penal",
+                "Direito Previdenciário",
+                "Direitos Humanos"
+            ],
+            "Endocrinologia": [
+                "Adrenal",
+                "Diabetes",
+                "Disfunção sexual masculina",
+                "Gênero",
+                "Hipófise",
+                "Hipoglicemia em indivíduos não diabéticos",
+                "Metabolismo Ósseo e Mineral",
+                "Neoplasias endócrinas múltiplas",
+                "Obesidade e síndrome metabólica",
+                "Tireoide",
+                "Tireotoxicose"
+            ],
+            "Epidemiologia": [
+                "Epidemiologia"
+            ],
+            "Ética Médica": [
+                "Ética Médica"
+            ],
+            "Formação Geral - ENADE": [
+                "Formação Geral - ENADE"
+            ],
+            "Gastroenterologia": [
+                "Esôfago",
+                "Estômago",
+                "Hemorragia Digestiva (HD)",
+                "Intestinos",
+                "Neoplasias do Sistema Digestivo",
+                "Pâncreas",
+                "Procedimentos endoscópicos"
+            ],
+            "Ginecologia": [
+                "Abdomene agudo em ginecologia",
+                "Adenomiose",
+                "Amenorreias",
+                "Anatomia do trato genital feminino",
+                "Atendimento à vítima de violência sexual",
+                "Câncer de colo do útero",
+                "Câncer de mama",
+                "Cervicites",
+                "Ciclo menstrual",
+                "Climatério",
+                "Dismenorreia",
+                "Doença Inflamatória Pélvica",
+                "Doença de vulva e vagina",
+                "Dor pélvica crônica",
+                "Embriologia do trato genital feminino",
+                "Endometriose",
+                "Fístulas genito-urinárias",
+                "Hiperplasia Endometrial - Câncer de endométrio e outros tumores do corpo do útero",
+                "Incontinência urinária",
+                "Infertilidade conjugal",
+                "Introdução e doenças benignas da mama",
+                "Miomatose uterina",
+                "Planejamento familiar",
+                "Pólipos uterinos",
+                "Prolapsos de órgãos pélvicos",
+                "Rastreamento de Câncer de colo do útero",
+                "Rastreamento do câncer de mama",
+                "Sangramento uterino anormal",
+                "Sexualidade",
+                "Síndrome da bexiga dolorosa",
+                "Síndrome dos ovários policísticos",
+                "Síndrome pré-menstrual",
+                "Tumores anexiais e câncer de ovário",
+                "Úlceras genitais",
+                "Vulvovaginites"
+            ],
+            "Hematologia": [
+                "Anemias e condições não hematológicas",
+                "Anemias hemolíticas",
+                "Anemias macrocíticas",
+                "Anemias microcíticas",
+                "Fundamentos de oncohematologia",
+                "Gamopatias monoclonais",
+                "Hemoglobinopatias",
+                "Hemostasia",
+                "Introdução ao Estudo das Anemias",
+                "Leucemias",
+                "Linfomas",
+                "Linfomas de células TNK",
+                "Medicina transfusional",
+                "Mielodisplasias e mieloproliferações outras alterações da medula óssea",
+                "Porfirias",
+                "Produção das células sanguíneas (hematopoiese) e sua relação com os órgãos hematopoiéticos"
+            ],
+            "Hepatologia": [
+                "Cirrose",
+                "Complicações da Insuficiência Hepática",
+                "Hepatite Fulminante (Insuficiência Hepática Aguda)",
+                "Hepatites Virais",
+                "Icterícia não Obstrutiva",
+                "Introdução à Hepatologia",
+                "Outras Hepatopatias",
+                "Transplante Hepático e Hepatectomia",
+                "Tumores Hepáticos"
+            ],
+            "Infectologia": [
+                "Animais peçonhentos",
+                "Arboviroses",
+                "COVID 19",
+                "DST",
+                "Hepatoesplenomegalias crônicas",
+                "Herpes simples e Herpes zoster",
+                "HIV-Aids",
+                "Imunossuprimidos não-HIV",
+                "Infecções bacterianas",
+                "Infecções do Sistema Nervoso Central",
+                "Infecções fúngicas",
+                "Infecções relacionadas à assistência à saúde (IRAS)",
+                "Infecções sexualmente transmissíveis",
+                "Influenza",
+                "Microbiologia e Antimicrobianos",
+                "Outras doenças infecciosas",
+                "Parasitoses",
+                "Pneumonia",
+                "Sepse",
+                "Síndromes febris",
+                "Tuberculose (TB)",
+                "Vacinas"
+            ],
+            "Informática": [
+                "Informática"
+            ],
+            "Inglês": [
+                "Inglês"
+            ],
+            "Língua Portuguesa (Português)": [
+                "Língua Portuguesa (Português)"
+            ],
+            "Matemática": [
+                "Matemática"
+            ],
+            "MedATB": [
+                "MedATB"
+            ],
+            "Medicina de Família e Comunidade": [
+                "Medicina de Família e Comunidade"
+            ],
+            "Nefrologia": [
+                "Controle da água corporal total",
+                "Distúrbios do equilíbrio acidobásico (DHE)",
+                "Distúrbios do potássio",
+                "Doença Renal Crônica",
+                "Glomerulopatias",
+                "Hipernatremia",
+                "Hiponatremia",
+                "Infecção do trato urinário (ITU)",
+                "Lesão renal aguda (LRA)",
+                "Nefrolitíase",
+                "Túbulo-interstício"
+            ],
+            "Neurologia": [
+                "Acidentes Vasculares Cerebrais (AVC)",
+                "Anatomia, Fisiologia e Semiologia Neurológica",
+                "Cefaleias",
+                "Coma e Alterações da Consciência",
+                "Demências",
+                "Distúrbios do Movimento",
+                "Distúrbios do Sono",
+                "Doenças Imunológicas do Sistema Nervoso Central",
+                "Doenças Neuromusculares",
+                "Epilepsias",
+                "Mielopatias",
+                "Neurologia Vestibular",
+                "Traumatismo Craniencefálico",
+                "Tumores do Sistema Nervoso Central"
+            ],
+            "Obstetrícia": [
+                "Abortamento habitual (Abortamento de repetição) e insuficiência istmocervical",
+                "Alteração do volume de líquido amniótico (ILA)",
+                "Anemias na gestação",
+                "Assistência ao parto normal",
+                "Assistência ao parto pélvico",
+                "Assistência pré-natal",
+                "Avaliação da vitalidade fetal",
+                "Bacia obstétrica e pelvimetria",
+                "Cardiopatias na gestação",
+                "Colagenoses na gestação-Lupus eritematoso Sistêmico (LES)",
+                "Covid na gestação",
+                "Desenvolvimento e fisiologia fetal",
+                "Diagnóstico e datação da gestação",
+                "Distocia - funcional, de objeto, de trajeto",
+                "Doença hemolítica perinatal (DHPN)",
+                "Estática fetal",
+                "Fases clínicas do parto",
+                "Gestação múltipla (gestação gemelar)",
+                "Hemorragias pós parto (HPP) e rotura uterina",
+                "Imunologia na gestação",
+                "Indução de parto",
+                "Infecção puerperal - endometrite puerperal",
+                "Infecções congênitas",
+                "Mecanismo de parto",
+                "Modificações fisiológicas da gestação",
+                "Morte fetal - Óbito fetal (OF)",
+                "Parto cesáreo",
+                "Partograma",
+                "Parto vaginal operatório",
+                "Pós-datismo",
+                "Procedimentos invasivos em medicina fetal",
+                "Puerpério fisiológico",
+                "Restrição de crescimento fetal (RCF)",
+                "Rotura prematura de membranas ovulares (RPM)",
+                "Sangramento primeira metade",
+                "Sangramento segunda metade da gestação",
+                "Trabalho de parto prematuro (TPP)",
+                "Ultrassom em obstetrícia - (USG)"
+            ],
+            "Oftalmologia": [
+                "Oftalmologia"
+            ],
+            "Ortopedia": [
+                "Ortopedia"
+            ],
+            "Otorrinolaringologia": [
+                "Otorrinolaringologia"
+            ],
+            "Outros": [
+                "Atualidades"
+            ],
+            "Pediatria": [
+                "Cardiologia Pediátrica",
+                "Emergências Pediátricas",
+                "Endocrinologia Pediátrica",
+                "Gastrologia Pediátrica",
+                "Hematologia Pediátrica",
+                "Infectologia Pediátrica",
+                "Maus tratos à crianças e adolescentes",
+                "Nefrologia Pediátrica",
+                "Neonatologia Pediátrica",
+                "Neuropediatria",
+                "Pneumologia Pediátrica",
+                "Puericultura",
+                "Reumatologia Pediátrica"
+            ],
+            "Pneumologia": [
+                "Asma",
+                "Câncer de Pulmão",
+                "Derrame Pleural",
+                "Doença Pulmonar Obstrutiva Crônica (DPOC)",
+                "Introdução à Pneumologia",
+                "Pneumologia Intensiva",
+                "Pneumopatias Intersticiais, Hipertensão Pulmonar, Bronquiectasias e Pneumotórax Espontâneo",
+                "Tromboembolismo Pulmonar (TEP)"
+            ],
+            "Psiquiatria": [
+                "Psiquiatria"
+            ],
+            "Raciocínio Lógico": [
+                "Raciocínio Lógico"
+            ],
+            "Reumatologia": [
+                "Amiloidose",
+                "Artropatias infecciosas",
+                "Artropatias inflamatórias",
+                "Diagnóstico diferencial das artropatias",
+                "Doença relacionada à IgG4",
+                "Doenças autoimunes do tecido conjuntivo",
+                "Doenças da cartilagem e do osso",
+                "Doenças da infância",
+                "Doenças sistêmicas com manifestações reumatológicas",
+                "Introdução à Reumatologia",
+                "Sarcoidose",
+                "Síndrome SAPHO",
+                "Síndromes Dolorosas Crônicas",
+                "Vasculites"
+            ],
+            "Saúde do Trabalhador": [
+                "Saúde do Trabalhador"
+            ],
+            "Sistema Único de Saúde (SUS)": [
+                "Sistema Único de Saúde (SUS)"
+            ]
+        };
 
     const quizConfiguracaoTela = document.getElementById('configuracao-tela');
     const quizRevisaoTela = document.getElementById('revisao-tela');
@@ -2729,6 +3056,18 @@
     const quizProgressoFaltamSpan = document.getElementById('progresso-faltam');
     const quizQuestoesNavegacaoGrid = document.getElementById('questoes-navegacao-grid');
 
+    async function atualizarAssuntosDoQuiz(materiaSelecionada) {
+        quizAssuntoSelect.innerHTML = '<option value="todos">Todos</option>';
+        if (quizMaterias[materiaSelecionada] && materiaSelecionada !== 'todos') {
+            quizMaterias[materiaSelecionada].forEach(assunto => {
+                const option = document.createElement('option');
+                option.value = assunto;
+                option.textContent = capitalizeFirstLetter(assunto.replace(/-/g, ' '));
+                quizAssuntoSelect.appendChild(option);
+            });
+        }
+    }
+
     function popularSeletoresQuiz() {
         for (const materia in quizMaterias) {
             const option = document.createElement('option');
@@ -2739,15 +3078,7 @@
 
         quizMateriaSelect.addEventListener('change', async() => {
             const materiaSelecionada = quizMateriaSelect.value;
-            quizAssuntoSelect.innerHTML = '<option value="todos">Todos</option>';
-            if (quizMaterias[materiaSelecionada] && materiaSelecionada !== 'todos') {
-                quizMaterias[materiaSelecionada].forEach(assunto => {
-                    const option = document.createElement('option');
-                    option.value = assunto;
-                    option.textContent = capitalizeFirstLetter(assunto.replace(/-/g, ' '));
-                    quizAssuntoSelect.appendChild(option);
-                });
-            }
+            await atualizarAssuntosDoQuiz(materiaSelecionada);
             await atualizarProgressoEContagemQuiz();
         });
 
@@ -3017,6 +3348,10 @@
         }
         feedbackDiv.style.display = 'block';
 
+        // ✨ LINHAS ADICIONADAS PARA RESOLVER O PROBLEMA ✨
+        quizCorretasContagemSpan.textContent = placar.corretas;
+        quizErradasContagemSpan.textContent = placar.erradas;
+
         quizProximaPerguntaBtn.style.display = 'block';
         quizProximaPerguntaBtn.disabled = false;
         quizResponderBtn.style.display = 'none';
@@ -3039,9 +3374,14 @@
             }
         });
 
+        // Pega a matéria e assunto da primeira questão como referência
+        const primeiraQuestao = questoesSelecionadasGlobais[0];
+        const materiaReferencia = primeiraQuestao ? primeiraQuestao.materia : 'Desconhecida';
+        const assuntoReferencia = primeiraQuestao ? primeiraQuestao.assunto : 'Desconhecido';
+        
         const newRecord = {
-            materia: capitalizeFirstLetter(quizMateriaSelect.value),
-            assunto: capitalizeFirstLetter(quizAssuntoSelect.value.replace(/-/g, ' ')),
+            materia: materiaReferencia,
+            assunto: assuntoReferencia,
             data: new Date().toISOString().slice(0, 10),
             quantidadeFeita: questoesSelecionadasGlobais.length,
             quantidadeAcertada: placar.corretas,
@@ -3052,7 +3392,12 @@
 
         addQuestionRecord(newRecord);
 
-        quizQuestaoContainer.innerHTML = '<h2>Revisão Concluída!</h2><p>Seu desempenho foi registrado. Você pode ver os resultados na seção "Desempenho" e as novas revisões na seção "Revisões".</p><div class="navegacao"><button onclick="location.reload()" class="quiz-button">Nova Revisão</button></div>';
+        // Atualiza a tabela de revisões após o registro do quiz
+        updateRevisionSchedule(materiaReferencia, assuntoReferencia);
+
+        saveQuizPerformance();
+        
+        quizQuestaoContainer.innerHTML = '<h2>Prática Concluída!</h2><p>Seu desempenho foi registrado. Você pode ver os resultados na seção "Desempenho" e as novas revisões na seção "Revisões".</p><div class="navegacao"><button onclick="location.reload()" class="quiz-button">Nova Prática</button></div>';
         quizResponderBtn.style.display = 'none';
         quizProximaPerguntaBtn.style.display = 'none';
         quizVoltarBtn.style.display = 'none';

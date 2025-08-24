@@ -393,36 +393,15 @@
 
         <div id="registro-section" class="grid grid-cols-1 lg:grid-cols-3 gap-8">
             <div class="lg:col-span-1 card">
-                <h2 class="text-2xl font-semibold mb-6 text-gray-800">Pesquisar Registro de Questões</h2>
-                <div class="flex items-center space-x-4">
-                    <input type="text" id="search-input" placeholder="ID do Bloco ou ID da Questão"
-                        class="form-input flex-1 mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
-                    <button type="button" id="search-button"
-                            class="form-button bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-lg shadow-md">
-                        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg>
-                    </button>
-                </div>
-            </div>
-            <div class="lg:col-span-2 card">
-                <h2 class="text-2xl font-semibold mb-6 text-gray-800">Registros Recentes</h2>
-                <div class="overflow-x-auto">
-                    <table class="min-w-full bg-white rounded-lg shadow-md">
-                        <thead>
-                            <tr class="bg-gray-100 text-gray-600 uppercase text-sm leading-normal">
-                                <th class="py-3 px-6 text-left">ID do Bloco</th>
-                                <th class="py-3 px-6 text-left">Matéria</th>
-                                <th class="py-3 px-6 text-left">Assunto</th>
-                                <th class="py-3 px-6 text-left">Data</th>
-                                <th class="py-3 px-6 text-center">Ações</th>
-                            </tr>
-                        </thead>
-                        <tbody id="records-table-body" class="text-gray-700 text-sm font-light">
-                            <tr><td colspan="5" class="py-3 px-6 text-center">Nenhum registro para exibir.</td></tr>
-                        </tbody>
-                    </table>
-                </div>
-            </div>
-        </div>
+                <h2 class="text-2xl font-semibold mb-6 text-gray-800">Registrar Nova Questão</h2>
+                <form id="question-form" class="space-y-4">
+                    <div>
+                        <label for="materia" class="block text-sm font-medium text-gray-700 mb-1">Matéria:</label>
+                        <input type="text" id="materia" name="materia" required list="materias-datalist"
+                                class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
+                        <datalist id="materias-datalist"></datalist>
+                    </div>
+                    <div>
                         <label for="assunto" class="block text-sm font-medium text-gray-700 mb-1">Assunto:</label>
                         <input type="text" id="assunto" name="assunto" required list="assuntos-datalist"
                                 class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">

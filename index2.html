@@ -1990,14 +1990,15 @@
         detailsAcertadas.textContent = record.quantidadeAcertada;
         questionsTableBody.innerHTML = '';
 
-        const questionData = record.quizPerformanceData || {};
-
-        if (Object.keys(questionData).length > 0) {
-            for (const questionId in questionData) {
+        // ✨ LINHAS ADICIONADAS/CORRIGIDAS PARA RESOLVER O PROBLEMA ✨
+        const questionIdsInRecord = record.quizQuestionIds || [];
+        if (questionIdsInRecord.length > 0) {
+            questionIdsInRecord.forEach(questionId => {
+                const performance = quizPerformance[questionId] || { acertos: 0, erros: 0 };
                 const row = questionsTableBody.insertRow();
                 row.insertCell().textContent = questionId;
-                row.insertCell().textContent = questionData[questionId].acertos;
-                row.insertCell().textContent = questionData[questionId].erros;
+                row.insertCell().textContent = performance.acertos;
+                row.insertCell().textContent = performance.erros;
 
                 const actionsCell = row.insertCell();
                 const viewJsonButton = document.createElement('button');
@@ -2005,7 +2006,7 @@
                 viewJsonButton.classList.add('bg-blue-500', 'hover:bg-blue-600', 'text-white', 'font-bold', 'py-1', 'px-2', 'rounded-md', 'text-sm');
                 viewJsonButton.onclick = () => showQuestionDetails(questionId);
                 actionsCell.appendChild(viewJsonButton);
-            }
+            });
         } else {
             questionsTableBody.innerHTML = '<tr><td colspan="4" class="py-3 px-6 text-center">Nenhuma questão detalhada encontrada para este registro.</td></tr>';
         }
@@ -2052,30 +2053,30 @@
                     alternativesHtml += `<li class="${liClass}">${alt.letra}) ${alt.texto}</li>`;
                 });
 
-                // Verifica o desempenho histórico do usuário para esta questão
+                // ✨ LINHAS ADICIONADAS/CORRIGIDAS PARA RESOLVER O PROBLEMA ✨
                 const performance = quizPerformance[question.id] || { acertos: 0, erros: 0 };
                 const totalTentativas = performance.acertos + performance.erros;
                 const acertosPerc = totalTentativas > 0 ? ((performance.acertos / totalTentativas) * 100).toFixed(2) : '0.00';
 
                 content.innerHTML = `
-                        <p><strong>ID da Questão:</strong> ${question.id}</p>
-                        <p><strong>Matéria:</strong> ${capitalizeFirstLetter(question.materia)}</p>
-                        <p><strong>Assunto:</strong> ${capitalizeFirstLetter(question.assunto.replace(/-/g, ' '))}</p>
-                        <hr class="my-4">
-                        <h4 class="font-bold">Desempenho Pessoal:</h4>
-                        <ul class="details-list">
-                            <li>Acertos: <span class="status correct">${performance.acertos}</span></li>
-                            <li>Erros: <span class="status incorrect">${performance.erros}</span></li>
-                            <li>Precisão Histórica: <span class="status">${acertosPerc}%</span></li>
-                        </ul>
-                        <hr class="my-4">
-                        <h4 class="font-bold mt-4">Enunciado:</h4>
-                        <p class="mb-4">${question.enunciado}</p>
-                        <h4 class="font-bold">Alternativas:</h4>
-                        <ul class="list-disc list-inside space-y-1">${alternativesHtml}</ul>
-                        <h4 class="font-bold mt-4">Gabarito:</h4>
-                        <p class="correct-answer-text">Alternativa correta: ${question.resposta_correta}</p>
-                    `;
+                    <p><strong>ID da Questão:</strong> ${question.id}</p>
+                    <p><strong>Matéria:</strong> ${capitalizeFirstLetter(question.materia)}</p>
+                    <p><strong>Assunto:</strong> ${capitalizeFirstLetter(question.assunto.replace(/-/g, ' '))}</p>
+                    <hr class="my-4">
+                    <h4 class="font-bold">Desempenho Pessoal:</h4>
+                    <ul class="details-list">
+                        <li>Acertos: <span class="status correct">${performance.acertos}</span></li>
+                        <li>Erros: <span class="status incorrect">${performance.erros}</span></li>
+                        <li>Precisão Histórica: <span class="status">${acertosPerc}%</span></li>
+                    </ul>
+                    <hr class="my-4">
+                    <h4 class="font-bold mt-4">Enunciado:</h4>
+                    <p class="mb-4">${question.enunciado}</p>
+                    <h4 class="font-bold">Alternativas:</h4>
+                    <ul class="list-disc list-inside space-y-1">${alternativesHtml}</ul>
+                    <h4 class="font-bold mt-4">Gabarito:</h4>
+                    <p class="correct-answer-text">Alternativa correta: ${question.resposta_correta}</p>
+                `;
             } else {
                 content.innerHTML = '<p class="text-red-600">Questão não encontrada. O arquivo JSON pode estar faltando ou o ID está incorreto.</p>';
             }
@@ -2935,7 +2936,7 @@
         });
     }
 
-    function verificarRespostaQuiz() {
+        function verificarRespostaQuiz() {
         const questao = questoesSelecionadasGlobais[indiceQuestaoAtual];
         if (!questao || alternativaSelecionada === null) return;
 
@@ -2973,6 +2974,10 @@
         }
         feedbackDiv.style.display = 'block';
 
+        // ✨ LINHAS ADICIONADAS PARA RESOLVER O PROBLEMA ✨
+        quizCorretasContagemSpan.textContent = placar.corretas;
+        quizErradasContagemSpan.textContent = placar.erradas;
+
         quizProximaPerguntaBtn.style.display = 'block';
         quizProximaPerguntaBtn.disabled = false;
         quizResponderBtn.style.display = 'none';
@@ -3008,6 +3013,10 @@
 
         addQuestionRecord(newRecord);
 
+        // ✨ LINHA CORRIGIDA ✨
+        saveQuizPerformance();
+        
+        // ... restante do código da função
         quizQuestaoContainer.innerHTML = '<h2>Revisão Concluída!</h2><p>Seu desempenho foi registrado. Você pode ver os resultados na seção "Desempenho" e as novas revisões na seção "Revisões".</p><div class="navegacao"><button onclick="location.reload()" class="quiz-button">Nova Revisão</button></div>';
         quizResponderBtn.style.display = 'none';
         quizProximaPerguntaBtn.style.display = 'none';

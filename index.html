@@ -349,6 +349,32 @@
             background-color: #eef;
             border-radius: 4px;
         }
+        .details-list {
+            list-style-type: none;
+            padding: 0;
+        }
+        .details-list li {
+            padding: 8px;
+            border-bottom: 1px solid #eee;
+        }
+        .details-list li .status {
+            font-weight: bold;
+            margin-left: 8px;
+        }
+        .details-list li .correct {
+            color: green;
+        }
+        .details-list li .incorrect {
+            color: red;
+        }
+        .correct-answer-text {
+            color: #15803d;
+            font-weight: bold;
+        }
+        .incorrect-answer-text {
+            color: #b91c1c;
+            font-weight: bold;
+        }
     </style>
 </head>
 <body class="min-h-screen flex flex-col">
@@ -357,8 +383,8 @@
             <h1 class="text-3xl font-bold mb-4 sm:mb-0 text-center sm:text-left">Registro e Desempenho de Questões</h1>
             <div class="flex items-center space-x-2 sm:space-x-4 flex-wrap header-buttons mt-4 sm:mt-0">
                 <button id="show-register-section" class="flex-1 min-w-[120px] bg-blue-700 hover:bg-blue-900 text-white font-bold py-2 px-3 sm:px-4 rounded-lg shadow-md text-sm sm:text-base flex items-center justify-center space-x-2">
-                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2m-4 0V3m0 2a2 2 0 002 2h2m-4 0h6m-3-4v8m0-8a4 4 0 01-4 4H7"></path></svg>
-                    <span>Registrar</span>
+                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2m-4 0V3m0 2a2 2 0 012 2h2m-4 0h6m-3-4v8m0-8a4 4 0 01-4 4H7"></path></svg>
+                    <span>Registros</span>
                 </button>
                 <button id="show-performance-section" class="flex-1 min-w-[120px] bg-blue-700 hover:bg-blue-900 text-white font-bold py-2 px-3 sm:px-4 rounded-lg shadow-md text-sm sm:text-base flex items-center justify-center space-x-2">
                     <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M11 3.055A9.001 9.001 0 1020.945 13H11V3.055zM12 21a9 9 0 100-18 9 9 0 000 18z"></path></svg>
@@ -368,7 +394,7 @@
                     <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-4 4V3m-4 4h8M5 11h14M7 15h6m-6 4h4m-4-8v8a2 2 0 002 2h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2z"></path></svg>
                     <span>Revisões</span>
                 </button>
-                   <button id="show-quiz-section" class="flex-1 min-w-[120px] bg-blue-700 hover:bg-blue-900 text-white font-bold py-2 px-3 sm:px-4 rounded-lg shadow-md text-sm sm:text-base flex items-center justify-center space-x-2">
+                    <button id="show-quiz-section" class="flex-1 min-w-[120px] bg-blue-700 hover:bg-blue-900 text-white font-bold py-2 px-3 sm:px-4 rounded-lg shadow-md text-sm sm:text-base flex items-center justify-center space-x-2">
                     <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5s3.332.477 4.5 1.253v13C19.832 18.477 18.246 18 16.5 18s-3.332.477-4.5 1.253"></path></svg>
                     <span>Praticar</span>
                 </button>
@@ -393,40 +419,15 @@
 
         <div id="registro-section" class="grid grid-cols-1 lg:grid-cols-3 gap-8">
             <div class="lg:col-span-1 card">
-                <h2 class="text-2xl font-semibold mb-6 text-gray-800">Registrar Nova Questão</h2>
-                <form id="question-form" class="space-y-4">
-                    <div>
-                        <label for="materia" class="block text-sm font-medium text-gray-700 mb-1">Matéria:</label>
-                        <input type="text" id="materia" name="materia" required list="materias-datalist"
-                                class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
-                        <datalist id="materias-datalist"></datalist>
-                    </div>
-                    <div>
-                        <label for="assunto" class="block text-sm font-medium text-gray-700 mb-1">Assunto:</label>
-                        <input type="text" id="assunto" name="assunto" required list="assuntos-datalist"
-                                class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
-                        <datalist id="assuntos-datalist"></datalist>
-                    </div>
-                    <div>
-                        <label for="data" class="block text-sm font-medium text-gray-700 mb-1">Data:</label>
-                        <input type="date" id="data" name="data" required
-                                class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
-                    </div>
-                    <div>
-                        <label for="quantidadeFeita" class="block text-sm font-medium text-gray-700 mb-1">Quantidade Feita:</label>
-                        <input type="number" id="quantidadeFeita" name="quantidadeFeita" min="0" required
-                                class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
-                    </div>
-                    <div>
-                        <label for="quantidadeAcertada" class="block text-sm font-medium text-gray-700 mb-1">Quantidade Acertada:</label>
-                        <input type="number" id="quantidadeAcertada" name="quantidadeAcertada" min="0" required
-                                class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
-                    </div>
-                    <button type="submit"
-                                                 class="form-button w-full bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-lg shadow-md">
-                        Registrar
+                <h2 class="text-2xl font-semibold mb-6 text-gray-800">Pesquisar Registro de Questões</h2>
+                <div class="flex items-center space-x-4">
+                    <input type="text" id="search-input" placeholder="ID do Bloco ou ID da Questão"
+                        class="form-input flex-1 mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
+                    <button type="button" id="search-button"
+                        class="form-button bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-lg shadow-md">
+                        <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg>
                     </button>
-                </form>
+                </div>
             </div>
             <div class="lg:col-span-2 card">
                 <h2 class="text-2xl font-semibold mb-6 text-gray-800">Registros Recentes</h2>
@@ -434,16 +435,15 @@
                     <table class="min-w-full bg-white rounded-lg shadow-md">
                         <thead>
                             <tr class="bg-gray-100 text-gray-600 uppercase text-sm leading-normal">
+                                <th class="py-3 px-6 text-left">ID do Bloco</th>
                                 <th class="py-3 px-6 text-left">Matéria</th>
                                 <th class="py-3 px-6 text-left">Assunto</th>
                                 <th class="py-3 px-6 text-left">Data</th>
-                                <th class="py-3 px-6 text-left">Feitas</th>
-                                <th class="py-3 px-6 text-left">Acertadas</th>
                                 <th class="py-3 px-6 text-center">Ações</th>
                             </tr>
                         </thead>
                         <tbody id="records-table-body" class="text-gray-700 text-sm font-light">
-                            <tr><td colspan="6" class="py-3 px-6 text-center">Nenhum registro para exibir.</td></tr>
+                            <tr><td colspan="5" class="py-3 px-6 text-center">Nenhum registro para exibir.</td></tr>
                         </tbody>
                     </table>
                 </div>
@@ -791,30 +791,30 @@
                 <div>
                     <label for="edit-materia" class="block text-sm font-medium text-gray-700 mb-1">Matéria:</label>
                     <input type="text" id="edit-materia" name="materia" required
-                                 class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
+                                class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
                 </div>
                 <div>
                     <label for="edit-assunto" class="block text-sm font-medium text-gray-700 mb-1">Assunto:</label>
                     <input type="text" id="edit-assunto" name="assunto" required
-                                 class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
+                                class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
                 </div>
                 <div>
                     <label for="edit-data" class="block text-sm font-medium text-gray-700 mb-1">Data:</label>
                     <input type="date" id="edit-data" name="data" required
-                                 class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
+                                class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
                 </div>
                 <div>
                     <label for="edit-quantidadeFeita" class="block text-sm font-medium text-gray-700 mb-1">Quantidade Feita:</label>
                     <input type="number" id="edit-quantidadeFeita" name="quantidadeFeita" min="0" required
-                                 class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
+                                class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
                 </div>
                 <div>
                     <label for="edit-quantidadeAcertada" class="block text-sm font-medium text-gray-700 mb-1">Quantidade Acertada:</label>
                     <input type="number" id="edit-quantidadeAcertada" name="quantidadeAcertada" min="0" required
-                                 class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
+                                class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
                 </div>
                 <button type="submit"
-                                                 class="form-button w-full bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-lg shadow-md">
+                                class="form-button w-full bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-lg shadow-md">
                     Salvar Alterações
                 </button>
             </form>
@@ -845,15 +845,15 @@
                 <div>
                     <label for="revision-quantidadeFeita" class="block text-sm font-medium text-gray-700 mb-1">Quantidade Feita:</label>
                     <input type="number" id="revision-quantidadeFeita" name="quantidadeFeita" min="0" required
-                                 class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
+                                class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
                 </div>
                 <div>
                     <label for="revision-quantidadeAcertada" class="block text-sm font-medium text-gray-700 mb-1">Quantidade Acertada:</label>
                     <input type="number" id="revision-quantidadeAcertada" name="quantidadeAcertada" min="0" required
-                                 class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
+                                class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
                 </div>
                 <button type="submit"
-                                                 class="form-button w-full bg-green-600 hover:bg-green-700 text-white font-bold py-2 px-4 rounded-lg shadow-md">
+                                class="form-button w-full bg-green-600 hover:bg-green-700 text-white font-bold py-2 px-4 rounded-lg shadow-md">
                     Registrar Revisão
                 </button>
             </form>
@@ -870,10 +870,10 @@
                 <div>
                     <label for="reschedule-date" class="block text-sm font-medium text-gray-700 mb-1">Nova Data:</label>
                     <input type="date" id="reschedule-date" name="newDate" required
-                                 class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
+                                class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
                 </div>
                 <button type="submit"
-                                                 class="form-button w-full bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-lg shadow-md">
+                                class="form-button w-full bg-blue-600 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-lg shadow-md">
                     Confirmar Reagendamento
                 </button>
             </form>
@@ -919,7 +919,7 @@
                 </div>
 
                 <div class="p-4 bg-gray-50 rounded-lg shadow-sm border border-gray-200">
-                    <h3 class="flex items-center text-xl font-semibold text-gray-800 mb-2">
+                    <h3 class="flex items-center text-xl font-semibold text-green-500 mr-3">
                         <svg class="h-6 w-6 text-green-500 mr-3" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5s3.332.477 4.5 1.253v13C19.832 18.477 18.246 18 16.5 18s-3.332.477-4.5 1.253" />
                         </svg>
@@ -929,7 +929,7 @@
                 </div>
                 
                 <div class="p-4 bg-gray-50 rounded-lg shadow-sm border border-gray-200">
-                    <h3 class="flex items-center text-xl font-semibold text-gray-800 mb-2">
+                    <h3 class="flex items-center text-xl font-semibold text-purple-500 mr-3">
                         <svg class="h-6 w-6 text-purple-500 mr-3" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
                         </svg>
@@ -939,7 +939,7 @@
                 </div>
 
                 <div class="p-4 bg-gray-50 rounded-lg shadow-sm border border-gray-200">
-                    <h3 class="flex items-center text-xl font-semibold text-gray-800 mb-2">
+                    <h3 class="flex items-center text-xl font-semibold text-yellow-500 mr-3">
                         <svg class="h-6 w-6 text-yellow-500 mr-3" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
                         </svg>
@@ -975,7 +975,7 @@
                                 <li>Com base no seu desempenho registrado, o aplicativo agenda automaticamente as próximas revisões.</li>
                                 <li>Assuntos com baixa precisão terão revisões mais frequentes, enquanto aqueles com alta precisão terão intervalos mais longos.</li>
                                 <li>As revisões são classificadas como "Em Atraso", "Hoje" ou "Próximas", ajudando a priorizar.</li>
-                                <li>Quando você conclui uma revisão, basta clicar em <strong>"Concluir"</strong> e registrar seu novo desempenho para que o aplicativo recalcule o próximo agendamento.</li>
+                                <li>Quando você conclui uma revisão, basta clicar em <strong>"Praticar"</strong> para ser direcionado para as questões daquele assunto.</li>
                                 <li>Ajuste os intervalos de revisão em <strong>"Ajustar Variáveis"</strong> para personalizar a frequência de acordo com sua necessidade.</li>
                             </ul>
                         </div>
@@ -991,9 +991,66 @@
         </div>
     </div>
     
-    <script type="module">
-        // Este bloco de script agora contém a lógica combinada de ambos os códigos
+    <div id="view-details-modal" class="modal-overlay hidden">
+        <div class="modal-content">
+            <button id="close-view-details-modal" class="close-button">&times;</button>
+            <h2 class="text-2xl font-semibold mb-6 text-gray-800">Detalhes do Registro</h2>
+            <div class="space-y-4">
+                <p><strong>ID do Bloco:</strong> <span id="details-block-id"></span></p>
+                <p><strong>Matéria:</strong> <span id="details-materia"></span></p>
+                <p><strong>Assunto:</strong> <span id="details-assunto"></span></p>
+                <p><strong>Data:</strong> <span id="details-data"></span></p>
+                <p><strong>Feitas:</strong> <span id="details-feitas"></span></p>
+                <p><strong>Acertadas:</strong> <span id="details-acertadas"></span></p>
+                <h3 class="text-xl font-semibold text-gray-800 mb-2">Questões do Quiz Relacionadas</h3>
+                <div class="overflow-x-auto">
+                    <table class="min-w-full bg-white rounded-lg shadow-md">
+                        <thead>
+                            <tr class="bg-gray-100 text-gray-600 uppercase text-sm leading-normal">
+                                <th class="py-3 px-6 text-left">ID da Questão</th>
+                                <th class="py-3 px-6 text-left">Acertos</th>
+                                <th class="py-3 px-6 text-left">Erros</th>
+                                <th class="py-3 px-6 text-left">Ações</th>
+                            </tr>
+                        </thead>
+                        <tbody id="details-questions-table-body" class="text-gray-700 text-sm font-light">
+                            </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
 
+    <div id="question-details-modal" class="modal-overlay hidden">
+        <div class="modal-content">
+            <button onclick="closeQuestionDetailsModal()" class="close-button">&times;</button>
+            <h2 class="text-2xl font-semibold mb-6 text-gray-800">Detalhes da Questão</h2>
+            <div id="question-details-content" class="space-y-4">
+                </div>
+        </div>
+    </div>
+
+    <div id="start-quiz-modal" class="modal-overlay hidden">
+        <div class="modal-content max-w-sm text-center">
+            <button id="close-start-quiz-modal" class="close-button">&times;</button>
+            <h2 class="text-2xl font-semibold mb-4 text-gray-800">Iniciar Prática</h2>
+            <p class="text-gray-600 mb-6">Quantas questões você gostaria de praticar para o assunto: <strong id="quiz-subject-name" class="text-blue-700"></strong>?</p>
+            <form id="start-quiz-form" class="space-y-4">
+                <input type="hidden" id="start-quiz-materia">
+                <input type="hidden" id="start-quiz-assunto">
+                <div class="form-group">
+                    <label for="start-quiz-num-questoes" class="block text-sm font-medium text-gray-700 mb-1">Número de Questões:</label>
+                    <input type="number" id="start-quiz-num-questoes" value="15" min="1" required
+                        class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm">
+                </div>
+                <button type="submit" class="form-button w-full bg-green-600 hover:bg-green-700 text-white font-bold py-2 px-4 rounded-lg shadow-md">
+                    Começar
+                </button>
+            </form>
+        </div>
+    </div>
+
+    <script type="module">
         // =========================================================================
         // --- LÓGICA DO CODE 1 (Registro, Desempenho e Revisão Espaçada) ---
         // =========================================================================
@@ -1005,7 +1062,7 @@
         let currentStartDate = '';
         let currentEndDate = '';
         let currentAccuracyThreshold = 70;
-        
+
         const defaultRevisionIntervals = [
             { minAccuracy: 0, maxAccuracy: 30, minDays: 1, maxDays: 3 },
             { minAccuracy: 30, maxAccuracy: 50, minDays: 3, maxDays: 7 },
@@ -1108,7 +1165,7 @@
                 console.error("Erro ao salvar dados de desempenho do quiz:", e);
             }
         };
-        
+
         const loadQuestionData = () => {
             try {
                 const storedRecords = localStorage.getItem('questionRecords');
@@ -1123,26 +1180,22 @@
                 const storedRevisions = localStorage.getItem('scheduledRevisions');
                 if (storedRevisions) {
                     currentRevisions = JSON.parse(storedRevisions);
-                    console.log("Revisões agendadas carregadas:", currentRevisions);
                 } else {
                     currentRevisions = [];
-                    console.log("Nenhuma revisão agendada encontrada.");
                 }
 
                 const storedQuizPerformance = localStorage.getItem('quizPerformance');
                 if (storedQuizPerformance) {
                     quizPerformance = JSON.parse(storedQuizPerformance);
-                    console.log("Desempenho do quiz carregado:", quizPerformance);
                 } else {
                     quizPerformance = {};
-                    console.log("Nenhum dado de desempenho do quiz encontrado.");
                 }
 
                 const storedDisplaySettings = localStorage.getItem('displaySettings');
                 if (storedDisplaySettings) {
                     displaySettings = { ...displaySettings, ...JSON.parse(storedDisplaySettings) };
                 }
-                
+
                 const storedComparisonSettings = localStorage.getItem('comparisonSettings');
                 if (storedComparisonSettings) {
                     comparisonSettings = { ...comparisonSettings, ...JSON.parse(storedComparisonSettings) };
@@ -1160,7 +1213,7 @@
                 quizPerformance = {};
             }
         };
-        
+
         const capitalizeFirstLetter = (string) => {
             if (!string) return '';
             return string.charAt(0).toUpperCase() + string.slice(1);
@@ -1200,7 +1253,7 @@
                 showMessage('Registro não encontrado para atualização.', 'error');
             }
         };
-        
+
         const deleteQuestionRecord = (recordId) => {
             showConfirmationModal('Tem certeza que deseja excluir este registro?', () => {
                 const recordToDelete = currentRecords.find(record => record.id === recordId);
@@ -1221,18 +1274,66 @@
             });
         };
 
-        window.openCompleteRevisionModal = (revisionId) => {
-            const revision = currentRevisions.find(r => r.id === revisionId);
-            if (revision) {
-                const modal = document.getElementById('complete-revision-modal');
-                const form = document.getElementById('complete-revision-form');
-                const subjectSpan = document.getElementById('revision-subject-name');
-                const revisionIdInput = document.getElementById('complete-revision-id');
-                
-                subjectSpan.textContent = `${revision.materia} - ${revision.assunto}`;
-                revisionIdInput.value = revisionId;
-                
-                modal.classList.remove('hidden');
+        // NOVO: Função para abrir a modal de solicitação de número de questões
+        window.abrirModalDePratica = (materia, assunto) => {
+            const modal = document.getElementById('start-quiz-modal');
+            const assuntoSpan = document.getElementById('quiz-subject-name');
+            const materiaInput = document.getElementById('start-quiz-materia');
+            const assuntoInput = document.getElementById('start-quiz-assunto');
+
+            assuntoSpan.textContent = `${materia} - ${assunto}`;
+            materiaInput.value = materia;
+            assuntoInput.value = assunto;
+            
+            modal.classList.remove('hidden');
+        };
+
+        // NOVO: Função para fechar a modal de solicitação de número de questões
+        window.fecharModalDePratica = () => {
+            const modal = document.getElementById('start-quiz-modal');
+            modal.classList.add('hidden');
+        };
+
+        // NOVO: Lógica para iniciar o quiz com o número de questões fornecido
+        const iniciarQuizComNumeroDeQuestoes = async (materia, assunto, numQuestoes) => {
+            // Fecha a modal de solicitação
+            fecharModalDePratica();
+
+            // Muda para a seção do quiz e esconde as outras
+            document.getElementById('registro-section').classList.add('hidden');
+            document.getElementById('desempenho-section').classList.add('hidden');
+            document.getElementById('revisoes-section').classList.add('hidden');
+            document.getElementById('quiz-section').classList.remove('hidden');
+
+            // Esconde a tela de configuração do quiz e mostra a tela de revisão
+            quizConfiguracaoTela.classList.add('hidden');
+            quizRevisaoTela.classList.remove('hidden');
+
+            // Carrega as questões para a matéria e assunto específicos
+            const todasQuestoes = await carregarQuestoesQuiz(materia, assunto);
+            
+            // Filtra para pegar apenas as questões não respondidas
+            const questoesNaoRespondidas = todasQuestoes.filter(q => {
+                const performance = quizPerformance[q.id] || { acertos: 0, erros: 0 };
+                return (performance.acertos + performance.erros) === 0;
+            });
+            
+            // Se houver questões não respondidas, usa-as. Caso contrário, usa todas as questões.
+            const questoesParaPraticar = questoesNaoRespondidas.length > 0 ? questoesNaoRespondidas : todasQuestoes;
+
+            // Embaralha e seleciona o número de questões solicitado
+            questoesSelecionadasGlobais = questoesParaPraticar.sort(() => 0.5 - Math.random()).slice(0, numQuestoes);
+            
+            if (questoesSelecionadasGlobais.length > 0) {
+                indiceQuestaoAtual = 0;
+                placar = { corretas: 0, erradas: 0 };
+                quizCorretasContagemSpan.textContent = 0;
+                quizErradasContagemSpan.textContent = 0;
+                renderizarGridNavegacaoQuiz();
+                renderizarQuestaoAtualQuiz();
+            } else {
+                alert('Nenhuma questão encontrada para este assunto. Adicione questões ao seu JSON.');
+                quizVoltarInicioBtn.click();
             }
         };
 
@@ -1244,7 +1345,7 @@
                 form.reset();
             }
         };
-        
+
         window.submitCompleteRevisionForm = (revisionId, quantidadeFeita, quantidadeAcertada) => {
             const revision = currentRevisions.find(r => r.id === revisionId);
             if (revision) {
@@ -1256,27 +1357,27 @@
                     quantidadeAcertada: quantidadeAcertada,
                     timestamp: new Date().toISOString()
                 };
-                
+
                 addQuestionRecord(newRecord);
-                
+
                 closeCompleteRevisionModal();
                 showMessage(`Revisão de ${revision.assunto} concluída e registrada!`, 'success');
             }
         };
-        
-        window.openRescheduleRevisionModal = (revisionId) => {
-             const revision = currentRevisions.find(r => r.id === revisionId);
-             if (revision) {
-                 const modal = document.getElementById('reschedule-revision-modal');
-                 const subjectSpan = document.getElementById('reschedule-subject-name');
-                 const revisionIdInput = document.getElementById('reschedule-revision-id');
-                 const dateInput = document.getElementById('reschedule-date');
 
-                 subjectSpan.textContent = `${revision.materia} - ${revision.assunto}`;
-                 revisionIdInput.value = revisionId;
-                 dateInput.value = revision.nextReviewDate;
-                 modal.classList.remove('hidden');
-             }
+        window.openRescheduleRevisionModal = (revisionId) => {
+            const revision = currentRevisions.find(r => r.id === revisionId);
+            if (revision) {
+                const modal = document.getElementById('reschedule-revision-modal');
+                const subjectSpan = document.getElementById('reschedule-subject-name');
+                const revisionIdInput = document.getElementById('reschedule-revision-id');
+                const dateInput = document.getElementById('reschedule-date');
+
+                subjectSpan.textContent = `${revision.materia} - ${revision.assunto}`;
+                revisionIdInput.value = revisionId;
+                dateInput.value = revision.nextReviewDate;
+                modal.classList.remove('hidden');
+            }
         };
 
         window.closeRescheduleRevisionModal = () => {
@@ -1301,7 +1402,7 @@
 
         const updateRevisionSchedule = (materia, assunto) => {
             const recordsForSubject = currentRecords.filter(r => r.materia.toLowerCase() === materia.toLowerCase() && r.assunto.toLowerCase() === assunto.toLowerCase());
-            
+
             if (recordsForSubject.length === 0) {
                 currentRevisions = currentRevisions.filter(r => !(r.materia.toLowerCase() === materia.toLowerCase() && r.assunto.toLowerCase() === assunto.toLowerCase()));
                 saveRevisionsToLocalStorage();
@@ -1320,13 +1421,13 @@
             let revisionDays = 0;
 
             const now = new Date();
-            const lastReviewDate = new Date(recordsForSubject.sort((a,b) => new Date(b.data) - new Date(a.data))[0].data);
+            const lastReviewDate = new Date(recordsForSubject.sort((a, b) => new Date(b.data) - new Date(a.data))[0].data);
 
             const interval = revisionIntervals.find(i => cumulativeAccuracy >= i.minAccuracy && cumulativeAccuracy <= i.maxAccuracy);
 
             if (interval) {
                 revisionDays = Math.floor(Math.random() * (interval.maxDays - interval.minDays + 1)) + interval.minDays;
-                
+
                 nextRevisionDate = new Date(lastReviewDate);
                 nextRevisionDate.setDate(lastReviewDate.getDate() + revisionDays);
             } else {
@@ -1334,7 +1435,7 @@
                 nextRevisionDate.setDate(lastReviewDate.getDate() + 1);
                 revisionDays = 1;
             }
-            
+
             const existingRevisionIndex = currentRevisions.findIndex(r => r.materia.toLowerCase() === materia.toLowerCase() && r.assunto.toLowerCase() === assunto.toLowerCase());
 
             const newRevision = {
@@ -1346,7 +1447,7 @@
                 cumulativeAccuracy: cumulativeAccuracy,
                 daysInterval: revisionDays
             };
-            
+
             if (existingRevisionIndex !== -1) {
                 currentRevisions[existingRevisionIndex] = newRevision;
             } else {
@@ -1392,7 +1493,7 @@
 
                 const timeDiff = nextReviewDate.getTime() - today.getTime();
                 const daysRemaining = Math.ceil(timeDiff / (1000 * 60 * 60 * 24));
-                
+
                 let dateDisplay = revision.nextReviewDate;
                 let daysDisplay = '';
                 let rowClass = 'bg-white hover:bg-gray-50';
@@ -1402,7 +1503,7 @@
                     daysDisplay = `${Math.abs(daysRemaining)} dias atrás`;
                     rowClass = 'bg-red-100 text-red-800 hover:bg-red-200';
                     countLate++;
-                    
+
                     const lateCard = document.createElement('div');
                     lateCard.className = `card p-4 rounded-lg shadow-sm border border-red-200 bg-red-50 flex flex-col justify-between`;
                     lateCard.innerHTML = `
@@ -1413,10 +1514,10 @@
                                 <p class="text-xs text-red-600">Revisão: ${Math.abs(daysRemaining)} dias atrás</p>
                             </div>
                             <div class="mt-4 flex space-x-2">
-                                <button onclick="openCompleteRevisionModal('${revision.id}')" class="bg-green-500 hover:bg-green-600 text-white font-bold py-1 px-2 rounded-md text-sm">Concluir</button>
+                                <button onclick="abrirModalDePratica('${revision.materia}', '${revision.assunto}')" class="bg-green-500 hover:bg-green-600 text-white font-bold py-1 px-2 rounded-md text-sm">Praticar</button>
                                 <button onclick="openRescheduleRevisionModal('${revision.id}')" class="bg-blue-500 hover:bg-blue-600 text-white font-bold py-1 px-2 rounded-md text-sm">Reagendar</button>
                             </div>
-                    `;
+                        `;
                     lateRevisionsContainer.appendChild(lateCard);
 
                 } else if (daysRemaining === 0) {
@@ -1441,21 +1542,22 @@
 
                 const actionsCell = row.insertCell();
                 actionsCell.className = 'text-center';
-                const completeButton = document.createElement('button');
-                completeButton.textContent = 'Concluir';
-                completeButton.onclick = () => openCompleteRevisionModal(revision.id);
-                completeButton.classList.add('bg-green-500', 'hover:bg-green-600', 'text-white', 'font-bold', 'py-1', 'px-2', 'rounded-md', 'mr-2', 'text-sm');
-                
+                // MODIFICADO: Botão "Concluir" agora é "Praticar" e chama a nova função `abrirModalDePratica`
+                const practiceButton = document.createElement('button');
+                practiceButton.textContent = 'Praticar';
+                practiceButton.onclick = () => abrirModalDePratica(revision.materia, revision.assunto);
+                practiceButton.classList.add('bg-green-500', 'hover:bg-green-600', 'text-white', 'font-bold', 'py-1', 'px-2', 'rounded-md', 'mr-2', 'text-sm');
+
                 const rescheduleButton = document.createElement('button');
                 rescheduleButton.textContent = 'Reagendar';
                 rescheduleButton.onclick = () => openRescheduleRevisionModal(revision.id);
                 rescheduleButton.classList.add('bg-blue-500', 'hover:bg-blue-600', 'text-white', 'font-bold', 'py-1', 'px-2', 'rounded-md', 'text-sm');
 
-                actionsCell.appendChild(completeButton);
+                actionsCell.appendChild(practiceButton);
                 actionsCell.appendChild(rescheduleButton);
 
             });
-            
+
             if (countLate === 0) {
                 lateRevisionsContainer.innerHTML = '<p class="text-gray-600 text-sm">Nenhuma revisão em atraso. Ótimo trabalho!</p>';
             }
@@ -1521,12 +1623,12 @@
             if (recordsForDisplay.length === 0) {
                 if (displaySettings.showOverallSummary) {
                     performanceSummary.innerHTML += `
-                        <div class="mb-6 p-4 bg-blue-50 rounded-lg shadow-inner">
-                            <h3 class="text-xl font-semibold text-blue-700 mb-2">Desempenho Geral</h3>
-                            <p class="text-gray-600">Nenhum registro encontrado para os filtros atuais. Adicione questões ou ajuste os filtros.</p>
-                            <p class="text-lg text-blue-800">Número de Revisões: <span class="font-bold">0</span></p>
-                        </div>
-                    `;
+                            <div class="mb-6 p-4 bg-blue-50 rounded-lg shadow-inner">
+                                <h3 class="text-xl font-semibold text-blue-700 mb-2">Desempenho Geral</h3>
+                                <p class="text-gray-600">Nenhum registro encontrado para os filtros atuais. Adicione questões ou ajuste os filtros.</p>
+                                <p class="text-lg text-blue-800">Número de Revisões: <span class="font-bold">0</span></p>
+                            </div>
+                        `;
                 }
                 if (materiaChart) materiaChart.destroy();
                 if (assuntoChart) assuntoChart.destroy();
@@ -1585,42 +1687,42 @@
 
             if (displaySettings.showOverallSummary) {
                 performanceSummary.innerHTML += `
-                    <div class="mb-6 p-4 bg-blue-50 rounded-lg shadow-inner">
-                        <h3 class="text-xl font-semibold text-blue-700 mb-2">Desempenho Geral ${filterMateria !== 'todos' ? `em ${filterMateria.toUpperCase()}` : ''} ${filterAssunto !== 'todos' ? ` - Assunto: ${filterAssunto.toUpperCase()}` : ''}</h3>
-                        <p class="text-lg text-blue-800">Total de Questões Feitas: <span class="font-bold">${totalFeita}</span></p>
-                        <p class="text-lg text-blue-800">Total de Acertos: <span class="font-bold">${totalAcertada}</span></p>
-                        <p class="text-lg text-blue-800">Total de Erros: <span class="font-bold">${totalErros}</span></p>
-                        <p class="text-2xl font-bold text-blue-900">Precisão Geral: ${overallAccuracy.toFixed(2)}%</p>
-                        <p class="text-lg text-blue-800">Número de Revisões: <span class="font-bold">${recordsForDisplay.length}</span></p>
-                    </div>
-                `;
+                            <div class="mb-6 p-4 bg-blue-50 rounded-lg shadow-inner">
+                                <h3 class="text-xl font-semibold text-blue-700 mb-2">Desempenho Geral ${filterMateria !== 'todos' ? `em ${filterMateria.toUpperCase()}` : ''} ${filterAssunto !== 'todos' ? ` - Assunto: ${filterAssunto.toUpperCase()}` : ''}</h3>
+                                <p class="text-lg text-blue-800">Total de Questões Feitas: <span class="font-bold">${totalFeita}</span></p>
+                                <p class="text-lg text-blue-800">Total de Acertos: <span class="font-bold">${totalAcertada}</span></p>
+                                <p class="text-lg text-blue-800">Total de Erros: <span class="font-bold">${totalErros}</span></p>
+                                <p class="text-2xl font-bold text-blue-900">Precisão Geral: ${overallAccuracy.toFixed(2)}%</p>
+                                <p class="text-lg text-blue-800">Número de Revisões: <span class="font-bold">${recordsForDisplay.length}</span></p>
+                            </div>
+                        `;
             }
 
             if (displaySettings.showImprovementAreas && (materiasToImprove.length > 0 || assuntosToImprove.length > 0)) {
                 performanceSummary.innerHTML += `
-                    <div class="mb-6 p-4 bg-red-50 rounded-lg shadow-inner">
-                        <h3 class="text-xl font-semibold text-red-700 mb-2">Áreas para Melhorar (Precisão < ${currentAccuracyThreshold}%)</h3>
-                        ${materiasToImprove.length > 0 ? `
-                        <h4 class="font-medium text-red-600 mt-3">Matérias:</h4>
-                        <ul class="list-disc list-inside text-red-800">
-                            ${materiasToImprove.map(m => `<li>${m.name.toUpperCase()}: ${m.accuracy.toFixed(2)}% (${m.feita} questões, ${m.acertada} acertos, ${m.erros} erros)</li>`).join('')}
-                        </ul>
-                        ` : ''}
-                        ${assuntosToImprove.length > 0 ? `
-                        <h4 class="font-medium text-red-600 mt-3">Assuntos:</h4>
-                        <ul class="list-disc list-inside text-red-800">
-                            ${assuntosToImprove.map(a => `<li>${a.name.toUpperCase()}: ${a.accuracy.toFixed(2)}% (${a.feita} questões, ${a.acertada} acertos, ${a.erros} erros)</li>`).join('')}
-                        </ul>
-                        ` : ''}
-                    </div>
-                `;
+                            <div class="mb-6 p-4 bg-red-50 rounded-lg shadow-inner">
+                                <h3 class="text-xl font-semibold text-red-700 mb-2">Áreas para Melhorar (Precisão < ${currentAccuracyThreshold}%)</h3>
+                                ${materiasToImprove.length > 0 ? `
+                                <h4 class="font-medium text-red-600 mt-3">Matérias:</h4>
+                                <ul class="list-disc list-inside text-red-800">
+                                    ${materiasToImprove.map(m => `<li>${m.name.toUpperCase()}: ${m.accuracy.toFixed(2)}% (${m.feita} questões, ${m.acertada} acertos, ${m.erros} erros)</li>`).join('')}
+                                </ul>
+                                ` : ''}
+                                ${assuntosToImprove.length > 0 ? `
+                                <h4 class="font-medium text-red-600 mt-3">Assuntos:</h4>
+                                <ul class="list-disc list-inside text-red-800">
+                                    ${assuntosToImprove.map(a => `<li>${a.name.toUpperCase()}: ${a.accuracy.toFixed(2)}% (${a.feita} questões, ${a.acertada} acertos, ${a.erros} erros)</li>`).join('')}
+                                </ul>
+                                ` : ''}
+                            </div>
+                        `;
             } else if (displaySettings.showImprovementAreas) {
-                    performanceSummary.innerHTML += `
-                    <div class="mb-6 p-4 bg-green-50 rounded-lg shadow-inner">
-                        <h3 class="text-xl font-semibold text-green-700 mb-2">Parabéns!</h3>
-                        <p class="text-green-800">Sua precisão está excelente em todas as matérias e assuntos, ou acima do limite de ${currentAccuracyThreshold}%!</p>
-                    </div>
-                `;
+                performanceSummary.innerHTML += `
+                            <div class="mb-6 p-4 bg-green-50 rounded-lg shadow-inner">
+                                <h3 class="text-xl font-semibold text-green-700 mb-2">Parabéns!</h3>
+                                <p class="text-green-800">Sua precisão está excelente em todas as matérias e assuntos, ou acima do limite de ${currentAccuracyThreshold}%!</p>
+                            </div>
+                        `;
             }
 
 
@@ -1898,33 +2000,210 @@
 
             records.forEach(record => {
                 const row = tableBody.insertRow();
+                row.insertCell().textContent = record.id;
                 row.insertCell().textContent = record.materia;
                 row.insertCell().textContent = record.assunto;
                 row.insertCell().textContent = record.data;
-                row.insertCell().textContent = record.quantidadeFeita;
-                row.insertCell().textContent = record.quantidadeAcertada;
 
                 const actionsCell = row.insertCell();
-                const editButton = document.createElement('button');
-                editButton.textContent = 'Editar';
-                editButton.classList.add('bg-yellow-500', 'hover:bg-yellow-600', 'text-white', 'font-bold', 'py-1', 'px-2', 'rounded-md', 'mr-2', 'text-sm');
-                editButton.onclick = () => openEditModal(record);
+                actionsCell.className = 'text-center';
+
+                const viewButton = document.createElement('button');
+                viewButton.innerHTML = `<svg class="w-5 h-5 inline-block" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z"></path></svg>`;
+                viewButton.classList.add('bg-blue-500', 'hover:bg-blue-600', 'text-white', 'font-bold', 'py-1', 'px-2', 'rounded-md', 'mr-2', 'text-sm');
+                viewButton.onclick = () => openViewDetailsModal(record.id);
 
                 const deleteButton = document.createElement('button');
-                deleteButton.textContent = 'Excluir';
+                deleteButton.innerHTML = `<svg class="w-5 h-5 inline-block" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16"></path></svg>`;
                 deleteButton.classList.add('bg-red-500', 'hover:bg-red-600', 'text-white', 'font-bold', 'py-1', 'px-2', 'rounded-md', 'text-sm');
                 deleteButton.onclick = () => deleteQuestionRecord(record.id);
 
-                actionsCell.appendChild(editButton);
+                actionsCell.appendChild(viewButton);
                 actionsCell.appendChild(deleteButton);
             });
+        };
+
+        const openViewDetailsModal = (recordId) => {
+            const record = currentRecords.find(r => r.id === recordId);
+            if (!record) {
+                showMessage('Registro não encontrado.', 'error');
+                return;
+            }
+
+            const modal = document.getElementById('view-details-modal');
+            const detailsBlockId = document.getElementById('details-block-id');
+            const detailsMateria = document.getElementById('details-materia');
+            const detailsAssunto = document.getElementById('details-assunto');
+            const detailsData = document.getElementById('details-data');
+            const detailsFeitas = document.getElementById('details-feitas');
+            const detailsAcertadas = document.getElementById('details-acertadas');
+            const questionsTableBody = document.getElementById('details-questions-table-body');
+
+            if (!modal || !detailsBlockId || !detailsMateria || !detailsAssunto || !detailsData || !detailsFeitas || !detailsAcertadas || !questionsTableBody) {
+                console.error("Elementos da modal de detalhes não encontrados.");
+                return;
+            }
+
+            detailsBlockId.textContent = record.id;
+            detailsMateria.textContent = record.materia;
+            detailsAssunto.textContent = record.assunto;
+            detailsData.textContent = record.data;
+            detailsFeitas.textContent = record.quantidadeFeita;
+            detailsAcertadas.textContent = record.quantidadeAcertada;
+            questionsTableBody.innerHTML = '';
+
+            const questionIdsInRecord = record.quizQuestionIds || [];
+            if (questionIdsInRecord.length > 0) {
+                questionIdsInRecord.forEach(questionId => {
+                    const performance = quizPerformance[questionId] || { acertos: 0, erros: 0 };
+                    const row = questionsTableBody.insertRow();
+                    row.insertCell().textContent = questionId;
+                    row.insertCell().textContent = performance.acertos;
+                    row.insertCell().textContent = performance.erros;
+
+                    const actionsCell = row.insertCell();
+                    const viewJsonButton = document.createElement('button');
+                    viewJsonButton.innerHTML = `<svg class="w-5 h-5 inline-block" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"></path><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z"></path></svg>`;
+                    viewJsonButton.classList.add('bg-blue-500', 'hover:bg-blue-600', 'text-white', 'font-bold', 'py-1', 'px-2', 'rounded-md', 'text-sm');
+                    viewJsonButton.onclick = () => showQuestionDetails(questionId);
+                    actionsCell.appendChild(viewJsonButton);
+                });
+            } else {
+                questionsTableBody.innerHTML = '<tr><td colspan="4" class="py-3 px-6 text-center">Nenhuma questão detalhada encontrada para este registro.</td></tr>';
+            }
+
+            modal.classList.remove('hidden');
+        };
+
+        const closeViewDetailsModal = () => {
+            const modal = document.getElementById('view-details-modal');
+            if (modal) {
+                modal.classList.add('hidden');
+            }
+        };
+
+        const showQuestionDetails = async (questionId) => {
+            const modal = document.getElementById('question-details-modal');
+            const content = document.getElementById('question-details-content');
+            if (!modal || !content) return;
+
+            content.innerHTML = '<p>Carregando detalhes da questão...</p>';
+            modal.classList.remove('hidden');
+
+            try {
+                const allQuestions = await Promise.all(Object.values(quizMaterias).flat().map(async assunto => {
+                    const materia = Object.keys(quizMaterias).find(m => quizMaterias[m].includes(assunto));
+                    if (!materia) return [];
+                    const response = await fetch(`./questao/${materia}/${assunto}.json`);
+                    if (!response.ok) {
+                        return [];
+                    }
+                    const data = await response.json();
+                    return data.map(q => ({ ...q, materia, assunto }));
+                })).then(results => results.flat());
+
+                const question = allQuestions.find(q => q.id == questionId);
+
+                if (question) {
+                    let alternativesHtml = '';
+                    question.alternativas.forEach(alt => {
+                        let liClass = '';
+                        if (alt.letra === question.resposta_correta) {
+                            liClass = 'correct-answer-text';
+                        }
+                        alternativesHtml += `<li class="${liClass}">${alt.letra}) ${alt.texto}</li>`;
+                    });
+
+                    const performance = quizPerformance[question.id] || { acertos: 0, erros: 0 };
+                    const totalTentativas = performance.acertos + performance.erros;
+                    const acertosPerc = totalTentativas > 0 ? ((performance.acertos / totalTentativas) * 100).toFixed(2) : '0.00';
+
+                    content.innerHTML = `
+                        <p><strong>ID da Questão:</strong> ${question.id}</p>
+                        <p><strong>Matéria:</strong> ${capitalizeFirstLetter(question.materia)}</p>
+                        <p><strong>Assunto:</strong> ${capitalizeFirstLetter(question.assunto.replace(/-/g, ' '))}</p>
+                        <hr class="my-4">
+                        <h4 class="font-bold">Desempenho Pessoal:</h4>
+                        <ul class="details-list">
+                            <li>Acertos: <span class="status correct">${performance.acertos}</span></li>
+                            <li>Erros: <span class="status incorrect">${performance.erros}</span></li>
+                            <li>Precisão Histórica: <span class="status">${acertosPerc}%</span></li>
+                        </ul>
+                        <hr class="my-4">
+                        <h4 class="font-bold mt-4">Enunciado:</h4>
+                        <p class="mb-4">${question.enunciado}</p>
+                        <h4 class="font-bold">Alternativas:</h4>
+                        <ul class="list-disc list-inside space-y-1">${alternativesHtml}</ul>
+                        <h4 class="font-bold mt-4">Gabarito:</h4>
+                        <p class="correct-answer-text">Alternativa correta: ${question.resposta_correta}</p>
+                    `;
+                } else {
+                    content.innerHTML = '<p class="text-red-600">Questão não encontrada. O arquivo JSON pode estar faltando ou o ID está incorreto.</p>';
+                }
+
+            } catch (error) {
+                console.error("Erro ao carregar os detalhes da questão:", error);
+                content.innerHTML = '<p class="text-red-600">Erro ao carregar detalhes. Verifique a conexão com o servidor e se os arquivos JSON estão corretos.</p>';
+            }
+        };
+
+        // A função closeQuestionDetailsModal foi movida para o escopo global para ser acessível pelo onclick
+        window.closeQuestionDetailsModal = () => {
+            const modal = document.getElementById('question-details-modal');
+            if (modal) {
+                modal.classList.add('hidden');
+            }
+        };
+
+        // --- NOVA LÓGICA DE BUSCA MELHORADA ---
+        const searchRecords = async (query) => {
+            const normalizedQuery = query.trim().toLowerCase();
+            
+            // 1. Tenta encontrar a questão por ID em todos os arquivos JSON primeiro
+            let foundQuestion = null;
+            try {
+                const allQuestions = await Promise.all(Object.values(quizMaterias).flat().map(async assunto => {
+                    const materia = Object.keys(quizMaterias).find(m => quizMaterias[m].includes(assunto));
+                    if (!materia) return [];
+                    const response = await fetch(`./questao/${materia}/${assunto}.json`);
+                    if (!response.ok) {
+                        return [];
+                    }
+                    const data = await response.json();
+                    return data.map(q => ({ ...q, materia, assunto }));
+                })).then(results => results.flat());
+                
+                foundQuestion = allQuestions.find(q => q.id.toString() === normalizedQuery);
+            } catch (error) {
+                console.error("Erro ao buscar questões nos arquivos JSON:", error);
+            }
+
+            if (foundQuestion) {
+                showQuestionDetails(foundQuestion.id);
+                showMessage(`Detalhes da Questão ${foundQuestion.id} encontrados e exibidos.`, 'success');
+                return;
+            }
+
+            // 2. Se não encontrar a questão, tenta encontrar o bloco por ID ou por questão relacionada no histórico
+            const recordsFound = currentRecords.filter(record =>
+                record.id.toLowerCase().includes(normalizedQuery) ||
+                (record.quizPerformanceData && Object.keys(record.quizPerformanceData).some(questionId => questionId.toLowerCase().includes(normalizedQuery)))
+            );
+
+            if (recordsFound.length > 0) {
+                populateRecordsTable(recordsFound);
+                showMessage(`Nenhuma questão encontrada, mas foram encontrados ${recordsFound.length} registro(s) no histórico do usuário para a busca.`, 'warning');
+            } else {
+                populateRecordsTable([]);
+                showMessage('Nenhum registro de bloco ou questão encontrado com o termo de busca.', 'error');
+            }
         };
 
         const populateMateriaFilter = (records) => {
             const materiaFilter = document.getElementById('materia-filter');
             if (!materiaFilter) return;
             const uniqueMaterias = new Set(records.map(record => record.materia));
-            const sortedMaterias = Array.from(uniqueMaterias).sort((a,b) => a.localeCompare(b));
+            const sortedMaterias = Array.from(uniqueMaterias).sort((a, b) => a.localeCompare(b));
 
             materiaFilter.innerHTML = '<option value="todos">Todas as Matérias</option>';
 
@@ -1947,7 +2226,7 @@
             }
 
             const uniqueAssuntos = new Set(recordsForAssuntoFilter.map(record => record.assunto));
-            const sortedAssuntos = Array.from(uniqueAssuntos).sort((a,b) => a.localeCompare(b));
+            const sortedAssuntos = Array.from(uniqueAssuntos).sort((a, b) => a.localeCompare(b));
 
             assuntoFilter.innerHTML = '<option value="todos">Todos os Assuntos</option>';
 
@@ -2051,12 +2330,12 @@
                 displaySettings: displaySettings,
                 comparisonSettings: comparisonSettings,
             };
-        
+
             const jsonContent = JSON.stringify(allData, null, 2);
             const blob = new Blob([jsonContent], { type: 'application/json;charset=utf-8;' });
             const link = document.createElement('a');
             const filename = `backup_dados_questoes_${new Date().toISOString().slice(0, 10)}.json`;
-        
+
             if (link.download !== undefined) {
                 const url = URL.createObjectURL(blob);
                 link.setAttribute('href', url);
@@ -2079,7 +2358,7 @@
             reader.onload = (e) => {
                 try {
                     const importedData = JSON.parse(e.target.result);
-                    
+
                     if (importedData.questionRecords) {
                         currentRecords = importedData.questionRecords;
                         saveRecordsToLocalStorage();
@@ -2127,18 +2406,18 @@
                 let isDefaultClass = isModified ? '' : 'invisible';
 
                 const intervalHtml = `
-                    <div class="flex items-center space-x-2 my-2">
-                        <span class="w-1/4 text-right text-sm text-gray-600">${interval.minAccuracy}% - ${interval.maxAccuracy}%:</span>
-                        <input type="number" id="min-days-${index}" value="${interval.minDays}" class="form-input w-1/4 px-2 py-1 border rounded-md text-sm">
-                        <span class="text-sm text-gray-600">-</span>
-                        <input type="number" id="max-days-${index}" value="${interval.maxDays}" class="form-input w-1/4 px-2 py-1 border rounded-md text-sm">
-                        <span class="text-sm text-gray-600">dias</span>
-                        <button onclick="resetRevisionInterval(${index})" class="bg-gray-200 hover:bg-gray-300 text-gray-800 font-bold py-1 px-2 rounded-md text-sm ${isDefaultClass}">Reset</button>
-                    </div>
-                `;
+                            <div class="flex items-center space-x-2 my-2">
+                                <span class="w-1/4 text-right text-sm text-gray-600">${interval.minAccuracy}% - ${interval.maxAccuracy}%:</span>
+                                <input type="number" id="min-days-${index}" value="${interval.minDays}" class="form-input w-1/4 px-2 py-1 border rounded-md text-sm">
+                                <span class="text-sm text-gray-600">-</span>
+                                <input type="number" id="max-days-${index}" value="${interval.maxDays}" class="form-input w-1/4 px-2 py-1 border rounded-md text-sm">
+                                <span class="text-sm text-gray-600">dias</span>
+                                <button onclick="resetRevisionInterval(${index})" class="bg-gray-200 hover:bg-gray-300 text-gray-800 font-bold py-1 px-2 rounded-md text-sm ${isDefaultClass}">Reset</button>
+                            </div>
+                        `;
                 intervalsContainer.innerHTML += intervalHtml;
             });
-            
+
             const inputs = intervalsContainer.querySelectorAll('input');
             inputs.forEach(input => {
                 input.addEventListener('input', () => {
@@ -2147,8 +2426,8 @@
                     const maxInput = document.getElementById(`max-days-${index}`);
                     const resetButton = input.closest('div').querySelector('button');
 
-                    const isModified = (parseInt(minInput.value) !== defaultRevisionIntervals[index].minDays || 
-                                         parseInt(maxInput.value) !== defaultRevisionIntervals[index].maxDays);
+                    const isModified = (parseInt(minInput.value) !== defaultRevisionIntervals[index].minDays ||
+                        parseInt(maxInput.value) !== defaultRevisionIntervals[index].maxDays);
 
                     if (resetButton) {
                         if (isModified) {
@@ -2157,12 +2436,12 @@
                             resetButton.classList.add('invisible');
                         }
                     }
-                    
+
                     updateRevisionIntervals();
                 });
             });
         };
-        
+
         window.resetRevisionInterval = (index) => {
             revisionIntervals[index] = { ...defaultRevisionIntervals[index] };
             saveRevisionIntervals();
@@ -2190,18 +2469,18 @@
         const updateRevisionIntervals = () => {
             const newIntervals = [];
             const inputs = document.querySelectorAll('#revision-intervals-container input');
-            
+
             for (let i = 0; i < inputs.length; i += 2) {
                 const minDays = parseInt(inputs[i].value);
-                const maxDays = parseInt(inputs[i+1].value);
+                const maxDays = parseInt(inputs[i + 1].value);
 
                 if (isNaN(minDays) || isNaN(maxDays) || minDays < 0 || maxDays < 0 || minDays > maxDays) {
                     console.warn('Valores de intervalo de revisão inválidos detectados. A alteração não será salva.');
                     return;
                 }
                 newIntervals.push({
-                    minAccuracy: revisionIntervals[i/2].minAccuracy,
-                    maxAccuracy: revisionIntervals[i/2].maxAccuracy,
+                    minAccuracy: revisionIntervals[i / 2].minAccuracy,
+                    maxAccuracy: revisionIntervals[i / 2].maxAccuracy,
                     minDays: minDays,
                     maxDays: maxDays
                 });
@@ -2217,8 +2496,8 @@
         };
 
         const initializeDisplaySettingsCheckboxes = () => {
-             document.querySelectorAll('#display-options-container input[type="checkbox"]').forEach(checkbox => {
-               if (checkbox) {
+            document.querySelectorAll('#display-options-container input[type="checkbox"]').forEach(checkbox => {
+                if (checkbox) {
                     checkbox.checked = displaySettings[checkbox.id];
                     const parentLabel = checkbox.closest('label');
                     if (parentLabel) {
@@ -2228,18 +2507,18 @@
                         parentLabel.classList.toggle('border-gray-300', !checkbox.checked);
                     }
                 }
-             });
+            });
         };
-        
+
         const initializeComparisonSettings = () => {
-             const compareTypeRadios = document.querySelectorAll('input[name="compare-type"]');
-             compareTypeRadios.forEach(radio => {
-                 if (radio.value === comparisonSettings.type) {
-                     radio.checked = true;
-                 }
-             });
-             updateComparisonOptionsVisibility();
-             populateComparisonSelectionButtons();
+            const compareTypeRadios = document.querySelectorAll('input[name="compare-type"]');
+            compareTypeRadios.forEach(radio => {
+                if (radio.value === comparisonSettings.type) {
+                    radio.checked = true;
+                }
+            });
+            updateComparisonOptionsVisibility();
+            populateComparisonSelectionButtons();
         };
 
         const editModal = document.getElementById('edit-modal');
@@ -2268,7 +2547,7 @@
         };
 
         if (editForm) {
-            editForm.addEventListener('submit', async (e) => {
+            editForm.addEventListener('submit', async(e) => {
                 e.preventDefault();
                 const id = editRecordId.value;
                 const updatedData = {
@@ -2340,11 +2619,11 @@
         };
 
         window.openRevisionSettingsModal = () => {
-             const revisionSettingsModal = document.getElementById('revision-settings-modal');
-             if (revisionSettingsModal) {
-                 revisionSettingsModal.classList.remove('hidden');
-                 populateRevisionIntervals();
-             }
+            const revisionSettingsModal = document.getElementById('revision-settings-modal');
+            if (revisionSettingsModal) {
+                revisionSettingsModal.classList.remove('hidden');
+                populateRevisionIntervals();
+            }
         };
 
         window.closeRevisionSettingsModal = () => {
@@ -2353,7 +2632,7 @@
                 revisionSettingsModal.classList.add('hidden');
             }
         };
-        
+
         window.copyToClipboard = (elementId) => {
             const copyText = document.getElementById(elementId);
             if (!copyText) {
@@ -2361,7 +2640,7 @@
                 return;
             }
             const textToCopy = copyText.value || copyText.textContent;
-            
+
             const tempInput = document.createElement('textarea');
             tempInput.value = textToCopy;
             document.body.appendChild(tempInput);
@@ -2390,7 +2669,7 @@
                 modal.classList.add('hidden');
             }
         };
-        
+
         window.openContactModal = () => {
             const modal = document.getElementById('contact-modal');
             if (modal) {
@@ -2418,7 +2697,7 @@
                 modal.classList.add('hidden');
             }
         };
-        
+
         // =========================================================================
         // --- LÓGICA DO CODE 2 (Praticar Questões) ---
         // =========================================================================
@@ -2429,7 +2708,7 @@
         let placar = { corretas: 0, erradas: 0 };
         let quizPerformance = JSON.parse(localStorage.getItem('quizPerformance')) || {};
         let alternativaSelecionada = null;
-        
+
         const quizMaterias = {
             "Cardiologia": [
                 "Arritmias Cardíacas",
@@ -2795,7 +3074,7 @@
                 "Sistema Único de Saúde (SUS)"
             ]
         };
-        
+
         const quizConfiguracaoTela = document.getElementById('configuracao-tela');
         const quizRevisaoTela = document.getElementById('revisao-tela');
         const quizFormulario = document.getElementById('formulario-questoes');
@@ -2820,6 +3099,27 @@
         const quizProgressoFaltamSpan = document.getElementById('progresso-faltam');
         const quizQuestoesNavegacaoGrid = document.getElementById('questoes-navegacao-grid');
         
+        // NOVO: Elementos da nova modal de "Iniciar Prática"
+        const startQuizModal = document.getElementById('start-quiz-modal');
+        const startQuizForm = document.getElementById('start-quiz-form');
+        const startQuizNumQuestoesInput = document.getElementById('start-quiz-num-questoes');
+        const startQuizMateriaInput = document.getElementById('start-quiz-materia');
+        const startQuizAssuntoInput = document.getElementById('start-quiz-assunto');
+        const closeStartQuizModalBtn = document.getElementById('close-start-quiz-modal');
+
+
+        async function atualizarAssuntosDoQuiz(materiaSelecionada) {
+            quizAssuntoSelect.innerHTML = '<option value="todos">Todos</option>';
+            if (quizMaterias[materiaSelecionada] && materiaSelecionada !== 'todos') {
+                quizMaterias[materiaSelecionada].forEach(assunto => {
+                    const option = document.createElement('option');
+                    option.value = assunto;
+                    option.textContent = capitalizeFirstLetter(assunto.replace(/-/g, ' '));
+                    quizAssuntoSelect.appendChild(option);
+                });
+            }
+        }
+
         function popularSeletoresQuiz() {
             for (const materia in quizMaterias) {
                 const option = document.createElement('option');
@@ -2827,18 +3127,10 @@
                 option.textContent = capitalizeFirstLetter(materia);
                 quizMateriaSelect.appendChild(option);
             }
-            
-            quizMateriaSelect.addEventListener('change', async () => {
+
+            quizMateriaSelect.addEventListener('change', async() => {
                 const materiaSelecionada = quizMateriaSelect.value;
-                quizAssuntoSelect.innerHTML = '<option value="todos">Todos</option>';
-                if (quizMaterias[materiaSelecionada] && materiaSelecionada !== 'todos') {
-                    quizMaterias[materiaSelecionada].forEach(assunto => {
-                        const option = document.createElement('option');
-                        option.value = assunto;
-                        option.textContent = capitalizeFirstLetter(assunto.replace(/-/g, ' '));
-                        quizAssuntoSelect.appendChild(option);
-                    });
-                }
+                await atualizarAssuntosDoQuiz(materiaSelecionada);
                 await atualizarProgressoEContagemQuiz();
             });
 
@@ -2866,7 +3158,7 @@
                 arquivosParaCarregar.push({ materia: materia, assunto: assunto });
             }
 
-            const promessas = arquivosParaCarregar.map(async ({ materia, assunto }) => {
+            const promessas = arquivosParaCarregar.map(async({ materia, assunto }) => {
                 try {
                     const response = await fetch(`./questao/${materia}/${assunto}.json`);
                     if (!response.ok) {
@@ -2883,7 +3175,7 @@
 
             const resultados = await Promise.all(promessas);
             todasQuestoes = resultados.flat();
-            
+
             return todasQuestoes;
         }
 
@@ -2895,7 +3187,7 @@
             const materiaSelecionada = quizMateriaSelect.value;
             const assuntoSelecionado = quizAssuntoSelect.value;
             const todasQuestoes = await carregarQuestoesQuiz(materiaSelecionada, assuntoSelecionado);
-            
+
             const tagsUnicas = new Set();
             todasQuestoes.forEach(q => {
                 if (q.tags) q.tags.forEach(tag => tagsUnicas.add(tag));
@@ -2928,7 +3220,7 @@
                 const performance = quizPerformance[q.id] || { acertos: 0, erros: 0 };
                 const totalTentativas = performance.acertos + performance.erros;
                 const acertouUltimaVez = performance.ultimaResposta === q.resposta_correta;
-                
+
                 if (!q.alternativas || q.alternativas.length === 0 || !q.resposta_correta) {
                     return false;
                 }
@@ -2942,20 +3234,20 @@
                 }
                 return true;
             });
-            
+
             const questoesJaFeitas = questoesDoAssunto.filter(q => quizPerformance[q.id] && (quizPerformance[q.id].acertos > 0 || quizPerformance[q.id].erros > 0));
             const questoesNaoFeitas = questoesDoAssunto.filter(q => !quizPerformance[q.id] || (quizPerformance[q.id].acertos === 0 && quizPerformance[q.id].erros === 0));
-            
+
             const totalFeitas = questoesJaFeitas.length;
             const totalFaltam = questoesNaoFeitas.length;
-            
+
             quizTotalQuestoesAssunto.textContent = `Total: ${questoesParaRevisao.length}`;
             quizProgressoFeitoSpan.textContent = `Feitas: ${totalFeitas}`;
             quizProgressoFaltamSpan.textContent = `Faltam: ${totalFaltam}`;
 
             quizNumQuestoesInput.max = questoesParaRevisao.length;
         }
-        
+
         function renderizarGridNavegacaoQuiz() {
             quizQuestoesNavegacaoGrid.innerHTML = '';
             const isRevisiting = statusFiltroValorGlobal !== 'nao-respondidas' && statusFiltroValorGlobal !== 'todos';
@@ -2965,7 +3257,7 @@
                 item.classList.add('questoes-navegacao-item');
                 item.textContent = index + 1;
                 item.dataset.index = index;
-                
+
                 const performance = quizPerformance[q.id];
                 if (performance) {
                     const totalTentativas = performance.acertos + performance.erros;
@@ -2980,7 +3272,7 @@
                 if (index === indiceQuestaoAtual) {
                     item.classList.add('atual-grid');
                 }
-                
+
                 quizQuestoesNavegacaoGrid.appendChild(item);
             });
         }
@@ -2999,7 +3291,7 @@
                 finalizarRevisaoQuiz();
                 return;
             }
-            
+
             const enunciadoFormatado = questao.enunciado.replace(/\n/g, '<br>');
             const performance = quizPerformance[questao.id];
 
@@ -3011,7 +3303,7 @@
             }
 
             if (showPreviousAnswer) {
-                 ulContent = questao.alternativas.map(alt => {
+                ulContent = questao.alternativas.map(alt => {
                     let classe = '';
                     if (alt.letra === questao.resposta_correta) {
                         classe = 'certa';
@@ -3026,12 +3318,12 @@
             }
 
             quizQuestaoContainer.innerHTML = `
-                <div class="questao-card">
-                    <p>${enunciadoFormatado}</p>
-                    <ul>${ulContent}</ul>
-                    <div class="feedback" style="display:none;"></div>
-                </div>
-            `;
+                    <div class="questao-card">
+                        <p>${enunciadoFormatado}</p>
+                        <ul>${ulContent}</ul>
+                        <div class="feedback" style="display:none;"></div>
+                    </div>
+                `;
 
             if (showPreviousAnswer) {
                 const feedbackDiv = quizQuestaoContainer.querySelector('.feedback');
@@ -3047,7 +3339,7 @@
                 quizProximaPerguntaBtn.disabled = false;
                 quizResponderBtn.style.display = 'none';
             } else {
-                 quizQuestaoContainer.querySelectorAll('li').forEach(li => {
+                quizQuestaoContainer.querySelectorAll('li').forEach(li => {
                     li.addEventListener('click', () => {
                         quizQuestaoContainer.querySelectorAll('li').forEach(item => item.classList.remove('selecionada'));
                         li.classList.add('selecionada');
@@ -3056,12 +3348,12 @@
                     });
                 });
             }
-            
+
             quizQuestaoAtualNumSpan.textContent = indiceQuestaoAtual + 1;
             quizQuestaoTotalNumSpan.textContent = questoesSelecionadasGlobais.length;
             const progresso = ((indiceQuestaoAtual) / questoesSelecionadasGlobais.length) * 100;
             quizProgressBar.style.width = `${progresso}%`;
-            
+
             document.querySelectorAll('.questoes-navegacao-item').forEach(item => {
                 item.classList.remove('atual-grid');
                 if (parseInt(item.dataset.index) === indiceQuestaoAtual) {
@@ -3077,13 +3369,13 @@
             const feedbackDiv = quizQuestaoContainer.querySelector('.feedback');
             const opcoes = quizQuestaoContainer.querySelectorAll('li');
             const questaoItemGrid = quizQuestoesNavegacaoGrid.querySelector(`[data-index="${indiceQuestaoAtual}"]`);
-            
+
             opcoes.forEach(opcao => opcao.style.pointerEvents = 'none');
             quizResponderBtn.disabled = true;
 
             const alternativaSelecionadaLi = quizQuestaoContainer.querySelector(`[data-letra="${alternativaSelecionada}"]`);
             const alternativaCorretaLi = quizQuestaoContainer.querySelector(`[data-letra="${questao.resposta_correta}"]`);
-            
+
             if (!quizPerformance[questao.id]) {
                 quizPerformance[questao.id] = { acertos: 0, erros: 0, ultimaResposta: null };
             }
@@ -3110,7 +3402,6 @@
 
             quizCorretasContagemSpan.textContent = placar.corretas;
             quizErradasContagemSpan.textContent = placar.erradas;
-            saveQuizPerformance();
 
             quizProximaPerguntaBtn.style.display = 'block';
             quizProximaPerguntaBtn.disabled = false;
@@ -3121,42 +3412,41 @@
             const progressoFinal = (questoesSelecionadasGlobais.length > 0) ? 100 : 0;
             quizProgressBar.style.width = `${progressoFinal}%`;
 
-            const desempenhoDaSessao = {};
-            questoesSelecionadasGlobais.forEach(questao => {
-                const materia = quizMateriaSelect.value;
-                const assunto = quizAssuntoSelect.value;
-                const performance = quizPerformance[questao.id];
+            const quizQuestionIds = questoesSelecionadasGlobais.map(q => q.id);
+            const quizPerformanceData = {};
 
-                if (performance) {
-                    const key = `${materia}|${assunto}`;
-                    if (!desempenhoDaSessao[key]) {
-                        desempenhoDaSessao[key] = {
-                            materia: materia,
-                            assunto: assunto,
-                            quantidadeFeita: 0,
-                            quantidadeAcertada: 0
-                        };
-                    }
-                    desempenhoDaSessao[key].quantidadeFeita++;
-                    if (performance.ultimaResposta === questao.resposta_correta) {
-                        desempenhoDaSessao[key].quantidadeAcertada++;
-                    }
+            quizQuestionIds.forEach(id => {
+                if (quizPerformance[id]) {
+                    quizPerformanceData[id] = {
+                        acertos: quizPerformance[id].acertos,
+                        erros: quizPerformance[id].erros,
+                        ultimaResposta: quizPerformance[id].ultimaResposta
+                    };
                 }
             });
 
-            Object.values(desempenhoDaSessao).forEach(registro => {
-                const newRecord = {
-                    materia: capitalizeFirstLetter(registro.materia),
-                    assunto: capitalizeFirstLetter(registro.assunto.replace(/-/g, ' ')),
-                    data: new Date().toISOString().slice(0, 10),
-                    quantidadeFeita: registro.quantidadeFeita,
-                    quantidadeAcertada: registro.quantidadeAcertada,
-                    timestamp: new Date().toISOString()
-                };
-                addQuestionRecord(newRecord);
-            });
+            const primeiraQuestao = questoesSelecionadasGlobais[0];
+            const materiaReferencia = primeiraQuestao ? primeiraQuestao.materia : 'Desconhecida';
+            const assuntoReferencia = primeiraQuestao ? primeiraQuestao.assunto : 'Desconhecido';
+            
+            const newRecord = {
+                materia: materiaReferencia,
+                assunto: assuntoReferencia,
+                data: new Date().toISOString().slice(0, 10),
+                quantidadeFeita: questoesSelecionadasGlobais.length,
+                quantidadeAcertada: placar.corretas,
+                timestamp: new Date().toISOString(),
+                quizQuestionIds: quizQuestionIds,
+                quizPerformanceData: quizPerformanceData
+            };
 
-            quizQuestaoContainer.innerHTML = '<h2>Revisão Concluída!</h2><p>Seu desempenho foi registrado. Você pode ver os resultados na seção "Desempenho" e as novas revisões na seção "Revisões".</p><div class="navegacao"><button onclick="location.reload()" class="quiz-button">Nova Revisão</button></div>';
+            addQuestionRecord(newRecord);
+
+            updateRevisionSchedule(materiaReferencia, assuntoReferencia);
+
+            saveQuizPerformance();
+            
+            quizQuestaoContainer.innerHTML = '<h2>Prática Concluída!</h2><p>Seu desempenho foi registrado. Você pode ver os resultados na seção "Desempenho" e as novas revisões na seção "Revisões".</p><div class="navegacao"><button onclick="location.reload()" class="quiz-button">Nova Prática</button></div>';
             quizResponderBtn.style.display = 'none';
             quizProximaPerguntaBtn.style.display = 'none';
             quizVoltarBtn.style.display = 'none';
@@ -3165,9 +3455,9 @@
             quizQuestoesNavegacaoGrid.style.display = 'none';
         }
 
-        quizFormulario.addEventListener('submit', async (e) => {
+        quizFormulario.addEventListener('submit', async(e) => {
             e.preventDefault();
-            
+
             const materia = quizMateriaSelect.value;
             const assunto = quizAssuntoSelect.value;
             const numQuestoes = quizNumQuestoesInput.value;
@@ -3175,12 +3465,12 @@
             const tagsSelecionadas = Array.from(quizTagsContainer.querySelectorAll('input:checked')).map(cb => cb.value);
 
             const todasQuestoes = await carregarQuestoesQuiz(materia, assunto);
-            
+
             const questoesFiltradas = todasQuestoes.filter(q => {
                 const performance = quizPerformance[q.id] || { acertos: 0, erros: 0 };
                 const totalTentativas = performance.acertos + performance.erros;
                 const acertouUltimaVez = performance.ultimaResposta === q.resposta_correta;
-                
+
                 if (!q.alternativas || q.alternativas.length === 0 || !q.resposta_correta) {
                     return false;
                 }
@@ -3198,7 +3488,7 @@
                 } else if (statusFiltroValorGlobal === 'erradas') {
                     return performance.erros > 0;
                 }
-                
+
                 return true;
             });
 
@@ -3223,6 +3513,27 @@
             }
         });
 
+        // NOVO: Event listener para a nova modal
+        if (startQuizForm) {
+            startQuizForm.addEventListener('submit', (e) => {
+                e.preventDefault();
+                const numQuestoes = parseInt(startQuizNumQuestoesInput.value);
+                const materia = startQuizMateriaInput.value;
+                const assunto = startQuizAssuntoInput.value;
+
+                if (isNaN(numQuestoes) || numQuestoes < 1) {
+                    alert('Por favor, insira um número válido de questões.');
+                    return;
+                }
+                
+                iniciarQuizComNumeroDeQuestoes(materia, assunto, numQuestoes);
+            });
+        }
+        
+        if (closeStartQuizModalBtn) {
+            closeStartQuizModalBtn.addEventListener('click', fecharModalDePratica);
+        }
+
         quizQuestoesNavegacaoGrid.addEventListener('click', (e) => {
             const item = e.target.closest('.questoes-navegacao-item');
             if (item) {
@@ -3240,7 +3551,7 @@
             indiceQuestaoAtual++;
             renderizarQuestaoAtualQuiz();
         });
-        
+
         quizPularBtn.addEventListener('click', () => {
             if (indiceQuestaoAtual < questoesSelecionadasGlobais.length - 1) {
                 indiceQuestaoAtual++;
@@ -3249,7 +3560,7 @@
                 finalizarRevisaoQuiz();
             }
         });
-        
+
         quizVoltarBtn.addEventListener('click', () => {
             if (indiceQuestaoAtual > 0) {
                 indiceQuestaoAtual--;
@@ -3258,16 +3569,16 @@
         });
 
         quizVoltarInicioBtn.addEventListener('click', () => {
-             document.getElementById('registro-section').classList.remove('hidden');
-             document.getElementById('desempenho-section').classList.add('hidden');
-             document.getElementById('revisoes-section').classList.add('hidden');
-             document.getElementById('quiz-section').classList.add('hidden');
-             quizConfiguracaoTela.classList.remove('hidden');
-             quizRevisaoTela.classList.add('hidden');
-             populateMateriaFilter(currentRecords);
-             populateAssuntoFilter(currentRecords);
-             populateDatalists(currentRecords);
-             updatePerformanceDisplay(currentRecords, currentFilterMateria, currentFilterAssunto, currentStartDate, currentEndDate);
+            document.getElementById('registro-section').classList.remove('hidden');
+            document.getElementById('desempenho-section').classList.add('hidden');
+            document.getElementById('revisoes-section').classList.add('hidden');
+            document.getElementById('quiz-section').classList.add('hidden');
+            quizConfiguracaoTela.classList.remove('hidden');
+            quizRevisaoTela.classList.add('hidden');
+            populateMateriaFilter(currentRecords);
+            populateAssuntoFilter(currentRecords);
+            populateDatalists(currentRecords);
+            updatePerformanceDisplay(currentRecords, currentFilterMateria, currentFilterAssunto, currentStartDate, currentEndDate);
         });
 
         // =========================================================================
@@ -3276,7 +3587,7 @@
 
         document.addEventListener('DOMContentLoaded', () => {
             loadQuestionData();
-            
+
             initializeDisplaySettingsCheckboxes();
             initializeComparisonSettings();
             updatePerformanceDisplay(currentRecords, currentFilterMateria, currentFilterAssunto, currentStartDate, currentEndDate);
@@ -3313,7 +3624,10 @@
             };
 
             if (showRegisterSectionBtn) {
-                showRegisterSectionBtn.addEventListener('click', () => showSection(registroSection));
+                showRegisterSectionBtn.addEventListener('click', () => {
+                    showSection(registroSection);
+                    populateRecordsTable(currentRecords);
+                });
             }
 
             if (showPerformanceSectionBtn) {
@@ -3323,7 +3637,7 @@
                     populateRecordsTable(currentRecords);
                 });
             }
-            
+
             if (showRevisionsSectionBtn) {
                 showRevisionsSectionBtn.addEventListener('click', () => {
                     showSection(revisoesSection);
@@ -3339,7 +3653,7 @@
 
             const questionForm = document.getElementById('question-form');
             if (questionForm) {
-                questionForm.addEventListener('submit', async (e) => {
+                questionForm.addEventListener('submit', async(e) => {
                     e.preventDefault();
 
                     const materiaInput = document.getElementById('materia');
@@ -3359,7 +3673,7 @@
                     const quantidadeFeita = parseInt(quantidadeFeitaInput.value);
                     const quantidadeAcertada = parseInt(quantidadeAcertadaInput.value);
 
-                    if (!materia || !assunto || !data || isNaN(quantidadeFeita) || isNaN(quantidadeAcertada)) {
+                    if (!materia || !assunto || isNaN(quantidadeFeita) || isNaN(quantidadeAcertada)) {
                         showMessage('Por favor, preencha todos os campos corretamente.', 'warning');
                         return;
                     }
@@ -3382,7 +3696,7 @@
                     questionForm.reset();
                 });
             }
-            
+
             const completeRevisionForm = document.getElementById('complete-revision-form');
             if (completeRevisionForm) {
                 completeRevisionForm.addEventListener('submit', (e) => {
@@ -3390,16 +3704,16 @@
                     const revisionId = document.getElementById('complete-revision-id').value;
                     const quantidadeFeita = parseInt(document.getElementById('revision-quantidadeFeita').value);
                     const quantidadeAcertada = parseInt(document.getElementById('revision-quantidadeAcertada').value);
-                    
+
                     if (isNaN(quantidadeFeita) || isNaN(quantidadeAcertada) || quantidadeAcertada > quantidadeFeita) {
                         showMessage('Valores de questões inválidos. Verifique os números.', 'warning');
                         return;
                     }
-                    
+
                     submitCompleteRevisionForm(revisionId, quantidadeFeita, quantidadeAcertada);
                 });
             }
-            
+
             const rescheduleForm = document.getElementById('reschedule-form');
             if (rescheduleForm) {
                 rescheduleForm.addEventListener('submit', (e) => {
@@ -3527,6 +3841,23 @@
                 });
             });
 
+            const searchInput = document.getElementById('search-input');
+            const searchButton = document.getElementById('search-button');
+            if (searchButton && searchInput) {
+                searchButton.addEventListener('click', () => {
+                    searchRecords(searchInput.value);
+                });
+                searchInput.addEventListener('keypress', (e) => {
+                    if (e.key === 'Enter') {
+                        searchRecords(searchInput.value);
+                    }
+                });
+            }
+
+            const closeViewDetailsModalBtn = document.getElementById('close-view-details-modal');
+            if (closeViewDetailsModalBtn) {
+                closeViewDetailsModalBtn.addEventListener('click', closeViewDetailsModal);
+            }
 
             if (registroSection && desempenhoSection && revisoesSection) {
                 registroSection.classList.remove('hidden');
@@ -3534,6 +3865,7 @@
                 revisoesSection.classList.add('hidden');
             }
         });
+
     </script>
 </body>
 </html>
