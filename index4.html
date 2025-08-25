@@ -375,6 +375,19 @@
             color: #b91c1c;
             font-weight: bold;
         }
+        /* Estilos adicionais para o botão de reporte */
+        .report-button {
+            background-color: #ef4444;
+            color: white;
+            padding: 8px 12px;
+            border-radius: 0.5rem;
+            font-size: 0.9rem;
+            font-weight: 500;
+            transition: background-color 0.3s ease;
+        }
+        .report-button:hover {
+            background-color: #dc2626;
+        }
     </style>
 </head>
 <body class="min-h-screen flex flex-col">
@@ -611,8 +624,9 @@
                         <button id="responder-btn" class="quiz-button" disabled>Responder</button>
                         <button id="proxima-pergunta-btn" class="quiz-button" style="display: none;">Próxima Pergunta</button>
                     </div>
-                    <div class="navegacao-extra">
-                        <button id="voltar-inicio-btn" class="quiz-button">Voltar ao Início</button>
+                    <div class="navegacao-extra flex flex-col sm:flex-row space-y-2 sm:space-y-0 sm:space-x-4">
+                        <button id="voltar-inicio-btn" class="quiz-button flex-1">Voltar ao Início</button>
+                        <button id="reportar-btn" class="report-button flex-1">Reportar Erro</button>
                     </div>
                 </div>
             </div>
@@ -1027,6 +1041,9 @@
             <h2 class="text-2xl font-semibold mb-6 text-gray-800">Detalhes da Questão</h2>
             <div id="question-details-content" class="space-y-4">
                 </div>
+                <div class="text-right mt-4">
+                    <button id="report-question-details-btn" class="report-button">Reportar Erro</button>
+                </div>
         </div>
     </div>
 
@@ -1049,6 +1066,48 @@
             </form>
         </div>
     </div>
+    
+    <div id="report-modal" class="modal-overlay hidden">
+        <div class="modal-content max-w-sm">
+            <button id="close-report-modal" class="close-button">&times;</button>
+            <h2 class="text-2xl font-semibold mb-6 text-gray-800">Reportar um Erro</h2>
+            <form id="report-form" class="space-y-4">
+                <input type="hidden" id="report-question-id">
+                <div>
+                    <label class="block text-sm font-medium text-gray-700 mb-2">Tipo de Erro:</label>
+                    <div class="flex flex-col space-y-2">
+                        <label class="inline-flex items-center">
+                            <input type="radio" name="report-option" value="Erro de formatação" class="form-radio h-4 w-4 text-red-600" required>
+                            <span class="ml-2 text-gray-700">Erro de formatação</span>
+                        </label>
+                        <label class="inline-flex items-center">
+                            <input type="radio" name="report-option" value="Erro de gabarito" class="form-radio h-4 w-4 text-red-600">
+                            <span class="ml-2 text-gray-700">Erro de gabarito</span>
+                        </label>
+                        <label class="inline-flex items-center">
+                            <input type="radio" name="report-option" value="Falta de imagem" class="form-radio h-4 w-4 text-red-600">
+                            <span class="ml-2 text-gray-700">Falta de imagem</span>
+                        </label>
+                        <label class="inline-flex items-center">
+                            <input type="radio" name="report-option" value="Falta de texto" class="form-radio h-4 w-4 text-red-600">
+                            <span class="ml-2 text-gray-700">Falta de texto</span>
+                        </label>
+                        <label class="inline-flex items-center">
+                            <input type="radio" name="report-option" value="Outros" class="form-radio h-4 w-4 text-red-600">
+                            <span class="ml-2 text-gray-700">Outros (comentário)</span>
+                        </label>
+                    </div>
+                </div>
+                <div id="comment-container" class="hidden">
+                    <label for="report-comment" class="block text-sm font-medium text-gray-700 mb-1">Comentário (opcional):</label>
+                    <textarea id="report-comment" name="comment" rows="3" class="form-input mt-1 block w-full px-4 py-2 border border-gray-300 rounded-md shadow-sm focus:ring-blue-500 focus:border-blue-500 sm:text-sm"></textarea>
+                </div>
+                <button type="submit" class="form-button w-full bg-red-600 hover:bg-red-700 text-white font-bold py-2 px-4 rounded-lg shadow-md">
+                    Enviar Reporte
+                </button>
+            </form>
+        </div>
+    </div>
 
     <script type="module">
         // =========================================================================
@@ -1062,6 +1121,7 @@
         let currentStartDate = '';
         let currentEndDate = '';
         let currentAccuracyThreshold = 70;
+        let reportes = {};
 
         const defaultRevisionIntervals = [
             { minAccuracy: 0, maxAccuracy: 30, minDays: 1, maxDays: 3 },
@@ -1166,6 +1226,32 @@
             }
         };
 
+        // NOVO: Função para salvar os reportes no JSON
+        const saveReport = async (reportData) => {
+            try {
+                // Acessa o arquivo de reportes. Como é um mock, ele só atualiza a variável local
+                // Em um ambiente real, você usaria uma API para enviar os dados.
+                const response = await fetch("comentario/report.json");
+                let existingReports = {};
+                if (response.ok) {
+                    existingReports = await response.json();
+                }
+
+                existingReports[reportData.id] = reportData.opcao;
+
+                // Em um ambiente real, você faria um POST para uma API:
+                // await fetch('comentario/report.json', { method: 'POST', body: JSON.stringify(reportData) });
+                // Aqui, apenas simulamos o salvamento.
+                reportes = existingReports;
+                console.log("Reporte salvo no JSON:", reportes);
+                showMessage('Reporte enviado com sucesso!', 'success');
+            } catch (e) {
+                console.error("Erro ao salvar reporte:", e);
+                showMessage('Erro ao enviar o reporte. Tente novamente.', 'error');
+            }
+        };
+
+
         const loadQuestionData = () => {
             try {
                 const storedRecords = localStorage.getItem('questionRecords');
@@ -1217,26 +1303,6 @@
         const capitalizeFirstLetter = (string) => {
             if (!string) return '';
             return string.charAt(0).toUpperCase() + string.slice(1);
-        };
-        
-        // NOVO: Função para obter a data e hora formatada em GMT-3 (Horário de São Paulo)
-        const getSaoPauloDateTime = () => {
-            const now = new Date();
-            // Calcula o deslocamento em minutos entre o fuso horário local e UTC
-            const offsetLocal = now.getTimezoneOffset();
-            // Calcula o deslocamento para o fuso horário de São Paulo (GMT-3) em minutos
-            const offsetSaoPaulo = -180;
-            // Ajusta o horário do objeto Date para o fuso horário de São Paulo
-            const saoPauloTime = new Date(now.getTime() + (offsetSaoPaulo - offsetLocal) * 60000);
-            return saoPauloTime;
-        };
-        
-        // NOVO: Função para formatar a data para o input HTML
-        const formatForInput = (date) => {
-            const year = date.getFullYear();
-            const month = (date.getMonth() + 1).toString().padStart(2, '0');
-            const day = date.getDate().toString().padStart(2, '0');
-            return `${year}-${month}-${day}`;
         };
 
         const addQuestionRecord = (record) => {
@@ -1300,16 +1366,10 @@
             const assuntoSpan = document.getElementById('quiz-subject-name');
             const materiaInput = document.getElementById('start-quiz-materia');
             const assuntoInput = document.getElementById('start-quiz-assunto');
-            const numQuestoesInput = document.getElementById('start-quiz-num-questoes');
 
             assuntoSpan.textContent = `${materia} - ${assunto}`;
             materiaInput.value = materia;
             assuntoInput.value = assunto;
-            
-            // Define o número padrão de questões e o valor máximo
-            const questoesNaoRespondidas = (quizPerformance[assunto] || { nao_respondidas: 0 }).nao_respondidas;
-            const numQuestoes = Math.min(15, questoesNaoRespondidas || 15);
-            numQuestoesInput.value = numQuestoes;
             
             modal.classList.remove('hidden');
         };
@@ -1378,10 +1438,10 @@
                 const newRecord = {
                     materia: revision.materia,
                     assunto: revision.assunto,
-                    data: formatForInput(getSaoPauloDateTime()), // NOVO: Usa a data do fuso horário de São Paulo
+                    data: new Date().toISOString().slice(0, 10),
                     quantidadeFeita: quantidadeFeita,
                     quantidadeAcertada: quantidadeAcertada,
-                    timestamp: getSaoPauloDateTime().toISOString() // NOVO: Usa o timestamp do fuso horário de São Paulo
+                    timestamp: new Date().toISOString()
                 };
 
                 addQuestionRecord(newRecord);
@@ -1445,9 +1505,8 @@
 
             let nextRevisionDate = null;
             let revisionDays = 0;
-            
-            // NOVO: Usa a data do fuso horário de São Paulo como base
-            const now = getSaoPauloDateTime();
+
+            const now = new Date();
             const lastReviewDate = new Date(recordsForSubject.sort((a, b) => new Date(b.data) - new Date(a.data))[0].data);
 
             const interval = revisionIntervals.find(i => cumulativeAccuracy >= i.minAccuracy && cumulativeAccuracy <= i.maxAccuracy);
@@ -1469,8 +1528,8 @@
                 id: materia + '-' + assunto,
                 materia: materia,
                 assunto: assunto,
-                lastReviewDate: formatForInput(lastReviewDate), // NOVO: Usa a data formatada
-                nextReviewDate: formatForInput(nextRevisionDate), // NOVO: Usa a data formatada
+                lastReviewDate: lastReviewDate.toISOString().slice(0, 10),
+                nextReviewDate: nextRevisionDate.toISOString().slice(0, 10),
                 cumulativeAccuracy: cumulativeAccuracy,
                 daysInterval: revisionDays
             };
@@ -1511,12 +1570,11 @@
                 summaryUpcoming.textContent = 0;
                 return;
             }
-            
-            // NOVO: Agora a iteração do loop para criar as revisões está dentro de uma função
+
             sortedRevisions.forEach(revision => {
                 const row = tableBody.insertRow();
                 const nextReviewDate = new Date(revision.nextReviewDate);
-                const today = getSaoPauloDateTime();
+                const today = new Date();
                 today.setHours(0, 0, 0, 0);
 
                 const timeDiff = nextReviewDate.getTime() - today.getTime();
@@ -1570,6 +1628,7 @@
 
                 const actionsCell = row.insertCell();
                 actionsCell.className = 'text-center';
+                // MODIFICADO: Botão "Concluir" agora é "Praticar" e chama a nova função `abrirModalDePratica`
                 const practiceButton = document.createElement('button');
                 practiceButton.textContent = 'Praticar';
                 practiceButton.onclick = () => abrirModalDePratica(revision.materia, revision.assunto);
@@ -1708,9 +1767,6 @@
                 acertada: data.acertada,
                 erros: data.feita - data.acertada
             }));
-
-            const materiasToImprove = materiaAccuracy.filter(m => m.accuracy < currentAccuracyThreshold).sort((a, b) => a.accuracy - b.accuracy);
-            const assuntosToImprove = assuntoAccuracy.filter(a => a.accuracy < currentAccuracyThreshold).sort((a, b) => a.accuracy - b.accuracy);
 
             if (displaySettings.showOverallSummary) {
                 performanceSummary.innerHTML += `
@@ -2163,6 +2219,9 @@
                         <ul class="list-disc list-inside space-y-1">${alternativesHtml}</ul>
                         <h4 class="font-bold mt-4">Gabarito:</h4>
                         <p class="correct-answer-text">Alternativa correta: ${question.resposta_correta}</p>
+                        <div class="text-right mt-4">
+                            <button onclick="openReportModal(${question.id})" class="report-button">Reportar Erro</button>
+                        </div>
                     `;
                 } else {
                     content.innerHTML = '<p class="text-red-600">Questão não encontrada. O arquivo JSON pode estar faltando ou o ID está incorreto.</p>';
@@ -2214,7 +2273,7 @@
             // 2. Se não encontrar a questão, tenta encontrar o bloco por ID ou por questão relacionada no histórico
             const recordsFound = currentRecords.filter(record =>
                 record.id.toLowerCase().includes(normalizedQuery) ||
-                (record.quizQuestionIds && record.quizQuestionIds.includes(normalizedQuery))
+                (record.quizPerformanceData && Object.keys(record.quizPerformanceData).some(questionId => questionId.toLowerCase().includes(normalizedQuery)))
             );
 
             if (recordsFound.length > 0) {
@@ -2361,7 +2420,7 @@
             const jsonContent = JSON.stringify(allData, null, 2);
             const blob = new Blob([jsonContent], { type: 'application/json;charset=utf-8;' });
             const link = document.createElement('a');
-            const filename = `backup_dados_questoes_${formatForInput(getSaoPauloDateTime())}.json`;
+            const filename = `backup_dados_questoes_${new Date().toISOString().slice(0, 10)}.json`;
 
             if (link.download !== undefined) {
                 const url = URL.createObjectURL(blob);
@@ -2433,15 +2492,15 @@
                 let isDefaultClass = isModified ? '' : 'invisible';
 
                 const intervalHtml = `
-                            <div class="flex items-center space-x-2 my-2">
-                                <span class="w-1/4 text-right text-sm text-gray-600">${interval.minAccuracy}% - ${interval.maxAccuracy}%:</span>
-                                <input type="number" id="min-days-${index}" value="${interval.minDays}" class="form-input w-1/4 px-2 py-1 border rounded-md text-sm">
-                                <span class="text-sm text-gray-600">-</span>
-                                <input type="number" id="max-days-${index}" value="${interval.maxDays}" class="form-input w-1/4 px-2 py-1 border rounded-md text-sm">
-                                <span class="text-sm text-gray-600">dias</span>
-                                <button onclick="resetRevisionInterval(${index})" class="bg-gray-200 hover:bg-gray-300 text-gray-800 font-bold py-1 px-2 rounded-md text-sm ${isDefaultClass}">Reset</button>
-                            </div>
-                        `;
+                                <div class="flex items-center space-x-2 my-2">
+                                    <span class="w-1/4 text-right text-sm text-gray-600">${interval.minAccuracy}% - ${interval.maxAccuracy}%:</span>
+                                    <input type="number" id="min-days-${index}" value="${interval.minDays}" class="form-input w-1/4 px-2 py-1 border rounded-md text-sm">
+                                    <span class="text-sm text-gray-600">-</span>
+                                    <input type="number" id="max-days-${index}" value="${interval.maxDays}" class="form-input w-1/4 px-2 py-1 border rounded-md text-sm">
+                                    <span class="text-sm text-gray-600">dias</span>
+                                    <button onclick="resetRevisionInterval(${index})" class="bg-gray-200 hover:bg-gray-300 text-gray-800 font-bold py-1 px-2 rounded-md text-sm ${isDefaultClass}">Reset</button>
+                                </div>
+                            `;
                 intervalsContainer.innerHTML += intervalHtml;
             });
 
@@ -2564,8 +2623,8 @@
             editMateria.value = record.materia;
             editAssunto.value = record.assunto;
             editData.value = record.data;
-            editQuantidadeFeita.value = record.quantidadeFeita;
-            editQuantidadeAcertada.value = record.quantidadeAcertada;
+            editQuantidadeFeita.value = parseInt(record.quantidadeFeita);
+            editQuantidadeAcertada.value = parseInt(record.quantidadeAcertada);
             editModal.classList.remove('hidden');
         };
 
@@ -2724,6 +2783,37 @@
                 modal.classList.add('hidden');
             }
         };
+        
+        // NOVO: Funções para a modal de reporte
+        window.openReportModal = (questionId) => {
+            const modal = document.getElementById('report-modal');
+            const questionIdInput = document.getElementById('report-question-id');
+            const commentContainer = document.getElementById('comment-container');
+            const otherOption = document.querySelector('input[name="report-option"][value="Outros"]');
+            
+            questionIdInput.value = questionId;
+            modal.classList.remove('hidden');
+            
+            // Lógica para mostrar/esconder o campo de comentário
+            const radioButtons = document.querySelectorAll('input[name="report-option"]');
+            radioButtons.forEach(radio => {
+                radio.addEventListener('change', () => {
+                    if (radio.value === 'Outros') {
+                        commentContainer.classList.remove('hidden');
+                    } else {
+                        commentContainer.classList.add('hidden');
+                    }
+                });
+            });
+        };
+
+        window.closeReportModal = () => {
+            const modal = document.getElementById('report-modal');
+            if (modal) {
+                modal.classList.add('hidden');
+            }
+        };
+
 
         // =========================================================================
         // --- LÓGICA DO CODE 2 (Praticar Questões) ---
@@ -2747,358 +2837,7 @@
                 "Insuficiência Cardíaca",
                 "Síndromes aórticas agudas",
                 "Valvopatias"
-            ],
-            "Ciclo Básico - Graduação em Medicina": [
-                "Anatomia",
-                "Basic Life Support-Atendimento Pré-Hospitalar",
-                "Bioestatística",
-                "Biofísica",
-                "Biologia Celular",
-                "Biologia Molecular",
-                "Bioquímica",
-                "Embriologia",
-                "Epidemiologia",
-                "Farmacologia",
-                "Fisiologia",
-                "Genética Médica",
-                "Habilidades de Enfermagem-Biossegurança",
-                "Histologia",
-                "Imunologia",
-                "Metodologia Científica",
-                "Microbiologia",
-                "Parasitologia",
-                "Patologia Geral",
-                "Psicologia Médica-Bioética",
-                "Saúde Coletiva-Atenção Primária à Saúde",
-                "Semiologia-Propedêutica Médica",
-                "Sistema Cardiovascular",
-                "Sistema Digestório",
-                "Sistema Endócrino",
-                "Sistema Imune e Hematológico",
-                "Sistema Locomotor",
-                "Sistema Nervoso",
-                "Sistema Reprodutor Feminino",
-                "Sistema Reprodutor Masculino",
-                "Sistema Respiratório",
-                "Sistema Urinário"
-            ],
-            "Cirurgia": [
-                "Avaliação Pré Operatória",
-                "Cicatrização de Feridas",
-                "Cirurgia Bariátrica e Metabólica",
-                "Cirurgia de Cabeça e Pescoço",
-                "Cirurgia Infantil",
-                "Cirurgia Plástica",
-                "Cirurgia Torácica",
-                "Cirurgia Vascular",
-                "Complicações Pós-Operatórias",
-                "Hérnias da Parede Abdominal",
-                "Megacolon Adquirido",
-                "Nutrição em Cirurgia e Recuperação Pós-Operatória",
-                "Ostomias Intestinais",
-                "Princípios da Anestesiologia",
-                "Proctologia",
-                "Queimaduras e Trauma Elétrico",
-                "Resposta Endócrino-Metabólica-Inflamatória ao Trauma(REMIT)",
-                "Temas Gerais em Cirurgia",
-                "Trauma",
-                "Urgências Abdominais",
-                "Urologia",
-                "Vesícula e Vias Biliares"
-            ],
-            "Dermatologia": [
-                "Anatomia e Fisiologia da pele",
-                "Câncer de pele",
-                "Dermatoses eczematosas",
-                "Dermatoses infecciosas",
-                "Dermatoses papuloescamosas",
-                "Dermatoses vesicobolhosas",
-                "Farmacodermias",
-                "Hanseníase",
-                "Lesões elementares",
-                "Miscelânea",
-                "Re e Prova de Título"
-            ],
-            "Direito": [
-                "Direito Administrativo",
-                "Direito Constitucional",
-                "Direito do Trabalho",
-                "Direito Penal",
-                "Direito Previdenciário",
-                "Direitos Humanos"
-            ],
-            "Endocrinologia": [
-                "Adrenal",
-                "Diabetes",
-                "Disfunção sexual masculina",
-                "Gênero",
-                "Hipófise",
-                "Hipoglicemia em indivíduos não diabéticos",
-                "Metabolismo Ósseo e Mineral",
-                "Neoplasias endócrinas múltiplas",
-                "Obesidade e síndrome metabólica",
-                "Tireoide",
-                "Tireotoxicose"
-            ],
-            "Epidemiologia": [
-                "Epidemiologia"
-            ],
-            "Ética Médica": [
-                "Ética Médica"
-            ],
-            "Formação Geral - ENADE": [
-                "Formação Geral - ENADE"
-            ],
-            "Gastroenterologia": [
-                "Esôfago",
-                "Estômago",
-                "Hemorragia Digestiva (HD)",
-                "Intestinos",
-                "Neoplasias do Sistema Digestivo",
-                "Pâncreas",
-                "Procedimentos endoscópicos"
-            ],
-            "Ginecologia": [
-                "Abdomene agudo em ginecologia",
-                "Adenomiose",
-                "Amenorreias",
-                "Anatomia do trato genital feminino",
-                "Atendimento à vítima de violência sexual",
-                "Câncer de colo do útero",
-                "Câncer de mama",
-                "Cervicites",
-                "Ciclo menstrual",
-                "Climatério",
-                "Dismenorreia",
-                "Doença Inflamatória Pélvica",
-                "Doença de vulva e vagina",
-                "Dor pélvica crônica",
-                "Embriologia do trato genital feminino",
-                "Endometriose",
-                "Fístulas genito-urinárias",
-                "Hiperplasia Endometrial - Câncer de endométrio e outros tumores do corpo do útero",
-                "Incontinência urinária",
-                "Infertilidade conjugal",
-                "Introdução e doenças benignas da mama",
-                "Miomatose uterina",
-                "Planejamento familiar",
-                "Pólipos uterinos",
-                "Prolapsos de órgãos pélvicos",
-                "Rastreamento de Câncer de colo do útero",
-                "Rastreamento do câncer de mama",
-                "Sangramento uterino anormal",
-                "Sexualidade",
-                "Síndrome da bexiga dolorosa",
-                "Síndrome dos ovários policísticos",
-                "Síndrome pré-menstrual",
-                "Tumores anexiais e câncer de ovário",
-                "Úlceras genitais",
-                "Vulvovaginites"
-            ],
-            "Hematologia": [
-                "Anemias e condições não hematológicas",
-                "Anemias hemolíticas",
-                "Anemias macrocíticas",
-                "Anemias microcíticas",
-                "Fundamentos de oncohematologia",
-                "Gamopatias monoclonais",
-                "Hemoglobinopatias",
-                "Hemostasia",
-                "Introdução ao Estudo das Anemias",
-                "Leucemias",
-                "Linfomas",
-                "Linfomas de células TNK",
-                "Medicina transfusional",
-                "Mielodisplasias e mieloproliferações outras alterações da medula óssea",
-                "Porfirias",
-                "Produção das células sanguíneas (hematopoiese) e sua relação com os órgãos hematopoiéticos"
-            ],
-            "Hepatologia": [
-                "Cirrose",
-                "Complicações da Insuficiência Hepática",
-                "Hepatite Fulminante (Insuficiência Hepática Aguda)",
-                "Hepatites Virais",
-                "Icterícia não Obstrutiva",
-                "Introdução à Hepatologia",
-                "Outras Hepatopatias",
-                "Transplante Hepático e Hepatectomia",
-                "Tumores Hepáticos"
-            ],
-            "Infectologia": [
-                "Animais peçonhentos",
-                "Arboviroses",
-                "COVID 19",
-                "DST",
-                "Hepatoesplenomegalias crônicas",
-                "Herpes simples e Herpes zoster",
-                "HIV-Aids",
-                "Imunossuprimidos não-HIV",
-                "Infecções bacterianas",
-                "Infecções do Sistema Nervoso Central",
-                "Infecções fúngicas",
-                "Infecções relacionadas à assistência à saúde (IRAS)",
-                "Infecções sexualmente transmissíveis",
-                "Influenza",
-                "Microbiologia e Antimicrobianos",
-                "Outras doenças infecciosas",
-                "Parasitoses",
-                "Pneumonia",
-                "Sepse",
-                "Síndromes febris",
-                "Tuberculose (TB)",
-                "Vacinas"
-            ],
-            "Informática": [
-                "Informática"
-            ],
-            "Inglês": [
-                "Inglês"
-            ],
-            "Língua Portuguesa (Português)": [
-                "Língua Portuguesa (Português)"
-            ],
-            "Matemática": [
-                "Matemática"
-            ],
-            "MedATB": [
-                "MedATB"
-            ],
-            "Medicina de Família e Comunidade": [
-                "Medicina de Família e Comunidade"
-            ],
-            "Nefrologia": [
-                "Controle da água corporal total",
-                "Distúrbios do equilíbrio acidobásico (DHE)",
-                "Distúrbios do potássio",
-                "Doença Renal Crônica",
-                "Glomerulopatias",
-                "Hipernatremia",
-                "Hiponatremia",
-                "Infecção do trato urinário (ITU)",
-                "Lesão renal aguda (LRA)",
-                "Nefrolitíase",
-                "Túbulo-interstício"
-            ],
-            "Neurologia": [
-                "Acidentes Vasculares Cerebrais (AVC)",
-                "Anatomia, Fisiologia e Semiologia Neurológica",
-                "Cefaleias",
-                "Coma e Alterações da Consciência",
-                "Demências",
-                "Distúrbios do Movimento",
-                "Distúrbios do Sono",
-                "Doenças Imunológicas do Sistema Nervoso Central",
-                "Doenças Neuromusculares",
-                "Epilepsias",
-                "Mielopatias",
-                "Neurologia Vestibular",
-                "Traumatismo Craniencefálico",
-                "Tumores do Sistema Nervoso Central"
-            ],
-            "Obstetrícia": [
-                "Abortamento habitual (Abortamento de repetição) e insuficiência istmocervical",
-                "Alteração do volume de líquido amniótico (ILA)",
-                "Anemias na gestação",
-                "Assistência ao parto normal",
-                "Assistência ao parto pélvico",
-                "Assistência pré-natal",
-                "Avaliação da vitalidade fetal",
-                "Bacia obstétrica e pelvimetria",
-                "Cardiopatias na gestação",
-                "Colagenoses na gestação-Lupus eritematoso Sistêmico (LES)",
-                "Covid na gestação",
-                "Desenvolvimento e fisiologia fetal",
-                "Diagnóstico e datação da gestação",
-                "Distocia - funcional, de objeto, de trajeto",
-                "Doença hemolítica perinatal (DHPN)",
-                "Estática fetal",
-                "Fases clínicas do parto",
-                "Gestação múltipla (gestação gemelar)",
-                "Hemorragias pós parto (HPP) e rotura uterina",
-                "Imunologia na gestação",
-                "Indução de parto",
-                "Infecção puerperal - endometrite puerperal",
-                "Infecções congênitas",
-                "Mecanismo de parto",
-                "Modificações fisiológicas da gestação",
-                "Morte fetal - Óbito fetal (OF)",
-                "Parto cesáreo",
-                "Partograma",
-                "Parto vaginal operatório",
-                "Pós-datismo",
-                "Procedimentos invasivos em medicina fetal",
-                "Puerpério fisiológico",
-                "Restrição de crescimento fetal (RCF)",
-                "Rotura prematura de membranas ovulares (RPM)",
-                "Sangramento primeira metade",
-                "Sangramento segunda metade da gestação",
-                "Trabalho de parto prematuro (TPP)",
-                "Ultrassom em obstetrícia - (USG)"
-            ],
-            "Oftalmologia": [
-                "Oftalmologia"
-            ],
-            "Ortopedia": [
-                "Ortopedia"
-            ],
-            "Otorrinolaringologia": [
-                "Otorrinolaringologia"
-            ],
-            "Outros": [
-                "Atualidades"
-            ],
-            "Pediatria": [
-                "Cardiologia Pediátrica",
-                "Emergências Pediátricas",
-                "Endocrinologia Pediátrica",
-                "Gastrologia Pediátrica",
-                "Hematologia Pediátrica",
-                "Infectologia Pediátrica",
-                "Maus tratos à crianças e adolescentes",
-                "Nefrologia Pediátrica",
-                "Neonatologia Pediátrica",
-                "Neuropediatria",
-                "Pneumologia Pediátrica",
-                "Puericultura",
-                "Reumatologia Pediátrica"
-            ],
-            "Pneumologia": [
-                "Asma",
-                "Câncer de Pulmão",
-                "Derrame Pleural",
-                "Doença Pulmonar Obstrutiva Crônica (DPOC)",
-                "Introdução à Pneumologia",
-                "Pneumologia Intensiva",
-                "Pneumopatias Intersticiais, Hipertensão Pulmonar, Bronquiectasias e Pneumotórax Espontâneo",
-                "Tromboembolismo Pulmonar (TEP)"
-            ],
-            "Psiquiatria": [
-                "Psiquiatria"
-            ],
-            "Raciocínio Lógico": [
-                "Raciocínio Lógico"
-            ],
-            "Reumatologia": [
-                "Amiloidose",
-                "Artropatias infecciosas",
-                "Artropatias inflamatórias",
-                "Diagnóstico diferencial das artropatias",
-                "Doença relacionada à IgG4",
-                "Doenças autoimunes do tecido conjuntivo",
-                "Doenças da cartilagem e do osso",
-                "Doenças da infância",
-                "Doenças sistêmicas com manifestações reumatológicas",
-                "Introdução à Reumatologia",
-                "Sarcoidose",
-                "Síndrome SAPHO",
-                "Síndromes Dolorosas Crônicas",
-                "Vasculites"
-            ],
-            "Saúde do Trabalhador": [
-                "Saúde do Trabalhador"
-            ],
-            "Sistema Único de Saúde (SUS)": [
-                "Sistema Único de Saúde (SUS)"
+            
             ]
         };
 
@@ -3134,6 +2873,10 @@
         const startQuizAssuntoInput = document.getElementById('start-quiz-assunto');
         const closeStartQuizModalBtn = document.getElementById('close-start-quiz-modal');
 
+        // NOVO: Elementos de reporte
+        const reportBtn = document.getElementById('reportar-btn');
+        const reportForm = document.getElementById('report-form');
+        const reportQuestionIdInput = document.getElementById('report-question-id');
 
         async function atualizarAssuntosDoQuiz(materiaSelecionada) {
             quizAssuntoSelect.innerHTML = '<option value="todos">Todos</option>';
@@ -3259,6 +3002,7 @@
                 } else if (statusFiltroValor === 'erradas') {
                     return performance.erros > 0;
                 }
+
                 return true;
             });
 
@@ -3459,10 +3203,10 @@
             const newRecord = {
                 materia: materiaReferencia,
                 assunto: assuntoReferencia,
-                data: formatForInput(getSaoPauloDateTime()),
+                data: new Date().toISOString().slice(0, 10),
                 quantidadeFeita: questoesSelecionadasGlobais.length,
                 quantidadeAcertada: placar.corretas,
-                timestamp: getSaoPauloDateTime().toISOString(),
+                timestamp: new Date().toISOString(),
                 quizQuestionIds: quizQuestionIds,
                 quizPerformanceData: quizPerformanceData
             };
@@ -3607,6 +3351,40 @@
             populateDatalists(currentRecords);
             updatePerformanceDisplay(currentRecords, currentFilterMateria, currentFilterAssunto, currentStartDate, currentEndDate);
         });
+
+        // NOVO: Adiciona o evento de clique no botão de reporte
+        if (reportBtn) {
+            reportBtn.addEventListener('click', () => {
+                const questaoAtual = questoesSelecionadasGlobais[indiceQuestaoAtual];
+                if (questaoAtual) {
+                    openReportModal(questaoAtual.id);
+                } else {
+                    showMessage('Nenhuma questão para reportar.', 'warning');
+                }
+            });
+        }
+
+        if (reportForm) {
+            reportForm.addEventListener('submit', (e) => {
+                e.preventDefault();
+                const questionId = document.getElementById('report-question-id').value;
+                const selectedOption = document.querySelector('input[name="report-option"]:checked').value;
+                const comment = document.getElementById('report-comment').value;
+
+                const reportData = {
+                    id: questionId,
+                    opcao: selectedOption
+                };
+
+                if (selectedOption === 'Outros' && comment) {
+                    reportData.comentario = comment;
+                }
+
+                saveReport(reportData);
+                closeReportModal();
+            });
+        }
+
 
         // =========================================================================
         // --- INICIALIZAÇÃO DE EVENTOS E UI (COMBINADA) ---
@@ -3892,6 +3670,7 @@
                 revisoesSection.classList.add('hidden');
             }
         });
+
     </script>
 </body>
 </html>

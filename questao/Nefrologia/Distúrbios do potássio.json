@@ -186,11 +186,19 @@
     "alternativas": [
       {
         "letra": "A",
-        "texto": "B"
+        "texto": " "
+      },
+      {
+        "letra": "B",
+        "texto": " "
       },
       {
         "letra": "C",
-        "texto": "D"
+        "texto": " "
+      },
+      {
+        "letra": "D",
+        "texto": " "
       }
     ],
     "resposta_correta": "B"
