@@ -1,0 +1,5 @@
+git add .
+git commit -m "minhas alterações"
+git pull --rebase origin main   # pega as alterações remotas
+git push origin main            # envia as suas alterações
+
